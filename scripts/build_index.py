@@ -38,8 +38,9 @@ def main() -> None:
     for item in repos:
         s = stats.get(item["repository"])
         if s:
-            item["stars"] = s["stars"]
-            item["pushed_at"] = s["pushed_at"]
+            for key in ("stars", "forks", "open_issues", "watchers", "pushed_at", "created_at", "release"):
+                if s.get(key) is not None:
+                    item[key] = s[key]
             if s["archived"]:
                 item["archived"] = True
 

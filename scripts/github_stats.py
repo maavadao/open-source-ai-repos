@@ -42,11 +42,13 @@ def _query(tok: str, body: str) -> dict:
     return {}
 
 
-LIGHT = "stargazerCount isArchived pushedAt"
+LIGHT = """stargazerCount forkCount isArchived pushedAt createdAt
+  issues(states: OPEN) { totalCount } watchers { totalCount }
+  latestRelease { tagName publishedAt }"""
 
 
 def fetch_stats(urls: list[str], tok: str | None = None, batch: int = 100) -> dict[str, dict]:
-    """Map each GitHub URL to its stars, last push and archived flag. Cheap enough for daily builds."""
+    """Map each GitHub URL to its live numbers (stars, forks, issues, release…). Cheap enough for daily builds."""
     tok = tok or token()
     if not tok:
         raise SystemExit("Set GITHUB_TOKEN to fetch repository stats")
@@ -61,7 +63,17 @@ def fetch_stats(urls: list[str], tok: str | None = None, batch: int = 100) -> di
         data = _query(tok, "query {" + "\n".join(parts) + "}").get("data") or {}
         for n, (url, _) in enumerate(chunk):
             if repo := data.get(f"r{n}"):
-                out[url] = {"stars": repo["stargazerCount"], "archived": repo["isArchived"], "pushed_at": repo["pushedAt"]}
+                release = repo["latestRelease"] or {}
+                out[url] = {
+                    "stars": repo["stargazerCount"],
+                    "forks": repo["forkCount"],
+                    "open_issues": repo["issues"]["totalCount"],
+                    "watchers": repo["watchers"]["totalCount"],
+                    "archived": repo["isArchived"],
+                    "pushed_at": repo["pushedAt"],
+                    "created_at": repo["createdAt"],
+                    "release": [release["tagName"], release["publishedAt"]] if release.get("tagName") else None,
+                }
     return out
 
 

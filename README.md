@@ -30,14 +30,15 @@ Files live in `repos/<first character>/<slug>.toml` (`repos/0-9/` for names that
 digit), so no folder gets too big to browse on GitHub. Each file names one category from
 [`categories.toml`](categories.toml).
 
-Every day, and on every merge, GitHub Actions publishes two files on GitHub Pages:
+Every day, and on every merge, GitHub Actions publishes these files on GitHub Pages:
 
 | File | What |
 | --- | --- |
-| [`index.json`](https://maavadao.github.io/open-source-ai-repos/index.json) | Every repo, with live stars, last activity and archived status from GitHub |
+| [`index.json`](https://maavadao.github.io/open-source-ai-repos/index.json) | Every repo, with live stars, forks, open issues, watchers, latest release, last activity and archived status from GitHub |
 | [`contributors.json`](https://maavadao.github.io/open-source-ai-repos/contributors.json) | The top contributors of the 500 most-starred repos: GitHub login, user id and commits per repo, nothing else |
+| `history/<first character>.json` | Star history: every repo's star count, recorded daily since 20 October 2026 (GitHub no longer lists when each star was given, so there's no earlier history) |
 
-Both are free to use in your own projects.
+All are free to use in your own projects.
 
 ## Add a repo
 
@@ -66,6 +67,7 @@ Open the [remove me](../../issues/new?template=remove-me.yml) issue, or add your
 | [`scripts/add_repo.py`](scripts/add_repo.py) | Starts a repo file from a GitHub URL |
 | [`scripts/build_index.py`](scripts/build_index.py) | Builds `dist/index.json` |
 | [`scripts/build_contributors.py`](scripts/build_contributors.py) | Builds `dist/contributors.json` |
+| [`scripts/build_history.py`](scripts/build_history.py) | Adds today's stars to `dist/history/` |
 
 ## Run it locally
 

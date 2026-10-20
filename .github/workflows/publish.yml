@@ -43,6 +43,10 @@ jobs:
           else
             python scripts/build_contributors.py --reuse https://maavadao.github.io/open-source-ai-repos/contributors.json
           fi
+      - name: Build star history
+        # Adds today's stars to every repo's history, keeping what's already published.
+        continue-on-error: true
+        run: python scripts/build_history.py --previous https://maavadao.github.io/open-source-ai-repos
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
