@@ -1,0 +1,8 @@
+name = "lgo"
+description = "Interactive Go programming with Jupyter"
+category = "data-science"
+tags = ["go", "golang", "jupyter-notebook-kernel", "jupyter-notebook", "repl", "data-science", "machine-learning"]
+repository = "https://github.com/yunabe/lgo"
+license = "BSD-3-Clause"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "human-review"
+description = "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness."
+category = "coding"
+tags = ["ai-agents", "claude-code", "cli", "codex", "feedback", "html", "human-in-the-loop", "markdown"]
+repository = "https://github.com/petergyang/human-review"
+website = "https://creatoreconomy.so/p/use-my-human-review-skill-to-edit-html-markdown-visually"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

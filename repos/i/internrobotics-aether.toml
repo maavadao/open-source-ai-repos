@@ -1,0 +1,9 @@
+name = "Aether"
+description = "[ICCV 2025 & ICCV 2025 RIWM Outstanding Paper] Aether: Geometric-Aware Unified World Modeling"
+category = "video"
+tags = ["4d-generation", "4d-reconstruction", "embodied-ai", "foundation-models", "multi-modal", "navigation", "spatial-intelligence", "video-generation"]
+repository = "https://github.com/InternRobotics/Aether"
+website = "https://aether-world.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

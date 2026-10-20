@@ -1,0 +1,9 @@
+name = "R2E-Gym"
+description = "[COLM 2025] Official repository for R2E-Gym: Procedural Environment Generation and Hybrid Verifiers for Scaling Open-Weights SWE Agents"
+category = "agents"
+tags = ["agents", "coding-agents", "llm", "llm-code", "swe"]
+repository = "https://github.com/R2E-Gym/R2E-Gym"
+website = "https://r2e-gym.github.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

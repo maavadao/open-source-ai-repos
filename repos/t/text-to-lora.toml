@@ -1,0 +1,9 @@
+name = "text-to-lora"
+description = "Hypernetworks that adapt LLMs for specific benchmark tasks using only textual task description as the input"
+category = "image"
+tags = ["fine-tuning", "hypernetworks", "llm", "lora", "machine-learning"]
+repository = "https://github.com/SakanaAI/text-to-lora"
+website = "https://arxiv.org/abs/2506.06105"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

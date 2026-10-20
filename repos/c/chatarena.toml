@@ -1,0 +1,8 @@
+name = "ChatArena"
+description = "ChatArena (or Chat Arena) is a Multi-Agent Language Game Environments for LLMs. The goal is to develop communication and collaboration capabilities of AIs."
+category = "chat"
+tags = ["large-language-models", "multi-agent", "natural-language-processing", "multi-agent-reinforcement-learning", "multi-agent-simulation", "ai", "python", "artificial-intelligence"]
+repository = "https://github.com/Farama-Foundation/ChatArena"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

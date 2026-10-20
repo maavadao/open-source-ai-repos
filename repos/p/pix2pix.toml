@@ -1,0 +1,9 @@
+name = "pix2pix"
+description = "Image-to-image translation with conditional adversarial nets"
+category = "image"
+tags = ["computer-vision", "computer-graphics", "gan", "pix2pix", "dcgan", "generative-adversarial-network", "deep-learning", "image-generation"]
+repository = "https://github.com/phillipi/pix2pix"
+website = "https://phillipi.github.io/pix2pix/"
+license = "NOASSERTION"
+language = "Lua"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "OpenAI-API-dotnet"
+description = "An unofficial C#/.NET SDK for accessing the OpenAI GPT-3 API"
+category = "chat"
+tags = ["openai", "gpt-3", "gpt3", "ml", "machine-learning", "sdk", "csharp", "dotnet"]
+repository = "https://github.com/OkGoDoIt/OpenAI-API-dotnet"
+website = "https://www.nuget.org/packages/OpenAI/"
+license = "NOASSERTION"
+language = "C#"
+added = 2026-10-20

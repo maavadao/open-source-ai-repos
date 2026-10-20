@@ -1,0 +1,9 @@
+name = "ArcRift"
+description = "Persistent local memory layer for AI. ArcRift uses a extension and a native MCP server to sync context and decisions from your browser chats (Claude, ChatGPT, DeepSeek) straight to your local IDE agents (Cursor, Claude Code, Windsurf) powered by a local SQLite knowledge graph."
+category = "mcp-servers"
+tags = ["mcp", "sqlite", "ai", "ai-agents", "ai-coding", "browser-extension", "chatgpt", "claude"]
+repository = "https://github.com/Eshaan-Nair/ArcRift"
+website = "https://arcrift.vercel.app/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

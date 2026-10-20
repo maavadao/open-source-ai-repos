@@ -1,0 +1,9 @@
+name = "airbyte"
+description = "Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud."
+category = "data-science"
+tags = ["data", "pipeline", "data-analysis", "data-engineering", "java", "python", "etl", "change-data-capture"]
+repository = "https://github.com/airbytehq/airbyte"
+website = "https://airbyte.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

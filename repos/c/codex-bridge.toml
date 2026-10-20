@@ -1,0 +1,8 @@
+name = "codex-bridge"
+description = "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key."
+category = "coding"
+tags = ["ai-agents", "claude-code", "claude-code-plugin", "codex", "gpt-5", "gpt-image-2", "image-generation", "openai"]
+repository = "https://github.com/Sateezg/codex-bridge"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "xlang-paper-reading"
+description = "Paper collection on building and evaluating language model agents via executable language grounding"
+category = "learning"
+tags = ["large-language-models", "neural-symbolic", "tool-use", "code-generation", "complex-reasoning", "language-agent", "llm-robotics", "web-grounding"]
+repository = "https://github.com/xlang-ai/xlang-paper-reading"
+website = "https://www.xlang.ai/project"
+license = "NOASSERTION"
+added = 2026-10-20

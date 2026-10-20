@@ -1,0 +1,8 @@
+name = "auto-maple"
+description = "Artificial intelligence for MapleStory that uses machine learning and computer vision to navigate challenging in-game environments"
+category = "vision"
+tags = ["ai", "maplestory", "computer-vision", "machine-learning"]
+repository = "https://github.com/tanjeffreyz/auto-maple"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

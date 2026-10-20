@@ -1,0 +1,8 @@
+name = "BeautifulAlgorithms.jl"
+description = "Concise and beautiful algorithms written in Julia"
+category = "ml-platforms"
+tags = ["algorithms", "machine-learning", "optimization", "sorting", "quine", "julia", "reinforcement-learning", "decision-making-under-uncertainty"]
+repository = "https://github.com/mossr/BeautifulAlgorithms.jl"
+license = "NOASSERTION"
+language = "Julia"
+added = 2026-10-20

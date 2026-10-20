@@ -1,0 +1,7 @@
+name = "claude-code-source-code"
+description = "Claude code source code"
+category = "coding"
+tags = ["ai", "ai-agent", "ai-agents", "anthropic", "anthropic-ai", "anthropic-claude", "claude", "claude-ai"]
+repository = "https://github.com/777genius/claude-code-source-code"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "MarkLLM"
+description = "[EMNLP 2024 Demo] MarkLLM: An Open-Source Toolkit for LLM Watermarking"
+category = "models"
+tags = ["llm", "toolkit", "watermark", "large-language-models", "safety", "trustworthy-ai"]
+repository = "https://github.com/THU-BPM/MarkLLM"
+website = "https://aclanthology.org/2024.emnlp-demo.7/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "bili-note"
+description = "Extract Bilibili videos into learning-oriented Markdown notes with full subtitle and comment archives"
+category = "llm-apps"
+tags = ["bilibili", "codex-skill", "markdown", "notes", "rag"]
+repository = "https://github.com/Rimagination/bili-note"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

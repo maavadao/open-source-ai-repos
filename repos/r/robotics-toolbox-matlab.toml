@@ -1,0 +1,8 @@
+name = "robotics-toolbox-matlab"
+description = "Robotics Toolbox for MATLAB"
+category = "robotics"
+tags = ["matlab", "robotics", "kinematics", "dynamics", "slam", "motion-planning", "mobile-robots", "matlab-toolbox"]
+repository = "https://github.com/petercorke/robotics-toolbox-matlab"
+license = "LGPL-2.1"
+language = "MATLAB"
+added = 2026-10-20

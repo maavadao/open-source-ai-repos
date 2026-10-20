@@ -1,0 +1,8 @@
+name = "machine-learning-with-ruby"
+description = "Curated list: Resources for machine learning in Ruby"
+category = "learning"
+tags = ["awesome", "awesome-list", "list", "ruby", "ml", "machine-learning", "ruby-gem", "rubyml"]
+repository = "https://github.com/arbox/machine-learning-with-ruby"
+license = "CC0-1.0"
+language = "Ruby"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "awesome-chatgpt"
+description = "Everything about ChatGPT"
+category = "learning"
+tags = ["awesome", "awesome-list", "chatgpt", "chatgpt-api", "chatgpt-app", "openai", "resources", "openminclub"]
+repository = "https://github.com/OpenMindClub/awesome-chatgpt"
+website = "https://42share.com"
+license = "CC0-1.0"
+added = 2026-10-20

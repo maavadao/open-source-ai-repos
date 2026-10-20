@@ -1,0 +1,9 @@
+name = "OpenContracts"
+description = "The open document intelligence platform for builders and hackers - DMS for the agentic world"
+category = "vector-databases"
+tags = ["agent", "agentic-ai", "etl", "etl-pipeline", "llm", "unstructured-data", "vector-database", "prompt-engineering"]
+repository = "https://github.com/Open-Source-Legal/OpenContracts"
+website = "https://open-source-legal.github.io/OpenContracts/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Sidekick"
+description = "A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp."
+category = "search"
+tags = ["ai", "llama", "llm", "macos", "rag", "swift", "swiftui", "deepseek"]
+repository = "https://github.com/johnbean393/Sidekick"
+website = "https://johnbean393.github.io/Sidekick/"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

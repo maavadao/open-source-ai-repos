@@ -1,0 +1,9 @@
+name = "physicsnemo"
+description = "Open-source deep-learning framework for building, training, and fine-tuning deep learning models using state-of-the-art Physics-ML methods"
+category = "ml-platforms"
+tags = ["deep-learning", "machine-learning", "nvidia-gpu", "physics", "pytorch", "nvidia-warp"]
+repository = "https://github.com/NVIDIA/physicsnemo"
+website = "https://developer.nvidia.com/physicsnemo"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

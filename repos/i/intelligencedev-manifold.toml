@@ -1,0 +1,9 @@
+name = "manifold"
+description = "Manifold is an experimental platform for enabling long horizon workflow automation using teams of AI assistants."
+category = "chat"
+tags = ["artificial-intelligence", "go", "visual-coding", "vuejs", "llm", "retrieval-augmented-generation", "agents", "ai-agents"]
+repository = "https://github.com/intelligencedev/manifold"
+website = "https://intelligence.dev"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

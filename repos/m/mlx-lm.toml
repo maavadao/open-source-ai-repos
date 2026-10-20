@@ -1,0 +1,8 @@
+name = "mlx-lm"
+description = "Run LLMs with MLX"
+category = "local-llms"
+tags = ["llms", "mlx"]
+repository = "https://github.com/ml-explore/mlx-lm"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

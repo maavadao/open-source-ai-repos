@@ -1,0 +1,9 @@
+name = "ComfyUI-OmniVoice-TTS"
+description = "OmniVoice TTS nodes for ComfyUI - Zero-shot multilingual text-to-speech with voice cloning, voice design, and multi-speaker dialogue"
+category = "speech"
+tags = ["comfyui", "custom-nodes", "text-to-speech", "tts", "voice-clone", "voice-cloning"]
+repository = "https://github.com/Saganaki22/ComfyUI-OmniVoice-TTS"
+website = "https://zhu-han.github.io/omnivoice/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

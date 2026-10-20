@@ -1,0 +1,9 @@
+name = "PVDM"
+description = "[CVPR'23] Video Probabilistic Diffusion Models in Projected Latent Space"
+category = "video"
+tags = ["video-generation", "diffusion-models"]
+repository = "https://github.com/sihyun-yu/PVDM"
+website = "https://sihyun.me/PVDM"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

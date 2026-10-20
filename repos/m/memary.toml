@@ -1,0 +1,8 @@
+name = "Memary"
+description = "The Open Source Memory Layer For Autonomous Agents"
+category = "agents"
+tags = ["agents", "memory", "knowledge-graph", "rag", "multiagent-systems", "self-improvement"]
+repository = "https://github.com/kingjulio8238/Memary"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

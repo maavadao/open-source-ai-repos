@@ -1,0 +1,8 @@
+name = "dl-colab-notebooks"
+description = "Try out deep learning models online on Google Colab"
+category = "learning"
+tags = ["colab-notebook", "deep-learning", "deep-neural-networks", "cnn", "jupyter-notebook", "jupyter-notebooks", "pytorch", "tensorflow"]
+repository = "https://github.com/tugstugi/dl-colab-notebooks"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "markpdfdown"
+description = "A high-quality PDF to Markdown tool based on large language model visual recognition. 一款基于大模型视觉识别的高质量PDF转Markdown工具"
+category = "documents"
+tags = ["llm", "markdown", "pdf", "pdf-converter", "pdf-markdown", "pdf2markdown", "pdf2md"]
+repository = "https://github.com/MarkPDFdown/markpdfdown"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "AlbumentationsX"
+description = "Image augmentation for computer vision. AGPL-3.0-only or commercial licensing."
+category = "vision"
+tags = ["data-augmentation", "deep-learning", "deeplearning", "image-augmentation", "image-classification", "image-processing", "instance-segmentation", "object-detection"]
+repository = "https://github.com/albumentations-team/AlbumentationsX"
+website = "https://albumentations.ai/pricing"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

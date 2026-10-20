@@ -1,0 +1,9 @@
+name = "ViewComfy"
+description = "ViewComfy is a open source tool to help you create beautiful web apps from ComfyUI"
+category = "image"
+tags = ["comfy", "comfyui", "generative-ai", "stable-diffusion"]
+repository = "https://github.com/ViewComfy/ViewComfy"
+website = "https://www.viewcomfy.com"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

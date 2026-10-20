@@ -1,0 +1,9 @@
+name = "budibase"
+description = "AI agents, automations and apps that run your operations. Model agnostic."
+category = "no-code"
+tags = ["no-code-platform", "crud-app", "crud-application", "data-application", "data-apps", "internal-tools", "low-code-no-code", "low-code-platform"]
+repository = "https://github.com/Budibase/budibase"
+website = "https://budibase.com"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

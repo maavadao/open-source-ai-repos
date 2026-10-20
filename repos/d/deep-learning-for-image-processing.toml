@@ -1,0 +1,8 @@
+name = "deep-learning-for-image-processing"
+description = "deep learning for image processing including classification and object-detection etc."
+category = "vision"
+tags = ["pytorch", "tensorflow2", "classification", "object-detection", "bilibili", "deep-learning", "segmentation"]
+repository = "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

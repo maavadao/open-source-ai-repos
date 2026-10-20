@@ -1,0 +1,9 @@
+name = "comic-translate"
+description = "AI comic and manga translator app/browser extension for automatically translating comics, manga, manhwa, BDs, fumetti, and more in multiple languages and formats (Images, PDF, EPUB, CBR, CBZ etc)."
+category = "documents"
+tags = ["comics", "computer-vision", "deep-learning", "gui", "machine-translation", "manga", "manhwa", "neural-network"]
+repository = "https://github.com/ogkalu2/comic-translate"
+website = "https://comic-translate.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

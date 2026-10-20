@@ -1,0 +1,34 @@
+# Copy this file to repos/<first letter>/<slug>.toml, for example repos/a/aider.toml.
+# The slug is the file name: lowercase letters, digits and hyphens, usually the repository name.
+# Or run: python scripts/add_repo.py https://github.com/owner/repo  (fills most of this in for you)
+#
+# Every line is `field = value`. Text goes in "double quotes", lists in [square brackets].
+# Lines starting with # are comments. Delete the optional lines you don't need.
+
+name = "My Project"
+
+# One or two plain sentences: what it does and who it helps.
+# Use the project's own description or your own words. Never copy text from another directory.
+description = "Helps primary pupils practise reading aloud, with gentle feedback on each word."
+
+# One id from categories.toml, for example: agents, coding, local-llms, speech, learning, education
+category = "education"
+
+repository = "https://github.com/you/my-project"
+
+# Today's date, written as YYYY-MM-DD with no quotes.
+added = 2026-10-20
+
+# --- Optional ---
+
+# Up to 8 short lowercase tags.
+tags = ["reading", "tutoring"]
+website = "https://my-project.example"
+docs = "https://my-project.example/docs"
+# SPDX licence id: "MIT", "Apache-2.0", "GPL-3.0" …
+license = "MIT"
+language = "Python"
+# "beginner", "intermediate" or "advanced"
+skill_level = "beginner"
+# true if people can run it on their own machine or server
+runs_locally = true

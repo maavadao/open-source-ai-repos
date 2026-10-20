@@ -1,0 +1,9 @@
+name = "texthero"
+description = "Text preprocessing, representation and visualization from zero to hero."
+category = "data-science"
+tags = ["text-preprocessing", "text-representation", "text-visualization", "nlp", "word-embeddings", "machine-learning", "text-mining", "nlp-pipeline"]
+repository = "https://github.com/jbesomi/texthero"
+website = "https://texthero.org"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

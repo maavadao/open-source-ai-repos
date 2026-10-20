@@ -1,0 +1,8 @@
+name = "openvibe"
+description = "Python Imeplementation of Opencode"
+category = "chat"
+tags = ["chatgpt", "gpt", "gpt4", "llms"]
+repository = "https://github.com/vitalops/openvibe"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

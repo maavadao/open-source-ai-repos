@@ -1,0 +1,9 @@
+name = "a2a-python"
+description = "Official Python SDK for the Agent2Agent (A2A) Protocol"
+category = "agents"
+tags = ["agents", "generative-ai", "a2a", "a2a-client", "a2a-mcp", "a2a-protocol", "a2a-server", "agent2agent"]
+repository = "https://github.com/a2aproject/a2a-python"
+website = "https://a2a-protocol.org/latest/sdk/python/api/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

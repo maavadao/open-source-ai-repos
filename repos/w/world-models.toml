@@ -1,0 +1,8 @@
+name = "world-models"
+description = "Reimplementation of World-Models (Ha and Schmidhuber 2018) in pytorch"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "model-based-rl", "pytorch"]
+repository = "https://github.com/ctallec/world-models"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

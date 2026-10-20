@@ -1,0 +1,8 @@
+name = "pytorch-vsumm-reinforce"
+description = "Unsupervised video summarization with deep reinforcement learning (AAAI'18)"
+category = "vision"
+tags = ["video-summarization", "reinforcement-learning", "deep-learning", "policy-network", "unsupervised-learning", "machine-learning", "computer-vision"]
+repository = "https://github.com/KaiyangZhou/pytorch-vsumm-reinforce"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

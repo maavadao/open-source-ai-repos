@@ -1,0 +1,8 @@
+name = "jetson-containers"
+description = "Machine Learning Containers for NVIDIA Jetson and JetPack-L4T"
+category = "ml-platforms"
+tags = ["machine-learning", "dockerfiles", "jetson", "pytorch", "tensorflow", "pandas", "scikit-learn", "numpy"]
+repository = "https://github.com/dusty-nv/jetson-containers"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

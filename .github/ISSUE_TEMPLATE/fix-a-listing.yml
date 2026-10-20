@@ -1,0 +1,17 @@
+name: Fix a listing
+description: A repo is in the wrong category, has a wrong link, is no longer open source, or has gone.
+labels: [fix]
+body:
+  - type: input
+    id: file
+    attributes:
+      label: Which repo
+      placeholder: repos/a/aider.toml, or the project's name
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong, and what it should be
+    validations:
+      required: true

@@ -1,0 +1,9 @@
+name = "poke-env"
+description = "Poke-env: Python Interface for Pokemon Showdown Bots"
+category = "agents"
+tags = ["python", "agent", "reinforcement-learning", "artificial-intelligence", "pokemon", "pokemon-showdown", "environment", "python-interface"]
+repository = "https://github.com/hsahovic/poke-env"
+website = "https://poke-env.readthedocs.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

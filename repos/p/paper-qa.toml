@@ -1,0 +1,9 @@
+name = "paper-qa"
+description = "High accuracy RAG for answering questions from scientific documents with citations"
+category = "llm-apps"
+tags = ["ai", "rag", "search", "science"]
+repository = "https://github.com/Future-House/paper-qa"
+website = "https://futurehouse.gitbook.io/futurehouse-cookbook"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

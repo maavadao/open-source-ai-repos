@@ -1,0 +1,8 @@
+name = "rag-from-scratch"
+description = "Demystify RAG by building it from scratch. Local LLMs, no black boxes - real understanding of embeddings, vector search, retrieval, and context-augmented generation."
+category = "learning"
+tags = ["agents", "ai-agents", "educational", "llm", "node-llama-cpp", "nodejs", "rag", "rag-chatbot"]
+repository = "https://github.com/pguso/rag-from-scratch"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

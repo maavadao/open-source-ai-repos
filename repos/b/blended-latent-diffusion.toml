@@ -1,0 +1,9 @@
+name = "blended-latent-diffusion"
+description = "Official implementation for \"Blended Latent Diffusion\" [SIGGRAPH 2023]"
+category = "image"
+tags = ["deep-learning", "multimodal", "multimodal-deep-learning", "text-guided-manipulation", "text-to-image", "text-to-image-synthesis", "computer-vision", "diffusion"]
+repository = "https://github.com/omriav/blended-latent-diffusion"
+website = "https://omriavrahami.com/blended-latent-diffusion-page/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

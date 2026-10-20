@@ -1,0 +1,7 @@
+name = "blog"
+description = "My Tech Blog: about Mojo / Rust / Golang / Python / Kotlin / Flutter / VueJS / Blockchain etc."
+category = "models"
+tags = ["golang", "flutter", "python", "dart", "k8s", "docker", "blockchain", "rust"]
+repository = "https://github.com/hhstore/blog"
+license = "NOASSERTION"
+added = 2026-10-20

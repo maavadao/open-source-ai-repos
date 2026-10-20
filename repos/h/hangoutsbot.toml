@@ -1,0 +1,8 @@
+name = "hangoutsbot"
+description = "Google Hangouts bot"
+category = "chat"
+tags = ["python", "bot", "hangouts", "chatbot"]
+repository = "https://github.com/hangoutsbot/hangoutsbot"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

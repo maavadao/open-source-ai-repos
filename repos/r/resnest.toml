@@ -1,0 +1,9 @@
+name = "ResNeSt"
+description = "ResNeSt: Split-Attention Networks"
+category = "ml-platforms"
+tags = ["deep-learning", "resnet", "resnest", "pytorch", "detectron-models", "split-attention-networks"]
+repository = "https://github.com/zhanghang1989/ResNeSt"
+website = "https://arxiv.org/abs/2004.08955"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

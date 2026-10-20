@@ -1,0 +1,7 @@
+name = "awesome-deepfakes"
+description = "Everything Deepfakes"
+category = "learning"
+tags = ["awesome", "deepfakes", "faceswap", "computer-vision"]
+repository = "https://github.com/aerophile/awesome-deepfakes"
+license = "NOASSERTION"
+added = 2026-10-20

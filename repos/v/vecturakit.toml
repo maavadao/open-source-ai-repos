@@ -1,0 +1,8 @@
+name = "VecturaKit"
+description = "Swift-based vector database for on-device RAG using MLTensor and MLX Embedders"
+category = "llm-apps"
+tags = ["mlx-swift", "rag", "swift"]
+repository = "https://github.com/rryam/VecturaKit"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

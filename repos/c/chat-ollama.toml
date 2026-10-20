@@ -1,0 +1,9 @@
+name = "chat-ollama"
+description = "ChatOllama is an open source agentic app for running AI agents across local and hosted models."
+category = "agents"
+tags = ["agent", "agentic", "agents"]
+repository = "https://github.com/sugarforever/chat-ollama"
+website = "https://chatollama.cloud"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

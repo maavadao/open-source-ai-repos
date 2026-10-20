@@ -1,0 +1,9 @@
+name = "Video-P2P"
+description = "Video-P2P: Video Editing with Cross-attention Control"
+category = "video"
+tags = ["image-editing", "stable-diffusion", "text-driven-editing", "video-editing", "generative-model"]
+repository = "https://github.com/JIA-Lab-research/Video-P2P"
+website = "https://video-p2p.github.io/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "mesh_navigation"
+description = "The Mesh Navigation Stack: Efficient Mobile Robot Navigation in Uneven Terrain"
+category = "robotics"
+tags = ["ros", "mesh", "navigation", "pathplanning", "control", "locomotion", "3d-path-planning"]
+repository = "https://github.com/naturerobots/mesh_navigation"
+website = "https://naturerobots.github.io/mesh_navigation_docs/"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

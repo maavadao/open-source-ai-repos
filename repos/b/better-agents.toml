@@ -1,0 +1,8 @@
+name = "better-agents"
+description = "Standards for building agents, better"
+category = "mcp-servers"
+tags = ["agent-framework", "agent-testing", "ai-agents", "cli", "dev-tool", "lllm", "llmops", "mcp"]
+repository = "https://github.com/langwatch/better-agents"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

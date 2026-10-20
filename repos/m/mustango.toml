@@ -1,0 +1,8 @@
+name = "mustango"
+description = "Mustango: Toward Controllable Text-to-Music Generation"
+category = "image"
+tags = ["diffusion-models", "large-language-models", "text-to-audio", "text-to-music"]
+repository = "https://github.com/AMAAI-Lab/mustango"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

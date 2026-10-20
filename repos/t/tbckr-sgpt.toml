@@ -1,0 +1,8 @@
+name = "sgpt"
+description = "SGPT is a command-line tool that provides a convenient way to interact with OpenAI models, enabling users to run queries, generate shell commands and produce code directly from the terminal."
+category = "other"
+tags = ["cli", "bash", "gpt-3", "gpt-4", "openai", "shell", "go", "gpt-4-vision"]
+repository = "https://github.com/tbckr/sgpt"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

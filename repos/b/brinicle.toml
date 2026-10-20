@@ -1,0 +1,9 @@
+name = "brinicle"
+description = "A resource-efficient C++ vector index engine built for low-RAM production workloads"
+category = "vector-databases"
+tags = ["embeddings", "hnsw", "rag", "retrieval", "vector-search", "brinicle"]
+repository = "https://github.com/bicardinal/brinicle"
+website = "https://brinicle.bicardinal.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

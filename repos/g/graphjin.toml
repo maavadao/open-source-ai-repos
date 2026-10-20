@@ -1,0 +1,9 @@
+name = "graphjin"
+description = "One governed graph for AI agents — GraphQL + MCP over your databases, files, APIs, and code"
+category = "mcp-servers"
+tags = ["graphql", "postgresql", "sql", "cloud-native", "database", "mysql", "yugabyte", "cockroachdb"]
+repository = "https://github.com/dosco/graphjin"
+website = "https://graphjin.com"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "vuls"
+description = "Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices"
+category = "agents"
+tags = ["vuls", "vulnerability-scanners", "golang", "go", "linux", "freebsd", "vulnerability-detection", "security"]
+repository = "https://github.com/future-architect/vuls"
+website = "https://vuls.io/"
+license = "GPL-3.0"
+language = "Go"
+added = 2026-10-20

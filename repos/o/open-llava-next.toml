@@ -1,0 +1,8 @@
+name = "Open-LLaVA-NeXT"
+description = "An open-source implementation for training LLaVA-NeXT."
+category = "chat"
+tags = ["chatbot", "chatgpt", "gpt-4", "gpt4o", "large-multimodal-models", "llama", "llama3", "llava"]
+repository = "https://github.com/xiaoachen98/Open-LLaVA-NeXT"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

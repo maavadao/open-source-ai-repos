@@ -1,0 +1,8 @@
+name = "Alturos.Yolo"
+description = "C# Yolo Darknet Wrapper (real-time object detection)"
+category = "vision"
+tags = ["csharp", "objectdetection", "yolo", "yolov2", "yolov3", "object-detection", "computer-vision", "neural-network"]
+repository = "https://github.com/AlturosDestinations/Alturos.Yolo"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

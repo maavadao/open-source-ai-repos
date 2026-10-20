@@ -1,0 +1,9 @@
+name = "Backlog.md"
+description = "Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem"
+category = "agents"
+tags = ["agent", "agentic-ai", "management", "markdown", "project", "task-manager", "tasks"]
+repository = "https://github.com/MrLesk/Backlog.md"
+website = "https://backlog.md"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

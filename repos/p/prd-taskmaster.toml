@@ -1,0 +1,8 @@
+name = "prd-taskmaster"
+description = "Zero-config goal-to-tasks engine for Claude Code (the Atlas engine). Graded PRD validation, dependency-ordered task graph, evidence-gated execution."
+category = "mcp-servers"
+tags = ["ai-development", "claude-code", "claude-skills", "prd", "product-management", "product-requirements", "requirements-engineering", "taskmaster"]
+repository = "https://github.com/anombyte93/prd-taskmaster"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

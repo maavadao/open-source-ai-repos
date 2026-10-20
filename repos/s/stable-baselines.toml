@@ -1,0 +1,9 @@
+name = "stable-baselines"
+description = "Mirror of Stable-Baselines: a fork of OpenAI Baselines, implementations of reinforcement learning algorithms"
+category = "ml-platforms"
+tags = ["rl", "reinforcement-learning", "openai", "openai-gym", "gym", "machine-learning", "baselines", "toolbox"]
+repository = "https://github.com/Stable-Baselines-Team/stable-baselines"
+website = "https://github.com/hill-a/stable-baselines"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ASRT_SpeechRecognition"
+description = "A Deep-Learning-Based Chinese Speech Recognition System 基于深度学习的中文语音识别系统"
+category = "speech"
+tags = ["tensorflow", "cnn", "ctc", "python", "keras", "speech-recognition", "speech-to-text", "chinese-speech-recognition"]
+repository = "https://github.com/nl8590687/ASRT_SpeechRecognition"
+website = "https://www.ailemon.net/asrt"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "colpali-cookbooks"
+description = "Recipes for learning, fine-tuning, and adapting ColPali to your multimodal RAG use cases. 🏻"
+category = "learning"
+tags = ["colpali", "rag", "retrieval", "search", "vision-language-model", "cookbooks"]
+repository = "https://github.com/tonywu71/colpali-cookbooks"
+website = "https://huggingface.co/vidore"
+license = "MIT"
+added = 2026-10-20

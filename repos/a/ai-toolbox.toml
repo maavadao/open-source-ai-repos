@@ -1,0 +1,8 @@
+name = "AI-Toolbox"
+description = "A C++ framework for MDPs and POMDPs with Python bindings"
+category = "ml-platforms"
+tags = ["c-plus-plus", "artificial-intelligence", "markov-decision-processes", "python", "mdps", "pomdps", "reinforcement-learning", "planning"]
+repository = "https://github.com/Svalorzen/AI-Toolbox"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "chaskiq"
+description = "A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp."
+category = "chat"
+tags = ["rails", "react", "graphql", "messenger", "messenger-platform", "messenger-chatbots", "newsletter-management", "chat"]
+repository = "https://github.com/chaskiq/chaskiq"
+website = "https://chaskiq.io"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "CushyStudio"
+description = "The AI and Generative Art platform for everyone"
+category = "image"
+tags = ["ai", "comfyui", "cross-platform", "generative-ai", "generative-art", "live-coding"]
+repository = "https://github.com/rvion/CushyStudio"
+website = "https://docs.cushystudio.com/"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "go-openai"
+description = "OpenAI, GPT 6.1, GPT-Image-2, Whisper API clients for Go. Zero-dependency."
+category = "chat"
+tags = ["go", "openai", "golang", "streaming-api", "dall-e", "chatgpt", "chatgpt-api", "openai-whisper"]
+repository = "https://github.com/sashabaranov/go-openai"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "mixture-of-diffusers"
+description = "Mixture of Diffusers for scene composition and high resolution image generation"
+category = "image"
+tags = ["ai", "computer-vision", "diffusion-models", "stable-diffusion"]
+repository = "https://github.com/albarji/mixture-of-diffusers"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

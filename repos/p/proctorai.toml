@@ -1,0 +1,9 @@
+name = "proctorai"
+description = "AI‑powered web exam system with face recognition, webcam, browser, and audio checks ensures integrity in remote assessments. Flask prototype reached ~72% functional accuracy and 90%+ detection rates, reducing cheating in online education."
+category = "vision"
+tags = ["computer-vision", "education-technology", "explainable-ai", "multimodal", "trustworthy-ai", "context-aware-ai", "environmental-monitoring", "proctoring-ai"]
+repository = "https://github.com/braviaprime/proctorai"
+website = "https://proctorai.braviaprime.com"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

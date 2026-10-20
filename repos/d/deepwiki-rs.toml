@@ -1,0 +1,9 @@
+name = "deepwiki-rs"
+description = "Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents."
+category = "models"
+tags = ["deepwiki", "deepseek", "dsh-plugin", "okf-format", "openwiki", "grok"]
+repository = "https://github.com/sopaco/deepwiki-rs"
+website = "https://deepwiki.netlify.app/"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

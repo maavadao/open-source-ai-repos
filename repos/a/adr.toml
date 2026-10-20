@@ -1,0 +1,9 @@
+name = "ADR"
+description = "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber."
+category = "mcp-servers"
+tags = ["agent-security", "ai-agents", "ai-security", "benchmark", "llm-security", "mcp", "model-context-protocol", "prompt-injection"]
+repository = "https://github.com/uber/ADR"
+website = "https://arxiv.org/abs/2605.17380"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

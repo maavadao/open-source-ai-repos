@@ -1,0 +1,8 @@
+name = "codebase-digest"
+description = "Codebase-digest is your AI-friendly codebase packer and analyzer. Features 60+ coding prompts and generates structured overviews with metrics. Ideal for feeding projects to LLMs like GPT-4, Claude, PaLM, and Gemini for code analysis and understanding."
+category = "chat"
+tags = ["ai", "anthropic", "chatgpt", "claude", "claude-ai", "developer", "gemini", "gemini-api"]
+repository = "https://github.com/kamilstanuch/codebase-digest"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

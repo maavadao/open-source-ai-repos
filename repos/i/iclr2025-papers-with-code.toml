@@ -1,0 +1,7 @@
+name = "ICLR2025-Papers-with-Code"
+description = "历年ICLR论文和开源项目合集，包含ICLR2021、ICLR2022、ICLR2023、ICLR2024、ICLR2025."
+category = "agents"
+tags = ["iclr2023", "iclr2024", "llm-agent", "llm-reasoning", "llm-training", "llms", "transformer", "gemmini"]
+repository = "https://github.com/yinizhilian/ICLR2025-Papers-with-Code"
+license = "NOASSERTION"
+added = 2026-10-20

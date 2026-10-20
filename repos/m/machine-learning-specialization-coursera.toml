@@ -1,0 +1,8 @@
+name = "Machine-Learning-Specialization-Coursera"
+description = "Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG"
+category = "ml-platforms"
+tags = ["andrew-ng", "andrew-ng-machine-learning", "coursera", "coursera-assignment", "coursera-specialization", "deep-learning", "linear-regression", "logistic-regression"]
+repository = "https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

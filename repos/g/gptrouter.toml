@@ -1,0 +1,9 @@
+name = "GPTRouter"
+description = "Smoothly Manage Multiple LLMs (OpenAI, Anthropic, Azure) and Image Models (Dall-E, SDXL), Speed Up Responses, and Ensure Non-Stop Reliability."
+category = "llm-apps"
+tags = ["anthropic", "azure-openai", "cohere", "google-gemini", "llm", "llmops", "llms", "mlops"]
+repository = "https://github.com/Writesonic/GPTRouter"
+website = "https://gpt-router.writesonic.com/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

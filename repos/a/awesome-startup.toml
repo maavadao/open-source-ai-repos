@@ -1,0 +1,7 @@
+name = "awesome-startup"
+description = "All the required resources to build your own startup"
+category = "learning"
+tags = ["startup", "entrepreneurs", "engineering", "awesome", "awesome-list", "venture-capital", "free-software", "code"]
+repository = "https://github.com/KrishMunot/awesome-startup"
+license = "MIT"
+added = 2026-10-20

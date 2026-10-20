@@ -1,0 +1,8 @@
+name = "DL-NLP-Readings"
+description = "My Reading Lists of Deep Learning and Natural Language Processing"
+category = "learning"
+tags = ["paper", "source-code-link", "deep-learning", "natural-language-processing", "reinforcement-learning", "commonsense", "language-model", "robotics"]
+repository = "https://github.com/26hzhang/DL-NLP-Readings"
+license = "MIT"
+language = "TeX"
+added = 2026-10-20

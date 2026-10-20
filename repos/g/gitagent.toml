@@ -1,0 +1,8 @@
+name = "gitagent"
+description = "A universal git-native AI agent framework. Your agent lives inside a git repo — identity, rules, memory, tools, and skills are all version-controlled files."
+category = "chat"
+tags = ["anthropic", "llm", "ai-agents", "assistant", "openclaw", "personal"]
+repository = "https://github.com/open-gitagent/gitagent"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "mockserver-monorepo"
+description = "MockServer is an HTTP(S) mock server and proxy for testing that lets you mock APIs, inspect and modify live traffic, and inject failures. It supports HTTP/1.1, HTTP/2, gRPC, WebSockets, TCP and more on a single port, with additional support for HTTP/3, message brokers, and…"
+category = "mcp-servers"
+tags = ["mock-server", "proxy", "java-client", "javascript-client", "node-module", "node-client", "ruby-client", "homebrew"]
+repository = "https://github.com/mock-server/mockserver-monorepo"
+website = "https://www.mock-server.com"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

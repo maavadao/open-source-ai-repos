@@ -1,0 +1,9 @@
+name = "DiffuEraser"
+description = "DiffuEraser is a diffusion model for video inpainting, which performs great content completeness and temporal consistency while maintaining acceptable efficiency."
+category = "video"
+tags = ["stable-diffusion", "video-editing", "video-inpainting"]
+repository = "https://github.com/lixiaowen-xw/DiffuEraser"
+website = "https://lixiaowen-xw.github.io/DiffuEraser-page/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

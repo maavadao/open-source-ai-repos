@@ -1,0 +1,8 @@
+name = "agenttrail"
+description = "Local observability for AI coding agents. Agenttrail Map shows project structure and activity; Agenttrail Kitchen visualizes tasks and role contributions in 3D."
+category = "coding"
+tags = ["agent-monitoring", "agent-observability", "ai-agents", "ai-coding-agents", "claude-code", "coding-agents", "cursor-ai", "dashboard"]
+repository = "https://github.com/sodiumsun/agenttrail"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

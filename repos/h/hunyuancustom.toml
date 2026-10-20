@@ -1,0 +1,9 @@
+name = "HunyuanCustom"
+description = "HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation"
+category = "video"
+tags = ["audio-driven", "diffusion-models", "image-to-video", "image-to-video-generation", "video-editing", "video-generation"]
+repository = "https://github.com/Tencent-Hunyuan/HunyuanCustom"
+website = "https://hunyuancustom.github.io/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

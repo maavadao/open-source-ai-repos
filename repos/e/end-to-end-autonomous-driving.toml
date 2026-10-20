@@ -1,0 +1,8 @@
+name = "End-to-end-Autonomous-Driving"
+description = "[IEEE T-PAMI 2024] All you need for End-to-end Autonomous Driving"
+category = "robotics"
+tags = ["end-to-end-autonomous-driving", "autonomous-driving", "policy-learning", "simulation"]
+repository = "https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving"
+website = "https://doi.org/10.1109/TPAMI.2024.3435937"
+license = "MIT"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "alpaca_farm"
+description = "A simulation framework for RLHF and alternatives. Develop your RLHF method without collecting human data."
+category = "models"
+tags = ["deep-learning", "instruction-following", "large-language-models", "natural-language-processing"]
+repository = "https://github.com/tatsu-lab/alpaca_farm"
+website = "https://arxiv.org/abs/2305.14387"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

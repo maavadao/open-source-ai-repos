@@ -1,0 +1,8 @@
+name = "TNN"
+description = "TNN: developed by Tencent Youtu Lab and Guangying Lab, a uniform deep learning inference framework for mobile、desktop and server. TNN is distinguished by several outstanding features, including its cross-platform capability, high performance, model compression and code…"
+category = "documents"
+tags = ["deep-learning", "mnn", "ncnn", "inference", "pytorch", "tensorflow", "coreml", "tensorrt"]
+repository = "https://github.com/Tencent/TNN"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

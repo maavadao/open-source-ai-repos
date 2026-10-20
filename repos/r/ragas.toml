@@ -1,0 +1,9 @@
+name = "ragas"
+description = "Supercharge Your LLM Application Evaluations"
+category = "llm-apps"
+tags = ["llm", "llmops", "evaluation"]
+repository = "https://github.com/vibrantlabsai/ragas"
+website = "https://docs.ragas.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

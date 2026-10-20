@@ -1,0 +1,9 @@
+name = "VL-T5"
+description = "PyTorch code for \"Unifying Vision-and-Language Tasks via Text Generation\" (ICML 2021)"
+category = "models"
+tags = ["vision-and-language", "pretraining", "transformers", "vl-t5", "vl-bart"]
+repository = "https://github.com/j-min/VL-T5"
+website = "https://arxiv.org/abs/2102.02779"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

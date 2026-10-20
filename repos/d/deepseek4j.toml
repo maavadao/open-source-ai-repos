@@ -1,0 +1,9 @@
+name = "deepseek4j"
+description = "deepseek java sdk"
+category = "models"
+tags = ["deepseek", "deepseek-r1", "java", "openai", "spring-boot", "spring-boot-3", "spring-boot-4"]
+repository = "https://github.com/pig-mesh/deepseek4j"
+website = "https://javaai.pig4cloud.com/deepseek"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

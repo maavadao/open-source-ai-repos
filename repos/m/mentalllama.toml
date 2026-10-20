@@ -1,0 +1,8 @@
+name = "MentalLLaMA"
+description = "This repository introduces MentaLLaMA, the first open-source instruction following large language model for interpretable mental health analysis."
+category = "chat"
+tags = ["chatgpt", "gpt4", "interpretability", "large-language-models", "llama2", "mental-health", "language-model", "natural-language-processing"]
+repository = "https://github.com/SteveKGYang/MentalLLaMA"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

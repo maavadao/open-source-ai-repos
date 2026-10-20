@@ -1,0 +1,8 @@
+name = "probabilistic_robotics"
+description = "solution of exercises of the book \"probabilistic robotics\""
+category = "learning"
+tags = ["probabilistic-robotics", "bayesian-inference", "kalman-filter", "slam", "navigation", "particle-filter", "julia", "matlab"]
+repository = "https://github.com/pierrepault/probabilistic_robotics"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

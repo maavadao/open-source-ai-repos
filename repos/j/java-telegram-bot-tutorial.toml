@@ -1,0 +1,9 @@
+name = "java-telegram-bot-tutorial"
+description = "Java Telegram Bot Tutorial. Feel free to submit issue if you found a mistake."
+category = "learning"
+tags = ["telegram", "bot", "java", "tutorial", "guide", "book", "bots", "chatbot"]
+repository = "https://github.com/MonsterDeveloper/java-telegram-bot-tutorial"
+website = "https://monsterdeveloper.gitbook.io/java-telegram-bot-tutorial/"
+license = "NOASSERTION"
+language = "Java"
+added = 2026-10-20

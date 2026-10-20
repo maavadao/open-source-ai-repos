@@ -1,0 +1,9 @@
+name = "spec-kit"
+description = "Toolkit to help you get started with SDD or any other process!"
+category = "coding"
+tags = ["ai", "copilot", "development", "engineering", "prd", "spec", "spec-driven"]
+repository = "https://github.com/github/spec-kit"
+website = "https://github.github.com/spec-kit/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

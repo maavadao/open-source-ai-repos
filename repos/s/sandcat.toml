@@ -1,0 +1,8 @@
+name = "sandcat"
+description = "A Docker & dev container setup for securely running AI agents in `--dangerous` mode. All container traffic is routed through a transparent mitmproxy, enforcing network access rules and injecting secrets."
+category = "agents"
+tags = ["agents", "ai", "autonomous", "claude", "devcontainer", "security", "vscode"]
+repository = "https://github.com/VirtusLab/sandcat"
+license = "Apache-2.0"
+language = "Shell"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "phenaki-pytorch"
+description = "Implementation of Phenaki Video, which uses Mask GIT to produce text guided videos of up to 2 minutes in length, in Pytorch"
+category = "video"
+tags = ["artificial-intelligence", "attention-mechanisms", "deep-learning", "text-to-video", "transformers", "imagination-machine"]
+repository = "https://github.com/lucidrains/phenaki-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

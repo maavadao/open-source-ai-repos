@@ -1,0 +1,8 @@
+name = "darknet_ros"
+description = "YOLO ROS: Real-Time Object Detection for ROS"
+category = "robotics"
+tags = ["object-detection", "human-detection", "deep-learning", "yolo", "darknet", "ros", "computer-vision", "darknet-ros"]
+repository = "https://github.com/leggedrobotics/darknet_ros"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

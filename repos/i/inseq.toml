@@ -1,0 +1,9 @@
+name = "inseq"
+description = "Interpretability for sequence generation models"
+category = "models"
+tags = ["interpretability", "deep-learning", "transformers", "explainable-ai", "captum", "huggingface", "attribution-methods", "natural-language-processing"]
+repository = "https://github.com/inseq-team/inseq"
+website = "https://inseq.org"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

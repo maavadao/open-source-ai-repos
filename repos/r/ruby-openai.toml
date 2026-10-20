@@ -1,0 +1,9 @@
+name = "ruby-openai"
+description = "OpenAI API + Ruby! GPT-5 & Realtime WebRTC compatible!"
+category = "speech"
+tags = ["ai", "api-client", "openai", "ruby", "dall-e", "chatgpt", "whisper", "gpt-4"]
+repository = "https://github.com/alexrudall/ruby-openai"
+website = "https://insertrobot.com"
+license = "MIT"
+language = "Ruby"
+added = 2026-10-20

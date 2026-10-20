@@ -1,0 +1,8 @@
+name = "thinking-orbs"
+description = "Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light"
+category = "chat"
+tags = ["ai", "ai-agents", "chat", "loader", "ui", "ux"]
+repository = "https://github.com/Jakubantalik/thinking-orbs"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

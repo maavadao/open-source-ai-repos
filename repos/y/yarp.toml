@@ -1,0 +1,9 @@
+name = "yarp"
+description = "YARP - Yet Another Robot Platform"
+category = "robotics"
+tags = ["middleware", "yarp", "robotics-libraries", "robotics", "devices", "humanoids", "communication", "ipc"]
+repository = "https://github.com/robotology/yarp"
+website = "http://www.yarp.it"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

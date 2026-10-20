@@ -1,0 +1,9 @@
+name = "Azure-AIGEN-demos"
+description = "Microsoft Foundry (demos, documentation, accelerators)."
+category = "chat"
+tags = ["azure", "azure-cognitive-services", "azure-openai", "langchain-python", "llm", "openai", "chatgpt", "embeddings"]
+repository = "https://github.com/retkowsky/Azure-AIGEN-demos"
+website = "https://azure.microsoft.com/en-us/products/ai-foundry/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

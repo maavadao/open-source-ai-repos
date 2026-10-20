@@ -1,0 +1,9 @@
+name = "agent-search"
+description = "AgentSearch is a framework for powering search agents and enabling customizable local search."
+category = "search"
+tags = ["artificial-intelligence", "information-retrieval", "llms", "rag", "retrieval-augmented-generation", "search", "search-engine"]
+repository = "https://github.com/SciPhi-AI/agent-search"
+website = "https://agent-search.readthedocs.io/en/latest/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

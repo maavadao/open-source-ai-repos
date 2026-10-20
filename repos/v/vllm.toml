@@ -1,0 +1,10 @@
+name = "vllm"
+description = "A high-throughput and memory-efficient inference and serving engine for LLMs"
+category = "local-llms"
+tags = ["gpt", "llm", "pytorch", "model-serving", "transformer", "llm-serving", "inference", "llama"]
+repository = "https://github.com/vllm-project/vllm"
+website = "https://docs.vllm.ai"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "advanced"
+added = 2026-10-20

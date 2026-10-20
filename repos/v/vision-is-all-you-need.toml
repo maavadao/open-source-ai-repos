@@ -1,0 +1,9 @@
+name = "vision-is-all-you-need"
+description = "Serverless Modal + FastAPI + React + ColPali + Qdrant + GPT4o Vision RAG (V-RAG) Demo"
+category = "llm-apps"
+tags = ["colpali", "fastapi", "modal", "qdrant", "rag", "react", "v-rag", "vision-rag"]
+repository = "https://github.com/Softlandia-Ltd/vision-is-all-you-need"
+website = "https://softlandia-ltd-prod--vision-is-all-you-need-web.modal.run/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "glue-factory"
+description = "Training library for local feature detection and matching"
+category = "vision"
+tags = ["computer-vision", "deep-learning", "iccv2023", "image-matching"]
+repository = "https://github.com/cvg/glue-factory"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "chess-alpha-zero"
+description = "Chess reinforcement learning by AlphaGo Zero methods."
+category = "ml-platforms"
+tags = ["reinforcement-learning", "keras", "alphago-zero", "tensorflow", "chess"]
+repository = "https://github.com/Zeta36/chess-alpha-zero"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

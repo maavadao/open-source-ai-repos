@@ -1,0 +1,9 @@
+name = "Open-AgentRL"
+description = "RLAnything (ICML 2026) & AutoTool (ICML 2026), DemyAgent: Open-Source RL for LLMs and Agentic Scenarios"
+category = "browser-automation"
+tags = ["agent-rl", "entropy-method", "llm-agent", "llm-reasoning", "multi-agent-reinforcement-learning", "reinforcement-learning", "coding-agent", "gui-agent"]
+repository = "https://github.com/Gen-Verse/Open-AgentRL"
+website = "https://arxiv.org/abs/2602.02488"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

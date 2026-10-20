@@ -1,0 +1,8 @@
+name = "PyTorch-Model-Compare"
+description = "Compare neural networks by their feature similarity"
+category = "models"
+tags = ["pytorch", "deep-learning", "neural-networks", "cka", "transformers", "imagenet", "feature-extraction", "pip"]
+repository = "https://github.com/AntixK/PyTorch-Model-Compare"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

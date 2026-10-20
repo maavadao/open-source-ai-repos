@@ -1,0 +1,8 @@
+name = "StarryDivineSky"
+description = "精选了10K+项目，包括机器学习、深度学习、NLP、GNN、推荐系统、生物医药、机器视觉、前后端开发等内容。Selected more than 10k+ projects, including machine learning, deep learning, NLP, GNN, recommendation system, biomedicine, machine vision, etc. Let more excellent projects be discovered by people. Continue to update!…"
+category = "models"
+tags = ["machine-learning", "deep-learning", "nlp", "data-science", "cv", "biomedicine", "awesome", "awesome-list"]
+repository = "https://github.com/wuwenjie1992/StarryDivineSky"
+website = "https://www.wuwenjie.xyz"
+license = "NOASSERTION"
+added = 2026-10-20

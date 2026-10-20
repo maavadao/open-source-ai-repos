@@ -1,0 +1,8 @@
+name = "musiclm-pytorch"
+description = "Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch"
+category = "models"
+tags = ["artificial-intelligence", "attention-mechanisms", "deep-learning", "music-synthesis", "transformers"]
+repository = "https://github.com/lucidrains/musiclm-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

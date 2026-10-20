@@ -1,0 +1,8 @@
+name = "FaceImageQuality"
+description = "Code and information for face image quality assessment with SER-FIQ"
+category = "vision"
+tags = ["face", "face-recognition", "quality", "quality-metrics", "quality-estimation", "quality-measures", "biometrics", "robustness"]
+repository = "https://github.com/pterhoer/FaceImageQuality"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

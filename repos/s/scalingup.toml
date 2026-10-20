@@ -1,0 +1,9 @@
+name = "scalingup"
+description = "[CoRL 2023] This repository contains data generation and training code for Scaling Up & Distilling Down"
+category = "robotics"
+tags = ["language-model", "robotics", "skill-learning"]
+repository = "https://github.com/real-stanford/scalingup"
+website = "https://www.cs.columbia.edu/~huy/scalingup/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

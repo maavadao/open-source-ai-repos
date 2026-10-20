@@ -1,0 +1,9 @@
+name = "DyPE"
+description = "[ICML 2026] Official implementation for \"DyPE: Dynamic Position Extrapolation for Ultra High Resolution Diffusion\"."
+category = "image"
+tags = ["diffusion", "flux", "high-resolution-image", "image-generation", "flow-matching", "positional-encoding", "rope", "t2i"]
+repository = "https://github.com/guyyariv/DyPE"
+website = "https://noamissachar.github.io/DyPE/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

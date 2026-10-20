@@ -1,0 +1,8 @@
+name = "functionary"
+description = "Chat language model that can use tools and interpret the results"
+category = "agents"
+tags = ["ai", "function-calling", "llm", "ml", "python", "agents", "ai-agents"]
+repository = "https://github.com/MeetKai/functionary"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

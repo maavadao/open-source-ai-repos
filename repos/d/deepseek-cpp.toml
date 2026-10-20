@@ -1,0 +1,8 @@
+name = "deepseek.cpp"
+description = "CPU inference for the DeepSeek family of large language models in C++"
+category = "local-llms"
+tags = ["cpp", "deepseek", "llama", "llm", "llm-inference", "machine-learning", "transformers"]
+repository = "https://github.com/andrewkchan/deepseek.cpp"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

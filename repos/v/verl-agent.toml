@@ -1,0 +1,9 @@
+name = "verl-agent"
+description = "verl-agent is an extension of veRL, designed for training LLM/VLM agents via RL. verl-agent is also the official code for paper \"Group-in-Group Policy Optimization for LLM Agent Training\""
+category = "agents"
+tags = ["llm-agents", "llm-training", "reinforcement-learning", "large-language-models", "deepseek-r1", "grpo", "agent-framework", "gigpo"]
+repository = "https://github.com/langfengQ/verl-agent"
+website = "https://huggingface.co/papers/2505.10978"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

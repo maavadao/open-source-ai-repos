@@ -1,0 +1,8 @@
+name = "Fooocus-API"
+description = "FastAPI powered API for Fooocus"
+category = "image"
+tags = ["comfyui", "stable-diffusion", "fooocus", "sdxl"]
+repository = "https://github.com/mrhan1993/Fooocus-API"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

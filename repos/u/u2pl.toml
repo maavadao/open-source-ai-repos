@@ -1,0 +1,8 @@
+name = "U2PL"
+description = "[CVPR'22 & IJCV'24] Semi-Supervised Semantic Segmentation Using Unreliable Pseudo-Labels & Using Unreliable Pseudo-Labels for Label-Efficient Semantic Segmentation"
+category = "vision"
+tags = ["mechine-learning", "computer-vision", "semantic-segmentation", "semi-supervised-learning", "contrastive-learning", "cvpr2022", "pytorch", "cityscapes"]
+repository = "https://github.com/Haochen-Wang409/U2PL"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

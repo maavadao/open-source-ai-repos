@@ -1,0 +1,8 @@
+name = "CLI"
+description = "Bito CLI (Command Line Interface) provides a command line interface to the Bito AI chat functionality. Over time, CLI will add more functions and new command options to support complex automation and workflows. This is a very early Alpha version. We would love to get your…"
+category = "no-code"
+tags = ["ai", "cli", "developer-tools", "bash", "chatgpt", "command-line", "command-line-tool", "gpt"]
+repository = "https://github.com/gitbito/CLI"
+website = "https://bito.ai"
+license = "NOASSERTION"
+added = 2026-10-20

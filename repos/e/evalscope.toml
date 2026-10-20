@@ -1,0 +1,9 @@
+name = "evalscope"
+description = "A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking."
+category = "llm-apps"
+tags = ["evaluation", "llm", "performance", "rag", "vlm"]
+repository = "https://github.com/modelscope/evalscope"
+website = "https://modelscope.github.io/evalscope/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

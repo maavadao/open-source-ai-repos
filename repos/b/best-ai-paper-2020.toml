@@ -1,0 +1,8 @@
+name = "Best_AI_paper_2020"
+description = "A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code"
+category = "learning"
+tags = ["ai", "papers", "2020", "list", "machinelearning", "deeplearning", "artificialintelligence", "artificial-intelligence"]
+repository = "https://github.com/louisfb01/Best_AI_paper_2020"
+website = "https://www.louisbouchard.ai/2020-a-year-full-of-amazing-ai-papers-a-review/"
+license = "MIT"
+added = 2026-10-20

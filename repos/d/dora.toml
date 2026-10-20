@@ -1,0 +1,9 @@
+name = "dora"
+description = "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred…"
+category = "robotics"
+tags = ["dataflow", "low-latency", "robotics", "rust", "embodied-ai"]
+repository = "https://github.com/dora-rs/dora"
+website = "https://dora-rs.ai"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

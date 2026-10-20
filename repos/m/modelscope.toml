@@ -1,0 +1,9 @@
+name = "modelscope"
+description = "ModelScope: bring the notion of Model-as-a-Service to life."
+category = "speech"
+tags = ["nlp", "cv", "speech", "multi-modal", "science", "deep-learning", "machine-learning", "python"]
+repository = "https://github.com/modelscope/modelscope"
+website = "https://www.modelscope.cn/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

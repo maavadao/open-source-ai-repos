@@ -1,0 +1,9 @@
+name = "brightdata-mcp"
+description = "A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access."
+category = "mcp-servers"
+tags = ["llm", "mcp", "modelcontextprotocol", "scraping", "ai-agents", "ai-integrations", "anti-bot-detection", "browser-automation"]
+repository = "https://github.com/brightdata/brightdata-mcp"
+website = "https://brightdata.com/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "ambit"
+description = "Local-first desktop manager for AI image libraries"
+category = "image"
+tags = ["ai-art", "desktop-app", "local-first", "rust", "sqlite", "tauri", "a1111", "civitai"]
+repository = "https://github.com/AsuraAce/ambit"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

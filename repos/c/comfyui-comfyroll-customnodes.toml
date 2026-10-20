@@ -1,0 +1,9 @@
+name = "ComfyUI_Comfyroll_CustomNodes"
+description = "Custom nodes for SDXL and SD1.5 including Multi-ControlNet, LoRA, Aspect Ratio, Process Switches, and many more nodes."
+category = "image"
+tags = ["comfyui", "stable-diffusion", "custom-nodes", "sdxl", "sd15", "nodes"]
+repository = "https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes"
+website = "https://civitai.com/models/183551/comfyui-comfyroll-custom-nodes"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

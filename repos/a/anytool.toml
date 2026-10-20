@@ -1,0 +1,9 @@
+name = "AnyTool"
+description = "\"AnyTool: Universal Tool-Use Layer for AI Agents\""
+category = "mcp-servers"
+tags = ["ai-agents", "mcp", "tool-use", "tool-orchestration", "computer-use-agents"]
+repository = "https://github.com/HKUDS/AnyTool"
+website = "https://arxiv.org/abs/2609.37025"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

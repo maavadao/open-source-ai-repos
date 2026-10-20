@@ -1,0 +1,9 @@
+name = "NeuroSploit"
+description = "NeuroSploit is an advanced, AI-powered penetration testing framework designed to automate and augment various aspects of offensive security operations."
+category = "security"
+tags = ["ai-agents", "cybersecurity", "framework", "hacking", "llm", "pentesting", "ai-penetration-testing", "ai-security"]
+repository = "https://github.com/JoasASantos/NeuroSploit"
+website = "https://neurosploitai.github.io/"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

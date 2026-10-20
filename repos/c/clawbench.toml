@@ -1,0 +1,9 @@
+name = "ClawBench"
+description = "Open-source benchmark for browser AI agents on daily tasks."
+category = "browser-automation"
+tags = ["ai-agents", "benchmark", "browser-automation", "browser-use", "dataset", "evaluation", "llm", "web-agents"]
+repository = "https://github.com/TIGER-AI-Lab/ClawBench"
+website = "https://claw-bench.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

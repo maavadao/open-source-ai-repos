@@ -1,0 +1,9 @@
+name = "nanoclaw"
+description = "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK"
+category = "skills-prompts"
+tags = ["ai-agents", "ai-assistant", "claude-code", "claude-skills", "openclaw"]
+repository = "https://github.com/nanocoai/nanoclaw"
+website = "https://nanoclaw.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Triton-Puzzles"
+description = "Puzzles for learning Triton"
+category = "data-science"
+tags = ["machine-learning", "puzzle"]
+repository = "https://github.com/gpu-mode/Triton-Puzzles"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

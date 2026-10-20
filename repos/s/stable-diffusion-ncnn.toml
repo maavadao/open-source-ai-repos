@@ -1,0 +1,8 @@
+name = "Stable-Diffusion-NCNN"
+description = "Stable Diffusion in NCNN with c++, supported txt2img and img2img"
+category = "image"
+tags = ["clip", "cpp", "diffusion", "mnn", "ncnn", "onnx", "stable-diffusion", "tensorrt"]
+repository = "https://github.com/EdVince/Stable-Diffusion-NCNN"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

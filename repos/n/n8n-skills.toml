@@ -1,0 +1,9 @@
+name = "n8n-skills"
+description = "n8n skillset for Claude Code to build flawless n8n workflows"
+category = "no-code"
+tags = ["ai-agents", "n8n", "workflow-automation"]
+repository = "https://github.com/czlonkowski/n8n-skills"
+website = "https://www.n8n-skills.com"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

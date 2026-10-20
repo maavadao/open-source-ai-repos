@@ -1,0 +1,9 @@
+name = "clawless"
+description = "ClawLess — A serverless browser-based runtime for Claw AI Agents powered by WebContainers"
+category = "agents"
+tags = ["agent-runtime", "ai", "ai-agents", "ai-sandbox", "audit-logging", "browser-runtime", "developer-tools", "gitagent"]
+repository = "https://github.com/open-gitagent/clawless"
+website = "https://play.clawless.io"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Drowsiness_Detection"
+description = "A simple Drowsiness Detection module for humans."
+category = "vision"
+tags = ["opencv", "opencv3-python", "computer-vision", "cv", "cv2", "raspberry-pi", "drowsy-driver-warning-system", "drowsiness-detection"]
+repository = "https://github.com/akshaybahadur21/Drowsiness_Detection"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

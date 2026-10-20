@@ -1,0 +1,9 @@
+name = "BunkerM"
+description = "BunkerM: Eclipse Mosquitto MQTT management platform, featuring dynamic security, MQTT ACL management, monitoring,and AI integrations"
+category = "no-code"
+tags = ["automation", "docker", "industry40", "iot-platform", "mosquitto", "mosquitto-authentication", "mosquitto-clients", "mqtt"]
+repository = "https://github.com/bunkeriot/BunkerM"
+website = "https://www.bunkerai.dev/bunkerm"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

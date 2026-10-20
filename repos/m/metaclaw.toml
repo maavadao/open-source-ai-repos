@@ -1,0 +1,9 @@
+name = "MetaClaw"
+description = "Just talk to your agent — it learns and EVOLVES ."
+category = "image"
+tags = ["agent", "ai-agent", "fine-tuning", "llm", "lora", "metaclaw", "online-learning", "reinforcement-learning"]
+repository = "https://github.com/aiming-lab/MetaClaw"
+website = "https://arxiv.org/abs/2603.17187"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

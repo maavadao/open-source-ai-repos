@@ -1,0 +1,9 @@
+name = "urban_road_filter"
+description = "Real-time LIDAR-based Urban Road and Sidewalk detection for Autonomous Vehicles"
+category = "robotics"
+tags = ["road-segmentation", "lidar", "point-cloud", "ros", "filter", "lidar-filter", "autonomous-driving", "self-driving-car"]
+repository = "https://github.com/jkk-research/urban_road_filter"
+website = "https://jkk-research.github.io/urban_road_filter/"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

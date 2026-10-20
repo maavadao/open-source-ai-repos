@@ -1,0 +1,9 @@
+name = "tfx"
+description = "TFX is an end-to-end platform for deploying production ML pipelines"
+category = "ml-platforms"
+tags = ["tensorflow", "machine-learning", "apache-beam"]
+repository = "https://github.com/tensorflow/tfx"
+website = "https://tensorflow.github.io/tfx/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

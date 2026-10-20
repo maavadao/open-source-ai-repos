@@ -1,0 +1,8 @@
+name = "pi-mcp-adapter"
+description = "Token-efficient MCP adapter for Pi coding agent"
+category = "mcp-servers"
+tags = ["ai", "claude", "coding-agent", "extension", "llm", "mcp", "model-context-protocol", "pi"]
+repository = "https://github.com/nicobailon/pi-mcp-adapter"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

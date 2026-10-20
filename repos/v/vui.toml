@@ -1,0 +1,9 @@
+name = "vui"
+description = "Vui Nano — a small, context-aware text-to-speech model trained on real conversations. 219M active params (305M total), Apache 2.0, voice cloning, streaming, runs on CPU (dependency-free C build). Ships with a full real-time voice assistant: WebRTC, ASR, local LLM, OpenAI…"
+category = "speech"
+tags = ["conversational-ai", "edge-ai", "lightweight", "multi-speaker", "on-device", "pytorch", "speech-synthesis", "streaming"]
+repository = "https://github.com/fluxions-ai/vui"
+website = "https://fluxions.ai/blog/vui-launch"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "robohive"
+description = "A unified framework for robot learning"
+category = "robotics"
+tags = ["benchmarks", "environments", "python", "reinforcement-learning", "robotics", "simulation", "tasks", "imitation-learning"]
+repository = "https://github.com/vikashplus/robohive"
+website = "https://sites.google.com/view/robohive"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "fess"
+description = "Open-source, self-hosted enterprise & site search server built on OpenSearch. Crawls web / file / DB / cloud sources, 20+ languages, REST API, and AI/RAG & semantic search. Apache-2.0."
+category = "mcp-servers"
+tags = ["java", "elasticsearch", "full-text-search", "lucene", "crawler", "enterprise-search", "search-engine", "search"]
+repository = "https://github.com/codelibs/fess"
+website = "https://fess.codelibs.org"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "python-sdks"
+description = "LiveKit real-time and server SDKs for Python"
+category = "agents"
+tags = ["ai", "webrtc", "agents", "python", "real-time"]
+repository = "https://github.com/livekit/python-sdks"
+website = "https://docs.livekit.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,10 @@
+name = "LaVague"
+description = "Large Action Model framework to develop AI Web Agents"
+category = "browser-automation"
+tags = ["ai", "browser", "large-action-model", "llm", "oss", "rag"]
+repository = "https://github.com/lavague-ai/LaVague"
+website = "https://lavague.ai"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

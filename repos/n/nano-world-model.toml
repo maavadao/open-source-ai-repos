@@ -1,0 +1,9 @@
+name = "nano-world-model"
+description = "A Minimalist, Batteries-included Repository for Advancing World Model Science."
+category = "video"
+tags = ["diffusion-forcing", "diffusion-models", "model-predictive-control", "nano", "planning", "robot-manipulation", "streaming-video", "video-generation"]
+repository = "https://github.com/simchowitzlabpublic/nano-world-model"
+website = "https://simchowitzlabpublic.github.io/nano-world-model/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

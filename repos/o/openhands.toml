@@ -1,0 +1,9 @@
+name = "OpenHands"
+description = "OpenHands: AI-Driven Development"
+category = "chat"
+tags = ["agent", "artificial-intelligence", "llm", "chatgpt", "claude-ai", "cli", "developer-tools", "gpt"]
+repository = "https://github.com/OpenHands/OpenHands"
+website = "https://openhands.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

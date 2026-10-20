@@ -1,0 +1,9 @@
+name = "openagi"
+description = "Paving the way for open agents and AGI for all."
+category = "agents"
+tags = ["agi", "generative-ai", "llm", "agents", "openagi", "openai", "hacktoberfest", "hacktoberfest-accepted"]
+repository = "https://github.com/aiplanethub/openagi"
+website = "https://openagi.aiplanet.com/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

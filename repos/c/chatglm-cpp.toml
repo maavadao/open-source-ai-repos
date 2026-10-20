@@ -1,0 +1,8 @@
+name = "chatglm.cpp"
+description = "C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & GLM4(V)"
+category = "models"
+tags = ["large-language-models", "chatglm", "nlp", "chatglm2", "chatglm3", "codegeex2-6b", "glm4"]
+repository = "https://github.com/li-plus/chatglm.cpp"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

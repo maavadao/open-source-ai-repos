@@ -1,0 +1,8 @@
+name = "3D-PointCloud"
+description = "Papers and Datasets about Point Cloud."
+category = "robotics"
+tags = ["point-cloud", "registration", "segmentation", "classification", "completion", "detection", "autonomous-driving", "generation"]
+repository = "https://github.com/zhulf0804/3D-PointCloud"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

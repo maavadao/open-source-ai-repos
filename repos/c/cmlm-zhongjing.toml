@@ -1,0 +1,8 @@
+name = "CMLM-ZhongJing"
+description = "首个中医大语言模型——“仲景”。受古代中医学巨匠张仲景深邃智慧启迪，专为传统中医领域打造的预训练大语言模型。 The first-ever Traditional Chinese Medicine large language model - \"CMLM-ZhongJing\". Inspired by the profound wisdom of the ancient Chinese medical master Zhang Zhongjing, it is a pre-trained large language model designed…"
+category = "chat"
+tags = ["chatbot", "chinese-medicine", "chinese-medicine-tcm", "large-language-models", "cmlm-zhongjing", "zhngzhongjing", "zhongjinggpt"]
+repository = "https://github.com/pariskang/CMLM-ZhongJing"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

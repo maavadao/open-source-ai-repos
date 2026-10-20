@@ -1,0 +1,9 @@
+name = "mahilo"
+description = "mahilo: Multi-Agent Human-in-the-Loop Framework is a flexible framework for creating multi-agent systems that can each interact with humans while sharing relevant context internally."
+category = "agents"
+tags = ["agents", "llm", "multi-agent"]
+repository = "https://github.com/wjayesh/mahilo"
+website = "https://mahilo.wjayesh.com/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

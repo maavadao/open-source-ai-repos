@@ -1,0 +1,8 @@
+name = "quadruped_ctrl"
+description = "MIT mini cheetah quadruped robot simulated in pybullet environment using ros."
+category = "robotics"
+tags = ["pybullet", "simulation", "ros", "mini-cheetah", "quadruped-robot", "quadruped", "mpc", "locomotion"]
+repository = "https://github.com/Derek-TH-Wang/quadruped_ctrl"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

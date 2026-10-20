@@ -1,0 +1,10 @@
+name = "xgboost"
+description = "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow"
+category = "ml-platforms"
+tags = ["gbdt", "gbrt", "gbm", "distributed-systems", "xgboost", "machine-learning"]
+repository = "https://github.com/dmlc/xgboost"
+website = "https://xgboost.readthedocs.io/"
+license = "Apache-2.0"
+language = "C++"
+skill_level = "beginner"
+added = 2026-10-20

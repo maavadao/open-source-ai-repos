@@ -1,0 +1,7 @@
+name = "papers_for_protein_design_using_DL"
+description = "List of papers about Proteins Design using Deep Learning"
+category = "ml-platforms"
+tags = ["deep-learning", "protein-design"]
+repository = "https://github.com/Peldom/papers_for_protein_design_using_DL"
+license = "GPL-3.0"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Few-Shot-Patch-Based-Training"
+description = "The official implementation of our SIGGRAPH 2020 paper Interactive Video Stylization Using Few-Shot Patch-Based Training"
+category = "image"
+tags = ["deep-learning", "generative-adversarial-network", "style-transfer", "gan", "image-generation", "image-to-image-translation", "pytorch"]
+repository = "https://github.com/OndrejTexler/Few-Shot-Patch-Based-Training"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

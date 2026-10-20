@@ -1,0 +1,8 @@
+name = "llm-zoomcamp"
+description = "LLM Zoomcamp - a free online course about real-life applications of LLMs. In 10 weeks you will learn how to build an AI system that answers questions about your knowledge base. Register here 🏼"
+category = "learning"
+repository = "https://github.com/DataTalksClub/llm-zoomcamp"
+website = "https://courses.datatalks.club/register/llm-zoomcamp/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

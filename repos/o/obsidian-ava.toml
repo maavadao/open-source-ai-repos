@@ -1,0 +1,9 @@
+name = "obsidian-ava"
+description = "Quickly format your notes with ChatGPT in Obsidian"
+category = "vision"
+tags = ["ai", "deep-learning", "language-model", "machine-learning", "natural-language-processing", "nlp", "computer-vision", "knowledge-management"]
+repository = "https://github.com/different-ai/obsidian-ava"
+website = "https://app.anotherai.co"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

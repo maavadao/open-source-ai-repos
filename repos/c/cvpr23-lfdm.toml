@@ -1,0 +1,8 @@
+name = "CVPR23_LFDM"
+description = "The pytorch implementation of our CVPR 2023 paper \"Conditional Image-to-Video Generation with Latent Flow Diffusion Models\""
+category = "video"
+tags = ["cvpr2023", "diffusion-models", "image-animation", "image-to-video", "video-generation", "video-prediction", "latent-diffusion", "optical-flow"]
+repository = "https://github.com/nihaomiao/CVPR23_LFDM"
+license = "BSD-2-Clause"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "awesome-deep-learning-papers"
+description = "The most cited deep learning papers"
+category = "learning"
+tags = ["deep-learning", "deep-neural-networks", "machine-learning"]
+repository = "https://github.com/terryum/awesome-deep-learning-papers"
+license = "NOASSERTION"
+language = "TeX"
+added = 2026-10-20

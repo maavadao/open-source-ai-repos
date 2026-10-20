@@ -1,0 +1,9 @@
+name = "LinearRAG"
+description = "[ICLR 2026] LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora"
+category = "llm-apps"
+tags = ["graphrag", "rag", "llms"]
+repository = "https://github.com/DEEP-PolyU/LinearRAG"
+website = "https://arxiv.org/pdf/2510.10114"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

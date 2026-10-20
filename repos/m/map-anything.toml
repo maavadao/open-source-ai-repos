@@ -1,0 +1,8 @@
+name = "map-anything"
+description = "MapAnything: Universal Feed-Forward Metric 3D Reconstruction"
+category = "robotics"
+tags = ["3d-reconstruction", "ai", "calibration", "depth-completion", "depth-estimation", "image-to-3d", "multi-view-stereo", "robotics"]
+repository = "https://github.com/facebookresearch/map-anything"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

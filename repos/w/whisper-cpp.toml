@@ -1,0 +1,9 @@
+name = "whisper.cpp"
+description = "Port of OpenAI's Whisper model in C/C++"
+category = "speech"
+tags = ["openai", "speech-to-text", "transformer", "whisper", "inference", "speech-recognition"]
+repository = "https://github.com/ggml-org/whisper.cpp"
+license = "MIT"
+language = "C++"
+skill_level = "intermediate"
+added = 2026-10-20

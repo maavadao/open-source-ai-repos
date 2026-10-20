@@ -1,0 +1,9 @@
+name = "chatgpt-subtitle-translator"
+description = "Token efficient translation tool based on ChatGPT or any OpenAI compatible LLM chat completion API"
+category = "local-llms"
+tags = ["chatgpt", "cli", "gui", "openai", "srt", "srt-subtitles", "subtitle", "web"]
+repository = "https://github.com/Cerlancism/chatgpt-subtitle-translator"
+website = "https://cerlancism.github.io/chatgpt-subtitle-translator/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

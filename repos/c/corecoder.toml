@@ -1,0 +1,9 @@
+name = "CoreCoder"
+description = "Minimal AI coding agent (~1,000 lines of Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder."
+category = "coding"
+tags = ["ai-agent", "claude-code", "cli", "coding-agent", "deepseek", "developer-tools", "llm", "openai"]
+repository = "https://github.com/he-yufeng/CoreCoder"
+website = "https://pypi.org/project/corecoder/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

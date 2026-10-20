@@ -1,0 +1,9 @@
+name = "memsearch"
+description = "A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus."
+category = "coding"
+tags = ["agent-memory", "claude-code", "claude-code-plugin", "memory", "openclaw", "rag", "agent", "embeddings"]
+repository = "https://github.com/zilliztech/memsearch"
+website = "https://zilliztech.github.io/memsearch/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

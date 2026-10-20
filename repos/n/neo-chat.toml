@@ -1,0 +1,9 @@
+name = "neo-chat"
+description = "A local-first AI chat workspace for models, agents, skills, plugins, search, RAG, voice, memory, and artifacts."
+category = "chat"
+tags = ["ai", "gemini", "ai-chat", "openai", "skills"]
+repository = "https://github.com/u14app/neo-chat"
+website = "https://neo.u14.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

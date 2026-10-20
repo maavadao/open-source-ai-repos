@@ -1,0 +1,9 @@
+name = "agentos"
+description = "TypeScript AI agent framework: cognitive memory, dynamic personalities, emergent behaviors and self-building designs"
+category = "security"
+tags = ["agentic-ai", "emergent-behavior", "ai-agents", "guardrails", "multi-agent", "rag", "agent-framework", "autonomous-agents"]
+repository = "https://github.com/framerslab/agentos"
+website = "https://docs.agentos.sh"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

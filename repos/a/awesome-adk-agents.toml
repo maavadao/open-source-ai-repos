@@ -1,0 +1,8 @@
+name = "awesome-adk-agents"
+description = "Curated collection of AI agents built with Google’s Agent Development Kit (ADK): templates, best practices, and production-ready examples for research, business, automation, education, and more."
+category = "learning"
+tags = ["adk", "adk-python", "adk-web", "awesome", "awesome-list", "gemini-ai", "google-adk", "agentic-ai"]
+repository = "https://github.com/Sri-Krishna-V/awesome-adk-agents"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

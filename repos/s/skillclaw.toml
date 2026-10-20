@@ -1,0 +1,8 @@
+name = "SkillClaw"
+description = "Let Skills Evolve Collectively with Agentic Evolver"
+category = "agents"
+tags = ["agent", "llm", "openclaw", "skills", "hermes", "skill-learning", "ai-agent", "continual-learning"]
+repository = "https://github.com/AMAP-ML/SkillClaw"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

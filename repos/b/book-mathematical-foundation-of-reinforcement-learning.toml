@@ -1,0 +1,8 @@
+name = "Book-Mathematical-Foundation-of-Reinforcement-Learning"
+description = "This is the homepage of a new book entitled \"Mathematical Foundations of Reinforcement Learning.\""
+category = "learning"
+tags = ["reinforcement-learning", "book", "courses", "tutorials", "artificial-intelligence"]
+repository = "https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning"
+license = "NOASSERTION"
+language = "MATLAB"
+added = 2026-10-20

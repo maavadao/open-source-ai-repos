@@ -1,0 +1,9 @@
+name = "vektori"
+description = "Memory that remembers the story not just the facts. File System Memory and Three layer sentence graph for AI agents -> Facts, Episodes, raw Sentences. One DB. Zero config."
+category = "vector-databases"
+tags = ["ai-agents", "knowledge-graph", "llm", "long-term-memory", "memory", "ollama", "open-source", "pgvector"]
+repository = "https://github.com/bandr-ai/vektori"
+website = "https://vektori.cloud"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

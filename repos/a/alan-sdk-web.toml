@@ -1,0 +1,8 @@
+name = "alan-sdk-web"
+description = "The Self-Coding System for Your App — Alan AI SDK for Web"
+category = "no-code"
+tags = ["voice-ai", "conversational-ai", "machine-learning", "ai-chat", "generative-ai", "ai", "ai-assistant", "ai-chat-bot"]
+repository = "https://github.com/alan-ai/alan-sdk-web"
+website = "https://alan.app/"
+license = "NOASSERTION"
+added = 2026-10-20

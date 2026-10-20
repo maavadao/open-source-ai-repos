@@ -1,0 +1,9 @@
+name = "AutoScientists"
+description = "AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation"
+category = "agents"
+tags = ["agents", "ai-scientists", "long-running-agents", "self-evolving-agents", "self-organizing", "ai-for-science", "ai-for-scientific-discovery", "automated-science"]
+repository = "https://github.com/mims-harvard/AutoScientists"
+website = "https://autoscientists.openscientist.ai"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

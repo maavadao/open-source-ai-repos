@@ -1,0 +1,8 @@
+name = "wav2vec2-live"
+description = "A live speech recognition using Facebooks wav2vec 2.0 model."
+category = "speech"
+tags = ["speech-recognition", "wav2vec2", "pyaudio", "wav2vec", "speech-to-text", "asr", "speech"]
+repository = "https://github.com/oliverguhr/wav2vec2-live"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

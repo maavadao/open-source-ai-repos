@@ -1,0 +1,8 @@
+name = "text-generation-webui-colab"
+description = "A colab gradio web UI for running Large Language Models"
+category = "models"
+tags = ["colab", "colab-notebook", "colaboratory", "gradio", "llama", "llm", "alpaca", "koala"]
+repository = "https://github.com/camenduru/text-generation-webui-colab"
+license = "Unlicense"
+language = "Jupyter Notebook"
+added = 2026-10-20

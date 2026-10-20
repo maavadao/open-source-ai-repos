@@ -1,0 +1,9 @@
+name = "llm-gateway"
+description = "Open Source LLM Gateway"
+category = "ml-platforms"
+tags = ["openclaw", "cost-tracking", "llm-observability", "token-tracking", "llm-router", "hermes-agent", "ai", "ai-"]
+repository = "https://github.com/mnfst/llm-gateway"
+website = "https://manifest.build"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

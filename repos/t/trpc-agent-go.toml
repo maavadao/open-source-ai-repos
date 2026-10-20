@@ -1,0 +1,9 @@
+name = "trpc-agent-go"
+description = "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability."
+category = "mcp-servers"
+tags = ["a2a", "agent", "ai", "llm", "mcp", "a2a-protocol", "ag-ui", "agent-framework"]
+repository = "https://github.com/trpc-group/trpc-agent-go"
+website = "https://trpc-group.github.io/trpc-agent-go/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

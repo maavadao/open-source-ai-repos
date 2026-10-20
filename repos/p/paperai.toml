@@ -1,0 +1,8 @@
+name = "paperai"
+description = "AI for medical and scientific papers"
+category = "data-science"
+tags = ["python", "machine-learning", "nlp", "medical", "search", "scientific-papers", "document-search", "txtai"]
+repository = "https://github.com/neuml/paperai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

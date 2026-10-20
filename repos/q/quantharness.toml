@@ -1,0 +1,8 @@
+name = "QuantHarness"
+description = "Official Repository for QuantHarness"
+category = "agents"
+tags = ["agentic-ai", "large-language-models"]
+repository = "https://github.com/Y-Research-SBU/QuantHarness"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

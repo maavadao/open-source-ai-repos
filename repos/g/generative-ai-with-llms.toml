@@ -1,0 +1,9 @@
+name = "Generative-AI-with-LLMs"
+description = "In Generative AI with Large Language Models (LLMs), you’ll learn the fundamentals of how generative AI works, and how to deploy it in real-world applications."
+category = "models"
+tags = ["generative-ai", "large-language-models", "llms", "machine-learning", "python-programming"]
+repository = "https://github.com/Ryota-Kawamura/Generative-AI-with-LLMs"
+website = "https://www.deeplearning.ai/courses/generative-ai-with-llms/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

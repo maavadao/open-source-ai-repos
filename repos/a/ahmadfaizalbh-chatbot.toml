@@ -1,0 +1,9 @@
+name = "Chatbot"
+description = "Python ChatBot"
+category = "chat"
+tags = ["chatbot", "python", "ai-engine", "chatbotai", "python-chatbot", "bots", "chatbots"]
+repository = "https://github.com/ahmadfaizalbh/Chatbot"
+website = "https://chatbot.obbne.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

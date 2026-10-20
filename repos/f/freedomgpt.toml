@@ -1,0 +1,9 @@
+name = "FreedomGPT"
+description = "This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface"
+category = "models"
+tags = ["electron", "gpt", "llm", "react"]
+repository = "https://github.com/ohmplatform/FreedomGPT"
+website = "http://www.freedomgpt.com"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

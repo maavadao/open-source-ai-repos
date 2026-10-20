@@ -1,0 +1,9 @@
+name = "CLIP4Clip"
+description = "An official implementation for \"CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval\""
+category = "models"
+tags = ["video-text-retrieval", "multimodal-learning", "multimodality", "multimodal", "search", "ranking", "retrieval-model", "retrieval"]
+repository = "https://github.com/ArrowLuo/CLIP4Clip"
+website = "https://arxiv.org/abs/2104.08860"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

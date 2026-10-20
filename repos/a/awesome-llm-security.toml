@@ -1,0 +1,7 @@
+name = "awesome-llm-security"
+description = "A curation of awesome tools, documents and projects about LLM Security."
+category = "learning"
+tags = ["awesome", "awesome-list", "llm", "security"]
+repository = "https://github.com/corca-ai/awesome-llm-security"
+license = "NOASSERTION"
+added = 2026-10-20

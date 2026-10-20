@@ -1,0 +1,7 @@
+name = "My_Bibliography_for_Research_on_Autonomous_Driving"
+description = "Personal notes about scientific and research works on \"Decision-Making for Autonomous Driving\""
+category = "ml-platforms"
+tags = ["pomdp", "mdp", "reinforcement-learning", "inverse-reinforcement-learning", "belief-planning", "planning", "model-based-reinforcement-learning", "decision-making"]
+repository = "https://github.com/chauvinSimon/My_Bibliography_for_Research_on_Autonomous_Driving"
+license = "NOASSERTION"
+added = 2026-10-20

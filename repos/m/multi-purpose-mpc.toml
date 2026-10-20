@@ -1,0 +1,8 @@
+name = "Multi-Purpose-MPC"
+description = "Multi-Purpose MPC for Reference Path Tracking, Time-Optimal Driving and Obstacle Avoidance"
+category = "robotics"
+tags = ["motion-planning", "model-predictive-control", "autonomous-driving", "obstacle-avoidance", "convex-optimization"]
+repository = "https://github.com/matssteinweg/Multi-Purpose-MPC"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "NYU-DLSP21"
+description = "NYU Deep Learning Spring 2021"
+category = "ml-platforms"
+tags = ["deep-learning", "yann-le-cunn", "nyu", "ebm"]
+repository = "https://github.com/Atcold/NYU-DLSP21"
+website = "https://atcold.github.io/NYU-DLSP21/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

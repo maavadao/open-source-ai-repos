@@ -1,0 +1,9 @@
+name = "bayesflow"
+description = "A Python library for simulation-based inference with deep learning"
+category = "ml-platforms"
+tags = ["deep-learning", "amortized-inference", "bayesian-statistics", "computational-modeling", "generative-ai", "generative-models", "neural-networks", "simulation-based-inference"]
+repository = "https://github.com/bayesflow-org/bayesflow"
+website = "https://bayesflow.org/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

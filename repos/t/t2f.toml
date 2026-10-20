@@ -1,0 +1,8 @@
+name = "T2F"
+description = "T2F: text to face generation using Deep Learning"
+category = "image"
+tags = ["gan", "generative-adversarial-network", "adversarial-machine-learning", "progressively-growing-gan", "text-to-image"]
+repository = "https://github.com/akanimax/T2F"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

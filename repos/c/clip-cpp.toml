@@ -1,0 +1,8 @@
+name = "clip.cpp"
+description = "CLIP inference in plain C/C++ with no extra dependencies"
+category = "models"
+tags = ["c", "clip", "cpp", "ggml", "image-search", "multimodal"]
+repository = "https://github.com/monatis/clip.cpp"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

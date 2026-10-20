@@ -1,0 +1,9 @@
+name = "any-agent"
+description = "A single interface to use and evaluate different agent frameworks"
+category = "mcp-servers"
+tags = ["agent-evaluation", "agents", "ai", "a2a", "mcp"]
+repository = "https://github.com/mozilla-ai/any-agent"
+website = "https://docs.mozilla.ai/any-agent"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

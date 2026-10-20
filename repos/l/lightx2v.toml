@@ -1,0 +1,9 @@
+name = "LightX2V"
+description = "Lightweight Image Video Action Generation Inference Framework"
+category = "video"
+tags = ["video-generation", "wan-video", "diffusion-models", "auto-regressive-diffusion-model", "world-models", "qwen-image", "ltx-video", "hunyuan-video"]
+repository = "https://github.com/ModelTC/LightX2V"
+website = "https://x2v.light-ai.top"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

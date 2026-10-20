@@ -1,0 +1,9 @@
+name = "EasyInstruct"
+description = "[ACL 2024] An Easy-to-use Instruction Processing Framework for LLMs."
+category = "chat"
+tags = ["gpt-3", "instructions", "prompt", "api", "chain-of-thought", "gpt", "large-language-models", "multimodal"]
+repository = "https://github.com/zjunlp/EasyInstruct"
+website = "https://zjunlp.github.io/project/EasyInstruct"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

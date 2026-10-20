@@ -1,0 +1,8 @@
+name = "RLQuant"
+description = "Applying Reinforcement Learning in Quantitative Trading"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "trading", "portfolio-management", "finance-market-trading"]
+repository = "https://github.com/yuriak/RLQuant"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

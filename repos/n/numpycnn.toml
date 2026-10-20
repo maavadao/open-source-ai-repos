@@ -1,0 +1,9 @@
+name = "NumPyCNN"
+description = "Building Convolutional Neural Networks From Scratch using NumPy"
+category = "learning"
+tags = ["numpy", "convolutional-neural-networks", "convnet", "cnn", "python", "computer-vision", "data-science", "relu"]
+repository = "https://github.com/ahmedfgad/NumPyCNN"
+website = "https://pygad.readthedocs.io"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "BitNet"
+description = "Official inference framework for 1-bit LLMs"
+category = "local-llms"
+repository = "https://github.com/microsoft/BitNet"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

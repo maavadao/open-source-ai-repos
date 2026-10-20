@@ -1,0 +1,9 @@
+name = "SimCLR"
+description = "PyTorch implementation of SimCLR: A Simple Framework for Contrastive Learning of Visual Representations"
+category = "ml-platforms"
+tags = ["machine-learning", "deep-learning", "representation-learning", "pytorch-implementation", "pytorch", "torchvision", "unsupervised-learning", "contrastive-loss"]
+repository = "https://github.com/sthalles/SimCLR"
+website = "https://sthalles.github.io/simple-self-supervised-learning/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

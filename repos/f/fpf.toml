@@ -1,0 +1,8 @@
+name = "FPF"
+description = "FPF (First Principles Framework) Library: a library of methods and pattern languages for engineering, research, management and human development, used by people and AI agents. Includes FPF Core, domain frameworks (DPFs) and Suites."
+category = "agents"
+tags = ["systems-engineering", "ai-agents", "first-principles", "conceptual-modeling", "decision-making", "human-ai-collaboration", "ai-native", "engineering-design"]
+repository = "https://github.com/ailev/FPF"
+website = "https://fpf.tools"
+license = "CC-BY-4.0"
+added = 2026-10-20

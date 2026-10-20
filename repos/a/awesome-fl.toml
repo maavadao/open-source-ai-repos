@@ -1,0 +1,9 @@
+name = "Awesome-FL"
+description = "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)"
+category = "learning"
+tags = ["awesome", "deep-learning", "federated-learning", "graph-neural-networks", "machine-learning", "tabular-data", "federated-learning-framework", "computer-vision"]
+repository = "https://github.com/youngfish42/Awesome-FL"
+website = "https://youngfish42.github.io/Awesome-FL"
+license = "CC-BY-SA-4.0"
+language = "Python"
+added = 2026-10-20

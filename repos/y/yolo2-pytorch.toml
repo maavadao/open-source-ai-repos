@@ -1,0 +1,8 @@
+name = "yolo2-pytorch"
+description = "PyTorch implementation of the YOLO (You Only Look Once) v2"
+category = "vision"
+tags = ["yolo2", "pytorch", "python", "object-detection", "deep-learning", "deep-neural-networks", "caffe2", "onnx"]
+repository = "https://github.com/ruiminshen/yolo2-pytorch"
+license = "LGPL-3.0"
+language = "Python"
+added = 2026-10-20

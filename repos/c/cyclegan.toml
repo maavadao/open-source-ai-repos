@@ -1,0 +1,8 @@
+name = "CycleGAN"
+description = "Software that can generate photos from paintings, turn horses into zebras, perform style transfer, and more."
+category = "image"
+tags = ["gan", "generative-adversarial-network", "deep-learning", "image-generation", "image-manipulation", "cyclegan", "pix2pix", "gans"]
+repository = "https://github.com/junyanz/CycleGAN"
+license = "NOASSERTION"
+language = "Lua"
+added = 2026-10-20

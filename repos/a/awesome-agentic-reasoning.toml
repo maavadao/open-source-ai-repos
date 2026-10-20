@@ -1,0 +1,8 @@
+name = "Awesome-Agentic-Reasoning"
+description = "A curated list of papers and resources based on the survey \"Agentic Reasoning for Large Language Models\""
+category = "learning"
+tags = ["agent", "agentic-ai", "awesome-resources", "generative-ai", "large-language-models", "reasoning", "survey"]
+repository = "https://github.com/weitianxin/Awesome-Agentic-Reasoning"
+website = "https://arxiv.org/abs/2601.12538"
+license = "MIT"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ComfyUI-AutomaticCFG"
+description = "If your image was a pizza and the CFG the temperature of your oven: this is a thermostat that ensures it is always cooked like you want. Also adds a 30% speed increase. For ComfyUI / StableDiffusion"
+category = "image"
+tags = ["comfy", "comfyui", "comfyui-nodes", "generative-ai", "stable-diffusion"]
+repository = "https://github.com/Extraltodeus/ComfyUI-AutomaticCFG"
+website = "https://www.patreon.com/extraltodeus"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

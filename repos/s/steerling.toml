@@ -1,0 +1,9 @@
+name = "steerling"
+description = "Interpretable Causal Diffusion Language Models"
+category = "image"
+tags = ["attribution", "concepts", "decomposition", "diffusion", "explainability", "explanations", "features", "generative-ai"]
+repository = "https://github.com/guidelabs/steerling"
+website = "https://www.guidelabs.ai"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "nanobanana-trending-prompts"
+description = "1,400+ curated trending AI image prompts from X, ranked by engagement. Works with NanoBanana, GPT Image 2, Midjourney"
+category = "skills-prompts"
+tags = ["awesome-list", "gpt-image", "image-generation", "midjourney", "nanobanana", "prompt-engineering", "prompts", "gemini3proimage"]
+repository = "https://github.com/jau123/nanobanana-trending-prompts"
+website = "https://meigen.ai"
+license = "NOASSERTION"
+added = 2026-10-20

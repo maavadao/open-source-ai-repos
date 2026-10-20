@@ -1,0 +1,9 @@
+name = "BetterChatGPT"
+description = "An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)"
+category = "chat"
+tags = ["chatgpt", "free", "chatbot", "gpt-3", "gpt-4", "better-chat-gpt"]
+repository = "https://github.com/ztjhz/BetterChatGPT"
+website = "http://bettergpt.chat/"
+license = "CC0-1.0"
+language = "TypeScript"
+added = 2026-10-20

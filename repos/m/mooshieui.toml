@@ -1,0 +1,9 @@
+name = "MooshieUI"
+description = "A front-end UI for ComfyUI made for beginner level users."
+category = "image"
+tags = ["ai-art", "comfyui", "desktop-app", "flux", "generative-ai", "image-generation", "inpainting", "rust"]
+repository = "https://github.com/Mooshieblob1/MooshieUI"
+website = "https://mooshieui.com"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

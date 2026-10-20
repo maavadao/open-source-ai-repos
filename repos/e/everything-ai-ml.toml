@@ -1,0 +1,9 @@
+name = "everything-ai-ml"
+description = "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more."
+category = "learning"
+tags = ["ai", "ai-agents", "artificial-intelligence", "machine-learning", "ml", "ml-ops"]
+repository = "https://github.com/viveknaskar/everything-ai-ml"
+website = "https://viveknaskar.github.io/everything-ai-ml/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

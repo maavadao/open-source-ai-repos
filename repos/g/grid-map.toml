@@ -1,0 +1,8 @@
+name = "grid_map"
+description = "Universal grid map library for mobile robotic mapping"
+category = "robotics"
+tags = ["ros", "grid-map", "mapping", "terrain", "height-map", "cpp", "opencv", "occupancy"]
+repository = "https://github.com/ANYbotics/grid_map"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

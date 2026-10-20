@@ -1,0 +1,9 @@
+name = "FreeDrag"
+description = "[CVPR 2024] Official implementation of FreeDrag: Feature Dragging for Reliable Point-based Image Editing"
+category = "image"
+tags = ["draggan", "image-editing", "image-generation", "image-manipulation"]
+repository = "https://github.com/LPengYang/FreeDrag"
+website = "https://lin-chen.site/projects/freedrag/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

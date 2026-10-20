@@ -1,0 +1,8 @@
+name = "z80ai"
+description = "Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage computer."
+category = "local-llms"
+tags = ["chatbot", "code-golf", "cpm", "language-model", "machine-learning", "nlp", "quantization", "retro"]
+repository = "https://github.com/HarryR/z80ai"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

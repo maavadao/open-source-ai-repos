@@ -1,0 +1,9 @@
+name = "kusion"
+description = "Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP)."
+category = "llm-apps"
+tags = ["cloud-native", "devops", "kubernetes", "platform-engineering", "infra-as-code", "go", "platform-orchestrator", "hacktoberfest"]
+repository = "https://github.com/KusionStack/kusion"
+website = "https://kusionstack.io"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

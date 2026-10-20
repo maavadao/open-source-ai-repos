@@ -1,0 +1,10 @@
+name = "pyannote-audio"
+description = "Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding"
+category = "speech"
+tags = ["pytorch", "speech-processing", "speaker-diarization", "speech-activity-detection", "speaker-change-detection", "speaker-embedding", "voice-activity-detection", "pretrained-models"]
+repository = "https://github.com/pyannote/pyannote-audio"
+website = "https://www.pyannote.ai"
+license = "MIT"
+language = "Jupyter Notebook"
+skill_level = "intermediate"
+added = 2026-10-20

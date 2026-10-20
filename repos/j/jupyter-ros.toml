@@ -1,0 +1,9 @@
+name = "jupyter-ros"
+description = "Jupyter widget helpers for ROS, the Robot Operating System"
+category = "robotics"
+tags = ["ros", "jupyter", "python"]
+repository = "https://github.com/RoboStack/jupyter-ros"
+website = "https://jupyter-ros.readthedocs.io/en/latest/"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

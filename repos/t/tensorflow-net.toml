@@ -1,0 +1,9 @@
+name = "TensorFlow.NET"
+description = ".NET Standard bindings for Google's TensorFlow for developing, training and deploying Machine Learning models in C# and F#."
+category = "chat"
+tags = ["tensorflow", "machine-learning", "scisharp", "deep-learning", "dotnetcore", "chatbot", "csharp", "keras"]
+repository = "https://github.com/SciSharp/TensorFlow.NET"
+website = "https://scisharp.github.io/tensorflow-net-docs"
+license = "Apache-2.0"
+language = "C#"
+added = 2026-10-20

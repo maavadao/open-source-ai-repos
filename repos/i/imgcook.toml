@@ -1,0 +1,8 @@
+name = "imgcook"
+description = "Generate pages from any sketch or images."
+category = "data-science"
+tags = ["design-to-code", "frontend", "machine-learning"]
+repository = "https://github.com/imgcook/imgcook"
+website = "https://imgcook.com"
+license = "NOASSERTION"
+added = 2026-10-20

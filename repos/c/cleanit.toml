@@ -1,0 +1,8 @@
+name = "CleanIt"
+description = "Open-source Autonomy Software in Rust-lang using gRPC for the Roomba series robot vacuum cleaners. Under development."
+category = "robotics"
+tags = ["irobot", "grpc", "serial", "rust-lang", "roomba", "robotics", "autonomy", "slam"]
+repository = "https://github.com/Sollimann/CleanIt"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

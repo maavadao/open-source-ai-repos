@@ -1,0 +1,9 @@
+name = "TaskingAI"
+description = "The open source platform for AI-native application development."
+category = "agents"
+tags = ["ai", "ai-native", "generative-ai", "gpt", "llm", "vector", "rag", "retrieval-augmented-generation"]
+repository = "https://github.com/TaskingAI/TaskingAI"
+website = "https://www.tasking.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

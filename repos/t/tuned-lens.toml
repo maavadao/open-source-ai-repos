@@ -1,0 +1,9 @@
+name = "tuned-lens"
+description = "Tools for understanding how transformer predictions are built layer-by-layer"
+category = "models"
+tags = ["machine-learning", "pytorch", "transformers"]
+repository = "https://github.com/AlignmentResearch/tuned-lens"
+website = "https://tuned-lens.readthedocs.io/en/latest/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

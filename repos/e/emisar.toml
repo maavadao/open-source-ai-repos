@@ -1,0 +1,9 @@
+name = "emisar"
+description = "Let AI agents investigate and operate infrastructure through declared actions, bounded by policy and host-side checks. Approvals when required, with an audit trail. By Protectorate."
+category = "mcp-servers"
+tags = ["ai", "devops", "elixir", "go", "security", "infrastructure", "mcp", "ai-agents"]
+repository = "https://github.com/AndrewDryga/emisar"
+website = "https://emisar.dev/"
+license = "NOASSERTION"
+language = "Elixir"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "PatrickStar"
+description = "PatrickStar enables Larger, Faster, Greener Pretrained Models for NLP and democratizes AI for everyone."
+category = "models"
+tags = ["nlp", "pretrained-models", "gpt", "bert", "pytorch"]
+repository = "https://github.com/Tencent/PatrickStar"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

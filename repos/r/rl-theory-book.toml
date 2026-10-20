@@ -1,0 +1,8 @@
+name = "RL-Theory-book"
+description = "Reinforcement learning theory book about foundations of deep RL algorithms with proofs."
+category = "learning"
+tags = ["reinforcement-learning", "deep-reinforcement-learning", "rl", "reinforcement-learning-algorithms", "theory", "book"]
+repository = "https://github.com/FortsAndMills/RL-Theory-book"
+license = "NOASSERTION"
+language = "TeX"
+added = 2026-10-20

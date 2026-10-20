@@ -1,0 +1,9 @@
+name = "SpatialGen"
+description = "[3DV 2026] SpatialGen: Layout-guided 3D Indoor Scene Generation"
+category = "image"
+tags = ["image-generation", "layout", "mvd"]
+repository = "https://github.com/manycore-research/SpatialGen"
+website = "https://manycore-research.github.io/SpatialGen"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

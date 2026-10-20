@@ -1,0 +1,8 @@
+name = "tavily-key-generator"
+description = "Multi-service toolkit for Tavily and Firecrawl signup automation, key validation, and isolated proxy pools."
+category = "mcp-servers"
+tags = ["api-key-generator", "browser-automation", "camoufox", "cloudflare", "email-automation", "fastapi", "firecrawl", "mcp"]
+repository = "https://github.com/skernelx/tavily-key-generator"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

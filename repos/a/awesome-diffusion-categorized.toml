@@ -1,0 +1,7 @@
+name = "awesome-diffusion-categorized"
+description = "collection of diffusion model papers categorized by their subareas"
+category = "learning"
+tags = ["diffusion", "stable-diffusion", "diffusion-model", "diffusion-models", "continual-learning", "controlnet", "few-shot", "image-edit"]
+repository = "https://github.com/wangkai930418/awesome-diffusion-categorized"
+license = "NOASSERTION"
+added = 2026-10-20

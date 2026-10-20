@@ -1,0 +1,8 @@
+name = "CosPlace"
+description = "Official code for CVPR 2022 paper \"Rethinking Visual Geo-localization for Large-Scale Applications\""
+category = "vision"
+tags = ["computer-vision", "dataset", "deep-learning", "geolocalization", "localization", "place-recognition", "state-of-the-art", "pytorch"]
+repository = "https://github.com/gmberton/CosPlace"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

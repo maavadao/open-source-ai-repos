@@ -1,0 +1,9 @@
+name = "featuretools"
+description = "An open source python library for automated feature engineering"
+category = "ml-platforms"
+tags = ["feature-engineering", "machine-learning", "data-science", "automated-machine-learning", "automl", "python", "scikit-learn", "automated-feature-engineering"]
+repository = "https://github.com/alteryx/featuretools"
+website = "https://www.featuretools.com"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "hybridclaw"
+description = "Enterprise-ready self-hosted AI assistant runtime with sandboxed execution, secure credentials, approvals, and memory"
+category = "coding"
+tags = ["enterprise-ai", "gdpr", "local-llm", "proactive-agent", "rag", "ai", "ai-agents", "anthropic"]
+repository = "https://github.com/HybridAIOne/hybridclaw"
+website = "https://www.hybridclaw.io/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

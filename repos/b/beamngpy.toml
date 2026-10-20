@@ -1,0 +1,9 @@
+name = "BeamNGpy"
+description = "Python API for BeamNG.tech"
+category = "robotics"
+tags = ["ai", "python", "beamng", "driving", "simulator", "simulator-api", "autonomous-vehicles", "autonomous-driving"]
+repository = "https://github.com/BeamNG/BeamNGpy"
+website = "https://beamng.tech"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

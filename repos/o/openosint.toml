@@ -1,0 +1,9 @@
+name = "OpenOSINT"
+description = "AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 20 tools. Works with Claude, GPT-4, or local models. For authorized security research only."
+category = "mcp-servers"
+tags = ["ai-agent", "anthropic", "claude", "cybersecurity", "osint", "python", "security", "terminal"]
+repository = "https://github.com/OpenOSINT/OpenOSINT"
+website = "https://openosint.tech"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

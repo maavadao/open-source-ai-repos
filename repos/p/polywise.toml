@@ -1,0 +1,9 @@
+name = "polywise"
+description = "The open source agentic content system to make your contents alive. Self-hosted on any platform."
+category = "no-code"
+tags = ["agent", "ai", "assistant", "memory", "self-hosted", "twin", "polywise", "database"]
+repository = "https://github.com/MatrixAges/polywise"
+website = "https://polywise.io"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

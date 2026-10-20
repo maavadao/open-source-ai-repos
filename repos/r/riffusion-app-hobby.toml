@@ -1,0 +1,9 @@
+name = "riffusion-app-hobby"
+description = "Stable diffusion for real-time music generation (web app)"
+category = "speech"
+tags = ["ai", "audio", "diffusion", "music", "nextjs", "stable-diffusion", "threejs"]
+repository = "https://github.com/riffusion/riffusion-app-hobby"
+website = "https://riffusion.vercel.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

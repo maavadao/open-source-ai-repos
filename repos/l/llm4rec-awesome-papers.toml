@@ -1,0 +1,7 @@
+name = "LLM4Rec-Awesome-Papers"
+description = "A list of awesome papers and resources of recommender system on large language model (LLM)."
+category = "learning"
+tags = ["large-language-models", "recommender-system", "survey", "llm4rec", "datasets", "awesome"]
+repository = "https://github.com/WLiK/LLM4Rec-Awesome-Papers"
+license = "NOASSERTION"
+added = 2026-10-20

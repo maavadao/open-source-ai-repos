@@ -1,0 +1,9 @@
+name = "labml"
+description = "Monitor deep learning model training and hardware usage from your mobile phone"
+category = "ml-platforms"
+tags = ["machine-learning", "deep-learning", "pytorch", "experiment", "analytics", "visualization", "tensorboard", "mobile"]
+repository = "https://github.com/labmlai/labml"
+website = "https://labml.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

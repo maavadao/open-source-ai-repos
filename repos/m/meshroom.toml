@@ -1,0 +1,9 @@
+name = "Meshroom"
+description = "Node-based Visual Programming Toolbox"
+category = "no-code"
+tags = ["photogrammetry", "computer-vision", "3d-reconstruction", "alicevision", "structure-from-motion", "multi-view-stereo", "camera-tracking", "hdr-imaging"]
+repository = "https://github.com/alicevision/Meshroom"
+website = "http://meshroom.org"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

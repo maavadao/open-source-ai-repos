@@ -1,0 +1,9 @@
+name = "DeepKE"
+description = "[EMNLP 2022] An Open Toolkit for Knowledge Graph Extraction and Construction"
+category = "llm-apps"
+tags = ["knowledge-graph", "relation-extraction", "chinese", "named-entity-recognition", "attribute-extraction", "low-resource", "document-level", "information-extraction"]
+repository = "https://github.com/zjunlp/DeepKE"
+website = "http://deepke.zjukg.cn/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

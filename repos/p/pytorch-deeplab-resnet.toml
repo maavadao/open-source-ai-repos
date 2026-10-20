@@ -1,0 +1,8 @@
+name = "pytorch-deeplab-resnet"
+description = "DeepLab resnet v2 model in pytorch"
+category = "vision"
+tags = ["deep-learning", "deeplab", "pytorch", "semantic-segmentation", "deeplab-resnet", "pascal-voc", "computer-vision"]
+repository = "https://github.com/isht7/pytorch-deeplab-resnet"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

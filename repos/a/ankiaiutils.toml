@@ -1,0 +1,8 @@
+name = "AnkiAIUtils"
+description = "AI-powered tools to enhance Anki flashcards with explanations, mnemonics, illustrations, and adaptive learning for medical school and beyond"
+category = "image"
+tags = ["anki", "dalle-2", "dalle-3", "illustrations", "learning", "llm", "medical", "mnemonics"]
+repository = "https://github.com/thiswillbeyourgithub/AnkiAIUtils"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

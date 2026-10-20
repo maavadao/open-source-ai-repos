@@ -1,0 +1,9 @@
+name = "cli"
+description = "QA Wolf from anywhere — your terminal, your CI, your AI agent."
+category = "browser-automation"
+tags = ["testing", "qa", "end-to-end-testing", "playwright", "automation", "cli", "e2e", "qawolf"]
+repository = "https://github.com/qawolf/cli"
+website = "https://docs.qawolf.com/libraries/cli/api-reference"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

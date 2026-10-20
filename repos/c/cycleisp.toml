@@ -1,0 +1,8 @@
+name = "CycleISP"
+description = "[CVPR 2020--Oral] CycleISP: Real Image Restoration via Improved Data Synthesis"
+category = "vision"
+tags = ["image-denoising", "data-synthesis", "camera-imaging-pipeline", "low-level-vision", "cycleisp", "computer-vision", "image-restoration", "pytorch"]
+repository = "https://github.com/swz30/CycleISP"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

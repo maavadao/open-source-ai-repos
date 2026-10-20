@@ -1,0 +1,10 @@
+name = "llama_index"
+description = "LlamaIndex is the document processing platform for AI"
+category = "llm-apps"
+tags = ["agents", "application", "data", "fine-tuning", "framework", "llamaindex", "llm", "rag"]
+repository = "https://github.com/run-llama/llama_index"
+website = "https://www.llamaindex.ai"
+license = "MIT"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

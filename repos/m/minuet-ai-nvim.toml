@@ -1,0 +1,8 @@
+name = "minuet-ai.nvim"
+description = "Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more."
+category = "models"
+tags = ["ai", "code-completion", "llm", "neovim", "neovim-plugin"]
+repository = "https://github.com/milanglacier/minuet-ai.nvim"
+license = "GPL-3.0"
+language = "Lua"
+added = 2026-10-20

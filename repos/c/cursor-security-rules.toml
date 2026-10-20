@@ -1,0 +1,7 @@
+name = "cursor-security-rules"
+description = "This repository contains Cursor Security Rules designed to improve the security of both development workflows and AI agent usage within the Cursor environment. These rules aim to enforce safe coding practices, control sensitive operations, and reduce risk in AI-assisted…"
+category = "skills-prompts"
+tags = ["agents", "ai", "aiagents", "cursor", "cursorrules", "security", "agent-security", "cursor-rules"]
+repository = "https://github.com/matank001/cursor-security-rules"
+license = "MIT"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "DiffusionToolkit"
+description = "Metadata-indexer and Viewer for AI-generated images"
+category = "image"
+tags = ["csharp", "dotnet", "image-indexing", "image-viewer", "stable-diffusion", "wpf", "pnginfo"]
+repository = "https://github.com/RupertAvery/DiffusionToolkit"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

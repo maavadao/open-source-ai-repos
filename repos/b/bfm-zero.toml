@@ -1,0 +1,9 @@
+name = "BFM-Zero"
+description = "BFM_Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning"
+category = "robotics"
+tags = ["humanoid", "sim2real", "unsupervised-learning", "reinforcement-learning"]
+repository = "https://github.com/LeCAR-Lab/BFM-Zero"
+website = "https://lecar-lab.github.io/BFM-Zero/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

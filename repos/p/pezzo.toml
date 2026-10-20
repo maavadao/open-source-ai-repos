@@ -1,0 +1,9 @@
+name = "pezzo"
+description = "Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more."
+category = "llm-apps"
+tags = ["ai", "gpt-3", "openai", "devtools", "gpt-4", "prompt-engineering", "nodejs", "platform"]
+repository = "https://github.com/pezzolabs/pezzo"
+website = "https://pezzo.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

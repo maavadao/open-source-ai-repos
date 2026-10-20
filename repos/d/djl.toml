@@ -1,0 +1,9 @@
+name = "djl"
+description = "An Engine-Agnostic Deep Learning Framework in Java"
+category = "ml-platforms"
+tags = ["deep-learning", "neural-network", "ai", "java", "mxnet", "machine-learning", "deep-neural-networks", "ml"]
+repository = "https://github.com/deepjavalibrary/djl"
+website = "https://djl.ai"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

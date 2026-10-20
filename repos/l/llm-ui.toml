@@ -1,0 +1,9 @@
+name = "llm-ui"
+description = "The React library for LLMs"
+category = "chat"
+tags = ["component-library", "react", "chatgpt", "claude", "generative-ai", "llm", "openai", "llama"]
+repository = "https://github.com/richardgill/llm-ui"
+website = "https://llm-ui.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

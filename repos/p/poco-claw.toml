@@ -1,0 +1,9 @@
+name = "poco-claw"
+description = "A more beautiful and easier-to-use alternative to OpenClaw. It features a nicer Web UI, built-in IM support, a sandboxed runtime and channel-based team collaboration. Under the hood, it is powered by a Claude Code–based agent."
+category = "coding"
+tags = ["agent", "ai", "chatbot", "claude-code", "clawdbot", "manus", "openclaw"]
+repository = "https://github.com/poco-ai/poco-claw"
+website = "https://poco-docs.vercel.app/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

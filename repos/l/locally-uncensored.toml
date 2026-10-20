@@ -1,0 +1,9 @@
+name = "locally-uncensored"
+description = "The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required."
+category = "security"
+tags = ["ai-chat", "image-generation", "llm", "local-ai", "local-llm", "privacy", "self-hosted", "uncensored"]
+repository = "https://github.com/PurpleDoubleD/locally-uncensored"
+website = "https://locallyuncensored.com"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

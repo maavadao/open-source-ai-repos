@@ -1,0 +1,8 @@
+name = "AVP-SLAM-PLUS"
+description = "An implementation of AVP-SLAM and some new contributions"
+category = "robotics"
+tags = ["slam", "avp-slam", "slam-algorithms", "state-estimation", "autonomous-driving"]
+repository = "https://github.com/liuguitao/AVP-SLAM-PLUS"
+license = "AGPL-3.0"
+language = "C++"
+added = 2026-10-20

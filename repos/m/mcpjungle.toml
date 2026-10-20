@@ -1,0 +1,9 @@
+name = "MCPJungle"
+description = "One place to manage & connect to all your MCP servers"
+category = "mcp-servers"
+tags = ["ai-agents", "model-context-protocol", "infrastructure", "mcp-gateway", "mcp", "mcp-server", "self-hosted", "mcp-registry"]
+repository = "https://github.com/mcpjungle/MCPJungle"
+website = "https://docs.mcpjungle.com"
+license = "MPL-2.0"
+language = "Go"
+added = 2026-10-20

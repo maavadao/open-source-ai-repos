@@ -1,0 +1,9 @@
+name = "machinelearning"
+description = "ML.NET is an open source and cross-platform machine learning framework for .NET."
+category = "data-science"
+tags = ["machine-learning", "algorithms", "dotnet", "ml"]
+repository = "https://github.com/dotnet/machinelearning"
+website = "https://dot.net/ml"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

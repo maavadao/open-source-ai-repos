@@ -1,0 +1,8 @@
+name = "byaldi"
+description = "Use late-interaction multi-modal models such as ColPali in just a few lines of code."
+category = "llm-apps"
+tags = ["colbert", "colpali", "nlp", "rag", "reranking", "retrieval", "multi-modal"]
+repository = "https://github.com/AnswerDotAI/byaldi"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

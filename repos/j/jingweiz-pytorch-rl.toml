@@ -1,0 +1,8 @@
+name = "pytorch-rl"
+description = "Deep Reinforcement Learning with pytorch & visdom"
+category = "ml-platforms"
+tags = ["dqn", "a3c", "pytorch", "visdom", "deep-reinforcement-learning", "reinforcement-learning", "deep-learning", "actor-critic"]
+repository = "https://github.com/jingweiz/pytorch-rl"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

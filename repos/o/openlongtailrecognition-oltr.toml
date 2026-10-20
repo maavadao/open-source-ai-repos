@@ -1,0 +1,8 @@
+name = "OpenLongTailRecognition-OLTR"
+description = "Pytorch implementation for \"Large-Scale Long-Tailed Recognition in an Open World\" (CVPR 2019 ORAL)"
+category = "vision"
+tags = ["open-long-tail-recognition", "pytorch-implementation", "computer-vision", "long-tail", "open-set", "oltr", "cvpr2019", "deep-learning"]
+repository = "https://github.com/zhmiao/OpenLongTailRecognition-OLTR"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "hermesclaw"
+description = "Run Hermes Agent and OpenClaw on the same WeChat account"
+category = "chat"
+tags = ["ai-agent", "chatbot", "clawbot", "dual-agent", "hermes-agent", "ilink", "llm-agent", "openclaw"]
+repository = "https://github.com/AaronWong1999/hermesclaw"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

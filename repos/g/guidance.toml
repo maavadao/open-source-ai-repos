@@ -1,0 +1,8 @@
+name = "guidance"
+description = "A guidance language for controlling large language models."
+category = "llm-apps"
+repository = "https://github.com/guidance-ai/guidance"
+license = "MIT"
+language = "Jupyter Notebook"
+skill_level = "advanced"
+added = 2026-10-20

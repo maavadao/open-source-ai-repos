@@ -1,0 +1,9 @@
+name = "python_motion_planning"
+description = "Motion planning(Path Planning and Trajectory Planning/Tracking) of AGV/AMR：python implementation of Dijkstra, A*, JPS, D*, LPA*, D* Lite, (Lazy)Theta*, RRT, RRT*, RRT-Connect, Informed RRT*, Voronoi, PID, DWA, APF, LQR, MPC, RPP, Bezier, Dubins etc."
+category = "robotics"
+tags = ["a-star", "d-star", "d-star-lite", "dijkstra", "informed-rrt-star", "jump-point-search", "motion-planning", "rrt"]
+repository = "https://github.com/ai-winter/python_motion_planning"
+website = "https://ai-winter.github.io/python_motion_planning/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "genai"
+description = "What if GPT could help you notebook?"
+category = "models"
+tags = ["exceptions", "gpt", "gpt-35-turbo", "interactive-computing", "ipython", "jupyter", "openai", "traceback"]
+repository = "https://github.com/rgbkrk/genai"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

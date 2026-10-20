@@ -1,0 +1,8 @@
+name = "leedl-tutorial"
+description = "《李宏毅深度学习教程》（李宏毅老师推荐，苹果书），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases"
+category = "learning"
+tags = ["machine-learning", "deep-learning", "leedl-tutorial", "cnn", "reinforcement-learning", "transformer", "rnn", "gan"]
+repository = "https://github.com/datawhalechina/leedl-tutorial"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

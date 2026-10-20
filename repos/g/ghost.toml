@@ -1,0 +1,8 @@
+name = "ghost"
+description = "A new one shot face swap approach for image and video domains"
+category = "vision"
+tags = ["computer-vision", "deep-learning", "deepfake", "faceswap", "pytorch", "deep-face-swap", "face-swap", "ghost"]
+repository = "https://github.com/ai-forever/ghost"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

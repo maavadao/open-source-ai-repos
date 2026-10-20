@@ -1,0 +1,9 @@
+name = "openai-gemini"
+description = "Gemini OpenAI API proxy. Serverless!"
+category = "chat"
+tags = ["chatgpt-api", "gemini-ai", "openai", "proxy", "serverless", "gemini"]
+repository = "https://github.com/PublicAffairs/openai-gemini"
+website = "https://my-openai-gemini-demo.vercel.app/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

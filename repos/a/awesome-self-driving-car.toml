@@ -1,0 +1,7 @@
+name = "awesome-self-driving-car"
+description = "An awesome list of self-driving cars"
+category = "learning"
+tags = ["self-driving-car", "autonomous-vehicles", "autonomous-driving", "awesome"]
+repository = "https://github.com/daohu527/awesome-self-driving-car"
+license = "Apache-2.0"
+added = 2026-10-20

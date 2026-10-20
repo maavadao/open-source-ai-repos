@@ -1,0 +1,9 @@
+name = "cua"
+description = "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation."
+category = "browser-automation"
+tags = ["apple", "cua", "lume", "macos", "virtualization", "virtualization-framework", "swift", "ai-agent"]
+repository = "https://github.com/trycua/cua"
+website = "https://cua.ai"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "QuickDraw"
+description = "Implementation of Quickdraw - an online game developed by Google"
+category = "vision"
+tags = ["python", "python3", "pytorch", "opencv", "cv2", "opencv-python", "computer-vision", "neural-network"]
+repository = "https://github.com/vietnh1009/QuickDraw"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

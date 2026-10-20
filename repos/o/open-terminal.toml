@@ -1,0 +1,9 @@
+name = "open-terminal"
+description = "A computer you can curl"
+category = "chat"
+tags = ["ai", "open-webui", "agentic-ai", "ai-agents", "ai-tools"]
+repository = "https://github.com/open-webui/open-terminal"
+website = "https://openterminal.sh/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

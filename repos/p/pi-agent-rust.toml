@@ -1,0 +1,8 @@
+name = "pi_agent_rust"
+description = "High-performance AI coding agent CLI written in Rust with zero unsafe code"
+category = "agents"
+tags = ["ai-agents", "cli", "developer-tools", "rust"]
+repository = "https://github.com/Dicklesworthstone/pi_agent_rust"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

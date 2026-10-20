@@ -1,0 +1,9 @@
+name = "DVGT"
+description = "[CVPR 2026] Visual Geometry Transformer for Autonomous Driving"
+category = "robotics"
+tags = ["autonomous-driving", "visual-geometry"]
+repository = "https://github.com/wzzheng/DVGT"
+website = "https://wzzheng.net/DVGT"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "chatgpt"
+description = "Interface to ChatGPT from R"
+category = "chat"
+tags = ["assistant", "chatgpt", "openai", "rstats", "rstatses", "rstudio", "rstudio-addin", "gpt-3"]
+repository = "https://github.com/jcrodriguez1989/chatgpt"
+license = "GPL-3.0"
+language = "R"
+added = 2026-10-20

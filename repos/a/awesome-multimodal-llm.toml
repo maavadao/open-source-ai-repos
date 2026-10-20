@@ -1,0 +1,7 @@
+name = "Awesome-Multimodal-LLM"
+description = "Research Trends in LLM-guided Multimodal Learning."
+category = "learning"
+tags = ["llm", "multimodal", "large-language-models", "multimodal-learning", "in-context-learning", "instruction-tuning", "multimodal-large-language-models", "parameter-efficient-learning"]
+repository = "https://github.com/HenryHZY/Awesome-Multimodal-LLM"
+license = "MIT"
+added = 2026-10-20

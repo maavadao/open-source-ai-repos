@@ -1,0 +1,8 @@
+name = "serenity-skill"
+description = "Serenity-inspired Agent Skill for supply-chain bottleneck stock research"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude-code", "codex", "investment-research", "stock-research", "supply-chain"]
+repository = "https://github.com/muxuuu/serenity-skill"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

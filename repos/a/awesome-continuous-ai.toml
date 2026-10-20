@@ -1,0 +1,7 @@
+name = "awesome-continuous-ai"
+description = "An awesome list of Continuous AI Actions and Frameworks"
+category = "learning"
+tags = ["actions", "agents", "ai", "cicd", "issues", "llm"]
+repository = "https://github.com/githubnext/awesome-continuous-ai"
+license = "MIT"
+added = 2026-10-20

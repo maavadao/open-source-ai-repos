@@ -1,0 +1,9 @@
+name = "mmagic"
+description = "OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic : Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generation, image/video restoration/enhancement, etc."
+category = "image"
+tags = ["super-resolution", "inpainting", "matting", "image-generation", "generative-adversarial-network", "pytorch", "deep-learning", "video-interpolation"]
+repository = "https://github.com/open-mmlab/mmagic"
+website = "https://mmagic.readthedocs.io/en/latest/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "long-form-factuality"
+description = "Benchmarking long-form factuality in large language models. Original code for our paper \"Long-form factuality in large language models\"."
+category = "models"
+tags = ["benchmark", "dataset", "evaluation", "factuality", "language", "language-modeling", "large-language-models", "metrics"]
+repository = "https://github.com/google-deepmind/long-form-factuality"
+website = "https://arxiv.org/abs/2403.18802"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

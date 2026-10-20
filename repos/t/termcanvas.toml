@@ -1,0 +1,9 @@
+name = "termcanvas"
+description = "An infinite canvas desktop app for visually managing terminals"
+category = "mcp-servers"
+tags = ["agent-orchestration", "ai-agents", "canvas", "claude-code", "desktop-app", "developer-tools", "electron", "git-worktree"]
+repository = "https://github.com/blueberrycongee/termcanvas"
+website = "https://website-ten-mu-37.vercel.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

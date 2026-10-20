@@ -1,0 +1,8 @@
+name = "AutoCrawler"
+description = "Google, Naver multiprocess image web crawler (Selenium)"
+category = "browser-automation"
+tags = ["crawler", "selenium", "deep-learning", "image-crawler", "chromedriver", "bigdata", "google", "multiprocess"]
+repository = "https://github.com/YoongiKim/AutoCrawler"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

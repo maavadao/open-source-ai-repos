@@ -1,0 +1,9 @@
+name = "UltraRAG"
+description = "A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines"
+category = "mcp-servers"
+tags = ["embedding", "llm", "rag", "easy", "mcp", "openai", "vllm", "gpt"]
+repository = "https://github.com/OpenBMB/UltraRAG"
+website = "https://ultrarag.github.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

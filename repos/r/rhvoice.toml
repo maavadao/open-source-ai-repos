@@ -1,0 +1,9 @@
+name = "RHVoice"
+description = "a free and open source speech synthesizer for Russian and other languages"
+category = "speech"
+tags = ["linux", "text-to-speech", "windows", "speech-synthesis", "hts", "english", "brazilian-portuguese", "esperanto"]
+repository = "https://github.com/RHVoice/RHVoice"
+website = "https://rhvoice.org"
+license = "GPL-2.0"
+language = "C++"
+added = 2026-10-20

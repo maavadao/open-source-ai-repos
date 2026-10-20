@@ -1,0 +1,9 @@
+name = "LLM4Decompile"
+description = "Reverse Engineering: Decompiling Binary Code with Large Language Models"
+category = "models"
+tags = ["decompile", "reverse-engineering", "large-language-models", "binary"]
+repository = "https://github.com/albertan017/LLM4Decompile"
+website = "https://aclanthology.org/2024.emnlp-main.203"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

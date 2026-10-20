@@ -1,0 +1,9 @@
+name = "obs-localvocal"
+description = "OBS plugin for local speech recognition and captioning using AI"
+category = "speech"
+tags = ["ai", "obs", "plugin", "speech-to-text", "whisper", "live-streaming", "livestream", "obs-studio"]
+repository = "https://github.com/royshil/obs-localvocal"
+website = "https://obsproject.com/forum/resources/localvocal-live-stream-ai-assistant.1769/"
+license = "GPL-2.0"
+language = "C++"
+added = 2026-10-20

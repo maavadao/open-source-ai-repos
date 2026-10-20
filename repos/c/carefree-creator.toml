@@ -1,0 +1,9 @@
+name = "carefree-creator"
+description = "AI magics meet Infinite draw board."
+category = "image"
+tags = ["pytorch", "stable-diffusion", "pypi", "python", "latent-diffusion", "image-to-image", "inpainting", "outpainting"]
+repository = "https://github.com/carefree0910/carefree-creator"
+website = "https://creator.nolibox.com/guest"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

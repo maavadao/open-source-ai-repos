@@ -1,0 +1,9 @@
+name = "PAROL6-Desktop-robot-arm"
+description = "BOM, STL files and instructions for PAROL6 3D printed robot arm"
+category = "robotics"
+tags = ["robotics", "ai", "lerobot", "python", "parol6"]
+repository = "https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm"
+website = "https://source-robotics.com/"
+license = "GPL-3.0"
+language = "HTML"
+added = 2026-10-20

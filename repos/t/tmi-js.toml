@@ -1,0 +1,9 @@
+name = "tmi.js"
+description = "Javascript library for the Twitch Messaging Interface. (Twitch.tv)"
+category = "chat"
+tags = ["twitch", "chatbot", "javascript", "nodejs", "tmi", "tmijs", "twitchdev", "chat"]
+repository = "https://github.com/tmijs/tmi.js"
+website = "https://tmijs.com"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

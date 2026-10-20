@@ -1,0 +1,9 @@
+name = "vector-graph-rag"
+description = "Graph RAG with pure vector search, achieving SOTA performance in multi-hop reasoning scenarios."
+category = "vector-databases"
+tags = ["graph-rag", "graphrag", "knowledge-base", "knowledge-graph", "rag", "vector-database", "milvus", "multihop-question-answering"]
+repository = "https://github.com/zilliztech/vector-graph-rag"
+website = "https://zilliztech.github.io/vector-graph-rag/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

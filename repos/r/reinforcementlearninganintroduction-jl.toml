@@ -1,0 +1,9 @@
+name = "ReinforcementLearningAnIntroduction.jl"
+description = "Julia code for the book Reinforcement Learning An Introduction"
+category = "learning"
+tags = ["reinforcement-learning", "julia"]
+repository = "https://github.com/JuliaReinforcementLearning/ReinforcementLearningAnIntroduction.jl"
+website = "https://juliareinforcementlearning.org/ReinforcementLearningAnIntroduction.jl/"
+license = "MIT"
+language = "Julia"
+added = 2026-10-20

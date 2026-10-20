@@ -1,0 +1,9 @@
+name = "greywall"
+description = "Container-free, deny-by-default sandbox for AI coding agents. Kernel-enforced filesystem, network, and syscall isolation for Linux and macOS"
+category = "security"
+tags = ["agents", "claude-code", "llm", "macos", "opencode", "sandbox", "sandbox-ai", "security"]
+repository = "https://github.com/GreyhavenHQ/greywall"
+website = "https://greywall.io"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "obsidian-mind"
+description = "A self-organizing Obsidian vault that gives AI coding agents persistent memory."
+category = "coding"
+tags = ["ai-agents", "claude-code", "codex-cli", "gemini-cli", "knowledge-management", "obsidian", "obsidian-vault", "persistent-memory"]
+repository = "https://github.com/breferrari/obsidian-mind"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

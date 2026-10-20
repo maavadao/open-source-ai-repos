@@ -1,0 +1,9 @@
+name = "GPTHub"
+description = "Discover the Best in Custom GPT at OpenAI's GPT Store – Your Adventure Begins Here!"
+category = "chat"
+tags = ["ai", "chatgpt", "gpts", "gptstore", "openai", "store"]
+repository = "https://github.com/lencx/GPTHub"
+website = "https://gpthub.nofwl.com"
+license = "CC0-1.0"
+language = "TypeScript"
+added = 2026-10-20

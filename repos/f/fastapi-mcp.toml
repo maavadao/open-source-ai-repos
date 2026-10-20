@@ -1,0 +1,9 @@
+name = "fastapi_mcp"
+description = "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!"
+category = "mcp-servers"
+tags = ["ai", "claude", "cursor", "fastapi", "llm", "mcp", "mcp-server", "mcp-servers"]
+repository = "https://github.com/tadata-org/fastapi_mcp"
+website = "https://fastapi-mcp.tadata.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

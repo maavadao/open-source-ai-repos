@@ -1,0 +1,8 @@
+name = "garden-skills"
+description = "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more."
+category = "agents"
+tags = ["agent", "claude", "gpt-image-2", "rag", "skills", "web-design"]
+repository = "https://github.com/ConardLi/garden-skills"
+license = "MIT"
+language = "CSS"
+added = 2026-10-20

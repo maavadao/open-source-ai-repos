@@ -1,0 +1,9 @@
+name = "paritok-4b-v1"
+description = "Non-destructive compression gateway for AI coding agents. Cuts token bills 25% on turn 1 to past 85% in long or saturated sessions, and fits ~3× more turns in the same context window. Powered by our open-source code-native 4B model. Drop-in for Claude Code, Cursor, Codex…"
+category = "coding"
+tags = ["ai", "ai-infrastructure", "developer-tools", "llms", "agentic-coding", "ai-agents", "ai-coding", "llm-gateway"]
+repository = "https://github.com/Paritok-official/paritok-4b-v1"
+website = "https://www.paritok.com/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

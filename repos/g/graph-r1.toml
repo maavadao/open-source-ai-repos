@@ -1,0 +1,9 @@
+name = "Graph-R1"
+description = "[ICML 2026] Official resources of \"Graph-R1: Towards Agentic GraphRAG Framework via End-to-end Reinforcement Learning\"."
+category = "llm-apps"
+tags = ["graphrag", "reinforcement-learning", "hypergraph", "chain-of-thought"]
+repository = "https://github.com/LHRLAB/Graph-R1"
+website = "https://arxiv.org/abs/2507.21892"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

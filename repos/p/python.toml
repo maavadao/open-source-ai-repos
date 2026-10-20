@@ -1,0 +1,9 @@
+name = "python"
+description = "Open-source Python challenge courses — your AI coding agent teaches, verify.py decides when you're done."
+category = "learning"
+tags = ["python", "learning-python", "python-course", "claude-code", "codex", "ai-agents", "ai-coding", "cursor"]
+repository = "https://github.com/flypythoncom/python"
+website = "https://flypython.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

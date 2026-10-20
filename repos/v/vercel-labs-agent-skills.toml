@@ -1,0 +1,8 @@
+name = "agent-skills"
+description = "Vercel's official collection of agent skills"
+category = "skills-prompts"
+repository = "https://github.com/vercel-labs/agent-skills"
+website = "https://skills.sh/vercel-labs/agent-skills"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

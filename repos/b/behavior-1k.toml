@@ -1,0 +1,9 @@
+name = "BEHAVIOR-1K"
+description = "BEHAVIOR-1K: a platform for accelerating Embodied AI research. Join our Discord for support: https://discord.gg/bccR5vGFEx"
+category = "robotics"
+tags = ["robotics", "simulation", "benchmark", "embodied-ai"]
+repository = "https://github.com/StanfordVL/BEHAVIOR-1K"
+website = "https://behavior.stanford.edu"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

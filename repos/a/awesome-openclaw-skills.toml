@@ -1,0 +1,8 @@
+name = "awesome-openclaw-skills"
+description = "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry."
+category = "learning"
+tags = ["agent-skills", "awesome-list", "clawdbot", "clawdbot-skill", "clawd", "clawdhub", "moltbot", "moltbot-skills"]
+repository = "https://github.com/VoltAgent/awesome-openclaw-skills"
+website = "https://clawskills.sh/"
+license = "MIT"
+added = 2026-10-20

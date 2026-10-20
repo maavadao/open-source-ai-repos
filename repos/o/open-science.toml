@@ -1,0 +1,9 @@
+name = "open-science"
+description = "The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python/R execution and traceable artifacts for reproducible research on macOS, Windows and Linux."
+category = "mcp-servers"
+tags = ["ai-for-science", "local-first", "reproducible-research", "open-science", "ai-research", "model-agnostic", "scientific-ai", "desktop-app"]
+repository = "https://github.com/aipoch/open-science"
+website = "https://aipoch.com/open-science"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

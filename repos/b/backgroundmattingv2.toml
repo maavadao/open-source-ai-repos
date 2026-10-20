@@ -1,0 +1,8 @@
+name = "BackgroundMattingV2"
+description = "Real-Time High-Resolution Background Matting"
+category = "vision"
+tags = ["computer-vision", "machine-learning", "matting", "real-time"]
+repository = "https://github.com/PeterL1n/BackgroundMattingV2"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

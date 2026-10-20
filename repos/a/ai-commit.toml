@@ -1,0 +1,8 @@
+name = "ai-commit"
+description = "Automagically generate conventional git commit messages with AI. - 使用 AI 自动生成约定式 git 提交信息。"
+category = "coding"
+tags = ["ai", "changelog", "chatgpt", "commit", "commit-message", "commitizen", "commitlint", "git"]
+repository = "https://github.com/guanguans/ai-commit"
+license = "MIT"
+language = "PHP"
+added = 2026-10-20

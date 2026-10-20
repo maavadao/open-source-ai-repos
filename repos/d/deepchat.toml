@@ -1,0 +1,9 @@
+name = "deepchat"
+description = "DeepChat - A smart assistant that connects powerful AI to your personal world"
+category = "mcp-servers"
+tags = ["ai-assistant", "cross-platform", "llm-client", "openai-client", "ai", "chatgpt", "claude", "deepseek"]
+repository = "https://github.com/ThinkInAIXYZ/deepchat"
+website = "https://deepchat.thinkinai.xyz/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

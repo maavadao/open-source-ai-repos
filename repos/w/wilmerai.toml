@@ -1,0 +1,8 @@
+name = "WilmerAI"
+description = "WilmerAI is one of the oldest LLM semantic routers. It uses multi-layer prompt routing and complex workflows to allow you to not only create practical chatbots, but to extend any kind of application that connects to an LLM via REST API. Wilmer sits between your app and your…"
+category = "models"
+tags = ["ai", "generative-ai", "llms"]
+repository = "https://github.com/SomeOddCodeGuy/WilmerAI"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

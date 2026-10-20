@@ -1,0 +1,9 @@
+name = "Kun"
+description = "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI."
+category = "mcp-servers"
+tags = ["agentic-workflow", "ai-agent", "ai-assistant", "ai-design", "automation", "coding-agent", "deepseek", "desktop-app"]
+repository = "https://github.com/KunAgent/Kun"
+website = "https://www.kun-agent.com"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

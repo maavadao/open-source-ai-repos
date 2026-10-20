@@ -1,0 +1,9 @@
+name = "spacy-course"
+description = "Advanced NLP with spaCy: A free online course"
+category = "learning"
+tags = ["spacy", "nlp", "natural-language-processing", "online-course", "course", "gatsby", "gatsbyjs", "jupyter"]
+repository = "https://github.com/explosion/spacy-course"
+website = "https://course.spacy.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "CorridorKey-Runtime"
+description = "Native AI keying runtime and OFX plugin for DaVinci Resolve, built in collaboration with Corridor Digital."
+category = "vision"
+tags = ["ai", "apple-silicon", "chroma-key", "cli", "computer-vision", "cpp", "davinci-resolve", "green-screen"]
+repository = "https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

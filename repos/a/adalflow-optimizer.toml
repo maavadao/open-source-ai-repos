@@ -1,0 +1,8 @@
+name = "AdalFlow-Optimizer"
+description = "Build & Auto-Optimize LLM Apps in 2026: The Ultimate AdalFlow Guide"
+category = "chat"
+tags = ["agent", "ai", "auto-prompting", "bm25", "chatbot", "faiss", "framework", "generative-ai"]
+repository = "https://github.com/genoskietv/AdalFlow-Optimizer"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

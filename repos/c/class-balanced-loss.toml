@@ -1,0 +1,8 @@
+name = "class-balanced-loss"
+description = "Class-Balanced Loss Based on Effective Number of Samples. CVPR 2019"
+category = "vision"
+tags = ["computer-vision", "deep-learning", "tensorflow", "cvpr2019", "cvpr", "cloud-tpu", "inaturalist", "imagenet"]
+repository = "https://github.com/richardaecn/class-balanced-loss"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

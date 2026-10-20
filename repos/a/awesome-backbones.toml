@@ -1,0 +1,8 @@
+name = "Awesome-Backbones"
+description = "Integrate deep learning models for image classification | Backbone learning/comparison/magic modification project"
+category = "learning"
+tags = ["pytorch", "image-classification", "transformer", "cnn", "pytorch-classification", "deep-learning", "resnet", "swin-transformer"]
+repository = "https://github.com/Fafa-DL/Awesome-Backbones"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

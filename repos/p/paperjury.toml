@@ -1,0 +1,9 @@
+name = "paperjury"
+description = "Pre-submission AI review stress-test for research papers. A Claude Code skill: review, verdict, revise, verify."
+category = "coding"
+tags = ["academic-writing", "ai-agents", "claude-code", "latex", "llm-agents", "paper-review", "peer-review", "research-tool"]
+repository = "https://github.com/Spark-To-Paper-Skills/paperjury"
+website = "https://spark-to-paper-skills.github.io/paperjury/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

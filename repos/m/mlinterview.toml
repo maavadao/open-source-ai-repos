@@ -1,0 +1,7 @@
+name = "MLInterview"
+description = "A curated awesome list of AI Startups in India & Machine Learning Interview Guide. Feel free to contribute!"
+category = "learning"
+tags = ["interview", "machine-learning", "data-science-interview", "statistics", "sql", "natural-language-processing", "machine-learning-interview", "data-science"]
+repository = "https://github.com/theainerd/MLInterview"
+license = "MIT"
+added = 2026-10-20

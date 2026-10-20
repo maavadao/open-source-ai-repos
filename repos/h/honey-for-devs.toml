@@ -1,0 +1,8 @@
+name = "honey-for-devs"
+description = "Honey (I Shrunk the AI) by GreenPT: a cross-tool coding skill that cuts AI coding-agent token usage and LLM API costs — write less code, less prose, and denser agent-to-agent handoffs (−53%, lossless in benchmarks) with no loss of quality. Works with Claude Code, Cursor…"
+category = "coding"
+tags = ["agents", "ai", "claude", "claude-code", "codex", "cursor", "developer-tools", "llm"]
+repository = "https://github.com/Green-PT/honey-for-devs"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

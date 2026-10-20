@@ -1,0 +1,9 @@
+name = "streamfm"
+description = "Real-Time Streamable Generative Speech Restoration with Flow Matching"
+category = "speech"
+tags = ["flow-matching", "generative-ai", "real-time", "speech-enhancement", "speech-restoration"]
+repository = "https://github.com/sp-uhh/streamfm"
+website = "https://sp-uhh.github.io/streamfm_examples/"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

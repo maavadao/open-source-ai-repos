@@ -1,0 +1,8 @@
+name = "SkyCode-AI-CodeX-GPT3"
+description = "SkyCode是一个多语言开源编程大模型，采用GPT3模型结构，支持Java, JavaScript, C, C++, Python, Go, shell等多种主流编程语言，并能理解中文注释。模型可以对代码进行补全，拥有强大解题能力，使您从编程中解放出来，专心于解决更重要的问题。| SkyCode is an open source programming model, which adopts the GPT3 model structure. It supports Java, JavaScript, C, C++, Python, Go…"
+category = "coding"
+tags = ["alphacode", "codex", "deepmind", "go", "gpt-neo", "humaneval", "java", "javascript"]
+repository = "https://github.com/SkyWorkAIGC/SkyCode-AI-CodeX-GPT3"
+website = "https://sky-code.singularity-ai.com/index.html#/"
+license = "MIT"
+added = 2026-10-20

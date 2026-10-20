@@ -1,0 +1,9 @@
+name = "ai-avatar-system"
+description = "AI Avatar / digital human platform — upload a photo, clone a voice, talk to any face in real time with lip-sync video. Open-source, self-hosted. Claude · Whisper · Chatterbox · MuseTalk."
+category = "speech"
+tags = ["ai-avatar", "avatar-ai", "claude-ai", "fastapi", "generative-ai", "lip-sync", "nextjs", "speech-to-text"]
+repository = "https://github.com/PunithVT/ai-avatar-system"
+website = "https://github.com/sponsors/PunithVT"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

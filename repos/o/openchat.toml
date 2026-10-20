@@ -1,0 +1,9 @@
+name = "openchat"
+description = "OpenChat: Advancing Open-source Language Models with Imperfect Data"
+category = "models"
+tags = ["large-language-models", "open-source", "transformers"]
+repository = "https://github.com/imoneoi/openchat"
+website = "https://openchat.team"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

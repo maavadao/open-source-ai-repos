@@ -1,0 +1,9 @@
+name = "hister"
+description = "Your own search engine"
+category = "mcp-servers"
+tags = ["history", "index", "search", "search-engine", "web", "mcp", "privacy", "semantic-search"]
+repository = "https://github.com/asciimoo/hister"
+website = "https://hister.org/"
+license = "AGPL-3.0"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "opus-prompt-architect"
+description = "Best Prompt Engineering Tools for 2026 AI Workflow Optimization"
+category = "skills-prompts"
+tags = ["ai-productivity", "ai-prompts", "ai-tools", "anthropic", "chain-of-thought", "claude", "claude-ai", "claude-opus"]
+repository = "https://github.com/AgustiPuigserver/opus-prompt-architect"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

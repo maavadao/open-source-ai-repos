@@ -1,0 +1,9 @@
+name = "Hypha"
+description = "Harness-oriented agent system framework for production-grade LLM agent applications"
+category = "mcp-servers"
+tags = ["agent-framework", "agent-harness", "agent-memory", "agent-runtime", "ai-agents", "cache", "evaluation", "event-sourcing"]
+repository = "https://github.com/CodeSoul-co/Hypha"
+website = "https://codesoul-co.github.io/Hypha/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

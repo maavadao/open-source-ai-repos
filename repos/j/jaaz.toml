@@ -1,0 +1,9 @@
+name = "jaaz"
+description = "The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally."
+category = "image"
+tags = ["agent", "ai", "aiagent", "aitools", "flux", "stable-diffusion", "aiimage", "aiimagegenerator"]
+repository = "https://github.com/11cafe/jaaz"
+website = "https://jaaz.app"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

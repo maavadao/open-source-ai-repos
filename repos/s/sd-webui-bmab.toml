@@ -1,0 +1,8 @@
+name = "sd-webui-bmab"
+description = "Auto masking and inpainting for person, face, hand. Resizing image using detection model."
+category = "image"
+tags = ["stable-diffusion", "stable-diffusion-webui", "stable-diffusion-webui-plugin"]
+repository = "https://github.com/portu-sim/sd-webui-bmab"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

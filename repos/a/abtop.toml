@@ -1,0 +1,8 @@
+name = "abtop"
+description = "Like htop, but for AI coding agents. Monitor Claude Code & Codex CLI sessions, tokens, context window, rate limits, and ports in real-time."
+category = "coding"
+tags = ["ai-agents", "ai-coding-agent", "btop", "claude-code", "cli", "codex", "developer-tools", "htop"]
+repository = "https://github.com/graykode/abtop"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

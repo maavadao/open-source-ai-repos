@@ -1,0 +1,8 @@
+name = "awesome-text-to-video"
+description = "A Survey on Text-to-Video Generation/Synthesis."
+category = "learning"
+tags = ["aigc", "image-generation", "text-to-image", "text-to-video", "video-generation"]
+repository = "https://github.com/jianzhnie/awesome-text-to-video"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

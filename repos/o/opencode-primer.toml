@@ -1,0 +1,8 @@
+name = "opencode-primer"
+description = "Master OpenCode, the open-source AI coding agent — setup, agents, skills, plugins, MCP, Zen & headless CI."
+category = "mcp-servers"
+tags = ["agent-skills", "agentic-coding", "ai-agents", "ai-coding", "claude-code", "cli", "coding-agent", "developer-tools"]
+repository = "https://github.com/wesammustafa/opencode-primer"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

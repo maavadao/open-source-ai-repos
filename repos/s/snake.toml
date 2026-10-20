@@ -1,0 +1,8 @@
+name = "snake"
+description = "Playing the game of snake with AI."
+category = "ml-platforms"
+tags = ["snake", "game", "artificial-intelligence", "graph-theory", "algorithm", "python", "deep-reinforcement-learning", "reinforcement-learning"]
+repository = "https://github.com/chynl/snake"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

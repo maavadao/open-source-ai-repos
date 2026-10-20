@@ -1,0 +1,7 @@
+name = "Awesome-Embodied-AI"
+description = "A curated list of awesome papers on Embodied AI and related research/industry-driven resources."
+category = "learning"
+tags = ["awesome", "awesome-list", "classification", "detection", "embodied", "embodied-agent", "embodied-ai", "embodied-artificial-intelligence"]
+repository = "https://github.com/haoranD/Awesome-Embodied-AI"
+license = "MIT"
+added = 2026-10-20

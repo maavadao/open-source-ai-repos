@@ -1,0 +1,9 @@
+name = "AgentsMeetRL"
+description = "Awesome List for Agentic RL"
+category = "learning"
+tags = ["agent", "agentic-ai", "agentic-coding", "agentic-workflow", "awesome-list", "large-language-model", "llm", "multiagent"]
+repository = "https://github.com/thinkwee/AgentsMeetRL"
+website = "https://thinkwee.top/amr/"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

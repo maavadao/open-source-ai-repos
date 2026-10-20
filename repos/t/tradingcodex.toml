@@ -1,0 +1,9 @@
+name = "tradingcodex"
+description = "Turn Codex into your investment workflow team"
+category = "mcp-servers"
+tags = ["agentic-workflow", "ai-agents", "codex", "django", "investment-research", "mcp", "portfolio-management", "python"]
+repository = "https://github.com/monarchjuno/tradingcodex"
+website = "https://discord.gg/Wr25KZnabh"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

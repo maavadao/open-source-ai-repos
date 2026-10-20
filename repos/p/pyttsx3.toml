@@ -1,0 +1,8 @@
+name = "pyttsx3"
+description = "Offline Text To Speech synthesis for python"
+category = "speech"
+tags = ["pyttsx", "text-to-speech", "text-to-speech-python3", "pyttsx3", "python", "python3"]
+repository = "https://github.com/nateshmbhat/pyttsx3"
+license = "MPL-2.0"
+language = "Python"
+added = 2026-10-20

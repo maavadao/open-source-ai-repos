@@ -1,0 +1,7 @@
+name = "awesome-ml-blogs"
+description = "Curated list of technical blogs on machine learning · AI/ML/DL/CV/NLP/MLOps"
+category = "learning"
+tags = ["machine-learning", "deep-learning", "data-science", "computer-vision", "natural-language-processing", "reinforcement-learning", "applied-machine-learning", "applied-data-science"]
+repository = "https://github.com/antoinebrl/awesome-ml-blogs"
+license = "MIT"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "awesome-legged-locomotion-learning"
+description = "A curated list of resources relevant to legged locomotion learning of robotics."
+category = "learning"
+tags = ["awesome", "locomotion", "robotics", "reinforcement-learning"]
+repository = "https://github.com/gaiyi7788/awesome-legged-locomotion-learning"
+license = "NOASSERTION"
+added = 2026-10-20

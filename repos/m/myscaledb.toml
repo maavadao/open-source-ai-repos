@@ -1,0 +1,9 @@
+name = "MyScaleDB"
+description = "A @ClickHouse fork that supports high-performance vector search and full-text search."
+category = "vector-databases"
+tags = ["embedding", "search-engine", "sql", "vector-search", "vectordb", "myscaledb", "sql-vector", "big-data"]
+repository = "https://github.com/myscale/MyScaleDB"
+website = "https://myscale.com"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

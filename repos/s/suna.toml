@@ -1,0 +1,9 @@
+name = "suna"
+description = "The open-source AI Operating System"
+category = "agents"
+tags = ["ai", "ai-agents", "llm", "ai-operating-system", "ai-os", "open-source", "self-hosted"]
+repository = "https://github.com/kortix-ai/suna"
+website = "https://www.kortix.com"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

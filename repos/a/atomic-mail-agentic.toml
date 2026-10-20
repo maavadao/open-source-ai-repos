@@ -1,0 +1,9 @@
+name = "atomic-mail-agentic"
+description = "Let your agents read, send, and react to email autonomously, without human involvement"
+category = "agents"
+tags = ["ai", "ai-agents", "claude", "email", "hermes", "jmap", "openclaw", "proof-of-work"]
+repository = "https://github.com/Atomic-Mail/atomic-mail-agentic"
+website = "https://atomicmail.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

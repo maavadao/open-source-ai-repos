@@ -1,0 +1,9 @@
+name = "X-VLA"
+description = "[ICLR 2026] The offical Implementation of \"Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model\""
+category = "robotics"
+tags = ["pretrained-models", "robotics", "vision-language-action-model", "cloth-folding", "florence-2", "manipulation", "robotics-dataset", "vision-language-model"]
+repository = "https://github.com/2toinf/X-VLA"
+website = "https://thu-air-dream.github.io/X-VLA/"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

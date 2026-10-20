@@ -1,0 +1,9 @@
+name = "ADeus"
+description = "An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly…"
+category = "speech"
+tags = ["ai", "open", "open-source-ai", "wear", "wearable-devices", "wearable"]
+repository = "https://github.com/adamcohenhillel/ADeus"
+website = "https://docs.adeus.ai/"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "awsome-distributed-ai"
+description = "Best practices, reference architectures, and examples for distributed AI training and inference on AWS."
+category = "ml-platforms"
+tags = ["aws", "efa", "eks", "generative-ai", "gpu", "hyperpod", "parallelcluster", "distributed-training"]
+repository = "https://github.com/awslabs/awsome-distributed-ai"
+website = "https://awslabs.github.io/awsome-distributed-ai/"
+license = "MIT-0"
+language = "Shell"
+added = 2026-10-20

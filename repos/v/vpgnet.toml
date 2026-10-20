@@ -1,0 +1,8 @@
+name = "VPGNet"
+description = "VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition (ICCV 2017)"
+category = "robotics"
+tags = ["caffe", "dataset", "autonomous-driving", "lane-detection", "semantic-segmentation", "vpgnet"]
+repository = "https://github.com/SeokjuLee/VPGNet"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

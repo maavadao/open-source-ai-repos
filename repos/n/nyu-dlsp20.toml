@@ -1,0 +1,9 @@
+name = "NYU-DLSP20"
+description = "NYU Deep Learning Spring 2020"
+category = "ml-platforms"
+tags = ["jupyter-notebook", "pytorch", "deep-learning", "neural-nets"]
+repository = "https://github.com/Atcold/NYU-DLSP20"
+website = "https://atcold.github.io/NYU-DLSP20/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "lazycodex"
+description = "The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex."
+category = "coding"
+tags = ["ai", "ai-agents", "claude", "claude-code", "cli", "codex", "developer-tools", "lazy"]
+repository = "https://github.com/code-yeongyu/lazycodex"
+website = "https://lazycodex.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

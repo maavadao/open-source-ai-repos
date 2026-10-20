@@ -1,0 +1,9 @@
+name = "DeepPavlov"
+description = "An open source library for deep learning end-to-end dialog systems and chatbots."
+category = "chat"
+tags = ["bot", "nlp", "chatbot", "dialogue-systems", "question-answering", "chitchat", "slot-filling", "intent-classification"]
+repository = "https://github.com/deeppavlov/DeepPavlov"
+website = "https://deeppavlov.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

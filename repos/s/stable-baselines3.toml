@@ -1,0 +1,10 @@
+name = "stable-baselines3"
+description = "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms."
+category = "robotics"
+tags = ["reinforcement-learning", "reinforcement-learning-algorithms", "machine-learning", "gym", "openai", "baselines", "toolbox", "stable-baselines"]
+repository = "https://github.com/DLR-RM/stable-baselines3"
+website = "https://stable-baselines3.readthedocs.io"
+license = "MIT"
+language = "Python"
+skill_level = "beginner"
+added = 2026-10-20

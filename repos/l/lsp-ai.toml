@@ -1,0 +1,8 @@
+name = "lsp-ai"
+description = "LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them."
+category = "models"
+tags = ["ai", "auto-completion", "developer-tools", "ide", "language-client", "llama", "llamacpp", "llm"]
+repository = "https://github.com/SilasMarvin/lsp-ai"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

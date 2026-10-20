@@ -1,0 +1,9 @@
+name = "jiant"
+description = "jiant is an nlp toolkit"
+category = "models"
+tags = ["nlp", "sentence-representation", "bert", "multitask-learning", "transformers", "transfer-learning"]
+repository = "https://github.com/nyu-mll/jiant"
+website = "https://jiant.info"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

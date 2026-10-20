@@ -1,0 +1,9 @@
+name = "GPT-4-LLM"
+description = "Instruction Tuning with GPT-4"
+category = "chat"
+tags = ["alpaca", "chatgpt", "gpt-4", "instruction-tuning", "llama"]
+repository = "https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM"
+website = "https://instruction-tuning-with-gpt-4.github.io/"
+license = "Apache-2.0"
+language = "HTML"
+added = 2026-10-20

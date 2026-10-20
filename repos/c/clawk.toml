@@ -1,0 +1,8 @@
+name = "clawk"
+description = "Give coding agents a disposable Linux VM, not your laptop"
+category = "coding"
+tags = ["agent-sandbox", "ai-agent-sandbox", "ai-agents", "claude", "claude-code", "codex", "microvm", "sandbox"]
+repository = "https://github.com/clawkwork/clawk"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

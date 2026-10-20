@@ -1,0 +1,8 @@
+name = "Local-LLM-Comparison-Colab-UI"
+description = "Compare the performance of different LLM that can be deployed locally on consumer hardware. Run yourself with Colab WebUI."
+category = "models"
+tags = ["ai", "gpt", "llama", "llm"]
+repository = "https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

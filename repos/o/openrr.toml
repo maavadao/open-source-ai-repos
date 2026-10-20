@@ -1,0 +1,8 @@
+name = "openrr"
+description = "Open Rust Robotics"
+category = "robotics"
+tags = ["robotics", "robotics-programming", "rust", "rust-lang"]
+repository = "https://github.com/openrr/openrr"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

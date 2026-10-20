@@ -1,0 +1,8 @@
+name = "vellium"
+description = "Local-first desktop AI workbench for roleplay, multi-character chat, long-form writing, RAG, MCP tools, plugins, and local models."
+category = "mcp-servers"
+tags = ["chatgpt", "gpt", "llm", "react", "writing", "ai", "ai-chat", "ai-writing"]
+repository = "https://github.com/tg-prplx/vellium"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

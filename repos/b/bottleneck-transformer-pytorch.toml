@@ -1,0 +1,8 @@
+name = "bottleneck-transformer-pytorch"
+description = "Implementation of Bottleneck Transformer in Pytorch"
+category = "vision"
+tags = ["artificial-intelligence", "deep-learning", "transformers", "attention-mechanism", "image-classification", "vision"]
+repository = "https://github.com/lucidrains/bottleneck-transformer-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

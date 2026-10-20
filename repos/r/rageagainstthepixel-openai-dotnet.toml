@@ -1,0 +1,9 @@
+name = "OpenAI-DotNet"
+description = "A Non-Official OpenAI RESTful API Client for DotNet"
+category = "chat"
+tags = ["csharp", "dotnet", "dotnet-core", "openai", "openai-api", "ai", "machine-learning", "dall-e"]
+repository = "https://github.com/RageAgainstThePixel/OpenAI-DotNet"
+website = "https://openai.com"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

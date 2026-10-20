@@ -1,0 +1,8 @@
+name = "path_optimizer"
+description = "Optimization-based real-time path planning for vehicles."
+category = "robotics"
+tags = ["path-planning", "path-optimization", "autonomous-driving", "robotics", "quadratic-programming", "osqp", "osqp-eigen"]
+repository = "https://github.com/LiJiangnanBit/path_optimizer"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

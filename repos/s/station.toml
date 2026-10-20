@@ -1,0 +1,9 @@
+name = "station"
+description = "Station is our open-source runtime that lets teams deploy agents on their own infrastructure with full control."
+category = "mcp-servers"
+tags = ["agents", "ai", "devops", "go", "golang", "llm", "llmops", "mcp"]
+repository = "https://github.com/cloudshipai/station"
+website = "https://www.cloudshipai.com/station"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

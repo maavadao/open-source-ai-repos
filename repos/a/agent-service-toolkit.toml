@@ -1,0 +1,9 @@
+name = "agent-service-toolkit"
+description = "Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit"
+category = "agents"
+tags = ["agents", "langgraph", "streamlit"]
+repository = "https://github.com/JoshuaC215/agent-service-toolkit"
+website = "https://agent-service-toolkit.streamlit.app"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

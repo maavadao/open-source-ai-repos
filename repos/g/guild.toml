@@ -1,0 +1,8 @@
+name = "guild"
+description = "Shared context, memory, and task coordination across AI coding agents. Single Go binary, local SQLite, hybrid keyword and semantic search."
+category = "mcp-servers"
+tags = ["agent-coordination", "agent-memory", "ai-agents", "claude", "claude-code", "codex", "cursor", "golang"]
+repository = "https://github.com/mathomhaus/guild"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

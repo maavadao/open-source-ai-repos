@@ -1,0 +1,7 @@
+name = "Qwen3.8"
+description = "Qwen3.8 is the large language model series developed by Qwen team, Alibaba Group."
+category = "models"
+repository = "https://github.com/QwenLM/Qwen3.8"
+website = "https://qwen.ai"
+license = "Apache-2.0"
+added = 2026-10-20

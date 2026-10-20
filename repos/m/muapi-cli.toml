@@ -1,0 +1,9 @@
+name = "muapi-cli"
+description = "Official CLI for muapi.ai — generate images, videos & audio from the terminal. MCP server, 14 AI models, npm + pip installable."
+category = "mcp-servers"
+tags = ["developer-tools", "generative-ai", "ai", "ai-api", "ai-tools", "api-client", "audio-generation", "cli"]
+repository = "https://github.com/SamurAIGPT/muapi-cli"
+website = "https://muapi.ai?utm_source=github&utm_medium=about&utm_campaign=muapi-cli"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

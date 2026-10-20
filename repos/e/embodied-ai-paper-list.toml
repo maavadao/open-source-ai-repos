@@ -1,0 +1,7 @@
+name = "Embodied_AI_Paper_List"
+description = "[Embodied-AI-Survey-2025] Paper List and Resource Repository for Embodied AI"
+category = "learning"
+tags = ["embodied-ai", "agent", "causality", "interaction", "reasoning", "robotics", "percpetion", "manipulation"]
+repository = "https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List"
+license = "NOASSERTION"
+added = 2026-10-20

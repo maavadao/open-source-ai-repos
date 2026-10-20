@@ -1,0 +1,9 @@
+name = "alphora"
+description = "A Production-Ready Framework for Building Composable AI Agents"
+category = "agents"
+tags = ["agent-framework", "ai-agents", "llm", "multi-agent-systems"]
+repository = "https://github.com/opencmit/alphora"
+website = "https://bigdata.10086.cn/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

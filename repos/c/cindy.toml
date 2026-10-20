@@ -1,0 +1,9 @@
+name = "cindy"
+description = "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。"
+category = "coding"
+tags = ["agent", "ai-agent", "ai-assistant", "android", "claude-code", "codex", "electron", "ios"]
+repository = "https://github.com/makecindy/cindy"
+website = "https://cindy.app"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

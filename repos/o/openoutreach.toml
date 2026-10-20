@@ -1,0 +1,9 @@
+name = "OpenOutreach"
+description = "Open-source AI agent for B2B lead generation — describe your product, it finds the people who fit, explains why each one does, and emails them from your mailbox. Self-hosted CLI, one install."
+category = "no-code"
+tags = ["agent", "agentic", "automation", "llm", "marketing", "marketing-automation", "outreach", "agentic-marketing"]
+repository = "https://github.com/eracle/OpenOutreach"
+website = "https://openoutreach.app"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

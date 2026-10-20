@@ -1,0 +1,9 @@
+name = "Comfy-Photoshop-SD"
+description = "Download this extension via the ComfyUI manager to establish a connection between ComfyUI and the Auto-Photoshop-SD plugin in Photoshop. https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin"
+category = "image"
+tags = ["ai", "ai-art", "art", "automatic1111", "comfyui", "comfyui-manager", "photoshop", "plugin"]
+repository = "https://github.com/AbdullahAlfaraj/Comfy-Photoshop-SD"
+website = "https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

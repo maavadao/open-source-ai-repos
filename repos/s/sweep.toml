@@ -1,0 +1,10 @@
+name = "sweep"
+description = "Sweep: AI coding assistant for JetBrains"
+category = "coding"
+tags = ["ai", "code-assistant", "developer-tools", "github-app", "code-search", "ai-developer", "gpt-4", "ai-software"]
+repository = "https://github.com/sweepai/sweep"
+website = "https://sweep.dev"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+skill_level = "intermediate"
+added = 2026-10-20

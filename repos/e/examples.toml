@@ -1,0 +1,9 @@
+name = "examples"
+description = "Jupyter Notebooks to help you get hands-on with Pinecone vector databases"
+category = "learning"
+tags = ["ai", "jupyter-notebook", "llm", "python", "semantic-search", "vector-database", "pinecone", "rag"]
+repository = "https://github.com/pinecone-io/examples"
+website = "https://docs.pinecone.io"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

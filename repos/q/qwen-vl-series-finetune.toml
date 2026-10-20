@@ -1,0 +1,8 @@
+name = "Qwen-VL-Series-Finetune"
+description = "An open-source implementaion for fine-tuning Qwen-VL series by Alibaba Cloud."
+category = "models"
+tags = ["multimodal", "qwen2-vl", "vision-language", "vision-language-model", "qwen3-vl", "qwen2-5-vl", "qwen3-5", "vlm"]
+repository = "https://github.com/2U1/Qwen-VL-Series-Finetune"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

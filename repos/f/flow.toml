@@ -1,0 +1,8 @@
+name = "flow"
+description = "Computational framework for reinforcement learning in traffic control"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "traffic-control", "benchmark", "autonomous", "vehicle-control", "sumo"]
+repository = "https://github.com/flow-project/flow"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

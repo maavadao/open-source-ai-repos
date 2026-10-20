@@ -1,0 +1,8 @@
+name = "Windows-Copilot-API"
+description = "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing."
+category = "coding"
+tags = ["ai", "ai-agents", "api", "copilot", "llm", "microsoft-copilot", "openai"]
+repository = "https://github.com/sums001/Windows-Copilot-API"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

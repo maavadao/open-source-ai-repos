@@ -1,0 +1,9 @@
+name = "VADER"
+description = "Video Diffusion Alignment via Reward Gradients. We improve a variety of video diffusion models such as VideoCrafter, OpenSora, ModelScope and StableVideoDiffusion by finetuning them using various reward models such as HPS, PickScore, VideoMAE, VJEPA, YOLO, Aesthetics etc."
+category = "image"
+tags = ["alignment", "diffusion", "rlhf", "video-diffusion", "reinforcement-learning", "rl", "vader", "reinforcement-learning-human-feedback"]
+repository = "https://github.com/mihirp1998/VADER"
+website = "https://vader-vid.github.io/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

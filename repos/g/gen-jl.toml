@@ -1,0 +1,9 @@
+name = "Gen.jl"
+description = "A general-purpose probabilistic programming system with programmable inference"
+category = "robotics"
+tags = ["probabilistic-programming", "gen", "deep-learning", "bayesian", "computer-vision", "machine-learning", "differentiable-programming", "robotics"]
+repository = "https://github.com/probcomp/Gen.jl"
+website = "https://gen.dev"
+license = "Apache-2.0"
+language = "Julia"
+added = 2026-10-20

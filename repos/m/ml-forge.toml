@@ -1,0 +1,8 @@
+name = "ml_forge"
+description = "A visual-based graph node editor for training computer vision models."
+category = "no-code"
+tags = ["artificial-intelligence", "beginner-friendly", "computer-vision", "data-science", "deep-learning", "desktop-app", "drag-and-drop", "gui"]
+repository = "https://github.com/zaina-ml/ml_forge"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

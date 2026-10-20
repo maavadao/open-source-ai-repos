@@ -1,0 +1,9 @@
+name = "mlx-audio"
+description = "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon."
+category = "speech"
+tags = ["apple-silicon", "audio-processing", "mlx", "multimodal", "speech-recognition", "speech-synthesis", "speech-to-text", "text-to-speech"]
+repository = "https://github.com/Blaizzy/mlx-audio"
+website = "https://blaizzy.github.io/mlx-audio/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

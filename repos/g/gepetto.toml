@@ -1,0 +1,8 @@
+name = "Gepetto"
+description = "IDA plugin which queries language models to speed up reverse-engineering"
+category = "models"
+tags = ["ida-pro", "reverse-engineering", "openai", "python", "gpt-5-api"]
+repository = "https://github.com/JusticeRage/Gepetto"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "vectorlite"
+description = "Fast, SQL powered, in-process vector search for any language with an SQLite driver"
+category = "vector-databases"
+tags = ["hnsw", "sqlite3", "vector-database", "cpp17", "python3"]
+repository = "https://github.com/1yefuwang1/vectorlite"
+website = "https://1yefuwang1.github.io/vectorlite/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

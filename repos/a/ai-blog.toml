@@ -1,0 +1,9 @@
+name = "AI-blog"
+description = "Accompanying repository for Let's make a DQN / A3C series."
+category = "learning"
+tags = ["dqn", "a3c", "reinforcement-learning", "tutorial", "keras", "tensorflow"]
+repository = "https://github.com/jaromiru/AI-blog"
+website = "https://jaromiru.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

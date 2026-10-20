@@ -1,0 +1,9 @@
+name = "dstack"
+description = "A unified orchestration layer for heterogeneous AI compute. It standardizes how to manage compute and run training and inference on GPU clouds, Kubernetes, VMs, or bare-metal clusters."
+category = "skills-prompts"
+tags = ["machine-learning", "python", "gpu", "llms", "cloud", "orchestration", "fine-tuning", "training"]
+repository = "https://github.com/dstackai/dstack"
+website = "https://dstack.ai/docs"
+license = "MPL-2.0"
+language = "Python"
+added = 2026-10-20

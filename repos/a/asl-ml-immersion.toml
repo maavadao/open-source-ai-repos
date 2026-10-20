@@ -1,0 +1,8 @@
+name = "asl-ml-immersion"
+description = "Notebooks, code samples and reference for machine learning and generative ai on Google Cloud for the Advanced Solutions Lab (ASL) bootcamps."
+category = "learning"
+tags = ["google-cloud-platform", "machine-learning", "tensorflow", "adk", "agents", "generative-ai", "adk-pyth"]
+repository = "https://github.com/GoogleCloudPlatform/asl-ml-immersion"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

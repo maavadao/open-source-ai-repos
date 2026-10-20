@@ -1,0 +1,9 @@
+name = "deep-seek"
+description = "LLM powered retrieval engine designed to process a ton of sources to collect a comprehensive list of entities."
+category = "learning"
+tags = ["agent", "agentic", "ai", "anthropic", "knowledge-graph", "llm", "openai", "search"]
+repository = "https://github.com/dzhng/deep-seek"
+website = "https://deep-seek.vercel.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

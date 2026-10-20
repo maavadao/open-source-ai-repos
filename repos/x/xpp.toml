@@ -1,0 +1,9 @@
+name = "xpp"
+description = "Visualization of Motions for Legged Robots in ros-rviz"
+category = "robotics"
+tags = ["ros", "rviz", "robotics", "visualization", "legged-robots", "motion-planning", "computer-graphics", "physics-based-animation"]
+repository = "https://github.com/leggedrobotics/xpp"
+website = "http://wiki.ros.org/xpp"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

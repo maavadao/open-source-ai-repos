@@ -1,0 +1,7 @@
+name = "RedPajama-Data"
+description = "The RedPajama-Data repository contains code for preparing large datasets for training large language models."
+category = "models"
+repository = "https://github.com/togethercomputer/RedPajama-Data"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

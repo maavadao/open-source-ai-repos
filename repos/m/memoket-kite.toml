@@ -1,0 +1,9 @@
+name = "memoket-kite"
+description = "An open-source, vector-free long-term memory engine for AI agents, achieving SOTA on LoCoMo and LongMemEval with significantly less context."
+category = "chat"
+tags = ["agent-memory", "agents", "ai", "ai-agents", "chatbot", "genai", "knowledge-management", "llm"]
+repository = "https://github.com/memoket/memoket-kite"
+website = "https://memoket.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

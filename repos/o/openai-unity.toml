@@ -1,0 +1,9 @@
+name = "OpenAI-Unity"
+description = "An unofficial OpenAI Unity Package that aims to help you use OpenAI API directly in Unity Game engine."
+category = "speech"
+tags = ["chatgpt", "openai", "openai-api", "unity", "unity3d", "dalle", "whisper"]
+repository = "https://github.com/srcnalt/OpenAI-Unity"
+website = "https://neocortex.link"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

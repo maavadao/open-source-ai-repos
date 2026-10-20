@@ -1,0 +1,9 @@
+name = "lmnr"
+description = "Laminar - open-source observability platform purpose-built for AI agents. YC S24."
+category = "agents"
+tags = ["aiops", "developer-tools", "observability", "agents", "ai", "rust-lang", "analytics", "llm-evaluation"]
+repository = "https://github.com/lmnr-ai/lmnr"
+website = "https://laminar.sh"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

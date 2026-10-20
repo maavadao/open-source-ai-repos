@@ -1,0 +1,9 @@
+name = "chatgpt-ai-template"
+description = "Horizon AI Template - Trendiest Open-source ChatGPT UI AI Template & Starter Kit for React, NextJS & Chakra UI"
+category = "chat"
+tags = ["admin-dashboard", "chakra-ui", "chat-application", "chat-gpt", "chatgpt", "chatgpt-admin", "chatgpt-admin-template", "chatgpt3"]
+repository = "https://github.com/horizon-ui/chatgpt-ai-template"
+website = "https://horizon-ui.com/chatgpt-ai-template/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

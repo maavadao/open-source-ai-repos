@@ -1,0 +1,9 @@
+name = "Seer"
+description = "[ICLR 2025 Oral] Seer: Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation"
+category = "robotics"
+tags = ["manipulation", "robotics"]
+repository = "https://github.com/InternRobotics/Seer"
+website = "https://nimolty.github.io/Seer/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

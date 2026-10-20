@@ -1,0 +1,9 @@
+name = "MathVista"
+description = "MathVista: data, code, and evaluation for Mathematical Reasoning in Visual Contexts"
+category = "models"
+tags = ["ai4math", "large-language-models", "large-multimadality-models", "machine-learning", "mathematics", "mathqa", "science", "visual-question-answering"]
+repository = "https://github.com/lupantech/MathVista"
+website = "https://mathvista.github.io/"
+license = "CC-BY-SA-4.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

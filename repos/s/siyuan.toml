@@ -1,0 +1,9 @@
+name = "siyuan"
+description = "An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作"
+category = "mcp-servers"
+tags = ["note-taking", "local-first", "knowledge-base", "markdown", "self-hosted", "siyuan", "ai-agent", "mcp"]
+repository = "https://github.com/siyuan-note/siyuan"
+website = "https://b3log.org/siyuan"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

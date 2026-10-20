@@ -1,0 +1,8 @@
+name = "self-driving-truck"
+description = "Self-Driving Truck in Euro Truck Simulator 2, trained via Reinforcement Learning"
+category = "ml-platforms"
+tags = ["deep-learning", "reinforcement-learning", "self-driving-car", "autonomous", "pytorch"]
+repository = "https://github.com/aleju/self-driving-truck"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

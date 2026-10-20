@@ -1,0 +1,8 @@
+name = "Mesh-Flow-Video-Stabilization"
+description = "Online video stabilization using a novel MeshFlow motion model"
+category = "vision"
+tags = ["computer-vision", "image-processing", "mesh-processing", "stabilization", "optimization", "microsoft-research"]
+repository = "https://github.com/sudheerachary/Mesh-Flow-Video-Stabilization"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

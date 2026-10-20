@@ -1,0 +1,8 @@
+name = "ccproxy"
+description = "Build mods for Claude Code: Hook any request, modify any response, /model \"with-your-custom-model\", intelligent model routing using your logic or ours"
+category = "coding"
+tags = ["ai", "claude", "claude-ai", "claude-code", "gemini", "gemini-cli", "litellm", "llm"]
+repository = "https://github.com/starbaser/ccproxy"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

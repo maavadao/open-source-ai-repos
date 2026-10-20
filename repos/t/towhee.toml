@@ -1,0 +1,9 @@
+name = "towhee"
+description = "Towhee is a framework that is dedicated to making neural data processing pipelines simple and fast."
+category = "vision"
+tags = ["machine-learning", "convolutional-networks", "embedding-vectors", "embeddings", "computer-vision", "image-processing", "video-processing", "feature-extraction"]
+repository = "https://github.com/towhee-io/towhee"
+website = "https://towhee.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

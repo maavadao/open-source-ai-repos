@@ -1,0 +1,9 @@
+name = "xiaoju-survey"
+description = "XIAOJUSURVEY is an enterprises form builder and analytics platform that allows users to create questionnaires, exams, polls, quizzes, and analyze data online."
+category = "models"
+tags = ["question", "survey", "form", "dynamic-form-builder", "form-builder", "java", "nodejs", "quiz"]
+repository = "https://github.com/didi/xiaoju-survey"
+website = "https://xiaojusurvey.didi.cn"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

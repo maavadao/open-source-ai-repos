@@ -1,0 +1,9 @@
+name = "datablations"
+description = "Scaling Data-Constrained Language Models"
+category = "models"
+tags = ["gpt", "high-performance-computing", "language-models", "large-language-models", "llms", "scaling-laws"]
+repository = "https://github.com/huggingface/datablations"
+website = "https://arxiv.org/abs/2305.16264"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

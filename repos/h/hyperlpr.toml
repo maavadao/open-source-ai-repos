@@ -1,0 +1,8 @@
+name = "HyperLPR"
+description = "High Performance Chinese License Plate Recognition Framework."
+category = "ml-platforms"
+tags = ["deep-learning", "plate-recognition", "android", "cpp", "tensorflow"]
+repository = "https://github.com/szad670401/HyperLPR"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

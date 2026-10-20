@@ -1,0 +1,9 @@
+name = "TrustRAG"
+description = "TrustRAG：The RAG Framework within Reliable input,Trusted output"
+category = "search"
+tags = ["rag", "retrieval-augmented-generation", "deep-research", "deep-search"]
+repository = "https://github.com/gomate-community/TrustRAG"
+website = "https://gomate-community.github.io/TrustRAG"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

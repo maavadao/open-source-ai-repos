@@ -1,0 +1,9 @@
+name = "rivet"
+description = "The open-source visual AI programming environment and TypeScript library"
+category = "models"
+tags = ["ai", "llm", "openai", "typescript"]
+repository = "https://github.com/Ironclad/rivet"
+website = "https://rivet.ironcladapp.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

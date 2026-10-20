@@ -1,0 +1,9 @@
+name = "BotLibre"
+description = "An open platform for artificial intelligence, chat bots, virtual agents, social media automation, and live chat automation."
+category = "chat"
+tags = ["chat-bots", "ai-engine", "virtual-agents", "java", "sdk", "chatbot", "bot", "nlp"]
+repository = "https://github.com/BotLibre/BotLibre"
+website = "http://www.botlibre.org"
+license = "EPL-1.0"
+language = "Java"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ChatterBot"
+description = "ChatterBot is a machine learning, conversational dialog engine for creating chat bots"
+category = "chat"
+tags = ["chatterbot", "machine-learning", "chatbot", "python", "conversation", "language", "bot"]
+repository = "https://github.com/gunthercox/ChatterBot"
+website = "http://docs.chatterbot.us/"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

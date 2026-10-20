@@ -1,0 +1,8 @@
+name = "Isaac-RL-Two-wheel-Legged-Bot"
+description = "two wheel legged robot for IsaacLab - reinforcement learning"
+category = "ml-platforms"
+tags = ["bipedal-robots", "isaac-gym", "isaac-sim", "isaaclab", "reinforcement-learning", "two-wheel-robot"]
+repository = "https://github.com/jaykorea/Isaac-RL-Two-wheel-Legged-Bot"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

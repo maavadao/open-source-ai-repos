@@ -1,0 +1,9 @@
+name = "rl"
+description = "A modular, primitive-first, python-first PyTorch library for Reinforcement Learning."
+category = "robotics"
+tags = ["ai", "control", "decision-making", "distributed-computing", "machine-learning", "marl", "model-based-reinforcement-learning", "multi-agent-reinforcement-learning"]
+repository = "https://github.com/pytorch/rl"
+website = "https://pytorch.org/rl"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

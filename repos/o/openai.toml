@@ -1,0 +1,9 @@
+name = "openai"
+description = ".NET library for the OpenAI service API by Betalgo Ranul"
+category = "speech"
+tags = ["csharp", "dall-e", "dotnet", "openai", "openai-api", "sdk", "chatgpt", "whisper"]
+repository = "https://github.com/betalgo/openai"
+website = "https://ranultinga.com/"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Freeze-Omni"
+description = "Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM"
+category = "speech"
+tags = ["large-language-models", "multimodal-large-language-models", "speech-to-speech", "speech", "speech-recognition", "speech-synthesis"]
+repository = "https://github.com/VITA-MLLM/Freeze-Omni"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "react-speech-recognition"
+description = "Speech recognition for your React app"
+category = "speech"
+tags = ["react", "speech-recognition", "speech-to-text"]
+repository = "https://github.com/JamesBrill/react-speech-recognition"
+website = "https://webspeechrecognition.com/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

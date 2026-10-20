@@ -1,0 +1,8 @@
+name = "Inpainting"
+description = "Want to remove something(someone) from a photo as it never was there? This is .NET implementation of content-aware fill. It smartly fills in unwanted or missing areas of photographs."
+category = "image"
+tags = ["content-aware-fill", "image-completion", "image-processing", "inpainting", "inpaint", "computer-vision", "photo-editing", "hacktoberfest"]
+repository = "https://github.com/zavolokas/Inpainting"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

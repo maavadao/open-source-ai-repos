@@ -1,0 +1,9 @@
+name = "generative-ai-cdk-constructs"
+description = "AWS Generative AI CDK Constructs are sample implementations of AWS CDK for common generative AI patterns."
+category = "agents"
+tags = ["aws-cdk", "generative-ai", "aws", "langchain", "retrieval-augmented-generation", "llm", "question-answering-system", "sagemaker"]
+repository = "https://github.com/awslabs/generative-ai-cdk-constructs"
+website = "https://awslabs.github.io/generative-ai-cdk-constructs/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

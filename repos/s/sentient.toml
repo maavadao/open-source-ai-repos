@@ -1,0 +1,9 @@
+name = "Sentient"
+description = "Your personal AI assistant, running on your own computer. Long-running tasks, real memory, proactive help, voice, phones and smart glasses. Any model, local or cloud. No account."
+category = "mcp-servers"
+tags = ["agents", "artificial-intelligence", "automation", "memory", "open-source", "personalization", "artificial-general-intelligence", "context"]
+repository = "https://github.com/existence-master/Sentient"
+website = "https://existence.technology/sentient"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

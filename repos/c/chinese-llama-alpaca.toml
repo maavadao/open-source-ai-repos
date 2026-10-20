@@ -1,0 +1,8 @@
+name = "Chinese-LLaMA-Alpaca"
+description = "中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)"
+category = "image"
+tags = ["llm", "plm", "pre-trained-language-models", "alpaca", "llama", "nlp", "quantization", "large-language-models"]
+repository = "https://github.com/ymcui/Chinese-LLaMA-Alpaca"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

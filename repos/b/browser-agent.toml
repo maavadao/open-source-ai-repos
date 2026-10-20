@@ -1,0 +1,9 @@
+name = "browser-agent"
+description = "Open-source, vision-first browser agent"
+category = "browser-automation"
+tags = ["test", "typescript", "automation", "browser", "framework", "javascipt", "ai", "playwright"]
+repository = "https://github.com/magnitudedev/browser-agent"
+website = "https://magnitude.run"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "ChatGLM2-6B"
+description = "ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型"
+category = "models"
+tags = ["chatglm", "chatglm-6b", "large-language-models", "llm"]
+repository = "https://github.com/zai-org/ChatGLM2-6B"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

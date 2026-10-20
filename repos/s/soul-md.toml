@@ -1,0 +1,9 @@
+name = "soul.md"
+description = "The best way to build a personality for your agent. Let Claude Code / OpenClaw ingest your data & build your AI soul."
+category = "skills-prompts"
+tags = ["agents", "openclaw", "soul", "claude-code", "claude-code-skill", "claude-skills", "second-brain"]
+repository = "https://github.com/aeonfun/soul.md"
+website = "https://www.aeon.fun/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Phi2-mini-Chinese"
+description = "Phi2-Chinese-0.2B 从0开始训练自己的Phi2中文小模型，支持接入langchain加载本地知识库做检索增强生成RAG。Training your own Phi2 small chat model from scratch."
+category = "learning"
+tags = ["language-model", "phi-2", "text-generation", "retrieval-augmented-generation"]
+repository = "https://github.com/charent/Phi2-mini-Chinese"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

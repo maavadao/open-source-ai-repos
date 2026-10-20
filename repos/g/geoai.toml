@@ -1,0 +1,9 @@
+name = "geoai"
+description = "GeoAI: Artificial Intelligence for Geospatial Data"
+category = "vision"
+tags = ["ai", "data-science", "geoai", "geopython", "geospatial", "jupyter", "python", "deep-learning"]
+repository = "https://github.com/opengeos/geoai"
+website = "https://opengeoai.org"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

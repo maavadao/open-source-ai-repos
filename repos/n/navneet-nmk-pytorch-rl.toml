@@ -1,0 +1,8 @@
+name = "pytorch-rl"
+description = "This repository contains model-free deep reinforcement learning algorithms implemented in Pytorch"
+category = "robotics"
+tags = ["dqn", "reinforcement-learning", "deep-learning", "deep-reinforcement-learning", "pytorch", "gym", "ddpg", "rl-algorithms"]
+repository = "https://github.com/navneet-nmk/pytorch-rl"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

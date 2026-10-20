@@ -1,0 +1,9 @@
+name = "keepsake"
+description = "Version control for machine learning"
+category = "data-science"
+tags = ["version-control", "machine-learning"]
+repository = "https://github.com/replicate/keepsake"
+website = "https://keepsake.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

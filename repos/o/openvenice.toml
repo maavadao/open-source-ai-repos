@@ -1,0 +1,8 @@
+name = "openvenice"
+description = "Open-source, customizable frontend for Venice AI. Chat, image gen, audio, video, embeddings + visual workflows — all in one UI. Your API key, your browser, no backend."
+category = "image"
+tags = ["ai", "chatbot", "diem", "image-generation", "llm", "multimodal", "open-source", "venice-ai"]
+repository = "https://github.com/nikshepsvn/openvenice"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

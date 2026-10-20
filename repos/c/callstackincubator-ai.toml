@@ -1,0 +1,9 @@
+name = "ai"
+description = "On-device LLM execution in React Native with Vercel AI SDK compatibility"
+category = "models"
+tags = ["ai", "llm", "on-device-ai", "react-native"]
+repository = "https://github.com/callstackincubator/ai"
+website = "https://react-native-ai.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

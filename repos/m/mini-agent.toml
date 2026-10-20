@@ -1,0 +1,9 @@
+name = "Mini-Agent"
+description = "A minimal yet professional single agent demo project that showcases the core execution pipeline and production-grade features of agents."
+category = "agents"
+tags = ["agent", "llm", "minimax"]
+repository = "https://github.com/MiniMax-AI/Mini-Agent"
+website = "https://www.minimax.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

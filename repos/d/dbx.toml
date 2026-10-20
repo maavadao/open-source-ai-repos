@@ -1,0 +1,9 @@
+name = "dbx"
+description = "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+…"
+category = "mcp-servers"
+tags = ["clickhouse", "database", "database-client", "database-management", "gui", "mongodb", "mysql", "postgresql"]
+repository = "https://github.com/t8y2/dbx"
+website = "https://dbxio.com"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

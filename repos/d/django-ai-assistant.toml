@@ -1,0 +1,9 @@
+name = "django-ai-assistant"
+description = "Integrate AI Assistants with Django to build intelligent applications"
+category = "chat"
+tags = ["chatgpt", "django", "gpt", "openai", "ai", "langchain", "ai-agent", "ai-assistant"]
+repository = "https://github.com/vintasoftware/django-ai-assistant"
+website = "https://django-ai.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

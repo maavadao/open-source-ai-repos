@@ -1,0 +1,8 @@
+name = "synaps-cad"
+description = "The AI-powered 3D CAD IDE — edit code, visualize in 3D, and reshape your designs with natural language."
+category = "coding"
+tags = ["3d-models", "claude", "gemini", "generative-ai", "openai", "rust", "3d-modeling", "3d-printing"]
+repository = "https://github.com/timschmidt/synaps-cad"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

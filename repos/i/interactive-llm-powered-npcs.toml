@@ -1,0 +1,9 @@
+name = "Interactive-LLM-Powered-NPCs"
+description = "Interactive LLM Powered NPCs, is an open-source project that completely transforms your interaction with non-player characters (NPCs) in any game!"
+category = "vision"
+tags = ["ai", "artificial-intelligence", "autonomous-agents", "computer-vision", "langchain", "language-model", "llm-agent", "python"]
+repository = "https://github.com/AkshitIreddy/Interactive-LLM-Powered-NPCs"
+website = "https://www.linkedin.com/company/alystria-ai"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

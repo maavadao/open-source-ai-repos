@@ -1,0 +1,9 @@
+name = "docker-agent"
+description = "AI Agent Builder and Runtime by Docker Engineering"
+category = "agents"
+tags = ["agents", "ai"]
+repository = "https://github.com/docker/docker-agent"
+website = "https://docker.github.io/docker-agent/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "MistoLine"
+description = "A Versatile and Robust SDXL-ControlNet Model for Adaptable Line Art Conditioning"
+category = "image"
+tags = ["art", "controlnet", "sdxl", "stable-diffusion"]
+repository = "https://github.com/TheMistoAI/MistoLine"
+license = "NOASSERTION"
+added = 2026-10-20

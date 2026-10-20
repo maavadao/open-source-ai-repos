@@ -1,0 +1,7 @@
+name = "ml-fastvlm"
+description = "This repository contains the official implementation of \"FastVLM: Efficient Vision Encoding for Vision Language Models\" - CVPR 2025"
+category = "models"
+repository = "https://github.com/apple-aiml-research/ml-fastvlm"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

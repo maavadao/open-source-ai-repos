@@ -1,0 +1,8 @@
+name = "witsy"
+description = "Witsy: desktop AI assistant / universal MCP client"
+category = "mcp-servers"
+tags = ["anthropic", "genai", "groq", "ollama", "ollama-gui", "openai", "electron-app", "electronjs"]
+repository = "https://github.com/Kochava-Studios/witsy"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "enchanted"
+description = "Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama."
+category = "local-llms"
+tags = ["ios", "large-language-model", "llm", "ollama", "ollama-app", "swift", "llama", "llama2"]
+repository = "https://github.com/gluonfield/enchanted"
+license = "Apache-2.0"
+language = "Swift"
+added = 2026-10-20

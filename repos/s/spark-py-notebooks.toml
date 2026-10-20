@@ -1,0 +1,9 @@
+name = "spark-py-notebooks"
+description = "Apache Spark & Python (pySpark) tutorials for Big Data Analysis and Machine Learning as IPython / Jupyter notebooks"
+category = "learning"
+tags = ["spark", "python", "pyspark", "data-analysis", "mllib", "ipython-notebook", "notebook", "ipython"]
+repository = "https://github.com/jadianes/spark-py-notebooks"
+website = "http://jadianes.github.io/spark-py-notebooks"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

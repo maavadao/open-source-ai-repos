@@ -1,0 +1,8 @@
+name = "trellis2.c"
+description = "Generate textured, segmented and rigged GLB assets entirely on your own GPU."
+category = "ml-platforms"
+tags = ["3d-generation", "cuda", "generative-ai", "graphics-programming", "mesh-generation", "trellis2", "vulkan"]
+repository = "https://github.com/Wimacs/trellis2.c"
+license = "MIT"
+language = "C"
+added = 2026-10-20

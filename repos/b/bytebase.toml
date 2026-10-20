@@ -1,0 +1,9 @@
+name = "bytebase"
+description = "Database governance built for humans and agents — controlling changes and access across every major database."
+category = "agents"
+tags = ["mysql", "tidb", "postgresql", "cicd", "sql-client", "oracle", "sqlserver", "schema-migrations"]
+repository = "https://github.com/bytebase/bytebase"
+website = "https://www.bytebase.com"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

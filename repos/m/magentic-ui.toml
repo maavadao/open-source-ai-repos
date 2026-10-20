@@ -1,0 +1,9 @@
+name = "magentic-ui"
+description = "MagenticLite is an experimental agent that works across the browser and local file system"
+category = "agents"
+tags = ["agents", "ai", "ai-ux", "autogen", "browser-use", "computer-use-agent", "ui", "cua"]
+repository = "https://github.com/microsoft/magentic-ui"
+website = "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "forge"
+description = "An unofficial rules engine for the world's greatest card game."
+category = "other"
+tags = ["ai", "magic-the-gathering", "quest", "rules-engine", "adventure", "android", "java"]
+repository = "https://github.com/Card-Forge/forge"
+website = "https://card-forge.github.io/forge/"
+license = "GPL-3.0"
+language = "Java"
+added = 2026-10-20

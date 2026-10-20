@@ -1,0 +1,9 @@
+name = "xllm"
+description = "A high-performance inference engine for LLM, VLM, DiT and REC models, optimized for diverse AI accelerators. It is hosted in OpenAtom Foundation."
+category = "local-llms"
+tags = ["deepseek", "inference", "inference-engine", "llm-inference", "qwen", "large-language-models", "glm"]
+repository = "https://github.com/xLLM-AI/xllm"
+website = "https://xllm-ai.com/"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

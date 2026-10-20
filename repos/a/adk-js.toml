@@ -1,0 +1,9 @@
+name = "adk-js"
+description = "An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control."
+category = "agents"
+tags = ["agent", "agentic", "agentic-ai", "agents", "agents-sdk", "ai", "ai-agents", "aiagentframework"]
+repository = "https://github.com/google/adk-js"
+website = "https://adk.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

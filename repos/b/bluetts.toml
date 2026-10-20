@@ -1,0 +1,9 @@
+name = "BlueTTS"
+description = "Fastest Open Source TTS Model"
+category = "speech"
+tags = ["generative-ai", "multilanguage", "python", "text-to-speech", "voice", "voicesynthesis"]
+repository = "https://github.com/maxmelichov/BlueTTS"
+website = "https://bluetts.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

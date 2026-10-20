@@ -1,0 +1,9 @@
+name = "testzeus-hercules"
+description = "Hercules is the world’s first open-source testing agent, enabling UI, API, Security, Accessibility, and Visual validations – all without code or maintenance. Automate testing effortlessly and let Hercules handle the heavy lifting!"
+category = "browser-automation"
+tags = ["ai", "autogen", "automation", "browser", "end-to-end-testing", "hercules", "large-action-model", "playwright"]
+repository = "https://github.com/test-zeus-ai/testzeus-hercules"
+website = "https://testzeus.com/hercules"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

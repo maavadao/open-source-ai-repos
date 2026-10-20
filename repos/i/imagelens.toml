@@ -1,0 +1,8 @@
+name = "ImageLens"
+description = "一个可以帮你快速反推出网页上图片的提示词，并快速生图测试提示词效果的插件。A Chrome extension to reverse-engineer prompts from web images and instantly validate them via live generation."
+category = "image"
+tags = ["ai-tools", "browser-extension", "chrome-extension", "gemini", "generative-ai", "image-analysis", "image-generation", "image-to-prompt"]
+repository = "https://github.com/kevinchin12/ImageLens"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "pylot"
+description = "Modular autonomous driving platform running on the CARLA simulator and real-world vehicles."
+category = "robotics"
+tags = ["autonomous-vehicles", "autonomous-driving", "carla", "perception", "planning", "prediction", "control", "machine-learning"]
+repository = "https://github.com/erdos-project/pylot"
+website = "https://pylot.readthedocs.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

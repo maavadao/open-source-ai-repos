@@ -1,0 +1,9 @@
+name = "webgradients"
+description = "180 free CSS3, Figma, Sketch & PSD gradients — plus a JSON dataset for design tools, generators, and AI agents."
+category = "agents"
+tags = ["gradient", "background", "css", "design", "ui", "colors", "css-gradients", "figma"]
+repository = "https://github.com/itmeo/webgradients"
+website = "https://webgradients.com"
+license = "MIT"
+language = "CSS"
+added = 2026-10-20

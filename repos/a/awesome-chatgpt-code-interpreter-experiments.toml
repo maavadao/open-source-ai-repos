@@ -1,0 +1,7 @@
+name = "awesome-chatgpt-code-interpreter-experiments"
+description = "Awesome things you can do with ChatGPT + Code Interpreter combo"
+category = "learning"
+tags = ["chatbot", "code-interpreter", "language", "agent", "computer-vision", "jailbreak"]
+repository = "https://github.com/SkalskiP/awesome-chatgpt-code-interpreter-experiments"
+license = "NOASSERTION"
+added = 2026-10-20

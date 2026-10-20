@@ -1,0 +1,9 @@
+name = "VideoPipe"
+description = "A cross-platform video structuring (video analysis) framework based on CV models & mLLM."
+category = "vector-databases"
+tags = ["cv", "deep-learning", "object-detection", "opencv", "gstreamer", "video-analysis", "ai", "behaviour-analysis"]
+repository = "https://github.com/sherlockchou86/VideoPipe"
+website = "http://www.videopipe.cool"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

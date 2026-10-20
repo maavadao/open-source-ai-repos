@@ -1,0 +1,9 @@
+name = "web-crawl-q-and-a-example"
+description = "Learn how to crawl your website and build a Q/A bot with the OpenAI API"
+category = "learning"
+tags = ["openai"]
+repository = "https://github.com/openai/web-crawl-q-and-a-example"
+website = "https://platform.openai.com/docs/tutorials/web-qa-embeddings"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

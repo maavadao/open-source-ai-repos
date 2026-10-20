@@ -1,0 +1,8 @@
+name = "tinyzero"
+description = "Easily train AlphaZero-like agents on any environment you want!"
+category = "ml-platforms"
+tags = ["alphazero", "mcts", "reinforcement-learning"]
+repository = "https://github.com/s-casci/tinyzero"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

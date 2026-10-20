@@ -1,0 +1,8 @@
+name = "RadioDiff"
+description = "This is the code for the paper \"RadioDiff: An Effective Generative Diffusion Model for Sampling-Free Dynamic Radio Map Construction\", IEEE TCCN."
+category = "image"
+tags = ["diffusion-models", "electromagnetics", "large-model", "python", "wireless-communication", "wireless-network", "wireless"]
+repository = "https://github.com/UNIC-Lab/RadioDiff"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

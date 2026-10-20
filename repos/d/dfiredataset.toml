@@ -1,0 +1,8 @@
+name = "DFireDataset"
+description = "D-Fire: an image data set for fire and smoke detection."
+category = "vision"
+tags = ["computer-vision", "dataset", "fire-detection", "yolo", "smoke-detection"]
+repository = "https://github.com/gaia-solutions-on-demand/DFireDataset"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

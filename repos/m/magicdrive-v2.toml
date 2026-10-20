@@ -1,0 +1,9 @@
+name = "MagicDrive-V2"
+description = "[ICCV 2025] Official implementation of the paper “MagicDrive-V2: High-Resolution Long Video Generation for Autonomous Driving with Adaptive Control”"
+category = "video"
+tags = ["autonomous-driving", "diffusion-models", "multi-view", "video-generation"]
+repository = "https://github.com/flymin/MagicDrive-V2"
+website = "https://gaoruiyuan.com/magicdrive-v2/"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

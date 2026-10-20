@@ -1,0 +1,9 @@
+name = "opensrc"
+description = "Fetch source code for npm packages to give AI coding agents deeper context"
+category = "coding"
+tags = ["ai", "ai-coding", "cli", "coding-agents", "developer-tools", "llm", "nodejs", "npm"]
+repository = "https://github.com/vercel-labs/opensrc"
+website = "https://opensrc.sh"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

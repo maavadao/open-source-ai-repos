@@ -1,0 +1,9 @@
+name = "intelligent-trading-bot"
+description = "Intelligent Trading Bot: Automatically generating signals and trading based on machine learning and feature engineering"
+category = "data-science"
+tags = ["bitcoin", "machine-learning", "artificial-intelligence", "feature-engineering", "crypto", "trading", "algorithmic-trading", "crypto-trading"]
+repository = "https://github.com/asavinov/intelligent-trading-bot"
+website = "https://t.me/intelligent_trading_signals"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

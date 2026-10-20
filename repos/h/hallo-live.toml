@@ -1,0 +1,9 @@
+name = "Hallo-Live"
+description = "[ACM MM 2026] Hallo-Live: Real-Time Streaming Joint Audio-Video Avatar Generation"
+category = "image"
+tags = ["diffusion-models", "audio-video-generation", "virtual-avatars", "research-project"]
+repository = "https://github.com/fudan-generative-vision/Hallo-Live"
+website = "https://arxiv.org/abs/2604.23632"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

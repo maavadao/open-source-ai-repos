@@ -1,0 +1,8 @@
+name = "learn-machine-learning-in-two-months"
+description = "Những kiến thức cần thiết để học tốt Machine Learning trong vòng 2 tháng. Essential Knowledge for learning Machine Learning in two months."
+category = "learning"
+tags = ["machine-learning", "tensorflow", "tensorflow-tutorials", "tensorflow-experiments", "machine-learning-tutorials", "python-tutorials", "javascript", "python"]
+repository = "https://github.com/bangoc123/learn-machine-learning-in-two-months"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

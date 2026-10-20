@@ -1,0 +1,9 @@
+name = "ai-game-devtools"
+description = "Your AI Game Dev Hub. The ultimate resource hub for AI-powered game development tools. Discover cutting-edge LLMs, World Model, Agent, Code, Image, Texture, Shader, 3D Model, Animation, Video, Audio, Music, Singing Voice and Analytics."
+category = "image"
+tags = ["ai-platform", "ai-toolkit", "game-ai", "game-development", "game-engine", "deep-learning", "mechine-learing", "artificial-intelligence"]
+repository = "https://github.com/Yuan-ManX/ai-game-devtools"
+website = "https://yuan-manx.github.io/ai-game-devtools/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

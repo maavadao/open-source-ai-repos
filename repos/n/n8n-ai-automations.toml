@@ -1,0 +1,8 @@
+name = "n8n-ai-automations"
+description = "Collection of n8n workflows, n8n templates, AI automations, and AI agents created for The Recap AI YouTube channel and the AI Automation Mastery free Skool community."
+category = "no-code"
+tags = ["ai", "artificial-intelligence", "automation", "n8n", "n8n-workflow", "agentic-ai", "agentic-workflows", "agents"]
+repository = "https://github.com/lucaswalter/n8n-ai-automations"
+website = "https://www.skool.com/ai-automation-mastery-group"
+license = "NOASSERTION"
+added = 2026-10-20

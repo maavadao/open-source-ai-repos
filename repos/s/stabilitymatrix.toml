@@ -1,0 +1,10 @@
+name = "StabilityMatrix"
+description = "Multi-Platform Package Manager for Stable Diffusion"
+category = "image"
+tags = ["automatic1111", "comfyui", "dotnet", "python", "sd-webui", "stable-diffusion", "text2image", "ai"]
+repository = "https://github.com/LykosAI/StabilityMatrix"
+website = "https://lykos.ai"
+license = "AGPL-3.0"
+language = "C#"
+skill_level = "beginner"
+added = 2026-10-20

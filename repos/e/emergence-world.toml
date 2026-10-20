@@ -1,0 +1,8 @@
+name = "Emergence-World"
+description = "Emergence World: A world designed to reveal what no benchmark can: emergent intelligence."
+category = "agents"
+tags = ["ai-agents", "simulation"]
+repository = "https://github.com/EmergenceAI/Emergence-World"
+website = "https://world.emergence.ai/"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "LTX-2"
+description = "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model."
+category = "speech"
+tags = ["generative-ai", "ltx", "ltx-2"]
+repository = "https://github.com/Lightricks/LTX-2"
+website = "https://ltx.io"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

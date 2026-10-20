@@ -1,0 +1,9 @@
+name = "sd-webui-qrcode-toolkit"
+description = "Anthony's QR Toolkit for Stable Diffusion WebUI"
+category = "image"
+tags = ["qrcode-ai", "qrcode-generator", "stable-diffusion", "stable-diffusion-webui", "stable-diffusion-webui-plugin"]
+repository = "https://github.com/antfu/sd-webui-qrcode-toolkit"
+website = "https://qrcode.antfu.me/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

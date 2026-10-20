@@ -1,0 +1,9 @@
+name = "griptape"
+description = "Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory."
+category = "models"
+tags = ["gpt", "llm", "openai", "ai", "python", "huggingface", "anthropic", "claude"]
+repository = "https://github.com/griptape-ai/griptape"
+website = "https://www.griptape.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

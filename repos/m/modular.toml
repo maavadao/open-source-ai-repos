@@ -1,0 +1,9 @@
+name = "modular"
+description = "The Modular Platform (includes MAX & Mojo)"
+category = "data-science"
+tags = ["ai", "language", "machine-learning", "mojo", "modular", "programming-language", "max"]
+repository = "https://github.com/modular/modular"
+website = "https://docs.modular.com/"
+license = "NOASSERTION"
+language = "Mojo"
+added = 2026-10-20

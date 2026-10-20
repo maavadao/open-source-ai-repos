@@ -1,0 +1,8 @@
+name = "kochat"
+description = "Opensource Korean chatbot framework"
+category = "search"
+tags = ["chatbot", "deeplearning", "deep-learning", "korean", "korean-chatbot", "sentence-classification", "sequance-tagging", "web-crawler"]
+repository = "https://github.com/hyunwoongko/kochat"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "LetsFG"
+description = "Agent-native flight & hotel search and booking — MCP server, CLI, and Python/JS SDKs. Every airline in the world, major booking sites and OTAs, with per-flight reliability history."
+category = "mcp-servers"
+tags = ["ai", "ai-agents", "openclaw", "ai-agent", "airline-api", "booking", "flight-search", "flights"]
+repository = "https://github.com/LetsFG/LetsFG"
+website = "https://letsfg.co"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

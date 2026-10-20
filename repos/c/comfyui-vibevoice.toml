@@ -1,0 +1,8 @@
+name = "ComfyUI-VibeVoice"
+description = "ComfyUI custom node for the VibeVoice TTS. Expressive, long-form, multi-speaker conversational audio"
+category = "speech"
+tags = ["audio", "t2s", "tts", "ai-voice", "text-to-speech", "voice-generation", "comfyui-custom-nodes-text-to-speech", "comfyui-nodes"]
+repository = "https://github.com/wildminder/ComfyUI-VibeVoice"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "react-native-grab"
+description = "Touch-to-grab context tool for React Native UI changes"
+category = "agents"
+tags = ["agents", "devtools"]
+repository = "https://github.com/callstackincubator/react-native-grab"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

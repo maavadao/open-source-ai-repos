@@ -1,0 +1,9 @@
+name = "danghuangshang"
+description = "Open-source multi-agent collaboration system inspired by Chinese governance — deploy and coordinate specialized AI agents with OpenClaw."
+category = "learning"
+tags = ["ai", "ai-agents", "clawdbot", "discord", "discord-bot", "multi-agent", "tutorial", "ai-orchestration"]
+repository = "https://github.com/wanikua/danghuangshang"
+website = "https://danghuangshang.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

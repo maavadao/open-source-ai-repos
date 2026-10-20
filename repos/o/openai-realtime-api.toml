@@ -1,0 +1,8 @@
+name = "openai-realtime-api"
+description = "TypeScript client for OpenAI's realtime voice API."
+category = "speech"
+tags = ["openai", "realtime", "voice"]
+repository = "https://github.com/transitive-bullshit/openai-realtime-api"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

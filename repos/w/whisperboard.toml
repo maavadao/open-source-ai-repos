@@ -1,0 +1,8 @@
+name = "Whisperboard"
+description = "The open-source iOS app that's making quality voice transcription more accessible on mobile devices."
+category = "speech"
+tags = ["openai", "ios", "speech-recognition", "speech-to-text", "swiftui", "transcription", "audio-to-text", "composable-architecture"]
+repository = "https://github.com/Saik0s/Whisperboard"
+license = "GPL-3.0"
+language = "Swift"
+added = 2026-10-20

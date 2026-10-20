@@ -1,0 +1,8 @@
+name = "DragGAN"
+description = "Unofficial Implementation of DragGAN - \"Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold\" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, Linux）"
+category = "image"
+tags = ["draggan", "image-editing", "image-generation", "gradio-interface", "interngpt"]
+repository = "https://github.com/OpenGVLab/DragGAN"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

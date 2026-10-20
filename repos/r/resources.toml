@@ -1,0 +1,8 @@
+name = "resources"
+description = "Resources on various topics being worked on at IvLabs"
+category = "robotics"
+tags = ["deep-learning", "reinforcement-learning", "resources", "mathematics", "slam", "state-estimation", "hacktoberfest"]
+repository = "https://github.com/IvLabs/resources"
+website = "https://ivlabs.github.io/resources/"
+license = "MIT"
+added = 2026-10-20

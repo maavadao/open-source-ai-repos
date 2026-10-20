@@ -1,0 +1,7 @@
+name = "Awesome-Multi-Task-Learning"
+description = "An up-to-date list of works on Multi-Task Learning"
+category = "learning"
+tags = ["multi-task-learning", "multi-domain-learning", "computer-vision", "machine-learning", "partially-supervised", "loss-weight", "deep-learning", "multi-task"]
+repository = "https://github.com/WeihongLi-ac/Awesome-Multi-Task-Learning"
+license = "NOASSERTION"
+added = 2026-10-20

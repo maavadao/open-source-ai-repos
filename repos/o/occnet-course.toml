@@ -1,0 +1,8 @@
+name = "OccNet-Course"
+description = "国内首个占据栅格网络全栈课程《从BEV到Occupancy Network，算法原理与工程实践》，包含训练数据制作、训练和端侧部署。Surrounding Semantic Occupancy Perception Course for Autonomous Driving (docs, ppt and source code) 在线课程主页：http://111.229.117.200:8100/ (作者独立搭建)"
+category = "learning"
+tags = ["autonomous-driving", "autonomous-vehicles", "bev", "end-to-end", "occupancy", "occupancy-prediction", "self-driving-car", "tesla"]
+repository = "https://github.com/Charmve/OccNet-Course"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

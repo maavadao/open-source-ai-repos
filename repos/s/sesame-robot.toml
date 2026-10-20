@@ -1,0 +1,9 @@
+name = "sesame-robot"
+description = "An open and affordable mini quadruped robot based on ESP32."
+category = "robotics"
+tags = ["hardware", "robotics", "walking-robot"]
+repository = "https://github.com/dorianborian/sesame-robot"
+website = "https://www.doriantodd.com/sesame"
+license = "Apache-2.0"
+language = "C"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "data-science-blogs"
+description = "A curated list of data science blogs"
+category = "learning"
+tags = ["data-science", "machine-learning"]
+repository = "https://github.com/rushter/data-science-blogs"
+website = "http://rushter.com/dsreader/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

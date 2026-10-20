@@ -1,0 +1,9 @@
+name = "ChatGpt-Web"
+description = "A commercially-viable ChatGpt web application built with React. 使用React搭建的一款可商业化的ChatGpt Web应用。"
+category = "chat"
+tags = ["chat", "openai", "chatbot", "chatgpt", "react"]
+repository = "https://github.com/79E/ChatGpt-Web"
+website = "http://aizj.top"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

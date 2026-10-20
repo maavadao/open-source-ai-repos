@@ -1,0 +1,9 @@
+name = "doremi"
+description = "Pytorch implementation of DoReMi, a method for optimizing the data mixture weights in language modeling datasets"
+category = "models"
+tags = ["data-centric-machine-learning", "large-language-models", "nlp"]
+repository = "https://github.com/sangmichaelxie/doremi"
+website = "https://arxiv.org/abs/2305.10429"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "mco"
+description = "CLI-first orchestration for AI coding agents: run selected agents and models in parallel, compare raw answers, and coordinate review or implementation workflows."
+category = "coding"
+tags = ["ai-agents", "claude", "cli", "code-review", "codex", "developer-tools", "gemini", "multi-agent"]
+repository = "https://github.com/mco-org/mco"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

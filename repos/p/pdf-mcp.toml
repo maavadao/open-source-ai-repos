@@ -1,0 +1,9 @@
+name = "pdf-mcp"
+description = "MCP server that lets Claude Code and other AI agents read and search large PDFs, one file or a whole folder: agentic RAG with hybrid semantic + keyword search, selective page reads, tables, images, OCR, chart data, and multi-column/CJK layouts."
+category = "mcp-servers"
+tags = ["ai", "claude", "document-processing", "llm", "mcp", "pdf", "python", "codex-cli"]
+repository = "https://github.com/jztan/pdf-mcp"
+website = "https://pdf-mcp.jztan.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

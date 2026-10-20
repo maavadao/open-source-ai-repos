@@ -1,0 +1,7 @@
+name = "awesome-speech-recognition-speech-synthesis-papers"
+description = "Automatic Speech Recognition (ASR), Speaker Verification, Speech Synthesis, Text-to-Speech (TTS), Language Modelling, Singing Voice Synthesis (SVS), Voice Conversion (VC)"
+category = "learning"
+tags = ["automatic-speech-recognition", "papers", "roadmap", "rnn", "cnn", "dnn", "attention-mechanism", "seq2seq"]
+repository = "https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers"
+license = "MIT"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "machine-learning"
+description = "machine learning tutorials (mainly in Python3)"
+category = "learning"
+tags = ["machine-learning", "data-science", "jupyter-notebook", "python3", "deep-learning", "python"]
+repository = "https://github.com/ethen8181/machine-learning"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

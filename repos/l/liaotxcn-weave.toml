@@ -1,0 +1,9 @@
+name = "Weave"
+description = "A highly efficient, secure, and stable application development platform with excellent performance, easy scalability, and deep integration of AI capabilities such as LLM, AI Chat, RAG, and Agents."
+category = "mcp-servers"
+tags = ["golang", "gin", "plugin-system", "agent", "mcp", "eino", "docker", "k8s"]
+repository = "https://github.com/liaotxcn/Weave"
+website = "https://github.com/NexusForgeAI/Weave-Toolkit"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

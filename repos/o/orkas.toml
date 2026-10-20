@@ -1,0 +1,9 @@
+name = "Orkas"
+description = "Orkas is an open-source, local-first AI desktop app: a commander LLM directs specialist sub-agents, and runs your installed coding CLIs — Claude Code, Codex, OpenCode, OpenClaw, Hermes — as local sessions. Agents self-evolve via reflection and skill crystallization. BYO keys.…"
+category = "mcp-servers"
+tags = ["agent-collaboration", "agent-orchestration", "agent-team", "ai-assistant", "ai-team", "ai-workflow", "autonomous-agents", "byo-llm"]
+repository = "https://github.com/Orkas-AI/Orkas"
+website = "https://orkas.ai?source=gh-orkas"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

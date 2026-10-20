@@ -1,0 +1,9 @@
+name = "skills"
+description = "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end."
+category = "skills-prompts"
+tags = ["agent-skills", "agentic-ai", "ai-agents", "claude-code", "codex", "coding-agents", "cuda", "developer-tools"]
+repository = "https://github.com/NVIDIA/skills"
+website = "https://docs.nvidia.com/skills"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

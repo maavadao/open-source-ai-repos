@@ -1,0 +1,9 @@
+name = "fastmcp"
+description = "The fast, Pythonic way to build MCP servers and clients."
+category = "mcp-servers"
+tags = ["model-context-protocol", "fastmcp", "mcp", "agents", "llms", "mcp-clients", "mcp-servers", "mcp-tools"]
+repository = "https://github.com/PrefectHQ/fastmcp"
+website = "https://gofastmcp.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

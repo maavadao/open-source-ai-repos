@@ -1,0 +1,9 @@
+name = "json_repair"
+description = "Repair malformed JSON from LLMs, APIs, logs, and user input in Python."
+category = "llm-apps"
+tags = ["json", "llm", "parser", "cli", "json-repair", "json-schema", "llm-output", "malformed-json"]
+repository = "https://github.com/mangiucugna/json_repair"
+website = "https://mangiucugna.github.io/json_repair/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "sulla"
+description = "🏻 Javascript Whatsapp api library for chatbots"
+category = "chat"
+tags = ["whatsapp", "bot", "framework", "whatsapp-bot", "whatsapp-api", "chatbot"]
+repository = "https://github.com/danielcardeenas/sulla"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

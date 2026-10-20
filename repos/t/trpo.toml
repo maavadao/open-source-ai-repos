@@ -1,0 +1,9 @@
+name = "trpo"
+description = "Trust Region Policy Optimization with TensorFlow and OpenAI Gym"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "policy-gradient", "tensorflow", "machine-learning", "mujoco"]
+repository = "https://github.com/pat-coady/trpo"
+website = "https://learningai.io/projects/2017/07/28/ai-gym-workout.html"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "WeKnora"
+description = "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
+category = "vector-databases"
+tags = ["agent", "agentic", "ai", "golang", "llm", "ollama", "rag", "chatbot"]
+repository = "https://github.com/Tencent/WeKnora"
+website = "https://weknora.weixin.qq.com"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

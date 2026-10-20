@@ -1,0 +1,9 @@
+name = "awesome-architecture"
+description = "Architecture-first system design: 26 bilingual tutorials, 25 architecture templates, and 6 end-to-end cases covering distributed systems, AI-native systems, RAG, coding Agents, and production trade-offs."
+category = "learning"
+tags = ["architecture-decision-records", "architecture-patterns", "backend", "c4-model", "design-patterns", "distributed-systems", "interview-preparation", "learning-resources"]
+repository = "https://github.com/study8677/awesome-architecture"
+website = "https://study8677.github.io/awesome-architecture/"
+license = "MIT"
+language = "Vue"
+added = 2026-10-20

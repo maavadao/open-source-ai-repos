@@ -1,0 +1,8 @@
+name = "keras_cv_attention_models"
+description = "Keras beit,caformer,CMT,CoAtNet,convnext,davit,dino,efficientdet,edgenext,efficientformer,efficientnet,eva,fasternet,fastervit,fastvit,flexivit,gcvit,ghostnet,gpvit,hornet,hiera,iformer,inceptionnext,lcnet,levit,maxvit,mobilevit,moganet,nat,nfnets,pvt,swin,tinynet,tinyvit,unif…"
+category = "image"
+tags = ["tensorflow", "visualizing", "keras", "attention", "model", "imagenet", "coco", "recognition"]
+repository = "https://github.com/leondgarse/keras_cv_attention_models"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

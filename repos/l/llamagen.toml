@@ -1,0 +1,9 @@
+name = "LlamaGen"
+description = "Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation"
+category = "image"
+tags = ["auto-regressive-model", "diffusion", "diffusion-models", "image-generation", "llama", "llm", "text2image"]
+repository = "https://github.com/FoundationVision/LlamaGen"
+website = "https://arxiv.org/abs/2406.06525"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "DominoRobot"
+description = "This is the code for Mark Rober's Domino Robot project. You can find a bunch more info about the project, including details about the software architecture on my website."
+category = "robotics"
+tags = ["robotics"]
+repository = "https://github.com/alexbaucom17/DominoRobot"
+website = "https://www.baucomrobotics.com/domino-robot"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-10-20

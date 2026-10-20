@@ -1,0 +1,9 @@
+name = "OmAgent"
+description = "[EMNLP-2024] Build multimodal language agents for fast prototype and production"
+category = "no-code"
+tags = ["large-language-models", "multimodal-agent", "vision-and-language", "agent", "workflow", "smart-hardware", "chatbot", "gpt4"]
+repository = "https://github.com/om-ai-lab/OmAgent"
+website = "https://om-agent.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Epona"
+description = "Official Code for Epona: Autoregressive Diffusion World Model for Autonomous Driving (ICCV 2025)"
+category = "video"
+tags = ["autonomous-driving", "video-generation", "world-models", "diffusion-models"]
+repository = "https://github.com/Kevin-thu/Epona"
+website = "https://kevin-thu.github.io/Epona/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

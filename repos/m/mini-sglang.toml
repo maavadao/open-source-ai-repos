@@ -1,0 +1,7 @@
+name = "mini-sglang"
+description = "A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems."
+category = "local-llms"
+repository = "https://github.com/sgl-project/mini-sglang"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

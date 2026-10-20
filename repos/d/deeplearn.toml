@@ -1,0 +1,8 @@
+name = "DeepLearn"
+description = "Implementation of research papers on Deep Learning+ NLP+ CV in Python using Keras, Tensorflow and Scikit Learn."
+category = "vision"
+tags = ["deep-learning", "nlp", "computer-vision", "audio-processing"]
+repository = "https://github.com/GauravBh1010tt/DeepLearn"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

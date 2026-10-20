@@ -1,0 +1,10 @@
+name = "crawl4ai"
+description = "Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8mtf"
+category = "documents"
+tags = ["ai", "ai-agents", "crawler", "data-extraction", "llm", "markdown", "mcp", "open-source"]
+repository = "https://github.com/unclecode/crawl4ai"
+website = "https://crawl4ai.com"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ui-ux-pro-max-skill"
+description = "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms."
+category = "coding"
+tags = ["ai-skills", "antigravity", "claude", "claude-code", "command-line", "copilot", "cursor-ai", "html5"]
+repository = "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
+website = "https://www.uupm.cc/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

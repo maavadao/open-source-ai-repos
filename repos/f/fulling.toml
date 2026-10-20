@@ -1,0 +1,9 @@
+name = "fulling"
+description = "Fulling is an AI-powered Full-stack Engineer Agent. Built with Next.js, Claude, shadcn/ui, and PostgreSQL. Use kubernetes as infra."
+category = "coding"
+tags = ["claude-code", "docker", "kubernetes", "nextjs", "pgsql", "shadcn-ui", "vibe-coding", "ai-agent"]
+repository = "https://github.com/FullAgent/fulling"
+website = "https://fulling.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

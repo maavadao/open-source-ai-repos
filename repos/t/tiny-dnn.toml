@@ -1,0 +1,9 @@
+name = "tiny-dnn"
+description = "header only, dependency-free deep learning framework in C++14"
+category = "ml-platforms"
+tags = ["c-plus-plus", "deep-learning", "machine-learning", "neural-network"]
+repository = "https://github.com/tiny-dnn/tiny-dnn"
+website = "http://tiny-dnn.readthedocs.io"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

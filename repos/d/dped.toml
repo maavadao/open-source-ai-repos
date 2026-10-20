@@ -1,0 +1,8 @@
+name = "DPED"
+description = "Software and pre-trained models for automatic photo quality enhancement using Deep Convolutional Networks"
+category = "vision"
+tags = ["image-enhancement", "image-processing", "computer-vision", "deep-learning", "dped", "gan", "convolutional-neural-networks", "generative-adversarial-networks"]
+repository = "https://github.com/aiff22/DPED"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

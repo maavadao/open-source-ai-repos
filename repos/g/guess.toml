@@ -1,0 +1,9 @@
+name = "guess"
+description = "Libraries & tools for enabling Machine Learning driven user-experiences on the web"
+category = "data-science"
+tags = ["machine-learning", "performance", "web-performance", "prefetch", "prerender", "hacktoberfest"]
+repository = "https://github.com/guess-js/guess"
+website = "https://guess-js.github.io/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

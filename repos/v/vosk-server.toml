@@ -1,0 +1,8 @@
+name = "vosk-server"
+description = "WebSocket, gRPC and WebRTC speech recognition server based on Vosk and Kaldi libraries"
+category = "speech"
+tags = ["websocket", "speech-recognition", "kaldi", "python", "asr", "grpc", "saas", "webrtc"]
+repository = "https://github.com/alphacep/vosk-server"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "LMCache"
+description = "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer"
+category = "local-llms"
+tags = ["amd", "cuda", "inference", "kv-cache", "llm", "pytorch", "rocm", "vllm"]
+repository = "https://github.com/LMCache/LMCache"
+website = "https://lmcache.ai/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

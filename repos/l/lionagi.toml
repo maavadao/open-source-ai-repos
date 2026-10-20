@@ -1,0 +1,9 @@
+name = "lionagi"
+description = "An intelligence orchestra"
+category = "no-code"
+tags = ["ai", "data", "llm", "machine-learning", "agents", "automation", "workflow"]
+repository = "https://github.com/ohdearquant/lionagi"
+website = "https://khive.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

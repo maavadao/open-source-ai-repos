@@ -1,0 +1,8 @@
+name = "HybridNets"
+description = "HybridNets: End-to-End Perception Network"
+category = "robotics"
+tags = ["detection", "bifpn", "segmentation", "multitask-learning", "hybridnets", "autonomous-driving", "end2end-network"]
+repository = "https://github.com/datvuthanh/HybridNets"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

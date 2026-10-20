@@ -1,0 +1,9 @@
+name = "vision-aided-gan"
+description = "Ensembling Off-the-shelf Models for GAN Training (CVPR 2022 Oral)"
+category = "image"
+tags = ["computer-vision", "computer-graphics", "pytorch", "generative-adversarial-network", "gans", "pretrained-models", "image-generation"]
+repository = "https://github.com/nupurkmr9/vision-aided-gan"
+website = "https://www.cs.cmu.edu/~vision-aided-gan/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

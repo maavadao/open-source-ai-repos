@@ -1,0 +1,9 @@
+name = "mcp-server-chatsum"
+description = "Query and Summarize your chat messages."
+category = "mcp-servers"
+tags = ["chatbot", "mcp-server", "chatsum"]
+repository = "https://github.com/chatmcp/mcp-server-chatsum"
+website = "https://mcp.so"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

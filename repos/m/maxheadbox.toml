@@ -1,0 +1,8 @@
+name = "maxheadbox"
+description = "Tiny truly local voice-activated LLM Agent that runs on a Raspberry Pi"
+category = "agents"
+tags = ["agentic-ai", "gemma3", "llm", "qwen3", "raspberry-pi", "agent", "raspberry-pi-5", "agents"]
+repository = "https://github.com/syxanash/maxheadbox"
+license = "GPL-3.0"
+language = "JavaScript"
+added = 2026-10-20

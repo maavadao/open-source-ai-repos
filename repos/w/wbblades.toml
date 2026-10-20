@@ -1,0 +1,8 @@
+name = "WBBlades"
+description = "Mach-O based ObjC & Swift useless classes, useless protocols, useless resources detection, packet size analysis, point-to-point crash resolution.基于Mach-O的ObjC & Swift无用类、无用协议、无用资源检测，包大小分析，点对点崩溃解析。"
+category = "models"
+tags = ["mach-o", "crash-analysis", "dsym", "symbolication", "classdump", "gpt", "gpt-35-turbo", "macho"]
+repository = "https://github.com/wuba/WBBlades"
+license = "BSD-3-Clause"
+language = "Objective-C"
+added = 2026-10-20

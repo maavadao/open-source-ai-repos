@@ -1,0 +1,9 @@
+name = "linkedin-skills"
+description = "Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT."
+category = "mcp-servers"
+tags = ["ai-agents", "ai-content", "ai-marketing", "anthropic", "awesome-claude", "claude-code", "claude-skills", "content-creation"]
+repository = "https://github.com/sergebulaev/linkedin-skills"
+website = "https://cccrafts.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

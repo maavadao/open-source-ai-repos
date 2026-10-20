@@ -1,0 +1,8 @@
+name = "ComputeLibrary"
+description = "The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies."
+category = "vision"
+tags = ["neon", "opencl", "computer-vision", "arm", "armv7", "armv8", "aarch64", "machine-learning"]
+repository = "https://github.com/ARM-software/ComputeLibrary"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

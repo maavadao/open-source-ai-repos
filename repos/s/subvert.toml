@@ -1,0 +1,9 @@
+name = "subvert"
+description = "Generate subtitles, summaries, and chapters from videos in seconds"
+category = "speech"
+tags = ["chatgpt", "openai", "transcription", "translation", "video-editing", "whisper"]
+repository = "https://github.com/aschmelyun/subvert"
+website = "https://subvert.dev"
+license = "MIT"
+language = "PHP"
+added = 2026-10-20

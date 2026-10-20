@@ -1,0 +1,9 @@
+name = "cboard"
+description = "Augmentative and Alternative Communication (AAC) system with text-to-speech for the browser"
+category = "speech"
+tags = ["aac", "autism", "cerebral-palsy", "progressive-web-app", "communication-board", "speech", "tts", "text-to-speech"]
+repository = "https://github.com/cboard-org/cboard"
+website = "https://www.cboard.io"
+license = "GPL-3.0"
+language = "JavaScript"
+added = 2026-10-20

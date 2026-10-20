@@ -1,0 +1,9 @@
+name = "warriorjs"
+description = "An exciting game of programming and Artificial Intelligence"
+category = "learning"
+tags = ["warriorjs", "warrior", "epic", "battle", "game", "learn", "test", "js"]
+repository = "https://github.com/olistic/warriorjs"
+website = "https://warriorjs.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "DeFCN"
+description = "End-to-End Object Detection with Fully Convolutional Network"
+category = "vision"
+tags = ["computer-vision", "object-detection"]
+repository = "https://github.com/Megvii-BaseDetection/DeFCN"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

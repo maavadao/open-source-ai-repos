@@ -1,0 +1,9 @@
+name = "project_ai_mern_image_generation"
+description = "Build and Deploy a Full Stack MERN AI Image Generation App MidJourney & DALL E Clone"
+category = "image"
+tags = ["reactjs", "mern-stack", "openai"]
+repository = "https://github.com/adrianhajdin/project_ai_mern_image_generation"
+website = "https://jsmastery.pro"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

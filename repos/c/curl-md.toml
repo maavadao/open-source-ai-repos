@@ -1,0 +1,9 @@
+name = "curl.md"
+description = "URL to markdown for agents"
+category = "coding"
+tags = ["agents", "amp", "claude", "codex", "html-to-markdown", "opencode", "pi", "curl"]
+repository = "https://github.com/wevm/curl.md"
+website = "https://curl.md"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

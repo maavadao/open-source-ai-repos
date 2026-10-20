@@ -1,0 +1,8 @@
+name = "DemoGPT"
+description = "Create agentic apps in a second with your prompts. Everything you need to create an LLM Agent - tools, prompts, frameworks, and models - all in one place."
+category = "coding"
+tags = ["chatgpt", "langchain", "llms", "langchain-python", "langchain-app", "agent", "openai", "ai"]
+repository = "https://github.com/melih-unsal/DemoGPT"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

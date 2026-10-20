@@ -1,0 +1,9 @@
+name = "doris"
+description = "Apache Doris is a real-time analytics and hybrid search database for AI agents."
+category = "agents"
+tags = ["olap", "database", "hudi", "iceberg", "real-time", "sql", "bigquery", "delta-lake"]
+repository = "https://github.com/apache/doris"
+website = "https://doris.apache.org"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

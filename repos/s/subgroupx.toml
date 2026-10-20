@@ -1,0 +1,9 @@
+name = "SubgroupX"
+description = "oiia — hosted agent sessions that execute wherever you point them: a cloud sandbox, an SSH host, or a machine with no public IP. Multi-agent, durable across reloads, installable as a PWA. Built by SubgroupX."
+category = "agents"
+tags = ["ai-agents", "pentest", "agent-orchestration", "coding-agent", "multi-agent", "pwa", "remote-execution", "self-hosted"]
+repository = "https://github.com/n-WN/SubgroupX"
+website = "https://oiia.cauchy.top"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

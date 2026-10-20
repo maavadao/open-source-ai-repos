@@ -1,0 +1,9 @@
+name = "openpose"
+description = "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation"
+category = "vision"
+tags = ["openpose", "computer-vision", "machine-learning", "cpp", "caffe", "opencv", "human-pose-estimation", "real-time"]
+repository = "https://github.com/CMU-Perceptual-Computing-Lab/openpose"
+website = "https://cmu-perceptual-computing-lab.github.io/openpose"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "harness"
+description = "AI-driven user testing for iOS Simulator, macOS apps, and web apps. Write a goal in plain language; an LLM agent drives the UI and reports friction. macOS 14+, Swift 6."
+category = "agents"
+tags = ["ai-agents", "ios-testing", "mac", "swift", "swift-ui", "user-testing", "ux-testing", "anthropic"]
+repository = "https://github.com/awizemann/harness"
+website = "https://awizemann.github.io/harness/"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

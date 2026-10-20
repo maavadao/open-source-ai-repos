@@ -1,0 +1,9 @@
+name = "LangAlpha"
+description = "Claude Code for Financial Market"
+category = "mcp-servers"
+tags = ["agent", "investment", "langchain", "langraph", "llm", "mcp", "skills", "trading"]
+repository = "https://github.com/ginlix-ai/LangAlpha"
+website = "https://langalpha.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

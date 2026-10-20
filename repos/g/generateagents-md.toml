@@ -1,0 +1,8 @@
+name = "GenerateAgents.md"
+description = "Automated generation of comprehensive Agents.md for LLMs, driven by the DSPy Recursive language model implementation."
+category = "agents"
+tags = ["agents", "agentskills", "agentsmd", "dspy", "recursive-language-models", "rlm", "llm", "python"]
+repository = "https://github.com/originalankur/GenerateAgents.md"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

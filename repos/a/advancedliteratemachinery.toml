@@ -1,0 +1,8 @@
+name = "AdvancedLiterateMachinery"
+description = "A collection of original, innovative ideas and algorithms towards Advanced Literate Machinery. This project is maintained by the OCR Team in the Language Technology Lab, Tongyi Lab, Alibaba Group."
+category = "documents"
+tags = ["artificial-intelligence", "documentai", "multimodal", "multimodal-deep-learning", "ocr", "computer-vision", "vision-language-transformer", "end-to-end-ocr"]
+repository = "https://github.com/AlibabaResearch/AdvancedLiterateMachinery"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

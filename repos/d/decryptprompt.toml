@@ -1,0 +1,7 @@
+name = "DecryptPrompt"
+description = "总结Prompt&LLM论文，开源数据&模型，AIGC应用"
+category = "image"
+tags = ["demonstration", "in-context-learning", "prompt", "few-shot-learning", "zero-shot-learning", "aigc", "papers", "prompt-tuning"]
+repository = "https://github.com/DSXiangLi/DecryptPrompt"
+license = "NOASSERTION"
+added = 2026-10-20

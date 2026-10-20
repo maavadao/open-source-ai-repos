@@ -1,0 +1,7 @@
+name = "awesome-segment-anything"
+description = "Tracking and collecting papers/projects/others related to Segment Anything."
+category = "learning"
+tags = ["awesome-list", "image-generation", "inpainting", "object-detection", "segmentation", "suvey", "application", "chatgpt"]
+repository = "https://github.com/Hedlen/awesome-segment-anything"
+license = "MIT"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "eventcatalog"
+description = "Documentation tool built for software architecture. Document your domains, services, events and schemas — for your teams and your AI agents."
+category = "agents"
+tags = ["architecture", "documentation", "domain-driven-design", "event-driven-architecture", "microservices", "ai", "asyncapi", "ddd"]
+repository = "https://github.com/event-catalog/eventcatalog"
+website = "https://eventcatalog.dev"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

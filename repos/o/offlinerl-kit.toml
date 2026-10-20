@@ -1,0 +1,8 @@
+name = "OfflineRL-Kit"
+description = "An elegant PyTorch offline reinforcement learning library for researchers."
+category = "ml-platforms"
+tags = ["deep-learning", "deep-reinforcement-learning", "offlinerl", "pytorch", "reinforcement-learning", "offline-reinforcement-learning"]
+repository = "https://github.com/yihaosun1124/OfflineRL-Kit"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

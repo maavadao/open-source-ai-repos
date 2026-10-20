@@ -1,0 +1,9 @@
+name = "statsforecast"
+description = "Lightning fast forecasting with statistical and econometric models."
+category = "ml-platforms"
+tags = ["time-series", "statistics", "forecasting", "arima", "econometrics", "machine-learning", "python", "exponential-smoothing"]
+repository = "https://github.com/Nixtla/statsforecast"
+website = "https://nixtlaverse.nixtla.io/statsforecast"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

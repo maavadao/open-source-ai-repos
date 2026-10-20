@@ -1,0 +1,9 @@
+name = "oracle-ai-developer-hub"
+description = "Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services"
+category = "agents"
+tags = ["artificial-intelligence", "generative-ai", "kubernetes", "kustomize", "oraclejet", "rag", "oracleaidatabase", "agentmemory"]
+repository = "https://github.com/oracle-devrel/oracle-ai-developer-hub"
+website = "https://oracle-devrel.github.io/oracle-ai-developer-hub/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

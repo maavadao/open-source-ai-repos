@@ -1,0 +1,8 @@
+name = "ComfyUI-Windows-Portable"
+description = "ComfyUI standalone pack with 40+ custom nodes. | ComfyUI 大号整合包，预装大量自定义节点（不含SD模型）"
+category = "image"
+tags = ["comfyui", "stable-diffusion"]
+repository = "https://github.com/YanWenKun/ComfyUI-Windows-Portable"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

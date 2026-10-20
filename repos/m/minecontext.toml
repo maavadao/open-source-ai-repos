@@ -1,0 +1,8 @@
+name = "MineContext"
+description = "MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）"
+category = "vector-databases"
+tags = ["agent", "context-engineering", "electron", "embedding-models", "memory", "proactive-ai", "python", "python3"]
+repository = "https://github.com/volcengine/MineContext"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

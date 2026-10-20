@@ -1,0 +1,8 @@
+name = "BrowserGym"
+description = "BrowserGym, a Gym environment for web task automation"
+category = "models"
+tags = ["ai", "llm", "webagent"]
+repository = "https://github.com/ServiceNow/BrowserGym"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

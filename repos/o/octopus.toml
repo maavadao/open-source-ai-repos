@@ -1,0 +1,8 @@
+name = "octopus"
+description = "One Hub All LLMs For You | 为个人打造的 LLM API 聚合网关"
+category = "coding"
+tags = ["ai", "ai-gateway", "anthropic", "claude", "claude-code", "codex", "openai", "self-hosted"]
+repository = "https://github.com/bestruirui/octopus"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "opengap"
+description = "A framework-agnostic, git-native standard for defining AI agents"
+category = "skills-prompts"
+tags = ["agent", "agent-framework", "agent-skills", "agents", "assistant", "claude-code", "gitagent", "open-standard"]
+repository = "https://github.com/open-gitagent/opengap"
+website = "https://gitagent.sh"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

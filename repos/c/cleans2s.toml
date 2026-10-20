@@ -1,0 +1,8 @@
+name = "CleanS2S"
+description = "High-quality and streaming Speech-to-Speech interactive agent in a single file. 只用一个文件实现的流式全双工语音交互原型智能体！"
+category = "speech"
+tags = ["ai", "gpt-4o", "machine-learning", "python", "speech-recognition", "speech-synthesis", "speech-to-speech", "streaming"]
+repository = "https://github.com/opendilab/CleanS2S"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

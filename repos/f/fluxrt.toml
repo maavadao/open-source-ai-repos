@@ -1,0 +1,8 @@
+name = "FluxRT"
+description = "Real-time stream editing pipeline powered by the FLUX.2-klein-4B model, optimized for consumer GPUs"
+category = "image"
+tags = ["diffusion-models", "gpu-optimization", "real-time-ai"]
+repository = "https://github.com/tensorforger/FluxRT"
+license = "Unlicense"
+language = "Python"
+added = 2026-10-20

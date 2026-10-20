@@ -1,0 +1,9 @@
+name = "giselle"
+description = "Giselle: AI App Builder. Open Source."
+category = "no-code"
+tags = ["agent", "ai", "ai-agent", "genai", "generative-ai", "nextjs", "no-code", "openai"]
+repository = "https://github.com/giselles-ai/giselle"
+website = "https://giselles.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

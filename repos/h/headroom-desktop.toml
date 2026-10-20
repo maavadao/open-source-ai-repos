@@ -1,0 +1,9 @@
+name = "headroom-desktop"
+description = "Menu Bar App on MacOS and Windows that cuts Claude Code and Codex token costs by ~50%"
+category = "coding"
+tags = ["ai", "anthropic", "claude-code", "developer-tools", "llm", "macos", "menu-bar-app", "prompt-compression"]
+repository = "https://github.com/gglucass/headroom-desktop"
+website = "https://extraheadroom.com"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

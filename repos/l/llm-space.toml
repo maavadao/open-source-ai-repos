@@ -1,0 +1,9 @@
+name = "llm-space"
+description = "A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place. Local-first, cloud-ready for managed agents."
+category = "agents"
+tags = ["agent", "deer-flow", "develop", "electrobun", "harness", "llm", "llm-tools", "managed-agents"]
+repository = "https://github.com/deer-flow/llm-space"
+website = "https://deer-flow.github.io/llm-space/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

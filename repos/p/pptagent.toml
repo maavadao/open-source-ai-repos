@@ -1,0 +1,9 @@
+name = "PPTAgent"
+description = "An Agentic Framework for Reflective PowerPoint Generation"
+category = "mcp-servers"
+tags = ["agent", "llm", "presentation", "slide", "agentic-ai", "mcp", "openclaw"]
+repository = "https://github.com/icip-cas/PPTAgent"
+website = "https://arxiv.org/abs/2501.03936"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "pytorch-toolbelt"
+description = "PyTorch extensions for fast R&D prototyping and Kaggle farming"
+category = "vision"
+tags = ["pytorch", "kaggle", "image-classification", "image-segmentation", "deep-learning", "segmentation", "python", "image-processing"]
+repository = "https://github.com/BloodAxe/pytorch-toolbelt"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

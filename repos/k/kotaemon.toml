@@ -1,0 +1,10 @@
+name = "kotaemon"
+description = "An open-source RAG-based tool for chatting with your documents."
+category = "chat"
+tags = ["chatbot", "llms", "open-source", "rag"]
+repository = "https://github.com/Cinnamon/kotaemon"
+website = "https://cinnamon.github.io/kotaemon/"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "beginner"
+added = 2026-10-20

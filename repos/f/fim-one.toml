@@ -1,0 +1,9 @@
+name = "fim-one"
+description = "Open-source agent platform for Global × China enterprises — wire every system through one agent core. Self-hosted, any LLM."
+category = "mcp-servers"
+tags = ["ai-agents", "connector", "llm", "mcp", "rag", "ai", "ai-agent", "dag"]
+repository = "https://github.com/fim-ai/fim-one"
+website = "https://one.fim.ai"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "char-rnn"
+description = "Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch"
+category = "models"
+repository = "https://github.com/karpathy/char-rnn"
+license = "NOASSERTION"
+language = "Lua"
+added = 2026-10-20

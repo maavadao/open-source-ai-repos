@@ -1,0 +1,9 @@
+name = "deepgram-python-sdk"
+description = "Official Python SDK for Deepgram."
+category = "speech"
+tags = ["speech-recognition", "asr", "deepgram", "automated-speech-recognition", "python", "speech-to-text", "text-to-speech", "voice-agent"]
+repository = "https://github.com/deepgram/deepgram-python-sdk"
+website = "https://developers.deepgram.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

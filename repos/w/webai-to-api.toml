@@ -1,0 +1,8 @@
+name = "WebAI-to-API"
+description = "Webchat to API"
+category = "chat"
+tags = ["ai", "api", "fastapi", "free", "google-bard-api", "python", "webserver", "webservice"]
+repository = "https://github.com/Amm1rr/WebAI-to-API"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

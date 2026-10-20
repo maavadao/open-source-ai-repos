@@ -1,0 +1,9 @@
+name = "mediagen"
+description = "AI image and video generation skill for Claude Code and other coding agents — Gemini, OpenAI and Kie AI behind one CLI and MCP server, with EU AI Act content marking."
+category = "mcp-servers"
+tags = ["agent-skill", "ai-agents", "claude", "claude-code", "cli", "eu-ai-act", "gemini", "generative-ai"]
+repository = "https://github.com/Cripacx/mediagen"
+website = "https://www.npmjs.com/package/mediagen"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "AgentReview"
+description = "Official Implementation for EMNLP 2024 (Main Track, Oral) \"AgentReview: Exploring Academic Peer Review with LLM Agent.\""
+category = "chat"
+tags = ["agent", "chatgpt", "computational-social-science", "deep-learning", "emnlp", "emnlp2024", "gpt-4", "gpt-4o"]
+repository = "https://github.com/Ahren09/AgentReview"
+website = "https://agentreview.github.io/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

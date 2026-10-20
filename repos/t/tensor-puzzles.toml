@@ -1,0 +1,8 @@
+name = "Tensor-Puzzles"
+description = "Solve puzzles. Improve your pytorch."
+category = "data-science"
+tags = ["machine-learning", "puzzle", "torch"]
+repository = "https://github.com/srush/Tensor-Puzzles"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

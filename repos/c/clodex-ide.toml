@@ -1,0 +1,9 @@
+name = "clodex-ide"
+description = "Local-first, zero-trust agentic IDE for verifiable autonomous software development."
+category = "agents"
+tags = ["agentic-ai", "ai-agents", "developer-tools", "electron", "local-first", "typescript", "zero-trust", "agentic-ide"]
+repository = "https://github.com/mereyabdenbekuly-ctrl/clodex-ide"
+website = "https://ide.clodex.xyz"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "meta-glasses-api"
+description = "\"Hey Meta send a message to ChatGPT\" Mai: A Hacky Messenger browser extension & pseudo API for the Meta Glasses"
+category = "search"
+tags = ["gpt4", "meta", "deepseek", "openai", "perplexity"]
+repository = "https://github.com/dcrebbin/meta-glasses-api"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

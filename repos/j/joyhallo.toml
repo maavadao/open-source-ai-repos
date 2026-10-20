@@ -1,0 +1,9 @@
+name = "JoyHallo"
+description = "JoyHallo: Digital human model for Mandarin"
+category = "speech"
+tags = ["audio-driven-talking-face", "generative-ai", "mandarin-chinese"]
+repository = "https://github.com/jdh-algo/JoyHallo"
+website = "https://jdh-algo.github.io/JoyHallo/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

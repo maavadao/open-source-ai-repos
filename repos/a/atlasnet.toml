@@ -1,0 +1,9 @@
+name = "AtlasNet"
+description = "This repository contains the source codes for the paper \"AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation \". The network is able to synthesize a mesh (point cloud + connectivity) from a low-resolution point cloud, or from an image."
+category = "vision"
+tags = ["3d", "3d-deep-learning", "computer-vision", "geometry-processing", "cvpr2018", "pytorch"]
+repository = "https://github.com/ThibaultGROUEIX/AtlasNet"
+website = "http://imagine.enpc.fr/~groueixt/atlasnet/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

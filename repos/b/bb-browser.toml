@@ -1,0 +1,7 @@
+name = "bb-browser"
+description = "Your browser is the API. CLI + MCP server for AI agents to control Chrome with your login state."
+category = "mcp-servers"
+repository = "https://github.com/epiral/bb-browser"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

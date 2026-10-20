@@ -1,0 +1,9 @@
+name = "cml"
+description = "CML - Continuous Machine Learning | CI/CD for ML"
+category = "data-science"
+tags = ["machine-learning", "data-science", "cicd", "ci-cd", "github-actions", "gitlab-ci", "developer-tools", "continuous-integration"]
+repository = "https://github.com/iterative/cml"
+website = "http://cml.dev"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Awesome-ChatTTS"
+description = "官方推荐的 ChatTTS 资源汇总项目，整理了全网相关资源和常见问题 || Officially recommended ChatTTS resource collection project"
+category = "learning"
+tags = ["ai", "chattts"]
+repository = "https://github.com/libukai/Awesome-ChatTTS"
+website = "https://aikebang.net/doc"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "benchmark_results"
+description = "Visual Tracking Paper List"
+category = "learning"
+tags = ["paper", "tracking", "deep-learning", "benchmark", "visual-tracking"]
+repository = "https://github.com/foolwood/benchmark_results"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "interview-coder"
+description = "An invisible desktop application to help you pass your technical interviews."
+category = "learning"
+tags = ["electron", "gpt", "openai", "typescript"]
+repository = "https://github.com/ibttf/interview-coder"
+website = "https://www.interviewcoder.co"
+license = "NOASSERTION"
+added = 2026-10-20

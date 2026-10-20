@@ -1,0 +1,9 @@
+name = "autoprompt-skill"
+description = "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks."
+category = "skills-prompts"
+tags = ["agent-orchestration", "agent-skills", "agentic-workflows", "ai-agents", "ai-coding", "automated-testing", "autonomous-agents", "claude-code"]
+repository = "https://github.com/Spielewoy/autoprompt-skill"
+website = "https://www.npmjs.com/package/autoprompt-skill"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

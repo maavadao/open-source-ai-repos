@@ -1,0 +1,8 @@
+name = "DeepMosaics"
+description = "Automatically remove the mosaics in images and videos, or add mosaics to them."
+category = "vision"
+tags = ["pytorch", "deep-learning", "computer-vision", "mosaic", "video-inpainting"]
+repository = "https://github.com/HypoX64/DeepMosaics"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

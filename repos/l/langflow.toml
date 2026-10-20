@@ -1,0 +1,10 @@
+name = "langflow"
+description = "Langflow is a powerful tool for building and deploying AI-powered agents and workflows."
+category = "no-code"
+tags = ["react-flow", "chatgpt", "large-language-models", "generative-ai", "agents", "multiagent"]
+repository = "https://github.com/langflow-ai/langflow"
+website = "https://www.langflow.org"
+license = "MIT"
+language = "Python"
+skill_level = "beginner"
+added = 2026-10-20

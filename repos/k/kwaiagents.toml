@@ -1,0 +1,8 @@
+name = "KwaiAgents"
+description = "A generalized information-seeking agent system with Large Language Models (LLMs)."
+category = "chat"
+tags = ["agi", "autogpt", "autonomous-agents", "chatgpt", "gpt", "large-language-models", "localllm"]
+repository = "https://github.com/KwaiKEG/KwaiAgents"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

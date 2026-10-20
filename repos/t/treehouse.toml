@@ -1,0 +1,8 @@
+name = "treehouse"
+description = "Manage worktrees without managing worktrees."
+category = "agents"
+tags = ["agents", "coding", "git", "worktree"]
+repository = "https://github.com/kunchenguid/treehouse"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

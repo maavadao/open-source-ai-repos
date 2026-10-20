@@ -1,0 +1,7 @@
+name = "LangChain-Chinese-Getting-Started-Guide"
+description = "LangChain 的中文入门教程"
+category = "image"
+tags = ["chatgpt", "langchain", "openai", "openai-api", "aigc"]
+repository = "https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "UniLab"
+description = "UniLab: A Heterogeneous Architecture for Robot RL Beyond GPU-Dominant Paradigms"
+category = "ml-platforms"
+tags = ["macos", "mujoco", "reinforcement-learning", "rl-infra", "robotics-simulation", "motrixsim", "cross-platform", "cuda"]
+repository = "https://github.com/Motphys/UniLab"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

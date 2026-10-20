@@ -1,0 +1,9 @@
+name = "operator-oss"
+description = "Run many Claude Code (or Codex) sessions in parallel — across every project — from one screen. Local-first, git-worktree-isolated tasks, no API key."
+category = "coding"
+tags = ["agents", "ai", "claude-code", "codex", "developer-tools", "git-worktree", "orchestration", "agent-fleet"]
+repository = "https://github.com/iishyfishyy/operator-oss"
+website = "https://getoperator.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

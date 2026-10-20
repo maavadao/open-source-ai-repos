@@ -1,0 +1,8 @@
+name = "Sa2VA"
+description = "Official Repo For Pixel-LLM Codebase: Sa2VA (T-PAMI-26), SAMTok (CVPR-26), VRT (Arxiv-25), SaSaSa2VA (1-st solution for LSVOS)"
+category = "vision"
+tags = ["computer-vision", "mllm", "large-language-models"]
+repository = "https://github.com/bytedance/Sa2VA"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

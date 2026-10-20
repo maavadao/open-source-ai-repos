@@ -1,0 +1,8 @@
+name = "SSSD"
+description = "Repository for the paper: 'Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models'"
+category = "image"
+tags = ["deep-learning", "diffusion-models", "time-series-forecasting", "time-series-imputation"]
+repository = "https://github.com/AI4HealthUOL/SSSD"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

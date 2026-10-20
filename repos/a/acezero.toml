@@ -1,0 +1,9 @@
+name = "acezero"
+description = "[ECCV 2024 - Oral] ACE0 is a learning-based structure-from-motion approach that estimates camera parameters of sets of images by learning a multi-view consistent, implicit scene representation."
+category = "vision"
+tags = ["3d-reconstruction", "camera-relocalization", "computer-vision", "eccv", "eccv2024", "machine-learning", "pose-estimation", "sfm"]
+repository = "https://github.com/nianticlabs/acezero"
+website = "https://nianticlabs.github.io/acezero/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "determined"
+description = "Determined is an open-source machine learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow."
+category = "ml-platforms"
+tags = ["deep-learning", "machine-learning", "ml-platform", "ml-infrastructure", "hyperparameter-optimization", "hyperparameter-search", "distributed-training", "pytorch"]
+repository = "https://github.com/determined-ai/determined"
+website = "https://determined.ai"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

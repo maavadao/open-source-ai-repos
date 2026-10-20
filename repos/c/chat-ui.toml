@@ -1,0 +1,10 @@
+name = "chat-ui"
+description = "The open source codebase powering HuggingChat"
+category = "chat"
+tags = ["chatgpt", "huggingface", "sveltekit", "hacktoberfest", "llm", "svelte", "svelte-kit", "tailwindcss"]
+repository = "https://github.com/huggingface/chat-ui"
+website = "https://huggingface.co/chat"
+license = "Apache-2.0"
+language = "TypeScript"
+skill_level = "intermediate"
+added = 2026-10-20

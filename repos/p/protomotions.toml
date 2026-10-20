@@ -1,0 +1,9 @@
+name = "ProtoMotions"
+description = "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots."
+category = "robotics"
+tags = ["character-animation", "digital-human", "humanoid", "humanoid-robots", "physics-simulation", "reinforcement-learning"]
+repository = "https://github.com/NVlabs/ProtoMotions"
+website = "https://nvlabs.github.io/ProtoMotions/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

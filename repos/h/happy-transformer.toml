@@ -1,0 +1,9 @@
+name = "happy-transformer"
+description = "Happy Transformer makes it easy to fine-tune and perform inference with NLP Transformer models."
+category = "models"
+tags = ["language-models", "artificial-intelligence", "ai", "question-answering", "bert", "roberta", "nlp", "machine-learning"]
+repository = "https://github.com/EricFillion/happy-transformer"
+website = "http://happytransformer.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

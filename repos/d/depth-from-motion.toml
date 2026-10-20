@@ -1,0 +1,8 @@
+name = "Depth-from-Motion"
+description = "[ECCV 2022 oral] Monocular 3D Object Detection with Depth from Motion"
+category = "robotics"
+tags = ["3d-detection", "autonomous-driving", "monocular", "pytorch", "robotics", "structure-from-motion"]
+repository = "https://github.com/Tai-Wang/Depth-from-Motion"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

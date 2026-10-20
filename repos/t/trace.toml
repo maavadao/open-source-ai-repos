@@ -1,0 +1,9 @@
+name = "Trace"
+description = "End-to-end Generative Optimization for AI Agents"
+category = "agents"
+tags = ["agents", "autodiff", "optimization", "large-language-models", "prompt-optimization", "agentic-agi", "agentic-workflow", "compound-systems"]
+repository = "https://github.com/microsoft/Trace"
+website = "https://microsoft.github.io/Trace/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

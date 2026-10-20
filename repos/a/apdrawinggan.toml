@@ -1,0 +1,8 @@
+name = "APDrawingGAN"
+description = "Code for APDrawingGAN: Generating Artistic Portrait Drawings from Face Photos with Hierarchical GANs (CVPR 2019 Oral)"
+category = "image"
+tags = ["pytorch", "gan", "apdrawinggan", "computer-vision", "computer-graphics", "image-generation", "image-synthesis", "deep-learning"]
+repository = "https://github.com/yiranran/APDrawingGAN"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

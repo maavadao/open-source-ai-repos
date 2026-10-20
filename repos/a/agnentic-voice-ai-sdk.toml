@@ -1,0 +1,9 @@
+name = "Agnentic-Voice-AI-SDK"
+description = "Voice AI SDK is a reusable Android library that gives any app a full voice-driven AI conversation pipeline in minutes. Voice Assistant + Android Voide AI + SDK + MVVM + Kotlin"
+category = "speech"
+tags = ["mvvm", "android", "ai", "voice-ai", "ai-agent", "android-mvvm-architechture", "mvvm-android", "mvvm-architechure"]
+repository = "https://github.com/ahmedeltaher/Agnentic-Voice-AI-SDK"
+website = "https://ahmedeltaher.github.io/Android-MVVM-Architecture-Voice-AI/"
+license = "NOASSERTION"
+language = "Kotlin"
+added = 2026-10-20

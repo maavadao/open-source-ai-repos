@@ -1,0 +1,8 @@
+name = "Keras-GAN"
+description = "Keras implementations of Generative Adversarial Networks."
+category = "ml-platforms"
+tags = ["deep-learning", "gan", "keras", "generative-adversarial-networks", "neural-networks"]
+repository = "https://github.com/eriklindernoren/Keras-GAN"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

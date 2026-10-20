@@ -1,0 +1,8 @@
+name = "DiffuSeq"
+description = "[ICLR'23] DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models"
+category = "image"
+tags = ["diffusion-models", "sequence-to-sequence", "text-generation"]
+repository = "https://github.com/Shark-NLP/DiffuSeq"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

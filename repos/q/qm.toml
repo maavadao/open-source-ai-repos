@@ -1,0 +1,9 @@
+name = "qm"
+description = "Multiplayer agent harness for work."
+category = "chat"
+tags = ["ai", "assistant", "harness", "qm"]
+repository = "https://github.com/yc-software/qm"
+website = "https://x.com/qm__dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

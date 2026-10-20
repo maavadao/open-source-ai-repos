@@ -1,0 +1,9 @@
+name = "ECON"
+description = "[CVPR'23, Highlight] ECON: Explicit Clothed humans Optimized via Normal integration"
+category = "vision"
+tags = ["3d-reconstruction", "avatar-generator", "computer-graphics", "computer-vision", "digital-twins", "metaverse", "normal-maps", "pifu"]
+repository = "https://github.com/YuliangXiu/ECON"
+website = "https://xiuyuliang.cn/econ"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "HPT"
+description = "HPT - Open Multimodal LLMs from HyperGAI"
+category = "models"
+tags = ["generative-ai", "multimodal", "vision-and-language"]
+repository = "https://github.com/HyperGAI/HPT"
+website = "https://www.hypergai.com/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

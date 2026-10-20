@@ -1,0 +1,9 @@
+name = "LECO"
+description = "Low-rank adaptation for Erasing COncepts from diffusion models."
+category = "image"
+tags = ["diffusion", "lora", "stable-diffusion"]
+repository = "https://github.com/p1atdev/LECO"
+website = "https://arxiv.org/abs/2303.07345"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

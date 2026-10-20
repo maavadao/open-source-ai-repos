@@ -1,0 +1,9 @@
+name = "Copulas"
+description = "A library to model multivariate data using copulas."
+category = "data-science"
+tags = ["machine-learning", "copulas", "synthetic-data", "data-generation", "synthetic-data-generation", "generative-ai", "generative-model", "tabular-data"]
+repository = "https://github.com/sdv-dev/Copulas"
+website = "https://sdv.dev/Copulas/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

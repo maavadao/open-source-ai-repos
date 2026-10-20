@@ -1,0 +1,9 @@
+name = "transferlearning"
+description = "Transfer learning / domain adaptation / domain generalization / multi-task learning etc. Papers, codes, datasets, applications, tutorials.-迁移学习"
+category = "learning"
+tags = ["transferlearning", "domain-adaptation", "transfer-learning", "survey", "deep-learning", "generalization", "few-shot", "tutorial-code"]
+repository = "https://github.com/jindongwang/transferlearning"
+website = "http://transferlearning.xyz/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

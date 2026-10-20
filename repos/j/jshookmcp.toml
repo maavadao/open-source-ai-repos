@@ -1,0 +1,9 @@
+name = "jshookmcp"
+description = "A search-first, profile-aware reverse-engineering workspace for AI agents — 735 tools across 36 domains in one MCP server."
+category = "mcp-servers"
+tags = ["browser-automation", "debugging", "deobfuscation", "js-reverse", "mcp", "network-analysis", "reverse-engineering", "security-analysis"]
+repository = "https://github.com/vmoranv/jshookmcp"
+website = "https://vmoranv.github.io/jshookmcp/"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

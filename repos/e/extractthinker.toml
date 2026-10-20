@@ -1,0 +1,9 @@
+name = "ExtractThinker"
+description = "ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows."
+category = "documents"
+tags = ["ai", "llm", "nlp", "ocr", "openai", "python", "document-image-analysis", "document-intelligence"]
+repository = "https://github.com/enoch3712/ExtractThinker"
+website = "https://enoch3712.github.io/ExtractThinker"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

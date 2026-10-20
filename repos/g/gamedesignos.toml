@@ -1,0 +1,8 @@
+name = "GameDesignOS"
+description = "Local-first game design OS for AI agents: turn sessions into evidence, experiments, reviewable decisions, and durable project memory—Human Gates and rollback."
+category = "skills-prompts"
+tags = ["agent-skills", "game-analysis", "game-design", "game-development", "game-research", "indie-game", "game-design-tools", "ai-agents"]
+repository = "https://github.com/DY-2026/GameDesignOS"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

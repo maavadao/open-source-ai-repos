@@ -1,0 +1,8 @@
+name = "VSLAM-LAB"
+description = "A Comprehensive Framework for Visual SLAM Systems and Datasets"
+category = "robotics"
+tags = ["computer-vision", "robotics", "slam", "vslam"]
+repository = "https://github.com/VSLAM-LAB/VSLAM-LAB"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

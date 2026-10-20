@@ -1,0 +1,8 @@
+name = "PhotonCamera"
+description = "Android Camera that uses Enhanced image processing"
+category = "vision"
+tags = ["android-camera", "android", "camera2-api", "computational-photography", "computer-vision", "image-processing", "photography", "gpu-acceleration"]
+repository = "https://github.com/eszdman/PhotonCamera"
+license = "GPL-3.0"
+language = "Java"
+added = 2026-10-20

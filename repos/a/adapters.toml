@@ -1,0 +1,9 @@
+name = "adapters"
+description = "A Unified Library for Parameter-Efficient and Modular Transfer Learning"
+category = "image"
+tags = ["nlp", "natural-language-processing", "adapters", "transformers", "bert", "pytorch", "parameter-efficient-learning", "parameter-efficient-tuning"]
+repository = "https://github.com/adapter-hub/adapters"
+website = "https://docs.adapterhub.ml"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

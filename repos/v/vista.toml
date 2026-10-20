@@ -1,0 +1,9 @@
+name = "Vista"
+description = "[NeurIPS 2024] A Generalizable World Model for Autonomous Driving"
+category = "video"
+tags = ["autonomous-driving", "video-generation", "world-model"]
+repository = "https://github.com/OpenDriveLab/Vista"
+website = "https://opendrivelab.com/Vista"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

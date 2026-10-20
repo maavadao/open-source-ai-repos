@@ -1,0 +1,9 @@
+name = "react-chatbotify"
+description = "A modern React library for creating flexible and extensible chatbots."
+category = "chat"
+tags = ["chatbot", "npm", "react", "chat", "typescript", "react-chatbot", "javascript", "open-source"]
+repository = "https://github.com/react-chatbotify/react-chatbotify"
+website = "https://react-chatbotify.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

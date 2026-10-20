@@ -1,0 +1,8 @@
+name = "mcp-unity"
+description = "Model Context Protocol (MCP) plugin to connect with Unity Editor — designed for Cursor, Claude Code, Codex, Windsurf and other IDEs"
+category = "mcp-servers"
+tags = ["cursor", "unity", "unity-package", "mcp", "copilot", "game-development", "model-context-protocol", "openai"]
+repository = "https://github.com/CoderGamester/mcp-unity"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

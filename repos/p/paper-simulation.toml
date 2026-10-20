@@ -1,0 +1,8 @@
+name = "paper-simulation"
+description = "Let's reproduce paper simulations of multi-robot systems, formation control, distributed optimization and cooperative manipulation."
+category = "robotics"
+tags = ["paper-simulations", "matlab", "robotics", "cooperative-manipulation", "multi-agent-systems", "formation-control", "optimization-algorithms", "multi-robot-cooperation"]
+repository = "https://github.com/star2dust/paper-simulation"
+license = "NOASSERTION"
+language = "MATLAB"
+added = 2026-10-20

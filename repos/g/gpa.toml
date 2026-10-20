@@ -1,0 +1,9 @@
+name = "GPA"
+description = "[AutoArk] GPA (General Purpose Audio) can do ASR, TTS and voice conversion with one tiny model!"
+category = "speech"
+tags = ["automatic-speech-recognition", "text-to-speech", "transformer", "voice-conversion", "asr", "tts", "vc"]
+repository = "https://github.com/AutoArk/GPA"
+website = "https://autoark.github.io/GPA/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

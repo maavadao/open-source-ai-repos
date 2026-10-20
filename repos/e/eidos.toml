@@ -1,0 +1,9 @@
+name = "eidos"
+description = "A single-file relational spreadsheet for you and your agent."
+category = "models"
+tags = ["database", "editor", "llm", "local-first", "notion-alternative", "offline", "sqlite"]
+repository = "https://github.com/mayneyao/eidos"
+website = "https://eidos.space"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

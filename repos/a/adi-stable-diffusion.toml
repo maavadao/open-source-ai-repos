@@ -1,0 +1,9 @@
+name = "ADI-Stable-Diffusion"
+description = "Accelerate your Stable Diffusion inference with the library's universal C/C++ framework design, powered by ONNXRuntime & across platforms."
+category = "image"
+tags = ["diffusers", "library", "stable-diffusion"]
+repository = "https://github.com/Windsander/ADI-Stable-Diffusion"
+website = "https://adi.cyberfederal.io/"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-10-20

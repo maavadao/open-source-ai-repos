@@ -1,0 +1,9 @@
+name = "TesserAct"
+description = "ICCV 2025 | TesserAct: Learning 4D Embodied World Models"
+category = "video"
+tags = ["3d", "4d", "embodied-ai", "robotics", "video-generation", "world-models"]
+repository = "https://github.com/UMass-Embodied-AGI/TesserAct"
+website = "https://TesserActWorld.github.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

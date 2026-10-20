@@ -1,0 +1,9 @@
+name = "llama-gpt"
+description = "A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!"
+category = "local-llms"
+tags = ["ai", "chatgpt", "gpt", "gpt-4", "gpt4all", "llama", "llama-2", "llama-cpp"]
+repository = "https://github.com/getumbrel/llama-gpt"
+website = "https://apps.umbrel.com/app/llama-gpt"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

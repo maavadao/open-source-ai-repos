@@ -1,0 +1,8 @@
+name = "gigax"
+description = "LLM-powered NPCs running on your hardware"
+category = "agents"
+tags = ["agents", "game-development", "llm", "machine-learning", "ml", "npc"]
+repository = "https://github.com/GigaxGames/gigax"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "releasing-research-code"
+description = "Tips for releasing research code in Machine Learning (with official NeurIPS 2020 recommendations)"
+category = "learning"
+tags = ["machine-learning", "awesome-list", "neurips", "neurips-2020"]
+repository = "https://github.com/paperswithcode/releasing-research-code"
+license = "MIT"
+added = 2026-10-20

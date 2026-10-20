@@ -1,0 +1,9 @@
+name = "Medical-Graph-RAG"
+description = "A Graph RAG System for Evidenced-based Medical Information Retrieval [ACL 2025]"
+category = "llm-apps"
+tags = ["deep-learning", "graph-rag", "large-language-model", "large-language-models", "machine-learning", "medical", "retrieval-augmented-generation"]
+repository = "https://github.com/ImprintLab/Medical-Graph-RAG"
+website = "https://arxiv.org/html/2408.04187v1"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

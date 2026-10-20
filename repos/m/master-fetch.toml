@@ -1,0 +1,9 @@
+name = "master-fetch"
+description = "MCP server for web fetching with Cloudflare bypass, Trafilatura extraction, and smart routing. Free, self-hosted, no API keys."
+category = "mcp-servers"
+tags = ["ai", "ai-agents", "web", "fetch", "mcp", "websearch-agent", "hound", "webfetch"]
+repository = "https://github.com/dondai1234/master-fetch"
+website = "https://hound-mcp.pages.dev"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

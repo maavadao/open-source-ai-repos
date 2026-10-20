@@ -1,0 +1,9 @@
+name = "Memoh"
+description = "The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory. You can bring your own key, or host your coding agent like Claude Code, Codex and so on."
+category = "chat"
+tags = ["agent", "ai", "ai-companion", "ai-memory", "personal-assistant"]
+repository = "https://github.com/felinics/Memoh"
+website = "https://memoh.ai"
+license = "AGPL-3.0"
+language = "Go"
+added = 2026-10-20

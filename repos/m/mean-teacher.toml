@@ -1,0 +1,9 @@
+name = "mean-teacher"
+description = "A state-of-the-art semi-supervised method for image recognition"
+category = "ml-platforms"
+tags = ["deep-learning", "semi-supervised-learning", "nips-2017", "tensorflow", "pytorch"]
+repository = "https://github.com/CuriousAI/mean-teacher"
+website = "https://arxiv.org/abs/1703.01780"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "mcp-local-rag"
+description = "Local-first RAG server for developers. Semantic + keyword search for code and technical docs. Works with MCP or CLI. Fully private, zero setup."
+category = "mcp-servers"
+tags = ["local-rag", "privacy-first", "mcp-server", "rag", "semantic-search", "hybrid-search", "mcp", "developer-tools"]
+repository = "https://github.com/shinpr/mcp-local-rag"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

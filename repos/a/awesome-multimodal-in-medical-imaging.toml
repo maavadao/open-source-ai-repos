@@ -1,0 +1,7 @@
+name = "awesome-multimodal-in-medical-imaging"
+description = "A collection of resources on applications of multi-modal learning in medical imaging."
+category = "learning"
+tags = ["medical-imaging", "medical-report-generation", "multimodal-deep-learning", "multimodal-learning", "visual-question-answering", "large-language-models", "large-multimodal-models", "multimodal-large-language-models"]
+repository = "https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging"
+license = "MIT"
+added = 2026-10-20

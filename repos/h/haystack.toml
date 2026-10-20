@@ -1,0 +1,10 @@
+name = "haystack"
+description = "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal…"
+category = "llm-apps"
+tags = ["semantic-search", "information-retrieval", "ai", "python", "large-language-models", "generative-ai", "llm", "rag"]
+repository = "https://github.com/deepset-ai/haystack"
+website = "https://haystack.deepset.ai"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

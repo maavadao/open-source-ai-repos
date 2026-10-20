@@ -1,0 +1,9 @@
+name = "pwnagotchi"
+description = "(_) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning."
+category = "ml-platforms"
+tags = ["ai", "deep-reinforcement-learning", "wpa-psk", "handshakes", "bettercap", "deep-learning", "deep-neural-network"]
+repository = "https://github.com/evilsocket/pwnagotchi"
+website = "https://pwnagotchi.ai/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "npm-copilot"
+description = "CLI tool for Next.js that can analyze logs in real-time and suggest a solution using OpenAI"
+category = "coding"
+tags = ["clitools", "copilot", "devtools", "nextjs", "npm", "npm-cli", "npm-package", "openai"]
+repository = "https://github.com/whoiskatrin/npm-copilot"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

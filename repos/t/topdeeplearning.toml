@@ -1,0 +1,8 @@
+name = "TopDeepLearning"
+description = "A list of popular github projects related to deep learning"
+category = "ml-platforms"
+tags = ["deep-learning", "machine-learning", "tensorflow", "pytorch"]
+repository = "https://github.com/aymericdamien/TopDeepLearning"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

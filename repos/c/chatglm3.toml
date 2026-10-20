@@ -1,0 +1,7 @@
+name = "ChatGLM3"
+description = "ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型"
+category = "models"
+repository = "https://github.com/zai-org/ChatGLM3"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

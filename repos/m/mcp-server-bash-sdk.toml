@@ -1,0 +1,9 @@
+name = "mcp-server-bash-sdk"
+description = "MCP server SDK/example implemented entirely in bash — build a Model Context Protocol server with no runtime dependency beyond a POSIX shell."
+category = "mcp-servers"
+tags = ["ai-agents", "bash", "mcp", "model-context-protocol", "sdk"]
+repository = "https://github.com/muthuishere/mcp-server-bash-sdk"
+website = "https://examples.deemwar.com"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

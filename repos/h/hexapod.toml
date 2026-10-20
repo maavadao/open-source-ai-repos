@@ -1,0 +1,9 @@
+name = "hexapod"
+description = "Blazing fast hexapod robot simulator for the web."
+category = "robotics"
+tags = ["robotics", "robot", "hexapod", "visualizers", "javascript", "plotly", "react", "reactjs"]
+repository = "https://github.com/mithi/hexapod"
+website = "https://hexapod.netlify.app"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

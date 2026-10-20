@@ -1,0 +1,8 @@
+name = "LaunchStack"
+description = "AI-powered StartUp Accelerator Engine built with Next.js, LangChain, PostgreSQL + pgvector. Upload, organize, and chat with documents. Includes predictive missing-document detection, role-based workflows, and page-level insight extraction."
+category = "mcp-servers"
+tags = ["langchain", "nextjs", "openai", "pgvector", "postgresql", "rag", "typescript", "claude"]
+repository = "https://github.com/Deodat-Lawson/LaunchStack"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

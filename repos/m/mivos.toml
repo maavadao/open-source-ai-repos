@@ -1,0 +1,9 @@
+name = "MiVOS"
+description = "[CVPR 2021] Modular Interactive Video Object Segmentation: Interaction-to-Mask, Propagation and Difference-Aware Fusion. Semi-supervised VOS as well!"
+category = "vision"
+tags = ["computer-vision", "segmentation", "deep-learning", "pytorch", "cvpr2021", "interactive-segmentation", "video-object-segmentation", "video-segmentation"]
+repository = "https://github.com/hkchengrex/MiVOS"
+website = "https://hkchengrex.com/MiVOS/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

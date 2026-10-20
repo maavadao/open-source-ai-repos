@@ -1,0 +1,8 @@
+name = "distil-whisper"
+description = "Distilled variant of Whisper for speech recognition. 6x faster, 50% smaller, within 1% word error rate."
+category = "speech"
+tags = ["audio", "speech-recognition", "whisper"]
+repository = "https://github.com/huggingface/distil-whisper"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

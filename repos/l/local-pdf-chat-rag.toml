@@ -1,0 +1,8 @@
+name = "Local_Pdf_Chat_RAG"
+description = "Transparent Python RAG reference with FAISS + BM25 hybrid retrieval, reranking, Gradio UI, and FastAPI."
+category = "local-llms"
+tags = ["bm25", "chinese-nlp", "deepseek", "document-qa", "faiss", "gradio", "rag", "retrieval-augmented-generation"]
+repository = "https://github.com/weiwill88/Local_Pdf_Chat_RAG"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

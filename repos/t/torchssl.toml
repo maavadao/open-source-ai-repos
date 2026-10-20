@@ -1,0 +1,8 @@
+name = "TorchSSL"
+description = "A PyTorch-based library for semi-supervised learning (NeurIPS'21)"
+category = "vision"
+tags = ["semi-supervised-learning", "toolkit", "codebase", "pytorch", "machine-learning", "computer-vision", "deep-learning", "self-supervised-learning"]
+repository = "https://github.com/TorchSSL/TorchSSL"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

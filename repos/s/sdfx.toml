@@ -1,0 +1,9 @@
+name = "sdfx"
+description = "The ultimate no-code platform to build and share AI apps with beautiful UI."
+category = "no-code"
+tags = ["ai", "generative-ai", "sdfx"]
+repository = "https://github.com/sdfxai/sdfx"
+website = "https://sdfx.ai"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

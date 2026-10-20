@@ -1,0 +1,8 @@
+name = "argmax-oss-swift"
+description = "On-device Speech AI for Apple Silicon"
+category = "speech"
+tags = ["inference", "ios", "speech-recognition", "swift", "whisper", "transformers", "macos", "pyannote"]
+repository = "https://github.com/argmaxinc/argmax-oss-swift"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

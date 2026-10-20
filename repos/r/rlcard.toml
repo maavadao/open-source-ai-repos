@@ -1,0 +1,9 @@
+name = "rlcard"
+description = "Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack, Leduc, Texas, DouDizhu, Mahjong, UNO."
+category = "agents"
+tags = ["reinforcement-learning", "deep-reinforcement-learning", "game-ai", "poker", "card-game", "poker-game", "openai-gym", "gym-environment"]
+repository = "https://github.com/datamllab/rlcard"
+website = "http://www.rlcard.org"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "EliteQuant"
+description = "A list of online resources for quantitative modeling, trading, portfolio management"
+category = "data-science"
+tags = ["quantitative-trading", "quantitative-finance", "trading-platform", "trading-systems", "portfolio-management", "asset-management", "asset-pricing", "mathematical-finance"]
+repository = "https://github.com/EliteQuant/EliteQuant"
+license = "Apache-2.0"
+added = 2026-10-20

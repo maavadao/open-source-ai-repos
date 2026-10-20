@@ -1,0 +1,7 @@
+name = "LLMDataHub"
+description = "A quick guide (especially) for trending instruction finetuning datasets"
+category = "chat"
+tags = ["chatbot", "dataset", "llm", "chatgpt"]
+repository = "https://github.com/Zjh-819/LLMDataHub"
+license = "MIT"
+added = 2026-10-20

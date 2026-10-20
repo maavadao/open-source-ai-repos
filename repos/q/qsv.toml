@@ -1,0 +1,9 @@
+name = "qsv"
+description = "Blazing-fast, Neuro-symbolic Data-Wrangling toolkit"
+category = "data-science"
+tags = ["csv", "data-wrangling", "opendata", "data-engineering", "ckan", "excel", "luau", "polars"]
+repository = "https://github.com/dathere/qsv"
+website = "https://qsv.dathere.com"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

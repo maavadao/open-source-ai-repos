@@ -1,0 +1,8 @@
+name = "min-dalle"
+description = "min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch"
+category = "image"
+tags = ["artificial-intelligence", "deep-learning", "pytorch", "text-to-image"]
+repository = "https://github.com/kuprel/min-dalle"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

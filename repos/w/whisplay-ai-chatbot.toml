@@ -1,0 +1,8 @@
+name = "whisplay-ai-chatbot"
+description = "Pocket-sized AI chatbot built using a RPI Zero 2w / 5"
+category = "speech"
+tags = ["ai", "asr", "audio", "chatbot", "llm", "pisugar", "raspberrypi", "tts"]
+repository = "https://github.com/PiSugar/whisplay-ai-chatbot"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

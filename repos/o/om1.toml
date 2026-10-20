@@ -1,0 +1,9 @@
+name = "OM1"
+description = "Modular AI HAL (Hardware Abstraction Layer) for Robots"
+category = "robotics"
+tags = ["llm", "multiagent", "robotics", "ros2", "zenoh"]
+repository = "https://github.com/OpenMind/OM1"
+website = "https://openmind.com"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

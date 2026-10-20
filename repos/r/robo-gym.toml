@@ -1,0 +1,9 @@
+name = "robo-gym"
+description = "An open source toolkit for Distributed Deep Reinforcement Learning on real and simulated robots."
+category = "robotics"
+tags = ["robo-gym", "openai-gym", "robotics", "reinforcement-learning-environments"]
+repository = "https://github.com/jr-robotics/robo-gym"
+website = "https://sites.google.com/view/robo-gym"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

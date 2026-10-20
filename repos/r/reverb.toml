@@ -1,0 +1,9 @@
+name = "reverb"
+description = "Open source inference code for Rev's model"
+category = "speech"
+tags = ["rev", "speech-recognition", "speech-to-text", "asr", "asr-model", "canary", "docker", "whisper"]
+repository = "https://github.com/revdotcom/reverb"
+website = "https://www.rev.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "torch-uncertainty"
+description = "Open-source framework for uncertainty and deep learning models in PyTorch"
+category = "vision"
+tags = ["ensembles", "uncertainty-quantification", "predictive-uncertainty", "uncertainty", "reliable-ai", "pytorch", "bayesian-network", "neural-networks"]
+repository = "https://github.com/torch-uncertainty/torch-uncertainty"
+website = "https://torch-uncertainty.github.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

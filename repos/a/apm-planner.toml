@@ -1,0 +1,9 @@
+name = "apm_planner"
+description = "APM Planner Ground Control Station (Qt)"
+category = "robotics"
+tags = ["gcs", "ground-control-station", "ardupilot", "arducopter", "arduplane", "autopilot", "pixhawk", "apm-planner"]
+repository = "https://github.com/ArduPilot/apm_planner"
+website = "https://ardupilot.org"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

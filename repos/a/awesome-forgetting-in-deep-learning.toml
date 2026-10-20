@@ -1,0 +1,8 @@
+name = "Awesome-Forgetting-in-Deep-Learning"
+description = "A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning. TPAMI, 2024."
+category = "learning"
+tags = ["catastrophic-forgetting", "continual-learning", "domain-adaptation", "federated-learning", "forgetting", "generative-model", "machine-learning", "machine-unlearning"]
+repository = "https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning"
+website = "https://arxiv.org/abs/2307.09218"
+license = "NOASSERTION"
+added = 2026-10-20

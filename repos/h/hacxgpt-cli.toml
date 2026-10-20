@@ -1,0 +1,9 @@
+name = "HacxGPT-CLI"
+description = "Open-source CLI for unrestricted AI - Access powerful models without censorship"
+category = "chat"
+tags = ["ai", "blacktechx", "blacktechx011", "chatbot", "gpt", "hackers", "hacking", "hackerai"]
+repository = "https://github.com/HacxGPT-Official/HacxGPT-CLI"
+website = "https://hacxgpt.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

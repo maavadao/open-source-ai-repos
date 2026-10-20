@@ -1,0 +1,8 @@
+name = "Awesome-GraphRAG"
+description = "Awesome-GraphRAG: A curated list of resources (surveys, papers, benchmarks, and opensource projects) on graph-based retrieval-augmented generation."
+category = "learning"
+tags = ["knowledge-graph", "large-language-models", "retrieval-augmented-generation", "graphrag", "rag", "graphrag-survey", "graphrag-paper"]
+repository = "https://github.com/DEEP-PolyU/Awesome-GraphRAG"
+website = "https://arxiv.org/abs/2501.13958"
+license = "MIT"
+added = 2026-10-20

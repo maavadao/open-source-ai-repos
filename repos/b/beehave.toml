@@ -1,0 +1,9 @@
+name = "beehave"
+description = "behavior tree AI for Godot Engine"
+category = "other"
+tags = ["ai", "behavior-tree", "gamedev", "gdscript", "godot", "godot3", "godot4", "game-development"]
+repository = "https://github.com/bitbrain/beehave"
+website = "https://bitbra.in/beehave"
+license = "MIT"
+language = "GDScript"
+added = 2026-10-20

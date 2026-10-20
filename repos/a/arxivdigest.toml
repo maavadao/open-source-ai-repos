@@ -1,0 +1,8 @@
+name = "ArxivDigest"
+description = "ArXiv Digest and Personalized Recommendations using Large Language Models"
+category = "chat"
+tags = ["ai", "arxiv", "arxiv-papers", "chatgpt", "llm", "gpt", "gpt4", "ml"]
+repository = "https://github.com/AutoLLM/ArxivDigest"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

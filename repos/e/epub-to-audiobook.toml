@@ -1,0 +1,9 @@
+name = "epub_to_audiobook"
+description = "EPUB to audiobook converter, optimized for Audiobookshelf, WebUI included"
+category = "speech"
+tags = ["audiobooks", "audiobookshelf", "epub", "tts", "chatgpt", "openai", "webui"]
+repository = "https://github.com/p0n1/epub_to_audiobook"
+website = "https://deepwiki.com/p0n1/epub_to_audiobook"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

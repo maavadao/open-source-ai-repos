@@ -1,0 +1,7 @@
+name = "bots"
+description = "Tools for building bots"
+category = "chat"
+tags = ["bots", "chatbot", "facebook-messenger", "bot-stores", "awesome", "awesome-list"]
+repository = "https://github.com/hackerkid/bots"
+license = "CC0-1.0"
+added = 2026-10-20

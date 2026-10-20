@@ -1,0 +1,10 @@
+name = "vespa"
+description = "The AI search platform"
+category = "vector-databases"
+tags = ["vespa", "search-engine", "big-data", "ai", "serving-recommendation", "machine-learning", "server", "java"]
+repository = "https://github.com/vespa-engine/vespa"
+website = "https://vespa.ai"
+license = "Apache-2.0"
+language = "Java"
+skill_level = "advanced"
+added = 2026-10-20

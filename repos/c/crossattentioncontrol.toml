@@ -1,0 +1,8 @@
+name = "CrossAttentionControl"
+description = "Unofficial implementation of \"Prompt-to-Prompt Image Editing with Cross Attention Control\" with Stable Diffusion"
+category = "image"
+tags = ["cross-attention", "deep-learning", "diffusion-models", "stable-diffusion"]
+repository = "https://github.com/bloc97/CrossAttentionControl"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

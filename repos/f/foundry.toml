@@ -1,0 +1,9 @@
+name = "Foundry"
+description = "The foundation layer for agentic intelligence."
+category = "mcp-servers"
+tags = ["agent-framework", "agentic-ai", "agents", "ai", "ai-agents", "ai-framework", "artificial-intelligence", "autonomous-agents"]
+repository = "https://github.com/promptise-com/Foundry"
+website = "https://www.promptise.com/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

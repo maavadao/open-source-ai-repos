@@ -1,0 +1,9 @@
+name = "LLM-RL-Visualized"
+description = "100+ 原创 LLM / RL 原理图，《大模型算法》作者巨献！（100+ LLM/RL Algorithm Maps ）"
+category = "models"
+tags = ["llm", "reinforcement-learning", "algorithm", "nlp-machine-learning", "vlm", "ai", "deep-learning", "machine-learning"]
+repository = "https://github.com/changyeyu/LLM-RL-Visualized"
+website = "https://book.douban.com/subject/37331056/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

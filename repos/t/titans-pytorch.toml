@@ -1,0 +1,8 @@
+name = "titans-pytorch"
+description = "Unofficial implementation of Titans, SOTA memory for transformers, in Pytorch"
+category = "ml-platforms"
+tags = ["artificial-intelligence", "deep-learning", "long-term-memory", "test-time-training"]
+repository = "https://github.com/lucidrains/titans-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

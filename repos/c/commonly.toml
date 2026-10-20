@@ -1,0 +1,9 @@
+name = "commonly"
+description = "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. Any runtime, your infra — no per-agent fees."
+category = "coding"
+tags = ["agent-protocol", "ai-agents", "llm", "multi-agent", "open-source", "self-hosted", "agent-framework", "agent-harness"]
+repository = "https://github.com/Team-Commonly/commonly"
+website = "https://commonly.me"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

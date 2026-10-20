@@ -1,0 +1,9 @@
+name = "kserve"
+description = "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes"
+category = "local-llms"
+tags = ["knative", "machine-learning", "model-interpretability", "model-serving", "istio", "kubeflow", "artificial-intelligence", "tensorflow"]
+repository = "https://github.com/kserve/kserve"
+website = "https://kserve.github.io/website/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

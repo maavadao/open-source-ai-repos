@@ -1,0 +1,9 @@
+name = "dart"
+description = "DART: Dynamic Animation and Robotics Toolkit"
+category = "robotics"
+tags = ["robotics", "computer-animation", "simulation", "kinematics", "dynamics", "lie-group", "inverse-kinematics", "urdf"]
+repository = "https://github.com/dartsim/dart"
+website = "https://dart.readthedocs.io"
+license = "BSD-2-Clause"
+language = "C++"
+added = 2026-10-20

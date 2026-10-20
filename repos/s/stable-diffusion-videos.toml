@@ -1,0 +1,8 @@
+name = "stable-diffusion-videos"
+description = "Create videos with Stable Diffusion by exploring the latent space and morphing between text prompts"
+category = "image"
+tags = ["ai-art", "huggingface", "huggingface-diffusers", "machine-learning", "stable-diffusion"]
+repository = "https://github.com/nateraw/stable-diffusion-videos"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

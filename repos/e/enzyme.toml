@@ -1,0 +1,9 @@
+name = "Enzyme"
+description = "High-performance automatic differentiation of LLVM and MLIR."
+category = "ml-platforms"
+tags = ["enzyme", "llvm", "ad", "automatic-differentiation", "c", "cpp", "tensorflow", "pytorch"]
+repository = "https://github.com/EnzymeAD/Enzyme"
+website = "https://enzyme.mit.edu"
+license = "NOASSERTION"
+language = "LLVM"
+added = 2026-10-20

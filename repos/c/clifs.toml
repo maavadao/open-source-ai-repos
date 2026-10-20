@@ -1,0 +1,8 @@
+name = "clifs"
+description = "Contrastive Language-Image Forensic Search allows free text searching through videos using OpenAI's machine learning model CLIP"
+category = "video"
+tags = ["machine-learning", "video", "search", "nlp", "python", "text", "openai", "ai"]
+repository = "https://github.com/johanmodin/clifs"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

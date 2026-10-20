@@ -1,0 +1,9 @@
+name = "vllora"
+description = "Debug your AI agents"
+category = "mcp-servers"
+tags = ["agents", "anthropic", "claude", "deepseek", "gemini", "langchain", "llm", "model-context-protocol"]
+repository = "https://github.com/vllora/vllora"
+website = "https://vllora.dev"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

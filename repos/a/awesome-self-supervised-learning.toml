@@ -1,0 +1,7 @@
+name = "awesome-self-supervised-learning"
+description = "A curated list of awesome self-supervised methods"
+category = "learning"
+tags = ["machine-learning", "computer-vision", "self-supervised", "reinforcement-learning", "robotics", "natural-language-processing", "deep-learning"]
+repository = "https://github.com/jason718/awesome-self-supervised-learning"
+license = "NOASSERTION"
+added = 2026-10-20

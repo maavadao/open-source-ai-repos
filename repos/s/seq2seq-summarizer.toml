@@ -1,0 +1,8 @@
+name = "seq2seq-summarizer"
+description = "Pointer-generator reinforced seq2seq summarization in PyTorch"
+category = "ml-platforms"
+tags = ["pytorch", "seq2seq", "attention-mechanism", "pointer-network", "reinforcement-learning", "abstractive-summarization", "coverage-mechanism", "attention"]
+repository = "https://github.com/ymfa/seq2seq-summarizer"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

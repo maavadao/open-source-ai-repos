@@ -1,0 +1,7 @@
+name = "Sign-Language"
+description = "A very simple CNN project to recognize gestures made in American Sign Language"
+category = "vision"
+tags = ["computer-vision", "convolutional-neural-networks", "deep-learning", "keras", "neural-network", "sign-language", "sign-language-recognition", "tensorflow"]
+repository = "https://github.com/EvilPort2/Sign-Language"
+license = "NOASSERTION"
+added = 2026-10-20

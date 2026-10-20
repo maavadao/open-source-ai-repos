@@ -1,0 +1,9 @@
+name = "Large-Language-Model-Notebooks-Course"
+description = "Practical course about Large Language Models."
+category = "learning"
+tags = ["chatbots", "hf", "huggingface", "langchain", "large-language-models", "transformers", "vector-database", "fine-tuning-llm"]
+repository = "https://github.com/peremartra/Large-Language-Model-Notebooks-Course"
+website = "https://medium.com/@peremartra/list/large-language-models-practical-course-66b4ce5943ce"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

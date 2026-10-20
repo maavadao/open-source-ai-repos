@@ -1,0 +1,7 @@
+name = "awesome-tensorflow-lite"
+description = "An awesome list of TensorFlow Lite models, samples, tutorials, tools and learning resources."
+category = "learning"
+tags = ["awesome-list", "tflite", "tensorflow-lite", "tflite-models", "tensorflow", "tensorflow-models", "tfhub", "tensorflow-keras"]
+repository = "https://github.com/margaretmz/awesome-tensorflow-lite"
+license = "Apache-2.0"
+added = 2026-10-20

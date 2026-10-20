@@ -1,0 +1,8 @@
+name = "gnn"
+description = "TensorFlow GNN is a library to build Graph Neural Networks on the TensorFlow platform."
+category = "ml-platforms"
+tags = ["tensorflow", "gnn", "deep-learning", "machine-learning"]
+repository = "https://github.com/tensorflow/gnn"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "spug"
+description = "Spug is a lightweight agent-free automatic operation and maintenance platform designed for small and medium-sized enterprises. It integrates host management, host batch execution, host online terminal, file management, application release and deployment, pipelines, online…"
+category = "agents"
+tags = ["ops", "operations", "devops", "webssh", "ops-admin", "opsadmin", "jenkins", "webshell"]
+repository = "https://github.com/openspug/spug"
+website = "https://ops.spug.cc"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-10-20

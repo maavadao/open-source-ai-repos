@@ -1,0 +1,8 @@
+name = "ai-weekend-builds"
+description = "AI projects to build in a weekend. For developers: requires Python or Node.js, an Anthropic API key, and comfort with the terminal. Starter code and READMEs for each project."
+category = "agents"
+tags = ["ai-agents", "anthropic-api", "claude", "local-first", "weekend-projects"]
+repository = "https://github.com/kju4q/ai-weekend-builds"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

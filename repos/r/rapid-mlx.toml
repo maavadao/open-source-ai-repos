@@ -1,0 +1,9 @@
+name = "Rapid-MLX"
+description = "Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Up to 4× faster than Apple's MLX (mlx-lm) on the same weights."
+category = "mcp-servers"
+tags = ["apple-silicon", "local-llm", "macos", "mlx", "tool-calling", "ollama-alternative", "claude-code", "anthropic-api"]
+repository = "https://github.com/raullenchai/Rapid-MLX"
+website = "https://rapidmlx.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

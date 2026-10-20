@@ -1,0 +1,9 @@
+name = "openai-node"
+description = "Official JavaScript / TypeScript library for the OpenAI API"
+category = "other"
+tags = ["nodejs", "openai", "typescript"]
+repository = "https://github.com/openai/openai-node"
+website = "https://www.npmjs.com/package/openai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

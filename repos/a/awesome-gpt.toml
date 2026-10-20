@@ -1,0 +1,7 @@
+name = "awesome-gpt"
+description = "An awe-inspiring collection of resources, encompassing a wide range of tools, documents, resources, applications, and use cases related to ChatGPT."
+category = "learning"
+tags = ["chatgpt", "chat-gpt-tool", "chatbot", "chatgpt-chrome-extension", "openai", "awesome", "awesome-list", "chatgpt4"]
+repository = "https://github.com/awesome-gptX/awesome-gpt"
+license = "MIT"
+added = 2026-10-20

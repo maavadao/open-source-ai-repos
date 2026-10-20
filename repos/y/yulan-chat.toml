@@ -1,0 +1,9 @@
+name = "YuLan-Chat"
+description = "YuLan: An Open-Source Large Language Model"
+category = "models"
+tags = ["large-language-models"]
+repository = "https://github.com/RUC-GSAI/YuLan-Chat"
+website = "https://arxiv.org/abs/2406.19853"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

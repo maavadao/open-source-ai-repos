@@ -1,0 +1,8 @@
+name = "coursera-deep-learning-specialization"
+description = "Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai: (i) Neural Networks and Deep Learning; (ii) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization; (iii)…"
+category = "learning"
+tags = ["deep-learning", "coursera", "coursera-assignment", "coursera-specialization", "coursera-machine-learning", "andrew-ng", "andrew-ng-course", "convolutional-neural-networks"]
+repository = "https://github.com/amanchadha/coursera-deep-learning-specialization"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

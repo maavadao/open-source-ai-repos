@@ -1,0 +1,9 @@
+name = "adminforth"
+description = "Create Agentic admin panels faster on TypeScript and Vue.js with AdminForth Framework. Setup main CRUD pages within minutes, extend as you need"
+category = "agents"
+tags = ["admin-dashboard", "admin-live-panel", "admin-panel", "admin-template", "admin-ui", "backoffice", "tailwind", "tailwindcss"]
+repository = "https://github.com/devforth/adminforth"
+website = "https://adminforth.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

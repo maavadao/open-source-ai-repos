@@ -1,0 +1,9 @@
+name = "mastra"
+description = "Mastra is the modern TypeScript framework for AI-powered applications and agents."
+category = "mcp-servers"
+tags = ["agents", "ai", "chatbots", "javascript", "llm", "nextjs", "nodejs", "reactjs"]
+repository = "https://github.com/mastra-ai/mastra"
+website = "https://mastra.ai"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Self-Driving-Car-in-Video-Games"
+description = "A deep neural network that learns to drive in video games"
+category = "robotics"
+tags = ["python", "pytorch", "self-driving-car", "videogame", "videogame-bot", "neural-network", "deep-learning", "supervised-learning"]
+repository = "https://github.com/ikergarcia1996/Self-Driving-Car-in-Video-Games"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

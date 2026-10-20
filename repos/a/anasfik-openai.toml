@@ -1,0 +1,9 @@
+name = "openai"
+description = "The unofficial OpenAI SDK for Dart & Flutter. Full API coverage + OpenAI-compatible providers (Azure, DeepSeek, LM Studio, Ollama): Responses, Chat, Realtime, Videos, Batch, Fine-tuning."
+category = "chat"
+tags = ["dart", "dart-library", "dart-package", "dartlang", "openai", "openai-api", "ai", "flutter"]
+repository = "https://github.com/anasfik/openai"
+website = "https://pub.dev/packages/dart_openai"
+license = "MIT"
+language = "Dart"
+added = 2026-10-20

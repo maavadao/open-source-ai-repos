@@ -1,0 +1,8 @@
+name = "jaxlie"
+description = "Rigid transforms + Lie groups for JAX"
+category = "robotics"
+tags = ["jax", "lie-groups", "geometry", "computer-vision", "robotics"]
+repository = "https://github.com/brentyi/jaxlie"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

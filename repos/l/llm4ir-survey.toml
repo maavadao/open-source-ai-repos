@@ -1,0 +1,8 @@
+name = "LLM4IR-Survey"
+description = "This is the repo for the survey of LLM4IR."
+category = "models"
+tags = ["information-retrieval", "large-language-models", "survey"]
+repository = "https://github.com/RUC-NLPIR/LLM4IR-Survey"
+website = "https://arxiv.org/abs/2308.07107"
+license = "MIT"
+added = 2026-10-20

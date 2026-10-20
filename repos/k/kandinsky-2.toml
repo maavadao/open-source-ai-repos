@@ -1,0 +1,8 @@
+name = "Kandinsky-2"
+description = "Kandinsky 2 — multilingual text2image latent diffusion model"
+category = "image"
+tags = ["image-generation", "text-to-image", "diffusion", "image2image", "inpainting", "ipython-notebook", "kandinsky", "outpainting"]
+repository = "https://github.com/ai-forever/Kandinsky-2"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "sd-webui-text2video"
+description = "Auto1111 extension implementing text2video diffusion models (like ModelScope or VideoCrafter) using only Auto1111 webui dependencies"
+category = "image"
+tags = ["automatic1111", "extension", "gradio", "modelscope", "stable-diffusion", "text2video", "webui", "videocrafter"]
+repository = "https://github.com/kabachuha/sd-webui-text2video"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

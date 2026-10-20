@@ -1,0 +1,8 @@
+name = "hindsight-experience-replay"
+description = "This is the pytorch implementation of Hindsight Experience Replay (HER) - Experiment on all fetch robotic environments."
+category = "ml-platforms"
+tags = ["hindsight-experience-replay", "ddpg", "reinforcement-learning", "off-policy", "exploration", "pytorch-implmention", "her"]
+repository = "https://github.com/TianhongDai/hindsight-experience-replay"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

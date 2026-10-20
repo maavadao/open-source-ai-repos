@@ -1,0 +1,9 @@
+name = "wenet"
+description = "Production First and Production Ready End-to-End Speech Recognition Toolkit"
+category = "speech"
+tags = ["e2e-models", "pytorch", "asr", "transformer", "conformer", "production-ready", "automatic-speech-recognition", "speech-recognition"]
+repository = "https://github.com/wenet-e2e/wenet"
+website = "https://wenet-e2e.github.io/wenet/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

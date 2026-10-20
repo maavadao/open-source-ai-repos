@@ -1,0 +1,9 @@
+name = "CityGaussian"
+description = "[ECCV`24&ICLR`25] CityGaussian Series for High-quality Large-Scale Scene Reconstruction with Gaussians"
+category = "vision"
+tags = ["3d", "computer-vision", "eccv2024", "gaussian-splatting", "graphics", "neural-network", "neural-rendering", "novel-view-synthesis"]
+repository = "https://github.com/Linketic/CityGaussian"
+website = "https://dekuliutesla.github.io/CityGaussianV2"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "EDDiscovery"
+description = "Captains log and 3d star map for Elite Dangerous"
+category = "speech"
+tags = ["elite-dangerous", "elite-journal", "journal-logs", "eddiscovery", "elite", "3d-map", "captain-log", "text-to-speech"]
+repository = "https://github.com/EDDiscovery/EDDiscovery"
+license = "Apache-2.0"
+language = "C#"
+added = 2026-10-20

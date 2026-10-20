@@ -1,0 +1,9 @@
+name = "VLM3"
+description = "[NeurIPS 2026] Official implementation of paper \"VLM³: Vision Language Models Are Native 3D Learners\"."
+category = "vision"
+tags = ["3d-foundation-model", "camera-pose-estimation", "depth-estimation", "image-matching", "large-language-models", "vlms", "object-level-3d"]
+repository = "https://github.com/facebookresearch/VLM3"
+website = "https://arxiv.org/pdf/2605.30561"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

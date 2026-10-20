@@ -1,0 +1,8 @@
+name = "openlake"
+description = "OpenLake is a high performance storage engine for efficient LLM inference and GPU Training"
+category = "local-llms"
+tags = ["gpu", "high-performance", "rdma", "rust", "storage", "throughput", "blackwell", "gpt"]
+repository = "https://github.com/openlake-project/openlake"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

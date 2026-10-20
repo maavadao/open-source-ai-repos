@@ -1,0 +1,9 @@
+name = "skill-up"
+description = "An evaluation and evolution tool for Agent Skills."
+category = "skills-prompts"
+tags = ["agent-skills", "alibaba", "ai", "ai-agents", "skills"]
+repository = "https://github.com/alibaba/skill-up"
+website = "https://alibaba.github.io/skill-up/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

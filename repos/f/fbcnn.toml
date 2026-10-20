@@ -1,0 +1,9 @@
+name = "FBCNN"
+description = "Official Code for ICCV 2021 paper \"Towards Flexible Blind JPEG Artifacts Removal (FBCNN)\""
+category = "vision"
+tags = ["image-restoration", "jpeg-artifacts-removal", "deep-learning", "iccv2021", "pytorch", "computer-vision", "image-processing", "image-denoising"]
+repository = "https://github.com/jiaxi-jiang/FBCNN"
+website = "https://arxiv.org/abs/2109.14573"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

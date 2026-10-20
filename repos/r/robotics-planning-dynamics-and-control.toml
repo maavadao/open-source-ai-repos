@@ -1,0 +1,9 @@
+name = "Robotics-Planning-Dynamics-and-Control"
+description = "RPDC : This contains all my MATLAB codes for the Robotics, Planning, Dynamics and Control . The implementations model various kinds of manipulators and mobile robots for position control, trajectory planning and path planning problems."
+category = "robotics"
+tags = ["robotics", "dynamics", "control", "matlab", "simulink", "path-planning", "forward-kinematics", "inverse-kinematics"]
+repository = "https://github.com/YashBansod/Robotics-Planning-Dynamics-and-Control"
+website = "https://yashbansod.github.io/projects/Robotics-Planning-Dynamics-and-Control/"
+license = "MIT"
+language = "MATLAB"
+added = 2026-10-20

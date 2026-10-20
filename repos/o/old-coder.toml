@@ -1,0 +1,8 @@
+name = "old-coder"
+description = "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob."
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "skills", "tdd", "agent-skills", "ai-coding", "code-quality", "llm"]
+repository = "https://github.com/AmazingAng/old-coder"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

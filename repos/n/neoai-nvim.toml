@@ -1,0 +1,8 @@
+name = "neoai.nvim"
+description = "Neovim plugin for intracting with GPT models from OpenAI"
+category = "chat"
+tags = ["chatgpt", "gpt", "gpt-4", "gpt3-turbo", "neovim", "neovim-plugin", "nvim", "nvim-plugin"]
+repository = "https://github.com/Bryley/neoai.nvim"
+license = "MIT"
+language = "Lua"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "stable-baselines3-contrib"
+description = "Contrib package for Stable-Baselines3 - Experimental reinforcement learning (RL) code"
+category = "robotics"
+tags = ["reinforcement-learning", "stable-baselines", "pytorch", "rl", "gym", "research", "experimental", "robotics"]
+repository = "https://github.com/Stable-Baselines-Team/stable-baselines3-contrib"
+website = "https://sb3-contrib.readthedocs.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

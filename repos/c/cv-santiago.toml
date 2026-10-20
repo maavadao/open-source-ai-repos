@@ -1,0 +1,9 @@
+name = "cv-santiago"
+description = "Interactive CV with AI chat integration. Built with React 19, TypeScript, Claude API. Chat with my AI avatar about my experience."
+category = "chat"
+tags = ["ai", "chatbot", "claude", "llm", "portfolio", "react", "typescript", "langfuse"]
+repository = "https://github.com/santifer/cv-santiago"
+website = "https://santifer.io"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

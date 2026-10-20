@@ -1,0 +1,8 @@
+name = "deep-learning-roadmap"
+description = "All You Need to Know About Deep Learning - A kick-starter"
+category = "learning"
+tags = ["deep-learning", "resources"]
+repository = "https://github.com/instillai/deep-learning-roadmap"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

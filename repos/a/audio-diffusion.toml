@@ -1,0 +1,8 @@
+name = "audio-diffusion"
+description = "Apply diffusion models using the new Hugging Face diffusers package to synthesize music instead of images."
+category = "speech"
+tags = ["huggingface", "diffusion-models", "music-generation", "latent-diffusion"]
+repository = "https://github.com/teticio/audio-diffusion"
+license = "GPL-3.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

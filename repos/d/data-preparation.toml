@@ -1,0 +1,9 @@
+name = "data-preparation"
+description = "Code used for sourcing and cleaning the BigScience ROOTS corpus"
+category = "models"
+tags = ["dataset", "large-language-models", "multilingual"]
+repository = "https://github.com/bigscience-workshop/data-preparation"
+website = "https://bigscience.huggingface.co/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

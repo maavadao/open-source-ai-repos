@@ -1,0 +1,9 @@
+name = "video-shotcraft"
+description = "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "ai-video", "claude-code", "claude-code-skills", "claude-skills", "codex", "motion-design"]
+repository = "https://github.com/Vincentwei1021/video-shotcraft"
+website = "https://vincentwei1021.github.io/video-shotcraft/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

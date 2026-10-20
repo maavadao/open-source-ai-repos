@@ -1,0 +1,9 @@
+name = "GEMS"
+description = "GEMS: Agent-Native Multimodal Generation with Memory and Skills"
+category = "agents"
+tags = ["agent", "generation", "multimodal", "reasoning"]
+repository = "https://github.com/lcqysl/GEMS"
+website = "https://gems-gen.github.io/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

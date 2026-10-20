@@ -1,0 +1,8 @@
+name = "ganspace"
+description = "Discovering Interpretable GAN Controls [NeurIPS 2020]"
+category = "image"
+tags = ["generative-adversarial-network", "gan", "deep-learning", "interactive-visualizations", "image-generation", "pytorch"]
+repository = "https://github.com/harskish/ganspace"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "cuml"
+description = "NVIDIA cuML: GPU-Accelerated Machine Learning"
+category = "ml-platforms"
+tags = ["machine-learning-algorithms", "machine-learning", "cuda", "gpu", "nvidia"]
+repository = "https://github.com/NVIDIA/cuml"
+website = "https://docs.nvidia.com/cuml/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

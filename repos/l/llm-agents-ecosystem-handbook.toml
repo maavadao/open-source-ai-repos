@@ -1,0 +1,8 @@
+name = "LLM-Agents-Ecosystem-Handbook"
+description = "One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools."
+category = "mcp-servers"
+tags = ["ai", "ai-agent", "ai-agents", "fine-tuning", "finetuning-llms", "freamework", "llm", "llmops"]
+repository = "https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

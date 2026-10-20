@@ -1,0 +1,8 @@
+name = "Class-balanced-loss-pytorch"
+description = "Pytorch implementation of the paper \"Class-Balanced Loss Based on Effective Number of Samples\""
+category = "vision"
+tags = ["pytorch", "cvpr2019", "loss-functions", "deep-learning", "computer-vision"]
+repository = "https://github.com/vandit15/Class-balanced-loss-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

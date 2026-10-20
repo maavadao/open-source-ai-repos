@@ -1,0 +1,8 @@
+name = "face_recognition"
+description = "The world's simplest facial recognition api for Python and the command line"
+category = "vision"
+tags = ["machine-learning", "face-detection", "face-recognition", "python"]
+repository = "https://github.com/ageitgey/face_recognition"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "show-me-the-story"
+description = "<10 MB — self-hosted AI novel writer in a single Go binary with a web UI. Turn ideas into outlines and chapters with review, foreshadowing, fact-checking, and full-book polish. OpenAI-compatible APIs; Chinese & English."
+category = "learning"
+tags = ["agent", "ai-writing", "creative-writing", "fiction-writing", "foreshadowing", "generative-ai", "go", "golang"]
+repository = "https://github.com/Nigh/show-me-the-story"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

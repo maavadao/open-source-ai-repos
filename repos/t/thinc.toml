@@ -1,0 +1,9 @@
+name = "thinc"
+description = "A refreshing functional take on deep learning, compatible with your favorite libraries"
+category = "ml-platforms"
+tags = ["machine-learning", "deep-learning", "artificial-intelligence", "ai", "python", "nlp", "natural-language-processing", "spacy"]
+repository = "https://github.com/explosion/thinc"
+website = "https://thinc.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

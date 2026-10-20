@@ -1,0 +1,8 @@
+name = "diffusers-torchao"
+description = "End-to-end recipes for optimizing diffusion models with torchao and diffusers (inference and FP8 training)."
+category = "image"
+tags = ["diffusion-models", "flux", "text-to-image", "torch", "architecture-optimization", "torch-compile", "torchao"]
+repository = "https://github.com/sayakpaul/diffusers-torchao"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "agent-inspect"
+description = "Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: inspect causal runs, catch wrong tool paths in CI, and share safe offline evidence."
+category = "mcp-servers"
+tags = ["observability", "typescript", "ai-agents", "cli", "debugging", "devtools", "evidence", "jsonl"]
+repository = "https://github.com/rajudandigam/agent-inspect"
+website = "https://agentinspect.vercel.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "InfiniTransformer"
+description = "Unofficial PyTorch/Transformers(Gemma/Llama3) implementation of Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention"
+category = "models"
+tags = ["gemma", "huggingface", "pytorch", "transformers", "infinitransformer", "llama", "llama3"]
+repository = "https://github.com/Beomi/InfiniTransformer"
+website = "https://arxiv.org/abs/2404.07143"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

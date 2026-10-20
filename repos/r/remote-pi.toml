@@ -1,0 +1,9 @@
+name = "remote_pi"
+description = "Control your Pi coding agent from your phone. Pair with a one-time QR code and chat with your local agent, even when you're away from your computer."
+category = "agents"
+tags = ["agent", "agents", "flutter", "ia", "pi", "picode", "rust"]
+repository = "https://github.com/jacobaraujo7/remote_pi"
+website = "https://cockpit.jacobmoura.work"
+license = "MIT"
+language = "Dart"
+added = 2026-10-20

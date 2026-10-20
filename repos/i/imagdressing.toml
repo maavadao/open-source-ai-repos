@@ -1,0 +1,9 @@
+name = "IMAGDressing"
+description = "[AAAI 2025]IMAGDressing: Interactive Modular Apparel Generation for Virtual Dressing. It enables customizable human image generation with flexible garment, pose, and scene control, ensuring high fidelity and garment consistency for virtual dressing."
+category = "image"
+tags = ["datasets", "diffusion-models", "try-on", "text-to-image-generation"]
+repository = "https://github.com/muzishen/IMAGDressing"
+website = "https://imagdressing.github.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

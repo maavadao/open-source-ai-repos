@@ -1,0 +1,8 @@
+name = "tianji-ai-agent"
+description = "Production-oriented multi-agent course advisor with deterministic action governance, offline regression evaluation, SSE contracts and observable tool execution."
+category = "mcp-servers"
+tags = ["java", "llm", "rag", "spring-ai", "spring-boot", "tool-calling", "agent", "agent-evaluation"]
+repository = "https://github.com/however-yir/tianji-ai-agent"
+license = "MIT"
+language = "Java"
+added = 2026-10-20

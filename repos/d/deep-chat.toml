@@ -1,0 +1,9 @@
+name = "deep-chat"
+description = "Fully customizable AI chatbot component for your website"
+category = "local-llms"
+tags = ["ai", "chat", "chatbot", "chatgpt", "component", "openai", "react", "solid"]
+repository = "https://github.com/OvidijusParsiunas/deep-chat"
+website = "https://deepchat.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

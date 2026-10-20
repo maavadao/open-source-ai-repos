@@ -1,0 +1,9 @@
+name = "chatgpt-prompts"
+description = "A NodeJS ChatGPT prompts library that contains more than 140+ awesome prompts"
+category = "skills-prompts"
+tags = ["chat", "chatgpt", "gpt", "openai", "ai", "bot", "chatbot", "chatgpt3"]
+repository = "https://github.com/pacholoamit/chatgpt-prompts"
+website = "https://www.npmjs.com/package/chatgpt-prompts"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

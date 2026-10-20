@@ -1,0 +1,9 @@
+name = "RLzoo"
+description = "A Comprehensive Reinforcement Learning Zoo for Simple Usage"
+category = "ml-platforms"
+tags = ["reinforcement-learning-practices", "tensorlayer", "tensorflow", "reinforcement-learning", "deep-reinforcement-learning", "deep-learning", "mindspore", "paddepaddle"]
+repository = "https://github.com/tensorlayer/RLzoo"
+website = "http://rlzoo.readthedocs.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

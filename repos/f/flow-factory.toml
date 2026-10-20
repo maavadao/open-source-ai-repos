@@ -1,0 +1,8 @@
+name = "Flow-Factory"
+description = "A unified framework for easy fine-tuning in Flow-Matching models"
+category = "video"
+tags = ["diffusion", "flow-matching", "image-generation", "reinforcement-learning", "video-generation", "diffusers", "diffusion-model", "diffusion-models"]
+repository = "https://github.com/X-GenGroup/Flow-Factory"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "omni"
+description = "Your agent pays twice for output it has already seen. OMNI returns a handle instead: 97.2% off a file read twice. Nothing deleted, nothing invented."
+category = "mcp-servers"
+tags = ["ai-agents", "context-distillation", "mcp", "token-efficiency", "antigravity", "claude-code", "cli", "cost-reduction"]
+repository = "https://github.com/fajarhide/omni"
+website = "https://omni.weekndlabs.com/docs"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

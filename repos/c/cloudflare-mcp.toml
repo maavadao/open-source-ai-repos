@@ -1,0 +1,9 @@
+name = "mcp"
+description = "MCP server for the Cloudflare API"
+category = "mcp-servers"
+tags = ["cloudflare", "cloudflare-workers", "mcp", "mcp-server"]
+repository = "https://github.com/cloudflare/mcp"
+website = "https://mcp.cloudflare.com/mcp"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

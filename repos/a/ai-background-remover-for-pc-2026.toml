@@ -1,0 +1,7 @@
+name = "AI-Background-Remover-For-PC-2026"
+description = "High-performance computer vision implementation featuring real-time image segmentation matrices, dynamic alpha-channel compositing, and automated tensor boundary cropping pipelines."
+category = "vision"
+tags = ["ai-background-removal", "auto-background-remover", "background-extraction", "background-generation", "background-removal", "background-subtraction", "backgroundremover", "baseline-removal"]
+repository = "https://github.com/sonyvitoscaletta23/AI-Background-Remover-For-PC-2026"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "solana-mcp-vybe"
+description = "Public Solana MCP registry metadata for Vybe Solana API"
+category = "mcp-servers"
+tags = ["claude", "cursor", "mcp", "mcp-client", "mcp-clients", "mcp-server", "mcp-servers", "mcp-tools"]
+repository = "https://github.com/vybenetwork/solana-mcp-vybe"
+website = "https://docs.vybenetwork.com/docs/mcp"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "awesome-ml-courses"
+description = "Awesome free machine learning and AI courses with video lectures."
+category = "learning"
+tags = ["machine-learning", "deep-learning", "reinforcement-learning", "ai-courses", "artificial-intelligence"]
+repository = "https://github.com/luspr/awesome-ml-courses"
+license = "NOASSERTION"
+added = 2026-10-20

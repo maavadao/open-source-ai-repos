@@ -1,0 +1,9 @@
+name = "paper2gui"
+description = "Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术"
+category = "image"
+tags = ["dain", "huoshan-tts", "microsoft-tts", "rife-gui", "waifu2x-gui", "dain-gui", "realcugan-gui", "realesrganv2-gu"]
+repository = "https://github.com/Baiyuetribe/paper2gui"
+website = "https://xiaobaituai.com"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

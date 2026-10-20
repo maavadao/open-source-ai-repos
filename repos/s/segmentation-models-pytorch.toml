@@ -1,0 +1,9 @@
+name = "segmentation_models.pytorch"
+description = "Semantic segmentation models with 500+ pretrained convolutional and transformer-based backbones."
+category = "vision"
+tags = ["segmentation", "image-processing", "pspnet", "unet", "unet-pytorch", "pytorch", "fpn", "models"]
+repository = "https://github.com/qubvel-org/segmentation_models.pytorch"
+website = "https://smp.readthedocs.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

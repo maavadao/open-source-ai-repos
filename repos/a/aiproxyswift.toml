@@ -1,0 +1,9 @@
+name = "AIProxySwift"
+description = "Swift clients for AI providers. You can make requests straight to the provider or proxied through our abuse protection backend"
+category = "other"
+tags = ["client", "openai", "replicate", "swift"]
+repository = "https://github.com/AIProxyTeam/AIProxySwift"
+website = "https://www.aiproxy.com"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

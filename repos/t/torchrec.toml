@@ -1,0 +1,9 @@
+name = "torchrec"
+description = "Pytorch domain library for recommendation systems"
+category = "ml-platforms"
+tags = ["pytorch", "gpu", "deep-learning", "cuda", "recommender-system", "recommendation-system", "sharding"]
+repository = "https://github.com/meta-pytorch/torchrec"
+website = "https://pytorch.org/torchrec/"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

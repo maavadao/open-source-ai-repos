@@ -1,0 +1,9 @@
+name = "DriveLM"
+description = "[ECCV 2024 Oral] DriveLM: Driving with Graph Visual Question Answering"
+category = "robotics"
+tags = ["autonomous-driving", "large-language-models", "vision-language", "chain-of-thought", "graph-of-thoughts", "llm", "prompting", "tree-of-thoughts"]
+repository = "https://github.com/OpenDriveLab/DriveLM"
+website = "https://opendrivelab.com/DriveLM/"
+license = "Apache-2.0"
+language = "HTML"
+added = 2026-10-20

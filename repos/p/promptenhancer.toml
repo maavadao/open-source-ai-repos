@@ -1,0 +1,9 @@
+name = "PromptEnhancer"
+description = "[CVPR 2026] PromptEnhancer is a prompt-rewriting tool, refining prompts into clearer, structured versions for better image generation."
+category = "image"
+tags = ["prompt", "prompt-engineering", "prompt-enhancer", "hunyuan", "vlm", "hunyuan-image", "image-editing", "image-to-image"]
+repository = "https://github.com/Hunyuan-PromptEnhancer/PromptEnhancer"
+website = "https://hunyuan-promptenhancer.github.io/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

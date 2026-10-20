@@ -1,0 +1,8 @@
+name = "ComfyUI-BiRefNet-ZHO"
+description = "Better version for BiRefNet in ComfyUI | Both img & video"
+category = "image"
+tags = ["comfyui", "stable-diffusion"]
+repository = "https://github.com/ZHO-ZHO-ZHO/ComfyUI-BiRefNet-ZHO"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

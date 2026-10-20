@@ -1,0 +1,8 @@
+name = "poe-openai-proxy"
+description = "A wrapper that lets you use the reverse-engineered Python library poe-api library as if it was the OpenAI API for ChatGPT. You can connect your favorite OpenAI API based apps to this proxy and enjoy the ChatGPT API for free!"
+category = "chat"
+tags = ["chatgpt", "openai", "poe", "poe-api", "quora"]
+repository = "https://github.com/juzeon/poe-openai-proxy"
+license = "GPL-3.0"
+language = "Go"
+added = 2026-10-20

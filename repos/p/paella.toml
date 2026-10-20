@@ -1,0 +1,8 @@
+name = "Paella"
+description = "Official Implementation of Paella https://arxiv.org/abs/2211.07292v2"
+category = "image"
+tags = ["diffusion-models", "generative-model"]
+repository = "https://github.com/dome272/Paella"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

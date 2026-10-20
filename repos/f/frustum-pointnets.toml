@@ -1,0 +1,8 @@
+name = "frustum-pointnets"
+description = "Frustum PointNets for 3D Object Detection from RGB-D Data"
+category = "robotics"
+tags = ["object-detection", "3d", "point-cloud", "robotics", "deep-learning"]
+repository = "https://github.com/charlesq34/frustum-pointnets"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

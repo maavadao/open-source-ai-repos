@@ -1,0 +1,9 @@
+name = "nuplan-devkit"
+description = "The devkit of the nuPlan dataset."
+category = "robotics"
+tags = ["planning", "machine-learning", "autonomous-driving", "simulation"]
+repository = "https://github.com/motional/nuplan-devkit"
+website = "https://www.nuplan.org"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "comfyui-colab"
+description = "comfyui colabs templates new nodes"
+category = "image"
+tags = ["colab", "colab-notebook", "colaboratory", "comfyui", "stable-diffusion"]
+repository = "https://github.com/camenduru/comfyui-colab"
+license = "Unlicense"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "deep-learning-v2-pytorch"
+description = "Projects and exercises for the latest Deep Learning ND program https://www.udacity.com/course/deep-learning-nanodegree--nd101"
+category = "learning"
+tags = ["deep-learning", "neural-network", "convolutional-networks", "pytorch", "recurrent-networks", "style-transfer", "sentiment-analysis"]
+repository = "https://github.com/udacity/deep-learning-v2-pytorch"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

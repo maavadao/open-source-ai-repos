@@ -1,0 +1,10 @@
+name = "julep"
+description = "Julep — durable, composable AI agents. Flows that crash and resume, retry safely, and explain every step."
+category = "agents"
+tags = ["agents", "ai-agents", "ai-agents-framework", "ai-memory", "ai-platform", "ai", "developer-tools", "llm"]
+repository = "https://github.com/julep-ai/julep"
+website = "https://julep.ai"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

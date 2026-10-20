@@ -1,0 +1,8 @@
+name = "awesome-autonomous-vehicles"
+description = "Curated List of Self-Driving Cars and Autonomous Vehicles Resources"
+category = "learning"
+tags = ["autonomous-vehicles", "deep-learning", "computer-vision", "autonomous-cars", "car-driving"]
+repository = "https://github.com/manfreddiaz/awesome-autonomous-vehicles"
+website = "https://manfreddiaz.github.io/awesome-autonomous-vehicles/"
+license = "NOASSERTION"
+added = 2026-10-20

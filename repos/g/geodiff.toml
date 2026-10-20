@@ -1,0 +1,8 @@
+name = "GeoDiff"
+description = "Implementation of GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation (ICLR 2022)."
+category = "image"
+tags = ["molecule", "graph-neural-networks", "generative-models", "conformation", "iclr", "iclr2022", "diffusion-models", "score-matching"]
+repository = "https://github.com/MinkaiXu/GeoDiff"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

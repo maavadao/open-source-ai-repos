@@ -1,0 +1,8 @@
+name = "d2l-pytorch"
+description = "This project reproduces the book Dive Into Deep Learning (https://d2l.ai/), adapting the code from MXNet into PyTorch."
+category = "learning"
+tags = ["deep-learning", "d2l", "data-science", "pytorch-implmention", "book", "nlp", "computer-vision", "pytorch"]
+repository = "https://github.com/dsgiitr/d2l-pytorch"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

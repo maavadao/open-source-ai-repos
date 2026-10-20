@@ -1,0 +1,8 @@
+name = "Capstan-Drive"
+description = "Robotic actuator test stand utilizing a Capstan Drive reducer"
+category = "robotics"
+tags = ["3d-printing", "actuator", "capstan", "robotics", "3d-printed-robotic-actuator", "capstan-drive", "robotic-actuator", "rope-driven-actuator"]
+repository = "https://github.com/aaedmusa/Capstan-Drive"
+website = "https://www.aaedmusa.com/projects/capstandrive"
+license = "NOASSERTION"
+added = 2026-10-20

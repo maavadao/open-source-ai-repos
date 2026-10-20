@@ -1,0 +1,8 @@
+name = "WorldX"
+description = "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界."
+category = "agents"
+tags = ["agent", "ai", "ai-agents", "ai-characters", "ai-simulation", "ai-world", "emergent-behavior", "game-ai"]
+repository = "https://github.com/YGYOOO/WorldX"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

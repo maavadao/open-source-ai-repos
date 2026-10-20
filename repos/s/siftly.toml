@@ -1,0 +1,8 @@
+name = "Siftly"
+description = "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization"
+category = "other"
+tags = ["ai", "bookmarks", "categorization", "local-first", "mindmap", "nextjs", "open-source", "productivity"]
+repository = "https://github.com/viperrcrypto/Siftly"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

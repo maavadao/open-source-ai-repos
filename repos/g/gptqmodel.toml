@@ -1,0 +1,9 @@
+name = "GPTQModel"
+description = "LLM model quantization (compression) toolkit with HW acceleration support for Nvidia, AMD, Intel GPU and Intel/AMD/Apple CPU via HF, vLLM, and SGLang."
+category = "local-llms"
+tags = ["gptq", "optimum", "peft", "quantization", "sglang", "transformers", "vllm"]
+repository = "https://github.com/ModelCloud/GPTQModel"
+website = "https://x.com/Qubitium"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

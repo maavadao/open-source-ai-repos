@@ -1,0 +1,9 @@
+name = "wunjo.wladradchenko.ru"
+description = "Wunjo Make: Face Swap, Lip Sync, Control Remove Objects & Text & Background, Restyling, Audio Separator, Clone Voice, Video Generation. Open Source, Local & Free."
+category = "video"
+tags = ["free", "wunjo", "face-swap", "segment-anything", "deepfake", "diffusion-models", "img2video", "lip-sync"]
+repository = "https://github.com/wladradchenko/wunjo.wladradchenko.ru"
+website = "https://wunjo.online"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-10-20

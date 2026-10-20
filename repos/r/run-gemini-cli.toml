@@ -1,0 +1,9 @@
+name = "run-gemini-cli"
+description = "A GitHub Action invoking the Gemini CLI."
+category = "other"
+tags = ["actions", "ai", "gcp", "gemini", "gemini-cli", "github-actions", "google-cloud", "google-cloud-platform"]
+repository = "https://github.com/google-github-actions/run-gemini-cli"
+website = "https://github.com/google-gemini/gemini-cli"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

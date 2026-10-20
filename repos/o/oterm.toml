@@ -1,0 +1,9 @@
+name = "oterm"
+description = "the terminal client for LLMs"
+category = "mcp-servers"
+tags = ["llm", "ollama", "python", "terminal", "anthropic", "chatbot", "mcp", "openai"]
+repository = "https://github.com/ggozad/oterm"
+website = "https://ggozad.github.io/oterm/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

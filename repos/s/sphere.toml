@@ -1,0 +1,9 @@
+name = "sphere"
+description = "A Web3 wallet and agent platform for the Unicity network - crypto wallet, DMs, group chat, and marketplace."
+category = "agents"
+tags = ["ai-agents", "wallet"]
+repository = "https://github.com/unicity-sphere/sphere"
+website = "https://unicity.ai"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

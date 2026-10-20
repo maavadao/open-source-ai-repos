@@ -1,0 +1,8 @@
+name = "LLM-RLHF-Tuning"
+description = "LLM Tuning with PEFT (SFT+RM+PPO+DPO with LoRA)"
+category = "image"
+tags = ["fine-tuning", "language-model", "llama", "llm", "lora", "peft", "ppo", "reinforcement-learning"]
+repository = "https://github.com/Joyce94/LLM-RLHF-Tuning"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "openllmetry-js"
+description = "Sister project to OpenLLMetry, but in Typescript. Open-source observability for your LLM application, based on OpenTelemetry"
+category = "llm-apps"
+tags = ["datascience", "llmops", "metrics", "ml", "model-monitoring", "monitoring", "observability", "opentelemetry"]
+repository = "https://github.com/traceloop/openllmetry-js"
+website = "https://www.traceloop.com/openllmetry"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

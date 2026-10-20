@@ -1,0 +1,8 @@
+name = "Speech-and-Text"
+description = "Speech to text (PocketSphinx, Iflytex API, Baidu API) and text to speech (pyttsx3) | 语音转文字（PocketSphinx、百度 API、科大讯飞 API）和文字转语音（pyttsx3）"
+category = "speech"
+tags = ["speech-to-text", "text-to-speech", "speech-recognition"]
+repository = "https://github.com/Renovamen/Speech-and-Text"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "BirdNET-Analyzer"
+description = "BirdNET analyzer for scientific audio data processing."
+category = "ml-platforms"
+tags = ["bioacoustics", "birds", "birdsong", "acoustic-monitoring", "deep-learning"]
+repository = "https://github.com/birdnet-team/BirdNET-Analyzer"
+website = "https://birdnet-team.github.io/BirdNET-Analyzer/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

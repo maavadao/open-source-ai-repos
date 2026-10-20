@@ -1,0 +1,9 @@
+name = "ironclaw"
+description = "IronClaw is an Agent OS focused on privacy, security and extensibility"
+category = "agents"
+tags = ["codeact", "openclaw", "rlm", "rust", "wasm"]
+repository = "https://github.com/nearai/ironclaw"
+website = "https://www.ironclaw.com"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

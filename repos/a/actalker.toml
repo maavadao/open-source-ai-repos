@@ -1,0 +1,9 @@
+name = "ACTalker"
+description = "ICCV 2025 ACTalker: an end-to-end video diffusion framework for talking head synthesis that supports both single and multi-signal control (e.g., audio, expression)."
+category = "video"
+tags = ["diffusion-models", "face-animation", "multi-modal", "stablevideodiffusion", "talking-head", "avatar", "digitalhuman"]
+repository = "https://github.com/harlanhong/ACTalker"
+website = "https://harlanhong.github.io/publications/actalker/index.html"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "verl-omni"
+description = "Multimodal RL training framework for diffusion & omni models"
+category = "image"
+tags = ["diffusion-models", "flow-matching", "grpo", "multimodal", "reinforcement-learning", "rlhf", "vllm", "qwen"]
+repository = "https://github.com/verl-project/verl-omni"
+website = "https://verl-omni.readthedocs.io/en/latest/index.html"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

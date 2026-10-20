@@ -1,0 +1,7 @@
+name = "awesome-grounding"
+description = "awesome grounding: A curated list of research papers in visual grounding"
+category = "learning"
+tags = ["computer-vision", "natural-language-processing", "grounding", "awesome-list", "papers", "arxiv", "visual-grounding", "image-grounding"]
+repository = "https://github.com/TheShadow29/awesome-grounding"
+license = "MIT"
+added = 2026-10-20

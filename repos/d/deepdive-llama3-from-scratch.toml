@@ -1,0 +1,9 @@
+name = "Deepdive-llama3-from-scratch"
+description = "Achieve the llama3 inference step-by-step, grasp the core concepts, master the process derivation, implement the code."
+category = "local-llms"
+tags = ["inference", "kv-cache", "llama", "llms", "attention", "attention-mechanism", "gpt", "language-model"]
+repository = "https://github.com/therealoliver/Deepdive-llama3-from-scratch"
+website = "https://ko-fi.com/therealoliver"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "MegaMemory"
+description = "Persistent project knowledge graph for coding agents. MCP server with semantic search, in-process embeddings, and web explorer."
+category = "mcp-servers"
+tags = ["ai", "coding-agent", "embeddings", "knowledge-graph", "llm", "mcp", "mcp-server", "sqlite"]
+repository = "https://github.com/0xK3vin/MegaMemory"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "auto-commenter"
+description = "A Claude skill that automatically posts personalized, authentic comments in your target communities."
+category = "mcp-servers"
+tags = ["automation", "comment", "mcp", "playwright", "reddit", "chatgpt", "claude-ai", "cursor-ai"]
+repository = "https://github.com/rokpiy/auto-commenter"
+license = "MIT"
+added = 2026-10-20

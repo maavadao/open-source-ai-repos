@@ -1,0 +1,8 @@
+name = "lanenet-lane-detection"
+description = "Unofficial implemention of lanenet model for real time lane detection"
+category = "vision"
+tags = ["lanenet", "self-driving-car", "deep-learning", "instance-segmentation", "tensorflow", "lane-detection", "lane-finding", "lane-lines-detection"]
+repository = "https://github.com/MaybeShewill-CV/lanenet-lane-detection"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

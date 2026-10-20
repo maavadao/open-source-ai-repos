@@ -1,0 +1,8 @@
+name = "HumanSD"
+description = "[ICCV 2023] The official implementation of paper \"HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation\""
+category = "image"
+tags = ["conditional-image-generation", "deep-learning", "iccv", "iccv2023", "image-generation", "pytorch"]
+repository = "https://github.com/IDEA-Research/HumanSD"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "superdense"
+description = "Local outcome-loop + reward layer for coding agents — remember what worked, ship the next move, measure how it landed. Docs at nimroboai.com"
+category = "agents"
+tags = ["agent-memory", "agent-tooling", "ai-agents", "cli", "coding-agents", "developer-tools", "llm-agents", "llmops"]
+repository = "https://github.com/Nimrobo/superdense"
+website = "https://nimroboai.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

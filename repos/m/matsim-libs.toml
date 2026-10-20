@@ -1,0 +1,8 @@
+name = "matsim-libs"
+description = "Multi-Agent Transport Simulation"
+category = "agents"
+tags = ["matsim", "transportation-planning", "simulation", "agent-based", "agent-based-simulation", "agent-based-model"]
+repository = "https://github.com/matsim-org/matsim-libs"
+license = "NOASSERTION"
+language = "Java"
+added = 2026-10-20

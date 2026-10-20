@@ -1,0 +1,9 @@
+name = "plexe"
+description = "Build a machine learning model from a prompt"
+category = "agents"
+tags = ["agentic-ai", "agents", "machine-learning", "ml", "mlengineering", "mlops", "multiagent", "ai"]
+repository = "https://github.com/plexe-ai/plexe"
+website = "https://plexe.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

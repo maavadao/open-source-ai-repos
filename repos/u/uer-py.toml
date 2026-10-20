@@ -1,0 +1,8 @@
+name = "UER-py"
+description = "Open Source Pre-training Model Framework in PyTorch & Pre-trained Model Zoo"
+category = "models"
+tags = ["bert", "pre-training", "fine-tuning", "gpt", "chinese", "natural-language-processing", "pytorch", "elmo"]
+repository = "https://github.com/dbiir/UER-py"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

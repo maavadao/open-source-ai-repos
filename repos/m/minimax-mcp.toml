@@ -1,0 +1,9 @@
+name = "MiniMax-MCP"
+description = "Official MiniMax Model Context Protocol (MCP) server that enables interaction with powerful Text to Speech, image generation and video generation APIs."
+category = "mcp-servers"
+tags = ["image-generation", "mcp", "mcp-server", "mcp-tools", "text-to-speech", "video-generation", "image-to-video", "text-to-image"]
+repository = "https://github.com/MiniMax-AI/MiniMax-MCP"
+website = "https://www.minimax.io/platform"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

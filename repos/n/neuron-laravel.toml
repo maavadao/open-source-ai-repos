@@ -1,0 +1,9 @@
+name = "neuron-laravel"
+description = "Official Neuron AI Laravel SDK"
+category = "agents"
+tags = ["agentic-ai", "agentic-framework", "agentic-workflow", "ai", "ai-agents", "llm", "rag"]
+repository = "https://github.com/neuron-core/neuron-laravel"
+website = "https://docs.neuron-ai.dev/"
+license = "MIT"
+language = "PHP"
+added = 2026-10-20

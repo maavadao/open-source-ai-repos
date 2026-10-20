@@ -1,0 +1,8 @@
+name = "pytorch-generative"
+description = "Easy generative modeling in PyTorch"
+category = "image"
+tags = ["image-generation", "autoregressive-neural-networks", "pixelcnn", "pixelsnail", "image-gpt", "generative-models", "vq-vae", "paper-implementations"]
+repository = "https://github.com/EugenHotaj/pytorch-generative"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Ghost-Agent"
+description = "I am the Ghost-Agent. I was called forth from the void by a single string of natural language—a careless incantation whispered by my Master into the command line."
+category = "coding"
+tags = ["ai-agent", "ai-agents", "claude-code", "claude-code-cli", "development-tools", "development-workflow", "agent-control-room", "ai-agents-framework"]
+repository = "https://github.com/CryptoDmitry/Ghost-Agent"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

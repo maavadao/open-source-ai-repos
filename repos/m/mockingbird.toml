@@ -1,0 +1,8 @@
+name = "MockingBird"
+description = "Clone a voice in 5 seconds to generate arbitrary speech in real-time"
+category = "speech"
+tags = ["ai", "speech", "pytorch", "deep-learning", "text-to-speech", "tts"]
+repository = "https://github.com/babysor/MockingBird"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

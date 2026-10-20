@@ -1,0 +1,8 @@
+name = "Awesome-Radar-Camera-Fusion"
+description = "Radar Camera Fusion in Autonomous Driving"
+category = "learning"
+tags = ["autonomous-driving", "camera", "radar", "radar-camera"]
+repository = "https://github.com/Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion"
+website = "https://radar-camera-fusion.github.io"
+license = "NOASSERTION"
+added = 2026-10-20

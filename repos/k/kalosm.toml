@@ -1,0 +1,9 @@
+name = "kalosm"
+description = "Instant, controllable, local pre-trained AI models in Rust"
+category = "speech"
+tags = ["ai", "llm", "rust", "llamacpp", "kalosm", "candle", "llama", "mistral"]
+repository = "https://github.com/floneum/kalosm"
+website = "http://floneum.com/kalosm"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

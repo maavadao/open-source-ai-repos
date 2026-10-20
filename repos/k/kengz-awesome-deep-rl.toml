@@ -1,0 +1,7 @@
+name = "awesome-deep-rl"
+description = "A curated list of awesome Deep Reinforcement Learning resources."
+category = "learning"
+tags = ["awesome-list", "deep-reinforcement-learning", "resources", "deep-rl", "reinforcement-learning"]
+repository = "https://github.com/kengz/awesome-deep-rl"
+license = "MIT"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "llama2"
+description = "This chatbot app is built using the Llama 2 open source LLM from Meta."
+category = "models"
+tags = ["large-language-models", "llama2", "llm", "meta", "python", "streamlit"]
+repository = "https://github.com/dataprofessor/llama2"
+website = "https://llama2.streamlit.app"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

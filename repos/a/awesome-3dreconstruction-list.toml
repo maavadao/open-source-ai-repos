@@ -1,0 +1,7 @@
+name = "awesome_3DReconstruction_list"
+description = "A curated list of papers & resources linked to 3D reconstruction from images."
+category = "learning"
+tags = ["computer-vision", "3d-reconstruction", "motion-estimation", "awesome-list", "stereo-vision", "multiple-view-geometry", "opensource"]
+repository = "https://github.com/openMVG/awesome_3DReconstruction_list"
+license = "NOASSERTION"
+added = 2026-10-20

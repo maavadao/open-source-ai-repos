@@ -1,0 +1,8 @@
+name = "psi"
+description = "Platform for Situated Intelligence"
+category = "models"
+tags = ["multimodal", "streaming", "human-robot-interaction", "multimodal-interactions", "perception", "framework", "stream-processing", "component-library"]
+repository = "https://github.com/microsoft/psi"
+license = "NOASSERTION"
+language = "C#"
+added = 2026-10-20

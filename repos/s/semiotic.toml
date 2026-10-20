@@ -1,0 +1,9 @@
+name = "semiotic"
+description = "React data visualization library for streaming, networks, and AI-assisted development"
+category = "data-science"
+tags = ["nteract", "visualization", "d3", "react", "data-visualization", "ai", "streaming"]
+repository = "https://github.com/nteract/semiotic"
+website = "https://semiotic.nteract.io"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "dsh-vision-router"
+description = "Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns."
+category = "models"
+tags = ["deepseek-harness", "dsh", "dsh-plugin", "multimodal", "vision"]
+repository = "https://github.com/ysr666/dsh-vision-router"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

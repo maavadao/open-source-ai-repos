@@ -1,0 +1,9 @@
+name = "harness-books"
+description = "Harness engineering in two books: constraints, query loops, context governance and multi-agent verification in Claude Code and Codex. harness-books.agentway.dev"
+category = "coding"
+tags = ["agentic-ai", "ai-agents", "ai-engineering", "claude-code", "codex", "context-engineering", "developer-tools", "llm"]
+repository = "https://github.com/wquguru/harness-books"
+website = "http://harness-books.agentway.dev/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "continuous-claude"
+description = "Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging"
+category = "coding"
+tags = ["ai", "ai-agents", "claude", "claude-code", "continuous-ai"]
+repository = "https://github.com/AnandChowdhary/continuous-claude"
+website = "https://anandchowdhary.com/open-source/2025/continuous-claude"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

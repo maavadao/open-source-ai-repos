@@ -1,0 +1,9 @@
+name = "treg"
+description = "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn"
+category = "mcp-servers"
+tags = ["dsh-plugin", "agents", "api-keys", "cli", "credentials", "developer-tools", "mcp", "proxy"]
+repository = "https://github.com/superdesigndev/treg"
+website = "https://treg.to"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

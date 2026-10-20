@@ -1,0 +1,9 @@
+name = "FounderOS"
+description = "An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard."
+category = "agents"
+tags = ["ai-agents", "dashboard", "founder-os", "nextjs", "open-source", "operator-os", "personal-productivity", "sqlite"]
+repository = "https://github.com/Bennettxai/FounderOS"
+website = "https://founderos.sh"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

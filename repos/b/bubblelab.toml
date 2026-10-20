@@ -1,0 +1,9 @@
+name = "BubbleLab"
+description = "Open-core workflow engine powering Bubble Lab — and fully runnable, hostable, and extensible on its own."
+category = "no-code"
+tags = ["ai", "ai-agents", "apis", "cli", "code", "developer-tool", "development", "integrations"]
+repository = "https://github.com/bubblelabai/BubbleLab"
+website = "https://bubblelab.ai/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

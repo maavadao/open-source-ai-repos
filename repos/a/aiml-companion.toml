@@ -1,0 +1,9 @@
+name = "aiml-companion"
+description = "AI-ML Companion: an interactive platform to learn AI & ML by watching it work - 28 tracks, 400+ modules, live visualizations - plus 20+ end-to-end real world projects from classical ML, DL, Computer Vision to production LLM & multi-agent systems."
+category = "security"
+tags = ["agentic-ai", "deeplearning", "genai", "llm", "machine-learning", "machine-learning-algorithms", "multi-agent-systems", "generative-ai"]
+repository = "https://github.com/genieincodebottle/aiml-companion"
+website = "https://aimlcompanion.ai"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

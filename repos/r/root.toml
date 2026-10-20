@@ -1,0 +1,9 @@
+name = "root"
+description = "The official repository for ROOT: analyzing, storing and visualizing big data, scientifically"
+category = "data-science"
+tags = ["data-analysis", "root-cern", "root", "c-plus-plus", "python", "physics", "statistics", "mathematics"]
+repository = "https://github.com/root-project/root"
+website = "https://root.cern"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

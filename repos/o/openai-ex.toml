@@ -1,0 +1,8 @@
+name = "openai.ex"
+description = "community-maintained OpenAI API Wrapper written in Elixir."
+category = "models"
+tags = ["openai", "elixir", "sdk", "gpt"]
+repository = "https://github.com/mgallo/openai.ex"
+license = "MIT"
+language = "Elixir"
+added = 2026-10-20

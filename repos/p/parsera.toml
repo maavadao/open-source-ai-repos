@@ -1,0 +1,9 @@
+name = "parsera"
+description = "Lightweight library for scraping web-sites with LLMs"
+category = "browser-automation"
+tags = ["data-extraction", "llm", "scraping", "python", "opensource", "webscraping", "ai", "ai-scraping"]
+repository = "https://github.com/raznem/parsera"
+website = "https://docs.parsera.org"
+license = "GPL-2.0"
+language = "Python"
+added = 2026-10-20

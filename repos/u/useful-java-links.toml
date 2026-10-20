@@ -1,0 +1,8 @@
+name = "useful-java-links"
+description = "A list of useful Java frameworks, libraries, software and hello worlds examples"
+category = "learning"
+tags = ["java-links", "java-frameworks", "awesome-list", "machine-learning", "java-libraries", "java-api", "java-applications", "lists"]
+repository = "https://github.com/Vedenin/useful-java-links"
+license = "NOASSERTION"
+language = "Java"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "executor"
+description = "The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment."
+category = "mcp-servers"
+repository = "https://github.com/UsefulSoftwareCo/executor"
+website = "https://executor.sh"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "SeekStorm"
+description = "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust."
+category = "vector-databases"
+tags = ["enterprise-search", "full-text-search", "search", "search-engine", "search-server", "search-service", "bm25", "realtime"]
+repository = "https://github.com/SeekStorm/SeekStorm"
+website = "https://seekstorm.com"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

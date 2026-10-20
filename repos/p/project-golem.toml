@@ -1,0 +1,8 @@
+name = "project-golem"
+description = "OS-level autonomous AI agent with long-term memory, multi-agent coordination, Titan Chronos scheduler & Moltbot Social Core"
+category = "chat"
+tags = ["ai-agent", "golem", "multi-agent", "openclaw", "autonomous-agents", "chatbot", "discord-bot", "long-term-memory"]
+repository = "https://github.com/Arvincreator/project-golem"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

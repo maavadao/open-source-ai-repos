@@ -1,0 +1,9 @@
+name = "agentdock"
+description = "Secure MCP runtime for AI agents to operate local machines, servers, and containers with multi-device orchestration."
+category = "mcp-servers"
+tags = ["agent-skills", "ai-agents", "automation", "devops", "docker", "mcp", "model-context-protocol", "remote-control"]
+repository = "https://github.com/uvwt/agentdock"
+website = "https://nexusdock.co"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

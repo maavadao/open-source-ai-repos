@@ -1,0 +1,9 @@
+name = "cz-git"
+description = "cz-git | czg DX first and more engineered, lightweight, customizable, standard output format Commitizen adapter and CLI"
+category = "no-code"
+tags = ["commitizen-adapter", "commitizen", "commitlint", "nodejs", "emoji", "workflow", "commit", "node"]
+repository = "https://github.com/Zhengqbbb/cz-git"
+website = "https://cz-git.qbb.sh"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "gansformer"
+description = "Generative Adversarial Transformers"
+category = "image"
+tags = ["transformers", "gans", "generative-adversarial-networks", "image-generation", "scene-generation", "compositionality", "attention"]
+repository = "https://github.com/dorarad/gansformer"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

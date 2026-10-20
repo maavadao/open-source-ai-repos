@@ -1,0 +1,9 @@
+name = "clawdcursor"
+description = "Local MCP server that gives any AI agent safe desktop control on Windows, macOS and Linux. Reads the screen as text and structure (accessibility + OCR) and acts by element name, with screenshots as the last resort. Multi-monitor aware, verifies every action, one safety gate."
+category = "mcp-servers"
+tags = ["ai-agent", "claude", "computer-use", "desktop-automation", "mcp", "mcp-server", "model-agnostic", "typescript"]
+repository = "https://github.com/AmrDab/clawdcursor"
+website = "https://clawdcursor.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

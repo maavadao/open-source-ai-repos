@@ -1,0 +1,9 @@
+name = "browser-tools-mcp"
+description = "Monitor browser logs directly from Cursor and other MCP compatible IDEs."
+category = "mcp-servers"
+tags = ["ai", "anthropic", "cursor", "mcp", "mcp-server"]
+repository = "https://github.com/AgentDeskAI/browser-tools-mcp"
+website = "https://agentdesk.ai/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

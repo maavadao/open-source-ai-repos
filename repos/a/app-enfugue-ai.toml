@@ -1,0 +1,8 @@
+name = "app.enfugue.ai"
+description = "ENFUGUE is an open-source web app for making studio-grade images and video using generative AI."
+category = "image"
+tags = ["ai", "generative-art", "stable-diffusion", "ai-image-generation", "docker-image", "linux", "macos", "mps"]
+repository = "https://github.com/painebenjamin/app.enfugue.ai"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

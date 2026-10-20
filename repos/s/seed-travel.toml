@@ -1,0 +1,8 @@
+name = "seed_travel"
+description = "Small script for AUTOMATIC1111/stable-diffusion-webui to create images between two seeds"
+category = "image"
+tags = ["stable-diffusion", "stable-diffusion-webui", "stable-diffusion-webui-plugin"]
+repository = "https://github.com/yownas/seed_travel"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

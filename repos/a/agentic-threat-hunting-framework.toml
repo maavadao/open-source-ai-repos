@@ -1,0 +1,8 @@
+name = "agentic-threat-hunting-framework"
+description = "ATHF is a framework for agentic threat hunting - building systems that can remember, learn, and act with increasing autonomy."
+category = "no-code"
+tags = ["agentic-ai", "ai-agents", "automation", "cybersecurity", "detection-engineering", "security", "siem", "threat-hunting"]
+repository = "https://github.com/Nebulock-Inc/agentic-threat-hunting-framework"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "datascience"
+description = "Curated list of Python resources for data science."
+category = "learning"
+tags = ["awesome", "awesome-list", "data-science", "datascience", "python", "deep-learning", "data-analysis", "data-visualization"]
+repository = "https://github.com/r0f1/datascience"
+license = "CC0-1.0"
+added = 2026-10-20

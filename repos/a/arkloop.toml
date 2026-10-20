@@ -1,0 +1,9 @@
+name = "Arkloop"
+description = "干净、强大、属于你的 AI Agent 平台 --AI agents, without the clutter."
+category = "mcp-servers"
+tags = ["agent", "ai", "anthropic", "chat", "openai", "openclaw", "personal", "acp"]
+repository = "https://github.com/qqqqqf-q/Arkloop"
+website = "https://arkloop.io"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

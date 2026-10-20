@@ -1,0 +1,7 @@
+name = "awesome-panoptic-segmentation"
+description = "Panoptic Segmentation Resources List"
+category = "learning"
+tags = ["panoptic-segmentation", "computer-vision", "deep-learning"]
+repository = "https://github.com/Angzz/awesome-panoptic-segmentation"
+license = "NOASSERTION"
+added = 2026-10-20

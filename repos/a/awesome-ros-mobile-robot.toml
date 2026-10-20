@@ -1,0 +1,7 @@
+name = "awesome-ros-mobile-robot"
+description = "A curated list of awesome mobile robots study resources based on ROS (including SLAM, odometry and navigation, manipulation)"
+category = "learning"
+tags = ["awesome-list", "robotics", "ros", "mobile-robots", "navigation", "odometry", "slam", "manipulation"]
+repository = "https://github.com/shannon112/awesome-ros-mobile-robot"
+license = "NOASSERTION"
+added = 2026-10-20

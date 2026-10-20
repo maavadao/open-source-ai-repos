@@ -1,0 +1,9 @@
+name = "smart-second-brain"
+description = "A free, open-source Obsidian plugin that makes your vault smarter: better search, an interactive knowledge graph, and an AI assistant that knows your notes."
+category = "chat"
+tags = ["ai", "obsidian-md", "obsidian-plugin", "rag", "local-first", "obsidian", "semantic-search", "ai-agents"]
+repository = "https://github.com/s2b-dev/smart-second-brain"
+website = "https://smartsecondbrain.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "LISA"
+description = "Project Page for \"LISA: Reasoning Segmentation via Large Language Model\""
+category = "vision"
+tags = ["large-language-model", "llm", "multi-modal", "segmentation"]
+repository = "https://github.com/JIA-Lab-research/LISA"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

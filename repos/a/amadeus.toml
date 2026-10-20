@@ -1,0 +1,8 @@
+name = "Amadeus"
+description = "Real-time multimodal desktop agent evolving toward a persistent AI OS interface (0.17 α)."
+category = "speech"
+tags = ["ai-agent", "desktop-agent", "electron", "multimodal", "python", "cuda", "gpt-sovits", "local-ai"]
+repository = "https://github.com/Code-Amadeus/Amadeus"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

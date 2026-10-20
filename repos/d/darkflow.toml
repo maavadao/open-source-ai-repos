@@ -1,0 +1,8 @@
+name = "darkflow"
+description = "Translate darknet to tensorflow. Load trained weights, retrain/fine-tune using tensorflow, export constant graph def to mobile devices"
+category = "vision"
+tags = ["tensorflow", "graph", "darknet", "deep-learning", "deep-neural-networks", "convolutional-neural-networks", "convolutional-networks", "image-processing"]
+repository = "https://github.com/thtrieu/darkflow"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

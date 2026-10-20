@@ -1,0 +1,9 @@
+name = "lida"
+description = "Automatic Generation of Visualizations and Infographics using Large Language Models"
+category = "models"
+tags = ["datavisualization", "llm", "openai", "visualization", "cohere", "openai-api", "palm2", "hacktoberfest"]
+repository = "https://github.com/microsoft/lida"
+website = "https://microsoft.github.io/lida/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

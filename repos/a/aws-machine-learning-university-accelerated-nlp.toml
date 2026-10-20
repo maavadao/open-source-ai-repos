@@ -1,0 +1,8 @@
+name = "aws-machine-learning-university-accelerated-nlp"
+description = "Machine Learning University: Accelerated Natural Language Processing Class"
+category = "ml-platforms"
+tags = ["machine-learning", "natural-language-processing", "deep-learning", "python", "gluon", "mxnet", "sklearn"]
+repository = "https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

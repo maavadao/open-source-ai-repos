@@ -1,0 +1,9 @@
+name = "flashinfer"
+description = "FlashInfer: Kernel Library for LLM Serving"
+category = "local-llms"
+tags = ["gpu", "large-large-models", "cuda", "pytorch", "llm-inference", "jit", "attention", "nvidia"]
+repository = "https://github.com/flashinfer-ai/flashinfer"
+website = "https://flashinfer.ai"
+license = "Apache-2.0"
+language = "Cuda"
+added = 2026-10-20

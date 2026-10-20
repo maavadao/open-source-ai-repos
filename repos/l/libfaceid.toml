@@ -1,0 +1,8 @@
+name = "libfaceid"
+description = "libfaceid is a research framework for prototyping of face recognition solutions. It seamlessly integrates multiple detection, recognition and liveness models w/ speech synthesis and speech recognition."
+category = "speech"
+tags = ["face-detection", "face-recognition", "facenet", "openface", "dlib", "pose-estimation", "age-detection", "gender-detection"]
+repository = "https://github.com/richmondu/libfaceid"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

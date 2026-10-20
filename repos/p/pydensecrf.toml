@@ -1,0 +1,8 @@
+name = "pydensecrf"
+description = "Python wrapper to Philipp Krähenbühl's dense (fully connected) CRFs with gaussian edge potentials."
+category = "vision"
+tags = ["computer-vision", "machine-learning", "crf", "pairwise-potentials", "unary-potentials", "cython", "eigen"]
+repository = "https://github.com/lucasb-eyer/pydensecrf"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

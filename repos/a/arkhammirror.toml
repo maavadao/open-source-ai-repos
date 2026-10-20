@@ -1,0 +1,8 @@
+name = "ArkhamMirror"
+description = "Local-first AI-powered document intelligence platform for investigative journalism"
+category = "documents"
+tags = ["data-visualization", "edge-ai", "local-llm", "offline-ai", "open-source", "osint", "palantir-alternative", "privacy-first"]
+repository = "https://github.com/mantisfury/ArkhamMirror"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

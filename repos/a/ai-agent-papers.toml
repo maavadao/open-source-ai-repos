@@ -1,0 +1,8 @@
+name = "ai-agent-papers"
+description = "A collection of AI Agents papers (Updated biweekly)"
+category = "agents"
+tags = ["agents", "llm", "planning", "reasoning", "paper-list", "survey"]
+repository = "https://github.com/masamasa59/ai-agent-papers"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

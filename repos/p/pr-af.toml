@@ -1,0 +1,9 @@
+name = "pr-af"
+description = "#1 open-source code reviewer on Code-Review-Bench"
+category = "coding"
+tags = ["agentfield", "agentic-engineering", "agents", "ai", "code-review", "llm", "pull-request"]
+repository = "https://github.com/Agent-Field/pr-af"
+website = "https://www.agentfield.ai"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

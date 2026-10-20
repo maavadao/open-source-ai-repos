@@ -1,0 +1,7 @@
+name = "Awesome-CV-MasterHub"
+description = "A paper list of some recent Computer Vision(CV) works"
+category = "learning"
+tags = ["awesome", "image-captioning", "image-classification", "image-dehazing", "image-denoising", "image-enhancement", "image-fusion", "image-generation"]
+repository = "https://github.com/cuixing158/Awesome-CV-MasterHub"
+license = "NOASSERTION"
+added = 2026-10-20

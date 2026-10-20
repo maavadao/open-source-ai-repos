@@ -1,0 +1,9 @@
+name = "river"
+description = "Online machine learning in Python"
+category = "data-science"
+tags = ["incremental-learning", "machine-learning", "python", "online-learning", "online-statistics", "data-science", "streaming", "online-machine-learning"]
+repository = "https://github.com/online-ml/river"
+website = "https://riverml.xyz"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

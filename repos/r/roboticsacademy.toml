@@ -1,0 +1,9 @@
+name = "RoboticsAcademy"
+description = "Learn Robotics with JdeRobot"
+category = "robotics"
+tags = ["robotics", "robotics-programming", "gazebo", "ros", "computer-vision", "hacktoberfest"]
+repository = "https://github.com/JdeRobot/RoboticsAcademy"
+website = "https://jderobot.github.io/RoboticsAcademy"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

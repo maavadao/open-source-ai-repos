@@ -1,0 +1,7 @@
+name = "FreeAskInternet"
+description = "FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will make a multi engine search and combine the search result to LLM and generate the answer…"
+category = "local-llms"
+repository = "https://github.com/nashsu/FreeAskInternet"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

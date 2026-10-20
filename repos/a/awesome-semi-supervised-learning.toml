@@ -1,0 +1,7 @@
+name = "awesome-semi-supervised-learning"
+description = "An up-to-date & curated list of awesome semi-supervised learning papers, methods & resources."
+category = "learning"
+tags = ["deep-learning", "semi-supervised-learning", "machine-learning", "computer-vision", "natural-language-processing", "graph-neural-networks", "generative-model"]
+repository = "https://github.com/yassouali/awesome-semi-supervised-learning"
+license = "MIT"
+added = 2026-10-20

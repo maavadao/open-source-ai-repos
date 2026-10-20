@@ -1,0 +1,8 @@
+name = "robotic-warehouse"
+description = "Multi-Robot Warehouse (RWARE): A multi-agent reinforcement learning environment"
+category = "robotics"
+tags = ["reinforcement-learning", "robotics", "simulation", "environment", "multi-agent-systems", "multi-agent-reinforcement-learning", "multi-agent"]
+repository = "https://github.com/semitable/robotic-warehouse"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

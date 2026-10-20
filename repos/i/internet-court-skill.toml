@@ -1,0 +1,8 @@
+name = "internet-court-skill"
+description = "The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissions, x402 payments, escrow, and dispute resolution as one open, catch-all Agent Skill / Claude Code plugin."
+category = "skills-prompts"
+tags = ["a2a", "agent-payments", "agent-skills", "agentic-commerce", "ai-agents", "claude-code", "claude-plugin", "claude-skill"]
+repository = "https://github.com/internet-court/internet-court-skill"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

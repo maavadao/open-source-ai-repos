@@ -1,0 +1,10 @@
+name = "weaviate"
+description = "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​."
+category = "vector-databases"
+tags = ["search-engine", "semantic-search", "semantic-search-engine", "vector-search", "vector-search-engine", "vector-database", "approximate-nearest-neighbor-search", "image-search"]
+repository = "https://github.com/weaviate/weaviate"
+website = "https://weaviate.io"
+license = "NOASSERTION"
+language = "Go"
+skill_level = "intermediate"
+added = 2026-10-20

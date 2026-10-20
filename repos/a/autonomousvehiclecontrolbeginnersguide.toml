@@ -1,0 +1,9 @@
+name = "AutonomousVehicleControlBeginnersGuide"
+description = "Python sample codes and documents about Autonomous vehicle control algorithm. This project can be used as a technical guide book to study the algorithms and the software architectures for beginners."
+category = "learning"
+tags = ["algorithm", "autonomous-driving", "autonomous-navigation", "autonomous-vehicles", "calibration", "localization", "mapping", "object-detection"]
+repository = "https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide"
+website = "https://www.eureka-moments-blog.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

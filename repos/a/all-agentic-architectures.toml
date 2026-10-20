@@ -1,0 +1,9 @@
+name = "all-agentic-architectures"
+description = "35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task benchmark leaderboard."
+category = "agents"
+tags = ["agentic-ai", "ai-agents", "langchain", "langgraph", "langsmith", "llm"]
+repository = "https://github.com/FareedKhan-dev/all-agentic-architectures"
+website = "https://fareedkhan-dev.github.io/all-agentic-architectures/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

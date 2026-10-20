@@ -1,0 +1,9 @@
+name = "trench"
+description = "Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events. Easily build product analytics dashboards, LLM RAGs, observability platforms, or any other analytics product."
+category = "vision"
+tags = ["clickhouse", "clickhouse-database", "clickhouse-server", "kafka", "open-source", "tracking", "tracking-events", "nodejs"]
+repository = "https://github.com/FrigadeHQ/trench"
+website = "https://trench.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

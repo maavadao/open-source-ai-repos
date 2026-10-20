@@ -1,0 +1,9 @@
+name = "RayCodes_OmniRoute-Explorer"
+description = "A lightweight dashboard and reporting tool powered by OmniRoute - The Free AI Gateway"
+category = "models"
+tags = ["ai-gateway", "generative-ai", "llm", "omniroute", "openai", "python", "streamlit"]
+repository = "https://github.com/47thtechcorner/RayCodes_OmniRoute-Explorer"
+website = "https://youtu.be/If7Xeozh17Q"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

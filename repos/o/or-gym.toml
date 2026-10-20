@@ -1,0 +1,8 @@
+name = "or-gym"
+description = "Environments for OR and RL Research"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "deep-reinforcement-learning", "operations-research", "optimization", "supply-chain", "supply-chain-management", "vehicle-routing-problem"]
+repository = "https://github.com/hubbs5/or-gym"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

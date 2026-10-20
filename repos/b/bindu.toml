@@ -1,0 +1,9 @@
+name = "Bindu"
+description = "Bindu: The identity, communication, and payments layer for AI agents."
+category = "agents"
+tags = ["agent-communication", "autonomous-agents", "agent-orchestration", "a2a", "ai-agent", "machine-learning", "eu-ai-act"]
+repository = "https://github.com/GetBindu/Bindu"
+website = "https://docs.getbindu.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

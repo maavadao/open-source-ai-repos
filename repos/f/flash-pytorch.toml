@@ -1,0 +1,8 @@
+name = "FLASH-pytorch"
+description = "Implementation of the Transformer variant proposed in \"Transformer Quality in Linear Time\""
+category = "models"
+tags = ["artificial-intelligence", "deep-learning", "attention-mechanism", "transformers", "efficient-transformers"]
+repository = "https://github.com/lucidrains/FLASH-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

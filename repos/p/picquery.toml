@@ -1,0 +1,9 @@
+name = "PicQuery"
+description = "Search local images with natural language on-device, powered by Apple's MobileCLIP2. / 在手机/电脑上用自然语言搜索本地图片 (基于 Apple 的 MobileCLIP2 模型)"
+category = "local-llms"
+tags = ["android", "clip", "image-text-retrieval", "image-text-search", "flutter", "macos", "material3", "mobileclip2"]
+repository = "https://github.com/greyovo/PicQuery"
+website = "https://greyovo.github.io/PicQuery/"
+license = "MIT"
+language = "Dart"
+added = 2026-10-20

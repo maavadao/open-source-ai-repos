@@ -1,0 +1,9 @@
+name = "pixel2motion"
+description = "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence."
+category = "skills-prompts"
+tags = ["ai-design-tools", "animated-logo", "claude-skill", "codex-skill", "html-animation", "logo-animation", "motion-design", "raster-to-svg"]
+repository = "https://github.com/nolangz/pixel2motion"
+website = "https://nolangz.github.io/pixel2motion/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

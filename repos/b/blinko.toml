@@ -1,0 +1,9 @@
+name = "blinko"
+description = "An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript ."
+category = "other"
+tags = ["markdown", "memos", "nextjs", "notebook", "openai", "self-hosted", "postgres", "react"]
+repository = "https://github.com/blinkospace/blinko"
+website = "https://blinko.space"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "apfel"
+description = "The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads."
+category = "local-llms"
+tags = ["apple-intelligence", "apple-silicon", "cli", "foundationmodels", "llm", "macos", "macos-26", "on-device"]
+repository = "https://github.com/Arthur-Ficial/apfel"
+website = "https://apfel.franzai.com"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

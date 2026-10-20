@@ -1,0 +1,7 @@
+name = "Awesome-Multimodal-Large-Language-Models"
+description = "Latest Advances on Multimodal Large Language Models"
+category = "learning"
+tags = ["instruction-tuning", "instruction-following", "large-vision-language-model", "visual-instruction-tuning", "multi-modality", "in-context-learning", "large-language-models", "large-vision-language-models"]
+repository = "https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models"
+license = "NOASSERTION"
+added = 2026-10-20

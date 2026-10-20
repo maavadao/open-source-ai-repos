@@ -1,0 +1,8 @@
+name = "DelphiOpenAI"
+description = "OpenAI (and DeepSeek, Azure OpenAI, YandexGPT, Ollama, GigaChat, Qwen) API wrapper for Delphi. Use ChatGPT, DALL-E, Whisper and other products."
+category = "local-llms"
+tags = ["api-wrapper", "delphi", "gpt", "gpt-3", "openai", "openai-api", "chatgpt", "dall-e"]
+repository = "https://github.com/HemulGM/DelphiOpenAI"
+license = "MIT"
+language = "Pascal"
+added = 2026-10-20

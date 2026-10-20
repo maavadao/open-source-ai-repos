@@ -1,0 +1,9 @@
+name = "goflylivechat"
+description = "开源在线客服系统GO语言开发GO-FLY,免费在线客服系统/GOFLY LIVE CHAT: open source self-hosted private cloud customer support live chat software by golang"
+category = "chat"
+tags = ["chat", "chatbot", "customer-service", "customer-support", "golang", "livechat", "private-cloud", "self-hosted"]
+repository = "https://github.com/taoshihan1991/goflylivechat"
+website = "http://gofly.uniqchat.com"
+license = "Apache-2.0"
+language = "HTML"
+added = 2026-10-20

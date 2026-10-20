@@ -1,0 +1,9 @@
+name = "ANOLISA"
+description = "ANOLISA (Agentic Nexus Operating Layer & Interface System Architecture) | Agentic OS with runtime, security, observability, and Tokenless response compression for lower token usage and cost."
+category = "skills-prompts"
+tags = ["agentic-os", "linux", "skill", "agent-infrastructure", "agent-memory", "agent-runtime", "agent-security", "agentic-ai"]
+repository = "https://github.com/agentic-os-org/ANOLISA"
+website = "https://agentic-os.sh/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

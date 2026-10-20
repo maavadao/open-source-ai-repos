@@ -1,0 +1,9 @@
+name = "mattergen"
+description = "Official implementation of MatterGen -- a generative model for inorganic materials design across the periodic table that can be fine-tuned to steer the generation towards a wide range of property constraints."
+category = "ml-platforms"
+tags = ["generative-ai", "materials-design", "materials-science"]
+repository = "https://github.com/microsoft/mattergen"
+website = "https://www.nature.com/articles/s41586-025-08628-5"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "openrouter-examples"
+description = "Examples of integrating the OpenRouter API"
+category = "models"
+tags = ["ai", "anthropic", "docs", "llm", "openai", "openrouter"]
+repository = "https://github.com/OpenRouterTeam/openrouter-examples"
+website = "https://openrouter.ai/docs"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

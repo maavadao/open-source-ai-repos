@@ -1,0 +1,9 @@
+name = "CUDA-L2"
+description = "CUDA-L2: Surpassing cuBLAS Performance for Matrix Multiplication through Reinforcement Learning"
+category = "models"
+tags = ["cublas", "cuda-kernels", "large-language-models", "matrix-multiplication", "nvidia", "reinforcement-learning"]
+repository = "https://github.com/ornith-ai/CUDA-L2"
+website = "https://arxiv.org/abs/2512.02551"
+license = "MIT"
+language = "Cuda"
+added = 2026-10-20

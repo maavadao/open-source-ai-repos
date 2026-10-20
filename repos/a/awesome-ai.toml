@@ -1,0 +1,8 @@
+name = "awesome-ai"
+description = "A curated list of awesome AI tools, frameworks, api, software and resources."
+category = "learning"
+tags = ["ai", "ai-tools", "artificial-intelligence", "awesome", "awesome-list", "llm", "llms", "ai-api"]
+repository = "https://github.com/openbestof/awesome-ai"
+website = "https://ai.openbestof.com"
+license = "NOASSERTION"
+added = 2026-10-20

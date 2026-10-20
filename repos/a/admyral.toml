@@ -1,0 +1,9 @@
+name = "admyral"
+description = "Admyral enables continuous control monitoring for any custom control"
+category = "coding"
+tags = ["cybersecurity", "open-source", "python", "security-automation", "typescript", "gpt", "workflow", "automation"]
+repository = "https://github.com/Hey-Telo/admyral"
+website = "https://admyral.dev"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

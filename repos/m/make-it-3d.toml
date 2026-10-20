@@ -1,0 +1,8 @@
+name = "Make-It-3D"
+description = "[ICCV 2023] Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior"
+category = "image"
+tags = ["3d-generation", "3d-vision", "computer-vision", "deep-learning", "diffusion-models", "generative-art", "nerf"]
+repository = "https://github.com/junshutang/Make-It-3D"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

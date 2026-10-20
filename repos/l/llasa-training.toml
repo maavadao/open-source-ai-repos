@@ -1,0 +1,8 @@
+name = "LLaSA_training"
+description = "LLaSA: Scaling Train-time and Inference-time Compute for LLaMA-based Speech Synthesis"
+category = "speech"
+tags = ["llama", "llm", "text-to-speech", "xcodec2"]
+repository = "https://github.com/zhenye234/LLaSA_training"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

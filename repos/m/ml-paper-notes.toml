@@ -1,0 +1,7 @@
+name = "ML-paper-notes"
+description = "Notes and summaries of various ML, Computer Vision & NLP papers."
+category = "vision"
+tags = ["machine-learning", "computer-vision", "natural-language-processing", "summary", "deep-learning", "nlp"]
+repository = "https://github.com/yassouali/ML-paper-notes"
+license = "NOASSERTION"
+added = 2026-10-20

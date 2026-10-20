@@ -1,0 +1,9 @@
+name = "caura"
+description = "Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0."
+category = "mcp-servers"
+tags = ["agent-memory", "agentic-ai", "ai-agents", "ai-infrastructure", "claude", "fastapi", "knowledge-graph", "llm-memory"]
+repository = "https://github.com/caura-ai/caura"
+website = "https://caura.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

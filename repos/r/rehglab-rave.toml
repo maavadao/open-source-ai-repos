@@ -1,0 +1,9 @@
+name = "RAVE"
+description = "RAVE: Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models [CVPR 2024]"
+category = "video"
+tags = ["diffusion", "stable-diffusion", "video-editing"]
+repository = "https://github.com/RehgLab/RAVE"
+website = "https://rave-video.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

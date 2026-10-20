@@ -1,0 +1,9 @@
+name = "tonic_validate"
+description = "Metrics to evaluate the quality of responses of your Retrieval Augmented Generation (RAG) applications."
+category = "llm-apps"
+tags = ["evaluation-metrics", "large-language-models", "llm", "llmops", "llms", "rag", "retrieval-augmented-generation", "evaluation-framework"]
+repository = "https://github.com/TonicAI/tonic_validate"
+website = "https://docs.tonic.ai/validate/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

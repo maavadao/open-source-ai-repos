@@ -1,0 +1,9 @@
+name = "unbody"
+description = "The Supabase of AI era. A modular, open-source backend for building AI-native software — designed for knowledge, not static data."
+category = "vector-databases"
+tags = ["agentic-ai", "ai-native", "backend", "chatbot", "data-enhancement", "data-ingestion", "developer-tools", "etl-pipeline"]
+repository = "https://github.com/unbody-io/unbody"
+website = "https://unbody.io"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

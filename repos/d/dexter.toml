@@ -1,0 +1,7 @@
+name = "dexter"
+description = "An autonomous agent for deep financial research"
+category = "agents"
+repository = "https://github.com/virattt/dexter"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

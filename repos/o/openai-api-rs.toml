@@ -1,0 +1,9 @@
+name = "openai-api-rs"
+description = "OpenAI API client library for Rust (unofficial)"
+category = "models"
+tags = ["openai", "rust", "gpt-4", "gpt-3-5-turbo", "api", "gpt-4o", "gpt-4o-mini", "o1"]
+repository = "https://github.com/dongri/openai-api-rs"
+website = "https://docs.rs/openai-api-rs"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

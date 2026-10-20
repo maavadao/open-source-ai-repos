@@ -1,0 +1,9 @@
+name = "humla"
+description = "Open-source AI meeting notes for Mac. Records mic + system audio with no bot, transcribes on-device or via OpenAI / Deepgram / Groq, identifies speakers offline, and writes summaries that fuse your notes with the transcript. Ask your notes and get cited answers. Tauri 2 +…"
+category = "security"
+tags = ["ai", "apple-silicon", "granola-alternative", "local-first", "local-llm", "macos", "meeting-minutes", "meeting-notes"]
+repository = "https://github.com/michaelwilhelmsen/humla"
+website = "https://humla.team"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

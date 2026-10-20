@@ -1,0 +1,9 @@
+name = "album-ai"
+description = "AI-First Album: Chat with your gallery using plain language! LLM Vision + RAG + Album/Gallery."
+category = "llm-apps"
+tags = ["ai", "album", "gpt-4o-mini", "image", "llm", "rag", "haiku", "gallery"]
+repository = "https://github.com/gcui-art/album-ai"
+website = "http://album.gcui.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

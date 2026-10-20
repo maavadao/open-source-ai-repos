@@ -1,0 +1,10 @@
+name = "ms-swift"
+description = "Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.8, DeepSeek-V4, GLM-5.1, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM5.3, Gemma4, Llava, Phi4, ...) (AAAI 2025)."
+category = "ml-platforms"
+tags = ["llm", "lora", "sft", "multimodal", "peft", "liger", "embedding", "grpo"]
+repository = "https://github.com/modelscope/ms-swift"
+website = "https://swift.readthedocs.io/zh-cn/latest/"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

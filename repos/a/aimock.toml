@@ -1,0 +1,9 @@
+name = "aimock"
+description = "Mock everything your AI app talks to — LLM APIs, MCP, A2A, AG-UI, vector DBs, search. One package, one port, zero dependencies."
+category = "mcp-servers"
+tags = ["ai-testing", "llm", "mcp", "mock-server", "openai", "aimock"]
+repository = "https://github.com/CopilotKit/aimock"
+website = "http://aimock.copilotkit.dev/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "system"
+description = "Control your mac from anywhere with AI"
+category = "agents"
+tags = ["agents", "ai", "cloudflare", "raycast"]
+repository = "https://github.com/ygwyg/system"
+website = "https://system.surf"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

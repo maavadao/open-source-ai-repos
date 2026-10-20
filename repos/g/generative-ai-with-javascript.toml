@@ -1,0 +1,9 @@
+name = "generative-ai-with-javascript"
+description = "Join a time-traveling adventure where you meet history’s legends while learning Generative AI technologies!"
+category = "models"
+tags = ["ai", "generative-ai", "javascript", "llm", "samples", "training"]
+repository = "https://github.com/microsoft/generative-ai-with-javascript"
+website = "https://microsoft.github.io/generative-ai-with-javascript/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "potpie"
+description = "Context Graph for AI Native SDLC"
+category = "agents"
+tags = ["agents", "artificial-intelligence", "developer-tools", "generative-ai", "knowledge-graph", "rag", "ai-agents", "ai-agents-framework"]
+repository = "https://github.com/potpie-ai/potpie"
+website = "https://potpie.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

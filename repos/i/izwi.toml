@@ -1,0 +1,9 @@
+name = "izwi"
+description = "Voice AI runtime. Local first transcription, speaker diarization, TTS, and voice cloning with an OpenAI compatible API."
+category = "speech"
+tags = ["asr", "local-first", "openai-compatible-api", "self-hosted-ai", "speaker-diarization", "speech-to-text", "text-to-speech", "tts"]
+repository = "https://github.com/izwi-ai/izwi"
+website = "https://docs.izwiai.com/"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

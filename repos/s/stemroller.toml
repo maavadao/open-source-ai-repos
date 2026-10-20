@@ -1,0 +1,9 @@
+name = "stemroller"
+description = "Isolate vocals, drums, bass, and other instrumental stems from any song"
+category = "ml-platforms"
+tags = ["bass", "deep-learning", "demucs", "drums", "electron", "javascript", "python", "vocals"]
+repository = "https://github.com/stemrollerapp/stemroller"
+website = "https://www.stemroller.com"
+license = "NOASSERTION"
+language = "Svelte"
+added = 2026-10-20

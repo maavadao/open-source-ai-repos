@@ -1,0 +1,7 @@
+name = "awesome-radar-perception"
+description = "A curated list of radar datasets, detection, tracking and fusion"
+category = "learning"
+tags = ["autonomous-driving", "autonomous-vehicles", "dataset", "deep-learning", "detection", "fusion", "radar", "slam"]
+repository = "https://github.com/ZHOUYI1023/awesome-radar-perception"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "CodexBar"
+description = "Show usage stats for OpenAI Codex and Claude Code, without having to login."
+category = "coding"
+tags = ["ai", "codex", "swift", "claude-code"]
+repository = "https://github.com/steipete/CodexBar"
+website = "https://codex.bar"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

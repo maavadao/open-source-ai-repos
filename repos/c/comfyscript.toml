@@ -1,0 +1,9 @@
+name = "ComfyScript"
+description = "A Python frontend and library for ComfyUI"
+category = "image"
+tags = ["comfyui", "stable-diffusion", "comfy-script", "jupyter-notebook", "ipython", "jupyter"]
+repository = "https://github.com/Chaoses-Ib/ComfyScript"
+website = "https://discord.gg/arqJbtEg7w"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "sheeprl"
+description = "Distributed Reinforcement Learning accelerated by Lightning Fabric"
+category = "ml-platforms"
+tags = ["distributed", "lightning", "pytorch", "reinforcement-learning"]
+repository = "https://github.com/Eclectic-Sheep/sheeprl"
+website = "https://eclecticsheep.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

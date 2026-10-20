@@ -1,0 +1,9 @@
+name = "semana-javascript-expert07"
+description = "JS Expert Week 7.0 - 🏻 Controlling Streaming Platforms using Eye and Hand Detection"
+category = "learning"
+tags = ["eye-detection", "hand-detection", "javascript", "machine-learning", "mediapipe", "mediapipe-face-detection", "mediapipe-hands", "multithreading"]
+repository = "https://github.com/ErickWendel/semana-javascript-expert07"
+website = "https://semana.javascriptexpert.com.br/"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "tensorRT_Pro"
+description = "C++ library based on tensorrt integration"
+category = "vision"
+tags = ["pytorch", "tensorrt", "object-detection", "deep-learning", "yolov5", "yolox"]
+repository = "https://github.com/shouxieai/tensorRT_Pro"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

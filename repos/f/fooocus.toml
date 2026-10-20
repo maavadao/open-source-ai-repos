@@ -1,0 +1,8 @@
+name = "Fooocus"
+description = "Focus on prompting and generating"
+category = "image"
+repository = "https://github.com/lllyasviel/Fooocus"
+license = "GPL-3.0"
+language = "Python"
+skill_level = "beginner"
+added = 2026-10-20

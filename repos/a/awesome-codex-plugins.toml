@@ -1,0 +1,9 @@
+name = "awesome-codex-plugins"
+description = "A curated list of awesome OpenAI Codex / ChatGPT plugins, skills, and resources. The #1 Codex Marketplace. See live plugins at: https://hol.org/plugins/best-codex-plugins"
+category = "learning"
+tags = ["ai-coding", "awesome", "awesome-list", "codex", "codex-plugins", "openai", "codex-skill", "codex-skills"]
+repository = "https://github.com/hashgraph-online/awesome-codex-plugins"
+website = "https://hol.org/plugins/best-codex-plugins"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

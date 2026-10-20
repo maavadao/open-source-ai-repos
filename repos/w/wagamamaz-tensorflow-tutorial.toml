@@ -1,0 +1,7 @@
+name = "tensorflow-tutorial"
+description = "TensorFlow and Deep Learning Tutorials"
+category = "learning"
+tags = ["recurrent-neural-networks", "convolutional-neural-networks", "deep-learning-tutorial", "tensorflow", "tensorlayer", "keras", "deep-reinforcement-learning", "tensorflow-tutorials"]
+repository = "https://github.com/wagamamaz/tensorflow-tutorial"
+license = "NOASSERTION"
+added = 2026-10-20

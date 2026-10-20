@@ -1,0 +1,9 @@
+name = "mit-deep-learning"
+description = "Tutorials, assignments, and competitions for MIT Deep Learning related courses."
+category = "learning"
+tags = ["deep-learning", "mit", "self-driving-cars", "deep-reinforcement-learning", "deep-rl", "artificial-intelligence", "neural-networks", "segmentation"]
+repository = "https://github.com/lexfridman/mit-deep-learning"
+website = "https://deeplearning.mit.edu"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

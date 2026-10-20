@@ -1,0 +1,9 @@
+name = "HumanMAC"
+description = "[ICCV-2023] Official code for work \"HumanMAC: Masked Motion Completion for Human Motion Prediction\"."
+category = "image"
+tags = ["diffusion-models", "motion", "motion-generation", "motion-prediction", "diversity", "motion-forecasting", "pose-forecasting", "pose-prediction"]
+repository = "https://github.com/LinghaoChan/HumanMAC"
+website = "https://lhchen.top/Human-MAC"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "LittlePaimon"
+description = "小派蒙！基于Nonebot2的原神机器人，包括但不限于UID面板查询、抽卡记录分析、游戏攻略图鉴、实时便签、原石札记、群聊学习、群管等功能。/ LittlePamon! Genshin Impact multifunctional bot based on Nonebot2."
+category = "chat"
+tags = ["qqbot", "genshin", "genshin-impact", "nonebot", "python", "mihoyo", "chatbot", "nonebot2"]
+repository = "https://github.com/CMHopeSunshine/LittlePaimon"
+website = "https://docs.paimon.cherishmoon.top"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

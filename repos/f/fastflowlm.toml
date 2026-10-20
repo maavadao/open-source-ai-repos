@@ -1,0 +1,9 @@
+name = "FastFlowLM"
+description = "Run LLMs on AMD Ryzen AI NPUs in minutes; purpose-built and deeply optimized for the AMD NPUs."
+category = "models"
+tags = ["amd", "deepseek", "llama", "llm", "npu"]
+repository = "https://github.com/ROCm/FastFlowLM"
+website = "http://fastflowlm.com/"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

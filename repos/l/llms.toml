@@ -1,0 +1,8 @@
+name = "llms"
+description = "Large Language Models: In this repository Language models are introduced covering both theoretical and practical aspects."
+category = "models"
+tags = ["deeplearning", "generative-ai", "llms", "nlp", "transformers"]
+repository = "https://github.com/IbrahimSobh/llms"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

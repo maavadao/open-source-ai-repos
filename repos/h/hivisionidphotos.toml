@@ -1,0 +1,9 @@
+name = "HivisionIDPhotos"
+description = "HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。"
+category = "vision"
+tags = ["demo", "gradio", "idphoto", "machine-learning", "matting", "tools", "cnn", "docker"]
+repository = "https://github.com/Zeyi-Lin/HivisionIDPhotos"
+website = "https://modelscope.cn/studios/SwanLab/HivisionIDPhotos"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

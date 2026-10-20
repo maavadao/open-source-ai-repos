@@ -1,0 +1,8 @@
+name = "PageTalk"
+description = "PageTalk is a beautiful browser extension that allows you to use AI to read page content and have multiple conversations."
+category = "chat"
+tags = ["ai-extension", "browser-extension", "gemini", "web-summary", "chatbot"]
+repository = "https://github.com/jeanchristophe13v/PageTalk"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

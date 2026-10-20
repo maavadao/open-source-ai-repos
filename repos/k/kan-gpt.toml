@@ -1,0 +1,9 @@
+name = "kan-gpt"
+description = "The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling"
+category = "models"
+tags = ["gpt", "kanformers", "kolmogorov-arnold-networks", "kolmogorov-arnold-representation", "llm", "text-generation", "transformers"]
+repository = "https://github.com/AdityaNG/kan-gpt"
+website = "https://adityang.github.io/kan-gpt/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

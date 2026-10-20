@@ -1,0 +1,9 @@
+name = "understand-r1-zero"
+description = "Understanding R1-Zero-Like Training: A Critical Perspective"
+category = "models"
+tags = ["llm", "r1-zero", "reasoning", "rl"]
+repository = "https://github.com/sail-sg/understand-r1-zero"
+website = "https://arxiv.org/pdf/2503.20783"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

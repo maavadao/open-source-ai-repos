@@ -1,0 +1,9 @@
+name = "petercat"
+description = "A conversational Q&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q&A bots for your GitHub repositories"
+category = "chat"
+tags = ["ai", "llm", "rag", "react", "assistant", "assistant-chat-bots", "assistants", "github-apps"]
+repository = "https://github.com/afx-team/petercat"
+website = "https://petercat.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

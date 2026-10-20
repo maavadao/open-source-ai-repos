@@ -1,0 +1,9 @@
+name = "rulesync"
+description = "A Utility CLI for AI Coding Agents"
+category = "mcp-servers"
+tags = ["ai", "ai-agents", "ai-coding", "llm", "mcp", "rules", "skills"]
+repository = "https://github.com/dyoshikawa/rulesync"
+website = "http://rulesync.dyoshikawa.com/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "qdrant-client"
+description = "Python client for Qdrant vector search engine"
+category = "vector-databases"
+tags = ["qdrant", "vector-database", "vector-search", "vector-search-engine"]
+repository = "https://github.com/qdrant/qdrant-client"
+website = "https://qdrant.tech"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

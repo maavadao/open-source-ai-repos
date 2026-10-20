@@ -1,0 +1,9 @@
+name = "Pretty-mermaid-skills"
+description = "AI Agent Skill to generate and render beautiful Mermaid diagrams as SVG or terminal ASCII — 15 themes, 6 diagram types, batch CLI, no browser."
+category = "skills-prompts"
+tags = ["mermaid", "skills", "agent-skills", "ai-agents", "ascii-art", "claude-code", "codex", "cursor"]
+repository = "https://github.com/imxv/Pretty-mermaid-skills"
+website = "https://www.skills.sh/imxv/pretty-mermaid-skills/pretty-mermaid"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

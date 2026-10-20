@@ -1,0 +1,9 @@
+name = "orange3"
+description = "Orange: Interactive data analysis"
+category = "no-code"
+tags = ["data-mining", "data-science", "machine-learning", "data-visualization", "orange", "python", "scikit-learn", "numpy"]
+repository = "https://github.com/biolab/orange3"
+website = "https://orangedatamining.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

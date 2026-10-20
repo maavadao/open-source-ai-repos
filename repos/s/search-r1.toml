@@ -1,0 +1,8 @@
+name = "Search-R1"
+description = "Search-R1: An Efficient, Scalable RL Training Framework for Reasoning & Search Engine Calling interleaved LLM based on veRL"
+category = "search"
+repository = "https://github.com/PeterGriffinJin/Search-R1"
+website = "https://arxiv.org/pdf/2503.09516"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

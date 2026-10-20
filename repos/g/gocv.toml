@@ -1,0 +1,9 @@
+name = "gocv"
+description = "Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO."
+category = "video"
+tags = ["opencv", "golang", "video", "computer-vision", "video-capture", "face-tracking", "mjpeg", "mjpeg-stream"]
+repository = "https://github.com/hybridgroup/gocv"
+website = "https://gocv.io"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

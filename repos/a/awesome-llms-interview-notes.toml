@@ -1,0 +1,7 @@
+name = "awesome_LLMs_interview_notes"
+description = "LLMs interview notes and answers:该仓库主要记录大模型（LLMs）算法工程师相关的面试题和参考答案"
+category = "learning"
+tags = ["ai", "interview-practice", "interview-preparation", "interview-questions", "interviews", "large-language-models", "llm", "nlp"]
+repository = "https://github.com/jackaduma/awesome_LLMs_interview_notes"
+license = "MIT"
+added = 2026-10-20

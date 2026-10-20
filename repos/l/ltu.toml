@@ -1,0 +1,8 @@
+name = "ltu"
+description = "Code, Dataset, and Pretrained Models for Audio and Speech Large Language Model \"Listen, Think, and Understand\"."
+category = "speech"
+tags = ["audio", "audio-processing", "deep-learning", "large-language-models", "speech-recognition"]
+repository = "https://github.com/YuanGongND/ltu"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

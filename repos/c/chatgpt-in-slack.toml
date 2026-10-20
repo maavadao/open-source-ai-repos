@@ -1,0 +1,8 @@
+name = "ChatGPT-in-Slack"
+description = "Swift demonstration of how to build a Slack app that enables end-users to interact with a ChatGPT bot"
+category = "chat"
+tags = ["ai", "chatbot", "chatbots", "chatgpt", "openai", "productivity", "productivity-tools", "slack"]
+repository = "https://github.com/seratch/ChatGPT-in-Slack"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

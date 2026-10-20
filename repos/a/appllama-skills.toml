@@ -1,0 +1,8 @@
+name = "appllama-skills"
+description = "A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens."
+category = "mcp-servers"
+tags = ["agent-skills", "ai-agents", "claude", "claude-code", "claude-code-skill", "claude-skills", "codex", "codex-skill"]
+repository = "https://github.com/Appllama/appllama-skills"
+website = "https://appllama.io/mcp"
+license = "MIT"
+added = 2026-10-20

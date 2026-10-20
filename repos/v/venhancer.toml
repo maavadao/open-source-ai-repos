@@ -1,0 +1,9 @@
+name = "VEnhancer"
+description = "Official codes of VEnhancer: Generative Space-Time Enhancement for Video Generation"
+category = "video"
+tags = ["diffusion-models", "video-enhancement", "video-generation", "video-super-resolution", "aigc-enhancement", "text-to-video", "video-to-video", "frame-interpolation"]
+repository = "https://github.com/Vchitect/VEnhancer"
+website = "https://vchitect.github.io/VEnhancer-project/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

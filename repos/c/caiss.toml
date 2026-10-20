@@ -1,0 +1,8 @@
+name = "caiss"
+description = "一款简单好用的 跨平台/多语言的 相似向量/相似词/相似句 高性能检索引擎。欢迎star & fork。Build together! Power another !"
+category = "vector-databases"
+tags = ["faiss", "ann", "ai", "similarity-search", "hnsw", "nlp", "chatbot", "mrpt"]
+repository = "https://github.com/ChunelFeng/caiss"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "CLUE"
+description = "中文语言理解测评基准 Chinese Language Understanding Evaluation Benchmark: datasets, baselines, pre-trained models, corpus and leaderboard"
+category = "models"
+tags = ["nlu", "benchmark", "chinese", "corpus", "dataset", "bert", "albert", "chineseglue"]
+repository = "https://github.com/CLUEbenchmark/CLUE"
+website = "http://www.CLUEbenchmarks.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

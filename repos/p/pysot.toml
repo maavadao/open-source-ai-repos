@@ -1,0 +1,8 @@
+name = "pysot"
+description = "SenseTime Research platform for single object tracking, implementing algorithms like SiamRPN and SiamMask."
+category = "vision"
+tags = ["tracking", "computer-vision", "siamese-network"]
+repository = "https://github.com/STVIR/pysot"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Birds-eye-view-Perception"
+description = "[IEEE T-PAMI 2023] Awesome BEV perception research and cookbook for all level audience in autonomous diriving"
+category = "learning"
+tags = ["autonomous-driving", "birds-eye-view", "camera-detection", "lidar-detection", "perception-algorithm"]
+repository = "https://github.com/OpenDriveLab/Birds-eye-view-Perception"
+website = "https://doi.org/10.1109/TPAMI.2023.3333838"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

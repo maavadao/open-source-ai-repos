@@ -1,0 +1,9 @@
+name = "AeroSandbox"
+description = "Aircraft design optimization made fast through computational graph transformations (e.g., automatic differentiation). Composable analysis tools for aerodynamics, propulsion, structures, trajectory design, and much more."
+category = "models"
+tags = ["aerodynamics", "airplane", "cfd", "mdo", "aircraft-design", "aerospace", "optimization", "vlm"]
+repository = "https://github.com/peterdsharpe/AeroSandbox"
+website = "https://peterdsharpe.github.io/AeroSandbox/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

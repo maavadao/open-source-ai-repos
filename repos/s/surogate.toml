@@ -1,0 +1,9 @@
+name = "surogate"
+description = "Train and serve LLMs at extreme speed and massive throughput."
+category = "models"
+tags = ["cuda", "deep-learning", "fine-tuning", "generative-ai", "llama", "llm", "llms", "nvidia-gpu"]
+repository = "https://github.com/invergent-ai/surogate"
+website = "https://surogate.ai"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

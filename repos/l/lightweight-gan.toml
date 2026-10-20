@@ -1,0 +1,8 @@
+name = "lightweight-gan"
+description = "Implementation of 'lightweight' GAN, proposed in ICLR 2021, in Pytorch. High resolution image generations that can be trained within a day or two"
+category = "ml-platforms"
+tags = ["artificial-intelligence", "deep-learning", "generative-adversarial-network"]
+repository = "https://github.com/lucidrains/lightweight-gan"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

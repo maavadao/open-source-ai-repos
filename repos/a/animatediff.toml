@@ -1,0 +1,9 @@
+name = "AnimateDiff"
+description = "Official implementation of AnimateDiff."
+category = "video"
+repository = "https://github.com/guoyww/AnimateDiff"
+website = "https://animatediff.github.io"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "pykale"
+description = "Knowledge-Aware machine LEarning (KALE): accessible machine learning from multiple sources for interdisciplinary research, part of the PyTorch ecosystem. Star to support our work!"
+category = "vision"
+tags = ["machine-learning", "knowledge-aware-learning", "computer-vision", "graph-analysis", "pytorch", "medical-image-analysis", "multimodal-learning", "transfer-learning"]
+repository = "https://github.com/pykale/pykale"
+website = "https://pykale.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

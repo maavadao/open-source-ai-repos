@@ -1,0 +1,8 @@
+name = "stable-diffusion-prompt-reader"
+description = "A simple standalone viewer for reading prompts from Stable Diffusion generated image outside the webui."
+category = "image"
+tags = ["ai", "image-generation", "macos", "prompt-engineering", "prompt-toolkit", "python", "stable-diffusion", "stable-diffusion-webui"]
+repository = "https://github.com/receyuki/stable-diffusion-prompt-reader"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

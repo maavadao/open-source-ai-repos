@@ -1,0 +1,9 @@
+name = "shipfast"
+description = "The best free SaaS base for GenAI, LLM, and other AI Services. Ship your next Generative AI startups in days."
+category = "chat"
+tags = ["aws", "chatgpt", "django", "docker", "generative-ai", "llm", "reactjs", "saas-boilerplate"]
+repository = "https://github.com/vietanhdev/shipfast"
+website = "https://www.shipfast.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

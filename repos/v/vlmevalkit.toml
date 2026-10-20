@@ -1,0 +1,9 @@
+name = "VLMEvalKit"
+description = "Open-source evaluation toolkit of large multi-modality models (LMMs), support 220+ LMMs, 80+ benchmarks"
+category = "vision"
+tags = ["gpt-4v", "large-language-models", "llava", "multi-modal", "openai", "vqa", "llm", "openai-api"]
+repository = "https://github.com/open-compass/VLMEvalKit"
+website = "https://huggingface.co/spaces/opencompass/open_vlm_leaderboard"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

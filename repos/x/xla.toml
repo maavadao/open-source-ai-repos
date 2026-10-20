@@ -1,0 +1,9 @@
+name = "xla"
+description = "Enabling PyTorch on XLA Devices (e.g. Google TPU)"
+category = "ml-platforms"
+tags = ["compiler", "deep-learning", "pytorch", "xla"]
+repository = "https://github.com/pytorch/xla"
+website = "https://pytorch.org/xla"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "agent-skills"
+description = "Collection of Apify agent skills"
+category = "mcp-servers"
+tags = ["actor", "agent-skills", "ai-agents", "apify", "mcp"]
+repository = "https://github.com/apify/agent-skills"
+website = "https://skills.sh/apify/agent-skills"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

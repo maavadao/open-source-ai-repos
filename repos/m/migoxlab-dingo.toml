@@ -1,0 +1,9 @@
+name = "dingo"
+description = "Dingo: A Comprehensive AI Data, Model and Application Quality Evaluation Tool"
+category = "models"
+tags = ["data-quality", "data-validation", "llm", "spark", "vlm", "data-evaluation", "dataquality", "datascience"]
+repository = "https://github.com/MigoXLab/dingo"
+website = "https://dingo.openxlab.org.cn/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

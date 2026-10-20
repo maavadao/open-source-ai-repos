@@ -1,0 +1,8 @@
+name = "openrecall"
+description = "OpenRecall is a fully open-source, privacy-first alternative to proprietary solutions like Microsoft's Windows Recall. With OpenRecall, you can easily access your digital history, enhancing your memory and productivity without compromising your privacy."
+category = "security"
+tags = ["ai", "alternative", "history", "macos", "ocr", "open-source", "privacy", "python"]
+repository = "https://github.com/openrecall/openrecall"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

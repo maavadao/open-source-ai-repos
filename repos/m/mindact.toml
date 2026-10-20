@@ -1,0 +1,9 @@
+name = "MindAct"
+description = "MindSpore + Huggingface: Run any Transformers/Diffusers model on MindSpore with seamless compatibility and acceleration."
+category = "image"
+tags = ["mindspore", "natural-language-processing", "nlp", "nlp-library", "deep-learning", "python", "large-language-models", "llm"]
+repository = "https://github.com/candle-org/MindAct"
+website = "http://mindnlp.readthedocs.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

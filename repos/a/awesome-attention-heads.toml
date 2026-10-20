@@ -1,0 +1,9 @@
+name = "Awesome-Attention-Heads"
+description = "An awesome repository & A comprehensive survey on interpretability of LLM attention heads."
+category = "learning"
+tags = ["attention-mechanism", "awesome", "interpretability", "transformer", "survey", "attention-head-mining", "circuit-analysis", "cognitive-neuroscience"]
+repository = "https://github.com/IAAR-Shanghai/Awesome-Attention-Heads"
+website = "https://www.cell.com/patterns/fulltext/S2666-3899(25)00024-8"
+license = "NOASSERTION"
+language = "TeX"
+added = 2026-10-20

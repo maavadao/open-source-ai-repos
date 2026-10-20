@@ -1,0 +1,9 @@
+name = "lego-art-remix"
+description = "Powerful computer vision assisted Lego mosaic creator · Over 1 million images created (so far!)"
+category = "vision"
+tags = ["computer-vision", "lego-art", "custom-pictures", "lego", "javascript", "onnx", "lego-art-remix", "lego-mosaic"]
+repository = "https://github.com/debkbanerji/lego-art-remix"
+website = "https://lego-art-remix.com"
+license = "GPL-3.0"
+language = "JavaScript"
+added = 2026-10-20

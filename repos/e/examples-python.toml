@@ -1,0 +1,8 @@
+name = "examples-python"
+description = "Restack AI examples for Python"
+category = "agents"
+tags = ["ai-agents", "ai-agents-framework", "python"]
+repository = "https://github.com/restackio/examples-python"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

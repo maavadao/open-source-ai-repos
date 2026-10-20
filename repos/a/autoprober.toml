@@ -1,0 +1,9 @@
+name = "AutoProber"
+description = "Hardware hacker’s flying probe automation stack for agent-driven target discovery, microscope mapping, safety-monitored CNC motion, probe review, and controlled pin probing."
+category = "robotics"
+tags = ["ai-agents", "embedded-security", "flying-probe", "gainsec", "hardware-hacking", "hardware-security", "iot-security", "offensive-security"]
+repository = "https://github.com/GainSec/AutoProber"
+website = "https://gainsec.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

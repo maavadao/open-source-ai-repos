@@ -1,0 +1,9 @@
+name = "cs249r_book"
+description = "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai"
+category = "robotics"
+tags = ["artificial-intelligence", "cloud-ml", "computer-systems", "courseware", "deep-learning", "edge-machine-learning", "embedded-ml", "machine-learning"]
+repository = "https://github.com/harvard-edge/cs249r_book"
+website = "https://mlsysbook.ai"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

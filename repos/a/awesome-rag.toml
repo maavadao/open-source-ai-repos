@@ -1,0 +1,7 @@
+name = "Awesome-RAG"
+description = "Awesome list of Retrieval-Augmented Generation (RAG) applications in Generative AI."
+category = "learning"
+tags = ["artificial-intelligence", "generative-ai", "large-language-models", "retrieval-augmented-generation", "rag"]
+repository = "https://github.com/Danielskry/Awesome-RAG"
+license = "CC0-1.0"
+added = 2026-10-20

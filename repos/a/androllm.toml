@@ -1,0 +1,9 @@
+name = "AndroLLM"
+description = "Open-source Android AI using LiteRT-LM with hardware acceleration, cloud providers, memory, and voice."
+category = "local-llms"
+tags = ["ai-assistants", "android", "android-ai", "local-ai", "multimodal", "offline-ai", "on-device-ai", "open-source"]
+repository = "https://github.com/ShadowSafin/AndroLLM"
+website = "https://www.androllm.com"
+license = "NOASSERTION"
+language = "Kotlin"
+added = 2026-10-20

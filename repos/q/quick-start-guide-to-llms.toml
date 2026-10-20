@@ -1,0 +1,9 @@
+name = "quick-start-guide-to-llms"
+description = "The Official Repo for \"Quick Start Guide to Large Language Models\""
+category = "local-llms"
+tags = ["bert", "generative-ai", "gpt", "llm", "machine-learning", "multimodal", "nlp", "ai"]
+repository = "https://github.com/sinanuozdemir/quick-start-guide-to-llms"
+website = "https://www.amazon.com/Quick-Start-Guide-Language-Models-dp-0135346568/dp/0135346568"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

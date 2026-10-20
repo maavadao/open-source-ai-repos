@@ -1,0 +1,9 @@
+name = "torchtrade"
+description = "Modular reinforcement learning framework for algorithmic trading"
+category = "models"
+tags = ["algorithmic-trading", "crypto-trading-system", "llm", "pytorch", "quantitative-finance", "reinforcement-learning", "rl", "torchrl"]
+repository = "https://github.com/TorchTrade/torchtrade"
+website = "https://torchtrade.github.io/torchtrade.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

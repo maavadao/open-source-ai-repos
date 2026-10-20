@@ -1,0 +1,10 @@
+name = "sdnext"
+description = "SD.Next: All-in-one WebUI for AI generative image and video creation, captioning and processing"
+category = "image"
+tags = ["sdnext", "ai-art", "caption", "diffusers", "generative-art", "python", "pytorch", "stable-diffusion"]
+repository = "https://github.com/vladmandic/sdnext"
+website = "https://vladmandic.github.io/sdnext/"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "advanced"
+added = 2026-10-20

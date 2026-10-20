@@ -1,0 +1,8 @@
+name = "Dialog_Corpus"
+description = "用于训练中英文对话系统的语料库 Datasets for Training Chatbot System"
+category = "chat"
+tags = ["dataset", "dialog", "system", "corpus", "chatbot"]
+repository = "https://github.com/candlewill/Dialog_Corpus"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

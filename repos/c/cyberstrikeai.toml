@@ -1,0 +1,8 @@
+name = "CyberStrikeAI"
+description = "The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next."
+category = "mcp-servers"
+tags = ["ai", "ai-agents", "ai-cybersecurity", "ai-penetration-testing", "ai-security-tool", "ctf-tools", "mcp", "ai-hacking"]
+repository = "https://github.com/AIPentest/CyberStrikeAI"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

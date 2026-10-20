@@ -1,0 +1,7 @@
+name = "OpenHarness"
+description = "\"OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!\""
+category = "agents"
+repository = "https://github.com/HKUDS/OpenHarness"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

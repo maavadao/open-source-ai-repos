@@ -1,0 +1,8 @@
+name = "pytorch-generative-adversarial-networks"
+description = "A very simple generative adversarial network (GAN) in PyTorch"
+category = "ml-platforms"
+tags = ["pytorch", "gan", "gans", "machine-learning", "deep-learning"]
+repository = "https://github.com/devnag/pytorch-generative-adversarial-networks"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

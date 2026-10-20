@@ -1,0 +1,9 @@
+name = "librealsense"
+description = "RealSense SDK"
+category = "vision"
+tags = ["librealsense", "developer-kits", "sdk", "library", "camera-api", "computer-vision", "hardware"]
+repository = "https://github.com/realsenseai/librealsense"
+website = "https://realsenseai.com/"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

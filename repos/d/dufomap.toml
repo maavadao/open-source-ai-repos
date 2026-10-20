@@ -1,0 +1,9 @@
+name = "dufomap"
+description = "[RA-L'24] DUFOMap: Efficient Dynamic Awareness Mapping"
+category = "robotics"
+tags = ["dynamic-point-removal", "mapping", "robotics", "autonomous-driving", "ufomap", "real-time", "detection", "moving"]
+repository = "https://github.com/KTH-RPL/dufomap"
+website = "https://kth-rpl.github.io/dufomap"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

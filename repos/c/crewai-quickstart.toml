@@ -1,0 +1,8 @@
+name = "crewAI-quickstart"
+description = "A collection of notebooks, cookbooks, and recipes showcasing fun and effective ways to use CrewAI's agentic workflow implementations and tools."
+category = "learning"
+tags = ["agents", "crewai", "cookbook"]
+repository = "https://github.com/alexfazio/crewAI-quickstart"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

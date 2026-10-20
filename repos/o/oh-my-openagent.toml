@@ -1,0 +1,9 @@
+name = "oh-my-openagent"
+description = "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
+category = "skills-prompts"
+tags = ["opencode", "ai", "anthropic", "claude", "claude-skills", "cursor", "gemini", "ide"]
+repository = "https://github.com/code-yeongyu/oh-my-openagent"
+website = "https://omo.dev"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

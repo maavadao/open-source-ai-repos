@@ -1,0 +1,8 @@
+name = "Knowledge-Base-Self-Hosting-Kit"
+description = "A Docker-powered RAG system that understands the difference between code and prose. Ingest your codebase and documentation, then query them with full privacy and zero configuration."
+category = "local-llms"
+tags = ["ollama", "rag"]
+repository = "https://github.com/2dogsandanerd/Knowledge-Base-Self-Hosting-Kit"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

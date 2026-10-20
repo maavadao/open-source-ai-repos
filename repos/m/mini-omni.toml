@@ -1,0 +1,8 @@
+name = "mini-omni"
+description = "open-source multimodal large language model that can hear, talk while thinking. Featuring real-time end-to-end speech input and streaming audio output conversational capabilities."
+category = "speech"
+repository = "https://github.com/gpt-omni/mini-omni"
+website = "https://arxiv.org/abs/2408.16725"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

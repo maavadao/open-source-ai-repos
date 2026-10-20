@@ -1,0 +1,10 @@
+name = "langchain"
+description = "The agent engineering platform."
+category = "llm-apps"
+tags = ["ai", "anthropic", "gemini", "langchain", "llm", "openai", "python", "agents"]
+repository = "https://github.com/langchain-ai/langchain"
+website = "https://www.langchain.com"
+license = "MIT"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

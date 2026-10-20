@@ -1,0 +1,9 @@
+name = "NeuPAN"
+description = "[TRO 2025] NeuPAN: Direct Point Robot Navigation with End-to-End Model-based Learning."
+category = "robotics"
+tags = ["collision-avoidance", "end-to-end", "model-based-learning", "robot-navigation", "motion-planning", "planning", "planner", "ir-sim"]
+repository = "https://github.com/hanruihua/NeuPAN"
+website = "https://hanruihua.github.io/neupan_project/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

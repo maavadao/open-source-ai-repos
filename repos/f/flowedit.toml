@@ -1,0 +1,9 @@
+name = "FlowEdit"
+description = "Official implementation of the paper: \"FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models\""
+category = "image"
+tags = ["diffusion-models", "editing", "editing-image", "generative-model", "rectified-flow", "text-guided-image-editing", "text-guided-image-manipulation"]
+repository = "https://github.com/fallenshock/FlowEdit"
+website = "https://matankleiner.github.io/flowedit/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

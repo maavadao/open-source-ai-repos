@@ -1,0 +1,7 @@
+name = "claude-skill-homeassistant"
+description = "Claude Code skill to supercharge and manage all Home Assistant workflows"
+category = "coding"
+tags = ["agentic-ai", "ai-agents", "automation", "claude-code", "home-assistant"]
+repository = "https://github.com/komal-SkyNET/claude-skill-homeassistant"
+license = "MIT"
+added = 2026-10-20

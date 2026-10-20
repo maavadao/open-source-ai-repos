@@ -1,0 +1,8 @@
+name = "chatgpt-exporter"
+description = "Export and Share your ChatGPT conversation history"
+category = "chat"
+tags = ["chatgpt", "exporter", "tampermonkey", "userscript", "ai", "markdown"]
+repository = "https://github.com/pionxzh/chatgpt-exporter"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "chatgpt-web"
+description = "A third-party ChatGPT Web UI page built with Express and Vue3, through the official OpenAI completion API. / 用 Express 和 Vue3 搭建的第三方 ChatGPT 前端页面, 基于 OpenAI 官方 completion API."
+category = "chat"
+tags = ["ai", "chatgpt", "chatgpt-web", "cloud-sync", "expressjs", "naive-ui", "openai", "vue"]
+repository = "https://github.com/chatgpt-web-dev/chatgpt-web"
+website = "https://chatgpt-web.dev"
+license = "MIT"
+language = "Vue"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "sql-explorer"
+description = "SQL reporting that Just Works. Fast, simple, and confusion-free. Write and share queries in a delightful SQL editor, with AI assistance."
+category = "data-science"
+tags = ["sql", "analytics", "ai", "django-application", "reporting"]
+repository = "https://github.com/explorerhq/sql-explorer"
+website = "https://www.sqlexplorer.io"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

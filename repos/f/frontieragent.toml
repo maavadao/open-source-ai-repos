@@ -1,0 +1,9 @@
+name = "FrontierAgent"
+description = "FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency."
+category = "agents"
+tags = ["agent-orchestration", "ai-agents", "harness", "agentic-ai", "agentic-framework", "multi-agent", "terminal-agent", "tui"]
+repository = "https://github.com/ApodexAI/FrontierAgent"
+website = "https://www.apodex.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

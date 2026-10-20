@@ -1,0 +1,7 @@
+name = "awesome-diffusion-model-in-rl"
+description = "A curated list of Diffusion Model in RL resources (continually updated)"
+category = "learning"
+tags = ["deep-reinforcement-learning", "diffusion-model", "diffusion-models", "reinfocement-learning"]
+repository = "https://github.com/opendilab/awesome-diffusion-model-in-rl"
+license = "Apache-2.0"
+added = 2026-10-20

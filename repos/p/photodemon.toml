@@ -1,0 +1,9 @@
+name = "PhotoDemon"
+description = "A free portable photo editor focused on pro-grade features, high performance, and maximum usability."
+category = "vision"
+tags = ["photo-editor", "image-processing", "image-filters", "win32", "vb6", "computer-vision", "paint", "image-editor"]
+repository = "https://github.com/tannerhelland/PhotoDemon"
+website = "https://photodemon.org"
+license = "NOASSERTION"
+language = "Visual Basic 6.0"
+added = 2026-10-20

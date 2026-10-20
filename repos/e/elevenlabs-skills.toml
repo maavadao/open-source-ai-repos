@@ -1,0 +1,9 @@
+name = "skills"
+description = "Collections of skills for building with ElevenLabs"
+category = "speech"
+tags = ["ai-agents", "elevenlabs", "music", "sfx", "skills", "stt", "tts"]
+repository = "https://github.com/elevenlabs/skills"
+website = "https://elevenlabs.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

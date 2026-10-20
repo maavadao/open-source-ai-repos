@@ -1,0 +1,8 @@
+name = "auto-sd-paint-ext"
+description = "Extension for AUTOMATIC1111 to add custom backend API for Krita Plugin & more"
+category = "image"
+tags = ["a1111-stable-diffusion-webui", "krita-plugin", "stable-diffusion"]
+repository = "https://github.com/Interpause/auto-sd-paint-ext"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

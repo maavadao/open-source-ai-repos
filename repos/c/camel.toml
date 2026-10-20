@@ -1,0 +1,10 @@
+name = "camel"
+description = "CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org"
+category = "agents"
+tags = ["ai-societies", "artificial-intelligence", "deep-learning", "large-language-models", "multi-agent-systems", "natural-language-processing", "communicative-ai", "cooperative-ai"]
+repository = "https://github.com/camel-ai/camel"
+website = "https://www.camel-ai.org"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "advanced"
+added = 2026-10-20

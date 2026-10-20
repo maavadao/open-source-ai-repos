@@ -1,0 +1,9 @@
+name = "agentsmith"
+description = "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script."
+category = "coding"
+tags = ["agentic-ai", "agentic-coding", "ai-agents", "ai-tools", "automation", "claude", "claude-code", "codex"]
+repository = "https://github.com/PromptPartner/agentsmith"
+website = "https://agentsmith.diy"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

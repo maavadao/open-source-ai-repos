@@ -1,0 +1,8 @@
+name = "aspeak"
+description = "A simple text-to-speech client for Azure TTS API."
+category = "speech"
+tags = ["azure-cognitive-services", "cli", "python", "speech-synthesis", "text-to-speech", "tts", "tts-engine", "aspeak"]
+repository = "https://github.com/kxxt/aspeak"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

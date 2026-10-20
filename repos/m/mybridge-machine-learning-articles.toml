@@ -1,0 +1,7 @@
+name = "machine-learning-articles"
+description = "Monthly Series - Top 10 Machine Learning Articles"
+category = "ml-platforms"
+tags = ["machine-learning", "machine-learning-algorithms", "nlp", "neural-networks", "deep-learning", "reinforcement-learning"]
+repository = "https://github.com/Mybridge/machine-learning-articles"
+license = "NOASSERTION"
+added = 2026-10-20

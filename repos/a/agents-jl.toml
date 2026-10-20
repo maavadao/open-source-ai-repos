@@ -1,0 +1,9 @@
+name = "Agents.jl"
+description = "Agent-based modeling framework in Julia"
+category = "agents"
+tags = ["simulation-framework", "agent-based-modeling", "agent-based-simulation", "agent-based-framework", "abm", "heterogeneous-agent-model", "individual-based-modelling", "cellular-automata"]
+repository = "https://github.com/JuliaDynamics/Agents.jl"
+website = "https://juliadynamics.github.io/Agents.jl/stable/"
+license = "MIT"
+language = "Julia"
+added = 2026-10-20

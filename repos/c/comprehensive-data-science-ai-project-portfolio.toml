@@ -1,0 +1,8 @@
+name = "Comprehensive-Data-Science-AI-Project-Portfolio"
+description = "A curated collection of AI, data engineering, and DevOps projects featuring real-world applications, advanced techniques, and tutorials—ideal for learners and practitioners exploring data science and machine learning."
+category = "learning"
+tags = ["ai-project", "cloud-computing", "data-engineering", "data-science", "deep-learning", "devops", "etl", "exploratory-data-analysis-eda"]
+repository = "https://github.com/MelihGulum/Comprehensive-Data-Science-AI-Project-Portfolio"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

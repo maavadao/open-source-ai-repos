@@ -1,0 +1,8 @@
+name = "freecad-ai"
+description = "AI-powered assistant workbench for FreeCAD — generate 3D models from natural language"
+category = "mcp-servers"
+tags = ["addon", "ai", "anthropic", "cad", "freecad", "freecad-addon", "freecad-workbench", "llm"]
+repository = "https://github.com/ghbalf/freecad-ai"
+license = "LGPL-2.1"
+language = "Python"
+added = 2026-10-20

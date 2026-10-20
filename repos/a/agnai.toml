@@ -1,0 +1,9 @@
+name = "agnai"
+description = "AI Agnostic (Multi-user and Multi-bot) Chat with Fictional Characters. Designed with scale in mind."
+category = "chat"
+tags = ["ai", "chat", "chatbot", "nodejs", "typescript"]
+repository = "https://github.com/agnaistic/agnai"
+website = "https://agnai.chat"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "countly-server"
+description = "Countly is a privacy-first, AI-powered analytics and engagement platform for understanding and optimizing customer journeys across digital applications, from desktop and mobile to IoT and connected environments."
+category = "vision"
+tags = ["web-analytics", "dashboard", "mobile-analytics", "analytics", "push-notifications", "insights", "tracking", "crash-analytics"]
+repository = "https://github.com/Countly/countly-server"
+website = "https://countly.com"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

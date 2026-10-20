@@ -1,0 +1,8 @@
+name = "human-motion-prediction"
+description = "Simple baselines and RNNs for predicting human motion in tensorflow. Presented at CVPR 17."
+category = "vision"
+tags = ["tensorflow", "computer-vision", "cvpr-2017"]
+repository = "https://github.com/una-dinosauria/human-motion-prediction"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

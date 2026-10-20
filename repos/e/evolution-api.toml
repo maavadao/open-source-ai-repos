@@ -1,0 +1,9 @@
+name = "evolution-api"
+description = "Evolution API is an open-source WhatsApp integration API"
+category = "no-code"
+tags = ["chatbot", "chatwoot", "cloud-api", "dify", "evolution", "n8n", "openai", "pusher"]
+repository = "https://github.com/evolution-foundation/evolution-api"
+website = "https://evolutionfoundation.com.br"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

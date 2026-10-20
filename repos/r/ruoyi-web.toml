@@ -1,0 +1,9 @@
+name = "ruoyi-web"
+description = "RuoYi-AI user frontend for AI conversations, agent interactions, and knowledge-base Q&A."
+category = "llm-apps"
+tags = ["ai", "rag", "web"]
+repository = "https://github.com/ageerle/ruoyi-web"
+website = "https://web.ruoyiai.chat"
+license = "MIT"
+language = "Vue"
+added = 2026-10-20

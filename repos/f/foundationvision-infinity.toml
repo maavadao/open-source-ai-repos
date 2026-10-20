@@ -1,0 +1,8 @@
+name = "Infinity"
+description = "[CVPR 2025 Oral]Infinity ∞ : Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis"
+category = "image"
+tags = ["auto-regressive-model", "autoregressive-models", "generative-model", "gpt", "gpt-2", "image-generation", "text-to-image", "text-to-image-generation"]
+repository = "https://github.com/FoundationVision/Infinity"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

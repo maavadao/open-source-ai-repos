@@ -1,0 +1,8 @@
+name = "aiac"
+description = "Artificial Intelligence Infrastructure-as-Code Generator."
+category = "local-llms"
+tags = ["ai", "chatgpt", "iac", "openai", "pulumi", "terraform", "amazon-bedrock", "ollama"]
+repository = "https://github.com/gofireflyio/aiac"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "mcp-apple-notes"
+description = "Talk with your notes in Claude. RAG over your Apple Notes using Model Context Protocol."
+category = "mcp-servers"
+tags = ["ai", "claude", "llm", "mcp", "rag", "model-context"]
+repository = "https://github.com/RafalWilinski/mcp-apple-notes"
+website = "https://rwilinski.ai"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

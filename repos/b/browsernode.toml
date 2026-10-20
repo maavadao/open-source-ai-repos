@@ -1,0 +1,9 @@
+name = "browsernode"
+description = "Make websites accessible for AI agents. Automate tasks online with ease."
+category = "browser-automation"
+tags = ["ai-agents", "ai-tools", "browser-automation", "javascript", "llm", "playwright", "typescript", "browsernode"]
+repository = "https://github.com/lennybase/browsernode"
+website = "https://browsernode.com/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

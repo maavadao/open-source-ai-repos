@@ -1,0 +1,9 @@
+name = "agent-deck"
+description = "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more."
+category = "mcp-servers"
+tags = ["claude-code", "ai-agents", "ai-coding-assistant", "aider", "bubble-tea", "cli", "codex", "developer-tools"]
+repository = "https://github.com/asheshgoplani/agent-deck"
+website = "https://discord.gg/e4xSs6NBN8"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

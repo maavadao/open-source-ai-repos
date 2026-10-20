@@ -1,0 +1,9 @@
+name = "2txt"
+description = "Image to text, fast."
+category = "other"
+tags = ["artificial-intelligence", "nextjs", "vercel", "openai"]
+repository = "https://github.com/ai-ng/2txt"
+website = "https://2txt.vercel.app"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

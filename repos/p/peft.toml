@@ -1,0 +1,10 @@
+name = "peft"
+description = "PEFT: State-of-the-art Parameter-Efficient Fine-Tuning."
+category = "ml-platforms"
+tags = ["adapter", "diffusion", "llm", "parameter-efficient-learning", "python", "pytorch", "transformers", "lora"]
+repository = "https://github.com/huggingface/peft"
+website = "https://huggingface.co/docs/peft"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

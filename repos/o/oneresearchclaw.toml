@@ -1,0 +1,8 @@
+name = "OneResearchClaw"
+description = "Any research. One Claw. From any materials to research with fully autonomous & skill-driven researcher."
+category = "agents"
+tags = ["agentic-systems", "ai-agents", "ai-for-science", "autonomous-research", "cursor-ai", "llm-agents", "multi-agent", "research-automation"]
+repository = "https://github.com/gaotiexinqu/OneResearchClaw"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "the-og"
+description = "A pure PHP OpenGraph Image Generator"
+category = "image"
+tags = ["generator", "image-generation", "opengraph-images", "php"]
+repository = "https://github.com/simonhamp/the-og"
+license = "MIT"
+language = "PHP"
+added = 2026-10-20

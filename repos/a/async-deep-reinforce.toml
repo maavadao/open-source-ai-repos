@@ -1,0 +1,8 @@
+name = "async_deep_reinforce"
+description = "Asynchronous Methods for Deep Reinforcement Learning"
+category = "ml-platforms"
+tags = ["tensorflow", "reinforcement-learning", "a3c", "deep-learning"]
+repository = "https://github.com/miyosuda/async_deep_reinforce"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

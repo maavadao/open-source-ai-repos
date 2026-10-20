@@ -1,0 +1,9 @@
+name = "truss"
+description = "The simplest way to serve AI/ML models in production"
+category = "speech"
+tags = ["machine-learning", "artificial-intelligence", "easy-to-use", "inference-api", "inference-server", "model-serving", "open-source", "packaging"]
+repository = "https://github.com/basetenlabs/truss"
+website = "https://truss.baseten.co"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "mercury-agent"
+description = "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI, Telegram or More."
+category = "chat"
+tags = ["ai-agent", "ai-assistant", "llm"]
+repository = "https://github.com/cosmicstack-labs/mercury-agent"
+website = "https://mercuryagent.sh/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "judgeval"
+description = "The Continuous-Improvement Stack for Agents. Our environment data and evals power agent improvement and monitoring."
+category = "agents"
+tags = ["langchain", "langgraph", "llama-index", "llm", "llm-evaluation", "llm-observability", "open-source", "openai"]
+repository = "https://github.com/JudgmentLabs/judgeval"
+website = "https://judgmentlabs.ai/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

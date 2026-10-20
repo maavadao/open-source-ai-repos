@@ -1,0 +1,8 @@
+name = "story-flicks"
+description = "使用AI大模型，一键生成高清故事短视频。Generate high-definition story short videos with one click using AI large models."
+category = "chat"
+tags = ["chatgpt", "moviepy", "openai", "python", "shortvideo", "story-generation", "ai-video", "ai-video-generator"]
+repository = "https://github.com/alecm20/story-flicks"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

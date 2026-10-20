@@ -1,0 +1,8 @@
+name = "kavach"
+description = "Tactical AI Workspace Monitor & EDR"
+category = "agents"
+tags = ["rust", "agents", "ai", "ai-agent", "ai-agents", "cybersecurity", "cybersecurity-tools", "firewall"]
+repository = "https://github.com/LucidAkshay/kavach"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

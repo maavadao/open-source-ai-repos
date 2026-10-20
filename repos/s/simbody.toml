@@ -1,0 +1,9 @@
+name = "simbody"
+description = "High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton."
+category = "robotics"
+tags = ["multibody-dynamics", "physics-engine", "physics-simulation", "robotics", "biomechanics"]
+repository = "https://github.com/simbody/simbody"
+website = "https://simtk.org/home/simbody"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

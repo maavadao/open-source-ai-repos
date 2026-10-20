@@ -1,0 +1,9 @@
+name = "x"
+description = "Craft AI-driven interface effortlessly"
+category = "coding"
+tags = ["ai", "antd", "chat-ui", "copilot", "react"]
+repository = "https://github.com/ant-design/x"
+website = "https://x.ant.design"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

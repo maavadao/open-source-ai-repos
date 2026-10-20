@@ -1,0 +1,8 @@
+name = "ComfyUI_UltimateSDUpscale"
+description = "ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A."
+category = "image"
+tags = ["comfyui", "stable-diffusion"]
+repository = "https://github.com/ssitu/ComfyUI_UltimateSDUpscale"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

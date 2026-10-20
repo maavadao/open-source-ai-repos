@@ -1,0 +1,9 @@
+name = "avalanche"
+description = "Avalanche: an End-to-End Library for Continual Learning based on PyTorch."
+category = "ml-platforms"
+tags = ["continual-learning", "deep-learning", "pytorch", "lifelong-learning", "framework", "benchmarks", "strategies", "metrics"]
+repository = "https://github.com/ContinualAI/avalanche"
+website = "http://avalanche.continualai.org"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

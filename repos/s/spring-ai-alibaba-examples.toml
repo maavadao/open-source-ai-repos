@@ -1,0 +1,9 @@
+name = "examples"
+description = "Examples demonstrating usage of Spring AI & Spring AI Alibaba"
+category = "other"
+tags = ["ai", "exampls", "java", "spring-ai-alibaba"]
+repository = "https://github.com/spring-ai-alibaba/examples"
+website = "https://java2ai.com"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

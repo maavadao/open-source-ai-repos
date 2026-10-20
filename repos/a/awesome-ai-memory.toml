@@ -1,0 +1,8 @@
+name = "Awesome-AI-Memory"
+description = "Awesome AI Memory | LLM Memory | A curated knowledge base on AI memory for LLMs and agents, covering long-term memory, reasoning, retrieval, and memory-native system design. Awesome-AI-Memory 是一个 集中式、持续更新的 AI 记忆知识库，系统性整理了与 大模型记忆（LLM Memory）与智能体记忆（Agent Memory）…"
+category = "learning"
+tags = ["agent-memory", "ai-memory", "continual-learning", "llm-memory", "long-term-memory", "memory-systems", "rag", "memory-augmented-models"]
+repository = "https://github.com/IAAR-Shanghai/Awesome-AI-Memory"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

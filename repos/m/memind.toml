@@ -1,0 +1,9 @@
+name = "memind"
+description = "Self-evolving cognitive memory and context engine for AI agents in Java. Empowering 24/7 proactive agents like OpenClaw with understanding and SOTA performance."
+category = "agents"
+tags = ["ai", "ai-agent", "ai-agents", "java", "spring-ai", "memory", "openclaw", "ai-memory"]
+repository = "https://github.com/openmemind/memind"
+website = "https://docs.openmemind.com"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

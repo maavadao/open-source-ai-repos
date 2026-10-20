@@ -1,0 +1,9 @@
+name = "ODS"
+description = "ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac, or Linux box into a private AI server."
+category = "no-code"
+tags = ["ai-agents", "llm", "self-hosted", "amd", "comfyui", "docker", "llama-cpp", "local-ai"]
+repository = "https://github.com/Osmantic/ODS"
+website = "https://discord.gg/qGVygYada3"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

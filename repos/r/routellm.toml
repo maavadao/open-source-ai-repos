@@ -1,0 +1,7 @@
+name = "RouteLLM"
+description = "A framework for serving and evaluating LLM routers - save LLM costs without compromising quality"
+category = "local-llms"
+repository = "https://github.com/lm-sys/RouteLLM"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

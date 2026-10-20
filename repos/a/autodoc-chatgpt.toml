@@ -1,0 +1,8 @@
+name = "AutoDoc-ChatGPT"
+description = "AutoDoc-ChatGPT is a Python script that leverages the power of ChatGPT model to automatically generate documentation for any programming language. With AutoDoc-ChatGPT, you can easily generate comprehensive documentation for your codebase."
+category = "no-code"
+tags = ["ai", "auto-comments", "auto-documentation", "automation", "chatgpt", "chatgpt-api", "openai", "automated-documentation"]
+repository = "https://github.com/awekrx/AutoDoc-ChatGPT"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

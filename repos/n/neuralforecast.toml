@@ -1,0 +1,9 @@
+name = "neuralforecast"
+description = "Scalable and user friendly neural forecasting algorithms."
+category = "models"
+tags = ["deep-learning", "forecasting", "esrnn", "nbeats", "nbeatsx", "time-series", "pytorch", "transformer"]
+repository = "https://github.com/Nixtla/neuralforecast"
+website = "https://nixtlaverse.nixtla.io/neuralforecast"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

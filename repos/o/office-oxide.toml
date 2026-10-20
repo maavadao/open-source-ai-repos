@@ -1,0 +1,9 @@
+name = "office_oxide"
+description = "The fastest Office document library for Python, Rust, Go, JS/TS, C# and WASM. DOCX, XLSX, PPTX, DOC, XLS, PPT. Up to 100× faster than python-docx/openpyxl/python-pptx. 100% pass rate on valid Office files. MIT/Apache-2.0."
+category = "llm-apps"
+tags = ["document-processing", "docx", "dotnet", "go", "markdown", "office", "pptx", "python"]
+repository = "https://github.com/yfedoseev/office_oxide"
+website = "https://office.oxide.fyi"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

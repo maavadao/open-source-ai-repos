@@ -1,0 +1,10 @@
+name = "pytorch"
+description = "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+category = "ml-platforms"
+tags = ["neural-network", "autograd", "gpu", "numpy", "deep-learning", "tensor", "python", "machine-learning"]
+repository = "https://github.com/pytorch/pytorch"
+website = "https://pytorch.org"
+license = "NOASSERTION"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

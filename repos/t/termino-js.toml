@@ -1,0 +1,8 @@
+name = "Termino.js"
+description = "Create a web based terminal on any website - great for games, animations and real world apps!"
+category = "chat"
+tags = ["cli", "command-line", "ssh", "browser", "client-side", "command-line-app", "console", "console-application"]
+repository = "https://github.com/MarketingPipeline/Termino.js"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

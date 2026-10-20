@@ -1,0 +1,8 @@
+name = "Alpaca-CoT"
+description = "We unified the interfaces of instruction-tuning data (e.g., CoT data), multiple LLMs and parameter-efficient methods (e.g., lora, p-tuning) together for easy use. We welcome open-source enthusiasts to initiate any meaningful PR on this repo and integrate as many LLM related…"
+category = "image"
+tags = ["chatglm", "llama", "llm", "lora", "chatgpt", "cot", "instruction-tuning", "alpaca"]
+repository = "https://github.com/PhoebusSi/Alpaca-CoT"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

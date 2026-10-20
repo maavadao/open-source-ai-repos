@@ -1,0 +1,8 @@
+name = "contextualSpellCheck"
+description = "Contextual word checker for better suggestions (not actively maintained)"
+category = "chat"
+tags = ["spacy", "spacy-extension", "nlp", "spellcheck", "preprocessing", "bert", "help-wanted", "chatbot"]
+repository = "https://github.com/R1j1t/contextualSpellCheck"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

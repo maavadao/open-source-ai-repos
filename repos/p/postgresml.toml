@@ -1,0 +1,9 @@
+name = "postgresml"
+description = "Postgres with GPUs for ML/AI apps."
+category = "vector-databases"
+tags = ["ml", "machine-learning", "ai", "ann", "artificial-intelligence", "classification", "embeddings", "knn"]
+repository = "https://github.com/postgresml/postgresml"
+website = "https://postgresml.org"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

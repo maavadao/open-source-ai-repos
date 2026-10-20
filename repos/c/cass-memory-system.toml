@@ -1,0 +1,8 @@
+name = "cass_memory_system"
+description = "Procedural memory for AI coding agents: transforms scattered session history into persistent, cross-agent memory so every agent learns from every other"
+category = "agents"
+tags = ["ai-agents", "bun", "developer-tools", "memory", "typescript"]
+repository = "https://github.com/Dicklesworthstone/cass_memory_system"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

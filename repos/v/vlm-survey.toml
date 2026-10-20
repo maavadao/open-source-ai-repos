@@ -1,0 +1,7 @@
+name = "VLM_survey"
+description = "Collection of AWESOME vision-language models for vision tasks"
+category = "vision"
+tags = ["computer-vision", "deep-learning", "knowledge-distillation", "survey", "transfer-learning", "vision-language-model", "clip", "multi-modal-model"]
+repository = "https://github.com/jingyi0000/VLM_survey"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,10 @@
+name = "llama-cookbook"
+description = "Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services"
+category = "ml-platforms"
+tags = ["ai", "finetuning", "langchain", "llama", "llama2", "llm", "machine-learning", "python"]
+repository = "https://github.com/meta-llama/llama-cookbook"
+website = "https://www.llama.com"
+license = "MIT"
+language = "Jupyter Notebook"
+skill_level = "intermediate"
+added = 2026-10-20

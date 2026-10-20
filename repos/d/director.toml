@@ -1,0 +1,9 @@
+name = "Director"
+description = "AI video agents framework for next-gen video interactions and workflows."
+category = "video"
+tags = ["agent", "framework", "llm", "openai", "rag", "search", "video-editing", "video-processing"]
+repository = "https://github.com/video-db/Director"
+website = "https://chat.videodb.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

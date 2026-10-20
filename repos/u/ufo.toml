@@ -1,0 +1,9 @@
+name = "UFO"
+description = "UFO³: Weaving the Digital Agent Galaxy"
+category = "coding"
+tags = ["agent", "automation", "copilot", "gui", "llm", "windows"]
+repository = "https://github.com/microsoft/UFO"
+website = "https://microsoft.github.io/UFO/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

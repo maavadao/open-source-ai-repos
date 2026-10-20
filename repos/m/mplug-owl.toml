@@ -1,0 +1,9 @@
+name = "mPLUG-Owl"
+description = "mPLUG-Owl: The Powerful Multi-modal Large Language Model Family"
+category = "video"
+tags = ["chatbot", "chatgpt", "large-language-models", "llama", "multimodal", "damo", "mplug", "instruction-tuning"]
+repository = "https://github.com/X-PLUG/mPLUG-Owl"
+website = "https://www.modelscope.cn/studios/damo/mPLUG-Owl"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

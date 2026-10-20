@@ -1,0 +1,9 @@
+name = "ScienceWorld"
+description = "ScienceWorld is a text-based virtual environment centered around accomplishing tasks from the standardized elementary science curriculum."
+category = "models"
+tags = ["text-based-game-framework", "text-based-game", "reinforcement-learning", "language-model", "machine-learning"]
+repository = "https://github.com/allenai/ScienceWorld"
+website = "https://sciworld.apps.allenai.org/"
+license = "Apache-2.0"
+language = "Scala"
+added = 2026-10-20

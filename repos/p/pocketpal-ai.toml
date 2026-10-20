@@ -1,0 +1,7 @@
+name = "pocketpal-ai"
+description = "An app that brings language models directly to your phone."
+category = "models"
+repository = "https://github.com/a-ghorbani/pocketpal-ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

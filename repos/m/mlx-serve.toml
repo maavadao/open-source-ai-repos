@@ -1,0 +1,9 @@
+name = "mlx-serve"
+description = "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation."
+category = "coding"
+tags = ["agent", "anthropic-api", "apple-silicon", "claude-code", "inference", "llm", "local-llm", "macos"]
+repository = "https://github.com/ddalcu/mlx-serve"
+website = "https://mlxserve.com/"
+license = "NOASSERTION"
+language = "Zig"
+added = 2026-10-20

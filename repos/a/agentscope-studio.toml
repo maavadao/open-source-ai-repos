@@ -1,0 +1,9 @@
+name = "agentscope-studio"
+description = "A development-oriented visualization toolkit"
+category = "chat"
+tags = ["agent", "agentscope", "chatbot", "llm", "multi-agent", "opentelemetry", "tracing"]
+repository = "https://github.com/agentscope-ai/agentscope-studio"
+website = "https://agentscope-ai.github.io/agentscope-studio/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

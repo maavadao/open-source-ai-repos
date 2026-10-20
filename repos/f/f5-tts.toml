@@ -1,0 +1,9 @@
+name = "F5-TTS"
+description = "Official code for \"F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching\""
+category = "speech"
+repository = "https://github.com/SWivid/F5-TTS"
+website = "https://arxiv.org/abs/2410.06885"
+license = "MIT"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

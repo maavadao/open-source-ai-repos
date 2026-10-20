@@ -1,0 +1,7 @@
+name = "Ai-Learn"
+description = "人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理，PyTorch tensorflow machine-learning,deep-learning data-analysis data-mining mathematics data-science artificial-intelligence python tensorflow tensorflow2 caffe keras pytorch algorithm numpy…"
+category = "ml-platforms"
+tags = ["machine-learning", "deep-learning", "data-analysis", "data-mining", "mathematics", "data-science", "artificial-intelligence", "python"]
+repository = "https://github.com/tangyudi/Ai-Learn"
+license = "NOASSERTION"
+added = 2026-10-20

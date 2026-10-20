@@ -1,0 +1,8 @@
+name = "julius"
+description = "Open-Source Large Vocabulary Continuous Speech Recognition Engine"
+category = "speech"
+tags = ["speech", "recognition", "audio-processing", "speech-recognition"]
+repository = "https://github.com/julius-speech/julius"
+license = "BSD-3-Clause"
+language = "C"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "tldraw"
+description = "Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK."
+category = "agents"
+tags = ["drawing", "sketch", "whiteboard", "canvas", "diagram", "infinite", "react", "collaboration"]
+repository = "https://github.com/tldraw/tldraw"
+website = "https://tldraw.dev"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

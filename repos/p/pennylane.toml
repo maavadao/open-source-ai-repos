@@ -1,0 +1,9 @@
+name = "pennylane"
+description = "PennyLane is an open-source quantum software platform for quantum computing, quantum machine learning, and quantum chemistry. Create meaningful quantum algorithms, from inspiration to implementation."
+category = "ml-platforms"
+tags = ["quantum", "machine-learning", "deep-learning", "neural-network", "optimization", "quantum-computing", "quantum-machine-learning", "automatic-differentiation"]
+repository = "https://github.com/PennyLaneAI/pennylane"
+website = "https://pennylane.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

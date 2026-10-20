@@ -1,0 +1,8 @@
+name = "llmix"
+description = "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA presets, and add cache, retries, circuit breakers, key rotation, singleflight, and Python/TypeScript/Rust parity."
+category = "agents"
+tags = ["ai-agents", "ai-sdk", "ai-tools", "anthropic", "circuit-breaker", "gemini", "key-rotation", "litellm"]
+repository = "https://github.com/sno-ai/llmix"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

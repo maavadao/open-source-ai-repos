@@ -1,0 +1,8 @@
+name = "OpenWorldLib"
+description = "Unified Codebase for Advanced World Models."
+category = "video"
+tags = ["3d-scene-generation", "diffusion-models", "gaussian-splatting", "hunyuan-world", "lingbot-world", "simulator", "vggt", "video-editing"]
+repository = "https://github.com/OpenDCAI/OpenWorldLib"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

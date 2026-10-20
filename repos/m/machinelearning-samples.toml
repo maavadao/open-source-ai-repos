@@ -1,0 +1,9 @@
+name = "machinelearning-samples"
+description = "Samples for ML.NET, an open source and cross-platform machine learning framework for .NET."
+category = "data-science"
+tags = ["machine-learning", "algorithms", "dotnet", "csharp", "ml"]
+repository = "https://github.com/dotnet/machinelearning-samples"
+website = "https://dot.net/ml"
+license = "MIT"
+language = "PowerShell"
+added = 2026-10-20

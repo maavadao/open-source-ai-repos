@@ -1,0 +1,9 @@
+name = "mmengine"
+description = "OpenMMLab Foundational Library for Training Deep Learning Models"
+category = "vision"
+tags = ["computer-vision", "deep-learning", "pytorch", "ai", "machine-learning", "python"]
+repository = "https://github.com/open-mmlab/mmengine"
+website = "https://mmengine.readthedocs.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "asm"
+description = "The universal skill manager for AI coding agents."
+category = "agents"
+tags = ["agents", "ai", "aiagents", "coding", "skills"]
+repository = "https://github.com/luongnv89/asm"
+website = "https://luongnv.com/asm"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

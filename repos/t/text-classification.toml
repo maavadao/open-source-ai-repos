@@ -1,0 +1,8 @@
+name = "Text_Classification"
+description = "Text Classification Algorithms: A Survey"
+category = "ml-platforms"
+tags = ["text-classification", "nlp-machine-learning", "document-classification", "text-processing", "dimensionality-reduction", "rocchio-algorithm", "boosting-algorithms", "logistic-regression"]
+repository = "https://github.com/kk7nc/Text_Classification"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

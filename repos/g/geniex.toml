@@ -1,0 +1,9 @@
+name = "GenieX"
+description = "Run frontier LLMs and VLMs locally on Qualcomm devices across NPU, GPU, and CPU with a few lines of code"
+category = "local-llms"
+tags = ["llm", "on-device-ai", "sdk", "vlm", "go", "gpt-oss", "llama3", "qwen3"]
+repository = "https://github.com/qualcomm/GenieX"
+website = "https://geniex.aihub.qualcomm.com/en/get-started/what-is-geniex"
+license = "BSD-3-Clause"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "labelme"
+description = "Image annotation with Python. Supports polygon, rectangle, circle, line, point, and AI-assisted annotation."
+category = "vision"
+tags = ["image-annotation", "python", "computer-vision", "annotations", "deep-learning", "semantic-segmentation", "instance-segmentation", "video-annotation"]
+repository = "https://github.com/wkentaro/labelme"
+website = "https://labelme.io"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

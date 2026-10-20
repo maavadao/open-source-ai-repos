@@ -1,0 +1,9 @@
+name = "MAGI-1"
+description = "MAGI-1: Autoregressive Video Generation at Scale"
+category = "video"
+tags = ["autoregressive", "diffusion-models", "video-generation"]
+repository = "https://github.com/SandAI-org/MAGI-1"
+website = "https://sand.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

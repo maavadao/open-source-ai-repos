@@ -1,0 +1,7 @@
+name = "awesome-gpt-store"
+description = "A curated list of awesome GPTs in the GPT Store"
+category = "learning"
+tags = ["ai", "awesome", "awesome-list", "chatgpt", "gpt", "gpt-4", "gpts", "openai"]
+repository = "https://github.com/devisasari/awesome-gpt-store"
+license = "Apache-2.0"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "stable-diffusion-pytorch"
+description = "Yet another PyTorch implementation of Stable Diffusion (probably easy to read)"
+category = "image"
+tags = ["diffusion", "image-generation", "pytorch", "stable-diffusion"]
+repository = "https://github.com/kjsman/stable-diffusion-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

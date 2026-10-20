@@ -1,0 +1,9 @@
+name = "pedalboard"
+description = "A Python library for audio."
+category = "speech"
+tags = ["vst3", "vst3-host", "python", "juce", "audio-unit", "pybind11", "audio-processing", "audio-production"]
+repository = "https://github.com/spotify/pedalboard"
+website = "https://spotify.github.io/pedalboard"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-10-20

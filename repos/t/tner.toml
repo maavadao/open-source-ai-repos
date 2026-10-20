@@ -1,0 +1,9 @@
+name = "tner"
+description = "Language model fine-tuning on NER with an easy interface and cross-domain evaluation. \"T-NER: An All-Round Python Library for Transformer-based Named Entity Recognition, EACL 2021\""
+category = "models"
+tags = ["nlp", "transformers", "named-entity-recognition", "language-model"]
+repository = "https://github.com/asahi417/tner"
+website = "https://aclanthology.org/2021.eacl-demos.7/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

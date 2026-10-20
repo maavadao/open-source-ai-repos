@@ -1,0 +1,9 @@
+name = "self-attention-cv"
+description = "Implementation of various self-attention mechanisms focused on computer vision. Ongoing repository."
+category = "models"
+tags = ["deep-learning", "transformer", "transformers", "self-attention", "attention-mechanism", "attention", "machine-learning", "machine-learning-algorithms"]
+repository = "https://github.com/The-AI-Summer/self-attention-cv"
+website = "https://theaisummer.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

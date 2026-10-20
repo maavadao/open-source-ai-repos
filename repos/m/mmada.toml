@@ -1,0 +1,9 @@
+name = "MMaDA"
+description = "MMaDA - Open-Sourced Multimodal Large Diffusion Language Models (dLLMs with block diffusion, mixed-CoT, unified RL)"
+category = "image"
+tags = ["diffusion-models", "llm-reasoning"]
+repository = "https://github.com/Gen-Verse/MMaDA"
+website = "https://openreview.net/forum?id=wczmXLuLGd"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

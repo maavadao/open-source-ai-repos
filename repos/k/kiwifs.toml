@@ -1,0 +1,9 @@
+name = "kiwifs"
+description = "Markdown filesystem for agents and teams."
+category = "agents"
+tags = ["ai-agents", "filesystem", "golang", "knowledge-base", "knowledge-graph", "llm-wiki", "markdown", "obsidian"]
+repository = "https://github.com/kiwifs/kiwifs"
+website = "https://docs.kiwifs.com"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

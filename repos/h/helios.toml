@@ -1,0 +1,9 @@
+name = "Helios"
+description = "Helios: Real Real-Time Long Video Generation Model"
+category = "video"
+tags = ["acceleration", "diffusion", "diffusion-models", "image-to-video", "long-video-generation", "real-time", "text-to-video", "video-generation"]
+repository = "https://github.com/PKU-YuanGroup/Helios"
+website = "https://pku-yuangroup.github.io/Helios-Page"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

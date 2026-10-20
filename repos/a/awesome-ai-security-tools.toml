@@ -1,0 +1,8 @@
+name = "awesome-ai-security-tools"
+description = "A curated list of public-source, research, and commercial tools for AI security and AI-assisted cybersecurity — autotriage, agent security, AI/ML supply chain, pentest agents, AI SAST, LLM-driven fuzzing, threat intelligence, SOC/SIEM triage, reverse engineering, LLM…"
+category = "learning"
+tags = ["agentic-ai", "agents", "awesome", "awesome-list", "awesome-lists", "llm", "security"]
+repository = "https://github.com/scadastrangelove/awesome-ai-security-tools"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

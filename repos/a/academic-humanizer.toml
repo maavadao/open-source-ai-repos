@@ -1,0 +1,8 @@
+name = "academic-humanizer"
+description = "Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind."
+category = "models"
+tags = ["academic-writing", "grant-writing", "llm", "nih", "nsf", "research", "scientific-writing", "writing-assistant"]
+repository = "https://github.com/AIScientists-Dev/academic-humanizer"
+website = "https://morphmind.ai"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "rag-api"
+description = "ID-based RAG FastAPI: Integration with Langchain and PostgreSQL/pgvector"
+category = "vector-databases"
+tags = ["api", "api-rest", "embeddings", "fastapi", "langchain", "pgvector", "postgresql", "psql"]
+repository = "https://github.com/LibreChat-AI/rag-api"
+website = "https://librechat.ai/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

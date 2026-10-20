@@ -1,0 +1,8 @@
+name = "surya"
+description = "OCR, layout analysis, reading order, table recognition in 90+ languages"
+category = "documents"
+repository = "https://github.com/datalab-to/surya"
+website = "https://www.datalab.to"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

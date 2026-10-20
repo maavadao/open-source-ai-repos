@@ -1,0 +1,8 @@
+name = "Viper"
+description = "Adversary simulation and Red teaming platform with AI"
+category = "mcp-servers"
+tags = ["metasploit-framework", "post-exploitation", "redteam", "cobalt-strike", "viper", "red-team-tools", "agent", "ai"]
+repository = "https://github.com/FunnyWolf/Viper"
+website = "https://www.viperrtp.com"
+license = "NOASSERTION"
+added = 2026-10-20

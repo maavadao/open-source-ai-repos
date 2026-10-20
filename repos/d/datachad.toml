@@ -1,0 +1,9 @@
+name = "DataChad"
+description = "Ask questions about any data source by leveraging langchains"
+category = "chat"
+tags = ["activeloop", "embeddings", "langchain", "openai", "python", "streamlit", "chatbot", "chatgpt"]
+repository = "https://github.com/gustavz/DataChad"
+website = "https://datachad.streamlit.app/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

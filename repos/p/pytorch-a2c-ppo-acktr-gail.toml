@@ -1,0 +1,8 @@
+name = "pytorch-a2c-ppo-acktr-gail"
+description = "PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO), Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR) and Generative Adversarial Imitation Learning (GAIL)."
+category = "ml-platforms"
+tags = ["pytorch", "reinforcement-learning", "deep-learning", "deep-reinforcement-learning", "actor-critic", "advantage-actor-critic", "a2c", "ppo"]
+repository = "https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

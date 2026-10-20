@@ -1,0 +1,9 @@
+name = "CTranslate2"
+description = "Fast inference engine for Transformer models"
+category = "local-llms"
+tags = ["neural-machine-translation", "cpp", "mkl", "quantization", "cuda", "thrust", "opennmt", "deep-neural-networks"]
+repository = "https://github.com/OpenNMT/CTranslate2"
+website = "https://opennmt.net/CTranslate2"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

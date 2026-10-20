@@ -1,0 +1,8 @@
+name = "ComfyUI-YoloWorld-EfficientSAM"
+description = "Unofficial implementation of YOLO-World + EfficientSAM for ComfyUI"
+category = "image"
+tags = ["comfyui", "stable-diffusion"]
+repository = "https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "efficient_densenet_pytorch"
+description = "A memory-efficient implementation of DenseNets"
+category = "ml-platforms"
+tags = ["densenet", "pytorch", "deep-learning"]
+repository = "https://github.com/gpleiss/efficient_densenet_pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

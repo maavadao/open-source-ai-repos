@@ -1,0 +1,7 @@
+name = "A-Guide-to-Retrieval-Augmented-LLM"
+description = "an intro to retrieval augmented large language model"
+category = "llm-apps"
+tags = ["large-language-models", "llm", "rag", "retrieval-augmented", "retrieval-augmented-generation"]
+repository = "https://github.com/Wang-Shuo/A-Guide-to-Retrieval-Augmented-LLM"
+license = "NOASSERTION"
+added = 2026-10-20

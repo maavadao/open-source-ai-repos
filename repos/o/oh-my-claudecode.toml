@@ -1,0 +1,9 @@
+name = "oh-my-claudecode"
+description = "Teams-first Multi-agent orchestration for Claude Code"
+category = "coding"
+tags = ["agentic-coding", "ai-agents", "claude", "claude-code", "oh-my-opencode", "opencode", "vibe-coding", "automation"]
+repository = "https://github.com/Yeachan-Heo/oh-my-claudecode"
+website = "https://oh-my-claudecode.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

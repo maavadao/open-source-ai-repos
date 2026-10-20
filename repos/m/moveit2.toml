@@ -1,0 +1,9 @@
+name = "moveit2"
+description = "MoveIt for ROS 2"
+category = "robotics"
+repository = "https://github.com/moveit/moveit2"
+website = "https://moveit.ai/"
+license = "BSD-3-Clause"
+language = "C++"
+skill_level = "advanced"
+added = 2026-10-20

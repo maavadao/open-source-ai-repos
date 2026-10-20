@@ -1,0 +1,9 @@
+name = "surf"
+description = "Surf is a computer use AI agent powered by OpenAI that interacts with a E2B's virtual desktop environment through natural language instructions"
+category = "no-code"
+tags = ["ai", "automation", "cua", "desktop", "e2b", "openai", "sandbox", "virtual-desktop"]
+repository = "https://github.com/e2b-dev/surf"
+website = "https://surf.e2b.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

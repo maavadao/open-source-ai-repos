@@ -1,0 +1,8 @@
+name = "DistiLlama"
+description = "Chrome Extension to Summarize or Chat with Web Pages/Local Documents Using locally running LLMs. Keep all of your data and conversations private."
+category = "local-llms"
+tags = ["chrome-extension", "llama2", "llms", "local-llm", "ollama", "summarization", "retrieval-augmented-generation", "langchain"]
+repository = "https://github.com/shreyaskarnik/DistiLlama"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

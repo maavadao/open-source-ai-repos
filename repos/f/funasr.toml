@@ -1,0 +1,8 @@
+name = "FunASR"
+description = "Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving."
+category = "mcp-servers"
+tags = ["pytorch", "speech-recognition", "paraformer", "punctuation", "speaker-diarization", "voice-activity-detection", "asr", "multilingual-asr"]
+repository = "https://github.com/modelscope/FunASR"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

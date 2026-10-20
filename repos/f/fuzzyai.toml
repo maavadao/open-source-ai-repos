@@ -1,0 +1,8 @@
+name = "FuzzyAI"
+description = "A powerful tool for automated LLM fuzzing. It is designed to help developers and security researchers identify and mitigate potential jailbreaks in their LLM APIs."
+category = "security"
+tags = ["jailbreak", "jailbreaking", "llm", "llms", "ai", "security", "fuzzing", "llm-evaluation"]
+repository = "https://github.com/cyberark/FuzzyAI"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "repository-harness"
+description = "Turn any repo into an agent-ready workspace for Claude Code, Codex, Cursor, and other coding agents."
+category = "coding"
+tags = ["agents-md", "ai-agents", "ai-assisted-development", "claude-code", "codex", "coding-agents", "context-engineering", "cursor"]
+repository = "https://github.com/hoangnb24/repository-harness"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

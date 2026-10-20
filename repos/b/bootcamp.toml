@@ -1,0 +1,9 @@
+name = "bootcamp"
+description = "Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc."
+category = "vector-databases"
+tags = ["milvus", "unstructured-data", "image-search", "audio-search", "question-answering", "deep-learning", "nlp", "image-classification"]
+repository = "https://github.com/milvus-io/bootcamp"
+website = "https://milvus.io"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

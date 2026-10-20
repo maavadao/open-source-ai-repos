@@ -1,0 +1,9 @@
+name = "mcp-gateway"
+description = "A plugin-based gateway that orchestrates other MCPs and allows developers to build upon it enterprise-grade agents."
+category = "mcp-servers"
+tags = ["agent", "agent-security", "gateway", "genai", "mcp", "mcp-client", "mcp-server", "proxy"]
+repository = "https://github.com/lasso-security/mcp-gateway"
+website = "https://www.lasso.security/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

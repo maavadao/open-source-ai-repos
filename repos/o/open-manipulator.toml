@@ -1,0 +1,9 @@
+name = "open_manipulator"
+description = "AI Manipulator and Open Manipulator"
+category = "robotics"
+tags = ["robotis", "robot", "dynamixel", "openmanipultor", "manipultor", "ros", "package", "gazebo"]
+repository = "https://github.com/ROBOTIS-GIT/open_manipulator"
+website = "https://ai.robotis.com/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

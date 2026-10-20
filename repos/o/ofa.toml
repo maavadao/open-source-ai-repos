@@ -1,0 +1,8 @@
+name = "OFA"
+description = "Official repository of OFA (ICML 2022). Paper: OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework"
+category = "models"
+tags = ["multimodal", "pretraining", "image-captioning", "text-to-image-synthesis", "visual-question-answering", "referring-expression-comprehension", "vision-language", "pretrained-models"]
+repository = "https://github.com/OFA-Sys/OFA"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

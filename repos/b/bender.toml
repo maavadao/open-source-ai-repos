@@ -1,0 +1,9 @@
+name = "Bender"
+description = "Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood."
+category = "ml-platforms"
+tags = ["machine-learning", "neural-networks", "metal", "apple", "iphone", "ios", "convolutional-neural-networks", "deep-learning"]
+repository = "https://github.com/xmartlabs/Bender"
+website = "https://xmartlabs.github.io/Bender/"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

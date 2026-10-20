@@ -1,0 +1,8 @@
+name = "Youtube-Code-Repository"
+description = "Repository for most of the code from my YouTube channel"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "monte-carlo-methods", "qlearning-algorithm", "convolutional-neural-networks", "sarsa"]
+repository = "https://github.com/philtabor/Youtube-Code-Repository"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

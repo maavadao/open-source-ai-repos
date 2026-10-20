@@ -1,0 +1,9 @@
+name = "av2-api"
+description = "Argoverse 2: Next generation datasets for self-driving perception and forecasting."
+category = "robotics"
+tags = ["autonomous-driving", "autonomous-vehicles", "argoverse", "3d-object-detection", "motion-forecasting", "av", "av2"]
+repository = "https://github.com/argoverse/av2-api"
+website = "https://argoverse.github.io/user-guide/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

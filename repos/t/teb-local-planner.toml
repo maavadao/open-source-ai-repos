@@ -1,0 +1,9 @@
+name = "teb_local_planner"
+description = "An optimal trajectory planner considering distinctive topologies for mobile robots based on Timed-Elastic-Bands (ROS Package)"
+category = "robotics"
+tags = ["ros", "mobile-robots", "navigation", "trajectory-optimization", "optimal-control", "path-planning"]
+repository = "https://github.com/rst-tu-dortmund/teb_local_planner"
+website = "http://wiki.ros.org/teb_local_planner"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

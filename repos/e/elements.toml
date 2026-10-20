@@ -1,0 +1,9 @@
+name = "elements"
+description = "NVIDIA Design System and UI Agent Harness for AI/ML Factories, Robotics, and Autonomous Vehicles"
+category = "mcp-servers"
+tags = ["ui", "cli", "angular", "react", "typescript", "vue", "mcp-server", "web-component"]
+repository = "https://github.com/NVIDIA/elements"
+website = "https://nvidia.github.io/elements/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

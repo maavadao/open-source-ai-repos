@@ -1,0 +1,9 @@
+name = "sherpa"
+description = "Speech-to-text server framework with next-gen Kaldi"
+category = "speech"
+tags = ["asr", "cpp", "python", "ctc", "pytorch", "transducer", "websocket", "end-to-end-asr"]
+repository = "https://github.com/k2-fsa/sherpa"
+website = "https://k2-fsa.github.io/sherpa"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

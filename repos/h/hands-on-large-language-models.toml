@@ -1,0 +1,9 @@
+name = "Hands-On-Large-Language-Models"
+description = "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\""
+category = "learning"
+tags = ["artificial-intelligence", "book", "large-language-models", "llm", "llms", "oreilly", "oreilly-books"]
+repository = "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models"
+website = "https://www.llm-book.com/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

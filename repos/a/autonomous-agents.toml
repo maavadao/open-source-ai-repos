@@ -1,0 +1,7 @@
+name = "Autonomous-Agents"
+description = "Autonomous Agents (LLMs) research papers. Updated Daily."
+category = "agents"
+tags = ["autonomous-agents", "agents", "ai", "ai-agents", "embodied-agent", "generalist-agent", "llm", "llm-agents"]
+repository = "https://github.com/tmgthb/Autonomous-Agents"
+license = "MIT"
+added = 2026-10-20

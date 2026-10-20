@@ -1,0 +1,8 @@
+name = "WPeGPT"
+description = "An IDA plugin for binary file analysis, powered by AI models such as OpenAI and DeepSeek."
+category = "chat"
+tags = ["binary-analysis", "chatgpt", "ida", "ida-plugin", "openai", "reverse-engineering"]
+repository = "https://github.com/WPeace-HcH/WPeGPT"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

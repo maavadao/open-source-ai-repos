@@ -1,0 +1,9 @@
+name = "OpenAdapt"
+description = "For EHRs, payer portals, and any app your team clicks through. A person or an agent shows the task; OpenAdapt turns it into a local program that repeats the steps with no model calls, checks each save, and stops when something doesn't match."
+category = "mcp-servers"
+tags = ["desktop-automation", "gui-automation", "local-first", "workflow-automation", "browser-automation", "citrix", "deterministic-replay", "effect-verification"]
+repository = "https://github.com/OpenAdaptAI/OpenAdapt"
+website = "https://openadapt.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

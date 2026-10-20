@@ -1,0 +1,8 @@
+name = "openai-openapi"
+description = "OpenAPI specification for the OpenAI API"
+category = "other"
+tags = ["openai", "openai-api"]
+repository = "https://github.com/openai/openai-openapi"
+website = "https://platform.openai.com/docs/api-reference/introduction"
+license = "MIT"
+added = 2026-10-20

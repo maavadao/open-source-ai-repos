@@ -1,0 +1,8 @@
+name = "whisper-website"
+description = "Self-hosted web application, which can be used to convert audio to subtitles by OpenAI's Whisper model"
+category = "speech"
+tags = ["fastapi", "openai", "speech-to-text", "whisper", "python3", "uvicorn", "website", "audio-to-text"]
+repository = "https://github.com/Kabanosk/whisper-website"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

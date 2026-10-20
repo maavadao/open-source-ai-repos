@@ -1,0 +1,9 @@
+name = "busbar"
+description = "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream action—while keeping your native protocols intact: six native LLM protocols in, six native LLM protocols out."
+category = "llm-apps"
+tags = ["ai-gateway", "anthropic", "bedrock", "circuit-breaker", "claude", "failover", "gemini", "litellm-alternative"]
+repository = "https://github.com/GetBusbar/busbar"
+website = "https://getbusbar.com"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

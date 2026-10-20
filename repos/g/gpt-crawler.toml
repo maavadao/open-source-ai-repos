@@ -1,0 +1,9 @@
+name = "gpt-crawler"
+description = "Crawl a site to generate knowledge files to create your own custom GPT from a URL"
+category = "search"
+tags = ["ai"]
+repository = "https://github.com/BuilderIO/gpt-crawler"
+website = "https://www.builder.io/blog/custom-gpt"
+license = "ISC"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Med-PaLM"
+description = "Towards Generalist Biomedical AI"
+category = "models"
+tags = ["biomedical", "deep-learning", "gpt4", "multimodal", "multimodal-deep-learning", "multimodality", "opensource"]
+repository = "https://github.com/kyegomez/Med-PaLM"
+website = "https://discord.gg/qUtxnK2NMf"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

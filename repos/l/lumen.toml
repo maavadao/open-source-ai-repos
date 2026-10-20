@@ -1,0 +1,8 @@
+name = "lumen"
+description = "Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI"
+category = "models"
+tags = ["cli", "commit", "git", "llm", "openai", "rust"]
+repository = "https://github.com/jnsahaj/lumen"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

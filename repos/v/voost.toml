@@ -1,0 +1,8 @@
+name = "Voost"
+description = "[SIGGRAPH Asia 25] Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off"
+category = "image"
+tags = ["diffusion-models", "diffusion-transformer", "image-editing", "image-generation", "image-inpainting", "virtual-try-off", "virtual-try-on"]
+repository = "https://github.com/nxnai/Voost"
+website = "https://nxnai.github.io/Voost/"
+license = "NOASSERTION"
+added = 2026-10-20

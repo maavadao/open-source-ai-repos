@@ -1,0 +1,9 @@
+name = "claude-code-ultimate-guide"
+description = "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready templates. 430K+ lines."
+category = "mcp-servers"
+tags = ["agentic-coding", "ai-assistant", "ai-coding", "ai-pair-programming", "anthropic", "best-practices", "claude", "claude-code"]
+repository = "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
+website = "https://cc.bruniaux.com/"
+license = "CC-BY-SA-4.0"
+language = "Python"
+added = 2026-10-20

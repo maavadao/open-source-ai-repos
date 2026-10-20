@@ -1,0 +1,9 @@
+name = "openclaude"
+description = "runs anywhere. uses anything"
+category = "agents"
+tags = ["ai", "ai-agent", "ai-tools", "cli", "coding"]
+repository = "https://github.com/Twigpine/openclaude"
+website = "https://openclaude.twigpine.com"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

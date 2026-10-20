@@ -1,0 +1,9 @@
+name = "ghost-os"
+description = "Full computer-use for AI agents. Self-learning workflows. Native macOS. No screenshots required."
+category = "mcp-servers"
+tags = ["accessibility", "ai-agents", "automation", "claude-code", "computer-use", "llm-tools", "macos", "mcp"]
+repository = "https://github.com/ghostwright/ghost-os"
+website = "https://ghostwright.dev/ghost-os"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

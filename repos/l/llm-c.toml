@@ -1,0 +1,7 @@
+name = "llm.c"
+description = "LLM training in simple, raw C/CUDA"
+category = "models"
+repository = "https://github.com/karpathy/llm.c"
+license = "MIT"
+language = "Cuda"
+added = 2026-10-20

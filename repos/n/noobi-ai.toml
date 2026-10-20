@@ -1,0 +1,8 @@
+name = "Noobi.ai"
+description = "Local-first desktop agent that turns a prompt into a reviewed, playable browser game with Codex App Server."
+category = "mcp-servers"
+tags = ["ai-agent", "codex-app-server", "electron", "game-development", "game-generator", "generative-ai", "local-first", "mcp"]
+repository = "https://github.com/Innate-Labs/Noobi.ai"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

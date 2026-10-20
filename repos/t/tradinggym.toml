@@ -1,0 +1,8 @@
+name = "TradingGym"
+description = "Trading and Backtesting environment for training reinforcement learning agent or simple rule base algo."
+category = "ml-platforms"
+tags = ["trading", "python", "reinforcement-learning", "trading-bot", "trading-platform", "trading-simulator", "trading-strategies", "trading-api"]
+repository = "https://github.com/Yvictor/TradingGym"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

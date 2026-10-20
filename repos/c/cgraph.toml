@@ -1,0 +1,9 @@
+name = "CGraph"
+description = "【A common used C++ & Python DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork & 交流"
+category = "no-code"
+tags = ["dag", "workflow", "taskflow", "pipeline", "graph", "ai", "ai-agents", "langgraph"]
+repository = "https://github.com/ChunelFeng/CGraph"
+website = "http://www.chunel.cn"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

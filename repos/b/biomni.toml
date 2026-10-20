@@ -1,0 +1,9 @@
+name = "Biomni"
+description = "Biomni: a general-purpose biomedical AI agent"
+category = "agents"
+tags = ["agent", "ai", "biomedicine"]
+repository = "https://github.com/snap-stanford/Biomni"
+website = "https://biomni.stanford.edu"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

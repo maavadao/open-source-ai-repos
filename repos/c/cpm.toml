@@ -1,0 +1,9 @@
+name = "CPM"
+description = "Lipstick ain't enough: Beyond Color-Matching for In-the-Wild Makeup Transfer (CVPR 2021)"
+category = "vision"
+tags = ["makeup-transfer", "gan", "cyclegan", "makeup", "color", "cvpr2021", "segmentation-models", "color-matching"]
+repository = "https://github.com/VinAIResearch/CPM"
+website = "https://thaoshibe.github.io/CPM"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

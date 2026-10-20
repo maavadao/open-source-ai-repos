@@ -1,0 +1,9 @@
+name = "smolagents"
+description = "smolagents: a barebones library for agents that think in code."
+category = "agents"
+repository = "https://github.com/huggingface/smolagents"
+website = "https://huggingface.co/docs/smolagents"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "beginner"
+added = 2026-10-20

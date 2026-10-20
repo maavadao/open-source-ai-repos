@@ -1,0 +1,7 @@
+name = "awesome-robotics-projects"
+description = "A list of open-source, affordable, less-known, or visionary robotics projects."
+category = "learning"
+tags = ["awesome", "robotics", "projects"]
+repository = "https://github.com/mjyc/awesome-robotics-projects"
+license = "CC0-1.0"
+added = 2026-10-20

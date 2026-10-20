@@ -1,0 +1,8 @@
+name = "Kwipu"
+description = "Ask questions across your Markdown notes using a fully local Graph RAG engine. Built for Obsidian vaults, works with any folder of Markdown files. Extracts entity-relation triples from wikilinks & YAML frontmatter, retrieves answers via hybrid search (vector + BM25 +…"
+category = "mcp-servers"
+tags = ["llm", "md", "natural-language", "obsidian", "ollama", "rag", "rag-chatbot", "terminal-ui"]
+repository = "https://github.com/benmaster82/Kwipu"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

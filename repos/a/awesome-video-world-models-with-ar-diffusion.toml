@@ -1,0 +1,8 @@
+name = "Awesome-Video-World-Models-with-AR-Diffusion"
+description = "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts."
+category = "learning"
+tags = ["ar-diffusion", "autoregressive", "awesome-list", "computer-vision", "diffusion-models", "generative-ai", "video-generation", "world-models"]
+repository = "https://github.com/gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion"
+license = "NOASSERTION"
+language = "TeX"
+added = 2026-10-20

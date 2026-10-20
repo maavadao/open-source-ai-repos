@@ -1,0 +1,8 @@
+name = "Awesome-Computer-Vision-Paper-List"
+description = "This repository contains all the papers accepted in top conference of computer vision, with convenience to search related papers."
+category = "learning"
+tags = ["cvpr", "iccv", "nips", "computer-vision", "artificial-intelligence", "paper", "eccv", "neurips"]
+repository = "https://github.com/yarkable/Awesome-Computer-Vision-Paper-List"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

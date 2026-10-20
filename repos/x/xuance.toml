@@ -1,0 +1,9 @@
+name = "xuance"
+description = "XuanCe: A Comprehensive and Unified Deep Reinforcement Learning Library"
+category = "ml-platforms"
+tags = ["multi-agent-reinforcement-learning", "reinforcement-learning", "reinforcement-learning-library", "mindspore", "pytorch", "tensorflow2", "atari", "mujoco"]
+repository = "https://github.com/agi-brain/xuance"
+website = "https://xuance.org"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

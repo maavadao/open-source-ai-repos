@@ -1,0 +1,9 @@
+name = "VibeSearchBench"
+description = "The hardest search benchmark in the wild — vague, multi-turn, proactive. 200 long-horizon tasks with persona-driven progressive disclosure, scored by verifiable schema-free knowledge-graph evaluation. No vibes, just triplet F1."
+category = "agents"
+tags = ["agentic-ai", "benchmark", "llm", "proactive-agent", "search", "search-agent"]
+repository = "https://github.com/VibeBench/VibeSearchBench"
+website = "https://vibebench.github.io/VibeSearchBench.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

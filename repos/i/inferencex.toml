@@ -1,0 +1,9 @@
+name = "InferenceX"
+description = "Open Source AI Accelerator Research Platform Standard / 开源推理研究平台"
+category = "local-llms"
+tags = ["pytorch", "sglang", "vllm", "amd", "cuda", "nvidia", "rocm", "deepseek"]
+repository = "https://github.com/SemiAnalysisAI/InferenceX"
+website = "https://inferencex.com/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "fluxgym"
+description = "Dead simple FLUX LoRA training UI with LOW VRAM support"
+category = "image"
+repository = "https://github.com/cocktailpeanut/fluxgym"
+license = "MIT"
+language = "Python"
+skill_level = "beginner"
+added = 2026-10-20

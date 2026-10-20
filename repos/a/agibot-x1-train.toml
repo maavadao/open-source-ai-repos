@@ -1,0 +1,9 @@
+name = "agibot_x1_train"
+description = "The reinforcement learning training code for AgiBot X1."
+category = "robotics"
+tags = ["open-source", "reinforcement-learning", "robotics"]
+repository = "https://github.com/AgibotTech/agibot_x1_train"
+website = "https://www.zhiyuan-robot.com/products/X1"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

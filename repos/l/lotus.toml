@@ -1,0 +1,9 @@
+name = "lotus"
+description = "Optimized Agentic and LLM Bulk Processing Over Your Data"
+category = "llm-apps"
+tags = ["ai-data-processing", "data", "llm", "pandas", "python", "semantic-operators", "semantic-search", "unstructured-data"]
+repository = "https://github.com/lotus-data/lotus"
+website = "https://lotus-data.github.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

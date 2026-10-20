@@ -1,0 +1,9 @@
+name = "Codeman"
+description = "Self-hosted mission control for AI coding agents: run Claude Code, OpenCode, Pi, Codex, and Antigravity & Gemini CLI 24/7, from any device, watch every subagent live"
+category = "skills-prompts"
+tags = ["claude", "claude-ai", "claude-code", "tmux", "opencode", "agent", "ai-agents", "codex"]
+repository = "https://github.com/Ark0N/Codeman"
+website = "https://getcodeman.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

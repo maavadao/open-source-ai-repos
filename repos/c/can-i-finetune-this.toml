@@ -1,0 +1,9 @@
+name = "can-i-finetune-this"
+description = "Single-GPU LLM fine-tuning preflight: memory estimates, runnable LoRA/QLoRA recipes, and local measurements."
+category = "image"
+tags = ["bitsandbytes", "fine-tuning", "gpu", "hugging-face", "llm", "lora", "memory-estimation", "peft"]
+repository = "https://github.com/DaoyuanLi2816/can-i-finetune-this"
+website = "https://daoyuanli2816.github.io/can-i-finetune-this/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

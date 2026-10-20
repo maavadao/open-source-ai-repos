@@ -1,0 +1,9 @@
+name = "awesome-minimax-h3-prompts"
+description = "Curated MiniMax H3 video generation prompts — cinematic, ads, anime, UGC, product videos, and more. Includes playable examples and creator attribution."
+category = "learning"
+tags = ["ai-video", "awesome-list", "generative-ai", "image-to-video", "minimax-h3", "multimodal-ai", "prompt-gallery", "text-to-video"]
+repository = "https://github.com/BeatAPI/awesome-minimax-h3-prompts"
+website = "https://beatapi.io/minimax-h3-prompts"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ltp"
+description = "Language Technology Platform"
+category = "data-science"
+tags = ["nlp", "natural-language-processing", "chinese-nlp", "machine-learning"]
+repository = "https://github.com/HIT-SCIR/ltp"
+website = "http://ltp.ai"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

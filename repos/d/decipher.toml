@@ -1,0 +1,8 @@
+name = "decipher"
+description = "Effortlessly add AI-generated transcription subtitles to your videos"
+category = "speech"
+tags = ["openai", "whisper", "transcription", "translation"]
+repository = "https://github.com/dsymbol/decipher"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "javacv"
+description = "Java interface to OpenCV, FFmpeg, and more"
+category = "vision"
+tags = ["javacv", "java", "opencv", "ffmpeg", "computer-vision", "multimedia", "maven", "opencv-java"]
+repository = "https://github.com/bytedeco/javacv"
+license = "NOASSERTION"
+language = "Java"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "tnt"
+description = "A lightweight library for PyTorch training tools and utilities"
+category = "ml-platforms"
+tags = ["pytorch", "neural-network", "python", "machine-learning", "deep-learning", "reinforcement-learning"]
+repository = "https://github.com/meta-pytorch/tnt"
+website = "https://pytorch.org/tnt/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

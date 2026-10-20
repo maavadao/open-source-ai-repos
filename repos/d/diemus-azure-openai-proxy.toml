@@ -1,0 +1,8 @@
+name = "azure-openai-proxy"
+description = "A proxy for Azure OpenAI API that can convert an OpenAI request into an Azure OpenAI request."
+category = "chat"
+tags = ["ai", "azure", "azure-openai", "chatgpt", "gpt3", "gpt4", "openai", "proxy"]
+repository = "https://github.com/diemus/azure-openai-proxy"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

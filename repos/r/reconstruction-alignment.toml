@@ -1,0 +1,9 @@
+name = "reconstruction-alignment"
+description = "[ICLR 2026] RecA: visual understanding help generation through self-supervised learning"
+category = "image"
+tags = ["aigc", "image-editing", "image-generation", "multimodal", "bagel", "comfy", "comfyui", "diffusion"]
+repository = "https://github.com/HorizonWind2004/reconstruction-alignment"
+website = "https://reconstruction-alignment.github.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

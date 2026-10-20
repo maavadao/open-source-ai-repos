@@ -1,0 +1,9 @@
+name = "UFM"
+description = "UFM: A Unified Dense Image Correspondence Estimator for both Optical Flow & Wide Baseline Matching Tasks. Matches any pair of images. (NeurIPS 2025)"
+category = "robotics"
+tags = ["3d-reconstruction", "ai", "feature-matching", "image-matching", "optical-flow", "robotics"]
+repository = "https://github.com/UniFlowMatch/UFM"
+website = "https://uniflowmatch.github.io/"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

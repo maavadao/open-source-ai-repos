@@ -1,0 +1,9 @@
+name = "CRUD_RAG"
+description = "CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models"
+category = "llm-apps"
+tags = ["benchmark", "large-language-models", "retrieval-augmented-generation"]
+repository = "https://github.com/IAAR-Shanghai/CRUD_RAG"
+website = "https://arxiv.org/abs/2401.17043"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

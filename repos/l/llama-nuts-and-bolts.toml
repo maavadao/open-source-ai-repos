@@ -1,0 +1,9 @@
+name = "llama-nuts-and-bolts"
+description = "A holistic way of understanding how Llama and its components run in practice, with code and detailed documentation."
+category = "models"
+tags = ["deep-learning", "educational-project", "go", "golang", "large-language-models", "llama", "machine-learning", "ml"]
+repository = "https://github.com/adalkiran/llama-nuts-and-bolts"
+website = "https://adalkiran.github.io/llama-nuts-and-bolts/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

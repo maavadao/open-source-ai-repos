@@ -1,0 +1,9 @@
+name = "llm-graph-builder"
+description = "Neo4j graph construction from unstructured data using LLMs"
+category = "vector-databases"
+tags = ["data-import", "genai", "graph", "graph-rag", "graph-search", "graphdb", "graphrag", "knowledge-graph"]
+repository = "https://github.com/neo4j-labs/llm-graph-builder"
+website = "https://llm-graph-builder.neo4jlabs.com/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

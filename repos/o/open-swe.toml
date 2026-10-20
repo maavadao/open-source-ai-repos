@@ -1,0 +1,9 @@
+name = "open-swe"
+description = "An Open-Source Asynchronous Coding Agent"
+category = "agents"
+tags = ["agent", "ai", "anthropic", "claudecode", "llm", "openai", "agents", "llms"]
+repository = "https://github.com/langchain-ai/open-swe"
+website = "https://www.langchain.com/blog/open-swe-an-open-source-framework-for-internal-coding-agents"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "JointBERT"
+description = "Pytorch implementation of JointBERT: \"BERT for Joint Intent Classification and Slot Filling\""
+category = "models"
+tags = ["bert", "transformers", "slot-filling", "pytorch", "intent-classification", "slu", "joint-bert"]
+repository = "https://github.com/monologg/JointBERT"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

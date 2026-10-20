@@ -1,0 +1,8 @@
+name = "vocal-remover"
+description = "Vocal Remover using Deep Neural Networks"
+category = "speech"
+tags = ["deep-learning", "spectrogram", "audio", "pytorch", "segmentation", "vocal-separation", "vocal-remover"]
+repository = "https://github.com/tsurumeso/vocal-remover"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

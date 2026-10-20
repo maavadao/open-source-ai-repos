@@ -1,0 +1,9 @@
+name = "civitai"
+description = "A repository of models, textual inversions, and more"
+category = "image"
+tags = ["ai", "social-network", "stable-diffusion"]
+repository = "https://github.com/civitai/civitai"
+website = "https://civitai.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

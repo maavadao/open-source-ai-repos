@@ -1,0 +1,9 @@
+name = "TavernAI-v1"
+description = "Atmospheric adventure chat for AI language models (KoboldAI, NovelAI, Pygmalion, OpenAI chatgpt, gpt-4)"
+category = "chat"
+tags = ["ai", "chat", "chatgpt", "gpt-4", "koboldai", "novelai", "pygmalion"]
+repository = "https://github.com/TavernAI/TavernAI-v1"
+website = "https://tavernai.net"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

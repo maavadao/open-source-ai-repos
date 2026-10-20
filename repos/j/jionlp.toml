@@ -1,0 +1,9 @@
+name = "JioNLP"
+description = "中文 NLP 预处理、解析工具包，准确、高效、易用 A Chinese NLP Preprocessing & Parsing Package www.jionlp.com"
+category = "models"
+tags = ["nlp", "natural-language-processing", "python", "apache2", "chinese", "time-parse", "preprocessing", "time-parsing"]
+repository = "https://github.com/dongrixinyu/JioNLP"
+website = "https://www.jionlp.com/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

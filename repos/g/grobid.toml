@@ -1,0 +1,9 @@
+name = "grobid"
+description = "A machine learning software for extracting information from scholarly documents"
+category = "documents"
+tags = ["machine-learning", "scientific-articles", "pdf", "metadata", "fulltext", "bibliographical-references", "hamburger-to-cow", "deep-learning"]
+repository = "https://github.com/grobidOrg/grobid"
+website = "https://grobid.readthedocs.io"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

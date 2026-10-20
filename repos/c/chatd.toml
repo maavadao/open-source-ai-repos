@@ -1,0 +1,9 @@
+name = "chatd"
+description = "Chat with your documents using local AI"
+category = "local-llms"
+tags = ["chat", "desktop", "electron", "llm", "ollama", "rag", "llama2", "mistral"]
+repository = "https://github.com/BruceMacD/chatd"
+website = "https://chatd.ai"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

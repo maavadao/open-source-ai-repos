@@ -1,0 +1,9 @@
+name = "ICON"
+description = "[CVPR'22] ICON: Implicit Clothed humans Obtained from Normals"
+category = "video"
+tags = ["implicit-functions", "virtual-humans", "computer-vision", "computer-graphics", "animation", "3d-reconstruction", "human-pose-estimation", "smplx"]
+repository = "https://github.com/YuliangXiu/ICON"
+website = "https://icon.is.tue.mpg.de"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

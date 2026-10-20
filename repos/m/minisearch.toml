@@ -1,0 +1,9 @@
+name = "MiniSearch"
+description = "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space"
+category = "local-llms"
+tags = ["ai", "artificial-intelligence", "generative-ai", "gpu-accelerated", "information-retrieval", "llm", "llm-inference", "question-answering"]
+repository = "https://github.com/felladrin/MiniSearch"
+website = "https://felladrin-minisearch.hf.space"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

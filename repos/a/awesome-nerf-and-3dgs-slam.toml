@@ -1,0 +1,7 @@
+name = "awesome-NeRF-and-3DGS-SLAM"
+description = "A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites"
+category = "learning"
+tags = ["slam", "lidar-slam", "nerf", "robotics", "vslam", "3dgs", "awesome", "gaussiansplatting"]
+repository = "https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM"
+license = "NOASSERTION"
+added = 2026-10-20

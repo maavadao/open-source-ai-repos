@@ -1,0 +1,8 @@
+name = "lang-agent"
+description = "基于LangChain和LangGraph实现的AI Agent配置平台"
+category = "chat"
+tags = ["agent", "ai", "langchain", "langgraph", "react", "fastapi", "chatbot", "python"]
+repository = "https://github.com/cqzyys/lang-agent"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

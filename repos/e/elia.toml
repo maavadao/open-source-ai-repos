@@ -1,0 +1,8 @@
+name = "elia"
+description = "A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more."
+category = "local-llms"
+tags = ["python", "ai", "chatgpt", "gpt", "terminal", "tui", "claude", "large-language-models"]
+repository = "https://github.com/darrenburns/elia"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

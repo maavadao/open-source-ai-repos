@@ -1,0 +1,9 @@
+name = "ARIS-Movie-Director"
+description = "Agentic, long-horizon visual generation: a fuzzy story → a cross-model-audited image-based movie. Brings ARIS's research-wiki + multi-agent debate to multimodal generation (intelligence lives in the agent; the diffusion model just renders). Image-based today, video next."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "ai-filmmaking", "anthropic", "aris", "claude", "comic-generation", "generative-ai"]
+repository = "https://github.com/wanshuiyin/ARIS-Movie-Director"
+website = "https://wanshuiyin.github.io/ARIS-Movie-Director/comic/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "dl-visuals"
+description = "Over 200 figures and diagrams of the most popular deep learning architectures and layers FREE TO USE in your blog posts, slides, presentations, or papers."
+category = "ml-platforms"
+tags = ["deep-learning", "neural-networks", "design", "diagrams", "cc-by"]
+repository = "https://github.com/dvgodoy/dl-visuals"
+license = "CC-BY-4.0"
+added = 2026-10-20

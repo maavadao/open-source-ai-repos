@@ -1,0 +1,10 @@
+name = "label-studio"
+description = "Label Studio is a multi-type data labeling and annotation tool with standardized output format"
+category = "ml-platforms"
+tags = ["computer-vision", "deep-learning", "image-annotation", "annotation-tool", "annotation", "labeling", "labeling-tool", "image-labeling"]
+repository = "https://github.com/HumanSignal/label-studio"
+website = "https://labelstud.io"
+license = "Apache-2.0"
+language = "TypeScript"
+skill_level = "beginner"
+added = 2026-10-20

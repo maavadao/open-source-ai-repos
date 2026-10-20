@@ -1,0 +1,9 @@
+name = "AgentFormer"
+description = "[ICCV 2021] Official PyTorch Implementation of \"AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting\"."
+category = "robotics"
+tags = ["trajectory-prediction", "trajectory-forecasting", "multi-agent-forecasting", "transformer", "iccv2021", "pytorch", "deep-learning", "autonomous-driving"]
+repository = "https://github.com/Khrylx/AgentFormer"
+website = "https://www.ye-yuan.com/agentformer/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

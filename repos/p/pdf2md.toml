@@ -1,0 +1,9 @@
+name = "pdf2md"
+description = "Browser based tool to convert PDFs to Markdown"
+category = "documents"
+tags = ["converter", "markdown", "nextjs", "pdf", "rag"]
+repository = "https://github.com/mrmps/pdf2md"
+website = "https://www.pdftomarkdown.co"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

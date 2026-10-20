@@ -1,0 +1,8 @@
+name = "QualityScaler"
+description = "QualityScaler - image/video AI upscaler app"
+category = "video"
+tags = ["python", "amd", "intel", "nvidia", "directx-12", "windows", "compression-artifact-reduction", "deep-learning"]
+repository = "https://github.com/Djdefrag/QualityScaler"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

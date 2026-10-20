@@ -1,0 +1,9 @@
+name = "GroupViT"
+description = "Official PyTorch implementation of GroupViT: Semantic Segmentation Emerges from Text Supervision, CVPR 2022."
+category = "vision"
+tags = ["image-text-matching", "transformers", "zero-shot-learning", "semantic-segmentation"]
+repository = "https://github.com/NVlabs/GroupViT"
+website = "https://arxiv.org/abs/2202.11094"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

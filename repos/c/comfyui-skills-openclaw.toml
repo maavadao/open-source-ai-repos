@@ -1,0 +1,9 @@
+name = "ComfyUI_Skills_OpenClaw"
+description = "Agent-friendly ComfyUI workflow skills for OpenClaw, Hermes Agent, Codex, and Claude Code; complementary to Comfy official local MCP."
+category = "mcp-servers"
+tags = ["comfyui", "openclaw", "image-generation", "workflow-automation", "claude-code", "agentskills", "ai-agent", "ai-art"]
+repository = "https://github.com/HuangYuChuh/ComfyUI_Skills_OpenClaw"
+website = "https://huangyuchuh.github.io/ComfyUI_Skills_OpenClaw/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

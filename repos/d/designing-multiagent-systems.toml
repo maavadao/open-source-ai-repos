@@ -1,0 +1,9 @@
+name = "designing-multiagent-systems"
+description = "Building LLM-Enabled Multi Agent Applications from Scratch"
+category = "learning"
+tags = ["agents", "autogen", "generative-ai", "large-language-models", "multiagent-systems"]
+repository = "https://github.com/victordibia/designing-multiagent-systems"
+website = "https://buy.multiagentbook.com/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

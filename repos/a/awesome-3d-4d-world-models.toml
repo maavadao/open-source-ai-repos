@@ -1,0 +1,9 @@
+name = "awesome-3d-4d-world-models"
+description = "[TPAMI 2026] 3D and 4D World Modeling: A Survey"
+category = "learning"
+tags = ["embodied-ai", "lidar-generation", "video-generation", "world-models", "occupancy-generation", "3d-generation", "4d-generation", "spatial-intelligence"]
+repository = "https://github.com/worldbench/awesome-3d-4d-world-models"
+website = "https://worldbench.github.io/survey"
+license = "Apache-2.0"
+language = "HTML"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "mimiclaw"
+description = "MimiClaw: Personal Agent on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS. On device Muse."
+category = "chat"
+tags = ["clawdbot", "memory", "openclaw", "ai", "assistant", "edge-ai-agents", "personal-agent", "muse"]
+repository = "https://github.com/memovai/mimiclaw"
+website = "https://mimiclaw.io"
+license = "MIT"
+language = "C"
+added = 2026-10-20

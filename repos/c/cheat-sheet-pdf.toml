@@ -1,0 +1,8 @@
+name = "cheat-sheet-pdf"
+description = "A Cheat-Sheet Collection from the WWW"
+category = "documents"
+tags = ["devops-tools", "cheatsheet", "cheat-sheet", "cheat-sheets", "nginx", "bash", "linux", "docker"]
+repository = "https://github.com/sk3pp3r/cheat-sheet-pdf"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

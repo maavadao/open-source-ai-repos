@@ -1,0 +1,9 @@
+name = "FiT3D"
+description = "[ECCV 2024] Improving 2D Feature Representations by 3D-Aware Fine-Tuning"
+category = "models"
+tags = ["dinov2", "fine-tuning", "foundation-models", "representation-learning", "3d-awareness", "clip", "mae", "deit-iii"]
+repository = "https://github.com/ywyue/FiT3D"
+website = "https://ywyue.github.io/FiT3D/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "finite-monkey-engine"
+description = "AI engine for smart contract audit"
+category = "skills-prompts"
+tags = ["claude", "gpt", "large-language-model", "llm", "prompts", "vulnerability"]
+repository = "https://github.com/BradMoonUESTC/finite-monkey-engine"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

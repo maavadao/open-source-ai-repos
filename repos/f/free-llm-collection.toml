@@ -1,0 +1,7 @@
+name = "Free-LLM-Collection"
+description = "免费大模型API合集 / Free LLM api Collection"
+category = "models"
+tags = ["ai", "amazing", "api", "collection", "free", "gpt", "llm"]
+repository = "https://github.com/for-the-zero/Free-LLM-Collection"
+license = "NOASSERTION"
+added = 2026-10-20

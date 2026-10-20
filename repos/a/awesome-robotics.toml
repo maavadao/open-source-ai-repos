@@ -1,0 +1,7 @@
+name = "awesome-robotics"
+description = "A list of awesome Robotics resources"
+category = "learning"
+tags = ["robotics"]
+repository = "https://github.com/kiloreux/awesome-robotics"
+license = "NOASSERTION"
+added = 2026-10-20

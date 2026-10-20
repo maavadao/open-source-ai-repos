@@ -1,0 +1,9 @@
+name = "Senna"
+description = "[IJCV 2026] Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving"
+category = "robotics"
+tags = ["autonomous-driving", "end-to-end", "vision-language-action-model"]
+repository = "https://github.com/hustvl/Senna"
+website = "https://arxiv.org/abs/2410.22313"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

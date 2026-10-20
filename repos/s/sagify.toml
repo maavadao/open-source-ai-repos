@@ -1,0 +1,9 @@
+name = "sagify"
+description = "LLMs and Machine Learning done easily"
+category = "local-llms"
+tags = ["sagemaker", "generative-ai", "large-language-model", "large-language-models", "llm", "llm-inference", "llmops", "openai"]
+repository = "https://github.com/Kenza-AI/sagify"
+website = "https://kenza-ai.github.io/sagify/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "hls4ml"
+description = "Machine learning on FPGAs using HLS"
+category = "ml-platforms"
+tags = ["hls", "machine-learning", "fpga", "python", "keras", "pytorch", "onnx", "vivado"]
+repository = "https://github.com/fastmachinelearning/hls4ml"
+website = "https://fastmachinelearning.org/hls4ml"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

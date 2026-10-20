@@ -1,0 +1,9 @@
+name = "gpic"
+description = "Official Code for GPIC: A Giant Permissive Image Corpus for Visual Generation"
+category = "image"
+tags = ["generative-ai", "large-scale-dataset", "text-to-image", "text-to-image-generation", "flow-matching", "jit"]
+repository = "https://github.com/keshik6/gpic"
+website = "https://gpic.stanford.edu"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "web-stable-diffusion"
+description = "Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support."
+category = "image"
+tags = ["webgpu", "deep-learning", "stable-diffusion", "web-assembly", "webml", "tvm"]
+repository = "https://github.com/mlc-ai/web-stable-diffusion"
+website = "https://mlc.ai/web-stable-diffusion"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

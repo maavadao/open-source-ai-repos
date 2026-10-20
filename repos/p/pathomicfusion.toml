@@ -1,0 +1,9 @@
+name = "PathomicFusion"
+description = "Fusing Histology and Genomics via Deep Learning - IEEE TMI"
+category = "models"
+tags = ["pathomic", "fusion", "multimodal", "pathology", "histopathology", "transcriptomics", "genomics", "multimodal-network"]
+repository = "https://github.com/mahmoodlab/PathomicFusion"
+website = "http://www.mahmoodlab.org"
+license = "GPL-3.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

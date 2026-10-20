@@ -1,0 +1,9 @@
+name = "Object-Goal-Navigation"
+description = "Pytorch code for NeurIPS-20 Paper \"Object Goal Navigation using Goal-Oriented Semantic Exploration\""
+category = "robotics"
+tags = ["deep-learning", "robotics", "navigation", "deep-reinforcement-learning", "exploration", "visual-navigation", "object-goal-navigation", "deep-rl"]
+repository = "https://github.com/devendrachaplot/Object-Goal-Navigation"
+website = "https://devendrachaplot.github.io/projects/semantic-exploration"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

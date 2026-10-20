@@ -1,0 +1,9 @@
+name = "claude-unofficial-api"
+description = "Unofficial API for Claude-2 via Claude Web (Also CLI)"
+category = "models"
+tags = ["api", "claude", "gpt", "llm", "node", "unofficial", "cli"]
+repository = "https://github.com/Explosion-Scratch/claude-unofficial-api"
+website = "https://npmjs.com/package/claude-ai"
+license = "Unlicense"
+language = "JavaScript"
+added = 2026-10-20

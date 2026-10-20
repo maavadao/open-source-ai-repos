@@ -1,0 +1,9 @@
+name = "kaldi"
+description = "kaldi-asr/kaldi is the official location of the Kaldi project."
+category = "speech"
+tags = ["kaldi", "c-plus-plus", "cuda", "shell", "speech-recognition", "speech-to-text", "speaker-verification", "speaker-id"]
+repository = "https://github.com/kaldi-asr/kaldi"
+website = "http://kaldi-asr.org"
+license = "NOASSERTION"
+language = "Shell"
+added = 2026-10-20

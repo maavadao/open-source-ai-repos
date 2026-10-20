@@ -1,0 +1,9 @@
+name = "dmux"
+description = "A dev agent multiplexer for git worktrees and coding agents."
+category = "agents"
+tags = ["agentic-workflow", "ai", "ai-agents", "coding-agents", "coordinator", "orchestration", "cli"]
+repository = "https://github.com/standardagents/dmux"
+website = "https://dmux.ai"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

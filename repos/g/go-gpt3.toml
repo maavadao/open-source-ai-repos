@@ -1,0 +1,8 @@
+name = "go-gpt3"
+description = "An OpenAI GPT-3 API client enabling Go/Golang programs to interact with the gpt3 APIs."
+category = "other"
+tags = ["golang", "go", "gpt-3", "gpt3", "openai"]
+repository = "https://github.com/PullRequestInc/go-gpt3"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "DeepLearningProject"
+description = "An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch."
+category = "learning"
+tags = ["machine-learning", "deep-learning", "neural-networks", "tutorial"]
+repository = "https://github.com/Spandan-Madan/DeepLearningProject"
+website = "https://spandan-madan.github.io/DeepLearningProject/"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

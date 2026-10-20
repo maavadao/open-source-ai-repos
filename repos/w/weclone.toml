@@ -1,0 +1,9 @@
+name = "WeClone"
+description = "One-stop solution for creating your AI twin from chat history Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life."
+category = "models"
+tags = ["llm", "qwen", "chat-history", "digital-avatar", "telegram"]
+repository = "https://github.com/xming521/WeClone"
+website = "https://weclone.love"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

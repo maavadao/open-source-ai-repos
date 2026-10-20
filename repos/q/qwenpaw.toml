@@ -1,0 +1,9 @@
+name = "QwenPaw"
+description = "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
+category = "mcp-servers"
+tags = ["agent", "llm-tools", "llms", "skills", "agentscope", "agent-harness", "harness-engineering", "super-agent"]
+repository = "https://github.com/agentscope-ai/QwenPaw"
+website = "http://qwenpaw.agentscope.io/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

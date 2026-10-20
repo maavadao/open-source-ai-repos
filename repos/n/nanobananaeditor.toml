@@ -1,0 +1,9 @@
+name = "NanoBananaEditor"
+description = "The most advanced Nano Banana image generator and editor application. Your central hub for AI image generation and revisions. Intuitive UI features reference images, editing with image masks, version history, and more. Powered by Gemini Flash images API."
+category = "image"
+tags = ["aiimages", "bolt", "imageediting", "imageeditor", "imagegeneration", "imagegenerator", "text-to-image", "text-to-image-generation"]
+repository = "https://github.com/markfulton/NanoBananaEditor"
+website = "https://nanobananaeditor.dev"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

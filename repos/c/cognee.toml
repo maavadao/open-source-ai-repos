@@ -1,0 +1,9 @@
+name = "cognee"
+description = "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free"
+category = "skills-prompts"
+tags = ["ai", "cognitive-architecture", "vector-database", "ai-agents", "graph-database", "ai-memory", "cognitive-memory", "knowledge"]
+repository = "https://github.com/topoteretes/cognee"
+website = "https://www.cognee.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "cog-face-to-sticker"
+description = "face-to-sticker"
+category = "image"
+tags = ["ai", "comfyui", "generative-ai", "replicate", "text-to-image"]
+repository = "https://github.com/fofr/cog-face-to-sticker"
+website = "https://replicate.com/fofr/face-to-sticker"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

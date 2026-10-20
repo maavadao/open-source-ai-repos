@@ -1,0 +1,9 @@
+name = "T2I-CompBench"
+description = "[Neurips 2023 & TPAMI] T2I-CompBench (++) for Compositional Text-to-image Generation Evaluation"
+category = "image"
+tags = ["benchmark", "compositionality", "dataset", "text-to-image"]
+repository = "https://github.com/Karine-Huang/T2I-CompBench"
+website = "https://arxiv.org/pdf/2307.06350.pdf"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

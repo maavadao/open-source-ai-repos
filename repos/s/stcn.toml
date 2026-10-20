@@ -1,0 +1,9 @@
+name = "STCN"
+description = "[NeurIPS 2021] Rethinking Space-Time Networks with Improved Memory Coverage for Efficient Video Object Segmentation"
+category = "vision"
+tags = ["computer-vision", "deep-learning", "pytorch", "segmentation", "video-segmentation", "video-object-segmentation", "neurips-2021"]
+repository = "https://github.com/hkchengrex/STCN"
+website = "https://hkchengrex.com/STCN/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

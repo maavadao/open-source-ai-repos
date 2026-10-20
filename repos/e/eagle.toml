@@ -1,0 +1,9 @@
+name = "Eagle"
+description = "Eagle: Frontier Vision-Language Models with Data-Centric Strategies"
+category = "models"
+tags = ["demo", "eagle", "gpt4", "huggingface", "llama", "llama3", "llava", "lmm"]
+repository = "https://github.com/NVlabs/Eagle"
+website = "https://nvlabs.github.io/Eagle/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "voicebox-pytorch"
+description = "Implementation of Voicebox, new SOTA Text-to-speech network from MetaAI, in Pytorch"
+category = "speech"
+tags = ["artificial-intelligence", "deep-learning", "text-to-speech"]
+repository = "https://github.com/lucidrains/voicebox-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "AI-Engineer"
+description = "AI Engineering Specially Topics- Agentic AI & GenAI Explanation"
+category = "mcp-servers"
+tags = ["agentic-ai", "ai-agents", "astradb", "autogen", "chromadb", "crewai", "embedding-models", "faiss"]
+repository = "https://github.com/Ratnesh-181998/AI-Engineer"
+website = "https://www.youtube.com/@aiDotEngineer/videos"
+license = "Apache-2.0"
+added = 2026-10-20

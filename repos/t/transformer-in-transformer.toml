@@ -1,0 +1,8 @@
+name = "transformer-in-transformer"
+description = "Implementation of Transformer in Transformer, pixel level attention paired with patch level attention for image classification, in Pytorch"
+category = "vision"
+tags = ["artificial-intelligence", "deep-learning", "transformers", "image-classification"]
+repository = "https://github.com/lucidrains/transformer-in-transformer"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

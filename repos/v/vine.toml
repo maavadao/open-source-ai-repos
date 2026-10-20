@@ -1,0 +1,8 @@
+name = "VINE"
+description = "[ICLR 2025] \"Robust Watermarking Using Generative Priors Against Image Editing: From Benchmarking to Advances\" (Official Implementation)"
+category = "image"
+tags = ["diffusion-models", "image-generation", "sdxl-turbo", "watermark", "watermarking"]
+repository = "https://github.com/Shilin-LU/VINE"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

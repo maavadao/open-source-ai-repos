@@ -1,0 +1,9 @@
+name = "Qbot"
+description = "[updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. online docs: https://ufund-me.github.io/Qbot qbot-mini: https://github.com/Charmve/iQuant"
+category = "local-llms"
+tags = ["funds", "machine-learning", "pytrade", "quantitative-finance", "quantitative-trading", "quantization", "strategies", "trademarks"]
+repository = "https://github.com/UFund-Me/Qbot"
+website = "https://github.com/Charmve"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "WaveFunctionCollapse"
+description = "Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics"
+category = "data-science"
+tags = ["procedural-generation", "machine-learning", "gamedev", "algorithm", "csharp", "wfc"]
+repository = "https://github.com/mxgmn/WaveFunctionCollapse"
+license = "NOASSERTION"
+language = "C#"
+added = 2026-10-20

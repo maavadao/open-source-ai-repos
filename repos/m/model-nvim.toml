@@ -1,0 +1,8 @@
+name = "model.nvim"
+description = "Neovim plugin for interacting with LLM's and building editor integrated prompts."
+category = "skills-prompts"
+tags = ["chatgpt", "neovim-plugin", "ai", "llm", "nvim", "nvim-plugin", "openai", "prompt-engineering"]
+repository = "https://github.com/gsuuon/model.nvim"
+license = "MIT"
+language = "Lua"
+added = 2026-10-20

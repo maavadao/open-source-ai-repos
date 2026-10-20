@@ -1,0 +1,8 @@
+name = "katrain"
+description = "Improve your Baduk skills by training with KataGo!"
+category = "ml-platforms"
+tags = ["go", "baduk", "weiqi", "ai", "katago", "lizzie", "sgf", "kivy"]
+repository = "https://github.com/sanderland/katrain"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

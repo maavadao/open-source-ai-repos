@@ -1,0 +1,9 @@
+name = "ml-workspace"
+description = "All-in-one web-based IDE specialized for machine learning and data science."
+category = "ml-platforms"
+tags = ["machine-learning", "deep-learning", "data-science", "docker", "jupyter", "jupyter-lab", "python", "anaconda"]
+repository = "https://github.com/ml-tooling/ml-workspace"
+website = "https://mltooling.org/ml-workspace"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

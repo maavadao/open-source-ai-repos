@@ -1,0 +1,9 @@
+name = "iwe"
+description = "Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents"
+category = "mcp-servers"
+tags = ["lsp", "markdown", "notes", "zettelkasten", "pkm", "neovim", "helix", "zed"]
+repository = "https://github.com/iwe-org/iwe"
+website = "https://iwe.md"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

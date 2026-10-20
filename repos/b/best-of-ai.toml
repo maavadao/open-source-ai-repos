@@ -1,0 +1,9 @@
+name = "best-of-ai"
+description = "A curated list of best ai tools"
+category = "learning"
+tags = ["ai", "ai-tools", "ai-tools-directory", "ai-agents", "ai-assistant", "ai-chatbot", "ai-engineering", "awesome"]
+repository = "https://github.com/best-of-ai/best-of-ai"
+website = "https://bestofai.io"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "OmniThink"
+description = "[EMNLP 2025] OmniThink: Expanding Knowledge Boundaries in Machine Writing through Thinking"
+category = "llm-apps"
+tags = ["artificial-intelligence", "generation", "gpt", "information-seeking", "knowledge-augmented-generation", "large-language-models", "natural-language-processing", "qwen"]
+repository = "https://github.com/zjunlp/OmniThink"
+website = "https://zjunlp.github.io/project/OmniThink/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

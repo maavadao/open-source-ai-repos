@@ -1,0 +1,10 @@
+name = "habitat-lab"
+description = "A modular high-level library to train embodied AI agents across a variety of tasks and environments."
+category = "robotics"
+tags = ["ai", "computer-vision", "robotics", "simulator", "sim2real", "deep-learning", "deep-reinforcement-learning", "reinforcement-learning"]
+repository = "https://github.com/facebookresearch/habitat-lab"
+website = "https://aihabitat.org/"
+license = "MIT"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

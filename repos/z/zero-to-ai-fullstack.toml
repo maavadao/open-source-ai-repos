@@ -1,0 +1,8 @@
+name = "zero-to-ai-fullstack"
+description = "A Java backend engineer learning AI full-stack in public — Python · FastAPI · RAG · pgvector · Next.js"
+category = "llm-apps"
+tags = ["fastapi", "langchain", "learning-in-public", "nextjs", "python", "rag"]
+repository = "https://github.com/yanhua1010/zero-to-ai-fullstack"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

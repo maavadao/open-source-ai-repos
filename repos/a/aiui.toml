@@ -1,0 +1,8 @@
+name = "AIUI"
+description = "AIUI is a platform enabling seamless two-way verbal communication with AI."
+category = "speech"
+tags = ["ai", "artificial-intelligence", "chatgpt", "chatgpt-api", "gpt", "gpt-3", "gpt-4", "machine-learning"]
+repository = "https://github.com/lspahija/AIUI"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

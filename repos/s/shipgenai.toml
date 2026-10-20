@@ -1,0 +1,9 @@
+name = "ShipGenAI"
+description = "50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed"
+category = "video"
+tags = ["ai", "boilerplate", "generative-ai", "gpt", "image-generation", "machine-learning", "nextjs", "open-source"]
+repository = "https://github.com/benlamiro/ShipGenAI"
+website = "https://shipgenai.site/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "PersFormer_3DLane"
+description = "[ECCV 2022 Oral] Perspective Transformer on 3D Lane Detection"
+category = "robotics"
+tags = ["lane-detection", "3d-lane-detection", "autonomous-driving", "computer-vision", "deep-learning"]
+repository = "https://github.com/OpenDriveLab/PersFormer_3DLane"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

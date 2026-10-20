@@ -1,0 +1,9 @@
+name = "tock"
+description = "Tock, the open source conversational AI toolkit."
+category = "chat"
+tags = ["nlp", "chatbot", "assistant", "ai", "kotlin", "opensource", "tock", "bot"]
+repository = "https://github.com/theopenconversationkit/tock"
+website = "https://doc.tock.ai"
+license = "Apache-2.0"
+language = "Kotlin"
+added = 2026-10-20

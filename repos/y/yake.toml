@@ -1,0 +1,9 @@
+name = "yake"
+description = "Single-document unsupervised keyword extraction"
+category = "other"
+tags = ["keyword-extraction", "unsupervised-approach", "corpus-independent", "domain-and-language-independent", "single-document", "ai"]
+repository = "https://github.com/INESCTEC/yake"
+website = "https://inesctec.github.io/yake"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

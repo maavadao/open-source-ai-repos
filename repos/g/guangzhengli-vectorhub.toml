@@ -1,0 +1,8 @@
+name = "vectorhub"
+description = "Quickly and easily build AI website or application by using embeddings!"
+category = "vector-databases"
+tags = ["chatgpt", "chatpdf", "embedding", "embeddings", "gpt", "gpt-3", "nextjs", "supabase"]
+repository = "https://github.com/guangzhengli/vectorhub"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

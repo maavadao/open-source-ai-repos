@@ -1,0 +1,9 @@
+name = "Large-Language-Models"
+description = "xLLM 1.0, smart crawling, knowledge graph discovery."
+category = "llm-apps"
+tags = ["llm", "rag", "xllm"]
+repository = "https://github.com/VincentGranville/Large-Language-Models"
+website = "https://bondingai.io/"
+license = "NOASSERTION"
+language = "TeX"
+added = 2026-10-20

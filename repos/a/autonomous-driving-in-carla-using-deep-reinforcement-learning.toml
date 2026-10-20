@@ -1,0 +1,8 @@
+name = "Autonomous-Driving-in-Carla-using-Deep-Reinforcement-Learning"
+description = "Deep Reinforcement Learning (PPO) in Autonomous Driving (Carla) [from scratch]"
+category = "learning"
+tags = ["autonomous-driving", "ddqn", "reinforcement-learning", "self-driving-car", "deep-reinforcement-learning", "ppo", "carla-driving-simulator", "carla-environment"]
+repository = "https://github.com/idreesshaikh/Autonomous-Driving-in-Carla-using-Deep-Reinforcement-Learning"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

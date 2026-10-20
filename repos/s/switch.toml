@@ -1,0 +1,9 @@
+name = "switch"
+description = "Connect any AI agent to your team in Slack, Teams & Discord. Open-source and self-hostable."
+category = "mcp-servers"
+tags = ["agent-orchestration", "ai-agents", "discord", "mcp", "microsoft-teams", "multi-agent", "slack", "ai"]
+repository = "https://github.com/sandbox-quantum/switch"
+website = "https://www.switchagents.ai"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

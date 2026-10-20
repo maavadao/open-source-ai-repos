@@ -1,0 +1,9 @@
+name = "ABC-GRPO"
+description = "Code For All-Quadrant Bounded Clipping GRPO. arxiv.org/pdf/2601.03895"
+category = "models"
+tags = ["grpo", "llm", "reinforcement-learning", "rlhf"]
+repository = "https://github.com/chi2liu/ABC-GRPO"
+website = "https://arxiv.org/pdf/2601.03895"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

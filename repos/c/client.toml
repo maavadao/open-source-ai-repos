@@ -1,0 +1,8 @@
+name = "client"
+description = "OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API."
+category = "coding"
+tags = ["api", "client", "codex", "gpt-3", "language", "natural", "openai", "php"]
+repository = "https://github.com/openai-php/client"
+license = "MIT"
+language = "PHP"
+added = 2026-10-20

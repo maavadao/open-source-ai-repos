@@ -1,0 +1,8 @@
+name = "NSFWDetector"
+description = "A NSFW (aka porn) detector with CoreML"
+category = "data-science"
+tags = ["coreml", "swift", "lovoo", "ios", "ios-library", "cocoapods", "machine-learning"]
+repository = "https://github.com/lovoo/NSFWDetector"
+license = "BSD-3-Clause"
+language = "Swift"
+added = 2026-10-20

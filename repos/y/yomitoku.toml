@@ -1,0 +1,9 @@
+name = "yomitoku"
+description = "YomiTokuはAIを活用した日本語文書解析エンジンを提供するPythonパッケージです。 Yomitoku is an AI-powered document image analysis package designed specifically for the Japanese language."
+category = "documents"
+tags = ["deep-learning", "layout-analysis", "ocr", "python", "pytorch"]
+repository = "https://github.com/kotaro-kinoshita/yomitoku"
+website = "https://kotaro-kinoshita.github.io/yomitoku/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

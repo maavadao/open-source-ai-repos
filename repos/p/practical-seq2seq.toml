@@ -1,0 +1,9 @@
+name = "practical_seq2seq"
+description = "A simple, minimal wrapper for tensorflow's seq2seq module, for experimenting with datasets rapidly"
+category = "chat"
+tags = ["seq2seq", "chatbot", "tensorflow", "neural-conversation-models"]
+repository = "https://github.com/suriyadeepan/practical_seq2seq"
+website = "http://suriyadeepan.github.io/2016-12-31-practical-seq2seq/"
+license = "GPL-3.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

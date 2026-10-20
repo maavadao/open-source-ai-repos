@@ -1,0 +1,9 @@
+name = "appworld"
+description = "AppWorld: A Controllable World of Apps and People for Benchmarking Function Calling and Interactive Coding Agent, ACL'24 Best Resource Paper."
+category = "agents"
+tags = ["interactive-coding", "acl-2024", "ai-agents", "ai-assistants", "ai-environment", "ai-planning", "autonomous-agents", "coding-agents"]
+repository = "https://github.com/StonyBrookNLP/appworld"
+website = "https://appworld.dev/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

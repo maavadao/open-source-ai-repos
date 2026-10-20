@@ -1,0 +1,9 @@
+name = "telegraf"
+description = "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data."
+category = "data-science"
+tags = ["telegraf", "monitoring", "time-series", "metrics", "golang", "influxdb", "json", "kafka"]
+repository = "https://github.com/influxdata/telegraf"
+website = "https://influxdata.com/telegraf"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

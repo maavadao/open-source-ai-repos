@@ -1,0 +1,9 @@
+name = "AgentPilot"
+description = "A versatile workflow automation platform to create, organize, and execute AI workflows, from a single LLM to complex AI-driven workflows."
+category = "coding"
+tags = ["agent", "agi", "ai", "artificial-intelligence", "copilot", "copilot-chat", "desktop-assistant", "gui"]
+repository = "https://github.com/jbexta/AgentPilot"
+website = "https://agentpilot.ai"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

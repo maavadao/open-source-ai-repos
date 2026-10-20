@@ -1,0 +1,8 @@
+name = "genz-icp"
+description = "GenZ-ICP: SOTA robust LiDAR odometry (IEEE RA-L 2025)"
+category = "robotics"
+tags = ["icp", "lidar-odometry", "lidar-slam", "pose-estimation", "robotics", "ros", "ros2", "slam"]
+repository = "https://github.com/cocel-postech/genz-icp"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

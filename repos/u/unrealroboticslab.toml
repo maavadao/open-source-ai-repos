@@ -1,0 +1,9 @@
+name = "UnrealRoboticsLab"
+description = "A high-fidelity, open-source robotics simulator integrating Unreal Engine's photorealistic rendering with MuJoCo's precision physics."
+category = "robotics"
+tags = ["mujoco", "robotics", "ue5", "unreal-engine"]
+repository = "https://github.com/URLab-Sim/UnrealRoboticsLab"
+website = "https://urlab-sim.github.io/UnrealRoboticsLab/"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

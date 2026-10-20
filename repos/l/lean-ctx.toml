@@ -1,0 +1,9 @@
+name = "lean-ctx"
+description = "LeanCTX is the Context Gateway for AI Systems. Select task-relevant context, apply supported controls, connect local knowledge and inspect recorded evidence. Open-source Engine: CLI, MCP, hooks and supported proxy paths."
+category = "mcp-servers"
+tags = ["ai", "cursor", "llm", "mcp", "rust", "agentic-coding", "claude-code", "copilot"]
+repository = "https://github.com/yvgude/lean-ctx"
+website = "https://leanctx.com"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

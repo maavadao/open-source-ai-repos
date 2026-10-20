@@ -1,0 +1,9 @@
+name = "machine-learning-visualized"
+description = "ML algorithms implemented and derived from first-principles in Jupyter Notebooks and NumPy"
+category = "learning"
+tags = ["book", "jupyter-notebook", "latex", "machine-learning", "numpy", "python", "neural-network"]
+repository = "https://github.com/gavinkhung/machine-learning-visualized"
+website = "https://ml-visualized.com/"
+license = "MIT"
+language = "TeX"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "aigotools"
+description = "AigoTools can help users quickly create and manage website directory, with built-in site auto-crawling features, and also provides internationalization, SEO, image storage, and other functions. It allows users to quickly deploy their own directory site online."
+category = "other"
+tags = ["ai", "directory", "nestjs", "nextjs", "openai", "tools", "aigotools"]
+repository = "https://github.com/heyjunpenn/aigotools"
+website = "https://www.aigotools.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

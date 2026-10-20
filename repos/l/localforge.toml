@@ -1,0 +1,9 @@
+name = "localforge"
+description = "Local coding agent with neat UI"
+category = "coding"
+tags = ["ai", "javascript", "langchain", "vibe-coding", "ai-agents", "ai-framework", "local-llm", "prompt-engineering"]
+repository = "https://github.com/rockbite/localforge"
+website = "https://localforge.dev"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

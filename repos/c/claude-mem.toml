@@ -1,0 +1,9 @@
+name = "claude-mem"
+description = "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
+category = "skills-prompts"
+tags = ["ai", "ai-agents", "ai-memory", "anthropic", "artificial-intelligence", "claude", "claude-agent-sdk", "claude-agents"]
+repository = "https://github.com/thedotmack/claude-mem"
+website = "https://claude-mem.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

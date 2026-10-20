@@ -1,0 +1,9 @@
+name = "solo"
+description = "Solo Agent — an open-source, local-first workspace where humans and AI coding agents collaborate through channels, tasks, teams, and persistent memory."
+category = "coding"
+tags = ["ai-agents", "claude-code", "codex", "multi-agent", "opencode", "agent-workspace", "ai-workspace", "agent-orchestration"]
+repository = "https://github.com/solo-agent/solo"
+website = "https://soloagent.team"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

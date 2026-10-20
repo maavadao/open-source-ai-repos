@@ -1,0 +1,8 @@
+name = "astryx"
+description = "An open source design system that's fully customizable and agent ready"
+category = "agents"
+repository = "https://github.com/facebook/astryx"
+website = "http://astryx.atmeta.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

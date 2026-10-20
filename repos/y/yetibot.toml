@@ -1,0 +1,9 @@
+name = "yetibot"
+description = "Extreme chatops bot for Slack, Discord, Mattermost, IRC New contributors welcome"
+category = "chat"
+tags = ["chatbot", "chatops", "clojure", "slack", "irc", "docker", "unix-pipes", "yetibot"]
+repository = "https://github.com/yetibot/yetibot"
+website = "https://yetibot.com"
+license = "EPL-1.0"
+language = "Clojure"
+added = 2026-10-20

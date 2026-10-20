@@ -1,0 +1,9 @@
+name = "RePlay"
+description = "A Comprehensive Framework for Building End-to-End Recommendation Systems with State-of-the-Art Models"
+category = "models"
+tags = ["algorithms", "distributed-computing", "evaluation", "machine-learning", "pyspark", "pytorch", "recommendation-algorithms", "recommender-system"]
+repository = "https://github.com/sb-ai-lab/RePlay"
+website = "https://sb-ai-lab.github.io/RePlay/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

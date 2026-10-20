@@ -1,0 +1,9 @@
+name = "Pytorch-NLU"
+description = "中文文本分类、序列标注工具包（pytorch），支持中文长文本、短文本的多类、多标签分类任务，支持中文命名实体识别、词性标注、分词、抽取式文本摘要等序列标注任务。 Chinese text classification and sequence labeling toolkit, supports multi class and multi label classification, text similsrity, text summary and NER."
+category = "models"
+tags = ["python3", "pytorch", "text-classification", "sequence-labeling", "named-entity-recognition", "word-segmentation", "pos-tagging", "chinese-text-segmentation"]
+repository = "https://github.com/yongzhuo/Pytorch-NLU"
+website = "https://blog.csdn.net/rensihui"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "evmbench"
+description = "Collab with OpenAI. A benchmark and harness for finding and exploiting smart contract bugs"
+category = "agents"
+tags = ["agents", "ai", "audit", "blockchain", "eth", "ethereum", "evm", "security"]
+repository = "https://github.com/paradigmxyz/evmbench"
+website = "https://paradigm.xyz/evmbench"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

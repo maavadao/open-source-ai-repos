@@ -1,0 +1,9 @@
+name = "MagicDrive"
+description = "[ICLR24] Official implementation of the paper “MagicDrive: Street View Generation with Diverse 3D Geometry Control”"
+category = "video"
+tags = ["autonomous-vehicles", "deep-learning", "image-generation", "pytorch", "diffusion-models", "video-generation"]
+repository = "https://github.com/cure-lab/MagicDrive"
+website = "https://gaoruiyuan.com/magicdrive/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

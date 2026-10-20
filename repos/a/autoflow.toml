@@ -1,0 +1,9 @@
+name = "autoflow"
+description = "pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai"
+category = "vector-databases"
+tags = ["mysql", "rag", "serverless", "vector-database", "chatbot", "graphrag", "knowledge-graph", "cot"]
+repository = "https://github.com/pingcap/autoflow"
+website = "https://tidb.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "jadx-ai-mcp"
+description = "Plugin for JADX to integrate MCP server"
+category = "mcp-servers"
+tags = ["ai", "mcp-server", "mobile", "pentesting", "reverse-engineering", "sast", "java", "llm"]
+repository = "https://github.com/zinja-coder/jadx-ai-mcp"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

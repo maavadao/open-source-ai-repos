@@ -1,0 +1,8 @@
+name = "frontend-slides"
+description = "Create beautiful slides on the web using a coding agent's frontend skills"
+category = "coding"
+tags = ["ai-slides", "anthropic", "claude", "claude-code", "claude-skill", "generative-ui", "html", "presentation"]
+repository = "https://github.com/zarazhangrui/frontend-slides"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

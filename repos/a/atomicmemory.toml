@@ -1,0 +1,9 @@
+name = "atomicmemory"
+description = "Portable semantic memory for AI agents: core engine, TypeScript SDK, framework adapters, MCP server, CLI, and host plugins."
+category = "mcp-servers"
+tags = ["agent-infrastructure", "agent-memory", "ai-agents", "ai-memory", "cli", "context-engineering", "developer-tools", "llm"]
+repository = "https://github.com/atomicstrata/atomicmemory"
+website = "https://docs.atomicstrata.ai"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Stream-Omni"
+description = "Stream-Omni is a GPT-4o-like language-vision-speech chatbot that simultaneously supports interaction across various modality combinations."
+category = "speech"
+tags = ["chatbot", "gpt-4o", "large-language-models", "large-multimodal-models", "llama", "llm", "mutlimodal", "speech-recognition"]
+repository = "https://github.com/ictnlp/Stream-Omni"
+website = "https://arxiv.org/abs/2506.13642"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

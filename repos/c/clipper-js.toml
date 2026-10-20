@@ -1,0 +1,8 @@
+name = "clipper.js"
+description = "HTML to Markdown converter and crawler."
+category = "llm-apps"
+tags = ["crawl", "html-to-markdown", "markdown", "nlp", "retrieval-augmented-generation", "search"]
+repository = "https://github.com/philschmid/clipper.js"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

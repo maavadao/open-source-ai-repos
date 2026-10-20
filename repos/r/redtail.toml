@@ -1,0 +1,8 @@
+name = "redtail"
+description = "Perception and AI components for autonomous mobile robotics."
+category = "robotics"
+tags = ["jetson", "drones", "ai", "deep-learning", "artificial-intelligence", "robotics", "computer-vision"]
+repository = "https://github.com/NVIDIA-AI-IOT/redtail"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

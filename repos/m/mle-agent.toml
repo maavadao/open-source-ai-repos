@@ -1,0 +1,8 @@
+name = "MLE-agent"
+description = "MLE-Agent: Your intelligent companion for seamless AI engineering and research. Integrate with arxiv and paper with code to provide better code/research plans OpenAI, Anthropic, Gemini, Ollama, etc supported. Code RAG"
+category = "agents"
+tags = ["agent", "ai", "llm", "ml", "mle", "mlops"]
+repository = "https://github.com/MLSysOps/MLE-agent"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

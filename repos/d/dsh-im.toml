@@ -1,0 +1,8 @@
+name = "dsh-im"
+description = "通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels)."
+category = "chat"
+tags = ["dsh-plugin", "ai-agents", "chatbot", "cordis", "deepseek", "deepseek-harness", "dingtalk-bot", "discord-bot"]
+repository = "https://github.com/xmanrui/dsh-im"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

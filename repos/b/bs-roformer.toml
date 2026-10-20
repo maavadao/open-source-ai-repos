@@ -1,0 +1,8 @@
+name = "BS-RoFormer"
+description = "Implementation of Band Split Roformer, SOTA Attention network for music source separation out of ByteDance AI Labs"
+category = "models"
+tags = ["artificial-intelligence", "attention-mechanisms", "deep-learning", "music-source-separation", "transformers"]
+repository = "https://github.com/lucidrains/BS-RoFormer"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

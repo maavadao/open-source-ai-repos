@@ -1,0 +1,9 @@
+name = "aimet"
+description = "AIMET is a library that provides advanced quantization and compression techniques for trained neural network models."
+category = "local-llms"
+tags = ["quantization", "deep-learning", "compression", "open-source", "machine-learning", "pruning", "auto-ml", "network-compression"]
+repository = "https://github.com/qualcomm/aimet"
+website = "https://quic.github.io/aimet-pages/index.html"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "mlx-openai-server"
+description = "A high-performance API server that provides OpenAI-compatible endpoints for MLX models. Developed using Python and powered by the FastAPI framework, it provides an efficient, scalable, and user-friendly solution for running MLX-based vision and language models locally with an…"
+category = "speech"
+tags = ["mlx", "mlx-vlm", "fastapi", "mlx-lm", "queue", "apple-silicon", "vision-api", "openai-compatible"]
+repository = "https://github.com/cubist38/mlx-openai-server"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

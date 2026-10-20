@@ -1,0 +1,9 @@
+name = "server"
+description = "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry."
+category = "vector-databases"
+tags = ["amazon-web-services", "database", "fulltext-search", "json", "mariadb", "mysql", "rdbms", "relational-databases"]
+repository = "https://github.com/MariaDB/server"
+website = "https://mariadb.org"
+license = "GPL-2.0"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "GOPS"
+description = "General Optimal control Problem Solver (GOPS), an easy-to-use PyTorch reinforcement learning solver package for industrial control."
+category = "ml-platforms"
+tags = ["pytorch", "reinforcement-learning"]
+repository = "https://github.com/Intelligent-Driving-Laboratory/GOPS"
+website = "https://gops.readthedocs.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

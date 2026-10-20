@@ -1,0 +1,9 @@
+name = "rekal-cli"
+description = "Your coding agent starts every session blank. Rekal is the memory your team is missing"
+category = "coding"
+tags = ["agent-memory", "ai-coding", "claude-code", "cli", "code-context", "developer-tools", "duckdb", "embeddings"]
+repository = "https://github.com/rekal-dev/rekal-cli"
+website = "https://rekal.dev"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

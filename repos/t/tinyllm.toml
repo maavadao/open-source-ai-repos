@@ -1,0 +1,8 @@
+name = "TinyLLM"
+description = "Setup and run a local LLM and Chatbot using consumer grade hardware."
+category = "local-llms"
+tags = ["artificial-intelligence", "chatbot", "large-language-models", "llama-cpp-python", "llm", "openai", "vllm", "rag"]
+repository = "https://github.com/jasonacox/TinyLLM"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

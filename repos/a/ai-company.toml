@@ -1,0 +1,8 @@
+name = "AI-company"
+description = "Multi-agent team operating system for Claude Code. 108 MCP tools, 40+ agent templates, 10 lifecycle hooks, 7 pipeline workflows. Persistent teams, structured meetings, task wall, real-time React dashboard. No LangChain/AutoGen — pure CC native integration."
+category = "mcp-servers"
+tags = ["agent-framework", "ai-agents", "claude", "claude-code", "dashboard", "fastapi", "mcp", "python"]
+repository = "https://github.com/CronusL-1141/AI-company"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

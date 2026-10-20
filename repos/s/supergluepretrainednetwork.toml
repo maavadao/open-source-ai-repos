@@ -1,0 +1,8 @@
+name = "SuperGluePretrainedNetwork"
+description = "SuperGlue: Learning Feature Matching with Graph Neural Networks (CVPR 2020, Oral)"
+category = "vision"
+tags = ["deep-learning", "feature-matching", "pose-estimation", "graph-neural-networks"]
+repository = "https://github.com/magicleap/SuperGluePretrainedNetwork"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

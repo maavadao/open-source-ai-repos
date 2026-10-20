@@ -1,0 +1,9 @@
+name = "stable-diffusion-aesthetic-gradients"
+description = "Personalization for Stable Diffusion via Aesthetic Gradients"
+category = "image"
+tags = ["diffusion-models", "laion", "stable-diffusion", "text-to-image", "text2image"]
+repository = "https://github.com/vicgalle/stable-diffusion-aesthetic-gradients"
+website = "https://arxiv.org/abs/2209.12330"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

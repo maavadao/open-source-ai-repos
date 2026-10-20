@@ -1,0 +1,9 @@
+name = "RosettaStone"
+description = "Hearthstone simulator using C++ with some reinforcement learning"
+category = "ml-platforms"
+tags = ["hearthstone", "reinforcement-learning", "cpp17", "hearthstone-api", "rl", "rl-environment", "cpp", "cplusplus"]
+repository = "https://github.com/utilForever/RosettaStone"
+website = "https://utilforever.github.io/RosettaStone/"
+license = "AGPL-3.0"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "tesseract.js"
+description = "Pure Javascript OCR for more than 100 Languages"
+category = "documents"
+tags = ["tesseract", "webassembly", "ocr", "javascript", "deep-learning"]
+repository = "https://github.com/naptha/tesseract.js"
+website = "http://tesseract.projectnaptha.com/"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

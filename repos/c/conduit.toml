@@ -1,0 +1,9 @@
+name = "conduit"
+description = "Native iOS and Android client for Open WebUI, direct OpenAI-compatible, Ollama, and Hermes agents."
+category = "security"
+tags = ["ollama", "openwebui", "selfhosted", "ai-agents", "ai-assistant", "android", "chat", "chatbot"]
+repository = "https://github.com/cogwheel0/conduit"
+website = "https://conduit.mobile"
+license = "GPL-3.0"
+language = "Dart"
+added = 2026-10-20

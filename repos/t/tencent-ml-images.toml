@@ -1,0 +1,8 @@
+name = "tencent-ml-images"
+description = "Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet"
+category = "vision"
+tags = ["database", "deep-learning", "computer-vision"]
+repository = "https://github.com/Tencent/tencent-ml-images"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

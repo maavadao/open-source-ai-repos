@@ -1,0 +1,9 @@
+name = "nora"
+description = "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes — REST, CLI, and MCP."
+category = "mcp-servers"
+tags = ["agent-orchestration", "ai-agents", "control-plane", "docker", "kubernetes", "llmops", "nemoclaw", "observability"]
+repository = "https://github.com/solomon2773/nora"
+website = "https://norafleet.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

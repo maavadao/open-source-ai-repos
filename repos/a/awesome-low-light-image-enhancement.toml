@@ -1,0 +1,8 @@
+name = "awesome-low-light-image-enhancement"
+description = "This is a resouce list for low light image enhancement"
+category = "learning"
+tags = ["low-light", "image-enhancement", "low-light-image-enhancement", "computer-vision", "image-processing", "retinex", "histogram-equalization", "deep-learning"]
+repository = "https://github.com/zhihongz/awesome-low-light-image-enhancement"
+license = "NOASSERTION"
+language = "MATLAB"
+added = 2026-10-20

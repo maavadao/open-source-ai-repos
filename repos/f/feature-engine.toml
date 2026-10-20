@@ -1,0 +1,9 @@
+name = "feature_engine"
+description = "Feature engineering and selection open-source Python library compatible with sklearn."
+category = "data-science"
+tags = ["machine-learning", "data-science", "python", "scikit-learn", "feature-engineering", "feature-selection", "feature-extraction"]
+repository = "https://github.com/feature-engine/feature_engine"
+website = "https://feature-engine.trainindata.com/"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

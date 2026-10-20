@@ -1,0 +1,9 @@
+name = "open-kritt"
+description = "Open-source, self-hosted AI vulnerability research tool that orchestrates agents to find and validate security issues in code."
+category = "security"
+tags = ["ai", "bug-bounty", "bugbounty-tools", "security-research", "ai-agents", "ai-security", "code-security", "hackenproof"]
+repository = "https://github.com/Kritt-ai/open-kritt"
+website = "https://kritt.ai/"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-10-20

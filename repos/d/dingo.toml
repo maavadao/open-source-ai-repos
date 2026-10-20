@@ -1,0 +1,9 @@
+name = "dingo"
+description = "A multi-modal vector database that supports upserts and vector queries using unified SQL (MySQL-Compatible) on structured and unstructured data, while meeting the requirements of high concurrency and ultra-low latency."
+category = "vector-databases"
+tags = ["serving", "embedding-store", "vector-database", "mysql-compatibility", "embedding-search", "key-value-distributed-store", "vector-ocean", "unified-sql"]
+repository = "https://github.com/dingodb/dingo"
+website = "https://www.dingodb.com"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

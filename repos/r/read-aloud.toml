@@ -1,0 +1,9 @@
+name = "read-aloud"
+description = "An awesome browser extension that reads aloud webpage content with one click"
+category = "speech"
+tags = ["text-to-speech", "chrome-extensions", "accessibility", "firefox-addon", "page-reader", "chrome-extension", "browser-addon", "browser-extension"]
+repository = "https://github.com/ken107/read-aloud"
+website = "https://readaloud.app"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

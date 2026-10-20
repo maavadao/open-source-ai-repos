@@ -1,0 +1,8 @@
+name = "agent-desktop"
+description = "Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels."
+category = "mcp-servers"
+tags = ["accessibility", "accessibility-api", "ai-agents", "automation", "cli", "desktop-automation", "macos", "mcp"]
+repository = "https://github.com/lahfir/agent-desktop"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

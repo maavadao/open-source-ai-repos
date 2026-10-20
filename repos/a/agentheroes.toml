@@ -1,0 +1,9 @@
+name = "agentheroes"
+description = "Generate, animate and schedule your AI characters"
+category = "no-code"
+tags = ["agent", "agents", "ai", "chatgpt", "generate", "image", "lora", "replicate"]
+repository = "https://github.com/agentheroes/agentheroes"
+website = "https://agentheroes.ai"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

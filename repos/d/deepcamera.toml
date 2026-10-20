@@ -1,0 +1,9 @@
+name = "DeepCamera"
+description = "Open-Source AI Camera Skills Platform, AI NVR & CCTV Surveillance. Local VLM video analysis with Qwen, DeepSeek, SmolVLM, LLaVA, YOLO26. LLM-powered agentic security camera agent — watches, understands, remembers & guards your home via Telegram, Discord or Slack. Pluggable AI…"
+category = "vision"
+tags = ["ai", "deep-learning", "face-recognition", "object-detection", "video-surveillance", "machine-learning", "python", "home-assistant"]
+repository = "https://github.com/SharpAI/DeepCamera"
+website = "http://www.sharpai.org"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

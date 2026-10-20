@@ -1,0 +1,8 @@
+name = "hyde"
+description = "HyDE: Precise Zero-Shot Dense Retrieval without Relevance Labels"
+category = "models"
+tags = ["dense-retrieval", "large-language-models", "zeroshot"]
+repository = "https://github.com/texttron/hyde"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

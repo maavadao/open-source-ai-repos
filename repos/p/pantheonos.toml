@@ -1,0 +1,9 @@
+name = "PantheonOS"
+description = "A general, evolvable, and distributed agent framework & harness for data science."
+category = "agents"
+tags = ["pantheonos", "agent", "singlecell", "spatial-transcriptomics", "ai", "ai-agents", "bioinformatics", "biology"]
+repository = "https://github.com/aristoteleo/PantheonOS"
+website = "https://pantheonos.stanford.edu"
+license = "BSD-2-Clause"
+language = "Python"
+added = 2026-10-20

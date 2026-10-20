@@ -1,0 +1,8 @@
+name = "jericho"
+description = "A learning environment for man-made Interactive Fiction games."
+category = "ml-platforms"
+tags = ["interactive-fiction", "reinforcement-learning", "text-based-adventure"]
+repository = "https://github.com/microsoft/jericho"
+license = "GPL-2.0"
+language = "C"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "telegram-bot-sdk"
+description = "Telegram Bot API PHP SDK. Lets you build Telegram Bots easily! Supports Laravel out of the box."
+category = "chat"
+tags = ["telegram", "telegram-bot", "telegram-bot-sdk", "php", "laravel", "botkit", "chatbot", "bot"]
+repository = "https://github.com/irazasyed/telegram-bot-sdk"
+website = "https://telegram-bot-sdk.com"
+license = "BSD-3-Clause"
+language = "PHP"
+added = 2026-10-20

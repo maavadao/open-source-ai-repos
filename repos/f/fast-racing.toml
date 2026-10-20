@@ -1,0 +1,8 @@
+name = "Fast-Racing"
+description = "An Open-source Strong Baseline for SE(3) Planning in Autonomous Drone Racing"
+category = "robotics"
+tags = ["drone-racing", "se3", "motion-planning", "trajectory", "optimization", "minco"]
+repository = "https://github.com/ZJU-FAST-Lab/Fast-Racing"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "XScene-UEPlugin"
+description = "A Unreal Engine 5 (UE5) based plugin aiming to provide real-time visulization, management, editing, and scalable hybrid rendering of Guassian Splatting model."
+category = "vision"
+tags = ["computer-graphics", "computer-vision", "radiance-field", "unreal-engine-5"]
+repository = "https://github.com/xverse-engine/XScene-UEPlugin"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

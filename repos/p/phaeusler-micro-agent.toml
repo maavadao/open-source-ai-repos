@@ -1,0 +1,8 @@
+name = "micro-agent"
+description = "A tiny implementation of an autonomous agent powered by LLMs (OpenAI GPT-4)"
+category = "agents"
+tags = ["agent", "gpt", "llm", "openai"]
+repository = "https://github.com/pHaeusler/micro-agent"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "cs230-code-examples"
+description = "Code examples in pyTorch and Tensorflow for CS230"
+category = "vision"
+tags = ["tensorflow", "pytorch", "computer-vision", "natural-language-processing"]
+repository = "https://github.com/cs230-stanford/cs230-code-examples"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "ovo"
+description = "Agent behavior that compiles"
+category = "mcp-servers"
+tags = ["a2a", "agent", "mcp", "x402", "web4", "autonomous-agents", "workflow", "zk-snarks"]
+repository = "https://github.com/qntx/ovo"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

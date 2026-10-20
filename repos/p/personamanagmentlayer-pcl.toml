@@ -1,0 +1,9 @@
+name = "pcl"
+description = "Persona Control Language (PCL)"
+category = "security"
+tags = ["anthropic", "claude", "deepseek", "gemini", "generative-ai", "llm", "ollama", "openai"]
+repository = "https://github.com/personamanagmentlayer/pcl"
+website = "https://pclang.org"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

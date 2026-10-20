@@ -1,0 +1,8 @@
+name = "lightweight-human-pose-estimation-3d-demo.pytorch"
+description = "Real-time 3D multi-person pose estimation demo in PyTorch. OpenVINO backend can be used for fast inference on CPU."
+category = "vision"
+tags = ["human-pose-estimation", "real-time", "3d-human-pose", "multi-person-pose-estimation", "lightweight", "pytorch", "openvino", "deep-learning"]
+repository = "https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

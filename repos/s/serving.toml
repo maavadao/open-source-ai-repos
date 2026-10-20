@@ -1,0 +1,9 @@
+name = "serving"
+description = "A flexible, high-performance serving system for machine learning models"
+category = "local-llms"
+tags = ["machine-learning", "deep-learning", "deep-neural-networks", "python", "cpp", "neural-network", "ml", "serving"]
+repository = "https://github.com/tensorflow/serving"
+website = "https://www.tensorflow.org/serving"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

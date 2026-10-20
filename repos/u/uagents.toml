@@ -1,0 +1,8 @@
+name = "uAgents"
+description = "A fast and lightweight framework for creating decentralized agents with ease."
+category = "agents"
+tags = ["agents", "ai", "ai-agents", "llm", "multi-agent-systems"]
+repository = "https://github.com/fetchai/uAgents"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

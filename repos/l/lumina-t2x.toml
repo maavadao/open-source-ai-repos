@@ -1,0 +1,8 @@
+name = "Lumina-T2X"
+description = "Lumina-T2X is a unified framework for Text to Any Modality Generation"
+category = "image"
+tags = ["aigc", "transformer", "diffusion-models", "diffusion", "diffusion-model", "diffusion-transformer", "generation-models", "transformers"]
+repository = "https://github.com/Alpha-VLLM/Lumina-T2X"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

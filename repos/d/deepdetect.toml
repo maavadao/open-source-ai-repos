@@ -1,0 +1,9 @@
+name = "deepdetect"
+description = "Deep Learning Server and CLI for Torch and TensorRT"
+category = "vision"
+tags = ["deep-learning", "machine-learning", "caffe", "xgboost", "rest-api", "tsne", "object-detection", "image-segmentation"]
+repository = "https://github.com/jolibrain/deepdetect"
+website = "https://www.deepdetect.com/"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

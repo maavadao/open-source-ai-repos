@@ -1,0 +1,7 @@
+name = "DoYouEvenLearn"
+description = "Essential Guide to keep up with AI/ML/DL/CV"
+category = "vision"
+tags = ["artificial-intelligence", "machine-learning", "computer-vision", "reinforcement-learning"]
+repository = "https://github.com/BAILOOL/DoYouEvenLearn"
+license = "CC0-1.0"
+added = 2026-10-20

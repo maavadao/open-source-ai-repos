@@ -1,0 +1,9 @@
+name = "NCFM"
+description = "Official PyTorch implementation of the paper \"Dataset Distillation with Neural Characteristic Function: A Minmax Perspective\" (NCFM) in CVPR 2025 (Full Score, Highlight)."
+category = "vision"
+tags = ["dataset-distillation", "synthetic-data", "computer-vision", "data-centric-ai"]
+repository = "https://github.com/gszfwsb/NCFM"
+website = "https://gszfwsb.github.io/NCFM/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

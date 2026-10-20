@@ -1,0 +1,7 @@
+name = "awesome-rag"
+description = "Awesome-RAG: Collect typical RAG papers and systems."
+category = "learning"
+tags = ["agent", "ai", "graphrag", "llm", "mm", "opensource", "paper", "rag"]
+repository = "https://github.com/awesome-rag/awesome-rag"
+license = "Apache-2.0"
+added = 2026-10-20

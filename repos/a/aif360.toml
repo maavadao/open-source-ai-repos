@@ -1,0 +1,9 @@
+name = "AIF360"
+description = "A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models."
+category = "ml-platforms"
+tags = ["ai", "fairness-ai", "fairness", "fairness-testing", "fairness-awareness-model", "bias-detection", "bias", "bias-correction"]
+repository = "https://github.com/Trusted-AI/AIF360"
+website = "https://aif360.res.ibm.com/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

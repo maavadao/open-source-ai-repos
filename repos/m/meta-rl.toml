@@ -1,0 +1,8 @@
+name = "Meta-RL"
+description = "Implementation of Meta-RL A3C algorithm"
+category = "ml-platforms"
+tags = ["tensorflow", "reinforcement-learning"]
+repository = "https://github.com/awjuliani/Meta-RL"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

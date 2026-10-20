@@ -1,0 +1,8 @@
+name = "soundstorm-pytorch"
+description = "Implementation of SoundStorm, Efficient Parallel Audio Generation from Google Deepmind, in Pytorch"
+category = "models"
+tags = ["artificial-intelligence", "audio-generation", "deep-learning", "non-autoregressive", "transformers", "attention-mechanism"]
+repository = "https://github.com/lucidrains/soundstorm-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

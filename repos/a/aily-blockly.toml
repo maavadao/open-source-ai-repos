@@ -1,0 +1,9 @@
+name = "aily-blockly"
+description = "AI IDE for hardware development, support Arduino, MicroPython, ESP32, STM32, RP2040, Nrf5x..."
+category = "coding"
+tags = ["ai", "arduino", "blockly", "iot", "ide"]
+repository = "https://github.com/ailyProject/aily-blockly"
+website = "https://aily.pro"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "LakonLab"
+description = "Official implementation of AsymFlow, pi-Flow, GMFlow"
+category = "image"
+tags = ["diffusion-models", "distillation", "flow-matching", "generative-ai", "generative-model", "image-generation", "pytorch", "text-to-image"]
+repository = "https://github.com/Lakonik/LakonLab"
+website = "https://hanshengchen.com/research#pub_diffuion"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

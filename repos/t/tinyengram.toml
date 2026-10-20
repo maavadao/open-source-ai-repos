@@ -1,0 +1,8 @@
+name = "TinyEngram"
+description = "Research of DeepSeek Engram Architecture based on Qwen-3 and Stable Diffusion series."
+category = "image"
+tags = ["deepseek", "engram", "llm", "qwen", "transformer", "peft", "fine-tuning", "deepseek-ai"]
+repository = "https://github.com/AutoArk/TinyEngram"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

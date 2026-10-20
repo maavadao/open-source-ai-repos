@@ -1,0 +1,9 @@
+name = "argos-translate"
+description = "Open-source offline translation library written in Python"
+category = "models"
+tags = ["python", "machine-translation", "transformers", "translation", "language-models", "linux", "nlp", "open-source"]
+repository = "https://github.com/argosopentech/argos-translate"
+website = "https://www.argosopentech.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

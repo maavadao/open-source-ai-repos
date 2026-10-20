@@ -1,0 +1,8 @@
+name = "mt-dnn"
+description = "Multi-Task Deep Neural Networks for Natural Language Understanding"
+category = "models"
+tags = ["multi-task-learning", "natural-language-understanding", "deep-learning", "microsoft", "ranking", "named-entity-recognition", "bert", "machine-reading-comprehension"]
+repository = "https://github.com/namisan/mt-dnn"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

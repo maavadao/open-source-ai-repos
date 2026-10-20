@@ -1,0 +1,9 @@
+name = "ccpm"
+description = "Project management skill system for Agents that uses GitHub Issues and Git worktrees for parallel agent execution."
+category = "coding"
+tags = ["ai-agents", "ai-coding", "claude", "claude-code", "project-management", "vibe-coding"]
+repository = "https://github.com/automazeio/ccpm"
+website = "https://automaze.io"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

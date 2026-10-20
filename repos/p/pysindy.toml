@@ -1,0 +1,9 @@
+name = "pysindy"
+description = "A package for the sparse identification of nonlinear dynamical systems from data"
+category = "data-science"
+tags = ["dynamical-systems", "machine-learning", "sparse-regression", "model-discovery", "system-identification", "nonlinear-dynamics"]
+repository = "https://github.com/dynamicslab/pysindy"
+website = "https://pysindy.readthedocs.io/en/latest/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

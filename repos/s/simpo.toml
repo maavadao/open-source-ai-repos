@@ -1,0 +1,8 @@
+name = "SimPO"
+description = "[NeurIPS 2024] SimPO: Simple Preference Optimization with a Reference-Free Reward"
+category = "models"
+tags = ["alignment", "large-language-models", "preference-alignment", "rlhf"]
+repository = "https://github.com/princeton-nlp/SimPO"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

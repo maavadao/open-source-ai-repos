@@ -1,0 +1,8 @@
+name = "payload-enchants"
+description = "Payload 3.0 enchantment packages"
+category = "other"
+tags = ["nodejs", "payload-plugin", "payloadcms", "react", "translation", "openai"]
+repository = "https://github.com/r1tsuu/payload-enchants"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

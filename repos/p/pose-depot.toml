@@ -1,0 +1,9 @@
+name = "pose-depot"
+description = "A collection of ControlNet poses"
+category = "image"
+tags = ["controlnet", "openpose", "stable-diffusion", "astro", "image2image", "img2img"]
+repository = "https://github.com/a-lgil/pose-depot"
+website = "https://a-lgil.github.io/pose-depot/gallery/"
+license = "Apache-2.0"
+language = "Astro"
+added = 2026-10-20

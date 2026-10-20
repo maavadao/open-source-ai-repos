@@ -1,0 +1,9 @@
+name = "conformal-prediction"
+description = "Lightweight, useful implementation of conformal prediction on real data."
+category = "vision"
+tags = ["computer-vision", "conformal", "conformal-prediction", "distribution-shift", "natural-language-processing", "time-series", "time-series-prediction", "uncertainty"]
+repository = "https://github.com/aangelopoulos/conformal-prediction"
+website = "http://people.eecs.berkeley.edu/~angelopoulos/blog/posts/gentle-intro/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

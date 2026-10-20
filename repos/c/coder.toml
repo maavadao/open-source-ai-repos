@@ -1,0 +1,9 @@
+name = "coder"
+description = "Secure environments for developers and their agents"
+category = "agents"
+tags = ["remote-development", "development-environment", "ide", "dev-tools", "vscode", "jetbrains", "terraform", "go"]
+repository = "https://github.com/coder/coder"
+website = "https://coder.com"
+license = "AGPL-3.0"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "OpenStory"
+description = "An LLM-powered multi-agent framework for simulating interactive, evolving story worlds."
+category = "agents"
+tags = ["artificial-intelligence", "large-language-models", "multi-agent-systems", "social-simulation", "dsh-plugin"]
+repository = "https://github.com/ZJU-LLMs/OpenStory"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

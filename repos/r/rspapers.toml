@@ -1,0 +1,7 @@
+name = "RSPapers"
+description = "RSTutorials: A Curated List of Must-read Papers on Recommender System."
+category = "learning"
+tags = ["read-papers", "recommender-system", "social-recommendation", "survey", "deep-learning-based-rs", "social-recommender", "collaborative-filtering", "deep-learning"]
+repository = "https://github.com/hongleizhang/RSPapers"
+license = "MIT"
+added = 2026-10-20

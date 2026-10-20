@@ -1,0 +1,9 @@
+name = "asteroid"
+description = "The PyTorch-based audio source separation toolkit for researchers"
+category = "models"
+tags = ["source-separation", "speech-separation", "audio-separation", "speech-enhancement", "deep-learning", "pytorch", "pretrained-models"]
+repository = "https://github.com/asteroid-team/asteroid"
+website = "https://asteroid-team.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

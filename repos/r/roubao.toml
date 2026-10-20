@@ -1,0 +1,8 @@
+name = "roubao"
+description = "Android Automation Tool Based on Vision-Language Models"
+category = "browser-automation"
+tags = ["ai", "ai-agents", "android", "android-automation", "kotlin", "mobile-agents", "mobileagent", "phone-automation"]
+repository = "https://github.com/Turbo1123/roubao"
+license = "MIT"
+language = "Kotlin"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "tf_seq2seq_chatbot"
+description = "[unmaintained]"
+category = "chat"
+tags = ["seq2seq", "chatbot", "tensorflow"]
+repository = "https://github.com/nicolas-ivanov/tf_seq2seq_chatbot"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

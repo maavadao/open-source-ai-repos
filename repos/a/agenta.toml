@@ -1,0 +1,9 @@
+name = "agenta"
+description = "Agenta is a workspace where you and your team build agents and automations."
+category = "mcp-servers"
+tags = ["agent-builder", "agent-observability", "agent-orchestration", "agent-workspace", "agentic-ai", "ai-agents", "ai-automation", "ai-workflow-builder"]
+repository = "https://github.com/Agenta-AI/agenta"
+website = "http://www.agenta.ai"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

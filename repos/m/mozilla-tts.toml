@@ -1,0 +1,8 @@
+name = "TTS"
+description = "Deep learning for Text to Speech (Discussion forum: https://discourse.mozilla.org/c/tts)"
+category = "speech"
+tags = ["deep-learning", "text-to-speech", "python", "pytorch", "tacotron", "tts", "speaker-encoder", "dataset-analysis"]
+repository = "https://github.com/mozilla/TTS"
+license = "MPL-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "AwesomeLLM4SE"
+description = "[SCIS 2025] A Survey on Large Language Models for Software Engineering"
+category = "learning"
+tags = ["large-language-models", "software-engineering"]
+repository = "https://github.com/iSEngLab/AwesomeLLM4SE"
+website = "https://arxiv.org/abs/2312.15223"
+license = "NOASSERTION"
+added = 2026-10-20

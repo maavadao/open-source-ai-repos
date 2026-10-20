@@ -1,0 +1,7 @@
+name = "Data-science-best-resources"
+description = "Carefully curated resource links for data science in one place"
+category = "learning"
+tags = ["data-science", "statistics", "machine-learning", "deep-learning", "neural-network", "python", "scikit-learn", "analytics"]
+repository = "https://github.com/tirthajyoti/Data-science-best-resources"
+license = "MIT"
+added = 2026-10-20

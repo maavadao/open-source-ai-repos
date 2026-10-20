@@ -1,0 +1,9 @@
+name = "LMOps"
+description = "General technology for enabling AI capabilities w/ LLMs and MLLMs"
+category = "models"
+tags = ["nlp", "agi", "gpt", "llm", "lm", "pretraining", "prompt", "lmops"]
+repository = "https://github.com/microsoft/LMOps"
+website = "https://aka.ms/GeneralAI"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

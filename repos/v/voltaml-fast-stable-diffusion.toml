@@ -1,0 +1,9 @@
+name = "voltaML-fast-stable-diffusion"
+description = "Beautiful and Easy to use Stable Diffusion WebUI"
+category = "image"
+tags = ["ai-art", "generative-art", "linux", "pytorch", "stable-diffusion", "text2image", "windows", "aitemplate"]
+repository = "https://github.com/VoltaML/voltaML-fast-stable-diffusion"
+website = "https://voltaml.github.io/voltaML-fast-stable-diffusion/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

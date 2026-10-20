@@ -1,0 +1,8 @@
+name = "skills"
+description = "Public repository for Agent Skills"
+category = "skills-prompts"
+tags = ["agent-skills"]
+repository = "https://github.com/anthropics/skills"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

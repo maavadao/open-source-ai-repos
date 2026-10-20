@@ -1,0 +1,8 @@
+name = "MyBrain"
+description = "All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks."
+category = "chat"
+tags = ["android", "clean-architecture", "compose", "kotlin", "mvvm", "productivity", "room-database", "ui"]
+repository = "https://github.com/mhss1/MyBrain"
+license = "GPL-3.0"
+language = "Kotlin"
+added = 2026-10-20

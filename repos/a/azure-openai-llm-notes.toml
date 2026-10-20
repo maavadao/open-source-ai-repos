@@ -1,0 +1,9 @@
+name = "azure-openai-llm-notes"
+description = "A curated collection of resources for Azure OpenAI, LLMs (+RAG, Agents). Monthly Updates."
+category = "learning"
+tags = ["openai", "llm", "rag", "agent", "prompt-engineering", "ai-tools", "research-paper", "survey-paper"]
+repository = "https://github.com/kimtth/azure-openai-llm-notes"
+website = "https://github.com/kimtth/awesome-azure-openai-copilot"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

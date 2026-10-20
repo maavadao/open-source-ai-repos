@@ -1,0 +1,9 @@
+name = "chatbot_ner"
+description = "chatbot_ner: Named Entity Recognition for chatbots."
+category = "chat"
+tags = ["named-entity-recognition", "chatbots", "natural-language-processing", "nlp-library", "ner", "nlp", "chatbot-ner", "entity"]
+repository = "https://github.com/hellohaptik/chatbot_ner"
+website = "https://haptik.ai/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

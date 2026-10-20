@@ -1,0 +1,8 @@
+name = "AutoGrad-Engine"
+description = "A complete GPT language model (training and inference) in ~600 lines of pure C#, zero dependencies"
+category = "models"
+tags = ["ai", "gpt", "csharp", "dotnet", "machine-learning", "autograd", "backpropagation", "deep-learning"]
+repository = "https://github.com/milanm/AutoGrad-Engine"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

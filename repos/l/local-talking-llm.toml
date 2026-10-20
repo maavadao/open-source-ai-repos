@@ -1,0 +1,9 @@
+name = "local-talking-llm"
+description = "A talking LLM that runs on your own computer without needing the internet."
+category = "speech"
+tags = ["chatbot", "llm", "speech-recognition", "speech-synthesis"]
+repository = "https://github.com/vndee/local-talking-llm"
+website = "https://blog.duy.dev/build-your-own-voice-assistant-and-run-it-locally/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

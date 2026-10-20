@@ -1,0 +1,8 @@
+name = "acme"
+description = "A library of reinforcement learning components and agents"
+category = "agents"
+tags = ["reinforcement-learning", "agents", "research"]
+repository = "https://github.com/google-deepmind/acme"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

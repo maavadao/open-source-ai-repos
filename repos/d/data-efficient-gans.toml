@@ -1,0 +1,9 @@
+name = "data-efficient-gans"
+description = "[NeurIPS 2020] Differentiable Augmentation for Data-Efficient GAN Training"
+category = "image"
+tags = ["gans", "pytorch", "tensorflow", "data-efficient", "generative-adversarial-network", "image-generation", "neurips-2020"]
+repository = "https://github.com/mit-han-lab/data-efficient-gans"
+website = "https://arxiv.org/abs/2006.10738"
+license = "BSD-2-Clause"
+language = "Python"
+added = 2026-10-20

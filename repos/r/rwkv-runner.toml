@@ -1,0 +1,9 @@
+name = "RWKV-Runner"
+description = "A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use."
+category = "chat"
+tags = ["rwkv", "api", "api-client", "chatgpt", "llm", "tool", "wails"]
+repository = "https://github.com/josStorer/RWKV-Runner"
+website = "https://www.rwkv.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

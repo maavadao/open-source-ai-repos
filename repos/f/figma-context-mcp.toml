@@ -1,0 +1,9 @@
+name = "Figma-Context-MCP"
+description = "MCP server to provide Figma layout information to AI coding agents like Cursor"
+category = "mcp-servers"
+tags = ["ai", "cursor", "figma", "mcp", "typescript"]
+repository = "https://github.com/GLips/Figma-Context-MCP"
+website = "https://www.framelink.ai/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

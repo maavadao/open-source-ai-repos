@@ -1,0 +1,9 @@
+name = "capsule-networks"
+description = "A PyTorch implementation of the NIPS 2017 paper \"Dynamic Routing Between Capsules\"."
+category = "ml-platforms"
+tags = ["capsule-networks", "mnist", "pytorch", "machine-learning"]
+repository = "https://github.com/gram-ai/capsule-networks"
+website = "https://arxiv.org/abs/1710.09829"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

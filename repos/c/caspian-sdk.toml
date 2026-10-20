@@ -1,0 +1,9 @@
+name = "caspian-sdk"
+description = "Agent communication SDK. The open-source agent communication layer for AI agents — email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript."
+category = "mcp-servers"
+tags = ["ai-agents", "communication", "discord", "messaging", "sdk", "slack", "telegram", "email"]
+repository = "https://github.com/TryCaspian/caspian-sdk"
+website = "https://trycaspianai.com"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

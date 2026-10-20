@@ -1,0 +1,9 @@
+name = "pykoi"
+description = "pykoi: Active learning in one unified interface"
+category = "chat"
+tags = ["ai", "chatbot", "feedback", "language-model", "llm", "machine-learning", "rlhf"]
+repository = "https://github.com/CambioML/pykoi"
+website = "https://www.cambioml.com"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

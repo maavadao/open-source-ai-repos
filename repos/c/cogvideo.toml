@@ -1,0 +1,8 @@
+name = "CogVideo"
+description = "text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)"
+category = "video"
+tags = ["llm", "sora", "video-generation", "cogvideox", "image-to-video", "text-to-video"]
+repository = "https://github.com/zai-org/CogVideo"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

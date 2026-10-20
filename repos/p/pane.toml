@@ -1,0 +1,9 @@
+name = "Pane"
+description = "Terminal-first, open-source AI agent manager for any CLI agent (agent agnostic), any OS (mac, windows, linux). The Open-Source Agentic Development Environment for running multiple coding agents in parallel. Run locally or self-host Remote Pane to manage agents from desktop or…"
+category = "coding"
+tags = ["agents", "ai", "agentic-ai", "claude-code", "cli", "codex", "coding-agents", "cursor-ai"]
+repository = "https://github.com/greenfield-inc/Pane"
+website = "https://runpane.com/"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

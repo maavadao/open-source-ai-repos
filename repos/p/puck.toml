@@ -1,0 +1,9 @@
+name = "puck"
+description = "The visual editor for React."
+category = "no-code"
+tags = ["ai", "builder", "drag-and-drop", "draganddrop", "no-code", "nocode", "page-builder", "pagebuilder"]
+repository = "https://github.com/puckeditor/puck"
+website = "https://puckeditor.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

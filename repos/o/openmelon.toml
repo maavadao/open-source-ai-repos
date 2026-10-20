@@ -1,0 +1,9 @@
+name = "openmelon"
+description = "A content-creation agent runtime for reproducible multimodal production — projects, workflows, skills, provenance."
+category = "agents"
+tags = ["agent-runtime", "ai-agent", "content-generation", "creative-tools", "generative-ai", "multimodal"]
+repository = "https://github.com/eight-acres-lab/openmelon"
+website = "https://pointeight.ai"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

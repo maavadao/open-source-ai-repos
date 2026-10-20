@@ -1,0 +1,8 @@
+name = "llama2-webui"
+description = "Run any Llama 2 locally with gradio UI on GPU or CPU from anywhere (Linux/Windows/Mac). Use `llama2-wrapper` as your local llama2 backend for Generative Agents/Apps."
+category = "local-llms"
+tags = ["llama-2", "llama2", "llm", "llm-inference"]
+repository = "https://github.com/liltom-eth/llama2-webui"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

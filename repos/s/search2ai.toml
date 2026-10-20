@@ -1,0 +1,9 @@
+name = "search2ai"
+description = "Help your LLMs online"
+category = "models"
+tags = ["online", "openai", "openai-api", "search", "functioncalling", "gemini", "groq", "llama"]
+repository = "https://github.com/fatwang2/search2ai"
+website = "https://sum4all.site/telegram"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

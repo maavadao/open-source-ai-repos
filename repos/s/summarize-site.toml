@@ -1,0 +1,9 @@
+name = "summarize.site"
+description = "Summarize web pages using OpenAI ChatGPT"
+category = "chat"
+tags = ["browser-extension", "chatgpt", "chatgpt-browser-extension", "chatgpt-chrome-extension", "chrome-extension", "firefox-extension", "openai"]
+repository = "https://github.com/clmnin/summarize.site"
+website = "https://chrome.google.com/webstore/detail/summarize/kjbpaokegiilajekbohjipdkojgekfij"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

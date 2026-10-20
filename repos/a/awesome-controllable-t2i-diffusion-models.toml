@@ -1,0 +1,7 @@
+name = "Awesome-Controllable-T2I-Diffusion-Models"
+description = "A collection of resources on controllable generation with text-to-image diffusion models."
+category = "learning"
+tags = ["awesome", "awesome-list", "diffusion-models", "personalization", "controllable-generation", "multi-concept", "spatial-controls", "text-to-image"]
+repository = "https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models"
+license = "MIT"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "SimpleTuner"
+description = "A general fine-tuning kit geared toward image/video/audio diffusion models."
+category = "image"
+tags = ["diffusers", "diffusion-models", "fine-tuning", "flux-dev", "machine-learning", "stable-diffusion"]
+repository = "https://github.com/bghira/SimpleTuner"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

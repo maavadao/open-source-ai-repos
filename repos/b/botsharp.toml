@@ -1,0 +1,9 @@
+name = "BotSharp"
+description = "AI Multi-Agent Framework in .NET"
+category = "chat"
+tags = ["chatbot", "ai-agent", "multi-agent"]
+repository = "https://github.com/SciSharp/BotSharp"
+website = "https://botsharp.readthedocs.io"
+license = "Apache-2.0"
+language = "C#"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "An-Introduction-to-Statistical-Learning"
+description = "This repository contains the exercises and its solution contained in the book \"An Introduction to Statistical Learning\" in python."
+category = "learning"
+tags = ["datascience", "machine-learning", "statistical-learning", "python"]
+repository = "https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

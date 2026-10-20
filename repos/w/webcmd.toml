@@ -1,0 +1,9 @@
+name = "webcmd"
+description = "Self-learning agent browser"
+category = "browser-automation"
+tags = ["browser-automation", "cli", "ai-agents", "browser-use", "playwright", "self-learning-ai", "developer-tools"]
+repository = "https://github.com/agentrhq/webcmd"
+website = "https://webcmd.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Cross-Lingual-Voice-Cloning"
+description = "Tacotron 2 - PyTorch implementation with faster-than-realtime inference modified to enable cross lingual voice cloning."
+category = "speech"
+tags = ["text-to-speech", "voice-cloning", "multi-lingual", "pytorch", "vae"]
+repository = "https://github.com/deterministic-algorithms-lab/Cross-Lingual-Voice-Cloning"
+license = "BSD-3-Clause"
+language = "Jupyter Notebook"
+added = 2026-10-20

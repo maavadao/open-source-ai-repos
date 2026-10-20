@@ -1,0 +1,9 @@
+name = "gps"
+description = "Guided Policy Search"
+category = "robotics"
+tags = ["robotics", "reinforcement-learning", "reinforcement-learning-algorithms", "deep-learning", "deep-reinforcement-learning"]
+repository = "https://github.com/cbfinn/gps"
+website = "http://rll.berkeley.edu/gps/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

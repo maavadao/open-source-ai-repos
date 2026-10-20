@@ -1,0 +1,9 @@
+name = "clearml"
+description = "ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution"
+category = "llm-apps"
+tags = ["version-control", "experiment-manager", "version", "control", "experiment", "deeplearning", "deep-learning", "machine-learning"]
+repository = "https://github.com/clearml/clearml"
+website = "https://clear.ml/docs"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

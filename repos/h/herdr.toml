@@ -1,0 +1,9 @@
+name = "herdr"
+description = "the runtime your coding agents live on"
+category = "coding"
+tags = ["agent", "agent-orchestration", "ai", "ai-agents", "claude-code", "cli", "codex", "coding-agents"]
+repository = "https://github.com/herdrdev/herdr"
+website = "https://herdr.dev"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

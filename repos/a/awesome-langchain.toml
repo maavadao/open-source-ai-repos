@@ -1,0 +1,7 @@
+name = "awesome-langchain"
+description = "Awesome list of tools and projects with the awesome LangChain framework"
+category = "learning"
+tags = ["ai", "awesome", "awesome-list", "langchain", "llm"]
+repository = "https://github.com/kyrolabs/awesome-langchain"
+license = "CC0-1.0"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "cli"
+description = "Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo."
+category = "agents"
+tags = ["agents", "ai", "claude", "developer", "developer-platform", "gemini"]
+repository = "https://github.com/entireio/cli"
+website = "https://entire.io"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "awesome-mlops"
+description = "A curated list of awesome MLOps tools"
+category = "learning"
+tags = ["awesome", "machine-learning", "machine-learning-engineering", "mle", "mlops", "data-science", "ml", "ai"]
+repository = "https://github.com/kelvins/awesome-mlops"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

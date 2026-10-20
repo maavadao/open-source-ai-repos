@@ -1,0 +1,9 @@
+name = "opendatacam"
+description = "An open source tool to quantify the world"
+category = "vision"
+tags = ["yolo", "camera", "iot", "smart-city", "computer-vision", "dataviz", "jetson", "darknet"]
+repository = "https://github.com/opendatacam/opendatacam"
+website = "https://opendata.cam"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

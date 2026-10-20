@@ -1,0 +1,8 @@
+name = "elevation_mapping"
+description = "Robot-centric elevation mapping for rough terrain navigation"
+category = "robotics"
+tags = ["ros", "robotics", "mapping", "terrain-mapping"]
+repository = "https://github.com/ANYbotics/elevation_mapping"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

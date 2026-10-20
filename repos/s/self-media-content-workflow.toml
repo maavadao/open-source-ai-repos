@@ -1,0 +1,8 @@
+name = "self-media-content-workflow"
+description = "通用、模块化的自媒体内容生产与经营 Skills / A modular, tool-agnostic self-media content skill suite"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude-code", "claude-skills", "content-creation", "copywriting", "self-media", "social-media"]
+repository = "https://github.com/yanhua1010/self-media-content-workflow"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

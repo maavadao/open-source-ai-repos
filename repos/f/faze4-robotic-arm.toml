@@ -1,0 +1,8 @@
+name = "Faze4-Robotic-arm"
+description = "All files for 6 axis robot arm with cycloidal gearboxes ."
+category = "robotics"
+tags = ["robot", "robotics"]
+repository = "https://github.com/Source-Robotics/Faze4-Robotic-arm"
+license = "CERN-OHL-S-2.0"
+language = "C++"
+added = 2026-10-20

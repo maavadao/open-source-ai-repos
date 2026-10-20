@@ -1,0 +1,7 @@
+name = "Prompt4ReasoningPapers"
+description = "[ACL 2023] Reasoning with Language Model Prompting: A Survey"
+category = "chat"
+tags = ["prompt", "reasoning", "awsome-list", "chain-of-thought", "paper-list", "survey", "nlp", "datasets"]
+repository = "https://github.com/zjunlp/Prompt4ReasoningPapers"
+license = "MIT"
+added = 2026-10-20

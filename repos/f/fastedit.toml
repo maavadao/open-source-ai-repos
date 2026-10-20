@@ -1,0 +1,8 @@
+name = "FastEdit"
+description = "Editing large language models within 10 seconds"
+category = "chat"
+tags = ["llms", "chatgpt", "gpt", "llama", "transformers", "large-language-models", "chatbots", "bloom"]
+repository = "https://github.com/hiyouga/FastEdit"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

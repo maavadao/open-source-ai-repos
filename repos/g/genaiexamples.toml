@@ -1,0 +1,9 @@
+name = "GenAIExamples"
+description = "Generative AI Examples is a collection of GenAI examples such as ChatQnA, Copilot, which illustrate the pipeline capabilities of the Open Platform for Enterprise AI (OPEA) project."
+category = "coding"
+tags = ["copilot", "genai", "rag", "summarization", "chatqna", "codegen", "gaudi2", "llms"]
+repository = "https://github.com/opea-project/GenAIExamples"
+website = "https://opea.dev"
+license = "Apache-2.0"
+language = "Shell"
+added = 2026-10-20

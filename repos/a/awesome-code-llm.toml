@@ -1,0 +1,8 @@
+name = "Awesome-Code-LLM"
+description = "[TMLR] A curated list of language modeling researches for code (and other software engineering activities), plus related datasets."
+category = "learning"
+tags = ["datasets", "llm", "papers", "software-engineering", "survey", "ai", "awesome", "nlp"]
+repository = "https://github.com/codefuse-ai/Awesome-Code-LLM"
+website = "https://arxiv.org/abs/2311.07989"
+license = "NOASSERTION"
+added = 2026-10-20

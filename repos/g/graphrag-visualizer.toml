@@ -1,0 +1,9 @@
+name = "graphrag-visualizer"
+description = "A web-based tool for visualizing and exploring artifacts from Microsoft's GraphRAG."
+category = "llm-apps"
+tags = ["graph-visualization", "graphrag", "rag", "gpt", "gpt-4", "gpt4", "llm", "llms"]
+repository = "https://github.com/noworneverev/graphrag-visualizer"
+website = "https://noworneverev.github.io/graphrag-visualizer/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

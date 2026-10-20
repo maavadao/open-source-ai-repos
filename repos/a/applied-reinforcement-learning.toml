@@ -1,0 +1,8 @@
+name = "applied-reinforcement-learning"
+description = "Reinforcement Learning and Decision Making tutorials explained at an intuitive level and with Jupyter Notebooks"
+category = "learning"
+tags = ["decision-making", "reinforcement-learning", "notebook", "jupyter", "lesson", "docker", "tensorboard", "artificial-intelligence"]
+repository = "https://github.com/mimoralea/applied-reinforcement-learning"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

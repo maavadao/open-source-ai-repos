@@ -1,0 +1,9 @@
+name = "CodeProject.AI-Server"
+description = "CodeProject.AI Server is a self contained service that software developers can include in, and distribute with, their applications in order to augment their apps with the power of AI."
+category = "vision"
+tags = ["artificial-intelligence", "generative-ai", "mlops", "object-detection", "onnx", "python", "pytorch"]
+repository = "https://github.com/codeproject/CodeProject.AI-Server"
+website = "https://codeproject.github.io/codeproject.ai"
+license = "NOASSERTION"
+language = "C#"
+added = 2026-10-20

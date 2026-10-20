@@ -1,0 +1,8 @@
+name = "llm-answer-engine"
+description = "Perplexity Inspired Answer Engine"
+category = "models"
+repository = "https://github.com/developersdigest/llm-answer-engine"
+website = "https://developersdigest.tech"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "stats"
+description = "A well tested and comprehensive Golang statistics library package with no dependencies."
+category = "data-science"
+tags = ["statistics", "data", "stats", "machine-learning", "correlation", "percentiles", "science", "analytics"]
+repository = "https://github.com/montanaflynn/stats"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

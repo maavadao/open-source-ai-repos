@@ -1,0 +1,8 @@
+name = "plankton"
+description = "Write-time code quality enforcement system for Claude Code. Every file edit triggers automated formatting and linting through fast Rust-based linters and dedicated Claude instances that intelligently fix remaining violations"
+category = "coding"
+tags = ["ai-agents", "biome", "claude-code", "code-quality", "developer-tools", "hooks", "linting", "ruff"]
+repository = "https://github.com/alexfazio/plankton"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

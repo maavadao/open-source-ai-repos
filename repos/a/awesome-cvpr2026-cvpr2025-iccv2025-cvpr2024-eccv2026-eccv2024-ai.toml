@@ -1,0 +1,7 @@
+name = "Awesome-CVPR2026-CVPR2025-ICCV2025-CVPR2024-ECCV2026-ECCV2024-AIGC"
+description = "A Collection of Papers and Codes for CVPR2026/CVPR2025/ICCV2025/CVPR2024/ECCV2026/ECCV2024 AIGC"
+category = "learning"
+tags = ["aigc", "c-v-p-r", "cvpr", "cvpr2024", "diffusion-models", "gan-models", "image-editing", "image-generation"]
+repository = "https://github.com/Kobaayyy/Awesome-CVPR2026-CVPR2025-ICCV2025-CVPR2024-ECCV2026-ECCV2024-AIGC"
+license = "NOASSERTION"
+added = 2026-10-20

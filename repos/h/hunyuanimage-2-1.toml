@@ -1,0 +1,9 @@
+name = "HunyuanImage-2.1"
+description = "HunyuanImage-2.1: An Efficient Diffusion Model for High-Resolution (2K) Text-to-Image Generation​"
+category = "image"
+tags = ["diffusion-models", "diffusion-transformer", "image-generation", "text-to-image", "aigc"]
+repository = "https://github.com/Tencent-Hunyuan/HunyuanImage-2.1"
+website = "https://hunyuan.tencent.com/image/en?tabIndex=0"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

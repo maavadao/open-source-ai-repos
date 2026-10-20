@@ -1,0 +1,8 @@
+name = "LLM-API-Key-Proxy"
+description = "Universal LLM Gateway: One API, every LLM. OpenAI/Anthropic-compatible endpoints with multi-provider translation and intelligent load-balancing."
+category = "models"
+tags = ["api-key", "gemini-api", "large-language-model", "large-language-models", "llm"]
+repository = "https://github.com/Mirrowel/LLM-API-Key-Proxy"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

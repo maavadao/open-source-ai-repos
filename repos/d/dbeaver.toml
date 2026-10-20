@@ -1,0 +1,9 @@
+name = "dbeaver"
+description = "Free universal database tool and SQL client"
+category = "data-science"
+tags = ["sql", "database", "dbeaver", "gui", "mysql", "postgresql", "db2", "sqlite"]
+repository = "https://github.com/dbeaver/dbeaver"
+website = "https://dbeaver.io"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

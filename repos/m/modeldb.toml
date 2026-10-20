@@ -1,0 +1,8 @@
+name = "modeldb"
+description = "Open Source ML Model Versioning, Metadata, and Experiment Management"
+category = "data-science"
+tags = ["machine-learning", "model-management", "modeldb", "mit", "verta", "model-versioning"]
+repository = "https://github.com/VertaAI/modeldb"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "MimicKit"
+description = "A lightweight suite of motion imitation methods for training controllers."
+category = "video"
+tags = ["animation", "reinforcement-learning", "robotics", "motion-imitation"]
+repository = "https://github.com/xbpeng/MimicKit"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

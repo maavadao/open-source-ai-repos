@@ -1,0 +1,9 @@
+name = "deeplabv3"
+description = "PyTorch implementation of DeepLabV3, trained on the Cityscapes dataset."
+category = "robotics"
+tags = ["pytorch", "autonomous-driving", "machine-learning", "deep-learning", "semantic-segmentation", "computer-vision"]
+repository = "https://github.com/fregu856/deeplabv3"
+website = "http://www.fregu856.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

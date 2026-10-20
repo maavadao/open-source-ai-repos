@@ -1,0 +1,9 @@
+name = "mcp-use"
+description = "The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents."
+category = "mcp-servers"
+tags = ["mcp", "model-context-protocol", "apps-sdk", "mcp-apps", "mcp-inspector", "mcp-servers", "mcp-ui", "agentic-framework"]
+repository = "https://github.com/mcp-use/mcp-use"
+website = "https://manufact.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

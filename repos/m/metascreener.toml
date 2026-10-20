@@ -1,0 +1,9 @@
+name = "MetaScreener"
+description = "AI-powered tool for efficient abstract and PDF screening in systematic reviews."
+category = "models"
+tags = ["literature-screening", "llm", "systematic-review", "deepseek", "pdf-screening", "metaanalysis", "screening", "screening-api"]
+repository = "https://github.com/ChaokunHong/MetaScreener"
+website = "https://www.metascreener.net/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Macaw-LLM"
+description = "Macaw-LLM: Multi-Modal Language Modeling with Image, Video, Audio, and Text Integration"
+category = "models"
+tags = ["language-model", "multi-modal-learning", "natural-language-processing", "deep-learning", "machine-learning", "neural-networks"]
+repository = "https://github.com/lyuchenyang/Macaw-LLM"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

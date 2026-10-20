@@ -1,0 +1,47 @@
+name: Suggest a repo
+description: Know an open-source AI repo that should be here? Tell us, even if you can't open a pull request.
+labels: [new repo]
+body:
+  - type: input
+    id: repository
+    attributes:
+      label: Repository
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - AI agents
+        - Coding assistants
+        - LLM & RAG frameworks
+        - Run models locally
+        - Chat interfaces
+        - Open models
+        - Image generation
+        - Video & animation
+        - Speech & audio
+        - Computer vision
+        - Documents & OCR
+        - Search & research
+        - Vector databases
+        - Training & MLOps
+        - Data science
+        - Robotics & driving
+        - Browser & computer use
+        - Workflow & no-code
+        - MCP servers
+        - Skills & prompts
+        - Learn AI
+        - Education
+        - AI safety & security
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it's useful
+      description: Who it helps and what for, in your own words.

@@ -1,0 +1,8 @@
+name = "gpt4V-scraper"
+description = "AI agent that can SEE , control, navigate, & do stuff for you on your browser."
+category = "browser-automation"
+tags = ["ai-agents", "browser-automation", "gpt-4-vision", "puppeteer", "web-scraping"]
+repository = "https://github.com/vdutts7/gpt4V-scraper"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

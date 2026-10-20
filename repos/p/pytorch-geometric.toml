@@ -1,0 +1,9 @@
+name = "pytorch_geometric"
+description = "Graph Neural Network Library for PyTorch"
+category = "ml-platforms"
+tags = ["pytorch", "geometric-deep-learning", "graph-neural-networks", "deep-learning", "graph-convolutional-networks"]
+repository = "https://github.com/pyg-team/pytorch_geometric"
+website = "https://pyg.org"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ekko-studio"
+description = "Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web."
+category = "no-code"
+tags = ["ai-agent", "chat-ui", "dashboard", "hermes-agent", "llm", "multi-platform", "typescript", "vue3"]
+repository = "https://github.com/EKKOLearnAI/ekko-studio"
+website = "https://ekkostudio.xyz"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

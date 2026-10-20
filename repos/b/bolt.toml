@@ -1,0 +1,8 @@
+name = "bolt"
+description = "10x faster matrix and vector operations"
+category = "data-science"
+tags = ["machine-learning", "data-mining", "database", "compression"]
+repository = "https://github.com/dblalock/bolt"
+license = "MPL-2.0"
+language = "C++"
+added = 2026-10-20

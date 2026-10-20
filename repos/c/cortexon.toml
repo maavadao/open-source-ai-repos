@@ -1,0 +1,9 @@
+name = "CortexON"
+description = "Open-source generalized AI agent for everyday task automations."
+category = "no-code"
+tags = ["ai-agents", "automation", "genai", "llm", "multi-agent", "reasoning", "reasoning-agent"]
+repository = "https://github.com/TheAgenticAI/CortexON"
+website = "https://cortexon.ai"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

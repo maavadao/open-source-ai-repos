@@ -1,0 +1,9 @@
+name = "thClaws"
+description = "Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams."
+category = "mcp-servers"
+tags = ["agent-harness", "ai-agent", "multi-provider", "rust", "tauri", "claude-code", "agent-teams", "kms"]
+repository = "https://github.com/thClaws/thClaws"
+website = "https://thclaws.ai"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

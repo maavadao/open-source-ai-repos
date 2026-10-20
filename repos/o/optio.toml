@@ -1,0 +1,9 @@
+name = "optio"
+description = "Workflow orchestration for AI agent swarms."
+category = "coding"
+tags = ["agent", "agents", "ai", "claude-code", "copilot", "gemini", "kubernetes", "opencode"]
+repository = "https://github.com/jonwiggins/optio"
+website = "https://optio.host/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

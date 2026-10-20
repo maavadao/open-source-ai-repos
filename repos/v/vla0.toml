@@ -1,0 +1,9 @@
+name = "vla0"
+description = "VLA-0: Building State-of-the-Art VLAs with Zero Modification"
+category = "robotics"
+tags = ["robotics", "vla", "vlm"]
+repository = "https://github.com/NVlabs/vla0"
+website = "https://arxiv.org/abs/2510.13054"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

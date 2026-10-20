@@ -1,0 +1,8 @@
+name = "Goopt"
+description = "Search Engine for a Procedural Simulation of the Web with GPT-3."
+category = "data-science"
+tags = ["gpt-3", "gpt3", "procedural-generation", "procedural-content", "web3", "simulator", "simulation", "procedural-web"]
+repository = "https://github.com/jokenox/Goopt"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

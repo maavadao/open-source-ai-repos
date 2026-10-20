@@ -1,0 +1,8 @@
+name = "Pluralistic-Inpainting"
+description = "[CVPR 2019]: Pluralistic Image Completion"
+category = "image"
+tags = ["image-completion", "inpainting", "generative-adversarial-networks", "multimodal"]
+repository = "https://github.com/lyndonzheng/Pluralistic-Inpainting"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

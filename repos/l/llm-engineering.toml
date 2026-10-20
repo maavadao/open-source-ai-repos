@@ -1,0 +1,7 @@
+name = "llm_engineering"
+description = "Repo to accompany my mastering LLM engineering course"
+category = "learning"
+repository = "https://github.com/ed-donner/llm_engineering"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

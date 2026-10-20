@@ -1,0 +1,8 @@
+name = "cadrl_ros"
+description = "ROS package for dynamic obstacle avoidance for ground robots trained with deep RL"
+category = "robotics"
+tags = ["tensorflow", "ros", "deep-reinforcement-learning", "collision-avoidance", "jackal"]
+repository = "https://github.com/mit-acl/cadrl_ros"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

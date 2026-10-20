@@ -1,0 +1,8 @@
+name = "Transformer-TTS"
+description = "A Pytorch Implementation of \"Neural Speech Synthesis with Transformer Network\""
+category = "speech"
+tags = ["text-to-speech", "tts", "transformer", "attention-plots", "attention-mechanism", "deep-learning", "pytorch", "pytorch-implementation"]
+repository = "https://github.com/soobinseo/Transformer-TTS"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

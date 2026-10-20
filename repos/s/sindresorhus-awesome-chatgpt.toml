@@ -1,0 +1,7 @@
+name = "awesome-chatgpt"
+description = "Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE OF TOO MANY LOW QUALITY SUBMISSIONS]"
+category = "learning"
+tags = ["ai", "artificial-intelligence", "awesome", "awesome-list", "chatgpt", "openai", "gpt", "gpt-3"]
+repository = "https://github.com/sindresorhus/awesome-chatgpt"
+license = "CC0-1.0"
+added = 2026-10-20

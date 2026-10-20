@@ -1,0 +1,9 @@
+name = "openilink-hub"
+description = "开源微信 Bot 管理平台 + App 应用市场 | Self-hosted WeChat Bot Platform with App Marketplace | Lark · Slack · Discord · DingTalk · GitHub · Notion · 20+ Apps | AI Tools | 7 Language SDKs"
+category = "chat"
+tags = ["chatbot", "wechat", "wechat-bot", "ai-chatbot", "bot-management", "golang", "react", "self-hosted"]
+repository = "https://github.com/openilink/openilink-hub"
+website = "https://openilink.com"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "robot_hacking_manual"
+description = "Robot Hacking Manual (RHM). From robotics to cybersecurity. Papers, notes and writeups from a journey into robot cybersecurity."
+category = "learning"
+tags = ["security", "cyber-security", "ctf", "step-tutorial", "robotics", "robots", "forensics", "robot"]
+repository = "https://github.com/vmayoral/robot_hacking_manual"
+website = "https://cybersecurityrobotics.com/robot-hacking-manual/"
+license = "Apache-2.0"
+language = "TeX"
+added = 2026-10-20

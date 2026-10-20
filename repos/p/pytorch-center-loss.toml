@@ -1,0 +1,8 @@
+name = "pytorch-center-loss"
+description = "Pytorch implementation of Center Loss"
+category = "vision"
+tags = ["pytorch", "deep-learning", "center-loss", "python", "loss-functions", "feature-learning", "computer-vision"]
+repository = "https://github.com/KaiyangZhou/pytorch-center-loss"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

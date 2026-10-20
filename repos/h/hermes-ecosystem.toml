@@ -1,0 +1,9 @@
+name = "hermes-ecosystem"
+description = "Hermes Atlas — the decision layer for Hermes Agent: install guidance, mode & skill picks, and a curated catalog of 240+ ecosystem tools with live GitHub data"
+category = "agents"
+tags = ["ai-agents", "ecosystem-map", "hermes-agent", "nous-research", "hermes-atlas"]
+repository = "https://github.com/ksimback/hermes-ecosystem"
+website = "https://hermesatlas.com"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

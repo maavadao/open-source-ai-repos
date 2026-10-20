@@ -1,0 +1,8 @@
+name = "chatgpt-cli"
+description = "Simple yet effective command line client for chatting with ChatGPT using the official API"
+category = "chat"
+tags = ["api", "chatgpt", "chatgpt-api", "cli", "python", "openai", "openai-api"]
+repository = "https://github.com/marcolardera/chatgpt-cli"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

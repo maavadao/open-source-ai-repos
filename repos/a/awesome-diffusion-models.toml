@@ -1,0 +1,9 @@
+name = "Awesome-Diffusion-Models"
+description = "A collection of resources and papers on Diffusion Models"
+category = "learning"
+tags = ["diffusion-models", "generative-model", "machine-learning", "score-matching", "artificial-intelligence", "score-based"]
+repository = "https://github.com/diff-usion/Awesome-Diffusion-Models"
+website = "https://diff-usion.github.io/Awesome-Diffusion-Models/"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

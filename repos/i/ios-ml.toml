@@ -1,0 +1,8 @@
+name = "iOS_ML"
+description = "List of Machine Learning, AI, NLP solutions for iOS. The most recent version of this article can be found on my blog."
+category = "speech"
+tags = ["machine-learning", "deep-learning", "natural-language-processing", "computer-vision", "swift", "neural-network", "artificial-intelligence", "speech-recognition"]
+repository = "https://github.com/alexsosn/iOS_ML"
+website = "https://alexsosn.github.io/ml/2015/11/05/iOS-ML.html"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "BiFormer"
+description = "[CVPR 2023] Official code release of our paper \"BiFormer: Vision Transformer with Bi-Level Routing Attention\""
+category = "vision"
+tags = ["attention", "cvpr2023", "image-classification", "object-detection", "semantic-segmentation", "transformer", "computer-vision"]
+repository = "https://github.com/rayleizhu/BiFormer"
+website = "https://arxiv.org/abs/2303.08810"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

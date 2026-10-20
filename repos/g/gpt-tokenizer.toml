@@ -1,0 +1,9 @@
+name = "gpt-tokenizer"
+description = "The fastest JavaScript BPE Tokenizer Encoder Decoder for OpenAI's GPT models (gpt-5, gpt-o*, gpt-4o, etc.). Port of OpenAI's tiktoken with additional features."
+category = "data-science"
+tags = ["bpe", "gpt-2", "gpt-3", "machine-learning", "gpt-4", "tokenizer", "decoder", "encoder"]
+repository = "https://github.com/niieani/gpt-tokenizer"
+website = "https://gpt-tokenizer.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "rowfill"
+description = "Open-source spreadsheets platform for deep research and document processing"
+category = "documents"
+tags = ["document", "document-extraction", "document-parsing", "image-ocr", "langgraph", "llama", "llm", "nextjs"]
+repository = "https://github.com/harishdeivanayagam/rowfill"
+website = "https://www.rowfill.com"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

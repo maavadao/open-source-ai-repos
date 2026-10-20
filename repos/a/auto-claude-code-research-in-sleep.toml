@@ -1,0 +1,8 @@
+name = "Auto-claude-code-research-in-sleep"
+description = "ARIS (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent."
+category = "mcp-servers"
+tags = ["ai-research", "autonomous-agent", "claude-code", "codex", "mcp", "ml-research", "paper-review", "research-automation"]
+repository = "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

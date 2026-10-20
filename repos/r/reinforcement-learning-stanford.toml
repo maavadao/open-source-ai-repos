@@ -1,0 +1,9 @@
+name = "reinforcement-learning-stanford"
+description = "CS234: Reinforcement Learning, Winter 2019 | YouTube videos"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "tensorflow", "python"]
+repository = "https://github.com/Zhenye-Na/reinforcement-learning-stanford"
+website = "https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

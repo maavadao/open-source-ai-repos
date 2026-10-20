@@ -1,0 +1,8 @@
+name = "vectordb-recipes"
+description = "Resource, examples & tutorials for multimodal AI, RAG and agents using vector search and LLMs"
+category = "learning"
+tags = ["ai", "deep-learning", "llms", "machine-learning", "multimodal", "agents", "embeddings", "fine-tuning"]
+repository = "https://github.com/lancedb/vectordb-recipes"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "MAgent"
+description = "A Platform for Many-Agent Reinforcement Learning"
+category = "agents"
+tags = ["reinforcement-learning", "multi-agent", "deep-learning"]
+repository = "https://github.com/geek-ai/MAgent"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

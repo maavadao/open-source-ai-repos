@@ -1,0 +1,7 @@
+name = "annotated_research_papers"
+description = "This repo contains annotated research papers that I found really good and useful"
+category = "ml-platforms"
+tags = ["research", "research-paper", "annotations", "machine-learning", "deep-learning"]
+repository = "https://github.com/AakashKumarNain/annotated_research_papers"
+license = "MIT"
+added = 2026-10-20

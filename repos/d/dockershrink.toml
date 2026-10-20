@@ -1,0 +1,8 @@
+name = "dockershrink"
+description = "AI Assistant that reduces the size of your application's Docker Image"
+category = "agents"
+tags = ["containers", "docker", "optimization", "ai", "retrieval-augmented-generation", "ai-agent"]
+repository = "https://github.com/duaraghav8/dockershrink"
+license = "MPL-2.0"
+language = "Go"
+added = 2026-10-20

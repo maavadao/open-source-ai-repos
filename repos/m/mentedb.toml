@@ -1,0 +1,9 @@
+name = "mentedb"
+description = "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and speculative context pre assembly. Not a wrapper, a ground up storage engine that thinks."
+category = "vector-databases"
+tags = ["agent-memory", "ai", "ai-agents", "cognitive-architecture", "context-window", "database", "knowledge-graph", "langchain"]
+repository = "https://github.com/nambok/mentedb"
+website = "https://mentedb.com"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

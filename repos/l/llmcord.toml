@@ -1,0 +1,8 @@
+name = "llmcord"
+description = "Make Discord your LLM frontend - Supports any OpenAI compatible API (OpenRouter, Ollama and more)"
+category = "local-llms"
+tags = ["openai", "discord", "chatbot", "llm", "ollama", "llama", "mistral", "vllm"]
+repository = "https://github.com/jakobdylanc/llmcord"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

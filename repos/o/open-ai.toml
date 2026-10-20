@@ -1,0 +1,8 @@
+name = "open-ai"
+description = "A community-driven PHP SDK for OpenAI."
+category = "other"
+tags = ["openai", "gpt-3", "laravel", "php", "dall-e", "dalle2", "openai-api", "cakephp"]
+repository = "https://github.com/orhanerday/open-ai"
+license = "MIT"
+language = "PHP"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "DeepLearning.ai-Summary"
+description = "This repository contains my personal notes and summaries on DeepLearning.ai specialization courses. I've enjoyed every little bit of the course hope you enjoy my notes too."
+category = "learning"
+tags = ["deep-learning", "neural-network", "coursera", "andrew-ng"]
+repository = "https://github.com/mbadry1/DeepLearning.ai-Summary"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

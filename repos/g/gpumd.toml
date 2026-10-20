@@ -1,0 +1,9 @@
+name = "GPUMD"
+description = "Graphics Processing Units Molecular Dynamics"
+category = "ml-platforms"
+tags = ["molecular-dynamics-simulation", "heat-transport", "cuda", "molecular-dynamics", "gpumd", "phonon", "gpu", "machine-learning"]
+repository = "https://github.com/brucefan1983/GPUMD"
+website = "https://gpumd.org/dev"
+license = "NOASSERTION"
+language = "Cuda"
+added = 2026-10-20

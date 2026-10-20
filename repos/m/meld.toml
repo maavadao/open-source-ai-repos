@@ -1,0 +1,8 @@
+name = "MELD"
+description = "MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversation"
+category = "chat"
+tags = ["emotion-recognition", "sentiment-analysis", "multimodal-sentiment-analysis", "multimodal-interactions", "dialogue-systems", "conversational-ai", "chatbot", "personality-traits"]
+repository = "https://github.com/declare-lab/MELD"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "sumo-rl"
+description = "Reinforcement Learning environments for Traffic Signal Control with SUMO. Compatible with Gymnasium, PettingZoo, and popular RL libraries."
+category = "ml-platforms"
+tags = ["sumo", "rl-algorithms", "reinforcement-learning", "gym", "traffic-signal-control", "gym-env", "pettingzoo", "machine-learning"]
+repository = "https://github.com/LucasAlegre/sumo-rl"
+website = "https://lucasalegre.github.io/sumo-rl"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

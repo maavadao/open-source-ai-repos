@@ -1,0 +1,9 @@
+name = "FontDiffuser"
+description = "[AAAI2024] FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning"
+category = "image"
+tags = ["deep-learning", "diffusers", "diffusion", "font-generation", "image-generation"]
+repository = "https://github.com/yeungchenwa/FontDiffuser"
+website = "https://yeungchenwa.github.io/fontdiffuser-homepage/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

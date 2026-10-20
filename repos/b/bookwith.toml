@@ -1,0 +1,8 @@
+name = "bookwith"
+description = "BookWith – A New Reading Experience with AI. A next-generation conversational reading platform that goes beyond traditional e-book readers"
+category = "learning"
+tags = ["epub-reader", "fastapi", "llm", "openai", "python", "rag", "react", "supabase"]
+repository = "https://github.com/shutootaki/bookwith"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "up-detr"
+description = "[TPAMI 2022 & CVPR2021 Oral] UP-DETR: Unsupervised Pre-training for Object Detection with Transformers"
+category = "models"
+tags = ["coco", "transformers", "detection", "detr", "cvpr2021", "cvpr", "self-supervised", "tpami"]
+repository = "https://github.com/dddzg/up-detr"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

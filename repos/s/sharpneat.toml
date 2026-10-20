@@ -1,0 +1,9 @@
+name = "sharpneat"
+description = "SharpNEAT - Evolution of Neural Networks. A C# .NET Framework."
+category = "ml-platforms"
+tags = ["ai", "evolutionary-computation", "reinforcement-learning", "neural-network", "neat", "sharpneat", "evolution", "evolutionary-algorithm"]
+repository = "https://github.com/colgreen/sharpneat"
+website = "https://sharpneat.sourceforge.io/"
+license = "NOASSERTION"
+language = "C#"
+added = 2026-10-20

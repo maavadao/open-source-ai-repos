@@ -1,0 +1,7 @@
+name = "MaskedFace-Net"
+description = "MaskedFace-Net is a dataset of human faces with a correctly and incorrectly worn mask based on the dataset Flickr-Faces-HQ (FFHQ)."
+category = "vision"
+tags = ["covid-19", "covid19-data", "covid19", "computer-vision", "dataset", "maskedface-net", "masked-face", "face-recognition"]
+repository = "https://github.com/cabani/MaskedFace-Net"
+license = "NOASSERTION"
+added = 2026-10-20

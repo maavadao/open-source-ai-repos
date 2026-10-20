@@ -1,0 +1,9 @@
+name = "agent-of-empires"
+description = "Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding."
+category = "coding"
+tags = ["ai-coding", "claude-code", "cli", "opencode", "terminal", "tmux", "claude", "llm"]
+repository = "https://github.com/agent-of-empires/agent-of-empires"
+website = "http://www.agent-of-empires.com/"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

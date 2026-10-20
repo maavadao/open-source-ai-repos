@@ -1,0 +1,9 @@
+name = "superviseddescent"
+description = "C++11 implementation of the supervised descent optimisation method"
+category = "vision"
+tags = ["landmark-detection", "computer-vision", "modern-cpp", "machine-learning"]
+repository = "https://github.com/patrikhuber/superviseddescent"
+website = "http://patrikhuber.github.io/superviseddescent/"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

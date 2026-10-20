@@ -1,0 +1,9 @@
+name = "LTX-Desktop"
+description = "An open-source desktop app for generating videos with LTX models"
+category = "video"
+tags = ["generative-ai", "ltx", "ltx-2", "non-linear-editing"]
+repository = "https://github.com/Lightricks/LTX-Desktop"
+website = "https://www.ltx.video"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

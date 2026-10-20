@@ -1,0 +1,9 @@
+name = "dobb-e"
+description = "Dobb·E: An open-source, general framework for learning household robotic manipulation"
+category = "robotics"
+tags = ["behavior-cloning", "imitation-learning", "robot-learning", "robotics"]
+repository = "https://github.com/notmahi/dobb-e"
+website = "https://dobb-e.com"
+license = "MIT"
+language = "G-code"
+added = 2026-10-20

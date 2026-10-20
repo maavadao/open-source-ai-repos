@@ -1,0 +1,9 @@
+name = "fuzz4all"
+description = "Fuzz4All: Universal Fuzzing with Large Language Models"
+category = "models"
+tags = ["fuzzing", "large-language-models", "llm", "program-synthesis", "testing"]
+repository = "https://github.com/fuzz4all/fuzz4all"
+website = "https://fuzz4all.github.io/"
+license = "CC-BY-4.0"
+language = "Python"
+added = 2026-10-20

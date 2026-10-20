@@ -1,0 +1,9 @@
+name = "ifopt"
+description = "An Eigen-based, light-weight C++ Interface to Nonlinear Programming Solvers (Ipopt, Snopt)"
+category = "robotics"
+tags = ["optimization", "mathematical-programming", "nlp", "eigen", "nonlinear-optimization", "ipopt", "snopt", "catkin"]
+repository = "https://github.com/ethz-adrl/ifopt"
+website = "http://wiki.ros.org/ifopt"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

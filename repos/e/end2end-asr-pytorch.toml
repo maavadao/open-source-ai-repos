@@ -1,0 +1,8 @@
+name = "end2end-asr-pytorch"
+description = "End-to-End Automatic Speech Recognition on PyTorch"
+category = "speech"
+tags = ["transformer", "end-to-end", "speech", "asr", "pytorch", "speech-recognition"]
+repository = "https://github.com/gentaiscool/end2end-asr-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

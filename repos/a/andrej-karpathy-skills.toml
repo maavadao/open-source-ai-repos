@@ -1,0 +1,6 @@
+name = "andrej-karpathy-skills"
+description = "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+category = "skills-prompts"
+repository = "https://github.com/multica-ai/andrej-karpathy-skills"
+license = "NOASSERTION"
+added = 2026-10-20

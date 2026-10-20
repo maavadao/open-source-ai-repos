@@ -1,0 +1,9 @@
+name = "TurboOCR"
+description = "TurboOCR, >200 img/s OmnidocBench. TensorRT FP16, PP-OCRv6, HTTP + gRPC"
+category = "documents"
+tags = ["document-parsing", "fastapi", "fp16", "grpc", "ocr", "paddleocr", "pdf-extraction", "rag"]
+repository = "https://github.com/aiptimizer/TurboOCR"
+website = "https://turboocr.com"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

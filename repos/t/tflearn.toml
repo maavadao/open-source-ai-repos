@@ -1,0 +1,9 @@
+name = "tflearn"
+description = "Deep learning library featuring a higher-level API for TensorFlow."
+category = "ml-platforms"
+tags = ["tflearn", "tensorflow", "neural-network", "deep-learning", "machine-learning", "data-science"]
+repository = "https://github.com/tflearn/tflearn"
+website = "http://tflearn.org"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

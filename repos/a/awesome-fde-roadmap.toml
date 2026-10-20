@@ -1,0 +1,8 @@
+name = "Awesome-FDE-Roadmap"
+description = "The definitive roadmap to becoming a Forward Deployment Engineer (FDE). Master AI Agents, Enterprise Data Architecture, and Strategic Consulting. Bridging the gap between HQ and the field. Inspired by the \"Delta\" role at Palantir, OpenAI, and Scale AI."
+category = "learning"
+tags = ["ai-agents", "awesome-list", "forward-deployed-engineering", "gcp", "roadmap"]
+repository = "https://github.com/pierpaolo28/Awesome-FDE-Roadmap"
+website = "https://ppiconsulting.dev/"
+license = "MIT"
+added = 2026-10-20

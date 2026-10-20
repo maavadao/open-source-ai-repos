@@ -1,0 +1,9 @@
+name = "ai"
+description = "One-stop shop for building AI-powered products and businesses with Stripe."
+category = "mcp-servers"
+tags = ["llm", "llm-agents", "python", "typescript", "workflows", "mcp", "ai", "gemini-cli-extension"]
+repository = "https://github.com/stripe/ai"
+website = "https://docs.stripe.com/agents"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

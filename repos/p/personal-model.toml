@@ -1,0 +1,9 @@
+name = "personal-model"
+description = "Build your HUMAN.md."
+category = "mcp-servers"
+tags = ["agent-memory", "local-first", "macos", "mcp", "personal-ai", "personal-model", "privacy", "python"]
+repository = "https://github.com/Intuition-Lab/personal-model"
+website = "https://intuition-lab.github.io/personal-model/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

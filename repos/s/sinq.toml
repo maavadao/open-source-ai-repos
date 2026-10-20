@@ -1,0 +1,9 @@
+name = "SINQ"
+description = "Welcome to the official repository of SINQ! A novel, fast and high-quality quantization method designed to make any Large Language Model smaller while preserving accuracy [ICML 2026]"
+category = "local-llms"
+tags = ["ai", "huawei", "large-language-models", "quantization", "deepseek", "model-agnostic", "plug-and-play", "qwen"]
+repository = "https://github.com/huawei-csl/SINQ"
+website = "https://www.arxiv.org/abs/2509.22944"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

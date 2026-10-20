@@ -1,0 +1,9 @@
+name = "presentation-ai"
+description = "ALLWEONE Open source AI presentation generator Gamma Alternative. Create professional slides with customizable themes and AI-generated content in minutes."
+category = "other"
+tags = ["powerpoint-generation", "presentation-slides", "slides", "generative-ai", "presentations", "gamma", "ai", "ppt"]
+repository = "https://github.com/allweonedev/presentation-ai"
+website = "https://presentation.allweone.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

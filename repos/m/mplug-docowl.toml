@@ -1,0 +1,8 @@
+name = "mPLUG-DocOwl"
+description = "mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding"
+category = "documents"
+tags = ["chart-understanding", "document-understanding", "mllm", "multimodal", "multimodal-large-language-models", "table-understanding"]
+repository = "https://github.com/X-PLUG/mPLUG-DocOwl"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

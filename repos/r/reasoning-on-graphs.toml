@@ -1,0 +1,9 @@
+name = "reasoning-on-graphs"
+description = "Official Implementation of ICLR 2024 paper: \"Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning\""
+category = "models"
+tags = ["kg", "knowledge", "large-language-models", "llm", "reasoning", "reasoning-on-graph"]
+repository = "https://github.com/RManLuo/reasoning-on-graphs"
+website = "https://arxiv.org/abs/2310.01061"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

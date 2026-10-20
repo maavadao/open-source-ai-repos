@@ -1,0 +1,8 @@
+name = "gaia"
+description = "Build AI agents for your PC"
+category = "security"
+tags = ["ai", "amd", "genai", "ryzenai", "agents", "aipc", "local", "privacy"]
+repository = "https://github.com/amd/gaia"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

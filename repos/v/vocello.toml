@@ -1,0 +1,9 @@
+name = "Vocello"
+description = "Vocello: a local, private voice studio for Apple Silicon. Write a script, pick or describe a voice, and generate speech on-device, faster than realtime on an 8 GB M2 Mac mini. Native Swift + MLX, no Python. Mac app out now, iPhone beta on TestFlight. (Formerly QwenVoice.)"
+category = "speech"
+tags = ["apple-silicon", "macos", "mlx", "qwen", "swiftui", "text-to-speech", "tts", "voice-cloning"]
+repository = "https://github.com/PowerBeef/Vocello"
+website = "https://vocello.vercel.app"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

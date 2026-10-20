@@ -1,0 +1,9 @@
+name = "baml"
+description = "The programming language for agents"
+category = "security"
+tags = ["llm", "boundaryml", "guardrails", "structured-data", "programming-language"]
+repository = "https://github.com/BoundaryML/baml"
+website = "https://boundaryml.com/explore"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

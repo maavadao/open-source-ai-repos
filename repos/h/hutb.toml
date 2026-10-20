@@ -1,0 +1,8 @@
+name = "hutb"
+description = "人车模拟器（Human-vehicle Simulator）"
+category = "robotics"
+tags = ["simulation", "vehicle", "humanoid", "bridge", "ai", "artificial-intelligence", "autonomous-driving", "deep-learning"]
+repository = "https://github.com/OpenHUTB/hutb"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "AnyCrawl"
+description = "AnyCrawl : A Node.js/TypeScript crawler that turns websites into LLM-ready data and extracts structured SERP results from Google/Bing/Baidu/etc. Native multi-threading for bulk processing."
+category = "search"
+tags = ["aitools", "crawl", "scrape", "serp", "webscraper", "ai-scraping", "data", "html-to-markdown"]
+repository = "https://github.com/any4ai/AnyCrawl"
+website = "https://anycrawl.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

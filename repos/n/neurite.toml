@@ -1,0 +1,9 @@
+name = "Neurite"
+description = "Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code."
+category = "local-llms"
+tags = ["mindmap", "fractals", "second-brain", "rag", "ai-agents", "ai-agents-framework", "ai-graphs", "note-taking"]
+repository = "https://github.com/satellitecomponent/Neurite"
+website = "https://neurite.network/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

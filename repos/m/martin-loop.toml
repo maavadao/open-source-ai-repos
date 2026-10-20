@@ -1,0 +1,9 @@
+name = "martin-loop"
+description = "Run coding agents without babysitting them. Keep jobs focused, bounded, checked and accountable from start to finish. Finally run your agents swarms overnight and get your time back."
+category = "mcp-servers"
+tags = ["ai-agent-runtime", "ai-coding-agents", "ai-governance", "audit-trail", "budget-enforcement", "governed-runtime", "observability", "policy-as-code"]
+repository = "https://github.com/Keesan12/martin-loop"
+website = "https://martinloop.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "SoniTranslate"
+description = "Synchronized Translation for Videos. Video dubbing"
+category = "speech"
+tags = ["audio-processing", "diarization", "translation", "translate-audio", "translate-video", "video-dubbing", "asr", "automatic-dubbing"]
+repository = "https://github.com/R3gm/SoniTranslate"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

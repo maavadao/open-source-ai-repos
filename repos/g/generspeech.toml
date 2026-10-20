@@ -1,0 +1,8 @@
+name = "GenerSpeech"
+description = "PyTorch Implementation of GenerSpeech (NeurIPS'22): a text-to-speech model towards zero-shot style transfer of OOD custom voice."
+category = "speech"
+tags = ["domain-generalization", "neurips-2022", "speech-synthesis", "style-transfer", "text-to-speech", "tts"]
+repository = "https://github.com/Rongjiehuang/GenerSpeech"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

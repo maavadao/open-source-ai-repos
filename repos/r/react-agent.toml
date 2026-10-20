@@ -1,0 +1,9 @@
+name = "react-agent"
+description = "The open-source React.js Autonomous LLM Agent"
+category = "agents"
+tags = ["agent", "gpt-4", "headless", "headlessui", "llm", "react"]
+repository = "https://github.com/eylonmiz/react-agent"
+website = "https://reactagent.io/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

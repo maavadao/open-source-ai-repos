@@ -1,0 +1,8 @@
+name = "gemini-cli-openai"
+description = "Expose Gemini CLI endpoints as OpenAI API with Cloudflare Workers"
+category = "models"
+tags = ["gemini", "gemini-cli", "llm", "openai", "openai-api"]
+repository = "https://github.com/GewoonJaap/gemini-cli-openai"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

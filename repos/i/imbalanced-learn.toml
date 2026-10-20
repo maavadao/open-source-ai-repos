@@ -1,0 +1,9 @@
+name = "imbalanced-learn"
+description = "A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning"
+category = "data-science"
+tags = ["machine-learning", "python", "statistics", "data-science", "data-analysis"]
+repository = "https://github.com/scikit-learn-contrib/imbalanced-learn"
+website = "https://imbalanced-learn.org"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

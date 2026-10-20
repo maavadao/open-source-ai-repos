@@ -1,0 +1,8 @@
+name = "ChatGPT-API-Scanner"
+description = "Scan GitHub for available OpenAI API Keys"
+category = "browser-automation"
+tags = ["chatgpt", "chatgpt-api", "freegpt", "gpt", "gpt-3", "gpt4", "selenium"]
+repository = "https://github.com/Junyi-99/ChatGPT-API-Scanner"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

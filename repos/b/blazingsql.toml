@@ -1,0 +1,9 @@
+name = "blazingsql"
+description = "BlazingSQL is a lightweight, GPU accelerated, SQL engine for Python. Built on RAPIDS cuDF."
+category = "ml-platforms"
+tags = ["rapidsai", "sql", "python", "machine-learning", "machine-learning-workflow", "artificial-intelligence", "gpu-acceleration", "gpu"]
+repository = "https://github.com/BlazingDB/blazingsql"
+website = "https://blazingsql.com"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

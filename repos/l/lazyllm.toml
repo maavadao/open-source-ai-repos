@@ -1,0 +1,9 @@
+name = "LazyLLM"
+description = "Easiest and laziest way for building multi-agent LLMs applications."
+category = "agents"
+tags = ["llms", "ai-agent", "deep-learning", "langchain", "llamaindex", "rag", "agents", "data"]
+repository = "https://github.com/LazyAGI/LazyLLM"
+website = "https://docs.lazyllm.ai/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

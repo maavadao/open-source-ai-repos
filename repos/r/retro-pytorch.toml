@@ -1,0 +1,8 @@
+name = "RETRO-pytorch"
+description = "Implementation of RETRO, Deepmind's Retrieval based Attention net, in Pytorch"
+category = "models"
+tags = ["artificial-intelligence", "deep-learning", "transformers", "attention-mechanism", "retrieval"]
+repository = "https://github.com/lucidrains/RETRO-pytorch"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

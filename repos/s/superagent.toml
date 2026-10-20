@@ -1,0 +1,9 @@
+name = "superagent"
+description = "Superagent protects your AI applications against prompt injections, data leaks, and harmful outputs. Embed safety directly into your app and prove compliance to your customers."
+category = "security"
+tags = ["ai", "llm", "anthropic", "openai", "security", "guardrails", "prompt-injection"]
+repository = "https://github.com/superagent-ai/superagent"
+website = "https://superagent.sh"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

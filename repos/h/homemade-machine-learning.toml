@@ -1,0 +1,8 @@
+name = "homemade-machine-learning"
+description = "Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained"
+category = "learning"
+tags = ["python", "jupyter", "jupyter-notebook", "machine-learning", "machinelearning", "machine-learning-algorithms", "algorithm"]
+repository = "https://github.com/trekhleb/homemade-machine-learning"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

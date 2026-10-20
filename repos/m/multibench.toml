@@ -1,0 +1,8 @@
+name = "MultiBench"
+description = "[NeurIPS 2021] Multiscale Benchmarks for Multimodal Representation Learning"
+category = "robotics"
+tags = ["machine-learning", "multimodal-learning", "robotics", "natural-language-processing", "computer-vision", "deep-learning", "healthcare", "representation-learning"]
+repository = "https://github.com/pliang279/MultiBench"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

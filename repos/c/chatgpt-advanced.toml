@@ -1,0 +1,9 @@
+name = "chatgpt-advanced"
+description = "WebChatGPT: A browser extension that augments your ChatGPT prompts with web results."
+category = "chat"
+tags = ["ai", "browser-extension", "chatgpt", "chrome-extension", "firefox-addon", "firefox-extension"]
+repository = "https://github.com/interstellard/chatgpt-advanced"
+website = "https://webchatgpt.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

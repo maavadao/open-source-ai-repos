@@ -1,0 +1,8 @@
+name = "ChatGPT-OpenAI-Smart-Speaker"
+description = "This AI Smart Speaker uses speech recognition, TTS (text-to-speech), and STT (speech-to-text) to enable voice and vision-driven conversations, with additional web search capabilities via OpenAI and Langchain agents."
+category = "speech"
+tags = ["chatgpt", "openai", "smarthome", "smartspeaker", "ai", "artificial-intelligence", "gpt-4", "speech-recognition"]
+repository = "https://github.com/Olney1/ChatGPT-OpenAI-Smart-Speaker"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

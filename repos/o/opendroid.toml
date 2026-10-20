@@ -1,0 +1,9 @@
+name = "opendroid"
+description = "Your Open Autonomous Android Agent — A production-ready, self-planning AI assistant powered by local/remote LLMs and accessibility-driven screen automation."
+category = "no-code"
+tags = ["accessibility", "ai-agent", "android", "automation", "autonomous", "kotlin", "llm", "multimodal-ai"]
+repository = "https://github.com/yashab-cyber/opendroid"
+website = "https://yashab-cyber.github.io/opendroid/"
+license = "NOASSERTION"
+language = "Kotlin"
+added = 2026-10-20

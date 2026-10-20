@@ -1,0 +1,10 @@
+name = "opencv"
+description = "Open Source Computer Vision Library"
+category = "ml-platforms"
+tags = ["opencv", "c-plus-plus", "computer-vision", "deep-learning", "image-processing"]
+repository = "https://github.com/opencv/opencv"
+website = "https://opencv.org"
+license = "Apache-2.0"
+language = "C++"
+skill_level = "intermediate"
+added = 2026-10-20

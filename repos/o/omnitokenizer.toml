@@ -1,0 +1,9 @@
+name = "OmniTokenizer"
+description = "[NeurIPS 2024]OmniTokenizer: one model and one weight for image-video joint tokenization."
+category = "video"
+tags = ["auto-regressive-model", "image-generation", "tokenization", "vae", "video-generation", "vqvae"]
+repository = "https://github.com/FoundationVision/OmniTokenizer"
+website = "https://www.wangjunke.info/OmniTokenizer/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

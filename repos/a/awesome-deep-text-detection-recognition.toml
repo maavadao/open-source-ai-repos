@@ -1,0 +1,7 @@
+name = "awesome-deep-text-detection-recognition"
+description = "A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods."
+category = "learning"
+tags = ["ocr", "ocr-recognition", "ocr-detection", "text-recognition", "text-detection", "text-detection-recognition", "deep-learning", "awesome-list"]
+repository = "https://github.com/hwalsuklee/awesome-deep-text-detection-recognition"
+license = "Apache-2.0"
+added = 2026-10-20

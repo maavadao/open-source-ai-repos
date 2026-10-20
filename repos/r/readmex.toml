@@ -1,0 +1,8 @@
+name = "readmeX"
+description = "An AI Powered README and Interactive Wiki Generator for Any Projects. AI驱动的README及交互式Wiki生成工具，面向中文的开源DeepWiki。"
+category = "models"
+tags = ["ai-tools", "cli", "documentation", "gpt", "llm", "markdown", "python", "readme"]
+repository = "https://github.com/aibox22/readmeX"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

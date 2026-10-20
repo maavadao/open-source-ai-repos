@@ -1,0 +1,8 @@
+name = "mmpy_bot"
+description = "A python-based chatbot for Mattermost (http://www.mattermost.org)."
+category = "chat"
+tags = ["python", "chatbot", "bot", "mattermost"]
+repository = "https://github.com/attzonko/mmpy_bot"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

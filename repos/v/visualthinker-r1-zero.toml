@@ -1,0 +1,8 @@
+name = "VisualThinker-R1-Zero"
+description = "Explore the Multimodal “Aha Moment” on 2B Model"
+category = "models"
+tags = ["multimodal", "post-training", "r1", "reasoning", "multimodal-journey", "grpo", "r1-zero", "reinforcement-learning"]
+repository = "https://github.com/turningpoint-ai/VisualThinker-R1-Zero"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

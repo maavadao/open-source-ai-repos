@@ -1,0 +1,7 @@
+name = "Awesome-Code-LLM"
+description = "An awesome and curated list of best code-LLM for research."
+category = "learning"
+tags = ["awesome", "code-generation", "large-language-models"]
+repository = "https://github.com/huybery/Awesome-Code-LLM"
+license = "MIT"
+added = 2026-10-20

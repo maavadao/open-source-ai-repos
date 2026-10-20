@@ -1,0 +1,9 @@
+name = "a2a-samples"
+description = "Samples using the Agent2Agent (A2A) Protocol"
+category = "agents"
+tags = ["a2a", "a2a-client", "a2a-mcp", "a2a-protocol", "a2a-server", "agents", "generative-ai"]
+repository = "https://github.com/a2aproject/a2a-samples"
+website = "https://a2a-protocol.org"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "claude-prism"
+description = "An offline-first scientific writing workspace powered by Claude. LaTeX + Python + 100+ scientific skills all running locally."
+category = "security"
+tags = ["academic", "ai", "claude", "claude-code", "desktop-app", "editor", "latex", "llm"]
+repository = "https://github.com/delibae/claude-prism"
+website = "https://claudeprism.delibae.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

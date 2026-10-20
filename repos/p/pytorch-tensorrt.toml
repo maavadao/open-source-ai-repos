@@ -1,0 +1,9 @@
+name = "TensorRT"
+description = "PyTorch/TorchScript/FX compiler for NVIDIA GPUs using TensorRT"
+category = "ml-platforms"
+tags = ["tensorrt", "libtorch", "machine-learning", "pytorch", "deep-learning", "jetson", "nvidia", "cuda"]
+repository = "https://github.com/pytorch/TensorRT"
+website = "https://pytorch.org/TensorRT"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

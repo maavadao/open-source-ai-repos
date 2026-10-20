@@ -1,0 +1,8 @@
+name = "Coursera-Deep-Learning"
+description = "My notes / works on deep learning from Coursera"
+category = "vision"
+tags = ["neural-networks", "tensorflow", "deeplearning-ai", "natural-language-processing", "computer-vision", "generative-adversarial-network", "coursera", "deep-learning"]
+repository = "https://github.com/y33-j3T/Coursera-Deep-Learning"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

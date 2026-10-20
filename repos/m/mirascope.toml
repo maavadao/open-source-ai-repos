@@ -1,0 +1,9 @@
+name = "mirascope"
+description = "The LLM Anti-Framework"
+category = "agents"
+tags = ["artificial-intelligence", "developer-tools", "llm", "python", "llm-agent", "llm-tools", "typescript"]
+repository = "https://github.com/Mirascope/mirascope"
+website = "https://mirascope.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

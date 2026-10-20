@@ -1,0 +1,9 @@
+name = "AudioBench"
+description = "AudioBench: A Universal Benchmark for Audio Large Language Models"
+category = "speech"
+tags = ["speech", "speech-recognition", "audio-scene-understanding", "speech-question-answering"]
+repository = "https://github.com/AudioLLMs/AudioBench"
+website = "https://arxiv.org/abs/2406.16020"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

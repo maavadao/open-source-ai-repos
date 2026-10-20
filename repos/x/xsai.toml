@@ -1,0 +1,9 @@
+name = "xsai"
+description = "AI SDK, extra small."
+category = "local-llms"
+tags = ["ai", "ollama", "typescript", "openai", "xsai"]
+repository = "https://github.com/moeru-ai/xsai"
+website = "https://xsai.js.org"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

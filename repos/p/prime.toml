@@ -1,0 +1,8 @@
+name = "PRIME"
+description = "Scalable RL solution for advanced reasoning of language models"
+category = "models"
+tags = ["llm", "reasoning", "rl"]
+repository = "https://github.com/PRIME-RL/PRIME"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

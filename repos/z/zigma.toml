@@ -1,0 +1,9 @@
+name = "zigma"
+description = "A PyTorch implementation of the paper \"ZigMa: A DiT-Style Mamba-based Diffusion Model\" (ECCV 2024)"
+category = "image"
+tags = ["diffusion-models", "mamba", "zigma", "flow-matching", "state-space-model", "stochastic-interpolant"]
+repository = "https://github.com/CompVis/zigma"
+website = "https://taohu.me/zigma"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

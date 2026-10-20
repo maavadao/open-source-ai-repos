@@ -1,0 +1,9 @@
+name = "Real-Time-Latent-Consistency-Model"
+description = "App showcasing multiple real-time diffusion models pipelines with Diffusers"
+category = "image"
+tags = ["diffusers", "latent-consistency-model", "machine-learning", "mjpeg", "mjpeg-stream", "stable-diffusion", "diffusion-models", "real-time"]
+repository = "https://github.com/radames/Real-Time-Latent-Consistency-Model"
+website = "https://huggingface.co/spaces/radames/Real-Time-Latent-Consistency-Model"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

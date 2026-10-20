@@ -1,0 +1,8 @@
+name = "AutoKG"
+description = "[WWWJ 2024] LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities"
+category = "chat"
+tags = ["chatgpt", "event-extraction", "gpt4", "information-extraction", "knowledge-graph", "knowledge-graph-completion", "knowledge-graph-construction", "link-prediction"]
+repository = "https://github.com/zjunlp/AutoKG"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

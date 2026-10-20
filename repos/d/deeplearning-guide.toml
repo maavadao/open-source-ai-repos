@@ -1,0 +1,7 @@
+name = "deeplearning-guide"
+description = "An evolving guide to learning Deep Learning effectively."
+category = "vision"
+tags = ["deep-learning", "deep-reinforcement-learning", "neural-networks", "computer-vision", "natural-language-processing", "machine-learning"]
+repository = "https://github.com/sannykim/deeplearning-guide"
+license = "NOASSERTION"
+added = 2026-10-20

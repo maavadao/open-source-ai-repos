@@ -1,0 +1,8 @@
+name = "crnn"
+description = "Convolutional Recurrent Neural Network (CRNN) for image-based sequence recognition."
+category = "documents"
+tags = ["torch7", "sequence-recognition", "computer-vision", "machine-learning", "ocr"]
+repository = "https://github.com/bgshih/crnn"
+license = "MIT"
+language = "Lua"
+added = 2026-10-20

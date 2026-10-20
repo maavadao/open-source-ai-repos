@@ -1,0 +1,8 @@
+name = "fun-rec"
+description = "推荐系统入门教程，在线阅读地址：https://datawhalechina.github.io/fun-rec/"
+category = "learning"
+tags = ["recommender-system", "tensorflow", "tianchi-competition", "deep-learning", "algorithm-engineering", "interview-questions", "recommendation-algorithms", "machine-learning"]
+repository = "https://github.com/datawhalechina/fun-rec"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

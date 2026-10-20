@@ -1,0 +1,9 @@
+name = "fantasy-talking"
+description = "[ACM MM 2025] FantasyTalking: Realistic Talking Portrait Generation via Coherent Motion Synthesis"
+category = "video"
+tags = ["diffusion", "diffusion-models", "diffusion-transformer", "talking-head"]
+repository = "https://github.com/Fantasy-AMAP/fantasy-talking"
+website = "https://fantasy-amap.github.io/fantasy-talking/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

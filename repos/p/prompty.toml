@@ -1,0 +1,9 @@
+name = "prompty"
+description = "Prompty makes it easy to create, manage, debug, and evaluate LLM prompts for your AI applications. Prompty is an asset class and format for LLM prompts designed to enhance observability, understandability, and portability for developers."
+category = "models"
+tags = ["generative-ai", "llm-evaluation", "llms", "promptengineering", "prompty"]
+repository = "https://github.com/microsoft/prompty"
+website = "https://prompty.ai"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

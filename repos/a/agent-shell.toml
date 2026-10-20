@@ -1,0 +1,9 @@
+name = "agent-shell"
+description = "Brings your favorite AI agents to Emacs, keeping you at home: familiar buffers and bindings, no terminal emulation. Powered by ACP."
+category = "coding"
+tags = ["ai", "claude", "claude-code", "codex", "emacs", "emacs-lisp", "gemini", "goose"]
+repository = "https://github.com/xenodium/agent-shell"
+website = "https://xenodium.com"
+license = "GPL-3.0"
+language = "Emacs Lisp"
+added = 2026-10-20

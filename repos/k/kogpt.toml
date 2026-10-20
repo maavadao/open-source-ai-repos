@@ -1,0 +1,8 @@
+name = "kogpt"
+description = "KakaoBrain KoGPT (Korean Generative Pre-trained Transformer)"
+category = "models"
+tags = ["deeplearning", "gpt", "nlp", "transformers", "huggingface", "kogpt", "kakaobrain", "korean"]
+repository = "https://github.com/kakaobrain/kogpt"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

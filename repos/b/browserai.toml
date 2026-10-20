@@ -1,0 +1,9 @@
+name = "BrowserAI"
+description = "Run local LLMs like llama, deepseek-distill, kokoro and more inside your browser"
+category = "speech"
+tags = ["ai", "llm-inference", "webgpu", "agents", "llm", "tts", "localllm", "llama"]
+repository = "https://github.com/sauravpanda/BrowserAI"
+website = "https://browserai.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

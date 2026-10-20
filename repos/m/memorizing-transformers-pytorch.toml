@@ -1,0 +1,8 @@
+name = "memorizing-transformers-pytorch"
+description = "Implementation of Memorizing Transformers (ICLR 2022), attention net augmented with indexing and retrieval of memories using approximate nearest neighbors, in Pytorch"
+category = "llm-apps"
+tags = ["artificial-intelligence", "deep-learning", "attention-mechanism", "transformers", "memory", "retrieval", "approximate-nearest-neighbors"]
+repository = "https://github.com/lucidrains/memorizing-transformers-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "GradCache"
+description = "Run Effective Large Batch Contrastive Learning Beyond GPU/TPU Memory Constraint"
+category = "vector-databases"
+tags = ["jax", "flax", "contrastive-learning", "pytorch", "deep-learning", "embedding", "large-language-models", "vector-database"]
+repository = "https://github.com/luyug/GradCache"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "agents-deep-research"
+description = "An implementation of iterative deep research using the OpenAI Agents SDK"
+category = "search"
+tags = ["agentic-ai", "agents", "deep-research", "llms", "deepresearch", "openai"]
+repository = "https://github.com/qx-labs/agents-deep-research"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

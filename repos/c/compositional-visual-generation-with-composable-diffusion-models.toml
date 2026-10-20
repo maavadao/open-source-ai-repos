@@ -1,0 +1,9 @@
+name = "Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch"
+description = "[ECCV 2022] Compositional Generation using Diffusion Models"
+category = "image"
+tags = ["compositionality", "diffusion-models", "ebm", "generative-model", "energy-based-model"]
+repository = "https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch"
+website = "https://energy-based-model.github.io/Compositional-Visual-Generation-with-Composable-Diffusion-Models/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

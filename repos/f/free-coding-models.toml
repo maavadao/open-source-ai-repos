@@ -1,0 +1,9 @@
+name = "free-coding-models"
+description = "Find, benchmark and install in CLI 170+ FREE coding LLM models across 15+ providers in real time"
+category = "coding"
+tags = ["ai", "deepseek", "free", "free-ai", "freeai", "gpt", "gptoss", "kimi"]
+repository = "https://github.com/vava-nessa/free-coding-models"
+website = "https://freecodingmodels.vercel.app"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

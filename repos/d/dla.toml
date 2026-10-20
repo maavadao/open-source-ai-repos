@@ -1,0 +1,8 @@
+name = "dla"
+description = "Deep learning for audio processing"
+category = "speech"
+tags = ["deep-learning", "speech-recognition", "tts", "signal-processing", "voice-conversion", "keyword-spotting", "speaker-verification"]
+repository = "https://github.com/markovka17/dla"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

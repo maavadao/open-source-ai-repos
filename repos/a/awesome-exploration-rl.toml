@@ -1,0 +1,7 @@
+name = "awesome-exploration-rl"
+description = "A curated list of awesome exploration RL resources (continually updated)"
+category = "learning"
+tags = ["exploration-exploitation", "reinforcement-learning", "awesome-list", "hard-exploration", "awesome", "delayed-rewards", "exploration", "exploratory"]
+repository = "https://github.com/opendilab/awesome-exploration-rl"
+license = "Apache-2.0"
+added = 2026-10-20

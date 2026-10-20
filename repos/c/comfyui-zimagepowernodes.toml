@@ -1,0 +1,8 @@
+name = "ComfyUI-ZImagePowerNodes"
+description = "A set of ComfyUI nodes designed specifically for the Z-Image / Z-Image Turbo model."
+category = "image"
+tags = ["comfy-nodes", "comfyui", "comfyui-nodes", "image-generation", "text2image", "txt2img", "z-image", "z-image-turbo"]
+repository = "https://github.com/martin-rizzo/ComfyUI-ZImagePowerNodes"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

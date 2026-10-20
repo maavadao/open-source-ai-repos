@@ -1,0 +1,9 @@
+name = "vosk"
+description = "VOSK Speech Recognition Toolkit"
+category = "speech"
+tags = ["speech-recognition", "voice-recognition", "speech-to-text", "python", "lifelong-learning", "semi-supervised-learning", "multilingual"]
+repository = "https://github.com/alphacep/vosk"
+website = "http://alphacephei.com"
+license = "Apache-2.0"
+language = "C"
+added = 2026-10-20

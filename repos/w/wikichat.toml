@@ -1,0 +1,9 @@
+name = "WikiChat"
+description = "WikiChat is an improved RAG. It stops the hallucination of large language models by retrieving data from a corpus."
+category = "chat"
+tags = ["natural-language-processing", "chatbot", "nlp", "factuality", "emnlp2023", "rag", "llm"]
+repository = "https://github.com/stanford-oval/WikiChat"
+website = "https://wikichat.genie.stanford.edu"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,6 @@
+name = "DeepSeek-V2"
+description = "DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model"
+category = "models"
+repository = "https://github.com/deepseek-ai/DeepSeek-V2"
+license = "MIT"
+added = 2026-10-20

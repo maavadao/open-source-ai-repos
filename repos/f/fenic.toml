@@ -1,0 +1,9 @@
+name = "fenic"
+description = "Semantic DataFrames for humans and agents"
+category = "agents"
+tags = ["agents", "ai", "llm", "ai-agents"]
+repository = "https://github.com/typedef-ai/fenic"
+website = "https://fenic.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

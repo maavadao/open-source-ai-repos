@@ -1,0 +1,8 @@
+name = "Agent-R1"
+description = "Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning"
+category = "agents"
+tags = ["agent", "agentic-rl", "llm"]
+repository = "https://github.com/AgentR1/Agent-R1"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

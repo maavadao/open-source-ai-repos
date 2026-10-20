@@ -1,0 +1,9 @@
+name = "tidybot"
+description = "TidyBot: Personalized Robot Assistance with Large Language Models"
+category = "robotics"
+tags = ["gpt-3", "large-language-models", "mobile-manipulation", "robotics"]
+repository = "https://github.com/jimmyyhwu/tidybot"
+website = "https://tidybot.cs.princeton.edu"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

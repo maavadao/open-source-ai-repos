@@ -1,0 +1,9 @@
+name = "vectorai"
+description = "Vector AI — A platform for building vector based applications. Encode, query and analyse data using vectors."
+category = "vector-databases"
+tags = ["python", "vector", "embeddings", "encodings", "search", "semantic-search", "search-engine", "machine-learning"]
+repository = "https://github.com/vector-ai/vectorai"
+website = "https://relevance.ai/vectors"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

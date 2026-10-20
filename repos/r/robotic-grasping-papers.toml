@@ -1,0 +1,7 @@
+name = "Robotic-grasping-papers"
+description = "paper list of robotic grasping and some related works"
+category = "learning"
+tags = ["grasp", "papers", "6d-pose", "task-oriented-grasp", "semantic-grasp", "robotics", "visual-grounding", "general-grasp"]
+repository = "https://github.com/rhett-chen/Robotic-grasping-papers"
+license = "NOASSERTION"
+added = 2026-10-20

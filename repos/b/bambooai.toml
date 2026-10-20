@@ -1,0 +1,8 @@
+name = "BambooAI"
+description = "AI data analyst for transparent, reproducible analysis. Works step by step in Python, verifies the evidence behind its reports, and supports a wide selection of models, including local open-weight models."
+category = "local-llms"
+tags = ["llm", "pandas", "python", "ai", "data-analysis", "data-science", "ai-agents", "ollama"]
+repository = "https://github.com/pgalko/BambooAI"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

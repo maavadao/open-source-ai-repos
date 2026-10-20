@@ -1,0 +1,8 @@
+name = "rag-zero-hallucinations"
+description = "Handling 10M+ docs using RAG with zero hallucinatons"
+category = "llm-apps"
+tags = ["ai", "llms", "rag", "rag-chatbot"]
+repository = "https://github.com/FareedKhan-dev/rag-zero-hallucinations"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

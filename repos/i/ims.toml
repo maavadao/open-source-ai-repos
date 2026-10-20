@@ -1,0 +1,9 @@
+name = "ims"
+description = "Introduction to Modern Statistics - A college-level open-source textbook with a modern approach highlighting multivariable relationships and simulation-based inference."
+category = "local-llms"
+tags = ["openintro", "statistics", "simulation", "rstats", "modern-statistics", "bootstrap-confidence-intervals", "inference"]
+repository = "https://github.com/OpenIntroStat/ims"
+website = "https://openintrostat.github.io/ims/"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

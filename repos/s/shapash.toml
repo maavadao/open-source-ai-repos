@@ -1,0 +1,9 @@
+name = "shapash"
+description = "Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models"
+category = "data-science"
+tags = ["python", "machine-learning", "explainability", "explainable-ml", "transparency", "ethical-artificial-intelligence", "shap", "lime"]
+repository = "https://github.com/MAIF/shapash"
+website = "https://maif.github.io/shapash/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

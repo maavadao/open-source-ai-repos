@@ -1,0 +1,9 @@
+name = "zeroshot"
+description = "Open-source orchestration for coding agents. Define your own workflows, reviewers and repair loops. zeroshot enforces the process you configure."
+category = "coding"
+tags = ["ai-agents", "cli", "developer-tools", "agent-orchestration", "agentic-workflow", "ai-agent", "autonomous-agents", "claude"]
+repository = "https://github.com/the-open-engine/zeroshot"
+website = "https://zeroshot.sh"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "UnlimitedGPT"
+description = "An unofficial Python wrapper for OpenAI's ChatGPT API"
+category = "chat"
+tags = ["chatgpt", "chatgpt-api", "chatgpt3", "openai", "openai-api"]
+repository = "https://github.com/theAbdoSabbagh/UnlimitedGPT"
+website = "https://pypi.org/project/UnlimitedGPT/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

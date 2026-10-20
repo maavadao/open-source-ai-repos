@@ -1,0 +1,9 @@
+name = "interactive-deep-colorization"
+description = "Deep learning software for colorizing black and white images with a few clicks."
+category = "vision"
+tags = ["colorization", "automatic-colorization", "deep-learning", "deep-learning-algorithms", "computer-vision", "caffe", "interactive"]
+repository = "https://github.com/junyanz/interactive-deep-colorization"
+website = "https://richzhang.github.io/ideepcolor/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

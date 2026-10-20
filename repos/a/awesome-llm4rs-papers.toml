@@ -1,0 +1,7 @@
+name = "Awesome-LLM4RS-Papers"
+description = "Large Language Model-enhanced Recommender System Papers"
+category = "learning"
+tags = ["large-language-models", "llm", "papers", "pre-training", "prompt-tuning", "recommender-system", "survey", "awesome-list"]
+repository = "https://github.com/nancheng58/Awesome-LLM4RS-Papers"
+license = "NOASSERTION"
+added = 2026-10-20

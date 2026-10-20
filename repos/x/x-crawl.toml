@@ -1,0 +1,9 @@
+name = "x-crawl"
+description = "Flexible Node.js crawler library"
+category = "browser-automation"
+tags = ["crawl", "crawler", "nodejs", "typescript", "spider", "flexible", "puppeteer", "javascript"]
+repository = "https://github.com/coder-hxl/x-crawl"
+website = "https://coder-hxl.github.io/x-crawl/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

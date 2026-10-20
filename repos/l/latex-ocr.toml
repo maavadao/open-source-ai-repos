@@ -1,0 +1,9 @@
+name = "LaTeX-OCR"
+description = "pix2tex: Using a ViT to convert images of equations into LaTeX code."
+category = "documents"
+tags = ["machine-learning", "transformer", "im2latex", "deep-learning", "image2text", "latex", "dataset", "pytorch"]
+repository = "https://github.com/lukas-blecher/LaTeX-OCR"
+website = "https://lukas-blecher.github.io/LaTeX-OCR/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

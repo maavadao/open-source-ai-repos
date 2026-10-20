@@ -1,0 +1,9 @@
+name = "satori"
+description = "Enlightened library to convert HTML and CSS to SVG"
+category = "image"
+tags = ["image-generator", "jsx", "svg", "image", "css", "image-generation", "opengraph-images", "satori"]
+repository = "https://github.com/vercel/satori"
+website = "https://og-playground.vercel.app"
+license = "MPL-2.0"
+language = "TypeScript"
+added = 2026-10-20

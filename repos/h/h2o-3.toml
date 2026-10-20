@@ -1,0 +1,9 @@
+name = "h2o-3"
+description = "H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Means, PCA, Generalized Additive Models (GAM), RuleFit, Support Vector Machine…"
+category = "ml-platforms"
+tags = ["h2o", "machine-learning", "data-science", "deep-learning", "big-data", "ensemble-learning", "gbm", "random-forest"]
+repository = "https://github.com/h2oai/h2o-3"
+website = "http://h2o.ai"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

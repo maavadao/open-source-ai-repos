@@ -1,0 +1,8 @@
+name = "indie-hacker-tools-plus"
+description = "为独立开发者准备的精选技术栈和工具仓库来了！这里有你最需要的工具，帮你提升开发效率、节约成本，最重要的是——这些工具都是市场上热门的，经过验证的。A curated collection of tech stacks and tools tailored for independent developers is here! these are proven, popular tools widely used in the industry."
+category = "learning"
+tags = ["awesome", "aws", "cloudflare", "hacker", "indiehacker", "nextjs", "shadcn", "agent"]
+repository = "https://github.com/XiaomingX/indie-hacker-tools-plus"
+website = "https://twitter.com/seclink"
+license = "Apache-2.0"
+added = 2026-10-20

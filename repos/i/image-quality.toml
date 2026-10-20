@@ -1,0 +1,8 @@
+name = "image-quality"
+description = "Image quality is an open source software library for Image Quality Assessment (IQA)."
+category = "vision"
+tags = ["artificial-intelligence", "machine-learning", "image-quality-assessment", "computer-vision", "image-analysis", "python", "tensorflow"]
+repository = "https://github.com/ocampor/image-quality"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

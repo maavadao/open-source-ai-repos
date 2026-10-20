@@ -1,0 +1,9 @@
+name = "ShareGPT4Video"
+description = "[NeurIPS 2024] An official implementation of \"ShareGPT4Video: Improving Video Understanding and Generation with Better Captions\""
+category = "video"
+tags = ["chatgpt", "gpt", "gpt-4v", "large-language-models", "large-multimodal-models", "large-vision-language-models", "large-video-language-models", "sora"]
+repository = "https://github.com/ShareGPT4Omni/ShareGPT4Video"
+website = "https://sharegpt4video.github.io/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

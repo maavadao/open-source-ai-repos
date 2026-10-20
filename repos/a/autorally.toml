@@ -1,0 +1,9 @@
+name = "autorally"
+description = "Software for the AutoRally platform"
+category = "robotics"
+tags = ["autonomous-driving", "autonomous-vehicles", "robotics", "ros"]
+repository = "https://github.com/AutoRally/autorally"
+website = "http://autorally.github.io"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "robotics-toolbox-python"
+description = "Robotics Toolbox for Python"
+category = "robotics"
+tags = ["python", "robotics", "robotics-toolbox", "robotics-simulation", "robotics-control", "kinematics", "dynamics", "jacobian"]
+repository = "https://github.com/petercorke/robotics-toolbox-python"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

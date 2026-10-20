@@ -1,0 +1,8 @@
+name = "llm-datasets"
+description = "Curated list of datasets and tools for post-training."
+category = "learning"
+tags = ["data", "dataset", "llm"]
+repository = "https://github.com/mlabonne/llm-datasets"
+website = "https://mlabonne.github.io/blog"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "claude_code_agent_farm"
+description = "Orchestration framework for running 20+ Claude Code agents in parallel: automated bug fixing, best-practices sweeps, lock-based coordination, and real-time tmux monitoring"
+category = "no-code"
+tags = ["ai-agents", "automation", "developer-tools", "python", "tmux"]
+repository = "https://github.com/Dicklesworthstone/claude_code_agent_farm"
+license = "NOASSERTION"
+language = "Shell"
+added = 2026-10-20

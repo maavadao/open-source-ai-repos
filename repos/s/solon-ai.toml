@@ -1,0 +1,9 @@
+name = "solon-ai"
+description = "Java AI application development framework (supports LLM-tool,skill; RAG; MCP; Agent-ReAct,Team-Agent). Compatible with java8 ~ java26. It can also be embedded in SpringBoot, jFinal, Vert.x, Quarkus, and other frameworks."
+category = "mcp-servers"
+tags = ["ai", "java", "llm", "rag", "modelcontextprotocol", "openai", "deepseek", "function-call"]
+repository = "https://github.com/opensolon/solon-ai"
+website = "https://solon.noear.org"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

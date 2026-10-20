@@ -1,0 +1,9 @@
+name = "AirSim"
+description = "Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research"
+category = "robotics"
+tags = ["drones", "ai", "self-driving-car", "autonomous-vehicles", "autonomous-quadcoptor", "research", "computer-vision", "artificial-intelligence"]
+repository = "https://github.com/microsoft/AirSim"
+website = "https://microsoft.github.io/AirSim/"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

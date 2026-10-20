@@ -1,0 +1,7 @@
+name = "awesome-6d-object"
+description = "Awesome work on object 6 DoF pose estimation"
+category = "learning"
+tags = ["computer-vision", "deep-learning", "object-pose-estimation", "pose-estimation"]
+repository = "https://github.com/ZhongqunZHANG/awesome-6d-object"
+license = "MIT"
+added = 2026-10-20

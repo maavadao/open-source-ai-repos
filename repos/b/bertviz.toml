@@ -1,0 +1,8 @@
+name = "bertviz"
+description = "BertViz: Visualize Attention in Transformer Models"
+category = "models"
+tags = ["natural-language-processing", "machine-learning", "visualization", "neural-network", "pytorch", "nlp", "bert", "transformer"]
+repository = "https://github.com/jessevig/bertviz"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

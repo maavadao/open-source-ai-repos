@@ -1,0 +1,9 @@
+name = "ilab-conjure"
+description = "面向 GPT-image-2 的 AI 图片生成 WebUI 工作台，支持 Codex Responses 与 OpenAI 兼容 API 接入，内置公用图库、多类型 Chip 快捷引用、提示词模板、多任务并发和本地队列管理。An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-compatible API support, shared gallery references, multi-type quick chips…"
+category = "coding"
+tags = ["ai-art", "ai-image-generation", "cli", "codex", "fastapi", "generative-ai", "gpt-image-2", "image-editing"]
+repository = "https://github.com/kadevin/ilab-conjure"
+website = "https://github.com/kadevin/ilab-gpt-conjure/blob/main/RELEASES.md"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-10-20

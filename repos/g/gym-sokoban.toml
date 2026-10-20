@@ -1,0 +1,8 @@
+name = "gym-sokoban"
+description = "Sokoban environment for OpenAI Gym"
+category = "ml-platforms"
+tags = ["sokoban", "gym", "openai", "environment", "python", "reinforcement-learning"]
+repository = "https://github.com/mpSchrader/gym-sokoban"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

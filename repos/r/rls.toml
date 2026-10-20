@@ -1,0 +1,9 @@
+name = "RLs"
+description = "Reinforcement Learning Algorithms Based on PyTorch"
+category = "ml-platforms"
+tags = ["sac", "training-agents", "reinforcement-learning-algorithm", "ml-agents", "unity3d", "gym", "pytorch", "deep-reinforcement-learning"]
+repository = "https://github.com/StepNeverStop/RLs"
+website = "https://stepneverstop.github.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

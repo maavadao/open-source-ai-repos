@@ -1,0 +1,9 @@
+name = "reactive_diffusion_policy"
+description = "[RSS 2025] Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation"
+category = "robotics"
+tags = ["force", "imitation-learning", "robotics", "tactile", "teleoperation"]
+repository = "https://github.com/xiaoxiaoxh/reactive_diffusion_policy"
+website = "https://reactive-diffusion-policy.github.io"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

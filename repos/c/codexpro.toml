@@ -1,0 +1,9 @@
+name = "codexpro"
+description = "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP."
+category = "mcp-servers"
+tags = ["apps-sdk", "chatgpt", "cloudflare-tunnel", "codex", "local-development", "mcp", "ngrok"]
+repository = "https://github.com/rebel0789/codexpro"
+website = "https://rebel0789.github.io/codexpro/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

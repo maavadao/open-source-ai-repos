@@ -1,0 +1,9 @@
+name = "astron-rpa"
+description = "Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises."
+category = "mcp-servers"
+tags = ["agent", "ai", "automation", "enterprise", "low-code", "mcp", "no-code", "rpa"]
+repository = "https://github.com/iflytek/astron-rpa"
+website = "http://www.iflyrpa.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

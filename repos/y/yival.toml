@@ -1,0 +1,9 @@
+name = "YiVal"
+description = "Your Automatic Prompt Engineering Assistant for GenAI Applications"
+category = "image"
+tags = ["ai", "prompt", "llm", "ai-experiments", "ai-toolkit", "promptengineering", "aigc", "generative-ai"]
+repository = "https://github.com/YiVal/YiVal"
+website = "https://yival.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

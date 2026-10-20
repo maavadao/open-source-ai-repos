@@ -1,0 +1,9 @@
+name = "chatgpt-your-files"
+description = "Production-ready MVP for securely chatting with your documents using pgvector"
+category = "llm-apps"
+tags = ["ai", "db", "embeddings", "ml", "rag", "supabase", "vector"]
+repository = "https://github.com/supabase-community/chatgpt-your-files"
+website = "https://youtu.be/ibzlEQmgPPY"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

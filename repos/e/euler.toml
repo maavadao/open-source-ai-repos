@@ -1,0 +1,8 @@
+name = "euler"
+description = "A distributed graph deep learning framework."
+category = "ml-platforms"
+tags = ["graph", "graph-learning", "network-embedding", "deep-learning", "graph-convolutional-networks", "graph-neural-networks", "graphsage", "random-walk"]
+repository = "https://github.com/alibaba/euler"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

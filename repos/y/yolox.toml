@@ -1,0 +1,8 @@
+name = "YOLOX"
+description = "YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/"
+category = "vision"
+tags = ["yolox", "yolov3", "onnx", "tensorrt", "ncnn", "openvino", "pytorch", "megengine"]
+repository = "https://github.com/Megvii-BaseDetection/YOLOX"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

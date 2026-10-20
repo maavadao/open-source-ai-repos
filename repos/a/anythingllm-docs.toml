@@ -1,0 +1,9 @@
+name = "anythingllm-docs"
+description = "Documentation of AnythingLLM by Mintplex Labs Inc."
+category = "agents"
+tags = ["ai", "ai-agents", "desktop-app", "documentation", "llm", "rag", "anythingllm", "nextjs"]
+repository = "https://github.com/Mintplex-Labs/anythingllm-docs"
+website = "https://docs.anythingllm.com"
+license = "MIT"
+language = "MDX"
+added = 2026-10-20

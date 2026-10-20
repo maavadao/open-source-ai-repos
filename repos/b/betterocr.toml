@@ -1,0 +1,8 @@
+name = "BetterOCR"
+description = "Better text detection by combining multiple OCR engines (EasyOCR, Tesseract, and Pororo) with LLM."
+category = "documents"
+tags = ["ai", "llm", "ocr", "chatgpt", "chatgpt-api", "easyocr", "openai", "openai-api"]
+repository = "https://github.com/junhoyeo/BetterOCR"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "fastembed"
+description = "Fast, Accurate, Lightweight Python library to make State of the Art Embedding"
+category = "vector-databases"
+tags = ["embeddings", "openai", "rag", "retrieval", "retrieval-augmented-generation", "vector-search"]
+repository = "https://github.com/qdrant/fastembed"
+website = "https://qdrant.github.io/fastembed/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

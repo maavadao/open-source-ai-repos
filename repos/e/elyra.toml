@@ -1,0 +1,9 @@
+name = "elyra"
+description = "Elyra extends JupyterLab with an AI centric approach."
+category = "learning"
+tags = ["notebooks", "notebook-jupyter", "jupyterlab", "jupyterlab-extensions", "ai", "machine-learning", "pipelines", "kubeflow-pipelines"]
+repository = "https://github.com/elyra-ai/elyra"
+website = "https://elyra.readthedocs.io/en/stable/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

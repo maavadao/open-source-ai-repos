@@ -1,0 +1,8 @@
+name = "RKD"
+description = "Official pytorch Implementation of Relational Knowledge Distillation, CVPR 2019"
+category = "vision"
+tags = ["deep-neural-networks", "computer-vision", "metric-learning", "knowledge-distillation", "deep-learning"]
+repository = "https://github.com/lenscloth/RKD"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

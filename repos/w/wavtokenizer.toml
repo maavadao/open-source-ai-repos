@@ -1,0 +1,8 @@
+name = "WavTokenizer"
+description = "[ICLR 2025] SOTA discrete acoustic codec models with 40/75 tokens per second for audio language modeling"
+category = "speech"
+tags = ["acoustic", "audio-representation", "codec", "gpt4o", "music-representation-learning", "semantic", "speech-representation", "text-to-speech"]
+repository = "https://github.com/jishengpeng/WavTokenizer"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

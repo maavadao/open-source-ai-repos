@@ -1,0 +1,8 @@
+name = "echogarden"
+description = "Cross-platform speech toolset, used from the command-line or as a Node.js library. Includes a variety of engines for speech synthesis, speech recognition, forced alignment, speech translation, voice isolation, language detection and more."
+category = "speech"
+tags = ["forced-alignment", "language-identification", "speech", "speech-alignment", "speech-recognition", "speech-synthesis", "speech-to-text", "speech-translation"]
+repository = "https://github.com/echogarden-project/echogarden"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

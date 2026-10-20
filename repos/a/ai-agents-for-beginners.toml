@@ -1,0 +1,9 @@
+name = "ai-agents-for-beginners"
+description = "18 Lessons to Get Started Building AI Agents"
+category = "agents"
+tags = ["agentic-ai", "agentic-framework", "agentic-rag", "ai-agents", "ai-agents-framework", "autogen", "generative-ai", "semantic-kernel"]
+repository = "https://github.com/microsoft/ai-agents-for-beginners"
+website = "https://aka.ms/ai-agents-beginners"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

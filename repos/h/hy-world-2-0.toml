@@ -1,0 +1,9 @@
+name = "HY-World-2.0"
+description = "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds"
+category = "vision"
+tags = ["3d", "ai", "worldmodel"]
+repository = "https://github.com/Tencent-Hunyuan/HY-World-2.0"
+website = "https://3d-models.hunyuan.tencent.com/world/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

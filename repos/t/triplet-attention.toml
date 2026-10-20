@@ -1,0 +1,9 @@
+name = "triplet-attention"
+description = "Official PyTorch Implementation for \"Rotate to Attend: Convolutional Triplet Attention Module.\" [WACV 2021]"
+category = "vision"
+tags = ["computer-vision", "deep-learning", "attention-mechanism", "convolutional-neural-networks", "attention-mechanisms", "gradcam", "detection", "triplet-attention"]
+repository = "https://github.com/landskape-ai/triplet-attention"
+website = "https://openaccess.thecvf.com/content/WACV2021/html/Misra_Rotate_to_Attend_Convolutional_Triplet_Attention_Module_WACV_2021_paper.html"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

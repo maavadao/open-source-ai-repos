@@ -1,0 +1,9 @@
+name = "MambaVision"
+description = "[CVPR 2025] Official PyTorch Implementation of MambaVision: A Hybrid Mamba-Transformer Vision Backbone"
+category = "vision"
+tags = ["deep-learning", "foundation-models", "image-classification", "mamba", "self-attention", "vision-transformer", "visual-recognition", "hybrid-models"]
+repository = "https://github.com/NVlabs/MambaVision"
+website = "https://arxiv.org/abs/2407.08083"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

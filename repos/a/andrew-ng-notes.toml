@@ -1,0 +1,8 @@
+name = "Andrew-NG-Notes"
+description = "This is Andrew NG Coursera Handwritten Notes."
+category = "learning"
+tags = ["andrewng", "andrew-ng", "andrew-ng-course", "andrew-ng-machine-learning", "deep-learning", "neural-network", "deep-neural-networks", "reinforcement-learning"]
+repository = "https://github.com/ashishpatel26/Andrew-NG-Notes"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

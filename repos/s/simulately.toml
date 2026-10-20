@@ -1,0 +1,9 @@
+name = "Simulately"
+description = "A universal summary of current robotics simulators"
+category = "robotics"
+tags = ["awesome", "embodied-ai", "robotics", "robotics-programming", "simulation", "simulator"]
+repository = "https://github.com/RoboVerseOrg/Simulately"
+website = "https://simulately.wiki/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

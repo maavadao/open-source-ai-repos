@@ -1,0 +1,10 @@
+name = "diffusion_policy"
+description = "[RSS 2023] Diffusion Policy Visuomotor Policy Learning via Action Diffusion"
+category = "robotics"
+tags = ["robotics"]
+repository = "https://github.com/real-stanford/diffusion_policy"
+website = "https://diffusion-policy.cs.columbia.edu/"
+license = "MIT"
+language = "Python"
+skill_level = "advanced"
+added = 2026-10-20

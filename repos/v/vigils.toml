@@ -1,0 +1,9 @@
+name = "vigils"
+description = "A local control plane for AI agents — see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3."
+category = "agents"
+tags = ["agent-security", "ai-agents", "audit-log", "desktop", "llm", "local-first", "pii", "rust"]
+repository = "https://github.com/duncatzat/vigils"
+website = "https://vigils.ai"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Foundation-Models-Framework-Lab"
+description = "A practical lab for building, testing, and evaluating apps with Apple's Foundation Models framework."
+category = "speech"
+tags = ["ai", "apple-intelligence", "foundation-models", "foundation-models-framework", "generative-ai", "healthkit", "ios", "llm"]
+repository = "https://github.com/rudrankriyam/Foundation-Models-Framework-Lab"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

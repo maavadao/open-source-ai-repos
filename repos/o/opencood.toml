@@ -1,0 +1,9 @@
+name = "OpenCOOD"
+description = "[ICRA 2022] An opensource framework for cooperative detection. Official implementation for OPV2V."
+category = "robotics"
+tags = ["autonomous-driving", "multi-agent-perception", "multi-agent-systems", "simulations", "collaborative-perception", "computer-vision", "deep-learning", "pytorch"]
+repository = "https://github.com/DerrickXuNu/OpenCOOD"
+website = "https://mobility-lab.seas.ucla.edu/opv2v/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

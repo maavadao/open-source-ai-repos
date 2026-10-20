@@ -1,0 +1,8 @@
+name = "kaldi-active-grammar"
+description = "Python Kaldi speech recognition with grammars that can be set active/inactive dynamically at decode-time"
+category = "speech"
+tags = ["kaldi-asr", "speech-recognition", "grammars", "python", "speech-to-text", "kaldi", "kaldi-grammar", "dictation"]
+repository = "https://github.com/daanzu/kaldi-active-grammar"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

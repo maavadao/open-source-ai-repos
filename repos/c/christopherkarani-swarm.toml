@@ -1,0 +1,9 @@
+name = "Swarm"
+description = "Type-safe tools, on-device inference, multi-agent workflows, memory, and guardrails, in one Swift-native runtime"
+category = "agents"
+tags = ["ai", "ai-agents", "foundation-models", "langchain", "swift", "agent", "agentic-ai", "agentic-systems"]
+repository = "https://github.com/christopherkarani/Swarm"
+website = "https://christopherkarani.github.io/Swarm/"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "glow-tts"
+description = "A Generative Flow for Text-to-Speech via Monotonic Alignment Search"
+category = "speech"
+tags = ["pytorch", "speech-synthesis", "tts", "deep-learning", "text-to-speech"]
+repository = "https://github.com/jaywalnut310/glow-tts"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

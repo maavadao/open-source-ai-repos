@@ -1,0 +1,9 @@
+name = "prism"
+description = "A unified interface for working with LLMs in Laravel"
+category = "local-llms"
+tags = ["ai", "laravel", "llm", "php", "anthropic", "claude", "openai", "ollama"]
+repository = "https://github.com/prism-php/prism"
+website = "https://prismphp.com"
+license = "MIT"
+language = "PHP"
+added = 2026-10-20

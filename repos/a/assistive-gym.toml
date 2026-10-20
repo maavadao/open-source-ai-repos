@@ -1,0 +1,8 @@
+name = "assistive-gym"
+description = "Assistive Gym, a physics-based simulation framework for physical human-robot interaction and robotic assistance."
+category = "robotics"
+tags = ["assistive-robotics", "robotics", "physics-simulation", "simulation", "human-robot-interaction"]
+repository = "https://github.com/Healthcare-Robotics/assistive-gym"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

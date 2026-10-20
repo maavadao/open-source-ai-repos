@@ -1,0 +1,8 @@
+name = "VibeVoice-ComfyUI"
+description = "A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech model, enabling high-quality single and multi-speaker voice synthesis directly within your ComfyUI workflows."
+category = "speech"
+tags = ["ai-voice", "ai-voice-clone", "ai-voice-clonining", "comfyui-custom-node", "comfyui-custom-nodes-text-to-speech", "comfyui-nodes", "t2s", "text-to-speech"]
+repository = "https://github.com/Enemyx-net/VibeVoice-ComfyUI"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

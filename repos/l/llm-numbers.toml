@@ -1,0 +1,6 @@
+name = "llm-numbers"
+description = "Numbers every LLM developer should know"
+category = "models"
+repository = "https://github.com/ray-project/llm-numbers"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Graph-CAD"
+description = "Learning Hierarchical and Geometry-Aware Graph Representations for Text-to-CAD"
+category = "coding"
+tags = ["3d-generation", "3d-modeling", "blender", "blender-python", "cad", "code-generation", "computer-aided-design", "curriculum-learning"]
+repository = "https://github.com/EESJGong/Graph-CAD"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

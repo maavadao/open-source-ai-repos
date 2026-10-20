@@ -1,0 +1,8 @@
+name = "Chinese-Llama-2"
+description = "improve Llama-2's proficiency in comprehension, generation, and translation of Chinese."
+category = "models"
+tags = ["llama-2", "chinese-llama", "large-language-models"]
+repository = "https://github.com/longyuewangdcu/Chinese-Llama-2"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

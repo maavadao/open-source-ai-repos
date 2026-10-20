@@ -1,0 +1,9 @@
+name = "DocsGPT"
+description = "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents."
+category = "chat"
+tags = ["ai", "python", "natural-language-processing", "react", "chatgpt", "docsgpt", "information-retrieval", "language-model"]
+repository = "https://github.com/arc53/DocsGPT"
+website = "https://app.docsgpt.cloud/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

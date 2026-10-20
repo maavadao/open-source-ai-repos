@@ -1,0 +1,9 @@
+name = "HyperPose"
+description = "Library for Fast and Flexible Human Pose Estimation"
+category = "vision"
+tags = ["tensorlayer", "tensorflow", "openpose", "pose-estimation", "computer-vision", "distributed-training", "tensorrt", "mobilenet"]
+repository = "https://github.com/tensorlayer/HyperPose"
+website = "https://hyperpose.readthedocs.io"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

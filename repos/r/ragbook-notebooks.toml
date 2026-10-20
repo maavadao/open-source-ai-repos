@@ -1,0 +1,9 @@
+name = "ragbook-notebooks"
+description = "Repository for the \"Building LLMs for Production\" book by Towards AI."
+category = "learning"
+tags = ["agent", "agents", "ai", "langchain", "llamaindex", "llm", "llms", "python"]
+repository = "https://github.com/towardsai/ragbook-notebooks"
+website = "https://academy.towardsai.net/courses/buildingllmsforproduction"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

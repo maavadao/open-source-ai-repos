@@ -1,0 +1,8 @@
+name = "LibMTL"
+description = "A PyTorch Library for Multi-Task Learning"
+category = "ml-platforms"
+tags = ["multitask-learning", "multi-task-learning", "pytorch", "python", "multi-domain-learning", "deep-learning", "mtl", "mmoe"]
+repository = "https://github.com/median-research-group/LibMTL"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

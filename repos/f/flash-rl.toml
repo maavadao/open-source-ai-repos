@@ -1,0 +1,9 @@
+name = "Flash-RL"
+description = "Implementation for FP8/INT8 Rollout for RL training without performence drop."
+category = "local-llms"
+tags = ["reinforcement-learning", "vllm"]
+repository = "https://github.com/yaof20/Flash-RL"
+website = "https://fengyao.notion.site/flash-rl"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

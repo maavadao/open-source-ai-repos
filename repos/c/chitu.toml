@@ -1,0 +1,9 @@
+name = "chitu"
+description = "High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability."
+category = "local-llms"
+tags = ["deepseek", "gpu", "llm", "pytorch", "llm-serving", "model-serving"]
+repository = "https://github.com/thu-pacman/chitu"
+website = "https://chitu.ai/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

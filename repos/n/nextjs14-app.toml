@@ -1,0 +1,9 @@
+name = "nextjs14-app"
+description = "Full-stack Next.js 14 application. Uses React 18 client & server components, TypeScript, Prisma ORM, Railway PostgreSQL database, NextAuth.js OAuth 2.0 authentication, OpenAI API GPT-3.5-Turbo, and Stripe payments."
+category = "other"
+tags = ["nextauth", "nextjs", "nextui", "prisma", "react", "stripe", "typescript", "postgresql"]
+repository = "https://github.com/yaseenmustapha/nextjs14-app"
+website = "https://nextjs14-showcase.vercel.app"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

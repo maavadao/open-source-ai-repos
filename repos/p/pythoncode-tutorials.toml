@@ -1,0 +1,9 @@
+name = "pythoncode-tutorials"
+description = "The Python Code Tutorials"
+category = "learning"
+tags = ["python", "python3", "scapy", "ethical-hacking", "network-programming", "network-security", "network-analysis", "python-tutorials"]
+repository = "https://github.com/x4nth055/pythoncode-tutorials"
+website = "https://www.thepythoncode.com"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

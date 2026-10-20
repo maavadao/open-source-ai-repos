@@ -1,0 +1,9 @@
+name = "openai-quickstart-node"
+description = "Node.js example app from the OpenAI API quickstart tutorial"
+category = "learning"
+tags = ["openai", "openai-api"]
+repository = "https://github.com/openai/openai-quickstart-node"
+website = "https://platform.openai.com/docs/quickstart?context=node"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

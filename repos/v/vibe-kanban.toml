@@ -1,0 +1,9 @@
+name = "vibe-kanban"
+description = "Get 10X more out of Claude Code, Codex or any coding agent"
+category = "agents"
+tags = ["agent", "ai-agents", "kanban", "management", "task-manager"]
+repository = "https://github.com/BloopAI/vibe-kanban"
+website = "https://www.vibekanban.com/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

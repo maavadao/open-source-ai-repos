@@ -1,0 +1,9 @@
+name = "GraphAgent"
+description = "[EMNLP2025] \"GraphAgent: Agentic Graph Language Assistant\""
+category = "agents"
+tags = ["agent", "graph-data", "language-assistant", "large-language-models"]
+repository = "https://github.com/HKUDS/GraphAgent"
+website = "https://arxiv.org/abs/2412.17029"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

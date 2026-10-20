@@ -1,0 +1,8 @@
+name = "asimov-v0"
+description = "v0 of Asimov, an open-source humanoid robot"
+category = "robotics"
+tags = ["humanoid", "humanoid-robot", "humanoid-robots", "humanoid-walking", "humanoids", "robotics"]
+repository = "https://github.com/menloresearch/asimov-v0"
+website = "https://asimov.inc"
+license = "CERN-OHL-S-2.0"
+added = 2026-10-20

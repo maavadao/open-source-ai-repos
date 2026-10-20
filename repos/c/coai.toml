@@ -1,0 +1,9 @@
+name = "coai"
+description = "Next Gen Multi-tenant AI One-Stop Solution. Builtin Admin & Billing System. Enterprise-Grade Unified LLM Gateway Support for 200+ Models And 35+ Providers, Load Balacing w/ Priority-base Routing, Cost Management, Chat Share, Cloud Sync, Credit/Subscription Billing, All File…"
+category = "chat"
+tags = ["chatgpt", "golang", "react", "api", "chat", "cross-platform", "gemini", "openai"]
+repository = "https://github.com/coaidev/coai"
+website = "https://coai.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "fiftyone"
+description = "Refine high-quality datasets and visual AI models"
+category = "vector-databases"
+tags = ["machine-learning", "artificial-intelligence", "deep-learning", "computer-vision", "developer-tools", "data-science", "python", "active-learning"]
+repository = "https://github.com/voxel51/fiftyone"
+website = "https://fiftyone.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

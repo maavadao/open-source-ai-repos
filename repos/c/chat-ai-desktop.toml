@@ -1,0 +1,9 @@
+name = "chat-ai-desktop"
+description = "Unofficial ChatGPT desktop app for Mac & Windows menubar using Tauri & Rust"
+category = "chat"
+tags = ["ai", "desktop", "desktop-app", "gpt-3", "menu-bar", "openai", "macos", "windows"]
+repository = "https://github.com/sonnylazuardi/chat-ai-desktop"
+website = "https://twitter.com/sonnylazuardi/status/1624281443022286848"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

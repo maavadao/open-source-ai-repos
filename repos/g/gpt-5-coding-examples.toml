@@ -1,0 +1,9 @@
+name = "gpt-5-coding-examples"
+description = "GPT-5 coding examples"
+category = "coding"
+tags = ["codex", "coding", "frontend", "gpt", "openai", "web", "website"]
+repository = "https://github.com/openai/gpt-5-coding-examples"
+website = "https://gpt5-coding-examples.vercel.app/"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

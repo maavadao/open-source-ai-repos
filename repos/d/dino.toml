@@ -1,0 +1,8 @@
+name = "DINO"
+description = "[ICLR 2023] Official implementation of the paper \"DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection\""
+category = "vision"
+tags = ["object-detection", "computer-vision", "deep-learning"]
+repository = "https://github.com/IDEA-Research/DINO"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

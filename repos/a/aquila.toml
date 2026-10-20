@@ -1,0 +1,9 @@
+name = "aquila"
+description = "An easy to use Neural Search Engine. Index latent vectors along with JSON metadata and do efficient k-NN search."
+category = "vector-databases"
+tags = ["feature-vectors", "similarity-search", "knn-search", "information-retrieval", "neural-information-retrieval", "vector-database", "approximate-nearest-neighbor-search", "search-engine"]
+repository = "https://github.com/Aquila-Network/aquila"
+website = "https://aquila.network"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

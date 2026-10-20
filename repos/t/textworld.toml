@@ -1,0 +1,8 @@
+name = "TextWorld"
+description = "​TextWorld is a sandbox learning environment for the training and evaluation of reinforcement learning (RL) agents on text-based games."
+category = "ml-platforms"
+tags = ["text-based-game", "reinforcement-learning", "text-based-adventure"]
+repository = "https://github.com/microsoft/TextWorld"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

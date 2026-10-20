@@ -1,0 +1,8 @@
+name = "EasyNLP"
+description = "EasyNLP: A Comprehensive and Easy-to-use NLP Toolkit"
+category = "models"
+tags = ["transformers", "bert", "nlp", "pretrained-models", "deep-learning", "pytorch", "fewshot-learning", "knowledge-distillation"]
+repository = "https://github.com/alibaba/EasyNLP"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

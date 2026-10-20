@@ -1,0 +1,9 @@
+name = "meilisearch"
+description = "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications."
+category = "vector-databases"
+tags = ["search-engine", "typo-tolerance", "site-search", "database", "enterprise-search", "search", "app-search", "full-text-search"]
+repository = "https://github.com/meilisearch/meilisearch"
+website = "https://www.meilisearch.com"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

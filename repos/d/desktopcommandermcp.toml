@@ -1,0 +1,9 @@
+name = "DesktopCommanderMCP"
+description = "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities"
+category = "mcp-servers"
+tags = ["agent", "ai", "code-analysis", "code-generation", "mcp", "terminal-ai", "terminal-automation", "vibe-coding"]
+repository = "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+website = "https://desktopcommander.app/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

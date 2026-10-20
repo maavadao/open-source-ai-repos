@@ -1,0 +1,9 @@
+name = "medicaltorch"
+description = "A medical imaging framework for Pytorch"
+category = "vision"
+tags = ["machine-learning", "deep-learning", "medical-imaging", "computer-vision", "python", "pytorch"]
+repository = "https://github.com/perone/medicaltorch"
+website = "http://medicaltorch.readthedocs.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

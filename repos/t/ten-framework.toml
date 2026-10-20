@@ -1,0 +1,9 @@
+name = "ten-framework"
+description = "Open-source framework for conversational voice AI agents"
+category = "speech"
+tags = ["ai", "multi-modal", "real-time", "video", "voice"]
+repository = "https://github.com/TEN-framework/ten-framework"
+website = "https://agent.theten.ai/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "lemniscate.pytorch"
+description = "Unsupervised Feature Learning via Non-parametric Instance Discrimination"
+category = "vision"
+tags = ["computer-vision", "deep-learning", "unsupervised-learning", "imagenet", "pytorch", "nce", "cvpr2018", "representation-learning"]
+repository = "https://github.com/zhirongw/lemniscate.pytorch"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

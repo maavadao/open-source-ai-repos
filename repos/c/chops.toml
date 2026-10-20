@@ -1,0 +1,9 @@
+name = "chops"
+description = "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp."
+category = "agents"
+tags = ["ai", "macos", "skills", "swiftui", "agents"]
+repository = "https://github.com/Shpigford/chops"
+website = "https://chops.md"
+license = "NOASSERTION"
+language = "Swift"
+added = 2026-10-20

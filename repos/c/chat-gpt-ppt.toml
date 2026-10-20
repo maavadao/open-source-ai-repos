@@ -1,0 +1,8 @@
+name = "chat-gpt-ppt"
+description = "Use ChatGPT (or other backends) to generate PPT automatically, all in one single file."
+category = "chat"
+tags = ["chatgpt", "ppt", "slide", "gpt", "openai"]
+repository = "https://github.com/williamfzc/chat-gpt-ppt"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

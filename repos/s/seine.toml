@@ -1,0 +1,9 @@
+name = "SEINE"
+description = "[ICLR 2024] SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction"
+category = "video"
+tags = ["stable-diffusion", "diffusion-model", "image-to-video", "video-generation"]
+repository = "https://github.com/Vchitect/SEINE"
+website = "https://vchitect.github.io/SEINE-project/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

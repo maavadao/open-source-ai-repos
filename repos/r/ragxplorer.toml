@@ -1,0 +1,8 @@
+name = "RAGxplorer"
+description = "Open-source tool to visualise your RAG"
+category = "llm-apps"
+tags = ["llm", "python", "rag", "streamlit", "visualization", "interactive"]
+repository = "https://github.com/gabrielchua/RAGxplorer"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

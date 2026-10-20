@@ -1,0 +1,8 @@
+name = "CarDreamer"
+description = "World Model based Autonomous Driving Platform in CARLA"
+category = "robotics"
+tags = ["autonomous-driving", "foundation-models", "model-based-rl", "reinforcement-learning", "world-models", "robotics", "robot-learning", "imitation-learning"]
+repository = "https://github.com/ucd-dare/CarDreamer"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

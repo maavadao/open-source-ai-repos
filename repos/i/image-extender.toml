@@ -1,0 +1,8 @@
+name = "image-extender"
+description = "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker."
+category = "image"
+tags = ["ai", "gemini", "image-generation", "nano-banana", "nextjs", "openrouter", "outpainting", "poisson-blending"]
+repository = "https://github.com/boona13/image-extender"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

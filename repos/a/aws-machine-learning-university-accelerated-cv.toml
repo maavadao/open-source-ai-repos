@@ -1,0 +1,8 @@
+name = "aws-machine-learning-university-accelerated-cv"
+description = "Machine Learning University: Accelerated Computer Vision Class"
+category = "vision"
+tags = ["machine-learning", "computer-vision", "deep-learning", "python", "gluon", "mxnet", "gluoncv"]
+repository = "https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

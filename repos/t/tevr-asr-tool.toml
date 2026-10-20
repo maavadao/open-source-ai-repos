@@ -1,0 +1,8 @@
+name = "tevr-asr-tool"
+description = "State-of-the-art (ranked #1 Aug 2022) German Speech Recognition in 284 lines of C++. This is a 100% private 100% offline 100% free CLI tool."
+category = "speech"
+tags = ["c-plus-plus", "command-line-tool", "speech", "speech-recognition", "kenlm", "no-cloud", "offline", "private"]
+repository = "https://github.com/DeutscheKI/tevr-asr-tool"
+license = "MIT"
+language = "C"
+added = 2026-10-20

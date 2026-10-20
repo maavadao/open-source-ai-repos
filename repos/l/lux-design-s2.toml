@@ -1,0 +1,9 @@
+name = "Lux-Design-S2"
+description = "Repository for the Lux AI Challenge, season 2 (NeurIPS 23). Hosted on @kaggle"
+category = "ml-platforms"
+tags = ["ai", "competition", "environment", "reinforcement-learning"]
+repository = "https://github.com/Lux-AI-Challenge/Lux-Design-S2"
+website = "https://www.kaggle.com/competitions/lux-ai-season-2-neurips-stage-2"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

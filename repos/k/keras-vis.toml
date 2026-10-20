@@ -1,0 +1,9 @@
+name = "keras-vis"
+description = "Neural network visualization toolkit for keras"
+category = "ml-platforms"
+tags = ["visualization", "keras", "deep-learning", "theano", "tensorflow", "neural-networks", "machine-learning"]
+repository = "https://github.com/raghakot/keras-vis"
+website = "https://raghakot.github.io/keras-vis"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

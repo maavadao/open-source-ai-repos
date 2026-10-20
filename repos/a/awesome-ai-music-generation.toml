@@ -1,0 +1,7 @@
+name = "awesome-ai-music-generation"
+description = "A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity."
+category = "learning"
+tags = ["ai", "awesome", "awesome-list", "generative-ai", "music-generation"]
+repository = "https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation"
+license = "Apache-2.0"
+added = 2026-10-20

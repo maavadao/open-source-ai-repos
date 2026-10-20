@@ -1,0 +1,8 @@
+name = "wind-comic"
+description = "Multi-agent AI pipeline that turns one line of text into a finished short-form drama: script, cinematic storyboards, character-consistent video. Provider-agnostic (OpenAI/Claude, MJ, Minimax, Veo/Sora, fal, ComfyUI). MIT."
+category = "video"
+tags = ["agents", "ai", "claude", "comic", "midjourney", "minimax", "nextjs", "openai"]
+repository = "https://github.com/ChrisChen667788/wind-comic"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

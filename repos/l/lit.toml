@@ -1,0 +1,9 @@
+name = "lit"
+description = "The Learning Interpretability Tool: Interactively analyze ML models to understand their behavior in an extensible and framework agnostic interface."
+category = "data-science"
+tags = ["machine-learning", "natural-language-processing", "visualization"]
+repository = "https://github.com/PAIR-code/lit"
+website = "https://pair-code.github.io/lit"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

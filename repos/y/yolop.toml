@@ -1,0 +1,8 @@
+name = "YOLOP"
+description = "You Only Look Once for Panopitic Driving Perception.（MIR2022）"
+category = "robotics"
+tags = ["multitask-learning", "object-detection", "lane-detection", "drivable-area-segmentation", "jetson-tx2", "autonomous-driving"]
+repository = "https://github.com/hustvl/YOLOP"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

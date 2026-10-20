@@ -1,0 +1,9 @@
+name = "agentset"
+description = "The open-source RAG platform: built-in citations, deep research, 22+ file formats, partitions, MCP server, and more."
+category = "mcp-servers"
+tags = ["embeddings", "rag", "ai", "agentic-rag", "ai-agents", "ai-sdk", "chatbots", "genai"]
+repository = "https://github.com/agentset-ai/agentset"
+website = "https://agentset.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

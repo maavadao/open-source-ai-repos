@@ -1,0 +1,8 @@
+name = "word-GPT-Plus"
+description = "Word GPT Plus is a word add-in which integrates the AI&Agent into Microsoft Word."
+category = "coding"
+tags = ["chatgpt", "copilot", "office", "office365", "openai", "word", "ai"]
+repository = "https://github.com/Kuingsmile/word-GPT-Plus"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

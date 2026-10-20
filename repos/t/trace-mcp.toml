@@ -1,0 +1,9 @@
+name = "trace-mcp"
+description = "Framework-aware code intelligence MCP server — 88 framework integrations, 81 languages, 72.7% fewer input tokens to review a pull request, comprehension at parity"
+category = "mcp-servers"
+tags = ["ai-agents", "claude-code", "code-intelligence", "developer-tools", "mcp", "mcp-server", "claude", "claude-ai"]
+repository = "https://github.com/nikolai-vysotskyi/trace-mcp"
+website = "https://trace-mcp.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

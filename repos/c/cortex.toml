@@ -1,0 +1,9 @@
+name = "cortex"
+description = "Production infrastructure for machine learning at scale"
+category = "data-science"
+tags = ["machine-learning", "infrastructure"]
+repository = "https://github.com/cortexlabs/cortex"
+website = "https://cortexlabs.com/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

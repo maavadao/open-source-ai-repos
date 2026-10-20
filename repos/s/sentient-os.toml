@@ -1,0 +1,9 @@
+name = "sentient-os"
+description = "An on-device LLM understands your entire life, then proactively offers to get your work done through computer use."
+category = "mcp-servers"
+tags = ["llm", "macos", "mcp", "privacy", "swift", "ai-agents", "intelligence-layer", "knowledge-base"]
+repository = "https://github.com/Sentient-OS-Labs/sentient-os"
+website = "https://sentient-os.ai"
+license = "AGPL-3.0"
+language = "Swift"
+added = 2026-10-20

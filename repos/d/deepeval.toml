@@ -1,0 +1,9 @@
+name = "deepeval"
+description = "The LLM Evaluation Framework"
+category = "ml-platforms"
+tags = ["evaluation-metrics", "evaluation-framework", "llm-evaluation", "llm-evaluation-framework", "llm-evaluation-metrics", "python"]
+repository = "https://github.com/confident-ai/deepeval"
+website = "https://deepeval.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

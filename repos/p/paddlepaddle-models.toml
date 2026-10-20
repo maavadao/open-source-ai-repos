@@ -1,0 +1,8 @@
+name = "models"
+description = "Officially maintained, supported by PaddlePaddle, including CV, NLP, Speech, Rec, TS, big models and so on."
+category = "speech"
+tags = ["paddlepaddle", "deep-learning", "neural-network", "computer-vision", "natural-language-processing", "recommendation", "speech", "nlp"]
+repository = "https://github.com/PaddlePaddle/models"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

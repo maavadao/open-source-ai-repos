@@ -1,0 +1,9 @@
+name = "StableVideo"
+description = "[ICCV 2023] StableVideo: Text-driven Consistency-aware Diffusion Video Editing"
+category = "video"
+tags = ["aigc", "computer-vision", "diffusion-model", "video-editing", "controlnet"]
+repository = "https://github.com/wenhaochai/StableVideo"
+website = "https://rese1f.github.io/StableVideo/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

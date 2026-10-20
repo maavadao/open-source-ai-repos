@@ -1,0 +1,8 @@
+name = "GoPiGo"
+description = "The GoPiGo Robot for Raspberry Pi"
+category = "robotics"
+tags = ["raspberry-pi", "gopigo", "stem", "robotics", "robotics-programming", "robotic-car"]
+repository = "https://github.com/DexterInd/GoPiGo"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

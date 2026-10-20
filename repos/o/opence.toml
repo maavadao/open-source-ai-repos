@@ -1,0 +1,8 @@
+name = "OpenCE"
+description = "Contrast Enhancement Techniques for low-light images"
+category = "vision"
+tags = ["contrast-enhancement", "image-processing", "image-restoration", "image-manipulation", "computer-vision", "image-enhancment", "contrast", "low-light"]
+repository = "https://github.com/baidut/OpenCE"
+license = "MIT"
+language = "MATLAB"
+added = 2026-10-20

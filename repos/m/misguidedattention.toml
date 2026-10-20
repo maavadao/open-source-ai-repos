@@ -1,0 +1,8 @@
+name = "MisguidedAttention"
+description = "A collection of prompts to challenge the reasoning abilities of large language models in presence of misguiding information"
+category = "models"
+tags = ["large-language-models", "llm"]
+repository = "https://github.com/cpldcpu/MisguidedAttention"
+license = "CC0-1.0"
+language = "Python"
+added = 2026-10-20

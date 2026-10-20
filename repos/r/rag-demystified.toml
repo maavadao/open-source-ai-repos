@@ -1,0 +1,8 @@
+name = "rag-demystified"
+description = "An LLM-powered advanced RAG pipeline built from scratch"
+category = "learning"
+tags = ["ai", "gpt", "llm", "question-answering", "chatgpt", "retrieval-augmented-generation", "vector-database", "rag"]
+repository = "https://github.com/pchunduri6/rag-demystified"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

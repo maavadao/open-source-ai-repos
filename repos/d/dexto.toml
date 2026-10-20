@@ -1,0 +1,9 @@
+name = "dexto"
+description = "Agent harness and tookit for building AI agents and agentic applications. CLI and SDKs included"
+category = "mcp-servers"
+tags = ["llm", "mcp", "typescript", "ai-agents", "ai-tools", "modelcontextprotocol", "ai", "mcp-client"]
+repository = "https://github.com/truffle-ai/dexto"
+website = "https://dexto.ai"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

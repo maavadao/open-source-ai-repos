@@ -1,0 +1,8 @@
+name = "aicodeguide"
+description = "AI Code Guide is a roadmap to start coding with AI"
+category = "learning"
+tags = ["ai", "aicode", "aicoding", "llm", "vibe-coding", "course", "roadmap"]
+repository = "https://github.com/automata/aicodeguide"
+website = "https://aicode.guide"
+license = "NOASSERTION"
+added = 2026-10-20

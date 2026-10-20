@@ -1,0 +1,9 @@
+name = "agentscope"
+description = "Build and run agents you can see, understand and trust."
+category = "mcp-servers"
+tags = ["agent", "chatbot", "large-language-models", "llm", "llm-agent", "multi-agent", "multi-modal", "mcp"]
+repository = "https://github.com/agentscope-ai/agentscope"
+website = "https://docs.agentscope.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

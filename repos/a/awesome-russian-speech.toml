@@ -1,0 +1,7 @@
+name = "awesome-russian-speech"
+description = "Russian speech technology links"
+category = "learning"
+tags = ["asr", "awesome-list", "g2p", "speech-recognition", "speech-synthesis", "speech-to-text", "tts", "vosk"]
+repository = "https://github.com/alphacep/awesome-russian-speech"
+license = "Apache-2.0"
+added = 2026-10-20

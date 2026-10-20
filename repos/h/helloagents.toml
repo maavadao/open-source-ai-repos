@@ -1,0 +1,8 @@
+name = "HelloAgents"
+description = "A agent framework based on the tutorial hello-agents"
+category = "learning"
+tags = ["agent", "agentic-ai", "llm", "skills"]
+repository = "https://github.com/jjyaoao/HelloAgents"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

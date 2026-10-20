@@ -1,0 +1,8 @@
+name = "Lumos"
+description = "A RAG LLM co-pilot for browsing the web, powered by local LLMs"
+category = "local-llms"
+tags = ["chrome-extension", "langchain", "langchain-js", "llm", "ollama", "react", "typescript", "webpack"]
+repository = "https://github.com/andrewnguonly/Lumos"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

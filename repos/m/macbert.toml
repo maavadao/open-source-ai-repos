@@ -1,0 +1,8 @@
+name = "MacBERT"
+description = "Revisiting Pre-trained Models for Chinese Natural Language Processing (MacBERT)"
+category = "models"
+tags = ["nlp", "bert", "language-model", "tensorflow", "macbert", "pytorch", "transformers"]
+repository = "https://github.com/ymcui/MacBERT"
+website = "https://www.aclweb.org/anthology/2020.findings-emnlp.58/"
+license = "Apache-2.0"
+added = 2026-10-20

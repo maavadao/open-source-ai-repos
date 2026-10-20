@@ -1,0 +1,7 @@
+name = "OpenSpace"
+description = "\"OpenSpace: The Skill Management Layer for AI Agents\" -- https://open-space.cloud/"
+category = "skills-prompts"
+repository = "https://github.com/HKUDS/OpenSpace"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

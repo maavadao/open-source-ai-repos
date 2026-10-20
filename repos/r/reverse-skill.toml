@@ -1,0 +1,7 @@
+name = "reverse-skill"
+description = "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 +…"
+category = "skills-prompts"
+repository = "https://github.com/zhaoxuya520/reverse-skill"
+license = "MIT"
+language = "PowerShell"
+added = 2026-10-20

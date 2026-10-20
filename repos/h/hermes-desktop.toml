@@ -1,0 +1,9 @@
+name = "hermes-desktop"
+description = "Desktop Companion for Hermes Agent"
+category = "chat"
+tags = ["ai", "ai-agent", "autonomous-agents", "chatbot", "hermes", "llm"]
+repository = "https://github.com/fathah/hermes-desktop"
+website = "https://hermesone.org"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

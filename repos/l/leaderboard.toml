@@ -1,0 +1,8 @@
+name = "Leaderboard"
+description = "SpeechIO Leaderboard: a large, robust, comprehensive, benchmarking platform for Automatic Speech Recognition."
+category = "speech"
+tags = ["asr", "speech-recognition", "speech", "benchmark", "benchmarking"]
+repository = "https://github.com/SpeechColab/Leaderboard"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

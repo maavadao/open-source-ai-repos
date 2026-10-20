@@ -1,0 +1,9 @@
+name = "ponytail"
+description = "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude", "claude-code", "claude-code-plugin", "cursor-rules", "developer-tools", "llm"]
+repository = "https://github.com/DietrichGebert/ponytail"
+website = "https://ponytail.dev"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

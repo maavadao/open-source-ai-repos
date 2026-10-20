@@ -1,0 +1,8 @@
+name = "llm-attacks"
+description = "Universal and Transferable Attacks on Aligned Language Models"
+category = "models"
+repository = "https://github.com/llm-attacks/llm-attacks"
+website = "https://llm-attacks.org/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

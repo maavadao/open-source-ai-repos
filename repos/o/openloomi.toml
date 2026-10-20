@@ -1,0 +1,9 @@
+name = "openloomi"
+description = "OpenLoomi is an open-source AI coworker. It connects your work tools, understands what you’re working on, and tells you what needs your attention, why it matters, and what to do next. It’s your open-source Attention Agent."
+category = "mcp-servers"
+tags = ["agent", "ai", "claw", "harness-engineering", "llm", "llm-model", "mcp", "memory"]
+repository = "https://github.com/melandlabs/openloomi"
+website = "https://openloomi.ai/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

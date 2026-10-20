@@ -1,0 +1,8 @@
+name = "gpt-cli"
+description = "Command-line interface for ChatGPT, Claude and Bard"
+category = "chat"
+tags = ["assistant", "chatgpt", "gpt-3", "gpt-4", "llm", "openai", "gpt-cli", "gpt-client"]
+repository = "https://github.com/kharvd/gpt-cli"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

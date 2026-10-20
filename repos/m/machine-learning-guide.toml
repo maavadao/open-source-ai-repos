@@ -1,0 +1,8 @@
+name = "Machine-Learning-Guide"
+description = "Machine learning Guide. Learn all about Machine Learning Tools, Libraries, Frameworks, Large Language Models (LLMs), and Training Models."
+category = "vision"
+tags = ["python", "deep-learning", "machine-learning-library", "machinelearning", "machine-learning-models", "pytorch", "machinelearning-python", "scikit-learn"]
+repository = "https://github.com/mikeroyal/Machine-Learning-Guide"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Awesome-MCoT"
+description = "Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey"
+category = "learning"
+tags = ["chain-of-thought", "cot", "deepseek-r1", "instruction-tuning", "large-vision-language-model", "mllm-reasoning", "multimodal", "multimodal-chain-of-thought"]
+repository = "https://github.com/yaotingwangofficial/Awesome-MCoT"
+website = "https://arxiv.org/abs/2503.12605"
+license = "NOASSERTION"
+language = "TeX"
+added = 2026-10-20

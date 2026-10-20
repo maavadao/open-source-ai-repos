@@ -1,0 +1,9 @@
+name = "atguigu-note"
+description = "AI 课程笔记：langchain / langgraph / python / vibe coding"
+category = "coding"
+tags = ["agent", "agents", "ai", "atguigu", "langchain", "langgraph", "python", "vibe-coding"]
+repository = "https://github.com/xbsheng/atguigu-note"
+website = "https://xbsheng.github.io/atguigu-note/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

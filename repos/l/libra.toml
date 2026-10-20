@@ -1,0 +1,9 @@
+name = "libra"
+description = "Ergonomic machine learning for everyone."
+category = "ml-platforms"
+tags = ["machine-learning", "neural-networks", "auto-ml"]
+repository = "https://github.com/Palashio/libra"
+website = "http://libradocs.org/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

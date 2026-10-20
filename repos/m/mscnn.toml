@@ -1,0 +1,8 @@
+name = "mscnn"
+description = "Caffe implementation of our multi-scale object detection framework"
+category = "robotics"
+tags = ["object-detection", "autonomous-driving"]
+repository = "https://github.com/zhaoweicai/mscnn"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

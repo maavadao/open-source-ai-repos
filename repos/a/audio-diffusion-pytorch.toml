@@ -1,0 +1,8 @@
+name = "audio-diffusion-pytorch"
+description = "Audio generation using diffusion models, in PyTorch."
+category = "ml-platforms"
+tags = ["artificial-intelligence", "audio-generation", "deep-learning", "denoising-diffusion"]
+repository = "https://github.com/archinetai/audio-diffusion-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

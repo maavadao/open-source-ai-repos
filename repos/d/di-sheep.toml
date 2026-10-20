@@ -1,0 +1,9 @@
+name = "DI-sheep"
+description = "羊了个羊 + 深度强化学习（Deep Reinforcement Learning + 3 Tiles Game)"
+category = "ml-platforms"
+tags = ["deep-reinforcement-learning", "python", "reinforcement-learning", "javascript", "typescript", "react", "artificial-intelligence", "di-engine"]
+repository = "https://github.com/opendilab/DI-sheep"
+website = "https://opendilab.net/sheep"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "openwork"
+description = "The open-source alternative to Claude Cowork (powered by opencode)"
+category = "other"
+repository = "https://github.com/different-ai/openwork"
+website = "https://openworklabs.com"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

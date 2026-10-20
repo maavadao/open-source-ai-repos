@@ -1,0 +1,9 @@
+name = "Cognitive-Speech-TTS"
+description = "Microsoft Text-to-Speech API Samples"
+category = "speech"
+tags = ["tts", "text-to-speech", "speech-synthesis", "text-to-wave", "text-to-mp3", "neuraltts", "transformer", "e2etts"]
+repository = "https://github.com/Azure-Samples/Cognitive-Speech-TTS"
+website = "https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

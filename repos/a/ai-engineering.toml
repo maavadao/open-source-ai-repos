@@ -1,0 +1,9 @@
+name = "AI-Engineering"
+description = "A group of notebooks and other files which can help you learn AI from scratch."
+category = "learning"
+tags = ["ai", "artificial-intelligence", "books", "chatbot", "machine-learning", "math", "ml", "mlmodel"]
+repository = "https://github.com/Ramakm/AI-Engineering"
+website = "https://growtechie.substack.com/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

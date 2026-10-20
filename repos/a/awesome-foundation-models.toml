@@ -1,0 +1,7 @@
+name = "Awesome-Foundation-Models"
+description = "A curated list of foundation models for vision and language tasks"
+category = "learning"
+tags = ["foundation-models", "vision-transformer", "large-language-models", "transformer-models", "multimodal-models"]
+repository = "https://github.com/uncbiag/Awesome-Foundation-Models"
+license = "NOASSERTION"
+added = 2026-10-20

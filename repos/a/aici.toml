@@ -1,0 +1,8 @@
+name = "aici"
+description = "AICI: Prompts as (Wasm) Programs"
+category = "local-llms"
+tags = ["ai", "rust", "wasm", "wasmtime", "inference", "language-model", "llm", "llm-framework"]
+repository = "https://github.com/microsoft/aici"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

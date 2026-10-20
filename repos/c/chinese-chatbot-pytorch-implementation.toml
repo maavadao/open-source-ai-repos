@@ -1,0 +1,8 @@
+name = "Chinese-Chatbot-PyTorch-Implementation"
+description = "Another Chinese chatbot implemented in PyTorch, which is the sub-module of intelligent work order processing robot."
+category = "chat"
+tags = ["deep-learning", "chatbot", "pytorch", "pytorch-nlp", "chinese-nlp"]
+repository = "https://github.com/Doragd/Chinese-Chatbot-PyTorch-Implementation"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

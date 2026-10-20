@@ -1,0 +1,7 @@
+name = "Awesome-Quantization-Papers"
+description = "List of papers related to neural network quantization in recent AI conferences and journals."
+category = "learning"
+tags = ["quantization", "awesome-list", "papers", "neural-networks", "model-compression", "edge-computing", "efficient-inference", "diffusion-models"]
+repository = "https://github.com/Zhen-Dong/Awesome-Quantization-Papers"
+license = "MIT"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "OpenOpenAI"
+description = "Self-hosted version of OpenAI’s new stateful Assistants API"
+category = "other"
+tags = ["assistants", "gpts", "openai", "openai-api", "self-hosted"]
+repository = "https://github.com/transitive-bullshit/OpenOpenAI"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

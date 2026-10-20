@@ -1,0 +1,8 @@
+name = "rs-graph-llm"
+description = "High-performance framework for building interactive workflow systems in Rust. Designed for complex workflows and multi-agent systems"
+category = "no-code"
+tags = ["agents", "graph", "langgraph", "llm", "rust", "workflow"]
+repository = "https://github.com/a-agmon/rs-graph-llm"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

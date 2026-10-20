@@ -1,0 +1,9 @@
+name = "aiconfig"
+description = "AIConfig is a config-based framework to build generative AI applications."
+category = "models"
+tags = ["ai", "developer-tools", "generative-ai", "llm", "llm-ops"]
+repository = "https://github.com/lastmile-ai/aiconfig"
+website = "https://aiconfig.lastmileai.dev"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "zotero-gpt"
+description = "GPT Meet Zotero."
+category = "models"
+tags = ["gpt", "zotero", "zotero-plugin"]
+repository = "https://github.com/MuiseDestiny/zotero-gpt"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "vlmrun-hub"
+description = "A hub for various industry-specific schemas to be used with VLMs."
+category = "vision"
+tags = ["ai", "computer-vision", "etl", "genai", "json", "multimodal", "pydantic", "pydantic-models"]
+repository = "https://github.com/vlm-run/vlmrun-hub"
+website = "https://docs.vlm.run/hub"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

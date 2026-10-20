@@ -1,0 +1,9 @@
+name = "DynamicMap_Benchmark"
+description = "The First Dynamic Map Removal Benchmark | Included 8 SOTA methods | Continous updating"
+category = "robotics"
+tags = ["benchmark", "dataset", "mapping", "autonomous-driving", "robotics", "dynamic-point-removal"]
+repository = "https://github.com/KTH-RPL/DynamicMap_Benchmark"
+website = "https://kth-rpl.github.io/DynamicMap_Benchmark/"
+license = "BSD-3-Clause"
+language = "Jupyter Notebook"
+added = 2026-10-20

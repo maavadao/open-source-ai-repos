@@ -1,0 +1,8 @@
+name = "gigagan-pytorch"
+description = "Implementation of GigaGAN, new SOTA GAN out of Adobe. Culmination of nearly a decade of research into GANs"
+category = "ml-platforms"
+tags = ["artificial-intelligence", "deep-learning", "generative-adversarial-network"]
+repository = "https://github.com/lucidrains/gigagan-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

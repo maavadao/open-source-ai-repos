@@ -1,0 +1,9 @@
+name = "NagaAgent"
+description = "A simple yet powerful agent framework for personal assistants, designed to enable intelligent interaction, multi-agent collaboration, and seamless tool integration."
+category = "mcp-servers"
+tags = ["agentic-ai", "agents", "mcp-client", "openai", "mcp", "toolcall", "openclaw"]
+repository = "https://github.com/RTGS2017/NagaAgent"
+website = "https://space.bilibili.com/266938091"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Solo-Performance-Prompting"
+description = "Repo for paper \"Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration\""
+category = "models"
+tags = ["large-language-models", "prompting", "llm"]
+repository = "https://github.com/MikeWangWZHL/Solo-Performance-Prompting"
+website = "https://arxiv.org/abs/2307.05300"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

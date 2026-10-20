@@ -1,0 +1,8 @@
+name = "DeepAA"
+description = "make ASCII Art by Deep Learning"
+category = "ml-platforms"
+tags = ["deep-learning", "keras", "tensorflow", "ascii-art", "python"]
+repository = "https://github.com/OsciiArt/DeepAA"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

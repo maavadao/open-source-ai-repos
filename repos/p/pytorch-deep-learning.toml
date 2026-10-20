@@ -1,0 +1,9 @@
+name = "pytorch-deep-learning"
+description = "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course."
+category = "learning"
+tags = ["pytorch", "machine-learning", "deep-learning"]
+repository = "https://github.com/mrdbourke/pytorch-deep-learning"
+website = "https://learnpytorch.io"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

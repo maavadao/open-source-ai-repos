@@ -1,0 +1,9 @@
+name = "PaddleX"
+description = "All-in-One Development Tool based on PaddlePaddle"
+category = "documents"
+tags = ["classification", "segmentation", "deployment", "ocr", "time-series", "pp-chatocr", "ai-pipelines", "object-detection"]
+repository = "https://github.com/PaddlePaddle/PaddleX"
+website = "https://paddlepaddle.github.io/PaddleX/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

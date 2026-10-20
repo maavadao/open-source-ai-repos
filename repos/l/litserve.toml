@@ -1,0 +1,9 @@
+name = "LitServe"
+description = "A minimal Python framework for building custom AI inference servers with full control over logic, batching, and scaling."
+category = "local-llms"
+tags = ["ai", "api", "serving", "artificial-intelligence", "deep-learning", "developer-tools", "fastapi", "rest-api"]
+repository = "https://github.com/Lightning-AI/LitServe"
+website = "https://lightning.ai/litserve?utm_source=litserve_readme&utm_medium=referral&utm_campaign=litserve_readme"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

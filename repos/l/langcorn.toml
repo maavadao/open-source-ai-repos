@@ -1,0 +1,9 @@
+name = "langcorn"
+description = "Serving LangChain LLM apps and agents automagically with FastApi. LLMops"
+category = "llm-apps"
+tags = ["fastapi", "langchain", "langchain-python", "large-language-models", "api", "llm", "vercel", "vercel-serverless-functions"]
+repository = "https://github.com/msoedov/langcorn"
+website = "https://langcorn.vercel.app/docs"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

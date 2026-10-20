@@ -1,0 +1,8 @@
+name = "advanced-rag"
+description = "Jupyter Notebooks for Mastering LLM with Advanced RAG Course"
+category = "learning"
+tags = ["llm", "rag"]
+repository = "https://github.com/guyernest/advanced-rag"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

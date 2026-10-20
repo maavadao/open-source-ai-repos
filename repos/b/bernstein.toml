@@ -1,0 +1,9 @@
+name = "bernstein"
+description = "The open-source governance layer for AI agents: write the rules declaratively, Bernstein enforces them and produces the verifiable, replayable record. Free, Apache-2.0. https://bernstein.run"
+category = "mcp-servers"
+tags = ["agent-orchestrator", "deterministic-replay", "air-gap", "audit-trail", "provenance", "reproducibility", "git-worktree", "agent-fleet"]
+repository = "https://github.com/sipyourdrink-ltd/bernstein"
+website = "https://bernstein.run"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

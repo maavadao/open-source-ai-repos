@@ -1,0 +1,8 @@
+name = "GFPGAN"
+description = "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration."
+category = "image"
+tags = ["pytorch", "gan", "deep-learning", "super-resolution", "face-restoration", "image-restoration", "gfpgan"]
+repository = "https://github.com/TencentARC/GFPGAN"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

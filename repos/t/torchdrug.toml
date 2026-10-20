@@ -1,0 +1,9 @@
+name = "torchdrug"
+description = "A powerful and flexible machine learning platform for drug discovery"
+category = "ml-platforms"
+tags = ["pytorch", "deep-learning", "graph-neural-networks", "drug-discovery"]
+repository = "https://github.com/DeepGraphLearning/torchdrug"
+website = "https://torchdrug.ai/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

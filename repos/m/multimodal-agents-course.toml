@@ -1,0 +1,8 @@
+name = "multimodal-agents-course"
+description = "An MCP Multimodal AI Agent with eyes and ears!"
+category = "mcp-servers"
+tags = ["agent", "embeddings", "groq", "mcp", "mcp-client", "mcp-server", "multimodal", "openai"]
+repository = "https://github.com/the-ai-merge/multimodal-agents-course"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

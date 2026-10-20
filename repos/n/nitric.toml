@@ -1,0 +1,9 @@
+name = "nitric"
+description = "Nitric is a multi-language framework for cloud applications with infrastructure from code."
+category = "other"
+tags = ["cloud", "aws", "gcp", "azure", "golang", "javascript", "serverless", "go"]
+repository = "https://github.com/nitrictech/nitric"
+website = "https://nitric.io"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "InSPyReNet"
+description = "Official PyTorch implementation of Revisiting Image Pyramid Structure for High Resolution Salient Object Detection (ACCV 2022)"
+category = "vision"
+tags = ["deep-learning", "high-resolution", "pytorch", "salient-object-detection", "accv2022", "computer-vision", "background-removal", "image-matting"]
+repository = "https://github.com/plemeri/InSPyReNet"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

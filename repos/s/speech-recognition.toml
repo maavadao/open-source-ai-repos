@@ -1,0 +1,9 @@
+name = "speech_recognition"
+description = "Speech recognition module for Python, supporting several engines and APIs, online and offline."
+category = "speech"
+tags = ["python", "audio", "speech-recognition", "speech-to-text"]
+repository = "https://github.com/Uberi/speech_recognition"
+website = "https://pypi.python.org/pypi/SpeechRecognition/"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

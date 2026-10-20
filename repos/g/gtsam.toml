@@ -1,0 +1,9 @@
+name = "gtsam"
+description = "GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices."
+category = "robotics"
+tags = ["estimation", "perception", "robotics", "sensorfusion"]
+repository = "https://github.com/borglab/gtsam"
+website = "https://borglab.github.io/gtsam/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Mooncake"
+description = "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI."
+category = "local-llms"
+tags = ["inference", "kvcache", "llm", "rdma", "sglang", "vllm", "disaggregation", "tokenspeed"]
+repository = "https://github.com/kvcache-ai/Mooncake"
+website = "https://kvcache-ai.github.io/Mooncake/"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

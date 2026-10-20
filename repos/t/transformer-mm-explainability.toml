@@ -1,0 +1,8 @@
+name = "Transformer-MM-Explainability"
+description = "[ICCV 2021- Oral] Official PyTorch implementation for Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers, a novel method to visualize any Transformer-based network. Including examples for DETR, VQA."
+category = "models"
+tags = ["transformers", "transformer", "vqa", "detr", "visualization", "explainability", "explainable-ai", "interpretability"]
+repository = "https://github.com/hila-chefer/Transformer-MM-Explainability"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

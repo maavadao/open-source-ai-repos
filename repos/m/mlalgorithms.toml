@@ -1,0 +1,8 @@
+name = "MLAlgorithms"
+description = "Minimal and clean examples of machine learning algorithms implementations"
+category = "ml-platforms"
+tags = ["machine-learning", "deep-learning", "neural-networks", "machine-learning-algorithms", "python"]
+repository = "https://github.com/rushter/MLAlgorithms"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "betty"
+description = "Betty: an automatic differentiation library for generalized meta-learning and multilevel optimization"
+category = "ml-platforms"
+tags = ["autodiff", "automatic-differentiation", "bilevel-optimization", "meta-learning", "multilevel-optimization", "hyperparameter-optimization", "neural-architecture-search", "reinforcement-learning"]
+repository = "https://github.com/leopard-ai/betty"
+website = "https://leopard-ai.github.io/betty/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

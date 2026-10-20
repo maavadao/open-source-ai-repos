@@ -1,0 +1,9 @@
+name = "deepxde"
+description = "A library for scientific machine learning and physics-informed learning"
+category = "ml-platforms"
+tags = ["neural-network", "deep-learning", "scientific-machine-learning", "pinn", "multi-fidelity-data", "operator", "pytorch", "physics-informed-learning"]
+repository = "https://github.com/lululxvi/deepxde"
+website = "https://deepxde.readthedocs.io"
+license = "LGPL-2.1"
+language = "Python"
+added = 2026-10-20

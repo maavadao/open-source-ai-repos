@@ -1,0 +1,9 @@
+name = "Gemini-API"
+description = "Reverse-engineered Python API for Google Gemini web app"
+category = "image"
+tags = ["ai", "api", "async", "bard", "chatbot", "gemini", "generative-ai", "google"]
+repository = "https://github.com/HanaokaYuzu/Gemini-API"
+website = "https://pypi.org/project/gemini-webapi/"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

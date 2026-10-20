@@ -1,0 +1,9 @@
+name = "AntSK"
+description = "An AI knowledge base/agent built with .Net 9, AntBlazor, Semantic Kernel, and Kernel Memory, supporting local offline AI large models. It can run offline without an internet connection. Supports Aspire for monitoring application data."
+category = "llm-apps"
+tags = ["dotnet", "ai", "rag", "agnet", "sk"]
+repository = "https://github.com/shuyu-labs/AntSK"
+website = "https://antsk.cn"
+license = "NOASSERTION"
+language = "CSS"
+added = 2026-10-20

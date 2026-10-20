@@ -1,0 +1,9 @@
+name = "FluidVoice"
+description = "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows, iOS testflight! Android, Linux waitlist open! A local Wispr Flow alternative. Follow https://x.com/fluidvoiceapp for more"
+category = "local-llms"
+tags = ["ai", "dictation", "ios", "llama-cpp", "macos", "swift"]
+repository = "https://github.com/altic-dev/FluidVoice"
+website = "https://altic.dev/fluid"
+license = "GPL-3.0"
+language = "Swift"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "privacy"
+description = "Library for training machine learning models with privacy for training data"
+category = "security"
+tags = ["machine-learning", "privacy"]
+repository = "https://github.com/tensorflow/privacy"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

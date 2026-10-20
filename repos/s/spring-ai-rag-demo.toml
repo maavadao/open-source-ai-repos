@@ -1,0 +1,8 @@
+name = "spring-ai-rag-demo"
+description = "基于 Spring AI 2.0 的生产级 ERP 智能助手｜Production-ready ERP AI assistant with RAG, Tool Calling, chat memory, dynamic SQL tools, multi-tenancy and ECharts."
+category = "agents"
+tags = ["ai-agents", "deepseek", "docker", "echarts", "erp", "gemini", "generative-ai", "java"]
+repository = "https://github.com/ly1836/spring-ai-rag-demo"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

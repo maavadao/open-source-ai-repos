@@ -1,0 +1,9 @@
+name = "memory-lancedb-pro"
+description = "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI"
+category = "llm-apps"
+tags = ["lancedb", "memory", "openclaw", "openclaw-agent", "openclaw-plugin", "rag"]
+repository = "https://github.com/CortexReach/memory-lancedb-pro"
+website = "https://youtu.be/bhuGrjuCM_g"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

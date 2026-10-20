@@ -1,0 +1,9 @@
+name = "agents"
+description = "Build and deploy AI Agents on Cloudflare"
+category = "agents"
+tags = ["agents", "ai", "cloudflare", "durable-objects", "workflows"]
+repository = "https://github.com/cloudflare/agents"
+website = "https://developers.cloudflare.com/agents/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

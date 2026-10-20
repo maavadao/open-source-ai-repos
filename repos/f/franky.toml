@@ -1,0 +1,9 @@
+name = "franky"
+description = "High-Level Control Library for Franka Robots with Python and C++ Support"
+category = "robotics"
+tags = ["franka-panda", "franka-panda-python", "python3", "franka", "robotics", "franka-research-3", "control", "python"]
+repository = "https://github.com/TimSchneider42/franky"
+website = "https://timschneider42.github.io/franky/"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "EnterpriseAgentFramework"
+description = "ReachAI企业级智能体开发平台：快速、安全完成已有业务系统智能化改造，让 AI 在 OA、ERP、CRM 等原系统中查数据、填表单、办业务。ReachAI: Quickly and securely bring AI to existing enterprise systems, enabling AI to query data, fill out forms, and execute business tasks directly within OA, ERP, CRM, and other business applications."
+category = "mcp-servers"
+tags = ["a2a", "agent-framework", "ai-agents", "ai-capability", "ai-gateway", "enterprise-ai", "java", "langgraph"]
+repository = "https://github.com/w8123/EnterpriseAgentFramework"
+license = "MIT"
+language = "Java"
+added = 2026-10-20

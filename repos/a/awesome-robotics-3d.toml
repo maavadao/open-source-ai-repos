@@ -1,0 +1,7 @@
+name = "Awesome-Robotics-3D"
+description = "A curated list of 3D Vision papers relating to Robotics domain in the era of large models i.e. LLMs/VLMs, inspired by awesome-computer-vision, including papers, codes, and related websites"
+category = "learning"
+tags = ["3d", "benchmarks", "computer-vision", "gaussian-splatting", "grasping", "llm", "manipulation", "nerf"]
+repository = "https://github.com/zubair-irshad/Awesome-Robotics-3D"
+license = "NOASSERTION"
+added = 2026-10-20

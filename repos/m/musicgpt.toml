@@ -1,0 +1,8 @@
+name = "MusicGPT"
+description = "Generate music based on natural language prompts using LLMs running locally"
+category = "speech"
+tags = ["ai", "llm", "machine-learning", "music", "gpt"]
+repository = "https://github.com/gabotechs/MusicGPT"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

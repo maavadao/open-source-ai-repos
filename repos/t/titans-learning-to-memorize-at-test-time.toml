@@ -1,0 +1,8 @@
+name = "Titans---Learning-to-Memorize-at-Test-Time"
+description = "Multi-agent demo platform for Titans (arXiv:2501.00663) — neural networks that learn to memorize at test time. 7 AI agents, native desktop UI."
+category = "agents"
+tags = ["ai", "ai-agent", "test-time-compute", "titans", "anthropic", "deep-learning", "llm", "memory-augmented-neural-networks"]
+repository = "https://github.com/ai-in-pm/Titans---Learning-to-Memorize-at-Test-Time"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

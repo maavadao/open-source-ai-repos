@@ -1,0 +1,9 @@
+name = "hermes-memory-installer"
+description = "Production-grade memory sidecar for AI agents — gbrain + Hindsight + 3-tier recall. Agent-agnostic, battle-tested. | 生产级外挂记忆系统，兼容Hermes/Claude/Cursor等任意AI智能体"
+category = "coding"
+tags = ["agent-memory", "ai-agent", "claude-code", "gbrain", "hindsight", "knowledge-graph", "multi-agent", "rag"]
+repository = "https://github.com/mage0535/hermes-memory-installer"
+website = "https://github.com/mage0535/Knowledge-and-Memory-Management"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

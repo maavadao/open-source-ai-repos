@@ -1,0 +1,9 @@
+name = "coding-tools-mcp"
+description = "Give any AI agent the ability to code"
+category = "mcp-servers"
+tags = ["mcp", "mcp-server", "dsh-plugin"]
+repository = "https://github.com/xyTom/coding-tools-mcp"
+website = "https://coding-tools-mcp.github.io/docs/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

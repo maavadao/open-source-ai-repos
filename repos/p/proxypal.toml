@@ -1,0 +1,8 @@
+name = "proxypal"
+description = "A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. Wraps CLIProxyAPI with a clean UI for managing connections and tracking usage."
+category = "coding"
+tags = ["claude", "claude-code", "codex", "gemini", "openai", "qwen3-coder", "antigravity"]
+repository = "https://github.com/heyhuynhgiabuu/proxypal"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

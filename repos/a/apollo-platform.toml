@@ -1,0 +1,8 @@
+name = "apollo-platform"
+description = "Collections of Apollo Platform Software"
+category = "robotics"
+tags = ["autonomous-driving", "ros"]
+repository = "https://github.com/ApolloAuto/apollo-platform"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

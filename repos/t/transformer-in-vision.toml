@@ -1,0 +1,7 @@
+name = "Transformer-in-Vision"
+description = "Recent Transformer-based CV and related works."
+category = "vision"
+tags = ["transformer", "vision-transformers", "computer-vision", "self-attention", "multi-modal", "visual-language", "deep-learning", "paper"]
+repository = "https://github.com/DirtyHarryLYL/Transformer-in-Vision"
+license = "NOASSERTION"
+added = 2026-10-20

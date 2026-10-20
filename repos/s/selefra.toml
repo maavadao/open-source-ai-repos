@@ -1,0 +1,9 @@
+name = "selefra"
+description = "The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI)."
+category = "chat"
+tags = ["gcp", "azure", "cspm", "infrastructure-as-code", "policy-as-code", "aws", "cloud", "golang"]
+repository = "https://github.com/selefra/selefra"
+website = "https://www.selefra.io"
+license = "MPL-2.0"
+language = "Go"
+added = 2026-10-20

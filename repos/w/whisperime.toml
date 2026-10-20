@@ -1,0 +1,8 @@
+name = "whisperIME"
+description = "Android Input Method Editor (IME) based on Whisper"
+category = "speech"
+tags = ["android", "on-device-ai", "speech-recognition", "transcription", "translation", "whisper", "privacy-protection"]
+repository = "https://github.com/woheller69/whisperIME"
+license = "MIT"
+language = "Java"
+added = 2026-10-20

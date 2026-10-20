@@ -1,0 +1,9 @@
+name = "openllmetry"
+description = "Open-source observability for your GenAI or LLM application, based on OpenTelemetry"
+category = "llm-apps"
+tags = ["llmops", "observability", "open-telemetry", "metrics", "monitoring", "opentelemetry", "datascience", "ml"]
+repository = "https://github.com/traceloop/openllmetry"
+website = "https://www.traceloop.com/openllmetry"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

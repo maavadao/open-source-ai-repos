@@ -1,0 +1,10 @@
+name = "optuna"
+description = "A hyperparameter optimization framework"
+category = "ml-platforms"
+tags = ["python", "machine-learning", "parallel", "distributed", "hyperparameter-optimization"]
+repository = "https://github.com/optuna/optuna"
+website = "https://optuna.org"
+license = "MIT"
+language = "Python"
+skill_level = "beginner"
+added = 2026-10-20

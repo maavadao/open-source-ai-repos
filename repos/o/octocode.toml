@@ -1,0 +1,9 @@
+name = "octocode"
+description = "Code research platform for AI agents; find, understand, and prove context across your code and all of GitHub, in a fraction of the tokens. One toolset, MCP or CLI"
+category = "mcp-servers"
+tags = ["ai", "claude-ai", "cursor-ai", "development", "mcp", "modelcontextprotocol", "octocode", "ai-agents"]
+repository = "https://github.com/bgauryy/octocode"
+website = "https://octocode.ai/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

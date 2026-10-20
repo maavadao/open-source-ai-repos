@@ -1,0 +1,9 @@
+name = "chat-with-gpt"
+description = "An open-source ChatGPT app with a voice"
+category = "speech"
+tags = ["artificial-intelligence", "chatgpt", "chatgpt-api", "gpt-3", "self-hosted", "chat", "speech-synthesis", "gpt-4"]
+repository = "https://github.com/cogentapps/chat-with-gpt"
+website = "https://www.chatwithgpt.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

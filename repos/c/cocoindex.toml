@@ -1,0 +1,9 @@
+name = "cocoindex"
+description = "Incremental engine for long horizon agents Star if you like it!"
+category = "agents"
+tags = ["ai", "change-data-capture", "data-indexing", "etl", "indexing", "python", "rag", "real-time"]
+repository = "https://github.com/cocoindex-io/cocoindex"
+website = "https://cocoindex.io"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

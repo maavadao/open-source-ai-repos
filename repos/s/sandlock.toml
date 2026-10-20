@@ -1,0 +1,9 @@
+name = "sandlock"
+description = "The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no prompt injection"
+category = "agents"
+tags = ["sandboxing", "landlock", "ai-agents", "rust", "linux", "seccomp", "promptinjection", "faas"]
+repository = "https://github.com/multikernel/sandlock"
+website = "https://sandlock.io"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

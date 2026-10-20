@@ -1,0 +1,9 @@
+name = "layoutreader"
+description = "A Faster LayoutReader Model based on LayoutLMv3, Sort OCR bboxes to reading order."
+category = "models"
+tags = ["huggingface", "layoutlmv3", "layoutreader", "transformers"]
+repository = "https://github.com/FreeOCR-AI/layoutreader"
+website = "https://huggingface.co/hantian/layoutreader"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

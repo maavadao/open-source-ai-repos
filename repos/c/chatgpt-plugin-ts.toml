@@ -1,0 +1,8 @@
+name = "chatgpt-plugin-ts"
+description = "Everything you need to start building ChatGPT Plugins in JS/TS"
+category = "chat"
+tags = ["chatgpt", "chatgpt-plugins", "examples", "openai"]
+repository = "https://github.com/transitive-bullshit/chatgpt-plugin-ts"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

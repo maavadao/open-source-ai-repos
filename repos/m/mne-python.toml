@@ -1,0 +1,9 @@
+name = "mne-python"
+description = "MNE: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python"
+category = "data-science"
+tags = ["python", "neuroscience", "electroencephalography", "magnetoencephalography", "electrocorticography", "machine-learning", "statistics", "visualization"]
+repository = "https://github.com/mne-tools/mne-python"
+website = "https://mne.tools"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "SST"
+description = "Code for a series of work in LiDAR perception, including SST (CVPR 22), FSD (NeurIPS 22), FSD++ (TPAMI 23), FSDv2, and CTRL (ICCV 23, oral)."
+category = "robotics"
+tags = ["pytorch", "3d-object-detection", "autonomous-driving"]
+repository = "https://github.com/tusen-ai/SST"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

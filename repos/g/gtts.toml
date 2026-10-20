@@ -1,0 +1,9 @@
+name = "gTTS"
+description = "Python library and CLI tool to interface with Google Translate's text-to-speech API"
+category = "speech"
+tags = ["speech", "python", "tts", "text-to-speech", "gtts", "speech-api", "cli", "python-library"]
+repository = "https://github.com/pndurette/gTTS"
+website = "http://gtts.readthedocs.org/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "claude-code-settings"
+description = "Curated skills, sub-agents, and config templates that supercharge Claude Code — research, image gen, GitHub automation & more."
+category = "skills-prompts"
+tags = ["agentic-ai", "ai", "claude-code", "vibe-coding", "agents", "copilot", "litellm", "codex"]
+repository = "https://github.com/feiskyer/claude-code-settings"
+website = "https://feisky.xyz/claude-code-settings/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

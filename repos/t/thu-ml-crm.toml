@@ -1,0 +1,9 @@
+name = "CRM"
+description = "[ECCV 2024] Single Image to 3D Textured Mesh in 10 seconds with Convolutional Reconstruction Model."
+category = "image"
+tags = ["3d", "aigc", "diffusion-models", "generative-model", "multiview", "reconstruction"]
+repository = "https://github.com/thu-ml/CRM"
+website = "https://ml.cs.tsinghua.edu.cn/~zhengyi/CRM/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

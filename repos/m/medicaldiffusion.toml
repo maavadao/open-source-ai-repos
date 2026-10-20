@@ -1,0 +1,8 @@
+name = "medicaldiffusion"
+description = "Medical Diffusion: This repository contains the code to our paper Medical Diffusion: Denoising Diffusion Probabilistic Models for 3D Medical Image Synthesis"
+category = "image"
+tags = ["ct", "diffusion-models", "machine-learning", "mri"]
+repository = "https://github.com/FirasGit/medicaldiffusion"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

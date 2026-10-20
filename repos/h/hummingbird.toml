@@ -1,0 +1,8 @@
+name = "hummingbird"
+description = "Hummingbird compiles trained ML models into tensor computation for faster inference."
+category = "ml-platforms"
+tags = ["machine-learning", "neural-networks", "scikit-learn", "pytorch", "tensor-computation"]
+repository = "https://github.com/microsoft/hummingbird"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

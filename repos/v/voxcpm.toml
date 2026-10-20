@@ -1,0 +1,9 @@
+name = "VoxCPM"
+description = "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning"
+category = "speech"
+tags = ["audio", "deeplearning", "minicpm", "python", "pytorch", "speech", "speech-synthesis", "text-to-speech"]
+repository = "https://github.com/OpenBMB/VoxCPM"
+website = "https://voxcpm.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

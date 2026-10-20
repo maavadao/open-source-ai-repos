@@ -1,0 +1,9 @@
+name = "ai-renamer"
+description = "A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents"
+category = "no-code"
+tags = ["ai", "automation", "cli-tool", "file-management", "file-renamer", "files", "llama3", "machine-learning"]
+repository = "https://github.com/ozgrozer/ai-renamer"
+website = "https://airenamer.app"
+license = "GPL-3.0"
+language = "JavaScript"
+added = 2026-10-20

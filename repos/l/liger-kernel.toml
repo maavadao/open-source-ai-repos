@@ -1,0 +1,9 @@
+name = "Liger-Kernel"
+description = "Efficient Triton Kernels for LLM Training"
+category = "models"
+tags = ["llm-training", "triton", "finetuning", "gemma2", "llama", "llama3", "llms", "mistral"]
+repository = "https://github.com/linkedin/Liger-Kernel"
+website = "https://linkedin.github.io/Liger-Kernel/"
+license = "BSD-2-Clause"
+language = "Python"
+added = 2026-10-20

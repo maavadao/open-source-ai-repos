@@ -1,0 +1,8 @@
+name = "alphafold3-pytorch"
+description = "Implementation of Alphafold 3 from Google Deepmind in Pytorch"
+category = "models"
+tags = ["artificial-intelligence", "deep-learning", "attention-mechanisms", "denoising-diffusion", "transformers", "protein-structure-prediction"]
+repository = "https://github.com/lucidrains/alphafold3-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

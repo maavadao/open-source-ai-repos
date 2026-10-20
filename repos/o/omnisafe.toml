@@ -1,0 +1,9 @@
+name = "omnisafe"
+description = "JMLR: OmniSafe is an infrastructural framework for accelerating SafeRL research."
+category = "ml-platforms"
+tags = ["benchmark", "pytorch", "safe-reinforcement-learning", "deep-reinforcement-learning", "reinforcement-learning", "machine-learning", "constraint-rl", "constraint-satisfaction-problem"]
+repository = "https://github.com/PKU-Alignment/omnisafe"
+website = "https://omnisafe.readthedocs.io/en/latest/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

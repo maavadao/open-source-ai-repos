@@ -1,0 +1,9 @@
+name = "humanoid-gym"
+description = "Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer https://arxiv.org/abs/2404.05695"
+category = "robotics"
+tags = ["ai", "artificial-intelligence", "control-systems", "humanoid-robot", "locomotion", "machine-learning", "robotics"]
+repository = "https://github.com/roboterax/humanoid-gym"
+website = "https://sites.google.com/view/humanoid-gym/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

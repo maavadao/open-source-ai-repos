@@ -1,0 +1,9 @@
+name = "opencvsharp"
+description = "OpenCV wrapper for .NET"
+category = "vision"
+tags = ["opencv", "wrapper", "dotnet", "nuget", "opencvsharp", "image-processing", "machine-learning", "computer-vision"]
+repository = "https://github.com/shimat/opencvsharp"
+website = "http://shimat.github.io/opencvsharp/"
+license = "Apache-2.0"
+language = "C#"
+added = 2026-10-20

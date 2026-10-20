@@ -1,0 +1,8 @@
+name = "conformer"
+description = "[Unofficial] PyTorch implementation of \"Conformer: Convolution-augmented Transformer for Speech Recognition\" (INTERSPEECH 2020)"
+category = "speech"
+tags = ["conformer", "transformer", "cnn", "transformer-xl", "asr", "speech-recognition", "pytorch", "conv"]
+repository = "https://github.com/sooftware/conformer"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

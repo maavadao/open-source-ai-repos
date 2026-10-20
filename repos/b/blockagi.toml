@@ -1,0 +1,8 @@
+name = "BlockAGI"
+description = "Your Self-Hosted, Hackable Research Agent Inspired by AutoGPT"
+category = "agents"
+tags = ["ai", "autogpt", "babyagi", "llm", "openai", "gpt-4"]
+repository = "https://github.com/orgexyz/BlockAGI"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

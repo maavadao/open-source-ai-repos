@@ -1,0 +1,8 @@
+name = "promptsource"
+description = "Toolkit for creating, sharing and using natural language prompts."
+category = "data-science"
+tags = ["natural-language-processing", "nlp", "machine-learning"]
+repository = "https://github.com/bigscience-workshop/promptsource"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

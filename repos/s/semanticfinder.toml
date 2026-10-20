@@ -1,0 +1,9 @@
+name = "SemanticFinder"
+description = "SemanticFinder - frontend-only live semantic search with transformers.js"
+category = "llm-apps"
+tags = ["ai", "codemirror", "semanticsearch", "transformers", "semantic-search"]
+repository = "https://github.com/do-me/SemanticFinder"
+website = "https://do-me.github.io/SemanticFinder/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

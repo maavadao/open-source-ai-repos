@@ -1,0 +1,8 @@
+name = "DeepRL-Agents"
+description = "A set of Deep Reinforcement Learning Agents implemented in Tensorflow."
+category = "ml-platforms"
+tags = ["reinforcement-learning", "tensorflow"]
+repository = "https://github.com/awjuliani/DeepRL-Agents"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

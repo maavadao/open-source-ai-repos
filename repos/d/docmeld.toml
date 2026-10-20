@@ -1,0 +1,9 @@
+name = "DocMeld"
+description = "Lightweight Doc-to-agent-ready knowledge pipeline. Three-stage Bronze→Silver→Gold architecture extracts structured elements, page content, and AI-enriched metadata from research papers and books. Generate PRDs, workflows, topic clusters, and Claude Code skills from PDFs. No…"
+category = "skills-prompts"
+tags = ["claude-code", "claude-skills", "doc-converter", "harness-engineering", "ocr", "pdf-converter", "workflow", "agent-use-ready"]
+repository = "https://github.com/agentii-ai/DocMeld"
+website = "https://www.agentii.ai"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

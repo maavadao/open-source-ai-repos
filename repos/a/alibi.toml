@@ -1,0 +1,9 @@
+name = "alibi"
+description = "Algorithms for explaining machine learning models"
+category = "data-science"
+tags = ["machine-learning", "explanations", "interpretability", "counterfactual", "xai"]
+repository = "https://github.com/SeldonIO/alibi"
+website = "https://docs.seldon.io/projects/alibi/en/stable/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

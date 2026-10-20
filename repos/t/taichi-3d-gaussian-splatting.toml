@@ -1,0 +1,8 @@
+name = "taichi_3d_gaussian_splatting"
+description = "An unofficial implementation of paper 3D Gaussian Splatting for Real-Time Radiance Field Rendering by taichi lang."
+category = "vision"
+tags = ["3d-reconstruction", "3d-rendering", "computer-graphics", "computer-vision", "machine-learning", "nerf", "python", "pytorch"]
+repository = "https://github.com/wanmeihuali/taichi_3d_gaussian_splatting"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

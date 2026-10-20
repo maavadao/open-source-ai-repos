@@ -1,0 +1,9 @@
+name = "agent-framework"
+description = "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET."
+category = "agents"
+tags = ["agent-framework", "agentic-ai", "agents", "ai", "multi-agent", "orchestration", "sdk", "workflows"]
+repository = "https://github.com/microsoft/agent-framework"
+website = "https://aka.ms/agent-framework"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

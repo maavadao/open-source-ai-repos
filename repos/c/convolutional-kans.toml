@@ -1,0 +1,8 @@
+name = "Convolutional-KANs"
+description = "This project extends the idea of the innovative architecture of Kolmogorov-Arnold Networks (KAN) to the Convolutional Layers, changing the classic linear transformation of the convolution to learnable non linear activations in each pixel."
+category = "vision"
+tags = ["cnn", "computer-vision", "deep-learning"]
+repository = "https://github.com/AntonioTepsich/Convolutional-KANs"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

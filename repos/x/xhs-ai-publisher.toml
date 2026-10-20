@@ -1,0 +1,9 @@
+name = "xhs_ai_publisher"
+description = "AI-powered Xiaohongshu/Rednote content creation and publishing tool with PyQt desktop UI, FastAPI service, login-state reuse, preview publish, and automated browser workflows."
+category = "browser-automation"
+tags = ["ai", "automation", "fastapi", "playwright", "pyqt5", "rednote", "xiaohongshu"]
+repository = "https://github.com/BetaStreetOmnis/xhs_ai_publisher"
+website = "https://xhs-ai-publisher.pages.dev/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

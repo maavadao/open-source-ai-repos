@@ -1,0 +1,8 @@
+name = "data-science-question-answer"
+description = "A repo for data science related questions and answers"
+category = "ml-platforms"
+tags = ["data-science", "machine-learning", "deep-learning", "sql", "statistics", "system", "reinforcement-learning"]
+repository = "https://github.com/jayinai/data-science-question-answer"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

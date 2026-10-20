@@ -1,0 +1,7 @@
+name = "fluent-korean"
+description = "Claude Code가 명확한 한국어를 구사하게 만드는 output-style 플러그인 | Claude Code output-style for clear, fluent Korean"
+category = "coding"
+tags = ["anthropic", "claude", "claude-code", "claude-code-plugin", "korean", "korean-language", "llm", "output-style"]
+repository = "https://github.com/snflkd/fluent-korean"
+license = "MIT"
+added = 2026-10-20

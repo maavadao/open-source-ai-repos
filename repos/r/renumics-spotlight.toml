@@ -1,0 +1,9 @@
+name = "spotlight"
+description = "Interactively explore unstructured datasets from your dataframe."
+category = "speech"
+tags = ["data-centric-ai", "data-curation", "data-visualization", "computer-vision", "machine-learning", "audio", "exploratory-data-analysis", "images"]
+repository = "https://github.com/Renumics/spotlight"
+website = "https://renumics.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

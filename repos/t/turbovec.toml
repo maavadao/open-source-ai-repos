@@ -1,0 +1,9 @@
+name = "turbovec"
+description = "A vector index built on TurboQuant, written in Rust with Python bindings"
+category = "vector-databases"
+tags = ["ann", "avx512", "embeddings", "faiss", "nearest-neighbor", "neon", "python", "quantization"]
+repository = "https://github.com/RyanCodrai/turbovec"
+website = "https://pypi.org/project/turbovec/"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

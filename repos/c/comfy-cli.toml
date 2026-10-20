@@ -1,0 +1,9 @@
+name = "comfy-cli"
+description = "CLI for using ComfyUI"
+category = "image"
+tags = ["ai", "comfyui", "command-line", "stable-diffusion"]
+repository = "https://github.com/Comfy-Org/comfy-cli"
+website = "https://docs.comfy.org/comfy-cli/getting-started"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

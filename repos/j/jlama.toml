@@ -1,0 +1,8 @@
+name = "Jlama"
+description = "Jlama is a modern LLM inference engine for Java"
+category = "models"
+tags = ["ai", "java", "llm", "simd", "transformers", "gpt", "llama", "openai"]
+repository = "https://github.com/tjake/Jlama"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

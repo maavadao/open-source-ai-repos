@@ -1,0 +1,9 @@
+name = "ai-sns"
+description = "OpenClaw Hermes AI Agent Social NetworkBuilt on Google 3D Maps and A2A protocol, connects OpenClaw and Hermes agents worldwide in a 3D environment."
+category = "skills-prompts"
+tags = ["a2a", "a2a-protocol", "agent-skills", "agent-social-network", "agent-to-agent", "ai-agents", "ai-social-network", "google-maps-api"]
+repository = "https://github.com/ai-sns/ai-sns"
+website = "https://www.ai-sns.org"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

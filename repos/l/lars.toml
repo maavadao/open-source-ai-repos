@@ -1,0 +1,9 @@
+name = "LARS"
+description = "An application for running LLMs locally on your device, with your documents, facilitating detailed citations in generated responses."
+category = "llm-apps"
+tags = ["genai", "llms", "rag"]
+repository = "https://github.com/abgulati/LARS"
+website = "https://www.youtube.com/watch?v=Mam1i86n8sU&ab_channel=AbheekGulati"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

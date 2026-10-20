@@ -1,0 +1,9 @@
+name = "Marinara-Engine"
+description = "AI frontend"
+category = "agents"
+tags = ["ai", "ai-agents", "ai-agents-framework", "frontend", "local"]
+repository = "https://github.com/Pasta-Devs/Marinara-Engine"
+website = "https://spicymarinara.github.io/"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

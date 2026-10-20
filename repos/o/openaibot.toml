@@ -1,0 +1,9 @@
+name = "Openaibot"
+description = "Build Your Own chatgpt Bot| Discord/Slack/Kook/Telegram | ToolCall| Plugin Support | out-of-box | gpt-4o"
+category = "chat"
+tags = ["openai", "assistant", "discordbot", "kook-bot", "slack-bot", "gpt-4-vision-preview", "gpt-4", "chat-gpt"]
+repository = "https://github.com/LlmKira/Openaibot"
+website = "https://llmkira.github.io/Docs"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

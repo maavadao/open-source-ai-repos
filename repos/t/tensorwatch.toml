@@ -1,0 +1,8 @@
+name = "tensorwatch"
+description = "Debugging, monitoring and visualization for Python Machine Learning and Data Science"
+category = "ml-platforms"
+tags = ["ai", "deep-learning", "deeplearning", "machine-learning", "machinelearning", "reinforcement-learning", "debugging", "debugging-tool"]
+repository = "https://github.com/microsoft/tensorwatch"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "T5Gemma-TTS"
+description = "Multilingual TTS model with voice cloning and duration control, based on T5Gemma encoder-decoder LLM"
+category = "speech"
+tags = ["encoder-decoder", "llm", "python", "pytorch", "speech-synthesis", "text-to-speech", "transformers", "tts"]
+repository = "https://github.com/Aratako/T5Gemma-TTS"
+website = "https://huggingface.co/Aratako/T5Gemma-TTS-2b-2b"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

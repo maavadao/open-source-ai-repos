@@ -1,0 +1,8 @@
+name = "akb"
+description = "AKB — Agent Knowledgebase. Organizational memory for AI agents: vault-scoped docs / tables / files unified by URI graph, served over MCP."
+category = "mcp-servers"
+tags = ["agent", "claude", "claude-code", "fastapi", "knowledge-base", "knowledge-graph", "mcp", "model-context-protocol"]
+repository = "https://github.com/dnotitia/akb"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ii-agent"
+description = "II-Agent: a new open-source framework to build and deploy intelligent agents"
+category = "agents"
+tags = ["agent", "agentic-ai", "ai", "ai-agent", "ai-agent-framework", "llm", "manus"]
+repository = "https://github.com/Intelligent-Internet/ii-agent"
+website = "https://ii.inc/web/blog/post/ii-agent"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "awesome-workflow-automation"
+description = "A curated list of Workflow Automation Software, Engines and Tools"
+category = "learning"
+tags = ["activepieces", "make", "n8n", "workflow", "workflow-automation", "workflow-engine", "zapier", "workflow-automation-software"]
+repository = "https://github.com/dariubs/awesome-workflow-automation"
+website = "https://productivity.directory/category/workflow-automation"
+license = "MIT"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "agentic-inbox"
+description = "A self-hosted email client with an AI agent, running entirely on Cloudflare Workers"
+category = "agents"
+repository = "https://github.com/cloudflare/agentic-inbox"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

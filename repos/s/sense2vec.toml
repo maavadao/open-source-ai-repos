@@ -1,0 +1,9 @@
+name = "sense2vec"
+description = "Contextually-keyed word vectors"
+category = "data-science"
+tags = ["spacy", "nlp", "natural-language-processing", "word2vec", "python", "sense2vec", "gensim", "gensim-word2vec"]
+repository = "https://github.com/explosion/sense2vec"
+website = "https://explosion.ai/blog/sense2vec-reloaded"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "xorq"
+description = "Deterministic computation ledger for agentic data work."
+category = "agents"
+tags = ["sql", "agents", "context-layer", "data-agents", "memory", "ml", "semantic-layer", "data-transformation"]
+repository = "https://github.com/xorq-labs/xorq"
+website = "https://docs.xorq.dev"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

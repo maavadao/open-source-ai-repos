@@ -1,0 +1,7 @@
+name = "AdversarialNetsPapers"
+description = "Awesome paper list with code about generative adversarial nets"
+category = "learning"
+tags = ["adversarial-networks", "gan", "image-translation", "deep-learning"]
+repository = "https://github.com/zhangqianhui/AdversarialNetsPapers"
+license = "NOASSERTION"
+added = 2026-10-20

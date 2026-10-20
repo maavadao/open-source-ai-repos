@@ -1,0 +1,9 @@
+name = "RoboBEV"
+description = "[TPAMI 2025] Benchmarking and Improving Bird's Eye View Perception Robustness in Autonomous Driving"
+category = "robotics"
+tags = ["3d-detection", "autonomous-driving", "bird-eye-view", "ood-generalization"]
+repository = "https://github.com/worldbench/RoboBEV"
+website = "https://daniel-xsy.github.io/robobev/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

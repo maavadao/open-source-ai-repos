@@ -1,0 +1,9 @@
+name = "Wax"
+description = "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. No Server. No API. One File. Pure Swift"
+category = "mcp-servers"
+tags = ["ai-agents", "data-science", "machine-learning", "memory", "memory-cache", "memory-hacking", "on-device-ai", "rag"]
+repository = "https://github.com/christopherkarani/Wax"
+website = "https://christopherkarani.github.io/Wax/"
+license = "Apache-2.0"
+language = "Swift"
+added = 2026-10-20

@@ -1,0 +1,10 @@
+name = "big-AGI"
+description = "AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much…"
+category = "chat"
+tags = ["agi", "gpt", "ai-agents", "ai-suite", "ai-workspace", "anthropic-api", "deepseek-api", "gemini-api"]
+repository = "https://github.com/enricoros/big-AGI"
+website = "https://big-agi.com"
+license = "MIT"
+language = "TypeScript"
+skill_level = "beginner"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "the-incredible-pytorch"
+description = "The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch."
+category = "learning"
+tags = ["pytorch", "python", "deep-learning-tutorial", "deep-neural-networks", "deep-learning-library", "deep-learning"]
+repository = "https://github.com/ritchieng/the-incredible-pytorch"
+license = "MIT"
+added = 2026-10-20

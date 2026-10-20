@@ -1,0 +1,8 @@
+name = "vosk-android-demo"
+description = "Offline speech recognition for Android with Vosk library."
+category = "speech"
+tags = ["android", "kaldi", "offline", "speech-recognition", "asr", "vosk"]
+repository = "https://github.com/alphacep/vosk-android-demo"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

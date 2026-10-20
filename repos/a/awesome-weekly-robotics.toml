@@ -1,0 +1,8 @@
+name = "awesome-weekly-robotics"
+description = "A list of projects that were or will be featured in Weekly Robotics newsletter"
+category = "learning"
+tags = ["robotics", "robots", "automation", "awesome-list", "awesome", "ros", "robot-operating-system", "diy"]
+repository = "https://github.com/msadowski/awesome-weekly-robotics"
+website = "https://weeklyrobotics.com/"
+license = "NOASSERTION"
+added = 2026-10-20

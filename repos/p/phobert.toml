@@ -1,0 +1,7 @@
+name = "PhoBERT"
+description = "PhoBERT: Pre-trained language models for Vietnamese (EMNLP-2020 Findings)"
+category = "models"
+tags = ["python3", "bert", "bert-embeddings", "pos-tagging", "ner", "nli", "roberta", "part-of-speech-tagging"]
+repository = "https://github.com/VinAIResearch/PhoBERT"
+license = "MIT"
+added = 2026-10-20

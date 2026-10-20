@@ -1,0 +1,9 @@
+name = "materialize"
+description = "The live data layer for apps and AI agents. Create up-to-the-second views into your business, just using SQL"
+category = "data-science"
+tags = ["rust", "database", "sql", "streaming", "kafka", "distributed-systems", "postgresql-dialect", "materialized-view"]
+repository = "https://github.com/MaterializeInc/materialize"
+website = "https://materialize.com"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

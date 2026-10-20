@@ -1,0 +1,8 @@
+name = "chinese_text_normalization"
+description = "Chinese text normalization for speech processing"
+category = "speech"
+tags = ["text-normalization", "chinese", "asr", "kaldi-asr", "thrax-gramma", "sparrowhawk", "speech-recognition"]
+repository = "https://github.com/speechio/chinese_text_normalization"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

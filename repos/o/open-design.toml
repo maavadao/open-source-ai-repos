@@ -1,0 +1,9 @@
+name = "open-design"
+description = "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace."
+category = "skills-prompts"
+tags = ["ai-design", "byok", "design-systems", "claude-design", "hermes-agent", "agent-skills", "desktop-app", "figma-alternative"]
+repository = "https://github.com/nexu-io/open-design"
+website = "https://open-design.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

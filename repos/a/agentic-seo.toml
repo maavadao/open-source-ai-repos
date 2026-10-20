@@ -1,0 +1,8 @@
+name = "agentic-seo"
+description = "Agentic SEO / Agentic Engine Optimization (AEO) tools"
+category = "agents"
+tags = ["agent-seo", "agentic-seo", "agents", "seo", "seo-optimization"]
+repository = "https://github.com/addyosmani/agentic-seo"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

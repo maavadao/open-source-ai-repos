@@ -1,0 +1,8 @@
+name = "GPT-Prompts"
+description = "Useful GPT Prompts"
+category = "image"
+tags = ["generator", "gpt", "gpt-4", "midjourney", "prompt", "prompt-engineering"]
+repository = "https://github.com/jesselau76/GPT-Prompts"
+website = "https://jesselau.com"
+license = "GPL-3.0"
+added = 2026-10-20

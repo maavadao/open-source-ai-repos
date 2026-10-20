@@ -1,0 +1,8 @@
+name = "Automatic-Parking"
+description = "Python implementation of an automatic parallel parking system in a virtual environment, including path planning, path tracking, and parallel parking"
+category = "robotics"
+tags = ["self-driving-car", "autonomous-vehicles", "autonomous-driving", "python", "path-planning", "path-tracking", "control", "autopark"]
+repository = "https://github.com/Pandas-Team/Automatic-Parking"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

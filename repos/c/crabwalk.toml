@@ -1,0 +1,9 @@
+name = "crabwalk"
+description = "Crabwalk Real-time companion monitor for OpenClaw agents."
+category = "agents"
+tags = ["ai", "ai-agents", "clawdbot", "moltbot", "monitoring"]
+repository = "https://github.com/crabwise-ai/crabwalk"
+website = "https://crabwalk.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

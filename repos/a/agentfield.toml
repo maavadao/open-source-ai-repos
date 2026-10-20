@@ -1,0 +1,9 @@
+name = "agentfield"
+description = "Build, run and scale AI agents like API and microservices"
+category = "agents"
+tags = ["agent", "agentic-ai", "ai", "genai", "llm", "agent-indentity", "agent-scaling", "aiagent"]
+repository = "https://github.com/Agent-Field/agentfield"
+website = "http://www.agentfield.ai"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

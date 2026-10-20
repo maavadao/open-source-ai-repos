@@ -1,0 +1,9 @@
+name = "Show-o"
+description = "[ICLR & NeurIPS 2025] Repository for Show-o series, One Single Transformer to Unify Multimodal Understanding and Generation."
+category = "image"
+tags = ["diffusion-models", "large-language-models", "multimodal"]
+repository = "https://github.com/showlab/Show-o"
+website = "https://arxiv.org/abs/2408.12528"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

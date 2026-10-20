@@ -1,0 +1,9 @@
+name = "rasa"
+description = "Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants"
+category = "chat"
+tags = ["nlp", "machine-learning", "machine-learning-library", "bot", "bots", "botkit", "rasa", "wit"]
+repository = "https://github.com/RasaHQ/rasa"
+website = "https://rasa.com/docs/rasa/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

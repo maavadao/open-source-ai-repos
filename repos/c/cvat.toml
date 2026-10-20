@@ -1,0 +1,10 @@
+name = "cvat"
+description = "CVAT is a leading data annotation platform for image, video, audio, and 3D datasets. It offers open-source, cloud, and enterprise products, as well as labeling services, with AI-assisted labeling, quality assurance, team collaboration, analytics, and developer APIs."
+category = "ml-platforms"
+tags = ["video-annotation", "computer-vision", "computer-vision-annotation", "image-annotation", "annotation-tool", "annotation", "labeling", "labeling-tool"]
+repository = "https://github.com/cvat-ai/cvat"
+website = "https://www.cvat.ai"
+license = "MIT"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

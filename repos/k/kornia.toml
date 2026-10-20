@@ -1,0 +1,9 @@
+name = "kornia"
+description = "Geometric Computer Vision Library for Spatial AI"
+category = "robotics"
+tags = ["computer-vision", "image-processing", "machine-learning", "pytorch", "deep-learning", "neural-network", "python", "artificial-intelligence"]
+repository = "https://github.com/kornia/kornia"
+website = "https://kornia.readthedocs.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

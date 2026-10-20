@@ -1,0 +1,8 @@
+name = "whisper-diarization"
+description = "Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper"
+category = "speech"
+tags = ["asr", "speaker-diarization", "speech", "speech-recognition", "speech-to-text", "whisper"]
+repository = "https://github.com/MahmoudAshraf97/whisper-diarization"
+license = "BSD-2-Clause"
+language = "Jupyter Notebook"
+added = 2026-10-20

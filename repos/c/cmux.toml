@@ -1,0 +1,9 @@
+name = "cmux"
+description = "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability."
+category = "coding"
+tags = ["amp", "claude-code", "codex", "gemini", "ghostty", "opencode", "terminal", "tmux"]
+repository = "https://github.com/manaflow-ai/cmux"
+website = "https://cmux.com"
+license = "NOASSERTION"
+language = "Swift"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "brevitas"
+description = "Brevitas: neural network quantization in PyTorch"
+category = "local-llms"
+tags = ["quantization", "pytorch", "brevitas", "fpga", "neural-networks", "hardware-acceleration", "xilinx", "deep-learning"]
+repository = "https://github.com/Xilinx/brevitas"
+website = "https://xilinx.github.io/brevitas/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

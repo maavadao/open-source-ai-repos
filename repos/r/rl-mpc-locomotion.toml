@@ -1,0 +1,9 @@
+name = "rl-mpc-locomotion"
+description = "Deep RL for MPC control of Quadruped Robot Locomotion"
+category = "robotics"
+tags = ["quadruped", "isaac-gym", "mpc", "reinforcement-learning", "robotics"]
+repository = "https://github.com/silvery107/rl-mpc-locomotion"
+website = "https://docs.google.com/presentation/d/18bznpYrkCPnhCisySPDz18hvL3Ytere7JiJEbdLvpgU/edit?usp=sharing"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

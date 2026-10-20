@@ -1,0 +1,9 @@
+name = "torchquantum"
+description = "A PyTorch-based framework for Quantum Classical Simulation, Quantum Machine Learning, Quantum Neural Networks, Parameterized Quantum Circuits with support for easy deployments on real quantum computers."
+category = "ml-platforms"
+tags = ["pytorch-quantum", "quantum", "quantum-machine-learning", "neural-network", "machine-learning", "quantum-computing", "pytorch", "deep-learning"]
+repository = "https://github.com/mit-han-lab/torchquantum"
+website = "https://torchquantum.org"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

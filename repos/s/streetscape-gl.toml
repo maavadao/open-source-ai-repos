@@ -1,0 +1,9 @@
+name = "streetscape.gl"
+description = "Visualization framework for autonomy and robotics data encoded in XVIZ"
+category = "robotics"
+tags = ["data-visualization", "robotics"]
+repository = "https://github.com/aurora-opensource/streetscape.gl"
+website = "http://www.streetscape.gl"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "my-wiki"
+description = "Local-first AI knowledge app and Agent Skill with evidence-backed Wiki, an interactive knowledge universe, Viki Q&A, and shareable knowledge galaxies."
+category = "skills-prompts"
+tags = ["ai-agents", "knowledge-base", "local-first", "markdown", "personal-knowledge-management", "rag", "second-brain", "agent-skills"]
+repository = "https://github.com/NimaChu/my-wiki"
+website = "https://www.npmjs.com/package/my-wiki-skill"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

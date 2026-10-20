@@ -1,0 +1,8 @@
+name = "CLI-Anything"
+description = "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
+category = "agents"
+repository = "https://github.com/HKUDS/CLI-Anything"
+website = "https://clianything.cc/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

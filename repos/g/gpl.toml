@@ -1,0 +1,8 @@
+name = "gpl"
+description = "Powerful unsupervised domain adaptation method for dense retrieval. Requires only unlabeled corpus and yields massive improvement: \"GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation of Dense Retrieval\" https://arxiv.org/abs/2112.07577"
+category = "vector-databases"
+tags = ["information-retrieval", "domain-adaptation", "nlp", "transformers", "vector-search", "bert"]
+repository = "https://github.com/UKPLab/gpl"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

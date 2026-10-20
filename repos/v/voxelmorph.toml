@@ -1,0 +1,8 @@
+name = "voxelmorph"
+description = "Unsupervised Learning for Image Registration"
+category = "ml-platforms"
+tags = ["image-registration", "image-alignment", "machine-learning", "deep-learning", "probabilistic", "diffeomorphism", "unsupervised-learning", "optical-flow"]
+repository = "https://github.com/voxelmorph/voxelmorph"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

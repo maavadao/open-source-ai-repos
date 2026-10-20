@@ -1,0 +1,9 @@
+name = "pipelock"
+description = "Open-source AI agent firewall for MCP security and agent egress. Scans mediated HTTP, MCP, A2A, and WebSocket traffic for exfiltration, SSRF, and prompt injection, and emits mediator-signed action receipts: verifiable audit evidence from outside the agent."
+category = "mcp-servers"
+tags = ["ai-agents", "ai-security", "dlp", "golang", "llm-security", "security", "ssrf-protection", "egress-proxy"]
+repository = "https://github.com/pipelab-org/pipelock"
+website = "https://pipelab.org"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

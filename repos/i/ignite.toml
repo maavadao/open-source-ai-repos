@@ -1,0 +1,9 @@
+name = "ignite"
+description = "High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently."
+category = "ml-platforms"
+tags = ["pytorch", "neural-network", "python", "machine-learning", "deep-learning", "metrics", "hacktoberfest", "closember"]
+repository = "https://github.com/pytorch/ignite"
+website = "https://pytorch-ignite.ai"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

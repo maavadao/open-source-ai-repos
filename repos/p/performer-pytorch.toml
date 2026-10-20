@@ -1,0 +1,8 @@
+name = "performer-pytorch"
+description = "An implementation of Performer, a linear attention-based transformer, in Pytorch"
+category = "models"
+tags = ["artificial-intelligence", "deep-learning", "attention-mechanism", "attention", "transformers"]
+repository = "https://github.com/lucidrains/performer-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

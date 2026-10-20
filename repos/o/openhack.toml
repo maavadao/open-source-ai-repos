@@ -1,0 +1,9 @@
+name = "OpenHack"
+description = "Open Source Agentic Security Scanner"
+category = "agents"
+tags = ["agents", "llm", "ai", "sast", "security", "cybersecurity", "hacking"]
+repository = "https://github.com/openhackai/OpenHack"
+website = "https://openhack.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

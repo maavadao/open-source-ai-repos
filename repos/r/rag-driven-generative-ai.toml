@@ -1,0 +1,8 @@
+name = "RAG-Driven-Generative-AI"
+description = "This repository provides programs to build Retrieval Augmented Generation (RAG) code for Generative AI with LlamaIndex, Deep Lake, and Pinecone leveraging the power of OpenAI and Hugging Face models for generation and evaluation."
+category = "llm-apps"
+tags = ["chroma", "chromadb", "gpt-4o-mini", "gpt4-omni", "huggingface", "llama", "llama-index", "openai-api"]
+repository = "https://github.com/Denis2054/RAG-Driven-Generative-AI"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

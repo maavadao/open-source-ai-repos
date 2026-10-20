@@ -1,0 +1,9 @@
+name = "phosphobot"
+description = "Control AI robots. Community-driven UI middleware for controlling robots, recording datasets, training action models. Compatible with SO-100 and SO-101"
+category = "robotics"
+tags = ["robotics", "vla", "so100", "so101", "phospho"]
+repository = "https://github.com/phospho-app/phosphobot"
+website = "https://docs.phospho.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

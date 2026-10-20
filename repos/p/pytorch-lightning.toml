@@ -1,0 +1,9 @@
+name = "pytorch-lightning"
+description = "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes."
+category = "ml-platforms"
+tags = ["python", "deep-learning", "artificial-intelligence", "ai", "pytorch", "data-science", "machine-learning"]
+repository = "https://github.com/Lightning-AI/pytorch-lightning"
+website = "https://lightning.ai/pytorch-lightning/?utm_source=ptl_readme&utm_medium=referral&utm_campaign=ptl_readme"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "com.unity.perception"
+description = "Perception toolkit for sim2real training and validation in Unity"
+category = "vision"
+tags = ["perception", "object-detection", "detection", "computer-vision", "deep-learning", "synthetic-dataset-generation", "domain-randomization", "pose-estimation"]
+repository = "https://github.com/Unity-Technologies/com.unity.perception"
+license = "NOASSERTION"
+language = "C#"
+added = 2026-10-20

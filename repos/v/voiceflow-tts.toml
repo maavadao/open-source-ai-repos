@@ -1,0 +1,9 @@
+name = "VoiceFlow-TTS"
+description = "[ICASSP 2024] This is the official code for \"VoiceFlow: Efficient Text-to-Speech with Rectified Flow Matching\""
+category = "speech"
+tags = ["generative-models", "probabilistic-models", "speech-synthesis", "text-to-speech", "tts", "conditional-flow-matching", "rectified-flow-matching"]
+repository = "https://github.com/X-LANCE/VoiceFlow-TTS"
+website = "https://cantabile-kwok.github.io/VoiceFlow/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

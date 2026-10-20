@@ -1,0 +1,9 @@
+name = "Awesome-Skeleton-based-Action-Recognition"
+description = "Skeleton-based Action Recognition"
+category = "learning"
+tags = ["computer-vision", "action-recognition", "skeleton-based-action-recognition", "rgb-d", "skeleton"]
+repository = "https://github.com/niais/Awesome-Skeleton-based-Action-Recognition"
+website = "https://niais.github.io/Awesome-Skeleton-based-Action-Recognition/"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "openobserve"
+description = "Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and…"
+category = "ml-platforms"
+tags = ["logs", "metrics", "traces", "analytics", "elasticsearch", "jaeger", "log-analytics", "log-management"]
+repository = "https://github.com/openobserve/openobserve"
+website = "https://openobserve.ai"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

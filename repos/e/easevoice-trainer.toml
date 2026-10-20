@@ -1,0 +1,8 @@
+name = "easevoice-trainer"
+description = "EaseVoice Trainer is a simple and user-friendly voice cloning and speech model trainer."
+category = "speech"
+tags = ["speech-training", "text-to-speech", "tts", "voice-cloning"]
+repository = "https://github.com/megaease/easevoice-trainer"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

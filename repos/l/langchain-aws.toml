@@ -1,0 +1,8 @@
+name = "langchain-aws"
+description = "Build LangChain Applications on AWS"
+category = "llm-apps"
+tags = ["aws", "generative-ai", "langchain", "langchain-python"]
+repository = "https://github.com/langchain-ai/langchain-aws"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

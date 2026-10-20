@@ -1,0 +1,10 @@
+name = "langgraph"
+description = "Build resilient agents."
+category = "agents"
+tags = ["agents", "ai", "ai-agents", "chatgpt", "deepagents", "enterprise", "framework", "gemini"]
+repository = "https://github.com/langchain-ai/langgraph"
+website = "https://www.langchain.com/langgraph"
+license = "MIT"
+language = "Python"
+skill_level = "advanced"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "rtp-llm"
+description = "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications."
+category = "local-llms"
+tags = ["gpt", "inference", "llama", "llm", "llm-serving", "llmops", "model-serving"]
+repository = "https://github.com/alibaba/rtp-llm"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

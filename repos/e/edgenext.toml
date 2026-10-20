@@ -1,0 +1,8 @@
+name = "EdgeNeXt"
+description = "[CADL'22, ECCVW] Official repository of paper titled \"EdgeNeXt: Efficiently Amalgamated CNN-Transformer Architecture for Mobile Vision Applications\"."
+category = "models"
+tags = ["classification", "cnn", "edge-computing", "hybrid-model", "mobile-application", "transformers"]
+repository = "https://github.com/mmaaz60/EdgeNeXt"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "pytorch-adapt"
+description = "Domain adaptation made easy. Fully featured, modular, and customizable."
+category = "vision"
+tags = ["pytorch", "domain-adaptation", "machine-learning", "deep-learning", "transfer-learning", "computer-vision"]
+repository = "https://github.com/KevinMusgrave/pytorch-adapt"
+website = "https://kevinmusgrave.github.io/pytorch-adapt/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

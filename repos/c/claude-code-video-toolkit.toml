@@ -1,0 +1,8 @@
+name = "claude-code-video-toolkit"
+description = "AI-native video production toolkit for Claude Code"
+category = "browser-automation"
+tags = ["ai-video-generator", "claude-code", "developer-tools", "elevenlabs", "playwright", "programmatic-video", "remotion", "text-to-speech"]
+repository = "https://github.com/digitalsamba/claude-code-video-toolkit"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

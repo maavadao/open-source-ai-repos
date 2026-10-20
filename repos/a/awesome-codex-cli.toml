@@ -1,0 +1,7 @@
+name = "awesome-codex-cli"
+description = "Curated list of 150+ tools, skills, subagents & plugins for OpenAI Codex CLI"
+category = "learning"
+tags = ["ai-coding", "ai-tools", "awesome", "awesome-list", "cli", "codex", "codex-cli", "coding-agent"]
+repository = "https://github.com/RoggeOhta/awesome-codex-cli"
+license = "CC0-1.0"
+added = 2026-10-20

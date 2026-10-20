@@ -1,0 +1,8 @@
+name = "ur5_ROS-Gazebo"
+description = "Universal Robot (UR5) Pick and Place Simulation in ROS-Gazebo with a USB Cam and Vacuum Grippers"
+category = "robotics"
+tags = ["ur5", "usb-cameras", "ros", "gazebo", "universal-robot", "gripper", "motion-planning", "pick-and-place"]
+repository = "https://github.com/lihuang3/ur5_ROS-Gazebo"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

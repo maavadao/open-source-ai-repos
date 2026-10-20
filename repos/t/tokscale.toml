@@ -1,0 +1,9 @@
+name = "tokscale"
+description = "Track token usage across AI coding agents from your terminal. Global leaderboard with trillions of tokens tracked."
+category = "coding"
+tags = ["claude", "claude-code", "codex", "cursor", "cursor-ide", "gemini", "gemini-cli", "gpt"]
+repository = "https://github.com/junhoyeo/tokscale"
+website = "https://tokscale.ai"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

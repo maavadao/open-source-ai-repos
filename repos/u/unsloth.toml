@@ -1,0 +1,10 @@
+name = "unsloth"
+description = "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more."
+category = "ml-platforms"
+tags = ["fine-tuning", "llama", "llms", "gemma", "unsloth", "llm", "deepseek", "text-to-speech"]
+repository = "https://github.com/unslothai/unsloth"
+website = "https://unsloth.ai"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

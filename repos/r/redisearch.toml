@@ -1,0 +1,9 @@
+name = "RediSearch"
+description = "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations."
+category = "vector-databases"
+tags = ["redis", "redis-module", "search", "search-engine", "inverted-index", "fulltext", "vector-database", "geospatial"]
+repository = "https://github.com/RediSearch/RediSearch"
+website = "https://redis.io/docs/latest/develop/ai/search-and-query/"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

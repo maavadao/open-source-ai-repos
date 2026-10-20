@@ -1,0 +1,8 @@
+name = "ClawMem"
+description = "On-device memory layer for AI agents. Claude Code, OpenClaw and Hermes. Hooks + MCP server + hybrid RAG search."
+category = "mcp-servers"
+tags = ["ai-agent-memory", "ai-agents", "bun", "claude-code", "embeddings", "hybrid-search", "llama-cpp", "local-first"]
+repository = "https://github.com/yoloshii/ClawMem"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

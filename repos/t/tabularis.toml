@@ -1,0 +1,9 @@
+name = "tabularis"
+description = "Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN."
+category = "mcp-servers"
+tags = ["ai-agent", "cross-platform", "database-client", "database-gui", "database-tool", "er-diagram", "mcp", "mysql"]
+repository = "https://github.com/TabularisDB/tabularis"
+website = "https://tabularis.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "pi-extensions"
+description = "A monorepo of Pi Coding Agent extensions"
+category = "coding"
+tags = ["nodejs", "npm-package", "pi", "pi-coding-agent", "pi-extensions", "typescript", "ai-agents", "codex"]
+repository = "https://github.com/narumiruna/pi-extensions"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

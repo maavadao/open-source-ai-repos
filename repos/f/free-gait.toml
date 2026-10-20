@@ -1,0 +1,8 @@
+name = "free_gait"
+description = "An Architecture for the Versatile Control of Legged Robots"
+category = "robotics"
+tags = ["legged-robots", "robot", "robotics", "motion", "control", "free-gait", "motion-planning", "motion-design"]
+repository = "https://github.com/leggedrobotics/free_gait"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

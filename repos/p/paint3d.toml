@@ -1,0 +1,9 @@
+name = "Paint3D"
+description = "[CVPR 2024] Paint3D: Paint Anything 3D with Lighting-Less Texture Diffusion Models, a no lighting baked texture generative model"
+category = "image"
+tags = ["diffusion-models", "generative-ai", "generative-model", "texture", "texture-synthesis", "stable-diffusion"]
+repository = "https://github.com/OpenTexture/Paint3D"
+website = "https://paint3d.github.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

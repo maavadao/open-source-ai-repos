@@ -1,0 +1,9 @@
+name = "mteb"
+description = "MTEB: State-of-the-art evaluation of embeddings across languages and modalities"
+category = "llm-apps"
+tags = ["benchmark", "clustering", "information-retrieval", "sentence-transformers", "sts", "text-embedding", "retrieval", "neural-search"]
+repository = "https://github.com/embeddings-benchmark/mteb"
+website = "https://docs.mteb.org"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

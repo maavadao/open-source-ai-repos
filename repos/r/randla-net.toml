@@ -1,0 +1,8 @@
+name = "RandLA-Net"
+description = "RandLA-Net in Tensorflow (CVPR 2020, Oral & IEEE TPAMI 2021)"
+category = "vision"
+tags = ["semantic-segmentation", "3d-vision", "computer-vision", "semantic3d", "s3dis", "semantickitti"]
+repository = "https://github.com/QingyongHu/RandLA-Net"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

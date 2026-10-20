@@ -1,0 +1,9 @@
+name = "uni-api"
+description = "This is a project that unifies the management of LLM APIs. It can call multiple backend services through a unified API interface, convert them to the OpenAI format uniformly, and support load balancing. Currently supported backend services include: OpenAI, Anthropic…"
+category = "models"
+tags = ["claude", "openai", "uni-api", "gemini", "vertex", "aws", "grok", "azure"]
+repository = "https://github.com/yym68686/uni-api"
+website = "https://0-0.pro/r/uniapi"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

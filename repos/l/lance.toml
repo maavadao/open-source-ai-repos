@@ -1,0 +1,9 @@
+name = "lance"
+description = "Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming.."
+category = "vision"
+tags = ["machine-learning", "computer-vision", "data-format", "deep-learning", "python", "apache-arrow", "duckdb", "mlops"]
+repository = "https://github.com/lance-format/lance"
+website = "https://lance.org"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

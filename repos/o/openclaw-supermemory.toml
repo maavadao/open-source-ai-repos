@@ -1,0 +1,9 @@
+name = "openclaw-supermemory"
+description = "OpenClaw Supermemory lets to have long-term memory and recall for your openclaw agent."
+category = "llm-apps"
+tags = ["ai-memory", "clawd", "clawdbot", "memory", "moltbot", "openai", "openclaw"]
+repository = "https://github.com/supermemoryai/openclaw-supermemory"
+website = "https://supermemory.ai/docs/integrations/clawdbot"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

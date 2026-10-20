@@ -1,0 +1,9 @@
+name = "ElatoAI"
+description = "Realtime Voice AI with 100+ Models on Arduino ESP32 with Secure Websockets and Edge Functions for AI Companions, and Devices"
+category = "speech"
+tags = ["ai", "arduino", "deno", "esp32", "hardware", "openai", "realtime", "speech-to-speech"]
+repository = "https://github.com/akdeb/ElatoAI"
+website = "https://www.elatoai.com"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

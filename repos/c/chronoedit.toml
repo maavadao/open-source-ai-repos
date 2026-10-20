@@ -1,0 +1,9 @@
+name = "ChronoEdit"
+description = "[ICLR 2026] ChronoEdit: Towards Temporal Reasoning for Image Editing and World Simulation"
+category = "video"
+tags = ["aigc", "image-editing", "image-generation", "video-generation"]
+repository = "https://github.com/nv-tlabs/ChronoEdit"
+website = "https://research.nvidia.com/labs/toronto-ai/chronoedit"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

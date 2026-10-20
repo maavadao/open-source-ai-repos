@@ -1,0 +1,8 @@
+name = "StableStudio"
+description = "Community interface for generative AI"
+category = "image"
+tags = ["frontend", "ml", "stability-ai", "stable-diffusion"]
+repository = "https://github.com/Stability-AI/StableStudio"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

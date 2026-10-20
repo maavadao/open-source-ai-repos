@@ -1,0 +1,10 @@
+name = "langfuse"
+description = "Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform."
+category = "llm-apps"
+tags = ["analytics", "llm", "llmops", "large-language-models", "openai", "self-hosted", "ycombinator", "monitoring"]
+repository = "https://github.com/langfuse/langfuse"
+website = "https://langfuse.com"
+license = "NOASSERTION"
+language = "TypeScript"
+skill_level = "intermediate"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "oc"
+description = "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands."
+category = "browser-automation"
+tags = ["ai-agents", "claude-code", "cli", "web-scraping", "browser-automation", "cli-app", "cli-tool", "llm"]
+repository = "https://github.com/only-cli/oc"
+website = "https://only-cli.com"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

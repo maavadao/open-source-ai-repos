@@ -1,0 +1,8 @@
+name = "3D-Occupancy-Perception"
+description = "[Information Fusion 2025] A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective"
+category = "robotics"
+tags = ["autonomous-driving", "occupancy-perception", "occupancy-survey"]
+repository = "https://github.com/HuaiyuanXu/3D-Occupancy-Perception"
+website = "https://huaiyuanxu.github.io/"
+license = "NOASSERTION"
+added = 2026-10-20

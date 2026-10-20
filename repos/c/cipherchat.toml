@@ -1,0 +1,8 @@
+name = "CipherChat"
+description = "A framework to evaluate the generalization capability of safety alignment for LLMs"
+category = "security"
+tags = ["alignment", "jailbreak", "large-language-models", "llm", "security", "chatgpt", "gpt-4-0613"]
+repository = "https://github.com/RobustNLP/CipherChat"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

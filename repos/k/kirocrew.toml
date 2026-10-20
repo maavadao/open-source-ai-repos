@@ -1,0 +1,9 @@
+name = "KiroCrew"
+description = "A persistent workspace for development work that self-improves and continues beyond one session."
+category = "no-code"
+tags = ["agent", "agentic-ai", "agents", "kiro", "ai-agent", "ai-agents", "automation", "devtools"]
+repository = "https://github.com/kirodotdev/KiroCrew"
+website = "https://kiro.dev/crew/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

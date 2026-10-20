@@ -1,0 +1,8 @@
+name = "attackgen"
+description = "AttackGen is a cybersecurity incident response testing tool that leverages the power of large language models and the comprehensive MITRE ATT&CK framework. The tool generates tailored incident response scenarios based on user-selected threat actor groups and your…"
+category = "security"
+tags = ["ai-security", "cybersecurity", "generative-ai", "incident-response", "llm", "mitre-atlas", "mitre-attack", "purple-team"]
+repository = "https://github.com/mrwadams/attackgen"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

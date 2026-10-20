@@ -1,0 +1,9 @@
+name = "open-health"
+description = "OpenHealth, AI Health Assistant | Powered by Your Data"
+category = "chat"
+tags = ["ai", "healthcare"]
+repository = "https://github.com/OpenHealthForAll/open-health"
+website = "https://www.open-health.me"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

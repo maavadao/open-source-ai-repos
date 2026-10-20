@@ -1,0 +1,8 @@
+name = "EagleEye"
+description = "Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search."
+category = "vision"
+tags = ["python3", "machine-learning", "face-recognition", "social-media", "stalking"]
+repository = "https://github.com/ThoughtfulDev/EagleEye"
+license = "WTFPL"
+language = "Python"
+added = 2026-10-20

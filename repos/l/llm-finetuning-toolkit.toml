@@ -1,0 +1,8 @@
+name = "LLM-Finetuning-Toolkit"
+description = "Toolkit for fine-tuning, ablating and unit-testing open-source LLMs."
+category = "image"
+tags = ["classification", "fine-tuning", "finetuning", "large-language-models", "nlp", "nlp-machine-learning", "summarization", "falcon"]
+repository = "https://github.com/georgian-io/LLM-Finetuning-Toolkit"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

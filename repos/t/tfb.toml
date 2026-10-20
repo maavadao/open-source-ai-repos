@@ -1,0 +1,9 @@
+name = "TFB"
+description = "[PVLDB 2024 Best Paper Nomination] TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods"
+category = "ml-platforms"
+tags = ["benchmarking", "time-series", "time-series-forecasting", "deep-learning", "mechine-learning", "statistical-learning"]
+repository = "https://github.com/decisionintelligence/TFB"
+website = "https://www.vldb.org/pvldb/vol17/p2363-hu.pdf"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

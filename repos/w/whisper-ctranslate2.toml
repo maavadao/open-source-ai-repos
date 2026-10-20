@@ -1,0 +1,8 @@
+name = "whisper-ctranslate2"
+description = "Whisper command line client compatible with original OpenAI client based on CTranslate2."
+category = "speech"
+tags = ["speech-recognition", "speech-to-text", "whisper", "openai-", "openai-whisper"]
+repository = "https://github.com/Softcatala/whisper-ctranslate2"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

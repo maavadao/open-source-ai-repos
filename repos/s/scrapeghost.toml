@@ -1,0 +1,9 @@
+name = "scrapeghost"
+description = "Experimental library for scraping websites using OpenAI's GPT API."
+category = "models"
+tags = ["gpt", "webscraping", "openai-api"]
+repository = "https://github.com/jamesturk/scrapeghost"
+website = "https://jamesturk.github.io/scrapeghost/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "llms-from-scratch-rs"
+description = "A comprehensive Rust translation of the code from Sebastian Raschka's Build an LLM from Scratch book."
+category = "learning"
+tags = ["candle", "gpt", "llms", "nlp", "rust"]
+repository = "https://github.com/nerdai/llms-from-scratch-rs"
+website = "https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

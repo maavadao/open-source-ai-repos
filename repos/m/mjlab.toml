@@ -1,0 +1,9 @@
+name = "mjlab"
+description = "Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research"
+category = "ml-platforms"
+tags = ["isaaclab", "mujoco", "mujoco-warp", "reinforcement-learning", "robotics-simulation"]
+repository = "https://github.com/mujocolab/mjlab"
+website = "https://mujocolab.github.io/mjlab/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

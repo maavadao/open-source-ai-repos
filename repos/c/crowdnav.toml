@@ -1,0 +1,8 @@
+name = "CrowdNav"
+description = "[ICRA] Crowd-aware Robot Navigation"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "crowd-navigation", "collision-avoidance"]
+repository = "https://github.com/vita-epfl/CrowdNav"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

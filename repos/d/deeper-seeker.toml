@@ -1,0 +1,8 @@
+name = "Deeper-Seeker"
+description = "Deeper Seeker is an simpler OSS version of OpenAI's latest Deep Research feature in ChatGPT.It is an agentic research tool to reason , create multi step tasks , synthesize data from multiple online resources and create neat reports"
+category = "search"
+tags = ["deepresearch", "exa", "openai"]
+repository = "https://github.com/HarshJ23/Deeper-Seeker"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "doctr"
+description = "docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning. Ongoing development and maintenance by t2k."
+category = "documents"
+tags = ["ocr", "deep-learning", "document-recognition", "tensorflow2", "text-detection-recognition", "text-detection", "text-recognition", "optical-character-recognition"]
+repository = "https://github.com/mindee/doctr"
+website = "https://mindee.github.io/doctr/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

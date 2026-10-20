@@ -1,0 +1,8 @@
+name = "FableForge"
+description = "Generate a picture book from a single prompt using OpenAI function calling, replicate, and Deep Lake"
+category = "learning"
+tags = ["gpt-4", "stable-diffusion"]
+repository = "https://github.com/e-johnstonn/FableForge"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

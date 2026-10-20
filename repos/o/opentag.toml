@@ -1,0 +1,8 @@
+name = "OpenTag"
+description = "Open-source, channel-native agent gateway for Slack. Route team threads to Claude Code, Codex, OpenCode, Docker, HTTP agents, and custom CLIs with policy, approvals, memory, audit logs, and artifacts."
+category = "mcp-servers"
+tags = ["claude", "claude-tag", "agent-gateway", "ai-agents", "automation", "claude-code", "codex", "developer-tools"]
+repository = "https://github.com/linxidnju/OpenTag"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

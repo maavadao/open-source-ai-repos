@@ -1,0 +1,8 @@
+name = "GP-GAN"
+description = "Official Chainer implementation of GP-GAN: Towards Realistic High-Resolution Image Blending (ACMMM 2019, oral)"
+category = "vision"
+tags = ["deep-learning", "gan", "computer-vision", "computer-graphics", "artificial-intelligence", "chainer", "python", "gp-gan"]
+repository = "https://github.com/wuhuikai/GP-GAN"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

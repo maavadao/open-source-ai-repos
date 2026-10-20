@@ -1,0 +1,8 @@
+name = "Agentic-Desktop-Pet"
+description = "下一代 Agentic 桌宠 = LLM + 记忆 + 情感 + RPG + Claude Code Next Gen Agentic Desktop Pet = LLM + Memory + Emotion + RPG + Claude Code"
+category = "chat"
+tags = ["desktop-app", "desktop-pet", "godot", "godot4", "chatgpt", "llm", "agent", "claudecode"]
+repository = "https://github.com/jihe520/Agentic-Desktop-Pet"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

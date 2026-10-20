@@ -1,0 +1,8 @@
+name = "awesome-video-generation"
+description = "A collection of awesome video generation studies."
+category = "learning"
+tags = ["text-to-video-generation", "video-generation", "diffusion-models", "generative-adversarial-networks", "paper-list"]
+repository = "https://github.com/AlonzoLeeeooo/awesome-video-generation"
+license = "MIT"
+language = "TeX"
+added = 2026-10-20

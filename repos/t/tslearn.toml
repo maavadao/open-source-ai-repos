@@ -1,0 +1,9 @@
+name = "tslearn"
+description = "The machine learning toolkit for time series analysis in Python"
+category = "data-science"
+tags = ["time-series", "timeseries", "time-series-analysis", "time-series-clustering", "machine-learning", "machine-learning-algorithms", "machinelearning", "dtw"]
+repository = "https://github.com/tslearn-team/tslearn"
+website = "https://tslearn.readthedocs.io"
+license = "BSD-2-Clause"
+language = "Python"
+added = 2026-10-20

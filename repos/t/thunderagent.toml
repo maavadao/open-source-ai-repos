@@ -1,0 +1,9 @@
+name = "ThunderAgent"
+description = "A simple, fast and robust program-aware agentic inference system."
+category = "agents"
+tags = ["ai-agents", "computersystems", "reinforcement-learning-agent"]
+repository = "https://github.com/ThunderAgent-org/ThunderAgent"
+website = "http://thunderagent.ai/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

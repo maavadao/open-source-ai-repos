@@ -1,0 +1,9 @@
+name = "fff"
+description = "The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C, Python, Bun and NodeJS"
+category = "agents"
+tags = ["filesearch", "lua", "neovim", "neovim-plugin", "rust", "bun", "fff", "fzf"]
+repository = "https://github.com/dmtrKovalenko/fff"
+website = "https://fff.dmtrkovalenko.dev/"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

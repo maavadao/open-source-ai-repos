@@ -1,0 +1,9 @@
+name = "Python"
+description = "This repository helps you learn Python and Machine Learning from scratch."
+category = "learning"
+tags = ["python", "jupyter-notebook", "pandas-dataframe", "numpy", "python3", "python-3", "numpy-arrays", "data"]
+repository = "https://github.com/Tanu-N-Prabhu/Python"
+website = "https://github.com/Tanu-N-Prabhu"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

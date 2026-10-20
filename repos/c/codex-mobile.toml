@@ -1,0 +1,9 @@
+name = "codex-mobile"
+description = "Run Codex Mobile Anywhere: Linux, Windows, or Termux on Android"
+category = "coding"
+tags = ["ai-coding-agent", "codex", "openai", "ai-agents", "ai-assistant", "claude", "deepseek", "gemini"]
+repository = "https://github.com/friuns2/codex-mobile"
+website = "https://friuns2.github.io/codex-mobile/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "awesome-agv"
+description = "Comprehensive sets of standards and practices designed to elevate the capabilities of AI coding agents."
+category = "learning"
+tags = ["ai-agent", "ai-coding", "best-practices", "coding-standards", "framework", "generative-ai", "open-source", "software-architecture"]
+repository = "https://github.com/irahardianto/awesome-agv"
+website = "https://irahardianto.github.io/awesome-agv/"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

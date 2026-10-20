@@ -1,0 +1,9 @@
+name = "Decepticon"
+description = "Autonomous Hacking Agent for Red Team"
+category = "agents"
+tags = ["agent", "ai", "cybersecurity", "hacking", "langchain", "langgraph", "llm", "generative-ai"]
+repository = "https://github.com/BitterSecurity/Decepticon"
+website = "https://decepticon.red"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

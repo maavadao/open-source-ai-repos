@@ -1,0 +1,8 @@
+name = "diffrax"
+description = "Numerical differential equation solvers in JAX. Autodifferentiable and GPU-capable. https://docs.kidger.site/diffrax/"
+category = "ml-platforms"
+tags = ["differential-equations", "jax", "deep-learning", "neural-differential-equations", "machine-learning", "dynamical-systems", "neural-networks", "equinox"]
+repository = "https://github.com/patrick-kidger/diffrax"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

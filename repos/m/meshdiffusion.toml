@@ -1,0 +1,9 @@
+name = "MeshDiffusion"
+description = "Official implementation of \"MeshDiffusion: Score-based Generative 3D Mesh Modeling\" (ICLR 2023 Spotlight)"
+category = "image"
+tags = ["pytorch", "diffusion-models", "generative-model", "mesh-generation"]
+repository = "https://github.com/lzzcd001/MeshDiffusion"
+website = "https://meshdiffusion.github.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

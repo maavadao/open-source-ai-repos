@@ -1,0 +1,8 @@
+name = "tadpole-studio"
+description = "Easy to use AI music generation UI for local models with QoL features"
+category = "speech"
+tags = ["ai", "generative-ai", "generative-art", "generative-music", "music-generation", "open-source", "txt2music"]
+repository = "https://github.com/proximasan/tadpole-studio"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

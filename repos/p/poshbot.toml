@@ -1,0 +1,8 @@
+name = "PoshBot"
+description = "Powershell-based bot framework"
+category = "chat"
+tags = ["bot", "powershell", "bot-framework", "bots", "chatops", "chatbots", "chatbot", "devops"]
+repository = "https://github.com/poshbotio/PoshBot"
+license = "MIT"
+language = "PowerShell"
+added = 2026-10-20

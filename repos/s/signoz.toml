@@ -1,0 +1,9 @@
+name = "signoz"
+description = "SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI…"
+category = "ml-platforms"
+tags = ["observability", "application-monitoring", "opentelemetry", "distributed-tracing", "apm", "go", "monitoring", "react"]
+repository = "https://github.com/SigNoz/signoz"
+website = "https://signoz.io"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

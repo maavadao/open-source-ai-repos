@@ -1,0 +1,8 @@
+name = "official-design-md"
+description = "Official DESIGN.md files published by companies themselves. First-party design systems that AI agents read to generate consistent UI."
+category = "agents"
+tags = ["ai-agents", "design-md", "design-system", "design-tokens", "frontend", "llm", "markdown", "ui"]
+repository = "https://github.com/VoltAgent/official-design-md"
+website = "https://getdesign.md/"
+license = "MIT"
+added = 2026-10-20

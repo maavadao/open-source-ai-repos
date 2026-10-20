@@ -1,0 +1,8 @@
+name = "3D-SIS"
+description = "[CVPR'19] 3D-SIS: 3D Semantic Instance Segmentation of RGB-D Scans"
+category = "vision"
+tags = ["deep-learning", "cvpr2019", "instance-segmentation", "3d", "computer-vision"]
+repository = "https://github.com/Sekunde/3D-SIS"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

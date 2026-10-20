@@ -1,0 +1,8 @@
+name = "owl"
+description = "OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation"
+category = "agents"
+tags = ["agent", "artificial-intelligence", "multi-agent-systems", "task-automation", "web-interaction"]
+repository = "https://github.com/camel-ai/owl"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

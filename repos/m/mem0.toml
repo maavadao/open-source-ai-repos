@@ -1,0 +1,10 @@
+name = "mem0"
+description = "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production."
+category = "agents"
+tags = ["ai", "chatgpt", "llm", "python", "rag", "long-term-memory", "memory", "memory-management"]
+repository = "https://github.com/mem0ai/mem0"
+website = "https://mem0.ai"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

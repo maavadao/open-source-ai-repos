@@ -1,0 +1,9 @@
+name = "agent-landing-zone"
+description = "Enterprise-grade landing zone for AI agent applications on Azure. Deploy the secure infrastructure, the agent app, or both — built on Microsoft Foundry and Microsoft Agent Framework, with Zero-Trust networking, observability and IaC."
+category = "agents"
+tags = ["azure", "gpt-4", "openai", "azd-templates", "agent-framework", "agentic-rag", "ai-agents", "foundry-iq"]
+repository = "https://github.com/Azure/agent-landing-zone"
+website = "https://aka.ms/agentlz"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ai-playground"
+description = "Code from tutorials presented on the \"Code AI with Rok\" YouTube channel"
+category = "learning"
+tags = ["milvus", "spacy", "fetchai", "langchain", "gemini", "llamaindex", "openai", "snowflake"]
+repository = "https://github.com/rokbenko/ai-playground"
+website = "https://www.youtube.com/@rokbenko?sub_confirmation=1"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "DataDreamer"
+description = "DataDreamer: Prompt. Generate Synthetic Data. Train & Align Models."
+category = "llm-apps"
+tags = ["deep-learning", "machine-learning", "natural-language-processing", "nlp", "nlp-library", "python", "pytorch", "transformers"]
+repository = "https://github.com/datadreamer-dev/DataDreamer"
+website = "https://datadreamer.dev"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

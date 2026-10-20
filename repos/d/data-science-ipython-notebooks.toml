@@ -1,0 +1,8 @@
+name = "data-science-ipython-notebooks"
+description = "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines."
+category = "learning"
+tags = ["python", "machine-learning", "deep-learning", "data-science", "big-data", "aws", "tensorflow", "theano"]
+repository = "https://github.com/donnemartin/data-science-ipython-notebooks"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

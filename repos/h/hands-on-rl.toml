@@ -1,0 +1,9 @@
+name = "hands-on-rl"
+description = "Free course that takes you from zero to Reinforcement Learning PRO 🏻🏽"
+category = "learning"
+tags = ["reinforcement-learning", "deep-reinforcement-learning"]
+repository = "https://github.com/Paulescu/hands-on-rl"
+website = "http://realworldml.net/the-hands-on-reinforcement-learning-course"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

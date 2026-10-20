@@ -1,0 +1,8 @@
+name = "neat"
+description = "[ICCV'21] NEAT: Neural Attention Fields for End-to-End Autonomous Driving"
+category = "robotics"
+tags = ["autonomous-driving", "imitation-learning", "implicit-representations", "birds-eye-view", "iccv2021"]
+repository = "https://github.com/autonomousvision/neat"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

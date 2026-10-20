@@ -1,0 +1,9 @@
+name = "Ovis"
+description = "A novel Multimodal Large Language Model (MLLM) architecture, designed to structurally align visual and textual embeddings."
+category = "chat"
+tags = ["chatbot", "llama3", "multimodal", "multimodal-large-language-models", "multimodality", "qwen", "vision-language-learning", "vision-language-model"]
+repository = "https://github.com/ATH-MaaS/Ovis"
+website = "https://huggingface.co/AIDC-AI/Ovis2.5-9B"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "PyTorch-CycleGAN"
+description = "A clean and readable Pytorch implementation of CycleGAN"
+category = "image"
+tags = ["generative-adversarial-network", "deep-learning", "pytorch", "cyclegan", "artificial-intelligence", "computer-vision", "image-generation", "image-processing"]
+repository = "https://github.com/aitorzip/PyTorch-CycleGAN"
+website = "https://arxiv.org/abs/1703.10593"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

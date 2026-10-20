@@ -1,0 +1,8 @@
+name = "AliceMind"
+description = "ALIbaba's Collection of Encoder-decoders from MinD (Machine IntelligeNce of Damo) Lab"
+category = "models"
+tags = ["nlp", "bert", "natural-language-processing", "deep-learning"]
+repository = "https://github.com/alibaba/AliceMind"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

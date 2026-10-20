@@ -1,0 +1,8 @@
+name = "Graphormer"
+description = "Graphormer is a general-purpose deep learning backbone for molecular modeling."
+category = "models"
+tags = ["graph", "transformer", "deep-learning", "ai4science", "molecule-simulation"]
+repository = "https://github.com/microsoft/Graphormer"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

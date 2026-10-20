@@ -1,0 +1,9 @@
+name = "NeumAI"
+description = "Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale."
+category = "vector-databases"
+tags = ["ai", "data", "embeddings", "etl", "llm", "vector-database", "chatgpt", "data-engineering"]
+repository = "https://github.com/NeumTry/NeumAI"
+website = "https://neum.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

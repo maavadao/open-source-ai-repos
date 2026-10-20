@@ -1,0 +1,9 @@
+name = "Difix3D"
+description = "[CVPR 2025 Oral & Best Paper Finalist] Difix3D+: Improving 3D Reconstructions with Single-Step Diffusion Models"
+category = "image"
+tags = ["diffusion-models", "gaussian-splatting", "nerf", "3d"]
+repository = "https://github.com/nv-tlabs/Difix3D"
+website = "https://research.nvidia.com/labs/toronto-ai/difix3d/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

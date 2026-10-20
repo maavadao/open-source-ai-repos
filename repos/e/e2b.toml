@@ -1,0 +1,9 @@
+name = "E2B"
+description = "Open-source, secure environment with real-world tools for enterprise-grade agents."
+category = "coding"
+tags = ["ai", "gpt", "openai", "python", "software", "typescript", "react", "devtools"]
+repository = "https://github.com/e2b-dev/E2B"
+website = "https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=e2b"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

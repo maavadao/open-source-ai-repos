@@ -1,0 +1,9 @@
+name = "computer-vision-in-action"
+description = "A computer vision closed-loop learning platform where code can be run interactively online. 学习闭环《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（持续更新中 ...） 在线电子书 https://charmve.github.io/computer-vision-in-action/ 项目主页"
+category = "learning"
+tags = ["tutorial", "charmve", "machine-learning", "computer-vision", "deep-learning", "deep-learning-tutorial", "books", "handbook"]
+repository = "https://github.com/Charmve/computer-vision-in-action"
+website = "https://charmve.github.io/L0CV-web"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

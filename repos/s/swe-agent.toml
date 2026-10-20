@@ -1,0 +1,10 @@
+name = "SWE-agent"
+description = "SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]"
+category = "agents"
+tags = ["agent", "ai", "developer-tools", "llm", "agent-based-model", "lms", "cybersecurity"]
+repository = "https://github.com/SWE-agent/SWE-agent"
+website = "https://swe-agent.com"
+license = "MIT"
+language = "Python"
+skill_level = "advanced"
+added = 2026-10-20

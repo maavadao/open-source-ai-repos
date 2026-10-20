@@ -1,0 +1,9 @@
+name = "danbooru-diffusion-prompt-builder"
+description = "Danbooru / NovelAI 标签超市"
+category = "image"
+tags = ["danbooru", "novelai", "stable-diffusion", "tagging", "txt2img", "element-plus", "vue", "vue3"]
+repository = "https://github.com/wfjsw/danbooru-diffusion-prompt-builder"
+website = "https://tags.novelai.dev"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

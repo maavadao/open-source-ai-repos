@@ -1,0 +1,9 @@
+name = "agents-starter"
+description = "A starter kit for building ai agents on Cloudflare"
+category = "agents"
+tags = ["agents", "ai", "cloudflare", "durable-objects"]
+repository = "https://github.com/cloudflare/agents-starter"
+website = "https://github.com/cloudflare/agents/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

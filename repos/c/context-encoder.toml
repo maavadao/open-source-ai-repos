@@ -1,0 +1,9 @@
+name = "context-encoder"
+description = "[CVPR 2016] Unsupervised Feature Learning by Image Inpainting using GANs"
+category = "vision"
+tags = ["image-inpainting", "context-encoders", "unsupervised-learning", "machine-learning", "generative-adversarial-network", "deep-learning", "computer-vision", "gan"]
+repository = "https://github.com/pathak22/context-encoder"
+website = "https://www.cs.cmu.edu/~dpathak/context_encoder/"
+license = "NOASSERTION"
+language = "Lua"
+added = 2026-10-20

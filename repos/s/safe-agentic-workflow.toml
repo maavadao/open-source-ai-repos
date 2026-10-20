@@ -1,0 +1,9 @@
+name = "safe-agentic-workflow"
+description = "SAW — SAFe Agentic Workflow AI Agent Harness for Multi-Agent Team Workflows Built on SAFe methodology (Scaled Agile Framework), adapted for AI agent teams (Now With AI-DLC!) Works for any team with repeatable processes: Software, Marketing, Research, Legal, Operations."
+category = "coding"
+tags = ["agile-methodology", "ai-agents", "ai-assisted-development", "claude-code", "developer-tools", "methodology", "multi-agent", "safe-framework"]
+repository = "https://github.com/bybren-llc/safe-agentic-workflow"
+website = "https://jscottgraham.us"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "agents-from-scratch"
+description = "Build an email assistant with human-in-the-loop and memory"
+category = "agents"
+tags = ["agents", "memory"]
+repository = "https://github.com/langchain-ai/agents-from-scratch"
+website = "https://academy.langchain.com/courses/ambient-agents"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

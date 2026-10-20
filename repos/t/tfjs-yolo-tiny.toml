@@ -1,0 +1,9 @@
+name = "tfjs-yolo-tiny"
+description = "In-Browser Object Detection using Tiny YOLO on Tensorflow.js"
+category = "vision"
+tags = ["yolo", "tensorflow", "tensorflow-js", "deep-learning", "machine-learning", "browser", "npm-package", "detection"]
+repository = "https://github.com/ModelDepot/tfjs-yolo-tiny"
+website = "https://modeldepot.io/mikeshi/tiny-yolo-in-javascript"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

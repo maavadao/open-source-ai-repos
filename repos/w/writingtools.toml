@@ -1,0 +1,8 @@
+name = "WritingTools"
+description = "The world's smartest system-wide grammar assistant; a better version of the Apple Intelligence Writing Tools. Works on Windows, Linux, & macOS, with the free Gemini API, local LLMs, & more."
+category = "models"
+tags = ["ai", "artificial-intelligence", "gemini", "grammar-checker", "largelanguagemodel", "llm", "writing-tool"]
+repository = "https://github.com/theJayTea/WritingTools"
+license = "GPL-3.0"
+language = "Swift"
+added = 2026-10-20

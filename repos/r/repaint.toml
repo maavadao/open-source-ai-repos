@@ -1,0 +1,8 @@
+name = "RePaint"
+description = "Official PyTorch Code and Models of \"RePaint: Inpainting using Denoising Diffusion Probabilistic Models\", CVPR 2022"
+category = "image"
+tags = ["cvpr2022", "diffusion-models", "inpainting"]
+repository = "https://github.com/andreas128/RePaint"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

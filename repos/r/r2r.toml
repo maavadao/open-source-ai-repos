@@ -1,0 +1,8 @@
+name = "R2R"
+description = "SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API."
+category = "llm-apps"
+tags = ["artificial-intelligence", "large-language-models", "retrieval-augmented-generation", "search", "question-answering", "retrieval-systems", "python", "rag"]
+repository = "https://github.com/SciPhi-AI/R2R"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

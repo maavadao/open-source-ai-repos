@@ -1,0 +1,9 @@
+name = "ax"
+description = "The pretty much \"official\" DSPy framework for Typescript"
+category = "local-llms"
+tags = ["ai", "cohere", "llm", "openai", "typescript", "javascript", "nodejs", "claude"]
+repository = "https://github.com/ax-llm/ax"
+website = "http://axllm.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

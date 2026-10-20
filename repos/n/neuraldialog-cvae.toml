@@ -1,0 +1,9 @@
+name = "NeuralDialog-CVAE"
+description = "Tensorflow Implementation of Knowledge-Guided CVAE for dialog generation ACL 2017. It is released by Tiancheng Zhao (Tony) from Dialog Research Center, LTI, CMU"
+category = "chat"
+tags = ["dialogue-systems", "end-to-end", "deep-learning", "generative-model", "variational-autoencoder", "chatbot", "variational-bayes", "cvae"]
+repository = "https://github.com/snakeztc/NeuralDialog-CVAE"
+website = "https://www.cs.cmu.edu/~tianchez/"
+license = "Apache-2.0"
+language = "OpenEdge ABL"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "standards-sdk"
+description = "The official HOL Standards SDK, implementing the standards found in https://hol.org/docs/standards"
+category = "mcp-servers"
+tags = ["hedera", "hedera-hashgraph", "agents", "ai", "mcp-servers"]
+repository = "https://github.com/hashgraph-online/standards-sdk"
+website = "https://hol.org"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

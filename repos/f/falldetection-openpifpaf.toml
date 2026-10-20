@@ -1,0 +1,8 @@
+name = "falldetection_openpifpaf"
+description = "Fall Detection using OpenPifPaf's Human Pose Estimation model"
+category = "vision"
+tags = ["openpifpaf", "detection", "human-pose-estimation", "computer-vision", "deep-learning", "composite-fields", "video-analytics", "object-tracking"]
+repository = "https://github.com/cwlroda/falldetection_openpifpaf"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

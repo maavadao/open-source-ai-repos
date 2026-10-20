@@ -1,0 +1,8 @@
+name = "summarizepaper"
+description = "An AI-powered arXiv paper summarization website with a virtual assistant for answering questions."
+category = "chat"
+tags = ["ai", "arxiv", "arxiv-papers", "chatgpt", "django", "gpt3", "langchain", "llm"]
+repository = "https://github.com/summarizepaper/summarizepaper"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

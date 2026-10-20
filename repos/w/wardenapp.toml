@@ -1,0 +1,9 @@
+name = "WardenApp"
+description = "Warden - A Fully Native AI Chat App For macOS"
+category = "chat"
+tags = ["ai", "chatbot", "macos", "native", "swiftui"]
+repository = "https://github.com/SidhuK/WardenApp"
+website = "https://karatsidhu.gumroad.com/l/warden"
+license = "Apache-2.0"
+language = "Swift"
+added = 2026-10-20

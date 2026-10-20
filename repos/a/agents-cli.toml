@@ -1,0 +1,9 @@
+name = "agents-cli"
+description = "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud."
+category = "agents"
+tags = ["adk", "agent-development-kit", "agents", "coding-agent", "gemini", "generative-ai", "gemini-enterprise-agent-platform", "google-cloud"]
+repository = "https://github.com/google/agents-cli"
+website = "https://google.github.io/agents-cli/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

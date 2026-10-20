@@ -1,0 +1,9 @@
+name = "bagel"
+description = "Query robotics, drone, and IoT data in plain English through an MCP server, with an intelligent edge data reduction pipeline that keeps only the data that matters."
+category = "mcp-servers"
+tags = ["robotics", "ros2", "mcp", "drone", "ardupilot", "betaflight", "px4-autopilot", "claude"]
+repository = "https://github.com/Extelligence-ai/bagel"
+website = "https://www.trybagel.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

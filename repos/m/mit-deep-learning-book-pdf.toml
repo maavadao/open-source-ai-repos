@@ -1,0 +1,8 @@
+name = "mit-deep-learning-book-pdf"
+description = "MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville"
+category = "learning"
+tags = ["deep-learning", "machine-learning", "linear-algebra", "mit", "deeplearning", "pdf", "neural-network", "neural-networks"]
+repository = "https://github.com/janishar/mit-deep-learning-book-pdf"
+license = "NOASSERTION"
+language = "Java"
+added = 2026-10-20

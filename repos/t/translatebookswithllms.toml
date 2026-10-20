@@ -1,0 +1,8 @@
+name = "TranslateBooksWithLLMs"
+description = "Translate full-length books and documents with Ollama, OpenAI-compatible, Gemini, Mistral, DeepSeek, Poe or OpenRouter. Preserves formatting. Resumes where you left off. No file size limits."
+category = "learning"
+tags = ["llm", "ollama", "translation", "localization-tool", "translation-tool", "epub", "srt-subtitles", "gemini"]
+repository = "https://github.com/hydropix/TranslateBooksWithLLMs"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

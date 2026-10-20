@@ -1,0 +1,8 @@
+name = "vosk-browser"
+description = "A speech recognition library running in the browser thanks to a WebAssembly build of Vosk"
+category = "speech"
+tags = ["kaldi", "vosk", "wasm", "webassembly", "asr", "stt", "speech-recognition", "speech-to-text"]
+repository = "https://github.com/ccoreilly/vosk-browser"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

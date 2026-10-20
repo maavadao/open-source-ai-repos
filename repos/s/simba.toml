@@ -1,0 +1,9 @@
+name = "simba"
+description = "OpenSource Production ready Customer service with built in Evals and monitoring"
+category = "llm-apps"
+tags = ["knowledge-base", "llm", "rag", "customer-service", "evals"]
+repository = "https://github.com/GitHamza0206/simba"
+website = "https://simba.mintlify.app"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

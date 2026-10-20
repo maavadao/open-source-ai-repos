@@ -1,0 +1,9 @@
+name = "infracost"
+description = "Cloud cost intelligence for engineers, AI coding agents, and CI/CD Shift FinOps Left!"
+category = "coding"
+tags = ["terraform", "cost-estimation", "infrastructure-as-code", "aws", "terraform-cost-estimation", "cloud", "cost-optimization", "cost-management"]
+repository = "https://github.com/infracost/infracost"
+website = "https://infracost.io"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

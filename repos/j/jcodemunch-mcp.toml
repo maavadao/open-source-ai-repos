@@ -1,0 +1,9 @@
+name = "jcodemunch-mcp"
+description = "Cut AI token costs 95%+ on code exploration. The leading MCP server for precise, symbol-level GitHub code retrieval via tree-sitter AST. Works with Claude Code, Cursor & any MCP client. 313B+ tokens saved."
+category = "mcp-servers"
+tags = ["claude", "claude-code", "ai-coding", "ast", "code-intelligence", "context-window", "cursor", "developer-tools"]
+repository = "https://github.com/jgravelle/jcodemunch-mcp"
+website = "https://jcodemunch.com/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

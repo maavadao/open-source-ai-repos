@@ -1,0 +1,9 @@
+name = "open-pose-editor"
+description = "online 3d openpose editor for stable diffusion and controlnet"
+category = "image"
+tags = ["controlnet", "openpose", "stable-diffusion", "webui"]
+repository = "https://github.com/ZhUyU1997/open-pose-editor"
+website = "https://zhuyu1997.github.io/open-pose-editor/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

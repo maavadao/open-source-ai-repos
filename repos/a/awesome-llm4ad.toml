@@ -1,0 +1,7 @@
+name = "Awesome-LLM4AD"
+description = "A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated)"
+category = "learning"
+tags = ["large-language-models", "vision-language-action-model", "vision-language-model", "world-model"]
+repository = "https://github.com/Thinklab-SJTU/Awesome-LLM4AD"
+license = "Apache-2.0"
+added = 2026-10-20

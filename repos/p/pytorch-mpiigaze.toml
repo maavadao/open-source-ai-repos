@@ -1,0 +1,8 @@
+name = "pytorch_mpiigaze"
+description = "An unofficial PyTorch implementation of MPIIGaze and MPIIFaceGaze"
+category = "vision"
+tags = ["pytorch", "computer-vision", "gaze", "gaze-estimation"]
+repository = "https://github.com/hysts/pytorch_mpiigaze"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "neuro-san-studio"
+description = "A playground for neuro-san"
+category = "agents"
+tags = ["agents", "ai", "mas", "aaosa", "agentic-ai", "agentic-framework", "ai-agents", "ai-agents-framework"]
+repository = "https://github.com/cognizant-ai-lab/neuro-san-studio"
+website = "https://decisionai.ml/neuro-san"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

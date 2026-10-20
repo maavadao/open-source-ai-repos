@@ -1,0 +1,9 @@
+name = "AmazingZImageWorkflow"
+description = "Z-Image workflow with predefined styles for high-quality image generation and a user-friendly experience. Includes pre-configured versions for GGUF and SAFETENSORS checkpoint formats."
+category = "image"
+tags = ["comfyui", "comfyui-workflow", "image-generation", "text2image", "txt2img", "z-image-turbo", "comfy-workflow", "z-image"]
+repository = "https://github.com/martin-rizzo/AmazingZImageWorkflow"
+website = "https://civitai.com/models/2181458/amazing-z-image-workflow"
+license = "Unlicense"
+language = "Python"
+added = 2026-10-20

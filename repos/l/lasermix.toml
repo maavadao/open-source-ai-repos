@@ -1,0 +1,9 @@
+name = "LaserMix"
+description = "[CVPR 2023 Highlight] LaserMix for Semi-Supervised LiDAR Semantic Segmentation"
+category = "robotics"
+tags = ["autonomous-driving", "lidar", "segmentation", "semi-supervised-learning"]
+repository = "https://github.com/worldbench/LaserMix"
+website = "https://ldkong.com/LaserMix"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

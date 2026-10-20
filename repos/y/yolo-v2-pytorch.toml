@@ -1,0 +1,8 @@
+name = "Yolo-v2-pytorch"
+description = "YOLO for object detection tasks"
+category = "vision"
+tags = ["pytorch", "computer-vision", "yolo", "yolov2", "deep-learning", "deeplearning", "deep-neural-networks", "cnn"]
+repository = "https://github.com/vietnh1009/Yolo-v2-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

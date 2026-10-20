@@ -1,0 +1,9 @@
+name = "gorse"
+description = "AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding"
+category = "data-science"
+tags = ["recommender-system", "collaborative-filtering", "go", "knn", "machine-learning"]
+repository = "https://github.com/gorse-io/gorse"
+website = "https://gorse.io"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "VectorRAG.Net"
+description = "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented Generation). Core search is based on Random Hyperplane LSH candidate generation with exact rerank by dot/cosine."
+category = "vector-databases"
+tags = ["bm25", "embeddings", "llm", "rag", "semantic-search", "vector-database", "vector-search", "ann-search"]
+repository = "https://github.com/likeslines-maker/VectorRAG.Net"
+website = "https://principium.pro"
+license = "NOASSERTION"
+language = "C#"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "anse"
+description = "Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion."
+category = "image"
+tags = ["chatgpt", "dall-e", "stable-diffusion", "openai", "gpt-3", "gpt-35-turbo", "gpt-4", "google-gemini"]
+repository = "https://github.com/anse-app/anse"
+website = "https://anse.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

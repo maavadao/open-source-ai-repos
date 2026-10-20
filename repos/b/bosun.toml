@@ -1,0 +1,9 @@
+name = "bosun"
+description = "Autonomous Engineering"
+category = "coding"
+tags = ["agents", "automation", "chatgpt", "claude", "claude-code", "codex", "copilot", "development"]
+repository = "https://github.com/virtengine/bosun"
+website = "https://bosun.engineer"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

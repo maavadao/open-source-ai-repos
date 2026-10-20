@@ -1,0 +1,9 @@
+name = "adk-java"
+description = "An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control."
+category = "agents"
+tags = ["agent", "agents", "ai", "ai-agents", "multi-agent", "multi-agent-systems", "agentic", "agentic-ai"]
+repository = "https://github.com/google/adk-java"
+website = "https://google.github.io/adk-docs/"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

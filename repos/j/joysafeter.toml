@@ -1,0 +1,8 @@
+name = "JoySafeter"
+description = "JoySafeter: An enterprise AI Agent Platform—Not just chatting. building、running、testing, and tracing autonomous Agent Teams with visual orchestration..."
+category = "mcp-servers"
+tags = ["deepagents", "multi-agent", "openclaw", "skills", "vulnerability-detection", "sandboxing", "mcp", "memory"]
+repository = "https://github.com/jd-opensource/JoySafeter"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

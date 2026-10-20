@@ -1,0 +1,8 @@
+name = "self-host-n8n-on-gcr"
+description = "Self-host n8n on Google Cloud without the subscription fees or server headaches - because your automation workflows shouldn't cost more than your coffee budget"
+category = "no-code"
+tags = ["google-cloud-platform", "google-cloud-run", "n8n", "n8n-self-hosting", "serverless", "agentic-ai", "ai", "ai-agent-framework"]
+repository = "https://github.com/datawranglerai/self-host-n8n-on-gcr"
+license = "MIT"
+language = "HCL"
+added = 2026-10-20

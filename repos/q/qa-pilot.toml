@@ -1,0 +1,8 @@
+name = "QA-Pilot"
+description = "QA-Pilot is an interactive chat project that leverages online/local LLM for rapid understanding and navigation of GitHub code repository."
+category = "llm-apps"
+tags = ["openai", "langchain", "huggingface", "svelte", "localai", "glm", "zhipuai", "nvidia"]
+repository = "https://github.com/reid41/QA-Pilot"
+license = "Apache-2.0"
+language = "Svelte"
+added = 2026-10-20

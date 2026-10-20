@@ -1,0 +1,8 @@
+name = "Argus"
+description = "Argus 是一个基于 RAG 架构的开源知识库平台，后端采用 Java 21 + Spring Boot + MyBatis-Plus + PostgreSQL/pgvector，前端采用 Vue 3 + TypeScript + Element Plus，AI 层基于 Spring AI Alibaba（通义千问）+ ReactAgent 图引擎，以 MinIO + Elasticsearch 为存储与检索引擎。"
+category = "llm-apps"
+tags = ["rag", "springai", "spring-ai", "springai-alibaba"]
+repository = "https://github.com/DevYangJC/Argus"
+license = "NOASSERTION"
+language = "Java"
+added = 2026-10-20

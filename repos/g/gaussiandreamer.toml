@@ -1,0 +1,9 @@
+name = "GaussianDreamer"
+description = "[CVPR 2024] GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models"
+category = "image"
+tags = ["aigc", "computer-vision", "diffusion-models", "dreamfusion", "gaussian-splatting", "nerf", "radiance-field", "text-to-3d"]
+repository = "https://github.com/hustvl/GaussianDreamer"
+website = "https://taoranyi.com/gaussiandreamer/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "FerryAI"
+description = "Native AI inference for PHP 8.3+ - run ONNX, GGUF (llama.cpp) and RubixML models directly in your PHP process via FFI. Chat, streaming, embeddings, RAG and vector search. No Python, no HTTP microservices, no Docker sidecars."
+category = "vector-databases"
+tags = ["ai", "embeddings", "ffi", "generative-ai", "gguf", "inference", "llama-cpp", "llm"]
+repository = "https://github.com/MADEVAL/FerryAI"
+license = "MIT"
+language = "PHP"
+added = 2026-10-20

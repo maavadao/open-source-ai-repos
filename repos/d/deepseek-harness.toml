@@ -1,0 +1,9 @@
+name = "deepseek-harness"
+description = "DeepSeek Harness: Everything is a Plugin."
+category = "agents"
+tags = ["cordis", "dsh", "dsh-plugin", "ai-agents"]
+repository = "https://github.com/deepseek-ai/deepseek-harness"
+website = "https://deepseek.com/harness"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

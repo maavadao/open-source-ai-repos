@@ -1,0 +1,9 @@
+name = "AFlow"
+description = "ICLR 2025 Oral. Automating Agentic Workflow Generation."
+category = "agents"
+tags = ["agentic-workflow", "agents", "multiagent-systems", "optimization"]
+repository = "https://github.com/FoundationAgents/AFlow"
+website = "https://arxiv.org/abs/2410.10762"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

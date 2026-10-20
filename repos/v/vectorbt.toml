@@ -1,0 +1,9 @@
+name = "vectorbt"
+description = "The research engine that gives you an unfair advantage. Run thousands of trading ideas before others finish one."
+category = "data-science"
+tags = ["backtesting", "trading", "algorithmic-trading", "trading-strategies", "cryptocurrency", "data-visualization", "time-series", "data-science"]
+repository = "https://github.com/polakowo/vectorbt"
+website = "https://vectorbt.dev"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

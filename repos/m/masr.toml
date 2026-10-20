@@ -1,0 +1,8 @@
+name = "masr"
+description = "中文语音识别; Mandarin Automatic Speech Recognition;"
+category = "speech"
+tags = ["speech-recognition", "chinese-speech-recognition", "mandarin-chinese", "pytorch"]
+repository = "https://github.com/nobody132/masr"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

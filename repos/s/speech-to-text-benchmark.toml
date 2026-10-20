@@ -1,0 +1,9 @@
+name = "speech-to-text-benchmark"
+description = "speech to text benchmark framework"
+category = "security"
+tags = ["speech-recognition", "speech-to-text", "deepspeech", "voice-recognition", "offline", "privacy", "deep-learning", "deep-neural-networks"]
+repository = "https://github.com/Picovoice/speech-to-text-benchmark"
+website = "https://picovoice.ai/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

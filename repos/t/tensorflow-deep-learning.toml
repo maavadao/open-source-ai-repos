@@ -1,0 +1,9 @@
+name = "tensorflow-deep-learning"
+description = "All course materials for the Zero to Mastery Deep Learning with TensorFlow course."
+category = "learning"
+tags = ["deep-learning", "deep-neural-networks", "tensorflow", "tensorflow2", "tensorflow-tutorials", "tensorflow-course", "curriculum"]
+repository = "https://github.com/mrdbourke/tensorflow-deep-learning"
+website = "https://dbourke.link/ZTMTFcourse"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

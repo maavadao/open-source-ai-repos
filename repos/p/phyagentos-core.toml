@@ -1,0 +1,9 @@
+name = "PhyAgentOS-core"
+description = "PhyAgentOS is a Recursive Self-Improving (RSI) physical agent operating system that enables agents to recursively self-improve through agentic workflows."
+category = "robotics"
+tags = ["embodied-agent", "embodied-ai", "agent", "harness", "claw", "rsi", "self-evolution"]
+repository = "https://github.com/PhyAgentOS/PhyAgentOS-core"
+website = "https://phy-agent-os.x-era.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

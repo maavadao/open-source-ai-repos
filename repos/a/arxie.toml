@@ -1,0 +1,8 @@
+name = "arxie"
+description = "Research feedback grounded in the papers that define your field"
+category = "documents"
+tags = ["academic-research", "ai-agent", "arxiv", "fastapi", "langchain", "literature-review", "machine-learning", "nlp"]
+repository = "https://github.com/mmTheBest/arxie"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

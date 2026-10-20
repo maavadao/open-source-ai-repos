@@ -1,0 +1,8 @@
+name = "TengineKit"
+description = "TengineKit - Free, Fast, Easy, Real-Time Face Detection & Face Landmarks & Face Attributes & Hand Detection & Hand Landmarks & Body Detection & Body Landmarks & Iris Landmarks & Yolov5 SDK On Mobile."
+category = "vision"
+tags = ["mobile", "face-landmarks", "face-detection", "android", "face-tracking", "java", "face-attributes", "deep-neural-networks"]
+repository = "https://github.com/OAID/TengineKit"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

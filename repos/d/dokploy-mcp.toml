@@ -1,0 +1,8 @@
+name = "mcp"
+description = "The Official MCP package for Dokploy"
+category = "mcp-servers"
+tags = ["agents", "ai", "dokploy", "dokploy-mcp", "mcp"]
+repository = "https://github.com/Dokploy/mcp"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

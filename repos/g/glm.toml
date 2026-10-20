@@ -1,0 +1,7 @@
+name = "GLM"
+description = "GLM (General Language Model)"
+category = "models"
+repository = "https://github.com/THUDM/GLM"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

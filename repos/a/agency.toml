@@ -1,0 +1,8 @@
+name = "agency"
+description = "Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach."
+category = "vector-databases"
+tags = ["ai", "chatgpt", "golang", "llm", "agents", "artificial-general-intelligence", "artificial-intelligence", "autonomous-agents"]
+repository = "https://github.com/neurocult/agency"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

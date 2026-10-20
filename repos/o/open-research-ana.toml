@@ -1,0 +1,9 @@
+name = "open-research-ANA"
+description = "An open-source, AI agent-native research canvas application that performs real-time search with HITL (Human in The Loop) capabilities, powered by CopilotKit, Tavily and LangGraph"
+category = "chat"
+tags = ["ai", "anthropic", "canvas", "chatbot", "chatgpt", "copilotkit", "hitl", "human-in-the-loop"]
+repository = "https://github.com/CopilotKit/open-research-ANA"
+website = "https://open-research-ana.vercel.app"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

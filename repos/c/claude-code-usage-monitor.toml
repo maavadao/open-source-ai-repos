@@ -1,0 +1,8 @@
+name = "Claude-Code-Usage-Monitor"
+description = "Real-time Claude Code usage monitor with predictions and warnings"
+category = "coding"
+tags = ["ai", "claude", "claude-code", "limits", "monitoring", "terminal", "usage-tracking", "claude-usage"]
+repository = "https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

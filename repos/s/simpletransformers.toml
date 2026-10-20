@@ -1,0 +1,9 @@
+name = "simpletransformers"
+description = "Transformers for Information Retrieval, Text Classification, NER, QA, Language Modelling, Language Generation, T5, Multi-Modal, and Conversational AI"
+category = "models"
+tags = ["transformers", "text-classification", "named-entity-recognition", "question-answering", "conversational-ai", "information-retrival"]
+repository = "https://github.com/ThilinaRajapakse/simpletransformers"
+website = "https://simpletransformers.ai/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

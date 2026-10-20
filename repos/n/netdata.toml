@@ -1,0 +1,9 @@
+name = "netdata"
+description = "The fastest path to AI-powered full stack observability, even for lean teams."
+category = "mcp-servers"
+tags = ["monitoring", "docker", "kubernetes", "cncf", "prometheus", "netdata", "devops", "observability"]
+repository = "https://github.com/netdata/netdata"
+website = "https://www.netdata.cloud"
+license = "GPL-3.0"
+language = "Go"
+added = 2026-10-20

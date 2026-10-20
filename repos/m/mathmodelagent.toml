@@ -1,0 +1,9 @@
+name = "MathModelAgent"
+description = "专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission."
+category = "agents"
+tags = ["agent", "llm", "mathmodel", "skills"]
+repository = "https://github.com/jihe520/MathModelAgent"
+website = "https://mathmodel.top/home"
+license = "NOASSERTION"
+language = "TeX"
+added = 2026-10-20

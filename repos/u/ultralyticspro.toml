@@ -1,0 +1,8 @@
+name = "ultralyticsPro"
+description = "专注于YOLO11，YOLOv8、TYOLOv12、YOLOv10、RT-DETR、YOLOv7、YOLOv5改进模型，Support to improve backbone, neck, head, loss, IoU, NMS and other modules"
+category = "vision"
+tags = ["yolov5", "backbone", "pytorch", "transformer", "yolov3", "yolov4", "yolov7", "deep-learning"]
+repository = "https://github.com/iscyy/ultralyticsPro"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

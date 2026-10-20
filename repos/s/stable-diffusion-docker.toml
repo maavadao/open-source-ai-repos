@@ -1,0 +1,8 @@
+name = "stable-diffusion-docker"
+description = "Run the official Stable Diffusion releases in a Docker container with txt2img, img2img, depth2img, pix2pix, upscale4x, and inpaint."
+category = "image"
+tags = ["huggingface", "pytorch", "stable-diffusion", "tensorflow", "diffusion", "generative-art", "image-generation", "dall-e"]
+repository = "https://github.com/fboulnois/stable-diffusion-docker"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

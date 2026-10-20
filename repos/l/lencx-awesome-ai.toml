@@ -1,0 +1,7 @@
+name = "awesome-ai"
+description = "Awesome AI"
+category = "learning"
+tags = ["ai", "application", "chatgpt", "gpt", "stable-diffusion", "tools"]
+repository = "https://github.com/lencx/awesome-ai"
+license = "CC0-1.0"
+added = 2026-10-20

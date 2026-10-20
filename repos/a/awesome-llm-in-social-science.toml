@@ -1,0 +1,7 @@
+name = "Awesome-LLM-in-Social-Science"
+description = "Awesome papers involving LLMs in Social Science."
+category = "learning"
+tags = ["large-language-models", "llm-agent", "llms", "simulation-environment", "social-science", "alignment", "economics", "llm-evaluation"]
+repository = "https://github.com/ValueByte-AI/Awesome-LLM-in-Social-Science"
+license = "MIT"
+added = 2026-10-20

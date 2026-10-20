@@ -1,0 +1,9 @@
+name = "samples"
+description = "Agent samples built using the Strands Agents SDK."
+category = "mcp-servers"
+tags = ["agentic", "agentic-ai", "agents", "ai", "anthropic", "autonomous-agents", "genai", "litellm"]
+repository = "https://github.com/strands-agents/samples"
+website = "https://strandsagents.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

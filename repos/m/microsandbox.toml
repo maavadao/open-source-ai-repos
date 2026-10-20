@@ -1,0 +1,9 @@
+name = "microsandbox"
+description = "easy, fast, programmable and local-first microVM runtime and library"
+category = "agents"
+tags = ["agents", "docker", "linux", "macos", "sandbox", "virtualization", "vm", "security"]
+repository = "https://github.com/superradcompany/microsandbox"
+website = "https://docs.microsandbox.dev"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

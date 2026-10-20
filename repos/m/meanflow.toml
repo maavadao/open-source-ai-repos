@@ -1,0 +1,8 @@
+name = "MeanFlow"
+description = "PyTorch implementation of MeanFlow & iMF (one-step generative modeling)."
+category = "image"
+tags = ["diffusion-models", "flow-matching", "generative-model"]
+repository = "https://github.com/haidog-yaqub/MeanFlow"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

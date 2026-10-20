@@ -1,0 +1,8 @@
+name = "PythonFromSpace"
+description = "Python Examples for Remote Sensing"
+category = "vision"
+tags = ["python", "vision", "gis", "satellite", "imaging", "image-processing", "computer-vision", "jupyter-notebook"]
+repository = "https://github.com/kscottz/PythonFromSpace"
+license = "BSD-3-Clause"
+language = "Jupyter Notebook"
+added = 2026-10-20

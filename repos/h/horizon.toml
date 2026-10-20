@@ -1,0 +1,9 @@
+name = "Horizon"
+description = "Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达"
+category = "mcp-servers"
+tags = ["aggregator", "news", "llm", "python", "mcp", "openclaw", "feishu-bot", "webhook"]
+repository = "https://github.com/Thysrael/Horizon"
+website = "https://www.horizon1123.top"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

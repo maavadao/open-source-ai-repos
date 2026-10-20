@@ -1,0 +1,9 @@
+name = "claude-forge"
+description = "oh-my-zsh for Claude Code — 16 agents, 35 commands, 32 skills, 21 safety hooks in one install. v4.0 adds an adversarial review loop: a second agent that never sees the first one's reasoning. MIT."
+category = "coding"
+tags = ["agents", "ai-assistant", "anthropic", "automation", "claude-code", "developer-tools", "dotfiles", "llm"]
+repository = "https://github.com/sangrokjung/claude-forge"
+website = "https://sangrokjung.github.io/claude-forge"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

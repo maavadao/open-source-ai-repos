@@ -1,0 +1,9 @@
+name = "synalinks-skills"
+description = "Coding Agents skills for Synalinks OSS"
+category = "models"
+tags = ["artificial-intelligence", "large-language-models", "neuro-symbolic", "neurosymbolic", "neuro-symbolic-ai"]
+repository = "https://github.com/SynaLinks/synalinks-skills"
+website = "https://synalinks.github.io/synalinks/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

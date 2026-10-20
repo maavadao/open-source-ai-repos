@@ -1,0 +1,9 @@
+name = "colmap"
+description = "COLMAP - Structure-from-Motion and Multi-View Stereo"
+category = "vision"
+tags = ["structure-from-motion", "multi-view-stereo", "reconstruction", "geometry", "computer-vision"]
+repository = "https://github.com/colmap/colmap"
+website = "https://colmap.github.io/"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

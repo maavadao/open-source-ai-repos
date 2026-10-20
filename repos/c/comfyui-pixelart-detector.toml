@@ -1,0 +1,8 @@
+name = "ComfyUI-PixelArt-Detector"
+description = "Generate, downscale, change palletes and restore pixel art images with SDXL. Nodes for Astropulse/pixeldetector, Palette Loader from Image, Grid view for palettes etc."
+category = "image"
+tags = ["comfyui", "comfyui-custom-node", "comfyui-nodes", "pixel-art", "pixelart", "sdxl", "stable-diffusion", "flux-dev"]
+repository = "https://github.com/dimtoneff/ComfyUI-PixelArt-Detector"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

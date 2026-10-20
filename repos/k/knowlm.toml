@@ -1,0 +1,9 @@
+name = "KnowLM"
+description = "An Open-sourced Knowledgable Large Language Model Framework."
+category = "image"
+tags = ["llama", "large-language-models", "pre-trained-language-models", "language-model", "instruction-following", "deep-learning", "chinese", "english"]
+repository = "https://github.com/zjunlp/KnowLM"
+website = "http://knowlm.zjukg.cn/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

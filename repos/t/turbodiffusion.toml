@@ -1,0 +1,9 @@
+name = "TurboDiffusion"
+description = "TurboDiffusion: 100–200× Acceleration for Video Diffusion Models"
+category = "video"
+tags = ["ai-infra", "diffusion-models", "inference-acceleration", "rcm", "sageattention", "sparse-linear-attention", "video-generation", "mlsystem"]
+repository = "https://github.com/thu-ml/TurboDiffusion"
+website = "https://arxiv.org/pdf/2512.16093"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

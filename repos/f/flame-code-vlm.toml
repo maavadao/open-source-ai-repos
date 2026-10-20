@@ -1,0 +1,8 @@
+name = "Flame-Code-VLM"
+description = "Flame is an open-source multimodal AI system designed to translate UI design mockups into high-quality React code. It leverages vision-language modeling, automated data synthesis, and structured training workflows to bridge the gap between design and front-end development."
+category = "coding"
+tags = ["code-generation", "data-synthesis", "frontend-development", "vision-language-model", "ai", "deep-learning", "frontend", "multimodal"]
+repository = "https://github.com/Flame-Code-VLM/Flame-Code-VLM"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

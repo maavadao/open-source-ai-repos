@@ -1,0 +1,9 @@
+name = "matrixone"
+description = "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intelligent agents and applications."
+category = "vector-databases"
+tags = ["distributed-database", "distributed-systems", "cloud-native", "olap", "htap", "one-size-fits-all", "hyperconverged", "sql"]
+repository = "https://github.com/matrixorigin/matrixone"
+website = "https://docs.matrixorigin.cn/mo/en/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

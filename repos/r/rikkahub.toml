@@ -1,0 +1,9 @@
+name = "rikkahub"
+description = "RikkaHub is an Android APP that supports for multiple LLM providers."
+category = "mcp-servers"
+tags = ["android", "jetpack-compose", "chatgpt", "deepseek", "llm-ui", "openrouter", "app", "gemini"]
+repository = "https://github.com/rikkahub/rikkahub"
+website = "https://rikka-ai.com"
+license = "AGPL-3.0"
+language = "Kotlin"
+added = 2026-10-20

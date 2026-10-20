@@ -1,0 +1,8 @@
+name = "PWC-Net"
+description = "PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume, CVPR 2018 (Oral)"
+category = "vision"
+tags = ["deeplearning", "optical-flow", "computer-vision", "pytorch", "caffe", "cvpr2018", "pwc-net"]
+repository = "https://github.com/NVlabs/PWC-Net"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

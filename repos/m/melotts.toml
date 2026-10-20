@@ -1,0 +1,8 @@
+name = "MeloTTS"
+description = "High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean."
+category = "speech"
+tags = ["text-to-speech", "tts", "chinese", "english", "french", "japanese", "korean", "multilingual"]
+repository = "https://github.com/myshell-ai/MeloTTS"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

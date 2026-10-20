@@ -1,0 +1,8 @@
+name = "KADATH"
+description = "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal."
+category = "agents"
+tags = ["agent-evaluation-tools", "agent-framework", "agent-swarms", "agentic-ai", "agents", "ai", "ai-agents", "autonomous-agents"]
+repository = "https://github.com/i3T4AN/KADATH"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

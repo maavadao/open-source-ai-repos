@@ -1,0 +1,8 @@
+name = "AIGames"
+description = "use AI to play some games."
+category = "ml-platforms"
+tags = ["ai", "game", "dqn", "algorithm", "reinforcement-learning", "deep-learning"]
+repository = "https://github.com/CharlesPikachu/AIGames"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

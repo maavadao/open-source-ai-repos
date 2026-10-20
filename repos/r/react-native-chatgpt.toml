@@ -1,0 +1,8 @@
+name = "react-native-chatgpt"
+description = "A React Native wrapper around ChatGPT to seamlessly integrate it with your applications. It handles authentication, streamed responses, and keeping track of conversations. 100% client-side"
+category = "chat"
+tags = ["chatbot", "chatgpt", "react", "react-native"]
+repository = "https://github.com/rgommezz/react-native-chatgpt"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

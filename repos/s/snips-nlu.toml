@@ -1,0 +1,9 @@
+name = "snips-nlu"
+description = "Snips Python library to extract meaning from text"
+category = "chat"
+tags = ["nlp", "nlu", "python", "machine-learning", "text-classification", "intent-classification", "ner", "named-entity-recognition"]
+repository = "https://github.com/snipsco/snips-nlu"
+website = "https://snips-nlu.readthedocs.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

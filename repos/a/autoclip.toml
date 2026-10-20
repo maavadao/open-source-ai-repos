@@ -1,0 +1,9 @@
+name = "autoclip"
+description = "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing."
+category = "mcp-servers"
+tags = ["ai-video-editor", "ai-agent", "content-repurposing", "desktop-app", "douyin", "instagram-reels", "mcp", "open-source"]
+repository = "https://github.com/zhouxiaoka/autoclip"
+website = "https://zhouxiaoka.github.io/autoclip_intro/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

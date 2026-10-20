@@ -1,0 +1,9 @@
+name = "verbalized-sampling"
+description = "Verbalized Sampling, a training-free prompting strategy to mitigate mode collapse in LLMs by requesting responses with probabilities. Achieves 2-3x diversity improvement while maintaining quality. Model-agnostic framework with CLI/API for creative writing, synthetic data…"
+category = "models"
+tags = ["claude", "creative-writing", "diversity", "gemini", "gpt", "large-language-models", "llm", "mode-collapse"]
+repository = "https://github.com/CHATS-lab/verbalized-sampling"
+website = "https://www.verbalized-sampling.com/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

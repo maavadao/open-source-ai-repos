@@ -1,0 +1,9 @@
+name = "tpot"
+description = "A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming."
+category = "no-code"
+tags = ["machine-learning", "python", "data-science", "automl", "automation", "scikit-learn", "hyperparameter-optimization", "model-selection"]
+repository = "https://github.com/EpistasisLab/tpot"
+website = "http://epistasislab.github.io/tpot/"
+license = "LGPL-3.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

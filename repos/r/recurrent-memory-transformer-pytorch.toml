@@ -1,0 +1,8 @@
+name = "recurrent-memory-transformer-pytorch"
+description = "Implementation of Recurrent Memory Transformer, Neurips 2022 paper, in Pytorch"
+category = "llm-apps"
+tags = ["artificial-intelligence", "attention-mechanisms", "deep-learning", "transformers", "long-context", "memory", "recurrence"]
+repository = "https://github.com/lucidrains/recurrent-memory-transformer-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

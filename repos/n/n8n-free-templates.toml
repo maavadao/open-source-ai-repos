@@ -1,0 +1,7 @@
+name = "n8n-free-templates"
+description = "A curated set of 200+ plug-and-play n8n workflows that fuse classic automation with today’s AI stack—vector DBs, embeddings, and LLMs. Import any JSON, add your creds, hit Activate, and you’re live. Built to demo, prototype, or drop straight into production."
+category = "no-code"
+tags = ["automation", "automation-templates", "integration", "n8n", "n8n-template", "no-code-ai", "no-code-automation", "n8n-autom"]
+repository = "https://github.com/wassupjay/n8n-free-templates"
+license = "NOASSERTION"
+added = 2026-10-20

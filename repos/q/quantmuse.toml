@@ -1,0 +1,8 @@
+name = "QuantMuse"
+description = "A comprehensive quantitative trading system with AI-powered analysis, real-time data processing, and advanced risk management"
+category = "data-science"
+tags = ["machine-learning", "python", "quantitative-trading"]
+repository = "https://github.com/0xemmkty/QuantMuse"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "WorldSeed"
+description = "More is Different. A multi-agent world engine where AI agents live, talk, compete, ally."
+category = "agents"
+tags = ["agent-based-simulation", "agentic-ai", "agents", "ai", "ai-agents", "autonomous-agents", "emergent-behavior", "generative-agents"]
+repository = "https://github.com/AIScientists-Dev/WorldSeed"
+website = "https://worldseed.morphmind.ai/demo"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

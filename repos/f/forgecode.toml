@@ -1,0 +1,9 @@
+name = "forgecode"
+description = "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models"
+category = "coding"
+tags = ["ai-workflows", "artifical-intelligense", "claude-3-7-sonnet", "command-line", "multi-agent-reinforcement-learning", "shell", "grok", "open-router"]
+repository = "https://github.com/tailcallhq/forgecode"
+website = "https://forgecode.dev"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

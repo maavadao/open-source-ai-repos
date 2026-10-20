@@ -1,0 +1,9 @@
+name = "py123d"
+description = "123D: A Unified Library for Multi-Modal Autonomous Driving Data"
+category = "robotics"
+tags = ["autonomous-driving", "datasets", "sensors"]
+repository = "https://github.com/kesai-labs/py123d"
+website = "https://kesai.eu/py123d/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

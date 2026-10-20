@@ -1,0 +1,9 @@
+name = "genkit"
+description = "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Google"
+category = "vector-databases"
+tags = ["ai", "genkit", "vector-database", "embedders", "agents", "llm", "multimodal", "rag"]
+repository = "https://github.com/genkit-ai/genkit"
+website = "https://genkit.dev"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

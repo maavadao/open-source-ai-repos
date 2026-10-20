@@ -1,0 +1,8 @@
+name = "PythonLinearNonlinearControl"
+description = "PythonLinearNonLinearControl is a library implementing the linear and nonlinear control theories in python."
+category = "ml-platforms"
+tags = ["optimal-control", "model-predictive-control", "linear-control", "model-based-rl", "mpc", "nmpc", "ilqr", "mppi"]
+repository = "https://github.com/Shunichi09/PythonLinearNonlinearControl"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

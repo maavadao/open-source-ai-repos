@@ -1,0 +1,8 @@
+name = "awesome-claude-skills"
+description = "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
+category = "mcp-servers"
+tags = ["claude", "claude-code", "agent-skills", "ai-agents", "antigravity", "automation", "codex", "composio"]
+repository = "https://github.com/ComposioHQ/awesome-claude-skills"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

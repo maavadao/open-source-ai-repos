@@ -1,0 +1,8 @@
+name = "fast-autoaugment"
+description = "Official Implementation of 'Fast AutoAugment' in PyTorch."
+category = "vision"
+tags = ["deep-learning", "convolutional-neural-networks", "pytorch", "augmentation", "image-classification", "computer-vision", "distributed", "cnn"]
+repository = "https://github.com/kakaobrain/fast-autoaugment"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

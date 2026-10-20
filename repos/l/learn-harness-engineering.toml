@@ -1,0 +1,9 @@
+name = "learn-harness-engineering"
+description = "Harness engineering beginner tutorial, from 0 to 1"
+category = "learning"
+tags = ["agent", "harness", "harness-engineering", "harness-framework", "llm", "ai", "ai-agent", "agentic"]
+repository = "https://github.com/walkinglabs/learn-harness-engineering"
+website = "https://walkinglabs.github.io/learn-harness-engineering/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

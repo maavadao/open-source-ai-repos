@@ -1,0 +1,9 @@
+name = "maverick-mcp"
+description = "Stock market MCP server for Yahoo Finance data, technical analysis, portfolio tracking, and Python backtesting. Runs locally with no API key for core tools."
+category = "mcp-servers"
+tags = ["anthropic", "claude", "finance", "financial-analysis", "mcp", "mcp-server", "python", "technical-analysis"]
+repository = "https://github.com/wshobson/maverick-mcp"
+website = "https://sethhobson.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

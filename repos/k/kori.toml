@@ -1,0 +1,8 @@
+name = "Kori"
+description = "AI-powered Markdown notepad built with Compose Multiplatform."
+category = "agents"
+tags = ["android", "ios", "latex", "linux", "macos", "markdown", "mermaid", "note-taking"]
+repository = "https://github.com/YangDai2003/Kori"
+license = "AGPL-3.0"
+language = "Kotlin"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "agent-prism"
+description = "React components for visualizing traces from AI agents"
+category = "agents"
+tags = ["ai-agents", "ai-monitoring", "component-library", "developer-tools", "distributed-tracing", "generative-ai", "langchain", "llm"]
+repository = "https://github.com/evilmartians/agent-prism"
+website = "https://storybook.agent-prism.evilmartians.io/?utm_source=github&utm_medium=social"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

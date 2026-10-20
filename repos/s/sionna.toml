@@ -1,0 +1,9 @@
+name = "sionna"
+description = "Sionna: An Open-Source Library for Research on Communication Systems"
+category = "ml-platforms"
+tags = ["communications", "5g", "6g", "machine-learning", "deep-learning", "link-level-simulation", "reproducible-research", "open-source"]
+repository = "https://github.com/NVlabs/sionna"
+website = "https://nvlabs.github.io/sionna/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

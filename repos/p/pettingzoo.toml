@@ -1,0 +1,9 @@
+name = "PettingZoo"
+description = "A standard API for multi-agent reinforcement learning environments, with popular reference environments and related utilities"
+category = "ml-platforms"
+tags = ["api", "gymnasium", "multi-agent-reinforcement-learning", "reinforcement-learning", "multiagent-reinforcement-learning"]
+repository = "https://github.com/Farama-Foundation/PettingZoo"
+website = "https://pettingzoo.farama.org"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

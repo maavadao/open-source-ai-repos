@@ -1,0 +1,8 @@
+name = "TensorFlow-World"
+description = "Simple and ready-to-use tutorials for TensorFlow"
+category = "learning"
+tags = ["deep-learning", "neural-network", "tensorflow", "machine-learning", "python", "computer-vision"]
+repository = "https://github.com/astorfi/TensorFlow-World"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

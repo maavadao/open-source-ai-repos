@@ -1,0 +1,9 @@
+name = "flow-like"
+description = "Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization."
+category = "mcp-servers"
+tags = ["llm", "visual-scripting", "agents", "rust", "workflow", "ai", "apis", "automation"]
+repository = "https://github.com/Rheosoph/flow-like"
+website = "https://flow-like.com"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

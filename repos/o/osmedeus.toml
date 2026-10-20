@@ -1,0 +1,9 @@
+name = "osmedeus"
+description = "A Modern Orchestration Engine for Security"
+category = "agents"
+tags = ["reconnaissance", "security-tools", "hacking-tool", "hacking", "osint", "bugbounty", "pentesting", "security"]
+repository = "https://github.com/j3ssie/osmedeus"
+website = "https://www.osmedeus.org/"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

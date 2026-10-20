@@ -1,0 +1,8 @@
+name = "LibFewShot"
+description = "[TPAMI 2023] LibFewShot: A Comprehensive Library for Few-shot Learning."
+category = "vision"
+tags = ["few-shot-learning", "meta-learning", "fine-tuning", "image-classification", "pytorch"]
+repository = "https://github.com/RL-VIG/LibFewShot"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

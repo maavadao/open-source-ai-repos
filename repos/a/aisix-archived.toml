@@ -1,0 +1,9 @@
+name = "aisix-archived"
+description = "An open source, Native AI Gateway and LLM proxy built in Rust"
+category = "mcp-servers"
+tags = ["ai", "ai-gateway", "infrastructure", "llm", "networking", "generative-ai", "llmops", "mcp"]
+repository = "https://github.com/api7/aisix-archived"
+website = "https://api7.ai/ai-gateway"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "mdistiller"
+description = "The official implementation of [CVPR2022] Decoupled Knowledge Distillation https://arxiv.org/abs/2203.08679 and [ICCV2023] DOT: A Distillation-Oriented Trainer https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_DOT_A_Distillation-Oriented_Trainer_ICCV_2023_paper.pdf"
+category = "vision"
+tags = ["pytorch", "knowledge-distillation", "computer-vision", "deep-learning", "cifar", "coco", "cvpr2022", "imagenet"]
+repository = "https://github.com/megvii-research/mdistiller"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

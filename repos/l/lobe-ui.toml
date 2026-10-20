@@ -1,0 +1,9 @@
+name = "lobe-ui"
+description = "Lobe UI - an open-source UI component library for building AIGC web apps"
+category = "image"
+tags = ["react", "design-system", "ui", "ui-components", "ui-kit", "lobehub", "aigc", "chatbot"]
+repository = "https://github.com/lobehub/lobe-ui"
+website = "https://ui.lobehub.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

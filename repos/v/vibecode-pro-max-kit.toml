@@ -1,0 +1,8 @@
+name = "vibecode-pro-max-kit"
+description = "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 15 agents, 33 skills working with /goal, agent-team, & workflow on autopilot loops with 0 need for human gate. Kills context…"
+category = "coding"
+tags = ["agentic", "ai-agents", "ai-coding-assistant", "ai-development", "ai-workflow", "anthropic", "claude", "claude-code"]
+repository = "https://github.com/withkynam/vibecode-pro-max-kit"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

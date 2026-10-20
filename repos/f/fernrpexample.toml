@@ -1,0 +1,9 @@
+name = "FernRPExample"
+description = "This project is the implementation of FernRP Package, Include NPR/PBR."
+category = "image"
+tags = ["shader", "ai", "stablediffusion", "stable-diffusion", "unity"]
+repository = "https://github.com/FernRP/FernRPExample"
+website = "https://github.com/DeJhon-Huang/FernNPR/wiki"
+license = "Apache-2.0"
+language = "C#"
+added = 2026-10-20

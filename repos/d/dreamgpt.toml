@@ -1,0 +1,8 @@
+name = "dreamGPT"
+description = "Leverage hallucinations from Large Language Models (LLMs) for novelty-driven explorations."
+category = "no-code"
+tags = ["agents", "artificial-intelligence", "automation", "generative-model", "ideas", "machinelearning", "ml", "llm"]
+repository = "https://github.com/DivergentAI/dreamGPT"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

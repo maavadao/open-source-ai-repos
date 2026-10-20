@@ -1,0 +1,9 @@
+name = "ruflo"
+description = "The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many…"
+category = "mcp-servers"
+tags = ["swarm", "agentic-ai", "agentic-framework", "agentic-workflow", "autonomous-agents", "codex", "mcp-server", "multi-agent"]
+repository = "https://github.com/ruvnet/ruflo"
+website = "https://Cognitum.One"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

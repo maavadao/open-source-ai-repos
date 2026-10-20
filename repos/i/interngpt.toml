@@ -1,0 +1,9 @@
+name = "InternGPT"
+description = "InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc. Try it at igpt.opengvlab.com (支持DragGAN、ChatGPT、ImageBind、SAM的在线Demo系统)"
+category = "video"
+tags = ["chatgpt", "foundation-model", "gpt", "gpt-4", "gradio", "husky", "image-captioning", "langchain"]
+repository = "https://github.com/OpenGVLab/InternGPT"
+website = "https://igpt.opengvlab.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

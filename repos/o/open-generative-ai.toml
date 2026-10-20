@@ -1,0 +1,9 @@
+name = "Open-Generative-AI"
+description = "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed."
+category = "video"
+tags = ["ai-image-generation", "ai-video-generation", "generative-ai", "muapi", "text-to-video", "creative-tools", "image-to-video", "javascript"]
+repository = "https://github.com/Anil-matcha/Open-Generative-AI"
+website = "https://muapi.ai/open-generative-ai?utm_source=github&utm_medium=about&utm_campaign=open-generative-ai"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

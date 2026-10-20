@@ -1,0 +1,8 @@
+name = "semantra-python"
+description = "Multi-tool for semantic search"
+category = "llm-apps"
+tags = ["cli", "machine-learning", "semantic-search"]
+repository = "https://github.com/freedmand/semantra-python"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

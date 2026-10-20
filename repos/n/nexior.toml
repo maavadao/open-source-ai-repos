@@ -1,0 +1,9 @@
+name = "Nexior"
+description = "Consumer AI app for chat, image generation, video generation, and music creation powered by Ace Data Cloud APIs."
+category = "speech"
+tags = ["ai-app", "capacitor", "chatbot", "image-generation", "music-generation", "video-generation", "vue3"]
+repository = "https://github.com/AceDataCloud/Nexior"
+website = "https://studio.acedata.cloud"
+license = "MIT"
+language = "Vue"
+added = 2026-10-20

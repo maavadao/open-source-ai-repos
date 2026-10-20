@@ -1,0 +1,8 @@
+name = "unlocking-the-power-of-llms"
+description = "使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！Unlocking the power of LLMs."
+category = "skills-prompts"
+tags = ["bard", "best-practices", "chatgpt", "large-language-models", "openai-chatgpt", "productivity-tools", "prompts", "prompts-cn"]
+repository = "https://github.com/howl-anderson/unlocking-the-power-of-llms"
+license = "NOASSERTION"
+language = "Shell"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "UniDepth"
+description = "Universal Monocular Metric Depth Estimation"
+category = "vision"
+tags = ["3d-reconstruction", "computer-vision", "depth-estimation"]
+repository = "https://github.com/lpiccinelli-eth/UniDepth"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

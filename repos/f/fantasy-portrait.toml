@@ -1,0 +1,9 @@
+name = "fantasy-portrait"
+description = "FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers"
+category = "video"
+tags = ["diffusion-models", "portrait-animation", "video-generation"]
+repository = "https://github.com/Fantasy-AMAP/fantasy-portrait"
+website = "https://fantasy-amap.github.io/fantasy-portrait/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

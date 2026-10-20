@@ -1,0 +1,9 @@
+name = "automem"
+description = "Long-term memory for AI assistants. Graph + vector store that recalls decisions, relationships, and context across sessions."
+category = "vector-databases"
+tags = ["ai", "ai-memory", "anthropic", "falkordb", "graph-database", "llm", "memory", "qdrant"]
+repository = "https://github.com/verygoodplugins/automem"
+website = "https://automem.ai/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

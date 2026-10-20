@@ -1,0 +1,9 @@
+name = "raptor"
+description = "The official implementation of RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval"
+category = "vector-databases"
+tags = ["rag", "retrieval", "retrieval-augmented-generation", "clustering", "language-model", "machine-learning", "vector-database", "agents"]
+repository = "https://github.com/parthsarthi03/raptor"
+website = "https://arxiv.org/abs/2401.18059"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

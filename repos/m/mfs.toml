@@ -1,0 +1,9 @@
+name = "mfs"
+description = "A context harness for AI agents: all your scattered context — code, memory, docs, databases, SaaS — in one searchable, browsable, file-like interface."
+category = "coding"
+tags = ["agent", "agent-memory", "claude-code", "codex", "embeddings", "file-search", "markdown", "memory"]
+repository = "https://github.com/zilliztech/mfs"
+website = "https://zilliztech.github.io/mfs/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

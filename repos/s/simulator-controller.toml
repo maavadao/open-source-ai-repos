@@ -1,0 +1,8 @@
+name = "Simulator-Controller"
+description = "A virtual AI-based pit crew for Sim Racing. Use the latest GPT technology to create a real life like experience when out on the track."
+category = "no-code"
+tags = ["autohotkey", "simhub", "simracing", "simulator", "macros", "artificial-intelligence", "chatbot", "chatbot-framework"]
+repository = "https://github.com/SeriousOldMan/Simulator-Controller"
+license = "NOASSERTION"
+language = "AutoHotkey"
+added = 2026-10-20

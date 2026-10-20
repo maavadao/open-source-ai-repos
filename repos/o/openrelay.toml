@@ -1,0 +1,8 @@
+name = "openrelay"
+description = "几百个免费 AI 模型配额，一键接入本地项目。| Hundreds of free AI model quotas, one-click access to local projects."
+category = "coding"
+tags = ["ai", "ai-proxy", "claude", "claude-code", "cursor", "developer-tools", "kiro", "openai"]
+repository = "https://github.com/romgX/openrelay"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

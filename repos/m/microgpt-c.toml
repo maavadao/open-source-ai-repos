@@ -1,0 +1,8 @@
+name = "microgpt-c"
+description = "The most atomic way to train and inference a GPT in pure, dependency-free C"
+category = "models"
+tags = ["artificial-intelligence", "c", "c-programming", "deep-learning", "gpt", "llm", "machine-learning", "microgpt"]
+repository = "https://github.com/vixhal-baraiya/microgpt-c"
+license = "MIT"
+language = "C"
+added = 2026-10-20

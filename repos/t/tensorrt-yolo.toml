@@ -1,0 +1,8 @@
+name = "TensorRT-YOLO"
+description = "Easier & Faster YOLO Deployment Toolkit for NVIDIA"
+category = "vision"
+tags = ["tensorrt", "tensorrt-inference", "tensorrt10", "computer-vision", "image-classification", "instance-segmentation", "object-detection", "pose-estimation"]
+repository = "https://github.com/laugh12321/TensorRT-YOLO"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-10-20

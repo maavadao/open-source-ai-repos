@@ -1,0 +1,8 @@
+name = "ChosunTruck"
+description = "Euro Truck Simulator 2 autonomous driving solution"
+category = "robotics"
+tags = ["ets2", "euro-truck-simulator", "autonomous-driving", "opencv", "tensorflow", "linux"]
+repository = "https://github.com/bethesirius/ChosunTruck"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

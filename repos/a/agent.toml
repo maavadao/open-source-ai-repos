@@ -1,0 +1,9 @@
+name = "agent"
+description = "Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running."
+category = "agents"
+tags = ["agent", "devops", "devtool", "generative-ai", "hacktoberfest", "ai-agent", "autonomous-agent", "llm-agent"]
+repository = "https://github.com/stakpak/agent"
+website = "https://stakpak.dev"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

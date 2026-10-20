@@ -1,0 +1,8 @@
+name = "curses"
+description = "Speech to Text and KB input captions for OBS, VRChat, Twitch chat and Discord"
+category = "speech"
+tags = ["captions", "speech-to-text", "tauri", "text-to-speech", "twitch", "vrchat", "windows", "obs"]
+repository = "https://github.com/mmpneo/curses"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

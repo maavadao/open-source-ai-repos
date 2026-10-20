@@ -1,0 +1,8 @@
+name = "CREStereo"
+description = "Official MegEngine implementation of CREStereo(CVPR 2022 Oral)."
+category = "vision"
+tags = ["stereo-matching", "cvpr", "dataset", "megengine", "computer-vision", "deep-learning", "stereo", "stereo-vision"]
+repository = "https://github.com/megvii-research/CREStereo"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

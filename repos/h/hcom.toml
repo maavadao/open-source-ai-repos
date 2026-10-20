@@ -1,0 +1,9 @@
+name = "hcom"
+description = "Let AI agents message, watch, and spawn each other across terminals. Claude Code, Codex, Antigravity CLI, Cursor CLI, OpenCode, Kilo, Pi, Kimi"
+category = "skills-prompts"
+tags = ["claude", "cli", "agent", "ai", "claude-code", "terminal", "ai-tools", "claude-code-hooks"]
+repository = "https://github.com/aannoo/hcom"
+website = "https://pypi.org/project/hcom/"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

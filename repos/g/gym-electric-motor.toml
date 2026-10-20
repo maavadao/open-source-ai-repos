@@ -1,0 +1,9 @@
+name = "gym-electric-motor"
+description = "Gym Electric Motor (GEM): An OpenAI Gym Environment for Electric Motors"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "openai-gym-environments", "machinelearning", "openai-gym", "openai", "gym-environment", "pmsm", "motor-models"]
+repository = "https://github.com/upb-lea/gym-electric-motor"
+website = "https://upb-lea.github.io/gym-electric-motor/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Get-Things-Done-with-Prompt-Engineering-and-LangChain"
+description = "LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and using retrieval QA chains to query the custom data. Projects for using a…"
+category = "learning"
+tags = ["chatgpt", "gpt-4", "gpt4", "prompt-engineering", "artificial-intelligence", "deep-learning", "language-models", "openai"]
+repository = "https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain"
+website = "https://mlexpert.io"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

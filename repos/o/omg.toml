@@ -1,0 +1,9 @@
+name = "OMG"
+description = "[ECCV 2024] OMG: Occlusion-friendly Personalized Multi-concept Generation In Diffusion Models"
+category = "image"
+tags = ["image-customization", "image-generation"]
+repository = "https://github.com/kongzhecn/OMG"
+website = "https://kongzhecn.github.io/omg-project/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

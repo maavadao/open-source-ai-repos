@@ -1,0 +1,8 @@
+name = "selfhost-ai"
+description = "One-command installer for a self-hosted AI stack on your own server: n8n, Ollama, Open WebUI, OpenClaw, Dify, Flowise, Supabase, ComfyUI, Qdrant & 30+ tools. Docker Compose, automatic HTTPS via Caddy, built-in monitoring. Free Zapier/Make alternative."
+category = "mcp-servers"
+tags = ["flowise", "homelab", "n8n", "ollama", "rag", "self-hosted", "zapier-alternative", "ai-agents"]
+repository = "https://github.com/kossakovsky/selfhost-ai"
+license = "Apache-2.0"
+language = "Shell"
+added = 2026-10-20

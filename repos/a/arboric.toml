@@ -1,0 +1,9 @@
+name = "arboric"
+description = "The \"Economy Mode\" for AI Compute"
+category = "llm-apps"
+tags = ["carbon-aware", "cli", "cloud-infrastructure", "finops", "green-computing", "kubernetes", "optimization", "scheduling"]
+repository = "https://github.com/aashanm/arboric"
+website = "https://arboric.xyz/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

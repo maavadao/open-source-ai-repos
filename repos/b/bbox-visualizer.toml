@@ -1,0 +1,9 @@
+name = "bbox-visualizer"
+description = "Make drawing and labeling bounding boxes a piece of cake"
+category = "vision"
+tags = ["computer-vision", "computer-vision-tools", "cv", "labeling", "data-labeling", "object-detection", "object-recognition", "bboxes"]
+repository = "https://github.com/shoumikchow/bbox-visualizer"
+website = "https://bbox-visualizer.readthedocs.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

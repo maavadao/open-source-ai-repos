@@ -1,0 +1,8 @@
+name = "SearchCLI"
+description = "Open CLI for integrating AI search, recommendation, and conversational retrieval into agent systems and business systems"
+category = "no-code"
+tags = ["agent-tools", "ai-agents", "ai-search", "ai-search-engine", "automation", "cli", "command-line-tool", "conversational-search"]
+repository = "https://github.com/volcengine/SearchCLI"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

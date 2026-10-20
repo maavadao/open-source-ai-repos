@@ -1,0 +1,8 @@
+name = "Mapperatorinator"
+description = "An AI framework for generating and modding osu! beatmaps for all gamemodes from spectrogram inputs."
+category = "image"
+tags = ["generative-ai", "osugame", "transformers", "beatmap-creator", "diffusion", "classifier", "modding"]
+repository = "https://github.com/OliBomby/Mapperatorinator"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

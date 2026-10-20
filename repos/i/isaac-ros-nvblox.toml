@@ -1,0 +1,9 @@
+name = "isaac_ros_nvblox"
+description = "NVIDIA-accelerated 3D scene reconstruction and Nav2 local costmap provider using nvblox"
+category = "robotics"
+tags = ["nvidia", "robotics", "ros", "3d-reconstruction", "ros2-humble", "gpu", "jetson"]
+repository = "https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_nvblox"
+website = "https://developer.nvidia.com/isaac-ros-gems"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

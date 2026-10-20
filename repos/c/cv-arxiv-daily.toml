@@ -1,0 +1,9 @@
+name = "cv-arxiv-daily"
+description = "Automatically Update CV Papers Daily using Github Actions"
+category = "robotics"
+tags = ["cv", "paper", "robotics", "slam", "sfm", "arxiv", "deep-learning", "paperwithcode"]
+repository = "https://github.com/Vincentqyw/cv-arxiv-daily"
+website = "https://papers.vincentqin.tech"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

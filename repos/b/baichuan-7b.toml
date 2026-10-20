@@ -1,0 +1,9 @@
+name = "Baichuan-7B"
+description = "A large-scale 7B pretraining language model developed by BaiChuan-Inc."
+category = "chat"
+tags = ["artificial-intelligence", "ceval", "large-language-models", "natural-language-processing", "mmlu", "chatgpt", "gpt-4", "huggingface"]
+repository = "https://github.com/baichuan-inc/Baichuan-7B"
+website = "https://huggingface.co/baichuan-inc/baichuan-7B"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

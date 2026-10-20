@@ -1,0 +1,8 @@
+name = "a-evolve"
+description = "The official repository of \"Position: Agentic Evolution is the Path to Evolving LLMs\"."
+category = "agents"
+tags = ["agents", "continual-learning", "llm-agents", "self-evolving", "recursive-self-improvement", "self-improving", "self-improving-ai"]
+repository = "https://github.com/A-EVO-Lab/a-evolve"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "cloudpods"
+description = "An open-source cloud-native unified-cloud platform. 开源云原生融合云平台"
+category = "other"
+tags = ["infrastructure", "kubernetes", "cloud", "aws", "azure", "gcp", "openstack", "vsphere"]
+repository = "https://github.com/yunionio/cloudpods"
+website = "https://www.cloudpods.org"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

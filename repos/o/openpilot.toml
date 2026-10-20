@@ -1,0 +1,9 @@
+name = "openpilot"
+description = "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars."
+category = "robotics"
+tags = ["driver-assistance-systems", "robotics", "advanced-driver-assistance-systems"]
+repository = "https://github.com/commaai/openpilot"
+website = "https://comma.ai/openpilot"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

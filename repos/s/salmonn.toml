@@ -1,0 +1,8 @@
+name = "SALMONN"
+description = "SALMONN family: A suite of advanced multi-modal LLMs"
+category = "speech"
+tags = ["audio", "audio-processing", "large-language-models", "multi-modal", "speech", "speech-recognition", "bytedance", "tsinghua-university"]
+repository = "https://github.com/bytedance/SALMONN"
+website = "https://bytedance.github.io/SALMONN/"
+license = "Apache-2.0"
+added = 2026-10-20

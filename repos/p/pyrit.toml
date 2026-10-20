@@ -1,0 +1,9 @@
+name = "PyRIT"
+description = "The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to empower security professionals and engineers to proactively identify risks in generative AI systems."
+category = "security"
+tags = ["ai-red-team", "generative-ai", "red-team-tools", "responsible-ai"]
+repository = "https://github.com/microsoft/PyRIT"
+website = "https://microsoft.github.io/PyRIT/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

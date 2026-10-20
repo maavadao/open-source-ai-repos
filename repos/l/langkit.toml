@@ -1,0 +1,9 @@
+name = "langkit"
+description = "LangKit: An open-source toolkit for monitoring Large Language Models (LLMs). Extracts signals from prompts & responses, ensuring safety & security. Features include text quality, relevance metrics, & sentiment analysis. A comprehensive tool for LLM observability."
+category = "security"
+tags = ["large-language-models", "machine-learning", "nlg", "nlp", "observability", "prompt-engineering", "prompt-injection"]
+repository = "https://github.com/whylabs/langkit"
+website = "https://whylabs.ai"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

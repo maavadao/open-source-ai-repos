@@ -1,0 +1,8 @@
+name = "PPO-PyTorch"
+description = "Minimal implementation of clipped objective Proximal Policy Optimization (PPO) in PyTorch"
+category = "learning"
+tags = ["pytorch-implmention", "pytorch", "pytorch-tutorial", "proximal-policy-optimization", "reinforcement-learning-algorithms", "deep-reinforcement-learning", "ppo", "policy-gradient"]
+repository = "https://github.com/nikhilbarhate99/PPO-PyTorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

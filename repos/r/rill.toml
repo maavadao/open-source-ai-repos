@@ -1,0 +1,9 @@
+name = "rill"
+description = "The fastest business intelligence tool for humans and agents."
+category = "data-science"
+tags = ["duckdb", "sveltekit", "dataviz", "csv", "parquet", "parquet-tools", "golang", "s3"]
+repository = "https://github.com/rilldata/rill"
+website = "https://www.rilldata.com"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

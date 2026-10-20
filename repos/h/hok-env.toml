@@ -1,0 +1,9 @@
+name = "hok_env"
+description = "Honor of Kings AI Open Environment of Tencent"
+category = "ml-platforms"
+tags = ["reinforcement-learning"]
+repository = "https://github.com/tencent-ailab/hok_env"
+website = "https://aiarena.tencent.com/aiarena/en/open-gamecore"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

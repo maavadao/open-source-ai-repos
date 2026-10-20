@@ -1,0 +1,9 @@
+name = "dust"
+description = "Custom AI agent platform to speed up your work."
+category = "agents"
+tags = ["large-language-models", "rust", "agents", "llm"]
+repository = "https://github.com/dust-tt/dust"
+website = "https://dust.tt"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

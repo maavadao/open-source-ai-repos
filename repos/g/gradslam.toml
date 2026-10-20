@@ -1,0 +1,9 @@
+name = "gradslam"
+description = "gradslam is an open source differentiable dense SLAM library for PyTorch"
+category = "robotics"
+tags = ["slam", "deep-learning", "machine-learning", "robotics", "3d-reconstruction"]
+repository = "https://github.com/gradslam/gradslam"
+website = "https://gradslam.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

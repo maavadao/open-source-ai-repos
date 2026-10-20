@@ -1,0 +1,9 @@
+name = "agent-vault"
+description = "A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more."
+category = "agents"
+tags = ["agents", "ai-agents", "secrets-management"]
+repository = "https://github.com/Infisical/agent-vault"
+website = "https://docs.agent-vault.dev"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

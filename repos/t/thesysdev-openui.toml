@@ -1,0 +1,9 @@
+name = "openui"
+description = "The Open Standard for Generative UI"
+category = "agents"
+tags = ["agents", "generative-ui", "ai", "agent", "javascript", "llm", "ag-ui", "langchain"]
+repository = "https://github.com/thesysdev/openui"
+website = "https://www.openui.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

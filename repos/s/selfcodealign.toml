@@ -1,0 +1,9 @@
+name = "selfcodealign"
+description = "[NeurIPS'24] SelfCodeAlign: Self-Alignment for Code Generation"
+category = "models"
+tags = ["large-language-models", "llm", "llm4code"]
+repository = "https://github.com/bigcode-project/selfcodealign"
+website = "https://arxiv.org/abs/2410.24198"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

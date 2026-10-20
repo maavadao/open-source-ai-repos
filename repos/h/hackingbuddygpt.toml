@@ -1,0 +1,9 @@
+name = "hackingBuddyGPT"
+description = "Helping Ethical Hackers use LLMs in 50 Lines of Code or less.."
+category = "models"
+tags = ["large-language-models", "llm", "penetration-testing", "pentesting"]
+repository = "https://github.com/ipa-lab/hackingBuddyGPT"
+website = "https://hackingbuddy.ai/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

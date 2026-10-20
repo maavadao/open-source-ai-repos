@@ -1,0 +1,8 @@
+name = "Data-Science-Roadmap"
+description = "Data Science Roadmap from A to Z"
+category = "learning"
+tags = ["data-analysis", "data-engineering", "data-science", "data-visualization", "deep-learning", "machine-learning", "mathematics", "probability"]
+repository = "https://github.com/Moataz-Elmesmary/Data-Science-Roadmap"
+website = "https://www.linkedin.com/posts/moatazelmesmary_github-moataz-elmesmarydata-science-roadmap-activity-6974293994960769024-yCdi?utm_source=share&utm_medium=member_desktop"
+license = "MIT"
+added = 2026-10-20

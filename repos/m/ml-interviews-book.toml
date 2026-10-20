@@ -1,0 +1,9 @@
+name = "ml-interviews-book"
+description = "https://huyenchip.com/ml-interviews-book/"
+category = "learning"
+repository = "https://github.com/chiphuyen/ml-interviews-book"
+website = "https://huyenchip.com/ml-interviews-book/"
+license = "NOASSERTION"
+language = "HTML"
+skill_level = "intermediate"
+added = 2026-10-20

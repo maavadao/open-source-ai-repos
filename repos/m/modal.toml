@@ -1,0 +1,9 @@
+name = "modAL"
+description = "A modular active learning framework for Python"
+category = "data-science"
+tags = ["scikit-learn", "machine-learning", "python", "active-learning", "machine-learning-library", "machine-learning-algorithms", "machine-learning-api", "active-learning-module"]
+repository = "https://github.com/modAL-python/modAL"
+website = "https://modAL-python.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

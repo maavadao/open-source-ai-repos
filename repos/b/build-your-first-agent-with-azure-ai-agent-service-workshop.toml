@@ -1,0 +1,9 @@
+name = "build-your-first-agent-with-azure-ai-agent-service-workshop"
+description = "Build your first agent with Azure AI Agent Service Workshop"
+category = "agents"
+tags = ["agents", "azure", "azure-ai-agent-service"]
+repository = "https://github.com/microsoft/build-your-first-agent-with-azure-ai-agent-service-workshop"
+website = "https://aka.ms/aitour/wrk552"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

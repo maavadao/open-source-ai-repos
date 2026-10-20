@@ -1,0 +1,8 @@
+name = "comfyui_segment_anything"
+description = "Based on GroundingDino and SAM, use semantic strings to segment any element in an image. The comfyui version of sd-webui-segment-anything."
+category = "image"
+tags = ["comfyui", "groundingdino", "sam", "segment-anything", "custom-nodes", "stable-diffusion"]
+repository = "https://github.com/storyicon/comfyui_segment_anything"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "HumanTOMATO"
+description = "[ICML 2024] HumanTOMATO: Text-aligned Whole-body Motion Generation"
+category = "models"
+tags = ["generation", "gpt", "motion", "motion-generation", "smplx", "whole-body", "whole-body-motion"]
+repository = "https://github.com/IDEA-Research/HumanTOMATO"
+website = "https://lhchen.top/HumanTOMATO"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

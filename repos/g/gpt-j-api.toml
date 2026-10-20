@@ -1,0 +1,9 @@
+name = "gpt-j-api"
+description = "API for the GPT-J language model . Including a FastAPI backend and a streamlit frontend"
+category = "models"
+tags = ["gpt-3", "gpt", "gpt-j", "fastapi", "language-model", "api", "text-generation", "zero-shot"]
+repository = "https://github.com/vicgalle/gpt-j-api"
+website = "http://api.vicgalle.net:8000/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

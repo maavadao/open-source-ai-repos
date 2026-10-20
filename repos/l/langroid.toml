@@ -1,0 +1,9 @@
+name = "langroid"
+description = "Harness LLMs with Multi-Agent Programming"
+category = "local-llms"
+tags = ["agents", "chatgpt", "gpt", "gpt-4", "gpt4", "language-model", "llm", "llm-agent"]
+repository = "https://github.com/langroid/langroid"
+website = "https://langroid.github.io/langroid/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

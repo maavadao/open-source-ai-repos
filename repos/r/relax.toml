@@ -1,0 +1,9 @@
+name = "Relax"
+description = "An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Scale"
+category = "agents"
+tags = ["agentic-rl", "distributed-training", "grpo", "multi-agent", "multimodal", "post-training", "ray-serve", "reinforcement-learning"]
+repository = "https://github.com/redai-studio/Relax"
+website = "https://redai-studio.github.io/Relax"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

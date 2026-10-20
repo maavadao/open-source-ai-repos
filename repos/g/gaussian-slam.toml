@@ -1,0 +1,9 @@
+name = "Gaussian-SLAM"
+description = "Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting"
+category = "robotics"
+tags = ["slam", "3d-reconstruction", "computer-vision", "gaussian-splatting", "robotics"]
+repository = "https://github.com/VladimirYugay/Gaussian-SLAM"
+website = "https://vladimiryugay.github.io/gaussian_slam"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

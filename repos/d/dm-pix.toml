@@ -1,0 +1,9 @@
+name = "dm_pix"
+description = "PIX is an image processing library in JAX, for JAX."
+category = "vision"
+tags = ["jax", "image", "image-processing", "machine-learning", "computer-vision", "python"]
+repository = "https://github.com/google-deepmind/dm_pix"
+website = "https://dm-pix.readthedocs.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

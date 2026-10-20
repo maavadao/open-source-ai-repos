@@ -1,0 +1,8 @@
+name = "ultralytics_ros"
+description = "ROS/ROS 2 package for Ultralytics YOLOv8 real-time object detection and segmentation. https://github.com/ultralytics/ultralytics"
+category = "robotics"
+tags = ["object-detection", "ros", "ultralytics", "yolo", "yolov3", "yolov5", "yolov8", "ros2"]
+repository = "https://github.com/Alpaca-zip/ultralytics_ros"
+license = "AGPL-3.0"
+language = "C++"
+added = 2026-10-20

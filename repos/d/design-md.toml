@@ -1,0 +1,8 @@
+name = "design.md"
+description = "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system."
+category = "coding"
+repository = "https://github.com/google-labs-code/design.md"
+website = "https://stitch.withgoogle.com/docs/design-md/specification"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

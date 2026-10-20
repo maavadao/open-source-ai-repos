@@ -1,0 +1,8 @@
+name = "ArXivChatGuru"
+description = "Use ArXiv ChatGuru to talk to research papers. This app uses LangChain, OpenAI, Streamlit, and Redis as a vector database/semantic cache."
+category = "vector-databases"
+tags = ["ai", "machine-learning", "openai", "python", "question-answering", "redis", "vector-search", "langchain"]
+repository = "https://github.com/redis-developer/ArXivChatGuru"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

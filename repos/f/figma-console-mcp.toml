@@ -1,0 +1,9 @@
+name = "figma-console-mcp"
+description = "Your design system as an API. Connect AI to Figma for extraction, creation, and debugging."
+category = "mcp-servers"
+tags = ["ai", "design-systems", "figma", "figma-api", "figma-plugins", "mcp"]
+repository = "https://github.com/southleft/figma-console-mcp"
+website = "https://southleft.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

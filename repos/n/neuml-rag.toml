@@ -1,0 +1,8 @@
+name = "rag"
+description = "Retrieval Augmented Generation (RAG) with txtai. Combine search and LLMs to find insights with your own data."
+category = "llm-apps"
+tags = ["large-language-models", "llm", "machine-learning", "nlp", "python", "rag", "retrieval-augmented-generation", "search"]
+repository = "https://github.com/neuml/rag"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

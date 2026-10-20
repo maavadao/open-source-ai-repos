@@ -1,0 +1,9 @@
+name = "omnibase"
+description = "Self-hosted AI workbench for knowledge, RAG, model providers, and safely governed user-built agents. Public Preview; production Agent Runtime remains gated. 自托管 AI 知识工作台与安全 Agent 平台。"
+category = "agents"
+tags = ["ai-agents", "fastapi", "llm", "multi-tenant", "nextjs", "pgvector", "rag", "self-hosted"]
+repository = "https://github.com/lss100200/omnibase"
+website = "https://omnibase.chat/public-preview"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

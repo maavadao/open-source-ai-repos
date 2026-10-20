@@ -1,0 +1,10 @@
+name = "krita-ai-diffusion"
+description = "Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required."
+category = "image"
+tags = ["generative-ai", "krita-plugin", "stable-diffusion"]
+repository = "https://github.com/Acly/krita-ai-diffusion"
+website = "https://www.interstice.cloud"
+license = "GPL-3.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

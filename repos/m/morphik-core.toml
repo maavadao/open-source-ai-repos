@@ -1,0 +1,9 @@
+name = "morphik-core"
+description = "Open-source multimodal retrieval engine (Morphik Core)"
+category = "llm-apps"
+tags = ["artificial-intelligence", "cache-augmented-generation", "colpali", "database", "multimodal", "rag", "rules-based-ingestion", "litellm"]
+repository = "https://github.com/morphik-org/morphik-core"
+website = "https://morphik.ai/docs"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

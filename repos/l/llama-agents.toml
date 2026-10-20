@@ -1,0 +1,9 @@
+name = "llama-agents"
+description = "Llama Agents + Workflows are an event-driven, async-first, step-based way to control the execution flow of AI applications like agents."
+category = "agents"
+tags = ["agentic-ai", "agentic-framework", "agentic-rag", "agentic-workflow", "agents", "ai", "event-driven", "orchestration"]
+repository = "https://github.com/run-llama/llama-agents"
+website = "https://www.llamaindex.ai/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

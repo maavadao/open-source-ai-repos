@@ -1,0 +1,8 @@
+name = "kaldi-gstreamer-server"
+description = "Real-time full-duplex speech recognition server, based on the Kaldi toolkit and the GStreamer framwork."
+category = "speech"
+tags = ["speech-recognition"]
+repository = "https://github.com/alumae/kaldi-gstreamer-server"
+license = "BSD-2-Clause"
+language = "Python"
+added = 2026-10-20

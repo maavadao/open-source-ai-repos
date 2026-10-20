@@ -1,0 +1,9 @@
+name = "agent-router"
+description = "Manages Unified Access to Generative AI Services built on Envoy Gateway"
+category = "local-llms"
+tags = ["ai", "ai-gateway", "api-gateway", "kubernetes", "llm", "inference", "envoy", "envoyproxy"]
+repository = "https://github.com/theagentrouter/agent-router"
+website = "https://theagentrouter.ai/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

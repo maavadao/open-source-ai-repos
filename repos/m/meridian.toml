@@ -1,0 +1,9 @@
+name = "meridian"
+description = "Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview available in 1.74.0."
+category = "mcp-servers"
+tags = ["ai-coding", "anthropic", "bun", "claude", "claude-agent-sdk", "claude-max", "llm", "opencode"]
+repository = "https://github.com/rynfar/meridian"
+website = "https://www.npmjs.com/package/@rynfar/meridian"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "torchdyn"
+description = "A PyTorch library entirely dedicated to neural differential equations, implicit models and related numerical methods"
+category = "ml-platforms"
+tags = ["deep-learning", "neural-network", "neural-differential-equations", "pytorch", "dynamical-systems", "deep-equilibrium-models", "implicit-models", "control-theory"]
+repository = "https://github.com/DiffEqML/torchdyn"
+website = "https://torchdyn.org"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

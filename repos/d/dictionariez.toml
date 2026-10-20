@@ -1,0 +1,9 @@
+name = "dictionariez"
+description = "A customizable dictionary extension that supports double-click lookups in 20+ languages, 1000+ dictionaries, text-to-speech, translation and Anki integration."
+category = "speech"
+tags = ["dictionaries", "learn-languages", "firefox-addon", "chrome-extension", "vocabulary-builder", "anki", "learn-a-new-language", "browser-extension"]
+repository = "https://github.com/pnlpal/dictionariez"
+website = "https://dictionariez.pnl.dev"
+license = "GPL-2.0"
+language = "JavaScript"
+added = 2026-10-20

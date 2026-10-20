@@ -1,0 +1,7 @@
+name = "Awesome-diffusion-model-for-image-processing"
+description = "one summary of diffusion-based image processing, including restoration, enhancement, coding, quality assessment"
+category = "learning"
+tags = ["diffusion-models", "image-processing"]
+repository = "https://github.com/lixinustc/Awesome-diffusion-model-for-image-processing"
+license = "Apache-2.0"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "sd-webui-lobe-theme"
+description = "Lobe theme - The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features."
+category = "image"
+tags = ["stable-diffusion-webui", "stable-diffusion-webui-plugin", "lobehub", "theme", "stable-diffusion", "extension", "react", "typescript"]
+repository = "https://github.com/lobehub/sd-webui-lobe-theme"
+website = "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

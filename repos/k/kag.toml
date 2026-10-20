@@ -1,0 +1,9 @@
+name = "KAG"
+description = "KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector…"
+category = "llm-apps"
+tags = ["knowledge-graph", "large-language-model", "logical-reasoning", "multi-hop-question-answering", "trustfulness"]
+repository = "https://github.com/OpenSPG/KAG"
+website = "https://spg.openkg.cn/en-US"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

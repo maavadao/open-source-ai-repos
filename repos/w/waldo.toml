@@ -1,0 +1,9 @@
+name = "waldo"
+description = "Waldo Vision | Cheat detection"
+category = "vision"
+tags = ["cheat-detection", "gaming", "machine-learning", "artificial-intelligence", "computer-vision", "deep-learning"]
+repository = "https://github.com/Mr-Homeless/waldo"
+website = "https://waldo.vision/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

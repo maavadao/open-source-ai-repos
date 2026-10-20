@@ -1,0 +1,9 @@
+name = "CPA-Manager-Plus"
+description = "A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account health."
+category = "coding"
+tags = ["ai-gateway", "claude-code", "codex", "cost-analysis", "gateway-monitoring", "observability", "openai", "openai-compatible"]
+repository = "https://github.com/seakee/CPA-Manager-Plus"
+website = "https://seakee.github.io/CPA-Manager-Plus/"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

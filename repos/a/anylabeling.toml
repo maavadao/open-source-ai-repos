@@ -1,0 +1,9 @@
+name = "anylabeling"
+description = "Effortless AI-assisted data labeling with AI support from YOLO, Segment Anything (SAM+SAM2/2.1+SAM3), MobileSAM!!"
+category = "vision"
+tags = ["labeling", "labeling-tool", "segment-anything", "yolov8", "auto-labeling", "computer-vision", "onnx", "mobilesam"]
+repository = "https://github.com/vietanhdev/anylabeling"
+website = "https://anylabeling.nrl.ai"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

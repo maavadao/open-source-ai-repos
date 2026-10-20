@@ -1,0 +1,9 @@
+name = "agentic-flow"
+description = "Easily switch between alternative low-cost AI models in Claude Code/Agent SDK. For those comfortable using Claude agents and commands, it lets you take what you've created and deploy fully hosted agents for real business purposes. Use Claude Code to get the agent working…"
+category = "coding"
+tags = ["agents", "claude", "claude-agent-sdk", "claude-code", "gemini", "openrouter", "swarm-intelligence"]
+repository = "https://github.com/ruvnet/agentic-flow"
+website = "https://ruv.io"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

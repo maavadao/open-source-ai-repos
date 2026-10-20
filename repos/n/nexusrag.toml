@@ -1,0 +1,8 @@
+name = "NexusRAG"
+description = "Hybrid RAG system combining vector search, knowledge graph (LightRAG), and cross-encoder reranking — with Docling document parsing, visual intelligence (image/table captioning), agentic streaming chat, and inline citations. Powered by Gemini or local Ollama models."
+category = "vector-databases"
+tags = ["chromadb", "citation", "docling", "document-parsing", "fastapi", "gemini", "knowledge-base", "knowledge-graph"]
+repository = "https://github.com/LeDat98/NexusRAG"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

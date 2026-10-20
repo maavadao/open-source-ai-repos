@@ -1,0 +1,9 @@
+name = "LifeOS"
+description = "LifeOS — The universal AI Harness designed to move you from Current to Ideal state in both life and work."
+category = "other"
+tags = ["ai", "augmentation", "productivity", "humans", "ai-harness", "intent-engineering", "personal-ai", "coding"]
+repository = "https://github.com/danielmiessler/LifeOS"
+website = "https://ourlifeos.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

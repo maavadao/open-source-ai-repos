@@ -1,0 +1,9 @@
+name = "ViDAR"
+description = "[CVPR 2024 Highlight] Visual Point Cloud Forecasting"
+category = "robotics"
+tags = ["autonomous-driving", "point-cloud-forecasting", "pre-training", "world-model"]
+repository = "https://github.com/OpenDriveLab/ViDAR"
+website = "https://arxiv.org/abs/2312.17655"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

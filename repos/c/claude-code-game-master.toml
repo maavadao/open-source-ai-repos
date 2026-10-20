@@ -1,0 +1,8 @@
+name = "Claude-Code-Game-Master"
+description = "Total conversion for Claude Code. Use RAG and the RPG ruleset apis to play a persistent adventure in any book or world of your choosing."
+category = "learning"
+tags = ["claude", "rag", "rpg", "story"]
+repository = "https://github.com/Sstobo/Claude-Code-Game-Master"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

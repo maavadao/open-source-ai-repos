@@ -1,0 +1,8 @@
+name = "Person-Attribute-Recognition-MarketDuke"
+description = "A simple baseline implemented in PyTorch for pedestrian attribute recognition task, evaluating on Market-1501 and DukeMTMC-reID dataset."
+category = "vision"
+tags = ["pytorch", "attribute-recognition", "cnn", "computer-vision"]
+repository = "https://github.com/Yukun-Huang/Person-Attribute-Recognition-MarketDuke"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

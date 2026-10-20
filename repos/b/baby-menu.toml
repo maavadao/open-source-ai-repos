@@ -1,0 +1,8 @@
+name = "baby-menu"
+description = "A menu bar app that can become anything you ask it to be."
+category = "agents"
+tags = ["agents", "agi", "ai"]
+repository = "https://github.com/kunchenguid/baby-menu"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "mmgeneration"
+description = "MMGeneration is a powerful toolkit for generative models, based on PyTorch and MMCV."
+category = "image"
+tags = ["generative", "gan", "pytorch", "mmcv", "openmmlab", "generative-adversarial-network", "diffusion-models"]
+repository = "https://github.com/open-mmlab/mmgeneration"
+website = "https://mmgeneration.readthedocs.io/en/latest/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

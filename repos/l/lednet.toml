@@ -1,0 +1,8 @@
+name = "LEDNet"
+description = "LEDNet: A Lightweight Encoder-Decoder Network for Real-time Semantic Segmentation"
+category = "vision"
+tags = ["pytorch", "semantic-segmentation", "cityscape-dataset", "lednet", "real-time", "computer-vision"]
+repository = "https://github.com/xiaoyufenfei/LEDNet"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

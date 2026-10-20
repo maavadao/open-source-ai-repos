@@ -1,0 +1,9 @@
+name = "evaluate"
+description = "Evaluate: A library for easily evaluating machine learning models and datasets."
+category = "ml-platforms"
+tags = ["evaluation", "machine-learning"]
+repository = "https://github.com/huggingface/evaluate"
+website = "https://huggingface.co/docs/evaluate"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

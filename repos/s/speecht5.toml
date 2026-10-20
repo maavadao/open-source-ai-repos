@@ -1,0 +1,8 @@
+name = "SpeechT5"
+description = "Unified-Modal Speech-Text Pre-Training for Spoken Language Processing"
+category = "speech"
+tags = ["speech-pretraining", "speech2c", "speecht5", "speechlm", "speechut", "speech-recognition", "speech-synthesis", "speech-translation"]
+repository = "https://github.com/microsoft/SpeechT5"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "53AIHub"
+description = "53AI Hub is an open-source AI portal and knowledge base for managing enterprise knowledge, AI agents, prompts, and AI tools, seamlessly integrating with Coze, Dify, FastGPT, RAGFlow. 一个AI知识库与Agent门户"
+category = "mcp-servers"
+tags = ["coze", "dify", "fastgpt", "go", "mcp", "openai", "prompt", "ragflow"]
+repository = "https://github.com/53AI/53AIHub"
+website = "https://hub.53ai.com"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

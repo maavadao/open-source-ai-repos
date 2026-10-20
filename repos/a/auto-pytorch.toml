@@ -1,0 +1,8 @@
+name = "Auto-PyTorch"
+description = "Automatic architecture search and hyperparameter optimization for PyTorch"
+category = "ml-platforms"
+tags = ["automl", "deep-learning", "tabular-data", "pytorch"]
+repository = "https://github.com/automl/Auto-PyTorch"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

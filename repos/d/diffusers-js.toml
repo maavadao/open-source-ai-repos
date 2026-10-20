@@ -1,0 +1,9 @@
+name = "diffusers.js"
+description = "diffusers implementation for node.js and browser"
+category = "image"
+tags = ["diffusers", "stable-diffusion", "webgpu"]
+repository = "https://github.com/dakenf/diffusers.js"
+website = "https://islamov.ai/diffusers.js/"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

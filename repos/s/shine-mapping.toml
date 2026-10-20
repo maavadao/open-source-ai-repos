@@ -1,0 +1,8 @@
+name = "SHINE_mapping"
+description = "SHINE-Mapping: Large-Scale 3D Mapping Using Sparse Hierarchical Implicit Neural Representations (ICRA 2023)"
+category = "robotics"
+tags = ["3d-mapping", "implicit-neural-representation", "robotics"]
+repository = "https://github.com/PRBonn/SHINE_mapping"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

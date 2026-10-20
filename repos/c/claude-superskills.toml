@@ -1,0 +1,8 @@
+name = "claude-superskills"
+description = "18 Universal AI Skills for Claude Code, GitHub Copilot & 6 more platforms. Meta/orchestration, planning, research, and content — the focused core of the Superskills family."
+category = "coding"
+tags = ["agents", "ai-skills", "anthropic", "ats-optimization", "automation", "career-development", "claude-code", "cli"]
+repository = "https://github.com/ericgandrade/claude-superskills"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

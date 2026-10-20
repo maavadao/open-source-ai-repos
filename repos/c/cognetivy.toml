@@ -1,0 +1,9 @@
+name = "cognetivy"
+description = "The open-source state layer for AI coding agents. Turn chaotic agent sessions into structured, traceable workflows with a local workspace for runs, events, and collections."
+category = "agents"
+tags = ["agents", "ai", "workflows"]
+repository = "https://github.com/meitarbe/cognetivy"
+website = "https://cognetivy.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

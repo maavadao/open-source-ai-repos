@@ -1,0 +1,9 @@
+name = "TriviumDB"
+description = "A lightweight embedded database engine that natively fuses vector search, graph, and document-oriented metadata within a single storage kernel — ready to use the moment data is written."
+category = "vector-databases"
+tags = ["database", "db", "serverless", "rust", "nosql", "node", "pyo3", "agent"]
+repository = "https://github.com/YoKONCy/TriviumDB"
+website = "https://triviumdb.com"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

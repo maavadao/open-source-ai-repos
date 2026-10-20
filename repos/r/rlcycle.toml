@@ -1,0 +1,8 @@
+name = "RLcycle"
+description = "A library for ready-made reinforcement learning agents and reusable components for neat prototyping"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "pytorch", "a2c", "ddpg", "hydra", "a3c", "dqn", "quantile-regression"]
+repository = "https://github.com/cyoon1729/RLcycle"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

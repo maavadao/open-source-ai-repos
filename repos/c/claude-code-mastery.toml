@@ -1,0 +1,8 @@
+name = "claude-code-mastery"
+description = "The complete guide to Claude Code: CLAUDE.md, hooks, skills, MCP servers, and commands"
+category = "mcp-servers"
+tags = ["ai-agents", "anthropic", "claude", "claude-code", "claude-md", "coding-assistant", "developer-tools", "llm"]
+repository = "https://github.com/TheDecipherist/claude-code-mastery"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

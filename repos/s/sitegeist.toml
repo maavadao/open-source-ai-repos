@@ -1,0 +1,9 @@
+name = "sitegeist"
+description = "A visual benchmark testing whether leading coding agents repeat the same design patterns across 100 neutral website briefs."
+category = "coding"
+tags = ["ai-benchmark", "coding-agents", "generative-ai", "sveltekit", "web-design"]
+repository = "https://github.com/cowboycodr/sitegeist"
+website = "https://sitegeist.kian.im"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

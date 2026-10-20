@@ -1,0 +1,9 @@
+name = "Codewhale"
+description = "Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts."
+category = "mcp-servers"
+tags = ["cli", "rust", "tui", "ai-agent", "coding-agent", "agent-orchestration", "local-first", "mcp"]
+repository = "https://github.com/codewhale-hq/Codewhale"
+website = "https://codewhale.net/"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

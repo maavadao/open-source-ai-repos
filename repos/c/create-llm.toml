@@ -1,0 +1,9 @@
+name = "create-llm"
+description = "The fastest way to build and start training your own LLM. CLI tool that scaffolds production-ready PyTorch training projects in seconds. Like create-next-app but for language models."
+category = "models"
+tags = ["ai", "cli", "deep-learning", "gpt", "language-model", "llm", "machine-learning", "nlp"]
+repository = "https://github.com/theaniketgiri/create-llm"
+website = "https://www.npmjs.com/package/create-llm"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

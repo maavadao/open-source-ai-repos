@@ -1,0 +1,9 @@
+name = "FunClip"
+description = "FunASR-powered video transcription, subtitle generation, and LLM-assisted clipping tool with a local Gradio UI."
+category = "speech"
+tags = ["speech-recognition", "video-subtitles", "subtitles-generator", "speech-to-text", "gradio", "llm", "ai-tools", "ai-video-editing"]
+repository = "https://github.com/modelscope/FunClip"
+website = "https://huggingface.co/spaces/FunAudioLLM/FunClip"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

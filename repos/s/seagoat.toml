@@ -1,0 +1,9 @@
+name = "SeaGOAT"
+description = "local-first semantic code search engine"
+category = "vector-databases"
+tags = ["ai", "code-search", "code-search-engine", "embeddings", "grep", "grep-like", "llm", "regular-expression"]
+repository = "https://github.com/kantord/SeaGOAT"
+website = "https://kantord.github.io/SeaGOAT/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

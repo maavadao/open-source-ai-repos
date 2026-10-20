@@ -1,0 +1,9 @@
+name = "databend"
+description = "Data Agent Ready Warehouse : One for Analytics, Search, AI, Python Sandbox. — rebuilt from scratch. Unified architecture on your S3."
+category = "learning"
+tags = ["rust", "database", "serverless", "bigdata", "snowflake", "ai", "lakehouse", "olap"]
+repository = "https://github.com/databendlabs/databend"
+website = "https://docs.databend.com"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

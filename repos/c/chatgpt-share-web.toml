@@ -1,0 +1,8 @@
+name = "chatgpt-share-web"
+description = "chatgpt、claude、midjourney，grok和gemini官网完整还原，以及Claude Code和Codex完整镜像，包含其官网的全部功能。具有完善的用户体系和流量变现体系。"
+category = "coding"
+tags = ["chatgpt", "openai", "sora", "claude", "midjourney", "deepseek", "newapi", "grok"]
+repository = "https://github.com/jurieo/chatgpt-share-web"
+website = "https://aiok.me"
+license = "NOASSERTION"
+added = 2026-10-20

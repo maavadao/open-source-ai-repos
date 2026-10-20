@@ -1,0 +1,8 @@
+name = "practicalAI-cn"
+description = "AI实战-practicalAI 中文版"
+category = "ml-platforms"
+tags = ["machine-learning", "jupyter-notebook", "pytorch", "google-colab-notebook", "deep-learning"]
+repository = "https://github.com/MLEveryday/practicalAI-cn"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "studio"
+description = "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar"
+category = "mcp-servers"
+tags = ["agents", "ai", "deco", "llm", "mcp", "mcp-client", "mcp-server", "n8n"]
+repository = "https://github.com/decocms/studio"
+website = "https://decocms.com/studio"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

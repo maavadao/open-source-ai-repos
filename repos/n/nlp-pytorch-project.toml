@@ -1,0 +1,8 @@
+name = "NLP_pytorch_project"
+description = "Embedding, NMT, Text_Classification, Text_Generation, NER etc."
+category = "chat"
+tags = ["nlp-pytorch", "text-classification", "nmt", "seq2seq", "chatbot", "text-generation", "mrc", "embedding"]
+repository = "https://github.com/shawroad/NLP_pytorch_project"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

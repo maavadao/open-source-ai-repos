@@ -1,0 +1,9 @@
+name = "Upsonic"
+description = "Build autonomous AI agents in Python."
+category = "mcp-servers"
+tags = ["openai", "computer-use", "claude", "mcp", "agent-framework", "agent", "llms", "reliability"]
+repository = "https://github.com/Upsonic/Upsonic"
+website = "https://docs.upsonic.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

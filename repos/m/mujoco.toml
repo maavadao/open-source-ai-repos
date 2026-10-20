@@ -1,0 +1,10 @@
+name = "mujoco"
+description = "Multi-Joint dynamics with Contact. A general purpose physics simulator."
+category = "robotics"
+tags = ["robotics", "physics", "mujoco"]
+repository = "https://github.com/google-deepmind/mujoco"
+website = "https://mujoco.org"
+license = "Apache-2.0"
+language = "C++"
+skill_level = "intermediate"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "gym-anytrading"
+description = "The most simple, flexible, and comprehensive OpenAI Gym trading environment (Approved by OpenAI Gym)"
+category = "ml-platforms"
+tags = ["openai-gym", "reinforcement-learning", "q-learning", "dqn", "trading", "trading-environments", "forex", "stocks"]
+repository = "https://github.com/AminHP/gym-anytrading"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

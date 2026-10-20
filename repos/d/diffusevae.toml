@@ -1,0 +1,8 @@
+name = "DiffuseVAE"
+description = "Official implementation of \"DiffuseVAE: Efficient, Controllable and High-Fidelity Generation from Low-Dimensional Latents\""
+category = "image"
+tags = ["generative-model", "vae", "diffusion-models", "ddpm", "controllable-generation", "latent-variable-models"]
+repository = "https://github.com/kpandey008/DiffuseVAE"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

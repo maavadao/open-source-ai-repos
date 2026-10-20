@@ -1,0 +1,9 @@
+name = "llamaduo"
+description = "[ACL'25] Official Code for LlamaDuo: LLMOps Pipeline for Seamless Migration from Service LLMs to Small-Scale Local LLMs"
+category = "models"
+tags = ["large-language-models", "machine-learning"]
+repository = "https://github.com/deep-diver/llamaduo"
+website = "https://huggingface.co/papers/2408.13467"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "soft-moe-pytorch"
+description = "Implementation of Soft MoE, proposed by Brain's Vision team, in Pytorch"
+category = "models"
+tags = ["artificial-intelligence", "deep-learning", "mixture-of-experts", "transformers"]
+repository = "https://github.com/lucidrains/soft-moe-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

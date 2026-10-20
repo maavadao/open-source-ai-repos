@@ -1,0 +1,9 @@
+name = "DRL-urban-planning"
+description = "A deep reinforcement learning (DRL) based approach for spatial layout of land use and roads in urban communities. (Nature Computational Science)"
+category = "ml-platforms"
+tags = ["graph-neural-networks", "reinforcement-learning", "spatial-planning", "urban-planning"]
+repository = "https://github.com/tsinghua-fib-lab/DRL-urban-planning"
+website = "https://rdcu.be/dlRPZ"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

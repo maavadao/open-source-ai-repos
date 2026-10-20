@@ -1,0 +1,9 @@
+name = "sandboxd"
+description = "Open-source, self-hosted AI app builder — an agent builds real apps in isolated sandboxes on your own server, each live at a preview URL. Self-host in one command. MIT."
+category = "agents"
+tags = ["docker", "sandbox", "self-hosted", "ai", "developer-tools", "agent-infrastructure", "ai-agents", "app-builder"]
+repository = "https://github.com/tastyeffectco/sandboxd"
+website = "https://sandboxd.io/"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

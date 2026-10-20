@@ -1,0 +1,8 @@
+name = "FLAME_PyTorch"
+description = "This is a implementation of the 3D FLAME model in PyTorch"
+category = "vision"
+tags = ["3d-models", "morphable-model", "face-model", "computer-vision", "computer-graphics", "python3", "pytorch", "flame"]
+repository = "https://github.com/soubhiksanyal/FLAME_PyTorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

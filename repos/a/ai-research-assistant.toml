@@ -1,0 +1,8 @@
+name = "ai-research-assistant"
+description = "Aria is Your AI Research Assistant Powered by GPT Large Language Models"
+category = "chat"
+tags = ["ai-assistant", "research-paper", "zotero", "gpt", "large-language-models"]
+repository = "https://github.com/lifan0127/ai-research-assistant"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-10-20

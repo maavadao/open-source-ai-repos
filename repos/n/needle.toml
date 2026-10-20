@@ -1,0 +1,9 @@
+name = "needle"
+description = "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, ASR, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers."
+category = "local-llms"
+tags = ["cactus", "llm", "on-device-ai", "edge-ai", "foundation-model", "function-calling", "tinyml", "tool-calling"]
+repository = "https://github.com/cactus-compute/needle"
+website = "https://cactuscompute.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

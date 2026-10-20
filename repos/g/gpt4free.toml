@@ -1,0 +1,9 @@
+name = "gpt4free"
+description = "The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3"
+category = "chat"
+tags = ["chatgpt", "chatgpt-4", "chatgpt4", "gpt", "gpt-4", "gpt4", "gpt4-api", "openai"]
+repository = "https://github.com/xtekky/gpt4free"
+website = "https://t.me/g4f_channel"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

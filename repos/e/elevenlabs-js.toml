@@ -1,0 +1,9 @@
+name = "elevenlabs-js"
+description = "The official JavaScript (Node) library for the ElevenLabs API."
+category = "speech"
+tags = ["artificial-intelligence", "conversational-ai", "text-to-speech", "javascript", "node", "typescript"]
+repository = "https://github.com/elevenlabs/elevenlabs-js"
+website = "https://elevenlabs.io"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

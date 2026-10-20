@@ -1,0 +1,9 @@
+name = "jeelizWeboji"
+description = "Real time WebGL and JavaScript library for face tracking, expression detection and animated emoticons in the browser, with both SVG and Three.js demos included"
+category = "vision"
+tags = ["javascript", "webgl", "threejs", "weboji", "webcam", "deep-learning", "face", "face-expression"]
+repository = "https://github.com/jeeliz/jeelizWeboji"
+website = "https://jeeliz.com"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

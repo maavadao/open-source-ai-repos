@@ -1,0 +1,8 @@
+name = "Expressive-FastSpeech2"
+description = "PyTorch Implementation of Non-autoregressive Expressive (emotional, conversational) TTS based on FastSpeech2, supporting English, Korean, and your own languages."
+category = "speech"
+tags = ["text-to-speech", "tts", "speech-synthesis", "non-autoregressive", "emotional-tts", "emotional-speech-synthesis", "expressive-tts", "expressive-speech-synthesis"]
+repository = "https://github.com/keonlee9420/Expressive-FastSpeech2"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "gigatoken"
+description = "Language model tokenization at GB/s"
+category = "models"
+tags = ["llm", "nlp", "tokenization", "tokenizer"]
+repository = "https://github.com/marcelroed/gigatoken"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

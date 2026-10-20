@@ -1,0 +1,8 @@
+name = "VisionTrim"
+description = "[ICLR 2026] Official code repository for \"VisionTrim: Unified Vision Token Compression for Training-Free MLLM Acceleration\""
+category = "models"
+tags = ["efficiency", "multimodal", "token-compression", "lightweight-vlm"]
+repository = "https://github.com/hanxunyu/VisionTrim"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

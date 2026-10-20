@@ -1,0 +1,9 @@
+name = "kodus-ai"
+description = "Open source, self-hosted AI code review. Bring your own LLM."
+category = "coding"
+tags = ["ai", "ai-agents", "ai-code-review", "ai-coding-tools", "code-review", "coding-assistant", "generative-ai", "ai-pr-review"]
+repository = "https://github.com/kodustech/kodus-ai"
+website = "https://kodus.io"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

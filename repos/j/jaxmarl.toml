@@ -1,0 +1,9 @@
+name = "JaxMARL"
+description = "Multi-Agent Reinforcement Learning with JAX"
+category = "ml-platforms"
+tags = ["marl", "multiagent-reinforcement-learning", "reinforcement-learning"]
+repository = "https://github.com/bold-lab-ai/JaxMARL"
+website = "https://jaxmarl.foersterlab.com/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

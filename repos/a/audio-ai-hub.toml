@@ -1,0 +1,9 @@
+name = "audio-ai-hub"
+description = "The hub for audio AI research: papers, open models, benchmarks & datasets across audio LLMs, speech recognition, TTS, music & audio generation."
+category = "speech"
+tags = ["audio-ai", "audio-generation", "audio-llm", "music-generation", "paper-list", "speech-recognition", "tts"]
+repository = "https://github.com/BinWang28/audio-ai-hub"
+website = "https://binwang28.github.io/audio-ai-hub/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

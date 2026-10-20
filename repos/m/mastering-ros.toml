@@ -1,0 +1,9 @@
+name = "mastering_ros"
+description = "This repository contains exercise files of the book \"Mastering ROS for Robotics Programming\""
+category = "learning"
+tags = ["robotics-programming", "ros", "ros-moveit", "gazebo", "tutorial", "amazon", "sensor", "robot-framework"]
+repository = "https://github.com/qboticslabs/mastering_ros"
+website = "https://www.packtpub.com/hardware-and-creative/mastering-ros-robotics-programming"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

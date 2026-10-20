@@ -1,0 +1,9 @@
+name = "slide-deck-ai"
+description = "Co-create PowerPoint slide decks with AI"
+category = "documents"
+tags = ["generative-ai", "hackathon", "large-language-models", "powerpoint-presentations", "streamlit", "gemini-ai", "gemini-api", "gemini-flash"]
+repository = "https://github.com/barun-saha/slide-deck-ai"
+website = "https://barunsaha-slide-deck-ai.hf.space/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

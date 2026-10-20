@@ -1,0 +1,7 @@
+name = "CloneTTS"
+description = "A lightweight, offline Android Text-to-Speech (TTS) engine enabling seamless system-wide voice cloning and high-fidelity text reading. / 运行在安卓本地的轻量级文字转语音 (TTS) 引擎，支持离线发音人提取、零门槛音色克隆与双擎系统级全局听书。"
+category = "speech"
+tags = ["android", "offline-tts", "reader", "text-to-speech", "tts", "voice-cloning"]
+repository = "https://github.com/sipeter/CloneTTS"
+license = "NOASSERTION"
+added = 2026-10-20

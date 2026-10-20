@@ -1,0 +1,8 @@
+name = "claude-council"
+description = "Claude Code plugin that asks several AI coding agents the same question and shows their answers side by side. Gemini, OpenAI, Grok, Perplexity, Kimi and any model OpenRouter routes to over API; codex, antigravity, grok, kimi and cursor CLIs on subscription auth; ollama…"
+category = "coding"
+tags = ["ai-agents", "claude-code", "claude-code-plugin", "gemini", "grok", "llm", "multi-agent", "openai"]
+repository = "https://github.com/hex/claude-council"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

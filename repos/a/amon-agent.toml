@@ -1,0 +1,8 @@
+name = "amon-agent"
+description = "Amon - Your AI coworker running on your desktop"
+category = "agents"
+tags = ["agents", "ai"]
+repository = "https://github.com/liruifengv/amon-agent"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

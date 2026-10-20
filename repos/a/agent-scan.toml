@@ -1,0 +1,8 @@
+name = "agent-scan"
+description = "Security scanner for AI agents, MCP servers and agent skills."
+category = "mcp-servers"
+tags = ["agent", "ai", "mcp", "modelcontextprotocol", "security"]
+repository = "https://github.com/snyk/agent-scan"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

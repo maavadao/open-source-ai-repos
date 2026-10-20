@@ -1,0 +1,8 @@
+name = "FEAT"
+description = "The code repository for \"Few-Shot Learning via Embedding Adaptation with Set-to-Set Functions\""
+category = "vision"
+tags = ["few-shot-learning", "meta-learning", "machine-learning", "computer-vision", "few-shot", "cvpr2020"]
+repository = "https://github.com/Sha-Lab/FEAT"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

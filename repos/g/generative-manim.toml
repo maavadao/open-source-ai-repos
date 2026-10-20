@@ -1,0 +1,9 @@
+name = "generative-manim"
+description = "GPT for video generation"
+category = "video"
+tags = ["2d", "animation", "gpt", "gpt-4", "gpt3", "gpt3-turbo", "manim", "openai"]
+repository = "https://github.com/marcelo-earth/generative-manim"
+website = "https://animo.video/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

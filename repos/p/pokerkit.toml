@@ -1,0 +1,9 @@
+name = "pokerkit"
+description = "An open-source Python library for poker game simulations, hand evaluations, and statistical analysis"
+category = "ml-platforms"
+tags = ["poker", "python", "deep-learning", "reinforcement-learning", "artificial-intelligence", "holdem-poker", "libratus", "pluribus"]
+repository = "https://github.com/uoftcprg/pokerkit"
+website = "https://pokerkit.readthedocs.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

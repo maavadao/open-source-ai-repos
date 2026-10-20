@@ -1,0 +1,8 @@
+name = "awesome-LLM-game-agent-papers"
+description = "A Survey on Large Language Model-Based Game Agents (ACM CSUR)"
+category = "learning"
+tags = ["computer-games", "large-language-models", "llm-based-agent", "survey", "game-agent"]
+repository = "https://github.com/git-disl/awesome-LLM-game-agent-papers"
+website = "https://arxiv.org/pdf/2404.02039.pdf"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "md"
+description = "WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性"
+category = "chat"
+tags = ["wechat", "markdown", "editor", "markdown-editor", "vue", "doocs", "weixin", "tailwindcss"]
+repository = "https://github.com/doocs/md"
+website = "https://md.doocs.org"
+license = "WTFPL"
+language = "TypeScript"
+added = 2026-10-20

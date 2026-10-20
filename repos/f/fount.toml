@@ -1,0 +1,9 @@
+name = "fount"
+description = "programmable · modular · agent runtime"
+category = "agents"
+tags = ["sillytavern", "ai-character", "ai-chatbot", "ai-chatbot-framework", "characters", "roleplay", "agents", "a-topic"]
+repository = "https://github.com/steve02081504/fount"
+website = "https://steve02081504.github.io/fount/"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

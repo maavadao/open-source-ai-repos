@@ -1,0 +1,9 @@
+name = "seedance-2-generator"
+description = "Open-source Next.js SaaS for Seedance 2.0 , Seedance 2.5 and Seedance 2 Mini video generation — Stripe billing, credits, NextAuth, and Prisma out of the box."
+category = "video"
+tags = ["ai-saas", "ai-video", "ai-video-generator", "bytedance-seedance", "generative-ai", "generative-video", "image-to-video", "nextauth"]
+repository = "https://github.com/SamurAIGPT/seedance-2-generator"
+website = "https://muapi.ai/playground/seedance-2.0-mini-image-to-video"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

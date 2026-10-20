@@ -1,0 +1,9 @@
+name = "ComfyUI_frontend"
+description = "Official front-end implementation of ComfyUI"
+category = "data-science"
+tags = ["generative-ai", "machine-learning"]
+repository = "https://github.com/Comfy-Org/ComfyUI_frontend"
+website = "https://www.comfy.org/"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

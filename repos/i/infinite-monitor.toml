@@ -1,0 +1,9 @@
+name = "infinite-monitor"
+description = "Monitor anything in real time"
+category = "agents"
+tags = ["ai-agents", "claude", "osint", "sigint", "dashboard"]
+repository = "https://github.com/homanp/infinite-monitor"
+website = "https://infinitemonitor.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

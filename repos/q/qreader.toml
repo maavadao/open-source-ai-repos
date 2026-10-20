@@ -1,0 +1,8 @@
+name = "QReader"
+description = "Robust and Straight-Forward solution for reading difficult and tricky QR codes within images in Python. Powered by YOLOv8"
+category = "vision"
+tags = ["computer-vision", "easy-to-use", "image-processing", "qrcode", "qrcode-reader", "qrcode-scanner", "object-detection", "python"]
+repository = "https://github.com/Eric-Canas/QReader"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Vehicle-Detection-and-Tracking"
+description = "Computer vision based vehicle detection and tracking using Tensorflow Object Detection API and Kalman-filtering"
+category = "vision"
+tags = ["detection", "tracking", "kalman-filtering", "object-detection", "keras", "hungarian-algorithm", "tensorflow-object-detection-api", "single-shot-multibox-detector"]
+repository = "https://github.com/kcg2015/Vehicle-Detection-and-Tracking"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

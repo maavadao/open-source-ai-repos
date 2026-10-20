@@ -1,0 +1,8 @@
+name = "video-podcast-maker"
+description = "Topic → 4K narrated video for coding agents. v5.3.0: local TTS (edge free + azure, no external engine), manifest-based Asset Engine, Remotion composition, cost-gated AI generation, Bilibili/YouTube/Xiaohongshu/Douyin/WeChat Channels"
+category = "coding"
+tags = ["agent-skill", "video-generation", "idea-to-video", "ai-video", "bilibili", "claude-code", "remotion", "text-to-speech"]
+repository = "https://github.com/Agents365-ai/video-podcast-maker"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

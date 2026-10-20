@@ -1,0 +1,9 @@
+name = "AlignProp"
+description = "AlignProp uses direct reward backpropogation for the alignment of large-scale text-to-image diffusion models. Our method is 25x more sample and compute efficient than reinforcement learning methods (PPO) for finetuning Stable Diffusion"
+category = "image"
+tags = ["alignment", "diffusion-models", "reinforcement-learning", "stable-diffusion", "text-to-image"]
+repository = "https://github.com/mihirp1998/AlignProp"
+website = "https://align-prop.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

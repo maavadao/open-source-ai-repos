@@ -1,0 +1,8 @@
+name = "real-world-rails"
+description = "200+ production open source Rails apps & engines in one repo. Search across real codebases with AI agents to research architectural patterns."
+category = "agents"
+tags = ["ai-agents", "code-patterns", "learning", "open-source", "rails", "real-world", "ruby"]
+repository = "https://github.com/steveclarke/real-world-rails"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

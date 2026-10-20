@@ -1,0 +1,8 @@
+name = "Eureka"
+description = "Official Repository for \"Eureka: Human-Level Reward Design via Coding Large Language Models\" (ICLR 2024)"
+category = "models"
+repository = "https://github.com/eureka-research/Eureka"
+website = "https://eureka-research.github.io/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "GeoTransformer"
+description = "[CVPR2022] Geometric Transformer for Fast and Robust Point Cloud Registration"
+category = "vision"
+tags = ["point-cloud-registration", "transformer", "computer-vision", "deep-learning", "neural-network", "point-cloud", "pytorch", "attention-mechanism"]
+repository = "https://github.com/qinzheng93/GeoTransformer"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

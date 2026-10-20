@@ -1,0 +1,9 @@
+name = "BentoDiffusion"
+description = "BentoDiffusion: A collection of diffusion models served with BentoML"
+category = "image"
+tags = ["ai", "diffusion-models", "fine-tuning", "kubernetes", "lora", "model-serving", "stable-diffusion"]
+repository = "https://github.com/bentoml/BentoDiffusion"
+website = "https://bentoml.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "pytorch-randaugment"
+description = "Unofficial PyTorch Reimplementation of RandAugment."
+category = "vision"
+tags = ["pytorch", "autoaugment", "augmentation", "computer-vision", "imagenet", "cifar", "classification", "deep-learning"]
+repository = "https://github.com/ildoonet/pytorch-randaugment"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

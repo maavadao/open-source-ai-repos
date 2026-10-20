@@ -1,0 +1,9 @@
+name = "im-not-ai"
+description = "AI가 쓴 한글을 사람 글처럼 윤문하는 Claude 스킬 — Korean AI-text humanizer: detects and rewrites translationese, mechanical parallelism, and 71 other AI tells"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-detection", "claude", "claude-code", "claude-skill", "humanizer", "korean", "korean-nlp"]
+repository = "https://github.com/epoko77-ai/im-not-ai"
+website = "https://imnotai.kr"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

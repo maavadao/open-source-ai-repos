@@ -1,0 +1,9 @@
+name = "dataherald"
+description = "Interact with your SQL database, Natural Language to SQL using LLMs"
+category = "llm-apps"
+tags = ["ai", "database", "finetuning", "llm", "nl-to-sql", "rag", "sql", "text-to-sql"]
+repository = "https://github.com/Dataherald/dataherald"
+website = "https://dataherald.readthedocs.io/en/latest/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

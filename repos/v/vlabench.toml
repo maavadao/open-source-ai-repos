@@ -1,0 +1,9 @@
+name = "VLABench"
+description = "A large-scale benchmark for evaluating vision-language-action models, embodied agents, and vision-language models"
+category = "robotics"
+tags = ["embodied", "foundation-models", "robotics"]
+repository = "https://github.com/OpenMOSS/VLABench"
+website = "https://vlabench.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "SpecAugment"
+description = "A Implementation of SpecAugment with Tensorflow & Pytorch, introduced by Google Brain"
+category = "speech"
+tags = ["speech-recognition", "specaugment", "speech", "python", "tensorflow", "pytorch", "data-augmentation"]
+repository = "https://github.com/DemisEom/SpecAugment"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

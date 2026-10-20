@@ -1,0 +1,8 @@
+name = "PhiCookBook"
+description = "This is a Phi Family of SLMs book for getting started with Phi Models. Phi a family of open sourced AI models developed by Microsoft. Phi models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size…"
+category = "learning"
+tags = ["phi3", "phi3-testing", "phi3-vision", "phi4", "cookbook", "language-model", "phi-4", "slm"]
+repository = "https://github.com/microsoft/PhiCookBook"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

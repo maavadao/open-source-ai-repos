@@ -1,0 +1,9 @@
+name = "get-it"
+description = "Read it. See it. Get it. Built at GDG AI Hack Milan 2026 for \"Learn Different\" track."
+category = "education"
+tags = ["agents", "ai", "codex", "edtech", "feynman-technique", "flashcards", "hackathon", "knowledge-graph"]
+repository = "https://github.com/beltromatti/get-it"
+website = "https://getit.noesisai.it"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

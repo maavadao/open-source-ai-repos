@@ -1,0 +1,9 @@
+name = "claude-scientific-writer"
+description = "A general purpose scientific writer"
+category = "agents"
+tags = ["ai-agents", "anthropic", "claude", "skills", "tools", "writer"]
+repository = "https://github.com/K-Dense-AI/claude-scientific-writer"
+website = "https://k-dense.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

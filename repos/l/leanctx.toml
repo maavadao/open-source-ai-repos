@@ -1,0 +1,8 @@
+name = "leanctx"
+description = "Drop-in prompt compression for production LLM apps. Cut your token bill 40-60% without changing your code. Python SDK, LLMLingua-2, MIT."
+category = "local-llms"
+tags = ["anthropic", "cost-optimization", "gemini", "langchain", "langgraph", "llm", "llm-inference", "llmlingua"]
+repository = "https://github.com/jia-gao/leanctx"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "FastFlowNet"
+description = "FastFlowNet: A Lightweight Network for Fast Optical Flow Estimation (ICRA 2021)"
+category = "video"
+tags = ["optical-flow", "flow-architectures", "pytorch", "paper", "sintel", "kitti", "fastflownet", "robotics"]
+repository = "https://github.com/ltkong218/FastFlowNet"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

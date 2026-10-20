@@ -1,0 +1,9 @@
+name = "ANMS-Codes"
+description = "Efficient adaptive non-maximal suppression algorithms for homogeneous spatial keypoint distribution"
+category = "robotics"
+tags = ["cmake", "qt", "opencv", "cpp11", "computer-vision", "anms", "adaptive-non-maximal-suppression", "slam"]
+repository = "https://github.com/BAILOOL/ANMS-Codes"
+website = "https://www.researchgate.net/publication/323388062_Efficient_adaptive_non-maximal_suppression_algorithms_for_homogeneous_spatial_keypoint_distribution"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

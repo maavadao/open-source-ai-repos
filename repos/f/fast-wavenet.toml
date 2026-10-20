@@ -1,0 +1,8 @@
+name = "fast-wavenet"
+description = "Speedy Wavenet generation using dynamic programming"
+category = "ml-platforms"
+tags = ["deep-learning", "machine-learning", "tensorflow", "wavenet"]
+repository = "https://github.com/tomlepaine/fast-wavenet"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,6 @@
+name = "openpets"
+description = "Compatibility release mirror for migrated OpenPets installs. Canonical source and releases: https://github.com/OpenPetsHQ/openpets"
+category = "mcp-servers"
+repository = "https://github.com/alvinunreal/openpets"
+license = "NOASSERTION"
+added = 2026-10-20

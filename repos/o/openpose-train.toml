@@ -1,0 +1,9 @@
+name = "openpose_train"
+description = "Training repository for OpenPose"
+category = "vision"
+tags = ["openpose", "openpose-training", "computer-vision", "machine-learning", "human-pose-estimation", "real-time", "deep-learning", "human-behavior-understanding"]
+repository = "https://github.com/CMU-Perceptual-Computing-Lab/openpose_train"
+website = "https://github.com/CMU-Perceptual-Computing-Lab/openpose"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

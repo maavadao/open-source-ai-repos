@@ -1,0 +1,9 @@
+name = "pytorch-original-transformer"
+description = "My implementation of the original transformer model (Vaswani et al.). I've additionally included the playground.py file for visualizing otherwise seemingly hard concepts. Currently included IWSLT pretrained models."
+category = "learning"
+tags = ["transformer", "transformers", "pytorch-transformer", "pytorch-transformers", "attention", "attention-mechanism", "attention-is-all-you-need", "pytorch"]
+repository = "https://github.com/gordicaleksa/pytorch-original-transformer"
+website = "https://youtube.com/c/TheAIEpiphany"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

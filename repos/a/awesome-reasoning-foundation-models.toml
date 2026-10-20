@@ -1,0 +1,7 @@
+name = "Awesome-Reasoning-Foundation-Models"
+description = "Latest Papers and Benchmarks in Reasoning with Foundation Models"
+category = "learning"
+tags = ["llm", "llm-reasoning", "reasoning", "reasoning-language-models", "foundation-models", "multimodal", "reasoning-agent"]
+repository = "https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models"
+license = "MIT"
+added = 2026-10-20

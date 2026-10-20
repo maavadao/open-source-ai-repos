@@ -1,0 +1,9 @@
+name = "FreeAnchor"
+description = "FreeAnchor: Learning to Match Anchors for Visual Object Detection (NeurIPS 2019)"
+category = "vision"
+tags = ["freeanchor", "object-detection", "one-stage", "pytorch", "computer-vision", "neurips-2019"]
+repository = "https://github.com/zhangxiaosong18/FreeAnchor"
+website = "https://arxiv.org/abs/1909.02466"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

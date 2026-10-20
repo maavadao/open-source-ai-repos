@@ -1,0 +1,9 @@
+name = "ace-step-ui"
+description = "The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!"
+category = "speech"
+tags = ["ace-step", "ai", "ai-music", "local-first", "music", "music-generation", "open-source", "react"]
+repository = "https://github.com/fspecii/ace-step-ui"
+website = "https://webdesignstudio.london/"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

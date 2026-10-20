@@ -1,0 +1,8 @@
+name = "OMML"
+description = "Multi-Modal learning toolkit based on PaddlePaddle and PyTorch, supporting multiple applications such as multi-modal classification, cross-modal retrieval and image caption."
+category = "models"
+tags = ["multimodal", "multimodal-learning", "python", "paddlepaddle", "pytorch", "crossmodal-retrieval", "imagecaptioning", "classification"]
+repository = "https://github.com/njustkmg/OMML"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

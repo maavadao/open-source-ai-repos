@@ -1,0 +1,9 @@
+name = "SimpleHTR"
+description = "Handwritten Text Recognition (HTR) system implemented with TensorFlow."
+category = "documents"
+tags = ["handwritten-text-recognition", "ocr", "recurrent-neural-networks", "tensorflow", "deep-learning", "machine-learning"]
+repository = "https://github.com/githubharald/SimpleHTR"
+website = "https://harald-scheidl.medium.com/2326a3487cd5"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

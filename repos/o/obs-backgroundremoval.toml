@@ -1,0 +1,9 @@
+name = "obs-backgroundremoval"
+description = "An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming."
+category = "vision"
+tags = ["obs", "obs-plugin", "libobs", "mac-osx", "background-segmentation", "obs-studio", "onnx", "onnxruntime"]
+repository = "https://github.com/royshil/obs-backgroundremoval"
+website = "https://royshil.github.io/obs-backgroundremoval/"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-10-20

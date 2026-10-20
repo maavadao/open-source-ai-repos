@@ -1,0 +1,8 @@
+name = "FlyCV"
+description = "FlyCV is a high-performance library for processing computer visual tasks."
+category = "vision"
+tags = ["computer-vision", "cv", "high-performance", "lightweight", "assembly", "neon", "flycv", "arm"]
+repository = "https://github.com/PaddlePaddle/FlyCV"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "open-trading-api"
+description = "Korea Investment & Securities Open API Github"
+category = "mcp-servers"
+tags = ["ai-trading", "api-samples", "autotrade", "chatgpt", "claude", "finance", "investment", "koreainvestment"]
+repository = "https://github.com/koreainvestment/open-trading-api"
+website = "https://apiportal.koreainvestment.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

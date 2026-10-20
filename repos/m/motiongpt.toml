@@ -1,0 +1,9 @@
+name = "MotionGPT"
+description = "[NeurIPS 2023] MotionGPT: Human Motion as a Foreign Language, a unified motion-language generation model using LLMs"
+category = "chat"
+tags = ["3d-generation", "chatgpt", "gpt", "language-model", "motion", "motion-generation", "text-driven", "text-to-motion"]
+repository = "https://github.com/OpenMotionLab/MotionGPT"
+website = "https://motion-gpt.github.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

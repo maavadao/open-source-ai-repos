@@ -1,0 +1,9 @@
+name = "trigger.dev"
+description = "Trigger.dev – build and deploy durable AI agents and workflows"
+category = "mcp-servers"
+tags = ["automation", "orchestration", "scheduler", "background-jobs", "nextjs", "serverless", "ai", "ai-agents"]
+repository = "https://github.com/triggerdotdev/trigger.dev"
+website = "https://trigger.dev/changelog"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

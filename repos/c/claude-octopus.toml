@@ -1,0 +1,9 @@
+name = "claude-octopus"
+description = "Run multiple AI models against the same research, design, or coding task. Surface disagreements before you ship."
+category = "coding"
+tags = ["ai-agents", "ai-orchestration", "claude-code", "claude-code-plugin", "codex", "copilot", "developer-tools", "double-diamond"]
+repository = "https://github.com/nyldn/claude-octopus"
+website = "https://reddit.com/r/ClaudeOctopus/"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

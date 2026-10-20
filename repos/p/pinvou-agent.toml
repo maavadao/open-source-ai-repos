@@ -1,0 +1,9 @@
+name = "pinvou-agent"
+description = "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables."
+category = "mcp-servers"
+tags = ["ai-agent", "automation", "desktop-app", "llm", "local-first", "mcp", "open-source", "react"]
+repository = "https://github.com/Pinvou/pinvou-agent"
+website = "https://pinvou.com/"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

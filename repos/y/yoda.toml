@@ -1,0 +1,9 @@
+name = "yoda"
+description = "Wise and powerful personal assistant, available in your nearest terminal"
+category = "local-llms"
+tags = ["personal-assistant", "cli", "chat", "chatbot", "devtools", "hacktoberfest", "ai", "ollama"]
+repository = "https://github.com/manparvesh/yoda"
+website = "https://yoda.manparvesh.com/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

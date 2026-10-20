@@ -1,0 +1,9 @@
+name = "DeepFilterNet"
+description = "Noise supression using deep filtering"
+category = "speech"
+tags = ["pytorch", "audio", "deep-learning", "speech-enhancement", "noise-suppression", "speech", "rust"]
+repository = "https://github.com/Rikorose/DeepFilterNet"
+website = "https://huggingface.co/spaces/hshr/DeepFilterNet2"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

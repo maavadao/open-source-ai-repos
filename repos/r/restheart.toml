@@ -1,0 +1,9 @@
+name = "restheart"
+description = "A backend for web, mobile, AI and IoT apps. Built on MongoDB"
+category = "agents"
+tags = ["restheart", "mongodb", "rest-api", "java", "data-persistence", "database", "webservice", "graphql"]
+repository = "https://github.com/SoftInstigate/restheart"
+website = "https://restheart.org"
+license = "AGPL-3.0"
+language = "Java"
+added = 2026-10-20

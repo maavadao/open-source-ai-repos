@@ -1,0 +1,8 @@
+name = "LightCompress"
+description = "[EMNLP 2024 & AAAI 2026] A powerful toolkit for compressing large models including LLMs, VLMs, and video generative models."
+category = "local-llms"
+tags = ["deployment", "llm", "pruning", "quantization", "tool", "benchmark", "evaluation", "large-language-models"]
+repository = "https://github.com/ModelTC/LightCompress"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

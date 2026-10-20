@@ -1,0 +1,9 @@
+name = "csml-engine"
+description = "CSML is an easy-to-use chatbot programming language and framework."
+category = "chat"
+tags = ["rust", "interpreter", "language", "chatbot", "csml", "programming-language"]
+repository = "https://github.com/CSML-by-Clevy/csml-engine"
+website = "https://csml.dev"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

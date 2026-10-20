@@ -1,0 +1,8 @@
+name = "GPT-Conversation-Toolkit"
+description = "A power-user toolkit for ChatGPT Web — full and selective conversation export, PNG long-image export, deep-history search, timeline navigation, prompt management, folders, and LaTeX copy."
+category = "chat"
+tags = ["browser-extension", "chatgpt", "chatgpt-extension", "chrome-extension", "export", "firefox-addon", "long-conversation", "microsoft-edge"]
+repository = "https://github.com/bujue3709/GPT-Conversation-Toolkit"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

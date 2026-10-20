@@ -1,0 +1,8 @@
+name = "python_simple_mppi"
+description = "Python implementation of MPPI (Model Predictive Path-Integral) controller to understand the basic idea. Mandatory dependencies are numpy and matplotlib only."
+category = "video"
+tags = ["model-predictive-control", "mppi", "path-integral", "python", "stochastic-optimal-control", "cartpole", "path-tracking", "pendulum"]
+repository = "https://github.com/MizuhoAOKI/python_simple_mppi"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

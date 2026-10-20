@@ -1,0 +1,8 @@
+name = "GPT-Telegramus"
+description = "The best free Telegram bot for ChatGPT, Microsoft Copilot (aka Bing AI / Sidney / EdgeGPT), Microsoft Copilot Designer (aka BingImageCreator), Gemini and Groq with stream writing, requests with images, multiple languages, admin control, data logging and more!"
+category = "image"
+tags = ["bot", "chatgpt", "gpt", "linux", "openai", "python", "telegram", "ai"]
+repository = "https://github.com/F33RNI/GPT-Telegramus"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

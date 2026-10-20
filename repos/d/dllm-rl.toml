@@ -1,0 +1,9 @@
+name = "dLLM-RL"
+description = "[ICLR 2026] Official code for TraceRL: Revolutionizing post-training for Diffusion LLMs, powering the SOTA TraDo series."
+category = "coding"
+tags = ["code-generation", "diffusion-language-models", "large-language-models", "llm-reasoning", "mathmatical-reasoning", "reinforcement-learning-algorithms", "rlhf"]
+repository = "https://github.com/Gen-Verse/dLLM-RL"
+website = "https://arxiv.org/abs/2509.06949"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

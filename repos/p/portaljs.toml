@@ -1,0 +1,9 @@
+name = "portaljs"
+description = "AI-native framework for building data portals. Scaffold a full portal from a brief and load datasets in minutes with agentic skills — any backend (CKAN, GitHub, Frictionless)."
+category = "mcp-servers"
+tags = ["data-portal", "ckan", "nextjs", "open-data-portal", "data-mesh", "datahub", "open-data", "openmetadata"]
+repository = "https://github.com/datopian/portaljs"
+website = "https://www.portaljs.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "DECIMER-Image_Transformer"
+description = "DECIMER Image Transformer is a deep-learning-based tool designed for automated recognition of chemical structure images. Leveraging transformer architectures, the model converts chemical images into SMILES strings, enabling the digitization of chemical data from scanned…"
+category = "models"
+tags = ["chemical-image-recognition", "image-data-mining", "transformers", "decimer", "tpu", "deep-learning", "python", "tensorflow"]
+repository = "https://github.com/Kohulan/DECIMER-Image_Transformer"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

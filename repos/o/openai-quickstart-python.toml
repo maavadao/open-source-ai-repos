@@ -1,0 +1,8 @@
+name = "openai-quickstart-python"
+description = "Python example app from the OpenAI API quickstart tutorial"
+category = "learning"
+tags = ["openai", "openai-api"]
+repository = "https://github.com/openai/openai-quickstart-python"
+website = "https://platform.openai.com/docs/quickstart?context=python"
+license = "MIT"
+added = 2026-10-20

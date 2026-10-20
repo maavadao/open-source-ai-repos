@@ -1,0 +1,7 @@
+name = "Awesome-pytorch-list"
+description = "A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc."
+category = "learning"
+tags = ["pytorch", "python", "machine-learning", "deep-learning", "tutorials", "papers", "awesome", "awesome-list"]
+repository = "https://github.com/bharathgs/Awesome-pytorch-list"
+license = "NOASSERTION"
+added = 2026-10-20

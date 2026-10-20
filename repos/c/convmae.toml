@@ -1,0 +1,8 @@
+name = "ConvMAE"
+description = "ConvMAE: Masked Convolution Meets Masked Autoencoders"
+category = "vision"
+tags = ["backbone", "computer-vision", "masked-image-modeling", "object-detection", "semantic-segmentation", "mae"]
+repository = "https://github.com/Alpha-VL/ConvMAE"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

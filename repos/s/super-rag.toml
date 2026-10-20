@@ -1,0 +1,9 @@
+name = "super-rag"
+description = "Super performant RAG pipelines for AI apps. Summarization, Retrieve/Rerank and Code Interpreters in one simple API."
+category = "vector-databases"
+tags = ["agents", "ai", "embeddings", "inference", "rag", "vector-database"]
+repository = "https://github.com/superagent-ai/super-rag"
+website = "https://docs.superagent.sh"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

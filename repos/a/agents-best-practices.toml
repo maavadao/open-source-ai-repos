@@ -1,0 +1,7 @@
+name = "agents-best-practices"
+description = "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design."
+category = "mcp-servers"
+tags = ["agent-skills", "agentic-workflows", "ai-agents", "codex", "mcp", "prompt-engineering", "agents", "codex-skill"]
+repository = "https://github.com/DenisSergeevitch/agents-best-practices"
+license = "MIT"
+added = 2026-10-20

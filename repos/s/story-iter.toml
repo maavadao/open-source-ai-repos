@@ -1,0 +1,9 @@
+name = "story-iter"
+description = "[ICLR 2026] A Training-free Iterative Framework for Long Story Visualization"
+category = "image"
+tags = ["storytelling", "diffusion-models", "image-generation", "generative-art", "generative-model", "visual-storytelling"]
+repository = "https://github.com/UCSC-VLAA/story-iter"
+website = "https://jwmao1.github.io/storyiter/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

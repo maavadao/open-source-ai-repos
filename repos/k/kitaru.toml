@@ -1,0 +1,9 @@
+name = "kitaru"
+description = "Agent traces you can run, not just read."
+category = "mcp-servers"
+tags = ["ai-agents", "checkpoints", "durable-execution", "llm", "mcp", "mlops", "observability", "pydantic"]
+repository = "https://github.com/zenml-io/kitaru"
+website = "https://kitaru.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

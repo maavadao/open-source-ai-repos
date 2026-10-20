@@ -1,0 +1,8 @@
+name = "agentUniverse"
+description = "agentUniverse is a LLM multi-agent framework that allows developers to easily build multi-agent applications."
+category = "agents"
+tags = ["agent", "ai", "llm", "multi-agent", "python", "awesome", "awesome-list", "ai-agents"]
+repository = "https://github.com/agentuniverse-ai/agentUniverse"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "robosuite"
+description = "robosuite: A Modular Simulation Framework and Benchmark for Robot Learning"
+category = "robotics"
+tags = ["robotics", "robot-manipulation", "reinforcement-learning", "physics-simulation", "robot-learning"]
+repository = "https://github.com/ARISE-Initiative/robosuite"
+website = "https://robosuite.ai"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

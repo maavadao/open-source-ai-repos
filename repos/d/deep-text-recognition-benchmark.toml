@@ -1,0 +1,8 @@
+name = "deep-text-recognition-benchmark"
+description = "Text recognition (optical character recognition) with deep learning methods, ICCV 2019"
+category = "documents"
+tags = ["iccv2019", "ocr", "ocr-recognition", "text-recognition", "deep-learning", "scene-text-recognition", "recognition", "scene-text"]
+repository = "https://github.com/clovaai/deep-text-recognition-benchmark"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

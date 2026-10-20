@@ -1,0 +1,9 @@
+name = "markdown-crawler"
+description = "A multithreaded web crawler that recursively crawls a website and creates a markdown file for each page, designed for LLM RAG"
+category = "llm-apps"
+tags = ["html-to-markdown", "html-to-markdown-converter", "html2md", "llm", "llmops", "markdown", "markdown-parser", "rag"]
+repository = "https://github.com/paulpierre/markdown-crawler"
+website = "https://pypi.org/project/markdown-crawler/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

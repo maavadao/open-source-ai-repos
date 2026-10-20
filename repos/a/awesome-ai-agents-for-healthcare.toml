@@ -1,0 +1,8 @@
+name = "Awesome-AI-Agents-for-Healthcare"
+description = "Latest Advances on Agentic AI & AI Agents for Healthcare"
+category = "learning"
+tags = ["agentic-ai", "ai-agents", "healthcare-agents", "medical-agents"]
+repository = "https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare"
+website = "https://www.techrxiv.org/users/994756/articles/1355990-a-comprehensive-survey-of-ai-agents-in-healthcare"
+license = "NOASSERTION"
+added = 2026-10-20

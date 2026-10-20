@@ -1,0 +1,8 @@
+name = "rellm"
+description = "Exact structure out of any language model completion."
+category = "models"
+tags = ["llm", "huggingface-transformers", "transformers"]
+repository = "https://github.com/r2d4/rellm"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

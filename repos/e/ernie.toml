@@ -1,0 +1,9 @@
+name = "ERNIE"
+description = "The official repository for ERNIE 4.5 and ERNIEKit – its industrial-grade development toolkit based on PaddlePaddle."
+category = "models"
+tags = ["ernie", "erniekit", "llm", "vlm", "ernie-45", "ernie-45-vl"]
+repository = "https://github.com/PaddlePaddle/ERNIE"
+website = "https://ernie.baidu.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

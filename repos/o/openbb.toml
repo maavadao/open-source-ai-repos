@@ -1,0 +1,9 @@
+name = "OpenBB"
+description = "Open Data Platform for analysts, quants and AI agents."
+category = "data-science"
+tags = ["python", "machine-learning", "finance", "stocks", "quantitative-finance", "economics", "crypto", "openbb"]
+repository = "https://github.com/openbq-org/OpenBB"
+website = "https://openbb.co"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

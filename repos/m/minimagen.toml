@@ -1,0 +1,9 @@
+name = "MinImagen"
+description = "MinImagen: A minimal implementation of the Imagen text-to-image model"
+category = "image"
+tags = ["deep-learning", "diffusion-models", "imagen", "pytorch", "super-resolution", "text-to-image"]
+repository = "https://github.com/AssemblyAI-Community/MinImagen"
+website = "https://assemblyai-examples.github.io/MinImagen/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

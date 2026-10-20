@@ -1,0 +1,8 @@
+name = "xmc.dspy"
+description = "In-Context Learning for eXtreme Multi-Label Classification (XMC) using only a handful of examples."
+category = "llm-apps"
+tags = ["information-extraction", "retrieval", "retrieval-augmented-generation", "prompt-engineering"]
+repository = "https://github.com/KarelDO/xmc.dspy"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

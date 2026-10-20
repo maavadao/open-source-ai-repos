@@ -1,0 +1,8 @@
+name = "llama.go"
+description = "llama.go is like llama.cpp in pure Golang!"
+category = "local-llms"
+tags = ["llama", "alpaca", "chatgpt", "dalai", "gpt", "gpt3", "gpt4", "llama-cpp"]
+repository = "https://github.com/gotzmann/llama.go"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "PixelAnnotationTool"
+description = "Annotate quickly images."
+category = "vision"
+tags = ["computer-vision", "deep-learning", "pixel-wise", "ground-truth", "annotation-tool", "opencv", "qt5", "annotation"]
+repository = "https://github.com/abreheret/PixelAnnotationTool"
+license = "LGPL-3.0"
+language = "C++"
+added = 2026-10-20

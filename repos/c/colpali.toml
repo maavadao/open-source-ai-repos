@@ -1,0 +1,9 @@
+name = "colpali"
+description = "The code used to train and run inference with the ColVision models, e.g. ColPali, ColQwen2, and ColSmol."
+category = "llm-apps"
+tags = ["colpali", "information-retrieval", "retrieval-augmented-generation", "vision-language-model", "colqwen2", "colsmol"]
+repository = "https://github.com/illuin-tech/colpali"
+website = "https://huggingface.co/vidore"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

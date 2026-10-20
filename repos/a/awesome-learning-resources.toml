@@ -1,0 +1,7 @@
+name = "awesome-learning-resources"
+description = "Awesome list of resources on Web Development."
+category = "learning"
+tags = ["open-source", "css", "vue", "javascript", "awesome-list", "pwa", "podcast", "serverless"]
+repository = "https://github.com/lauragift21/awesome-learning-resources"
+license = "MIT"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "langchain_dart"
+description = "Build LLM-powered Dart/Flutter applications."
+category = "models"
+tags = ["ai", "generative-ai", "llms", "nlp", "dart", "flutter"]
+repository = "https://github.com/davidmigloz/langchain_dart"
+website = "http://davidmigloz.github.io/langchain_dart/"
+license = "MIT"
+language = "Dart"
+added = 2026-10-20

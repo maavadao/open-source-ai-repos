@@ -1,0 +1,8 @@
+name = "magic"
+description = "Scanner for decks of cards with bar codes printed on card edges"
+category = "vision"
+tags = ["computer-vision", "magic", "swift"]
+repository = "https://github.com/nettlep/magic"
+license = "BSD-3-Clause"
+language = "Swift"
+added = 2026-10-20

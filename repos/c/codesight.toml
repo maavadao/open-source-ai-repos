@@ -1,0 +1,8 @@
+name = "codesight"
+description = "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more."
+category = "mcp-servers"
+tags = ["ai", "claude", "cli", "code-analysis", "codebase", "codex", "context-engineering", "copilot"]
+repository = "https://github.com/Houseofmvps/codesight"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "iGibson"
+description = "A Simulation Environment to train Robots in Large Realistic Interactive Scenes"
+category = "robotics"
+tags = ["simulation", "robot-simulator", "3d-scenes"]
+repository = "https://github.com/StanfordVL/iGibson"
+website = "http://svl.stanford.edu/igibson"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

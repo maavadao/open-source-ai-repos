@@ -1,0 +1,8 @@
+name = "agents-from-scratch"
+description = "Build AI agents from first principles using a local LLM - no frameworks, no cloud APIs, no hidden reasoning."
+category = "local-llms"
+tags = ["agent-architecture", "ai-agents", "ai-education", "ai-from-scratch", "artificial-intelligence", "llama", "llm", "local-llm"]
+repository = "https://github.com/pguso/agents-from-scratch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

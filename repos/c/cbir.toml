@@ -1,0 +1,8 @@
+name = "CBIR"
+description = "A content-based image retrieval (CBIR) system"
+category = "vision"
+tags = ["image-retrieval", "computer-vision", "gabor", "hog", "edges", "histogram", "daisy", "vggnet"]
+repository = "https://github.com/pochih/CBIR"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

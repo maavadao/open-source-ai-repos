@@ -1,0 +1,8 @@
+name = "auto-improve"
+description = "GAN-style self-improvement loop for any text artifact: mutate, grade with a SEPARATE model, keep only verified wins (pairwise-judged), revert the rest. The git history is the improvement log."
+category = "agents"
+tags = ["ai-agents", "developer-tools", "evaluation", "gan", "gemini", "generative-ai", "llm", "prompt-engineering"]
+repository = "https://github.com/crimeacs/auto-improve"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

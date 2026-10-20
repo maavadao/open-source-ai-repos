@@ -1,0 +1,9 @@
+name = "stylegan2-pytorch"
+description = "Simplest working implementation of Stylegan2, state of the art generative adversarial network, in Pytorch. Enabling everyone to experience disentanglement"
+category = "ml-platforms"
+tags = ["generative-adversarial-network", "artificial-intelligence", "pytorch", "machine-learning", "generative-model"]
+repository = "https://github.com/lucidrains/stylegan2-pytorch"
+website = "https://thispersondoesnotexist.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

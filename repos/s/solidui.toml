@@ -1,0 +1,9 @@
+name = "SolidUI"
+description = "one sentence generates any graph"
+category = "image"
+tags = ["2d", "3d", "aigc", "react", "python", "3d-data-visualization", "chatgpt", "llms"]
+repository = "https://github.com/CloudOrc/SolidUI"
+website = "https://cloudorc.github.io/SolidUI-Website/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

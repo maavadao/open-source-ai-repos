@@ -1,0 +1,9 @@
+name = "Savant"
+description = "Python Computer Vision & Video Analytics Framework With Batteries Included"
+category = "video"
+tags = ["computer-vision", "deepstream", "edge-computing", "inference-engine", "machine-learning", "nvidia-deepstream-sdk", "deep-learning", "nvidia"]
+repository = "https://github.com/insight-platform/Savant"
+website = "https://savant-ai.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

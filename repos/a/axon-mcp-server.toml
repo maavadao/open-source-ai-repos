@@ -1,0 +1,9 @@
+name = "Axon.MCP.Server"
+description = "Transform your codebase into an intelligent knowledge base for AI-powered development with Cursor IDE, Google AntiGravity, and MCP-enabled assistants"
+category = "mcp-servers"
+tags = ["antigravity", "azure-devops", "claude", "cursor", "gitlab", "mcp", "mcp-server", "rag"]
+repository = "https://github.com/ali-kamali/Axon.MCP.Server"
+website = "https://ali-kamali.github.io/Axon.MCP.Server/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

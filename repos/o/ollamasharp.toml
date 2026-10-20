@@ -1,0 +1,9 @@
+name = "OllamaSharp"
+description = "The easiest way to use Ollama in .NET"
+category = "local-llms"
+tags = ["llm", "ollama", "ollama-api", "llama", "ai", "gpt", "llamacpp", "localllama"]
+repository = "https://github.com/awaescher/OllamaSharp"
+website = "https://www.nuget.org/packages/OllamaSharp"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

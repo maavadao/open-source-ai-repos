@@ -1,0 +1,8 @@
+name = "mflux"
+description = "Apple MLX native implementations of state-of-the-art generative image & video models"
+category = "image"
+tags = ["ai", "apple-silicon", "diffusers", "flux", "huggingface", "ml", "mlx", "transformers"]
+repository = "https://github.com/mflux-community/mflux"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

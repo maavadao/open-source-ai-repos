@@ -1,0 +1,9 @@
+name = "TopoNet"
+description = "[Accepted at SCIENCE CHINA Information Sciences 2026] Graph-based Topology Reasoning for Driving Scenes"
+category = "robotics"
+tags = ["autonomous-driving", "centerline-detection", "traffic-element-recognition", "road-topology"]
+repository = "https://github.com/OpenDriveLab/TopoNet"
+website = "https://arxiv.org/abs/2304.05277"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "theDAW"
+description = "Full-featured DAW, DJ, and VJ app interoperable w/Ableton, Reaper, Resolume & more. Stable Audio 3, Magenta RT2, Suno API, Chimera track fusion, Demucs stems, MIDI generate/notate, img > spectrogram > music, drawing > music, VST3 & .gan plugins, automix & key-lock, GLSL…"
+category = "speech"
+tags = ["ai-audio", "audio-inpainting", "audio-mixing", "daw", "dj", "ffmpeg", "generative-ai", "lora"]
+repository = "https://github.com/gantasmo/theDAW"
+website = "https://www.gantasmo.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

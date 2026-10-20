@@ -1,0 +1,8 @@
+name = "Lucarne"
+description = "Stop babysitting local AI agents. Just notifications, approve, and resume your Codex,Pi,Grok, or Claude code sessions anywhere. 0-Intrusion mobile control bridge via Telegram/微信/飞书. No hooks, no skills, no MCP."
+category = "coding"
+tags = ["claude-code", "codex", "remote-control", "gemini", "pi", "agent-management", "remote-agents", "agent-sessions"]
+repository = "https://github.com/tuchg/Lucarne"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

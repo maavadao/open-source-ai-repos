@@ -1,0 +1,9 @@
+name = "pyspur"
+description = "A visual playground for agentic workflows: Iterate over your agents 10x faster"
+category = "no-code"
+tags = ["agent", "ai", "llm", "python", "workflow", "deepseek", "framework", "gemini"]
+repository = "https://github.com/PySpur-Dev/pyspur"
+website = "https://pyspur.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

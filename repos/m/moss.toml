@@ -1,0 +1,9 @@
+name = "MOSS"
+description = "An open-source, tool-augmented conversational language model from Fudan University"
+category = "chat"
+tags = ["chatgpt", "deep-learning", "dialogue-systems", "large-language-models", "natural-language-processing", "text-generation"]
+repository = "https://github.com/OpenMOSS/MOSS"
+website = "https://txsun1997.github.io/blogs/moss.html"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Vibe-Skills"
+description = "Intelligent Skill routing and workflow orchestration for AI agents — +21.12 pp reward, −29.6% tokens on SkillsBench with DeepSeekV4Flash-VE."
+category = "skills-prompts"
+tags = ["ai-agents", "ai-workflow", "automation", "codex", "developer-tools", "skills", "ai-skills", "claude-code"]
+repository = "https://github.com/foryourhealth111-pixel/Vibe-Skills"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

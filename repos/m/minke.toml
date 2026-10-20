@@ -1,0 +1,8 @@
+name = "Minke"
+description = "DeepSeek Harness Desktop"
+category = "coding"
+tags = ["agent", "deekseek", "desktop", "dsh", "dsh-plugin", "harness", "ai-agents", "codex"]
+repository = "https://github.com/lencx/Minke"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

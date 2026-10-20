@@ -1,0 +1,8 @@
+name = "maths-cs-ai-compendium"
+description = "Become a cracked AI/ML researcher/engineer with this unconventional textbook covering maths, computing, and ML with intuition."
+category = "vision"
+tags = ["algorithms", "deep-learning", "jax", "machine-learning", "machine-learning-algorithms", "math", "mathematics", "python"]
+repository = "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

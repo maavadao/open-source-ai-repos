@@ -1,0 +1,8 @@
+name = "MARL-Algorithms"
+description = "Implementations of IQL, QMIX, VDN, COMA, QTRAN, MAVEN, CommNet, DyMA-CL, and G2ANet on SMAC, the decentralised micromanagement scenario of StarCraft II"
+category = "ml-platforms"
+tags = ["multi-agent-reinforcement-learning", "deep-reinforcement-learning", "reinforcement-learning"]
+repository = "https://github.com/starry-sky6688/MARL-Algorithms"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "MLBox"
+description = "MLBox is a powerful Automated Machine Learning python library."
+category = "ml-platforms"
+tags = ["machine-learning", "auto-ml", "kaggle", "deep-learning", "stacking", "pipeline", "optimization", "preprocessing"]
+repository = "https://github.com/AxeldeRomblay/MLBox"
+website = "https://mlbox.readthedocs.io/en/latest/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

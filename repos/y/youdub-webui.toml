@@ -1,0 +1,9 @@
+name = "YouDub-webui"
+description = "Open-source AI video localization and dubbing for YouTube/Bilibili: speech recognition, subtitle translation, voice cloning, audio mixing and rendering. 开源 AI 视频翻译配音工具。"
+category = "speech"
+tags = ["ai-dubbing", "bilibili", "demucs", "fastapi", "ffmpeg", "nextjs", "python", "speech-to-text"]
+repository = "https://github.com/liuzhao1225/YouDub-webui"
+website = "https://liuzhao1225.github.io/YouDub-webui/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

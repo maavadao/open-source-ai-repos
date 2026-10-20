@@ -1,0 +1,8 @@
+name = "agent-kernel"
+description = "Minimal kernel to make any AI coding agent stateful. Clone, point your agent, go."
+category = "coding"
+tags = ["agentic-ai", "agents", "claude-code", "codex-cli", "openclaw", "opencode"]
+repository = "https://github.com/oguzbilgic/agent-kernel"
+website = "https://agent-kernel.dev"
+license = "NOASSERTION"
+added = 2026-10-20

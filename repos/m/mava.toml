@@ -1,0 +1,8 @@
+name = "Mava"
+description = "A research-friendly codebase for fast experimentation of multi-agent reinforcement learning in JAX"
+category = "agents"
+tags = ["research", "multi-agent-reinforcement-learning", "multi-agent-systems", "multiagent", "marl", "reinforcement-learning", "jax"]
+repository = "https://github.com/instadeepai/Mava"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

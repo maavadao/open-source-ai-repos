@@ -1,0 +1,8 @@
+name = "flash-linear-attention"
+description = "Efficient implementations for emerging model architectures"
+category = "models"
+tags = ["large-language-models", "machine-learning-systems", "natural-language-processing", "sequence-modeling"]
+repository = "https://github.com/fla-org/flash-linear-attention"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "OpenBot"
+description = "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent."
+category = "mcp-servers"
+tags = ["ag-ui", "agent-governance", "ai-agents", "browser-automation", "copilotkit", "generative-ui", "mcp"]
+repository = "https://github.com/CopilotKit/OpenBot"
+website = "https://www.copilotkit.ai/openbot"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

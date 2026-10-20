@@ -1,0 +1,9 @@
+name = "language"
+description = "Shared repository for open-sourced projects from the Google AI Language team."
+category = "data-science"
+tags = ["natural-language-processing", "machine-learning", "research"]
+repository = "https://github.com/google-research/language"
+website = "https://ai.google/research/teams/language/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

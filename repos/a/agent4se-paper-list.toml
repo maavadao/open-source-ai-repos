@@ -1,0 +1,8 @@
+name = "Agent4SE-Paper-List"
+description = "Repository for the paper \"Large Language Model-Based Agents for Software Engineering: A Survey\". Keep updating."
+category = "agents"
+tags = ["artificial-intelligence", "software-engineering", "agent", "large-language-models", "llms", "llm-based-agents"]
+repository = "https://github.com/FudanSELab/Agent4SE-Paper-List"
+website = "https://arxiv.org/pdf/2409.02977"
+license = "NOASSERTION"
+added = 2026-10-20

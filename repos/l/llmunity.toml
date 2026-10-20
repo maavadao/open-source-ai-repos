@@ -1,0 +1,9 @@
+name = "LLMUnity"
+description = "Create characters in Unity with LLMs!"
+category = "local-llms"
+tags = ["ai", "chat", "chatbot", "conversational-ai", "dialogue", "generative-ai", "llama", "llm"]
+repository = "https://github.com/undreamai/LLMUnity"
+website = "https://undream.ai"
+license = "Apache-2.0"
+language = "C#"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "Awesome-Deep-Learning-Resources"
+description = "Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier"
+category = "learning"
+tags = ["awesome", "awesome-list", "deep-learning", "machine-learning", "tensorflow", "lstm", "cnn"]
+repository = "https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources"
+license = "CC0-1.0"
+added = 2026-10-20

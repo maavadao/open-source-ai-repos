@@ -1,0 +1,9 @@
+name = "torch-points3d"
+description = "Pytorch framework for doing deep learning on point clouds."
+category = "vision"
+tags = ["pytorch", "deep-learning", "point-cloud", "pointnet", "minkowskiengine", "kpconv", "segmentation", "s3dis"]
+repository = "https://github.com/torch-points3d/torch-points3d"
+website = "https://torch-points3d.readthedocs.io/en/latest/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

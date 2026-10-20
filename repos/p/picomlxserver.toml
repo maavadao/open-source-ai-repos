@@ -1,0 +1,8 @@
+name = "PicoMLXServer"
+description = "The easiest way to run the fastest MLX-based LLMs locally"
+category = "local-llms"
+tags = ["ai", "llama3", "mlx", "ollama", "openai", "openai-api"]
+repository = "https://github.com/PicoMLX/PicoMLXServer"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "LiveAgent"
+description = "A fully functional AI Agent desktop client that supports Webui access and can be creatively customized and expanded!"
+category = "mcp-servers"
+tags = ["ai-agents", "ai-tools", "claude-code", "claude-desktop", "codex", "codex-app", "desktop-app", "hermes"]
+repository = "https://github.com/Stack-Cairn/LiveAgent"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

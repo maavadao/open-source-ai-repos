@@ -1,0 +1,9 @@
+name = "Machine-Learning-Flappy-Bird"
+description = "Machine Learning for Flappy Bird using Neural Network and Genetic Algorithm"
+category = "learning"
+tags = ["machine-learning", "flappy-bird", "genetic-algorithm", "machine-learning-algorithm", "artificial-intelligence", "neuroevolution", "ai-tutorial", "ai"]
+repository = "https://github.com/ssusnic/Machine-Learning-Flappy-Bird"
+website = "http://www.askforgametask.com/tutorial/machine-learning-algorithm-flappy-bird"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

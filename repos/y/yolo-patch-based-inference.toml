@@ -1,0 +1,8 @@
+name = "YOLO-Patch-Based-Inference"
+description = "Python library for YOLO small object detection and instance segmentation"
+category = "vision"
+tags = ["computer-vision", "detection", "inference", "non-maximum-suppression", "patchify", "pip-package", "pypi-package", "small-object-detection"]
+repository = "https://github.com/Koldim2001/YOLO-Patch-Based-Inference"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

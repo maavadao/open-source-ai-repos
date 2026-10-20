@@ -1,0 +1,9 @@
+name = "aisearch-openai-rag-audio"
+description = "A simple example implementation of the VoiceRAG pattern to power interactive voice generative AI experiences using RAG with Azure AI Search and Azure OpenAI's gpt-4o-realtime-preview model."
+category = "vector-databases"
+tags = ["azure", "generative-ai", "gpt", "language-model", "openai", "rag", "retrieval-augmented-generation", "search"]
+repository = "https://github.com/Azure-Samples/aisearch-openai-rag-audio"
+website = "https://azure.microsoft.com/products/search"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

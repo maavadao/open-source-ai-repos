@@ -1,0 +1,9 @@
+name = "guardian-sdk"
+description = "Ethicore Engine is an AI safety, ethics, and compliance platform. This repo consists of the open-source components of Ethicore Engine - Guardian SDK; designed to protect your AI applications from prompt injection, jailbreaks, role hijacking, system-prompt extraction, and 100+…"
+category = "security"
+tags = ["adversarial-machine-learning", "agent-safety", "agent-security", "agentic-loop", "ai-agents", "ai-safety", "ai-security", "api"]
+repository = "https://github.com/OraclesTech/guardian-sdk"
+website = "https://oraclestechnologies.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

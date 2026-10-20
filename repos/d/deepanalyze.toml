@@ -1,0 +1,9 @@
+name = "DeepAnalyze"
+description = "DeepAnalyze is the first agentic LLM for autonomous data science. 你的AI数据分析师，自动分析大量数据，一键生成专业分析报告！"
+category = "search"
+tags = ["agent", "agentic", "agentic-ai", "chatbot", "data", "data-analysis", "data-engineering", "data-science"]
+repository = "https://github.com/ruc-datalab/DeepAnalyze"
+website = "https://ruc-deepanalyze.github.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

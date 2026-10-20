@@ -1,0 +1,9 @@
+name = "AngelSlim"
+description = "Model compression toolkit engineered for enhanced usability, comprehensiveness, and efficiency."
+category = "speech"
+tags = ["llm", "llm-compression", "quantization", "speculative-decoding", "diffusion", "vlm", "hunyuan", "deepseek"]
+repository = "https://github.com/Tencent/AngelSlim"
+website = "https://angelslim.readthedocs.io"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "gpt-pilot"
+description = "The first real AI developer"
+category = "coding"
+tags = ["ai", "codegen", "developer-tools", "gpt-4", "coding-assistant", "research-project"]
+repository = "https://github.com/Pythagora-io/gpt-pilot"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

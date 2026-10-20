@@ -1,0 +1,8 @@
+name = "Ai-Object-Isolation-Toolkit"
+description = "2026 Next-Gen AI Photo Background Remover & Object Removal Tool"
+category = "image"
+tags = ["ai-background-removal", "auto-background-remover", "background-extraction", "background-generation", "background-removal", "background-subtraction", "backgroundremover", "baseline-removal"]
+repository = "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

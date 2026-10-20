@@ -1,0 +1,9 @@
+name = "generative_ai_with_langchain"
+description = "Build production-ready LLM applications and advanced agents using Python, LangChain, and LangGraph. This is the companion repository for the book on generative AI with LangChain."
+category = "learning"
+tags = ["chatgpt", "gpt", "huggingface", "langchain", "llms", "openai", "claude", "claude-3-5-sonnet"]
+repository = "https://github.com/benman1/generative_ai_with_langchain"
+website = "https://amzn.to/4dErkya"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

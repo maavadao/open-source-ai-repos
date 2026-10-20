@@ -1,0 +1,8 @@
+name = "introtodeeplearning"
+description = "Lab Materials for MIT 6.S191: Introduction to Deep Learning"
+category = "learning"
+tags = ["mit", "deep-learning", "neural-networks", "tensorflow", "tensorflow-tutorials", "music-generation", "computer-vision", "deep-reinforcement-learning"]
+repository = "https://github.com/MITDeepLearning/introtodeeplearning"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

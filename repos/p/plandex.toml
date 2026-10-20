@@ -1,0 +1,10 @@
+name = "plandex"
+description = "Open source AI coding agent. Designed for large projects and real world tasks."
+category = "coding"
+tags = ["ai", "ai-developer-tools", "gpt-4", "llm", "openai", "ai-agents", "ai-tools", "cli"]
+repository = "https://github.com/plandex-ai/plandex"
+website = "https://plandex.ai"
+license = "MIT"
+language = "Go"
+skill_level = "intermediate"
+added = 2026-10-20

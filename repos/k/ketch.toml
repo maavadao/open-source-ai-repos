@@ -1,0 +1,9 @@
+name = "ketch"
+description = "Fast, stateless CLI for web search and scrape. Built for AI agents."
+category = "search"
+tags = ["ai-agents", "cli", "golang", "scraping", "search", "web-scraping"]
+repository = "https://github.com/1broseidon/ketch"
+website = "https://ketch.run"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

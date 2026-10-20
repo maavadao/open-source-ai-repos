@@ -1,0 +1,9 @@
+name = "bunqueue"
+description = "High-performance job queue for Bun. SQLite by default, PostgreSQL multi-broker when you scale. DLQ, cron, SQLite S3 backups, and native MCP. No Redis."
+category = "agents"
+tags = ["bun", "queue", "background-jobs", "s3", "cron-scheduler", "job-queue", "message-queue", "redis-alternative"]
+repository = "https://github.com/egeominotti/bunqueue"
+website = "https://bunqueue.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

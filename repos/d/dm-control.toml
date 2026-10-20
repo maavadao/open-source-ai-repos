@@ -1,0 +1,8 @@
+name = "dm_control"
+description = "Google DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo."
+category = "ml-platforms"
+tags = ["machine-learning", "artificial-intelligence", "neural-networks", "deep-learning", "reinforcement-learning", "physics-simulation", "mujoco"]
+repository = "https://github.com/google-deepmind/dm_control"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

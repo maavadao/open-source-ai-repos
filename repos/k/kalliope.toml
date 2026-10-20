@@ -1,0 +1,9 @@
+name = "kalliope"
+description = "Kalliope is a framework that will help you to create your own personal assistant."
+category = "speech"
+tags = ["raspberry", "bot-creation", "jarvis", "personal-assistant", "linux", "speech-to-text", "speech-recognition", "speech-synthesis"]
+repository = "https://github.com/kalliope-project/kalliope"
+website = "https://kalliope-project.github.io/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

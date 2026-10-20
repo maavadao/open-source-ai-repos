@@ -1,0 +1,8 @@
+name = "comfyui"
+description = "ComfyUI docker images for use in GPU cloud and local environments. Includes AI-Dock base for authentication and improved user experience."
+category = "image"
+tags = ["ai", "comfyui", "docker", "stable-diffusion", "image-processing", "runpod", "runpod-serverless", "vast"]
+repository = "https://github.com/ai-dock/comfyui"
+license = "NOASSERTION"
+language = "Shell"
+added = 2026-10-20

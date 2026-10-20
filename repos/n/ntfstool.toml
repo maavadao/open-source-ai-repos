@@ -1,0 +1,8 @@
+name = "ntfstool"
+description = "Forensics tool for NTFS (parser, mft, bitlocker, deleted files)"
+category = "models"
+tags = ["disk", "bitlocker", "mft", "vbr", "gpt", "ntfs", "parser", "usn"]
+repository = "https://github.com/thewhiteninja/ntfstool"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

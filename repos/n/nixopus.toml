@@ -1,0 +1,9 @@
+name = "nixopus"
+description = "Run production apps without thinking about infrastructure. On your server or ours. Fully agentic."
+category = "mcp-servers"
+tags = ["heroku", "netlify", "self-hosted", "vercel", "vps", "ci-cd", "deployment", "golang"]
+repository = "https://github.com/nixopus/nixopus"
+website = "https://nixopus.com"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

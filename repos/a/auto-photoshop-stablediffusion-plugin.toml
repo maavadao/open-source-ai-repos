@@ -1,0 +1,8 @@
+name = "Auto-Photoshop-StableDiffusion-Plugin"
+description = "A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend."
+category = "image"
+tags = ["ai", "art", "automatic1111", "photoshop", "plugin", "stable-diffusion", "ai-art", "comfy"]
+repository = "https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

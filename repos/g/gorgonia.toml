@@ -1,0 +1,9 @@
+name = "gorgonia"
+description = "Gorgonia is a library that helps facilitate machine learning in Go."
+category = "ml-platforms"
+tags = ["machine-learning", "artificial-intelligence", "neural-network", "computation-graph", "differentiation", "golang", "go", "gradient-descent"]
+repository = "https://github.com/gorgonia/gorgonia"
+website = "https://gorgonia.org/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

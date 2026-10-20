@@ -1,0 +1,9 @@
+name = "pypylon"
+description = "The official Python language binding for the Basler pylon C++ APIs"
+category = "vision"
+tags = ["machine-vision", "computer-vision", "camera"]
+repository = "https://github.com/basler/pypylon"
+website = "http://www.baslerweb.com"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

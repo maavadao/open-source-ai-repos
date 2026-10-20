@@ -1,0 +1,8 @@
+name = "PocketFlow-Tutorial-Codebase-Knowledge"
+description = "Pocket Flow: Codebase to Tutorial"
+category = "learning"
+tags = ["coding", "large-language-model", "large-language-models", "llm", "llm-agent", "llm-agents", "llm-application", "llm-apps"]
+repository = "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "agi"
+description = "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI."
+category = "agents"
+tags = ["agi", "ai-agents", "ai-research", "artificial-general-intelligence", "autonomous-agents", "collaborative-ai", "decentralized", "distributed-ai"]
+repository = "https://github.com/hyperspaceai/agi"
+website = "https://agents.hyper.space/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

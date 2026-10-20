@@ -1,0 +1,9 @@
+name = "drl_grasping"
+description = "Deep Reinforcement Learning for Robotic Grasping from Octrees"
+category = "robotics"
+tags = ["robotics", "grasping", "reinforcement-learning", "octree", "domain-randomization", "sim2real", "ros2", "gym-ignition"]
+repository = "https://github.com/AndrejOrsula/drl_grasping"
+website = "https://arxiv.org/pdf/2208.00818"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

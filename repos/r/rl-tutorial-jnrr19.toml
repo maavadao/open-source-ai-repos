@@ -1,0 +1,8 @@
+name = "rl-tutorial-jnrr19"
+description = "Stable-Baselines tutorial for Journées Nationales de la Recherche en Robotique 2019"
+category = "learning"
+tags = ["reinforcement-learning", "tutorial", "stable-baselines", "rl", "python", "colab-notebook", "notebook"]
+repository = "https://github.com/araffin/rl-tutorial-jnrr19"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

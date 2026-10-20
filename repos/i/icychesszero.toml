@@ -1,0 +1,8 @@
+name = "icyChessZero"
+description = "中国象棋alpha zero程序"
+category = "ml-platforms"
+tags = ["alphago-zero", "alphago", "chinese-chess", "reinforcement-learning", "chinese", "tensorlfow"]
+repository = "https://github.com/bupticybee/icyChessZero"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

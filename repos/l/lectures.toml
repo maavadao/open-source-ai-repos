@@ -1,0 +1,7 @@
+name = "lectures"
+description = "Oxford Deep NLP 2017 course"
+category = "learning"
+tags = ["deep-learning", "machine-learning", "natural-language-processing", "nlp", "oxford"]
+repository = "https://github.com/oxford-cs-deepnlp-2017/lectures"
+license = "NOASSERTION"
+added = 2026-10-20

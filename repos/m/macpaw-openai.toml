@@ -1,0 +1,8 @@
+name = "OpenAI"
+description = "Swift community driven package for OpenAI public API"
+category = "other"
+tags = ["ai", "openai", "openai-api", "spm", "swift", "swiftpackagemanager"]
+repository = "https://github.com/MacPaw/OpenAI"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

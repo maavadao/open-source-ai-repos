@@ -1,0 +1,8 @@
+name = "ringattention"
+description = "Large Context Attention"
+category = "models"
+tags = ["large-language-models", "long-context", "memory-efficient", "transformers"]
+repository = "https://github.com/haoliuhl/ringattention"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

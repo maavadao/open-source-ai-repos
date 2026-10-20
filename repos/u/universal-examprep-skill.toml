@@ -1,0 +1,8 @@
+name = "universal-examprep-skill"
+description = "Exam Cram Coach · 跨会话记忆与讲义溯源防幻觉的极速备考教练 | AI exam-prep tutor for Claude Code, Cursor, Codex, Antigravity: teaches from slides with page citations, crops figures, quizzes with real homework, runs smoothly on small cheap models. 期末复习·考前突击·刷题·错题本·小抄"
+category = "education"
+tags = ["agent-skill", "ai-tutor", "anti-hallucination", "claude-code", "cram", "education", "exam-prep", "quiz"]
+repository = "https://github.com/ZeKaiNie/universal-examprep-skill"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "free-dall-e-proxy"
+description = "Free-Dall-E-Proxy, an open-source repository that serves as a proxy for API-based interactions with OpenAI's DALL·E 3 image generation model provided by coze."
+category = "image"
+tags = ["dall-e", "dall-e-3", "openai", "coze"]
+repository = "https://github.com/Feiyuyu0503/free-dall-e-proxy"
+website = "https://dalle.feiyuyu.net"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

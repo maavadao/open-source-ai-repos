@@ -1,0 +1,9 @@
+name = "openwolf"
+description = "Portable project memory across Claude Code, Codex and OpenCode, plus token accounting measured from harness transcripts. Local file I/O, no API calls, no telemetry."
+category = "coding"
+tags = ["anthropic", "claude-ai", "claude-code", "cli", "developer-tools", "middleware", "open-source", "token-optimization"]
+repository = "https://github.com/cytostack/openwolf"
+website = "https://openwolf.com"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "papers-for-molecular-design-using-DL"
+description = "List of Molecular and Material design using Generative AI and Deep Learning"
+category = "image"
+tags = ["generative-ai", "molecular-design", "deep-generative-models", "drug-design", "diffusion", "gan", "gnns", "lstm"]
+repository = "https://github.com/AspirinCode/papers-for-molecular-design-using-DL"
+license = "GPL-3.0"
+added = 2026-10-20

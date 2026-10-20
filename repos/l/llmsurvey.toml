@@ -1,0 +1,9 @@
+name = "LLMSurvey"
+description = "The official GitHub page for the survey paper \"A Survey of Large Language Models\"."
+category = "chat"
+tags = ["chain-of-thought", "chatgpt", "in-context-learning", "instruction-tuning", "large-language-models", "llm", "llms", "natural-language-processing"]
+repository = "https://github.com/RUCAIBox/LLMSurvey"
+website = "https://arxiv.org/abs/2303.18223"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

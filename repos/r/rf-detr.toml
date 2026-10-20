@@ -1,0 +1,9 @@
+name = "rf-detr"
+description = "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning. [ICLR 2026]"
+category = "vision"
+tags = ["computer-vision", "detr", "machine-learning", "object-detection", "rf-detr", "instance-segmentation", "sota"]
+repository = "https://github.com/roboflow/rf-detr"
+website = "https://rfdetr.roboflow.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

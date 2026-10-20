@@ -1,0 +1,9 @@
+name = "soundnet"
+description = "SoundNet: Learning Sound Representations from Unlabeled Video. NIPS 2016"
+category = "vision"
+tags = ["sound", "computer-vision", "deep-learning"]
+repository = "https://github.com/cvondrick/soundnet"
+website = "http://projects.csail.mit.edu/soundnet/"
+license = "MIT"
+language = "Lua"
+added = 2026-10-20

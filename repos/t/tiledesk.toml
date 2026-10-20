@@ -1,0 +1,9 @@
+name = "tiledesk"
+description = "Install Tiledesk on your server using Helm for Kubernetes orchestration and Docker Compose for running multi-container Docker applications. Tiledesk provides an open-source solution comparable to Voiceflow, empowering you to create sophisticated LLM-enabled chatbots that…"
+category = "chat"
+tags = ["kubernetes", "docker", "helm-charts", "installation", "helm", "open-source", "opensource", "chatbot"]
+repository = "https://github.com/Tiledesk/tiledesk"
+website = "https://tiledesk.com/"
+license = "MIT"
+language = "Mustache"
+added = 2026-10-20

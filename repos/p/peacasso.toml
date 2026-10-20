@@ -1,0 +1,9 @@
+name = "peacasso"
+description = "UI interface for experimenting with multimodal (text, image) models (stable diffusion)."
+category = "image"
+tags = ["deeplearning", "machinelearning", "stablediffusion", "stable-diffusion"]
+repository = "https://github.com/victordibia/peacasso"
+website = "https://victordibia.com/peacasso/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

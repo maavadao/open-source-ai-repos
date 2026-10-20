@@ -1,0 +1,8 @@
+name = "autonomous-learning-library"
+description = "A PyTorch library for building deep reinforcement learning agents."
+category = "ml-platforms"
+tags = ["reinforcement-learning", "reinforcement-learning-algorithms", "deep-reinforcement-learning", "soft-actor-critic", "proximal-policy-optimization", "deep-q-learning", "advantage-actor-critic", "deep-deterministic-policy-gradient"]
+repository = "https://github.com/cpnota/autonomous-learning-library"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

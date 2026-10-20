@@ -1,0 +1,8 @@
+name = "nuwa-pytorch"
+description = "Implementation of NÜWA, state of the art attention network for text to video synthesis, in Pytorch"
+category = "video"
+tags = ["artificial-intelligence", "deep-learning", "transformers", "attention-mechanism", "text-to-video", "text-to-audio"]
+repository = "https://github.com/lucidrains/nuwa-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

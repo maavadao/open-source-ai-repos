@@ -1,0 +1,9 @@
+name = "mlx-tune"
+description = "Fine-tune LLMs on your Mac with Apple Silicon. SFT, DPO, GRPO, Vision, TTS, STT, Embedding, and OCR fine-tuning — natively on MLX. Unsloth-compatible API."
+category = "speech"
+tags = ["apple-silicon", "deep-learning", "huggingface", "large-language-models", "llm", "llm-finetuning", "local-llm", "lora"]
+repository = "https://github.com/ARahim3/mlx-tune"
+website = "https://arahim3.github.io/mlx-tune/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

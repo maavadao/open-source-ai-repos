@@ -1,0 +1,9 @@
+name = "open-agent"
+description = "Open-source alternative to Claude Agent SDK, ChatGPT Agents, and Manus."
+category = "agents"
+tags = ["agentic-ai", "agentic-framework", "agents", "multiagent-reinforcement-learning", "multiagent-systems", "workspace"]
+repository = "https://github.com/AFK-surf/open-agent"
+website = "https://open-agent.io/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

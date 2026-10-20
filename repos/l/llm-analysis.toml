@@ -1,0 +1,8 @@
+name = "llm-analysis"
+description = "Latency and Memory Analysis of Transformer Models for Training and Inference"
+category = "models"
+tags = ["analysis", "deep-learning", "machine-learning", "nlp", "transformers", "language-model", "language-models"]
+repository = "https://github.com/cli99/llm-analysis"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

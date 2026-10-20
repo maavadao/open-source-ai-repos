@@ -1,0 +1,9 @@
+name = "coderunner"
+description = "A local sandbox for your AI agents"
+category = "mcp-servers"
+tags = ["anthropic", "apple", "claude-code", "containerization", "gemini-cli", "llm", "mcp", "openai"]
+repository = "https://github.com/instavm/coderunner"
+website = "https://instavm.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

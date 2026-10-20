@@ -1,0 +1,9 @@
+name = "fashn-vton-1.5"
+description = "FASHN VTON v1.5: Efficient Maskless Virtual Try-On in Pixel Space"
+category = "image"
+tags = ["computer-vision", "deep-learning", "diffusion-models", "e-commerce", "fashion-ai", "generative-ai", "huggingface", "image-generation"]
+repository = "https://github.com/fashn-AI/fashn-vton-1.5"
+website = "https://fashn.ai/research/vton-1-5"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

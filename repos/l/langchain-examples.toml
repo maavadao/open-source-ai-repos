@@ -1,0 +1,9 @@
+name = "langchain-examples"
+description = "A collection of apps powered by the LangChain LLM framework."
+category = "vector-databases"
+tags = ["jupyter-notebook", "langchain", "llm", "notebook", "openai", "pinecone", "python", "streamlit"]
+repository = "https://github.com/alphasecio/langchain-examples"
+website = "https://go.alphasec.io/langchain-examples"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

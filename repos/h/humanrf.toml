@@ -1,0 +1,9 @@
+name = "humanrf"
+description = "Official code for \"HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion\""
+category = "vision"
+tags = ["computer-graphics", "computer-vision", "nerf", "3d-reconstruction", "machine-learning", "siggraph2023"]
+repository = "https://github.com/synthesiaresearch/humanrf"
+website = "http://actors-hq.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "fg-data-synthetic"
+description = "Synthetic data generators for tabular and time-series data"
+category = "ml-platforms"
+tags = ["gan-architectures", "gan", "deep-learning", "synthetic-data", "tensorflow2", "machine-learning", "training-data", "python3"]
+repository = "https://github.com/Data-Centric-AI-Community/fg-data-synthetic"
+website = "https://docs.sdk.ydata.ai"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

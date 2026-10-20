@@ -1,0 +1,8 @@
+name = "Chinese-Mixtral-8x7B"
+description = "中文Mixtral-8x7B（Chinese-Mixtral-8x7B）"
+category = "models"
+tags = ["large-language-models", "llm", "mixtral-8x7b", "nlp"]
+repository = "https://github.com/HIT-SCIR/Chinese-Mixtral-8x7B"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

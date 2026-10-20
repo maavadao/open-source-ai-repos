@@ -1,0 +1,9 @@
+name = "SiamMask"
+description = "[CVPR19/TPAMI23] SiamMask: A Framework for Fast Online Object Tracking and Segmentation"
+category = "vision"
+tags = ["visual-tracking", "video-object-segmentation", "read-time", "pytorch", "deep-learning", "cvpr2019", "computer-vision", "object-tracking"]
+repository = "https://github.com/foolwood/SiamMask"
+website = "http://www.robots.ox.ac.uk/~qwang/SiamMask"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

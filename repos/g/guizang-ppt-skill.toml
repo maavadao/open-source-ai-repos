@@ -1,0 +1,8 @@
+name = "guizang-ppt-skill"
+description = "AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime."
+category = "skills-prompts"
+tags = ["ai-agent", "claude-code", "codex", "image-generation", "ppt", "presentation", "skill", "swiss-design"]
+repository = "https://github.com/op7418/guizang-ppt-skill"
+license = "AGPL-3.0"
+language = "HTML"
+added = 2026-10-20

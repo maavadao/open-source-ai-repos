@@ -1,0 +1,9 @@
+name = "cloud-annotations"
+description = "A fast, easy and collaborative open source image annotation tool for teams and individuals."
+category = "ml-platforms"
+tags = ["training", "machine-learning", "tensorflow", "hacktoberfest", "cloud-annotations", "ibm-cloud", "label-images", "detection"]
+repository = "https://github.com/cloud-annotations/cloud-annotations"
+website = "https://vision.skills.network"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

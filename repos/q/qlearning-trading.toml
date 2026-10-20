@@ -1,0 +1,8 @@
+name = "QLearning_Trading"
+description = "Learning to trade under the reinforcement learning framework"
+category = "ml-platforms"
+tags = ["machine-learning", "trade", "reinforcement-learning", "agent-based-modeling"]
+repository = "https://github.com/ucaiado/QLearning_Trading"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

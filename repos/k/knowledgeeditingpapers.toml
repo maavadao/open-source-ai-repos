@@ -1,0 +1,7 @@
+name = "KnowledgeEditingPapers"
+description = "Must-read Papers on Knowledge Editing for Large Language Models."
+category = "models"
+tags = ["paper-list", "pre-trained-language-models", "pre-trained-model", "knowledge-editing", "model-editing", "large-language-models", "awsome-list", "foundation-models"]
+repository = "https://github.com/zjunlp/KnowledgeEditingPapers"
+license = "MIT"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "UI-Venus"
+description = "UI-Venus is a general-purpose foundation GUI agent for mobile apps, web platforms, and desktop operating systems using only screenshots as input."
+category = "browser-automation"
+tags = ["gui-agent", "gui-grounding", "gui-captcha-solver", "browser-use", "computer-use", "cua", "mobile-use", "browser-use-agent"]
+repository = "https://github.com/inclusionAI/UI-Venus"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

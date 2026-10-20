@@ -1,0 +1,8 @@
+name = "OpenCDA"
+description = "A generalized framework for prototyping full-stack cooperative driving automation applications under CARLA+SUMO."
+category = "robotics"
+tags = ["autonomous-driving", "cooperative-driving-automation", "simulation", "connected-and-automated-vehicles", "automated-driving-systems"]
+repository = "https://github.com/ucla-mobility/OpenCDA"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "LongWriter"
+description = "[ICLR 2025] LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs"
+category = "models"
+tags = ["fine-tuning", "llm", "long-context", "long-text"]
+repository = "https://github.com/THUDM/LongWriter"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

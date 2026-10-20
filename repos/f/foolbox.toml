@@ -1,0 +1,9 @@
+name = "foolbox"
+description = "A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX"
+category = "security"
+tags = ["adversarial-examples", "machine-learning", "python", "adversarial-attacks", "pytorch", "tensorflow", "jax", "keras"]
+repository = "https://github.com/bethgelab/foolbox"
+website = "https://foolbox.jonasrauber.de"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

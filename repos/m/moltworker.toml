@@ -1,0 +1,9 @@
+name = "moltworker"
+description = "Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers"
+category = "agents"
+tags = ["ai-agents", "cloudflare-workers"]
+repository = "https://github.com/cloudflare/moltworker"
+website = "https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

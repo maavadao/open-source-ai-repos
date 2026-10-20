@@ -1,0 +1,7 @@
+name = "awesome-alignment-of-diffusion-models"
+description = "[ACM Computing Surveys] The collection of awesome papers on alignment of diffusion models."
+category = "learning"
+tags = ["alignment", "diffusion-models", "generative-ai"]
+repository = "https://github.com/xie-lab-ml/awesome-alignment-of-diffusion-models"
+license = "MIT"
+added = 2026-10-20

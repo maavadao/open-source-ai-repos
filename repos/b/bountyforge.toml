@@ -1,0 +1,9 @@
+name = "bountyforge"
+description = "all round pentest skill"
+category = "coding"
+tags = ["ai", "ai-agents", "claude-code", "pentesting", "secuirty", "0x-alpha"]
+repository = "https://github.com/Gabson0x/bountyforge"
+website = "https://bountyforge.xyz"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

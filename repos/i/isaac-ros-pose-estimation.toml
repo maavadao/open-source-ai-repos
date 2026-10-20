@@ -1,0 +1,9 @@
+name = "isaac_ros_pose_estimation"
+description = "Deep learned, NVIDIA-accelerated 3D object pose estimation"
+category = "robotics"
+tags = ["pose-estimation", "dope", "deep-learning", "nvidia", "tensorrt", "inference", "ros", "ros2-humble"]
+repository = "https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation"
+website = "https://developer.nvidia.com/isaac-ros-gems"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

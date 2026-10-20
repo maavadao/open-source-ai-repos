@@ -1,0 +1,9 @@
+name = "LAP"
+description = "Your agents are guessing at APIs. Give them the actual Agent-Native spec. 1500+ API's Ready To-Use skills, Compile any API spec into a lean, agent-native format. 10× smaller. OpenAPI, GraphQL, AsyncAPI, Protobuf, Postman."
+category = "mcp-servers"
+tags = ["ai-agents", "api", "cli", "developer-tools", "graphql", "openapi", "token-optimization", "agent-experience"]
+repository = "https://github.com/Lap-Platform/LAP"
+website = "https://lap.sh/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

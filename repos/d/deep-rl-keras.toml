@@ -1,0 +1,8 @@
+name = "Deep-RL-Keras"
+description = "Keras Implementation of popular Deep RL Algorithms (A3C, DDQN, DDPG, Dueling DDQN)"
+category = "ml-platforms"
+tags = ["a3c", "reinforcement-learning", "keras", "gym", "openai", "policy-gradient", "ddpg", "keras-rl"]
+repository = "https://github.com/germain-hug/Deep-RL-Keras"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

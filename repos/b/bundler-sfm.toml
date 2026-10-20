@@ -1,0 +1,8 @@
+name = "bundler_sfm"
+description = "Bundler Structure from Motion Toolkit"
+category = "vision"
+tags = ["structure-from-motion", "computer-vision", "bundle-adjustment", "computer-vision-tools", "3d-reconstruction", "3d-vision"]
+repository = "https://github.com/snavely/bundler_sfm"
+license = "NOASSERTION"
+language = "C"
+added = 2026-10-20

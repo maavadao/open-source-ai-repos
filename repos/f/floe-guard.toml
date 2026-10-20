@@ -1,0 +1,9 @@
+name = "floe-guard"
+description = "AI Initiative Ledger — local spend meter and budget gate for AI tasks. Meters every vendor leg (LLM, speech, telephony, search, tools), hard-stops before the ceiling. MIT, no account."
+category = "security"
+tags = ["ai-agents", "ai-agents-cli", "ai-safety", "budget", "spending-tracker", "open-source", "pipecat", "elevenlabs"]
+repository = "https://github.com/Floe-Labs/floe-guard"
+website = "https://www.floefinance.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

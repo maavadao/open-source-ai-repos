@@ -1,0 +1,8 @@
+name = "ai-agent"
+description = "一个面向全网研究与复杂数据分析的云端智能体，能在公开网络、YouTube、BiliBili、X、小红书、Hacker News上研究任何主题 。项目wiki：https://zread.ai/OWWZO/ai-agent"
+category = "mcp-servers"
+tags = ["agent", "agentic", "agentic-workflow", "ai", "ai-agents", "harness", "llm", "multi-agent"]
+repository = "https://github.com/OWWZO/ai-agent"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

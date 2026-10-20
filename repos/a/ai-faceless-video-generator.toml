@@ -1,0 +1,9 @@
+name = "AI-Faceless-Video-Generator"
+description = "Generate a video script, voice and a talking face completely with AI"
+category = "video"
+tags = ["ai-video-generator", "artificial-intelligence", "faceless", "faceless-video", "image-to-video", "shorts", "sora-video", "sora-video-ai"]
+repository = "https://github.com/SamurAIGPT/AI-Faceless-Video-Generator"
+website = "https://www.vadoo.tv/ai-faceless-video-generator"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

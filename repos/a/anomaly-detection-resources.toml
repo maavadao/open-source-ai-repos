@@ -1,0 +1,8 @@
+name = "anomaly-detection-resources"
+description = "Anomaly detection related books, papers, videos, and toolboxes. Last update late 2025 for LLM and VLM works!"
+category = "models"
+tags = ["outlier-detection", "anomaly-detection", "outlier", "outlier-ensembles", "time-series-analysis", "data-mining", "awesome", "awesome-list"]
+repository = "https://github.com/yzhao062/anomaly-detection-resources"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

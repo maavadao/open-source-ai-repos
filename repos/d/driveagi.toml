@@ -1,0 +1,9 @@
+name = "DriveAGI"
+description = "[CVPR 2024 Highlight] GenAD: Generalized Predictive Model for Autonomous Driving"
+category = "video"
+tags = ["foundation-model", "autonomous-driving", "embodied-ai", "general-artificial-intelligence", "policy-learning", "large-dataset", "video-dataset", "video-generation"]
+repository = "https://github.com/OpenDriveLab/DriveAGI"
+website = "https://opendrivelab.com/AutonomousDriving"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

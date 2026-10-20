@@ -1,0 +1,8 @@
+name = "wally"
+description = "Get up and running with GLM-5.3-flash, DeepSeek, Gemma and other open source frontier models."
+category = "chat"
+tags = ["deepseek", "frontier-ai", "glm-5-3", "llms", "local-ai-infrastructure", "qwen"]
+repository = "https://github.com/RunanywhereAI/wally"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

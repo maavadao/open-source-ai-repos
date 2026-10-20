@@ -1,0 +1,9 @@
+name = "PaddleSeg"
+description = "Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, 3D Segmentation, etc."
+category = "robotics"
+tags = ["semantic-segmentation", "image-segmentation", "image-matting", "interactive-segmentation", "panoptic-segmentation", "transformer", "lane-detection", "autonomous-driving"]
+repository = "https://github.com/PaddlePaddle/PaddleSeg"
+website = "https://arxiv.org/abs/2101.06175"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

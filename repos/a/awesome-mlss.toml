@@ -1,0 +1,9 @@
+name = "awesome-mlss"
+description = "Machine Learning Summer School Guide"
+category = "learning"
+tags = ["summer-school", "summer-schools", "deep-learning", "reinforcement-learning", "artificial-intelligence", "machine-learning"]
+repository = "https://github.com/awesome-mlss/awesome-mlss"
+website = "https://awesome-mlss.com"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

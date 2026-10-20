@@ -1,0 +1,9 @@
+name = "whisper-youtube"
+description = "Youtube Videos Transcription with OpenAI's Whisper"
+category = "speech"
+tags = ["automatic-speech-recognition", "speech-recognition", "speech-to-text", "transformer", "whisper", "youtube", "colab-notebook"]
+repository = "https://github.com/ArthurFDLR/whisper-youtube"
+website = "https://colab.research.google.com/github/ArthurFDLR/whisper-youtube/blob/main/whisper_youtube.ipynb"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

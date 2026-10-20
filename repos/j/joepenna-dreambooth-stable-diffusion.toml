@@ -1,0 +1,8 @@
+name = "Dreambooth-Stable-Diffusion"
+description = "Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused on training faces, objects, and styles."
+category = "image"
+tags = ["ai", "txt2img", "artificial-intelligence", "image-generation", "machine-learning", "model-training", "img2img", "latent-diffusion"]
+repository = "https://github.com/JoePenna/Dreambooth-Stable-Diffusion"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

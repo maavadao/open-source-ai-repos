@@ -1,0 +1,9 @@
+name = "mav"
+description = "Model Activity Visualiser"
+category = "models"
+tags = ["large-language-models", "machine-learning", "visualization"]
+repository = "https://github.com/attentionmech/mav"
+website = "https://pypi.org/project/openmav/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

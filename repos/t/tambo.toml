@@ -1,0 +1,9 @@
+name = "tambo"
+description = "Generative UI SDK for React"
+category = "chat"
+tags = ["ai", "js", "react", "reactjs", "ui", "ui-components", "agent", "agents"]
+repository = "https://github.com/tambo-ai/tambo"
+website = "https://tambo.co"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "rocketride-server"
+description = "High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker…"
+category = "mcp-servers"
+tags = ["ai", "cpp", "data-pipeline", "data-processing", "machine-learning", "mcp", "python", "sdk"]
+repository = "https://github.com/rocketride-org/rocketride-server"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

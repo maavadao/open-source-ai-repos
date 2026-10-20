@@ -1,0 +1,8 @@
+name = "CyberScraper-2077"
+description = "A Powerful web scraper powered by LLM | OpenAI, Gemini & Ollama"
+category = "models"
+tags = ["ai-scraping", "llm", "openai", "scraper", "webscraping", "gemini-api", "llm-scraper", "web-scraper"]
+repository = "https://github.com/itsOwen/CyberScraper-2077"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

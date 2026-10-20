@@ -1,0 +1,9 @@
+name = "Fun-ASR"
+description = "Fun-ASR speech recognition models, with native Hugging Face Transformers support for Fun-ASR-Nano and separate FunASR, vLLM and llama.cpp deployment paths."
+category = "speech"
+tags = ["audio-language-model", "pytorch", "speaker-diarization", "speech-recognition", "fun-asr", "asr", "chinese-dialects", "multilingual-asr"]
+repository = "https://github.com/QwenAudio/Fun-ASR"
+website = "https://huggingface.co/spaces/FunAudioLLM/Fun-ASR-Nano"
+license = "Apache-2.0"
+language = "C"
+added = 2026-10-20

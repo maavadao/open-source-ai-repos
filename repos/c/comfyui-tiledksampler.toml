@@ -1,0 +1,8 @@
+name = "ComfyUI_TiledKSampler"
+description = "Tiled samplers for ComfyUI"
+category = "image"
+tags = ["comfyui", "stable-diffusion"]
+repository = "https://github.com/BlenderNeko/ComfyUI_TiledKSampler"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "pinferencia"
+description = "Python + Inference - Model Deployment library in Python. Simplest model inference server ever."
+category = "vision"
+tags = ["ai", "inference-server", "predict", "inference", "deep-learning", "modelserver", "machine-learning", "python"]
+repository = "https://github.com/underneathall/pinferencia"
+website = "https://pinferencia.underneathall.app"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

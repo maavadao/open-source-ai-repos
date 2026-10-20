@@ -1,0 +1,9 @@
+name = "img-prompt"
+description = "Click tags in your language, get the English prompt Midjourney, FLUX, GPT-Image & Veo actually expect — 한국어 العربية Русский हिन्दी ไทย ｜ 英文提示词不用自己写：点中文标签，自动拼好模型认的那一套"
+category = "skills-prompts"
+tags = ["aigc", "prompts", "midjourney", "stable-diffusion", "flux", "sora", "nano-banana", "ai-art"]
+repository = "https://github.com/rockbenben/img-prompt"
+website = "https://prompt.newzone.top"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

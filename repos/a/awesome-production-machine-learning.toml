@@ -1,0 +1,8 @@
+name = "awesome-production-machine-learning"
+description = "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning"
+category = "learning"
+tags = ["machine-learning", "mlops", "interpretability", "explainability", "responsible-ai", "deep-learning", "machine-learning-operations", "ml-ops"]
+repository = "https://github.com/EthicalML/awesome-production-machine-learning"
+website = "https://ethicalml.github.io/awesome-production-machine-learning"
+license = "MIT"
+added = 2026-10-20

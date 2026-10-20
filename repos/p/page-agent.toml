@@ -1,0 +1,9 @@
+name = "page-agent"
+description = "JavaScript in-page GUI agent. Control web interfaces with natural language."
+category = "mcp-servers"
+tags = ["agent", "ai", "web", "ai-agents", "javascript", "typescript", "browser-automation", "mcp"]
+repository = "https://github.com/alibaba/page-agent"
+website = "https://alibaba.github.io/page-agent/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

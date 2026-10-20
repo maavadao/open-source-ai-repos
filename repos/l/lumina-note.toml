@@ -1,0 +1,8 @@
+name = "Lumina-Note"
+description = "Lumina Note - A modern Markdown note-taking app with live preview, bidirectional links, and AI assistant"
+category = "agents"
+tags = ["ai", "ai-agents", "markdown", "note-taking", "react", "typescript", "desktop-app", "knowledge-graph"]
+repository = "https://github.com/blueberrycongee/Lumina-Note"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

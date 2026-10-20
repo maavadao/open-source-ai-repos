@@ -1,0 +1,9 @@
+name = "vectordb"
+description = "A high performance Vector Database leveraging parallel graph computing"
+category = "vector-databases"
+tags = ["ai", "infrastructure", "llms", "chatgpt", "data", "data-science", "database", "embeddings"]
+repository = "https://github.com/epsilla-cloud/vectordb"
+website = "https://epsilla.com"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

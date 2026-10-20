@@ -1,0 +1,8 @@
+name = "trlx"
+description = "A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)"
+category = "ml-platforms"
+tags = ["machine-learning", "pytorch", "reinforcement-learning"]
+repository = "https://github.com/CarperAI/trlx"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Better-Fullstack"
+description = "Scaffold production-ready full-stack apps in TypeScript, Rust, Python, Go, and Java with a visual builder and CLI. Choose your frontend, backend, database, auth, AI, payments, and DevOps integrations, all wired together."
+category = "mcp-servers"
+tags = ["cli", "full-stack", "rust", "typescript", "drizzle-orm", "golang", "python", "react"]
+repository = "https://github.com/Marve10s/Better-Fullstack"
+website = "https://better-fullstack.dev/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

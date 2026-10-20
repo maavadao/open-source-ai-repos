@@ -1,0 +1,8 @@
+name = "gemini-webapi-mcp"
+description = "MCP server for Google Gemini — free image generation, editing & chat via browser cookies. No API keys needed."
+category = "mcp-servers"
+tags = ["ai", "claude", "claude-code", "gemini", "gemini-api", "generative-ai", "google-gemini", "image-generation"]
+repository = "https://github.com/AndyShaman/gemini-webapi-mcp"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

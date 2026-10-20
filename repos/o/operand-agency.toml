@@ -1,0 +1,9 @@
+name = "agency"
+description = "A fast and minimal framework for building agentic systems"
+category = "agents"
+tags = ["actor", "actor-model", "agent", "agents", "ai", "artificial-intelligence", "machine-learning", "python"]
+repository = "https://github.com/operand/agency"
+website = "https://createwith.agency"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

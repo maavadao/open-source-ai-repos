@@ -1,0 +1,9 @@
+name = "nanoPerplexityAI"
+description = "The simplest open-source implementation of perplexity.ai"
+category = "search"
+tags = ["large-language-models", "open-source-perplexity-ai", "nanoperplexityai", "search-engine", "perplexity-ai", "searchgpt", "ai-search-engine"]
+repository = "https://github.com/Yusuke710/nanoPerplexityAI"
+website = "https://youtu.be/8zBDTnSYSoc?si=WVepg1koE2APzUCu"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

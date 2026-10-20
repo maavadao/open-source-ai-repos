@@ -1,0 +1,9 @@
+name = "reductstore"
+description = "High-performance, time-indexed object storage for robotics and industrial IoT"
+category = "robotics"
+tags = ["blob-storage", "storage-engine", "storage", "historian", "timeseries", "time-series", "big-data", "bigdata"]
+repository = "https://github.com/reductstore/reductstore"
+website = "https://www.reduct.store"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

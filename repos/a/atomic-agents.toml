@@ -1,0 +1,9 @@
+name = "atomic-agents"
+description = "Building AI agents, atomically"
+category = "models"
+tags = ["ai", "artificial-intelligence", "large-language-model", "large-language-models", "llms", "openai", "openai-api"]
+repository = "https://github.com/Eigenwise/atomic-agents"
+website = "https://eigenwise.github.io/atomic-agents/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

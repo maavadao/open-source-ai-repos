@@ -1,0 +1,9 @@
+name = "CyberStrike"
+description = "Open-source AI-powered offensive security harness for automated penetration testing."
+category = "mcp-servers"
+tags = ["agents", "ai-hacking", "ai-penetration-testing", "ai-pentesting", "ai-security", "artificial-intelligence", "bug-bounty", "code-quality"]
+repository = "https://github.com/CyberStrikeus/CyberStrike"
+website = "https://cyberstrike.io"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

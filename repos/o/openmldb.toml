@@ -1,0 +1,9 @@
+name = "OpenMLDB"
+description = "OpenMLDB is an open-source machine learning database that provides a feature platform computing consistent features for training and inference."
+category = "ml-platforms"
+tags = ["feature-engineering", "machine-learning", "featurestore", "in-memory-database", "database-for-machine-learning", "machine-learning-database", "feature-store", "feature-extraction"]
+repository = "https://github.com/4paradigm/OpenMLDB"
+website = "https://openmldb.ai"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

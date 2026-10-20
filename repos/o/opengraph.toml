@@ -1,0 +1,9 @@
+name = "OpenGraph"
+description = "[EMNLP'2024] \"OpenGraph: Towards Open Graph Foundation Models\""
+category = "models"
+tags = ["data-augmentation", "fundation-models", "graph-generation", "graph-learning", "graph-neural-networks", "large-language-models", "transformer", "graph-algorithms"]
+repository = "https://github.com/HKUDS/OpenGraph"
+website = "https://arxiv.org/abs/2403.01121"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

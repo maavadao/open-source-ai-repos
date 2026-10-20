@@ -1,0 +1,9 @@
+name = "imagededup"
+description = "Finding duplicate images made easy!"
+category = "vision"
+tags = ["image-deduplication", "neural-network", "hashing", "e-commerce", "idealo", "image-preprocessing", "computer-vision", "pytorch"]
+repository = "https://github.com/idealo/imagededup"
+website = "https://idealo.github.io/imagededup/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

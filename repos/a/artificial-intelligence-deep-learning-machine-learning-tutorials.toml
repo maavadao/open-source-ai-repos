@@ -1,0 +1,9 @@
+name = "Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials"
+description = "Synapsa Commons: free, hands-on AI courses that run anywhere (Colab, Kaggle, Binder, Codespaces, Jupyter). EU AI Act conformity evidence, model validation, predictive maintenance, document extraction, retrieval and RAG, AI agents and MCP, a simulated humanoid. Every lesson…"
+category = "learning"
+tags = ["machine-learning", "deep-learning", "python", "artificial-intelligence", "ai-governance", "autograding", "document-ai", "eu-ai-act"]
+repository = "https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials"
+website = "https://synapsa.realai.eu"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

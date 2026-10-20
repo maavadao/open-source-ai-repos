@@ -1,0 +1,9 @@
+name = "V2V-PoseNet_RELEASE"
+description = "Official Torch7 implementation of \"V2V-PoseNet: Voxel-to-Voxel Prediction Network for Accurate 3D Hand and Human Pose Estimation from a Single Depth Map\", CVPR 2018"
+category = "vision"
+tags = ["hand-pose-estimation", "human-pose-estimation", "v2v-posenet", "deep-learning", "computer-vision", "3d-pose-estimation", "3d-hand-pose", "3d-human-pose"]
+repository = "https://github.com/mks0601/V2V-PoseNet_RELEASE"
+website = "https://arxiv.org/abs/1711.07399"
+license = "MIT"
+language = "MATLAB"
+added = 2026-10-20

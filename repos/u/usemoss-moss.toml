@@ -1,0 +1,9 @@
+name = "moss"
+description = "The retrieval layer for production AI systems. Lightning-fast (<10ms) search without vector databases. Built for browser, edge, on-device, and cloud."
+category = "agents"
+tags = ["ai-agents", "ai-infra", "hybrid-search", "rag", "real-time", "retrieval", "semantic-search", "voice-ai"]
+repository = "https://github.com/usemoss/moss"
+website = "https://moss.dev"
+license = "BSD-2-Clause"
+language = "Python"
+added = 2026-10-20

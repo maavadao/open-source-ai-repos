@@ -1,0 +1,9 @@
+name = "theMLbook"
+description = "The Python code to reproduce the illustrations from The Hundred-Page Machine Learning Book."
+category = "learning"
+tags = ["python", "machine-learning", "machine-learning-algorithms", "book"]
+repository = "https://github.com/aburkov/theMLbook"
+website = "http://themlbook.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

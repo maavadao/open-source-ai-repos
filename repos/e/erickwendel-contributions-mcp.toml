@@ -1,0 +1,9 @@
+name = "erickwendel-contributions-mcp"
+description = "A Model Context Protocol (MCP) server that provides tools to query Erick Wendel's contributions across different platforms"
+category = "mcp-servers"
+tags = ["graphql", "large-language-models", "llm", "model-context-protocol", "model-context-protocol-servers", "vibe-coding"]
+repository = "https://github.com/ErickWendel/erickwendel-contributions-mcp"
+website = "https://www.npmjs.com/package/@erickwendel/contributions-mcp"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "butterbase-skills"
+description = "Plugin for Butterbase.ai"
+category = "mcp-servers"
+tags = ["agent-skills", "ai-agents", "backend-as-a-service", "claude", "claude-code", "mcp", "skills", "butterbase"]
+repository = "https://github.com/butterbase-ai/butterbase-skills"
+license = "MIT"
+added = 2026-10-20

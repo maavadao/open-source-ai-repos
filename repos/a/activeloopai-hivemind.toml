@@ -1,0 +1,9 @@
+name = "hivemind"
+description = "Hivemind turns your traces into reusable skills across agents"
+category = "skills-prompts"
+tags = ["ai", "ai-agents", "ai-memory", "anthropic", "artificial-intelligence", "claude", "claude-agent-sdk", "claude-agents"]
+repository = "https://github.com/activeloopai/hivemind"
+website = "https://deeplake.ai/hivemind"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

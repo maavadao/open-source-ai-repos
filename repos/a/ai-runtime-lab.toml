@@ -1,0 +1,8 @@
+name = "ai-runtime-lab"
+description = "Engineering deterministic, production-grade systems around non-deterministic LLMs — FSM, durable execution, retries, DAGs, agent runtimes, model routing, edge inference, RAG, memory, multi-agent orchestration, security, and observability. 14 runnable proof-of-concept phases."
+category = "security"
+tags = ["agent-architecture", "agent-memory", "agentic-ai", "ai-agents", "ai-security", "dag", "durable-execution", "finite-state-machine"]
+repository = "https://github.com/Ali-hey-0/ai-runtime-lab"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

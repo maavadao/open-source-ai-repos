@@ -1,0 +1,9 @@
+name = "annyang"
+description = "Speech recognition for your site"
+category = "speech"
+tags = ["speech-recognition", "speech", "speech-to-text", "voice"]
+repository = "https://github.com/TalAter/annyang"
+website = "https://www.talater.com/annyang/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

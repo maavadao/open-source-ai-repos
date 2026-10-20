@@ -1,0 +1,9 @@
+name = "PALM-E"
+description = "Implementation of \"PaLM-E: An Embodied Multimodal Language Model\""
+category = "models"
+tags = ["artificial-intelligence", "artificial-neural-networks", "attention-is-all-you-need", "attention-mechanism", "deep-learning", "deeplearning", "gpt4", "multimodal"]
+repository = "https://github.com/kyegomez/PALM-E"
+website = "https://discord.gg/GYbXvDGevY"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

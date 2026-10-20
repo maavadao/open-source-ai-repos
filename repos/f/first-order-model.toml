@@ -1,0 +1,9 @@
+name = "first-order-model"
+description = "This repository contains the source code for the paper First Order Motion Model for Image Animation"
+category = "ml-platforms"
+tags = ["deep-learning", "image-animation", "generative-model", "motion-retargeting"]
+repository = "https://github.com/AliaksandrSiarohin/first-order-model"
+website = "https://aliaksandrsiarohin.github.io/first-order-model-website/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

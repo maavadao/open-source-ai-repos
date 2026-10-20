@@ -1,0 +1,9 @@
+name = "lerobot"
+description = "LeRobot: Making AI for Robotics more accessible with end-to-end learning"
+category = "robotics"
+repository = "https://github.com/huggingface/lerobot"
+website = "https://huggingface.co/docs/lerobot"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

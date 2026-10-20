@@ -1,0 +1,9 @@
+name = "lama"
+description = "LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022"
+category = "image"
+tags = ["inpainting", "inpainting-methods", "inpainting-algorithm", "computer-vision", "cnn", "deep-learning", "deep-neural-networks", "image-inpainting"]
+repository = "https://github.com/advimman/lama"
+website = "https://advimman.github.io/lama-project/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

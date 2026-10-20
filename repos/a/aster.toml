@@ -1,0 +1,8 @@
+name = "aster"
+description = "Recognizing cropped text in natural images."
+category = "documents"
+tags = ["ocr", "computer-vision", "scene-text", "recognition"]
+repository = "https://github.com/bgshih/aster"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

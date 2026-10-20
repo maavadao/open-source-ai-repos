@@ -1,0 +1,9 @@
+name = "CVPR-2023-24-Papers"
+description = "CVPR 2023-2024 Papers: Dive into advanced research presented at the leading computer vision conference. Keep up to date with the latest developments in computer vision and deep learning. Code included. support visual intelligence development!"
+category = "robotics"
+tags = ["action-recognition", "autonomous-driving", "biometrics", "computer-vision", "cvpr", "cvpr2023", "datasets", "deep-learning"]
+repository = "https://github.com/DmitryRyumin/CVPR-2023-24-Papers"
+website = "https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

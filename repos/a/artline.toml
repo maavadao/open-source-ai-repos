@@ -1,0 +1,8 @@
+name = "ArtLine"
+description = "A Deep Learning based project for creating line art portraits."
+category = "ml-platforms"
+tags = ["movie-poster", "colab", "art-portraits", "deep-learning", "ai", "portraits", "generative-art", "creative-coding"]
+repository = "https://github.com/vijishmadhavan/ArtLine"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

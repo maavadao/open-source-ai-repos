@@ -1,0 +1,9 @@
+name = "OpenAgentd"
+description = "Open-source desktop app for a local coding agent. Watch every tool call, diff, and terminal command. Bring your own models; sessions stay on your machine."
+category = "mcp-servers"
+tags = ["agents", "ai", "llm", "multi-agent", "self-hosted", "ai-coding-assistant", "coding-agent", "desktop-app"]
+repository = "https://github.com/lthoangg/OpenAgentd"
+website = "https://openagentd.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Sponsio"
+description = "Deterministic safety solutions for probabilistic AI agents"
+category = "mcp-servers"
+tags = ["agent-guardrails", "agent-harness", "agent-runtime", "agent-safety", "agent-security", "agent-skills", "agentic-ai", "ai-agents"]
+repository = "https://github.com/SponsioLabs/Sponsio"
+website = "https://sponsio.dev/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

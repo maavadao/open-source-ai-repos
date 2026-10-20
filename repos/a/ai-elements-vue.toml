@@ -1,0 +1,9 @@
+name = "ai-elements-vue"
+description = "AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster."
+category = "chat"
+tags = ["ai", "shadcn-vue", "chatbot", "elements", "vercel", "vue-components", "ui"]
+repository = "https://github.com/vuepont/ai-elements-vue"
+website = "https://www.ai-elements-vue.com"
+license = "NOASSERTION"
+language = "Vue"
+added = 2026-10-20

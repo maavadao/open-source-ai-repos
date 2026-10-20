@@ -1,0 +1,9 @@
+name = "chatgpt-vercel"
+description = "Create a private chatgpt website via vercel"
+category = "image"
+tags = ["chatgpt", "chatgpt-app", "chatgpt4", "openai", "vercel-deployment", "chatgpt3", "vercel", "midjourney"]
+repository = "https://github.com/GPTGenius/chatgpt-vercel"
+website = "https://chatgpt-vercel-sample.vercel.app/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

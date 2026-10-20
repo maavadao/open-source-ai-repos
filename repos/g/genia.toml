@@ -1,0 +1,9 @@
+name = "GeniA"
+description = "Your Engineering Gen AI Team member"
+category = "chat"
+tags = ["llm", "openai", "agent", "ai", "aws", "azure", "chatgpt", "gcp"]
+repository = "https://github.com/genia-dev/GeniA"
+website = "https://genia-dev.github.io/GeniA/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

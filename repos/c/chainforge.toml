@@ -1,0 +1,9 @@
+name = "ChainForge"
+description = "An open-source visual programming environment for battle-testing prompts to LLMs."
+category = "llm-apps"
+tags = ["ai", "evaluation", "large-language-models", "llmops", "llms", "prompt-engineering"]
+repository = "https://github.com/ianarawjo/ChainForge"
+website = "https://chainforge.ai/docs"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

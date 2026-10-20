@@ -1,0 +1,9 @@
+name = "formkit"
+description = "The form framework for coding agents"
+category = "skills-prompts"
+tags = ["forms", "vue", "validation", "form-generation", "agentic-workflow", "agents", "react", "reactjs"]
+repository = "https://github.com/formkit/formkit"
+website = "https://formkit.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

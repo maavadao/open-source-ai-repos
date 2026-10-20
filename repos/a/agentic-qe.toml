@@ -1,0 +1,9 @@
+name = "agentic-qe"
+description = "Agentic QE Fleet is an open-source AI-powered QA/QE platform designed for use with Coding Agents (works best with Claude Code) featuring specialized agents and skills to support testing activities for a product at any stage of the SDLC. Free to use, fork, build, and…"
+category = "agents"
+tags = ["agenticsfoundation", "agents", "quality-engineering", "agenticqe"]
+repository = "https://github.com/proffesor-for-testing/agentic-qe"
+website = "https://agentic-qe.dev/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

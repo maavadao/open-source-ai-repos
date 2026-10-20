@@ -1,0 +1,8 @@
+name = "LangChain-ReAct-Agent"
+description = "基于 LangChain/LangGraph 的 ReAct Agent，结合 RAG 检索、工具调用与 Streamlit 界面，面向智能客服与报告生成场景。"
+category = "agents"
+tags = ["langchain", "langgraph", "rag", "react-agent", "streamlit"]
+repository = "https://github.com/lhh737/LangChain-ReAct-Agent"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

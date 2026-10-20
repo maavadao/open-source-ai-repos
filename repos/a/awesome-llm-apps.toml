@@ -1,0 +1,9 @@
+name = "awesome-llm-apps"
+description = "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source."
+category = "learning"
+tags = ["llms", "rag", "python", "agents"]
+repository = "https://github.com/Shubhamsaboo/awesome-llm-apps"
+website = "https://www.theunwindai.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "LongMemory"
+description = "Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc."
+category = "vector-databases"
+tags = ["ai", "ai-agents", "ai-infrastructure", "ai-memory", "artificial-intelligence", "cognitive-architecture", "embeddings", "gemini"]
+repository = "https://github.com/CaviraOSS/LongMemory"
+website = "https://cavira.app/projects/longmemory"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

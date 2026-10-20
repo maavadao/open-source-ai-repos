@@ -1,0 +1,9 @@
+name = "viz-gpt"
+description = "Make contextual data visualization with Chat Interface from tabular datasets. AI data visualization."
+category = "chat"
+tags = ["chart", "chatgpt", "gpt", "vega-lite", "visualization", "chart-gpt", "visualization-gpt", "chartgpt"]
+repository = "https://github.com/ObservedObserver/viz-gpt"
+website = "https://vizgpt.ai"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

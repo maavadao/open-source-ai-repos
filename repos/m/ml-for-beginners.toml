@@ -1,0 +1,10 @@
+name = "ML-For-Beginners"
+description = "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all"
+category = "learning"
+tags = ["ml", "data-science", "machine-learning", "machine-learning-algorithms", "machinelearning", "python", "machinelearning-python", "scikit-learn"]
+repository = "https://github.com/microsoft/ML-For-Beginners"
+website = "https://microsoft.github.io/ML-For-Beginners/"
+license = "MIT"
+language = "Jupyter Notebook"
+skill_level = "beginner"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "rtk"
+description = "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies"
+category = "coding"
+tags = ["agentic-coding", "ai-coding", "anthropic", "claude-code", "cli", "command-line-tool", "cost-reduction", "developer-tools"]
+repository = "https://github.com/rtk-ai/rtk"
+website = "https://www.rtk-ai.app"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

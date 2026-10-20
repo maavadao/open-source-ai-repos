@@ -1,0 +1,9 @@
+name = "electerm"
+description = "Free and open-sourced terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS, iOS)"
+category = "mcp-servers"
+tags = ["electron", "electerm", "ssh", "sftp", "terminal", "linux-app", "macos-app", "open-source"]
+repository = "https://github.com/electerm/electerm"
+website = "https://electerm.org"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

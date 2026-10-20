@@ -1,0 +1,8 @@
+name = "DeRaindrop"
+description = "Attentive Generative Adversarial Network for Raindrop Removal from A Single Image (CVPR 2018)"
+category = "vision"
+tags = ["cvpr2018", "computer-vision", "low-level-vision"]
+repository = "https://github.com/rui1996/DeRaindrop"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

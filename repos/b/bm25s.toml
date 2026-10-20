@@ -1,0 +1,9 @@
+name = "bm25s"
+description = "Fast BM25 search in Python, powered by Numpy and Numba"
+category = "llm-apps"
+tags = ["bm25", "bm25-l", "bm25-plus", "lexical-search", "retrieval", "robertson", "search", "okapi-bm25"]
+repository = "https://github.com/xhluca/bm25s"
+website = "https://bm25s.github.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

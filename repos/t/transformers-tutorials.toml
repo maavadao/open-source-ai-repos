@@ -1,0 +1,8 @@
+name = "Transformers-Tutorials"
+description = "This repository contains demos I made with the Transformers library by HuggingFace."
+category = "learning"
+tags = ["transformers", "pytorch", "bert", "vision-transformer", "layoutlm", "gpt-2"]
+repository = "https://github.com/NielsRogge/Transformers-Tutorials"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "toppra"
+description = "robotic motion planning library"
+category = "robotics"
+tags = ["robotics-algorithms", "topp", "motion-planning", "robotics"]
+repository = "https://github.com/hungpham2511/toppra"
+website = "https://hungpham2511.github.io/toppra/index.html"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

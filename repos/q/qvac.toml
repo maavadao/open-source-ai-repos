@@ -1,0 +1,9 @@
+name = "qvac"
+description = "Open-source local AI SDK - run AI on-device with no cloud, no API keys. Supports GGUF, RAG, image, music, and video generation, speech-to-text, P2P inference, and more. Cross-platform: Linux, macOS, Windows, Android, iOS."
+category = "speech"
+tags = ["local-ai", "ai-sdk", "decentralized-ai", "llama", "llm-inference", "local-fine-tuning", "local-llm", "nodejs"]
+repository = "https://github.com/tetherto/qvac"
+website = "https://qvac.tether.io"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

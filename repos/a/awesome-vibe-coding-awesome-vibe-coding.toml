@@ -1,0 +1,9 @@
+name = "awesome-vibe-coding"
+description = "A hand-picked collection of tools and resources for Vibe Coding"
+category = "learning"
+tags = ["ai", "ai-app-builder", "ai-ide", "vibe", "vibe-coding", "vibecoding", "awesome-vibe-coding", "ai-agents"]
+repository = "https://github.com/awesome-vibe-coding/awesome-vibe-coding"
+website = "https://vibecoding.rest/"
+license = "CC0-1.0"
+language = "HTML"
+added = 2026-10-20

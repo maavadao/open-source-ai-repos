@@ -1,0 +1,9 @@
+name = "octotools"
+description = "OctoTools: An agentic framework with extensible tools for complex reasoning"
+category = "agents"
+tags = ["agentic-framework", "agents", "complex-reasoning", "large-language-models", "llms", "tool-augmented"]
+repository = "https://github.com/octotools/octotools"
+website = "https://octotools.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

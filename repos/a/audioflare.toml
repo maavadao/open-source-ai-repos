@@ -1,0 +1,9 @@
+name = "audioflare"
+description = "An all-in-one AI audio playground using Cloudflare AI Workers to transcribe, analyze, summarize, and translate any audio file."
+category = "speech"
+tags = ["ai", "cloudflare", "distilbert", "llama2", "m2m100", "openai", "whisper"]
+repository = "https://github.com/seanoliver/audioflare"
+website = "https://audioflare.seanoliver.dev/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

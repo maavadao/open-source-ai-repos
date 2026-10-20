@@ -1,0 +1,9 @@
+name = "dac"
+description = "DaC is a dashboard-as-code tool. Build interactive dashboards using YAML and JSX. Built-in semantic layer. Get your agents to build standardized, reviewable dashboards."
+category = "agents"
+tags = ["ai-agents", "business-intelligence", "dashboard", "semantic-layer"]
+repository = "https://github.com/bruin-data/dac"
+website = "https://getbruin.com/docs/dac/"
+license = "AGPL-3.0"
+language = "Go"
+added = 2026-10-20

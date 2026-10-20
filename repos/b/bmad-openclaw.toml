@@ -1,0 +1,8 @@
+name = "BMAD_Openclaw"
+description = "Bridging the BMad Method to OpenClaw — Structured AI-driven development workflows."
+category = "agents"
+tags = ["ai-agents", "ai-orchestration", "bmad-method", "openclaw", "software-development", "sub-agents"]
+repository = "https://github.com/ErwanLorteau/BMAD_Openclaw"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

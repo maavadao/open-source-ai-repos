@@ -1,0 +1,9 @@
+name = "Raycast-PromptLab"
+description = "A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more."
+category = "skills-prompts"
+tags = ["ai", "automation", "extension", "mac", "macos", "prompts", "raycast", "raycast-extension"]
+repository = "https://github.com/SKaplanOfficial/Raycast-PromptLab"
+website = "https://www.raycast.com/HelloImSteven/promptlab"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

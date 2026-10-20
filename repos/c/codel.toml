@@ -1,0 +1,9 @@
+name = "codel"
+description = "Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor."
+category = "local-llms"
+tags = ["agent", "ai", "autonomous-agents", "devin", "openai", "bot", "llms", "ollama"]
+repository = "https://github.com/semanser/codel"
+website = "https://discord.gg/uMaGSHNjzc"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

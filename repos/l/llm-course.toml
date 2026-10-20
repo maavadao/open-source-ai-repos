@@ -1,0 +1,9 @@
+name = "llm-course"
+description = "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks."
+category = "learning"
+tags = ["course", "llm", "machine-learning", "roadmap", "large-language-models"]
+repository = "https://github.com/mlabonne/llm-course"
+website = "https://mlabonne.github.io/blog/"
+license = "Apache-2.0"
+skill_level = "intermediate"
+added = 2026-10-20

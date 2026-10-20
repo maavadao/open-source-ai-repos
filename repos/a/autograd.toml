@@ -1,0 +1,8 @@
+name = "autograd"
+description = "Efficiently computes derivatives of NumPy code."
+category = "ml-platforms"
+tags = ["autograd", "automatic-differentiation", "numpy", "python", "deep-learning", "derivative", "jax", "machine-learning"]
+repository = "https://github.com/HIPS/autograd"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

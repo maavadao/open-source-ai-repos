@@ -1,0 +1,8 @@
+name = "alexa-gpt"
+description = "A tutorial on how to use ChatGPT in Alexa"
+category = "learning"
+tags = ["alexa", "aws-lambda", "chatgpt", "gpt"]
+repository = "https://github.com/k4l1sh/alexa-gpt"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

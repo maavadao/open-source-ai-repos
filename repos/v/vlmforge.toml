@@ -1,0 +1,8 @@
+name = "VLMForge"
+description = "Evaluate visual models on your own images, JSON Schema, and production constraints with LangGraph, Pareto analysis, and a no-key Replay demo."
+category = "agents"
+tags = ["fastapi", "json-schema", "langgraph", "llm-evaluation", "model-evaluation", "multimodal", "pareto-frontier", "vision-language-model"]
+repository = "https://github.com/To3akaRin/VLMForge"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

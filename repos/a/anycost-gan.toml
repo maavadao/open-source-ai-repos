@@ -1,0 +1,9 @@
+name = "anycost-gan"
+description = "[CVPR 2021] Anycost GANs for Interactive Image Synthesis and Editing"
+category = "image"
+tags = ["computer-vision", "deep-learning", "computer-graphics", "generative-adversarial-network", "gan", "image-generation", "image-manipulation", "image-editing"]
+repository = "https://github.com/mit-han-lab/anycost-gan"
+website = "https://hanlab.mit.edu/projects/anycost-gan/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

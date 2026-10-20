@@ -1,0 +1,9 @@
+name = "hue"
+description = "open-source skill that learns any brand and turns it into a complete design system. works on claude code and codex. install once, every UI your assistant builds matches your brand."
+category = "coding"
+tags = ["ai-tools", "anthropic", "claude-code", "claude-skill", "design-language", "design-system", "codex", "openai"]
+repository = "https://github.com/dominikmartn/hue"
+website = "https://hueapp.io"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

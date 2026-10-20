@@ -1,0 +1,8 @@
+name = "comfyui-browser"
+description = "An image/video/workflow browser and manager for ComfyUI."
+category = "image"
+tags = ["comfyui", "stable-diffusion", "comfyui-manager", "workflows", "comfyui-browser"]
+repository = "https://github.com/netaart/comfyui-browser"
+license = "NOASSERTION"
+language = "Svelte"
+added = 2026-10-20

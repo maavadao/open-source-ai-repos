@@ -1,0 +1,9 @@
+name = "magicoder"
+description = "[ICML'24] Magicoder: Empowering Code Generation with OSS-Instruct"
+category = "models"
+tags = ["ai4code", "large-language-models", "llm", "llm4code"]
+repository = "https://github.com/ise-uiuc/magicoder"
+website = "https://proceedings.mlr.press/v235/wei24h.html"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "nixtla"
+description = "TimeGPT-2.1: production ready pre-trained Time Series Foundation Model for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's capable of accurately predicting various domains such as retail, electricity…"
+category = "agents"
+tags = ["time-series", "time-series-forecasting", "deep-learning", "forecasting", "gpt", "generative-ai-time-series", "timegpt", "anomaly-detection"]
+repository = "https://github.com/Nixtla/nixtla"
+website = "https://www.nixtla.io/docs"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

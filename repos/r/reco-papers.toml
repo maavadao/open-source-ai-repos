@@ -1,0 +1,8 @@
+name = "Reco-papers"
+description = "Classic papers and resources on recommendation"
+category = "ml-platforms"
+tags = ["recommender-system", "deep-learning", "machine-learning", "recommendation", "exploration-exploitation", "reinforcement-learning"]
+repository = "https://github.com/wzhe06/Reco-papers"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

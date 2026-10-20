@@ -1,0 +1,9 @@
+name = "generative-ai"
+description = "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and coding preparation."
+category = "mcp-servers"
+tags = ["generative-ai", "agentic-ai", "claude", "gemini", "genai", "genai-usecase", "interview-questions", "langchain"]
+repository = "https://github.com/genieincodebottle/generative-ai"
+website = "https://aimlcompanion.ai/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

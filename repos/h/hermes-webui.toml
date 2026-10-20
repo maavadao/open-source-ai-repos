@@ -1,0 +1,9 @@
+name = "hermes-webui"
+description = "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!"
+category = "agents"
+tags = ["agent", "hermes", "ai-agents", "hermes-agent", "nous-research"]
+repository = "https://github.com/nesquena/hermes-webui"
+website = "https://get-hermes.ai/setup"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

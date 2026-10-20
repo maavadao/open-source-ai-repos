@@ -1,0 +1,9 @@
+name = "brainstormers"
+description = "This repository hosts a suite of specialized agents designed to power your brainstorming sessions. Each agent brings a unique perspective and tailored approach to generate creative, targeted solutions for diverse challenges. Choose the right agent for your specific…"
+category = "agents"
+tags = ["ai-agents", "nextjs"]
+repository = "https://github.com/Azzedde/brainstormers"
+website = "https://brainstormers-7e5a.vercel.app/"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

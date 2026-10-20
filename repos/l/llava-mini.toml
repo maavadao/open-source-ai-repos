@@ -1,0 +1,8 @@
+name = "LLaVA-Mini"
+description = "LLaVA-Mini is a unified large multimodal model (LMM) that can support the understanding of images, high-resolution images, and videos in an efficient manner."
+category = "video"
+tags = ["efficient", "gpt4o", "gpt4v", "large-language-models", "large-multimodal-models", "llava", "multimodal", "video"]
+repository = "https://github.com/ictnlp/LLaVA-Mini"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

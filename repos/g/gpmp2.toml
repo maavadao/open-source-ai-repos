@@ -1,0 +1,8 @@
+name = "gpmp2"
+description = "Gaussian Process Motion Planner 2"
+category = "robotics"
+tags = ["motion-planning", "trajectory-optimization", "gaussian-processes", "inference", "robotics"]
+repository = "https://github.com/gtrll/gpmp2"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

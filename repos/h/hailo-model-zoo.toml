@@ -1,0 +1,8 @@
+name = "hailo_model_zoo"
+description = "The Hailo Model Zoo includes pre-trained models and a full building and evaluation environment"
+category = "vision"
+tags = ["deep-learning", "computer-vision", "ai-accelerators", "edge-ai", "hailo8", "quantized-neural-networks", "hailo", "quantization"]
+repository = "https://github.com/hailo-ai/hailo_model_zoo"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

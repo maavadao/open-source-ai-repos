@@ -1,0 +1,9 @@
+name = "optimum-intel"
+description = "Optimum Intel: Accelerate inference with Intel optimization tools"
+category = "speech"
+tags = ["diffusers", "openvino", "optimization", "transformers", "asr", "llm", "omni", "openvino-genai"]
+repository = "https://github.com/huggingface/optimum-intel"
+website = "https://huggingface.co/docs/optimum-intel/en/index"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

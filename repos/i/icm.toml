@@ -1,0 +1,8 @@
+name = "icm"
+description = "Permanent memory for AI agents. Single binary, zero dependencies, MCP native."
+category = "mcp-servers"
+tags = ["ai-agents", "claude-code", "experimental", "mcp", "memory", "rust"]
+repository = "https://github.com/rtk-ai/icm"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "PyTorch-VAE"
+description = "A Collection of Variational Autoencoders (VAE) in PyTorch."
+category = "ml-platforms"
+tags = ["pytorch", "pytorch-implementation", "vae", "vae-implementation", "deep-learning", "reproducible-research", "paper-implementations", "pytorch-vae"]
+repository = "https://github.com/AntixK/PyTorch-VAE"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

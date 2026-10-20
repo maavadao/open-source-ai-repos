@@ -1,0 +1,8 @@
+name = "simple-openai"
+description = "A Java library to use the OpenAI Api in the simplest possible way."
+category = "chat"
+tags = ["httpclient", "java", "openai", "simple", "chatgpt", "api", "ai", "gpt"]
+repository = "https://github.com/sashirestela/simple-openai"
+license = "MIT"
+language = "Java"
+added = 2026-10-20

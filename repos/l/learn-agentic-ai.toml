@@ -1,0 +1,8 @@
+name = "learn-agentic-ai"
+description = "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes."
+category = "mcp-servers"
+tags = ["agentic-ai", "langmem", "mcp", "openai-api", "openai", "docker", "kubernetes", "dapr"]
+repository = "https://github.com/panaversity/learn-agentic-ai"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

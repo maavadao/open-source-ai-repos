@@ -1,0 +1,9 @@
+name = "ethora"
+description = "SDK monorepo for the Ethora chat / messaging platform. (1) Pick an SDK for your frontend stack. (2) Integrate manually or with ethora-setup. (3) Optionally configure app settings, deploy AI agents etc. Server: ethora.com cloud (free), self-hosted (AWS, Docker, Helm, Cloudron)…"
+category = "mcp-servers"
+tags = ["wallet", "messaging", "react-native", "react", "reactjs", "chat-sdk", "ai-chat", "chat-widget"]
+repository = "https://github.com/dappros/ethora"
+website = "https://ethora.com/"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

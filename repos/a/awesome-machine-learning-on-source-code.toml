@@ -1,0 +1,7 @@
+name = "awesome-machine-learning-on-source-code"
+description = "Cool links & research papers related to Machine Learning applied to source code (MLonCode)"
+category = "learning"
+tags = ["awesome-list", "awesome", "machine-learning", "machine-learning-on-source-code"]
+repository = "https://github.com/src-d/awesome-machine-learning-on-source-code"
+license = "CC-BY-SA-4.0"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "awesome-agentic-world-modeling"
+description = "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond"
+category = "learning"
+tags = ["agents", "world-modeling", "world-models", "awesome", "awesome-readme", "agentic-ai", "awesome-list", "multimodal"]
+repository = "https://github.com/matrix-agent/awesome-agentic-world-modeling"
+website = "https://arxiv.org/abs/2604.22748"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "soprano"
+description = "Soprano: Instant, Ultra-Realistic Text-to-Speech"
+category = "speech"
+tags = ["text-to-speech", "tts"]
+repository = "https://github.com/ekwek1/soprano"
+website = "https://huggingface.co/spaces/ekwek/Soprano-TTS"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

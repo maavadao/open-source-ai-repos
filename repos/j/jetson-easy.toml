@@ -1,0 +1,9 @@
+name = "jetson_easy"
+description = "Automatically script to setup and configure your NVIDIA Jetson [Nano, Xavier, TX2i, TX2, TX1, TK1] . This script run different modules to update, fix and patch the kernel, install ROS and other..."
+category = "robotics"
+tags = ["nvidia", "jetson-tx1", "jetson-tx2", "ros", "zed", "kernel", "nvidia-jetson", "jetson-easy"]
+repository = "https://github.com/rbonghi/jetson_easy"
+website = "http://rnext.it/project/jetson-easy/"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "lawyer-llama"
+description = "中文法律LLaMA (LLaMA for Chinese legel domain)"
+category = "models"
+tags = ["alpaca", "llama", "legal-ai", "nlp", "plm", "pretrained-language-model", "large-language-models", "llm"]
+repository = "https://github.com/AndrewZhe/lawyer-llama"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

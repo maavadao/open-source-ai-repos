@@ -1,0 +1,9 @@
+name = "oneDNN"
+description = "Open-source library of optimized deep learning operations (matmul, convolution, attention) for CPUs (x64, AArch64, RISC-V) and Intel GPUs. Used by PyTorch, TensorFlow, OpenVINO, and ONNX Runtime."
+category = "local-llms"
+tags = ["onednn", "oneapi", "performance", "cpp", "x64", "aarch64", "amx", "sycl"]
+repository = "https://github.com/uxlfoundation/oneDNN"
+website = "http://uxlfoundation.github.io/oneDNN/"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

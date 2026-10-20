@@ -1,0 +1,9 @@
+name = "imixs-workflow"
+description = "The open source technology for business process management"
+category = "no-code"
+tags = ["java", "workflow-engine", "bpmn", "bpmn-engine", "ai-agents", "bpmn-model", "pluggable-architecture", "workflow-automation"]
+repository = "https://github.com/imixs/imixs-workflow"
+website = "http://www.imixs.org/"
+license = "NOASSERTION"
+language = "Java"
+added = 2026-10-20

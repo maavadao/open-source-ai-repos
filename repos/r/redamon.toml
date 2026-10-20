@@ -1,0 +1,9 @@
+name = "redamon"
+description = "Open-source, self-hosted AI penetration testing framework: maps your attack surface into a graph, autonomously exploits it from a Kali sandbox with human approval gates, and opens PRs that fix what it finds. MCP both ways: plug in any MCP server as a tool, or drive RedAmon…"
+category = "mcp-servers"
+tags = ["ai-pentesting", "attack-surface-management", "autonomous-agents", "bug-bounty", "kali-linux", "llm-agents", "mcp", "penetration-testing-tools"]
+repository = "https://github.com/samugit83/redamon"
+website = "https://www.redamon.org"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

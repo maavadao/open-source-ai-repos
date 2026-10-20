@@ -1,0 +1,9 @@
+name = "openai-oauth"
+description = "Free AI with your ChatGPT account"
+category = "coding"
+tags = ["ai", "chatgpt", "codex", "openai"]
+repository = "https://github.com/EvanZhouDev/openai-oauth"
+website = "https://openai-oauth.vercel.app"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

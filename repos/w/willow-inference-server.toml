@@ -1,0 +1,8 @@
+name = "willow-inference-server"
+description = "Open source, local, and self-hosted highly optimized language inference server supporting ASR/STT, TTS, and LLM across WebRTC, REST, and WS"
+category = "security"
+tags = ["cuda", "deep-learning", "llama", "llm", "privacy", "speech-recognition", "speech-to-text", "text-to-speech"]
+repository = "https://github.com/toverainc/willow-inference-server"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

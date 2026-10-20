@@ -1,0 +1,9 @@
+name = "codex-lb"
+description = "Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints"
+category = "coding"
+tags = ["api-proxy", "chatgpt", "codex", "dashboard", "fastapi", "load-balancer", "oauth", "openai"]
+repository = "https://github.com/Soju06/codex-lb"
+website = "https://soju06.github.io/codex-lb/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

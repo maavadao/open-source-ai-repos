@@ -1,0 +1,9 @@
+name = "OpenDocuments"
+description = "Self-hosted RAG platform for AI document search across GitHub, Notion, Google Drive, local files, and web sources with citations."
+category = "mcp-servers"
+tags = ["ai", "document-search", "knowledge-base", "llm", "mcp", "ollama", "open-source", "rag"]
+repository = "https://github.com/joungminsung/OpenDocuments"
+website = "https://joungminsung.github.io/OpenDocuments/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

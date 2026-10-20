@@ -1,0 +1,9 @@
+name = "inst-inpaint"
+description = "A novel inpainting framework that can remove objects from images based on the instructions given as text prompts."
+category = "image"
+tags = ["diffusion-models", "inpainting", "latent-diffusion-models", "gqa-inpaint", "inpainting-dataset"]
+repository = "https://github.com/abyildirim/inst-inpaint"
+website = "https://instinpaint.abyildirim.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

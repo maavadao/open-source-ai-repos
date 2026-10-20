@@ -1,0 +1,9 @@
+name = "Capsomnia"
+description = "A tiny macOS app that turns Caps Lock into a physical keep-awake switch for closed-lid MacBook work."
+category = "agents"
+tags = ["ai-agents", "appkit", "caps-lock", "developer-tools", "macbook", "macos", "menu-bar", "pmset"]
+repository = "https://github.com/fuji-mak/Capsomnia"
+website = "https://capsomnia.com/"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "superpixel-benchmark"
+description = "An extensive evaluation and comparison of 28 state-of-the-art superpixel algorithms on 5 datasets."
+category = "vision"
+tags = ["superpixel-algorithms", "benchmark", "evaluation", "superpixels", "computer-vision", "image-procesing", "opencv"]
+repository = "https://github.com/davidstutz/superpixel-benchmark"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

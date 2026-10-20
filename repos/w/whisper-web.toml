@@ -1,0 +1,9 @@
+name = "whisper-web"
+description = "ML-powered speech recognition directly in your browser"
+category = "speech"
+tags = ["javascript", "transformers", "whisper"]
+repository = "https://github.com/xenova/whisper-web"
+website = "https://hf.co/spaces/Xenova/whisper-web"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

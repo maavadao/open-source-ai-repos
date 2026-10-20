@@ -1,0 +1,9 @@
+name = "itops-agent-platform"
+description = "China's 1st enterprise multi-agent IT ops platform. LLM-powered auto-remediation for Zabbix/Prometheus. Docker deploy."
+category = "agents"
+tags = ["devops", "docker", "openai", "network-monitoring", "agentic-ai", "aiops", "incident-management", "it-operations"]
+repository = "https://github.com/qinshihu/itops-agent-platform"
+website = "https://aiopsdoc-0mwug01t6.maozi.io/"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

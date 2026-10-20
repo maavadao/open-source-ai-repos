@@ -1,0 +1,8 @@
+name = "DeepSpeed-MII"
+description = "MII makes low-latency and high-throughput inference possible, powered by DeepSpeed."
+category = "local-llms"
+tags = ["deep-learning", "inference", "pytorch"]
+repository = "https://github.com/deepspeedai/DeepSpeed-MII"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Awesome-Efficient-Reasoning-LLMs"
+description = "[TMLR 2025] Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models"
+category = "learning"
+tags = ["efficiency", "large-language-models", "large-reasoning-models"]
+repository = "https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs"
+website = "https://arxiv.org/abs/2503.16419"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "trainer"
+description = "Distributed AI Model Training and LLM Fine-Tuning on Kubernetes"
+category = "models"
+tags = ["ai", "distributed", "fine-tuning", "gpu", "huggingface", "jax", "kubeflow", "kubernetes"]
+repository = "https://github.com/kubeflow/trainer"
+website = "https://trainer.kubeflow.org/en/latest/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

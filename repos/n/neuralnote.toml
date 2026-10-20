@@ -1,0 +1,9 @@
+name = "NeuralNote"
+description = "Audio Plugin for Audio to MIDI transcription using deep learning."
+category = "speech"
+tags = ["audio", "audio-plugin", "juce-framework", "machine-learning", "midi", "vst"]
+repository = "https://github.com/DamRsn/NeuralNote"
+website = "https://neuralnote.co/"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

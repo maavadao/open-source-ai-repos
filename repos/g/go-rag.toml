@@ -1,0 +1,8 @@
+name = "go-rag"
+description = "基于eino+gf+vue实现知识库的rag"
+category = "chat"
+tags = ["eino", "es", "go", "llm", "rag", "chat", "goframe", "indexer"]
+repository = "https://github.com/wangle201210/go-rag"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

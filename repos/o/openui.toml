@@ -1,0 +1,9 @@
+name = "openui"
+description = "OpenUI let's you describe UI using your imagination, then see it rendered live."
+category = "other"
+tags = ["ai", "generative-ai", "html-css-javascript", "tailwindcss"]
+repository = "https://github.com/wandb/openui"
+website = "https://openui.fly.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

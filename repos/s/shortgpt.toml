@@ -1,0 +1,9 @@
+name = "ShortGPT"
+description = "ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation"
+category = "no-code"
+tags = ["ai", "artificial-intelligence", "automation", "autonomous-agents", "content", "gpt-4", "openai", "python"]
+repository = "https://github.com/RayVentura/ShortGPT"
+website = "https://short-gpt-dcs.vercel.app"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

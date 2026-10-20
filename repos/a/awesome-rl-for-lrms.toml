@@ -1,0 +1,9 @@
+name = "Awesome-RL-for-LRMs"
+description = "A Survey of Reinforcement Learning for Large Reasoning Models"
+category = "learning"
+tags = ["awesome-list", "llm", "reasoning", "rl", "deepseek-r1", "open-source", "lrm"]
+repository = "https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs"
+website = "https://arxiv.org/abs/2509.08827"
+license = "MIT"
+language = "TeX"
+added = 2026-10-20

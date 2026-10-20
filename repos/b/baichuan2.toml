@@ -1,0 +1,9 @@
+name = "Baichuan2"
+description = "A series of large language models developed by Baichuan Intelligent Technology"
+category = "chat"
+tags = ["artificial-intelligence", "benchmark", "ceval", "chatgpt", "chinese", "gpt", "gpt-4", "huggingface"]
+repository = "https://github.com/baichuan-inc/Baichuan2"
+website = "https://huggingface.co/baichuan-inc"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

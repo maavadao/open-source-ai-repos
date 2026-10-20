@@ -1,0 +1,8 @@
+name = "ComfyUI-VoxCPM"
+description = "ComfyUI node for highly expressive speech and realistic zero-shot voice cloning"
+category = "speech"
+tags = ["ai-voice", "text-to-speech", "tts", "audio", "comfyui-node", "t2s", "voice-cloning", "voice-generation"]
+repository = "https://github.com/wildminder/ComfyUI-VoxCPM"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

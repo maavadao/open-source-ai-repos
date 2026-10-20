@@ -1,0 +1,8 @@
+name = "tf2rl"
+description = "TensorFlow2 Reinforcement Learning"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "tensorflow2", "inverse-reinforcement-learning", "tensorflow", "imitation-learning", "deep-reinforcement-learning"]
+repository = "https://github.com/keiohta/tf2rl"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

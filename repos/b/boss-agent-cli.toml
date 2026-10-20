@@ -1,0 +1,9 @@
+name = "boss-agent-cli"
+description = "Local-assist BOSS Zhipin CLI for AI agents — search, welfare filtering, shortlist, JSON-envelope output; low-risk & compliant by default."
+category = "mcp-servers"
+tags = ["ai-agent", "boss-zhipin", "cli", "job-search", "python", "zhipin", "agent-skill", "recruitment"]
+repository = "https://github.com/can4hou6joeng4/boss-agent-cli"
+website = "https://can4hou6joeng4.github.io/boss-agent-cli/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "unrealcv"
+description = "UnrealCV: Connecting Computer Vision to Unreal Engine"
+category = "robotics"
+tags = ["virtual-worlds", "computer-vision", "ue4", "embodied-ai", "machine-learning", "simulation", "synthetic-data", "ue5"]
+repository = "https://github.com/unrealcv/unrealcv"
+website = "https://unrealcv.org"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

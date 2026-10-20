@@ -1,0 +1,9 @@
+name = "Taiwan-LLM"
+description = "Traditional Mandarin LLMs for Taiwan"
+category = "models"
+tags = ["langauge-model", "llm", "taiwan", "traditional-mandarin", "twllm"]
+repository = "https://github.com/MiuLab/Taiwan-LLM"
+website = "https://twllm.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

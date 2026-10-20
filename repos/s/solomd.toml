@@ -1,0 +1,9 @@
+name = "solomd"
+description = "A markdown editor — and the bridge to your LLM. Local-first, MIT, ~15 MB. Bundled MCP server lets Claude Code / Codex / Cursor drive your vault directly. 14 AI providers BYOK."
+category = "mcp-servers"
+tags = ["autogit", "byok", "knowledge-base", "markdown", "markdown-editor", "mcp", "mcp-server", "note-taking"]
+repository = "https://github.com/zhitongblog/solomd"
+website = "https://solomd.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

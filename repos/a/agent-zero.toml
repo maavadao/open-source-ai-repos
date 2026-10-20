@@ -1,0 +1,9 @@
+name = "agent-zero"
+description = "Agent Zero AI framework"
+category = "chat"
+tags = ["agent", "ai", "assistant", "autonomous", "linux", "zero"]
+repository = "https://github.com/agent0ai/agent-zero"
+website = "https://agent-zero.ai"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

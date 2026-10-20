@@ -1,0 +1,8 @@
+name = "awesome-decision-tree-papers"
+description = "A collection of research papers on decision, classification and regression trees with implementations."
+category = "learning"
+tags = ["decision-tree", "decision-tree-classifier", "gradient-boosting", "gradient-boosting-machine", "regression-tree", "cart", "machine-learning", "machine-learning-research"]
+repository = "https://github.com/benedekrozemberczki/awesome-decision-tree-papers"
+license = "CC0-1.0"
+language = "Python"
+added = 2026-10-20

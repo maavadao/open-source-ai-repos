@@ -1,0 +1,8 @@
+name = "robotics_essentials_ros2"
+description = "Learn the basics of robotics through hands-on experience using ROS 2 and Gazebo simulation."
+category = "learning"
+tags = ["course", "navigation", "odometry", "path-planning", "ros2", "slam"]
+repository = "https://github.com/henki-robotics/robotics_essentials_ros2"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "system-design-academy"
+description = "If you want to become good at AI engineering & system design, join this newsletter"
+category = "learning"
+tags = ["computer-science", "interview-questions", "software-engineering", "system-design", "system-design-interview", "development", "distributed-systems", "high-level-design"]
+repository = "https://github.com/systemdesign42/system-design-academy"
+website = "https://newsletter.systemdesign.one/join"
+license = "NOASSERTION"
+added = 2026-10-20

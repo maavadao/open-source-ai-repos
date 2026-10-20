@@ -1,0 +1,8 @@
+name = "qq-maid-bot"
+description = "轻量、自托管的多入口 AI Agent 机器人｜QQ 官方 / OneBot 11 / NapCat / 微信｜Rust｜Memory / RAG / Todo / Tool Calling"
+category = "chat"
+tags = ["low-memory", "qq-bot", "rag", "onebot11", "wxbot", "ai-agents", "chatbot", "llm"]
+repository = "https://github.com/kuliantnt/qq-maid-bot"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

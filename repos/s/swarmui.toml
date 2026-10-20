@@ -1,0 +1,9 @@
+name = "SwarmUI"
+description = "SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility."
+category = "image"
+tags = ["ai", "csharp", "image-generation", "javascript", "machine-learning", "ml", "python", "stable-diffusion"]
+repository = "https://github.com/mcmonkeyprojects/SwarmUI"
+license = "MIT"
+language = "C#"
+skill_level = "beginner"
+added = 2026-10-20

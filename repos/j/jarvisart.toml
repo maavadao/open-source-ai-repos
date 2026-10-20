@@ -1,0 +1,8 @@
+name = "JarvisArt"
+description = "[NeurIPS' 2025] JarvisArt: Liberating Human Artistic Creativity via an Intelligent Photo Retouching Agent"
+category = "agents"
+tags = ["agent", "image-processing", "large-language-models", "lightroom", "mllm", "vision-language-models"]
+repository = "https://github.com/LYL1015/JarvisArt"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

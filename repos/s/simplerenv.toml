@@ -1,0 +1,9 @@
+name = "SimplerEnv"
+description = "Evaluating and reproducing real-world robot manipulation policies (e.g., RT-1, RT-1-X, Octo) in simulation under common setups (e.g., Google Robot, WidowX+Bridge) (CoRL 2024)"
+category = "robotics"
+tags = ["computer-vision", "embodied-ai", "real2sim", "reinforcement-learning", "robot-learning", "robot-manipulation", "robotics", "robotics-simulation"]
+repository = "https://github.com/simpler-env/SimplerEnv"
+website = "https://simpler-env.github.io/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

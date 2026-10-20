@@ -1,0 +1,8 @@
+name = "audiotext"
+description = "A desktop app that transcribes audio and video files, files from URLs, YouTube videos and microphone recordings on your computer, and translates, summarizes and subtitles them."
+category = "speech"
+tags = ["customtkinter", "python", "speech-recognition", "audio-to-text", "video-to-text", "transcriber", "speech-to-text", "speech-to-text-api"]
+repository = "https://github.com/HenestrosaDev/audiotext"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "SimWorld"
+description = "SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds"
+category = "robotics"
+tags = ["agent", "navigation", "robotics", "simulator"]
+repository = "https://github.com/SimWorld-AI/SimWorld"
+website = "https://simworld.org/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

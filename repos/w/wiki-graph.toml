@@ -1,0 +1,9 @@
+name = "wiki-graph"
+description = "distill any book down to its spine"
+category = "learning"
+tags = ["ai-agents", "cli", "knowledge-graph", "llm", "summarization", "sdpub", "jinja2", "typescript"]
+repository = "https://github.com/oomol-lab/wiki-graph"
+website = "https://pdfcraft.ai/download/sdpub"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

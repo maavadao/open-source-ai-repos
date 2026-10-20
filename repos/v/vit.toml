@@ -1,0 +1,7 @@
+name = "ViT"
+description = "Implementing Vi(sion)T(transformer)"
+category = "vision"
+tags = ["deep-learning", "computer-vision"]
+repository = "https://github.com/FrancescoSaverioZuppichini/ViT"
+license = "NOASSERTION"
+added = 2026-10-20

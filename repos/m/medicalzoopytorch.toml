@@ -1,0 +1,8 @@
+name = "MedicalZooPytorch"
+description = "A pytorch-based deep learning framework for multi-modal 2D/3D medical image segmentation"
+category = "vision"
+tags = ["segmentation", "deep-learning", "pytorch", "medical-imaging", "medical-image-processing", "medical-image-segmentation", "3d-convolutional-network", "brats2019"]
+repository = "https://github.com/black0017/MedicalZooPytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

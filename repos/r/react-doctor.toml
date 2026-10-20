@@ -1,0 +1,9 @@
+name = "react-doctor"
+description = "Your agent writes bad React. This catches it"
+category = "skills-prompts"
+tags = ["agents", "code-review", "doctor", "react", "skill"]
+repository = "https://github.com/millionco/react-doctor"
+website = "https://react.doctor"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

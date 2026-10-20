@@ -1,0 +1,9 @@
+name = "zero123"
+description = "Zero-1-to-3: Zero-shot One Image to 3D Object (ICCV 2023)"
+category = "image"
+tags = ["image-to-3d", "novel-view-synthesis", "single-view-reconstruction", "stable-diffusion", "zero-shot"]
+repository = "https://github.com/cvlab-columbia/zero123"
+website = "https://zero123.cs.columbia.edu/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

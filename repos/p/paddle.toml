@@ -1,0 +1,9 @@
+name = "Paddle"
+description = "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）"
+category = "ml-platforms"
+tags = ["paddlepaddle", "deep-learning", "scalability", "machine-learning", "neural-network", "python", "efficiency", "distributed-training"]
+repository = "https://github.com/PaddlePaddle/Paddle"
+website = "http://www.paddlepaddle.org/"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "dift"
+description = "[NeurIPS'23] Emergent Correspondence from Image Diffusion"
+category = "image"
+tags = ["correspondences", "diffusion-models"]
+repository = "https://github.com/Tsingularity/dift"
+website = "https://diffusionfeatures.github.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

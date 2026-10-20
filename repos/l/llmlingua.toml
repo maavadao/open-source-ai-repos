@@ -1,0 +1,8 @@
+name = "LLMLingua"
+description = "[EMNLP'23, ACL'24] To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss."
+category = "local-llms"
+repository = "https://github.com/microsoft/LLMLingua"
+website = "https://llmlingua.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

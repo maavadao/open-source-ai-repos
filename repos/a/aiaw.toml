@@ -1,0 +1,9 @@
+name = "AIaW"
+description = "AI as Workspace - An elegant AI chat client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端"
+category = "mcp-servers"
+tags = ["ai", "chatgpt", "claude", "function-calling", "llm", "local-first", "openai", "vue"]
+repository = "https://github.com/NitroRCr/AIaW"
+website = "https://aiaw.app"
+license = "BSD-3-Clause"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "MIRNet"
+description = "[ECCV 2020] Learning Enriched Features for Real Image Restoration and Enhancement. SOTA results for image denoising, super-resolution, and image enhancement."
+category = "image"
+tags = ["image-denoising", "super-resolution", "image-enhancement", "image-restoration", "low-level-vision", "computer-vision", "multi-resolution-streams", "attention-mechanism"]
+repository = "https://github.com/swz30/MIRNet"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

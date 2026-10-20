@@ -1,0 +1,9 @@
+name = "kaizen"
+description = "Automate the tedious development tasks with AI"
+category = "agents"
+tags = ["ai", "github-app", "llm", "python", "testing", "agents", "rag", "unit-testing"]
+repository = "https://github.com/Cloud-Code-AI/kaizen"
+website = "https://cloudcode.ai/kaizen/docs/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

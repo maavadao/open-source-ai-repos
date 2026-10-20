@@ -1,0 +1,7 @@
+name = "YaLM-100B"
+description = "Pretrained language model with 100B parameters"
+category = "models"
+repository = "https://github.com/yandex/YaLM-100B"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

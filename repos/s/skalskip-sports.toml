@@ -1,0 +1,8 @@
+name = "sports"
+description = "Cool experiments at the intersection of Computer Vision and Sports"
+category = "learning"
+tags = ["computer-vision", "deep-learning", "deep-neural-networks", "object-detection", "pytorch", "sports-analytics", "tutorial", "yolov5"]
+repository = "https://github.com/SkalskiP/sports"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

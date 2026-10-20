@@ -1,0 +1,9 @@
+name = "artcraft"
+description = "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
+category = "vision"
+tags = ["3d-graphics", "ai", "aivideo", "filmmaking", "imagegeneration"]
+repository = "https://github.com/storytold/artcraft"
+website = "https://getartcraft.com"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

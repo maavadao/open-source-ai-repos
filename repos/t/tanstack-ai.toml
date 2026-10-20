@@ -1,0 +1,9 @@
+name = "ai"
+description = "Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across OpenAI, Anthropic, Gemini, React, Vue, Svelte, and Solid."
+category = "chat"
+tags = ["ai", "ai-agents", "ai-sdk", "anthropic", "chatbot", "function-calling", "gemini", "llm"]
+repository = "https://github.com/TanStack/ai"
+website = "https://tanstack.com/ai/latest"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

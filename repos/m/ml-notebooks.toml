@@ -1,0 +1,8 @@
+name = "ML-Notebooks"
+description = "Machine Learning Notebooks"
+category = "learning"
+tags = ["deep-learning", "machine-learning", "python", "pytorch", "ai"]
+repository = "https://github.com/dair-ai/ML-Notebooks"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

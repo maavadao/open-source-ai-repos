@@ -1,0 +1,9 @@
+name = "pandas-ai"
+description = "Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG."
+category = "models"
+tags = ["llm", "pandas", "ai", "data-analysis", "data-science", "gpt-4", "csv", "data"]
+repository = "https://github.com/sinaptik-ai/pandas-ai"
+website = "https://pandas-ai.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

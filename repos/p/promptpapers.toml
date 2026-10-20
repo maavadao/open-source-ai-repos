@@ -1,0 +1,7 @@
+name = "PromptPapers"
+description = "Must-read papers on prompt-based tuning for pre-trained language models."
+category = "models"
+tags = ["nlp", "pre-trained-language-models", "ai", "machine-learning", "bert", "prompt-toolkit", "prompt", "prompt-learning"]
+repository = "https://github.com/thunlp/PromptPapers"
+license = "NOASSERTION"
+added = 2026-10-20

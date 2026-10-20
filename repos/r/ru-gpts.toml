@@ -1,0 +1,8 @@
+name = "ru-gpts"
+description = "Russian GPT3 models."
+category = "models"
+tags = ["deep-learning", "gpt3", "language-model", "russian", "russian-language", "transformers"]
+repository = "https://github.com/ai-forever/ru-gpts"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "smfs"
+description = "A filesystem designed for agents, with SOTA retrieval, automatic memory profiles, sync engine. Drop any file type (pdf, images, videos), and grep through them."
+category = "agents"
+tags = ["ai-agents", "ai-memory", "filesystem", "memory", "rag"]
+repository = "https://github.com/supermemoryai/smfs"
+website = "https://smfs.ai"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

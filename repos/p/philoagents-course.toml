@@ -1,0 +1,8 @@
+name = "philoagents-course"
+description = "When Philosophy meets AI"
+category = "learning"
+tags = ["agent", "agent-based-simulation", "agentic-workflow", "groq", "langgraph", "mongodb", "opik", "rag"]
+repository = "https://github.com/neural-maze/philoagents-course"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

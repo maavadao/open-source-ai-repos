@@ -1,0 +1,9 @@
+name = "EvalAI"
+description = "Evaluating state of the art in AI"
+category = "ml-platforms"
+tags = ["ai", "machine-learning", "django", "angularjs", "python", "ai-challenges", "docker", "reproducible-research"]
+repository = "https://github.com/Cloud-CV/EvalAI"
+website = "https://eval.ai"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

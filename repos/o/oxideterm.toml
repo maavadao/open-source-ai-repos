@@ -1,0 +1,9 @@
+name = "oxideterm"
+description = "AI-native workspace for local shells and remote machines.Zero Webview, zero OpenSSL, zero telemetry, and no app subscription.Written in Rust+GPUI"
+category = "mcp-servers"
+tags = ["filemanager", "rust", "sftp", "ssh-client", "terminal", "russh", "terminal-emulator", "mcp"]
+repository = "https://github.com/AnalyseDeCircuit/oxideterm"
+website = "https://oxideterm.app"
+license = "GPL-3.0"
+language = "Rust"
+added = 2026-10-20

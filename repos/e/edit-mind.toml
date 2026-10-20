@@ -1,0 +1,9 @@
+name = "edit-mind"
+description = "Local-first Video Knowledge Base. Index your video library with multi-modal analysis (YOLO, DeepFace, Whisper), search semantically via natural language, Docker-ready."
+category = "video"
+tags = ["ai", "face-recognition", "ml", "video-indexing", "video-processing", "computer-vision", "video-editing", "deepface"]
+repository = "https://github.com/IliasHad/edit-mind"
+website = "https://orcah.app"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

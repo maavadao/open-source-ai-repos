@@ -1,0 +1,9 @@
+name = "FastGen"
+description = "NVIDIA FastGen: Fast Generation from Diffusion Models"
+category = "image"
+tags = ["diffusion-models", "distillation"]
+repository = "https://github.com/NVlabs/FastGen"
+website = "https://developer.nvidia.com/blog/accelerating-diffusion-models-with-an-open-plug-and-play-offering/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

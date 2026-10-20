@@ -1,0 +1,9 @@
+name = "pipelex"
+description = "Build AI methods with your coding agent, then run them anywhere: as an MCP for chatbots, as a webapp for people, or via API for your software."
+category = "mcp-servers"
+tags = ["llm", "ai", "ai-agents", "ai-methods", "claude-code", "codex", "mcp", "mthds"]
+repository = "https://github.com/Pipelex/pipelex"
+website = "https://pipelex.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

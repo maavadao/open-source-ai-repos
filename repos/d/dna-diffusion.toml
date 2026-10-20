@@ -1,0 +1,9 @@
+name = "DNA-Diffusion"
+description = "Generative modeling of regulatory DNA sequences with diffusion probabilistic models"
+category = "image"
+tags = ["deep-learning", "diffusion-models", "genomics", "regulatory-genomics", "stable-diffusion", "generative-model", "diffusion-probabilistic-models"]
+repository = "https://github.com/pinellolab/DNA-Diffusion"
+website = "https://pinellolab.github.io/DNA-Diffusion/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

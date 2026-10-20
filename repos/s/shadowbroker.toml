@@ -1,0 +1,8 @@
+name = "Shadowbroker"
+description = "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The…"
+category = "vision"
+tags = ["osint", "osint-resources", "asdb", "cctv", "cctv-cameras", "cctv-surveillance", "earthquake-visualization", "elonjet"]
+repository = "https://github.com/BigBodyCobain/Shadowbroker"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

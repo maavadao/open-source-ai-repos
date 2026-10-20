@@ -1,0 +1,8 @@
+name = "OC_SORT"
+description = "[CVPR2023] The official repo for OC-SORT: Observation-Centric SORT on video Multi-Object Tracking. OC-SORT is simple, online and robust to occlusion/non-linear motion."
+category = "vision"
+tags = ["tracking", "computer-vision", "deep-learning", "object-detection", "object-tracking"]
+repository = "https://github.com/noahcao/OC_SORT"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

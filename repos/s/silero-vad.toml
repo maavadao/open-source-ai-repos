@@ -1,0 +1,9 @@
+name = "silero-vad"
+description = "Silero VAD: pre-trained enterprise-grade Voice Activity Detector"
+category = "speech"
+tags = ["voice-detection", "voice-recognition", "voice-commands", "pytorch", "onnx", "voice-activity-detection", "voice-control", "onnx-runtime"]
+repository = "https://github.com/snakers4/silero-vad"
+license = "MIT"
+language = "Python"
+skill_level = "beginner"
+added = 2026-10-20

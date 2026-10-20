@@ -1,0 +1,9 @@
+name = "mito"
+description = "Jupyter extensions that help you write code faster: Context aware AI Chat, Autocomplete, and Spreadsheet"
+category = "data-science"
+tags = ["data-science", "python", "data", "data-visualization", "data-analysis", "jupyter", "pandas", "streamlit-component"]
+repository = "https://github.com/mito-ds/mito"
+website = "https://trymito.io"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

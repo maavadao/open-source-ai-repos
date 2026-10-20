@@ -1,0 +1,8 @@
+name = "STEGO"
+description = "Unsupervised Semantic Segmentation by Distilling Feature Correspondences"
+category = "vision"
+tags = ["computer-vision", "deep-learning", "iclr2022", "pytorch", "semantic-segmentation", "unsupervised-learning"]
+repository = "https://github.com/mhamilton723/STEGO"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

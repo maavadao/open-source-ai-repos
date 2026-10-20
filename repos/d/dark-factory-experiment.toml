@@ -1,0 +1,9 @@
+name = "dark-factory-experiment"
+description = "A repository that ships its own code. AI workflows triage issues, implement them, review, and auto-merge with no human reading the diff. Runs on Archon. The app it maintains is a cited RAG chat over YouTube transcripts, live at chat.dynamous.ai."
+category = "coding"
+tags = ["agentic-coding", "ai-agents", "archon", "autonomous-agents", "claude-code", "dark-factory", "llm", "rag"]
+repository = "https://github.com/coleam00/dark-factory-experiment"
+website = "https://chat.dynamous.ai"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

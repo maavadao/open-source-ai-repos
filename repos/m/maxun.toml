@@ -1,0 +1,9 @@
+name = "maxun"
+description = "Turn any website into a structured API. Extract, automate, search and monitor the web."
+category = "browser-automation"
+tags = ["automation", "no-code", "scraper", "web-scraper", "web-scraping", "api", "browser-automation", "playwright"]
+repository = "https://github.com/getmaxun/maxun"
+website = "https://www.maxun.dev"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,10 @@
+name = "Wan2.1"
+description = "Wan: Open and Advanced Large-Scale Video Generative Models"
+category = "video"
+tags = ["aigc", "videogeneration"]
+repository = "https://github.com/Wan-Video/Wan2.1"
+website = "https://wan.video"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "advanced"
+added = 2026-10-20

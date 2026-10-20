@@ -1,0 +1,8 @@
+name = "Online-3D-BPP-DRL"
+description = "This repository contains the implementation of paper Online 3D Bin Packing with Constrained Deep Reinforcement Learning."
+category = "ml-platforms"
+tags = ["3d-packing", "bin-packing", "online-packing", "packing-algorithm", "reinforcement-learning"]
+repository = "https://github.com/alexfrom0815/Online-3D-BPP-DRL"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

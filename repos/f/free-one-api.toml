@@ -1,0 +1,9 @@
+name = "free-one-api"
+description = "LLM 逆向工程接口管理 | 通过标准 OpenAI API 访问 ChatGPT / gpt4free / Bard / Claude / HuggingChat / 通义千问 等 AI 的破解版 || ChatGPT reverse engineering API management | Access all reverse engineered LLM libs by standard OpenAI API format || 免费 ChatGPT Free GPT LLM API | 逆向工程 转 OpenAI API |…"
+category = "chat"
+tags = ["chatgpt", "gpt", "one-api", "openai", "reverse-engineering", "revchatgpt", "proxy", "bard"]
+repository = "https://github.com/RockChinQ/free-one-api"
+website = "https://free-one-api.rockchin.top"
+license = "AGPL-3.0"
+language = "Rust"
+added = 2026-10-20

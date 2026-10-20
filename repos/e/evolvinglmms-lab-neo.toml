@@ -1,0 +1,8 @@
+name = "NEO"
+description = "NEO Series: Native Vision-Language Models from First Principles"
+category = "models"
+tags = ["agi", "encoder-free-vlm", "large-language-models", "multimodal", "multimodal-large-language-models", "native-multimodal-model", "mllm", "vlm"]
+repository = "https://github.com/EvolvingLMMs-Lab/NEO"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

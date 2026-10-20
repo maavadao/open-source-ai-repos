@@ -1,0 +1,8 @@
+name = "VibeVoiceFusion"
+description = "VibeVoiceFusion is a full-stack, multi-speaker voice generation web system featuring LoRA fine-tuning, batch generation, and VRAM optimization. Based on Microsoft's VibeVoice (AR + diffusion architecture)"
+category = "speech"
+tags = ["vibevoice", "vramsaving", "web", "aigc", "autoregressive-models", "language-model", "fine-tuning", "tts"]
+repository = "https://github.com/zhao-kun/VibeVoiceFusion"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

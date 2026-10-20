@@ -1,0 +1,9 @@
+name = "synthetic-data-kit"
+description = "Tool for generating high quality Synthetic datasets"
+category = "models"
+tags = ["data", "generation", "llm", "python", "synthetic"]
+repository = "https://github.com/meta-llama/synthetic-data-kit"
+website = "https://pypi.org/project/synthetic-data-kit/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

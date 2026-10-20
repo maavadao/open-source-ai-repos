@@ -1,0 +1,9 @@
+name = "excel-mcp-server"
+description = "Excel MCP server: let AI (Claude, Cursor, Codex) create and edit Excel files with charts, PivotTables, slicers and formulas. No Excel required."
+category = "mcp-servers"
+tags = ["excel", "mcp", "mcp-server", "ai", "llm", "toolcalling", "automation", "stdio"]
+repository = "https://github.com/haris-musa/excel-mcp-server"
+website = "https://excelmcpserver.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

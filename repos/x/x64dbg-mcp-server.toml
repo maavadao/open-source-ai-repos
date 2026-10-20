@@ -1,0 +1,9 @@
+name = "x64dbg-mcp-server"
+description = "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers…"
+category = "mcp-servers"
+tags = ["ai-agents", "ai-debugging", "binary-analysis", "claude", "claude-code", "malware-analysis", "malware-research", "malware-scanner"]
+repository = "https://github.com/duty1g/x64dbg-mcp-server"
+website = "https://duty1g.online"
+license = "MIT"
+language = "Zig"
+added = 2026-10-20

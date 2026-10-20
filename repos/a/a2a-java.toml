@@ -1,0 +1,9 @@
+name = "a2a-java"
+description = "Official Java SDK for the Agent2Agent (A2A) Protocol"
+category = "agents"
+tags = ["hacktoberfest", "a2a", "a2a-client", "a2a-server", "agent2agent", "ai", "ai-agents", "java"]
+repository = "https://github.com/a2aproject/a2a-java"
+website = "https://a2aproject.github.io/a2a-java/"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

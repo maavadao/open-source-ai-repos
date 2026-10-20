@@ -1,0 +1,9 @@
+name = "stereOS"
+description = "A Linux based operating system hardened and purpose built for AI agents"
+category = "agents"
+tags = ["ai", "ai-agents", "nix", "nixos"]
+repository = "https://github.com/papercomputeco/stereOS"
+website = "https://stereos.ai"
+license = "NOASSERTION"
+language = "Nix"
+added = 2026-10-20

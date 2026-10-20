@@ -1,0 +1,9 @@
+name = "bitterbot-desktop"
+description = "Bitterbot - a mesh of agents that turns shared experience into collective capability."
+category = "chat"
+tags = ["a2a-protocol", "agent-economy", "agent-memory", "ai-agent", "chatbot", "cognitive-architecture", "decentralized-ai", "desktop-app"]
+repository = "https://github.com/Bitterbot-AI/bitterbot-desktop"
+website = "https://bitterbot.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

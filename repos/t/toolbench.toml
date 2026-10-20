@@ -1,0 +1,8 @@
+name = "ToolBench"
+description = "[ICLR'24 spotlight] An open platform for training, serving, and evaluating large language model for tool learning."
+category = "local-llms"
+repository = "https://github.com/OpenBMB/ToolBench"
+website = "https://openbmb.github.io/ToolBench/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

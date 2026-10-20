@@ -1,0 +1,9 @@
+name = "LangBot"
+description = "Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini…"
+category = "no-code"
+tags = ["qq", "openai", "agent", "llm", "wechat", "telegram", "dify", "discord"]
+repository = "https://github.com/langbot-app/LangBot"
+website = "https://space.langbot.app/cloud"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

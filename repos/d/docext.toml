@@ -1,0 +1,9 @@
+name = "docext"
+description = "An on-premises, OCR-free unstructured data extraction, markdown conversion and benchmarking toolkit. (https://idp-leaderboard.org/)"
+category = "documents"
+tags = ["document", "document-analysis", "extraction", "llms", "machine-learning", "nlp", "ocr", "rag"]
+repository = "https://github.com/NanoNets/docext"
+website = "https://nanonets.com/document-parsing-and-extraction"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

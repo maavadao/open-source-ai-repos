@@ -1,0 +1,9 @@
+name = "GoModel"
+description = "AI gateway / AI control plane / AI proxy written in Go. Unified OpenAI-compatible and Anthropic-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI, Ollama, vLLM and more. A LiteLLM alternative with observability, guardrails, streaming, cost tracking, intelligent routing…"
+category = "local-llms"
+tags = ["ai", "proxy", "ai-gateway", "ai-proxy", "anthropic", "go", "golang", "groq"]
+repository = "https://github.com/ENTERPILOT/GoModel"
+website = "https://gomodel.enterpilot.io/?utm_source=github_desc"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

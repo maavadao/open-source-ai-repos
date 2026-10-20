@@ -1,0 +1,7 @@
+name = "Knowledge_Graph_Reasoning_Papers"
+description = "Must-read papers on knowledge graph reasoning"
+category = "ml-platforms"
+tags = ["knowledge-graph-reasoning", "reinforcement-learning", "multi-hop-reasoning"]
+repository = "https://github.com/THU-KEG/Knowledge_Graph_Reasoning_Papers"
+license = "NOASSERTION"
+added = 2026-10-20

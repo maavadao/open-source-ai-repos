@@ -1,0 +1,9 @@
+name = "kaas"
+description = "Turn scattered notes, docs and transcripts into a queryable Markdown wiki — an LLM knowledge-base compiler with MCP access, no embeddings, self-hosted."
+category = "mcp-servers"
+tags = ["ai-agents", "claude-code", "golang", "knowledge-base", "knowledge-management", "llm", "markdown", "mcp"]
+repository = "https://github.com/bybit-exchange/kaas"
+website = "https://bybit-exchange.github.io/kaas-doc/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

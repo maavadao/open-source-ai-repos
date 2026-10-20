@@ -1,0 +1,8 @@
+name = "ZhiLight"
+description = "A highly optimized LLM inference acceleration engine for Llama and its variants."
+category = "local-llms"
+tags = ["inference-engine", "llm", "cuda", "gpt", "llama", "llm-serving", "pytorch", "llm-inference"]
+repository = "https://github.com/zhihu/ZhiLight"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

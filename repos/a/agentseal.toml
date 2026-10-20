@@ -1,0 +1,9 @@
+name = "agentseal"
+description = "Security toolkit for AI agents. Scan your machine for dangerous skills and MCP configs, monitor for supply chain attacks, test prompt injection resistance, and audit live MCP servers for tool poisoning."
+category = "mcp-servers"
+tags = ["ai-agents", "llm", "llm-security", "prompt-injection", "security", "pentesting", "red-team", "mcp"]
+repository = "https://github.com/getagentseal/agentseal"
+website = "https://agentseal.org"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

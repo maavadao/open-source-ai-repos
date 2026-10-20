@@ -1,0 +1,8 @@
+name = "awesome-design-skills"
+description = "List of 67 awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools"
+category = "learning"
+tags = ["agent-skills", "agentic-ai", "agentic-workflow", "agents", "ai", "ai-agents", "ai-tools", "awesome"]
+repository = "https://github.com/bergside/awesome-design-skills"
+website = "https://www.typeui.sh/design-skills"
+license = "MIT"
+added = 2026-10-20

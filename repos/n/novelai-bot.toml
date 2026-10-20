@@ -1,0 +1,9 @@
+name = "novelai-bot"
+description = "Generate images by NovelAI | 基于 NovelAI 的画图机器人"
+category = "image"
+tags = ["ai", "bot", "chatbot", "generator", "image", "koishi", "novelai", "plugin"]
+repository = "https://github.com/koishijs/novelai-bot"
+website = "https://bot.novelai.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

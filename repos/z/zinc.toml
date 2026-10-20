@@ -1,0 +1,9 @@
+name = "zinc"
+description = "Zig INferenCe Engine — Local LLM inference on AMD GPUs and Apple Silicon"
+category = "models"
+tags = ["amd", "amdgpu", "gpt", "gpu", "openai", "pytorch", "qwen3", "rdna3"]
+repository = "https://github.com/zolotukhin/zinc"
+website = "https://zolotukhin.ai/zinc/"
+license = "MIT"
+language = "Zig"
+added = 2026-10-20

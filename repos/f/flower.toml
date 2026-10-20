@@ -1,0 +1,9 @@
+name = "flower"
+description = "Flower: A Friendly Federated AI Framework"
+category = "ml-platforms"
+tags = ["flower", "federated-learning", "federated-learning-framework", "federated-analytics", "fleet-learning", "fleet-intelligence", "deep-learning", "machine-learning"]
+repository = "https://github.com/flwrlabs/flower"
+website = "https://flower.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

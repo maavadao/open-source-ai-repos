@@ -1,0 +1,9 @@
+name = "Paper2Any"
+description = "Turn paper/text/topic into editable research figures, technical route diagrams, and presentation slides."
+category = "agents"
+tags = ["agent", "ai", "aippt", "langgraph", "paper2slides", "editable-pptx", "ppt-generator"]
+repository = "https://github.com/OpenDCAI/Paper2Any"
+website = "https://paper2any-studio.cpolar.cn/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

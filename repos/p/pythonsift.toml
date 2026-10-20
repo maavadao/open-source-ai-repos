@@ -1,0 +1,8 @@
+name = "PythonSIFT"
+description = "A clean and concise Python implementation of SIFT (Scale-Invariant Feature Transform)"
+category = "vision"
+tags = ["sift", "template-matching", "python", "computer-vision", "image-processing", "feature-matching", "opencv"]
+repository = "https://github.com/rmislam/PythonSIFT"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

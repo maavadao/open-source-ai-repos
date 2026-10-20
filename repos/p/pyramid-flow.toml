@@ -1,0 +1,9 @@
+name = "Pyramid-Flow"
+description = "[ICLR 2025] Pyramidal Flow Matching for Efficient Video Generative Modeling"
+category = "video"
+tags = ["diffusion-models", "flow-matching", "video-generation"]
+repository = "https://github.com/jy0205/Pyramid-Flow"
+website = "https://pyramid-flow.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

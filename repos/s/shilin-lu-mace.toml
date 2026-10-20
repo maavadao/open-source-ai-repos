@@ -1,0 +1,8 @@
+name = "MACE"
+description = "[CVPR 2024] \"MACE: Mass Concept Erasure in Diffusion Models\" (Official Implementation)"
+category = "image"
+tags = ["diffusion-models", "generative-ai", "stable-diffusion", "text-to-image"]
+repository = "https://github.com/Shilin-LU/MACE"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

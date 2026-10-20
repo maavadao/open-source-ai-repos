@@ -1,0 +1,9 @@
+name = "YourMemory"
+description = "Agentic AI memory with Ebbinghaus forgetting curve decay. +16pp better recall than Mem0 on LoCoMo."
+category = "mcp-servers"
+tags = ["ai-agents", "claude", "ebbinghaus", "llm-memory", "mcp", "memory", "model-context-protocol", "pgvector"]
+repository = "https://github.com/sachitrafa/YourMemory"
+website = "https://yourmemoryai.xyz/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

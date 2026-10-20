@@ -1,0 +1,8 @@
+name = "ssd.pytorch"
+description = "A PyTorch Implementation of Single Shot MultiBox Detector"
+category = "vision"
+tags = ["pytorch", "deep-learning", "ssd", "object-detection", "computer-vision", "machine-learning", "image-recognition", "webcam"]
+repository = "https://github.com/amdegroot/ssd.pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

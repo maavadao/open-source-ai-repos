@@ -1,0 +1,8 @@
+name = "butterbase"
+description = "Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway, MCP."
+category = "mcp-servers"
+tags = ["baas", "backend-as-a-service", "mcp", "open-source", "postgres", "supabase-alternative", "typescript"]
+repository = "https://github.com/butterbase-ai/butterbase"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

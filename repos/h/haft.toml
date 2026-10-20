@@ -1,0 +1,9 @@
+name = "haft"
+description = "Engineering decisions engine that know when they're stale. Frame, compare, decide — with evidence decay and parity enforcement. For Claude Code, Cursor, Gemini CLI, Codex and more."
+category = "mcp-servers"
+tags = ["ai-agents", "ai-coding", "anthropic", "claude", "claude-code", "developer-tools", "first-principles", "reasoning"]
+repository = "https://github.com/m0n0x41d/haft"
+website = "https://haft.tools"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

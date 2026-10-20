@@ -1,0 +1,9 @@
+name = "Chat2DB"
+description = "Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your own AI model to generate, explain, and optimize queries. Available on…"
+category = "mcp-servers"
+tags = ["ai", "mysql", "oracle", "postgresql", "redis", "database", "clickhouse", "database-client"]
+repository = "https://github.com/OtterMind/Chat2DB"
+website = "https://chat2db.ai"
+license = "NOASSERTION"
+language = "Java"
+added = 2026-10-20

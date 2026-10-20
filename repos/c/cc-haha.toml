@@ -1,0 +1,9 @@
+name = "cc-haha"
+description = "本地优先的跨平台 Claude Code / AI Agent 桌面工作台：多 Agent 协作、Git Worktree、代码 Diff、技能市场、多模型、Computer Use、桌面宠物；支持微信、飞书、钉钉及 H5 等远程访问。 | Local-first Claude Code / AI Agent desktop workspace: multi-agent teams, Git worktrees, diffs, skills marketplace, multi-model, Computer Use, task-aware…"
+category = "mcp-servers"
+tags = ["agent", "ai", "ai-agent", "anthropic", "claude", "claude-code", "coding-agent", "computer-use"]
+repository = "https://github.com/NanmiCoder/cc-haha"
+website = "https://cchaha.ai"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

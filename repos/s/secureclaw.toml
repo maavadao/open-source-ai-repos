@@ -1,0 +1,9 @@
+name = "secureclaw"
+description = "SecureClaw - Security Plugin and Skill for OpenClaw OWASP-Aligned"
+category = "security"
+tags = ["agentic-ai", "ai-agents", "ai-security", "llm-security", "openclaw", "openclaw-plugin", "openclaw-security", "openclaw-skills"]
+repository = "https://github.com/adversa-ai/secureclaw"
+website = "https://adversa.ai/"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "agentation"
+description = "The visual feedback tool for agents."
+category = "agents"
+tags = ["ai", "design", "tools", "ui"]
+repository = "https://github.com/benjitaylor/agentation"
+website = "https://agentation.com"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

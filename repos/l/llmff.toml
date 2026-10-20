@@ -1,0 +1,8 @@
+name = "llmff"
+description = "Bounded, inspectable LLM inference pipelines from declared YAML — runs offline against Ollama or any OpenAI-compatible local server, emitting JSONL traces, inspect reports, and stable exit codes."
+category = "local-llms"
+tags = ["agent-tools", "cli", "inference-pipeline", "json-schema", "llm", "llm-inference", "llm-pipeline", "llmops"]
+repository = "https://github.com/syndicalt/llmff"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

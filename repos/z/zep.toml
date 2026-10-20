@@ -1,0 +1,9 @@
+name = "zep"
+description = "Zep | Examples, Integrations, & More"
+category = "models"
+tags = ["language-model", "llm", "ai", "knowledge-graphs"]
+repository = "https://github.com/getzep/zep"
+website = "https://help.getzep.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "malib"
+description = "A parallel framework for population-based multi-agent reinforcement learning."
+category = "ml-platforms"
+tags = ["multiagent", "reinforcement-learning", "python", "ray", "games", "parallel", "distributed"]
+repository = "https://github.com/sjtu-marl/malib"
+website = "https://malib.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

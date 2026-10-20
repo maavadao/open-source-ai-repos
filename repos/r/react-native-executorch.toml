@@ -1,0 +1,9 @@
+name = "react-native-executorch"
+description = "High-performance, privacy-first on-device AI inference library for React Native, powered by PyTorch's ExecuTorch runtime"
+category = "documents"
+tags = ["computer-vision", "executorch", "llm-inference", "object-detection", "ocr", "on-device-ai", "react-native-ai", "speech-to-text"]
+repository = "https://github.com/software-mansion/react-native-executorch"
+website = "http://docs.swmansion.com/react-native-executorch/"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

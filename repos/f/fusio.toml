@@ -1,0 +1,9 @@
+name = "fusio"
+description = "Self-Hosted API Management for Builders"
+category = "mcp-servers"
+tags = ["api", "rest", "api-management", "microservice", "php", "javascript", "openapi", "api-gateway"]
+repository = "https://github.com/apioo/fusio"
+website = "https://www.fusio-project.org"
+license = "Apache-2.0"
+language = "PHP"
+added = 2026-10-20

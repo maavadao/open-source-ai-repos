@@ -1,0 +1,9 @@
+name = "gaussian-splatting"
+description = "Original reference implementation of \"3D Gaussian Splatting for Real-Time Radiance Field Rendering\""
+category = "vision"
+tags = ["computer-graphics", "computer-vision", "radiance-field"]
+repository = "https://github.com/graphdeco-inria/gaussian-splatting"
+website = "https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

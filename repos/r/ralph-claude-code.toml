@@ -1,0 +1,8 @@
+name = "ralph-claude-code"
+description = "Autonomous AI development loop for Claude Code with intelligent exit detection"
+category = "coding"
+tags = ["ai", "ai-agent", "ai-agents", "ai-development", "ai-development-tools", "claude-code", "claude-code-cli", "development-tools"]
+repository = "https://github.com/frankbria/ralph-claude-code"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

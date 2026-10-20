@@ -1,0 +1,8 @@
+name = "hipocampus"
+description = "Drop-in memory harness for AI agents — 3-tier memory, compaction tree, hybrid search. One command to set up. Works with Claude Code and OpenClaw."
+category = "coding"
+tags = ["agent-memory", "ai-agent", "ai-memory", "claude-code", "context-management", "knowledge-management", "llm", "long-term-memory"]
+repository = "https://github.com/kevin-hs-sohn/hipocampus"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

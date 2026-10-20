@@ -1,0 +1,9 @@
+name = "crafter"
+description = "Benchmarking the Spectrum of Agent Capabilities"
+category = "ml-platforms"
+tags = ["artificial-intelligence", "reinforcement-learning", "minecraft", "environment", "simulation", "deep-learning"]
+repository = "https://github.com/danijar/crafter"
+website = "https://danijar.com/crafter"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

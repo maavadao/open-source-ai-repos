@@ -1,0 +1,9 @@
+name = "EDGE"
+description = "Official PyTorch Implementation of EDGE (CVPR 2023)"
+category = "video"
+tags = ["animation", "dance-generation", "diffusion-models", "pytorch"]
+repository = "https://github.com/Stanford-TML/EDGE"
+website = "https://edge-dance.github.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

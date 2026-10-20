@@ -1,0 +1,9 @@
+name = "atlas"
+description = "Source control for agents. Use multiple coding agents, track their changes and query them in one place"
+category = "mcp-servers"
+tags = ["ai", "ai-coding-assistant", "claude-code", "codex", "coding-agents", "git", "gitops", "kilo-code"]
+repository = "https://github.com/pacifio/atlas"
+website = "https://www.tryatlas.cc/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

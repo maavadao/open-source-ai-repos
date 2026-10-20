@@ -1,0 +1,8 @@
+name = "BlackFriday-GPTs-Prompts"
+description = "List of free GPTs that doesn't require plus subscription"
+category = "security"
+tags = ["ai", "awesome", "awesome-list", "gpt", "agents", "anthropic", "artifacts", "chatbot"]
+repository = "https://github.com/friuns2/BlackFriday-GPTs-Prompts"
+website = "https://play.google.com/store/apps/details?id=gptos.intelligence.assistant"
+license = "MIT"
+added = 2026-10-20

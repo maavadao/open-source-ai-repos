@@ -1,0 +1,9 @@
+name = "agent-scripts"
+description = "Scripts for agents, shared between my repositories."
+category = "agents"
+tags = ["ai-agents"]
+repository = "https://github.com/steipete/agent-scripts"
+website = "https://steipete.me"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

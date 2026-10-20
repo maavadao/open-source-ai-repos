@@ -1,0 +1,9 @@
+name = "Rankify"
+description = "Rankify: A Comprehensive Python Toolkit for Retrieval, Re-Ranking, and Retrieval-Augmented Generation . Our toolkit integrates 40 pre-retrieved benchmark datasets and supports 7+ retrieval techniques, 24+ state-of-the-art Reranking models, and multiple RAG methods."
+category = "chat"
+tags = ["nlp", "question-answering", "rag", "reranking", "retrieval", "retrival-augmented-generation", "agent", "llm"]
+repository = "https://github.com/DataScienceUIBK/Rankify"
+website = "https://rankify.readthedocs.io/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

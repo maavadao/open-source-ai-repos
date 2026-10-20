@@ -1,0 +1,7 @@
+name = "Paper-with-Code-of-Wireless-communication-Based-on-DL"
+description = "无线与深度学习结合的论文代码整理/Paper-with-Code-of-Wireless-communication-Based-on-DL"
+category = "ml-platforms"
+tags = ["wireless-communication", "deep-learning", "channel-estimation", "mimo", "machine-learning", "power-control", "communication-systems", "mimo-systems"]
+repository = "https://github.com/ML4Comm-Netw/Paper-with-Code-of-Wireless-communication-Based-on-DL"
+license = "NOASSERTION"
+added = 2026-10-20

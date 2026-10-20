@@ -1,0 +1,9 @@
+name = "flatkey-cli"
+description = "Flatkey media generation CLI for images, videos, audio, text, credits, and model discovery."
+category = "video"
+tags = ["ai", "audio-generation", "cli", "generative-ai", "image-generation", "media-generation", "npm", "video-generation"]
+repository = "https://github.com/flatkey-ai/flatkey-cli"
+website = "https://flatkey.ai/?utm_source=github&utm_medium=repo_homepage&utm_campaign=flatkey_cli"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

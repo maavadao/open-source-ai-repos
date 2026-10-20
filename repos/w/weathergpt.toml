@@ -1,0 +1,9 @@
+name = "weathergpt"
+description = "ChatGPT Plugin starter template built with Next.js 13 App Router, Edge Functions, and Vercel"
+category = "chat"
+tags = ["chatgpt", "chatgpt-plugin", "chatgpt-plugins", "nextjs", "openai", "vercel"]
+repository = "https://github.com/steven-tey/weathergpt"
+website = "https://weathergpt.vercel.app"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

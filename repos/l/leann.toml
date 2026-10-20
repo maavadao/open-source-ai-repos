@@ -1,0 +1,9 @@
+name = "LEANN"
+description = "[MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device."
+category = "security"
+tags = ["ai", "faiss", "langchain", "llama-index", "llm", "localstorage", "offline-first", "ollama"]
+repository = "https://github.com/StarTrail-org/LEANN"
+website = "https://arxiv.org/abs/2506.08276"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

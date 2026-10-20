@@ -1,0 +1,8 @@
+name = "OpenPCDet"
+description = "OpenPCDet Toolbox for LiDAR-based 3D Object Detection."
+category = "robotics"
+tags = ["point-cloud", "3d-detection", "autonomous-driving", "pv-rcnn", "object-detection", "pytorch"]
+repository = "https://github.com/open-mmlab/OpenPCDet"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

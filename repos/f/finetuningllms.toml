@@ -1,0 +1,8 @@
+name = "FineTuningLLMs"
+description = "Official repository of my book \"A Hands-On Guide to Fine-Tuning LLMs with PyTorch and Hugging Face\""
+category = "learning"
+tags = ["bitsandbytes", "fine-tuning", "finetuning", "finetuning-llms", "hugging-face", "huggingface", "large-language-models", "llamacpp"]
+repository = "https://github.com/dvgodoy/FineTuningLLMs"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

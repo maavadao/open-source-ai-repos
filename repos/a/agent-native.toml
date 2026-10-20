@@ -1,0 +1,9 @@
+name = "agent-native"
+description = "A framework for building agentic apps"
+category = "agents"
+tags = ["agents", "ai", "react", "agent-native", "typescript"]
+repository = "https://github.com/BuilderIO/agent-native"
+website = "https://www.agent-native.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

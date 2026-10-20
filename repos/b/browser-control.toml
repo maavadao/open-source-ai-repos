@@ -1,0 +1,8 @@
+name = "browser-control"
+description = "A tiny, fast Rust CLI that drives a real browser over the Chrome DevTools Protocol — built for coding agents."
+category = "browser-automation"
+tags = ["rust", "agent", "browser-automation", "llm"]
+repository = "https://github.com/keon/browser-control"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

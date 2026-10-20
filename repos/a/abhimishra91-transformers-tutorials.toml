@@ -1,0 +1,8 @@
+name = "transformers-tutorials"
+description = "Github repo with tutorials to fine tune transformers for diff NLP tasks"
+category = "learning"
+tags = ["transformers", "nlp", "natural-language-processing", "deep-learning", "bert", "distilbert", "pytorch", "pytorch-tutorial"]
+repository = "https://github.com/abhimishra91/transformers-tutorials"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

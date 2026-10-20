@@ -1,0 +1,9 @@
+name = "chatgpt-prompt-engineering"
+description = "Jupyter code notebooks of \"ChatGPT Prompt Engineering for Developers\" by DeepLearning.AI and OpenAI."
+category = "learning"
+tags = ["expanding", "inferring", "large-language-models", "summarizing", "transforming", "chatgpt"]
+repository = "https://github.com/ralphcajipe/chatgpt-prompt-engineering"
+website = "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

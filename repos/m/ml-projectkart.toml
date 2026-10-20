@@ -1,0 +1,9 @@
+name = "ML-ProjectKart"
+description = "Kart of 234+ projects based on machine learning, deep learning, computer vision, natural language processing and all. Show your support by this repository."
+category = "vision"
+tags = ["machine-learning-algorithms", "machine-learning", "algorithms-and-data-structures", "algorithms", "algorithms-datastructures", "python3", "scripts-collection", "projects"]
+repository = "https://github.com/prathimacode-hub/ML-ProjectKart"
+website = "https://prathimacode-hub.github.io/ML-ProjectKart/"
+license = "MPL-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

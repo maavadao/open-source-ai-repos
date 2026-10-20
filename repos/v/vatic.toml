@@ -1,0 +1,9 @@
+name = "vatic"
+description = "Efficiently Scaling Up Video Annotation with Crowdsourced Marketplaces. IJCV 2012"
+category = "video"
+tags = ["computer-vision", "video-annotation", "video"]
+repository = "https://github.com/cvondrick/vatic"
+website = "http://mit.edu/vondrick/vatic/"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

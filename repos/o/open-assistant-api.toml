@@ -1,0 +1,8 @@
+name = "open-assistant-api"
+description = "The Open Assistant API is a ready-to-use, open-source, self-hosted agent/gpts orchestration creation framework, supporting customized extensions for LLM, RAG, function call, and tools capabilities. It also supports seamless integration with the openai/langchain sdk."
+category = "chat"
+tags = ["assistants", "chatgpt", "gpts", "llm", "openai", "openai-api", "gpt", "langchain"]
+repository = "https://github.com/MLT-OSS/open-assistant-api"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "comfy-api-liberation"
+description = "Use your own API keys with ComfyUI. No account required."
+category = "security"
+tags = ["ai-art", "api", "api-key", "comfyui", "comfyui-custom-node", "comfyui-extension", "comfyui-node", "diffusion-models"]
+repository = "https://github.com/holo-q/comfy-api-liberation"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

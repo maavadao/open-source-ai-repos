@@ -1,0 +1,9 @@
+name = "iloveAgents"
+description = "AI agents worth falling in love with. Built by the community, loved by everyone."
+category = "no-code"
+tags = ["ai", "ai-agents", "anthropic", "browser-based-tool", "developer-tools", "gemini", "generative-ai", "javascript"]
+repository = "https://github.com/AditthyaSS/iloveAgents"
+website = "https://iloveagents.vercel.app/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

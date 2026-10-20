@@ -1,0 +1,9 @@
+name = "kubeshark"
+description = "eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard."
+category = "mcp-servers"
+tags = ["kubernetes", "golang", "rest", "grpc", "devops", "sniffer", "observability", "wireshark"]
+repository = "https://github.com/kubeshark/kubeshark"
+website = "https://kubeshark.com"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

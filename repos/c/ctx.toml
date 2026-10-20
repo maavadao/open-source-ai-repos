@@ -1,0 +1,9 @@
+name = "ctx"
+description = "Instant recall for coding agents. Search the history already on your machine. Git blame, but for agent sessions."
+category = "skills-prompts"
+tags = ["agents", "ai", "claude", "codex", "coding-agents", "cursor", "developer-tools", "rust"]
+repository = "https://github.com/ctxrs/ctx"
+website = "https://ctx.rs"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

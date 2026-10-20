@@ -1,0 +1,9 @@
+name = "prest"
+description = "Instant REST and MCP APIs for PostgreSQL and MySQL, on existing or new databases. CRUD, custom SQL routes, auth and ACL without writing a backend. Low-code, realtime, high-performance. Native MySQL support since v2.5."
+category = "mcp-servers"
+tags = ["postgresql", "golang", "postgres", "rest-api", "database", "low-code", "api", "baas"]
+repository = "https://github.com/prest/prest"
+website = "https://www.prestd.com"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

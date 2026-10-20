@@ -1,0 +1,9 @@
+name = "parallel-code"
+description = "Run Claude Code, Codex, and Gemini side by side — each in its own git worktree"
+category = "coding"
+tags = ["claude-code", "ai-coding", "codex-cli", "coding-agent", "developer-tools", "gemini-cli", "git-worktree", "terminal"]
+repository = "https://github.com/johannesjo/parallel-code"
+website = "https://parallelcode.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

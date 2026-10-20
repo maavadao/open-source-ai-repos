@@ -1,0 +1,9 @@
+name = "opencodex"
+description = "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code"
+category = "coding"
+tags = ["ai-tools", "claude", "codex", "gemini", "llm", "openai", "proxy", "typescript"]
+repository = "https://github.com/lidge-jun/opencodex"
+website = "https://opencodex.me/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

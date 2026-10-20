@@ -1,0 +1,8 @@
+name = "chatgpt-telegram-bot"
+description = "A ChatGPT bot for Telegram based on Node.js. Support both browserless and browser-base APIs."
+category = "chat"
+tags = ["chatbot", "chatgpt", "nodejs", "openai", "telegram-bot", "telegram"]
+repository = "https://github.com/RainEggplant/chatgpt-telegram-bot"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "letta"
+description = "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time."
+category = "agents"
+tags = ["llm", "llm-agent", "ai", "ai-agents"]
+repository = "https://github.com/letta-ai/letta"
+website = "https://www.letta.com"
+license = "Apache-2.0"
+skill_level = "advanced"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "Awesome-LM-SSP"
+description = "A reading list for large models safety, security, and privacy (including Awesome LLM Security, Safety, etc.)."
+category = "learning"
+tags = ["adversarial-attacks", "awesome-list", "diffusion-models", "jailbreak", "language-model", "llm", "nlp", "privacy"]
+repository = "https://github.com/CryptoAILab/Awesome-LM-SSP"
+license = "Apache-2.0"
+added = 2026-10-20

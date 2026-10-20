@@ -1,0 +1,7 @@
+name = "Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion"
+description = "A paper and project list about the cutting edge Speech Synthesis, Text-to-Speech (TTS), Singing Voice Synthesis (SVS), Voice Conversion (VC), Singing Voice Conversion (SVC), and related interesting works (such as Music Synthesis, Automatic Music Transcription, Automatic MOS…"
+category = "learning"
+tags = ["pytorch", "singing-synthesis", "singing-voice", "singing-voice-conversion", "singing-voice-synthesis", "speech", "speech-synthesis", "tts"]
+repository = "https://github.com/guan-yuan/Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion"
+license = "NOASSERTION"
+added = 2026-10-20

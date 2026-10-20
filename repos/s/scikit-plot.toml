@@ -1,0 +1,8 @@
+name = "scikit-plot"
+description = "An intuitive library to add plotting functionality to scikit-learn objects."
+category = "data-science"
+tags = ["scikit-learn", "visualization", "machine-learning", "data-science", "plotting", "plot"]
+repository = "https://github.com/reiinakano/scikit-plot"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "chatgpt-plus"
+description = "Open source free ChatGPT App (Web, Mac, Windows and Linux). 免费开源的ChatGPT应用程序."
+category = "chat"
+tags = ["gpt", "web", "chatbot", "chatgpt", "vercel"]
+repository = "https://github.com/zhpd/chatgpt-plus"
+website = "https://chatgpt-plus.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

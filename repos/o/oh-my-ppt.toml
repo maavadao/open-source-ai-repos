@@ -1,0 +1,9 @@
+name = "oh-my-ppt"
+description = "Describe what you need — a presentation, lesson, or story — and let the AI build clean, beautiful HTML slides for you. Local-first. Works offline. Works for you."
+category = "agents"
+tags = ["ai-agents", "ai-ppt", "ai-ppt-generator", "aippt", "desktop-app", "html-ppt", "local-fist", "ppt-generator"]
+repository = "https://github.com/arcsin1/oh-my-ppt"
+website = "http://www.ohmyppt.cc"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

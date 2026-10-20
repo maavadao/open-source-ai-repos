@@ -1,0 +1,9 @@
+name = "espnet"
+description = "End-to-End Speech Processing Toolkit"
+category = "speech"
+tags = ["deep-learning", "end-to-end", "chainer", "pytorch", "kaldi", "speech-recognition", "speech-synthesis", "speech-translation"]
+repository = "https://github.com/espnet/espnet"
+website = "https://espnet.github.io/espnet/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ort"
+description = "Fast ML inference & training for ONNX models in Rust"
+category = "local-llms"
+tags = ["ai", "inference", "machine-learning", "onnxruntime", "rust", "onnx", "ai-training", "fine-tuning"]
+repository = "https://github.com/pykeio/ort"
+website = "https://ort.pyke.io/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

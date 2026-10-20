@@ -1,0 +1,9 @@
+name = "Awesome-Multimodal-Agent"
+description = "Awesome Multimodal Agent"
+category = "learning"
+tags = ["agent", "agentic-ai", "awesome", "awesome-list", "multimodal", "multimodal-ai"]
+repository = "https://github.com/OpenEnvision/Awesome-Multimodal-Agent"
+website = "https://openenvision.github.io/Awesome-Multimodal-Agent/"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "OpenSpec"
+description = "Spec-driven development (SDD) for AI coding assistants."
+category = "coding"
+tags = ["spec", "ai", "context-engineering", "engineering", "planning", "prd", "sdlc", "spec-driven-development"]
+repository = "https://github.com/Fission-AI/OpenSpec"
+website = "https://openspec.dev/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

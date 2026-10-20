@@ -1,0 +1,8 @@
+name = "tlm"
+description = "Local CLI Copilot, powered by Ollama."
+category = "models"
+tags = ["llm", "bash", "powershell", "llama3", "zsh", "deepseek-r1", "qwen2-5", "phi4"]
+repository = "https://github.com/yusufcanb/tlm"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

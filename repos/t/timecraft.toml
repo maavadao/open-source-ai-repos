@@ -1,0 +1,8 @@
+name = "TimeCraft"
+description = "Official code for TimeCraft: A Time Series Generation Framework for Real-World Applications"
+category = "data-science"
+tags = ["generative-ai", "machine-learning", "timeseries-analysis"]
+repository = "https://github.com/microsoft/TimeCraft"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

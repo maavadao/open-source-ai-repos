@@ -1,0 +1,9 @@
+name = "jupyter-ai"
+description = "An open source extension that connects AI agents to computational notebooks in JupyterLab."
+category = "learning"
+tags = ["jupyter", "jupyterlab", "jupyterlab-extension", "acp", "agents"]
+repository = "https://github.com/jupyterlab/jupyter-ai"
+website = "https://jupyter-ai.readthedocs.io/"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

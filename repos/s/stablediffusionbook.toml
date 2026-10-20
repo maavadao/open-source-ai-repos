@@ -1,0 +1,9 @@
+name = "StableDiffusionBook"
+description = "How do we integrate AI generation tools into actual work? | 关于 Ai 绘画的Wiki | Wiki about Ai painting | Prompts Engineering| 指南 Guide | Seeking Maintainer&Translator"
+category = "learning"
+tags = ["aiart", "stablediffusion", "stable-diffusion", "stable-diffusion-tutorial", "stable-diffusion-webui"]
+repository = "https://github.com/sudoskys/StableDiffusionBook"
+website = "https://draw.dianas.cyou/"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

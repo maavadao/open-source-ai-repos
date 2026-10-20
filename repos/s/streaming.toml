@@ -1,0 +1,9 @@
+name = "streaming"
+description = "A Data Streaming Library for Efficient Neural Network Training"
+category = "ml-platforms"
+tags = ["dataset", "deep-learning", "machine-learning", "neural-network", "pytorch", "streaming"]
+repository = "https://github.com/mosaicml/streaming"
+website = "https://streaming.docs.mosaicml.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "grok-build"
+description = "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible."
+category = "coding"
+repository = "https://github.com/xai-org/grok-build"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

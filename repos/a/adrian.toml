@@ -1,0 +1,9 @@
+name = "Adrian"
+description = "Open-source runtime AI agent security tool - monitors and controls AI agents, catching malicious tool use, prompt injection, and policy drift in real time, before the agent acts."
+category = "mcp-servers"
+tags = ["agent-security", "agents", "ai", "ai-governance", "ai-security", "langchain", "langgraph", "llm-security"]
+repository = "https://github.com/secureagentics/Adrian"
+website = "https://secureagentics.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

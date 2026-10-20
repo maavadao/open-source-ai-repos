@@ -1,0 +1,9 @@
+name = "taskt"
+description = "taskt (pronounced 'tasked' and formely sharpRPA) is free and open-source robotic process automation (rpa) built in C# powered by the .NET Framework"
+category = "no-code"
+tags = ["process", "automation", "rpa", "ui", "robotics", "robot-framework", "robots"]
+repository = "https://github.com/saucepleez/taskt"
+website = "http://www.taskt.net/"
+license = "NOASSERTION"
+language = "C#"
+added = 2026-10-20

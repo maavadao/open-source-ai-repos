@@ -1,0 +1,9 @@
+name = "arxiv-mcp-server"
+description = "A local MCP server for agent literature work. Original-LaTeX section reads, BibTeX from arXiv metadata, and topic watches. Papers stay on disk. Search is optional."
+category = "mcp-servers"
+tags = ["ai", "claude-ai", "gpt", "mcp-server", "arxiv", "papers", "research", "llm"]
+repository = "https://github.com/blazickjp/arxiv-mcp-server"
+website = "https://www.pulsemcp.com/servers/blazickjp-arxiv-mcp-server"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

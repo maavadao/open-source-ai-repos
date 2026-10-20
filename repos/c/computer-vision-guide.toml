@@ -1,0 +1,8 @@
+name = "computer-vision-guide"
+description = "This guide is to help you understand the basics of the computerized image and develop computer vision projects with OpenCV. Includes Python, Java, JavaScript, C# and C++ examples."
+category = "vision"
+tags = ["opencv", "goruntu-isleme", "computer-vision", "image-processing", "machine-learning", "face-recognition", "object-detection", "optical-character-recognition"]
+repository = "https://github.com/mesutpiskin/computer-vision-guide"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

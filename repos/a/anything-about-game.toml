@@ -1,0 +1,7 @@
+name = "anything_about_game"
+description = "A wonderful list of Game Development resources."
+category = "agents"
+tags = ["unity", "csharp", "game", "game-development", "gamedev", "game-engine", "game-math", "2d-game-framework"]
+repository = "https://github.com/killop/anything_about_game"
+license = "Apache-2.0"
+added = 2026-10-20

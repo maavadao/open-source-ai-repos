@@ -1,0 +1,8 @@
+name = "HRM-Text"
+description = "HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning."
+category = "models"
+tags = ["large-language-models", "pretraining", "hierarchical-reasoning-model", "hrm"]
+repository = "https://github.com/sapientinc/HRM-Text"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

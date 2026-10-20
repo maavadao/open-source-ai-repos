@@ -1,0 +1,8 @@
+name = "focal-frequency-loss"
+description = "[ICCV 2021] Focal Frequency Loss for Image Reconstruction and Synthesis"
+category = "image"
+tags = ["generative-models", "loss-function", "frequency-domain", "frequency-analysis", "complementary", "autoencoder", "variational-autoencoder", "gan"]
+repository = "https://github.com/EndlessSora/focal-frequency-loss"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

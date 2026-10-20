@@ -1,0 +1,9 @@
+name = "azure-dev"
+description = "A developer CLI for working with Azure resources to build and deploy AI applications. Commands map to key workflow stages: code, build, deploy, and monitor."
+category = "agents"
+tags = ["azure", "microsoft", "deployments", "agents", "ai", "cli"]
+repository = "https://github.com/Azure/azure-dev"
+website = "https://aka.ms/azd"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

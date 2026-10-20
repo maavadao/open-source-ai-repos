@@ -1,0 +1,9 @@
+name = "wechaty"
+description = "Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt"
+category = "robotics"
+tags = ["wechaty", "chatbot", "wechat", "whatsapp", "conversational-ai", "robotics", "qq", "framework"]
+repository = "https://github.com/wechaty/wechaty"
+website = "https://wechaty.js.org"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

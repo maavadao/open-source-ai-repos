@@ -1,0 +1,8 @@
+name = "obsidian-github-copilot"
+description = "A bridge between Obsidian and Github Copilot"
+category = "coding"
+tags = ["ai", "completion", "copilot", "github", "github-copilot", "obsidian", "obsidian-md", "plugin"]
+repository = "https://github.com/Pierrad/obsidian-github-copilot"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

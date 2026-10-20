@@ -1,0 +1,9 @@
+name = "chatgpt-comparison-detection"
+description = "Human ChatGPT Comparison Corpus (HC3), Detectors, and more!"
+category = "chat"
+tags = ["ai", "chatbot", "chatgpt", "dataset", "nlp", "openai", "text-classification", "python"]
+repository = "https://github.com/Hello-SimpleAI/chatgpt-comparison-detection"
+website = "https://arxiv.org/abs/2301.07597"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "MegFlow"
+description = "Efficient ML solution for long-tailed demands."
+category = "vision"
+tags = ["deep-learning", "computer-vision", "megengine", "rust", "python3", "megenginelite", "pipeline-framework", "pipeline"]
+repository = "https://github.com/MegEngine/MegFlow"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Deep-Exemplar-based-Video-Colorization"
+description = "The source code of CVPR 2019 paper \"Deep Exemplar-based Video Colorization\"."
+category = "image"
+tags = ["deep-learning", "colorization", "image-processing", "generative-adversarial-network", "pytorch", "computer-vision", "image-generation", "gan"]
+repository = "https://github.com/zhangmozhe/Deep-Exemplar-based-Video-Colorization"
+website = "https://arxiv.org/abs/1906.09909"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

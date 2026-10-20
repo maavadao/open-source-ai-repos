@@ -1,0 +1,8 @@
+name = "python-machine-learning-book"
+description = "The \"Python Machine Learning (1st edition)\" book code repository and info resource"
+category = "learning"
+tags = ["machine-learning", "machine-learning-algorithms", "logistic-regression", "data-science", "data-mining", "python", "scikit-learn", "neural-network"]
+repository = "https://github.com/rasbt/python-machine-learning-book"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

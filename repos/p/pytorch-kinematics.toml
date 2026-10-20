@@ -1,0 +1,8 @@
+name = "pytorch_kinematics"
+description = "Robot kinematics implemented in pytorch"
+category = "robotics"
+tags = ["differentiable-programming", "jacobian", "kinematics", "pytorch", "robotics"]
+repository = "https://github.com/UM-ARM-Lab/pytorch_kinematics"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

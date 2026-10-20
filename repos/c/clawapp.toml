@@ -1,0 +1,9 @@
+name = "clawapp"
+description = "ClawApp — OpenClaw AI 智能体手机聊天客户端 | 流式对话 · 图片收发 · 工具调用 · PWA + APK | Mobile chat client for OpenClaw AI Agent"
+category = "chat"
+tags = ["ai-agents", "ai-assistant", "android", "capacitor", "chat-client", "chinese", "dark-mode", "h5"]
+repository = "https://github.com/qingchencloud/clawapp"
+website = "https://clawapp.qt.cool/"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "pipcook"
+description = "Machine learning platform for Web developers"
+category = "ml-platforms"
+tags = ["js", "machine-learning", "tensorflow", "pipeline"]
+repository = "https://github.com/alibaba/pipcook"
+website = "https://alibaba.github.io/pipcook/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

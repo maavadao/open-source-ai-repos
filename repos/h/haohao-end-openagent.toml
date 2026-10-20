@@ -1,0 +1,9 @@
+name = "openagent"
+description = "What if OpenAI Deep Research and Dify were one platform? OpenAgent — harness architecture for rapidly building vertical AI agents, with deep reasoning loops, visual workflows, RAG, and A2A delegation."
+category = "mcp-servers"
+tags = ["agent", "ai", "celery", "deepseek", "docker", "flask", "langchain", "langgraph"]
+repository = "https://github.com/Haohao-end/openagent"
+website = "https://openllm.cloud"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

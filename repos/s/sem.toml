@@ -1,0 +1,9 @@
+name = "sem"
+description = "Semantic version control => entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents."
+category = "agents"
+tags = ["ai-agents", "developer-tools", "git", "semantic-diff", "tree-sitter", "code-intelligence", "coding-agents", "llm-tools"]
+repository = "https://github.com/Ataraxy-Labs/sem"
+website = "https://ataraxy-labs.github.io/sem/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

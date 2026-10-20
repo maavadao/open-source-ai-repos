@@ -1,0 +1,8 @@
+name = "test-automation-skills-agents"
+description = "A practical library of agents, instructions, and skills designed specifically for QA Automation Engineers, focusing on production-oriented solutions."
+category = "agents"
+tags = ["agents", "ai", "ai-agents", "ai-instructions", "ai-skills", "qa-automation", "skills", "test-automation"]
+repository = "https://github.com/fugazi/test-automation-skills-agents"
+license = "MIT"
+language = "Java"
+added = 2026-10-20

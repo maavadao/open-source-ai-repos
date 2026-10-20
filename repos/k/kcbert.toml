@@ -1,0 +1,8 @@
+name = "KcBERT"
+description = "Pretrained BERT model & WordPiece tokenizer trained on Korean Comments 한국어 댓글로 프리트레이닝한 BERT 모델과 데이터셋"
+category = "models"
+tags = ["bert-model", "korean-nlp", "bert", "nlp", "transformers"]
+repository = "https://github.com/Beomi/KcBERT"
+website = "https://huggingface.co/beomi/kcbert-base"
+license = "MIT"
+added = 2026-10-20

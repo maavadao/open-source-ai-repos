@@ -1,0 +1,9 @@
+name = "tgo"
+description = "Open-source AI Agent Customer Service Platform. Build AI agent teams with LLM orchestration, RAG knowledge base, multi-channel support, and human collaboration."
+category = "chat"
+tags = ["ai-agent", "artificial-intelligence", "chatbot", "customer-service", "customer-support", "llm", "rag"]
+repository = "https://github.com/tgoai/tgo"
+website = "https://tgo.ai"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

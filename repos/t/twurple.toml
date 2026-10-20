@@ -1,0 +1,8 @@
+name = "twurple"
+description = "Interact with Twitch's API, chat and subscribe to events via PubSub and EventSub."
+category = "chat"
+tags = ["webhooks", "api", "api-client", "twitch", "twitch-api", "twitch-chat", "tmi", "chatbot"]
+repository = "https://github.com/twurple/twurple"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

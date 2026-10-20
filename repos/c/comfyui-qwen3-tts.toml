@@ -1,0 +1,9 @@
+name = "ComfyUI-Qwen3-TTS"
+description = "A ComfyUI custom node suite for Qwen3-TTS, supporting 1.7B and 0.6B models, Custom Voice, Voice Design, Voice Cloning and Fine-Tuning."
+category = "speech"
+tags = ["ai", "comfyui", "generative-ai", "voice-cloning"]
+repository = "https://github.com/DarioFT/ComfyUI-Qwen3-TTS"
+website = "https://github.com/QwenLM/Qwen3-TTS"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

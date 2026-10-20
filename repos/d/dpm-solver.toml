@@ -1,0 +1,8 @@
+name = "dpm-solver"
+description = "Official code for \"DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps\" (Neurips 2022 Oral)"
+category = "image"
+tags = ["diffusion-models", "machine-learning", "score-based-generative-models", "stable-diffusion"]
+repository = "https://github.com/LuChengTHU/dpm-solver"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "executorch"
+description = "On-device AI across mobile, embedded and edge for PyTorch"
+category = "ml-platforms"
+tags = ["deep-learning", "embedded", "machine-learning", "mobile", "neural-network", "tensor", "gpu"]
+repository = "https://github.com/pytorch/executorch"
+website = "https://executorch.ai"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

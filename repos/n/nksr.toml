@@ -1,0 +1,9 @@
+name = "NKSR"
+description = "[CVPR 2023 Highlight] Neural Kernel Surface Reconstruction"
+category = "vision"
+tags = ["3d-reconstruction", "computer-vision", "graphics", "neural-kernel", "point-cloud"]
+repository = "https://github.com/nv-tlabs/NKSR"
+website = "https://research.nvidia.com/labs/toronto-ai/NKSR"
+license = "NOASSERTION"
+language = "Cuda"
+added = 2026-10-20

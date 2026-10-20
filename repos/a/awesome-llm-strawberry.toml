@@ -1,0 +1,7 @@
+name = "Awesome-LLM-Strawberry"
+description = "A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 and reasoning techniques."
+category = "learning"
+tags = ["chain-of-thought", "coding", "llm", "mathematics", "mcts", "openai-o1", "strawberry", "reinforcement-learning"]
+repository = "https://github.com/hijkzzz/Awesome-LLM-Strawberry"
+license = "Apache-2.0"
+added = 2026-10-20

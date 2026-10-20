@@ -1,0 +1,8 @@
+name = "ChatDev"
+description = "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration"
+category = "agents"
+repository = "https://github.com/OpenBMB/ChatDev"
+website = "https://arxiv.org/abs/2307.07924"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

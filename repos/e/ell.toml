@@ -1,0 +1,9 @@
+name = "ell"
+description = "A language model programming library."
+category = "models"
+tags = ["ai", "prompt-engineering"]
+repository = "https://github.com/MadcowD/ell"
+website = "http://docs.ell.so/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

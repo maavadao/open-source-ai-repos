@@ -1,0 +1,8 @@
+name = "huginn"
+description = "Create agents that monitor and act on your behalf. Your agents are standing by!"
+category = "no-code"
+tags = ["automation", "notifications", "scraper", "webscraping", "feedgenerator", "rss", "agent", "monitoring"]
+repository = "https://github.com/huginn/huginn"
+license = "MIT"
+language = "Ruby"
+added = 2026-10-20

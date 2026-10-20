@@ -1,0 +1,9 @@
+name = "vocalinux"
+description = "Free, open-source, 100% offline voice dictation for Linux. Speak and type anywhere via whisper.cpp, Whisper & VOSK engines, GPU-accelerated, works on X11 + Wayland!"
+category = "speech"
+tags = ["linux", "voice", "vosk", "whisper", "offline-first", "privacy-first", "whisper-cpp", "accessibility"]
+repository = "https://github.com/VocaHQ/vocalinux"
+website = "https://vocalinux.com/"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

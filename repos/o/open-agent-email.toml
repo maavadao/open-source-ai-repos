@@ -1,0 +1,8 @@
+name = "open-agent-email"
+description = "Open-source email infrastructure for AI agents: secure inboxes, REST and MCP APIs, SMTP, human approval workflows, signed webhooks, and Python and TypeScript SDKs. Self-host with Docker and PostgreSQL."
+category = "mcp-servers"
+tags = ["open-source", "ai-agents", "agent-email", "agentic-ai", "aws-ses", "developer-tools", "email-api", "email-automation"]
+repository = "https://github.com/Anil-matcha/open-agent-email"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

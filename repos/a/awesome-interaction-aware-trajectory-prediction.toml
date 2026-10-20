@@ -1,0 +1,8 @@
+name = "Awesome-Interaction-Aware-Trajectory-Prediction"
+description = "A selection of state-of-the-art research materials on trajectory prediction"
+category = "learning"
+tags = ["trajectory-prediction", "trajectory-generation", "social-interactions", "behavior-prediction", "computer-vision", "machine-learning", "artificial-intelligence", "deep-learning"]
+repository = "https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction"
+license = "MIT"
+language = "TeX"
+added = 2026-10-20

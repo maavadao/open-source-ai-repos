@@ -1,0 +1,9 @@
+name = "Scrapling"
+description = "A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev"
+category = "mcp-servers"
+tags = ["crawler", "crawling", "crawling-python", "playwright", "python", "scraping", "selectors", "stealth"]
+repository = "https://github.com/D4Vinci/Scrapling"
+website = "https://scrapling.readthedocs.io/en/latest/"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "doubao2api"
+description = "Reverse-engineered Doubao (豆包) API → OpenAI-compatible REST service. Free multimodal chat, image/video/music generation, and file hosting for AI agents."
+category = "video"
+tags = ["ai-agent", "bytedance", "chatgpt-api", "doubao", "doubao-api", "fastapi", "free-api", "multimodal"]
+repository = "https://github.com/wangchuxiaoji-oss/doubao2api"
+website = "https://wangchuxiaoji-oss.github.io/doubao2api/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

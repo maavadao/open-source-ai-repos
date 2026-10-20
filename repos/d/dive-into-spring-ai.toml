@@ -1,0 +1,9 @@
+name = "dive-into-spring-ai"
+description = "《动手学SpringAI》包含SSE流/Agent智能体/知识图谱RAG/FunctionCall/历史消息/图片生成/图片理解/Embedding/VectorDatabase/RAG"
+category = "image"
+tags = ["aigc", "knowlege-base", "prompt", "rag", "sse", "functioncall", "agent", "graph-rag"]
+repository = "https://github.com/qifan777/dive-into-spring-ai"
+website = "https://www.jarcheng.top/blog/project/spring-ai/intro.html"
+license = "NOASSERTION"
+language = "Java"
+added = 2026-10-20

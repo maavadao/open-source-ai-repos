@@ -1,0 +1,8 @@
+name = "lagom"
+description = "lagom: A PyTorch infrastructure for rapid prototyping of reinforcement learning algorithms."
+category = "ml-platforms"
+tags = ["reinforcement-learning", "pytorch", "machine-learning", "python", "research", "deep-learning", "artificial-intelligence", "policy-gradient"]
+repository = "https://github.com/zuoxingdong/lagom"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

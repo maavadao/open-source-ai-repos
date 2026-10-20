@@ -1,0 +1,9 @@
+name = "Otter"
+description = "Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following and in-context learning ability."
+category = "robotics"
+tags = ["gpt-4", "visual-language-learning", "artificial-inteligence", "deep-learning", "foundation-models", "multi-modality", "machine-learning", "chatgpt"]
+repository = "https://github.com/EvolvingLMMs-Lab/Otter"
+website = "https://otter-ntu.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

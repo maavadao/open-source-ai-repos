@@ -1,0 +1,9 @@
+name = "VideoRAG"
+description = "[KDD'2026] \"VideoRAG: Chat with Your Videos\""
+category = "llm-apps"
+tags = ["large-language-models", "llms", "long-video-understanding", "multi-modal-llms", "rag", "retrieval-augmented-generation"]
+repository = "https://github.com/HKUDS/VideoRAG"
+website = "https://arxiv.org/abs/2502.01549"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

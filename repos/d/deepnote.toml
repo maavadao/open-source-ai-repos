@@ -1,0 +1,9 @@
+name = "deepnote"
+description = "Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-time collaboration, Deepnote agent, and deployable data apps.…"
+category = "learning"
+tags = ["artificial-intelligence", "data", "data-analysis", "data-science", "data-visualization", "eda", "jupyter", "jupyterhub"]
+repository = "https://github.com/deepnote/deepnote"
+website = "https://deepnote.com/?utm_source=github&utm_medium=github&utm_campaign=github&utm_content=readme_main"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

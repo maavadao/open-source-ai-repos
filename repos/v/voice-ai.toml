@@ -1,0 +1,9 @@
+name = "voice-ai"
+description = "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents with audio streaming, STT, TTS, VAD, multi-channel integration, agent state management, and observability."
+category = "speech"
+tags = ["agent-framework", "audio-streaming", "golang", "orchestration", "realtime-audio", "sip", "speech-ai", "speech-to-text"]
+repository = "https://github.com/rapidaai/voice-ai"
+website = "https://rapida.ai"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

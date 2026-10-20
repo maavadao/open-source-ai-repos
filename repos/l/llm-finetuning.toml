@@ -1,0 +1,8 @@
+name = "LLM-Finetuning"
+description = "LLM Finetuning with peft"
+category = "image"
+tags = ["falcon", "fine-tuning", "huggingface", "llama", "llama2", "llm", "llms", "lora"]
+repository = "https://github.com/ashishpatel26/LLM-Finetuning"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

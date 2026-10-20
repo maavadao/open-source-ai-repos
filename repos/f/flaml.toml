@@ -1,0 +1,9 @@
+name = "FLAML"
+description = "A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP."
+category = "ml-platforms"
+tags = ["automl", "hyperparam", "automated-machine-learning", "machine-learning", "data-science", "python", "jupyter-notebook", "hyperparameter-optimization"]
+repository = "https://github.com/microsoft/FLAML"
+website = "https://microsoft.github.io/FLAML/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

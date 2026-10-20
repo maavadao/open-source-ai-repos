@@ -1,0 +1,8 @@
+name = "yoha"
+description = "A practical hand tracking engine."
+category = "vision"
+tags = ["hand-tracking", "ai", "web", "hand-recognition", "typescript", "javascript"]
+repository = "https://github.com/handtracking-io/yoha"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "lc0"
+description = "Open source neural network chess engine with GPU acceleration and broad hardware support."
+category = "ml-platforms"
+tags = ["alphazero-inspired", "chess", "chess-engine", "leela-chess-zero", "neural-networks", "uci", "alphazero", "chess-ai"]
+repository = "https://github.com/LeelaChessZero/lc0"
+website = "https://lczero.org/"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-10-20

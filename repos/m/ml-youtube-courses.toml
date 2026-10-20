@@ -1,0 +1,8 @@
+name = "ML-YouTube-Courses"
+description = "Discover the latest machine learning / AI courses on YouTube."
+category = "learning"
+tags = ["machine-learning", "deep-learning", "nlp", "natural-language-processing", "ai", "data-science"]
+repository = "https://github.com/dair-ai/ML-YouTube-Courses"
+license = "CC0-1.0"
+skill_level = "beginner"
+added = 2026-10-20

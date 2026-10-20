@@ -1,0 +1,8 @@
+name = "guardian-cli"
+description = "Guardian is a production-ready AI-powered penetration testing automation CLI tool that leverages Google Gemini and LangChain to orchestrate intelligent, step-by-step penetration testing workflows while maintaining ethical hacking standards."
+category = "no-code"
+tags = ["automation", "gemini-ai", "generative-ai", "pentest-tool"]
+repository = "https://github.com/zakirkun/guardian-cli"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

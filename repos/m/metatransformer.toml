@@ -1,0 +1,9 @@
+name = "MetaTransformer"
+description = "Meta-Transformer for Unified Multimodal Learning"
+category = "vision"
+tags = ["artificial-intelligence", "computer-vision", "machine-learning", "multimedia", "multimodal", "transformers", "foundationmodel"]
+repository = "https://github.com/invictus717/MetaTransformer"
+website = "https://arxiv.org/abs/2307.10802"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

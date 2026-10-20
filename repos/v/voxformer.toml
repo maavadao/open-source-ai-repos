@@ -1,0 +1,8 @@
+name = "VoxFormer"
+description = "Official PyTorch implementation of VoxFormer [CVPR 2023 Highlight]"
+category = "robotics"
+tags = ["3d-scene-understanding", "artificial-intelligence", "autonomous-driving", "autonomous-vehicles", "computer-vision", "semantic-scene-completion", "vision-transformer", "3d-perception"]
+repository = "https://github.com/NVlabs/VoxFormer"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

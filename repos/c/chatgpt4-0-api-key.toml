@@ -1,0 +1,8 @@
+name = "-chatgpt4.0-api-key"
+description = "云雾API | OpenAI官方中转服务 https://yunwu.ai 官方价格0.5:1 0.5元=1$ Token 高性价比 稳定快速！ | 全球直连 | 无需代理 | 企业级稳定 | gpt3.5 | gpt4 | gpt4o | gpt4o-mini | 207+模型支持"
+category = "chat"
+tags = ["chatgpt-api", "chatgpt-free", "apikey", "gpt4", "gpt4-api", "gpt4all", "gpt4free", "gpt4o"]
+repository = "https://github.com/a37836323/-chatgpt4.0-api-key"
+website = "https://yunwu.ai"
+license = "GPL-3.0"
+added = 2026-10-20

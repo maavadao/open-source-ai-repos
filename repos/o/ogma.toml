@@ -1,0 +1,8 @@
+name = "ogma"
+description = "Generator of runtime monitors for flight and robotics applications."
+category = "robotics"
+tags = ["assurance", "autonomy", "cfs", "embedded-systems", "flight-software", "fprime", "robot-operating-system", "robotics"]
+repository = "https://github.com/nasa/ogma"
+license = "Apache-2.0"
+language = "Haskell"
+added = 2026-10-20

@@ -1,0 +1,10 @@
+name = "anything-llm"
+description = "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience"
+category = "chat"
+tags = ["rag", "localai", "vector-database", "llm", "ai-agents", "multimodal", "agent-harness", "agentic-ai"]
+repository = "https://github.com/Mintplex-Labs/anything-llm"
+website = "https://anythingllm.com"
+license = "MIT"
+language = "JavaScript"
+skill_level = "beginner"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "antigravity-sdk-python"
+description = "A Python library for building AI agents that leverage the full power of Google Antigravity."
+category = "mcp-servers"
+tags = ["ai-agents", "antigravity", "gemini", "gemini-api", "google", "llm-agents", "mcp", "python-sdk"]
+repository = "https://github.com/google-antigravity/antigravity-sdk-python"
+website = "https://antigravity.google/product/antigravity-sdk"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

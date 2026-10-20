@@ -1,0 +1,9 @@
+name = "gollama"
+description = "Go manage your Ollama models"
+category = "local-llms"
+tags = ["ai", "gguf", "llm", "ollama", "tui", "ggml", "linux", "macos"]
+repository = "https://github.com/sammcj/gollama"
+website = "https://smcleod.net"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

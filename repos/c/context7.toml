@@ -1,0 +1,9 @@
+name = "context7"
+description = "Context7 Platform -- Up-to-date docs for AI agents"
+category = "mcp-servers"
+tags = ["llm", "mcp", "mcp-server", "vibe-coding"]
+repository = "https://github.com/upstash/context7"
+website = "https://context7.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

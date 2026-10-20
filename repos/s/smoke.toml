@@ -1,0 +1,8 @@
+name = "SMOKE"
+description = "SMOKE: Single-Stage Monocular 3D Object Detection via Keypoint Estimation"
+category = "robotics"
+tags = ["3d-object-detection", "autonomous-driving"]
+repository = "https://github.com/lzccccc/SMOKE"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

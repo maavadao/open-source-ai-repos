@@ -1,0 +1,9 @@
+name = "SeargeSDXL"
+description = "Custom nodes and workflows for SDXL in ComfyUI"
+category = "no-code"
+tags = ["comfyui", "custom-nodes", "sdxl", "stable-diffusion", "workflow"]
+repository = "https://github.com/SeargeDP/SeargeSDXL"
+website = "https://civitai.com/models/111463"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Machine-Learning-Notebooks"
+description = "Machine Learning notebooks for refreshing concepts."
+category = "learning"
+tags = ["machine-learning", "python", "python-machine-learning", "machine-learning-algorithms", "deep-learning", "deep-learning-tutorial", "neural-networks", "data-science-notebook"]
+repository = "https://github.com/maykulkarni/Machine-Learning-Notebooks"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

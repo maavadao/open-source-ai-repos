@@ -1,0 +1,9 @@
+name = "vall-e"
+description = "PyTorch implementation of VALL-E(Zero-Shot Text-To-Speech), Reproduced Demo https://lifeiteng.github.io/valle/index.html"
+category = "speech"
+tags = ["in-context-learning", "large-language-models", "text-to-speech", "tts", "chatgpt", "vall-e", "valle"]
+repository = "https://github.com/lifeiteng/vall-e"
+website = "https://lifeiteng.github.io/valle/index.html"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

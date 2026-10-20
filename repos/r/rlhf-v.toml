@@ -1,0 +1,9 @@
+name = "RLHF-V"
+description = "[CVPR'24] RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback"
+category = "chat"
+tags = ["chatbot", "gpt-4", "llama", "multi-modality", "multimodal", "visual-language-learning", "rlhf-v"]
+repository = "https://github.com/RLHF-V/RLHF-V"
+website = "https://rlhf-v.github.io"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

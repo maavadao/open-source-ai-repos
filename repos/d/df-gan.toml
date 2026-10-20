@@ -1,0 +1,8 @@
+name = "DF-GAN"
+description = "[CVPR2022 oral] A Simple and Effective Baseline for Text-to-Image Synthesis"
+category = "image"
+tags = ["generative-adversarial-network", "text-to-image"]
+repository = "https://github.com/tobran/DF-GAN"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

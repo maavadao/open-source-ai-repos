@@ -1,0 +1,8 @@
+name = "lightweight-human-pose-estimation.pytorch"
+description = "Fast and accurate human pose estimation in PyTorch. Contains implementation of \"Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose\" paper."
+category = "vision"
+tags = ["human-pose-estimation", "deep-learning", "real-time", "openpose", "openvino", "coco-keypoints-detection", "mscoco-keypoint", "lightweight"]
+repository = "https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

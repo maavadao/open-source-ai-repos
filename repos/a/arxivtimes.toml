@@ -1,0 +1,8 @@
+name = "arXivTimes"
+description = "repository to research & share the machine learning articles"
+category = "vision"
+tags = ["machine-learning", "natural-language-processing", "computer-vision", "reinforcement-learning", "arxivtimes"]
+repository = "https://github.com/arXivTimes/arXivTimes"
+website = "https://arxivtimes.herokuapp.com/"
+license = "MIT"
+added = 2026-10-20

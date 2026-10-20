@@ -1,0 +1,8 @@
+name = "PIN_SLAM"
+description = "PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency [TRO 24]"
+category = "robotics"
+tags = ["3d-mapping", "implicit-neural-representation", "robotics", "slam"]
+repository = "https://github.com/PRBonn/PIN_SLAM"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

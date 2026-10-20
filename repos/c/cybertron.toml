@@ -1,0 +1,8 @@
+name = "cybertron"
+description = "Cybertron: the home planet of the Transformers in Go"
+category = "models"
+tags = ["bart", "bert", "machine-translation", "question-answering", "zero-shot-classification", "bert-as-service", "transformers", "huggingface"]
+repository = "https://github.com/nlpodyssey/cybertron"
+license = "BSD-2-Clause"
+language = "Go"
+added = 2026-10-20

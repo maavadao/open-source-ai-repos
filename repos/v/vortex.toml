@@ -1,0 +1,9 @@
+name = "vortex"
+description = "An extensible, state-of-the-art framework for columnar compression, and the fastest FOSS columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&Data, part of the Linux Foundation."
+category = "models"
+tags = ["array", "arrow", "compression", "python", "rust", "file", "multimodal"]
+repository = "https://github.com/vortex-data/vortex"
+website = "https://vortex.dev"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "visualwebarena"
+description = "VisualWebArena is a benchmark for multimodal agents."
+category = "agents"
+tags = ["agents", "llm", "multimodal"]
+repository = "https://github.com/web-arena-x/visualwebarena"
+website = "https://jykoh.com/vwa"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "awesome-copilot-chat-agents"
+description = "82 ready-to-deploy agents for Microsoft Copilot Chat, no Copilot Premium required. Paste the instruction block into the Copilot Studio builder. Writing, HR, PM, IT ops, Sales, Finance, Engineering and more. RAI reviewed, source-quality labelled, tested. No coding."
+category = "learning"
+tags = ["ai-agents", "ai-governance", "copilot-chat", "copilot-studio", "declarative-agents", "engineering", "enterprise-ai", "finance"]
+repository = "https://github.com/kesslernity/awesome-copilot-chat-agents"
+website = "https://www.kesslernity.com/?utm_source=github&utm_medium=repo&utm_campaign=awesome-copilot-chat-agents"
+license = "CC-BY-SA-4.0"
+added = 2026-10-20

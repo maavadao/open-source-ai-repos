@@ -1,0 +1,9 @@
+name = "aiden"
+description = "Aiden — an autonomous AI agent and work engine built solo. It can operate your browser, terminal, files, apps, APIs, skills and tools, remember context, recover from failures, automate workflows, and verify the result. Open source · AGPL-3.0."
+category = "agents"
+tags = ["ai-os", "llm", "local-first", "personal-ai", "windows", "ai", "ai-agents", "ai-skills"]
+repository = "https://github.com/taracodlabs/aiden"
+website = "https://aiden.taracod.com"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

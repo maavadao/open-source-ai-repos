@@ -1,0 +1,8 @@
+name = "gandissect"
+description = "Pytorch-based tools for visualizing and understanding the neurons of a GAN. https://gandissect.csail.mit.edu/"
+category = "ml-platforms"
+tags = ["pytorch", "gan", "image-manipulation", "deep-learning", "interactive-visualizations", "generative-adversarial-network", "interpretable-ml"]
+repository = "https://github.com/CSAILVision/gandissect"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

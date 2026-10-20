@@ -1,0 +1,8 @@
+name = "parllama"
+description = "TUI for Ollama and other LLM providers"
+category = "local-llms"
+tags = ["ai", "terminal", "tui", "ollama", "python", "ollama-tui", "anthropic", "gemini"]
+repository = "https://github.com/paulrobello/parllama"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

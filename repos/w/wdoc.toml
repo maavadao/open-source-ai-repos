@@ -1,0 +1,9 @@
+name = "wdoc"
+description = "Summarize and query from a lot of heterogeneous documents. Any LLM provider, any filetype, advanced RAG, advanced summaries, scriptable, etc"
+category = "documents"
+tags = ["langchain", "llm", "news", "python", "question-answering", "summarizer", "parser", "pdf"]
+repository = "https://github.com/thiswillbeyourgithub/wdoc"
+website = "https://wdoc.readthedocs.io/en/stable/"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "9router"
+description = "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits."
+category = "coding"
+tags = ["claude-code", "cursor", "ai-agents", "ai-gateway", "anthropic", "chatgpt", "claude", "cline"]
+repository = "https://github.com/decolua/9router"
+website = "https://9router.com"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

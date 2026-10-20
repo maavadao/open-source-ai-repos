@@ -1,0 +1,8 @@
+name = "Windows-MCP"
+description = "MCP Server for Computer Use in Windows"
+category = "mcp-servers"
+tags = ["desktop", "mcp", "tools", "windows", "ai", "windows-automation"]
+repository = "https://github.com/CursorTouch/Windows-MCP"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

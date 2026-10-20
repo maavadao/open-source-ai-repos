@@ -1,0 +1,6 @@
+name = "Awesome-LLM-Robotics"
+description = "A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites"
+category = "learning"
+repository = "https://github.com/GT-RIPL/Awesome-LLM-Robotics"
+license = "BSD-3-Clause"
+added = 2026-10-20

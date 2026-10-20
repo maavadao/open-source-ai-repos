@@ -1,0 +1,9 @@
+name = "transformerlab-app"
+description = "The open source research environment for AI researchers to seamlessly train, evaluate, and scale models from local hardware to GPU clusters."
+category = "image"
+tags = ["electron", "llama", "llms", "lora", "rlhf", "transformers", "mlx", "diffusion"]
+repository = "https://github.com/transformerlab/transformerlab-app"
+website = "https://lab.cloud"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

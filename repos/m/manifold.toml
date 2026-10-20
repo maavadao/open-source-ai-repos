@@ -1,0 +1,8 @@
+name = "manifold"
+description = "A model-agnostic visual debugging tool for machine learning"
+category = "data-science"
+tags = ["incubation", "machine-learning", "visualization"]
+repository = "https://github.com/uber/manifold"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "UniAD"
+description = "[CVPR 2023 Best Paper Award] Planning-oriented Autonomous Driving"
+category = "robotics"
+tags = ["autonomous-driving", "end-to-end-autonomous-driving", "motion-prediction", "multi-object-tracking", "perception-prediction-planning", "bev-segmentation", "motion-planning", "occupancy-prediction"]
+repository = "https://github.com/OpenDriveLab/UniAD"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

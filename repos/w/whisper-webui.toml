@@ -1,0 +1,8 @@
+name = "Whisper-WebUI"
+description = "A Web UI for easy subtitle using whisper model."
+category = "speech"
+tags = ["ai", "open-source", "python", "web-ui", "whisper", "gradio", "pytorch"]
+repository = "https://github.com/jhj0517/Whisper-WebUI"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

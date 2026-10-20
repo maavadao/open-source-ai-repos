@@ -1,0 +1,8 @@
+name = "uie_pytorch"
+description = "PaddleNLP UIE模型的PyTorch版实现"
+category = "models"
+tags = ["information-extraction", "pytorch", "transformers", "uie"]
+repository = "https://github.com/HUSTAI/uie_pytorch"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

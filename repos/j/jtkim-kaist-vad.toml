@@ -1,0 +1,8 @@
+name = "VAD"
+description = "Voice activity detection (VAD) toolkit including DNN, bDNN, LSTM and ACAM based VAD. We also provide our directly recorded dataset."
+category = "speech"
+tags = ["vad", "dnn", "lstm", "bdnn", "acam", "attention", "speech", "data"]
+repository = "https://github.com/jtkim-kaist/VAD"
+license = "NOASSERTION"
+language = "MATLAB"
+added = 2026-10-20

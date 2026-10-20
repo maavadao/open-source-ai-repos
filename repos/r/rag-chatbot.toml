@@ -1,0 +1,8 @@
+name = "rag-chatbot"
+description = "Chat with multiple PDFs locally"
+category = "local-llms"
+tags = ["chatbot", "gradio", "llm", "ollama", "question-answering", "rag", "llama-index", "llama3"]
+repository = "https://github.com/datvodinh/rag-chatbot"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

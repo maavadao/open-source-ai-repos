@@ -1,0 +1,9 @@
+name = "PiSSA"
+description = "PiSSA: Principal Singular Values and Singular Vectors Adaptation of Large Language Models(NeurIPS 2024 Spotlight)"
+category = "local-llms"
+tags = ["fine-tuning", "peft", "quantization"]
+repository = "https://github.com/MuLabPKU/PiSSA"
+website = "https://proceedings.neurips.cc/paper_files/paper/2024/file/db36f4d603cc9e3a2a5e10b93e6428f2-Paper-Conference.pdf"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

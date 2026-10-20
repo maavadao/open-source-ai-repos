@@ -1,0 +1,8 @@
+name = "hexapod-robot-simulator"
+description = "A hexapod robot simulator built from first principles"
+category = "robotics"
+tags = ["robot", "hexapod", "plotly", "dash", "plotly-dash", "plotly-python", "plotly-example", "robotics"]
+repository = "https://github.com/mithi/hexapod-robot-simulator"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

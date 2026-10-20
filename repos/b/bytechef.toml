@@ -1,0 +1,9 @@
+name = "bytechef"
+description = "Open-source AI agents and workflow automation. Self-host or embed in your SaaS. Apache 2.0 alternative to n8n and Zapier."
+category = "mcp-servers"
+tags = ["automation", "integrations", "java", "self-hosted", "typescript", "workflow", "ipaas", "low-code"]
+repository = "https://github.com/bytechefhq/bytechef"
+website = "https://www.bytechef.io"
+license = "NOASSERTION"
+language = "Java"
+added = 2026-10-20

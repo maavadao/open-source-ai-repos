@@ -1,0 +1,8 @@
+name = "SkyText-Chinese-GPT3"
+description = "SkyText是由奇点智源发布的中文GPT3预训练大模型，可以进行文章续写、对话、中英翻译、内容风格生成、推理、诗词对联等不同任务。| SkyText is a Chinese GPT3 pre-trained large model released by Singularity-AI, which can perform different tasks such as chatting, Q&A, and Chinese-English translation."
+category = "chat"
+tags = ["gpt-3", "gpt3", "chatgpt", "ai", "artificial-intelligence", "chatbot", "instructgpt", "machine-learning"]
+repository = "https://github.com/SkyWorkAIGC/SkyText-Chinese-GPT3"
+website = "https://openapi.singularity-ai.com/index.html#/"
+license = "MIT"
+added = 2026-10-20

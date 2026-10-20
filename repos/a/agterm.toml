@@ -1,0 +1,9 @@
+name = "agterm"
+description = "A genuinely good terminal"
+category = "agents"
+tags = ["ai-agents", "terminal", "cli"]
+repository = "https://github.com/umputun/agterm"
+website = "https://agterm.com"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

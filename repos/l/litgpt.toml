@@ -1,0 +1,9 @@
+name = "litgpt"
+description = "20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale."
+category = "local-llms"
+tags = ["ai", "artificial-intelligence", "deep-learning", "large-language-models", "llm", "llm-inference", "llms"]
+repository = "https://github.com/Lightning-AI/litgpt"
+website = "https://lightning.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

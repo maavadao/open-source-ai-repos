@@ -1,0 +1,10 @@
+name = "SurfSense"
+description = "Air-gapped, privacy-focused, open-source NotebookLM alternative. AI agent that researches, transforms, and edits your documents. Join our Discord: https://discord.gg/ejRNvftDp9"
+category = "search"
+tags = ["ai", "rag", "notebooklm", "agent", "agents", "notebooklm-alternative", "web-scraping", "self-hosted"]
+repository = "https://github.com/MODSetter/SurfSense"
+website = "https://www.surfsense.com"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "MimikaStudio"
+description = "MimikaStudio - A local-first application for macOS (Apple Silicon) + Agentic MCP Support"
+category = "mcp-servers"
+tags = ["qwen", "qwen3", "tts", "flutter-apps", "xttsv2", "voice", "voice-clone", "voice-cloning"]
+repository = "https://github.com/BoltzmannEntropy/MimikaStudio"
+website = "https://boltzmannentropy.github.io/mimikastudio.github.io/"
+license = "GPL-3.0"
+language = "Dart"
+added = 2026-10-20

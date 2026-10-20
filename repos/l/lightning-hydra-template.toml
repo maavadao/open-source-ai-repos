@@ -1,0 +1,8 @@
+name = "lightning-hydra-template"
+description = "PyTorch Lightning + Hydra. A very user-friendly template for ML experimentation."
+category = "ml-platforms"
+tags = ["pytorch-lightning", "project-structure", "config", "deep-learning", "hydra", "template", "pytorch", "reproducibility"]
+repository = "https://github.com/ashleve/lightning-hydra-template"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

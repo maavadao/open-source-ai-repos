@@ -1,0 +1,9 @@
+name = "Writ"
+description = "Governance runtime for Claude Code. Enforces workflow gates at tool time, delivers the engineering rules relevant to the work, and preserves decision provenance across sessions."
+category = "coding"
+tags = ["knowledge-graph", "python", "ai-coding", "claude-code", "rule-enforcement", "agent-tools", "developer-tools", "hybrid-search"]
+repository = "https://github.com/infinri/Writ"
+website = "https://infinri.github.io/Writ/docs/architecture/index.html"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

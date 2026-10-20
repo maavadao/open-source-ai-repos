@@ -1,0 +1,9 @@
+name = "ai-dev-tools-zoomcamp"
+description = "A free, hands-on course on using AI developer tools to build, test, deploy, extend, and audit software without losing engineering discipline. The 2026 cohort starts August 31."
+category = "mcp-servers"
+tags = ["ai", "ai-agents", "automation", "cicd", "coding-agent", "course", "devops", "free"]
+repository = "https://github.com/DataTalksClub/ai-dev-tools-zoomcamp"
+website = "https://courses.datatalks.club/register/ai-dev-tools/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

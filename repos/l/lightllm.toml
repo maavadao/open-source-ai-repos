@@ -1,0 +1,8 @@
+name = "LightLLM"
+description = "LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance."
+category = "local-llms"
+tags = ["deep-learning", "gpt", "llama", "llm", "model-serving", "nlp", "openai-triton"]
+repository = "https://github.com/ModelTC/LightLLM"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

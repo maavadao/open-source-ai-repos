@@ -1,0 +1,8 @@
+name = "Social-Distancing-Analyser-COVID-19"
+description = "A social distancing analyzer AI tool to regulate social distancing protocol using video surveillance of CCTV cameras and drones. Social Distancing Analyser to prevent COVID19"
+category = "vision"
+tags = ["covid-19", "covid19", "social-distancing", "artificial-intelligence", "computer-vision", "stay-home", "python", "yolo"]
+repository = "https://github.com/Ank-Cha/Social-Distancing-Analyser-COVID-19"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

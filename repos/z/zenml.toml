@@ -1,0 +1,9 @@
+name = "zenml"
+description = "ZenML : One AI Platform from Pipelines to Agents. https://zenml.io."
+category = "no-code"
+tags = ["mlops", "machine-learning", "data-science", "production-ready", "devops-tools", "zenml", "pipelines", "metadata-tracking"]
+repository = "https://github.com/zenml-io/zenml"
+website = "https://zenml.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

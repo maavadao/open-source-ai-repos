@@ -1,0 +1,9 @@
+name = "EndoCoT"
+description = "[ECCV 2026] An official implementation of \"EndoCoT\". Scaling endogenous Chain-of-Thought (CoT) reasoning in diffusion models for complex structured generation."
+category = "image"
+tags = ["generative-ai", "image-editing", "large-vision-language-model", "reasoning-models"]
+repository = "https://github.com/InternLM/EndoCoT"
+website = "https://internlm.github.io/EndoCoT/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

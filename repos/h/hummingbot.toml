@@ -1,0 +1,9 @@
+name = "hummingbot"
+description = "Open source software that helps you create and deploy high-frequency crypto trading bots"
+category = "agents"
+tags = ["arbitrage", "crypto", "trading", "python", "algotrading", "hft", "backtesting", "orderbook"]
+repository = "https://github.com/hummingbot/hummingbot"
+website = "https://hummingbot.org"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

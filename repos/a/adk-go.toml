@@ -1,0 +1,9 @@
+name = "adk-go"
+description = "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control."
+category = "mcp-servers"
+tags = ["a2a", "agents", "agents-sdk", "ai", "aiagentframework", "gemini", "genai", "go"]
+repository = "https://github.com/google/adk-go"
+website = "https://google.github.io/adk-docs/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

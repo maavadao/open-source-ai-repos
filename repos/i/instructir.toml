@@ -1,0 +1,9 @@
+name = "InstructIR"
+description = "[ECCV 2024] InstructIR: High-Quality Image Restoration Following Human Instructions https://huggingface.co/spaces/marcosv/InstructIR"
+category = "image"
+tags = ["computer-vision", "deblurring", "deep-learning", "dehazing", "denoising", "image-enhancement", "image-restoration", "inverse-problems"]
+repository = "https://github.com/mv-lab/InstructIR"
+website = "https://mv-lab.github.io/InstructIR/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

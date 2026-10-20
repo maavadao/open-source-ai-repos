@@ -1,0 +1,8 @@
+name = "agent-apprenticeship"
+description = "The living ecosystem where AI agents complete tasks through workflow loops, improve through iterative execution, are evaluated by mentor agents or humans in the loop, and turn completed work into reusable work experience and data to improve future agents."
+category = "coding"
+tags = ["agent-economy", "agent-experience", "agent-learning", "agent-traces", "agentic-ai", "ai-agents", "autonomous-agents", "claude-code"]
+repository = "https://github.com/ray-r-ren/agent-apprenticeship"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

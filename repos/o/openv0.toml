@@ -1,0 +1,8 @@
+name = "openv0"
+description = "AI generated UI components"
+category = "other"
+tags = ["ai", "generative", "javascript", "react", "tailwind", "typescript", "ui"]
+repository = "https://github.com/nraiden/openv0"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

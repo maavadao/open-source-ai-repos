@@ -1,0 +1,8 @@
+name = "llmfit"
+description = "Hundreds of models & providers. One command to find what runs on your hardware."
+category = "skills-prompts"
+tags = ["llm", "skill", "localai", "gguf", "mlx", "unsloth"]
+repository = "https://github.com/AlexsJones/llmfit"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

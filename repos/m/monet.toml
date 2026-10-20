@@ -1,0 +1,8 @@
+name = "monet"
+description = "Monet — Multi-engine mission control for coding agents (Claude Code and Codex today). Browse, search, and drive your agent sessions from a native desktop app."
+category = "mcp-servers"
+tags = ["anthropic", "claude", "claude-code", "desktop-app", "macos", "rust", "session-manager", "tauri"]
+repository = "https://github.com/zenolab124/monet"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

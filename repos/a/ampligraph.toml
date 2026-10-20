@@ -1,0 +1,8 @@
+name = "AmpliGraph"
+description = "Python library for Representation Learning on Knowledge Graphs https://docs.ampligraph.org"
+category = "llm-apps"
+tags = ["machine-learning", "knowledge-graph", "relational-learning", "representation-learning", "graph-representation-learning", "graph-embeddings", "knowledge-graph-embeddings"]
+repository = "https://github.com/Accenture/AmpliGraph"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

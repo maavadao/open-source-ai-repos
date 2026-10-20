@@ -1,0 +1,8 @@
+name = "PARE"
+description = "Code for ICCV2021 paper PARE: Part Attention Regressor for 3D Human Body Estimation"
+category = "vision"
+tags = ["human-pose-estimation", "3d-human-shape-and-pose-estimation", "3d-human-reconstruction", "computer-vision", "computer-graphics"]
+repository = "https://github.com/mkocabas/PARE"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

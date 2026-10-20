@@ -1,0 +1,9 @@
+name = "calculate-flops.pytorch"
+description = "The calflops is designed to calculate FLOPs、MACs and Parameters in all various neural networks, such as Linear、 CNN、 RNN、 GCN、Transformer(Bert、LlaMA etc Large Language Model)"
+category = "models"
+tags = ["flops-counter", "large-language-models", "pytorch", "calflops"]
+repository = "https://github.com/MrYxJ/calculate-flops.pytorch"
+website = "https://pypi.org/project/calflops/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

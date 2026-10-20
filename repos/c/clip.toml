@@ -1,0 +1,8 @@
+name = "CLIP"
+description = "CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image"
+category = "ml-platforms"
+tags = ["deep-learning", "machine-learning"]
+repository = "https://github.com/openai/CLIP"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

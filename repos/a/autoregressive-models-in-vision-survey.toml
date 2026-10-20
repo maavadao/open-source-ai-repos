@@ -1,0 +1,8 @@
+name = "Autoregressive-Models-in-Vision-Survey"
+description = "[TMLR 2025] A survey for the autoregressive models in vision."
+category = "video"
+tags = ["autoregressive", "diffusion", "embodied-ai", "image-generation", "medical-ai", "multimodal", "survey", "text-to-image"]
+repository = "https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey"
+website = "https://arxiv.org/abs/2411.05902"
+license = "NOASSERTION"
+added = 2026-10-20

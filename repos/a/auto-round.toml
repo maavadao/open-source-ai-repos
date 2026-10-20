@@ -1,0 +1,8 @@
+name = "auto-round"
+description = "PTQ-Level Efficiency, QAT-Level Accuracy|训练后量化的效率，量化感知训练的精度"
+category = "local-llms"
+tags = ["int4", "quantization", "rounding", "transformers", "vllm", "mxfp4", "nvfp4", "gguf"]
+repository = "https://github.com/intel/auto-round"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

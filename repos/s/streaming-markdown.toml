@@ -1,0 +1,9 @@
+name = "streaming-markdown"
+description = "Streaming markdown à la ChatGPT (WIP)"
+category = "chat"
+tags = ["html", "js", "markdown", "chatbot", "parser"]
+repository = "https://github.com/thetarnav/streaming-markdown"
+website = "https://thetarnav.github.io/streaming-markdown/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

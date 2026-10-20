@@ -1,0 +1,8 @@
+name = "mocogan"
+description = "MoCoGAN: Decomposing Motion and Content for Video Generation"
+category = "vision"
+tags = ["machine-learning", "computer-vision", "video-generator"]
+repository = "https://github.com/sergeytulyakov/mocogan"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

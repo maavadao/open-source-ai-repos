@@ -1,0 +1,8 @@
+name = "eCommerce-Skills"
+description = "E-commerce skills for AI agents — product research, marketing automation, supply chain optimization, and business analytics for online sellers across Amazon, Shopify, Etsy, TikTok Shop, and all platforms."
+category = "skills-prompts"
+tags = ["agent-skills", "ai", "ai-agent-skills", "ai-agents", "amazon-seller-tools", "claude-code-skills", "claude-skills", "ecommerce"]
+repository = "https://github.com/nexscope-ai/eCommerce-Skills"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

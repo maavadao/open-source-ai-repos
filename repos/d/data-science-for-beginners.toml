@@ -1,0 +1,10 @@
+name = "Data-Science-For-Beginners"
+description = "10 Weeks, 20 Lessons, Data Science for All!"
+category = "learning"
+tags = ["data-science", "python", "data-visualization", "data-analysis", "pandas", "microsoft-for-beginners"]
+repository = "https://github.com/microsoft/Data-Science-For-Beginners"
+website = "https://microsoft.github.io/Data-Science-For-Beginners/"
+license = "MIT"
+language = "Jupyter Notebook"
+skill_level = "beginner"
+added = 2026-10-20

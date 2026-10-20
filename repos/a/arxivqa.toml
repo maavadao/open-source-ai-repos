@@ -1,0 +1,9 @@
+name = "ArXivQA"
+description = "WIP - Automated Question Answering for ArXiv Papers with Large Language Models (https://arxiv.taesiri.xyz/)"
+category = "models"
+tags = ["automated-qa", "llm", "question-answering", "claude", "claude2", "gpt", "gpt-4", "llama"]
+repository = "https://github.com/taesiri/ArXivQA"
+website = "https://arxiv.taesiri.xyz/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "deep-q-learning"
+description = "Minimal Deep Q Learning (DQN & DDQN) implementations in Keras"
+category = "ml-platforms"
+tags = ["deep-reinforcement-learning", "deep-q-network", "dqn", "reinforcement-learning", "deep-learning", "ddqn"]
+repository = "https://github.com/keon/deep-q-learning"
+website = "https://keon.kim/writing/deep-q-learning/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

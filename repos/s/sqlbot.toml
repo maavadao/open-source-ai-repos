@@ -1,0 +1,9 @@
+name = "SQLBot"
+description = "基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG."
+category = "llm-apps"
+tags = ["deepseek", "llm", "rag", "sqlbot", "text-to-sql", "chatbi", "nl2sql", "text2sql"]
+repository = "https://github.com/dataease/SQLBot"
+website = "https://sqlbot.org/"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

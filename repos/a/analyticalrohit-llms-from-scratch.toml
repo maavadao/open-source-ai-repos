@@ -1,0 +1,9 @@
+name = "llms-from-scratch"
+description = "Build a ChatGPT like LLM from scratch in PyTorch, explained step by step."
+category = "learning"
+tags = ["ai", "artificial-intelligence", "chatgpt", "deep-learning", "generative-ai", "gpt", "large-language-models", "llms"]
+repository = "https://github.com/analyticalrohit/llms-from-scratch"
+website = "https://awesomeneuron.substack.com"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

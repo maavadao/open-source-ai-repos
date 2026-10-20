@@ -1,0 +1,9 @@
+name = "CVPR2023-3D-Occupancy-Prediction"
+description = "CVPR2023-Occupancy-Prediction-Challenge"
+category = "robotics"
+tags = ["autonomous-vehicles", "computer-vision", "dataset", "occupancy-detection"]
+repository = "https://github.com/CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction"
+website = "https://opendrivelab.com/AD23Challenge.html"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

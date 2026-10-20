@@ -1,0 +1,8 @@
+name = "vibecosystem"
+description = "AI software team for Claude Code - 138 agents, 295 skills, 73 hooks. Self-learning, multi-agent swarm, autonomous skill evolution."
+category = "skills-prompts"
+tags = ["ai-agents", "automation", "claude-code", "claude-skills", "developer-tools", "hooks", "multi-agent", "open-source"]
+repository = "https://github.com/vibeeval/vibecosystem"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

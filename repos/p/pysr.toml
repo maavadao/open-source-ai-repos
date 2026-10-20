@@ -1,0 +1,9 @@
+name = "PySR"
+description = "Symbolic Learning in Python and Julia"
+category = "ml-platforms"
+tags = ["symbolic-regression", "machine-learning", "python", "julia", "genetic-algorithm", "automl", "interpretable-ml", "data-science"]
+repository = "https://github.com/astroautomata/PySR"
+website = "https://pysr.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

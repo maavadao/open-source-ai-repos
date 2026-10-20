@@ -1,0 +1,9 @@
+name = "intentkit"
+description = "IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you."
+category = "agents"
+tags = ["ai", "ai-agent-framework", "intents", "python", "web3", "ai-agent", "blockchain", "agent-framework"]
+repository = "https://github.com/crestalnetwork/intentkit"
+website = "https://intentcat.com/docs"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

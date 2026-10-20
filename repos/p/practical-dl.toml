@@ -1,0 +1,8 @@
+name = "Practical_DL"
+description = "DL course co-developed by YSDA, HSE and Skoltech"
+category = "learning"
+tags = ["deep-learning", "course", "course-materials", "theano", "lasagne"]
+repository = "https://github.com/yandexdataschool/Practical_DL"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

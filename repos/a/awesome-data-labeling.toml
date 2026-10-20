@@ -1,0 +1,7 @@
+name = "awesome-data-labeling"
+description = "A curated list of awesome data labeling tools"
+category = "learning"
+tags = ["image-annotation", "video-annotation", "audio-annotation-tool", "audio-annotation", "image-labeling", "image-labeling-tool", "awesome", "awesome-list"]
+repository = "https://github.com/HumanSignal/awesome-data-labeling"
+license = "NOASSERTION"
+added = 2026-10-20

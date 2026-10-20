@@ -1,0 +1,9 @@
+name = "sage"
+description = "Lightweight Agent Detection & Response (ADR) layer for AI agents — guards commands, files, and web requests. Part of Gen Agent Trust Hub."
+category = "coding"
+tags = ["agents", "ai", "claude-code", "claude-code-plugin", "cursor-ai", "cursor-extension", "openclaw", "security"]
+repository = "https://github.com/gendigitalinc/sage"
+website = "https://ai.gendigital.com/sage"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

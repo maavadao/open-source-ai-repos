@@ -1,0 +1,8 @@
+name = "video-classification-3d-cnn-pytorch"
+description = "Video classification tools using 3D ResNet"
+category = "vision"
+tags = ["video-classification", "computer-vision", "computer-vision-tools", "pytorch", "python", "action-recognition", "deep-learning"]
+repository = "https://github.com/kenshohara/video-classification-3d-cnn-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

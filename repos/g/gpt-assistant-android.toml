@@ -1,0 +1,8 @@
+name = "gpt-assistant-android"
+description = "【新增智能体模式】安卓端全场景GPT助手，可用音量键唤起并进行语音交流，支持联网、拍照、模板、附件解析、智能体模式等 | GPT assistant for Android, activated via volume keys for voice interaction, supporting features such as networking, taking photos, templates, parsing PDF and Office documents, and agent mode."
+category = "chat"
+tags = ["android", "assistant", "chatgpt", "free-gpt", "markdown", "gpt-4-vision", "gpt", "accessibility"]
+repository = "https://github.com/Skythinker616/gpt-assistant-android"
+license = "GPL-3.0"
+language = "Java"
+added = 2026-10-20

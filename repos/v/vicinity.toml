@@ -1,0 +1,9 @@
+name = "vicinity"
+description = "Lightweight Nearest Neighbors with Flexible Backends"
+category = "vector-databases"
+tags = ["embeddings", "vector-database", "ai", "python", "annoy", "faiss", "hnsw", "hnswlib"]
+repository = "https://github.com/MinishLab/vicinity"
+website = "https://minish.ai/packages/vicinity/introduction"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

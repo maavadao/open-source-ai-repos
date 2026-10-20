@@ -1,0 +1,8 @@
+name = "CodeFuse-muAgent"
+description = "An Innovative Agent Framework Driven by KG Engine"
+category = "agents"
+tags = ["agent", "llm", "memory-management", "multi-agent", "rag", "tool-learning", "ekg", "kg"]
+repository = "https://github.com/codefuse-ai/CodeFuse-muAgent"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

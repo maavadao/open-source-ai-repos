@@ -1,0 +1,7 @@
+name = "ai-learning-kit"
+description = "A curated collection of AI learning materials"
+category = "learning"
+tags = ["agenetic-ai", "ai", "deep-learning", "machine-learning", "ml", "neural-networks", "llm", "datascience"]
+repository = "https://github.com/sadanandpai/ai-learning-kit"
+license = "MIT"
+added = 2026-10-20

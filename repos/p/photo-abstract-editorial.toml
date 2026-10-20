@@ -1,0 +1,8 @@
+name = "photo-abstract-editorial"
+description = "Turn photos into source-faithful editorial artworks with an Agent Skill — adaptive layouts, controlled abstraction, and a Strict Fidelity composition path."
+category = "skills-prompts"
+tags = ["ai-agent", "codex-skill", "deepseek-harness", "editorial-design", "image-compositing", "image-processing", "photo-editing", "pillow"]
+repository = "https://github.com/kwhi6693-web/photo-abstract-editorial"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

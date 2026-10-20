@@ -1,0 +1,9 @@
+name = "ml5-library"
+description = "Friendly machine learning for the web!"
+category = "ml-platforms"
+tags = ["lstm", "deep-learning", "imagenet", "machine-learning", "javascript", "neural-network", "p5xjs", "p5js"]
+repository = "https://github.com/ml5js/ml5-library"
+website = "https://ml5js.org"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Ori-Mnemos"
+description = "Local-first persistent agentic memory powered by Recursive Memory Harness (RMH). Open source must win."
+category = "mcp-servers"
+tags = ["agent-memory", "ai-agent", "ai-memory", "knowledge-graph", "llm", "markdown", "mcp", "mcp-server"]
+repository = "https://github.com/aayoawoyemi/Ori-Mnemos"
+website = "https://orimnemos.com."
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

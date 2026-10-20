@@ -1,0 +1,8 @@
+name = "how-claude-code-works"
+description = "Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude Code 源码：架构、Agent 循环、上下文工程、工具系统等"
+category = "coding"
+tags = ["ai", "ai-agent", "anthropic", "architecture", "claude", "claude-code", "coding-agent", "deep-dive"]
+repository = "https://github.com/Windy3f3f3f3f/how-claude-code-works"
+website = "https://windy3f3f3f3f.github.io/how-claude-code-works/#/"
+license = "MIT"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "awesome-ml-for-cybersecurity"
+description = "Machine Learning for Cyber Security"
+category = "learning"
+tags = ["machine-learning", "cyber-security", "data-mining", "awesome-list"]
+repository = "https://github.com/jivoi/awesome-ml-for-cybersecurity"
+license = "NOASSERTION"
+added = 2026-10-20

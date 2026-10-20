@@ -1,0 +1,8 @@
+name = "Informer2020"
+description = "The GitHub repository for the paper \"Informer\" accepted by AAAI 2021."
+category = "models"
+tags = ["deep-learning", "self-attention", "time-series", "pytorch", "forecasting", "transformer"]
+repository = "https://github.com/zhouhaoyi/Informer2020"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

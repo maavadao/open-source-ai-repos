@@ -1,0 +1,9 @@
+name = "vllm-ascend"
+description = "Community maintained hardware plugin for vLLM on Huawei Ascend"
+category = "local-llms"
+tags = ["inference", "llm", "llm-serving", "llmops", "mlops", "model-serving", "transformer", "vllm"]
+repository = "https://github.com/vllm-project/vllm-ascend"
+website = "https://docs.vllm.ai/projects/ascend"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "scout"
+description = "Open Source Company Brain"
+category = "agents"
+tags = ["agno", "ai-agents", "crm", "knowledge"]
+repository = "https://github.com/agno-agi/scout"
+website = "https://agno.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

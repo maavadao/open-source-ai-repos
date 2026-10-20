@@ -1,0 +1,9 @@
+name = "GANSketching"
+description = "Sketch Your Own GAN: Customizing a GAN model with hand-drawn sketches."
+category = "vision"
+tags = ["computer-vision", "computer-graphics", "deep-learning", "gans", "hci"]
+repository = "https://github.com/PeterWang512/GANSketching"
+website = "https://peterwang512.github.io/GANSketching"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

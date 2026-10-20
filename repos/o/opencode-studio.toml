@@ -1,0 +1,9 @@
+name = "opencode-studio"
+description = "web GUI for securely managing local OpenCode configuration"
+category = "mcp-servers"
+tags = ["cli-tools", "configuration-manager", "desktop-app", "developer-tools", "gui", "mcp", "model-context-protocol", "nextjs"]
+repository = "https://github.com/Microck/opencode-studio"
+website = "https://opencode-studio.micr.dev"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

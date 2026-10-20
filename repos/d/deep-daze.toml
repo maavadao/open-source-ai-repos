@@ -1,0 +1,8 @@
+name = "deep-daze"
+description = "Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun"
+category = "image"
+tags = ["artificial-intelligence", "deep-learning", "transformers", "siren", "implicit-neural-representation", "text-to-image", "multi-modality"]
+repository = "https://github.com/lucidrains/deep-daze"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

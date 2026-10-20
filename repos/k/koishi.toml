@@ -1,0 +1,9 @@
+name = "koishi"
+description = "Cross-platform chatbot framework made with love"
+category = "chat"
+tags = ["koishi", "chatbot", "onebot", "bot", "telegram", "discord", "koishijs", "feishu"]
+repository = "https://github.com/koishijs/koishi"
+website = "https://koishi.chat"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

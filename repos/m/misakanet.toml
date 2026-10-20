@@ -1,0 +1,9 @@
+name = "MisakaNet"
+description = "A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. | https://misakanet.org"
+category = "mcp-servers"
+tags = ["failure-memory", "mcp", "agents", "d1", "knowledge-base", "sqlite", "mcp-server", "action"]
+repository = "https://github.com/Ikalus1988/MisakaNet"
+website = "https://misakanet.org"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

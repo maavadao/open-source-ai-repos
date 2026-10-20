@@ -1,0 +1,9 @@
+name = "AutoHedge"
+description = "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution."
+category = "agents"
+tags = ["ai", "blackrock", "finance", "goldmansachs", "hedgefund", "jpmorgan", "ml", "quant"]
+repository = "https://github.com/The-Swarm-Corporation/AutoHedge"
+website = "https://swarms.xyz/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

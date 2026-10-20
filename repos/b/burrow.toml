@@ -1,0 +1,9 @@
+name = "burrow"
+description = "Cleanup, app management, maintenance, disk analysis, and live status in one free, open-source, native Mac app + extensive support for AI agents."
+category = "mcp-servers"
+tags = ["cleaner", "disk-usage", "macos", "mcp", "menubar", "mole", "open-source", "swift"]
+repository = "https://github.com/caezium/burrow"
+website = "https://burrow.computer"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

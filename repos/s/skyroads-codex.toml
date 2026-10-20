@@ -1,0 +1,8 @@
+name = "SkyRoads-Codex"
+description = "Reverse engineering a DOS game with no source code using Codex 5.4"
+category = "coding"
+tags = ["agents", "ai", "codex", "reverse-engineering", "vibe-coding"]
+repository = "https://github.com/ammaarreshi/SkyRoads-Codex"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

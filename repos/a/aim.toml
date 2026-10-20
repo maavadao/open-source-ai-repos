@@ -1,0 +1,9 @@
+name = "aim"
+description = "Aim — An easy-to-use & supercharged open-source experiment tracker."
+category = "ml-platforms"
+tags = ["python", "ai", "data-science", "data-visualization", "experiment-tracking", "machine-learning", "metadata", "metadata-tracking"]
+repository = "https://github.com/aimhubio/aim"
+website = "https://aimstack.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

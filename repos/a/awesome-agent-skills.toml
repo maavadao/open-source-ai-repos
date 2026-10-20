@@ -1,0 +1,8 @@
+name = "awesome-agent-skills"
+description = "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more."
+category = "learning"
+tags = ["awesome-list", "claude-code", "claude-skills", "ai-agents", "skills", "agent-skills", "claude-code-skills", "codex-skills"]
+repository = "https://github.com/VoltAgent/awesome-agent-skills"
+website = "https://officialskills.sh/"
+license = "MIT"
+added = 2026-10-20

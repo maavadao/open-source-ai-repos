@@ -1,0 +1,8 @@
+name = "v2x-vit"
+description = "[ECCV2022] Official Implementation of paper \"V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer\""
+category = "robotics"
+tags = ["autonomous-driving", "computer-vision", "machine-learning", "3d-object-detection", "collaborative-perception", "deep-learning", "multi-agent-system", "pytorch"]
+repository = "https://github.com/DerrickXuNu/v2x-vit"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

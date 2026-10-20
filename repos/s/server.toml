@@ -1,0 +1,9 @@
+name = "server"
+description = "The Triton Inference Server provides an optimized cloud and edge inferencing solution."
+category = "local-llms"
+tags = ["inference", "gpu", "machine-learning", "deep-learning", "cloud", "datacenter", "edge"]
+repository = "https://github.com/triton-inference-server/server"
+website = "https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/index.html"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

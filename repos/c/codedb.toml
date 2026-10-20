@@ -1,0 +1,9 @@
+name = "codedb"
+description = "Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries."
+category = "mcp-servers"
+tags = ["agentic-ai", "agents", "anthropic", "cursor", "gemini", "mcp", "openai", "zig"]
+repository = "https://github.com/justrach/codedb"
+website = "https://codegraff.com/blog/codedb-code-intelligence"
+license = "BSD-3-Clause"
+language = "Zig"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "ai-shell"
+description = "A CLI that converts natural language to shell commands."
+category = "data-science"
+tags = ["ai"]
+repository = "https://github.com/BuilderIO/ai-shell"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

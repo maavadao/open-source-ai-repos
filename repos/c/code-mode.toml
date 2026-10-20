@@ -1,0 +1,8 @@
+name = "code-mode"
+description = "Plug-and-play library to enable agents to call MCP and UTCP tools via code execution."
+category = "mcp-servers"
+tags = ["ai-agents", "codemode", "mcp", "model-context-protocol", "toolchain", "utcp"]
+repository = "https://github.com/universal-tool-calling-protocol/code-mode"
+license = "MPL-2.0"
+language = "TypeScript"
+added = 2026-10-20

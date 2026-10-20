@@ -1,0 +1,8 @@
+name = "WaveDiff"
+description = "Official Pytorch Implementation of the paper: Wavelet Diffusion Models are fast and scalable Image Generators (CVPR'23)"
+category = "image"
+tags = ["diffusion-models", "wavelet-transform"]
+repository = "https://github.com/VinAIResearch/WaveDiff"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

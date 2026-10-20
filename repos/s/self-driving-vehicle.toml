@@ -1,0 +1,9 @@
+name = "Self-driving-vehicle"
+description = "Simulation of path planning for self-driving vehicles in Unity. This is also an implementation of the Hybrid A* pathfinding algorithm which is useful if you are interested in pathfinding for vehicles."
+category = "robotics"
+tags = ["unity", "unit3d", "selfdriving", "self-driving-car", "pathfinding", "autonomous-vehicles", "autonomous-car", "autonomous-navigation"]
+repository = "https://github.com/Habrador/Self-driving-vehicle"
+website = "https://www.habrador.com/"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

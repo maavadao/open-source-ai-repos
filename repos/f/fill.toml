@@ -1,0 +1,9 @@
+name = "fill"
+description = "Generative fill in 3D."
+category = "vision"
+tags = ["3d-rendering", "fxnai", "generative-ai", "generative-fill"]
+repository = "https://github.com/fill3d/fill"
+website = "https://fill3d.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

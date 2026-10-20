@@ -1,0 +1,9 @@
+name = "metacar"
+description = "A reinforcement learning environment for self-driving cars in the browser."
+category = "robotics"
+tags = ["reinforcement-learning", "self-driving-car", "autonomous-vehicles", "pixijs", "tensorflowjs", "browser"]
+repository = "https://github.com/thibo73800/metacar"
+website = "https://www.metacar-project.com/"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

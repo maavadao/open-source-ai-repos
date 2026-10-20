@@ -1,0 +1,9 @@
+name = "iFixAi"
+description = "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds."
+category = "security"
+tags = ["ai", "diagnostic-tool", "agent-evaluation", "ai-alignment", "ai-evaluation", "ai-governance", "ai-safety", "cli"]
+repository = "https://github.com/ifixai-ai/iFixAi"
+website = "https://www.ifixai.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

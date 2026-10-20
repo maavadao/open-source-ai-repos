@@ -1,0 +1,9 @@
+name = "AutoSchemaKG"
+description = "This repository contains the implementation of AutoSchemaKG, a novel framework for automatic knowledge graph construction that combines schema generation via conceptualization."
+category = "llm-apps"
+tags = ["graph-construction", "knowledge-graph", "rag"]
+repository = "https://github.com/HKUST-KnowComp/AutoSchemaKG"
+website = "https://hkust-knowcomp.github.io/AutoSchemaKG/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

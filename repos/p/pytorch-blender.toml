@@ -1,0 +1,8 @@
+name = "pytorch-blender"
+description = "Seamless, distributed, real-time integration of Blender into PyTorch data pipelines"
+category = "ml-platforms"
+tags = ["blender", "pytorch", "zmq", "reinforcement-learning", "openai-gym"]
+repository = "https://github.com/cheind/pytorch-blender"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

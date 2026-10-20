@@ -1,0 +1,9 @@
+name = "openclaw-operator"
+description = "Kubernetes operator for deploying and managing OpenClaw AI agent instances with production-grade security, observability, and lifecycle management."
+category = "agents"
+tags = ["kubernetes", "openclaw", "golang", "helm", "agents", "ai", "operator"]
+repository = "https://github.com/stubbi/openclaw-operator"
+website = "https://paperclip.inc/openclaw"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

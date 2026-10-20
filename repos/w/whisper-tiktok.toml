@@ -1,0 +1,9 @@
+name = "Whisper-TikTok"
+description = "From AI tools to TikTok video creation using FFMPEG, Microsoft Edge read aloud and OpenAI Whisper model"
+category = "speech"
+tags = ["python", "text-to-speech", "tiktok", "edge-tts", "ffmpeg", "whisper"]
+repository = "https://github.com/MatteoFasulo/Whisper-TikTok"
+website = "https://matteofasulo.github.io/Whisper-TikTok/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

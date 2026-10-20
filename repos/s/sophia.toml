@@ -1,0 +1,8 @@
+name = "Sophia"
+description = "The official implementation of “Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training”"
+category = "models"
+tags = ["deep-learning", "large-language-models", "optimizer"]
+repository = "https://github.com/Liuhong99/Sophia"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

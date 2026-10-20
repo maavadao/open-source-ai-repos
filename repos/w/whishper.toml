@@ -1,0 +1,9 @@
+name = "whishper"
+description = "Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!"
+category = "speech"
+tags = ["ai", "audio-to-text", "golang", "subtitles", "sveltekit", "transcription", "whisper", "ui"]
+repository = "https://github.com/pluja/whishper"
+website = "https://whishper-docs.pages.dev/"
+license = "AGPL-3.0"
+language = "Svelte"
+added = 2026-10-20

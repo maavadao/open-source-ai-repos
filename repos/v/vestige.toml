@@ -1,0 +1,8 @@
+name = "vestige"
+description = "Think before doing, prove before saving. Vestige is a local, deterministic safety kernel for AI agents. Every memory write and agent action is recorded in Strata, an append-only log, so you can see exactly what your agent did and why."
+category = "mcp-servers"
+tags = ["rust", "local-first", "security", "claude-code", "ai-agents", "security-kernel", "agent-security", "audit-log"]
+repository = "https://github.com/samvallad33/vestige"
+license = "AGPL-3.0"
+language = "Rust"
+added = 2026-10-20

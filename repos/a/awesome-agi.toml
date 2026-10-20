@@ -1,0 +1,7 @@
+name = "Awesome-AGI"
+description = "A curated list of awesome AGI frameworks, software and resources"
+category = "learning"
+tags = ["agi", "gpt", "llms", "autogpt", "chatgpt", "gpt4", "artificial-general-intelligence", "awesome-list"]
+repository = "https://github.com/EmbraceAGI/Awesome-AGI"
+license = "MIT"
+added = 2026-10-20

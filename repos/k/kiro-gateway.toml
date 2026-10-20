@@ -1,0 +1,8 @@
+name = "kiro-gateway"
+description = "Proxy API gateway for Kiro IDE & CLI (Amazon Q Developer / AWS CodeWhisperer). Use free Claude models with any client."
+category = "coding"
+tags = ["ai", "anthropic", "api-gateway", "aws", "claude", "codewhisperer", "fastapi", "kiro"]
+repository = "https://github.com/jwadow/kiro-gateway"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

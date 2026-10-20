@@ -1,0 +1,8 @@
+name = "DAD-3DHeads"
+description = "Official repo for DAD-3DHeads: A Large-scale Dense, Accurate and Diverse Dataset for 3D Head Alignment from a Single Image (CVPR 2022)."
+category = "vision"
+tags = ["3d-computer-vision", "3d-face-alignment", "3d-face-modelling", "3d-face-reconstruction", "3d-head", "3d-reconstruction", "computer-vision", "cvpr"]
+repository = "https://github.com/PinataFarms/DAD-3DHeads"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "motion-skills"
+description = "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent."
+category = "coding"
+tags = ["ai-agents", "claude-code", "motion-graphics", "remotion", "skills"]
+repository = "https://github.com/iart-ai/motion-skills"
+website = "https://www.iart.ai"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

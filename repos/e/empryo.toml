@@ -1,0 +1,9 @@
+name = "Empryo"
+description = "AI coding harness for desktop, terminal and CI. Maps your repo, edits code by symbol through AST and LSP, then runs your checks. Any model or the plan you already pay for. Get it at https://empryo.com"
+category = "coding"
+tags = ["ai", "ai-agents", "claude-code", "cli", "opencode", "lsp", "neovim", "graph"]
+repository = "https://github.com/proxysoul/Empryo"
+website = "https://empryo.com/"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

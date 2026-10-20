@@ -1,0 +1,8 @@
+name = "ngboost"
+description = "Natural Gradient Boosting for Probabilistic Prediction"
+category = "data-science"
+tags = ["machine-learning", "gradient-boosting", "natural-gradients", "uncertainty-estimation", "ngboost", "python"]
+repository = "https://github.com/stanfordmlgroup/ngboost"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

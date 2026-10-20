@@ -1,0 +1,9 @@
+name = "gort"
+description = "Gort is a chatbot framework designed from the ground up for chatops."
+category = "chat"
+tags = ["chatops", "slack", "devops", "devops-tools", "cog", "cog-slack-bot", "golang", "chatbot"]
+repository = "https://github.com/getgort/gort"
+website = "https://guide.getgort.io"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

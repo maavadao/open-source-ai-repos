@@ -1,0 +1,9 @@
+name = "photoprism"
+description = "AI-Powered Photos App"
+category = "ml-platforms"
+tags = ["golang", "tensorflow", "photography", "private-cloud", "google-photos", "ai", "machine-learning", "self-hosted"]
+repository = "https://github.com/photoprism/photoprism"
+website = "https://www.photoprism.app"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

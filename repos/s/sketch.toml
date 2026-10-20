@@ -1,0 +1,8 @@
+name = "sketch"
+description = "AI code-writing assistant that understands data content"
+category = "coding"
+tags = ["ai", "codex", "copilot", "data", "data-science", "dataframe", "datasketches", "df"]
+repository = "https://github.com/approximatelabs/sketch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

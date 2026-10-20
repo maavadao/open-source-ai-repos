@@ -1,0 +1,9 @@
+name = "reddit-karma-farming-bot"
+description = "\"Is karma really that important to you? Damn bro, you need a life\" - YouTube Comment"
+category = "chat"
+tags = ["reddit", "chatbot", "machine-learning"]
+repository = "https://github.com/MrPowerScripts/reddit-karma-farming-bot"
+website = "https://mrpowerscripts.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

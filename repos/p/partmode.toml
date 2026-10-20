@@ -1,0 +1,9 @@
+name = "partmode"
+description = "Open-source, local-first 3D parametric CAD that runs in the browser for people and permissioned typed agents, powered by OpenCascade WASM."
+category = "mcp-servers"
+tags = ["browser-cad", "cad", "opencascade", "parametric-modeling", "webassembly", "3d-modeling", "ai-agents", "brep"]
+repository = "https://github.com/BOMWiki/partmode"
+website = "https://partmode.com/"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-10-20

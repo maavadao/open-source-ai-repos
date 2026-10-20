@@ -1,0 +1,9 @@
+name = "xmtf"
+description = "Crosslingual Generalization through Multitask Finetuning"
+category = "models"
+tags = ["instruction-tuning", "large-language-models", "multitask-learning", "language-models", "bloom", "multilingual-nlp", "t5", "bloomz"]
+repository = "https://github.com/bigscience-workshop/xmtf"
+website = "https://arxiv.org/abs/2211.01786"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

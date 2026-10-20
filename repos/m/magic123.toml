@@ -1,0 +1,9 @@
+name = "Magic123"
+description = "[ICLR'24] Official PyTorch Implementation of Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors"
+category = "image"
+tags = ["image-to-3d", "3d-generation", "diffusion-models"]
+repository = "https://github.com/guochengqian/Magic123"
+website = "https://guochengqian.github.io/project/magic123"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

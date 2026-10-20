@@ -1,0 +1,8 @@
+name = "chatgpt_system_prompt"
+description = "A collection of GPT system prompts and various prompt injection/leaking knowledge."
+category = "models"
+tags = ["gpt", "prompt", "prompt-engineering"]
+repository = "https://github.com/LouisShark/chatgpt_system_prompt"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

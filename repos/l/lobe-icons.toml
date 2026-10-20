@@ -1,0 +1,9 @@
+name = "lobe-icons"
+description = "Lobe Icons - Brings AI/LLM brand logos to your React & React Native apps — static SVG/PNG/WebP, no dependencies."
+category = "models"
+tags = ["ai", "brands", "component", "icon-pack", "icons", "llm", "logo", "svg"]
+repository = "https://github.com/lobehub/lobe-icons"
+website = "https://icons.lobehub.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "CrispASR"
+description = "C++ ggml runtime hub for multilingual ASR and TTS models: Cohere Transcribe, Parakeet TDT, Voxtral, Canary 1B v2, etc, plus universal forced alignment, and more"
+category = "speech"
+tags = ["cohere-transcribe", "cohere-transcribe-03-2026", "ggml", "speech-recognition", "speech-to-text", "stt", "transcription", "whisper-cpp"]
+repository = "https://github.com/CrispStrobe/CrispASR"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

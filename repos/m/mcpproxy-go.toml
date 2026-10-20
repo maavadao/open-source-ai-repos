@@ -1,0 +1,9 @@
+name = "mcpproxy-go"
+description = "Supercharge AI Agents, Safely"
+category = "mcp-servers"
+tags = ["ai", "ai-agents", "mcp", "mcp-server", "security", "audit-logging", "bm25", "cli"]
+repository = "https://github.com/smart-mcp-proxy/mcpproxy-go"
+website = "https://mcpproxy.app"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

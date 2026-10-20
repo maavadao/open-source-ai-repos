@@ -1,0 +1,7 @@
+name = "awesome-human-pose-estimation"
+description = "A collection of awesome resources in Human Pose estimation."
+category = "learning"
+tags = ["human-pose-estimation", "deep-learning", "deep-learning-papers", "computer-vision", "awesome-list", "2d-human-pose", "3d-human-pose", "pose-estimation"]
+repository = "https://github.com/cbsudux/awesome-human-pose-estimation"
+license = "NOASSERTION"
+added = 2026-10-20

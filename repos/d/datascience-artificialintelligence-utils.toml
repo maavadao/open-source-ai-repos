@@ -1,0 +1,8 @@
+name = "DataScience_ArtificialIntelligence_Utils"
+description = "Examples of Data Science projects and Artificial Intelligence use-cases"
+category = "vision"
+tags = ["data-science", "artificial-intelligence", "data-visualization", "python", "explainable-ai", "explainable-ml", "examples", "classification"]
+repository = "https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "tinyvector"
+description = "A tiny embedding database in pure Rust."
+category = "vector-databases"
+tags = ["embeddings", "embeddings-similarity", "machine-learning", "rust", "search-engines", "similarity-search", "vector-database", "vector-search"]
+repository = "https://github.com/m1guelpf/tinyvector"
+website = "https://crates.io/crates/tinyvector"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

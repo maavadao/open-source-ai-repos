@@ -1,0 +1,8 @@
+name = "noobot"
+description = "Cheap Money-Saving Self-hosted AI agent workspace with tool calling, MCP, multi-model routing, sandboxed execution, multi-agent workflows, and LLM-authored 3D character animation rendered with Three.js."
+category = "mcp-servers"
+tags = ["noobot", "ai-agent", "llm", "mcp", "model-routing", "multi-agent", "multimodal", "sandbox"]
+repository = "https://github.com/xiayu1987/noobot"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

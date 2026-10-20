@@ -1,0 +1,9 @@
+name = "train-llm-from-scratch"
+description = "A straightforward method for training your LLM, from downloading data to generating text."
+category = "models"
+tags = ["gemini", "large-language-models", "llm", "openai", "training", "transformers"]
+repository = "https://github.com/FareedKhan-dev/train-llm-from-scratch"
+website = "https://fareedkhan-dev.github.io/train-llm-from-scratch/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

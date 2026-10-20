@@ -1,0 +1,9 @@
+name = "safety-gymnasium"
+description = "NeurIPS 2023: Safety-Gymnasium: A Unified Safe Reinforcement Learning Benchmark"
+category = "ml-platforms"
+tags = ["constraint-satisfaction-problem", "reinforcement-learning", "safe-reinforcement-learning", "safe-reinforcement-learning-environments", "safety-critical", "safety-critical-systems", "constraint-rl", "safe-policy-optimization"]
+repository = "https://github.com/PKU-Alignment/safety-gymnasium"
+website = "https://safety-gymnasium.readthedocs.io/en/latest/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

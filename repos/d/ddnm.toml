@@ -1,0 +1,8 @@
+name = "DDNM"
+description = "[ICLR 2023 Oral] Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model"
+category = "image"
+tags = ["diffusion-models", "zero-shot", "image-restoration", "iclr", "iclr2023"]
+repository = "https://github.com/wyhuai/DDNM"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

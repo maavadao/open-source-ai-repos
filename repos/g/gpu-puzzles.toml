@@ -1,0 +1,8 @@
+name = "GPU-Puzzles"
+description = "Solve puzzles. Learn CUDA."
+category = "ml-platforms"
+tags = ["cuda", "machine-learning", "puzzles"]
+repository = "https://github.com/srush/GPU-Puzzles"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "DeterminFlow"
+description = "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。"
+category = "no-code"
+tags = ["agent-orchestration", "ai-agents", "ai-workflow", "fastapi", "llm", "multi-agent", "python", "workflow-automation"]
+repository = "https://github.com/alikon-art/DeterminFlow"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

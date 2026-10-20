@@ -1,0 +1,10 @@
+name = "tesseract"
+description = "Tesseract Open Source OCR Engine (main repository)"
+category = "documents"
+tags = ["tesseract", "tesseract-ocr", "ocr", "lstm", "machine-learning", "ocr-engine", "hacktoberfest"]
+repository = "https://github.com/tesseract-ocr/tesseract"
+website = "https://tesseract-ocr.github.io"
+license = "Apache-2.0"
+language = "C++"
+skill_level = "beginner"
+added = 2026-10-20

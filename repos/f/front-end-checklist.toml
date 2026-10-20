@@ -1,0 +1,9 @@
+name = "Front-End-Checklist"
+description = "The essential checklist for modern web development, for humans and AI agents"
+category = "agents"
+tags = ["frontend", "front-end-development", "front-end-developer-tool", "guidelines", "checklist", "reference", "web-development", "html"]
+repository = "https://github.com/thedaviddias/Front-End-Checklist"
+website = "https://frontendchecklist.io"
+license = "MIT"
+language = "MDX"
+added = 2026-10-20

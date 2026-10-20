@@ -1,0 +1,8 @@
+name = "InternLM-XComposer"
+description = "InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for Long-term Streaming Video and Audio Interactions"
+category = "chat"
+tags = ["chatgpt", "visual-language-learning", "multi-modality", "foundation", "gpt-4", "instruction-tuning", "mllm", "multimodal"]
+repository = "https://github.com/InternLM/InternLM-XComposer"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "sentence-transformers"
+description = "State-of-the-Art Embeddings, Retrieval, and Reranking"
+category = "llm-apps"
+repository = "https://github.com/huggingface/sentence-transformers"
+website = "https://www.sbert.net"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "MiniMax-M1"
+description = "MiniMax-M1, the world's first open-weight, large-scale hybrid-attention reasoning model."
+category = "models"
+tags = ["large-language-models", "llm", "reasoning-models", "minimax-m1"]
+repository = "https://github.com/MiniMax-AI/MiniMax-M1"
+website = "https://www.minimax.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

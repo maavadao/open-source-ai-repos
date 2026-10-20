@@ -1,0 +1,9 @@
+name = "x-cmd"
+description = "Shell Superpowers for AI Agents."
+category = "agents"
+tags = ["cloud", "cli", "agent", "ai", "bash", "zsh", "shell"]
+repository = "https://github.com/x-cmd/x-cmd"
+website = "https://x-cmd.com"
+license = "Apache-2.0"
+language = "Awk"
+added = 2026-10-20

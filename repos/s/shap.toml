@@ -1,0 +1,9 @@
+name = "shap"
+description = "A game theoretic approach to explain the output of any machine learning model."
+category = "ml-platforms"
+tags = ["interpretability", "machine-learning", "deep-learning", "gradient-boosting", "shap", "shapley", "explainability"]
+repository = "https://github.com/shap/shap"
+website = "https://shap.readthedocs.io"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

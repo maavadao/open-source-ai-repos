@@ -1,0 +1,9 @@
+name = "apc-vision-toolbox"
+description = "MIT-Princeton Vision Toolbox for the Amazon Picking Challenge 2016 - RGB-D ConvNet-based object segmentation and 6D object pose estimation."
+category = "robotics"
+tags = ["deep-learning", "ros", "rgbd", "segmentation", "marvin", "amazon-picking-challenge", "computer-vision", "mit-princeton"]
+repository = "https://github.com/andyzeng/apc-vision-toolbox"
+website = "http://apc.cs.princeton.edu/"
+license = "BSD-2-Clause"
+language = "C++"
+added = 2026-10-20

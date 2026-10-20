@@ -1,0 +1,9 @@
+name = "stanza"
+description = "Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages"
+category = "ml-platforms"
+tags = ["python", "nlp", "natural-language-processing", "machine-learning", "deep-learning", "artificial-intelligence", "pytorch", "universal-dependencies"]
+repository = "https://github.com/stanfordnlp/stanza"
+website = "https://stanfordnlp.github.io/stanza/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

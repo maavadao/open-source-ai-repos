@@ -1,0 +1,8 @@
+name = "super-json-mode"
+description = "Low latency JSON generation using LLMs"
+category = "local-llms"
+tags = ["huggingface-transformers", "llm", "openai", "vllm"]
+repository = "https://github.com/varunshenoy/super-json-mode"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

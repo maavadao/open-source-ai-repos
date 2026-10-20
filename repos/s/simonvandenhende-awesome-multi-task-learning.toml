@@ -1,0 +1,7 @@
+name = "Awesome-Multi-Task-Learning"
+description = "A list of multi-task learning papers and projects."
+category = "learning"
+tags = ["multitask-learning", "research", "machine-learning", "computer-vision"]
+repository = "https://github.com/SimonVandenhende/Awesome-Multi-Task-Learning"
+license = "NOASSERTION"
+added = 2026-10-20

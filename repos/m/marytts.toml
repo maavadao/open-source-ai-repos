@@ -1,0 +1,9 @@
+name = "marytts"
+description = "MARY TTS -- an open-source, multilingual text-to-speech synthesis system written in pure java"
+category = "speech"
+tags = ["speech-synthesis", "tts", "java", "text-to-speech"]
+repository = "https://github.com/marytts/marytts"
+website = "https://marytts.github.io/"
+license = "NOASSERTION"
+language = "Java"
+added = 2026-10-20

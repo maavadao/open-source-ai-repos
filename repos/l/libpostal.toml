@@ -1,0 +1,8 @@
+name = "libpostal"
+description = "A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data."
+category = "data-science"
+tags = ["address-parser", "machine-learning", "nlp", "address", "international", "c", "deduplication", "record-linkage"]
+repository = "https://github.com/openvenues/libpostal"
+license = "MIT"
+language = "C"
+added = 2026-10-20

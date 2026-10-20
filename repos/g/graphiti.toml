@@ -1,0 +1,9 @@
+name = "graphiti"
+description = "Build Real-Time Knowledge Graphs for AI Agents"
+category = "agents"
+tags = ["agents", "graph", "llms", "rag"]
+repository = "https://github.com/getzep/graphiti"
+website = "https://help.getzep.com/graphiti"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

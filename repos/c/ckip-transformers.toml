@@ -1,0 +1,9 @@
+name = "ckip-transformers"
+description = "CKIP Transformers"
+category = "models"
+tags = ["ckip", "transformers", "language-model", "word-segmentation", "part-of-speech-tagging", "named-entity-recognition"]
+repository = "https://github.com/ckiplab/ckip-transformers"
+website = "https://ckip-transformers.readthedocs.io"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

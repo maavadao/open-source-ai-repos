@@ -1,0 +1,9 @@
+name = "Sibyl-Memory"
+description = "Durable, file-based long-term memory for AI agents. Five-package plugin family: SDK, CLI, MCP server, Hermes adapter, and a LangGraph BaseStore. No vector database, no embeddings."
+category = "mcp-servers"
+tags = ["agent-memory", "ai-agents", "claude", "langgraph", "llm", "long-term-memory", "mcp", "rag"]
+repository = "https://github.com/Sibyl-Labs/Sibyl-Memory"
+website = "https://sibyllabs.org/plugin"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

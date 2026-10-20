@@ -1,0 +1,8 @@
+name = "Awesome-LLM4Graph-Papers"
+description = "[KDD'2024] \"LLM4Graph: A Survey of Large Language Models for Graphs\""
+category = "learning"
+tags = ["fundation-models", "graph-algorithms", "graph-fundation-models", "graph-neural-networks", "graph-representation-learning", "large-language-models"]
+repository = "https://github.com/HKUDS/Awesome-LLM4Graph-Papers"
+website = "https://arxiv.org/abs/2405.08011"
+license = "NOASSERTION"
+added = 2026-10-20

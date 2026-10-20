@@ -1,0 +1,8 @@
+name = "siamese-triplet"
+description = "Siamese and triplet networks with online pair/triplet mining in PyTorch"
+category = "ml-platforms"
+tags = ["machine-learning", "deep-learning", "siamese-network", "triplet-loss", "contrastive-loss", "pytorch", "embedding", "triplet-network"]
+repository = "https://github.com/adambielski/siamese-triplet"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

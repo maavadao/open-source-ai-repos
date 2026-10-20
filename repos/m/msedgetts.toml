@@ -1,0 +1,9 @@
+name = "MsEdgeTTS"
+description = "A simple Azure Speech Service module that uses the Microsoft Edge Read Aloud API. https://migushthe2nd.github.io/MsEdgeTTS/"
+category = "speech"
+tags = ["tts", "speech-synthesis", "text-to-speech", "speech-to-text", "speech", "free-tts"]
+repository = "https://github.com/Migushthe2nd/MsEdgeTTS"
+website = "https://www.npmjs.com/package/msedge-tts"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

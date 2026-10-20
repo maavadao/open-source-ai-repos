@@ -1,0 +1,10 @@
+name = "ollama"
+description = "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models."
+category = "local-llms"
+tags = ["llama", "llm", "llms", "go", "golang", "ollama", "mistral", "gemma"]
+repository = "https://github.com/ollama/ollama"
+website = "https://ollama.com"
+license = "MIT"
+language = "Go"
+skill_level = "beginner"
+added = 2026-10-20

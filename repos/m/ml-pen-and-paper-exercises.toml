@@ -1,0 +1,8 @@
+name = "ml-pen-and-paper-exercises"
+description = "Pen and paper exercises in machine learning"
+category = "data-science"
+tags = ["exercises-solutions", "machine-learning", "mathematics"]
+repository = "https://github.com/michaelgutmann/ml-pen-and-paper-exercises"
+license = "NOASSERTION"
+language = "TeX"
+added = 2026-10-20

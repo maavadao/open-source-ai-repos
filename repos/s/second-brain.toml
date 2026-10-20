@@ -1,0 +1,8 @@
+name = "second-brain"
+description = "Second Brain is an agentic framework that acts as an operating system, using local file intelligence, workflow automation, and LLMs to complete tasks and communicate over multiple modalities and messaging platforms."
+category = "no-code"
+tags = ["rag", "agentic-ai", "data-science", "database", "llms", "open-source", "python", "python3"]
+repository = "https://github.com/henrydaum/second-brain"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

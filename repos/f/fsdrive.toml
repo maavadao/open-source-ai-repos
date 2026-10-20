@@ -1,0 +1,9 @@
+name = "FSDrive"
+description = "[NeurIPS 2025 spotlight] Official implementation for \"FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving\""
+category = "robotics"
+tags = ["autonomous-driving", "cot", "mllm", "vla", "world-model"]
+repository = "https://github.com/MIV-XJTU/FSDrive"
+website = "https://miv-xjtu.github.io/FSDrive.github.io"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

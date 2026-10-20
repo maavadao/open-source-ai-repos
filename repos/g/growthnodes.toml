@@ -1,0 +1,8 @@
+name = "GrowthNodes"
+description = "A Blender plugin for generative content creation and simulation of organic growth processes on polygonal surfaces."
+category = "other"
+tags = ["blender", "blender-plugin", "simulation", "blender3d", "blender-addon"]
+repository = "https://github.com/hsab/GrowthNodes"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

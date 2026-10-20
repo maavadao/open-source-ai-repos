@@ -1,0 +1,8 @@
+name = "magic-copy"
+description = "Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard."
+category = "vision"
+tags = ["chrome-extension", "computer-vision", "image-processing"]
+repository = "https://github.com/kevmo314/magic-copy"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

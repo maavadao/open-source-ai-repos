@@ -1,0 +1,9 @@
+name = "Integuru"
+description = "The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs."
+category = "no-code"
+tags = ["agents", "ai-agent", "llm", "integrations", "integration", "agent", "ai-agents", "openapi"]
+repository = "https://github.com/Integuru-AI/Integuru"
+website = "https://integuru.ai"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

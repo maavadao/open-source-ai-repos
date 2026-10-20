@@ -1,0 +1,8 @@
+name = "SMARTS"
+description = "Scalable Multi-Agent RL Training School for Autonomous Driving"
+category = "robotics"
+tags = ["reinforcement-learning", "python", "autonomous-driving", "simulator"]
+repository = "https://github.com/huawei-noah/SMARTS"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

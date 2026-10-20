@@ -1,0 +1,9 @@
+name = "onnxsim"
+description = "Simplify your onnx model"
+category = "ml-platforms"
+tags = ["deep-learning", "onnx", "pytorch"]
+repository = "https://github.com/onnxsim/onnxsim"
+website = "https://onnxsim.github.io/onnxsim/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

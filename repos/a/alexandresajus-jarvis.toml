@@ -1,0 +1,8 @@
+name = "JARVIS"
+description = "Your own personal voice assistant: Voice to Text to LLM to Speech, displayed in a web interface"
+category = "speech"
+tags = ["deepgram", "elevenlabs", "llm", "openai", "python", "taipy", "tts", "voice-assistant"]
+repository = "https://github.com/AlexandreSajus/JARVIS"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

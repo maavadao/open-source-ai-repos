@@ -1,0 +1,9 @@
+name = "smart-comfyui-gallery"
+description = "SmartGallery DAM is a local-first, browser-based Digital Asset Manager for ComfyUI. Generate without opening ComfyUI. Query your gallery with AI, in natural language. Advanced file manager, filter by prompt, model, LoRA, date and comment. Status tags, ratings, virtual…"
+category = "image"
+tags = ["comfyui", "comfyui-workflow", "flask", "image-management", "python", "stable-diffusion", "comfyui-gallery", "mobile"]
+repository = "https://github.com/biagiomaf/smart-comfyui-gallery"
+website = "https://smartgallerydam.com"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

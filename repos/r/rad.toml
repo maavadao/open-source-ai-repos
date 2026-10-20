@@ -1,0 +1,8 @@
+name = "rad"
+description = "RAD: Reinforcement Learning with Augmented Data"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "rl", "deep-learning", "data-", "mujoc", "dm-control", "rad", "data-augmentations"]
+repository = "https://github.com/MishaLaskin/rad"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

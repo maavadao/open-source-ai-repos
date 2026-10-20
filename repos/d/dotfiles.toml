@@ -1,0 +1,8 @@
+name = "dotfiles"
+description = "My personal dotfiles: Zsh, Git, VSCode, Obsidian, Ghostty, cmux, etc."
+category = "agents"
+tags = ["dotfiles", "zsh", "environment", "macos", "homebrew", "configuration", "lazydocker", "lazygit"]
+repository = "https://github.com/nicksp/dotfiles"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

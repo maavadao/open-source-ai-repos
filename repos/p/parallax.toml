@@ -1,0 +1,8 @@
+name = "parallax"
+description = "Parallax is a distributed model serving framework that lets you build your own AI cluster anywhere"
+category = "local-llms"
+tags = ["chatbot", "distributed-systems", "kimi", "llama", "llm", "qwen", "oss-gpt", "large-language-models"]
+repository = "https://github.com/GradientHQ/parallax"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

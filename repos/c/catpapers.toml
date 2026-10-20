@@ -1,0 +1,8 @@
+name = "CatPapers"
+description = "Cool vision, learning, and graphics papers on Cats!"
+category = "vision"
+tags = ["machine-learning", "computer-vision", "papers", "cat", "computer-graphics", "cats", "deep-learning", "papers-collection"]
+repository = "https://github.com/junyanz/CatPapers"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

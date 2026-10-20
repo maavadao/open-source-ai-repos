@@ -1,0 +1,8 @@
+name = "kubeflow"
+description = "The Cloud Native AI Platform"
+category = "agents"
+tags = ["ml", "kubernetes", "minikube", "tensorflow", "notebook", "google-kubernetes-engine", "jupyter", "machine-learning"]
+repository = "https://github.com/kubeflow/kubeflow"
+website = "https://www.kubeflow.org/"
+license = "Apache-2.0"
+added = 2026-10-20

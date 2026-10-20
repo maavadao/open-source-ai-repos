@@ -1,0 +1,9 @@
+name = "marketingskills"
+description = "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
+category = "skills-prompts"
+tags = ["claude", "codex", "marketing", "agent-skills", "ai-agents", "ai-seo", "claude-code", "claude-code-plugin"]
+repository = "https://github.com/coreyhaines31/marketingskills"
+website = "https://marketing-skills.com"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

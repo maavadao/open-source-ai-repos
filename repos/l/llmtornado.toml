@@ -1,0 +1,9 @@
+name = "LLMTornado"
+description = "The .NET library to build AI agents with 30+ built-in connectors."
+category = "mcp-servers"
+tags = ["agent-framework", "agent-orchestration", "orchestration", "multi-agent", "agent", "workflow", "dotnet", "agents"]
+repository = "https://github.com/lofcz/LLMTornado"
+website = "https://llmtornado.ai"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

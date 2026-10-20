@@ -1,0 +1,9 @@
+name = "python-machine-learning-book-3rd-edition"
+description = "The \"Python Machine Learning (3rd edition)\" book code repository"
+category = "learning"
+tags = ["machine-learning", "deep-learning", "tensorflow", "scikit-learn"]
+repository = "https://github.com/rasbt/python-machine-learning-book-3rd-edition"
+website = "https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1789955750/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

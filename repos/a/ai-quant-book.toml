@@ -1,0 +1,8 @@
+name = "ai-quant-book"
+description = "《AI Quant Trading - From Zero to One》"
+category = "learning"
+tags = ["ai-agents", "quant", "quant-trading"]
+repository = "https://github.com/waylandzhang/ai-quant-book"
+website = "https://www.waylandz.com/quant-book-en"
+license = "NOASSERTION"
+added = 2026-10-20

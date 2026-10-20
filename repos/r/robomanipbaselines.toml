@@ -1,0 +1,9 @@
+name = "RoboManipBaselines"
+description = "A software framework integrating various imitation learning methods and benchmark environments for robotic manipulation"
+category = "robotics"
+tags = ["imitation-learning", "robot-learning", "robot-manipulation"]
+repository = "https://github.com/isri-aist/RoboManipBaselines"
+website = "https://isri-aist.github.io/RoboManipBaselines-ProjectPage/"
+license = "BSD-2-Clause"
+language = "Python"
+added = 2026-10-20

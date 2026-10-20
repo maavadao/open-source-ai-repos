@@ -1,0 +1,9 @@
+name = "adk-recipes"
+description = "A collection of agent recipes, reference patterns, and vertical plugins built with Agent Development Kit (ADK)"
+category = "agents"
+tags = ["adk", "agents", "agent-samples"]
+repository = "https://github.com/google/adk-recipes"
+website = "https://adk.dev"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

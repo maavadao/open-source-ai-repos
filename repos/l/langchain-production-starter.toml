@@ -1,0 +1,8 @@
+name = "langchain-production-starter"
+description = "Deploy LangChain Agents and connect them to Telegram"
+category = "chat"
+tags = ["langchain", "langchain-python", "chatbot", "gpt4", "python", "telegram-bot"]
+repository = "https://github.com/steamship-core/langchain-production-starter"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

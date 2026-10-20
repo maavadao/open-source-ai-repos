@@ -1,0 +1,9 @@
+name = "MonkeyCode"
+description = "AI coding platform for teams"
+category = "coding"
+tags = ["ai", "coding", "aicoding", "ai-coding", "ai-agent", "ai-coding-assistant", "claude", "codex"]
+repository = "https://github.com/chaitin/MonkeyCode"
+website = "https://monkeycode-ai.net/"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "cv-detect-robot"
+description = "Docker NVIDIA Docker2 YOLOV5 YOLOX YOLO Deepsort TensorRT ROS Deepstream Jetson Nano TX2 NX for High-performance deployment(高性能部署)"
+category = "robotics"
+tags = ["ros", "yolov5", "tensorrt-engine", "deepstream", "detection", "yolox-nano", "yolox", "yolo"]
+repository = "https://github.com/guojianyang/cv-detect-robot"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

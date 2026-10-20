@@ -1,0 +1,7 @@
+name = "tinyml-papers-and-projects"
+description = "This is a list of interesting papers and projects about TinyML."
+category = "vision"
+tags = ["tinyml", "embedded-systems", "neural-architecture-search", "wake-word", "machine-learning", "computer-vision"]
+repository = "https://github.com/gigwegbe/tinyml-papers-and-projects"
+license = "MIT"
+added = 2026-10-20

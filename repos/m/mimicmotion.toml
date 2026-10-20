@@ -1,0 +1,9 @@
+name = "MimicMotion"
+description = "High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance"
+category = "video"
+tags = ["diffusion-models", "video-generation"]
+repository = "https://github.com/Tencent/MimicMotion"
+website = "https://tencent.github.io/MimicMotion/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

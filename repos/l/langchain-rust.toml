@@ -1,0 +1,8 @@
+name = "langchain-rust"
+description = "LangChain for Rust, the easiest way to write LLM-based programs in Rust"
+category = "llm-apps"
+tags = ["langchain", "llm", "llms", "openai", "rust"]
+repository = "https://github.com/Abraxas-365/langchain-rust"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

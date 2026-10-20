@@ -1,0 +1,9 @@
+name = "QueryInst"
+description = "[ICCV 2021] Instances as Queries"
+category = "vision"
+tags = ["computer-vision", "instance-segmentation", "video-instance-segmentation", "mmdetection"]
+repository = "https://github.com/hustvl/QueryInst"
+website = "https://arxiv.org/abs/2105.01928"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

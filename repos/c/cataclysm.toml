@@ -1,0 +1,8 @@
+name = "cataclysm"
+description = "Cataclysm - Code generation library for the end game"
+category = "chat"
+tags = ["chatgpt", "openai", "python", "plunkylib", "gpt4"]
+repository = "https://github.com/Mattie/cataclysm"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

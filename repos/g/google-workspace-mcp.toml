@@ -1,0 +1,9 @@
+name = "google_workspace_mcp"
+description = "Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool"
+category = "mcp-servers"
+tags = ["ai", "gmail", "google-calendar", "google-workspace", "llm", "llm-tools", "mcp", "mcp-server"]
+repository = "https://github.com/taylorwilsdon/google_workspace_mcp"
+website = "https://workspacemcp.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

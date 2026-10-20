@@ -1,0 +1,9 @@
+name = "bcr_bot"
+description = "A mobile robot simulation with differential drive, depth camera, IMU and 2D LiDAR that supports ROS, ROS2, Gazebo, Ignition, Mujoco, and ISAAC Sim"
+category = "robotics"
+tags = ["gazebo-ros", "gazebo-simulator", "ignition-gazebo", "ignition-robotics", "ros", "ros2", "ros2-humble", "gz"]
+repository = "https://github.com/blackcoffeerobotics/bcr_bot"
+website = "https://blackcoffeerobotics.com/blog/migration-from-gazebo-classic-to-ignition-with-ros-2"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

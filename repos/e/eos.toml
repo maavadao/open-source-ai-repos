@@ -1,0 +1,8 @@
+name = "eos"
+description = "A lightweight 3D Morphable Face Model library in modern C++"
+category = "vision"
+tags = ["computer-vision", "face-models", "modern-cpp", "machine-learning", "image-processing", "cross-platform", "3d-face", "3dmm"]
+repository = "https://github.com/patrikhuber/eos"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

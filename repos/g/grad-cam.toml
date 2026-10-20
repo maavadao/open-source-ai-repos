@@ -1,0 +1,9 @@
+name = "grad-cam"
+description = "[ICCV 2017] Torch code for Grad-CAM"
+category = "ml-platforms"
+tags = ["iccv17", "grad-cam", "interpretability", "convolutional-neural-networks", "deep-learning", "heatmap", "visual-explanation"]
+repository = "https://github.com/ramprs/grad-cam"
+website = "https://arxiv.org/abs/1610.02391"
+license = "NOASSERTION"
+language = "Lua"
+added = 2026-10-20

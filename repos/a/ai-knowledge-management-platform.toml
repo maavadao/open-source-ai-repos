@@ -1,0 +1,9 @@
+name = "AI-Knowledge-Management-Platform"
+description = "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries."
+category = "agents"
+tags = ["agentic-ai", "ai", "ai-agents", "artificial-intelligence", "generative-ai", "large-language-models", "llm", "llm-agents"]
+repository = "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform"
+website = "https://tkaxis.com/"
+license = "MIT-0"
+language = "Jupyter Notebook"
+added = 2026-10-20

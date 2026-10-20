@@ -1,0 +1,9 @@
+name = "slack-machine"
+description = "A simple, yet powerful and extendable Slack bot"
+category = "chat"
+tags = ["slack", "slack-bot", "slackbot", "slack-api", "slackapi", "python", "ai", "bot"]
+repository = "https://github.com/DonDebonair/slack-machine"
+website = "https://dondebonair.github.io/slack-machine/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

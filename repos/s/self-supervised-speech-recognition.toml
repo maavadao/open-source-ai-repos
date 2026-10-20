@@ -1,0 +1,8 @@
+name = "self-supervised-speech-recognition"
+description = "speech to text with self-supervised learning based on wav2vec 2.0 framework"
+category = "speech"
+tags = ["speech-recognition", "self-supervised-learning", "wav2vec", "vietnamese-speech-recognition", "speech-to-text", "semi-supervised-learning", "unsupervised-learning"]
+repository = "https://github.com/mailong25/self-supervised-speech-recognition"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

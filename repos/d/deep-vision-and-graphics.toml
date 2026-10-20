@@ -1,0 +1,8 @@
+name = "deep_vision_and_graphics"
+description = "Course about deep learning for computer vision and graphics co-developed by YSDA and Skoltech."
+category = "learning"
+tags = ["course", "deep-learning", "computer-vision", "pytorch", "course-materials"]
+repository = "https://github.com/yandexdataschool/deep_vision_and_graphics"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

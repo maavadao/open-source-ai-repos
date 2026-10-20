@@ -1,0 +1,8 @@
+name = "LV-DOT"
+description = "LV-DOT: LiDAR-Visual Dynamic Obstacle Detection and Tracking (C++/Python/ROS)"
+category = "robotics"
+tags = ["camera", "collision-avoidance", "lidar", "object-detection", "object-tracking", "perception", "robotics", "ros"]
+repository = "https://github.com/Zhefan-Xu/LV-DOT"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

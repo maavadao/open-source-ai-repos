@@ -1,0 +1,8 @@
+name = "reagent"
+description = "Reconstruct and validate C/C++ code from compiled programs with AI."
+category = "coding"
+tags = ["ai-agent", "autonomous-agent", "binary-analysis", "c-plus-plus", "claude", "codex", "cybersecurity", "decompilation"]
+repository = "https://github.com/Dryxio/reagent"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "opentabs"
+description = "Browser automation clicks buttons. OpenTabs calls APIs."
+category = "mcp-servers"
+tags = ["ai-agents", "browser-automation", "chrome", "chrome-extension", "claude-code", "mcp", "mcp-server", "open-source"]
+repository = "https://github.com/opentabs-dev/opentabs"
+website = "https://opentabs.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

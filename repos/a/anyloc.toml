@@ -1,0 +1,9 @@
+name = "AnyLoc"
+description = "AnyLoc: Universal Visual Place Recognition (RA-L 2023)"
+category = "robotics"
+tags = ["deep-learning", "image-retrieval", "localization", "place-recognition", "robotics", "descriptors", "vlad", "anyloc"]
+repository = "https://github.com/AnyLoc/AnyLoc"
+website = "https://anyloc.github.io/"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

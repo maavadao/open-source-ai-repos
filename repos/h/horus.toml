@@ -1,0 +1,9 @@
+name = "horus"
+description = "Fastest Robotics Runtime System. If phones have Android, robots deserve HORUS."
+category = "no-code"
+tags = ["robotics", "rust", "python", "ros2", "distributed-systems", "automation", "autonomous-vehicles", "drivers"]
+repository = "https://github.com/softmata/horus"
+website = "https://docs.horusrobotics.dev/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "mmaction2"
+description = "OpenMMLab's Next Generation Video Understanding Toolbox and Benchmark"
+category = "ml-platforms"
+tags = ["action-recognition", "temporal-action-localization", "pytorch", "video-understanding", "tsn", "i3d", "slowfast", "ava"]
+repository = "https://github.com/open-mmlab/mmaction2"
+website = "https://mmaction2.readthedocs.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

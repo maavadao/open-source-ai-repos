@@ -1,0 +1,9 @@
+name = "PromptCraft-Robotics"
+description = "Community for applying LLMs to robotics and a robot simulator with ChatGPT integration"
+category = "robotics"
+tags = ["airsim", "chatgpt", "llm", "prompt-engineering", "robotics", "simulation"]
+repository = "https://github.com/microsoft/PromptCraft-Robotics"
+website = "https://aka.ms/ChatGPT-Robotics"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

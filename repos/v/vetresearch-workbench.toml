@@ -1,0 +1,8 @@
+name = "vetresearch-workbench"
+description = "Evidence-grounded veterinary research workbench with local RAG, bounded LLM agents, auditable tool use, citations, abstention, and human review."
+category = "agents"
+tags = ["agentic-workflow", "citation-verification", "evidence-grounding", "human-in-the-loop", "information-retrieval", "llm", "python", "rag"]
+repository = "https://github.com/Funluned/vetresearch-workbench"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

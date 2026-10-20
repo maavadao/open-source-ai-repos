@@ -1,0 +1,9 @@
+name = "evidently"
+description = "Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics."
+category = "llm-apps"
+tags = ["data-drift", "jupyter-notebook", "pandas-dataframe", "machine-learning", "model-monitoring", "html-report", "mlops", "data-science"]
+repository = "https://github.com/evidentlyai/evidently"
+website = "https://discord.gg/xZjKRaNp8b"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "PPTist"
+description = "PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. It also supports AIPPT and local PPTX file preview."
+category = "other"
+tags = ["ppt", "slide", "office", "powerpoint", "online-ppt", "online-powerpoint", "pptx", "office-powerpoint"]
+repository = "https://github.com/pipipi-pikachu/PPTist"
+website = "https://pipipi-pikachu.github.io/PPTist/"
+license = "AGPL-3.0"
+language = "Vue"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "MaterialAnything"
+description = "[CVPR 2025 Highlight] Material Anything: Generating Materials for Any 3D Object via Diffusion"
+category = "vision"
+tags = ["3d", "computer-vision", "generative-ai", "graphics"]
+repository = "https://github.com/3DTopia/MaterialAnything"
+website = "https://xhuangcv.github.io/MaterialAnything/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

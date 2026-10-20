@@ -1,0 +1,8 @@
+name = "lue"
+description = "Terminal eBook Reader with Audiobook-Quality Text-to-Speech — Supports EPUB, PDF, DOCX, HTML, RTF, TXT, and MD."
+category = "learning"
+tags = ["book", "cli", "docx", "ebook", "epub", "modular", "reader", "terminal"]
+repository = "https://github.com/paulilaaso/lue"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

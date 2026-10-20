@@ -1,0 +1,8 @@
+name = "Youku-mPLUG"
+description = "Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Pre-training Dataset and Benchmarks"
+category = "video"
+tags = ["benchmark", "chinese", "dataset", "mllm", "multimodal", "multimodal-large-language-models", "multimodal-pretraining", "video"]
+repository = "https://github.com/X-PLUG/Youku-mPLUG"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

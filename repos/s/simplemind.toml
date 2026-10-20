@@ -1,0 +1,9 @@
+name = "simplemind"
+description = "Python API client for AI providers that intends to replace LangChain and LangGraph for most common use cases."
+category = "llm-apps"
+tags = ["ai", "api-client", "langchain", "llms", "anthropic", "anthropic-claude", "artificial-intelligence", "gemini"]
+repository = "https://github.com/kennethreitz/simplemind"
+website = "https://pypi.org/project/simplemind/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

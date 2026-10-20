@@ -1,0 +1,8 @@
+name = "ai-cli"
+description = "Get answers for CLI commands from ChatGPT right from your terminal"
+category = "chat"
+tags = ["ai", "cli", "gpt3", "gpt3-cli", "openai", "chatgpt"]
+repository = "https://github.com/abhagsain/ai-cli"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

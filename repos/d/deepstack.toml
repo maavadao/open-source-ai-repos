@@ -1,0 +1,8 @@
+name = "DeepStack"
+description = "The World's Leading Cross Platform AI Engine for Edge Devices"
+category = "vision"
+tags = ["deepstack", "ai-engine", "object-detection", "computer-vision", "face-recognition", "face-detection", "scene-recognition"]
+repository = "https://github.com/johnolafenwa/DeepStack"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

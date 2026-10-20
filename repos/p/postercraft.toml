@@ -1,0 +1,9 @@
+name = "PosterCraft"
+description = "[ICLR'26] Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework"
+category = "image"
+tags = ["generative-ai", "image-generation", "poster-generation", "python", "research", "category-generative-vision"]
+repository = "https://github.com/Ephemeral182/PosterCraft"
+website = "https://ephemeral182.github.io/PosterCraft/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

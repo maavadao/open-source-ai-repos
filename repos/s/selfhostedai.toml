@@ -1,0 +1,8 @@
+name = "selfhostedAI"
+description = "A collection of one-click self-hosted AI"
+category = "image"
+tags = ["chatglm", "chatgpt", "llama", "llm", "stable-diffusion"]
+repository = "https://github.com/josStorer/selfhostedAI"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

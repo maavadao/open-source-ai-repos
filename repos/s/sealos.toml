@@ -1,0 +1,9 @@
+name = "sealos"
+description = "Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations."
+category = "coding"
+tags = ["kubernetes", "kubernetes-ha", "ipvs", "kubeadm", "golang", "docker", "cloudos", "container"]
+repository = "https://github.com/labring/sealos"
+website = "https://sealos.io"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

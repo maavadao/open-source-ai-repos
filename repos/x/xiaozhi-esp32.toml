@@ -1,0 +1,9 @@
+name = "xiaozhi-esp32"
+description = "An MCP-based chatbot | 一个基于MCP的聊天机器人"
+category = "mcp-servers"
+tags = ["chatbot", "esp32", "mcp"]
+repository = "https://github.com/78/xiaozhi-esp32"
+website = "https://xiaozhi.me"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

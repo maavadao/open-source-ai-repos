@@ -1,0 +1,7 @@
+name = "machine-learning-interview"
+description = "Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io."
+category = "learning"
+tags = ["interview-preparation", "deep-learning", "system-design", "mvp", "interivew", "machine-learning", "leetcode", "interview-questions"]
+repository = "https://github.com/khangich/machine-learning-interview"
+license = "NOASSERTION"
+added = 2026-10-20

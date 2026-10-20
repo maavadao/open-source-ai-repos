@@ -1,0 +1,8 @@
+name = "symbolicai"
+description = "A neurosymbolic perspective on LLMs"
+category = "models"
+tags = ["large-language-models", "neurosymbolic-ai", "probabilistic-programming"]
+repository = "https://github.com/ExtensityAI/symbolicai"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

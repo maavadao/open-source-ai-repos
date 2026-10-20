@@ -1,0 +1,9 @@
+name = "waggle"
+description = "Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-native; the reference layer for the agent-harness world."
+category = "agents"
+tags = ["ai-agents", "harness-engineering", "llm-tools", "loop-engineering"]
+repository = "https://github.com/modiqo/waggle"
+website = "https://waggle.sh"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

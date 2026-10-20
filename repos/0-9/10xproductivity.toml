@@ -1,0 +1,8 @@
+name = "10xProductivity"
+description = "Personal AI assistant for work inside corporate constraints, built on coding agents and the tools, sessions, and permissions you already have."
+category = "mcp-servers"
+tags = ["agent-skills", "ai-agents", "automation", "autonomous-agents", "coding-agent", "mcp", "personal-ai-assistant", "security"]
+repository = "https://github.com/ZhixiangLuo/10xProductivity"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

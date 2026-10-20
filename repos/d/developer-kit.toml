@@ -1,0 +1,8 @@
+name = "developer-kit"
+description = "Modular plugin marketplace for Claude Code and agentic CLIs, with validated, spec-driven skills, agents, commands, and workflows for Java, TypeScript, Python, PHP, AWS, and AI."
+category = "skills-prompts"
+tags = ["agents", "claude-code", "java", "langchain4j", "skills", "spring-boot", "agentic-code", "agentic-coding"]
+repository = "https://github.com/giuseppe-trisciuoglio/developer-kit"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

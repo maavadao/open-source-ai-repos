@@ -1,0 +1,9 @@
+name = "agent-qa"
+description = "Open-source self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship."
+category = "mcp-servers"
+tags = ["playwright", "end-to-end-testing", "ai-testing", "ai-agents", "mcp", "developer-tools", "chatgpt", "claude-code"]
+repository = "https://github.com/vostride/agent-qa"
+website = "https://vostride.com"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

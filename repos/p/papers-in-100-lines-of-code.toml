@@ -1,0 +1,8 @@
+name = "Papers-in-100-Lines-of-Code"
+description = "Implementation of papers in 100 lines of code."
+category = "image"
+tags = ["python", "research", "deep-learning", "machine-learning", "implementation-of-research-paper", "educational", "pytorch", "papers"]
+repository = "https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

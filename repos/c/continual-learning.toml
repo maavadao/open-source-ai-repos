@@ -1,0 +1,8 @@
+name = "continual-learning"
+description = "PyTorch implementation of various methods for continual learning (XdG, EWC, SI, LwF, FROMP, DGR, BI-R, ER, A-GEM, iCaRL, Generative Classifier) in three different scenarios."
+category = "ml-platforms"
+tags = ["deep-learning", "artificial-neural-networks", "continual-learning", "lifelong-learning", "incremental-learning", "replay", "distillation", "generative-models"]
+repository = "https://github.com/GMvandeVen/continual-learning"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

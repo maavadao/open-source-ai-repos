@@ -1,0 +1,9 @@
+name = "open-multi-agent-canvas"
+description = "The open-source multi-agent chat interface that lets you manage multiple agents in one dynamic conversation and add MCP servers for deep research"
+category = "mcp-servers"
+tags = ["ai-agents", "copilotkit", "mcp-client", "multi-agent", "open-canvas", "python", "typescript"]
+repository = "https://github.com/CopilotKit/open-multi-agent-canvas"
+website = "https://open-multi-agent-canvas.vercel.app"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "nccl"
+description = "Optimized primitives for collective multi-GPU communication"
+category = "ml-platforms"
+tags = ["communications", "cpp", "cuda", "deep-learning", "gpu", "nvidia"]
+repository = "https://github.com/NVIDIA/nccl"
+website = "https://docs.nvidia.com/deeplearning/nccl/user-guide/docs/index.html"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

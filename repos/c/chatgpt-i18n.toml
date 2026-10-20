@@ -1,0 +1,9 @@
+name = "chatgpt-i18n"
+description = "Localize your websites with AI assistance."
+category = "chat"
+tags = ["chatgpt", "ai", "frontend", "gpt", "i18n", "chatgpt-i18n", "i18n-ai"]
+repository = "https://github.com/ObservedObserver/chatgpt-i18n"
+website = "https://www.i18n.ing/"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

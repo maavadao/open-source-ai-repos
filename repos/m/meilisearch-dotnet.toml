@@ -1,0 +1,9 @@
+name = "meilisearch-dotnet"
+description = ".NET client for Meilisearch"
+category = "vector-databases"
+tags = ["meilisearch", "dotnet", "search", "vector", "vector-database"]
+repository = "https://github.com/meilisearch/meilisearch-dotnet"
+website = "https://meilisearch.com"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

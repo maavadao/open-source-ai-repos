@@ -1,0 +1,9 @@
+name = "mesh-llm"
+description = "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat."
+category = "agents"
+tags = ["agents", "ai", "decentralized", "distributed", "llm"]
+repository = "https://github.com/Mesh-LLM/mesh-llm"
+website = "http://meshllm.cloud/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

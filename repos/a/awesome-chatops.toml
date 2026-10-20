@@ -1,0 +1,7 @@
+name = "awesome-chatops"
+description = "A collection of awesome things about ChatOps – managing operations through a chat"
+category = "learning"
+tags = ["awesome", "chatops", "bots", "chatbot"]
+repository = "https://github.com/exAspArk/awesome-chatops"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "dgl"
+description = "Python package built to ease deep learning on graph, on top of existing DL frameworks."
+category = "ml-platforms"
+tags = ["deep-learning", "graph-neural-networks"]
+repository = "https://github.com/dmlc/dgl"
+website = "http://dgl.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

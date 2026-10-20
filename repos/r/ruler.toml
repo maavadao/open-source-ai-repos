@@ -1,0 +1,9 @@
+name = "ruler"
+description = "Ruler — apply the same rules to all coding agents"
+category = "coding"
+tags = ["agents", "ai", "aider", "claude-code", "codex", "cursor", "github-copilot", "vibe-coding"]
+repository = "https://github.com/intellectronica/ruler"
+website = "https://okigu.com/ruler"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

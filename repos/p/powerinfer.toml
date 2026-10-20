@@ -1,0 +1,8 @@
+name = "PowerInfer"
+description = "High-speed Large Language Model Serving for Local Deployment"
+category = "local-llms"
+tags = ["large-language-models", "llama", "llm", "llm-inference", "local-inference"]
+repository = "https://github.com/Tiiny-AI/PowerInfer"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

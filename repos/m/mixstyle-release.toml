@@ -1,0 +1,8 @@
+name = "mixstyle-release"
+description = "Domain Generalization with MixStyle (ICLR'21)"
+category = "vision"
+tags = ["domain-generalization", "representation-learning", "feature-statistics", "iclr2021", "image-classification", "person-reidentification", "reinforcement-learning"]
+repository = "https://github.com/KaiyangZhou/mixstyle-release"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

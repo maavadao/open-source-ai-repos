@@ -1,0 +1,10 @@
+name = "agents-course"
+description = "This repository contains the Hugging Face Agents Course."
+category = "learning"
+tags = ["agentic-ai", "agents", "course", "huggingface", "langchain", "llamaindex", "smolagents"]
+repository = "https://github.com/huggingface/agents-course"
+website = "https://huggingface.co/learn/agents-course"
+license = "Apache-2.0"
+language = "MDX"
+skill_level = "intermediate"
+added = 2026-10-20

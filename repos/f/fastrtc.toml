@@ -1,0 +1,9 @@
+name = "fastrtc"
+description = "The python library for real-time communication"
+category = "speech"
+tags = ["artificial-intelligence", "llm", "python", "real-time", "speech-to-text", "text-to-speech", "hacktoberfest", "hacktoberfest2025"]
+repository = "https://github.com/gradio-app/fastrtc"
+website = "https://fastrtc.org/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

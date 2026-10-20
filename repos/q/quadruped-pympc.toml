@@ -1,0 +1,8 @@
+name = "Quadruped-PyMPC"
+description = "A model predictive controller for quadruped robots based on the single rigid body model and written in python. Gradient-based (acados) or Sampling-based (jax)"
+category = "robotics"
+tags = ["jax", "locomotion", "optimization", "quadruped-robot", "mujoco", "acados", "ros2", "sampling"]
+repository = "https://github.com/iit-DLSLab/Quadruped-PyMPC"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

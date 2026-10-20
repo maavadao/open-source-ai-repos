@@ -1,0 +1,8 @@
+name = "GoalFlow"
+description = "Repo of \"GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving\""
+category = "robotics"
+tags = ["autonomous-driving", "end-to-end-driving", "trajectory-generation", "trajectory-planning"]
+repository = "https://github.com/YvanYin/GoalFlow"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

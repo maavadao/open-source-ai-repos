@@ -1,0 +1,8 @@
+name = "meshgpt-pytorch"
+description = "Implementation of MeshGPT, SOTA Mesh generation using Attention, in Pytorch"
+category = "models"
+tags = ["artificial-intelligence", "attention-mechanisms", "deep-learning", "mesh-generation", "transformers"]
+repository = "https://github.com/lucidrains/meshgpt-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

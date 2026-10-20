@@ -1,0 +1,8 @@
+name = "awesome-autoresearch"
+description = "A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch."
+category = "learning"
+tags = ["agentic-systems", "ai-agents", "ai-research", "ai-tools", "autonomous-agents", "autoresearch", "awesome-list", "claude-code"]
+repository = "https://github.com/webfuse-com/awesome-autoresearch"
+website = "https://www.webfuse.com/autoresearch"
+license = "NOASSERTION"
+added = 2026-10-20

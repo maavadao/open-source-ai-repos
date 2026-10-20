@@ -1,0 +1,8 @@
+name = "dl-4-tsc"
+description = "Deep Learning for Time Series Classification"
+category = "ml-platforms"
+tags = ["deep-learning", "deep-neural-networks", "time-series-classification", "review", "empirical-research", "research-paper", "convolutional-neural-networks"]
+repository = "https://github.com/hfawaz/dl-4-tsc"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

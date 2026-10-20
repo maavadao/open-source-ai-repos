@@ -1,0 +1,9 @@
+name = "oumi"
+description = "Easily fine-tune (SFT/RL), evaluate, and deploy Qwen, Gemma, or any open agentic LLM/VLM!"
+category = "image"
+tags = ["dpo", "fine-tuning", "inference", "llama", "llms", "sft", "gpt-oss", "agentic-ai"]
+repository = "https://github.com/oumi-ai/oumi"
+website = "https://oumi.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "mobilerun"
+description = "Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent"
+category = "browser-automation"
+tags = ["ai-agents", "android", "android-automation", "hacktoberfest", "mobile-automation"]
+repository = "https://github.com/droidrun/mobilerun"
+website = "https://mobilerun.ai/framework"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

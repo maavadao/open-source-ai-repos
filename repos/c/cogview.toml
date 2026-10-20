@@ -1,0 +1,8 @@
+name = "CogView"
+description = "Text-to-Image generation. The repo for NeurIPS 2021 paper \"CogView: Mastering Text-to-Image Generation via Transformers\"."
+category = "image"
+tags = ["text-to-image", "transformers", "pretrained-models", "pytorch"]
+repository = "https://github.com/zai-org/CogView"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

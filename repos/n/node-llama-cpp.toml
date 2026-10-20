@@ -1,0 +1,9 @@
+name = "node-llama-cpp"
+description = "Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level"
+category = "local-llms"
+tags = ["ai", "bindings", "catai", "llama", "llama-cpp", "llm", "nodejs", "prebuilt-binaries"]
+repository = "https://github.com/withcatai/node-llama-cpp"
+website = "https://node-llama-cpp.withcat.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

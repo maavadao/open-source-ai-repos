@@ -1,0 +1,9 @@
+name = "sotopia"
+description = "Sotopia: an Open-ended Social Learning Environment (ICLR 2024 spotlight)"
+category = "agents"
+tags = ["large-language-models", "machine-learning", "llm-agent", "reinforcement-learning-environments"]
+repository = "https://github.com/sotopia-lab/sotopia"
+website = "https://docs.sotopia.world"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

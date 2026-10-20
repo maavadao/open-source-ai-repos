@@ -1,0 +1,10 @@
+name = "phoenix"
+description = "AI Observability & Evaluation"
+category = "llm-apps"
+tags = ["llmops", "ai-monitoring", "ai-observability", "llm-eval", "aiengineering", "datasets", "agents", "llms"]
+repository = "https://github.com/Arize-ai/phoenix"
+website = "https://phoenix.arize.com"
+license = "NOASSERTION"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

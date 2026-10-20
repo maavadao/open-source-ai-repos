@@ -1,0 +1,8 @@
+name = "RandOpt"
+description = "Official Codebase for \"Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights\" (ICML 2026 Spotlight)"
+category = "image"
+tags = ["ensemble-learning", "large-language-models", "llm", "lora", "neuroevolution", "post-training", "reasoning", "transformers"]
+repository = "https://github.com/sunrainyg/RandOpt"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

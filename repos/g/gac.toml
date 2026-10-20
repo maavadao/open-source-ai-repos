@@ -1,0 +1,8 @@
+name = "gac"
+description = "Intelligent LLM-powered git commit message generator that understands your code! Supports multiple languages!"
+category = "coding"
+tags = ["ai", "aitools", "git", "gittools", "llm", "llmtools", "genai", "generative-ai"]
+repository = "https://github.com/thomwebb/gac"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

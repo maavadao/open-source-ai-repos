@@ -1,0 +1,9 @@
+name = "vibe-check-mcp-server"
+description = "Vibe Check is a tool that provides mentor-like feedback to AI Agents, preventing tunnel-vision, over-engineering and reasoning lock-in for complex and long-horizon agent workflows. KISS your over-eager AI Agents goodbye! Effective for: Coding, Ambiguous Tasks, High-Risk tasks"
+category = "mcp-servers"
+tags = ["agentic-ai", "agentic-workflow", "ai-agents", "error-handling", "mcp", "mcp-server", "model-context-protocol", "vibe-coding"]
+repository = "https://github.com/PV-Bhat/vibe-check-mcp-server"
+website = "https://pruthvibhat.com/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

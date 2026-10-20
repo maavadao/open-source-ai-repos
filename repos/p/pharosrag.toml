@@ -1,0 +1,8 @@
+name = "PharosRAG"
+description = "Pharos — local-first agentic RAG for your team's document library: multi-format ingest, hybrid retrieval, enterprise ACL, dual HTTP + MCP exits."
+category = "mcp-servers"
+tags = ["agentic-rag", "embeddings", "fastapi", "hybrid-search", "knowledge-base", "llm", "local-first", "mcp"]
+repository = "https://github.com/Laurent00TT/PharosRAG"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

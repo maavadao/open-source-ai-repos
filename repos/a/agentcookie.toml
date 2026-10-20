@@ -1,0 +1,8 @@
+name = "agentcookie"
+description = "Your agent runs on a Mac that isn't your daily driver. agentcookie keeps its sessions in sync with the Mac you actually browse on, continuously, encrypted over Tailscale, so OpenClaw, Hermes, or any other agent runtime wakes up authenticated. macOS, peer-to-peer, no cloud…"
+category = "no-code"
+tags = ["ai-agents", "automation", "chrome", "cli", "cookies", "golang", "macos", "tailscale"]
+repository = "https://github.com/mvanhorn/agentcookie"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

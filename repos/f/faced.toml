@@ -1,0 +1,8 @@
+name = "faced"
+description = "Near Real Time CPU Face detection using deep learning"
+category = "vision"
+tags = ["deep-learning", "face-detection", "convolutional-neural-networks", "fully-convolutional-networks", "tensorflow", "python", "python-library", "computer-vision"]
+repository = "https://github.com/iitzco/faced"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

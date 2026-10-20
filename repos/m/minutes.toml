@@ -1,0 +1,9 @@
+name = "minutes"
+description = "Open-source, local-first Granola/Otter alternative that Claude Code, Codex, Cursor, and any MCP client can query. Meetings, calls, and voice memos transcribed on-device into markdown you own."
+category = "mcp-servers"
+tags = ["agent-skills", "meetings", "ai", "claude", "mcp", "meeting-notes", "privacy", "rust"]
+repository = "https://github.com/silverstein/minutes"
+website = "https://useminutes.app"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "mosaico"
+description = "Mosaico - The data platform for Physical AI"
+category = "robotics"
+tags = ["data-platform", "physical-ai", "robotics"]
+repository = "https://github.com/mosaico-labs/mosaico"
+website = "https://mosaico.dev"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "wisp-science"
+description = "Open-source, local-first desktop AI research workbench for scientific computing with Python/R, MCP bioinformatics tools, SSH/WSL/GPU runtimes, and OpenAI/Anthropic models."
+category = "mcp-servers"
+tags = ["ai4science", "ai-agent", "ai-for-science", "bioinformatics", "local-first", "reproducible-research", "research-assistant", "rust"]
+repository = "https://github.com/xuzhougeng/wisp-science"
+website = "http://wispscience.com/"
+license = "AGPL-3.0"
+language = "Rust"
+added = 2026-10-20

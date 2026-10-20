@@ -1,0 +1,8 @@
+name = "EmoGen"
+description = "PyTorch Implementation for Paper \"Emotionally Enhanced Talking Face Generation\" (ICCVW'23 and ACM-MMW'23)"
+category = "video"
+tags = ["emotion", "lip-sync", "multimodal", "pytorch", "talking-face-generation", "emotion-recognition", "deepfakes", "wav2lip"]
+repository = "https://github.com/sahilg06/EmoGen"
+license = "CC0-1.0"
+language = "Python"
+added = 2026-10-20

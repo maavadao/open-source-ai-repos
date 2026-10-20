@@ -1,0 +1,7 @@
+name = "M2DGR"
+description = "M2DGR： a Multi-modal and Multi-scenario Dataset for Ground Robots(RA-L2021 & ICRA2022)"
+category = "robotics"
+tags = ["slam", "dataset", "robotics"]
+repository = "https://github.com/SJTU-ViSYS/M2DGR"
+license = "MIT"
+added = 2026-10-20

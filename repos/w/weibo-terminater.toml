@@ -1,0 +1,8 @@
+name = "weibo_terminater"
+description = "Final Weibo Crawler Scrap Anything From Weibo, comments, weibo contents, followers, anything. The Terminator"
+category = "chat"
+tags = ["scraper", "weibo", "sina", "corpus", "chinese", "chatbot"]
+repository = "https://github.com/lucasjinreal/weibo_terminater"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

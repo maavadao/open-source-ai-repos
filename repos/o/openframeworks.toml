@@ -1,0 +1,9 @@
+name = "openFrameworks"
+description = "openFrameworks is a community-developed cross platform toolkit for creative coding in C++."
+category = "speech"
+tags = ["openframeworks", "osx", "windows", "linux", "raspberry-pi", "android", "ios", "creative-coding"]
+repository = "https://github.com/openframeworks/openFrameworks"
+website = "http://openframeworks.cc"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

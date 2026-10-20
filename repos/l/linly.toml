@@ -1,0 +1,8 @@
+name = "Linly"
+description = "Chinese-LLaMA 1&2、Chinese-Falcon 基础模型；ChatFlow中文对话模型；中文OpenLLaMA模型；NLP预训练/指令微调数据集"
+category = "chat"
+tags = ["bert", "gpt-3", "language-model", "llama", "nlp", "zero-shot-learning", "chatbot", "chatgpt"]
+repository = "https://github.com/CVI-SZU/Linly"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

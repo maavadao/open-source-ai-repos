@@ -1,0 +1,9 @@
+name = "cleanrl"
+description = "High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)"
+category = "ml-platforms"
+tags = ["wandb", "reinforcement-learning", "pytorch", "python", "gym", "machine-learning", "deep-reinforcement-learning", "deep-learning"]
+repository = "https://github.com/vwxyzjn/cleanrl"
+website = "http://docs.cleanrl.dev"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "OpenMythos"
+description = "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature."
+category = "coding"
+tags = ["ai", "attention", "claude", "claude-ai", "claude-code", "gpt-5", "looped-transformers", "ml"]
+repository = "https://github.com/kyegomez/OpenMythos"
+website = "https://discord.gg/EamjgSaEQf"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

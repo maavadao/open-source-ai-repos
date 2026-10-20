@@ -1,0 +1,9 @@
+name = "golutra"
+description = "Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace."
+category = "coding"
+tags = ["agent", "automation", "claude-code", "codex", "codex-cli", "gemini", "multi-agent", "qwen-coder"]
+repository = "https://github.com/golutra/golutra"
+website = "https://www.golutra.com"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

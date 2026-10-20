@@ -1,0 +1,9 @@
+name = "OpenShape_code"
+description = "official code of “OpenShape: Scaling Up 3D Shape Representation Towards Open-World Understanding”"
+category = "image"
+tags = ["3d", "3d-classification", "3d-understanding", "image-generation", "point-cloud", "zero-shot-classification", "zero-shot-retrieval", "3d-shape-retrieval"]
+repository = "https://github.com/Colin97/OpenShape_code"
+website = "https://colin97.github.io/OpenShape/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

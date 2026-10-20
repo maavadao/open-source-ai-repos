@@ -1,0 +1,8 @@
+name = "tiktok-voice"
+description = "Simple Python script to interact with the TikTok TTS API"
+category = "speech"
+tags = ["speech-synthesis", "text-to-speech", "tiktok", "tts"]
+repository = "https://github.com/oscie57/tiktok-voice"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "awesome-yolo-object-detection"
+description = "A collection of some awesome public YOLO object detection series projects and the related object detection datasets."
+category = "learning"
+tags = ["yolo", "yolov5", "tensorrt", "object-detection", "snn", "yolov8", "spiking-neural-network", "cuda"]
+repository = "https://github.com/coderonion/awesome-yolo-object-detection"
+license = "NOASSERTION"
+added = 2026-10-20

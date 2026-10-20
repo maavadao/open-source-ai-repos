@@ -1,0 +1,9 @@
+name = "add-ons-samples"
+description = "Sample Google Workspace Add-ons"
+category = "chat"
+tags = ["gmail-add-ons", "gmail", "samples", "google", "google-workspace", "ai", "chat", "chatbot"]
+repository = "https://github.com/googleworkspace/add-ons-samples"
+website = "https://developers.google.com/workspace/add-ons/overview"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

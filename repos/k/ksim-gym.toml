@@ -1,0 +1,9 @@
+name = "ksim-gym"
+description = "K-Sim Gym: Making robots useful with RL. Built on top of K-Sim."
+category = "robotics"
+tags = ["reinforcement-learning", "reinforcement-learning-environments", "robotframework", "robotics"]
+repository = "https://github.com/kscalelabs/ksim-gym"
+website = "https://docs.kscale.dev/docs/ksim#/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

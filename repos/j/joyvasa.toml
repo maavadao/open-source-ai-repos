@@ -1,0 +1,9 @@
+name = "JoyVASA"
+description = "Diffusion-based Portrait and Animal Animation"
+category = "video"
+tags = ["audio-driven-talking-face", "generative-ai", "lip-sync", "talking-head", "image-animation", "portrait-anination"]
+repository = "https://github.com/jdh-algo/JoyVASA"
+website = "https://jdh-algo.github.io/JoyVASA/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

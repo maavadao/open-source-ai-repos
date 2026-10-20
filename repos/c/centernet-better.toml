@@ -1,0 +1,8 @@
+name = "CenterNet-better"
+description = "An easy to understand and better performance version of CenterNet"
+category = "vision"
+tags = ["deep-learning", "computer-vision", "object-detection"]
+repository = "https://github.com/FateScript/CenterNet-better"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

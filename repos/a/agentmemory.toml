@@ -1,0 +1,9 @@
+name = "agentmemory"
+description = "#1 Persistent memory for AI coding agents based on real-world benchmarks"
+category = "coding"
+tags = ["agentmemory", "agents", "ai", "claude", "claudecode", "codex", "copilot", "cursor"]
+repository = "https://github.com/rohitg00/agentmemory"
+website = "https://agent-memory.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

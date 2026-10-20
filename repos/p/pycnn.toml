@@ -1,0 +1,8 @@
+name = "PyCNN"
+description = "Image Processing with Cellular Neural Networks in Python"
+category = "vision"
+tags = ["cellular", "neural-network", "cnn", "image-processing", "cnn-processors", "paper", "edge-detection", "corner-detection"]
+repository = "https://github.com/ankitaggarwal011/PyCNN"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

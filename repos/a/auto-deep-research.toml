@@ -1,0 +1,9 @@
+name = "Auto-Deep-Research"
+description = "\"Your Fully-Automated Personal AI Assistant\""
+category = "search"
+tags = ["agent", "deep-research", "llm"]
+repository = "https://github.com/HKUDS/Auto-Deep-Research"
+website = "https://arxiv.org/abs/2502.05957"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

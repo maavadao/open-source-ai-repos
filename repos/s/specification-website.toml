@@ -1,0 +1,9 @@
+name = "specification.website"
+description = "Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT."
+category = "mcp-servers"
+tags = ["accessibility", "agent-readiness", "astro", "cloudflare-pages", "llms-txt", "mcp", "seo", "specification"]
+repository = "https://github.com/jdevalk/specification.website"
+website = "https://specification.website"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

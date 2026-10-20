@@ -1,0 +1,9 @@
+name = "lmql"
+description = "A language for constraint-guided and efficient LLM programming."
+category = "chat"
+tags = ["chatgpt", "huggingface", "language-model", "programming-language"]
+repository = "https://github.com/eth-sri/lmql"
+website = "https://lmql.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "h2o-llmstudio"
+description = "H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/"
+category = "chat"
+tags = ["ai", "chatbot", "chatgpt", "fine-tuning", "finetuning", "generative", "generative-ai", "gpt"]
+repository = "https://github.com/h2oai/h2o-llmstudio"
+website = "https://h2o.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

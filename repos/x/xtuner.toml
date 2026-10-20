@@ -1,0 +1,9 @@
+name = "xtuner"
+description = "A Next-Generation Training Engine Built for Ultra-Large MoE Models"
+category = "agents"
+tags = ["llm", "agent", "deepseek-v3", "gpt-oss", "internvl", "kimi-k2", "multimodal", "qwen3-moe"]
+repository = "https://github.com/InternLM/xtuner"
+website = "https://xtuner.readthedocs.io/zh-cn/latest/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "toolhive"
+description = "ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers."
+category = "mcp-servers"
+tags = ["ai", "aicodeassistant", "mcp", "ai-security", "mcp-security", "mcp-servers", "mcp-tools", "security"]
+repository = "https://github.com/stacklok/toolhive"
+website = "https://stacklok.com/download/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

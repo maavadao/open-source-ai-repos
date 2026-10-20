@@ -1,0 +1,9 @@
+name = "bolna"
+description = "Conversational voice AI agents"
+category = "speech"
+tags = ["deepgram", "elevenlabs", "function-calling", "gpt-4", "llama", "openai", "plivo", "twilio"]
+repository = "https://github.com/bolna-ai/bolna"
+website = "https://www.bolna.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

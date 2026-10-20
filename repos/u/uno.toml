@@ -1,0 +1,9 @@
+name = "UNO"
+description = "[ICCV 2025] UNO: A Universal Customization Method for Both Single and Multi-Subject Conditioning"
+category = "image"
+tags = ["diffusion", "diffusion-transformer", "flux", "image-generation", "in-context-learning", "subject-driven-generation", "text-to-image", "universal-image-generation"]
+repository = "https://github.com/bytedance/UNO"
+website = "https://bytedance.github.io/UNO/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

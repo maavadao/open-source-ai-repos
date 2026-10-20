@@ -1,0 +1,8 @@
+name = "GPT-SoVITS"
+description = "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)"
+category = "speech"
+tags = ["text-to-speech", "tts", "vits", "voice-clone", "voice-cloneai", "voice-cloning"]
+repository = "https://github.com/RVC-Boss/GPT-SoVITS"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

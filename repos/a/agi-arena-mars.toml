@@ -1,0 +1,8 @@
+name = "MARS"
+description = "The official implementation of MARS: Unleashing the Power of Variance Reduction for Training Large Models"
+category = "models"
+tags = ["fine-tuning", "large-language-models", "optimization-algorithms", "optimizer", "pretraining"]
+repository = "https://github.com/AGI-Arena/MARS"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

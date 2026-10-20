@@ -1,0 +1,9 @@
+name = "claude-code-skills"
+description = "Standalone skills for Claude Code and Codex: product discovery, architecture, implementation, technical foundations, reviews and delivery, with explicit scope and verification."
+category = "skills-prompts"
+tags = ["claude-code", "claude-code-skills", "developer-tools", "ai-agents", "anthropic", "code-review", "developer-productivity", "performance-optimization"]
+repository = "https://github.com/levnikolaevich/claude-code-skills"
+website = "https://levnikolaevich.com/projects/claude-code-skills"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

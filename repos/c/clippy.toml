@@ -1,0 +1,9 @@
+name = "clippy"
+description = "Clippy, now with some AI"
+category = "models"
+tags = ["ai", "clippy", "electron", "llama", "llm", "retro"]
+repository = "https://github.com/felixrieseberg/clippy"
+website = "https://felixrieseberg.github.io/clippy/"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

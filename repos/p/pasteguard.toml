@@ -1,0 +1,9 @@
+name = "pasteguard"
+description = "AI gets the context. Not your private data. Local-first privacy proxy for browser chat, AI APIs, and coding agents."
+category = "security"
+tags = ["llm", "openai", "pii", "privacy", "anthropic", "claude", "browser-extension", "chatgpt"]
+repository = "https://github.com/sgasser/pasteguard"
+website = "https://pasteguard.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

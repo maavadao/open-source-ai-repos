@@ -1,0 +1,9 @@
+name = "open-pencil"
+description = "AI-native design editor. Open-source Figma alternative."
+category = "other"
+tags = ["ai", "collaboration", "design-editor", "figma-alternative", "open-source", "skia", "tauri", "vue"]
+repository = "https://github.com/open-pencil/open-pencil"
+website = "https://openpencil.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

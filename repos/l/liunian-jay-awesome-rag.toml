@@ -1,0 +1,7 @@
+name = "Awesome-RAG"
+description = "Awesome RAG: A resource of Retrieval-Augmented Generation (RAG) for LLMs, focusing on the development of technology."
+category = "learning"
+tags = ["rag", "llm", "retrieval-augmented-generation", "large-langage-models"]
+repository = "https://github.com/liunian-Jay/Awesome-RAG"
+license = "NOASSERTION"
+added = 2026-10-20

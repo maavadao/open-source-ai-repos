@@ -1,0 +1,7 @@
+name = "ML-Course-Notes"
+description = "Sharing machine learning course / lecture notes."
+category = "learning"
+tags = ["machine-learning", "deep-learning", "ai", "natural-language-processing", "data-science"]
+repository = "https://github.com/dair-ai/ML-Course-Notes"
+license = "NOASSERTION"
+added = 2026-10-20

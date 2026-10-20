@@ -1,0 +1,9 @@
+name = "whatsapp-api-js"
+description = "A lightweight, dependency-less, efficient TS library for interacting with the official WhatsApp Cloud API"
+category = "chat"
+tags = ["nodejs", "npm-package", "whatsapp", "cloud", "api", "bot", "bot-framework", "chatbot"]
+repository = "https://github.com/Secreto31126/whatsapp-api-js"
+website = "https://whatsappapijs.web.app/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

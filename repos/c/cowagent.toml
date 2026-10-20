@@ -1,0 +1,9 @@
+name = "CowAgent"
+description = "Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install."
+category = "mcp-servers"
+tags = ["openai", "ai", "llm", "ai-agent", "deepseek", "mcp", "skills", "claude"]
+repository = "https://github.com/zhayujie/CowAgent"
+website = "https://cowagent.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "ML-foundations"
+description = "Machine Learning Foundations: Linear Algebra, Calculus, Statistics & Computer Science"
+category = "ml-platforms"
+tags = ["machine-learning", "data-science", "python", "mathematics", "linear-algebra", "calculus", "probability", "statistics"]
+repository = "https://github.com/jonkrohn/ML-foundations"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

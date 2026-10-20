@@ -1,0 +1,9 @@
+name = "TradingAgents"
+description = "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+category = "agents"
+tags = ["agent", "finance", "llm", "multiagent", "trading"]
+repository = "https://github.com/TauricResearch/TradingAgents"
+website = "https://arxiv.org/pdf/2412.20138"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

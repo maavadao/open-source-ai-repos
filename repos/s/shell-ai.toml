@@ -1,0 +1,8 @@
+name = "shell-ai"
+description = "LangChain powered shell command generator and runner CLI"
+category = "no-code"
+tags = ["langchain", "llm", "openai", "gpt", "automation", "cli", "shell"]
+repository = "https://github.com/ricklamers/shell-ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

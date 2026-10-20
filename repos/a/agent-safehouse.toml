@@ -1,0 +1,9 @@
+name = "agent-safehouse"
+description = "Sandbox your local AI agents so they can read/write only what they need"
+category = "coding"
+tags = ["ai-agents", "claude-code", "llm", "macos", "sandbox", "security"]
+repository = "https://github.com/eugene1g/agent-safehouse"
+website = "https://agent-safehouse.dev"
+license = "Apache-2.0"
+language = "Shell"
+added = 2026-10-20

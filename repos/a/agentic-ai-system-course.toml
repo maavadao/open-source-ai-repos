@@ -1,0 +1,8 @@
+name = "agentic-ai-system-course"
+description = "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents"
+category = "learning"
+tags = ["agentic-ai", "agentic-workflow", "ai-agents", "course", "system-design", "tutorial"]
+repository = "https://github.com/bryanyzhu/agentic-ai-system-course"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

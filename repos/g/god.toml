@@ -1,0 +1,9 @@
+name = "GOD"
+description = "Govern, Observe, Direct - a real-time control room for agent societies"
+category = "agents"
+tags = ["agent-control-room", "agent-society", "generative-agents", "human-in-the-loop", "llm-agents", "multi-agent-simulation", "openai-compatible", "python"]
+repository = "https://github.com/XiaoLuoLYG/GOD"
+website = "https://xiaoluolyg.github.io/GOD/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

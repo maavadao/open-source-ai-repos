@@ -1,0 +1,9 @@
+name = "Awesome-LLM-On-Policy-Distillation"
+description = "A curated collection of papers and resources on On-Policy Distillation for Large Language Models."
+category = "learning"
+tags = ["awesome-list", "awesome-opd", "awesomeopd", "github-pages", "knowledge-distillation", "large-language-models", "llm", "on-policy-distillation"]
+repository = "https://github.com/nick7nlp/Awesome-LLM-On-Policy-Distillation"
+website = "https://nick7nlp.github.io/OPDHub/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

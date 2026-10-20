@@ -1,0 +1,9 @@
+name = "TreeLoRA"
+description = "[ICML 2025] A pytorch implementation of the paper \"TreeLoRA: Efficient Continual Learning via Layer-Wise LoRAs Guided by a Hierarchical Gradient-Similarity Tree\"."
+category = "models"
+tags = ["continual-learning", "large-language-model", "large-language-models", "llm", "non-stationary-environment"]
+repository = "https://github.com/ZinYY/TreeLoRA"
+website = "https://arxiv.org/abs/2506.10355"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

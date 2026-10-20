@@ -1,0 +1,8 @@
+name = "fast-reid"
+description = "SOTA Re-identification Methods and Toolbox"
+category = "vision"
+tags = ["person-reid", "open-reid", "re-identification", "person-reidentification", "image-retrieval", "re-ranking", "random-erasing", "image-search"]
+repository = "https://github.com/JDAI-CV/fast-reid"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "mleap"
+description = "MLeap: Deploy ML Pipelines to Production"
+category = "models"
+tags = ["scikit-learn", "spark", "data-pipelines", "transformers", "tensorflow", "scala", "python"]
+repository = "https://github.com/combust/mleap"
+website = "https://combust.github.io/mleap-docs/"
+license = "Apache-2.0"
+language = "Scala"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "DeepNLP-models-Pytorch"
+description = "Pytorch implementations of various Deep NLP models in cs-224n(Stanford Univ)"
+category = "ml-platforms"
+tags = ["pytorch", "nlp", "deep-nlp-models", "stanford-univ", "rnn", "neural-network", "deep-learning", "cs-224n"]
+repository = "https://github.com/DSKSD/DeepNLP-models-Pytorch"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

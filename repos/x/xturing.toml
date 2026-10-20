@@ -1,0 +1,9 @@
+name = "xTuring"
+description = "Build, personalize and control your own LLMs. From data pre-processing to fine-tuning, xTuring provides an easy way to personalize open-source LLMs. Join our discord community: https://discord.gg/TgHXuSJEk6"
+category = "image"
+tags = ["deep-learning", "fine-tuning", "gpt-2", "gpt-j", "llama", "llm", "lora", "language-model"]
+repository = "https://github.com/stochasticai/xTuring"
+website = "https://xturing.stochastic.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

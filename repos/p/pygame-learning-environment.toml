@@ -1,0 +1,8 @@
+name = "PyGame-Learning-Environment"
+description = "PyGame Learning Environment (PLE) -- Reinforcement Learning Environment in Python."
+category = "agents"
+tags = ["reinforcement-learning", "game", "artificial-intelligence", "agent", "machine-learning", "pygame", "python", "deep-reinforcement-learning"]
+repository = "https://github.com/ntasfi/PyGame-Learning-Environment"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

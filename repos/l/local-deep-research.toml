@@ -1,0 +1,8 @@
+name = "local-deep-research"
+description = "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted."
+category = "search"
+tags = ["academia", "arxiv", "brave", "deep-research", "local", "local-llm", "mistral", "pubmed"]
+repository = "https://github.com/LearningCircuit/local-deep-research"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

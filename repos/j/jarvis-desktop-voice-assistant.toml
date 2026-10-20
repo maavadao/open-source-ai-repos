@@ -1,0 +1,9 @@
+name = "Jarvis-Desktop-Voice-Assistant"
+description = "A python based desktop voice assistant capable of executing system-level commands, integrating speech recognition and text-to-speech, and handling asynchronous user interactions."
+category = "speech"
+tags = ["jarvis", "jarvis-assistant", "jarvis-ai", "voice-assistant", "desktop-voice-asssistant", "personal-assistant", "python-project", "python"]
+repository = "https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant"
+website = "https://linktr.ee/kishan_rajput23"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

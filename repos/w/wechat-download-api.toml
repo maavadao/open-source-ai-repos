@@ -1,0 +1,9 @@
+name = "wechat-download-api"
+description = "一款完全开源的微信公众号文章获取、RSS 订阅 API 服务，支持整号文章一键导出 7 种格式（Markdown/HTML/Word/PDF/EPUB/Excel/JSON）、IP 代理池反风控、MCP 接入各种 AI Agent 工具。"
+category = "mcp-servers"
+tags = ["rss", "wechat", "rss-feed", "wechat-article", "ai-agent", "mcp"]
+repository = "https://github.com/tmwgsicp/wechat-download-api"
+website = "https://wechatrss.waytomaster.com"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

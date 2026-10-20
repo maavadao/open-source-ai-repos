@@ -1,0 +1,10 @@
+name = "graphrag"
+description = "A modular graph-based Retrieval-Augmented Generation (RAG) system"
+category = "llm-apps"
+tags = ["graphrag", "rag", "llm", "llms", "gpt", "gpt-4", "gpt4"]
+repository = "https://github.com/microsoft/graphrag"
+website = "https://microsoft.github.io/graphrag/"
+license = "MIT"
+language = "Python"
+skill_level = "advanced"
+added = 2026-10-20

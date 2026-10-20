@@ -1,0 +1,9 @@
+name = "m_flow"
+description = "A bio-inspired cognitive memory engine — a new paradigm for Graph RAG."
+category = "mcp-servers"
+tags = ["agent-memory", "agentic-ai", "ai-reasoning", "episodic-memory", "graph-database", "knowledge-graph", "llm", "long-term-memory"]
+repository = "https://github.com/FlowElement-xinliuyuansu/m_flow"
+website = "https://flowelement.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

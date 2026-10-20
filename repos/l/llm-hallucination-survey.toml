@@ -1,0 +1,8 @@
+name = "llm-hallucination-survey"
+description = "Reading list of hallucination in LLMs. Check out our new survey paper: \"Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models\""
+category = "learning"
+tags = ["awesome-list", "large-language-models", "reading-list"]
+repository = "https://github.com/HillZhang1999/llm-hallucination-survey"
+website = "https://arxiv.org/abs/2309.01219"
+license = "NOASSERTION"
+added = 2026-10-20

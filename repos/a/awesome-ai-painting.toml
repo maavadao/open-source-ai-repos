@@ -1,0 +1,8 @@
+name = "awesome-ai-painting"
+description = "AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） Stable diffusion、AnimateDiff、Stable Cascade 、Stable SDXL Turbo"
+category = "learning"
+tags = ["disco-diffusion", "stable-diffusion", "ai-painting", "dd5", "stable-diffusion-diffusers", "stable-diffusion-embedding", "stable-diffusion-tutorial", "stable-diffusion-v1-5"]
+repository = "https://github.com/hua1995116/awesome-ai-painting"
+website = "https://www.goenhance.ai"
+license = "NOASSERTION"
+added = 2026-10-20

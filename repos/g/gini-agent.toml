@@ -1,0 +1,8 @@
+name = "gini-agent"
+description = "The agent that remembers and learns."
+category = "mcp-servers"
+tags = ["agent", "agent-runtime", "ai-agent", "bun", "llm", "local-first", "mcp", "nextjs"]
+repository = "https://github.com/Open-Curiosity/gini-agent"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

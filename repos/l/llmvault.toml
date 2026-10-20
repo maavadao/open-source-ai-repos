@@ -1,0 +1,8 @@
+name = "LLMVault"
+description = "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing."
+category = "security"
+tags = ["agent-security", "ai-security", "ai-security-tool", "docker", "genai", "owasp", "owasp-llm-top-10", "penetration-testing"]
+repository = "https://github.com/CyberSunil/LLMVault"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

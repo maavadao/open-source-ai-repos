@@ -1,0 +1,9 @@
+name = "Halfrost-Field"
+description = "🏻 Source Code Deep Dives, System Design & Engineering Blogs | Halfrost-Field 冰霜之地：源码解析、系统设计与工程实践笔记"
+category = "local-llms"
+tags = ["ios", "objective-c", "swift", "javascript", "golang", "go", "machine-learning", "blog"]
+repository = "https://github.com/halfrost/Halfrost-Field"
+website = "https://halfrost.com"
+license = "CC-BY-SA-4.0"
+language = "Go"
+added = 2026-10-20

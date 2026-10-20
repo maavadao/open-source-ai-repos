@@ -1,0 +1,8 @@
+name = "reinforcement_learning_course_materials"
+description = "Lecture notes, tutorial tasks including solutions as well as online videos for the reinforcement learning course hosted by Paderborn University"
+category = "learning"
+tags = ["reinforcement-learning", "control", "teaching", "teaching-materials", "python", "latex", "prediction", "machine-learning"]
+repository = "https://github.com/upb-lea/reinforcement_learning_course_materials"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

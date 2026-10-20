@@ -1,0 +1,9 @@
+name = "humanplus"
+description = "[CoRL 2024] HumanPlus: Humanoid Shadowing and Imitation from Humans"
+category = "robotics"
+tags = ["humanoids", "imitation-learning", "reinforcement-learning", "robotics"]
+repository = "https://github.com/MarkFzp/humanplus"
+website = "https://humanoid-ai.github.io/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

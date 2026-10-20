@@ -1,0 +1,9 @@
+name = "VLA-Adapter"
+description = "VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model"
+category = "robotics"
+tags = ["embodied-ai", "robotics", "vision-language-action-model"]
+repository = "https://github.com/OpenHelix-Team/VLA-Adapter"
+website = "https://vla-adapter.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

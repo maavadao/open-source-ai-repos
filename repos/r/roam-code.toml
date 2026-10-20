@@ -1,0 +1,9 @@
+name = "roam-code"
+description = "Local codebase intelligence CLI + MCP server for AI coding agents: SQLite code graph, 28 languages, 287 commands, 246 MCP tools, change-safety gates, audit evidence, zero API keys."
+category = "mcp-servers"
+tags = ["ai-coding", "cli", "code-analysis", "code-graph", "code-intelligence", "code-quality", "mcp-server", "static-analysis"]
+repository = "https://github.com/Cranot/roam-code"
+website = "https://roam-code.com/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

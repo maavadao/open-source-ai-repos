@@ -1,0 +1,9 @@
+name = "Diffusion4D"
+description = "[NeurIPS 2024] Diffusion4D: Fast Spatial-temporal Consistent 4D Generation via Video Diffusion Models"
+category = "video"
+tags = ["image-to-4d", "text-to-4d", "4d", "generative-ai"]
+repository = "https://github.com/VITA-Group/Diffusion4D"
+website = "https://vita-group.github.io/Diffusion4D/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

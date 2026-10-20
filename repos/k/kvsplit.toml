@@ -1,0 +1,8 @@
+name = "KVSplit"
+description = "Run larger LLMs with longer contexts on Apple Silicon by using differentiated precision for KV cache quantization. KVSplit enables 8-bit keys & 4-bit values, reducing memory by 59% with <1% quality loss. Includes benchmarking, visualization, and one-command setup. Optimized…"
+category = "local-llms"
+tags = ["apple-silicon", "generative-ai", "kv-cache", "llama-cpp", "llm", "m1", "m2", "m3"]
+repository = "https://github.com/dipampaul17/KVSplit"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

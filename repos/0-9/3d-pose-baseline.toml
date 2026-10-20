@@ -1,0 +1,8 @@
+name = "3d-pose-baseline"
+description = "A simple baseline for 3d human pose estimation in tensorflow. Presented at ICCV 17."
+category = "vision"
+tags = ["tensorflow", "computer-vision", "3d-vision", "baseline", "iccv-2017", "iccv-17"]
+repository = "https://github.com/una-dinosauria/3d-pose-baseline"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

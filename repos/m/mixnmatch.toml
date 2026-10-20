@@ -1,0 +1,8 @@
+name = "MixNMatch"
+description = "Pytorch implementation of MixNMatch"
+category = "image"
+tags = ["gans", "pytorch", "disentangled-representations", "fine-grained", "image-generation", "image-manipulation", "deep-learning"]
+repository = "https://github.com/WisconsinAIVision/MixNMatch"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

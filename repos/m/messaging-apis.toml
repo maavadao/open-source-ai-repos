@@ -1,0 +1,9 @@
+name = "messaging-apis"
+description = "Messaging APIs for multi-platform"
+category = "chat"
+tags = ["messaging", "messenger", "line", "api-client", "chatbot", "slack", "telegram", "bot"]
+repository = "https://github.com/bottenderjs/messaging-apis"
+website = "https://bottenderjs.github.io/messaging-apis/latest/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Virtual-Human-for-Chatting"
+description = "Live2D Virtual Human for Chatting based on Unity"
+category = "chat"
+tags = ["audio2face", "azure", "blendshapes", "chatgpt", "live2d", "unity", "chatbot", "chatgpt-api"]
+repository = "https://github.com/Navi-Studio/Virtual-Human-for-Chatting"
+license = "NOASSERTION"
+language = "C#"
+added = 2026-10-20

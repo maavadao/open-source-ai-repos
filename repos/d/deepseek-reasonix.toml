@@ -1,0 +1,9 @@
+name = "DeepSeek-Reasonix"
+description = "A reliable coding agent for complex software engineering tasks."
+category = "coding"
+tags = ["agent", "agent-framework", "deepseek", "ink", "llm", "prompt-caching", "r1", "tool-use"]
+repository = "https://github.com/esengine/DeepSeek-Reasonix"
+website = "http://reasonix.io/"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

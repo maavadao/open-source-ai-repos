@@ -1,0 +1,8 @@
+name = "claude-code"
+description = "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+category = "coding"
+repository = "https://github.com/anthropics/claude-code"
+website = "https://code.claude.com/docs/en/overview"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

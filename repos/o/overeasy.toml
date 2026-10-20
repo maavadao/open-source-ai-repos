@@ -1,0 +1,9 @@
+name = "overeasy"
+description = "Orchestrate zero-shot computer vision models"
+category = "vision"
+tags = ["agent", "agents", "artificial-intelligence", "computer-vision", "llms", "open-source", "vision-framework"]
+repository = "https://github.com/overeasy-sh/overeasy"
+website = "https://docs.overeasy.sh/"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

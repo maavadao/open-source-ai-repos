@@ -1,0 +1,8 @@
+name = "agents"
+description = "An Open-source Framework for Data-centric, Self-evolving Autonomous Language Agents"
+category = "agents"
+tags = ["autonomous-agents", "language-model", "llm"]
+repository = "https://github.com/aiwaves-cn/agents"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

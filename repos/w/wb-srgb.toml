@@ -1,0 +1,8 @@
+name = "WB_sRGB"
+description = "White balance camera-rendered sRGB images (CVPR 2019) [Matlab & Python]"
+category = "vision"
+tags = ["white-balance", "color-correction", "cvpr2019", "color-histogram", "dataset", "image-processing", "whitebalance", "computer-vision"]
+repository = "https://github.com/mahmoudnafifi/WB_sRGB"
+license = "NOASSERTION"
+language = "MATLAB"
+added = 2026-10-20

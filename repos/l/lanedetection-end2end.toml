@@ -1,0 +1,9 @@
+name = "LaneDetection_End2End"
+description = "End-to-end Lane Detection for Self-Driving Cars (ICCV 2019 Workshop)"
+category = "vision"
+tags = ["lane-detection", "end-to-end", "pytorch", "computer-vision", "deep-learning", "least-squares", "self-driving-cars"]
+repository = "https://github.com/wvangansbeke/LaneDetection_End2End"
+website = "https://arxiv.org/pdf/1902.00293.pdf"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

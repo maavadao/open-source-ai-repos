@@ -1,0 +1,9 @@
+name = "icevision"
+description = "An Agnostic Computer Vision Framework - Pluggable to any Training Library: Fastai, Pytorch-Lightning with more to come"
+category = "learning"
+tags = ["object-detection", "deep-learning", "pytorch", "pytorch-lightning", "python", "fastai", "ai", "computer-vision"]
+repository = "https://github.com/airctic/icevision"
+website = "https://airctic.github.io/icevision/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

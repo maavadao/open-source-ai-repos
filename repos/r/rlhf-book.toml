@@ -1,0 +1,9 @@
+name = "rlhf-book"
+description = "Textbook on reinforcement learning from human feedback"
+category = "learning"
+tags = ["ai", "alignment", "rlhf"]
+repository = "https://github.com/natolambert/rlhf-book"
+website = "https://rlhfbook.com/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

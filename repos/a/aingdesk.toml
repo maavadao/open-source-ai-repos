@@ -1,0 +1,9 @@
+name = "AingDesk"
+description = "AingDesk是一款简单好用的AI助手，支持知识库、模型API、分享、联网搜索、智能体，它还在飞快成长中。 AingDesk is a simple and easy-to-use AI assistant that supports knowledge bases, model APIs, sharing, internet search, and intelligent agents. It is still growing rapidly."
+category = "local-llms"
+tags = ["deepseek", "electron", "llm", "localai", "nodejs", "ollama"]
+repository = "https://github.com/aingdesk/AingDesk"
+website = "https://www.aingdesk.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

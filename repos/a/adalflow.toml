@@ -1,0 +1,9 @@
+name = "AdalFlow"
+description = "AdalFlow: The library to build & auto-optimize LLM applications."
+category = "chat"
+tags = ["agent", "framework", "llm", "rag", "generative-ai", "machine-learning", "nlp", "python"]
+repository = "https://github.com/SylphAI-Inc/AdalFlow"
+website = "http://adalflow.sylph.ai/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

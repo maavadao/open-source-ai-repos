@@ -1,0 +1,9 @@
+name = "assistant-ui"
+description = "Typescript/React Library for AI Chat"
+category = "coding"
+tags = ["conversational-ai", "radix-ui", "shadcn", "ui-components", "copilot", "chatbot", "vercel-ai-sdk", "ai-chatbot"]
+repository = "https://github.com/assistant-ui/assistant-ui"
+website = "https://www.assistant-ui.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

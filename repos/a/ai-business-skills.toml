@@ -1,0 +1,9 @@
+name = "ai-business-skills"
+description = "138 bilingual AI marketing skills (69 VN + 69 Global) for Claude Code, OpenCode, Codex, VS Code. Four role SOP packs — content, design, performance, leader ops — plus strategy, personal brand, AI avatar, dropshipping, design master, knowledge library. 4 regions…"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "anthropic", "chatgpt", "claude-code", "claude-plugin", "content-marketing", "copilot"]
+repository = "https://github.com/minhnv0807/ai-business-skills"
+website = "https://opa.business"
+license = "MIT"
+language = "PowerShell"
+added = 2026-10-20

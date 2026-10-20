@@ -1,0 +1,8 @@
+name = "RAG-ReActAgent"
+description = "RAG ReAct Agent - A Retrieval-Augmented Generation system with ReAct (Reasoning+Acting) agent loop for intelligent question answering with multi-hop reasoning"
+category = "agents"
+tags = ["agent", "embedding", "fastapi", "llm", "openai", "python", "rag", "react-agent"]
+repository = "https://github.com/MoMoM101/RAG-ReActAgent"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

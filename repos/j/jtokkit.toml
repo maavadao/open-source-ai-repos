@@ -1,0 +1,9 @@
+name = "jtokkit"
+description = "JTokkit is a Java tokenizer library designed for use with OpenAI models."
+category = "other"
+tags = ["java", "openai"]
+repository = "https://github.com/knuddelsgmbh/jtokkit"
+website = "https://jtokkit.knuddels.de/"
+license = "MIT"
+language = "Java"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "stealth"
+description = "An open source Ruby framework for text and voice chatbots."
+category = "speech"
+tags = ["chatbot", "chatbot-framework", "ruby", "voice", "bot", "bot-framework", "bots", "natural-language-processing"]
+repository = "https://github.com/hellostealth/stealth"
+website = "https://hellostealth.org"
+license = "MIT"
+language = "Ruby"
+added = 2026-10-20

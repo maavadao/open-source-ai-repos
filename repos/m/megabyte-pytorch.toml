@@ -1,0 +1,8 @@
+name = "MEGABYTE-pytorch"
+description = "Implementation of MEGABYTE, Predicting Million-byte Sequences with Multiscale Transformers, in Pytorch"
+category = "models"
+tags = ["artificial-intelligence", "deep-learning", "learned-tokenization", "attention-mechanisms", "long-context", "transformers"]
+repository = "https://github.com/lucidrains/MEGABYTE-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

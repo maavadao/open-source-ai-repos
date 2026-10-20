@@ -1,0 +1,9 @@
+name = "Qwen2.5-Math"
+description = "A series of math-specific large language models of our Qwen2 series."
+category = "models"
+tags = ["large-language-models", "mathematics", "qwen2"]
+repository = "https://github.com/QwenLM/Qwen2.5-Math"
+website = "https://qwenlm.github.io/blog/qwen2-math/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

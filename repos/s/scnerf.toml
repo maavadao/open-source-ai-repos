@@ -1,0 +1,8 @@
+name = "SCNeRF"
+description = "[ICCV21] Self-Calibrating Neural Radiance Fields"
+category = "vision"
+tags = ["nerf", "implicit-representions", "calibration", "computer-vision", "deep-learning", "self-calibration", "pytorch"]
+repository = "https://github.com/POSTECH-CVLab/SCNeRF"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

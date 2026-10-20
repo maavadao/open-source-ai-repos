@@ -1,0 +1,9 @@
+name = "octocode"
+description = "Structural code intelligence for AI agents — semantic search, knowledge graphs, and a built-in MCP server in one Rust binary. Give Claude, Cursor, and any MCP client a deep understanding of your codebase."
+category = "mcp-servers"
+tags = ["ai", "cli", "code-search", "developer-tools", "graphrag", "mcp-server", "rag", "semantic-search"]
+repository = "https://github.com/Muvon/octocode"
+website = "https://octomind.run/product/octocode"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

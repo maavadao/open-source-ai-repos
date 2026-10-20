@@ -1,0 +1,9 @@
+name = "Robo3D"
+description = "[ICCV 2023] Robo3D: Towards Robust and Reliable 3D Perception against Corruptions"
+category = "robotics"
+tags = ["3d-object-detection", "autonomous-driving", "lidar-segmentation", "ood-robustness"]
+repository = "https://github.com/worldbench/Robo3D"
+website = "https://ldkong.com/Robo3D"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

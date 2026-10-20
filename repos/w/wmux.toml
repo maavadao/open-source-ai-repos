@@ -1,0 +1,9 @@
+name = "wmux"
+description = "The ADE for AI agents. Automate everything else. Do your true work."
+category = "mcp-servers"
+tags = ["ai-agents", "browser-automation", "claude-code", "developer-tools", "mcp-server", "multi-agent", "terminal-multiplexer", "tmux"]
+repository = "https://github.com/openwong2kim/wmux"
+website = "https://wmux.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

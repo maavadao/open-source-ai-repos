@@ -1,0 +1,9 @@
+name = "MocapNET"
+description = "A real-time method that estimates the 3D human pose directly in the popular Bio Vision Hierarchy (BVH) format, given estimations of the 2D body joints originating from monocular color images. Our contributions include: (a) A novel and compact 2D pose NSRM representation. (b)…"
+category = "vision"
+tags = ["mocap", "bvh-format", "bvh", "neural-network", "tensorflow", "computer-vision", "ensemble", "2d-to-3d"]
+repository = "https://github.com/FORTH-ModelBasedTracker/MocapNET"
+website = "https://www.youtube.com/watch?v=Jgz1MRq-I-k"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

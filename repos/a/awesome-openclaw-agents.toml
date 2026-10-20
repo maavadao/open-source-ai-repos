@@ -1,0 +1,9 @@
+name = "awesome-openclaw-agents"
+description = "162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!"
+category = "mcp-servers"
+tags = ["ai-agents", "anthropic", "automation", "awesome", "claude", "openclaw", "productivity", "docker"]
+repository = "https://github.com/mergisi/awesome-openclaw-agents"
+website = "https://crewclaw.com"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

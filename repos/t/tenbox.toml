@@ -1,0 +1,9 @@
+name = "tenbox"
+description = "A lightweight x86-64 / arm64 Virtual Machine Monitor (VMM) for OpenClaw / QwenPaw / Hermes Agent"
+category = "agents"
+tags = ["agents", "openclaw", "virtualization", "hermes"]
+repository = "https://github.com/78/tenbox"
+website = "https://tenbox.ai"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

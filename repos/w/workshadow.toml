@@ -1,0 +1,8 @@
+name = "WorkShadow"
+description = "如影随形 · 本地优先桌面工作日志：富文本记录、语义检索、工作台总结/问答；模型自配，数据留在本机。 Local-first desktop work journal—rich logs, semantic search, AI summary & Q&A. BYO models, data stays yours."
+category = "security"
+tags = ["agpl-3", "byok", "desktop-app", "lancedb", "local-first", "markdown", "note-taking", "privacy"]
+repository = "https://github.com/FutureUniant/WorkShadow"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

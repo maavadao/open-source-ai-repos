@@ -1,0 +1,9 @@
+name = "HighwayEnv"
+description = "A collection of environments for autonomous driving and tactical decision-making tasks"
+category = "robotics"
+tags = ["reinforcement-learning", "autonomous-driving", "gymnasium-environment"]
+repository = "https://github.com/Farama-Foundation/HighwayEnv"
+website = "https://highway-env.farama.org/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

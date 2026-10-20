@@ -1,0 +1,9 @@
+name = "tvm-cn"
+description = "TVM Documentation in Chinese Simplified / TVM 中文文档"
+category = "ml-platforms"
+tags = ["deep-learning", "documentation", "gpu", "machine-learning", "tvm", "chinese-simplified", "translation", "apache"]
+repository = "https://github.com/hyperai/tvm-cn"
+website = "https://tvm.hyper.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

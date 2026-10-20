@@ -1,0 +1,8 @@
+name = "Coursera"
+description = "Quiz & Assignment of Coursera"
+category = "vision"
+tags = ["coursera", "machine-learning", "data-science", "deep-learning", "data-structures", "reinforcement-learning", "natural-language-processing", "computer-vision"]
+repository = "https://github.com/shenweichen/Coursera"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

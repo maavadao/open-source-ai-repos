@@ -1,0 +1,9 @@
+name = "ChatLab"
+description = "Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具"
+category = "agents"
+tags = ["chat-history", "data-visualization", "data-analysis", "ai-agent", "chat-analyzer", "harness"]
+repository = "https://github.com/ChatLab/ChatLab"
+website = "https://chatlab.fun"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

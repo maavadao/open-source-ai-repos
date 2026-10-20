@@ -1,0 +1,9 @@
+name = "2D-and-3D-face-alignment"
+description = "This repository implements a demo of the networks described in \"How far are we from solving the 2D & 3D Face Alignment problem? (and a dataset of 230,000 3D facial landmarks)\" paper."
+category = "vision"
+tags = ["face-alignment", "torch7", "3d-face-alignment", "deeplearning", "computer-vision"]
+repository = "https://github.com/1adrianb/2D-and-3D-face-alignment"
+website = "https://www.adrianbulat.com/face-alignment"
+license = "NOASSERTION"
+language = "Lua"
+added = 2026-10-20

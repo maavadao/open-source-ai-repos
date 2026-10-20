@@ -1,0 +1,9 @@
+name = "memmy-agent"
+description = "A personal AI agent & local memory hub for all AI agents, gives every AI one shared, fully controlled memory and persistent context — all AI remember the same you. Now supports Claude Code, Codex, OpenClaw and Hermes Agent etc."
+category = "mcp-servers"
+tags = ["agent", "ai-agents", "memory", "agentic-ai", "llm", "long-term-memory", "personal-ai", "chatgpt"]
+repository = "https://github.com/MemTensor/memmy-agent"
+website = "https://memmy.bot"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

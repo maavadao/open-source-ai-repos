@@ -1,0 +1,9 @@
+name = "transformers-php"
+description = "Transformers PHP is a toolkit for PHP developers to add machine learning magic to their projects easily."
+category = "models"
+tags = ["huggingface", "ml", "php", "transformers"]
+repository = "https://github.com/CodeWithKyrian/transformers-php"
+website = "http://transformers.codewithkyrian.com/"
+license = "Apache-2.0"
+language = "PHP"
+added = 2026-10-20

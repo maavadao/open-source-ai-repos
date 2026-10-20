@@ -1,0 +1,9 @@
+name = "excelize"
+description = "Go language library for reading and writing Microsoft Excel (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets"
+category = "mcp-servers"
+tags = ["xlsx", "excel", "microsoft", "office", "go", "excelize", "spreadsheet", "statistics"]
+repository = "https://github.com/qax-os/excelize"
+website = "https://xuri.me/excelize"
+license = "BSD-3-Clause"
+language = "Go"
+added = 2026-10-20

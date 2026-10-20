@@ -1,0 +1,9 @@
+name = "easy-tensorflow"
+description = "Simple and comprehensive tutorials in TensorFlow"
+category = "learning"
+tags = ["deep-learning", "tensorflow", "reinforcement-learning", "machine-learning", "pattern-recognition", "object-detection", "python", "convolutional-neural-networks"]
+repository = "https://github.com/easy-tensorflow/easy-tensorflow"
+website = "http://www.easy-tensorflow.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

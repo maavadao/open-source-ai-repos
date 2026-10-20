@@ -1,0 +1,9 @@
+name = "gensim"
+description = "Topic Modelling for Humans"
+category = "ml-platforms"
+tags = ["gensim", "topic-modeling", "information-retrieval", "machine-learning", "natural-language-processing", "nlp", "data-science", "python"]
+repository = "https://github.com/piskvorky/gensim"
+website = "https://radimrehurek.com/gensim"
+license = "LGPL-2.1"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Open-Workflow-Library"
+description = "Open workflow intelligence for discovering, validating, repairing, and generating automation workflows across frameworks — starting with n8n."
+category = "no-code"
+tags = ["ai-agents", "ai-agents-automation", "ai-agents-framework", "automation", "automation-framework", "llm", "n8n", "n8n-workflow"]
+repository = "https://github.com/oxbshw/Open-Workflow-Library"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

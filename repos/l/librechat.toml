@@ -1,0 +1,10 @@
+name = "LibreChat"
+description = "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions…"
+category = "chat"
+tags = ["ai", "chatgpt", "clone", "chatgpt-clone", "librechat", "anthropic", "claude", "azure"]
+repository = "https://github.com/LibreChat-AI/LibreChat"
+website = "https://librechat.ai"
+license = "MIT"
+language = "TypeScript"
+skill_level = "intermediate"
+added = 2026-10-20

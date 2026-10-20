@@ -1,0 +1,9 @@
+name = "gitleaks"
+description = "Find secrets with Gitleaks"
+category = "local-llms"
+tags = ["security", "security-tools", "git", "golang", "go", "secret", "gitleaks", "devsecops"]
+repository = "https://github.com/gitleaks/gitleaks"
+website = "https://gitleaks.io"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

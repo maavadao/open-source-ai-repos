@@ -1,0 +1,8 @@
+name = "mcp-server-code-execution-mode"
+description = "An MCP server that executes Python code in isolated rootless containers with optional MCP server proxying. Implementation of Anthropic's and Cloudflare's ideas for reducing MCP tool definitions context bloat."
+category = "mcp-servers"
+tags = ["agentic-ai", "agents", "anthropic", "claude", "claude-code", "code-execution", "docker", "mcp"]
+repository = "https://github.com/elusznik/mcp-server-code-execution-mode"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

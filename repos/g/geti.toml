@@ -1,0 +1,9 @@
+name = "geti"
+description = "Build, train, optimize, and run computer vision models locally, from raw images to live inference. Open source, optimized for Intel XPU (CPU-only and CUDA also supported)."
+category = "vision"
+tags = ["openvino", "computer-vision", "deep-learning", "pytorch", "neural-networks-compression", "quantization", "image-classification", "image-segmentation"]
+repository = "https://github.com/open-edge-platform/geti"
+website = "https://docs.geti.intel.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

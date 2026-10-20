@@ -1,0 +1,9 @@
+name = "ToolJet"
+description = "Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP"
+category = "no-code"
+tags = ["javascript", "internal-tools", "self-hosted", "reactjs", "no-code", "typescript", "low-code", "low-code-framework"]
+repository = "https://github.com/ToolJet/ToolJet"
+website = "https://tooljet.com"
+license = "AGPL-3.0"
+language = "HTML"
+added = 2026-10-20

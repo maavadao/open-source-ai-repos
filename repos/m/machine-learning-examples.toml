@@ -1,0 +1,9 @@
+name = "machine_learning_examples"
+description = "A collection of machine learning examples and tutorials."
+category = "learning"
+tags = ["deep-learning", "machine-learning", "reinforcement-learning", "python", "natural-language-processing", "data-science"]
+repository = "https://github.com/lazyprogrammer/machine_learning_examples"
+website = "https://lazyprogrammer.me"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

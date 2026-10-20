@@ -1,0 +1,8 @@
+name = "Top-Deep-Learning"
+description = "Top 200 deep learning Github repositories sorted by the number of stars."
+category = "ml-platforms"
+tags = ["deep-learning", "deep-neural-networks", "deep-reinforcement-learning", "convolutional-neural-networks", "recurrent-neural-networks", "stargazers-count", "artificial-neural-networks", "artificial-intelligence"]
+repository = "https://github.com/mbadry1/Top-Deep-Learning"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

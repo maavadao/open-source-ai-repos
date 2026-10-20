@@ -1,0 +1,9 @@
+name = "EvoAgentX"
+description = "EvoAgentX: Building a Self-Evolving Ecosystem of AI Agents"
+category = "agents"
+tags = ["agent", "ai", "ai-agents", "llms", "multi-agent-systems", "natural-language-processing", "self-evolving", "memory"]
+repository = "https://github.com/ANative-Lab/EvoAgentX"
+website = "https://anative-lab.github.io/EvoAgentX/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

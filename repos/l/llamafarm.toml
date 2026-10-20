@@ -1,0 +1,9 @@
+name = "llamafarm"
+description = "Deploy any AI model, agent, database, RAG, and pipeline locally or remotely in minutes"
+category = "chat"
+tags = ["ai", "edge", "edge-computing", "llama3", "llama4", "models", "aiproject", "finetuning-llms"]
+repository = "https://github.com/llama-farm/llamafarm"
+website = "https://llamafarm.dev"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "AgentGym"
+description = "Code and implementations for the ACL 2025 paper \"AgentGym: Evolving Large Language Model-based Agents across Diverse Environments\" by Zhiheng Xi et al."
+category = "agents"
+tags = ["agent", "llm", "llm-based-agent", "large-language-models"]
+repository = "https://github.com/WooooDyy/AgentGym"
+website = "https://arxiv.org/abs/2406.04151"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "AI-Resources-Central"
+description = "Bringing together outstanding artificial intelligence (AI) open source projects from around the world."
+category = "local-llms"
+tags = ["agent", "ai", "llm", "machine-learning", "model", "transformer", "chatgpt", "functioncall"]
+repository = "https://github.com/CoderSJX/AI-Resources-Central"
+license = "MIT"
+added = 2026-10-20

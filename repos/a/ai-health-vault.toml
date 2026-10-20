@@ -1,0 +1,9 @@
+name = "ai-health-vault"
+description = "AI + Obsidian private health management system template"
+category = "security"
+tags = ["ai-agents", "health", "obsidian", "personal-knowledge-management", "privacy", "python"]
+repository = "https://github.com/runesleo/ai-health-vault"
+website = "https://leolabs.me"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

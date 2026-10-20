@@ -1,0 +1,8 @@
+name = "awesome-diarization"
+description = "A curated list of awesome Speaker Diarization papers, libraries, datasets, and other resources."
+category = "learning"
+tags = ["speaker-diarization", "awesome", "awesome-list", "machine-learning", "speech-recognition", "speech-processing", "deep-learning"]
+repository = "https://github.com/wq2012/awesome-diarization"
+website = "https://wq2012.github.io/awesome-diarization/"
+license = "Apache-2.0"
+added = 2026-10-20

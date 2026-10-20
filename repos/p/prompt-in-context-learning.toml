@@ -1,0 +1,9 @@
+name = "prompt-in-context-learning"
+description = "Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates."
+category = "chat"
+tags = ["chain-of-thought", "chatbot", "chatgpt", "chatgpt-api", "cot", "in-context-learning", "language-modeling", "large-language-model"]
+repository = "https://github.com/EgoAlpha/prompt-in-context-learning"
+website = "https://egoalpha.com"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

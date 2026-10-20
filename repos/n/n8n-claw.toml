@@ -1,0 +1,9 @@
+name = "n8n-claw"
+description = "OpenClaw-inspired autonomous AI agent built entirely in n8n. Adaptive RAG-powered memory, Skills via MCP templates, Expert Agents with delegated sub-agents, proactive task management, media understanding - self-hosted with one setup script"
+category = "mcp-servers"
+tags = ["agent", "ai", "ai-agent", "ai-agent-framework", "ai-agents", "ai-agents-framework", "framework", "mcp"]
+repository = "https://github.com/freddy-schuetz/n8n-claw"
+website = "https://n8n-claw.com"
+license = "NOASSERTION"
+language = "Shell"
+added = 2026-10-20

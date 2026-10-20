@@ -1,0 +1,9 @@
+name = "TangoFlux"
+description = "[ICLR 2026] TangoFlux: Super Fast and Faithful Text to Audio Generation with Flow Matching"
+category = "speech"
+tags = ["flow-matching", "generative-ai", "text-to-audio", "text-to-audio-ai", "tta"]
+repository = "https://github.com/declare-lab/TangoFlux"
+website = "https://tangoflux.github.io"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

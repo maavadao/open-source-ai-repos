@@ -1,0 +1,8 @@
+name = "llm-scraper"
+description = "Turn any webpage into structured data using LLMs"
+category = "browser-automation"
+tags = ["ai", "browser", "gpt", "langchain", "llm", "openai", "scraper", "browser-automation"]
+repository = "https://github.com/mishushakov/llm-scraper"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

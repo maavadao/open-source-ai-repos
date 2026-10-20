@@ -1,0 +1,9 @@
+name = "deepchecks"
+description = "Deepchecks: Tests for Continuous Validation of ML Models & Data. Deepchecks is a holistic open-source solution for all of your AI & ML validation needs, enabling to thoroughly test your data and models from research to production."
+category = "ml-platforms"
+tags = ["machine-learning", "ml", "model-validation", "data-validation", "mlops", "data-science", "python", "jupyter-notebook"]
+repository = "https://github.com/deepchecks/deepchecks"
+website = "https://docs.deepchecks.com/stable"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

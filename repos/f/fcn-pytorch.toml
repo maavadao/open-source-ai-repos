@@ -1,0 +1,8 @@
+name = "FCN-pytorch"
+description = "Easiest Fully Convolutional Networks"
+category = "vision"
+tags = ["semantic-segmentation", "fully-convolutional-networks", "deep-learning", "pytorch", "computer-vision"]
+repository = "https://github.com/pochih/FCN-pytorch"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

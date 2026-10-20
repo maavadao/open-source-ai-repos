@@ -1,0 +1,9 @@
+name = "makerskills"
+description = "AI agent skills for the personal operator's craft — decisions, research, second-brain, content rotation, scenario modeling, and meta-skills to author more. Works with Claude Code, Codex, Cursor."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude-code", "claude-skills", "personal-knowledge-management", "productivity"]
+repository = "https://github.com/coreyhaines31/makerskills"
+website = "https://maker-skills.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

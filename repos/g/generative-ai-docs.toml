@@ -1,0 +1,9 @@
+name = "generative-ai-docs"
+description = "This repository is deprecated and will be archived"
+category = "chat"
+tags = ["ai", "chatbot", "documentation", "embeddings", "llm", "machine-learning", "gemini", "gemini-api"]
+repository = "https://github.com/google/generative-ai-docs"
+website = "https://ai.google.dev"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

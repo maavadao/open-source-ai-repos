@@ -1,0 +1,9 @@
+name = "jev"
+description = "jevos: an open-source alternative to Jev and Microsoft-Decision-1. Yes/no decisions, choices and scores with probabilities, on your laptop's CPU."
+category = "learning"
+tags = ["llm", "cpu-inference", "decision-model", "llama-cpp", "yes-no", "classification", "edge-ai", "gguf"]
+repository = "https://github.com/feder-cr/jev"
+website = "https://huggingface.co/feder-cr/jev"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

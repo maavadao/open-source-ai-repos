@@ -1,0 +1,8 @@
+name = "Auto-Synced-Translated-Dubs"
+description = "Automatically translates the text of a video based on a subtitle file, and then uses AI voice services to create a new dubbed & translated audio track where the speech is synced using the subtitle's timings."
+category = "speech"
+tags = ["ai", "dubbing", "subtitles", "text-to-speech", "translation", "tts"]
+repository = "https://github.com/ThioJoe/Auto-Synced-Translated-Dubs"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

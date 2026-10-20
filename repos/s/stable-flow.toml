@@ -1,0 +1,9 @@
+name = "stable-flow"
+description = "Official implementation for \"Stable Flow: Vital Layers for Training-Free Image Editing\" [CVPR 2025]"
+category = "image"
+tags = ["deep-learning", "diffusion-models", "flow-models", "generative-ai", "image-editing", "machine-learning", "text-to-image"]
+repository = "https://github.com/snap-research/stable-flow"
+website = "https://omriavrahami.com/stable-flow/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

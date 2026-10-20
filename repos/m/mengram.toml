@@ -1,0 +1,9 @@
+name = "mengram"
+description = "Human-like memory for AI agents — semantic, episodic & procedural. Experience-driven procedures that learn from failures. Free API, Python & JS SDKs, LangChain, CrewAI & OpenClaw integrations."
+category = "mcp-servers"
+tags = ["ai-agents", "ai-memory", "episodic-memory", "mcp-server", "procedural-memory", "rag", "agent-memory", "claude-desktop"]
+repository = "https://github.com/alibaizhanov/mengram"
+website = "https://mengram.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

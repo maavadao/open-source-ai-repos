@@ -1,0 +1,8 @@
+name = "mv-extractor"
+description = "Extract frames and motion vectors from H.264 and MPEG-4 encoded video."
+category = "video"
+tags = ["motion", "motion-vectors", "tracking", "video", "opencv", "ffmpeg", "computer-vision"]
+repository = "https://github.com/LukasBommes/mv-extractor"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

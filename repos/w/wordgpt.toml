@@ -1,0 +1,9 @@
+name = "WordGPT"
+description = "Bring the power of ChatGPT to Microsoft Word"
+category = "chat"
+tags = ["chatgpt", "gpt", "office", "openai", "word"]
+repository = "https://github.com/filippofinke/WordGPT"
+website = "https://word-gpt-filippofinke.vercel.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

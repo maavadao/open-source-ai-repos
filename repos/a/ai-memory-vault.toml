@@ -1,0 +1,8 @@
+name = "ai-memory-vault"
+description = "Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your AI's working memory. No vector database, just markdown."
+category = "mcp-servers"
+tags = ["ai-memory", "anthropic", "claude", "claude-code", "claude-skills", "knowledge-management", "mcp", "note-taking"]
+repository = "https://github.com/jaredrhod/ai-memory-vault"
+website = "https://jaredrhod.com"
+license = "CC-BY-SA-4.0"
+added = 2026-10-20

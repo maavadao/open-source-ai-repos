@@ -1,0 +1,9 @@
+name = "Afterglow"
+description = "By combining chat histories from social media with a vector database, AI can more convincingly recreate someone’s personality without fine-tuning the model, achieving surprisingly good results. Turn the beautiful memories of the past into companionship for the future."
+category = "vector-databases"
+tags = ["ai-companion", "digital-companion", "lancedb", "llm", "qq-chat", "rag", "semantic-search", "vector-database"]
+repository = "https://github.com/kldhsh123/Afterglow"
+website = "https://kldhsh123.github.io/Afterglow/"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

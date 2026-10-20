@@ -1,0 +1,8 @@
+name = "ChatGPT-android-app"
+description = "Android app for accessing ChatGPT"
+category = "chat"
+tags = ["android", "android-app", "chat", "chatgpt", "webview-app", "gpt", "gpt-3", "gpt-3-5-turbo"]
+repository = "https://github.com/matthaigh27/ChatGPT-android-app"
+license = "NOASSERTION"
+language = "Kotlin"
+added = 2026-10-20

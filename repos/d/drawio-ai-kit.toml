@@ -1,0 +1,8 @@
+name = "drawio-ai-kit"
+description = "Teach your AI to draw correct, beautiful draw.io diagrams — declarative layout engine, ground-truth stencils, structural validator, vision self-check. AWS · Azure · GCP · Databricks · BPMN. Zero dependencies."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "architecture-diagrams", "aws", "azure", "bpmn", "claude-code", "cli"]
+repository = "https://github.com/sparklabx/drawio-ai-kit"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

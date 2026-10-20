@@ -1,0 +1,8 @@
+name = "APT"
+description = "AI Productivity Tool - Free and open source, improve user productivity, and protect privacy and data security. Including but not limited to: built-in local exclusive ChatGPT, DeepSeek, Phi, Qwen and other models, one-click batch intelligent processing of pictures, videos…"
+category = "image"
+tags = ["ai", "ai-framework", "computer-vision", "deep-learning", "image-processing", "inference", "machine-learning", "machinelearning"]
+repository = "https://github.com/rnchg/APT"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

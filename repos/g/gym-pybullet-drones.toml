@@ -1,0 +1,9 @@
+name = "gym-pybullet-drones"
+description = "PyBullet Gymnasium environments for single and multi-agent reinforcement learning of quadcopter control"
+category = "robotics"
+tags = ["pybullet", "crazyflie", "robotics", "reinforcement-learning", "quadrotor", "control", "uav", "quadcopter"]
+repository = "https://github.com/learnsyslab/gym-pybullet-drones"
+website = "https://arxiv.org/pdf/2103.02142"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

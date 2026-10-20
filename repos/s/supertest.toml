@@ -1,0 +1,8 @@
+name = "supertest"
+description = "Super-agent driven library for testing node.js HTTP servers using a fluent API. Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs."
+category = "agents"
+tags = ["supertest", "superagent", "assertions", "node"]
+repository = "https://github.com/forwardemail/supertest"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

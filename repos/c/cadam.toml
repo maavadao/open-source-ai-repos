@@ -1,0 +1,9 @@
+name = "CADAM"
+description = "CADAM is the open source text-to-CAD web application"
+category = "robotics"
+tags = ["ai", "cad", "openscad", "react", "text-to-cad", "wasm", "agents", "ai-agents"]
+repository = "https://github.com/Adam-CAD/CADAM"
+website = "https://adam.new/cadam"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

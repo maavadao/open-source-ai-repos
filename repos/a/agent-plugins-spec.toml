@@ -1,0 +1,8 @@
+name = "agent-plugins-spec"
+description = "Agent Plugins Specification v1.0.0 — A minimal standard for packaging agent extensions into distributable plugins"
+category = "mcp-servers"
+tags = ["agent-plugins", "agent-skills", "ai-agents", "mcp", "specification"]
+repository = "https://github.com/agentplugins/agent-plugins-spec"
+website = "https://agent-plugins.org"
+license = "NOASSERTION"
+added = 2026-10-20

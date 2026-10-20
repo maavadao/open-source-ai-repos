@@ -1,0 +1,8 @@
+name = "ClashRoyaleBuildABot"
+description = "A platform for creating bots to play Clash Royale"
+category = "robotics"
+tags = ["clashroyale", "ai", "computer-vision", "adb", "machine-learning", "bluestacks", "robotics", "yolov10"]
+repository = "https://github.com/Pbatch/ClashRoyaleBuildABot"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

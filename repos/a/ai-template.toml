@@ -1,0 +1,8 @@
+name = "ai-template"
+description = "Mercury - Train your own custom GPT. Chat with any file, or website."
+category = "vector-databases"
+tags = ["embeddings", "gpt-3", "openai", "radix-ui", "tailwindcss", "typescript", "openai-template", "chatgpt"]
+repository = "https://github.com/Jordan-Gilliam/ai-template"
+license = "Unlicense"
+language = "TypeScript"
+added = 2026-10-20

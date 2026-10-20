@@ -1,0 +1,7 @@
+name = "gstack"
+description = "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA"
+category = "coding"
+repository = "https://github.com/garrytan/gstack"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

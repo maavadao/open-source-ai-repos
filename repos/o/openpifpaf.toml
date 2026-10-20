@@ -1,0 +1,9 @@
+name = "openpifpaf"
+description = "Official implementation of \"OpenPifPaf: Composite Fields for Semantic Keypoint Detection and Spatio-Temporal Association\" in PyTorch."
+category = "vision"
+tags = ["human-pose-estimation", "keypoint-estimation", "pose-estimation", "computer-vision", "composite-fields", "deep-learning"]
+repository = "https://github.com/openpifpaf/openpifpaf"
+website = "https://openpifpaf.github.io"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

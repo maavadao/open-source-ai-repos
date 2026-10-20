@@ -1,0 +1,8 @@
+name = "memento-mcp"
+description = "Memento MCP: A Knowledge Graph Memory System for LLMs"
+category = "mcp-servers"
+tags = ["claude-desktop", "cursor", "knowledge-graph", "modelcontextprotocol", "neo4j", "vector-database"]
+repository = "https://github.com/gannonh/memento-mcp"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

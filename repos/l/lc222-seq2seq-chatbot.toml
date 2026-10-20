@@ -1,0 +1,8 @@
+name = "seq2seq_chatbot"
+description = "基于seq2seq模型的简单对话系统的tf实现，具有embedding、attention、beam_search等功能，数据集是Cornell Movie Dialogs"
+category = "chat"
+tags = ["tensorflow", "seq2seq", "beam-search", "nmt", "chatbot", "attention-mechanism"]
+repository = "https://github.com/lc222/seq2seq_chatbot"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

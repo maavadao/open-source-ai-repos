@@ -1,0 +1,9 @@
+name = "VAGEN"
+description = "World model reinforcement learning for multi-turn VLM agents. RL for vision framework (NeurIPS 2025)."
+category = "robotics"
+tags = ["agent", "embodied-ai", "reinforcement-learning", "vision-language-models", "vlm-agent", "world-models", "multi-turn-reinforcement-learning", "neurips-2025"]
+repository = "https://github.com/mll-lab-nu/VAGEN"
+website = "https://vagen-ai.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

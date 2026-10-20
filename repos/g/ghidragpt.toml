@@ -1,0 +1,8 @@
+name = "GhidraGPT"
+description = "Integrate LLM models directly into Ghidra for AI-enhanced reverse engineering."
+category = "agents"
+tags = ["ghidra", "ghidra-plugin", "ghidra-extension", "gpt", "reverse-engineering", "agent", "java"]
+repository = "https://github.com/weirdmachine64/GhidraGPT"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

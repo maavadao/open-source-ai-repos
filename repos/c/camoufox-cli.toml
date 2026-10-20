@@ -1,0 +1,9 @@
+name = "camoufox-cli"
+description = "Anti-detect browser automation CLI & Skills for AI agents — Camoufox-powered fingerprint spoofing, no bot-detectable Playwright leaks"
+category = "browser-automation"
+tags = ["ai-agents", "anti-detect", "bot-detection", "browser-automation", "camoufox", "claude-code", "cli", "fingerprinting"]
+repository = "https://github.com/Bin-Huang/camoufox-cli"
+website = "https://www.npmjs.com/package/camoufox-cli"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

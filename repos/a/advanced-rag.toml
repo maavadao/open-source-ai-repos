@@ -1,0 +1,8 @@
+name = "Advanced_RAG"
+description = "Advanced Retrieval-Augmented Generation (RAG) through practical notebooks, using the power of the Langchain, OpenAI GPTs ,META LLAMA3 ,Agents."
+category = "learning"
+tags = ["langchain", "machine-learning", "nlp", "rag", "retrival-augmented", "vectordb", "genai", "chatgpt"]
+repository = "https://github.com/NisaarAgharia/Advanced_RAG"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

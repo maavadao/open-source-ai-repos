@@ -1,0 +1,9 @@
+name = "way-back-home"
+description = "Way Back Home"
+category = "mcp-servers"
+tags = ["a2a", "adk", "agents", "bigquery", "google-cloud", "mcp", "multimodal", "rag"]
+repository = "https://github.com/gca-americas/way-back-home"
+website = "https://waybackhome.dev"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

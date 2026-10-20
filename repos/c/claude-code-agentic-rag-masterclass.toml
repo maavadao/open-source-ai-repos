@@ -1,0 +1,8 @@
+name = "claude-code-agentic-rag-masterclass"
+description = "Build an agentic RAG app from scratch by collaborating with Claude Code. 8-module course covering hybrid search, reranking, text-to-SQL, subagents, and more. React + FastAPI + Supabase."
+category = "learning"
+tags = ["agent", "ai", "claude-code", "rag"]
+repository = "https://github.com/theaiautomators/claude-code-agentic-rag-masterclass"
+website = "https://www.theaiautomators.com/"
+license = "NOASSERTION"
+added = 2026-10-20

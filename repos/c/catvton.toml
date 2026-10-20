@@ -1,0 +1,8 @@
+name = "CatVTON"
+description = "[ICLR 2025] CatVTON is a simple and efficient virtual try-on diffusion model with 1) Lightweight Network (899.06M parameters totally), 2) Parameter-Efficient Training (49.57M parameters trainable) and 3) Simplified Inference (< 8G VRAM for 1024X768 resolution)."
+category = "image"
+tags = ["diffusion-models", "fashion", "try-on"]
+repository = "https://github.com/Zheng-Chong/CatVTON"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

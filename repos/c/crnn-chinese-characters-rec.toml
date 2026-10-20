@@ -1,0 +1,8 @@
+name = "CRNN_Chinese_Characters_Rec"
+description = "(CRNN) Chinese Characters Recognition."
+category = "documents"
+tags = ["deep-learning", "ocr", "recognition", "pytorch"]
+repository = "https://github.com/Sierkinhane/CRNN_Chinese_Characters_Rec"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

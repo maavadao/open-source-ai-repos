@@ -1,0 +1,9 @@
+name = "pipecat"
+description = "Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and the community."
+category = "speech"
+tags = ["ai", "real-time", "voice", "voice-assistant", "chatbot-framework", "chatbots"]
+repository = "https://github.com/pipecat-ai/pipecat"
+website = "https://pipecat.ai"
+license = "BSD-2-Clause"
+language = "Python"
+added = 2026-10-20

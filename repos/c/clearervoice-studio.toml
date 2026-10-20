@@ -1,0 +1,8 @@
+name = "ClearerVoice-Studio"
+description = "An AI-Powered Speech Processing Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Enhancement, Separation, and Target Speaker Extraction, etc."
+category = "speech"
+tags = ["audio", "bandwidth-extension", "deep-learning", "noise-suppression", "pytorch", "speaker-extraction", "speech", "speech-enhancement"]
+repository = "https://github.com/modelscope/ClearerVoice-Studio"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

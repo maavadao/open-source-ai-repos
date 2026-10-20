@@ -1,0 +1,9 @@
+name = "claude-code-teams-mcp"
+description = "use claude code's agent teams orchestraction with any harness"
+category = "mcp-servers"
+tags = ["agents", "claude-code", "opencode", "reverse-engineering"]
+repository = "https://github.com/cs50victor/claude-code-teams-mcp"
+website = "https://code.claude.com/docs/en/agent-teams"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "lora"
+description = "Using Low-rank adaptation to quickly fine-tune diffusion models."
+category = "image"
+tags = ["diffusion", "lora", "stable-diffusion", "dreambooth", "fine-tuning"]
+repository = "https://github.com/cloneofsimo/lora"
+website = "https://arxiv.org/abs/2106.09685"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

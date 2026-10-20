@@ -1,0 +1,9 @@
+name = "testkube"
+description = "The Open Testing Platform for AI-Driven Engineering Teams"
+category = "agents"
+tags = ["kubernetes", "testing", "testing-tools", "cicd", "devops", "monitoring", "quality-assurance", "testing-automation"]
+repository = "https://github.com/kubeshop/testkube"
+website = "https://testkube.io"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

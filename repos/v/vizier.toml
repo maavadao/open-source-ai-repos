@@ -1,0 +1,9 @@
+name = "vizier"
+description = "Python-based research interface for blackbox and hyperparameter optimization, based on the internal Google Vizier Service."
+category = "ml-platforms"
+tags = ["vizier", "hyperparameter-optimization", "tuning", "tuning-parameters", "blackbox-optimization", "hyperparameter-tuning", "bayesian-optimization", "evolutionary-algorithms"]
+repository = "https://github.com/google/vizier"
+website = "https://oss-vizier.readthedocs.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

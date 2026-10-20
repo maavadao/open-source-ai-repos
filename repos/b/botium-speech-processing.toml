@@ -1,0 +1,9 @@
+name = "botium-speech-processing"
+description = "Botium Speech Processing"
+category = "speech"
+tags = ["botium", "speech-to-text", "text-to-speech"]
+repository = "https://github.com/codeforequity-at/botium-speech-processing"
+website = "https://www.botium.at"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

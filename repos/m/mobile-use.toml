@@ -1,0 +1,9 @@
+name = "mobile-use"
+description = "AI agents can now use real Android and iOS apps, just like a human."
+category = "agents"
+tags = ["agents", "ai", "browser-use", "langgraph", "mobile", "mobile-use", "python", "qa"]
+repository = "https://github.com/minitap-ai/mobile-use"
+website = "https://minitap.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

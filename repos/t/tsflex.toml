@@ -1,0 +1,9 @@
+name = "tsflex"
+description = "Flexible time series feature extraction & processing"
+category = "models"
+tags = ["python", "processing", "data-science", "time-series", "feature-extraction", "window-stride", "pandas", "multimodal"]
+repository = "https://github.com/predict-idlab/tsflex"
+website = "https://predict-idlab.github.io/tsflex/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

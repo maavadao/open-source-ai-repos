@@ -1,0 +1,8 @@
+name = "ai-system-design-guide"
+description = "AI system design guide for engineers building production AI systems and evals."
+category = "learning"
+tags = ["agentic-ai", "agentic-workflow", "artificial-intelligence", "aws", "azure", "claude", "gemini", "gen-ai"]
+repository = "https://github.com/ombharatiya/ai-system-design-guide"
+website = "https://www.aidaddy.tech"
+license = "MIT"
+added = 2026-10-20

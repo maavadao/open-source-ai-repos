@@ -1,0 +1,9 @@
+name = "auto-subs"
+description = "On-device subtitle generation that connects directly to DaVinci Resolve, Premiere, and After Effects."
+category = "speech"
+tags = ["ai", "davinci-resolve", "subtitles", "davinci", "resolve", "speech-to-text", "transcribe", "premiere"]
+repository = "https://github.com/tmoroney/auto-subs"
+website = "https://tom-moroney.com/auto-subs/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

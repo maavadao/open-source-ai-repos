@@ -1,0 +1,9 @@
+name = "speech-recognition-uk"
+description = "Speech Recognition & Synthesis for Ukrainian"
+category = "speech"
+tags = ["speech-recognition", "speech-synthesis", "speech-to-text", "tts", "ukrainian", "speech", "text-to-speech"]
+repository = "https://github.com/egorsmkv/speech-recognition-uk"
+website = "https://huggingface.co/speech-uk"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

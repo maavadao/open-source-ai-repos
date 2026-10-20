@@ -1,0 +1,10 @@
+name = "course"
+description = "The Hugging Face course on Transformers"
+category = "learning"
+tags = ["deep-learning", "nlp", "transformers", "hacktoberfest"]
+repository = "https://github.com/huggingface/course"
+website = "https://huggingface.co/learn/nlp-course"
+license = "Apache-2.0"
+language = "MDX"
+skill_level = "intermediate"
+added = 2026-10-20

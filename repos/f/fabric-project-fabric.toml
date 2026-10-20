@@ -1,0 +1,9 @@
+name = "Fabric"
+description = "Node Creative Coding / 3D / Image Processing tool inspired by Quartz Composer"
+category = "video"
+tags = ["3d", "graphics", "metal", "multimedia", "node-based", "realtime", "swift", "swiftui"]
+repository = "https://github.com/Fabric-Project/Fabric"
+website = "https://fabric.graphics"
+license = "BSD-3-Clause"
+language = "Swift"
+added = 2026-10-20

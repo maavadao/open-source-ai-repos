@@ -1,0 +1,9 @@
+name = "speechgpt"
+description = "SpeechGPT is a web application that enables you to converse with ChatGPT."
+category = "speech"
+tags = ["chatbot", "chatgpt", "language-learning", "speech", "chat", "conversation"]
+repository = "https://github.com/hahahumble/speechgpt"
+website = "https://speechgpt.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

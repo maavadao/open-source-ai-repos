@@ -1,0 +1,8 @@
+name = "HandyRL"
+description = "HandyRL is a handy and simple framework based on Python and PyTorch for distributed reinforcement learning that is applicable to your own environments."
+category = "ml-platforms"
+tags = ["reinforcement-learning", "pytorch", "games", "policy-gradient", "deep-learning", "machine-learning", "distributed-training"]
+repository = "https://github.com/DeNA/HandyRL"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

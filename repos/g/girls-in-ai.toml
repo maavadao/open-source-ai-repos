@@ -1,0 +1,9 @@
+name = "Girls-In-AI"
+description = "免费学代码系列：小白python入门、数据分析data analyst、机器学习machine learning、深度学习deep learning、kaggle实战"
+category = "ml-platforms"
+tags = ["machine-learning", "deep-learning", "girl", "python3", "kaggle", "jupyter-notebook"]
+repository = "https://github.com/girls-in-ai/Girls-In-AI"
+website = "http://girls-in-ai.github.io/Girls-In-AI/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

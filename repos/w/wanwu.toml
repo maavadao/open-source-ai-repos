@@ -1,0 +1,8 @@
+name = "wanwu"
+description = "China Unicom's Yuanjing Wanwu Agent Platform is an enterprise-grade, multi-tenant AI agent development platform. It helps users build applications such as intelligent agents, workflows, and rag, and also supports model management. The platform features a developer-friendly…"
+category = "mcp-servers"
+tags = ["ai", "llm", "mcp", "rag", "wanwu", "workflow", "agentic-ai", "agentic-framework"]
+repository = "https://github.com/UnicomAI/wanwu"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

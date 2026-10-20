@@ -1,0 +1,8 @@
+name = "DeepSeek-LLM"
+description = "DeepSeek LLM: Let there be answers"
+category = "models"
+repository = "https://github.com/deepseek-ai/DeepSeek-LLM"
+website = "https://chat.deepseek.com/"
+license = "MIT"
+language = "Makefile"
+added = 2026-10-20

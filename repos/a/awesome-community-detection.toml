@@ -1,0 +1,8 @@
+name = "awesome-community-detection"
+description = "A curated list of community detection research papers with implementations."
+category = "learning"
+tags = ["graph-clustering", "network-clustering", "clustering", "dimensionality-reduction", "factorization", "embedding", "deep-learning", "matrix-factorization"]
+repository = "https://github.com/benedekrozemberczki/awesome-community-detection"
+license = "CC0-1.0"
+language = "Python"
+added = 2026-10-20

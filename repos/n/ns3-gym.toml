@@ -1,0 +1,8 @@
+name = "ns3-gym"
+description = "ns3-gym - The Playground for Reinforcement Learning in Networking Research"
+category = "ml-platforms"
+tags = ["ns3", "gym-environment", "openai-gym", "reinforcement-learning", "reinforcement-learning-environments"]
+repository = "https://github.com/tkn-tub/ns3-gym"
+license = "GPL-2.0"
+language = "C++"
+added = 2026-10-20

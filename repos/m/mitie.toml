@@ -1,0 +1,8 @@
+name = "MITIE"
+description = "MITIE: library and tools for information extraction"
+category = "data-science"
+tags = ["machine-learning", "natural-language-processing", "information-extraction", "python", "c-plus-plus", "java"]
+repository = "https://github.com/mit-nlp/MITIE"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "vakyansh-models"
+description = "Open source speech to text models for Indic Languages"
+category = "speech"
+tags = ["stt", "speech-recognition", "speech-recognition-model", "indic-languages"]
+repository = "https://github.com/Open-Speech-EkStep/vakyansh-models"
+license = "MIT"
+added = 2026-10-20

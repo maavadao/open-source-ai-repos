@@ -1,0 +1,8 @@
+name = "Local-File-Organizer"
+description = "An AI-powered file management tool that ensures privacy by organizing local texts, images. Using Llama3.2 3B and Llava v1.6 models with the Nexa SDK, it intuitively scans, restructures, and organizes files for quick, seamless access and easy retrieval."
+category = "models"
+tags = ["file-organizer", "llm", "on-device-ai", "vlm", "llama3"]
+repository = "https://github.com/QiuYannnn/Local-File-Organizer"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

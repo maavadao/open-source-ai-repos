@@ -1,0 +1,8 @@
+name = "horizon"
+description = "GPU-accelerated terminal board that puts all your sessions on an infinite canvas"
+category = "mcp-servers"
+tags = ["ai-agents", "codex", "egui", "rust", "terminal-emulator", "opencode", "claude-code", "coding-agents"]
+repository = "https://github.com/peters/horizon"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

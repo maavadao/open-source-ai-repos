@@ -1,0 +1,9 @@
+name = "ROLL"
+description = "An Efficient and User-Friendly Scaling Library for Reinforcement Learning with Large Language Models"
+category = "agents"
+tags = ["agentic", "rlhf", "rlvr"]
+repository = "https://github.com/alibaba/ROLL"
+website = "https://alibaba.github.io/ROLL/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

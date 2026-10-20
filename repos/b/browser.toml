@@ -1,0 +1,9 @@
+name = "browser"
+description = "Lightpanda: the headless browser designed for AI and automation"
+category = "browser-automation"
+tags = ["browser", "cdp", "headless", "playwright", "puppeteer", "zig", "browser-automation", "lightpanda"]
+repository = "https://github.com/lightpanda-io/browser"
+website = "https://lightpanda.io"
+license = "AGPL-3.0"
+language = "Zig"
+added = 2026-10-20

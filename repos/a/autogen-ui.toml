@@ -1,0 +1,8 @@
+name = "autogen-ui"
+description = "Web UI for AutoGen (A Framework Multi-Agent LLM Applications)"
+category = "chat"
+tags = ["agent-based-framework", "chatgpt", "visualization", "ai", "ai-agents", "autogen", "deep-learning", "autogen-sample"]
+repository = "https://github.com/victordibia/autogen-ui"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

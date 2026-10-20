@@ -1,0 +1,8 @@
+name = "agentsilex"
+description = "A transparent, minimal, and hackable agent framework. ~300 lines of readable code. Full control, no magic."
+category = "agents"
+tags = ["agent-framework", "ai-agent", "anthropic", "educational", "gemini", "hackable", "litellm", "llm"]
+repository = "https://github.com/howl-anderson/agentsilex"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

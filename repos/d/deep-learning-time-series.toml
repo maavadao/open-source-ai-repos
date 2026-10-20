@@ -1,0 +1,8 @@
+name = "deep-learning-time-series"
+description = "List of papers, code and experiments using deep learning for time series forecasting"
+category = "ml-platforms"
+tags = ["time-series-forecasting", "lstm-neural-networks", "lstm", "deep-learning", "forecasting-models", "prediction", "python3", "pytorch"]
+repository = "https://github.com/Alro10/deep-learning-time-series"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

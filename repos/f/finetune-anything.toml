@@ -1,0 +1,8 @@
+name = "finetune-anything"
+description = "Fine-tune SAM (Segment Anything Model) for computer vision tasks such as semantic segmentation, matting, detection ... in specific scenarios"
+category = "vision"
+tags = ["computer-vision", "deep-learning", "segment-anything", "fine-tune"]
+repository = "https://github.com/ziqi-jin/finetune-anything"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "talk-to-javascript-openai-workers"
+description = "Demonstrates how to protect your OpenAI API Key using a Cloudflare Worker to serve your ephemeral token and then do client side tool calling"
+category = "speech"
+tags = ["client-side", "function-calling", "openai", "realti", "robot-hand", "tool-calling", "voice-assistant", "voice-control"]
+repository = "https://github.com/craigsdennis/talk-to-javascript-openai-workers"
+website = "https://platform.openai.com/docs/guides/realtime"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

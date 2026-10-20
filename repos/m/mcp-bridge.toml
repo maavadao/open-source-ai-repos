@@ -1,0 +1,8 @@
+name = "MCP-Bridge"
+description = "A middleware to provide an openAI compatible endpoint that can call MCP tools"
+category = "mcp-servers"
+tags = ["ai", "claude", "mcp", "model-context-protocol", "openai", "openai-api", "mcp-server", "mcp-servers"]
+repository = "https://github.com/SecretiveShell/MCP-Bridge"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "rogue"
+description = "AI Agent Evaluator & Red Team Platform"
+category = "agents"
+tags = ["agents", "ai", "ai-agents", "e2e-testing", "llm", "testing", "testing-framework"]
+repository = "https://github.com/rogue-security/rogue"
+website = "https://qualifire.ai"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

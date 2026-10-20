@@ -1,0 +1,8 @@
+name = "Rasa_NLU_Chi"
+description = "Turn Chinese natural language into structured data 中文自然语言理解"
+category = "chat"
+tags = ["natural-language", "chinese", "chatbot"]
+repository = "https://github.com/crownpku/Rasa_NLU_Chi"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

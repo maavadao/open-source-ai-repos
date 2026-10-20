@@ -1,0 +1,9 @@
+name = "ypi"
+description = "A recursive coding agent inpired by RLMs"
+category = "agents"
+tags = ["agents", "cli", "openclaw", "pi", "recursion", "rlm"]
+repository = "https://github.com/rawwerks/ypi"
+website = "https://ypi.sh"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

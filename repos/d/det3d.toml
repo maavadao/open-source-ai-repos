@@ -1,0 +1,9 @@
+name = "Det3D"
+description = "World's first general purpose 3D object detection codebse."
+category = "robotics"
+tags = ["nuscenes", "3d-object-detection", "point-cloud", "object-detection", "kitti", "pytorch", "autonomous-driving", "deep-learning"]
+repository = "https://github.com/V2AI/Det3D"
+website = "https://arxiv.org/abs/1908.09492"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

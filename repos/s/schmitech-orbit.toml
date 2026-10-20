@@ -1,0 +1,9 @@
+name = "orbit"
+description = "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents."
+category = "security"
+tags = ["ai-assistant", "ai-gateway", "ai-safety", "anthropic", "chatbot", "developer-tools", "elasticsearch", "llm"]
+repository = "https://github.com/schmitech/orbit"
+website = "https://schmitech.ca/orbit"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

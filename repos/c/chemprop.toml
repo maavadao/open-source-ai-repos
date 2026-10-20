@@ -1,0 +1,9 @@
+name = "chemprop"
+description = "Message Passing Neural Networks for Molecule Property Prediction"
+category = "ml-platforms"
+tags = ["machine-learning", "chemistry", "neural-networks", "drug-discovery"]
+repository = "https://github.com/chemprop/chemprop"
+website = "https://chemprop.csail.mit.edu"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

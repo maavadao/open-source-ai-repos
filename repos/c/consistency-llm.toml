@@ -1,0 +1,9 @@
+name = "Consistency_LLM"
+description = "[ICML 2024] CLLMs: Consistency Large Language Models"
+category = "models"
+tags = ["efficient-llm", "large-language-models", "efficient-llm-inference"]
+repository = "https://github.com/hao-ai-lab/Consistency_LLM"
+website = "http://arxiv.org/abs/2403.00835"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

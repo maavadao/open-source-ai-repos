@@ -1,0 +1,9 @@
+name = "byok-relay"
+description = "Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without hitting CORS."
+category = "llm-apps"
+tags = ["ai", "byok", "llm", "relay", "anthropic", "api-proxy", "cors", "gemini"]
+repository = "https://github.com/avikalpg/byok-relay"
+website = "https://byokrelay.com"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

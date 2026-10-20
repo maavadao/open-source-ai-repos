@@ -1,0 +1,8 @@
+name = "LLM-FineTuning-Large-Language-Models"
+description = "LLM (Large Language Model) FineTuning"
+category = "local-llms"
+tags = ["gpt-3", "gpt3-turbo", "large-language-models", "llama2", "llm", "llm-finetuning", "llm-inference", "llm-serving"]
+repository = "https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

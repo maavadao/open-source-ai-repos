@@ -1,0 +1,9 @@
+name = "okcash"
+description = "OK | Every voice, every meme, every transaction makes $OK stronger and more vibrant. Powered by all of us—and now, AI agents. OK is not just OK — it’s $OK. $OK?"
+category = "agents"
+tags = ["cryptocurrency", "crypto", "okcash", "ok", "wallet", "coin", "token", "defi"]
+repository = "https://github.com/okcashpro/okcash"
+website = "https://okcash.org"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

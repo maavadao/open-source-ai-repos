@@ -1,0 +1,9 @@
+name = "edgeever"
+description = "AI-native knowledge base & Evernote/Obsidian alternative with instant sync & native MCP. Free on Cloudflare or self-hosted via Docker."
+category = "mcp-servers"
+tags = ["cloudflare-workers", "evernote", "knowledge-base", "mcp", "pwa", "self-hosted", "cloudflare", "cloudflare-d1"]
+repository = "https://github.com/tianma-if/edgeever"
+website = "https://edgeever.org"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

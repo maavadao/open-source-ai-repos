@@ -1,0 +1,9 @@
+name = "mcp-scanner"
+description = "Scan MCP servers for potential threats & security findings."
+category = "mcp-servers"
+tags = ["agents", "ai", "mcp", "security"]
+repository = "https://github.com/cisco-ai-defense/mcp-scanner"
+website = "https://blogs.cisco.com/ai/securing-the-ai-agent-supply-chain-with-ciscos-open-source-mcp-scanner"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

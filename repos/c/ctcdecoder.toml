@@ -1,0 +1,9 @@
+name = "CTCDecoder"
+description = "Connectionist Temporal Classification (CTC) decoding algorithms: best path, beam search, lexicon search, prefix search, and token passing. Implemented in Python."
+category = "speech"
+tags = ["token-passing", "beam-search", "ctc", "language-model", "best-path", "prefix-search", "handwriting-recognition", "speech-recognition"]
+repository = "https://github.com/githubharald/CTCDecoder"
+website = "https://harald-scheidl.medium.com/5a889a3d85a7"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

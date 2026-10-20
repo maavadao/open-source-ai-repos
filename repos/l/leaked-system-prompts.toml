@@ -1,0 +1,7 @@
+name = "leaked-system-prompts"
+description = "Collection of leaked system prompts"
+category = "models"
+tags = ["prompt", "llm", "ai", "document"]
+repository = "https://github.com/jujumilk3/leaked-system-prompts"
+license = "NOASSERTION"
+added = 2026-10-20

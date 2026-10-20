@@ -1,0 +1,9 @@
+name = "mkosi"
+description = "Build Bespoke OS Images"
+category = "models"
+tags = ["btrfs", "efi", "gpt", "disk-image", "verity", "luks", "distro", "fedora"]
+repository = "https://github.com/systemd/mkosi"
+website = "https://mkosi.systemd.io/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "dia2"
+description = "TTS model capable of streaming conversational audio in realtime."
+category = "speech"
+tags = ["open-weight", "text-to-speech"]
+repository = "https://github.com/nari-labs/dia2"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "ai-assisted-engineering"
+description = "A Guide To AI-Assisted Software Engineering"
+category = "coding"
+tags = ["ai", "ai-agents", "ai-coding", "ai-coding-agent", "ai-coding-agents", "ai-coding-assistant", "ai-coding-guidelines", "ai-coding-tools"]
+repository = "https://github.com/JohnCrickett/ai-assisted-engineering"
+license = "NOASSERTION"
+added = 2026-10-20

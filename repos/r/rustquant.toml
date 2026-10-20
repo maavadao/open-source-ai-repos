@@ -1,0 +1,9 @@
+name = "RustQuant"
+description = "Rust library for quantitative finance."
+category = "data-science"
+tags = ["finance", "math", "mathematics", "quantitative-finance", "rust", "rust-lang", "quantlib", "machine-learning"]
+repository = "https://github.com/avhz/RustQuant"
+website = "https://avhz.github.io"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

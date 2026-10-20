@@ -1,0 +1,8 @@
+name = "Visual-Chinese-LLaMA-Alpaca"
+description = "多模态中文LLaMA&Alpaca大语言模型（VisualCLA）"
+category = "image"
+tags = ["alpaca", "chinese", "llama", "llm", "lora", "multimodal", "nlp", "vision-language"]
+repository = "https://github.com/airaria/Visual-Chinese-LLaMA-Alpaca"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

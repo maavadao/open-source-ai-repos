@@ -1,0 +1,9 @@
+name = "Open-Sora"
+description = "Open-Sora: Democratizing Efficient Video Production for All"
+category = "video"
+repository = "https://github.com/hpcaitech/Open-Sora"
+website = "https://hpcaitech.github.io/Open-Sora/"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "advanced"
+added = 2026-10-20

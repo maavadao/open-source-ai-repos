@@ -1,0 +1,9 @@
+name = "AI-Expert-Roadmap"
+description = "Roadmap to becoming an Artificial Intelligence Expert in 2022"
+category = "learning"
+tags = ["deep-learning", "artificial-intelligence", "roadmap", "ai-roadmap", "machine-learning", "study-plan", "data-science", "data-analysis"]
+repository = "https://github.com/AMAI-GmbH/AI-Expert-Roadmap"
+website = "https://i.am.ai/roadmap"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "BitNet-Transformers"
+description = "0⃣1⃣ BitNet-Transformers: Huggingface Transformers Implementation of \"BitNet: Scaling 1-bit Transformers for Large Language Models\" in pytorch with Llama(2) Architecture"
+category = "local-llms"
+tags = ["llm", "quantization", "quantization-aware-training", "transformers"]
+repository = "https://github.com/Beomi/BitNet-Transformers"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

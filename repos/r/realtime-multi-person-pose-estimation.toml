@@ -1,0 +1,8 @@
+name = "Realtime_Multi-Person_Pose_Estimation"
+description = "Code repo for realtime multi-person pose estimation in CVPR'17 (Oral)"
+category = "vision"
+tags = ["human-pose-estimation", "realtime", "caffe", "human-behavior-understanding", "deep-learning", "computer-vision", "matlab", "python"]
+repository = "https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

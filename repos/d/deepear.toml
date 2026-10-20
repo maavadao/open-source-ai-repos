@@ -1,0 +1,9 @@
+name = "DeepEar"
+description = "DeepEar ｜ 顺风耳 An open-source framework for Deep Research and Financial Signal Tracking. 一个用于深度研究与金融信号追踪的开源框架。"
+category = "agents"
+tags = ["agent", "finance", "news", "predict", "report", "multimodal"]
+repository = "https://github.com/HKUSTDial/DeepEar"
+website = "https://rkiding.github.io/signalflux/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

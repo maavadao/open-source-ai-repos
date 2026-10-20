@@ -1,0 +1,9 @@
+name = "apollo"
+description = "The open-source brain for physical agentic devices, powered by Cloudflare Workers."
+category = "agents"
+tags = ["bun", "cloudflare", "agents"]
+repository = "https://github.com/galfrevn/apollo"
+website = "https://heyapollo.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

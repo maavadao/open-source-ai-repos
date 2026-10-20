@@ -1,0 +1,8 @@
+name = "MaineCoon"
+description = "MaineCoon: Pursuing a Real-Time Audio-Visual Social World Model — technical report & project links. https://mainecoon.tech/"
+category = "video"
+tags = ["audio-visual-generation", "autoregressive-model", "generative-ai", "real-time", "social-video", "streaming-generation", "talking-head", "text-to-video"]
+repository = "https://github.com/catnip-ai-tech/MaineCoon"
+website = "https://mainecoon.tech/"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "rakazo"
+description = "Open-source Grok Bot alternative. Choose your own model and sandbox."
+category = "chat"
+tags = ["ai-agents", "chatgpt", "docker", "electron", "expo", "grok", "llm", "self-hosted"]
+repository = "https://github.com/elie222/rakazo"
+website = "https://rakazo.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

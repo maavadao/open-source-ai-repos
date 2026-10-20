@@ -1,0 +1,8 @@
+name = "gemini-android"
+description = "Gemini Android demonstrates Google's Generative AI on Android with Stream Chat SDK for Compose."
+category = "other"
+tags = ["android", "architecture", "gemini", "generative-ai", "jetpack", "jetpack-compose", "kotlin", "skydoves"]
+repository = "https://github.com/GetStream/gemini-android"
+license = "Apache-2.0"
+language = "Kotlin"
+added = 2026-10-20

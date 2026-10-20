@@ -1,0 +1,9 @@
+name = "quantum"
+description = "An open-source Python framework for hybrid quantum-classical machine learning."
+category = "ml-platforms"
+tags = ["cirq", "google", "machine-learning", "python", "qml", "quantum", "quantum-computing", "quantum-machine-learning"]
+repository = "https://github.com/tensorflow/quantum"
+website = "https://www.tensorflow.org/quantum"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

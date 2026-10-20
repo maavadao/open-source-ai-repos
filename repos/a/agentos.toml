@@ -1,0 +1,9 @@
+name = "agentos"
+description = "Tiny, fast, Linux-compatible sandboxes. Powered by WebAssembly."
+category = "agents"
+tags = ["agent", "ai", "javascript", "llm", "sandbox", "v8", "wasm", "webassembly"]
+repository = "https://github.com/rivet-dev/agentos"
+website = "https://rivet.dev/agentos"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

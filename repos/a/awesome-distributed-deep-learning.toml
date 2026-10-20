@@ -1,0 +1,7 @@
+name = "Awesome-Distributed-Deep-Learning"
+description = "A curated list of awesome Distributed Deep Learning resources."
+category = "learning"
+tags = ["distributed-systems", "distributed-computing", "machine-learning", "deep-learning", "neural-networks", "nlp", "hyperparameter-optimization", "awesome"]
+repository = "https://github.com/bharathgs/Awesome-Distributed-Deep-Learning"
+license = "NOASSERTION"
+added = 2026-10-20

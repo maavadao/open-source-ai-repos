@@ -1,0 +1,8 @@
+name = "pattern_classification"
+description = "A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks"
+category = "learning"
+tags = ["machine-learning", "pattern-classification", "machine-learning-algorithms"]
+repository = "https://github.com/rasbt/pattern_classification"
+license = "GPL-3.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

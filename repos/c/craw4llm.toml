@@ -1,0 +1,9 @@
+name = "Craw4LLM"
+description = "Official repository for \"Craw4LLM: Efficient Web Crawling for LLM Pretraining\""
+category = "search"
+tags = ["crawler", "crawling", "large-language-models", "llm", "pre-training", "pretraining", "web-crawler", "web-crawling"]
+repository = "https://github.com/cxcscmu/Craw4LLM"
+website = "https://arxiv.org/pdf/2502.13347"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

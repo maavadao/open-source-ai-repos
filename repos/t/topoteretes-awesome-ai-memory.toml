@@ -1,0 +1,9 @@
+name = "awesome-ai-memory"
+description = "A list of AI memory projects"
+category = "learning"
+tags = ["ai", "ai-agents", "ai-engineering", "ai-memory", "ai-ml", "memory-management", "rag"]
+repository = "https://github.com/topoteretes/awesome-ai-memory"
+website = "https://github.com/topoteretes/cognee"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

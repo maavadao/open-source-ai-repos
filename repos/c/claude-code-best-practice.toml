@@ -1,0 +1,9 @@
+name = "claude-code-best-practice"
+description = "from vibe coding to agentic engineering - practice makes claude perfect"
+category = "coding"
+tags = ["claude-ai", "claude-code", "best-practices", "claude", "claude-code-best-practices", "agentic-engineering", "anthropic", "claude-code-agents"]
+repository = "https://github.com/shanraisshan/claude-code-best-practice"
+website = "https://linkedin.com/in/shanraisshan"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "Multimodal-AND-Large-Language-Models"
+description = "Paper list about multimodal and large language models, only used to record papers I read in the daily arxiv for personal needs."
+category = "learning"
+tags = ["machine-learning", "general-purpose-model", "large-language-models", "multimodal"]
+repository = "https://github.com/Yangyi-Chen/Multimodal-AND-Large-Language-Models"
+license = "NOASSERTION"
+added = 2026-10-20

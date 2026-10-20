@@ -1,0 +1,9 @@
+name = "mda"
+description = "MDA Open Spec — a Markdown superset for agent-facing documents. One .mda source compiles to drop-in SKILL.md, AGENTS.md, MCP-SERVER.md, and CLAUDE.md. JSON Schema validated, with typed dependency graph, footnote relationships, and Sigstore-anchored signatures. For…"
+category = "agents"
+tags = ["ai-agents", "ai-native", "llm", "mda", "agentic-ai", "agents-md", "claude-md", "conformance"]
+repository = "https://github.com/sno-ai/mda"
+website = "https://mda.sno.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

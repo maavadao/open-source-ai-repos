@@ -1,0 +1,8 @@
+name = "awesome-open-gpt"
+description = "Collection of Open Source Projects Related to GPT，GPT相关开源项目合集、精选"
+category = "learning"
+tags = ["aigc", "chatgpt", "gpt", "gpt4", "ai", "awesome", "awesome-list", "open-source"]
+repository = "https://github.com/EwingYangs/awesome-open-gpt"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "sd-webui-deoldify"
+description = "DeOldify for Stable Diffusion WebUI：This is an extension for StableDiffusion's AUTOMATIC1111 web-ui that allows colorize of old photos and old video. It is based on deoldify."
+category = "image"
+tags = ["colorize", "deoldify", "sd-webui", "stable-diffusion", "stable-diffusion-webui", "stable-diffusion-webui-plugin", "webui", "colorization"]
+repository = "https://github.com/SpenserCai/sd-webui-deoldify"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

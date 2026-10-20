@@ -1,0 +1,8 @@
+name = "CoCa-pytorch"
+description = "Implementation of CoCa, Contrastive Captioners are Image-Text Foundation Models, in Pytorch"
+category = "models"
+tags = ["artificial-intelligence", "attention-mechanism", "contrastive-learning", "deep-learning", "multimodal", "transformers", "image-to-text"]
+repository = "https://github.com/lucidrains/CoCa-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

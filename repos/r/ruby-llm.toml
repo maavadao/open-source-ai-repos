@@ -1,0 +1,9 @@
+name = "ruby_llm"
+description = "The Ruby AI framework."
+category = "local-llms"
+tags = ["llm", "ruby", "ai", "anthropic", "embeddings", "gemini", "openai", "rails"]
+repository = "https://github.com/crmne/ruby_llm"
+website = "https://rubyllm.com/"
+license = "MIT"
+language = "Ruby"
+added = 2026-10-20

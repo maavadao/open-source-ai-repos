@@ -1,0 +1,8 @@
+name = "agent-skills"
+description = "Official Agent skills of Oxylabs products"
+category = "skills-prompts"
+tags = ["agent-skill", "agent-skills", "ai-agent", "ai-agents", "claude-code", "claude-skills", "proxy", "video-data"]
+repository = "https://github.com/oxylabs/agent-skills"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

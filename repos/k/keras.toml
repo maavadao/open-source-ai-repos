@@ -1,0 +1,9 @@
+name = "keras"
+description = "Deep Learning for humans"
+category = "ml-platforms"
+tags = ["deep-learning", "tensorflow", "neural-networks", "machine-learning", "data-science", "python", "jax", "pytorch"]
+repository = "https://github.com/keras-team/keras"
+website = "http://keras.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

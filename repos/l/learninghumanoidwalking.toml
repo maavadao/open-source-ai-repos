@@ -1,0 +1,8 @@
+name = "LearningHumanoidWalking"
+description = "Training a humanoid robot for locomotion using Reinforcement Learning"
+category = "ml-platforms"
+tags = ["bipedal-robots", "cassie", "humanoids", "ppo", "reinforcement-learning", "jvrc-1", "mujoco"]
+repository = "https://github.com/rohanpsingh/LearningHumanoidWalking"
+license = "BSD-2-Clause"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "hackGPT"
+description = "I leverage OpenAI and ChatGPT to do hackerish things"
+category = "chat"
+tags = ["malware", "malwareanalysis", "managers", "openai", "chatbot", "chatgpt", "chatgpt-api", "chatgpt3"]
+repository = "https://github.com/NoDataFound/hackGPT"
+website = "http://hackGPT.com"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

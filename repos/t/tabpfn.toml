@@ -1,0 +1,9 @@
+name = "TabPFN"
+description = "TabPFN: Foundation Model for Tabular Data"
+category = "models"
+tags = ["data-science", "foundation-models", "machine-learning", "tabpfn", "tabular-data"]
+repository = "https://github.com/PriorLabs/TabPFN"
+website = "http://priorlabs.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

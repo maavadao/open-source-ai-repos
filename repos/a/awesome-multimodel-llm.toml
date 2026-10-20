@@ -1,0 +1,7 @@
+name = "Awesome_Multimodel_LLM"
+description = "Awesome_Multimodel is a curated GitHub repository that provides a comprehensive collection of resources for Multimodal Large Language Models (MLLM). It covers datasets, tuning techniques, in-context learning, visual reasoning, foundational models, and more. Stay updated with…"
+category = "learning"
+tags = ["chatgpt", "dataset", "gpt", "llm", "mllm", "multimodel", "nlp", "pretrained-models"]
+repository = "https://github.com/Atomic-man007/Awesome_Multimodel_LLM"
+license = "NOASSERTION"
+added = 2026-10-20

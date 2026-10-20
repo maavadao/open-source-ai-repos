@@ -1,0 +1,8 @@
+name = "FireRedASR"
+description = "Open-source industrial-grade ASR models supporting Mandarin, Chinese dialects and English, achieving a new SOTA on public Mandarin ASR benchmarks, while also offering outstanding singing lyrics recognition capability."
+category = "speech"
+tags = ["asr", "industrial-grade", "llm", "multimodal-llm", "open-source", "speech-recognition", "automatic-speech-recognition", "conformer"]
+repository = "https://github.com/FireRedTeam/FireRedASR"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

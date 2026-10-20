@@ -1,0 +1,8 @@
+name = "CodeIsland"
+description = "Real-time AI coding agent status panel in your MacBook notch — live status, approvals & replies for 30+ AI coding tools, with iPhone & Apple Watch companions"
+category = "coding"
+tags = ["ai-agents", "claude-code", "developer-tools", "dynamic-island", "macos", "notch", "swift"]
+repository = "https://github.com/wxtsky/CodeIsland"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

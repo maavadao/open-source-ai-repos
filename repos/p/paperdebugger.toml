@@ -1,0 +1,9 @@
+name = "paperdebugger"
+description = "A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing"
+category = "mcp-servers"
+tags = ["chatgpt", "latex", "openai", "overleaf", "latex-copilot", "overleaf-copilot", "paperdebugger", "agent"]
+repository = "https://github.com/PaperDebugger/paperdebugger"
+website = "https://www.paperdebugger.com/"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

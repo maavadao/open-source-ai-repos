@@ -1,0 +1,9 @@
+name = "AI-basketball-analysis"
+description = "AI web app and API to analyze basketball shots and shooting pose."
+category = "vision"
+tags = ["basketball", "machine-learning", "tensorflow", "api", "computer-vision", "object-detection", "artificial-intelligence", "openpose"]
+repository = "https://github.com/chonyy/AI-basketball-analysis"
+website = "https://ai-basketball-analysis.herokuapp.com/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

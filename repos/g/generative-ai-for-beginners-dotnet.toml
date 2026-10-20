@@ -1,0 +1,9 @@
+name = "Generative-AI-for-beginners-dotnet"
+description = "Five lessons, learn how to really apply AI to your .NET Applications"
+category = "learning"
+tags = ["ai", "azure-ai", "codespaces", "github-models", "semantic-kernel"]
+repository = "https://github.com/microsoft/Generative-AI-for-beginners-dotnet"
+website = "https://aka.ms/genainet"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

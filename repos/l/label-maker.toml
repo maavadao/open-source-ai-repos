@@ -1,0 +1,9 @@
+name = "label-maker"
+description = "Data Preparation for Satellite Machine Learning"
+category = "vision"
+tags = ["satellite-imagery", "data-preparation", "deep-learning", "computer-vision", "remote-sensing", "keras"]
+repository = "https://github.com/developmentseed/label-maker"
+website = "http://devseed.com/label-maker/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

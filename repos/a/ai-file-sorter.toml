@@ -1,0 +1,9 @@
+name = "ai-file-sorter"
+description = "Cross-platform desktop application for content-aware file organization and renaming. Supports local and remote LLMs, preview-based workflows, and fully user-controlled changes."
+category = "models"
+tags = ["ai", "file-management", "file-manager", "llm", "organizer"]
+repository = "https://github.com/hyperfield/ai-file-sorter"
+website = "https://filesorter.app"
+license = "AGPL-3.0"
+language = "C++"
+added = 2026-10-20

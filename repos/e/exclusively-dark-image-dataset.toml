@@ -1,0 +1,8 @@
+name = "Exclusively-Dark-Image-Dataset"
+description = "Exclusively Dark (ExDARK) dataset which to the best of our knowledge, is the largest collection of low-light images taken in very low-light environments to twilight (i.e 10 different conditions) to-date with image class and object level annotations."
+category = "vision"
+tags = ["computer-vision", "object-detection", "low-light-image", "deep-learning", "dataset", "domain-adaptation", "image-processing", "image-translation"]
+repository = "https://github.com/cs-chan/Exclusively-Dark-Image-Dataset"
+license = "BSD-3-Clause"
+language = "MATLAB"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "garak"
+description = "the LLM vulnerability scanner"
+category = "security"
+tags = ["ai", "llm-evaluation", "llm-security", "security-scanners", "vulnerability-assessment"]
+repository = "https://github.com/NVIDIA/garak"
+website = "https://discord.gg/uVch4puUCs"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

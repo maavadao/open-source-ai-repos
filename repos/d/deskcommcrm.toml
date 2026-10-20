@@ -1,0 +1,9 @@
+name = "DeskcommCRM"
+description = "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD."
+category = "mcp-servers"
+tags = ["ai", "crm", "ecommerce", "lgpd", "multi-tenant", "nextjs", "nuvemshop", "rag"]
+repository = "https://github.com/melgarafael/DeskcommCRM"
+website = "https://deskcomm.com.br"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

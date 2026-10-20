@@ -1,0 +1,10 @@
+name = "continue"
+description = "open-source coding agent"
+category = "coding"
+tags = ["open-source", "developer-tools", "ai", "agent", "cli"]
+repository = "https://github.com/continuedev/continue"
+website = "https://continue.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+skill_level = "beginner"
+added = 2026-10-20

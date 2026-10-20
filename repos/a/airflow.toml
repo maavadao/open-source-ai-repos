@@ -1,0 +1,10 @@
+name = "airflow"
+description = "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows"
+category = "ml-platforms"
+tags = ["airflow", "apache", "apache-airflow", "python", "scheduler", "workflow", "automation", "dag"]
+repository = "https://github.com/apache/airflow"
+website = "https://airflow.apache.org/"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

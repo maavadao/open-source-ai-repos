@@ -1,0 +1,8 @@
+name = "llm-firewall"
+description = "AI Firewall & LLM security toolkit - protect your AI applications from prompt injection, jailbreaks, PII leakage, and adversarial attacks"
+category = "security"
+tags = ["ai-firewall", "llm-security", "ai-gateway", "guardrails", "prompt-injection", "content-moderation", "pii-detection", "hallucination-detection"]
+repository = "https://github.com/CollieAi/llm-firewall"
+website = "https://collieai.io"
+license = "MIT"
+added = 2026-10-20

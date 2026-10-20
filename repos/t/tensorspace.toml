@@ -1,0 +1,9 @@
+name = "tensorspace"
+description = "Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js"
+category = "vision"
+tags = ["deep-learning", "tensorflow", "keras", "tfjs", "3d", "visualization", "threejs", "machine-learning"]
+repository = "https://github.com/tensorspace-team/tensorspace"
+website = "https://tensorspace.org"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

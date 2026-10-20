@@ -1,0 +1,9 @@
+name = "LLMVoX"
+description = "LLMVoX: Autoregressive Streaming Text-to-Speech Model for Any LLM"
+category = "speech"
+tags = ["audiollm", "mbzuai", "neural-speech-synthesis", "streaming", "text-to-speech", "transformers", "tts", "voice-assistant"]
+repository = "https://github.com/mbzuai-oryx/LLMVoX"
+website = "https://mbzuai-oryx.github.io/LLMVoX/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

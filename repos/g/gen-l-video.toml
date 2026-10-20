@@ -1,0 +1,9 @@
+name = "Gen-L-Video"
+description = "The official implementation for \"Gen-L-Video: Multi-Text to Long Video Generation via Temporal Co-Denoising\"."
+category = "video"
+tags = ["diffusion-models", "long-video-generation", "stable-diffusion", "text-to-video", "text2video", "video-editing", "video-generation"]
+repository = "https://github.com/G-U-N/Gen-L-Video"
+website = "https://arxiv.org/abs/2305.18264"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

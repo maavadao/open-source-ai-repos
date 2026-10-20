@@ -1,0 +1,9 @@
+name = "vehicle_counting_tensorflow"
+description = "\"MORE THAN VEHICLE COUNTING!\" This project provides prediction for speed, color and size of the vehicles with TensorFlow Object Counting API."
+category = "vision"
+tags = ["vehicle-detection", "vehicle-tracking", "vehicle-detection-and-tracking", "vehicle-counting", "color-recognition", "speed-prediction", "object-detection", "object-detection-label"]
+repository = "https://github.com/ahmetozlu/vehicle_counting_tensorflow"
+website = "https://www.youtube.com/watch?v=PrqnhHf6fhM"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

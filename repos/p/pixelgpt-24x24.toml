@@ -1,0 +1,8 @@
+name = "pixelgpt-24x24"
+description = "Tiny local text-to-24x24 pixel art model, trained on roughly 200K samples in 30 minutes on an RTX 5090."
+category = "image"
+tags = ["autoregressive-model", "fastapi", "generative-ai", "local-ai", "pixel-art", "pytorch", "rtx-5090", "text-to-image"]
+repository = "https://github.com/unstonio/pixelgpt-24x24"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

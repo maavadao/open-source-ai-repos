@@ -1,0 +1,9 @@
+name = "apriltag"
+description = "AprilTag is a visual fiducial system popular for robotics research."
+category = "robotics"
+tags = ["robotics"]
+repository = "https://github.com/AprilRobotics/apriltag"
+website = "https://april.eecs.umich.edu/software/apriltag"
+license = "NOASSERTION"
+language = "C"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "DiffusionDepth"
+description = "PyTorch Implementation of introducing diffusion approach to 3D depth perception ECCV 2024"
+category = "image"
+tags = ["depth-estimation", "diffusion-models", "monocular-depth-estimation"]
+repository = "https://github.com/duanyiqun/DiffusionDepth"
+website = "https://arxiv.org/abs/2303.05021"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

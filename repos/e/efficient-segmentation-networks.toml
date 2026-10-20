@@ -1,0 +1,8 @@
+name = "Efficient-Segmentation-Networks"
+description = "Lightweight models for real-time semantic segmentationon PyTorch (include SQNet, LinkNet, SegNet, UNet, ENet, ERFNet, EDANet, ESPNet, ESPNetv2, LEDNet, ESNet, FSSNet, CGNet, DABNet, Fast-SCNN, ContextNet, FPENet, etc.)"
+category = "vision"
+tags = ["pytorch", "real-time-semantic-segmentation", "camvid", "cityscapes", "computer-vision", "scene-understanding", "segmentation", "efficient-segmentation-networks"]
+repository = "https://github.com/xiaoyufenfei/Efficient-Segmentation-Networks"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

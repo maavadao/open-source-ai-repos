@@ -1,0 +1,9 @@
+name = "klavis"
+description = "Klavis AI: MCP integration platforms that let AI agents use tools reliably at any scale"
+category = "mcp-servers"
+tags = ["ai", "discord", "llm", "mcp", "mcp-client", "mcp-server", "open-source", "agents"]
+repository = "https://github.com/Klavis-AI/klavis"
+website = "https://www.klavis.ai/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

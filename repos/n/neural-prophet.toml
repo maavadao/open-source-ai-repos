@@ -1,0 +1,9 @@
+name = "neural_prophet"
+description = "NeuralProphet: A simple forecasting package"
+category = "ml-platforms"
+tags = ["forecasting", "time-series", "machine-learning", "fbprophet", "prophet", "forecast", "artificial-intelligence", "prediction"]
+repository = "https://github.com/ourownstory/neural_prophet"
+website = "https://neuralprophet.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

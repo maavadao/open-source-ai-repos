@@ -1,0 +1,8 @@
+name = "dia"
+description = "A TTS model capable of generating ultra-realistic dialogue in one pass."
+category = "speech"
+tags = ["ai", "open-weight", "text-to-speech"]
+repository = "https://github.com/nari-labs/dia"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

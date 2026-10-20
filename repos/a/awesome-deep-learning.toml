@@ -1,0 +1,7 @@
+name = "awesome-deep-learning"
+description = "A curated list of awesome Deep Learning tutorials, projects and communities."
+category = "learning"
+tags = ["deep-learning", "neural-network", "machine-learning", "awesome", "awesome-list", "recurrent-networks", "deep-networks", "deep-learning-tutorial"]
+repository = "https://github.com/ChristosChristofidis/awesome-deep-learning"
+license = "NOASSERTION"
+added = 2026-10-20

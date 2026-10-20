@@ -1,0 +1,9 @@
+name = "RelaCtrl"
+description = "Efficient controlnet for DiTs"
+category = "image"
+tags = ["controlled-generation", "controlnet", "image-generation", "efficient-dit"]
+repository = "https://github.com/360CVGroup/RelaCtrl"
+website = "https://360cvgroup.github.io/RelaCtrl/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

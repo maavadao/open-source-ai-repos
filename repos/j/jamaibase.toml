@@ -1,0 +1,9 @@
+name = "JamAIBase"
+description = "The collaborative spreadsheet for AI. Chain cells into powerful pipelines, experiment with prompts and models, and evaluate LLM responses in real-time. Work together seamlessly to build and iterate on AI applications."
+category = "no-code"
+tags = ["agents", "ai", "ai-agents-framework", "baas", "chatbot", "lancedb", "llm", "llm-ops"]
+repository = "https://github.com/EmbeddedLLM/JamAIBase"
+website = "https://www.jamaibase.com/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

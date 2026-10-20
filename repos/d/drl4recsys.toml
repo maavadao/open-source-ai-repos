@@ -1,0 +1,7 @@
+name = "DRL4Recsys"
+description = "Courses on Deep Reinforcement Learning (DRL) and DRL papers for recommender systems"
+category = "learning"
+tags = ["deep-reinforcement-learning", "recommender-system", "drl", "paper", "read-papers", "awesome-list", "reinforcement-learning", "drl-papers"]
+repository = "https://github.com/cszhangzhen/DRL4Recsys"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "dynalang"
+description = "Code for \"Learning to Model the World with Language.\" ICML 2024 Oral."
+category = "agents"
+tags = ["agent", "artificial-intelligence", "natural-language-processing", "natural-language-understanding", "reinforcement-learning"]
+repository = "https://github.com/jlin816/dynalang"
+website = "https://dynalang.github.io"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

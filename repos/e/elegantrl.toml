@@ -1,0 +1,9 @@
+name = "ElegantRL"
+description = "Massively Parallel Deep Reinforcement Learning."
+category = "ml-platforms"
+tags = ["pytorch", "reinforcement-learning", "ppo", "sac", "td3", "dqn", "ddpg", "stable"]
+repository = "https://github.com/AI4Finance-Foundation/ElegantRL"
+website = "https://ai4finance.org"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

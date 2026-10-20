@@ -1,0 +1,9 @@
+name = "langchainrb"
+description = "Build LLM-powered applications in Ruby"
+category = "vector-databases"
+tags = ["artificial-intelligence", "machine-learning", "ml", "rubyml", "vector-search", "agents", "ai-agents"]
+repository = "https://github.com/patterns-ai-core/langchainrb"
+website = "https://rubydoc.info/gems/langchainrb"
+license = "MIT"
+language = "Ruby"
+added = 2026-10-20

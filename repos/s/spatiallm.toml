@@ -1,0 +1,9 @@
+name = "SpatialLM"
+description = "[NeurIPS 2025] SpatialLM: Training Large Language Models for Structured Indoor Modeling"
+category = "models"
+tags = ["scene-understanding", "spatial-intelligence", "mllm", "point-clouds"]
+repository = "https://github.com/manycore-research/SpatialLM"
+website = "https://manycore-research.github.io/SpatialLM"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

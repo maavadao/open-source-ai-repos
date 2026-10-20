@@ -1,0 +1,8 @@
+name = "uTensor"
+description = "TinyML AI inference library"
+category = "ml-platforms"
+tags = ["tensorflow", "mbed", "machine-learning", "deep-learning", "cortex-m", "edge-computing", "microcontroller", "embedded"]
+repository = "https://github.com/uTensor/uTensor"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

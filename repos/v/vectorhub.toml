@@ -1,0 +1,9 @@
+name = "VectorHub"
+description = "Deprecated historical repo. Superlinked now develops SIE, a self-hosted inference engine for embeddings, reranking, OCR, extraction, and document processing."
+category = "vector-databases"
+tags = ["ai", "llm", "llmops", "ml", "mlops", "vector", "vector-database", "vector-search"]
+repository = "https://github.com/superlinked/VectorHub"
+website = "https://superlinked.com/examples/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

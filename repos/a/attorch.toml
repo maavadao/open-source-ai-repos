@@ -1,0 +1,8 @@
+name = "attorch"
+description = "A subset of PyTorch's neural network modules, written in Python using OpenAI's Triton."
+category = "ml-platforms"
+tags = ["cuda", "deep-learning", "machine-learning", "pytorch", "triton", "openai", "openai-triton"]
+repository = "https://github.com/BobMcDear/attorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

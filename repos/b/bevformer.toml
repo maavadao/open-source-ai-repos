@@ -1,0 +1,9 @@
+name = "BEVFormer"
+description = "[ECCV 2022] This is the official implementation of BEVFormer, a camera-only framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation."
+category = "robotics"
+tags = ["deep-learning", "autonomous-driving", "computer-vision", "object-detection"]
+repository = "https://github.com/fundamentalvision/BEVFormer"
+website = "https://arxiv.org/abs/2203.17270"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

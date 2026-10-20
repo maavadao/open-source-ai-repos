@@ -1,0 +1,9 @@
+name = "pcn"
+description = "Code for PCN: Point Completion Network in 3DV'18 (Oral)"
+category = "vision"
+tags = ["3d-reconstruction", "point-cloud", "deep-learning", "computer-vision"]
+repository = "https://github.com/wentaoyuan/pcn"
+website = "https://wentaoyuan.github.io/pcn/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

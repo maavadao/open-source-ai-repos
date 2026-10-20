@@ -1,0 +1,9 @@
+name = "agent-kit"
+description = "AgentKit: Build multi-agent networks in TypeScript with deterministic routing and rich tooling via MCP."
+category = "agents"
+tags = ["agent", "ai", "ai-agent-framework", "ai-agents", "llm"]
+repository = "https://github.com/inngest/agent-kit"
+website = "https://agentkit.inngest.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

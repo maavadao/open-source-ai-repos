@@ -1,0 +1,9 @@
+name = "autolabel"
+description = "Label, clean and enrich text datasets with LLMs."
+category = "llm-apps"
+tags = ["llm", "large-language-models", "huggingface-transformers", "python", "langchain", "anthropic-claude", "gpt-4", "data-science"]
+repository = "https://github.com/refuel-ai/autolabel"
+website = "https://docs.refuel.ai/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

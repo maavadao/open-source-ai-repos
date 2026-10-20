@@ -1,0 +1,9 @@
+name = "sail"
+description = "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads."
+category = "data-science"
+tags = ["arrow", "big-data", "pyspark", "rust", "spark", "sql", "datafusion", "python"]
+repository = "https://github.com/lakehq/sail"
+website = "https://lakesail.com"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

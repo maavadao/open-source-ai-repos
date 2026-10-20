@@ -1,0 +1,8 @@
+name = "pattern"
+description = "Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization."
+category = "data-science"
+tags = ["python", "machine-learning", "natural-language-processing", "web-mining", "wordnet", "sentiment-analysis", "network-analysis"]
+repository = "https://github.com/clips/pattern"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "skills-manager"
+description = "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more."
+category = "skills-prompts"
+repository = "https://github.com/xingkongliang/skills-manager"
+website = "https://skillsmanager.dev"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

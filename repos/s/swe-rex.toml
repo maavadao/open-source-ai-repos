@@ -1,0 +1,9 @@
+name = "SWE-ReX"
+description = "Sandboxed code execution for AI agents, locally or on the cloud. Massively parallel, easy to extend. Powering SWE-agent and more."
+category = "agents"
+tags = ["agent", "agents", "ai", "aws", "cloud", "coding-agents", "docker", "fargate"]
+repository = "https://github.com/SWE-agent/SWE-ReX"
+website = "https://swe-rex.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

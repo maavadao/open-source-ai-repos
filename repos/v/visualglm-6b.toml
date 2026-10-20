@@ -1,0 +1,8 @@
+name = "VisualGLM-6B"
+description = "Chinese and English multimodal conversational language model | 多模态中英双语对话语言模型"
+category = "models"
+tags = ["chatglm-6b", "gpt", "multi-modal"]
+repository = "https://github.com/zai-org/VisualGLM-6B"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

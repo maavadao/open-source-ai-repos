@@ -1,0 +1,9 @@
+name = "Orkas-VideoStudio"
+description = "Turn your coding agent into a video studio: describe a video in plain language, and your agent writes the timeline and produces the file."
+category = "mcp-servers"
+tags = ["ai-agents", "ai-video", "cli", "coding-agents", "ffmpeg", "generative-ai", "hyperframes", "local-first"]
+repository = "https://github.com/Orkas-AI/Orkas-VideoStudio"
+website = "https://orkas.ai?source=github"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

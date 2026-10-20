@@ -1,0 +1,10 @@
+name = "llmware"
+description = "Unified framework for building enterprise RAG pipelines with small, specialized models"
+category = "llm-apps"
+tags = ["parsing", "retrieval-augmented-generation", "agents", "generative-ai-tools", "llamacpp", "llm", "small-specialized-models", "onnx"]
+repository = "https://github.com/llmware-ai/llmware"
+website = "https://llmware.ai"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "ask-my-pdf"
+description = "Question answering system for PDF files"
+category = "documents"
+tags = ["gpt3", "pdf", "qna", "streamlit", "openai", "openai-api"]
+repository = "https://github.com/mobarski/ask-my-pdf"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

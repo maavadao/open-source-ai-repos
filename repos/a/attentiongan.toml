@@ -1,0 +1,8 @@
+name = "AttentionGAN"
+description = "AttentionGAN for Unpaired Image-to-Image Translation & Multi-Domain Image-to-Image Translation"
+category = "image"
+tags = ["image-to-image-translation", "cyclegan", "unpaired", "attention-model", "adversarial-networks", "pytorch", "image-generation", "computer-vision"]
+repository = "https://github.com/Ha0Tang/AttentionGAN"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

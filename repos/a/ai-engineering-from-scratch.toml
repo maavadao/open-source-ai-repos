@@ -1,0 +1,9 @@
+name = "ai-engineering-from-scratch"
+description = "Learn AI Engineering! Learn it. Build it. Ship it for others."
+category = "mcp-servers"
+tags = ["agents", "ai", "ai-agents", "ai-engineering", "computer-vision", "course", "deep-learning", "from-scratch"]
+repository = "https://github.com/rohitg00/ai-engineering-from-scratch"
+website = "https://aiengineeringfromscratch.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "freshqa"
+description = "Data and code for FreshLLMs (https://arxiv.org/abs/2310.03214)"
+category = "llm-apps"
+tags = ["few-shot-prompting", "in-context-learning", "large-language-models", "retrieval-augmented-generation"]
+repository = "https://github.com/freshllms/freshqa"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

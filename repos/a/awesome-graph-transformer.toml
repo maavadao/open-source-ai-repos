@@ -1,0 +1,7 @@
+name = "awesome-graph-transformer"
+description = "Papers about graph transformers."
+category = "learning"
+tags = ["graph-mining", "graph-neural-networks", "machine-learning", "transformer", "graph-transformer", "deep-learning", "transformers"]
+repository = "https://github.com/wehos/awesome-graph-transformer"
+license = "NOASSERTION"
+added = 2026-10-20

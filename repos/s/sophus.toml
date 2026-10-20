@@ -1,0 +1,8 @@
+name = "Sophus"
+description = "C++ implementation of Lie Groups using Eigen."
+category = "robotics"
+tags = ["c-plus-plus", "math", "robotics", "computer-vision", "geometry", "graphics", "3d", "2d"]
+repository = "https://github.com/strasdat/Sophus"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

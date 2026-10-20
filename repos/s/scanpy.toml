@@ -1,0 +1,9 @@
+name = "scanpy"
+description = "Single-cell analysis in Python. Scales to >100M cells."
+category = "data-science"
+tags = ["machine-learning", "data-science", "visualize-data", "transcriptomics", "bioinformatics", "scanpy", "anndata", "python"]
+repository = "https://github.com/scverse/scanpy"
+website = "https://scanpy.scverse.org"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

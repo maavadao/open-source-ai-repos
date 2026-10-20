@@ -1,0 +1,9 @@
+name = "reverse-api-engineer"
+description = "The agent that turns websites into APIs!"
+category = "mcp-servers"
+tags = ["playwright", "claude", "web-scraping", "ai", "ai-agents", "cli", "mcp", "openapi"]
+repository = "https://github.com/kalil0321/reverse-api-engineer"
+website = "https://reverseapi.dev"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

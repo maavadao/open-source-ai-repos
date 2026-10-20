@@ -1,0 +1,9 @@
+name = "DALM"
+description = "Domain Adapted Language Modeling Toolkit - E2E RAG"
+category = "llm-apps"
+tags = ["language-model", "llm", "retrieval", "retrieval-augmented-generation"]
+repository = "https://github.com/arcee-ai/DALM"
+website = "https://www.arcee.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

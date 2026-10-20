@@ -1,0 +1,8 @@
+name = "see"
+description = "Code for the AAAI 2018 publication \"SEE: Towards Semi-Supervised End-to-End Scene Text Recognition\""
+category = "vision"
+tags = ["scene-text-recognition", "chainer", "cnn", "deep-learning", "semi-supervised-learning", "computer-vision"]
+repository = "https://github.com/Bartzi/see"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

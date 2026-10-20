@@ -1,0 +1,8 @@
+name = "markdownify-mcp"
+description = "A Model Context Protocol server for converting almost anything to Markdown"
+category = "mcp-servers"
+tags = ["ai", "anthropic", "anthropic-ai", "anthropic-claude", "markdown", "mcp", "model-context-protocol", "ocr"]
+repository = "https://github.com/zcaceres/markdownify-mcp"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "awesome-chatgpt-plugins"
+description = "A curated list of awesome ChatGPT plugins, demos and Posts"
+category = "learning"
+tags = ["awesome", "awesome-list", "chatgpt", "openai", "chatgpt-plugins"]
+repository = "https://github.com/Jeadie/awesome-chatgpt-plugins"
+license = "CC0-1.0"
+added = 2026-10-20

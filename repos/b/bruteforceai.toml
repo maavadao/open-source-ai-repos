@@ -1,0 +1,9 @@
+name = "BruteForceAI"
+description = "Advanced LLM-powered brute-force tool combining AI intelligence with automated login attacks"
+category = "models"
+tags = ["ai", "bruteforce", "bugbounty", "llm", "loginpages"]
+repository = "https://github.com/MorDavid/BruteForceAI"
+website = "https://www.MORDAVID.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

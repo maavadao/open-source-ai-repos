@@ -1,0 +1,8 @@
+name = "Draw2Img"
+description = "A simple web UI for interactive text-guided image to image generation, intended for any age and skill level."
+category = "image"
+tags = ["canvas", "img2img", "paint", "sdxl-turbo", "stable-diffusion", "txt2img", "web-ui", "ai-art"]
+repository = "https://github.com/GradientSurfer/Draw2Img"
+license = "MIT"
+language = "Vue"
+added = 2026-10-20

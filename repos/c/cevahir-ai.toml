@@ -1,0 +1,8 @@
+name = "cevahir-ai"
+description = "Full-stack open-source AI engine for building language models — tokenizer training, transformer architecture, cognitive reasoning and chat pipeline."
+category = "llm-apps"
+tags = ["ai-", "ai-engine", "bpe", "conversational-ai", "deep-learning", "language-model", "llm", "llm-training"]
+repository = "https://github.com/myylogic/cevahir-ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

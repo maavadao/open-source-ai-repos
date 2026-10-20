@@ -1,0 +1,9 @@
+name = "LearnPrompt"
+description = "永久免费开源的 AIGC 课程, 目前已支持Claude Code，Codex，Hermes，OpenClaw，Obsidian，Prompt Engineering, ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&音乐，开源大模型"
+category = "learning"
+tags = ["prompt-learning", "agent", "aimusic", "aivoice", "chatgpt-app", "llms-book", "midjourney-app", "prompt"]
+repository = "https://github.com/LearnPrompt/LearnPrompt"
+website = "https://www.learnprompt.pro/"
+license = "NOASSERTION"
+language = "MDX"
+added = 2026-10-20

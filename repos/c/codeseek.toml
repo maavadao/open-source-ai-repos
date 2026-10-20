@@ -1,0 +1,8 @@
+name = "codeseek"
+description = "Rust-powered code intelligence CLI for AI coding agents. Builds call graphs and hybrid semantic search indexes (Dense + Sparse + RRF + Reranker) across 7 languages. Ships as native MCP tools for Claude Code and Codex CLI."
+category = "mcp-servers"
+tags = ["bm25", "call-graph", "claude-code", "cli", "code-analysis", "code-intelligence", "cross-encoder", "embedding"]
+repository = "https://github.com/CodeBendKit/codeseek"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

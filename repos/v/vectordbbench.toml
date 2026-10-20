@@ -1,0 +1,9 @@
+name = "VectorDBBench"
+description = "Benchmark for vector databases."
+category = "vector-databases"
+tags = ["benchmark", "performance", "vector-database", "vector-search", "vectordb", "cost-effectiveness"]
+repository = "https://github.com/zilliztech/VectorDBBench"
+website = "https://zilliz.com/vector-database-benchmark-tool"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

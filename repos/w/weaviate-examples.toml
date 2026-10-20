@@ -1,0 +1,8 @@
+name = "weaviate-examples"
+description = "Weaviate vector database – examples"
+category = "vector-databases"
+tags = ["weaviate", "vector-search", "vector-search-engine", "vector-database", "examples", "deep-learning"]
+repository = "https://github.com/weaviate/weaviate-examples"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

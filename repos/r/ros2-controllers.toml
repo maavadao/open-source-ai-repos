@@ -1,0 +1,9 @@
+name = "ros2_controllers"
+description = "Generic robotic controllers to accompany ros2_control"
+category = "robotics"
+tags = ["ros", "ros2", "ros2-control", "ros2-controllers", "ros2-humble", "ros2-rolling", "ros2-jazzy", "ros2-kilted"]
+repository = "https://github.com/ros-controls/ros2_controllers"
+website = "https://control.ros.org"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

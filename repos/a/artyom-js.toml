@@ -1,0 +1,9 @@
+name = "artyom.js"
+description = "A voice control - voice commands - speech recognition and speech synthesis javascript library. Create your own siri,google now or cortana with Google Chrome within your website."
+category = "speech"
+tags = ["voice-commands", "speech-recognition", "recognition", "speech-synthesis", "speech-to-text"]
+repository = "https://github.com/sdkcarlos/artyom.js"
+website = "http://sdkcarlos.github.io/sites/artyom.html"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "gluon-cv"
+description = "Gluon CV Toolkit"
+category = "vision"
+tags = ["deep-learning", "computer-vision", "neural-network", "gluon", "mxnet", "machine-learning", "image-classification", "object-detection"]
+repository = "https://github.com/dmlc/gluon-cv"
+website = "http://gluon-cv.mxnet.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

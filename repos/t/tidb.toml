@@ -1,0 +1,9 @@
+name = "tidb"
+description = "TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling."
+category = "agents"
+tags = ["distributed-database", "distributed-transactions", "tidb", "database", "scale", "mysql", "htap", "sql"]
+repository = "https://github.com/pingcap/tidb"
+website = "https://www.tidb.io/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

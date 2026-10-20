@@ -1,0 +1,9 @@
+name = "torchio"
+description = "Medical imaging processing for AI applications."
+category = "ml-platforms"
+tags = ["pytorch", "medical-image-computing", "deep-learning", "data-augmentation", "machine-learning", "python", "medical-image-processing", "medical-image-analysis"]
+repository = "https://github.com/TorchIO-project/torchio"
+website = "https://docs.torchio.org/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

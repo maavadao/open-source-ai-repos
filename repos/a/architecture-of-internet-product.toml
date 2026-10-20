@@ -1,0 +1,8 @@
+name = "architecture.of.internet-product"
+description = "互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/OpenAI/Google/Facebook/Amazon/eBay的架构，欢迎PR补充"
+category = "chat"
+tags = ["architecture", "architecture-guidelines", "internet-architecutre", "architecture-of-internet-product", "chatgpt", "dall-e-3", "gpt", "gpt-4"]
+repository = "https://github.com/davideuler/architecture.of.internet-product"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

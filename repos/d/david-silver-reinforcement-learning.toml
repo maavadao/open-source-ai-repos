@@ -1,0 +1,8 @@
+name = "David-Silver-Reinforcement-learning"
+description = "Notes for the Reinforcement Learning course by David Silver along with implementation of various algorithms."
+category = "learning"
+tags = ["reinforcement-learning", "course-notes", "artificial-intelligence", "open-ai", "gym-environment", "python"]
+repository = "https://github.com/dalmia/David-Silver-Reinforcement-learning"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

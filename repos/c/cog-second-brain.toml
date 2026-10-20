@@ -1,0 +1,8 @@
+name = "COG-second-brain"
+description = "Self-evolving second brain with 35 AI skills, 10 agents, and people CRM. Closed-loop harness: a V-model verification lifecycle where the worker never grades its own homework. Plus paired anti-slop design skills for marketing and product UI. Works with Claude Code, Cursor…"
+category = "skills-prompts"
+tags = ["agentic", "ai-agents", "claude-code", "cursor", "garry-tan", "gbrain", "gstack", "knowledge-management"]
+repository = "https://github.com/huytieu/COG-second-brain"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

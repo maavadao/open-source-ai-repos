@@ -1,0 +1,9 @@
+name = "Pulse-of-Motion"
+description = "The Pulse of Motion: Measuring Physical Frame Rate from Visual Dynamics"
+category = "video"
+tags = ["generative-ai", "image-generation", "physical-ai", "physics", "physics-aware", "video", "video-generation", "video-processing"]
+repository = "https://github.com/taco-group/Pulse-of-Motion"
+website = "https://xiangbogaobarry.github.io/Pulse-of-Motion/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "memanto"
+description = "Memory that AI Agents Love!"
+category = "agents"
+tags = ["ai-agents", "memory", "moorcheh", "memanto", "agent-memory", "long-term-memory", "semantic-memory", "stateful-ai"]
+repository = "https://github.com/moorcheh-ai/memanto"
+website = "https://memanto.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

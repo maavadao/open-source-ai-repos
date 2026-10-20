@@ -1,0 +1,9 @@
+name = "WriteHERE"
+description = "An Open-Source AI Writing Project."
+category = "search"
+tags = ["agentic-workflow", "ai-agents", "ai-writing", "creative-writing-ai", "deep-research", "planning"]
+repository = "https://github.com/principia-ai/WriteHERE"
+website = "https://principia-ai.github.io/WriteHERE/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

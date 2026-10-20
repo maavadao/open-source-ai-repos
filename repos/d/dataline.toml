@@ -1,0 +1,9 @@
+name = "dataline"
+description = "Chat with your data - AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite..."
+category = "models"
+tags = ["ai", "chart", "data-science", "data-visualization", "llm", "sql"]
+repository = "https://github.com/RamiAwar/dataline"
+website = "https://dataline.app"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

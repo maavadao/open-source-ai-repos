@@ -1,0 +1,9 @@
+name = "yomo"
+description = "Serverless AI Agent Framework with Geo-distributed Edge AI Infra."
+category = "mcp-servers"
+tags = ["realtime", "quic", "serverless", "distributed-cloud", "geodistributedsystems", "yomo", "function-calling", "openai"]
+repository = "https://github.com/yomorun/yomo"
+website = "https://yomo.run"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

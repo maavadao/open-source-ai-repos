@@ -1,0 +1,8 @@
+name = "ai-dev-kit"
+description = "Databricks Toolkit for Coding Agents provided by Field Engineering"
+category = "coding"
+tags = ["agents", "claude", "cursor", "databricks", "vibecoding"]
+repository = "https://github.com/databricks-solutions/ai-dev-kit"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

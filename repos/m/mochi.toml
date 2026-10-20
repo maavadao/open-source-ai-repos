@@ -1,0 +1,9 @@
+name = "mochi"
+description = "The best OSS video generation models, created by Genmo"
+category = "video"
+repository = "https://github.com/genmoai/mochi"
+website = "https://www.genmo.ai/play"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "advanced"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "TokenFlow"
+description = "[CVPR 2025] Official impl. of \"TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation\"."
+category = "models"
+tags = ["large-language-models", "text-to-image-generation", "multimodal-understanding", "vector-quantization"]
+repository = "https://github.com/ByteVisionLab/TokenFlow"
+website = "https://arxiv.org/abs/2412.03069"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

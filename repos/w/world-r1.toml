@@ -1,0 +1,9 @@
+name = "World-R1"
+description = "[ICML 2026] World-R1: Reinforcing 3D Constraints for Text-to-Video Generation"
+category = "video"
+tags = ["3d-foundation-model", "icml-2026", "reinforcement-learning", "video-generation", "world-models"]
+repository = "https://github.com/microsoft/World-R1"
+website = "https://aka.ms/world-r1"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

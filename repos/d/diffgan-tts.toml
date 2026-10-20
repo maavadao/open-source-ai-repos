@@ -1,0 +1,8 @@
+name = "DiffGAN-TTS"
+description = "PyTorch Implementation of DiffGAN-TTS: High-Fidelity and Efficient Text-to-Speech with Denoising Diffusion GANs"
+category = "speech"
+tags = ["text-to-speech", "deep-neural-networks", "pytorch", "tts", "speech-synthesis", "generative-model", "ddpm", "diffusion"]
+repository = "https://github.com/keonlee9420/DiffGAN-TTS"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

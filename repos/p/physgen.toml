@@ -1,0 +1,9 @@
+name = "physgen"
+description = "PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation (ECCV 2024)"
+category = "video"
+tags = ["diffusion-models", "eccv2024", "image-animation", "image-to-video", "physics-simulation", "video-generation"]
+repository = "https://github.com/stevenlsw/physgen"
+website = "https://stevenlsw.github.io/physgen/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ServerlessLLM"
+description = "Serverless LLM Serving for Everyone."
+category = "local-llms"
+tags = ["large-language-models", "model-as-a-service", "model-serving", "serverless-inference", "cuda", "pytorch", "huggingface-transformers"]
+repository = "https://github.com/ServerlessLLM/ServerlessLLM"
+website = "https://serverlessllm.github.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

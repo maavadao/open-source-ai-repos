@@ -1,0 +1,9 @@
+name = "openclaw"
+description = "The AI that really does things. Any OS. Any Platform. The lobster way."
+category = "chat"
+tags = ["ai", "assistant", "own-your-data", "personal", "crustacean", "molty", "openclaw"]
+repository = "https://github.com/openclaw/openclaw"
+website = "https://openclaw.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

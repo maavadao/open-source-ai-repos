@@ -1,0 +1,9 @@
+name = "social-media-skills"
+description = "AI agent skills for social media content strategy, creation, and analysis across text-first platforms"
+category = "mcp-servers"
+tags = ["ai-agents", "ai-writing", "bluesky", "claude", "claude-code", "content-creation", "content-strategy", "cursor"]
+repository = "https://github.com/blacktwist/social-media-skills"
+website = "https://blacktwist.app/"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "ComfyUI-TiledDiffusion"
+description = "Tiled Diffusion, MultiDiffusion, Mixture of Diffusers, and optimized VAE"
+category = "image"
+tags = ["comfyui", "image-generation", "large-image", "multidiffusion", "stable-diffusion", "vramsaving"]
+repository = "https://github.com/shiimizu/ComfyUI-TiledDiffusion"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

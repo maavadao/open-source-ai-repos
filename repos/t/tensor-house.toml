@@ -1,0 +1,8 @@
+name = "tensor-house"
+description = "A collection of reference Jupyter notebooks and demo AI/ML applications for enterprise use cases: marketing, pricing, supply chain, smart manufacturing, and more."
+category = "learning"
+tags = ["data-science", "ai", "models", "marketing", "supply-chain", "machine-learning", "reinforcement-learning", "deep-learning"]
+repository = "https://github.com/ikatsov/tensor-house"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

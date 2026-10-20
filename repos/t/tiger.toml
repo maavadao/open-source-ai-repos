@@ -1,0 +1,9 @@
+name = "tiger"
+description = "Open Source LLM toolkit to build trustworthy LLM applications. TigerArmor (AI safety), TigerRAG (embedding, RAG), TigerTune (fine-tuning)"
+category = "security"
+tags = ["classification", "fine-tuning", "llm", "llm-training", "rag", "ai-safety", "data-augmentation", "large-language-models"]
+repository = "https://github.com/tigerlab-ai/tiger"
+website = "https://www.tigerlab.ai"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

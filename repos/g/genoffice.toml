@@ -1,0 +1,9 @@
+name = "genoffice"
+description = "Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS…"
+category = "coding"
+tags = ["office-suite", "ai-agent", "ai", "spreadsheet", "pdf-editor", "docx", "xlsx", "pptx"]
+repository = "https://github.com/genspark-ai/genoffice"
+website = "https://genoffice.ai/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

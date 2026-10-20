@@ -1,0 +1,8 @@
+name = "VectorCode"
+description = "A code repository indexing tool to supercharge your LLM experience."
+category = "mcp-servers"
+tags = ["neovim-plugin", "retrieval-augmented", "embeddings", "rag", "mcp", "mcp-server"]
+repository = "https://github.com/Davidyz/VectorCode"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

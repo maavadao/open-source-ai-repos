@@ -1,0 +1,9 @@
+name = "agent-swarm"
+description = "Your Company Agentic Operating System"
+category = "agents"
+tags = ["agentic-os", "agent-teams", "agent-runtime", "agent-coordination", "agent-infrastructure", "agent-os", "agent-swarm", "agentic-workflows"]
+repository = "https://github.com/desplega-ai/agent-swarm"
+website = "https://agent-swarm.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

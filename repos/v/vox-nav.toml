@@ -1,0 +1,9 @@
+name = "vox_nav"
+description = "A navigation system for outdoor robotics in rough uneven terrains."
+category = "robotics"
+tags = ["navigation", "ros2"]
+repository = "https://github.com/NMBURobotics/vox_nav"
+website = "https://nmburobotics.github.io/vox_nav/"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

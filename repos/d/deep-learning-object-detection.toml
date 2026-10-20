@@ -1,0 +1,8 @@
+name = "deep_learning_object_detection"
+description = "A paper list of object detection using deep learning."
+category = "learning"
+tags = ["deep-learning", "deep-neural-networks", "deeplearning", "objectdetection", "object-detection"]
+repository = "https://github.com/hoya012/deep_learning_object_detection"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "full-stack-ai-agent-template"
+description = "Full-stack AI app generator — FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the box."
+category = "agents"
+tags = ["python", "ai-agents", "docker", "fastapi", "llm", "nextjs", "postgresql", "pydantic-ai"]
+repository = "https://github.com/vstorm-co/full-stack-ai-agent-template"
+website = "https://vstorm-co.github.io/full-stack-ai-agent-template/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

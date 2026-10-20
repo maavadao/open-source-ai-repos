@@ -1,0 +1,8 @@
+name = "kubewall"
+description = "kubewall - Kubernetes Dashboard for Multi-Cluster Management Real-Time, Self-Hosted, Single Binary, AI-powered. Manage, monitor & debug K8s clusters in your browser, no cloud, no agents."
+category = "local-llms"
+tags = ["dashboard", "devops", "k8s", "k8s-dashboard", "kubernetes", "kubernetes-dashboard", "productivity", "developer-tools"]
+repository = "https://github.com/kubewall/kubewall"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

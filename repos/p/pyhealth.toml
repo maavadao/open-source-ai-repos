@@ -1,0 +1,8 @@
+name = "PyHealth"
+description = "A Deep Learning Python Toolkit for Healthcare Applications."
+category = "ml-platforms"
+tags = ["healthcare", "data-mining", "deep-learning", "preprocessing", "clinical-data", "clinical-research", "electronic-medical-record", "medical-code"]
+repository = "https://github.com/sunlabuiuc/PyHealth"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

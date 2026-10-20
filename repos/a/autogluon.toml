@@ -1,0 +1,9 @@
+name = "autogluon"
+description = "Fast and Accurate ML in 3 Lines of Code"
+category = "vision"
+tags = ["automl", "machine-learning", "data-science", "deep-learning", "ensemble-learning", "computer-vision", "natural-language-processing", "structured-data"]
+repository = "https://github.com/autogluon/autogluon"
+website = "https://auto.gluon.ai/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

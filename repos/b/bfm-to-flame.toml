@@ -1,0 +1,9 @@
+name = "BFM_to_FLAME"
+description = "Convert from Basel Face Model (BFM) to the FLAME head model"
+category = "vision"
+tags = ["face-models", "computer-graphics", "computer-vision", "3d-models", "python", "face-model", "flame", "basel-face-model"]
+repository = "https://github.com/TimoBolkart/BFM_to_FLAME"
+website = "http://flame.is.tue.mpg.de"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

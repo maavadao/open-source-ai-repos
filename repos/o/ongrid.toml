@@ -1,0 +1,9 @@
+name = "ongrid"
+description = "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, Lark or DingTalk."
+category = "mcp-servers"
+tags = ["ai-agents", "grafana", "observability", "prometheus", "aiops", "alerting", "chatops", "devops"]
+repository = "https://github.com/ongridio/ongrid"
+website = "https://ongrid.cloud"
+license = "AGPL-3.0"
+language = "Go"
+added = 2026-10-20

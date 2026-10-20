@@ -1,0 +1,9 @@
+name = "Phased-Consistency-Model"
+description = "[NeurIPS 2024] Boosting the performance of consistency models with PCM!"
+category = "image"
+tags = ["consistency-models", "diffusion-models"]
+repository = "https://github.com/G-U-N/Phased-Consistency-Model"
+website = "https://g-u-n.github.io/projects/pcm/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

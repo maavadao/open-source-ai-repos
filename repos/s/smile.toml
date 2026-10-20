@@ -1,0 +1,9 @@
+name = "smile"
+description = "Statistical Machine Intelligence & Learning Engine"
+category = "vision"
+tags = ["machine-learning", "regression", "clustering", "manifold-learning", "nlp", "visualization", "classification", "nearest-neighbor-search"]
+repository = "https://github.com/haifengl/smile"
+website = "https://haifengl.github.io"
+license = "NOASSERTION"
+language = "Java"
+added = 2026-10-20

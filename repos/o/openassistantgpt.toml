@@ -1,0 +1,9 @@
+name = "OpenAssistantGPT"
+description = "A Community Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website."
+category = "chat"
+tags = ["ai", "chatbot", "customgpt", "js", "openai-api", "openaai", "artificial-intelligence", "assistant"]
+repository = "https://github.com/OpenAssistantGPT/OpenAssistantGPT"
+website = "https://openassistantgpt.io"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

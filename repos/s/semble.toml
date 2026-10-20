@@ -1,0 +1,9 @@
+name = "semble"
+description = "Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read"
+category = "mcp-servers"
+tags = ["agents", "code-search", "embeddings", "mcp", "mcp-server", "model-context-protocol", "retrieval"]
+repository = "https://github.com/MinishLab/semble"
+website = "https://minish.ai/packages/semble/introduction/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "GLiNER"
+description = "Generalist and Lightweight Model for Named Entity Recognition (Extract any entity types from texts)"
+category = "models"
+tags = ["information-extraction", "large-language-models", "named-entity-recognition", "natural-language-processing", "prompt-tuning"]
+repository = "https://github.com/urchade/GLiNER"
+website = "https://urchade.github.io/GLiNER"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "use-whisper"
+description = "React hook for OpenAI Whisper with speech recorder, real-time transcription, and silence removal built-in"
+category = "speech"
+tags = ["api", "openai", "whisper", "hook", "react", "real-time"]
+repository = "https://github.com/chengsokdara/use-whisper"
+website = "https://x.com/homi3kh"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

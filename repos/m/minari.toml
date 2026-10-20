@@ -1,0 +1,9 @@
+name = "Minari"
+description = "A standard format for offline reinforcement learning datasets, with popular reference datasets and related utilities"
+category = "ml-platforms"
+tags = ["datasets", "gymnasium", "offline-rl", "reinforcement-learning"]
+repository = "https://github.com/Farama-Foundation/Minari"
+website = "https://minari.farama.org"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

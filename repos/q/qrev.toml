@@ -1,0 +1,9 @@
+name = "qrev"
+description = "QRev is an Open Source AI First alternative to Salesforce. It's what Salesforce would be if it was built today, starting with AI."
+category = "agents"
+tags = ["agents", "ai", "salesforce", "salesforce-developers"]
+repository = "https://github.com/qrev-ai/qrev"
+website = "https://qrev.ai"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-10-20

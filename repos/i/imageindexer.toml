@@ -1,0 +1,8 @@
+name = "ImageIndexer"
+description = "Creates an index of images, queries a local LLM and adds tags to the image metadata"
+category = "vision"
+tags = ["ai", "dataset-generation", "exif-metadata", "exiftool", "image-classification", "image-processing", "image-recognition", "keywords"]
+repository = "https://github.com/jabberjabberjabber/ImageIndexer"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

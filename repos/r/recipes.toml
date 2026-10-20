@@ -1,0 +1,8 @@
+name = "recipes"
+description = "This repository shares end-to-end notebooks on how to use various Weaviate features and integrations!"
+category = "learning"
+tags = ["generative-ai", "retrieval-augmented-generation", "vector-database", "vector-search", "python", "llm-frameworks", "function-calling"]
+repository = "https://github.com/weaviate/recipes"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

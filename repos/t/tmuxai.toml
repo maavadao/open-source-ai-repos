@@ -1,0 +1,9 @@
+name = "tmuxai"
+description = "AI-Powered, Non-Intrusive Terminal Assistant"
+category = "chat"
+tags = ["ai", "assistant", "chatgpt", "tmux", "warp"]
+repository = "https://github.com/alvinunreal/tmuxai"
+website = "https://tmuxai.dev"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

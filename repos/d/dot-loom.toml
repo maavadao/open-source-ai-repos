@@ -1,0 +1,9 @@
+name = "dot-loom"
+description = "Provider-pluggable orchestration runtime for multi-model AI inference. ( Sakana Fugu style )"
+category = "local-llms"
+tags = ["agents", "ai", "byok", "dot", "inference", "llm", "model-routing", "multi-agent"]
+repository = "https://github.com/usedotai/dot-loom"
+website = "https://app.usedot.xyz"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

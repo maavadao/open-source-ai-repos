@@ -1,0 +1,9 @@
+name = "build-your-own-x-machine-learning"
+description = "Build your own X - Master machine learning by building everything from scratch. It aims to cover everything from linear regression to deep learning to large language models (LLMs)."
+category = "learning"
+tags = ["artificial-intelligence", "awesome-list", "build-your-own", "build-your-own-x", "deep-learning", "large-language-models", "machine-learning", "programming"]
+repository = "https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning"
+website = "https://outcomeschool.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

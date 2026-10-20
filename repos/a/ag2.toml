@@ -1,0 +1,10 @@
+name = "ag2"
+description = "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x"
+category = "agents"
+tags = ["a2a", "agent-framework", "llm", "python", "agentic", "ai", "llms", "mcp"]
+repository = "https://github.com/ag2ai/ag2"
+website = "https://ag2.ai"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

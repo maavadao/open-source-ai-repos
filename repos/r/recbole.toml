@@ -1,0 +1,9 @@
+name = "RecBole"
+description = "A unified, comprehensive and efficient recommendation library"
+category = "llm-apps"
+tags = ["recommender-systems", "collaborative-filtering", "knowledge-graph", "ctr-prediction", "deep-learning", "pytorch", "graph-neural-networks", "sequential-recommendation"]
+repository = "https://github.com/RUCAIBox/RecBole"
+website = "https://recbole.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

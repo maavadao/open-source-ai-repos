@@ -1,0 +1,8 @@
+name = "parrot.nvim"
+description = "parrot.nvim - the plugin that brings stochastic parrots to Neovim."
+category = "search"
+tags = ["gpt", "large-language-models", "llm", "neovim", "nvim", "plugin", "prompting", "chatgpt"]
+repository = "https://github.com/frankroeder/parrot.nvim"
+license = "NOASSERTION"
+language = "Lua"
+added = 2026-10-20

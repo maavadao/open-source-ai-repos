@@ -1,0 +1,8 @@
+name = "ManimML"
+description = "ManimML is a project focused on providing animations and visualizations of common machine learning concepts with the Manim Community Library."
+category = "ml-platforms"
+tags = ["machine-learning", "neural-network", "visualization", "manim", "3blue1brown"]
+repository = "https://github.com/helblazer811/ManimML"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "open-llms"
+description = "A list of open LLMs available for commercial use."
+category = "models"
+tags = ["commercial", "large-language-models", "llm", "llms"]
+repository = "https://github.com/eugeneyan/open-llms"
+license = "Apache-2.0"
+added = 2026-10-20

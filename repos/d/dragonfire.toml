@@ -1,0 +1,9 @@
+name = "Dragonfire"
+description = "the open-source virtual assistant for Ubuntu based Linux distributions"
+category = "speech"
+tags = ["linux", "ubuntu", "spacy", "chatbot", "kaldi", "speech-recognition", "speech-to-text", "text-to-speech"]
+repository = "https://github.com/DragonComputer/Dragonfire"
+website = "http://dragon.computer"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "pipelines"
+description = "Machine Learning Pipelines for Kubeflow"
+category = "ml-platforms"
+tags = ["kubeflow-pipelines", "mlops", "kubeflow", "machine-learning", "kubernetes", "pipeline", "data-science"]
+repository = "https://github.com/kubeflow/pipelines"
+website = "https://www.kubeflow.org/docs/components/pipelines/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

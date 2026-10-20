@@ -1,0 +1,9 @@
+name = "ai-elements"
+description = "AI Elements is a component library and custom registry built on top of shadcn/ui to help you build AI-native applications faster."
+category = "other"
+tags = ["ai", "elements", "shadcn-ui", "vercel"]
+repository = "https://github.com/vercel/ai-elements"
+website = "https://elements.ai-sdk.dev"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

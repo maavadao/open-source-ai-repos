@@ -1,0 +1,8 @@
+name = "LLM-Agents-Papers"
+description = "A repo lists papers related to LLM based agent"
+category = "agents"
+tags = ["agents", "large-language-models", "llm-agent", "paper-list"]
+repository = "https://github.com/AGI-Edgerunners/LLM-Agents-Papers"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

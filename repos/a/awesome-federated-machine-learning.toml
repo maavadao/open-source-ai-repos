@@ -1,0 +1,7 @@
+name = "Awesome-Federated-Machine-Learning"
+description = "Everything about federated learning, including research papers, books, codes, tutorials, videos and beyond"
+category = "learning"
+tags = ["federated-learning", "machine-learning", "deep-learning", "privacy-preserving-machine-learning", "computer-vision", "distributed-computing", "edge-computing", "security"]
+repository = "https://github.com/innovation-cat/Awesome-Federated-Machine-Learning"
+license = "NOASSERTION"
+added = 2026-10-20

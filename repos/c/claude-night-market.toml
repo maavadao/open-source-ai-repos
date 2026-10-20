@@ -1,0 +1,9 @@
+name = "claude-night-market"
+description = "23 Claude Code plugins: TDD enforcement hooks, git/PR workflows, spec-driven development, code review, project lifecycle, fix-from-error, maintenance automation, context optimization, research, and multi-LLM delegation. 186 skills, 128 commands, 54 agents."
+category = "skills-prompts"
+tags = ["awesome-claude-code", "awesome-claude-skills", "claude-code", "claude-code-plugins-marketplace", "claude-commands", "claude-hooks", "claude-skills", "code-review"]
+repository = "https://github.com/athola/claude-night-market"
+website = "https://athola.github.io/claude-night-market"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

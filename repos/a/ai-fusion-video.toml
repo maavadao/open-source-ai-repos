@@ -1,0 +1,8 @@
+name = "ai-fusion-video"
+description = "【融光】 - 基于 Agent 的全流程AI短剧/漫剧/视频创作平台 - Java & agentscope2.0 | Agent-based end-to-end AI creation platform for short dramas, motion comics, and videos – built on Java & & agentscope 2.0."
+category = "no-code"
+tags = ["agents", "automation", "java", "short-drama", "video-generation", "agentscope"]
+repository = "https://github.com/Stonewuu/ai-fusion-video"
+license = "MIT"
+language = "Java"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "MARTI"
+description = "[ICLR 2026] A Framework for LLM-based Multi-Agent Reinforced Training and Inference"
+category = "agents"
+tags = ["deepseek-r1", "large-language-models", "multi-agent-reinforcement-learning", "multi-agent-systems", "qwen", "verl", "openrlhf", "large-reasoning-models"]
+repository = "https://github.com/TsinghuaC3I/MARTI"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

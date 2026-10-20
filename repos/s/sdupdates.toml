@@ -1,0 +1,8 @@
+name = "sdupdates"
+description = "A mega collection of all resources and news related to Stable Diffusion. Focused around AUTOMATIC1111's webui (https://github.com/AUTOMATIC1111/stable-diffusion-webui)"
+category = "image"
+tags = ["ai", "information", "links", "news", "newsfeed", "resources", "stable-diffusion", "wiki"]
+repository = "https://github.com/questianon/sdupdates"
+website = "https://rentry.org/sdupdates"
+license = "Unlicense"
+added = 2026-10-20

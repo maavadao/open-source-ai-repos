@@ -1,0 +1,8 @@
+name = "stable-diffusion-webui"
+description = "Soothing pastel theme for Stable Diffusion WebUI"
+category = "image"
+tags = ["catppuccin", "hacktoberfest", "stable-diffusion", "stable-diffusion-webui", "theme"]
+repository = "https://github.com/catppuccin/stable-diffusion-webui"
+license = "MIT"
+language = "CSS"
+added = 2026-10-20

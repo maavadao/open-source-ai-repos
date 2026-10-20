@@ -1,0 +1,8 @@
+name = "examor"
+description = "For students, scholars, interviewees and lifelong learners. Let LLMs assist you in learning"
+category = "learning"
+tags = ["openai", "learning-app", "ebbinghaus-memory", "azure", "gpt-4", "claude2"]
+repository = "https://github.com/codeacme17/examor"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

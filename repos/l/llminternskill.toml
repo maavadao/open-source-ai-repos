@@ -1,0 +1,9 @@
+name = "LLMInternSkill"
+description = "LLMInternSkill: LLM internship resume and job-search Codex Skill for resume polish, JD tailoring, evidence guard, interview grilling, and Project Scout. 大模型实习简历与求职工具箱。"
+category = "learning"
+tags = ["chinese", "codex-skill", "llm", "llm-internship", "agent", "ai-career", "aigc", "interview-prep"]
+repository = "https://github.com/wanyichen06/LLMInternSkill"
+website = "https://wanyichen06.github.io/LLMInternSkill/"
+license = "MIT"
+language = "Markdown"
+added = 2026-10-20

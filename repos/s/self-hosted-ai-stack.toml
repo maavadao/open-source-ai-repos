@@ -1,0 +1,9 @@
+name = "self-hosted-ai-stack"
+description = "Deploy a self-hosted AI stack with Docker Compose: local LLMs, chat, document parsing, embeddings, transcription, text-to-speech and MCP tools. Powered by Ollama, LiteLLM, AnythingLLM and more. Local-first with auto-configured authentication, lightweight stacks, optional…"
+category = "mcp-servers"
+tags = ["ai", "ai-stack", "docker", "docker-compose", "embeddings", "linux", "llm", "local-ai"]
+repository = "https://github.com/hwdsl2/self-hosted-ai-stack"
+website = "https://selfhostedaistack.com"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

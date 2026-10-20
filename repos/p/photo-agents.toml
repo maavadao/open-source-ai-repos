@@ -1,0 +1,8 @@
+name = "Photo-agents"
+description = "Autonomous self-evolving agents. Vision-grounded layered memory and self-written skills for LLM agents that operate your computer."
+category = "browser-automation"
+tags = ["agent-memory", "ai-agents", "autonomous-agents", "computer-use", "llm", "python", "self-evolving-agents", "vision-agents"]
+repository = "https://github.com/jmerelnyc/Photo-agents"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

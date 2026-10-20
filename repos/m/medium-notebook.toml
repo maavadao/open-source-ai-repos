@@ -1,0 +1,8 @@
+name = "MEDIUM_NoteBook"
+description = "Repository containing notebooks of my posts on Medium"
+category = "learning"
+tags = ["notebooks", "machine-learning", "deep-learning", "artificial-intelligence", "data-science"]
+repository = "https://github.com/cerlymarco/MEDIUM_NoteBook"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

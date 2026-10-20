@@ -1,0 +1,7 @@
+name = "turkce-yapay-zeka-kaynaklari"
+description = "Türkiye'de yapılan derin öğrenme (deep learning) ve makine öğrenmesi (machine learning) çalışmalarının derlendiği sayfa."
+category = "ml-platforms"
+tags = ["deep-learning", "convolutional-neural-networks", "tensorflow", "pytorch", "caffe", "keras", "machine-learning", "derin-ogrenme"]
+repository = "https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari"
+license = "MIT"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "agnix"
+description = "The missing linter and lsp for AI coding assistants. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP. Plugin for all major IDEs included, with autofixes."
+category = "mcp-servers"
+tags = ["agent", "ai", "ai-agents", "ai-coding-assistant", "claude", "cli", "code-quality", "codex"]
+repository = "https://github.com/agent-sh/agnix"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

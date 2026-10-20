@@ -1,0 +1,9 @@
+name = "videocomposer"
+description = "Official repo for VideoComposer: Compositional Video Synthesis with Motion Controllability"
+category = "video"
+tags = ["diffusion-models", "video-generation", "video-synthesiswith"]
+repository = "https://github.com/ali-vilab/videocomposer"
+website = "https://videocomposer.github.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

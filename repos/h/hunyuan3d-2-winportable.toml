@@ -1,0 +1,8 @@
+name = "Hunyuan3D-2-WinPortable"
+description = "Portable package for running Hunyuan3D 2.0/2.1 on Windows. | 混元 3D 2.0/2.1 整合包"
+category = "image"
+tags = ["3d", "3d-aigc", "3d-generation", "diffusion-models", "hunyuan3d", "image-to-3d", "shape", "shape-generation"]
+repository = "https://github.com/YanWenKun/Hunyuan3D-2-WinPortable"
+license = "GPL-3.0"
+language = "Batchfile"
+added = 2026-10-20

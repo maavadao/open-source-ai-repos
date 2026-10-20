@@ -1,0 +1,10 @@
+name = "Prompt-Engineering-Guide"
+description = "Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents."
+category = "learning"
+tags = ["deep-learning", "prompt-engineering", "openai", "chatgpt", "language-model", "generative-ai", "agents", "ai-agents"]
+repository = "https://github.com/dair-ai/Prompt-Engineering-Guide"
+website = "https://www.promptingguide.ai"
+license = "MIT"
+language = "MDX"
+skill_level = "beginner"
+added = 2026-10-20

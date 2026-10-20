@@ -1,0 +1,9 @@
+name = "streamdown"
+description = "A drop-in replacement for react-markdown, designed for AI-powered streaming."
+category = "other"
+tags = ["ai", "markdown", "streaming"]
+repository = "https://github.com/vercel/streamdown"
+website = "https://streamdown.ai"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

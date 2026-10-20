@@ -1,0 +1,9 @@
+name = "bex"
+description = "The open-source Render alternative — AI-native. Git push → build → deploy on your own infrastructure; agents are first-class users."
+category = "mcp-servers"
+tags = ["deploy", "gitops", "golang", "hetzner", "kubernetes", "kubernetes-operator", "paas", "ai-agents"]
+repository = "https://github.com/bex-co/bex"
+website = "https://bex.co"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

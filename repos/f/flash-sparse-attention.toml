@@ -1,0 +1,8 @@
+name = "Flash-Sparse-Attention"
+description = "Efficient implementations of Native Sparse Attention"
+category = "models"
+tags = ["kernels", "large-language-models", "machine-learning-systems"]
+repository = "https://github.com/Relaxed-System-Lab/Flash-Sparse-Attention"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

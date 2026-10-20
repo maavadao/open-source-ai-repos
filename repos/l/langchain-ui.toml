@@ -1,0 +1,9 @@
+name = "langchain-ui"
+description = "The open source chat-ai toolkit"
+category = "chat"
+tags = ["langchain", "nextjs", "vercel", "chatgpt", "openai"]
+repository = "https://github.com/homanp/langchain-ui"
+website = "https://langchain-ui.vercel.app"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

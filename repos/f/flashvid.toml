@@ -1,0 +1,8 @@
+name = "FlashVID"
+description = "[ICLR 2026 Oral] FlashVID: Efficient Video Large Language Models via Training-free Tree-based Spatiotemporal Token Merging"
+category = "models"
+tags = ["efficiency", "multimodal", "token-compression", "video-llms", "flashvid"]
+repository = "https://github.com/Fanziyang-v/FlashVID"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

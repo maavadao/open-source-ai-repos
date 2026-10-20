@@ -1,0 +1,9 @@
+name = "LLMStack"
+description = "No-code multi-agent framework to build LLM Agents, workflows and applications with your data"
+category = "agents"
+tags = ["ai", "generative-ai", "llm-chain", "llm-framework", "llmops", "llms", "no-code-ai", "platform"]
+repository = "https://github.com/trypromptly/LLMStack"
+website = "https://llmstack.trypromptly.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

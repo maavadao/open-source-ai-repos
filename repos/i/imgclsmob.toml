@@ -1,0 +1,8 @@
+name = "imgclsmob"
+description = "Sandbox for training deep learning networks"
+category = "vision"
+tags = ["machine-learning", "deep-learning", "mxnet", "gluon", "pytorch", "classification", "imagenet", "neural-network"]
+repository = "https://github.com/osmr/imgclsmob"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

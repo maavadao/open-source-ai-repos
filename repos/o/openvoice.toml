@@ -1,0 +1,10 @@
+name = "OpenVoice"
+description = "Instant voice cloning by MIT and MyShell. Audio foundation model."
+category = "speech"
+tags = ["text-to-speech", "tts", "voice-clone", "zero-shot-tts"]
+repository = "https://github.com/myshell-ai/OpenVoice"
+website = "https://research.myshell.ai/open-voice"
+license = "MIT"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

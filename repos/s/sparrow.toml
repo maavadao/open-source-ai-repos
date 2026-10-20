@@ -1,0 +1,9 @@
+name = "sparrow"
+description = "Structured data extraction, instruction calling and agentic workflows with ML, LLM and Vision LLM"
+category = "vision"
+tags = ["machinelearning", "huggingface-transformers", "computer-vision", "llm", "vllm", "agentic-ai", "documentai"]
+repository = "https://github.com/katanaml/sparrow"
+website = "https://sparrow.katanaml.io"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

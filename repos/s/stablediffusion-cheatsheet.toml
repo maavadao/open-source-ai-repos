@@ -1,0 +1,9 @@
+name = "StableDiffusion-CheatSheet"
+description = "A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS."
+category = "image"
+tags = ["stable-diffusion", "stablediffusion"]
+repository = "https://github.com/SupaGruen/StableDiffusion-CheatSheet"
+website = "https://supagruen.github.io/StableDiffusion-CheatSheet/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "facefusion"
+description = "Industry leading face manipulation platform"
+category = "video"
+tags = ["deepfake", "faceswap", "ai", "deep-fake", "face-swap", "lip-sync", "lipsync"]
+repository = "https://github.com/facefusion/facefusion"
+website = "https://facefusion.io"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

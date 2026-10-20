@@ -1,0 +1,9 @@
+name = "buffer-of-thought-llm"
+description = "[NeurIPS 2024 Spotlight] Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models"
+category = "llm-apps"
+tags = ["chain-of-thought-reasoning", "large-language-models", "llm-reasoning", "retrieval-augmented-generation"]
+repository = "https://github.com/YangLing0818/buffer-of-thought-llm"
+website = "https://openreview.net/forum?id=ANO1i9JPtb"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

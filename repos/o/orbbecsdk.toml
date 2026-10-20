@@ -1,0 +1,9 @@
+name = "OrbbecSDK"
+description = "Orbbec SDK v1&v2 Pre-Compiled Repo"
+category = "robotics"
+tags = ["3d-vision", "camera-api", "computer-vision", "depth-camera", "robotics", "toolkit"]
+repository = "https://github.com/orbbec/OrbbecSDK"
+website = "https://www.orbbec3d.com/"
+license = "NOASSERTION"
+language = "C"
+added = 2026-10-20

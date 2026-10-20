@@ -1,0 +1,9 @@
+name = "ai-game-art-pipeline-skill"
+description = "Agent skill from Y Build for turning AI images and videos into playable game art assets"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-art", "claude-code", "codex", "game-art", "game-development", "generative-ai", "pixijs"]
+repository = "https://github.com/ybuild-ai/ai-game-art-pipeline-skill"
+website = "https://ybuild.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "TTS-Voice-Wizard"
+description = "Speech to Text to Speech. Song now playing. Sends text as OSC messages to VRChat to display on avatar. (STTTS) (Speech to TTS) (VRC STT System) (VTuber TTS)"
+category = "speech"
+tags = ["tts", "speech-to-text", "speech-recognition", "vrchat", "osc", "discord", "free", "voice"]
+repository = "https://github.com/VRCWizard/TTS-Voice-Wizard"
+website = "https://TTSVoiceWizard.com"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

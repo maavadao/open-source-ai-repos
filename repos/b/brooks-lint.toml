@@ -1,0 +1,9 @@
+name = "brooks-lint"
+description = "AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix"
+category = "learning"
+tags = ["architecture-review", "code-quality", "code-review", "tech-debt", "claude-code-plugin", "clean-architecture", "code-smells", "refactoring"]
+repository = "https://github.com/hyhmrright/brooks-lint"
+website = "https://hyhmrright.github.io/brooks-lint/"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

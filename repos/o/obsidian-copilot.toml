@@ -1,0 +1,9 @@
+name = "obsidian-copilot"
+description = "Run agents in Obsidian - OpenCode, Codex, Claude Code etc."
+category = "coding"
+tags = ["chatgpt", "copilot", "aiagent", "ai", "obsidian-plugin"]
+repository = "https://github.com/logancyang/obsidian-copilot"
+website = "https://www.obsidiancopilot.com"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

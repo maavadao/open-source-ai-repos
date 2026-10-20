@@ -1,0 +1,8 @@
+name = "Stoix"
+description = "A research-friendly codebase for fast experimentation of single-agent reinforcement learning in JAX • End-to-End JAX RL"
+category = "ml-platforms"
+tags = ["anakin", "jax", "reinforcement-learning", "research", "sarl", "single-agent", "single-agent-reinforcement-learning", "single-agent-systems"]
+repository = "https://github.com/EdanToledo/Stoix"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

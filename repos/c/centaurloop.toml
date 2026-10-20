@@ -1,0 +1,9 @@
+name = "centaurloop"
+description = "半人马环 Centaur Loop：AI 员工的最小工作单元框架。把复杂岗位拆解为可由 AI 接管、由人类治理、由反馈和记忆持续进化的循环工作流 / The smallest work unit for building AI employees."
+category = "no-code"
+tags = ["agent-memory", "agent-orchestration", "agent-runtime", "ai-agent", "ai-agents", "ai-infrastructure", "ai-startup", "ai-workbench"]
+repository = "https://github.com/finewood2008/centaurloop"
+website = "https://www.centaurloop.com/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

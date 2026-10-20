@@ -1,0 +1,9 @@
+name = "Yi"
+description = "A series of large language models trained from scratch by developers @01-ai"
+category = "learning"
+tags = ["large-language-models"]
+repository = "https://github.com/01-ai/Yi"
+website = "https://01.ai"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

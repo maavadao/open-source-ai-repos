@@ -1,0 +1,9 @@
+name = "Peekaboo"
+description = "Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models."
+category = "mcp-servers"
+tags = ["ai", "macos", "mcp", "screenshots", "swift"]
+repository = "https://github.com/openclaw/Peekaboo"
+website = "http://www.peekaboo.boo"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

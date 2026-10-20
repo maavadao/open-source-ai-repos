@@ -1,0 +1,8 @@
+name = "BERT-of-Theseus"
+description = "The official PyTorch implementation for \"BERT-of-Theseus: Compressing BERT by Progressive Module Replacing\" (EMNLP 2020)."
+category = "models"
+tags = ["bert", "transformers", "nlp", "glue", "model-compression"]
+repository = "https://github.com/JetRunner/BERT-of-Theseus"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

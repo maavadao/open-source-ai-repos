@@ -1,0 +1,9 @@
+name = "rules"
+description = "Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance."
+category = "security"
+tags = ["ai", "ai-agents", "ai-security", "coding-agents", "cybersecurity"]
+repository = "https://github.com/project-codeguard/rules"
+website = "https://project-codeguard.org"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

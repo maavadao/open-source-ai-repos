@@ -1,0 +1,9 @@
+name = "datasets"
+description = "The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools"
+category = "speech"
+tags = ["nlp", "datasets", "pytorch", "tensorflow", "pandas", "numpy", "natural-language-processing", "computer-vision"]
+repository = "https://github.com/huggingface/datasets"
+website = "https://huggingface.co/docs/datasets"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

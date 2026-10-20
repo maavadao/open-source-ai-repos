@@ -1,0 +1,9 @@
+name = "mcp-linker"
+description = "MCP store. Discover, add & syncs configuration manager across clients like Claude code, Codex, Cursormcphub"
+category = "mcp-servers"
+tags = ["mcp", "self-hosted", "tauri", "mcp-marketplace", "macos", "awesome", "claude", "llm"]
+repository = "https://github.com/milisp/mcp-linker"
+website = "https://mcp-linker.milisp.dev"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

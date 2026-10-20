@@ -1,0 +1,8 @@
+name = "krasis"
+description = "Krasis is a Hybrid LLM runtime which focuses on efficient running of larger models on consumer grade VRAM limited hardware"
+category = "local-llms"
+tags = ["cpu-inference", "gguf-model-support", "gpu-inference", "high-performance-inference", "hybrid-inference", "inference-engine", "inference-optimization", "large-language-models"]
+repository = "https://github.com/brontoguana/krasis"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

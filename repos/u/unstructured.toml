@@ -1,0 +1,10 @@
+name = "unstructured"
+description = "Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models. Visit our website to learn more about our enterprise grade Platform product for production grade…"
+category = "documents"
+tags = ["deep-learning", "document-parsing", "machine-learning", "nlp", "ocr", "information-retrieval", "data-pipelines", "ml"]
+repository = "https://github.com/Unstructured-IO/unstructured"
+website = "https://unstructured.io"
+license = "Apache-2.0"
+language = "HTML"
+skill_level = "intermediate"
+added = 2026-10-20

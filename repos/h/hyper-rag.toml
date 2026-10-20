@@ -1,0 +1,9 @@
+name = "Hyper-RAG"
+description = "\"Hyper-RAG: Combating LLM Hallucinations using Hypergraph-Driven Retrieval-Augmented Generation\" by Yifan Feng, Hao Hu, Shihui Ying, Xingliang Hou, Shiquan Liu, Mingyuan Yang, Junchang Li, Shaoyi Du, Nanning Zheng, Han Hu, and Yue Gao."
+category = "llm-apps"
+tags = ["graph-rag", "llms", "rag", "hypergraph"]
+repository = "https://github.com/iMoonLab/Hyper-RAG"
+website = "https://www.nature.com/articles/s41467-026-71411-1"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

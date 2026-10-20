@@ -1,0 +1,9 @@
+name = "bit"
+description = "AI-powered development workspaces with reusable components, architectural clarity and zero overhead."
+category = "other"
+tags = ["react", "javascript", "typescript", "front-end", "node-js", "vue", "collaboration", "component-driven"]
+repository = "https://github.com/teambit/bit"
+website = "https://bit.dev"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "StyleKeeper"
+description = "Official Pytorch implementation of \"StyleKeeper: Prevent Content Leakage using Negative Visual Query Guidance\""
+category = "image"
+tags = ["diffusion", "stable-diffusion"]
+repository = "https://github.com/naver-ai/StyleKeeper"
+website = "https://curryjung.github.io/VisualStylePrompt/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

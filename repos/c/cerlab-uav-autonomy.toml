@@ -1,0 +1,8 @@
+name = "CERLAB-UAV-Autonomy"
+description = "[CMU] A Versatile and Modular Framework Designed for Autonomous Unmanned Aerial Vehicles [UAVs] (C++/ROS/PX4)"
+category = "vision"
+tags = ["computer-vision", "path-planning", "mapping", "controller", "exploration", "inspection", "navigation", "unmanned-aerial-vehicle"]
+repository = "https://github.com/Zhefan-Xu/CERLAB-UAV-Autonomy"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

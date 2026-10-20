@@ -1,0 +1,8 @@
+name = "chatgpt-telegram"
+description = "Run your own GPTChat Telegram bot, with a single command!"
+category = "chat"
+tags = ["gpt-3", "openai", "telegram-bot", "gptchat"]
+repository = "https://github.com/m1guelpf/chatgpt-telegram"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

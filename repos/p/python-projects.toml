@@ -1,0 +1,8 @@
+name = "Python-Projects"
+description = "A comprehensive list of Python projects"
+category = "learning"
+tags = ["python", "basic", "beginner-project", "good-first-issue", "deeplearning", "generative-ai", "machinelearning", "natural-language-processing"]
+repository = "https://github.com/Shahrayar123/Python-Projects"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

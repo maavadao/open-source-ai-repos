@@ -1,0 +1,9 @@
+name = "memorix"
+description = "Open-source cross-agent memory layer for coding agents via MCP. Compatible with Claude Code, Codex, Cursor, Windsurf, Gemini CLI, Antigravity, OpenClaw, Hermes Agent, Oh-my-Pi, Pi, Copilot, Kiro, OpenCode, and Trae."
+category = "mcp-servers"
+tags = ["ai-coding", "claude-code", "copilot", "cursor", "mcp", "mcp-server", "model-context-protocol", "typescript"]
+repository = "https://github.com/AVIDS2/memorix"
+website = "https://mem.rglens.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

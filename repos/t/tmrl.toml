@@ -1,0 +1,9 @@
+name = "tmrl"
+description = "Reinforcement Learning for real-time applications"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "pytorch", "trackmania", "self-driving-car", "soft-actor-critic"]
+repository = "https://github.com/trackmania-rl/tmrl"
+website = "https://pypi.org/project/tmrl"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

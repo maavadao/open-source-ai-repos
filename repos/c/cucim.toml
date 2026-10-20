@@ -1,0 +1,9 @@
+name = "cucim"
+description = "cuCIM - RAPIDS GPU-accelerated image processing library"
+category = "vision"
+tags = ["image-processing", "computer-vision", "medical-imaging", "microscopy", "digital-pathology", "cuda", "gpu", "nvidia"]
+repository = "https://github.com/rapidsai/cucim"
+website = "https://docs.rapids.ai/api/cucim/stable/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

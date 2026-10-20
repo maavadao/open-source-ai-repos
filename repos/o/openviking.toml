@@ -1,0 +1,9 @@
+name = "OpenViking"
+description = "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills."
+category = "vector-databases"
+tags = ["context-database", "agentic-rag", "agent-memory", "self-evolving", "agent-plugins", "dsh-plugin", "agent-context", "memory-management"]
+repository = "https://github.com/volcengine/OpenViking"
+website = "https://openviking.ai"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "paseo"
+description = "Orchestrate multiple coding agents from desktop and mobile"
+category = "coding"
+tags = ["agents", "claude-code", "codex", "opencode", "ade", "copilot", "developer-tools", "mobile"]
+repository = "https://github.com/getpaseo/paseo"
+website = "https://paseo.sh"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

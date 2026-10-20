@@ -1,0 +1,8 @@
+name = "TimeChamber"
+description = "A Massively Parallel Large Scale Self-Play Framework"
+category = "agents"
+tags = ["deep-reinforcement-learning", "isaac-gym", "reinforcement-learning", "self-play", "multi-agent"]
+repository = "https://github.com/inspirai/TimeChamber"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

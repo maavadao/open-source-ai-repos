@@ -1,0 +1,9 @@
+name = "brain.md"
+description = "A persistent, file-based memory layer for coding agents — give Claude Code, Codex & others a project brain (durable decisions, requirements, constraints) via a zero-dependency CLI."
+category = "coding"
+tags = ["agent-memory", "ai-agents", "claude-code", "cli", "codex", "coding-agents", "context-engineering", "developer-tools"]
+repository = "https://github.com/mindmuxai/brain.md"
+website = "https://projectbrain.md"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

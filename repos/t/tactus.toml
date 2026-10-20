@@ -1,0 +1,9 @@
+name = "tactus"
+description = "The first browser AI Agent extension to support Agent Skills, enabling AI to perform complex tasks through an expandable skill system. Star if you like it! | 首个支持 Agent Skills 的浏览器 AI Agent 扩展，让 AI 通过可扩展技能系统执行复杂任务 如果喜欢请点个 Star！"
+category = "chat"
+tags = ["browser-extension", "ai", "ai-agent", "chat", "chatbot", "skills", "llm"]
+repository = "https://github.com/Castor6/tactus"
+website = "https://tactus.cc.cd/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

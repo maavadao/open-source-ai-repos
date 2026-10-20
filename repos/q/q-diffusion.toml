@@ -1,0 +1,9 @@
+name = "q-diffusion"
+description = "[ICCV 2023] Q-Diffusion: Quantizing Diffusion Models."
+category = "image"
+tags = ["diffusion-models", "quantization", "ddim", "pytorch", "stable-diffusion", "model-compression", "post-training-quantization"]
+repository = "https://github.com/Xiuyu-Li/q-diffusion"
+website = "https://xiuyuli.com/qdiffusion/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

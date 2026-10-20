@@ -1,0 +1,9 @@
+name = "humanizer"
+description = "Agent skill that removes signs of AI-generated writing from text"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-writing", "claude-code", "codex", "cursor", "prompt-engineering", "writing-tools", "ai-humanizer"]
+repository = "https://github.com/blader/humanizer"
+website = "https://skills.sh/blader/humanizer"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

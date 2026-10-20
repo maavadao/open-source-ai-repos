@@ -1,0 +1,9 @@
+name = "py-xiaozhi"
+description = "Open-source AI assistant ecosystem with MCP integrations, multimodal workflows, IoT support, and cross-platform voice interaction."
+category = "mcp-servers"
+tags = ["esp32", "esp32-s3", "xiaozhi-esp32", "mcp", "mcp-server", "python", "cross-platform", "edge-computing"]
+repository = "https://github.com/huangjunsen0406/py-xiaozhi"
+website = "https://huangjunsen0406.github.io/py-xiaozhi/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

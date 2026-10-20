@@ -1,0 +1,9 @@
+name = "omnibox"
+description = "Anywhere, anything to memory, memory to anything."
+category = "search"
+tags = ["llm", "rag", "agent", "ai-search", "editor", "note"]
+repository = "https://github.com/import-ai/omnibox"
+website = "https://www.omnibox.pro"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

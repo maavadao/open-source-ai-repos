@@ -1,0 +1,8 @@
+name = "awesome-LangGraph"
+description = "An index of the LangChain + LangGraph ecosystem: concepts, projects, tools, templates, and guides for LLM & multi-agent apps."
+category = "learning"
+tags = ["ai", "awesome", "awesome-list", "langchain", "langgraph", "llm", "llm-agents"]
+repository = "https://github.com/vonzosten/awesome-LangGraph"
+license = "CC0-1.0"
+language = "JavaScript"
+added = 2026-10-20

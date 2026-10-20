@@ -1,0 +1,9 @@
+name = "LabLLM"
+description = "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration."
+category = "learning"
+tags = ["ai", "apple-silicon", "artificial-intelligence", "deep-learning", "fine-tuning", "generative-ai", "gpt", "large-language-model"]
+repository = "https://github.com/Greninja9257/LabLLM"
+website = "https://greninja9257.github.io/LabLLM/"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Seg-Zero"
+description = "Project Page For \"Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement\""
+category = "vision"
+tags = ["reasoning-language-models", "reinforcement-learning", "segmentation", "multimodel-large-language-model", "multimodal"]
+repository = "https://github.com/JIA-Lab-research/Seg-Zero"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

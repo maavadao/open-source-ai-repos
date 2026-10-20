@@ -1,0 +1,10 @@
+name = "onnx"
+description = "Open standard for machine learning interoperability"
+category = "ml-platforms"
+tags = ["deep-learning", "deep-neural-networks", "neural-network", "onnx", "pytorch", "tensorflow", "keras", "scikit-learn"]
+repository = "https://github.com/onnx/onnx"
+website = "https://onnx.ai/"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

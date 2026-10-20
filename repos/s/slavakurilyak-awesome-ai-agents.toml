@@ -1,0 +1,8 @@
+name = "awesome-ai-agents"
+description = "Awesome list of 300+ agentic AI resources"
+category = "learning"
+tags = ["agent", "agentic", "agents"]
+repository = "https://github.com/slavakurilyak/awesome-ai-agents"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

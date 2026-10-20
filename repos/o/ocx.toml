@@ -1,0 +1,9 @@
+name = "ocx"
+description = "OpenCode extension manager with portable, isolated profiles. Your setup, anywhere."
+category = "coding"
+tags = ["ai-agents", "bun", "cli", "ocx", "opencode", "package-manager", "shadcn", "typescript"]
+repository = "https://github.com/kdcokenny/ocx"
+website = "https://ocx.kdco.dev/docs"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "awesome-openclaw"
+description = "A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memory systems, and guides."
+category = "learning"
+tags = ["ai", "ai-agents", "automation", "awesome", "awesome-list", "llm", "openclaw", "plugins"]
+repository = "https://github.com/alvinreal/awesome-openclaw"
+website = "https://clawisthelaw.com"
+license = "CC0-1.0"
+added = 2026-10-20

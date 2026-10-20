@@ -1,0 +1,8 @@
+name = "automatic1111-colab"
+description = "Using StableDiffusion webui on Colab"
+category = "learning"
+tags = ["colab-notebooks", "colaboratory", "jupyter-notebooks", "stable-diffusion", "automatic1111"]
+repository = "https://github.com/ddPn08/automatic1111-colab"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

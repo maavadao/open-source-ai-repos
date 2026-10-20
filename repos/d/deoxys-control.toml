@@ -1,0 +1,8 @@
+name = "deoxys_control"
+description = "A modular, real-time controller library for Franka Emika Panda robots"
+category = "robotics"
+tags = ["learning", "manipulation", "robotics"]
+repository = "https://github.com/UT-Austin-RPL/deoxys_control"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

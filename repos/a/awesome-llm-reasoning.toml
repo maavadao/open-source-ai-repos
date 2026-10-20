@@ -1,0 +1,7 @@
+name = "Awesome-LLM-Reasoning"
+description = "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1"
+category = "learning"
+tags = ["language-models", "reasoning", "prompt", "in-context-learning", "chatgpt", "chain-of-thought", "prompt-engineering", "cot"]
+repository = "https://github.com/atfortes/Awesome-LLM-Reasoning"
+license = "MIT"
+added = 2026-10-20

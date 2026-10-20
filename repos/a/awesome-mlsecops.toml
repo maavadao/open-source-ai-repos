@@ -1,0 +1,9 @@
+name = "awesome-MLSecOps"
+description = "A curated list of MLSecOps tools and resources for securing machine learning and AI systems - adversarial ML defense, LLM security, AI red teaming, model scanning, supply-chain protection, and MLOps pipeline security."
+category = "learning"
+tags = ["mlsecops", "machine-learning-security", "adversarial-machine-learning", "agentic-security", "ai-governance", "ai-red-teaming", "ai-security", "large-language-model"]
+repository = "https://github.com/RiccardoBiosas/awesome-MLSecOps"
+website = "https://awesomemlsecops.com/"
+license = "MIT"
+language = "Astro"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "facenet"
+description = "Face recognition using Tensorflow"
+category = "vision"
+tags = ["face-recognition", "tensorflow", "facenet", "deep-learning", "computer-vision", "face-detection", "mtcnn"]
+repository = "https://github.com/davidsandberg/facenet"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "MovieChat"
+description = "[CVPR 2024] MovieChat: From Dense Token to Sparse Memory for Long Video Understanding"
+category = "vision"
+tags = ["computer-vision", "multimodal-large-language-models", "long-video-understanding", "llama", "large-language-models", "dataset"]
+repository = "https://github.com/wenhaochai/MovieChat"
+website = "https://rese1f.github.io/MovieChat/"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

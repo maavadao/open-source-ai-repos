@@ -1,0 +1,9 @@
+name = "WebGPT"
+description = "Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript."
+category = "models"
+tags = ["gpt", "nanogpt", "transformers", "webgpu"]
+repository = "https://github.com/0hq/WebGPT"
+website = "https://kmeans.org"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

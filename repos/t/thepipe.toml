@@ -1,0 +1,9 @@
+name = "thepipe"
+description = "Get clean data from tricky documents, powered by vision-language models"
+category = "documents"
+tags = ["multimodal", "pdf", "large-language-models", "scrapers", "python", "scraping", "vision-language-model", "unstructured-data"]
+repository = "https://github.com/emcf/thepipe"
+website = "https://thepi.pe"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

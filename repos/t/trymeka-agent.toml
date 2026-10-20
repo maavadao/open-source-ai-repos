@@ -1,0 +1,9 @@
+name = "agent"
+description = "state of the art browsing agent (WebArena 72.7%)"
+category = "agents"
+tags = ["agentic-ai", "agents", "large-language-models"]
+repository = "https://github.com/trymeka/agent"
+website = "https://withmeka.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

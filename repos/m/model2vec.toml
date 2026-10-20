@@ -1,0 +1,9 @@
+name = "model2vec"
+description = "Fast State-of-the-Art Static Embeddings"
+category = "data-science"
+tags = ["embeddings", "machine-learning", "model2vec", "nlp", "python", "sentence-transformers", "ai", "word-embeddings"]
+repository = "https://github.com/MinishLab/model2vec"
+website = "https://minish.ai/packages/model2vec/introduction"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

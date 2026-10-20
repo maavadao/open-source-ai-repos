@@ -1,0 +1,9 @@
+name = "mirrord"
+description = "Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic."
+category = "skills-prompts"
+tags = ["cloud", "kubernetes", "debug", "traffic", "api", "ide", "vscode", "cli"]
+repository = "https://github.com/metalbear-co/mirrord"
+website = "https://metalbear.com/mirrord"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "KnpSnappyBundle"
+description = "Easily create PDF and images in Symfony by converting html using webkit"
+category = "image"
+tags = ["php", "symfony-bundle", "symfony", "pdf-generation", "image-generation", "html-to-pdf", "html-to-image", "hacktoberfest"]
+repository = "https://github.com/KnpLabs/KnpSnappyBundle"
+website = "http://knplabs.com"
+license = "MIT"
+language = "PHP"
+added = 2026-10-20

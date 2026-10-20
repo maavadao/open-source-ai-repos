@@ -1,0 +1,8 @@
+name = "Kimera-Semantics"
+description = "Real-Time 3D Semantic Reconstruction from 2D data"
+category = "robotics"
+tags = ["semantic-segmentation", "volumetric-reconstruction", "3d-reconstruction", "robotics", "mapping", "reconstruction", "real-time", "cpu"]
+repository = "https://github.com/MIT-SPARK/Kimera-Semantics"
+license = "BSD-2-Clause"
+language = "C++"
+added = 2026-10-20

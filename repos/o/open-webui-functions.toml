@@ -1,0 +1,9 @@
+name = "Open-WebUI-Functions"
+description = "Open-WebUI-Functions is a collection of custom pipelines, filters, and integrations designed to enhance Open WebUI. These functions enable seamless interactions with Azure AI, N8N, Google Gemini and other AI models, providing dynamic request handling, preprocessing, and…"
+category = "no-code"
+tags = ["open-webui", "ai", "azure-ai", "azure-ai-foundry", "llm", "openai", "infomaniak", "n8n"]
+repository = "https://github.com/owndev/Open-WebUI-Functions"
+website = "https://openwebui.com/u/owndev"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

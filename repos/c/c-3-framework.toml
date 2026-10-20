@@ -1,0 +1,8 @@
+name = "C-3-Framework"
+description = "An open-source PyTorch code for crowd counting"
+category = "vision"
+tags = ["crowd-counting", "crowd-analysis", "computer-vision", "deep-learning"]
+repository = "https://github.com/gjy3035/C-3-Framework"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

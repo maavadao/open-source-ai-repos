@@ -1,0 +1,9 @@
+name = "electric"
+description = "The agent platform built on sync."
+category = "agents"
+tags = ["elixir", "postgres", "crdts", "crdt", "replication", "sync", "agent", "agents"]
+repository = "https://github.com/electric-sql/electric"
+website = "https://electric.ax"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

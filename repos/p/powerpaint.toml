@@ -1,0 +1,9 @@
+name = "PowerPaint"
+description = "[ECCV 2024] PowerPaint, a versatile image inpainting model that supports text-guided object inpainting, object removal, image outpainting and shape-guided object inpainting with only a single model. 一个高质量多功能的图像修补模型，可以同时支持插入物体、移除物体、图像扩展、形状可控的物体生成，只需要一个模型"
+category = "image"
+tags = ["aigc", "generation", "image-editing", "image-inpainting", "stable-diffusion"]
+repository = "https://github.com/open-mmlab/PowerPaint"
+website = "https://powerpaint.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

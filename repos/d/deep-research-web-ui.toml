@@ -1,0 +1,9 @@
+name = "deep-research-web-ui"
+description = "AI deep-research agent that turns any question into a cited report: plans searches, reads real sources, verifies evidence. Self-hosted, multi-provider, Docker-ready."
+category = "search"
+tags = ["ai-agent", "citations", "deep-research", "docker", "llm", "nuxtjs", "rag", "research-assistant"]
+repository = "https://github.com/AnotiaWang/deep-research-web-ui"
+website = "https://deep-research.ataw.top"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

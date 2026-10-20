@@ -1,0 +1,9 @@
+name = "ChatGPT-Telegram-Workers"
+description = "Easily deploy your Telegram ChatGPT bot on Cloudflare Workers (or Vercel, Docker...)."
+category = "chat"
+tags = ["chatgpt", "cloudflare-workers", "telegram", "telegram-bot", "bot", "gpt", "vercel", "serverless"]
+repository = "https://github.com/tbxark/ChatGPT-Telegram-Workers"
+website = "https://chatgpt-telegram-workers.tbxark.workers.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

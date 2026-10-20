@@ -1,0 +1,9 @@
+name = "ComfyUI_Yvann-Nodes"
+description = "Audio Reactivity Nodes for ComfyUI Create AI generated audio-driven animations"
+category = "image"
+tags = ["comfyui", "generative-ai", "audioreactive"]
+repository = "https://github.com/yvann-ba/ComfyUI_Yvann-Nodes"
+website = "https://youtube.com/@yvann_ba"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

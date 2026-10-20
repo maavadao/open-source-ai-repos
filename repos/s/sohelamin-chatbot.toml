@@ -1,0 +1,9 @@
+name = "chatbot"
+description = "An AI Based Chatbot [DEPRECATED]"
+category = "chat"
+tags = ["python", "ai", "chatbot"]
+repository = "https://github.com/sohelamin/chatbot"
+website = "http://chatbot.sohelamin.com/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

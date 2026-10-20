@@ -1,0 +1,9 @@
+name = "hollama"
+description = "A minimal LLM chat app that runs entirely in your browser"
+category = "local-llms"
+tags = ["ai", "chatbot", "local-ai", "ollama", "llm"]
+repository = "https://github.com/fmaclen/hollama"
+website = "https://hollama.fernando.is"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

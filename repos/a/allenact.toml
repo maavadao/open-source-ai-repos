@@ -1,0 +1,9 @@
+name = "allenact"
+description = "An open source framework for research in Embodied-AI from AI2."
+category = "vision"
+tags = ["reinforcement-learning", "embodied-agent", "ai", "research", "python", "deep-learning", "ai2", "computer-vision"]
+repository = "https://github.com/allenai/allenact"
+website = "https://www.allenact.org"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

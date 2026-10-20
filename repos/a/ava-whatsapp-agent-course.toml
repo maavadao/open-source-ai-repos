@@ -1,0 +1,8 @@
+name = "ava-whatsapp-agent-course"
+description = "Meet Ava, the WhatsApp Agent"
+category = "learning"
+tags = ["agent", "agent-based", "agentic-workflow", "agents", "stt", "tts", "vector-database"]
+repository = "https://github.com/neural-maze/ava-whatsapp-agent-course"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

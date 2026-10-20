@@ -1,0 +1,9 @@
+name = "ChatPLUG"
+description = "A Chinese Open-Domain Dialogue System"
+category = "chat"
+tags = ["chat", "personality", "instruction-finetuning", "knowledge-augment", "open-domain-dialogue-system", "chatbot", "large-language-models", "pretraining"]
+repository = "https://github.com/X-PLUG/ChatPLUG"
+website = "https://www.modelscope.cn/studios/damo/role_play_chat/summary"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

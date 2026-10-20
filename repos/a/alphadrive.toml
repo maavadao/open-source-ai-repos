@@ -1,0 +1,9 @@
+name = "AlphaDrive"
+description = "Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning"
+category = "robotics"
+tags = ["autonomous-driving", "grpo", "planning", "reasoning", "reinforcement-learning", "vision-language-model"]
+repository = "https://github.com/hustvl/AlphaDrive"
+website = "https://arxiv.org/abs/2503.07608"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

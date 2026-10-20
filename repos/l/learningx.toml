@@ -1,0 +1,8 @@
+name = "LearningX"
+description = "Deep & Classical Reinforcement Learning + Machine Learning Examples in Python"
+category = "learning"
+tags = ["reinforcement-learning", "deep-learning", "neural-network", "q-learning", "deep-reinforcement-learning", "python", "deep", "multiagent-reinforcement-learning"]
+repository = "https://github.com/ankonzoid/LearningX"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

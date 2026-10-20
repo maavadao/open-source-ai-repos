@@ -1,0 +1,8 @@
+name = "CogVLM"
+description = "a state-of-the-art-level open visual language model | 多模态预训练模型"
+category = "models"
+tags = ["cross-modality", "language-model", "multi-modal", "pretrained-models", "visual-language-models"]
+repository = "https://github.com/zai-org/CogVLM"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

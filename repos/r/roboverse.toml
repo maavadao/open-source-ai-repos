@@ -1,0 +1,9 @@
+name = "RoboVerse"
+description = "RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning"
+category = "robotics"
+tags = ["imitation-learning", "reinforcement-learning", "robotics", "simulation"]
+repository = "https://github.com/RoboVerseOrg/RoboVerse"
+website = "https://roboverse.wiki/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

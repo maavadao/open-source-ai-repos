@@ -1,0 +1,8 @@
+name = "MatchZoo"
+description = "Facilitating the design, comparison and sharing of deep text matching models."
+category = "ml-platforms"
+tags = ["text", "matching", "deep-learning", "text-matching", "neural-network", "natural-language-processing"]
+repository = "https://github.com/NTMC-Community/MatchZoo"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

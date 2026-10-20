@@ -1,0 +1,8 @@
+name = "dashi-ppt-skill"
+description = "An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX."
+category = "skills-prompts"
+tags = ["agent-skill", "ai-agent", "ai-ppt", "claude", "claude-code", "html-presentation", "ppt", "pptx"]
+repository = "https://github.com/chuspeeism/dashi-ppt-skill"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-10-20

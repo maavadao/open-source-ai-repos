@@ -1,0 +1,9 @@
+name = "BitNet"
+description = "Implementation of \"BitNet: Scaling 1-bit Transformers for Large Language Models\" in pytorch"
+category = "models"
+tags = ["artificial-intelligence", "deep-neural-networks", "deeplearning", "gpt4", "machine-learning", "multimodal", "multimodal-deep-learning"]
+repository = "https://github.com/kyegomez/BitNet"
+website = "https://discord.gg/qUtxnK2NMf"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

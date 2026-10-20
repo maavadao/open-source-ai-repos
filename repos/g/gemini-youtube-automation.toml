@@ -1,0 +1,8 @@
+name = "gemini-youtube-automation"
+description = "A fully autonomous AI Agent/Python pipeline that utilizes Large Language Models (LLMs) like Gemini to generate content, produce videos, and automatically upload educational videos to YouTube."
+category = "learning"
+tags = ["ai-video-generator", "autonomous-agents", "generative-ai", "image-generation", "llm", "moviepy", "python", "text-to-speech"]
+repository = "https://github.com/ChaitanyaEswarRajeshJakki/gemini-youtube-automation"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "EasyOCR"
+description = "Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc."
+category = "documents"
+tags = ["ocr", "deep-learning", "crnn", "pytorch", "lstm", "machine-learning", "scene-text", "scene-text-recognition"]
+repository = "https://github.com/JaidedAI/EasyOCR"
+website = "https://www.jaided.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

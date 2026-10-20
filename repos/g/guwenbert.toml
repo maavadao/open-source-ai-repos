@@ -1,0 +1,7 @@
+name = "guwenbert"
+description = "GuwenBERT: 古文预训练语言模型（古文BERT） A Pre-trained Language Model for Classical Chinese (Literary Chinese)"
+category = "models"
+tags = ["bert", "classical-chinese", "literary-chinese", "guwenbert", "transformers"]
+repository = "https://github.com/Ethan-yt/guwenbert"
+license = "Apache-2.0"
+added = 2026-10-20

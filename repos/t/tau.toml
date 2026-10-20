@@ -1,0 +1,9 @@
+name = "tau"
+description = "Fullstack Workspace for Humans & Machines"
+category = "other"
+tags = ["cdn", "cloud-computing", "cloud-native", "distributed-systems", "p2p", "serverless", "webassembly", "5g"]
+repository = "https://github.com/taubyte/tau"
+website = "https://taubyte.com"
+license = "BSD-3-Clause"
+language = "Go"
+added = 2026-10-20

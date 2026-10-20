@@ -1,0 +1,9 @@
+name = "gdrl"
+description = "Grokking Deep Reinforcement Learning"
+category = "learning"
+tags = ["deep-learning", "deep-reinforcement-learning", "reinforcement-learning", "machine-learning", "algorithms", "artificial-intelligence", "neural-networks", "pytorch"]
+repository = "https://github.com/mimoralea/gdrl"
+website = "https://www.manning.com/books/grokking-deep-reinforcement-learning"
+license = "BSD-3-Clause"
+language = "Jupyter Notebook"
+added = 2026-10-20

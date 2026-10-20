@@ -1,0 +1,8 @@
+name = "kcws"
+description = "Deep Learning Chinese Word Segment"
+category = "ml-platforms"
+tags = ["nlp", "deep-learning", "chinese-text-segmentation", "tensorflow", "pos-tagger"]
+repository = "https://github.com/koth/kcws"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

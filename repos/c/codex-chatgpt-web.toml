@@ -1,0 +1,8 @@
+name = "codex-chatgpt-web"
+description = "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota."
+category = "mcp-servers"
+tags = ["chatgpt", "chatgpt-pro", "codex", "mcp", "openai", "playwright", "responses-api", "typescript"]
+repository = "https://github.com/miuuyy/codex-chatgpt-web"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

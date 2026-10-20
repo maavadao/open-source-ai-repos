@@ -1,0 +1,9 @@
+name = "Orpheus-TTS"
+description = "Towards Human-Sounding Speech"
+category = "speech"
+tags = ["llm", "tts", "realtime"]
+repository = "https://github.com/canopyai/Orpheus-TTS"
+website = "https://canopylabs.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

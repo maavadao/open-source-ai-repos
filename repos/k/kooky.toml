@@ -1,0 +1,8 @@
+name = "kooky"
+description = "A minimal modern terminal for AI coding experience — Sidebar workspaces; horizontal / vertical split panes; one-click agent launch; per-agent activity readout; live workspace state with one-click Node and branch switching."
+category = "coding"
+tags = ["agent", "ai-coding", "claude", "developer-tools", "macos", "swift", "terminal", "ai-agents"]
+repository = "https://github.com/iAmCorey/kooky"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Screenshot-to-code"
+description = "A neural network that transforms a design mock-up into a static website."
+category = "ml-platforms"
+tags = ["keras", "deep-learning", "seq2seq", "encoder-decoder", "lstm", "floydhub", "machine-learning", "cnn"]
+repository = "https://github.com/emilwallner/Screenshot-to-code"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

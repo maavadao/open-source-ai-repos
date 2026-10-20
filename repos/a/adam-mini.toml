@@ -1,0 +1,8 @@
+name = "Adam-mini"
+description = "Code for Adam-mini: Use Fewer Learning Rates To Gain More https://arxiv.org/abs/2406.16793"
+category = "models"
+tags = ["deep-learning", "large-language-models", "optimizer"]
+repository = "https://github.com/zyushun/Adam-mini"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

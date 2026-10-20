@@ -1,0 +1,8 @@
+name = "Awesome-Deep-Research"
+description = "[ACL 2026 KnowFM] Awesome Agentic Deep Research Resources"
+category = "learning"
+tags = ["agentic-ai", "agentic-rag", "deep-research", "deep-research-agent", "large-language-models", "llms", "rag", "reasoning"]
+repository = "https://github.com/DavidZWZ/Awesome-Deep-Research"
+website = "https://arxiv.org/abs/2506.18959"
+license = "MIT"
+added = 2026-10-20

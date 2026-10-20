@@ -1,0 +1,8 @@
+name = "founder-marketing-skills"
+description = "Open-source marketing skills for founders. Keyword research, growth strategy, social search audit, competitor analysis. Install with npx skills."
+category = "skills-prompts"
+tags = ["ai-agents", "ai-marketing", "claude-code", "claude-skills", "growth-marketing", "marketing-automation", "ai", "anthropic"]
+repository = "https://github.com/ScaleBrick/founder-marketing-skills"
+website = "https://scalebrick.com"
+license = "MIT"
+added = 2026-10-20

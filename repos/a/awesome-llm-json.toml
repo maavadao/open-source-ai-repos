@@ -1,0 +1,8 @@
+name = "awesome-llm-json"
+description = "Resource list for generating JSON using LLMs via function calling, tools, CFG. Libraries, Models, Notebooks, etc."
+category = "learning"
+tags = ["awesome-list", "large-language-models", "llm", "function-calling", "gpt-actions", "structured-generation"]
+repository = "https://github.com/imaurer/awesome-llm-json"
+website = "https://genomoncology.com/"
+license = "MIT"
+added = 2026-10-20

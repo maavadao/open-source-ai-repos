@@ -1,0 +1,9 @@
+name = "venom"
+description = "Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on artificial intelligence and all types of design architecture for WhatsApp."
+category = "browser-automation"
+tags = ["whatsapp", "sulla", "bot", "whatsapp-api", "whatsapp-bot", "zap-api", "zap-bot", "ai"]
+repository = "https://github.com/vynect/venom"
+website = "https://orkestral.io"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Qihoo-T2X"
+description = "Efficient DiT architecture for text2any tasks, ICLR2025"
+category = "image"
+tags = ["efficient-dit", "image-generation"]
+repository = "https://github.com/360CVGroup/Qihoo-T2X"
+website = "https://360cvgroup.github.io/Qihoo-T2X/"
+license = "NOASSERTION"
+added = 2026-10-20

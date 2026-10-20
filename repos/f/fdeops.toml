@@ -1,0 +1,9 @@
+name = "FDEOps"
+description = "Forward deployed engineering skills for AI coding agents."
+category = "skills-prompts"
+tags = ["ai-agents", "claude-skills", "codex-skill", "cursor", "fde", "forward-deployed-engineering", "claude", "codex"]
+repository = "https://github.com/suboss87/FDEOps"
+website = "https://fdeops.io/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

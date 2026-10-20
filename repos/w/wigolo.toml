@@ -1,0 +1,9 @@
+name = "wigolo"
+description = "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta."
+category = "mcp-servers"
+tags = ["mcp", "agent", "ai", "ai-agent", "claude", "developer-tools", "local-first", "mcp-server"]
+repository = "https://github.com/KnockOutEZ/wigolo"
+website = "https://wigolo.app"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "docker-whisperX"
+description = "Dockerfile for WhisperX: Automatic Speech Recognition with Word-Level Timestamps and Speaker Diarization (Dockerfile, CI image build and test)"
+category = "speech"
+tags = ["docker-image", "dockerfile", "whisper", "asr", "speech", "speech-recognition", "speech-to-text"]
+repository = "https://github.com/jim60105/docker-whisperX"
+license = "MIT"
+language = "Dockerfile"
+added = 2026-10-20

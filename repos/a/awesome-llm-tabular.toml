@@ -1,0 +1,7 @@
+name = "Awesome-LLM-Tabular"
+description = "Awesome-LLM-Tabular: a curated list of Large Language Model applied to Tabular Data"
+category = "learning"
+tags = ["awesome", "large-language-models", "tabular-data"]
+repository = "https://github.com/johnnyhwu/Awesome-LLM-Tabular"
+license = "NOASSERTION"
+added = 2026-10-20

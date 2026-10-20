@@ -1,0 +1,9 @@
+name = "inferock-bench"
+description = "Local LLM cost-tracking proxy for OpenAI, Anthropic, Gemini, and pinned OpenRouter calls with token usage, failure, and billing-integrity receipts."
+category = "llm-apps"
+tags = ["ai-billing", "anthropic", "claude", "cost-tracking", "gemini", "gpt", "llm", "llm-observability"]
+repository = "https://github.com/inferock/inferock-bench"
+website = "https://inferock.ai"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

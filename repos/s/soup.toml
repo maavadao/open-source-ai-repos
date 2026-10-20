@@ -1,0 +1,9 @@
+name = "Soup"
+description = "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU."
+category = "image"
+tags = ["python", "fine-tuning", "gguf", "huggingface", "llm", "lora", "ollama", "peft"]
+repository = "https://github.com/MakazhanAlpamys/Soup"
+website = "https://trysoup.dev"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

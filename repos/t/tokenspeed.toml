@@ -1,0 +1,9 @@
+name = "tokenspeed"
+description = "TokenSpeed is a speed-of-light LLM inference engine."
+category = "models"
+tags = ["deepseek", "gpt-oss", "kimi", "lightseek", "llm", "minimax", "qwen", "speed-of-light"]
+repository = "https://github.com/lightseekorg/tokenspeed"
+website = "https://lightseek.org/blog/lightseek-tokenspeed.html"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

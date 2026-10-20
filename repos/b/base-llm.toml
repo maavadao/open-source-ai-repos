@@ -1,0 +1,9 @@
+name = "base-llm"
+description = "从 NLP 到 LLM 的算法全栈教程，在线阅读地址：https://datawhalechina.github.io/base-llm/"
+category = "learning"
+tags = ["bert", "docker", "fine-tuning", "linux", "llama", "llm", "nlp", "python"]
+repository = "https://github.com/datawhalechina/base-llm"
+website = "https://datawhalechina.github.io/base-llm/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "boxmot"
+description = "BoxMOT: Pluggable Python and C++ SOTA multi-object tracking modules with support for axis-aligned and oriented bounding boxes"
+category = "vision"
+tags = ["strongsort", "bytetrack", "ocsort", "deep-learning", "segmentation", "tensorrt", "tracking-by-detection", "yolo"]
+repository = "https://github.com/mikel-brostrom/boxmot"
+website = "https://mikel-brostrom.github.io/boxmot/"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

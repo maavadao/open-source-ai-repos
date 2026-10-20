@@ -1,0 +1,9 @@
+name = "PocketFlow"
+description = "An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications."
+category = "vision"
+tags = ["deep-learning", "model-compression", "mobile-app", "automl", "computer-vision"]
+repository = "https://github.com/Tencent/PocketFlow"
+website = "https://pocketflow.github.io"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

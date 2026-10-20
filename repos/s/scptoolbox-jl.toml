@@ -1,0 +1,8 @@
+name = "SCPToolbox.jl"
+description = "Sequential Convex Programming Toolbox for nonconvex trajectory optimization."
+category = "robotics"
+tags = ["optimization", "convex-optimization", "trajectory-generation", "robotics", "rocket-landing", "spacecraft", "motion-planning", "autonomous-driving"]
+repository = "https://github.com/UW-ACL/SCPToolbox.jl"
+license = "GPL-3.0"
+language = "Julia"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "arksim"
+description = "Find your agents errors be fore your real users do"
+category = "chat"
+tags = ["agents", "ai", "chatbot", "conversational-ai", "evaluation", "llm", "open-source", "python"]
+repository = "https://github.com/arklexai/arksim"
+website = "https://docs.arklex.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

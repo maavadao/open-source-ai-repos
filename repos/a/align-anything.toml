@@ -1,0 +1,8 @@
+name = "align-anything"
+description = "Align Anything: Training All-modality Model with Feedback"
+category = "models"
+tags = ["large-language-models", "multimodal", "rlhf", "chameleon", "dpo", "vision-language-model"]
+repository = "https://github.com/PKU-Alignment/align-anything"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

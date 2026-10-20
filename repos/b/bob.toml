@@ -1,0 +1,8 @@
+name = "Bob"
+description = "Bob 是一款 macOS 平台的翻译和 OCR 软件。"
+category = "documents"
+tags = ["bobapp", "macos", "ocr", "translate", "chatgpt", "openai", "translation", "translator"]
+repository = "https://github.com/ripperhe/Bob"
+website = "https://bobtranslate.com"
+license = "NOASSERTION"
+added = 2026-10-20

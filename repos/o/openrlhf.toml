@@ -1,0 +1,9 @@
+name = "OpenRLHF"
+description = "An Easy-to-use, Scalable and High-performance Agentic RL Framework based on Ray (PPO & DAPO & REINFORCE++ & VLM & TIS & vLLM & Ray & Async RL)"
+category = "local-llms"
+tags = ["transformers", "vllm", "large-language-models", "raylib", "reinforcement-learning", "proximal-policy-optimization", "visual-language-models"]
+repository = "https://github.com/OpenRLHF/OpenRLHF"
+website = "https://openrlhf.readthedocs.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

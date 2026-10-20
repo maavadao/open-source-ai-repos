@@ -1,0 +1,8 @@
+name = "RasaTalk"
+description = "A chatbot framework for Rasa NLU"
+category = "chat"
+tags = ["rasa-nlu", "chatbot-framework", "bot", "bots", "rasa", "conversational-ai", "nlp", "botkit"]
+repository = "https://github.com/jackdh/RasaTalk"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

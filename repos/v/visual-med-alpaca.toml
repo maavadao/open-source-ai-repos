@@ -1,0 +1,9 @@
+name = "visual-med-alpaca"
+description = "Visual Med-Alpaca is an open-source, multi-modal foundation model designed specifically for the biomedical domain, built on the LLaMa-7B."
+category = "models"
+tags = ["biomedical", "biomedical-image-processing", "foundation-model", "large-language-models", "multimodal"]
+repository = "https://github.com/cambridgeltl/visual-med-alpaca"
+website = "https://cambridgeltl.github.io/visual-med-alpaca/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

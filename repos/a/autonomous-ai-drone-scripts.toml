@@ -1,0 +1,8 @@
+name = "Autonomous-Ai-drone-scripts"
+description = "State of the art autonomous navigation scripts using Ai, Computer Vision, Lidar and GPS to control an arducopter based quad copter."
+category = "robotics"
+tags = ["ardupilot", "autonomous-quadcoptor", "computer-vision", "ai", "lidar", "gps"]
+repository = "https://github.com/sieuwe1/Autonomous-Ai-drone-scripts"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

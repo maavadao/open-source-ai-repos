@@ -1,0 +1,8 @@
+name = "llm-search"
+description = "Querying local documents, powered by LLM"
+category = "mcp-servers"
+tags = ["chroma", "langchain-python", "large-language-models", "openai-chatgpt", "splade", "chatbot", "llm", "streamlit"]
+repository = "https://github.com/snexus/llm-search"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

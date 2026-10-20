@@ -1,0 +1,8 @@
+name = "Chatette"
+description = "A powerful dataset generator for Rasa NLU, inspired by Chatito"
+category = "chat"
+tags = ["chatbot", "rasa-nlu", "dataset-generation", "python", "chatito", "chatbots", "nlp", "rasa"]
+repository = "https://github.com/SimGus/Chatette"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

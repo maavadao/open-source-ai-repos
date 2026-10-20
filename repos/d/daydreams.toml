@@ -1,0 +1,9 @@
+name = "daydreams"
+description = "Daydreams is a set of tools for building agents for commerce"
+category = "mcp-servers"
+tags = ["agents", "ai", "agent-framework", "agent-frameworks", "gaming", "llm", "8004", "cdp"]
+repository = "https://github.com/daydreamsai/daydreams"
+website = "https://docs.daydreams.systems/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Promptify"
+description = "Prompt Engineering | Prompt Versioning | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research"
+category = "skills-prompts"
+tags = ["chatgpt", "chatgpt-api", "gpt-3", "gpt-3-prompts", "prompt-engineering", "prompt-toolkit", "prompting", "chatgpt-python"]
+repository = "https://github.com/promptslab/Promptify"
+website = "https://discord.gg/m88xfYMbK6"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

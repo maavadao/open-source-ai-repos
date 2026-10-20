@@ -1,0 +1,9 @@
+name = "figma-use"
+description = "Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 100+ commands."
+category = "no-code"
+tags = ["ai-agents", "automation", "cli", "design", "figma"]
+repository = "https://github.com/dannote/figma-use"
+website = "https://www.npmjs.com/package/figma-use"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

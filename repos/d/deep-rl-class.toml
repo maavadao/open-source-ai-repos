@@ -1,0 +1,8 @@
+name = "deep-rl-class"
+description = "This repo contains the Hugging Face Deep Reinforcement Learning Course."
+category = "learning"
+tags = ["deep-reinforcement-learning", "reinforcement-learning", "reinforcement-learning-excercises", "deep-learning"]
+repository = "https://github.com/huggingface/deep-rl-class"
+license = "Apache-2.0"
+language = "MDX"
+added = 2026-10-20

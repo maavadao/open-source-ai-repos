@@ -1,0 +1,7 @@
+name = "machine-learning-curriculum"
+description = "Learn to make machines learn so that you don't have to struggle to program them; The ultimate list"
+category = "learning"
+tags = ["machine-learning", "python", "course", "deep-learning", "curriculum", "guide", "reinforcement-learning", "convolutional-neural-networks"]
+repository = "https://github.com/offchan42/machine-learning-curriculum"
+license = "MIT"
+added = 2026-10-20

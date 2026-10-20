@@ -1,0 +1,9 @@
+name = "agor"
+description = "Multiplayer AI: Bring your team and agents together"
+category = "mcp-servers"
+tags = ["agent-orchestration", "agentic", "ai-agents", "ai-coding", "ai-pair-programming", "canvas", "claude-code", "codex"]
+repository = "https://github.com/preset-io/agor"
+website = "https://agor.live"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

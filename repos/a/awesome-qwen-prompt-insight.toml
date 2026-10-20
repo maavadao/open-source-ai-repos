@@ -1,0 +1,8 @@
+name = "awesome-qwen-prompt-insight"
+description = "世界上覆盖最全的优秀Qwen提示语大全，欢迎贡献你的提示词。 The most comprehensive collection of excellent Qwen prompts in the world. Feel free to contribute your own prompts!"
+category = "learning"
+tags = ["awesome", "claude", "example", "gpt", "openai", "prompt", "qwen", "text-to-image"]
+repository = "https://github.com/XiaomingX/awesome-qwen-prompt-insight"
+website = "https://x.com/seclink"
+license = "MIT"
+added = 2026-10-20

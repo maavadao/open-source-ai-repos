@@ -1,0 +1,9 @@
+name = "flint-chart"
+description = "Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs."
+category = "mcp-servers"
+tags = ["ai-agents", "data-visualization", "charting-library", "mcp-server"]
+repository = "https://github.com/microsoft/flint-chart"
+website = "https://microsoft.github.io/flint-chart/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

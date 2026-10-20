@@ -1,0 +1,8 @@
+name = "KittiSeg"
+description = "A Kitti Road Segmentation model implemented in tensorflow."
+category = "robotics"
+tags = ["segmentation", "tensorflow", "kitti-data", "autonomous-driving", "computer-vision", "fcn", "semantic"]
+repository = "https://github.com/MarvinTeichmann/KittiSeg"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

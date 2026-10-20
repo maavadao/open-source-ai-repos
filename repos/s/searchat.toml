@@ -1,0 +1,9 @@
+name = "SearChat"
+description = "Search + Chat = SearChat(AI Chat with Search), Support OpenAI/Anthropic/VertexAI/Gemini, DeepResearch, SearXNG, Docker. AI对话式搜索引擎，支持DeepResearch, 支持OpenAI/Anthropic/VertexAI/Gemini接口、聚合搜索引擎SearXNG，支持Docker一键部署。"
+category = "mcp-servers"
+tags = ["rag", "search", "deepresearch", "searxng", "ai", "llm", "mcp", "anthropic"]
+repository = "https://github.com/yokingma/SearChat"
+website = "https://isou.chat"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

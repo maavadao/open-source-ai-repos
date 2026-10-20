@@ -1,0 +1,9 @@
+name = "DeepSIM"
+description = "Official PyTorch implementation of the paper: \"DeepSIM: Image Shape Manipulation from a Single Augmented Training Sample\" (ICCV 2021 Oral)"
+category = "image"
+tags = ["single-image", "image-editing", "deep-neural-networks", "generative-adversarial-network", "computer-vision", "computer-graphics", "edge-to-image", "segmantation-to-image"]
+repository = "https://github.com/eliahuhorwitz/DeepSIM"
+website = "http://www.vision.huji.ac.il/deepsim"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

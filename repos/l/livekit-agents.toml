@@ -1,0 +1,9 @@
+name = "agents"
+description = "A framework for building realtime voice AI agents"
+category = "speech"
+tags = ["ai", "real-time", "voice", "video", "agents", "openai"]
+repository = "https://github.com/livekit/agents"
+website = "https://docs.livekit.io/agents"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

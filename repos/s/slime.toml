@@ -1,0 +1,8 @@
+name = "slime"
+description = "slime is an LLM training framework for RL Scaling."
+category = "models"
+repository = "https://github.com/THUDM/slime"
+website = "https://thudm.github.io/slime"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

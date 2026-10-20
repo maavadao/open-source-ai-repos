@@ -1,0 +1,10 @@
+name = "milvus"
+description = "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search"
+category = "vector-databases"
+tags = ["anns", "nearest-neighbor-search", "faiss", "vector-search", "image-search", "hnsw", "vector-database", "embedding-database"]
+repository = "https://github.com/milvus-io/milvus"
+website = "https://milvus.io"
+license = "Apache-2.0"
+language = "Go"
+skill_level = "advanced"
+added = 2026-10-20

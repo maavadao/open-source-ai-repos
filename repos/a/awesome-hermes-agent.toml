@@ -1,0 +1,8 @@
+name = "awesome-hermes-agent"
+description = "Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent."
+category = "mcp-servers"
+tags = ["ai-agents", "awesome", "awesome-list", "hermes-agent", "nous-research", "skills", "agent-skills", "ai-tools"]
+repository = "https://github.com/0xNyk/awesome-hermes-agent"
+website = "https://www.nyk.dev/oss/awesome-hermes-agent"
+license = "NOASSERTION"
+added = 2026-10-20

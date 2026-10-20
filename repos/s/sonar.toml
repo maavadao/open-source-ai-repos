@@ -1,0 +1,9 @@
+name = "sonar"
+description = "Large-scale LLM inference engine"
+category = "image"
+tags = ["api-rest", "inference-engine", "machine-learning", "cuda", "inferentia", "rocm", "intel", "lora"]
+repository = "https://github.com/dphnAI/sonar"
+website = "https://sonar.dphn.ai"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

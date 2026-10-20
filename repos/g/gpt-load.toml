@@ -1,0 +1,9 @@
+name = "gpt-load"
+description = "Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。"
+category = "coding"
+tags = ["go", "golang", "openai", "gemini", "gin", "anthropic", "claude", "ai-gateway"]
+repository = "https://github.com/tbphp/gpt-load"
+website = "https://www.gpt-load.com"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

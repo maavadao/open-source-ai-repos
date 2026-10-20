@@ -1,0 +1,9 @@
+name = "temps"
+description = "AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCode — deployments, analytics, session replay, error tracking, OpenTelemetry, email, sandboxes & AI gateway in one…"
+category = "coding"
+tags = ["analytics", "ci-cd", "deployment-platform", "devops", "docker", "error-tracking", "monitoring", "open-source"]
+repository = "https://github.com/gotempsh/temps"
+website = "https://temps.sh/docs"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

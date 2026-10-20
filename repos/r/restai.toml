@@ -1,0 +1,9 @@
+name = "restai"
+description = "RESTai is an AIaaS (AI as a Service) open-source platform. Supports many public and local LLM suported by Ollama/vLLM/etc. Precise embeddings usage, tuning, analytics etc. Built-in image/audio generation with dynamic loading generators. Live chat deployment. Built-in block…"
+category = "image"
+tags = ["embeddings", "llm", "openai", "python", "fastapi", "rag", "openaiapi", "stable-diffusion"]
+repository = "https://github.com/apocas/restai"
+website = "https://restai.cloud"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

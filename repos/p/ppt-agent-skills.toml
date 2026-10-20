@@ -1,0 +1,8 @@
+name = "ppt-agent-skills"
+description = "A code-driven presentation generation framework. 像构建软件工程一样生成演示文稿。"
+category = "agents"
+tags = ["ai-agents", "html-to-pptx", "multi-agent", "pitch-deck", "powerpoint", "ppt", "pptx", "presentation-generator"]
+repository = "https://github.com/sunbigfly/ppt-agent-skills"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "cc-skills-golang"
+description = "A collection of Golang agentic skills that works"
+category = "skills-prompts"
+tags = ["agent", "ai", "antigravity", "claude", "claude-code", "code", "codex", "coding"]
+repository = "https://github.com/samber/cc-skills-golang"
+website = "https://skills.sh/samber/cc-skills-golang"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

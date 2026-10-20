@@ -1,0 +1,8 @@
+name = "TensorFlowOnSpark"
+description = "TensorFlowOnSpark brings TensorFlow programs to Apache Spark clusters."
+category = "ml-platforms"
+tags = ["tensorflow", "spark", "yahoo", "machine-learning", "cluster", "featured", "python", "scala"]
+repository = "https://github.com/yahoo/TensorFlowOnSpark"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "SuperPrompt"
+description = "SuperPrompt is an attempt to engineer prompts that might help us understand AI agents."
+category = "skills-prompts"
+tags = ["ai", "ml", "prompt-engineering", "prompts", "prompts-template"]
+repository = "https://github.com/NeoVertex1/SuperPrompt"
+license = "NOASSERTION"
+added = 2026-10-20

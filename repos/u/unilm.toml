@@ -1,0 +1,9 @@
+name = "unilm"
+description = "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities"
+category = "documents"
+tags = ["nlp", "pre-trained-model", "unilm", "minilm", "layoutlm", "layoutxlm", "beit", "document-ai"]
+repository = "https://github.com/microsoft/unilm"
+website = "https://aka.ms/GeneralAI"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

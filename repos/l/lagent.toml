@@ -1,0 +1,8 @@
+name = "lagent"
+description = "A lightweight framework for building LLM-based agents"
+category = "agents"
+tags = ["agent", "gpt", "llm", "transformers"]
+repository = "https://github.com/InternLM/lagent"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

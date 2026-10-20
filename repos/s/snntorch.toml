@@ -1,0 +1,9 @@
+name = "snntorch"
+description = "Deep and online learning with spiking neural networks in Python"
+category = "ml-platforms"
+tags = ["pytorch", "spiking-neural-networks", "neuron-models", "python", "neural-networks", "machine-learning", "neuroscience", "snn"]
+repository = "https://github.com/jeshraghian/snntorch"
+website = "https://snntorch.readthedocs.io/en/latest/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

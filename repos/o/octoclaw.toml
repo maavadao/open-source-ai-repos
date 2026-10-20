@@ -1,0 +1,8 @@
+name = "OctoClaw"
+description = "Auto-delegation, status truth, and cost-aware model routing for OpenClaw agents"
+category = "no-code"
+tags = ["agent-orchestration", "ai-agents", "automation", "feishu", "llmops", "model-routing", "openclaw", "slack"]
+repository = "https://github.com/guanbear/OctoClaw"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

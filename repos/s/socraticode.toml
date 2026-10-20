@@ -1,0 +1,9 @@
+name = "SocratiCode"
+description = "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid semantic search, polyglot dependency graphs, symbol-level impact analysis & call-flow, interactive HTML viewer, cross-project & branch-aware search…"
+category = "mcp-servers"
+tags = ["ai", "ai-assistant", "embeddings", "mcp", "semantic", "vector-database", "vector-embeddings", "vector-search"]
+repository = "https://github.com/giancarloerra/SocratiCode"
+website = "https://socraticode.cloud"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

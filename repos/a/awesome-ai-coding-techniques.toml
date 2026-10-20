@@ -1,0 +1,8 @@
+name = "awesome-ai-coding-techniques"
+description = "Practical techniques for coding with ai assistants (Claude Code, Codex CLI, Cursor, GitHub Copilot, etc). Available in: English • Español • Deutsch • Français • 日本語"
+category = "learning"
+tags = ["ai", "ai-agents", "ai-coding", "ai-tools", "awesome", "awesome-list", "best-practices", "claude-code"]
+repository = "https://github.com/inmve/awesome-ai-coding-techniques"
+website = "https://coding-with-ai.dev"
+license = "NOASSERTION"
+added = 2026-10-20

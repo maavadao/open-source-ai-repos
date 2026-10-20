@@ -1,0 +1,9 @@
+name = "pytorch-vit"
+description = "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"
+category = "vision"
+tags = ["image-recognition", "transformers", "image-classification", "vit", "hybrid-vit", "vision-transformer"]
+repository = "https://github.com/gupta-abhay/pytorch-vit"
+website = "https://arxiv.org/abs/2010.11929"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

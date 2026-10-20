@@ -1,0 +1,9 @@
+name = "telegram-bot-sdk"
+description = "Telegram Bot API PHP SDK 4.x. Create Telegram Bots with PHP Easily! [WIP]"
+category = "chat"
+tags = ["telegram", "telegram-bot", "telegram-bot-sdk", "php", "chatbot", "bot", "php-sdk", "telegram-bot-api"]
+repository = "https://github.com/telegram-bot-sdk/telegram-bot-sdk"
+website = "https://telegram-bot-sdk.com"
+license = "BSD-3-Clause"
+language = "PHP"
+added = 2026-10-20

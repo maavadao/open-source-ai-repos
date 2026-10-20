@@ -1,0 +1,9 @@
+name = "RLSeq2Seq"
+description = "Deep Reinforcement Learning For Sequence to Sequence Models"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "actor-critic", "policy-gradient", "abstractive-text-summarization", "pointer-generator", "nlp"]
+repository = "https://github.com/yaserkl/RLSeq2Seq"
+website = "https://arxiv.org/abs/1805.09461"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

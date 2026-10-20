@@ -1,0 +1,8 @@
+name = "opencode-swarm"
+description = "Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review."
+category = "mcp-servers"
+tags = ["agent-swarm", "ai-agents", "ai-coding", "automation", "bun", "cli", "code-review", "coding-agent"]
+repository = "https://github.com/ZaxbyHub/opencode-swarm"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Multi-Agent-Medical-Assistant"
+description = "GenAI powered multi-agentic medical diagnostics and healthcare research assistance chatbot. Designed for healthcare professionals, researchers and patients."
+category = "security"
+tags = ["agent", "agentic-ai", "agents", "chatbot", "computer-vision", "disease-detection", "genai", "genai-chatbot"]
+repository = "https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

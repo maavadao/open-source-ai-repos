@@ -1,0 +1,9 @@
+name = "nocturne_memory"
+description = "A lightweight, rollbackable, and visual Long-Term Memory Server for MCP Agents. Say goodbye to Vector RAG and amnesia. Empower your AI with persistent, graph-like structured memory across any model, session, or tool. Drop-in replacement for OpenClaw."
+category = "mcp-servers"
+tags = ["agentic-ai", "ai-memory", "artificial-intelligence", "long-term-memory", "mcp", "mcp-server", "python", "sqlite"]
+repository = "https://github.com/Dataojitori/nocturne_memory"
+website = "https://misaligned.top/memory"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "datascience"
+description = "This repository is a compilation of free resources for learning Data Science."
+category = "vision"
+tags = ["data-science", "machine-learning", "machine-learning-algorithms", "deeplearning", "artificial-intelligence", "computer-vision", "natural-language-processing", "neural-networks"]
+repository = "https://github.com/sreeharierk/datascience"
+website = "https://twitter.com/sreeharierk"
+license = "GPL-3.0"
+added = 2026-10-20

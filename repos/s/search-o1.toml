@@ -1,0 +1,8 @@
+name = "Search-o1"
+description = "Search-o1: Agentic Search-Enhanced Large Reasoning Models [EMNLP 2025]"
+category = "llm-apps"
+tags = ["aimo", "amc", "gpqa", "livecode", "math", "o1", "qwq", "r1"]
+repository = "https://github.com/RUC-NLPIR/Search-o1"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

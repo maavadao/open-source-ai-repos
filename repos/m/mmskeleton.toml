@@ -1,0 +1,8 @@
+name = "mmskeleton"
+description = "A OpenMMLAB toolbox for human pose estimation, skeleton-based action recognition, and action synthesis."
+category = "ml-platforms"
+tags = ["action-recognition", "deep-learning", "graph-convolutional-network", "pytorch", "skeleton-based-action-recognition"]
+repository = "https://github.com/open-mmlab/mmskeleton"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

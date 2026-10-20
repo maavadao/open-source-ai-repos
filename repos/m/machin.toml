@@ -1,0 +1,8 @@
+name = "machin"
+description = "Reinforcement learning library(framework) designed for PyTorch, implements DQN, DDPG, A2C, PPO, SAC, MADDPG, A3C, APEX, IMPALA ..."
+category = "ml-platforms"
+tags = ["reinforcement-learning", "deep-learning", "pytorch", "pytorch-reinforcement-learning", "dqn", "ddpg", "sac", "ppo"]
+repository = "https://github.com/iffiX/machin"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

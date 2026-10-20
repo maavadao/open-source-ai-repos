@@ -1,0 +1,7 @@
+name = "ChatGPT_DAN"
+description = "ChatGPT DAN, Jailbreaks prompt"
+category = "security"
+tags = ["chatgpt", "jailbreak", "openai", "prompt", "gpt-4", "gpt-3-5"]
+repository = "https://github.com/0xk1h0/ChatGPT_DAN"
+license = "NOASSERTION"
+added = 2026-10-20

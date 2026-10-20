@@ -1,0 +1,9 @@
+name = "novel"
+description = "Notion-style WYSIWYG editor with AI-powered autocompletion."
+category = "chat"
+tags = ["chatgpt", "notion", "openai", "prosemirror", "tiptap", "ai-sdk", "nextjs", "vercel"]
+repository = "https://github.com/steven-tey/novel"
+website = "https://novel.sh"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

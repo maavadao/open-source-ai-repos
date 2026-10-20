@@ -1,0 +1,7 @@
+name = "Data-Science-Free"
+description = "Free Resources For Data Science created by Shubham Kumar"
+category = "learning"
+tags = ["machine-learning", "deep-learning", "statistics", "ml-cheatsheet", "supervised-learning", "data-science", "ml", "courses"]
+repository = "https://github.com/frontbenchHQ/Data-Science-Free"
+license = "MIT"
+added = 2026-10-20

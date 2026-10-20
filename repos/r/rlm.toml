@@ -1,0 +1,8 @@
+name = "rlm"
+description = "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes."
+category = "local-llms"
+repository = "https://github.com/alexzhang13/rlm"
+website = "https://arxiv.org/abs/2512.24601"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

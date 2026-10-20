@@ -1,0 +1,10 @@
+name = "fastbook"
+description = "The fastai book, published as Jupyter Notebooks"
+category = "learning"
+tags = ["notebooks", "fastai", "deep-learning", "machine-learning", "data-science", "python", "book"]
+repository = "https://github.com/fastai/fastbook"
+website = "https://course.fast.ai"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+skill_level = "beginner"
+added = 2026-10-20

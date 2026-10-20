@@ -1,0 +1,9 @@
+name = "NLP-progress"
+description = "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks."
+category = "data-science"
+tags = ["natural-language-processing", "machine-learning", "named-entity-recognition", "machine-translation", "nlp-tasks", "dialogue"]
+repository = "https://github.com/sebastianruder/NLP-progress"
+website = "https://nlpprogress.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

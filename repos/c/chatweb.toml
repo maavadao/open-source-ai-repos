@@ -1,0 +1,8 @@
+name = "chatWeb"
+description = "ChatWeb can crawl web pages, read PDF, DOCX, TXT, and extract the main content, then answer your questions based on the content, or summarize the key points."
+category = "vector-databases"
+tags = ["chatgpt", "embedding", "gpt-35-turbo", "news-extractor", "newspaper", "openai", "pgvector", "postgresql"]
+repository = "https://github.com/SkywalkerDarren/chatWeb"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "SplaTAM"
+description = "SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024)"
+category = "robotics"
+tags = ["computer-vision", "gaussian-splatting", "robotics", "slam", "cvpr2024"]
+repository = "https://github.com/spla-tam/SplaTAM"
+website = "https://spla-tam.github.io/"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

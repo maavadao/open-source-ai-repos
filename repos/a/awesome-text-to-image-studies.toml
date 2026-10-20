@@ -1,0 +1,8 @@
+name = "awesome-text-to-image-studies"
+description = "A collection of awesome text-to-image generation studies."
+category = "learning"
+tags = ["artificial-intelligence", "diffusion-models", "text-to-image", "text-to-image-ai", "text-to-image-diffusion"]
+repository = "https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies"
+license = "MIT"
+language = "TeX"
+added = 2026-10-20

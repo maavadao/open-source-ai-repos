@@ -1,0 +1,9 @@
+name = "TensorSharp"
+description = "A native .NET LLM inference engine and agent runtime for GGUF models. TensorSharp provides a console application, a web-based chatbot interface, iPhone App, and Ollama/OpenAI-compatible HTTP APIs for programmatic access. It supports Windows/MacOS/iOS/Linux with full GPU…"
+category = "local-llms"
+tags = ["gemma", "inference", "inference-engine", "llm", "qwen", "transformers", "gemma4", "gguf"]
+repository = "https://github.com/zhongkaifu/TensorSharp"
+website = "https://tensorsharp.ai"
+license = "BSD-3-Clause"
+language = "C#"
+added = 2026-10-20

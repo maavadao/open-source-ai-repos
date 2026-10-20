@@ -1,0 +1,9 @@
+name = "MASt3R-SLAM"
+description = "[CVPR 2025] MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors"
+category = "robotics"
+tags = ["computer-vision", "robotics", "slam", "cvpr2025"]
+repository = "https://github.com/rmurai0610/MASt3R-SLAM"
+website = "https://edexheim.github.io/mast3r-slam/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

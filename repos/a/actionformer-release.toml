@@ -1,0 +1,8 @@
+name = "actionformer_release"
+description = "Code release for ActionFormer (ECCV 2022)"
+category = "vision"
+tags = ["action-localization", "computer-vision", "deeplearning", "eccv2022", "video-analysis", "vision-transformer"]
+repository = "https://github.com/happyharrycn/actionformer_release"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

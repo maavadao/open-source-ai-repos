@@ -1,0 +1,8 @@
+name = "awesome-lidar"
+description = "Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators."
+category = "learning"
+tags = ["awesome-list", "awesome", "lidar", "pointcloud", "point-cloud", "3d-lidar", "3d", "autonomous-driving"]
+repository = "https://github.com/szenergy/awesome-lidar"
+website = "https://szenergy.github.io/awesome-lidar/"
+license = "CC0-1.0"
+added = 2026-10-20

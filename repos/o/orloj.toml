@@ -1,0 +1,9 @@
+name = "orloj"
+description = "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, executes, routes, and governs them for production-grade operation."
+category = "security"
+tags = ["agent-framework", "agentic-ai", "agentic-orchestration", "ai", "ai-governance", "ai-safety", "declarative", "guardrails"]
+repository = "https://github.com/OrlojHQ/orloj"
+website = "https://orloj.dev"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

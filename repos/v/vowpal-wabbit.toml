@@ -1,0 +1,9 @@
+name = "vowpal_wabbit"
+description = "Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning."
+category = "ml-platforms"
+tags = ["c-plus-plus", "machine-learning", "online-learning", "contextual-bandits", "reinforcement-learning", "active-learning", "learning-to-search", "cpp"]
+repository = "https://github.com/VowpalWabbit/vowpal_wabbit"
+website = "https://vowpalwabbit.org"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ps-fuzz"
+description = "Make your GenAI Apps Safe & Secure Test & harden your system prompt"
+category = "models"
+tags = ["ai", "fuzzer", "generative-ai", "llm", "security", "security-tools", "llm-fuzzer", "system-prompt-hardener"]
+repository = "https://github.com/prompt-security/ps-fuzz"
+website = "https://www.prompt.security/fuzzer"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

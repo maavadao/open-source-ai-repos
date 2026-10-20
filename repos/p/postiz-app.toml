@@ -1,0 +1,9 @@
+name = "postiz-app"
+description = "The ultimate agentic social media scheduling tool"
+category = "agents"
+tags = ["typescript", "nextjs", "redis", "open-source", "oss", "scheduling-tool", "social-media-scheduling-tool", "open-source-social-media-scheduling-tool"]
+repository = "https://github.com/gitroomhq/postiz-app"
+website = "https://postiz.com"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

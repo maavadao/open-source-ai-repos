@@ -1,0 +1,9 @@
+name = "build-a-bot-with-zero-coding"
+description = "An example of using Google Sheets to create a Viber survey chat bot without a backend server"
+category = "chat"
+tags = ["google-script", "viber", "chatbot", "google-sheets"]
+repository = "https://github.com/Viber/build-a-bot-with-zero-coding"
+website = "https://developers.viber.com/blog/2017/09/12/build-a-bot-with-zero-coding"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

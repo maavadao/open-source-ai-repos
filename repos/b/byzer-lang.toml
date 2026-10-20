@@ -1,0 +1,9 @@
+name = "byzer-lang"
+description = "Byzer (former MLSQL): A low-code open-source programming language for data pipeline, analytics and AI."
+category = "data-science"
+tags = ["machine-learning", "mlsql", "bigdata", "sql-like-dsl"]
+repository = "https://github.com/byzer-org/byzer-lang"
+website = "https://www.byzer.org"
+license = "Apache-2.0"
+language = "Scala"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "deeplake"
+description = "Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training."
+category = "skills-prompts"
+tags = ["deep-learning", "pytorch", "ai", "mlops", "computer-vision", "datalake", "llm", "large-language-models"]
+repository = "https://github.com/activeloopai/deeplake"
+website = "https://deeplake.ai"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

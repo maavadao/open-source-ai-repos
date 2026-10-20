@@ -1,0 +1,8 @@
+name = "sdsandbox"
+description = "This provides a sandbox simulator for training a self-driving car. This uses Unity for simulation and Python with Keras and Tensorflow for training. Recently updated to work on Python 3.4+ and Keras 2+"
+category = "ml-platforms"
+tags = ["neural-network", "unity", "car", "python", "tensorflow", "simulation", "prediction-server"]
+repository = "https://github.com/tawnkramer/sdsandbox"
+license = "BSD-3-Clause"
+language = "C#"
+added = 2026-10-20

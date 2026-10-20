@@ -1,0 +1,9 @@
+name = "tokencost"
+description = "Easy token price estimates for 400+ LLMs. TokenOps."
+category = "models"
+tags = ["analytics", "claude", "large-language-models", "llm", "observability", "openai", "price", "price-tracker"]
+repository = "https://github.com/AgentOps-AI/tokencost"
+website = "https://agentops.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

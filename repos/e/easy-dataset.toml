@@ -1,0 +1,9 @@
+name = "easy-dataset"
+description = "A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval"
+category = "llm-apps"
+tags = ["dataset", "javascript", "llm", "fine-tuning", "rag"]
+repository = "https://github.com/ConardLi/easy-dataset"
+website = "https://docs.easy-dataset.com"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

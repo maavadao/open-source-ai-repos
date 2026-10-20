@@ -1,0 +1,9 @@
+name = "genai-for-marketing"
+description = "Showcasing Google Cloud's generative AI for marketing scenarios via application frontend, backend, and detailed, step-by-step guidance for setting up and utilizing generative AI tools, including examples of their use in crafting marketing materials like blog posts and social…"
+category = "other"
+tags = ["artificial-intelligence", "genai", "generative-ai", "google-cloud-platform", "vertex-ai", "gemini"]
+repository = "https://github.com/GoogleCloudPlatform/genai-for-marketing"
+website = "https://cloud.google.com/vertex-ai/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

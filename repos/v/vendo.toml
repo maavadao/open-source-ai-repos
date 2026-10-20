@@ -1,0 +1,9 @@
+name = "vendo"
+description = "Embedded agents your customers use to automate work, build views, and connect their tools."
+category = "no-code"
+tags = ["agents", "ai", "ai-agents", "automation", "devtools", "embedded-ai", "generative-ui", "llm"]
+repository = "https://github.com/runvendo/vendo"
+website = "https://vendo.run"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

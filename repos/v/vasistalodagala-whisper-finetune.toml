@@ -1,0 +1,8 @@
+name = "whisper-finetune"
+description = "Fine-tune and evaluate Whisper models for Automatic Speech Recognition (ASR) on custom datasets or datasets from huggingface."
+category = "speech"
+tags = ["asr", "jax", "pytorch", "speech-recognition", "transformers", "whisper"]
+repository = "https://github.com/vasistalodagala/whisper-finetune"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

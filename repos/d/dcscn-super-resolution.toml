@@ -1,0 +1,9 @@
+name = "dcscn-super-resolution"
+description = "A tensorflow implementation of \"Fast and Accurate Image Super Resolution by Deep CNN with Skip Connection and Network in Network\", a deep learning based Single-Image Super-Resolution (SISR) model."
+category = "image"
+tags = ["deep-learning", "computer-vision", "super-resolution", "tensorflow", "python"]
+repository = "https://github.com/jiny2001/dcscn-super-resolution"
+website = "https://arxiv.org/abs/1707.05425"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

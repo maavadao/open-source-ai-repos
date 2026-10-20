@@ -1,0 +1,9 @@
+name = "nextjs-openai-doc-search"
+description = "Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase."
+category = "vector-databases"
+tags = ["ai", "chatgpt", "nextjs", "openai", "postgres", "supabase", "template", "vector-search"]
+repository = "https://github.com/supabase-community/nextjs-openai-doc-search"
+website = "https://supabase.com/blog/chatgpt-supabase-docs"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

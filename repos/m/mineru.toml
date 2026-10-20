@@ -1,0 +1,10 @@
+name = "MinerU"
+description = "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows."
+category = "documents"
+tags = ["extract-data", "layout-analysis", "ocr", "parser", "pdf", "pdf-converter", "python", "document-analysis"]
+repository = "https://github.com/opendatalab/MinerU"
+website = "https://mineru.net"
+license = "NOASSERTION"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

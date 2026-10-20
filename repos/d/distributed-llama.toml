@@ -1,0 +1,8 @@
+name = "distributed-llama"
+description = "Distributed LLM inference. Connect home devices into a powerful cluster to accelerate LLM inference. More devices means faster inference."
+category = "local-llms"
+tags = ["distributed-computing", "llama2", "llm", "llm-inference", "neural-network", "llms", "open-llm", "distributed-llm"]
+repository = "https://github.com/b4rtaz/distributed-llama"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

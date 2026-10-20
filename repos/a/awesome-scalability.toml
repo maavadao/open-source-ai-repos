@@ -1,0 +1,7 @@
+name = "awesome-scalability"
+description = "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
+category = "learning"
+tags = ["system-design", "backend", "scalability", "interview", "architecture", "devops", "design-patterns", "interview-questions"]
+repository = "https://github.com/binhnguyennus/awesome-scalability"
+license = "MIT"
+added = 2026-10-20

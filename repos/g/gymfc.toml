@@ -1,0 +1,9 @@
+name = "gymfc"
+description = "A universal flight control tuning framework"
+category = "robotics"
+tags = ["reinforcement-learning", "flight-controller", "gazebo", "openai-gym-environments", "quadcopter", "machinelearning", "openai-gym", "openai"]
+repository = "https://github.com/wil3/gymfc"
+website = "http://wfk.io/neuroflight/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

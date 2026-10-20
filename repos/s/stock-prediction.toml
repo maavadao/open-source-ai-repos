@@ -1,0 +1,9 @@
+name = "stock_prediction"
+description = "基于神经网络的通用股票预测模型 A general stock prediction model based on neural networks"
+category = "models"
+tags = ["lstm", "stock-price-prediction", "transformer", "bert-model", "deep-learning", "nlp", "transformers"]
+repository = "https://github.com/KittenCN/stock_prediction"
+website = "https://www.coderfan.com"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

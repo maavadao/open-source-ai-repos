@@ -1,0 +1,9 @@
+name = "CoWork-OS"
+description = "Rent the model. Own everything else. Free, open-source AI app for real work."
+category = "mcp-servers"
+tags = ["discord-bot", "local-first", "personal-ai", "security", "self-hosted", "slack-bot", "whatsapp-bot", "ai-assistants"]
+repository = "https://github.com/CoWork-OS/CoWork-OS"
+website = "https://coworkosapp.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

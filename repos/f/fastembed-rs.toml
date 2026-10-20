@@ -1,0 +1,9 @@
+name = "fastembed-rs"
+description = "Rust library for generating vector embeddings and reranking locally!"
+category = "vector-databases"
+tags = ["embeddings", "rag", "retrieval", "retrieval-augmented-generation", "vector-search", "fastembed", "reranker", "reranking"]
+repository = "https://github.com/anush008/fastembed-rs"
+website = "https://docs.rs/fastembed"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

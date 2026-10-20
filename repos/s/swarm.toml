@@ -1,0 +1,8 @@
+name = "swarm"
+description = "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team."
+category = "agents"
+repository = "https://github.com/openai/swarm"
+license = "MIT"
+language = "Python"
+skill_level = "beginner"
+added = 2026-10-20

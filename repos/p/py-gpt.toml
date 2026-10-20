@@ -1,0 +1,9 @@
+name = "py-gpt"
+description = "Desktop AI Assistant powered by GPT, Gemini, Claude, Grok, Ollama, DeepSeek, Perplexity, and more - chat, agents, tools, MCP, plugins, RAG, vision, voice, image and video generation, speech synthesis and speech recognition, web search, memory, presets, canvas, assistants…"
+category = "mcp-servers"
+tags = ["artificial-intelligence", "chatbot", "desktop-app", "openai", "ai", "ai-assistant", "llm", "autonomous-agent"]
+repository = "https://github.com/szczyglis-dev/py-gpt"
+website = "https://pygpt.net"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

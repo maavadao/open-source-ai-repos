@@ -1,0 +1,8 @@
+name = "singa"
+description = "a distributed deep learning platform"
+category = "ml-platforms"
+tags = ["deep-learning"]
+repository = "https://github.com/apache/singa"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

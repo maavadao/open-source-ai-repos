@@ -1,0 +1,8 @@
+name = "Thor"
+description = "DIY 3D Printable Robotic Arm"
+category = "robotics"
+tags = ["opensource", "freecad", "robot-arm", "3d-printed", "diy", "maker", "robotics"]
+repository = "https://github.com/AngelLM/Thor"
+website = "http://thor.angel-lm.com"
+license = "CC-BY-SA-4.0"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "sql-translator"
+description = "SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source."
+category = "data-science"
+tags = ["data-analysis", "data-engineering", "dataquery", "datascience", "dataset", "openai", "postgresql", "query"]
+repository = "https://github.com/whoiskatrin/sql-translator"
+website = "https://www.sqltranslate.app/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

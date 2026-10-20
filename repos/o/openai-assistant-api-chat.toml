@@ -1,0 +1,9 @@
+name = "OpenAI-Assistant-API-Chat"
+description = "OpenAI Assistant API Template: Customize your Assistant and chat with your files."
+category = "chat"
+tags = ["gpt4-api", "gpt4api", "openai", "openai-api", "openai-assistants", "openaiapi", "gpt-4-1106", "gpt-4-1106-preview"]
+repository = "https://github.com/admineral/OpenAI-Assistant-API-Chat"
+website = "https://open-ai-assistant-api-chat.vercel.app"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

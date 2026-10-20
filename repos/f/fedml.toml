@@ -1,0 +1,9 @@
+name = "FedML"
+description = "FEDML - The unified and scalable ML library for large-scale distributed training, model serving, and federated learning. FEDML Launch, a cross-cloud scheduler, further enables running any AI jobs on any GPU cloud or on-premise cluster. Built on this library, TensorOpera AI…"
+category = "local-llms"
+tags = ["federated-learning", "deep-learning", "distributed-training", "edge-ai", "machine-learning", "on-device-training", "inference-engine", "mlops"]
+repository = "https://github.com/FedML-AI/FedML"
+website = "https://TensorOpera.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "LiteratureDL4Graph"
+description = "A comprehensive collection of recent papers on graph deep learning"
+category = "learning"
+tags = ["machine-learning", "deep-learning", "papers", "arxiv"]
+repository = "https://github.com/DeepGraphLearning/LiteratureDL4Graph"
+license = "MIT"
+added = 2026-10-20

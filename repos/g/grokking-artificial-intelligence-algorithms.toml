@@ -1,0 +1,9 @@
+name = "Grokking-Artificial-Intelligence-Algorithms"
+description = "The official code repository supporting the book, Grokking Artificial Intelligence Algorithms"
+category = "learning"
+tags = ["python", "algorithm", "ai", "machine-learning-algorithms", "machine-learning", "search-algorithm", "evolutionary-algorithms", "genetic-algorithm"]
+repository = "https://github.com/rishal-hurbans/Grokking-Artificial-Intelligence-Algorithms"
+website = "https://www.manning.com/books/grokking-ai-algorithms-second-edition"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

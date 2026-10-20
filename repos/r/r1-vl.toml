@@ -1,0 +1,8 @@
+name = "R1-VL"
+description = "R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization"
+category = "models"
+tags = ["mllm", "multimodal-large-language-models", "r1", "reasoning", "reinforcement-learning", "vision-language-model"]
+repository = "https://github.com/jingyi0000/R1-VL"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "nanodet"
+description = "NanoDet-PlusSuper fast and lightweight anchor-free object detection model. Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone"
+category = "vision"
+tags = ["deep-neural-networks", "deep-learning", "object-detection", "anchor-free", "ncnn", "shufflenet", "pytorch", "mnn"]
+repository = "https://github.com/RangiLyu/nanodet"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "psmoveapi"
+description = "Cross-platform library for 6DoF tracking of the PS Move Motion Controller. Sensor fusion, computer vision, ambient display (LED orb)."
+category = "vision"
+tags = ["6dof", "computer-vision", "controller", "hid", "sensors", "tracking"]
+repository = "https://github.com/thp/psmoveapi"
+website = "https://thp.io/2010/psmove/"
+license = "NOASSERTION"
+language = "C"
+added = 2026-10-20

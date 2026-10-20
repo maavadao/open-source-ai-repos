@@ -1,0 +1,9 @@
+name = "helix"
+description = "Self-healing infrastructure for AI agent payments. 90.3% auto-recovery."
+category = "agents"
+tags = ["ai-agents", "blockchain", "coinbase", "payments", "privy", "privy-developer-tools", "self-healing", "self-healing-ai"]
+repository = "https://github.com/usehelix/helix"
+website = "https://tryhelix.dev/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

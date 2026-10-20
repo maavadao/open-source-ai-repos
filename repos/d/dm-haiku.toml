@@ -1,0 +1,9 @@
+name = "dm-haiku"
+description = "JAX-based neural network library"
+category = "ml-platforms"
+tags = ["machine-learning", "neural-networks", "jax", "deep-learning", "deep-neural-networks"]
+repository = "https://github.com/google-deepmind/dm-haiku"
+website = "https://dm-haiku.readthedocs.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "REINVENT4"
+description = "AI molecular design tool for de novo design, scaffold hopping, R-group replacement, linker design and molecule optimization."
+category = "ml-platforms"
+tags = ["ai", "cheminformatics", "chemistry", "denovo-design", "generative-ai", "ml", "molecule-generation", "astrazeneca"]
+repository = "https://github.com/MolecularAI/REINVENT4"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

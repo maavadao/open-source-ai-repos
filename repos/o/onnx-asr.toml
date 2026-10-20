@@ -1,0 +1,9 @@
+name = "onnx-asr"
+description = "A lightweight Python package for Automatic Speech Recognition using ONNX models"
+category = "speech"
+tags = ["onnx", "python", "speech-recognition", "speech-to-text", "asr", "stt", "lightweight", "parakeet"]
+repository = "https://github.com/istupakov/onnx-asr"
+website = "https://istupakov.github.io/onnx-asr/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

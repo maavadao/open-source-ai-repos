@@ -1,0 +1,8 @@
+name = "codemap"
+description = "a project brain for your AI. Give LLMs instant architectural context without burning tokens"
+category = "coding"
+tags = ["claude", "claude-code", "cli", "codex", "codex-cli", "context", "cursor", "developer-tools"]
+repository = "https://github.com/JordanCoin/codemap"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

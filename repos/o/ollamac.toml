@@ -1,0 +1,8 @@
+name = "Ollamac"
+description = "Mac app for Ollama"
+category = "local-llms"
+tags = ["ai", "llm", "llma", "llma2", "llms", "ollama", "mistral", "macos"]
+repository = "https://github.com/kevinhermawan/Ollamac"
+license = "NOASSERTION"
+language = "Swift"
+added = 2026-10-20

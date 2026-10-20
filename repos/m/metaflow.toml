@@ -1,0 +1,9 @@
+name = "metaflow"
+description = "Build, Manage and Deploy AI/ML Systems"
+category = "agents"
+tags = ["machine-learning", "model-management", "ai", "ml", "ml-platform", "ml-infrastructure", "python", "mlops"]
+repository = "https://github.com/Netflix/metaflow"
+website = "https://metaflow.org"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "OpenDerisk"
+description = "AI-Native Risk Intelligence Systems, OpenDeRisk——Your application system risk intelligent manager provides 7* 24-hour comprehensive and in-depth protection."
+category = "mcp-servers"
+tags = ["agent", "ai-sre", "aigc", "devops", "mcp", "rl", "multi-agent-systems", "multi-agents-orchestration"]
+repository = "https://github.com/derisk-ai/OpenDerisk"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

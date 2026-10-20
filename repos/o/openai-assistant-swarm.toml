@@ -1,0 +1,9 @@
+name = "openai-assistant-swarm"
+description = "Introducing the Assistant Swarm. An extension to the OpenAI Node SDK to automatically delegate work to any assistant you create in OpenAi through one united interface and manager. Now you can delegate work to a swarm of assistant all specialized with specific tasks you define."
+category = "no-code"
+tags = ["ai", "ai-agents", "ai-agents-framework", "ai-assistant", "ai-tools", "autogpt", "automation", "function-calling"]
+repository = "https://github.com/Mintplex-Labs/openai-assistant-swarm"
+website = "https://mintplexlabs.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

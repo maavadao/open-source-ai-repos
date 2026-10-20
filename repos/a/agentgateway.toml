@@ -1,0 +1,9 @@
+name = "agentgateway"
+description = "Next Generation Agentic Proxy for AI Agents and MCP servers"
+category = "mcp-servers"
+tags = ["agents", "ai", "mcp", "rust", "ai-gateway", "gateway-api", "kubernetes", "mcp-gateway"]
+repository = "https://github.com/agentgateway/agentgateway"
+website = "https://agentgateway.dev"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "awesome-TS-anomaly-detection"
+description = "List of tools & datasets for anomaly detection on time-series data."
+category = "learning"
+tags = ["anomaly-detection", "awesome-list", "outlier-detection", "machine-learning", "data-mining", "data-analysis", "time-series", "temporal-data"]
+repository = "https://github.com/rob-med/awesome-TS-anomaly-detection"
+license = "NOASSERTION"
+added = 2026-10-20

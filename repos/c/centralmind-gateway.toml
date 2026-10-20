@@ -1,0 +1,9 @@
+name = "gateway"
+description = "Universal MCP-Server for your Databases optimized for LLMs and AI-Agents."
+category = "mcp-servers"
+tags = ["api", "clickhouse", "llm", "mcp", "openai", "postgresql", "rest-api", "snowflake"]
+repository = "https://github.com/centralmind/gateway"
+website = "https://centralmind.ai"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

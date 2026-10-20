@@ -1,0 +1,9 @@
+name = "crew44"
+description = "Orchestrate a crew of specialist AI agents in one local-first workspace. Each role on its best model, with memory and skills that compound. Free, MIT."
+category = "coding"
+tags = ["ai-agents", "claude-code", "codex", "coding-agent", "developer-tools", "eletron", "gemini", "local-first"]
+repository = "https://github.com/getcrew44/crew44"
+website = "https://crew44.io"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "imgaug"
+description = "Image augmentation for machine learning experiments."
+category = "ml-platforms"
+tags = ["image-augmentation", "machine-learning", "augmentation", "deep-learning", "images", "affine-transformation", "polygon", "heatmap"]
+repository = "https://github.com/aleju/imgaug"
+website = "http://imgaug.readthedocs.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

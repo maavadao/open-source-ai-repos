@@ -1,0 +1,8 @@
+name = "openai_lab"
+description = "An experimentation framework for Reinforcement Learning using OpenAI Gym, Tensorflow, and Keras."
+category = "ml-platforms"
+tags = ["keras", "tensorflow", "openai", "experiment", "policy-gradient", "actor-critic", "ddpg", "deep-reinforcement-learning"]
+repository = "https://github.com/kengz/openai_lab"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

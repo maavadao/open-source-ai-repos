@@ -1,0 +1,9 @@
+name = "documentation-helper"
+description = "Reference implementation of a RAG-based documentation helper using LangChain, Pinecone, and Tavily.."
+category = "llm-apps"
+tags = ["langchain", "rag", "tavily"]
+repository = "https://github.com/emarco177/documentation-helper"
+website = "https://www.udemy.com/course/langchain/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

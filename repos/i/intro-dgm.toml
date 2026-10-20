@@ -1,0 +1,8 @@
+name = "intro_dgm"
+description = "\"Deep Generative Modeling\": Introductory Examples"
+category = "ml-platforms"
+tags = ["deep-generative-modelling", "variational-autoencoder", "flow-based-modeling", "autoregressive-modeling", "pytorch", "generative-adversarial-network", "energy-based-model", "neural-compression"]
+repository = "https://github.com/jmtomczak/intro_dgm"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

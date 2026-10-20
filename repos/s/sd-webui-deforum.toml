@@ -1,0 +1,9 @@
+name = "sd-webui-deforum"
+description = "Deforum extension for AUTOMATIC1111's Stable Diffusion webui"
+category = "image"
+tags = ["animations", "automatic1111", "plugin", "stable-diffusion", "webui", "deforum", "extension"]
+repository = "https://github.com/deforum/sd-webui-deforum"
+website = "https://deforum.github.io"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

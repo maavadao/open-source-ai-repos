@@ -1,0 +1,8 @@
+name = "chonky"
+description = "Fully neural approach for text chunking"
+category = "llm-apps"
+tags = ["ai", "chunking", "llms", "ml", "rag", "semantic-chunking", "text-splitter"]
+repository = "https://github.com/mirth/chonky"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

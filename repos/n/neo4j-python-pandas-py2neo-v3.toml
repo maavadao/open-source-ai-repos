@@ -1,0 +1,8 @@
+name = "neo4j-python-pandas-py2neo-v3"
+description = "Excel-to-Neo4j knowledge graph examples: legacy py2neo v3 plus modern Neo4j GraphRAG/vector search."
+category = "agents"
+tags = ["excel", "knowledge-graph", "neo4j", "pandas", "py2neo", "python", "ai-agents", "codex-skill"]
+repository = "https://github.com/MazzaWill/neo4j-python-pandas-py2neo-v3"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

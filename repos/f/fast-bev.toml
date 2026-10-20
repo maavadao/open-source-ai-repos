@@ -1,0 +1,8 @@
+name = "Fast-BEV"
+description = "Fast-BEV: A Fast and Strong Bird’s-Eye View Perception Baseline"
+category = "robotics"
+tags = ["3d", "bird-eye-view", "detection", "multi-camera", "autonomous", "autonomous-driving", "2d-to-3d"]
+repository = "https://github.com/Sense-GVT/Fast-BEV"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

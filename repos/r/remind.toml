@@ -1,0 +1,9 @@
+name = "ReMind"
+description = "Your Local Artificial Memory on your Device."
+category = "vector-databases"
+tags = ["ai", "artificial", "memory", "chromadb", "electronjs", "embeddings", "javascript", "langchain"]
+repository = "https://github.com/DonTizi/ReMind"
+website = "https://www.recallmemory.io/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Diffusion_models_from_scratch"
+description = "Creating a diffusion model from scratch in PyTorch to learn exactly how they work."
+category = "learning"
+tags = ["classifier-free-guidance", "ddim", "ddpm", "diffusion-models", "imagenet", "pytorch"]
+repository = "https://github.com/gmongaras/Diffusion_models_from_scratch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

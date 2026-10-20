@@ -1,0 +1,9 @@
+name = "mnemosyne"
+description = "Zero-cloud AI memory that works everywhere. SQLite-backed. One pure-Python dependency."
+category = "agents"
+tags = ["agents", "ai", "hermes", "hermes-agent", "ml", "nousresearch"]
+repository = "https://github.com/mnemosyne-oss/mnemosyne"
+website = "https://mnemosyne.site"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "so-vits-svc-fork"
+description = "so-vits-svc fork with realtime support, improved interface and more features."
+category = "speech"
+tags = ["sovits", "vits", "voice-conversion", "so-vits-svc", "hubert", "softvc", "realtime", "voice-changer"]
+repository = "https://github.com/voicepaw/so-vits-svc-fork"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

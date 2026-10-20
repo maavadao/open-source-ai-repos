@@ -1,0 +1,9 @@
+name = "rebiber"
+description = "A simple tool to update bib entries with their official information (e.g., DBLP or the ACL anthology)."
+category = "data-science"
+tags = ["bibtex", "latex", "publication", "research-paper", "bibliography", "natural-language-processing", "machine-learning"]
+repository = "https://github.com/yuchenlin/rebiber"
+website = "https://yuchenlin.xyz/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

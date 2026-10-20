@@ -1,0 +1,8 @@
+name = "Speech-Backbones"
+description = "This is the main repository of open-sourced speech technology by Huawei Noah's Ark Lab."
+category = "speech"
+tags = ["speech-synthesis", "speech-recognition", "speech-processing"]
+repository = "https://github.com/huawei-noah/Speech-Backbones"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

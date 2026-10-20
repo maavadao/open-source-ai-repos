@@ -1,0 +1,9 @@
+name = "librephotos"
+description = "A self-hosted open source photo management service."
+category = "data-science"
+tags = ["photo", "selfhosted", "exif", "machine-learning", "hacktoberfest", "python", "django"]
+repository = "https://github.com/LibrePhotos/librephotos"
+website = "https://docs.librephotos.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

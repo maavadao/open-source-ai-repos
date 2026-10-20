@@ -1,0 +1,9 @@
+name = "voicebox"
+description = "The open-source AI voice studio. Clone, dictate, create."
+category = "speech"
+tags = ["ai", "voice-clone", "qwen3-tts", "voice-ai", "whisper", "qwen3-tts-ui", "cuda", "mlx"]
+repository = "https://github.com/jamiepine/voicebox"
+website = "https://voicebox.sh"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

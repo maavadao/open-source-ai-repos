@@ -1,0 +1,9 @@
+name = "Catalyst.jl"
+description = "Chemical reaction network and systems biology interface for scientific machine learning (SciML). High performance, GPU-parallelized, and O(1) solvers in open source software."
+category = "learning"
+tags = ["differential-equations", "chemical-reactions", "reaction-network", "sde", "dsl", "ode", "gillespie-algorithm", "biology"]
+repository = "https://github.com/SciML/Catalyst.jl"
+website = "https://docs.sciml.ai/Catalyst/stable/"
+license = "NOASSERTION"
+language = "Julia"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "bolt-python"
+description = "A framework to build Slack apps using Python"
+category = "chat"
+tags = ["slack", "slack-api", "bolt", "web-api", "chatops", "chatbot", "python", "pypi-url"]
+repository = "https://github.com/slackapi/bolt-python"
+website = "https://docs.slack.dev/tools/bolt-python/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "any-llm"
+description = "Communicate with an LLM provider using a single interface"
+category = "local-llms"
+tags = ["inference", "llm", "text-completion", "ai", "anthropic", "developer-tools", "openai", "python"]
+repository = "https://github.com/mozilla-ai/any-llm"
+website = "https://docs.mozilla.ai/any-llm"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

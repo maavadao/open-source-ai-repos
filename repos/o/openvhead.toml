@@ -1,0 +1,8 @@
+name = "OpenVHead"
+description = "A 3D virtual head control system for VTuber in Unity with smooth motion and robust facial expressions"
+category = "vision"
+tags = ["vtuber", "motion-capture", "facial-expressions", "python", "unity3d", "csharp", "computer-vision"]
+repository = "https://github.com/TianxingWu/OpenVHead"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

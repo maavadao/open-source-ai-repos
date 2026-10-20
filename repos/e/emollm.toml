@@ -1,0 +1,9 @@
+name = "EmoLLM"
+description = "心理健康大模型 (LLM x Mental Health), Pre & Post-training & Dataset & Evaluation & Depoly & RAG, with InternLM / Qwen / Baichuan / DeepSeek / Mixtral / LLama / GLM series models"
+category = "models"
+tags = ["llm", "the-big-model-of-mental-health", "dataset", "depoly", "evaluation", "post-training"]
+repository = "https://github.com/SmartFlowAI/EmoLLM"
+website = "https://openxlab.org.cn/apps/detail/chg0901/EmoLLMV3.0"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

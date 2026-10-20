@@ -1,0 +1,9 @@
+name = "openai-kit"
+description = "A community Swift package used to interact with the OpenAI API"
+category = "chat"
+tags = ["gpt-3", "openai", "swift", "chatgpt", "ai", "dall-e"]
+repository = "https://github.com/dylanshine/openai-kit"
+website = "https://platform.openai.com/docs/api-reference"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

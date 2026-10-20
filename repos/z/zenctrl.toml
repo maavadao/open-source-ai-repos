@@ -1,0 +1,9 @@
+name = "ZenCtrl"
+description = "In-context subject-driven image generation while preserving foreground fidelity"
+category = "image"
+tags = ["diffusion-models", "flux", "image-generation", "img2img", "lora", "subject-driven-generation"]
+repository = "https://github.com/FotographerAI/ZenCtrl"
+website = "https://fotographer.ai/zenctrl"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

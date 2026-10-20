@@ -1,0 +1,8 @@
+name = "diffusionerf"
+description = "[CVPR 2023] DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models"
+category = "image"
+tags = ["deep-learning", "diffusion", "diffusion-models", "nerf", "neuralradiance-fields", "radiance-field", "reconstruction", "regularization"]
+repository = "https://github.com/nianticlabs/diffusionerf"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

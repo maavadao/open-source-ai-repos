@@ -1,0 +1,8 @@
+name = "BELLE"
+description = "BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型）"
+category = "image"
+tags = ["bloom", "instruction-set", "llama", "open-models", "gpt-q", "instruct-gpt", "gpt-evaluation", "chinese-nlp"]
+repository = "https://github.com/LianjiaTech/BELLE"
+license = "Apache-2.0"
+language = "HTML"
+added = 2026-10-20

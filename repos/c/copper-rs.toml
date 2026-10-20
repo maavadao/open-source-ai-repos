@@ -1,0 +1,9 @@
+name = "copper-rs"
+description = "Copper is an operating system for robots - build, run, and replay your entire robot deterministically."
+category = "robotics"
+tags = ["robotics", "ros", "rust", "operating-system", "physical-ai"]
+repository = "https://github.com/copper-project/copper-rs"
+website = "https://discord.gg/VkCG7Sb9Kw"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "VGGT-SLAM"
+description = "VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold"
+category = "robotics"
+tags = ["computer-vision", "slam", "vggt", "vggt-slam"]
+repository = "https://github.com/MIT-SPARK/VGGT-SLAM"
+license = "BSD-2-Clause"
+language = "Python"
+added = 2026-10-20

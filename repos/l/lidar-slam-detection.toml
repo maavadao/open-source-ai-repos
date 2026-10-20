@@ -1,0 +1,8 @@
+name = "lidar-slam-detection"
+description = "LSD (LiDAR SLAM & Detection) is an open source perception architecture for autonomous vehicle/robotic"
+category = "robotics"
+tags = ["calibration", "deep-learning", "detection", "perception", "pointcloud", "slam", "autonomous-driving", "lidar"]
+repository = "https://github.com/w111liang222/lidar-slam-detection"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

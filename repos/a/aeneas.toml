@@ -1,0 +1,9 @@
+name = "aeneas"
+description = "aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)"
+category = "speech"
+tags = ["speech", "alignment", "tts", "python", "linux", "macos", "windows", "nlp"]
+repository = "https://github.com/readbeyond/aeneas"
+website = "http://www.readbeyond.it/aeneas/"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

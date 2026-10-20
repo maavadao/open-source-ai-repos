@@ -1,0 +1,9 @@
+name = "TrustLLM"
+description = "[ICML 2024] TrustLLM: LLM trustworthiness evaluation across truthfulness, safety, fairness, robustness, privacy and ethics. Python/CLI toolkit for local models, compatible APIs and AI agent orchestration."
+category = "agents"
+tags = ["ai", "benchmark", "dataset", "large-language-models", "llm", "nlp", "trustworthy-ai", "trustworthy-machine-learning"]
+repository = "https://github.com/HowieHwong/TrustLLM"
+website = "https://trustllmbenchmark.github.io/TrustLLM-Website/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

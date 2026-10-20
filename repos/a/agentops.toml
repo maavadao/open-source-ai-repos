@@ -1,0 +1,9 @@
+name = "agentops"
+description = "Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and CamelAI"
+category = "local-llms"
+tags = ["agent", "agentops", "ai", "evals", "evaluation-metrics", "llm", "anthropic", "autogen"]
+repository = "https://github.com/AgentOps-AI/agentops"
+website = "https://agentops.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

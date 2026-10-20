@@ -1,0 +1,9 @@
+name = "EzAudio"
+description = "High-quality Text-to-Audio Generation with Efficient Diffusion Transformer"
+category = "image"
+tags = ["diffusion-models", "generative-ai", "text-to-audio"]
+repository = "https://github.com/haidog-yaqub/EzAudio"
+website = "https://haidog-yaqub.github.io/EzAudio-Page/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

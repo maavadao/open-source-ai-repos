@@ -1,0 +1,8 @@
+name = "ChatAny"
+description = "一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services"
+category = "image"
+tags = ["chatgpt", "chatgpt-web", "midjourney", "openai", "stable-diffusion", "chatgpt-next-web"]
+repository = "https://github.com/ChatAnyTeam/ChatAny"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

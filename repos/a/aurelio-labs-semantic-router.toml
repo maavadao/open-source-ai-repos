@@ -1,0 +1,9 @@
+name = "semantic-router"
+description = "Superfast AI decision making and intelligent processing of multi-modal data."
+category = "vision"
+tags = ["ai", "artificial-intelligence", "chatbot", "computer-vision", "generative-ai", "machine-learning", "nlp"]
+repository = "https://github.com/aurelio-labs/semantic-router"
+website = "https://www.aurelio.ai/semantic-router"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

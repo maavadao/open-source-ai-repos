@@ -1,0 +1,8 @@
+name = "ComputerVisionPractice"
+description = "A collection of notes, codes, and pictures I have related to computer vision"
+category = "vision"
+tags = ["computer-vision", "opencv-python"]
+repository = "https://github.com/LeBron-Jian/ComputerVisionPractice"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

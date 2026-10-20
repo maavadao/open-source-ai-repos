@@ -1,0 +1,10 @@
+name = "jax"
+description = "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more"
+category = "ml-platforms"
+tags = ["jax"]
+repository = "https://github.com/jax-ml/jax"
+website = "https://docs.jax.dev"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "advanced"
+added = 2026-10-20

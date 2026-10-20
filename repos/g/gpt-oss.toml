@@ -1,0 +1,8 @@
+name = "gpt-oss"
+description = "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI"
+category = "models"
+repository = "https://github.com/openai/gpt-oss"
+website = "https://openai.com/open-models"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "nlp-journey"
+description = "Documents, papers and codes related to Natural Language Processing, including Topic Model, Word Embedding, Named Entity Recognition, Text Classificatin, Text Generation, Text Similarity, Machine Translation)，etc."
+category = "ml-platforms"
+tags = ["deep-learning", "paper"]
+repository = "https://github.com/msgi/nlp-journey"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

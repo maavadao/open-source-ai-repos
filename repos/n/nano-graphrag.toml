@@ -1,0 +1,8 @@
+name = "nano-graphrag"
+description = "A simple, easy-to-hack GraphRAG implementation"
+category = "llm-apps"
+tags = ["gpt-4o", "graphrag", "learning-by-doing", "gpt", "llm", "rag"]
+repository = "https://github.com/gusye1234/nano-graphrag"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

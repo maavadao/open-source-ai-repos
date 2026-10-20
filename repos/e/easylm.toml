@@ -1,0 +1,8 @@
+name = "EasyLM"
+description = "Large language models (LLMs) made easy, EasyLM is a one stop solution for pre-training, finetuning, evaluating and serving LLMs in JAX/Flax."
+category = "chat"
+tags = ["deep-learning", "flax", "jax", "language-model", "natural-language-processing", "transformer", "large-language-models", "chatbot"]
+repository = "https://github.com/young-geng/EasyLM"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

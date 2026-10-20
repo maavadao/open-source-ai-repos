@@ -1,0 +1,9 @@
+name = "instruct-nerf2nerf"
+description = "Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions (ICCV 2023)"
+category = "image"
+tags = ["3d", "computer-vision", "diffusion-models", "machine-learning", "nerf", "pytorch"]
+repository = "https://github.com/ayaanzhaque/instruct-nerf2nerf"
+website = "https://instruct-nerf2nerf.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

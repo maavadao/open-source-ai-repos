@@ -1,0 +1,9 @@
+name = "madmom"
+description = "Python audio and music signal processing library"
+category = "data-science"
+tags = ["audio-analysis", "signal-processing", "machine-learning", "music-information-retrieval", "python", "numpy", "scipy", "cython"]
+repository = "https://github.com/CPJKU/madmom"
+website = "https://madmom.readthedocs.io"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ThinkJEPA"
+description = "[NeurIPS 2026] ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model"
+category = "robotics"
+tags = ["computer-vision", "jepa", "large-language-model", "multimodal", "multimodal-reasoning", "reasoning", "representation-learning", "self-supervised-learning"]
+repository = "https://github.com/Hai-chao-Zhang/ThinkJEPA"
+website = "http://www.zhanghaichao.xyz/ThinkJEPA/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,10 @@
+name = "StyleTTS2"
+description = "StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models"
+category = "speech"
+tags = ["deep-learning", "pytorch", "speaker-adaptation", "speech-synthesis", "text-to-speech", "tts", "wavlm", "diffusion-models"]
+repository = "https://github.com/yl4579/StyleTTS2"
+website = "https://styletts2.github.io"
+license = "MIT"
+language = "Python"
+skill_level = "advanced"
+added = 2026-10-20

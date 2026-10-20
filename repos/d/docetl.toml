@@ -1,0 +1,9 @@
+name = "docetl"
+description = "A system for agentic LLM-powered data processing and ETL"
+category = "no-code"
+tags = ["data", "etl", "llm", "python", "data-pipelines", "elt", "workflow", "agents"]
+repository = "https://github.com/ucbepic/docetl"
+website = "https://docetl.org"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Medical-Transformer"
+description = "Official Pytorch Code for \"Medical Transformer: Gated Axial-Attention for Medical Image Segmentation\" - MICCAI 2021"
+category = "vision"
+tags = ["pytorch", "segmentation", "medical-imaging", "medical-image-analysis", "deep-learning", "transformers", "attention", "transformer"]
+repository = "https://github.com/jeya-maria-jose/Medical-Transformer"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

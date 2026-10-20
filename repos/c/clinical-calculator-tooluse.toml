@@ -1,0 +1,8 @@
+name = "clinical-calculator-tooluse"
+description = "Explorations into training LLMs to use clinical calculators from patient history, using open sourced models. Will start with Wells' Criteria"
+category = "models"
+tags = ["artificial-intelligence", "attention-mechanisms", "deep-learning", "transformers", "medicine", "clinical-calculators"]
+repository = "https://github.com/lucidrains/clinical-calculator-tooluse"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

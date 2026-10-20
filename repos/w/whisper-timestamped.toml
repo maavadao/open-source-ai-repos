@@ -1,0 +1,8 @@
+name = "whisper-timestamped"
+description = "Multilingual Automatic Speech Recognition with word-level timestamps and confidence"
+category = "speech"
+tags = ["deep-learning", "speech", "speech-recognition", "speech-to-text", "asr", "machine-learning", "python", "python3"]
+repository = "https://github.com/linto-ai/whisper-timestamped"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

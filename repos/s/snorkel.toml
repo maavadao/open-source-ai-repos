@@ -1,0 +1,9 @@
+name = "snorkel"
+description = "A system for quickly generating training data with weak supervision"
+category = "data-science"
+tags = ["machine-learning", "ai", "weak-supervision", "labeling", "data-science", "python", "snorkel", "training-data"]
+repository = "https://github.com/snorkel-team/snorkel"
+website = "https://snorkel.org"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Synthalingua"
+description = "Synthalingua - Real Time Translation"
+category = "speech"
+tags = ["ai", "audio", "realtime", "speech-recognition", "speech-to-text", "transcription", "translation", "python"]
+repository = "https://github.com/cyberofficial/Synthalingua"
+website = "https://x.com/SynthalinguaGH"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

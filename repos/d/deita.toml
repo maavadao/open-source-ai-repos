@@ -1,0 +1,8 @@
+name = "deita"
+description = "Deita: Data-Efficient Instruction Tuning for Alignment [ICLR2024]"
+category = "models"
+tags = ["alignment", "data-centric", "instruction-tuning", "large-language-models"]
+repository = "https://github.com/hkust-nlp/deita"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

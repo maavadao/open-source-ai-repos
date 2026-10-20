@@ -1,0 +1,9 @@
+name = "spine-animation-ai"
+description = "AI-powered Claude skill for Spine 2D skeletal animation — auto-rig, animate, and preview characters"
+category = "video"
+tags = ["2d-animation", "ai", "animation", "claude", "game-dev", "openclaw", "animation-tool", "character-rigging"]
+repository = "https://github.com/GenielabsOpenSource/spine-animation-ai"
+website = "https://GenielabsOpenSource.github.io/spine-animation-ai/demo/sombrero_idle.html"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

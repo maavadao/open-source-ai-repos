@@ -1,0 +1,9 @@
+name = "agentdojo"
+description = "A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents."
+category = "security"
+tags = ["benchmark", "large-language-models", "prompt-injection", "security"]
+repository = "https://github.com/ethz-spylab/agentdojo"
+website = "https://agentdojo.spylab.ai/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

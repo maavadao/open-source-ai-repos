@@ -1,0 +1,8 @@
+name = "ML-Recipes"
+description = "A collection of stand-alone Python machine learning recipes"
+category = "ml-platforms"
+tags = ["python", "machine-learning", "recipes", "awesome", "neural-network", "reinforcement-learning", "algorithm"]
+repository = "https://github.com/rougier/ML-Recipes"
+license = "BSD-2-Clause"
+language = "Python"
+added = 2026-10-20

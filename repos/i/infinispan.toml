@@ -1,0 +1,9 @@
+name = "infinispan"
+description = "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store."
+category = "vector-databases"
+tags = ["infinispan", "infinispan-server", "key-value-store", "nosql", "search-engine", "inmemory-cache", "persistent-storage", "datagrid"]
+repository = "https://github.com/infinispan/infinispan"
+website = "https://infinispan.org"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

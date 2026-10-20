@@ -1,0 +1,9 @@
+name = "GIMP-ML"
+description = "AI for GNU Image Manipulation Program"
+category = "vision"
+tags = ["gimp-plugin", "image-manipulation", "computer-vision", "gimp", "photo-editing", "computervision", "deep-learning", "machine-learning"]
+repository = "https://github.com/kritiksoman/GIMP-ML"
+website = "https://github.com/kritiksoman/tmp/blob/master/GIMP-ML%20Presentation.pdf"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

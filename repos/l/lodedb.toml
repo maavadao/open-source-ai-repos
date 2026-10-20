@@ -1,0 +1,8 @@
+name = "LodeDB"
+description = "World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerated"
+category = "security"
+tags = ["db", "embeddings", "gpu-acceleration", "local-first", "privacy", "rag", "semantic-search", "turbovec"]
+repository = "https://github.com/Egoist-Machines/LodeDB"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "DiffMorpher"
+description = "Official Code for DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing (CVPR 2024)"
+category = "video"
+tags = ["diffusion-models", "image-editing", "image-morphing", "video-generation"]
+repository = "https://github.com/Kevin-thu/DiffMorpher"
+website = "https://kevin-thu.github.io/DiffMorpher_page/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

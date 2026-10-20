@@ -1,0 +1,8 @@
+name = "tacotron"
+description = "A TensorFlow implementation of Google's Tacotron speech synthesis with pre-trained model (unofficial)"
+category = "speech"
+tags = ["tacotron", "tensorflow", "speech-synthesis", "python", "machine-learning", "tts"]
+repository = "https://github.com/keithito/tacotron"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

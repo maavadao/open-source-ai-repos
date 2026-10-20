@@ -1,0 +1,8 @@
+name = "claude-code-router"
+description = "One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control."
+category = "agents"
+repository = "https://github.com/musistudio/claude-code-router"
+website = "https://ccrdesk.top/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

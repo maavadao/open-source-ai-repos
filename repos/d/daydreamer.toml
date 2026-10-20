@@ -1,0 +1,9 @@
+name = "daydreamer"
+description = "DayDreamer: World Models for Physical Robot Learning"
+category = "robotics"
+tags = ["reinforcement-learning", "robotics", "world-models"]
+repository = "https://github.com/danijar/daydreamer"
+website = "https://danijar.com/daydreamer"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

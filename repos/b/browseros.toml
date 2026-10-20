@@ -1,0 +1,9 @@
+name = "BrowserOS"
+description = "The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia."
+category = "mcp-servers"
+tags = ["browser", "browseros", "chromium", "linux", "macos", "windows", "agent", "llm"]
+repository = "https://github.com/browseros-ai/BrowserOS"
+website = "https://BrowserOS.com"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

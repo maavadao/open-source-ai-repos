@@ -1,0 +1,8 @@
+name = "tidy"
+description = "Offline semantic Text-to-Image and Image-to-Image search on Android powered by quantized state-of-the-art vision-language pretrained CLIP model and ONNX Runtime inference engine"
+category = "vision"
+tags = ["android", "clip", "computer-vision", "deep-learning", "image-retrieval", "kotlin", "nlp", "onnx"]
+repository = "https://github.com/slavabarkov/tidy"
+license = "GPL-3.0"
+language = "Kotlin"
+added = 2026-10-20

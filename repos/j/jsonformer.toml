@@ -1,0 +1,7 @@
+name = "jsonformer"
+description = "A Bulletproof Way to Generate Structured JSON from Language Models"
+category = "models"
+repository = "https://github.com/1rgs/jsonformer"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

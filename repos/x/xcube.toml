@@ -1,0 +1,9 @@
+name = "XCube"
+description = "[CVPR 2024 Highlight] XCube: Large-Scale 3D Generative Modeling using Sparse Voxel Hierarchies"
+category = "vision"
+tags = ["3d-generation", "computer-vision", "generative-ai", "graphics", "voxel"]
+repository = "https://github.com/nv-tlabs/XCube"
+website = "https://research.nvidia.com/labs/toronto-ai/xcube/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

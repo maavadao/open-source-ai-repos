@@ -1,0 +1,9 @@
+name = "shadow"
+description = "Your computer was paying attention the whole time. 14-modality capture. Proactive intelligence. Computer-use training data. Native macOS. All on-device. Open source."
+category = "mcp-servers"
+tags = ["accessibility", "ai-agents", "apple-silicon", "computer-use", "macos", "mcp", "memory", "mlx"]
+repository = "https://github.com/ghostwright/shadow"
+website = "https://ghostwright.dev/shadow"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

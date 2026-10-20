@@ -1,0 +1,8 @@
+name = "gpt-runner"
+description = "Conversations with your files! Manage and run your AI presets!"
+category = "chat"
+tags = ["ai", "anthropic", "chatgpt", "langchain", "llm", "openai", "prompt", "promptengineering"]
+repository = "https://github.com/nicepkg/gpt-runner"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

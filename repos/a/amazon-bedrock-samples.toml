@@ -1,0 +1,9 @@
+name = "amazon-bedrock-samples"
+description = "This repository contains examples for customers to get started using the Amazon Bedrock Service. This contains examples for all available foundational models"
+category = "llm-apps"
+tags = ["amazon-bedrock", "bedrock", "embeddings", "generative-ai", "rag", "amazon-titan", "knowledge-base", "langchain"]
+repository = "https://github.com/aws-samples/amazon-bedrock-samples"
+website = "https://aws.amazon.com/bedrock/"
+license = "MIT-0"
+language = "Jupyter Notebook"
+added = 2026-10-20

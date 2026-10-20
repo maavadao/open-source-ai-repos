@@ -1,0 +1,9 @@
+name = "one-agent-one-browser"
+description = "One from scratch browser built by one human and one agent, working hand in hand"
+category = "learning"
+tags = ["agents", "ai", "browser", "llm", "anti-coordination"]
+repository = "https://github.com/embedding-shapes/one-agent-one-browser"
+website = "https://emsh.cat/one-human-one-agent-one-browser/"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

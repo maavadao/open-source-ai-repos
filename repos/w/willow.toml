@@ -1,0 +1,9 @@
+name = "willow"
+description = "Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative"
+category = "security"
+tags = ["alexa", "deep-learning", "echo", "esp-adf", "esp-idf", "esp32", "home-assistant", "home-automation"]
+repository = "https://github.com/HeyWillow/willow"
+website = "https://heywillow.org/"
+license = "Apache-2.0"
+language = "C"
+added = 2026-10-20

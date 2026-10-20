@@ -1,0 +1,8 @@
+name = "adaptive-chunking"
+description = "Adaptive Chunking: automatically select the best chunking method per document for RAG. Accepted at LREC 2026."
+category = "llm-apps"
+tags = ["chunking", "information-retrieval", "llm", "nlp", "rag", "text-splitting"]
+repository = "https://github.com/ekimetrics/adaptive-chunking"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

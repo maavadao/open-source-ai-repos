@@ -1,0 +1,8 @@
+name = "PITI"
+description = "PITI: Pretraining is All You Need for Image-to-Image Translation"
+category = "image"
+tags = ["computer-vision", "image-generation", "image-synthesis", "image-to-image-translation", "pretraining"]
+repository = "https://github.com/PITI-Synthesis/PITI"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

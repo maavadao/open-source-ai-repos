@@ -1,0 +1,9 @@
+name = "ai-engineer-notebooks"
+description = "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set — model APIs, structured output, tool calling, RAG, evals-as-the-spine, agents (loop from scratch, tool design, guardrails, MCP, Skills), fine-tuning vs LoRA…"
+category = "learning"
+tags = ["agents", "ai-engineer", "colab", "evals", "forward-deployed-engineer", "llm", "notebooks", "rag"]
+repository = "https://github.com/calmrocks/ai-engineer-notebooks"
+website = "https://www.calm.rocks/resources/career-development/transition-fde-ai-engineer/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

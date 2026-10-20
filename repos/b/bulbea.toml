@@ -1,0 +1,9 @@
+name = "bulbea"
+description = "Deep Learning based Python Library for Stock Market Prediction and Modelling"
+category = "ml-platforms"
+tags = ["deep-learning", "stock-market", "machine-learning", "finance", "sentiment-analysis", "quantitative-finance", "quantitative-trading", "stock-market-prediction"]
+repository = "https://github.com/achillesrasquinha/bulbea"
+website = "http://bulbea.readthedocs.io"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

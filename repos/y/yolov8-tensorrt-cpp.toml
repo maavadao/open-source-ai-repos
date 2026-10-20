@@ -1,0 +1,8 @@
+name = "YOLOv8-TensorRT-CPP"
+description = "YOLOv8 TensorRT C++ Implementation"
+category = "vision"
+tags = ["computer-vision", "cpp", "machine-learning", "tensorrt", "yolo", "yolov8"]
+repository = "https://github.com/cyrusbehr/YOLOv8-TensorRT-CPP"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

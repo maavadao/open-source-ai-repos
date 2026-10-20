@@ -1,0 +1,9 @@
+name = "vibepod-cli"
+description = "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffic tracking, and an analytics dashboard to track agent actions."
+category = "coding"
+tags = ["claude-code", "codex", "opencode", "agentic-ai", "ai-agents", "ai-coding-assistant", "auggie-cli", "cli"]
+repository = "https://github.com/VibePod/vibepod-cli"
+website = "https://vibepod.dev"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

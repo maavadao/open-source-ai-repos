@@ -1,0 +1,9 @@
+name = "hamilton"
+description = "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does."
+category = "llm-apps"
+tags = ["data-science", "python", "dag", "data-engineering", "dataframe", "etl", "etl-framework", "etl-pipeline"]
+repository = "https://github.com/apache/hamilton"
+website = "https://hamilton.apache.org/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

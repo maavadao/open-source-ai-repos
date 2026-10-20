@@ -1,0 +1,9 @@
+name = "GRACE"
+description = "[ICML 2026] GRACE: deployable INT4 VLM via quantization-aware distillation."
+category = "models"
+tags = ["awq", "efficient-ai", "icml-2026", "int4", "knowledge-distillation", "multimodal", "pytorch", "quantization-aware-training"]
+repository = "https://github.com/ForeverBlue816/GRACE"
+website = "https://huggingface.co/spaces/ForeverBlue/GRACE-VLM"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "TTS-Audio-Suite"
+description = "A ComfyUI custom node integration for local multi-engine multi-language Text-to-Speech and Voice Conversion. Supports: RVC, Echo-TTS, Qwen3-TTS, Cozy Voice 3, Step Audio EditX, IndexTTS-2, Chatterbox (classic and multilingual), F5-TTS, Higgs Audio 2, 3, and VibeVoice with…"
+category = "speech"
+tags = ["ai-audio", "audio-processing", "chatterbox", "comfyui", "f5-tts", "higgs-audio", "text-to-speech", "tts"]
+repository = "https://github.com/diodiogod/TTS-Audio-Suite"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

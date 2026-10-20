@@ -1,0 +1,8 @@
+name = "TensorFlow-Course"
+description = "Simple and ready-to-use tutorials for TensorFlow"
+category = "learning"
+tags = ["tensorflow", "python", "deep-learning", "deep-learning-tutorial"]
+repository = "https://github.com/instillai/TensorFlow-Course"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ToolUniverse"
+description = "Democratizing AI scientists with ToolUniverse"
+category = "mcp-servers"
+tags = ["agents", "reasoning-agent", "reasoning-language-models", "tool-use", "ai-agents", "ai-scientists", "automated-science", "co-pilot"]
+repository = "https://github.com/mims-harvard/ToolUniverse"
+website = "https://aiscientist.tools"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "stable-diffusion-nvidia-docker"
+description = "GPU-ready Dockerfile to run Stability.AI stable-diffusion model v2 with a simple web interface. Includes multi-GPUs support."
+category = "image"
+tags = ["docker", "image-generation", "nvidia-docker", "stable-diffusion", "multi-gpu"]
+repository = "https://github.com/NickLucche/stable-diffusion-nvidia-docker"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

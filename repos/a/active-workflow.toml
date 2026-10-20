@@ -1,0 +1,9 @@
+name = "active_workflow"
+description = "Polyglot workflows without leaving the comfort of your technology stack."
+category = "no-code"
+tags = ["orchestration-framework", "scheduling", "workflow", "event-driven", "ifttt", "scheduler", "services-platform", "data-engineering"]
+repository = "https://github.com/automaticmode/active_workflow"
+website = "https://www.activeworkflow.org"
+license = "NOASSERTION"
+language = "Ruby"
+added = 2026-10-20

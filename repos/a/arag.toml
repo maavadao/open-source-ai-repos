@@ -1,0 +1,9 @@
+name = "arag"
+description = "A-RAG: Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces. State-of-the-art RAG framework with keyword, semantic, and chunk read tools for multi-hop QA."
+category = "agents"
+tags = ["agent", "agentic-ai", "agenticrag", "deepresearch", "evaluation", "graphrag", "llm", "llmagents"]
+repository = "https://github.com/Ayanami0730/arag"
+website = "https://agentresearchlab.org/agents/a-rag"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

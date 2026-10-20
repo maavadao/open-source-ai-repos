@@ -1,0 +1,9 @@
+name = "dspy"
+description = "DSPy: The framework for programming—not prompting—language models"
+category = "llm-apps"
+repository = "https://github.com/stanfordnlp/dspy"
+website = "https://dspy.ai"
+license = "MIT"
+language = "Python"
+skill_level = "advanced"
+added = 2026-10-20

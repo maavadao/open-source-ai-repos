@@ -1,0 +1,8 @@
+name = "Bert-VITS2"
+description = "vits2 backbone with multilingual-bert"
+category = "speech"
+tags = ["bert", "bert-vits2", "tts", "vits", "vits2", "bert-vits", "llm", "fish"]
+repository = "https://github.com/fishaudio/Bert-VITS2"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

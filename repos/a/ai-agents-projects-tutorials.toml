@@ -1,0 +1,9 @@
+name = "AI-Agents-Projects-Tutorials"
+description = "Multi-agent systems, memory, planning, reasoning loops"
+category = "learning"
+tags = ["aiagents", "agent-skills", "agentic-ai", "agentic-ai-development", "agentic-coding", "agentic-engineering", "agentic-framework", "agentic-rag"]
+repository = "https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials"
+website = "https://marktechpost.com/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

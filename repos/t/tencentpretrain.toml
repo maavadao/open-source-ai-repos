@@ -1,0 +1,8 @@
+name = "TencentPretrain"
+description = "Tencent Pre-training framework in PyTorch & Pre-trained Model Zoo"
+category = "models"
+tags = ["albert", "bart", "bert", "chinese", "classification", "clue", "elmo", "fine-tuning"]
+repository = "https://github.com/Tencent/TencentPretrain"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "mdflux"
+description = "Turn any document into clean, AI-ready Markdown. Local-first desktop app: reads scanned PDFs, batches folders, runs offline, and uses far fewer tokens than vision models."
+category = "documents"
+tags = ["desktop-app", "document-conversion", "llm", "local-first", "markdown", "markitdown", "ocr", "offline"]
+repository = "https://github.com/ibrahimqureshae/mdflux"
+website = "https://ibrahimqureshae.github.io/mdflux/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

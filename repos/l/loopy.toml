@@ -1,0 +1,9 @@
+name = "loopy"
+description = "A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows."
+category = "skills-prompts"
+tags = ["agent-skills", "agentic-workflows", "ai-agents", "automation", "codex", "prompt-engineering"]
+repository = "https://github.com/Forward-Future/loopy"
+website = "https://signals.forwardfuture.ai/loop-library/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

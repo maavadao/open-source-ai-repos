@@ -1,0 +1,9 @@
+name = "polyglot"
+description = "Cross-platform AI language practice app （跨平台AI语言练习应用）"
+category = "speech"
+tags = ["azure", "chatgpt", "electron", "polyglot", "tts", "openai"]
+repository = "https://github.com/liou666/polyglot"
+website = "https://doc.polyglotai.xyz"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

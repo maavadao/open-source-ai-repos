@@ -1,0 +1,9 @@
+name = "clover"
+description = "ROS-based framework and RPi image to control PX4-powered drones"
+category = "education"
+tags = ["ros", "px4", "mavros", "aruco", "quadcopter", "computer-vision", "optical-flow", "drone"]
+repository = "https://github.com/CopterExpress/clover"
+website = "https://clovercoex.tech"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "open-metric-learning"
+description = "Metric learning and retrieval pipelines, models and zoo."
+category = "vision"
+tags = ["computer-vision", "data-science", "deep-learning", "metric-learning", "pytorch", "pytorch-lightning", "representation-learning", "hacktoberfest"]
+repository = "https://github.com/OML-Team/open-metric-learning"
+website = "https://open-metric-learning.readthedocs.io/en/latest/index.html"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

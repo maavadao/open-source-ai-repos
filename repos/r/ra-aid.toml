@@ -1,0 +1,9 @@
+name = "RA.Aid"
+description = "Develop software autonomously."
+category = "agents"
+tags = ["agents", "ai", "software-engineering"]
+repository = "https://github.com/ai-christianson/RA.Aid"
+website = "https://ra-aid.ai/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

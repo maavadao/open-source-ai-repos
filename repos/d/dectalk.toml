@@ -1,0 +1,9 @@
+name = "dectalk"
+description = "Modern builds for the 90s/00s DECtalk text-to-speech application."
+category = "speech"
+tags = ["dectalk", "text-to-speech", "tts"]
+repository = "https://github.com/dectalk/dectalk"
+website = "https://dectalk.github.io/dectalk/dectalk.htm"
+license = "NOASSERTION"
+language = "PostScript"
+added = 2026-10-20

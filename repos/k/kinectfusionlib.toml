@@ -1,0 +1,9 @@
+name = "KinectFusionLib"
+description = "Implementation of the KinectFusion approach in modern C++14 and CUDA"
+category = "vision"
+tags = ["kinect-fusion", "kinect", "point-cloud", "depth-image", "surface-mesh", "mesh", "marching-cubes", "computer-vision"]
+repository = "https://github.com/chrdiller/KinectFusionLib"
+website = "https://www.christian-diller.de/projects/kinectfusionlib/"
+license = "MIT"
+language = "Cuda"
+added = 2026-10-20

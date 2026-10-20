@@ -1,0 +1,9 @@
+name = "llmtrim"
+description = "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens from prompts, history, tool output, and code before they're sent: -31% input / -74% output, measured live. Any provider, no extra model calls. Also an MCP…"
+category = "mcp-servers"
+tags = ["agentic-coding", "ai", "anthropic", "claude-code", "cost-reduction", "developer-tools", "llm", "llmops"]
+repository = "https://github.com/fkiene/llmtrim"
+website = "https://www.npmjs.com/package/@llmtrim/cli"
+license = "MPL-2.0"
+language = "Rust"
+added = 2026-10-20

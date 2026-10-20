@@ -1,0 +1,9 @@
+name = "ouroboros"
+description = "Ouroboros — self-creating AI agent. Born Feb 16, 2026."
+category = "mcp-servers"
+tags = ["ai-agent", "autonomous-agent", "coding-agent", "computer-use", "desktop-agent", "developer-tools", "digital-being", "general-purpose-agent"]
+repository = "https://github.com/razzant/ouroboros"
+website = "https://ouroboros-agent.ai/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

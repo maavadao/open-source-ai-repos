@@ -1,0 +1,9 @@
+name = "aibeat"
+description = "Break your AI before they do. Join Discord: https://discord.gg/NXXz8JG74"
+category = "security"
+tags = ["agents", "ai-security", "ai-security-testing", "aisecurity"]
+repository = "https://github.com/tophant-ai/aibeat"
+website = "https://aibeat.ai"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "docsagent"
+description = "DocsAgent — give your AI agents instant, private access to your personal knowledge base (Zotero, Obsidian, Apple Notes supported now, local docs on the road). Native C++ search core: BM25 + passage ranking in ~15 ms. MCP server for Claude, Cursor, Cline & any MCP client."
+category = "mcp-servers"
+tags = ["local-ai", "pdf", "search", "ai-agents", "bm25", "claude", "cursor", "full-text-search"]
+repository = "https://github.com/docsagent/docsagent"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

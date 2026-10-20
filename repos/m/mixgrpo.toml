@@ -1,0 +1,9 @@
+name = "MixGRPO"
+description = "[ECCV 2026] MixGRPO: Unlocking Flow-based GRPO Efficiency with Mixed ODE-SDE"
+category = "image"
+tags = ["diffusion", "grpo", "reinforcement-learning"]
+repository = "https://github.com/Tencent-Hunyuan/MixGRPO"
+website = "https://tulvgengenr.github.io/MixGRPO-Project-Page/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

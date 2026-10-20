@@ -1,0 +1,9 @@
+name = "deepvoice3_pytorch"
+description = "PyTorch implementation of convolutional neural networks-based text-to-speech synthesis models"
+category = "speech"
+tags = ["tts", "speech-synthesis", "end-to-end", "speech-processing", "machine-learning", "pytorch", "python", "multi-speaker"]
+repository = "https://github.com/r9y9/deepvoice3_pytorch"
+website = "https://r9y9.github.io/deepvoice3_pytorch/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

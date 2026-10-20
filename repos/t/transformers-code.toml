@@ -1,0 +1,8 @@
+name = "transformers-code"
+description = "手把手带你实战 Huggingface Transformers 课程视频同步更新在B站与YouTube"
+category = "models"
+tags = ["huggingface", "peft", "transformers"]
+repository = "https://github.com/zyds/transformers-code"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

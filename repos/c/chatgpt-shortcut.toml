@@ -1,0 +1,9 @@
+name = "ChatGPT-Shortcut"
+description = "Stop writing prompts from scratch — a searchable prompt library for ChatGPT, Claude, Gemini and Cursor · Русский 한국어 العربية हिन्दी ไทย ｜ 别再从头写提示词：现成的拿来就用，好用的收进自己的库"
+category = "learning"
+tags = ["chatgpt", "prompts", "prompt", "ai-tools", "chatgpt-prompts", "productivity", "prompt-engineering", "aigc"]
+repository = "https://github.com/rockbenben/ChatGPT-Shortcut"
+website = "https://www.aishort.top/en"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

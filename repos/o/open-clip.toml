@@ -1,0 +1,8 @@
+name = "open_clip"
+description = "An open source implementation of CLIP."
+category = "vision"
+tags = ["deep-learning", "pytorch", "computer-vision", "language-model", "multi-modal-learning", "contrastive-loss", "zero-shot-classification", "pretrained-models"]
+repository = "https://github.com/mlfoundations/open_clip"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

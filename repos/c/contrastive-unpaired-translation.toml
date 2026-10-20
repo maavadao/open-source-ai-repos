@@ -1,0 +1,9 @@
+name = "contrastive-unpaired-translation"
+description = "Contrastive unpaired image-to-image translation, faster and lighter training than cyclegan (ECCV 2020, in PyTorch)"
+category = "image"
+tags = ["pytorch", "computervision", "deeplearning", "cyclegan", "image-generation", "computer-vision", "computer-graphics", "image-manipulation"]
+repository = "https://github.com/taesungp/contrastive-unpaired-translation"
+website = "https://taesung.me/ContrastiveUnpairedTranslation/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,10 @@
+name = "PX4-Autopilot"
+description = "PX4 Autopilot Software"
+category = "robotics"
+tags = ["px4", "pixhawk", "uav", "uas", "dronecode", "autopilot", "ros", "drone"]
+repository = "https://github.com/PX4/PX4-Autopilot"
+website = "https://px4.io"
+license = "BSD-3-Clause"
+language = "C++"
+skill_level = "advanced"
+added = 2026-10-20

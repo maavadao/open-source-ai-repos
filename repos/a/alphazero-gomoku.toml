@@ -1,0 +1,8 @@
+name = "AlphaZero_Gomoku"
+description = "An implementation of the AlphaZero algorithm for Gomoku (also called Gobang or Five in a Row)"
+category = "ml-platforms"
+tags = ["alphazero", "mcts", "alphago-zero", "gomoku", "gobang", "monte-carlo-tree-search", "alphago", "reinforcement-learning"]
+repository = "https://github.com/junxiaosong/AlphaZero_Gomoku"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

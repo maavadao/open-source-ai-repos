@@ -1,0 +1,9 @@
+name = "frankx"
+description = "High-Level Motion Library for Collaborative Robots"
+category = "robotics"
+tags = ["robotics", "trajectory-generation", "motion-control", "cpp", "python"]
+repository = "https://github.com/pantor/frankx"
+website = "https://pantor.github.io/frankx/"
+license = "LGPL-3.0"
+language = "C++"
+added = 2026-10-20

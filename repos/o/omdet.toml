@@ -1,0 +1,8 @@
+name = "OmDet"
+description = "Real-time and accurate open-vocabulary end-to-end object detection"
+category = "vision"
+tags = ["object-detection", "open-vocabulary", "vision-and-language", "zero-shot-object-detection", "computer-vision", "zero-shot", "coco", "lvis"]
+repository = "https://github.com/om-ai-lab/OmDet"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

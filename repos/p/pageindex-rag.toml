@@ -1,0 +1,8 @@
+name = "pageindex-rag"
+description = "Vectorless, Reasoning-Based Retrieval-Augmented Generation (RAG)"
+category = "vector-databases"
+tags = ["ai", "pageindex", "rag", "rag-pipeline", "vector-database", "vectorless-rag"]
+repository = "https://github.com/vixhal-baraiya/pageindex-rag"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

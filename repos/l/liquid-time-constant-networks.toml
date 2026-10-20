@@ -1,0 +1,9 @@
+name = "liquid_time_constant_networks"
+description = "Code Repository for Liquid Time-Constant Networks (LTCs)"
+category = "ml-platforms"
+tags = ["deep-learning", "liquid-neural-networks", "recurrent-neural-networks", "sequence-modeling", "state-space-models", "time-series"]
+repository = "https://github.com/raminmh/liquid_time_constant_networks"
+website = "https://arxiv.org/abs/2006.04439"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

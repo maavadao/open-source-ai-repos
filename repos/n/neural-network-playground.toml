@@ -1,0 +1,8 @@
+name = "Neural-Network-Playground"
+description = "A neural network Swift playground, with no third party dependencies."
+category = "vision"
+tags = ["wwdc-scholarship", "computer-vision", "neural-network", "swift-playgrounds"]
+repository = "https://github.com/hetelek/Neural-Network-Playground"
+license = "NOASSERTION"
+language = "Swift"
+added = 2026-10-20

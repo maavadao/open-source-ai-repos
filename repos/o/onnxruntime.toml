@@ -1,0 +1,9 @@
+name = "onnxruntime"
+description = "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
+category = "ml-platforms"
+tags = ["deep-learning", "onnx", "neural-networks", "machine-learning", "ai-framework", "hardware-acceleration", "pytorch", "tensorflow"]
+repository = "https://github.com/microsoft/onnxruntime"
+website = "https://onnxruntime.ai"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

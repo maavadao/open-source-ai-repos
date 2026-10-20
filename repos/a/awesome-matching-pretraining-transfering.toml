@@ -1,0 +1,7 @@
+name = "Awesome_Matching_Pretraining_Transfering"
+description = "The Paper List of Large Multi-Modality Model (Perception, Generation, Unification), Parameter-Efficient Finetuning, Vision-Language Pretraining, Conventional Image-Text Matching for Preliminary Insight."
+category = "learning"
+tags = ["cross-modal-retrieval", "tutorial", "awesome-list", "image-text-matching", "image-text-retrieval", "large-language-models", "large-vision-language-models", "large-vision-models"]
+repository = "https://github.com/Paranioar/Awesome_Matching_Pretraining_Transfering"
+license = "MIT"
+added = 2026-10-20

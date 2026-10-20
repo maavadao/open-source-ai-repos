@@ -1,0 +1,9 @@
+name = "surf"
+description = "Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local)."
+category = "learning"
+tags = ["local", "productivity", "rust", "svelte", "typescript", "claude", "deepseek", "gemma"]
+repository = "https://github.com/deta/surf"
+website = "https://deta.surf"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

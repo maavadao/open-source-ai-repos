@@ -1,0 +1,8 @@
+name = "self-driving-car"
+description = "Udacity Self-Driving Car Engineer Nanodegree projects."
+category = "learning"
+tags = ["self-driving-car", "udacity-self-driving-car", "deep-learning", "deep-neural-networks", "kalman-filter", "lecture-material", "particle-filter", "lane-finding"]
+repository = "https://github.com/ndrplz/self-driving-car"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

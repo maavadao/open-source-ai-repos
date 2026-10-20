@@ -1,0 +1,8 @@
+name = "ableton-mcp"
+description = "Control Ableton Live with any LLM: create tracks, arrange clips & compose music via MCP"
+category = "mcp-servers"
+tags = ["ableton", "ai", "claude", "daw", "generative-ai", "llm", "mcp", "model-context-protocol"]
+repository = "https://github.com/ahujasid/ableton-mcp"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

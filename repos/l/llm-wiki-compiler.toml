@@ -1,0 +1,9 @@
+name = "llm-wiki-compiler"
+description = "The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern."
+category = "mcp-servers"
+tags = ["cli", "knowledge-base", "llm", "markdown", "obsidian", "wiki", "compiler", "context-engineering"]
+repository = "https://github.com/atomicstrata/llm-wiki-compiler"
+website = "https://llmwiki.atomicstrata.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "geospatial-machine-learning"
+description = "A curated list of resources focused on Machine Learning in Geospatial Data Science."
+category = "learning"
+tags = ["gis", "geospatial", "machine-learning", "geoscience", "remote-sensing", "tensorflow", "keras", "semantic-segmentation"]
+repository = "https://github.com/deepVector/geospatial-machine-learning"
+license = "MIT"
+added = 2026-10-20

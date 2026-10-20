@@ -1,0 +1,9 @@
+name = "multilspy"
+description = "multilspy is a lsp client library in Python intended to be used to build applications around language servers."
+category = "coding"
+tags = ["ai", "ai4code", "artificial-intelligence", "code-analysis", "code-completion", "code-generation", "codegen", "huggingface-transformers"]
+repository = "https://github.com/microsoft/multilspy"
+website = "https://www.microsoft.com/en-us/research/publication/guiding-language-models-of-code-with-global-context-using-monitors/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

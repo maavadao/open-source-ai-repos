@@ -1,0 +1,8 @@
+name = "LanPaint"
+description = "High quality training free inpaint for every stable diffusion model. Supports ComfyUI"
+category = "video"
+tags = ["diffusion-models", "generative-ai", "image-editing", "inpainting", "inpainting-algorithm", "video-editing", "diffusion-inpainting", "generative-model"]
+repository = "https://github.com/scraed/LanPaint"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

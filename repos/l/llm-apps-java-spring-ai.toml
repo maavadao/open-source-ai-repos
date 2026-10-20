@@ -1,0 +1,8 @@
+name = "llm-apps-java-spring-ai"
+description = "Samples showing how to build Java applications powered by Generative AI and LLMs using Spring AI and Spring Boot."
+category = "local-llms"
+tags = ["large-language-models", "llm", "ollama", "openai", "spring-ai", "embeddings", "generative-ai", "rag"]
+repository = "https://github.com/ThomasVitale/llm-apps-java-spring-ai"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

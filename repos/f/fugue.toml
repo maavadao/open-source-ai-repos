@@ -1,0 +1,9 @@
+name = "fugue"
+description = "A unified interface for distributed computing. Fugue executes SQL, Python, Pandas, and Polars code on Spark, Dask and Ray without any rewrites."
+category = "data-science"
+tags = ["spark", "dask", "data-practitioners", "machine-learning", "distributed-systems", "distributed-computing", "distributed", "sql"]
+repository = "https://github.com/fugue-project/fugue"
+website = "https://fugue-tutorials.readthedocs.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

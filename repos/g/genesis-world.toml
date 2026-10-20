@@ -1,0 +1,8 @@
+name = "genesis-world"
+description = "Simulation platform for general-purpose robotics & embodied AI learning."
+category = "robotics"
+repository = "https://github.com/Genesis-Embodied-AI/genesis-world"
+website = "https://genesis-world.readthedocs.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

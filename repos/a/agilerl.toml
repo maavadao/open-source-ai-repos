@@ -1,0 +1,9 @@
+name = "AgileRL"
+description = "The complete post-training stack for LLMs, plus RL for any problem. SFT, DPO and multi-turn agentic RL, with evolutionary hyperparameter optimization built in."
+category = "agents"
+tags = ["reinforcement-learning", "deep-reinforcement-learning", "deep-learning", "machine-learning", "hpo", "training", "hyperparameter-optimization", "agilerl"]
+repository = "https://github.com/AgileRL/AgileRL"
+website = "https://agilerl.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

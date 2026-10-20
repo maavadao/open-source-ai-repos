@@ -1,0 +1,9 @@
+name = "amazon-q-developer-cli"
+description = "Agentic chat experience in your terminal. Build applications using natural language."
+category = "mcp-servers"
+tags = ["ai", "amazon-q", "cli", "llm", "productivity", "rust", "terminal", "typescript"]
+repository = "https://github.com/aws/amazon-q-developer-cli"
+website = "https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line-installing.html"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

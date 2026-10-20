@@ -1,0 +1,9 @@
+name = "instant-ngp"
+description = "Instant neural graphics primitives: lightning fast NeRF and more"
+category = "vision"
+tags = ["neural-network", "machine-learning", "cuda", "nerf", "computer-graphics", "computer-vision", "3d-reconstruction", "signed-distance-functions"]
+repository = "https://github.com/NVlabs/instant-ngp"
+website = "https://nvlabs.github.io/instant-ngp"
+license = "NOASSERTION"
+language = "Cuda"
+added = 2026-10-20

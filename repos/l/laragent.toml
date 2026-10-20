@@ -1,0 +1,9 @@
+name = "LarAgent"
+description = "Power of AI Agents in your Laravel project"
+category = "agents"
+tags = ["ai", "ai-agents", "framework", "laravel", "laravel-package"]
+repository = "https://github.com/MaestroError/LarAgent"
+website = "https://laragent.ai/"
+license = "MIT"
+language = "PHP"
+added = 2026-10-20

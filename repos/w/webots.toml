@@ -1,0 +1,9 @@
+name = "webots"
+description = "Webots Robot Simulator"
+category = "robotics"
+tags = ["robotics", "robot", "simulator", "simulation", "ros", "physics-engine", "3d-engine", "fluid-dynamics"]
+repository = "https://github.com/cyberbotics/webots"
+website = "https://cyberbotics.com"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

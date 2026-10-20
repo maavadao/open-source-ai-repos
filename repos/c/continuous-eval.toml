@@ -1,0 +1,9 @@
+name = "continuous-eval"
+description = "Data-Driven Evaluation for LLM-Powered Applications"
+category = "llm-apps"
+tags = ["evaluation-framework", "evaluation-metrics", "information-retrieval", "llm-evaluation", "llmops", "rag", "retrieval-augmented-generation"]
+repository = "https://github.com/relari-ai/continuous-eval"
+website = "https://continuous-eval.docs.relari.ai/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

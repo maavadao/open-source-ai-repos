@@ -1,0 +1,10 @@
+name = "adk-python"
+description = "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control."
+category = "agents"
+tags = ["agent", "agents", "agents-sdk", "ai", "ai-agents", "multi-agent-systems", "multi-agents", "multi-agents-collaboration"]
+repository = "https://github.com/google/adk-python"
+website = "https://google.github.io/adk-docs/"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

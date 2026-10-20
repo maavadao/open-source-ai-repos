@@ -1,0 +1,9 @@
+name = "llm-chain"
+description = "`llm-chain` is a powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks"
+category = "chat"
+tags = ["llm", "chatgpt", "langchain", "llama", "openai", "rust", "text-summary"]
+repository = "https://github.com/sobelio/llm-chain"
+website = "https://llm-chain.xyz"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

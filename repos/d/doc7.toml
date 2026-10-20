@@ -1,0 +1,8 @@
+name = "doc7"
+description = "Turn documents into AI-ready Markdown with visual understanding"
+category = "documents"
+tags = ["document-ai", "docx-to-markdown", "local-ai", "markdown", "multimodal", "open-source", "pdf-to-markdown", "vision-language-model"]
+repository = "https://github.com/magicrew/doc7"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

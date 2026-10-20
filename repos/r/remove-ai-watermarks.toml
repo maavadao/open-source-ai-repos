@@ -1,0 +1,9 @@
+name = "remove-ai-watermarks"
+description = "Remove visible and invisible AI watermarks from images and video, and AI provenance metadata from images, video, and audio. Python library, CLI, and agent skill for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks."
+category = "image"
+tags = ["cli", "image-processing", "metadata", "watermark-removal", "c2pa", "gemini", "synthid", "ai-watermark"]
+repository = "https://github.com/wiltodelta/remove-ai-watermarks"
+website = "https://raiw.cc"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

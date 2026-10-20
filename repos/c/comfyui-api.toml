@@ -1,0 +1,8 @@
+name = "comfyui-api"
+description = "A simple API server to make ComfyUI easy to scale horizontally. Get outputs directly in the response, or asynchronously via a variety of storage providers."
+category = "image"
+tags = ["ai-image-generation", "comfyui", "image-generation", "web-server"]
+repository = "https://github.com/SaladTechnologies/comfyui-api"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

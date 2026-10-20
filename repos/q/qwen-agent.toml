@@ -1,0 +1,8 @@
+name = "Qwen-Agent"
+description = "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc."
+category = "mcp-servers"
+repository = "https://github.com/QwenLM/Qwen-Agent"
+website = "https://pypi.org/project/qwen-agent/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

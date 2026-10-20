@@ -1,0 +1,8 @@
+name = "text2art"
+description = "AI-powered Text-to-Art Generator - Text2Art.com"
+category = "image"
+tags = ["generative-art", "gan", "art", "text-to-image", "pixel-art", "painting", "machine-learning", "deep-learning"]
+repository = "https://github.com/mfrashad/text2art"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

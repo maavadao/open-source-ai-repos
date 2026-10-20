@@ -1,0 +1,9 @@
+name = "sd-ppp"
+description = "A Photoshop AI plugin"
+category = "image"
+tags = ["flux", "flux-kontext", "nano-banana", "photoshop", "adobe", "comfyui", "midjourney", "replicate"]
+repository = "https://github.com/zombieyang/sd-ppp"
+website = "https://sdppp.zombee.tech/"
+license = "BSD-3-Clause"
+language = "JavaScript"
+added = 2026-10-20

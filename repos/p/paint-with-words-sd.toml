@@ -1,0 +1,8 @@
+name = "paint-with-words-sd"
+description = "Implementation of Paint-with-words with Stable Diffusion : method from eDiff-I that let you generate image from text-labeled segmentation map."
+category = "image"
+tags = ["diffusion", "generative-model", "stable-diffusion"]
+repository = "https://github.com/cloneofsimo/paint-with-words-sd"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

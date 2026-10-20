@@ -1,0 +1,9 @@
+name = "personal-agent-template"
+description = "Open-source template for a durable personal AI agent — web chat, Slack, Linear, and long-term memory with user-approved saves. Eve, Nuxt, Better Auth, Vercel Connect."
+category = "agents"
+tags = ["better-auth", "eve", "linear", "nuxt", "slack", "vercel-connect", "ai-agents", "memory"]
+repository = "https://github.com/vercel-labs/personal-agent-template"
+website = "https://personal-agent-template.vercel.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

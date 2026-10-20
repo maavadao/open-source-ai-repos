@@ -1,0 +1,8 @@
+name = "yt-fts"
+description = "YouTube Full Text Search - Search all of YouTube from the command line"
+category = "llm-apps"
+tags = ["chromadb", "full-text-search", "semantic-search", "youtube", "sqlite", "click", "rag", "cli"]
+repository = "https://github.com/NotJoeMartinez/yt-fts"
+license = "Unlicense"
+language = "Python"
+added = 2026-10-20

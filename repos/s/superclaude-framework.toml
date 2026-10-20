@@ -1,0 +1,8 @@
+name = "SuperClaude_Framework"
+description = "A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies."
+category = "coding"
+repository = "https://github.com/SuperClaude-Org/SuperClaude_Framework"
+website = "https://superclaude.netlify.app/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

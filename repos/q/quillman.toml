@@ -1,0 +1,9 @@
+name = "quillman"
+description = "A voice chat app"
+category = "speech"
+tags = ["language-model", "serverless", "speech-recognition", "speech-to-text", "ai", "python"]
+repository = "https://github.com/modal-labs/quillman"
+website = "https://modal.com/docs/examples/llm-voice-chat"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

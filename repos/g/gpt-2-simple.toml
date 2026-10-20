@@ -1,0 +1,8 @@
+name = "gpt-2-simple"
+description = "Python package to easily retrain OpenAI's GPT-2 text-generating model on new texts"
+category = "ml-platforms"
+tags = ["text-generation", "tensorflow", "openai", "textgenrnn"]
+repository = "https://github.com/minimaxir/gpt-2-simple"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

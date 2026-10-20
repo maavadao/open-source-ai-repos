@@ -1,0 +1,9 @@
+name = "MOVA"
+description = "A foundation model that generates synchronized video and audio in a single model"
+category = "video"
+tags = ["video-audio-generation", "diffusion-models", "multimodal", "sglang", "audio-generation", "lora", "text-to-video", "video-generation"]
+repository = "https://github.com/OpenMOSS/MOVA"
+website = "https://mosi.cn/models/mova"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "argilla"
+description = "Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets"
+category = "llm-apps"
+tags = ["human-in-the-loop", "natural-language-processing", "mlops", "developer-tools", "text-labeling", "annotation-tool", "nlp", "machine-learning"]
+repository = "https://github.com/argilla-io/argilla"
+website = "https://argilla-io.github.io/argilla/latest/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

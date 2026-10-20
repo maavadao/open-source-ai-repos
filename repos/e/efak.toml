@@ -1,0 +1,9 @@
+name = "EFAK"
+description = "A AI-Driven, Distributed and high-performance monitoring system, for comprehensive monitoring and management of kafka cluster."
+category = "other"
+tags = ["kafka", "kafka-eagle", "offsets", "consumer-group", "ai"]
+repository = "https://github.com/smartloli/EFAK"
+website = "https://www.kafka-eagle.org/"
+license = "NOASSERTION"
+language = "Java"
+added = 2026-10-20

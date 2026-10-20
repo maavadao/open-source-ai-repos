@@ -1,0 +1,9 @@
+name = "ml-mdm"
+description = "Train high-quality text-to-image diffusion models in a data & compute efficient manner"
+category = "image"
+tags = ["deep-learning", "diffusion-models", "large-scale-vision-models", "machine-learning", "pytorch"]
+repository = "https://github.com/apple-aiml-research/ml-mdm"
+website = "https://machinelearning.apple.com/research/matryoshka-diffusion-models"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

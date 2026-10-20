@@ -1,0 +1,9 @@
+name = "Deep-Live-Cam"
+description = "real time face swap and one-click video deepfake with only a single image"
+category = "video"
+tags = ["ai-face", "deepfake", "video-deepfake", "deepfake-webcam", "fake-webcam", "realtime-deepfake", "realtime-face-changer", "faceswap"]
+repository = "https://github.com/hacksider/Deep-Live-Cam"
+website = "https://deeplivecam.net/"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

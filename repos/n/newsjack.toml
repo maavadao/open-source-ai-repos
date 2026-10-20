@@ -1,0 +1,9 @@
+name = "newsjack"
+description = "The open-source skills that turn your agent into a full PR team."
+category = "agents"
+tags = ["agents", "marketing", "productivity", "skills"]
+repository = "https://github.com/elvisun/newsjack"
+website = "https://newsjack.sh"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

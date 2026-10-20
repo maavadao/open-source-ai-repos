@@ -1,0 +1,9 @@
+name = "ping-island"
+description = "A Dynamic Island-style command center for managing all your AI coding agents on macOS."
+category = "coding"
+tags = ["agents", "island", "vibe-coding", "vibe-island", "claude-code", "codex", "vibe"]
+repository = "https://github.com/erha19/ping-island"
+website = "https://erha19.github.io/ping-island/"
+license = "Apache-2.0"
+language = "Swift"
+added = 2026-10-20

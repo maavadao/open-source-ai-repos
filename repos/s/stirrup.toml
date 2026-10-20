@@ -1,0 +1,9 @@
+name = "Stirrup"
+description = "The lightweight framework for building agents"
+category = "agents"
+tags = ["agents", "ai", "ai-agent", "ai-agents", "python"]
+repository = "https://github.com/ArtificialAnalysis/Stirrup"
+website = "https://stirrup.artificialanalysis.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

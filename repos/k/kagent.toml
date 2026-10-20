@@ -1,0 +1,9 @@
+name = "kagent"
+description = "Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord"
+category = "mcp-servers"
+tags = ["agents", "ai", "cncf", "devops", "mcp"]
+repository = "https://github.com/kagent-dev/kagent"
+website = "https://kagent.dev"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

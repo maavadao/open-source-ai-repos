@@ -1,0 +1,9 @@
+name = "golf"
+description = "Production-Ready MCP Server Framework • Build, deploy & scale secure AI agent infrastructure • Includes Auth, Observability, Debugger, Telemetry & Runtime • Run real-world MCPs powering AI Agents"
+category = "mcp-servers"
+tags = ["ai", "authentication", "authorization", "python", "aiagents", "mcp", "mcp-server", "mcps"]
+repository = "https://github.com/golf-mcp/golf"
+website = "https://golf.dev/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

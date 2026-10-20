@@ -1,0 +1,9 @@
+name = "sie"
+description = "Open-source inference server and production cluster for all the models your agent needs."
+category = "vector-databases"
+tags = ["embeddings", "vector-search", "data-pipeline", "deep-learning", "information-retrieval", "llm", "ml", "mlops"]
+repository = "https://github.com/superlinked/sie"
+website = "https://superlinked.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

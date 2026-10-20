@@ -1,0 +1,8 @@
+name = "Deep-Learning-for-Tracking-and-Detection"
+description = "Collection of papers, datasets, code and other resources for object tracking and detection using deep learning"
+category = "vision"
+tags = ["deep-learning", "object-detection", "detection", "tracking-by-detection", "tracking", "papers", "paper-collection", "code-collection"]
+repository = "https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

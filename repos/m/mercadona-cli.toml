@@ -1,0 +1,9 @@
+name = "mercadona-cli"
+description = "Unofficial, agent-friendly Mercadona shopping CLI (Go) — search products, read prices, build a cart and prepare checkout from the terminal. BYO credentials."
+category = "coding"
+tags = ["ai-agents", "claude-code", "cli", "command-line", "golang", "grocery-shopping", "llm-tools", "mercadona"]
+repository = "https://github.com/ivorpad/mercadona-cli"
+website = "https://www.npmjs.com/package/@ivorpad/mercadona"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

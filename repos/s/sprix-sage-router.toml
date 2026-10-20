@@ -1,0 +1,8 @@
+name = "sprix-sage-router"
+description = "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks."
+category = "agents"
+tags = ["a2a", "agent-orchestration", "agent-routing", "ai-agents", "multi-agent-systems", "python", "task-scheduling", "sprix-ai"]
+repository = "https://github.com/wang2122/sprix-sage-router"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

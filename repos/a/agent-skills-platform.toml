@@ -1,0 +1,9 @@
+name = "agent-skills-platform"
+description = "Build tested agent skills and govern their lifecycle through a user-defined marketplace: evidence, discovery, updates, rollback, quarantine, and 17-platform distribution."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude-code", "codex", "cursor", "developer-tools", "evals", "github-copilot"]
+repository = "https://github.com/FrancyJGLisboa/agent-skills-platform"
+website = "https://francyjglisboa.github.io/agent-skills-platform/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

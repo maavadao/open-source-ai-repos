@@ -1,0 +1,9 @@
+name = "ai-website-cloner-template"
+description = "Clone any website with one command using AI coding agents"
+category = "coding"
+tags = ["ai", "ai-agents", "ai-tools", "automation", "boilerplate", "claude", "claude-code", "clone"]
+repository = "https://github.com/JCodesMore/ai-website-cloner-template"
+website = "https://dsc.gg/jcodesmore"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

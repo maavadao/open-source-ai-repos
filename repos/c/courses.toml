@@ -1,0 +1,8 @@
+name = "courses"
+description = "This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)"
+category = "learning"
+tags = ["computer-vision", "deep-learning", "deep-neural-networks", "machine-learning", "mlops", "multimodal", "transformers", "tutorial"]
+repository = "https://github.com/SkalskiP/courses"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

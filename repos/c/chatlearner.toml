@@ -1,0 +1,8 @@
+name = "ChatLearner"
+description = "A chatbot implemented in TensorFlow based on the seq2seq model, with certain rules integrated."
+category = "chat"
+tags = ["chatbot", "tensorflow", "seq2seq-model", "sequence-to-sequence", "beam-search", "tensorflow-chatbot", "rule-based", "python"]
+repository = "https://github.com/bshao001/ChatLearner"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "CV-CUDA"
+description = "CV-CUDA is an open-source, GPU accelerated library for cloud-scale image processing and computer vision."
+category = "vision"
+tags = ["gpu", "cloud", "computer-vision", "cpp", "cuda", "image-processing", "machine-learning", "python"]
+repository = "https://github.com/CVCUDA/CV-CUDA"
+website = "https://cvcuda.github.io"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

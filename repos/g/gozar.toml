@@ -1,0 +1,8 @@
+name = "Gozar"
+description = "Self-hosted, Docker-first OpenAI-compatible LLM gateway with provider routing, fallbacks, API keys, and usage controls."
+category = "agents"
+tags = ["llm", "openllm", "ai-gateway", "anthropic-api", "api-gateway", "api-proxy", "fallback-routing", "fastapi"]
+repository = "https://github.com/sina2266/Gozar"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

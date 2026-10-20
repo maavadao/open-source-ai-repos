@@ -1,0 +1,7 @@
+name = "ChatLaw"
+description = "ChatLaw：A Powerful LLM Tailored for Chinese Legal. 中文法律大模型"
+category = "models"
+repository = "https://github.com/PKU-YuanGroup/ChatLaw"
+website = "https://chatlaw.cloud/"
+license = "AGPL-3.0"
+added = 2026-10-20

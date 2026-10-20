@@ -1,0 +1,9 @@
+name = "EasyRAG"
+description = "Easy-to-Use RAG Framework; CCF AIOps International Challenge 2024 Top3 Solution; CCF AIOps 国际挑战赛 2024 季军方案"
+category = "llm-apps"
+tags = ["aiops", "network-operations", "rag", "retrieval-augmented-generation", "bge", "bm25", "ccf", "glm4"]
+repository = "https://github.com/BUAADreamer/EasyRAG"
+website = "https://arxiv.org/abs/2410.10315"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

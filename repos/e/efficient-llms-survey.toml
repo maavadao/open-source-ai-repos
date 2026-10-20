@@ -1,0 +1,8 @@
+name = "Efficient-LLMs-Survey"
+description = "[TMLR 2024] Efficient Large Language Models: A Survey"
+category = "models"
+tags = ["generative-ai", "large-language-models", "machine-learning-systems", "efficient-deep-learning", "survey"]
+repository = "https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey"
+website = "https://arxiv.org/abs/2312.03863"
+license = "NOASSERTION"
+added = 2026-10-20

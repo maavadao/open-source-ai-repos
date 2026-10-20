@@ -1,0 +1,9 @@
+name = "MinerU-Skill"
+description = "AI-Native document parser: PDF, Office & images → clean Markdown with LaTeX, tables & OCR. Zero-dependency CLI & skill for Claude Code, Cursor & AI agents."
+category = "coding"
+tags = ["ai-skill", "document-processing", "latex", "markdown", "mineru", "obsidian", "pdf", "pdf-parser"]
+repository = "https://github.com/Nebutra/MinerU-Skill"
+website = "https://smithery.ai/skills/nebutra/mineru-skill"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

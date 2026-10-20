@@ -1,0 +1,9 @@
+name = "skills"
+description = "Ghost Security's collection of AppSec skills for AI coding agents"
+category = "skills-prompts"
+tags = ["ai", "agent-skills", "agents", "security"]
+repository = "https://github.com/ghostsecurity/skills"
+website = "https://ghostsecurity.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

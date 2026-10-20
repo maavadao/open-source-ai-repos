@@ -1,0 +1,9 @@
+name = "QCNet"
+description = "[CVPR 2023] Query-Centric Trajectory Prediction"
+category = "robotics"
+tags = ["argoverse", "autonomous-driving", "behavior-prediction", "cvpr2023", "motion-forecasting", "motion-prediction", "trajectory-prediction", "waymo-open-dataset"]
+repository = "https://github.com/ZikangZhou/QCNet"
+website = "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Query-Centric_Trajectory_Prediction_CVPR_2023_paper.pdf"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "DenseDepth"
+description = "High Quality Monocular Depth Estimation via Transfer Learning"
+category = "vision"
+tags = ["deep-learning", "deep-neural-networks", "python", "keras-tensorflow", "depth-estimation", "encoder-decoder-model", "transfer-learning", "pytorch"]
+repository = "https://github.com/ialhashim/DenseDepth"
+website = "https://arxiv.org/abs/1812.11941"
+license = "GPL-3.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

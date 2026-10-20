@@ -1,0 +1,9 @@
+name = "gort"
+description = "Command Line Interface (CLI) for RobotOps"
+category = "robotics"
+tags = ["arduino", "particle", "serial-ports", "bluetooth", "bluetooth-low-energy", "firmware", "robotics", "drone"]
+repository = "https://github.com/hybridgroup/gort"
+website = "http://gort.io/"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

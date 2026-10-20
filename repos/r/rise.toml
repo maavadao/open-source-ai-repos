@@ -1,0 +1,9 @@
+name = "RISE"
+description = "[RSS 2026] Code for RISE: Self-Improving Robot Policy with Compositional World Model"
+category = "image"
+tags = ["diffusion-models", "generative-models", "manipulation", "robot-learning", "value-learning", "vision-language-model", "vla", "world-models"]
+repository = "https://github.com/OpenDriveLab/RISE"
+website = "https://opendrivelab.com/RISE/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

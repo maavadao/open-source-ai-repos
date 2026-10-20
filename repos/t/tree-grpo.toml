@@ -1,0 +1,8 @@
+name = "Tree-GRPO"
+description = "[ICLR 2026] Tree Search for LLM Agent Reinforcement Learning"
+category = "agents"
+tags = ["agent", "llm", "reinforcement-learning", "tree", "large-language-model"]
+repository = "https://github.com/AMAP-ML/Tree-GRPO"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ml-agents"
+description = "The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning."
+category = "ml-platforms"
+tags = ["reinforcement-learning", "unity3d", "deep-learning", "unity", "deep-reinforcement-learning", "neural-networks", "machine-learning"]
+repository = "https://github.com/Unity-Technologies/ml-agents"
+website = "https://unity.com/products/machine-learning-agents"
+license = "NOASSERTION"
+language = "C#"
+added = 2026-10-20

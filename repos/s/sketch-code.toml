@@ -1,0 +1,8 @@
+name = "sketch-code"
+description = "Keras model to generate HTML code from hand-drawn website mockups. Implements an image captioning architecture to drawn source images."
+category = "ml-platforms"
+tags = ["keras", "tensorflow", "image-processing", "deep-learning", "augmentation", "html-generation", "image-captioning"]
+repository = "https://github.com/ashnkumar/sketch-code"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "agent-skills-discovery-rfc"
+description = "A mechanism for discovering Agent Skills using the .well-known URI path prefix as specified in RFC 8615 for discovering Agent Skills."
+category = "skills-prompts"
+tags = ["agent-skills", "agents", "skills", "rfc8615"]
+repository = "https://github.com/cloudflare/agent-skills-discovery-rfc"
+license = "Apache-2.0"
+added = 2026-10-20

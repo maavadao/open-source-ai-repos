@@ -1,0 +1,9 @@
+name = "pyvideotrans"
+description = "Translate the video from one language to another and embed dubbing & subtitles."
+category = "speech"
+tags = ["text-to-speech", "video-transition", "speech-to-text", "stt", "subtitle-translation", "tts"]
+repository = "https://github.com/jianchang512/pyvideotrans"
+website = "https://pyvideotrans.com"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

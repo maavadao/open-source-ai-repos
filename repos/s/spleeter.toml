@@ -1,0 +1,9 @@
+name = "spleeter"
+description = "Deezer source separation library including pretrained models."
+category = "models"
+tags = ["deezer", "python", "tensorflow", "audio-processing", "pretrained-models", "bass", "drums", "vocals"]
+repository = "https://github.com/deezer/spleeter"
+website = "https://research.deezer.com/projects/spleeter.html"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "toad"
+description = "A unified interface for AI in your terminal."
+category = "coding"
+tags = ["agents-ui", "ai", "textual", "tui", "claude", "claude-code", "codex-cli", "copilot"]
+repository = "https://github.com/batrachianai/toad"
+website = "https://www.batrachian.ai/"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

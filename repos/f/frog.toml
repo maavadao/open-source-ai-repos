@@ -1,0 +1,9 @@
+name = "frog"
+description = "Automated friction logging for agents."
+category = "agents"
+tags = ["agent", "agents", "friction", "frog"]
+repository = "https://github.com/wevm/frog"
+website = "https://frog.fm"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

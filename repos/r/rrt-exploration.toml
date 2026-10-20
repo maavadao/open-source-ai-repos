@@ -1,0 +1,9 @@
+name = "rrt_exploration"
+description = "A ROS package that implements a multi-robot RRT-based map exploration algorithm. It also has the image-based frontier detection that uses image processing to extract frontier points."
+category = "robotics"
+tags = ["ros", "map", "exploration", "occupancy-grid-map", "multi-robot"]
+repository = "https://github.com/hasauino/rrt_exploration"
+website = "http://wiki.ros.org/rrt_exploration"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

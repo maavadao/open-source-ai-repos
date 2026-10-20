@@ -1,0 +1,9 @@
+name = "chat2graph"
+description = "Chat2Graph: Graph Native Agentic System."
+category = "no-code"
+tags = ["graph", "chatbot", "database", "nlp", "graphrag", "knowledge-graph", "llm", "multi-modal"]
+repository = "https://github.com/TuGraph-family/chat2graph"
+website = "https://chat2graph.vercel.app"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

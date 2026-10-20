@@ -1,0 +1,9 @@
+name = "Applio"
+description = "A simple, high-quality voice conversion tool focused on ease of use and performance."
+category = "speech"
+tags = ["rvc", "vc", "vits", "voice", "ai", "voice-cloning", "voice-conversion", "applio"]
+repository = "https://github.com/IAHispano/Applio"
+website = "https://applio.org"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

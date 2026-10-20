@@ -1,0 +1,8 @@
+name = "DiffLinker"
+description = "DiffLinker: Equivariant 3D-Conditional Diffusion Model for Molecular Linker Design"
+category = "image"
+tags = ["diffusion-models", "drug-design", "equivariance", "fragment-based-drug-discovery", "machine-learning", "molecular-linker"]
+repository = "https://github.com/igashov/DiffLinker"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

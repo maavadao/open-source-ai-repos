@@ -1,0 +1,9 @@
+name = "pipeless"
+description = "An open-source computer vision framework to build and deploy apps in minutes"
+category = "video"
+tags = ["artificial-intelligence", "computer-vision", "multimedia", "multimedia-applications", "cloud", "deep-learning", "machine-learning", "object-detection"]
+repository = "https://github.com/pipeless-ai/pipeless"
+website = "https://pipeless.ai"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "End-to-end-DRL-for-FJSP"
+description = "This is the official code of the publised paper 'A Multi-action Deep Reinforcement Learning Framework for Flexible Job-shop Scheduling Problem'"
+category = "ml-platforms"
+tags = ["fjsp", "graph-neural-networks", "reinforcement-learning", "disjunctive-graph-for-fjsp"]
+repository = "https://github.com/Lei-Kun/End-to-end-DRL-for-FJSP"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

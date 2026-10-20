@@ -1,0 +1,8 @@
+name = "inpainting_gmcnn"
+description = "Image Inpainting via Generative Multi-column Convolutional Neural Networks, NeurIPS2018"
+category = "image"
+tags = ["image-inpainting", "tensorflow", "pytorch", "image-generation", "deep-learning", "gan", "neurips-2018"]
+repository = "https://github.com/shepnerd/inpainting_gmcnn"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

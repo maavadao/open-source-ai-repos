@@ -1,0 +1,9 @@
+name = "videogan"
+description = "Generating Videos with Scene Dynamics. NIPS 2016."
+category = "video"
+tags = ["computer-vision", "video", "generative-adversarial-network", "deep-learning"]
+repository = "https://github.com/cvondrick/videogan"
+website = "http://web.mit.edu/vondrick/tinyvideo/"
+license = "NOASSERTION"
+language = "Lua"
+added = 2026-10-20

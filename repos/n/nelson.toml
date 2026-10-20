@@ -1,0 +1,8 @@
+name = "nelson"
+description = "Organisation for Claude Code inspired by time-tested Royal Navy operating procedures."
+category = "coding"
+tags = ["agent-coordination", "ai-agents", "anthropic", "claude-code", "claude-code-skill"]
+repository = "https://github.com/Aspegio/nelson"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

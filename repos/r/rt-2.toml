@@ -1,0 +1,9 @@
+name = "RT-2"
+description = "Democratization of RT-2 \"RT-2: New model translates vision and language into action\""
+category = "robotics"
+tags = ["artificial-intelligence", "attention-mechanism", "embodied-agent", "gpt4", "multi-modal", "robotics", "transformer"]
+repository = "https://github.com/kyegomez/RT-2"
+website = "https://discord.gg/qUtxnK2NMf"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

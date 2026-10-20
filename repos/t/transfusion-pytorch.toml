@@ -1,0 +1,8 @@
+name = "transfusion-pytorch"
+description = "Pytorch implementation of Transfusion, \"Predict the Next Token and Diffuse Images with One Multi-Modal Model\", from MetaAI"
+category = "models"
+tags = ["artificial-intelligence", "attention", "deep-learning", "multi-modal", "transformers", "flow-matching"]
+repository = "https://github.com/lucidrains/transfusion-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

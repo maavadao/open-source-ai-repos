@@ -1,0 +1,9 @@
+name = "DeepCTR-Torch"
+description = "【PyTorch】Easy-to-use,Modular and Extendible package of deep-learning based CTR models."
+category = "ml-platforms"
+tags = ["deepctr", "ctr-models", "deep-learning", "deepctr-pytorch", "deepfm", "fibinet", "xdeepfm", "torchrec"]
+repository = "https://github.com/shenweichen/DeepCTR-Torch"
+website = "https://deepctr-torch.readthedocs.io/en/latest/index.html"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

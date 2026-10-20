@@ -1,0 +1,9 @@
+name = "breadboard"
+description = "Stable Diffusion Browser for Windows, Mac, and Linux"
+category = "image"
+tags = ["stable-diffusion"]
+repository = "https://github.com/cocktailpeanut/breadboard"
+website = "https://breadboard.me"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

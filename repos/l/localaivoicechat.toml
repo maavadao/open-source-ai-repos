@@ -1,0 +1,8 @@
+name = "LocalAIVoiceChat"
+description = "Local AI talk with a custom voice based on Zephyr 7B model. Uses RealtimeSTT with faster_whisper for transcription and RealtimeTTS with Coqui XTTS for synthesis."
+category = "chat"
+tags = ["chatbot", "python", "realtime"]
+repository = "https://github.com/KoljaB/LocalAIVoiceChat"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

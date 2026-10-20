@@ -1,0 +1,9 @@
+name = "Introduction_to_Machine_Learning"
+description = "Machine Learning Course, Sharif University of Technology"
+category = "learning"
+tags = ["ai", "artificial-intelligence", "course", "machine-learning"]
+repository = "https://github.com/SharifiZarchi/Introduction_to_Machine_Learning"
+website = "https://SharifML.ir"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

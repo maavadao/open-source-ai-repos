@@ -1,0 +1,8 @@
+name = "Treasure-of-Transformers"
+description = "Awesome Treasure of Transformers Models for Natural Language processing contains papers, videos, blogs, official repo along with colab Notebooks."
+category = "learning"
+tags = ["transformer", "python", "nlp", "natural-language-processing", "tensorflow", "pytorch", "speech-recognition", "seq2seq"]
+repository = "https://github.com/ashishpatel26/Treasure-of-Transformers"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

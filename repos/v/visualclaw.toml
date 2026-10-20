@@ -1,0 +1,9 @@
+name = "VisualClaw"
+description = "Official Implementation of VisualClaw: A Real-Time, Personalized Agent for the Physical World"
+category = "local-llms"
+tags = ["agentic-workflow", "ai-glasses", "clawdbot", "edge-ai", "meta-evolution", "multimodal", "self-evolving", "video-ai"]
+repository = "https://github.com/UCSC-VLAA/VisualClaw"
+website = "https://ucsc-vlaa.github.io/VisualClaw/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

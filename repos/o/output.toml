@@ -1,0 +1,9 @@
+name = "output"
+description = "The open-source TypeScript framework for building AI workflows and agents. Designed for Claude Code describe what you want, Claude builds it, with all the best practices already in place."
+category = "coding"
+tags = ["llm", "temporal", "typescript", "workflow-engine", "javascript", "ai", "reliability", "agents"]
+repository = "https://github.com/growthxai/output"
+website = "https://output.ai"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

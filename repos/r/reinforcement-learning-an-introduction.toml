@@ -1,0 +1,8 @@
+name = "reinforcement-learning-an-introduction"
+description = "Python Implementation of Reinforcement Learning: An Introduction"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "artificial-intelligence"]
+repository = "https://github.com/ShangtongZhang/reinforcement-learning-an-introduction"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

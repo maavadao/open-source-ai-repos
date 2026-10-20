@@ -1,0 +1,8 @@
+name = "mergekit"
+description = "Tools for merging pretrained large language models."
+category = "models"
+tags = ["llama", "llm", "model-merging"]
+repository = "https://github.com/arcee-ai/mergekit"
+license = "LGPL-3.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "nofx"
+description = "Your AI trading terminal assistant for US stocks, commodities, forex, and crypto."
+category = "chat"
+tags = ["ai-trading", "agentictrading", "ai", "trading", "arbitrage", "binance", "bitcoin", "exchange"]
+repository = "https://github.com/NoFxAiOS/nofx"
+website = "https://vergex.trade/explore"
+license = "AGPL-3.0"
+language = "Go"
+added = 2026-10-20

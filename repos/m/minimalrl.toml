@@ -1,0 +1,8 @@
+name = "minimalRL"
+description = "Implementations of basic RL algorithms with minimal lines of codes! (pytorch based)"
+category = "ml-platforms"
+tags = ["deep-reinforcement-learning", "pytorch", "simple", "deep-learning", "a3c", "ppo", "a2c", "reinforce"]
+repository = "https://github.com/seungeunrho/minimalRL"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

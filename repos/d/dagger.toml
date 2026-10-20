@@ -1,0 +1,9 @@
+name = "dagger"
+description = "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud"
+category = "agents"
+tags = ["ci-cd", "containers", "continuous-deployment", "continuous-integration", "devops", "docker", "agents", "caching"]
+repository = "https://github.com/dagger/dagger"
+website = "https://dagger.io"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

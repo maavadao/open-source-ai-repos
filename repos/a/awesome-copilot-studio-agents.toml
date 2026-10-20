@@ -1,0 +1,8 @@
+name = "awesome-copilot-studio-agents"
+description = "103 paste-ready declarative agents for Microsoft 365 Copilot. No coding. No Azure. Deploy in minutes."
+category = "learning"
+tags = ["agents", "ai-agents", "awesome", "copilot-agents", "copilot-studio", "declarative-agents", "enterprise-ai", "m365"]
+repository = "https://github.com/kesslernity/awesome-copilot-studio-agents"
+website = "https://www.kesslernity.com/?utm_source=github&utm_medium=repo&utm_campaign=awesome-copilot-studio-agents"
+license = "CC-BY-SA-4.0"
+added = 2026-10-20

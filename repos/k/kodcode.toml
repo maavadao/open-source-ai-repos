@@ -1,0 +1,9 @@
+name = "kodcode"
+description = "A synthetic dataset generation framework that produces diverse coding questions and verifiable solutions - all in one framwork"
+category = "coding"
+tags = ["code-generation", "coding", "dataset", "large-language-models", "nlp", "paper", "supervised-finetuning", "synthetic-data"]
+repository = "https://github.com/KodCode-AI/kodcode"
+website = "https://kodcode-ai.github.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

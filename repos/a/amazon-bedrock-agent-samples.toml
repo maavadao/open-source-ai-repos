@@ -1,0 +1,9 @@
+name = "amazon-bedrock-agent-samples"
+description = "Example Jupyter notebooks and code scripts for using Amazon Bedrock Agents and its functionalities"
+category = "learning"
+tags = ["bedrock-agents", "multi-agents-collaboration", "amazon-bedrock", "amazon-bedrock-agents", "bedrock", "generative-ai"]
+repository = "https://github.com/awslabs/amazon-bedrock-agent-samples"
+website = "https://aws.amazon.com/bedrock/agents/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

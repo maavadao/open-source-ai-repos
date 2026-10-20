@@ -1,0 +1,8 @@
+name = "awesome-project-ideas"
+description = "Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas"
+category = "learning"
+tags = ["deep-learning", "forecasting", "machine-learning", "classification", "series-forecasting", "image-classification", "awesome-list", "awesome"]
+repository = "https://github.com/NirantK/awesome-project-ideas"
+website = "http://www.nirantk.com/awesome-project-ideas/"
+license = "MIT"
+added = 2026-10-20

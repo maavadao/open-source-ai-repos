@@ -1,0 +1,8 @@
+name = "well-architected-iac-analyzer"
+description = "Sample Generative AI tool for evaluating Infrastructure as Code and architecture diagrams against AWS Well-Architected best practices."
+category = "ml-platforms"
+tags = ["amazon-bedrock", "aws", "aws-well-architected", "cdk", "claude-ai", "cloud-optimization", "cloudformation", "generative-ai"]
+repository = "https://github.com/aws-samples/well-architected-iac-analyzer"
+license = "MIT-0"
+language = "TypeScript"
+added = 2026-10-20

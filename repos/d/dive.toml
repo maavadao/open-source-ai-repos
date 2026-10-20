@@ -1,0 +1,8 @@
+name = "Dive"
+description = "Dive is an open-source MCP Host Desktop Application that seamlessly integrates with any LLMs supporting function calling capabilities."
+category = "mcp-servers"
+tags = ["ai-agents", "llm-interface", "mcp-client", "mcp-host", "mcp-server", "ai", "llm-ui", "ollama"]
+repository = "https://github.com/OpenAgentPlatform/Dive"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

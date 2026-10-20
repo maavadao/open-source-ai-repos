@@ -1,0 +1,9 @@
+name = "Awesome-pytorch-list-CNVersion"
+description = "Awesome-pytorch-list 翻译工作进行中......"
+category = "learning"
+tags = ["pytorch", "python", "machine-learning", "deep-learning", "tutorials", "papers", "pytorch-tutorials", "data-sicence"]
+repository = "https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion"
+website = "https://github.com/bharathgs/Awesome-pytorch-list"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

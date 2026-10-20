@@ -1,0 +1,7 @@
+name = "Super-UEFIinSecureBoot-Disk"
+description = "Super UEFIinSecureBoot Disk: Boot any OS or .efi file without disabling UEFI Secure Boot"
+category = "models"
+tags = ["uefi", "uefi-boot", "uefi-secureboot", "secureboot", "grub2", "liveusb", "multiboot", "iso"]
+repository = "https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk"
+license = "NOASSERTION"
+added = 2026-10-20

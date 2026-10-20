@@ -1,0 +1,9 @@
+name = "arxiv-sanity-lite"
+description = "arxiv-sanity lite: tag arxiv papers of interest get recommendations of similar papers in a nice UI using SVMs over tfidf feature vectors based on paper abstracts."
+category = "ml-platforms"
+tags = ["arxiv", "deep-learning", "machine-learning", "flask"]
+repository = "https://github.com/karpathy/arxiv-sanity-lite"
+website = "https://arxiv-sanity-lite.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

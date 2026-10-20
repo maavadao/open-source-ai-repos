@@ -1,0 +1,8 @@
+name = "Safe-Reinforcement-Learning-Baselines"
+description = "The repository is for safe reinforcement learning baselines."
+category = "robotics"
+tags = ["reinforcement-learning", "baseline", "robotics", "safe-reinforcement-learning", "safe-robot-learning", "safety"]
+repository = "https://github.com/chauncygu/Safe-Reinforcement-Learning-Baselines"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

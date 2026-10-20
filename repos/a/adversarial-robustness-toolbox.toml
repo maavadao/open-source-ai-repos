@@ -1,0 +1,9 @@
+name = "adversarial-robustness-toolbox"
+description = "Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams"
+category = "security"
+tags = ["python", "attack", "adversarial-machine-learning", "poisoning", "trusted-ai", "artificial-intelligence", "extraction", "adversarial-attacks"]
+repository = "https://github.com/Trusted-AI/adversarial-robustness-toolbox"
+website = "https://adversarial-robustness-toolbox.readthedocs.io/en/latest/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

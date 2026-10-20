@@ -1,0 +1,7 @@
+name = "Awesome-LLM-for-RecSys"
+description = "Survey: A collection of AWESOME papers and resources on the large language model (LLM) related recommender system topics."
+category = "learning"
+tags = ["llm", "rs", "recsys", "large-language-models", "recommender-systems", "awesome", "llm4rec", "llm4rs"]
+repository = "https://github.com/CHIANGEL/Awesome-LLM-for-RecSys"
+license = "MIT"
+added = 2026-10-20

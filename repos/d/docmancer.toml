@@ -1,0 +1,9 @@
+name = "docmancer"
+description = "Find out what your coding agents already know. Docmancer indexes the memory, rules, and instructions Claude Code, Codex, Cursor, and Gemini wrote on your machine, then carries the durable parts to every agent. It is local-first and under MIT license."
+category = "mcp-servers"
+tags = ["ai", "ai-agents", "claude-code", "codex", "devtool", "agent-memory", "ai-memory", "cli"]
+repository = "https://github.com/docmancer/docmancer"
+website = "https://docmancer.dev"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

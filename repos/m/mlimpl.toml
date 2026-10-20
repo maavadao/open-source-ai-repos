@@ -1,0 +1,8 @@
+name = "mlimpl"
+description = "This repository collects some codes that encapsulates commonly used algorithms in the field of machine learning. Most of them are based on Numpy, Pandas or Torch. You can deepen your understanding to related model and algorithm or revise it to get the customized code belongs…"
+category = "ml-platforms"
+tags = ["python", "machine-learning", "deep-learning", "reinforcement-learning"]
+repository = "https://github.com/vincen-github/mlimpl"
+license = "NOASSERTION"
+language = "Shell"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Comprehensive-Transformer-TTS"
+description = "A Non-Autoregressive Transformer based Text-to-Speech, supporting a family of SOTA transformers with supervised and unsupervised duration modelings. This project grows with the research community, aiming to achieve the ultimate TTS"
+category = "speech"
+tags = ["text-to-speech", "supervised", "unsupervised", "non-autoregressive", "non-ar", "multi-speaker", "ultimate-tts", "tts"]
+repository = "https://github.com/keonlee9420/Comprehensive-Transformer-TTS"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

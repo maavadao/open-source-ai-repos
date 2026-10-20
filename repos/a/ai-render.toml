@@ -1,0 +1,8 @@
+name = "AI-Render"
+description = "Stable Diffusion in Blender"
+category = "image"
+tags = ["ai", "blender-addon", "stable-diffusion"]
+repository = "https://github.com/benrugg/AI-Render"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

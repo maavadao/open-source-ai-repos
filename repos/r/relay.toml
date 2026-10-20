@@ -1,0 +1,9 @@
+name = "relay"
+description = "Infrastructure for coding agents"
+category = "skills-prompts"
+tags = ["agent-collaboration", "agent-communication", "agentic-ai", "agents", "real-time", "agent", "agent-skills", "headless"]
+repository = "https://github.com/AgentWorkforce/relay"
+website = "https://agentrelay.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

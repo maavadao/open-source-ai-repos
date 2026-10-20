@@ -1,0 +1,8 @@
+name = "TradeMaster"
+description = "TradeMaster is an open-source platform for quantitative trading empowered by reinforcement learning"
+category = "ml-platforms"
+tags = ["finance", "fintech", "pytorch", "reinforcement-learning", "stock-market", "trading-platform", "machine-learning", "investment-strategies"]
+repository = "https://github.com/TradeMaster-NTU/TradeMaster"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

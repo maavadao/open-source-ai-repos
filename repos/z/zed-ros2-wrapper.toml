@@ -1,0 +1,9 @@
+name = "zed-ros2-wrapper"
+description = "ROS 2 wrapper for the ZED SDK"
+category = "robotics"
+tags = ["zed-camera", "ros2", "stereo-vision", "slam", "ros2-wrapper", "point-cloud", "object-detection", "robotics"]
+repository = "https://github.com/stereolabs/zed-ros2-wrapper"
+website = "https://www.stereolabs.com/docs/ros2/"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

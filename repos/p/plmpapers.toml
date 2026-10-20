@@ -1,0 +1,6 @@
+name = "PLMpapers"
+description = "Must-read Papers on pre-trained language models."
+category = "models"
+repository = "https://github.com/thunlp/PLMpapers"
+license = "MIT"
+added = 2026-10-20

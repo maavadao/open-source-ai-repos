@@ -1,0 +1,8 @@
+name = "multi_robot_traj_planner"
+description = "An Efficient Multi-Robot Trajectory Planner for Ground Vehicles."
+category = "robotics"
+tags = ["robots", "motion-planning"]
+repository = "https://github.com/LIJUNCHENG001/multi_robot_traj_planner"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "e2b-cookbook"
+description = "Examples of using E2B"
+category = "learning"
+tags = ["cookbook", "e2b", "guides", "javascript", "openai", "python", "python3", "sdk"]
+repository = "https://github.com/e2b-dev/e2b-cookbook"
+website = "https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=e2b-cookbook"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

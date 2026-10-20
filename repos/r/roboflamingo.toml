@@ -1,0 +1,9 @@
+name = "RoboFlamingo"
+description = "Code for RoboFlamingo"
+category = "robotics"
+tags = ["artificial-intelligence", "robotics", "vision-language-model"]
+repository = "https://github.com/RoboFlamingo/RoboFlamingo"
+website = "https://roboflamingo.github.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

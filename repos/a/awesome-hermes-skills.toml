@@ -1,0 +1,8 @@
+name = "awesome-hermes-skills"
+description = "Hermes Agent skills and plugins: 350+ tools, memory providers, and guides for Nous Research's agent."
+category = "learning"
+tags = ["agent-skills", "ai-agents", "awesome", "awesome-list", "hermes-agent", "nous-research", "agent-plugins", "hermes"]
+repository = "https://github.com/ZeroPointRepo/awesome-hermes-skills"
+website = "https://transcriptapi.com"
+license = "MIT"
+added = 2026-10-20

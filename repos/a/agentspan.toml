@@ -1,0 +1,9 @@
+name = "agentspan"
+description = "Agentspan is now part of Orkes Conductor"
+category = "agents"
+tags = ["agentic-workflow", "agents", "go", "java", "javascript", "python", "typescript", "conductor"]
+repository = "https://github.com/agentspan-ai/agentspan"
+website = "https://orkes.io/content/devguide/ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

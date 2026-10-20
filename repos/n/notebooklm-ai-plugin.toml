@@ -1,0 +1,8 @@
+name = "notebooklm-ai-plugin"
+description = "AI Agent plugin for Google NotebookLM (Claude, OpenClaw, etc) — generate slide decks, audio overviews, videos, mind maps, flashcards, quizzes, infographics, reports, and data tables from your notebooks"
+category = "learning"
+tags = ["ai", "audio-overview", "automation", "bun", "chrome-devtools-protocol", "claude-code", "cli", "flashcards"]
+repository = "https://github.com/proyecto26/notebooklm-ai-plugin"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

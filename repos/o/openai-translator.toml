@@ -1,0 +1,9 @@
+name = "openai-translator"
+description = "A translator built using OpenAI."
+category = "chat"
+tags = ["chatgpt", "daisyui", "openai", "pwa", "react", "tailwindcss", "translator", "translator-app"]
+repository = "https://github.com/LanceMoe/openai-translator"
+website = "https://translator.lance.moe"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

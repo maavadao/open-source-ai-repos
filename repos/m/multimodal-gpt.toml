@@ -1,0 +1,8 @@
+name = "Multimodal-GPT"
+description = "Multimodal-GPT"
+category = "models"
+tags = ["flamingo", "gpt", "gpt-4", "llama", "multimodal", "transformer", "vision-and-language"]
+repository = "https://github.com/open-mmlab/Multimodal-GPT"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

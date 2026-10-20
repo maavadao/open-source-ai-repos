@@ -1,0 +1,9 @@
+name = "kong"
+description = "The API and AI Gateway"
+category = "mcp-servers"
+tags = ["api-gateway", "microservices", "api-management", "serverless", "apis", "reverse-proxy", "cloud-native", "microservice"]
+repository = "https://github.com/Kong/kong"
+website = "https://konghq.com/install/"
+license = "Apache-2.0"
+language = "Lua"
+added = 2026-10-20

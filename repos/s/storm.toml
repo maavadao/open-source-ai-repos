@@ -1,0 +1,9 @@
+name = "storm"
+description = "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations."
+category = "search"
+tags = ["large-language-models", "nlp", "knowledge-curation", "naacl", "report-generation", "retrieval-augmented-generation", "emnlp2024", "agentic-rag"]
+repository = "https://github.com/stanford-oval/storm"
+website = "http://storm.genie.stanford.edu"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

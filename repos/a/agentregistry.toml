@@ -1,0 +1,9 @@
+name = "agentregistry"
+description = "Fast-track AI innovation with a centralized, trusted, curated registry"
+category = "mcp-servers"
+tags = ["agents", "ai", "mcp", "registry", "skills"]
+repository = "https://github.com/agentregistry-dev/agentregistry"
+website = "https://aregistry.ai"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

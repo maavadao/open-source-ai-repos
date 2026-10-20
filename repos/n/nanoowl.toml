@@ -1,0 +1,8 @@
+name = "nanoowl"
+description = "A project that optimizes OWL-ViT for real-time inference with NVIDIA TensorRT."
+category = "local-llms"
+tags = ["detect", "fast", "inference", "jetson", "jetson-agx-orin", "jetson-orin-nano", "nvidia", "real-time"]
+repository = "https://github.com/NVIDIA-AI-IOT/nanoowl"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

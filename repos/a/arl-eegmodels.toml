@@ -1,0 +1,8 @@
+name = "arl-eegmodels"
+description = "This is the Army Research Laboratory (ARL) EEGModels Project: A Collection of Convolutional Neural Network (CNN) models for EEG signal classification, using Keras and Tensorflow"
+category = "ml-platforms"
+tags = ["eeg", "deep-learning", "convolutional-neural-networks", "keras", "tensorflow", "brain-computer-interface", "eeg-classification", "time-series-classification"]
+repository = "https://github.com/vlawhern/arl-eegmodels"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "metarank"
+description = "A low code Machine Learning personalized ranking service for articles, listings, search results, recommendations that boosts user engagement. A friendly Learn-to-Rank engine"
+category = "ml-platforms"
+tags = ["ranking", "scala", "search", "personalization", "machine-learning", "deep-learning", "data-engineering", "feature-engineering"]
+repository = "https://github.com/metarank/metarank"
+website = "https://metarank.ai"
+license = "Apache-2.0"
+language = "Scala"
+added = 2026-10-20

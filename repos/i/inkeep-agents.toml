@@ -1,0 +1,9 @@
+name = "agents"
+description = "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows."
+category = "mcp-servers"
+tags = ["agent", "agent-builder", "agent-framework", "ai-agents", "mulit-agent", "no-code", "workflows", "agents-sdk"]
+repository = "https://github.com/inkeep/agents"
+website = "https://docs.inkeep.com"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

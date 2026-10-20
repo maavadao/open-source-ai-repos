@@ -1,0 +1,9 @@
+name = "mini-nanoGPT"
+description = "One-click training of your own GPT. Training a GPT has never been easier for beginners. / 一键预训练+SFT一个属于自己的LLM，0基础训练GPT原来可以这么简单？"
+category = "education"
+tags = ["ai", "deep-learning", "gpt", "machine-learning", "pytorch", "train", "neural-network", "begginer-friendly"]
+repository = "https://github.com/ystemsrx/mini-nanoGPT"
+website = "https://b23.tv/Ia9mqPS"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

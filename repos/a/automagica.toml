@@ -1,0 +1,9 @@
+name = "automagica"
+description = "AI-powered Smart Robotic Process Automation"
+category = "browser-automation"
+tags = ["rpa", "robot", "python", "ai", "desktop-automation", "office-automation", "macros", "web-automation"]
+repository = "https://github.com/automagica/automagica"
+website = "https://automagica.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

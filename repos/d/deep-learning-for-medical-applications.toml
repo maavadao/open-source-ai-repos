@@ -1,0 +1,8 @@
+name = "Deep-Learning-for-Medical-Applications"
+description = "Deep Learning Papers on Medical Image Analysis"
+category = "ml-platforms"
+tags = ["deep-learning", "medical-imaging", "medical-informatics", "awesome-list"]
+repository = "https://github.com/albarqouni/Deep-Learning-for-Medical-Applications"
+license = "GPL-3.0"
+language = "TeX"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "3D-Machine-Learning"
+description = "A resource repository for 3D machine learning"
+category = "vision"
+tags = ["3d-reconstruction", "papers", "neural-networks", "3d", "machine-learning", "mesh", "voxel", "point-cloud"]
+repository = "https://github.com/timzhang642/3D-Machine-Learning"
+license = "NOASSERTION"
+added = 2026-10-20

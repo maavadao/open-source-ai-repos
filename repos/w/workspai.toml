@@ -1,0 +1,9 @@
+name = "workspai"
+description = "Give your AI agent the system, not just the repository. Workspai gives AI agents the context they need to understand, change, and verify your software."
+category = "no-code"
+tags = ["ai", "ai-agents", "artificial-intelligence", "ides", "open-source", "skills", "software-architecture", "software-systems"]
+repository = "https://github.com/chistiq/workspai"
+website = "https://www.workspai.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

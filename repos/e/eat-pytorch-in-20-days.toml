@@ -1,0 +1,8 @@
+name = "eat_pytorch_in_20_days"
+description = "Pytorch is delicious, just eat it!"
+category = "ml-platforms"
+tags = ["pytorch", "deep-learning"]
+repository = "https://github.com/lyhue1991/eat_pytorch_in_20_days"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

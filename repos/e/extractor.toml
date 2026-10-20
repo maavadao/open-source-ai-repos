@@ -1,0 +1,9 @@
+name = "extractor"
+description = "Use LLMs to robustly extract web data"
+category = "search"
+tags = ["ai-agents", "article-extractor", "crawler", "data-engineering", "data-pipeline", "etl", "html-parser", "html-to-markdown"]
+repository = "https://github.com/lightfeed/extractor"
+website = "https://lightfeed.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

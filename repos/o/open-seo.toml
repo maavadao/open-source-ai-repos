@@ -1,0 +1,9 @@
+name = "open-seo"
+description = "Open source alternative to Semrush and Ahrefs"
+category = "mcp-servers"
+tags = ["backlink-analysis", "keyword-research", "mcp", "seo", "seo-tools", "site-audit", "google-search-console-mcp", "seo-agent"]
+repository = "https://github.com/every-app/open-seo"
+website = "https://openseo.so"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

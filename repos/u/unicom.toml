@@ -1,0 +1,9 @@
+name = "unicom"
+description = "Large-Scale Visual Representation Model"
+category = "models"
+tags = ["large-sacle-pretrained-model", "laion400m", "vision-transformer", "embodied-artificial-intelligence", "large-language-models", "multimodal-large-language-models"]
+repository = "https://github.com/deepglint/unicom"
+website = "https://mlcd.readthedocs.io/en/latest/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "symforce"
+description = "Fast symbolic computation, code generation, and nonlinear optimization for robotics"
+category = "coding"
+tags = ["robotics", "python", "cpp", "code-generation", "optimization", "symbolic-computation", "slam", "computer-vision"]
+repository = "https://github.com/symforce-org/symforce"
+website = "https://symforce.org"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

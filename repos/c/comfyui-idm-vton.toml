@@ -1,0 +1,8 @@
+name = "ComfyUI-IDM-VTON"
+description = "ComfyUI adaptation of IDM-VTON for virtual try-on."
+category = "image"
+tags = ["comfy", "comfyui", "comfyui-nodes", "virtual-try-on", "virtual-tryon", "inpainting", "stable-diffusion"]
+repository = "https://github.com/TemryL/ComfyUI-IDM-VTON"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

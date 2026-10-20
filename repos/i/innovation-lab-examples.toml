@@ -1,0 +1,9 @@
+name = "innovation-lab-examples"
+description = "80+ production-ready AI agent examples in Python — build autonomous agents, multi-agent systems and agentic AI with uAgents, ASI:One, MCP, A2A, LangChain, CrewAI, Gemini, Claude and OpenAI."
+category = "mcp-servers"
+tags = ["a2a-protocol", "agentic-ai", "agentverse", "ai-agent", "ai-agent-examples", "ai-agent-framework", "ai-agents", "asi-one"]
+repository = "https://github.com/fetchai/innovation-lab-examples"
+website = "https://innovationlab.fetch.ai/resources/docs/intro"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

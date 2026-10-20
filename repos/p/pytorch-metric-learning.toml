@@ -1,0 +1,9 @@
+name = "pytorch-metric-learning"
+description = "The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch."
+category = "vision"
+tags = ["metric-learning", "deep-learning", "computer-vision", "machine-learning", "pytorch", "deep-metric-learning", "image-retrieval", "self-supervised-learning"]
+repository = "https://github.com/KevinMusgrave/pytorch-metric-learning"
+website = "https://kevinmusgrave.github.io/pytorch-metric-learning/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Awesome-Agent-Memory"
+description = "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning."
+category = "learning"
+tags = ["agent-memory", "ai-agent", "llm-memory", "memory", "memory-management", "rag", "ai-agent-memory", "awesome-agent-memory"]
+repository = "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

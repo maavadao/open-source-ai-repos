@@ -1,0 +1,9 @@
+name = "opik"
+description = "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards."
+category = "llm-apps"
+tags = ["open-source", "langchain", "openai", "playground", "prompt-engineering", "llama-index", "llm", "llm-evaluation"]
+repository = "https://github.com/comet-ml/opik"
+website = "https://www.comet.com/docs/opik/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

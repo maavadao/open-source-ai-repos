@@ -1,0 +1,9 @@
+name = "rl-collision-avoidance"
+description = "Implementation of the paper \"Towards Optimally Decentralized Multi-Robot Collision Avoidance via Deep Reinforcement Learning\""
+category = "robotics"
+tags = ["ppo", "reinforcement-learning", "collision-avoidance", "ros", "crowd-navigation"]
+repository = "https://github.com/Acmece/rl-collision-avoidance"
+website = "https://arxiv.org/abs/1709.10082"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "Awesome-Transformer-Attention"
+description = "An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites"
+category = "learning"
+tags = ["transformer", "attention-mechanism", "vision-transformer", "deep-learning", "awesome-list", "transformer-cv", "transformer-architecture", "transformer-awesome"]
+repository = "https://github.com/cmhungsteve/Awesome-Transformer-Attention"
+license = "NOASSERTION"
+added = 2026-10-20

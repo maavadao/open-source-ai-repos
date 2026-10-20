@@ -1,0 +1,10 @@
+name = "eliza"
+description = "Open source agentic operating system"
+category = "agents"
+tags = ["agent", "agentic", "ai", "autonomous", "chatbot", "crypto", "discord", "eliza"]
+repository = "https://github.com/elizaOS/eliza"
+website = "https://elizaos.ai"
+license = "MIT"
+language = "TypeScript"
+skill_level = "intermediate"
+added = 2026-10-20

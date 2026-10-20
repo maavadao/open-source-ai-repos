@@ -1,0 +1,8 @@
+name = "vox-director"
+description = "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill."
+category = "coding"
+tags = ["ai-video", "claude-code", "claude-skill", "explainer-video", "motion-graphics", "text-to-video", "vox", "collage-video"]
+repository = "https://github.com/Alisa0808/vox-director"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

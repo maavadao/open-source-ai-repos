@@ -1,0 +1,8 @@
+name = "agentic-rag-for-dummies"
+description = "A modular Agentic RAG built with LangGraph — learn Retrieval-Augmented Generation Agents in minutes."
+category = "local-llms"
+tags = ["agentic-ai", "agentic-rag", "agents", "rag", "agent", "bm25", "rag-chatbot", "rag-pipeline"]
+repository = "https://github.com/GiovanniPasq/agentic-rag-for-dummies"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

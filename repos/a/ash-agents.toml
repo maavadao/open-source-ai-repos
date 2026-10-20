@@ -1,0 +1,8 @@
+name = "ash-agents"
+description = "A swarm of disposable agents for unattributable web interaction"
+category = "security"
+tags = ["ai-agents", "autonomous-agents", "browser-automation", "privacy", "stealth-browser", "web-automation", "disposable-agents"]
+repository = "https://github.com/EthanXiang777/ash-agents"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

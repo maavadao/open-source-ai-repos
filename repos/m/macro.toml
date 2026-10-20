@@ -1,0 +1,9 @@
+name = "macro"
+description = "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory."
+category = "mcp-servers"
+tags = ["office", "rust", "crm", "linear", "notion", "slack", "startup", "startup-tools"]
+repository = "https://github.com/macro-inc/macro"
+website = "https://macro.com"
+license = "AGPL-3.0"
+language = "Rust"
+added = 2026-10-20

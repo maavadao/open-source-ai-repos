@@ -1,0 +1,8 @@
+name = "linux-realtime"
+description = "Guide on how to set-up Linux and Docker for real-time applications using the Ubuntu realtime-kernel/PREEMPT_RT patch with a focus on robotics with ROS and ROS 2"
+category = "robotics"
+tags = ["docker", "docker-compose", "dockerfile", "real-time", "realtime", "rtos", "real-time-operating-system", "preempt-rt"]
+repository = "https://github.com/2b-t/linux-realtime"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

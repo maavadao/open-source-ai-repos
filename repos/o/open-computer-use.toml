@@ -1,0 +1,8 @@
+name = "open-computer-use"
+description = "Open Computer Use – Open-Source Alternative to Codex Computer Use"
+category = "mcp-servers"
+tags = ["computer-use", "codex-computer-use", "open-computer-use", "open-computer-use-mcp", "accessibility", "ai-agent", "ai-agents", "claude-code"]
+repository = "https://github.com/iFurySt/open-computer-use"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

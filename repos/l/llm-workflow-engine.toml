@@ -1,0 +1,8 @@
+name = "llm-workflow-engine"
+description = "Power CLI and Workflow manager for LLMs (core package)"
+category = "chat"
+tags = ["chatgpt", "chatbot", "gpt3", "llm", "openai", "gpt-3", "gpt4", "python"]
+repository = "https://github.com/llm-workflow-engine/llm-workflow-engine"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Proma"
+description = "Proma brings a seamless general-purpose Agent experience to your workflow. Built for 100× professionals and the proactive Agent era"
+category = "chat"
+tags = ["agent", "agent-sdk", "agents", "chatbot", "chatgpt", "claude", "gemini", "llm"]
+repository = "https://github.com/proma-ai/Proma"
+website = "https://proma.cool/download"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

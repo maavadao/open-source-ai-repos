@@ -1,0 +1,8 @@
+name = "qlora"
+description = "QLoRA: Efficient Finetuning of Quantized LLMs"
+category = "local-llms"
+repository = "https://github.com/artidoro/qlora"
+website = "https://arxiv.org/abs/2305.14314"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

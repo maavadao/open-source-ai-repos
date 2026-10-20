@@ -1,0 +1,9 @@
+name = "PRarena"
+description = "This repo tracks the opened and merged PRs by the top SWE coding agents by OpenAI, GitHub, and others. Updates regularly."
+category = "agents"
+tags = ["agents", "swe-agent"]
+repository = "https://github.com/aavetis/PRarena"
+website = "https://prarena.ai"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

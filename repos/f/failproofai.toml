@@ -1,0 +1,9 @@
+name = "failproofai"
+description = "Observability and enforcement for AI agent harnesses. Capture every run and runtime reliability with policy enforcement."
+category = "security"
+tags = ["claude-code", "reliability", "agent-reliability", "hooks", "agent-failure", "ai-agent", "codex", "llm"]
+repository = "https://github.com/FailproofAI/failproofai"
+website = "https://befailproof.ai"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

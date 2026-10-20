@@ -1,0 +1,9 @@
+name = "sgpt"
+description = "SGPT: GPT Sentence Embeddings for Semantic Search"
+category = "llm-apps"
+tags = ["gpt", "information-retrieval", "language-model", "large-language-models", "retrieval", "semantic-search", "sentence-embeddings", "text-embedding"]
+repository = "https://github.com/Muennighoff/sgpt"
+website = "https://arxiv.org/abs/2202.08904"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "rag-cookbooks"
+description = "This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems."
+category = "learning"
+tags = ["ai", "chromadb", "cookbooks", "faiss", "langchain", "llm", "llms", "openai"]
+repository = "https://github.com/athina-ai/rag-cookbooks"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

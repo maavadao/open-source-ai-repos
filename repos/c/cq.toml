@@ -1,0 +1,9 @@
+name = "cq"
+description = "An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently."
+category = "agents"
+tags = ["agents", "python", "go"]
+repository = "https://github.com/mozilla-ai/cq"
+website = "https://docs.mozilla.ai/cq"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

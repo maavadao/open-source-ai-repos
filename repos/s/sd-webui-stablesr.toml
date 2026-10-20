@@ -1,0 +1,9 @@
+name = "sd-webui-stablesr"
+description = "StableSR for Stable Diffusion WebUI - Ultra High-quality Image Upscaler"
+category = "image"
+tags = ["high-fidelity", "stable-diffusion", "stable-diffusion-webui", "stable-diffusion-webui-plugin", "super-resolution", "wavelet-decomposition", "stablesr"]
+repository = "https://github.com/pkuliyi2015/sd-webui-stablesr"
+website = "https://iceclear.github.io/projects/stablesr/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

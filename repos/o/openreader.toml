@@ -1,0 +1,9 @@
+name = "openreader"
+description = "An open-source read-along document reader server with high-quality TTS options, synchronized highlighting, and audiobook export for EPUB, PDF, DOCX, TXT, and MD."
+category = "documents"
+tags = ["kokoro-tts", "openai-api", "pdf", "text-to-speech", "epub", "epub-reader", "pdf-reader", "tts"]
+repository = "https://github.com/richardr1126/openreader"
+website = "https://openreader.richardr.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

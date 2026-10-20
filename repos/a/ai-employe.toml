@@ -1,0 +1,8 @@
+name = "AI-Employe"
+description = "Create browser automation as if you were teaching a human using GPT-4 Vision."
+category = "no-code"
+tags = ["automation", "automation-testing", "gpt-4", "productivity", "multimodal", "rpa"]
+repository = "https://github.com/vignshwarar/AI-Employe"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

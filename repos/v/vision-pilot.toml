@@ -1,0 +1,9 @@
+name = "vision_pilot"
+description = "Free and fully open-source L2 ADAS stack powered by End-to-End AI technology"
+category = "robotics"
+tags = ["artificial-intelligence", "autonomous-driving", "autopilot", "autoware", "computer-vision", "deep-learning", "deep-neural-networks", "foundation-models"]
+repository = "https://github.com/autowarefoundation/vision_pilot"
+website = "https://autoware.org/"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "DAM4SAM"
+description = "[CVPR 2025, IJCV 2026] \"A Distractor-Aware Memory for Visual Object Tracking with SAM2\", \"Distractor-Aware Memory-Based Visual Object Tracking\""
+category = "vision"
+tags = ["computer-vision", "object-tracking"]
+repository = "https://github.com/jovanavidenovic/DAM4SAM"
+website = "https://jovanavidenovic.github.io/dam-4-sam/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

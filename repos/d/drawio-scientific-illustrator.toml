@@ -1,0 +1,8 @@
+name = "drawio-scientific-illustrator"
+description = "Live MCP control of the visible draw.io canvas for step-by-step scientific illustration in Codex."
+category = "mcp-servers"
+tags = ["codex", "diagrams", "drawio", "mcp", "scientific-figures", "scientific-illustration"]
+repository = "https://github.com/icebird1998/drawio-scientific-illustrator"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "sklearn-doc-zh"
+description = "[译] scikit-learn（sklearn） 中文文档"
+category = "data-science"
+tags = ["python", "scikit-learn", "documentation", "machine-learning"]
+repository = "https://github.com/apachecn/sklearn-doc-zh"
+website = "http://sklearn.apachecn.org"
+license = "NOASSERTION"
+language = "CSS"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "ros_motion_planning"
+description = "Motion planning and Navigation of AGV/AMR：ROS planner plugin implementation of A*, JPS, D*, LPA*, D* Lite, Theta*, RRT, RRT*, RRT-Connect, Informed RRT*, ACO, PSO, Voronoi, PID, LQR, MPC, DWA, APF, Pure Pursuit etc."
+category = "robotics"
+tags = ["astar", "jump-point-search", "motion-planning", "ros", "dstar-lite", "rrt", "rrt-star", "path-planning"]
+repository = "https://github.com/ai-winter/ros_motion_planning"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-10-20

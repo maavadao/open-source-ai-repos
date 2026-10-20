@@ -1,0 +1,8 @@
+name = "qwen3-tts-apple-silicon"
+description = "Run Qwen3-TTS text-to-speech locally on Mac (M1/M2/M3/M4). Voice cloning, voice design, custom voices. 100% offline using MLX."
+category = "speech"
+tags = ["apple-silicon", "m1", "m2", "m3", "m4", "macos", "mlx", "qwen"]
+repository = "https://github.com/kapi2800/qwen3-tts-apple-silicon"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

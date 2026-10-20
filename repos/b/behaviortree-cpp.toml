@@ -1,0 +1,9 @@
+name = "BehaviorTree.CPP"
+description = "Behavior Trees Library in C++. Batteries included."
+category = "robotics"
+tags = ["behaviortree", "ai", "robotics", "games", "coordination", "ros", "state-machine"]
+repository = "https://github.com/BehaviorTree/BehaviorTree.CPP"
+website = "https://behaviortree.dev"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

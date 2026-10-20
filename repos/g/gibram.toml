@@ -1,0 +1,9 @@
+name = "gibram"
+description = "GibRAM is an in-memory knowledge graph server designed for retrieval augmented generation (RAG / GraphRAG) workflows."
+category = "vector-databases"
+tags = ["graph", "graph-database", "graphrag", "llm", "llms", "rag", "vector-database"]
+repository = "https://github.com/gibram-io/gibram"
+website = "https://docs.gibram.io"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

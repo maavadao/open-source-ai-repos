@@ -1,0 +1,9 @@
+name = "TradingSpy-TradingAgentService"
+description = "Fully local trading agent with loop engineering doing research, trading strategy generation and backtesting"
+category = "local-llms"
+tags = ["backtesting", "trading", "quantitative-finance", "ai-assistant", "ai-trading", "algorithmic-trading", "docker", "fastapi"]
+repository = "https://github.com/mrhustlex/TradingSpy-TradingAgentService"
+website = "https://mrhustlex.github.io/tradingspy"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

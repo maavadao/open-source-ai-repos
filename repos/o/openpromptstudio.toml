@@ -1,0 +1,9 @@
+name = "OpenPromptStudio"
+description = "AIGC 提示词可视化编辑器 | OPS | Open Prompt Studio"
+category = "skills-prompts"
+tags = ["ai", "aigc", "prompts", "open-prompt-studio"]
+repository = "https://github.com/Moonvy/OpenPromptStudio"
+website = "https://moonvy.com/apps/ops/"
+license = "NOASSERTION"
+language = "Vue"
+added = 2026-10-20

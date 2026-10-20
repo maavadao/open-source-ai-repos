@@ -1,0 +1,9 @@
+name = "shippie"
+description = "extendable code review and QA agent"
+category = "mcp-servers"
+tags = ["openai", "huggingface", "opensource", "code-quality", "code-review", "github", "agent", "agents"]
+repository = "https://github.com/mattzcarey/shippie"
+website = "https://shippie.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

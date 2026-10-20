@@ -1,0 +1,9 @@
+name = "nlpaug"
+description = "Data augmentation for NLP"
+category = "security"
+tags = ["nlp", "augmentation", "machine-learning", "artificial-intelligence", "data-science", "natural-language-processing", "adversarial-attacks", "adversarial-example"]
+repository = "https://github.com/makcedward/nlpaug"
+website = "https://makcedward.github.io/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

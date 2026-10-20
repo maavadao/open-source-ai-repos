@@ -1,0 +1,8 @@
+name = "NoPII"
+description = "Ready-to-run examples showing NoPII PII protection with OpenAI, Anthropic, LangChain, LlamaIndex, and more"
+category = "security"
+tags = ["ai-security", "anonymization", "anthropic", "data-masking", "data-privacy", "data-protection", "deepseek", "gdpr"]
+repository = "https://github.com/Enigma-Vault/NoPII"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

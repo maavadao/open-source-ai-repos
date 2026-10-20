@@ -1,0 +1,9 @@
+name = "RuVector"
+description = "RuVector provides High Performance, Real-Time decisions and agent memory , Self-Learning Ai, Vector GNN DB built in Rust."
+category = "documents"
+tags = ["ai", "ai-ocr", "gnn", "graph", "llm-inference", "low-latency", "neo4j", "ocr"]
+repository = "https://github.com/ruvnet/RuVector"
+website = "https://Cognitum.One/RuVector"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

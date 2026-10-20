@@ -1,0 +1,8 @@
+name = "ISLR-python"
+description = "An Introduction to Statistical Learning (James, Witten, Hastie, Tibshirani, 2013): Python code"
+category = "data-science"
+tags = ["machine-learning", "predictive-modeling", "islr", "statistical-learning", "islr-python"]
+repository = "https://github.com/JWarmenhoven/ISLR-python"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

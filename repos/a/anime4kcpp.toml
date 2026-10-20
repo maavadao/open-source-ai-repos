@@ -1,0 +1,8 @@
+name = "Anime4KCPP"
+description = "A high performance anime upscaler"
+category = "data-science"
+tags = ["anime4k", "video-processing", "upscaling", "anime", "computer-graphics", "cpp", "anime4kcpp", "vapoursynth"]
+repository = "https://github.com/TianZerL/Anime4KCPP"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-10-20

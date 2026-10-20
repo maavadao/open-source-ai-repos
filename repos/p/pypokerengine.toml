@@ -1,0 +1,9 @@
+name = "PyPokerEngine"
+description = "Poker engine for poker AI development in Python"
+category = "ml-platforms"
+tags = ["ai-poker-game", "poker-engine", "reinforcement-learning"]
+repository = "https://github.com/ishikota/PyPokerEngine"
+website = "https://ishikota.github.io/PyPokerEngine/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

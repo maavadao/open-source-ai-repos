@@ -1,0 +1,8 @@
+name = "EasyCV"
+description = "An all-in-one toolkit for computer vision"
+category = "vision"
+tags = ["self-supervised-learning", "transformers", "classification", "computer-vision", "object-detection", "pytorch", "vision-transformer"]
+repository = "https://github.com/alibaba/EasyCV"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "umi-on-legs"
+description = "UMI on Legs: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers"
+category = "robotics"
+tags = ["quadruped", "reinforcement-learning", "robotic-manipulation", "robotics", "whole-body-control"]
+repository = "https://github.com/real-stanford/umi-on-legs"
+website = "https://umi-on-legs.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

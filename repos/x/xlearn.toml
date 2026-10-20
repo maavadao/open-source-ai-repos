@@ -1,0 +1,9 @@
+name = "xlearn"
+description = "High performance, easy-to-use, and scalable machine learning (ML) package, including linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM) for Python and CLI interface."
+category = "data-science"
+tags = ["machine-learning", "statistics", "data-science", "data-analysis", "factorization-machines", "ffm", "fm"]
+repository = "https://github.com/aksnzhy/xlearn"
+website = "https://xlearn-doc.readthedocs.io/en/latest/index.html"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

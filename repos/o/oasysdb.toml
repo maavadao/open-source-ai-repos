@@ -1,0 +1,8 @@
+name = "oasysdb"
+description = "In-memory vector store with efficient read and write performance for semantic caching and retrieval system. Redis for Semantic Caching."
+category = "vector-databases"
+tags = ["open-source", "vector-database", "approximate-nearest-neighbors", "similarity-search", "vector-search", "ivfpq", "mysql", "postgresql"]
+repository = "https://github.com/edwinkys/oasysdb"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

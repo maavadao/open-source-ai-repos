@@ -1,0 +1,9 @@
+name = "icnn"
+description = "Input Convex Neural Networks"
+category = "ml-platforms"
+tags = ["deep-learning", "reinforcement-learning", "convex-optimization", "research-paper"]
+repository = "https://github.com/locuslab/icnn"
+website = "https://arxiv.org/abs/1609.07152"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

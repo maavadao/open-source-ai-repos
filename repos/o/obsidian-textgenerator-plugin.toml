@@ -1,0 +1,9 @@
+name = "obsidian-textgenerator-plugin"
+description = "Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models."
+category = "chat"
+tags = ["obsidian", "obsidian-plugin", "plugin", "gpt-3", "huggingface", "nlg", "openai", "ai"]
+repository = "https://github.com/nhaouari/obsidian-textgenerator-plugin"
+website = "https://text-gen.com/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

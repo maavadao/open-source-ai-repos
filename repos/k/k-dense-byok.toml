@@ -1,0 +1,9 @@
+name = "k-dense-byok"
+description = "An AI co-scientist running on your desktop. Claude Science but better."
+category = "mcp-servers"
+tags = ["agentic-ai", "ai-agent", "ai-assistant", "bioinformatics", "byok", "drug-discovery", "google-adk", "litellm"]
+repository = "https://github.com/K-Dense-AI/k-dense-byok"
+website = "https://arxiv.org/abs/2610.00074"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

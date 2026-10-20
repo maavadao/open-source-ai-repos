@@ -1,0 +1,7 @@
+name = "RAG-Survey"
+description = "Collecting awesome papers of RAG for AIGC. We propose a taxonomy of RAG foundations, enhancements, and applications in paper \"Retrieval-Augmented Generation for AI-Generated Content: A Survey\"."
+category = "learning"
+tags = ["aigc", "rag", "survey", "diffusion-models", "llm", "multimodality"]
+repository = "https://github.com/hymie122/RAG-Survey"
+license = "NOASSERTION"
+added = 2026-10-20

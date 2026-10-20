@@ -1,0 +1,8 @@
+name = "simplerecon"
+description = "[ECCV 2022] SimpleRecon: 3D Reconstruction Without 3D Convolutions"
+category = "vision"
+tags = ["computer-vision", "cost-volume", "depth", "depth-estimation", "eccv2022", "multi-view-stereo", "mvs", "pytorch"]
+repository = "https://github.com/nianticlabs/simplerecon"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

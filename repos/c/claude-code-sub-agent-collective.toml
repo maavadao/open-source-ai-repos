@@ -1,0 +1,8 @@
+name = "claude-code-sub-agent-collective"
+description = "Context Engineering Research - Not just another agent collection, but using research and context engineering to function as a collective. Hub-and-spoke coordination through Claude Code."
+category = "browser-automation"
+tags = ["agents", "claude", "claude-code", "taskmaster", "yolo", "ai-development", "multi-agent", "playwright"]
+repository = "https://github.com/vanzan01/claude-code-sub-agent-collective"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

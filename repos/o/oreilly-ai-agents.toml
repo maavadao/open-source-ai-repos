@@ -1,0 +1,9 @@
+name = "oreilly-ai-agents"
+description = "An introduction to the world of AI Agents"
+category = "mcp-servers"
+tags = ["agent", "agents", "ai", "generative-ai", "llm", "agentic-ai", "crewai", "langgraph"]
+repository = "https://github.com/sinanuozdemir/oreilly-ai-agents"
+website = "https://learning.oreilly.com/live-events/ai-agents-a-z/0642572007604/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

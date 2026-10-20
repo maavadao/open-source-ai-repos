@@ -1,0 +1,9 @@
+name = "audioFlux"
+description = "A library for audio and music analysis, feature extraction."
+category = "speech"
+tags = ["audio", "audio-analysis", "audio-features", "python", "music", "music-information-retrieval", "spectrogram", "wavelet-transform"]
+repository = "https://github.com/libAudioFlux/audioFlux"
+website = "https://audioflux.top"
+license = "MIT"
+language = "C"
+added = 2026-10-20

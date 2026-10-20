@@ -1,0 +1,9 @@
+name = "facet"
+description = "Human-explainable AI."
+category = "data-science"
+tags = ["data-science", "machine-learning", "python", "data-analytics", "model-selection", "hyperparameter-tuning", "interpretability", "explainable-ai"]
+repository = "https://github.com/BCG-X-Official/facet"
+website = "https://bcg-x-official.github.io/facet"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

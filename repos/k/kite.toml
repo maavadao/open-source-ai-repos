@@ -1,0 +1,9 @@
+name = "kite"
+description = "A lightweight, modern Kubernetes dashboard. All your clusters. One workspace."
+category = "agents"
+tags = ["dashboard", "kubernetes", "kubernetes-addons", "cloud-native", "monitoring", "multi-cluster", "prometheus", "ai-agent"]
+repository = "https://github.com/kite-org/kite"
+website = "https://kitehq.dev/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

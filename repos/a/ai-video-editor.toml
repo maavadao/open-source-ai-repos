@@ -1,0 +1,9 @@
+name = "ai-video-editor"
+description = "Open-source, local-first video editor where creators and AI agents edit the same real timeline."
+category = "skills-prompts"
+tags = ["ai-video-editor", "ai-voiceover", "browser-ai", "liveportrait", "onnx", "pwa", "react", "talking-avatar"]
+repository = "https://github.com/MartinDelophy/ai-video-editor"
+website = "https://video-editor.ai-creator.top/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

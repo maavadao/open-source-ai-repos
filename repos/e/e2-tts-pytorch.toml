@@ -1,0 +1,8 @@
+name = "e2-tts-pytorch"
+description = "Implementation of E2-TTS, \"Embarrassingly Easy Fully Non-Autoregressive Zero-Shot TTS\", in Pytorch"
+category = "speech"
+tags = ["artificial-intelligence", "deep-learning", "text-to-speech"]
+repository = "https://github.com/lucidrains/e2-tts-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

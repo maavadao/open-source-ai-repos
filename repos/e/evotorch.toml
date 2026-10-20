@@ -1,0 +1,9 @@
+name = "evotorch"
+description = "Advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE."
+category = "ml-platforms"
+tags = ["artificial-intelligence", "evolutionary-computation", "neural-networks", "optimization-algorithms", "distributed", "gpu", "python", "pytorch"]
+repository = "https://github.com/nnaisense/evotorch"
+website = "https://evotorch.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

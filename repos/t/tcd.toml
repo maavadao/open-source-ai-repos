@@ -1,0 +1,9 @@
+name = "TCD"
+description = "Official Repository of the paper \"Trajectory Consistency Distillation\""
+category = "image"
+tags = ["consistency-models", "diffusion", "text-to-image", "score-based-models", "stable-diffusion", "fast-sampling"]
+repository = "https://github.com/jabir-zheng/TCD"
+website = "https://mhh0318.github.io/tcd"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

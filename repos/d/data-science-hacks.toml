@@ -1,0 +1,9 @@
+name = "Data-Science-Hacks"
+description = "Data Science Hacks consists of tips, tricks to help you become a better data scientist. Data science hacks are for all - beginner to advanced. Data science hacks consist of python, jupyter notebook, pandas hacks and so on."
+category = "learning"
+tags = ["data-science", "machine-learning", "hacks", "pandas-dataframe", "ipynb", "image-augmentation", "python", "python3"]
+repository = "https://github.com/kunalj101/Data-Science-Hacks"
+website = "https://courses.analyticsvidhya.com/courses/data-science-hacks-tips-and-tricks"
+license = "GPL-3.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

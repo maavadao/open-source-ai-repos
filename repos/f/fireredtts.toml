@@ -1,0 +1,9 @@
+name = "FireRedTTS"
+description = "An Open-Sourced LLM-empowered Foundation TTS System"
+category = "speech"
+tags = ["diffusion", "flow-matching", "gan", "language-model", "speech", "speech-synthesis", "text-to-speech", "tts"]
+repository = "https://github.com/FireRedTeam/FireRedTTS"
+website = "https://fireredteam.github.io/demos/firered_tts/"
+license = "MPL-2.0"
+language = "Python"
+added = 2026-10-20

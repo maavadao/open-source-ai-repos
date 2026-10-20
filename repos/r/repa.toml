@@ -1,0 +1,9 @@
+name = "REPA"
+description = "[ICLR'25 Oral] Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think"
+category = "image"
+tags = ["diffusion-models", "diffusion"]
+repository = "https://github.com/sihyun-yu/REPA"
+website = "http://sihyun.me/REPA/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

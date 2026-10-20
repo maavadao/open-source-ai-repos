@@ -1,0 +1,9 @@
+name = "ImageAI"
+description = "A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities"
+category = "video"
+tags = ["artificial-intelligence", "machine-learning", "prediction", "image-prediction", "python", "python3", "offline-capable", "imageai"]
+repository = "https://github.com/OlafenwaMoses/ImageAI"
+website = "https://www.genxr.co/#products"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

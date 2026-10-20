@@ -1,0 +1,8 @@
+name = "takt"
+description = "TAKT Agent Koordination Topology - Define how AI agents coordinate, where humans intervene, and what gets recorded — in YAML"
+category = "coding"
+tags = ["agent-orchestration", "ai-agents", "claude-code", "multi-agent", "agent-team", "codex", "opencode"]
+repository = "https://github.com/nrslib/takt"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

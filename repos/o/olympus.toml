@@ -1,0 +1,9 @@
+name = "Olympus"
+description = "[CVPR 2025 Highlight] Official code for \"Olympus: A Universal Task Router for Computer Vision Tasks\""
+category = "chat"
+tags = ["llms", "mllms", "multimodal", "chatbot", "chatgpt", "deeplearning", "foundation-models", "instruction-tuning"]
+repository = "https://github.com/yuanze-lin/Olympus"
+website = "https://yuanze-lin.me/Olympus_page/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "robocasa"
+description = "RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots"
+category = "robotics"
+tags = ["humanoid-robot", "physics-simulation", "robot-learning", "robotics"]
+repository = "https://github.com/robocasa/robocasa"
+website = "https://robocasa.ai"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "agents"
+description = "AI agent tooling for data engineering workflows."
+category = "mcp-servers"
+tags = ["agents", "ai", "airflow", "data-engineering", "mcp", "skills", "claude", "cursor"]
+repository = "https://github.com/astronomer/agents"
+website = "https://astronomer.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

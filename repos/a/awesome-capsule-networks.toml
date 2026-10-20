@@ -1,0 +1,7 @@
+name = "awesome-capsule-networks"
+description = "A curated list of awesome resources related to capsule networks"
+category = "learning"
+tags = ["capsule-networks", "capsule-network", "computer-vision", "deep-learning", "neural-networks", "awesome-list"]
+repository = "https://github.com/sekwiatkowski/awesome-capsule-networks"
+license = "NOASSERTION"
+added = 2026-10-20

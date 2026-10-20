@@ -1,0 +1,9 @@
+name = "anton"
+description = "self-improving agent"
+category = "coding"
+tags = ["agi", "ai", "ai-agents", "code-generation", "coworker", "jupyter-notebook", "clawdbot", "moltbot"]
+repository = "https://github.com/mindsdb/anton"
+website = "https://mindsdb.github.io/anton/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "harvester"
+description = "Intelligent data acquisition framework for GitHub and web sources"
+category = "models"
+tags = ["ai", "anthropic", "deepseek", "gemini", "openai", "qwen"]
+repository = "https://github.com/wzdnzd/harvester"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

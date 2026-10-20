@@ -1,0 +1,9 @@
+name = "ModernBERT"
+description = "Bringing BERT into modernity via both architecture changes and scaling"
+category = "models"
+tags = ["bert", "embeddings", "llm", "nlp"]
+repository = "https://github.com/AnswerDotAI/ModernBERT"
+website = "https://arxiv.org/abs/2412.13663"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "DiffuScene"
+description = "[CVPR 2024] DiffuScene: Denoising Diffusion Models for Generative Indoor Scene Synthesis"
+category = "image"
+tags = ["diffusion-models", "generative-models", "scene-understanding", "text-to-scene", "scene-completion", "scene-generation", "scene-arrangement", "scene-synthesis"]
+repository = "https://github.com/tangjiapeng/DiffuScene"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

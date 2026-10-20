@@ -1,0 +1,9 @@
+name = "superglue"
+description = "superglue's AI agents connect, migrate and implement enterprise systems. Cloud-hosted or on your own infrastructure."
+category = "mcp-servers"
+tags = ["api", "api-gateway", "etl-automation", "transformations", "api-orchestration", "agents", "ai", "ai-agents"]
+repository = "https://github.com/superglue-ai/superglue"
+website = "https://superglue.ai"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

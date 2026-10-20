@@ -1,0 +1,8 @@
+name = "Metadata-Viewer"
+description = "A JavaFX desktop application for extracting and managing AI image generation metadata across multiple platforms. Features recursive parsing logic, JSON persistence, and a custom dark theme."
+category = "image"
+tags = ["css", "generative-ai", "json", "metadata-extraction"]
+repository = "https://github.com/erroralex/Metadata-Viewer"
+license = "NOASSERTION"
+language = "Java"
+added = 2026-10-20

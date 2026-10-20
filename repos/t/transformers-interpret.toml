@@ -1,0 +1,8 @@
+name = "transformers-interpret"
+description = "Model explainability that works seamlessly with transformers. Explain your transformers model in just 2 lines of code."
+category = "vision"
+tags = ["nlp", "machine-learning", "natural-language-processing", "explainable-ai", "transformers", "model-explainability", "transformers-model", "captum"]
+repository = "https://github.com/cdpierse/transformers-interpret"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "rerun"
+description = "Visualize, query, and stream to train on multimodal robotics data."
+category = "robotics"
+tags = ["visualization", "computer-vision", "python", "robotics", "rust", "multimodal", "cpp"]
+repository = "https://github.com/rerun-io/rerun"
+website = "https://rerun.io/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "subtitle-translator"
+description = "Translate a whole season of subtitles in one pass — .srt/.ass/.vtt/.lrc, 120+ languages, 27 LLM providers, timing untouched ｜ 整季字幕一次译完，时轴不动，支持 120+ 语言"
+category = "models"
+tags = ["srt", "subtitles", "ass", "lrc", "vtt", "batch-translation", "bilingual-subtitles", "subtitle"]
+repository = "https://github.com/rockbenben/subtitle-translator"
+website = "https://tools.newzone.top/en/subtitle-translator"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "holodeck"
+description = "High Fidelity Simulator for Reinforcement Learning and Robotics Research."
+category = "robotics"
+tags = ["reinforcement-learning", "unreal-engine", "ai", "drones", "simulator", "research", "computer-vision", "robotics"]
+repository = "https://github.com/BYU-PCCL/holodeck"
+website = "https://holodeck.cs.byu.edu"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

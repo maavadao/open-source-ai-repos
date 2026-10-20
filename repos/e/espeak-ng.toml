@@ -1,0 +1,8 @@
+name = "espeak-ng"
+description = "eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents."
+category = "speech"
+tags = ["espeak-ng", "espeak", "android", "text-to-speech", "speech-synthesis"]
+repository = "https://github.com/espeak-ng/espeak-ng"
+license = "GPL-3.0"
+language = "C"
+added = 2026-10-20

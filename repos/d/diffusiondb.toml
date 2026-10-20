@@ -1,0 +1,9 @@
+name = "diffusiondb"
+description = "A large-scale text-to-image prompt gallery dataset based on Stable Diffusion"
+category = "image"
+tags = ["computer-vision", "ai-art", "image-generation", "prompt-engineering", "stable-diffusion"]
+repository = "https://github.com/poloclub/diffusiondb"
+website = "https://poloclub.github.io/diffusiondb"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

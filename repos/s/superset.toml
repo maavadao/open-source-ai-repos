@@ -1,0 +1,9 @@
+name = "superset"
+description = "Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription."
+category = "mcp-servers"
+tags = ["claude-code", "codex", "terminal", "ai-agents", "cursor-agent", "opencode", "parallel-agents", "worktrees"]
+repository = "https://github.com/superset-sh/superset"
+website = "https://superset.sh"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

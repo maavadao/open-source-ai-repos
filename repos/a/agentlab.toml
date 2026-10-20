@@ -1,0 +1,8 @@
+name = "AgentLab"
+description = "AgentLab: An open-source framework for developing, testing, and benchmarking web agents on diverse tasks, designed for scalability and reproducibility."
+category = "agents"
+tags = ["agents", "benchmark", "evaluation-framework", "llm", "llm-agents", "prompting", "web-agents", "agent"]
+repository = "https://github.com/ServiceNow/AgentLab"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

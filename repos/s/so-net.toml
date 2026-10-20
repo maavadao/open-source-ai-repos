@@ -1,0 +1,8 @@
+name = "SO-Net"
+description = "SO-Net: Self-Organizing Network for Point Cloud Analysis, CVPR2018"
+category = "robotics"
+tags = ["computer-vision", "deep-learning", "cvpr", "3d", "point-cloud", "autonomous-driving"]
+repository = "https://github.com/lijx10/SO-Net"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

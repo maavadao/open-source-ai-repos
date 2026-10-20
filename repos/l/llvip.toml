@@ -1,0 +1,8 @@
+name = "LLVIP"
+description = "LLVIP: A Visible-infrared Paired Dataset for Low-light Vision"
+category = "vision"
+tags = ["computer-vision", "visible-infrared", "low-light-image", "image-fusion", "object-detection", "cnn", "gan", "deep-learning"]
+repository = "https://github.com/bupt-ai-cz/LLVIP"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

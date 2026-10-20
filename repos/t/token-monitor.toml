@@ -1,0 +1,9 @@
+name = "token-monitor"
+description = "Local-first desktop widget for tracking token usage, costs, limits, and session activity across 46+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device sync."
+category = "coding"
+tags = ["ai-tools", "claude-code", "codex", "llm", "local-first", "self-hosted", "token-tracker", "token-usage"]
+repository = "https://github.com/Javis603/token-monitor"
+website = "http://javis-ai.com/token-monitor/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

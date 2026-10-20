@@ -1,0 +1,9 @@
+name = "lollms-webui"
+description = "Lord of Large Language and Multi modal Systems Web User Interface"
+category = "models"
+tags = ["ai", "llm", "text-generation"]
+repository = "https://github.com/ParisNeo/lollms-webui"
+website = "https://lollms.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

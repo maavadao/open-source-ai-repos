@@ -1,0 +1,9 @@
+name = "AivisSpeech"
+description = "AivisSpeech: AI Voice Imitation System - Text to Speech Software"
+category = "speech"
+tags = ["aivis-project", "aivm", "japanese", "text-to-speech", "tts", "electron", "bert-vits2", "vits"]
+repository = "https://github.com/Aivis-Project/AivisSpeech"
+website = "https://aivis-project.com/speech/"
+license = "LGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

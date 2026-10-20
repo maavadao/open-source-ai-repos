@@ -1,0 +1,8 @@
+name = "whatsapp-chatgpt"
+description = "ChatGPT + DALL-E + WhatsApp = AI Assistant"
+category = "image"
+tags = ["artificial-intelligence", "chatbot", "chatgpt", "openai", "whatsapp", "bot", "whatsapp-web", "dalle"]
+repository = "https://github.com/askrella/whatsapp-chatgpt"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

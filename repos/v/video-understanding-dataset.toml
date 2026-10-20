@@ -1,0 +1,7 @@
+name = "video-understanding-dataset"
+description = "A collection of recent video understanding datasets, under construction!"
+category = "vision"
+tags = ["video-understanding", "datasets", "computer-vision", "action-recognition"]
+repository = "https://github.com/yoosan/video-understanding-dataset"
+license = "NOASSERTION"
+added = 2026-10-20

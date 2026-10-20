@@ -1,0 +1,8 @@
+name = "rednose"
+description = "Kalman filter library"
+category = "robotics"
+tags = ["hacktoberfest", "computer-vision", "kalman", "kalman-filter", "odometry", "slam"]
+repository = "https://github.com/commaai/rednose"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

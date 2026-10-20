@@ -1,0 +1,9 @@
+name = "alan-sdk-ios"
+description = "The Self-Coding System for Your App — Alan AI SDK for iOS"
+category = "speech"
+tags = ["alan-ios-sdk", "alan-studio", "chatbot", "voice", "voice-assistant", "voice-ai", "alan-voice", "ios"]
+repository = "https://github.com/alan-ai/alan-sdk-ios"
+website = "https://alan.app"
+license = "NOASSERTION"
+language = "Objective-C"
+added = 2026-10-20

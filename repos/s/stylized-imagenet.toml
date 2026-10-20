@@ -1,0 +1,9 @@
+name = "Stylized-ImageNet"
+description = "Code to create Stylized-ImageNet, a stylized version of standard ImageNet (ICLR 2019 Oral)"
+category = "vision"
+tags = ["deep-learning", "style-transfer", "computer-vision", "human-vision", "shape-bias", "texture-bias"]
+repository = "https://github.com/rgeirhos/Stylized-ImageNet"
+website = "https://openreview.net/forum?id=Bygh9j09KX"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

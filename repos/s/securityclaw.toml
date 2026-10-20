@@ -1,0 +1,8 @@
+name = "SecurityClaw"
+description = "A modular, skill-based autonomous Security Operations Center (SOC) agent that monitors OpenSearch/Elasticsearch data, builds RAG-based behavioral memory, and validates real-time anomalies using LLMs."
+category = "security"
+tags = ["ai-agents", "ai-security", "anomaly-detection", "autonomous-agents", "cybersecurity", "llm", "opensearch", "rag"]
+repository = "https://github.com/SecurityClaw/SecurityClaw"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

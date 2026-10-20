@@ -1,0 +1,9 @@
+name = "marker"
+description = "Convert PDF to markdown + JSON quickly with high accuracy"
+category = "documents"
+repository = "https://github.com/datalab-to/marker"
+website = "https://www.datalab.to"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

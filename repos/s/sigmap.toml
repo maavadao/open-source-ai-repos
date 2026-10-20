@@ -1,0 +1,9 @@
+name = "sigmap"
+description = "~97% token reduction for AI coding sessions — zero deps, 38 languages, MCP server"
+category = "mcp-servers"
+tags = ["claude", "cursor", "llm", "mcp", "token-reduction", "ai", "code-context", "github-copilot"]
+repository = "https://github.com/manojmallick/sigmap"
+website = "https://sigmap.io/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

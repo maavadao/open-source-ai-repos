@@ -1,0 +1,9 @@
+name = "ai-skills"
+description = "24 cross-platform agent skills for Claude Code, Cursor, Codex & Gemini CLI — databases, messaging, research, TTS, DevOps, and Google Workspace"
+category = "mcp-servers"
+tags = ["agent-skills", "ai-skills", "atlassian", "azure-devops", "claude-code", "claude-skills", "deep-research", "elevenlabs"]
+repository = "https://github.com/sanjay3290/ai-skills"
+website = "https://deepwiki.com/sanjay3290/ai-skills"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "chat-with-your-data-solution-accelerator"
+description = "A Solution Accelerator for the RAG pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most common requirements and best practices."
+category = "search"
+tags = ["ai-search", "azd-templates", "azure", "azure-openai", "openai"]
+repository = "https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator"
+website = "https://azure.microsoft.com/products/search"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

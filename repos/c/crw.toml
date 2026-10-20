@@ -1,0 +1,9 @@
+name = "crw"
+description = "Fast, lightweight Firecrawl/Tavily alternative in Rust. Web scraper, crawler & search API with MCP server for AI agents. Drop-in Firecrawl-compatible API (/scrape, /crawl, /search). 2.3x faster than Tavily, 1.5x faster than Firecrawl in 1K-URL benchmarks. 6 MB RAM, single…"
+category = "mcp-servers"
+tags = ["ai", "ai-agents", "crawler", "data-extraction", "docker", "html-to-markdown", "llm", "markdown"]
+repository = "https://github.com/fastcrw/crw"
+website = "https://fastcrw.com"
+license = "AGPL-3.0"
+language = "Rust"
+added = 2026-10-20

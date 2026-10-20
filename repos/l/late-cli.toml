@@ -1,0 +1,8 @@
+name = "late-cli"
+description = "High-performance AI agent for long-horizon tasks and local models. Built on empirical research. 200k+ tokens of work inside a 64k context window. Run a full dev team in 5GB VRAM."
+category = "mcp-servers"
+tags = ["llm-orchestration", "mcp", "ai-agent", "ai-coding-assistant", "coding-agent", "agent", "llm", "autonomous-agents"]
+repository = "https://github.com/mlhher/late-cli"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

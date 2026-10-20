@@ -1,0 +1,9 @@
+name = "omi"
+description = "AI that sees your screen, listens to your conversations and tells you what to do"
+category = "speech"
+tags = ["ai", "app", "flutter", "friend", "mobile", "necklace", "omi", "python"]
+repository = "https://github.com/BasedHardware/omi"
+website = "https://omi.me"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

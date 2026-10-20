@@ -1,0 +1,9 @@
+name = "agent-chief"
+description = "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not."
+category = "models"
+tags = ["harness", "harness-engineering", "llm", "local-first"]
+repository = "https://github.com/SmileLikeYe/agent-chief"
+website = "https://smileflow.cn/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

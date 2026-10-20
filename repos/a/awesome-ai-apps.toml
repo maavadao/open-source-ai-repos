@@ -1,0 +1,9 @@
+name = "awesome-ai-apps"
+description = "A collection of projects showcasing RAG, agents, workflows, and other AI use cases"
+category = "mcp-servers"
+tags = ["agents", "ai", "llm", "mcp", "hacktoberfest"]
+repository = "https://github.com/Arindam200/awesome-ai-apps"
+website = "https://dub.sh/nebius"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

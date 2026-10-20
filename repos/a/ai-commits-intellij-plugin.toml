@@ -1,0 +1,9 @@
+name = "ai-commits-intellij-plugin"
+description = "AI Commits for IntelliJ based IDEs/Android Studio."
+category = "local-llms"
+tags = ["ai", "chatgpt", "commit", "intellij", "intellij-plugin", "commit-message", "generation", "jetbrains"]
+repository = "https://github.com/Blarc/ai-commits-intellij-plugin"
+website = "https://plugins.jetbrains.com/plugin/21335-ai-commits"
+license = "MIT"
+language = "Kotlin"
+added = 2026-10-20

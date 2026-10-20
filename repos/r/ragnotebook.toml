@@ -1,0 +1,8 @@
+name = "RAGNotebook"
+description = "基于LangChain、LangGraph、FastAPI和React的RAG项目，主分支为基于知识图谱的知识管理平台，base-rag分支为完整的向量RAG项目供学习使用"
+category = "llm-apps"
+tags = ["fastapi", "langchain", "mysql", "sqlachemy", "react", "rag", "graphrag", "knowledge-graph"]
+repository = "https://github.com/RMA-MUN/RAGNotebook"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "pypose"
+description = "A library for differentiable robotics on manifolds."
+category = "robotics"
+tags = ["robotics", "pytorch", "python", "learning", "lie-group", "optimization", "deep-learning", "computer-graphics"]
+repository = "https://github.com/pypose/pypose"
+website = "https://pypose.org"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

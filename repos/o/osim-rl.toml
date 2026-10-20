@@ -1,0 +1,9 @@
+name = "osim-rl"
+description = "Reinforcement learning environments with musculoskeletal models"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "kinematics", "machine-learning", "biomechanics", "deep-reinforcement-learning", "simulation-environment", "opensim", "simulator"]
+repository = "https://github.com/stanfordnmbl/osim-rl"
+website = "http://osim-rl.stanford.edu/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

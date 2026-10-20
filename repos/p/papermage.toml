@@ -1,0 +1,9 @@
+name = "papermage"
+description = "library supporting NLP and CV research on scientific papers"
+category = "vision"
+tags = ["computer-vision", "machine-learning", "multimodal", "natural-language-processing", "pdf-processing", "scientific-papers", "python"]
+repository = "https://github.com/allenai/papermage"
+website = "https://papermage.org"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

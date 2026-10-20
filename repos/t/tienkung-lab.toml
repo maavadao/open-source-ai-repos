@@ -1,0 +1,8 @@
+name = "TienKung-Lab"
+description = "Tien Kung-Lab: Direct IsaacLab Workflow for Legged Robots"
+category = "robotics"
+tags = ["embodied-ai", "humanoid-robot", "reinforcement-learning", "sim2sim", "tienkung", "isaaclab", "isaacsim"]
+repository = "https://github.com/Open-X-Humanoid/TienKung-Lab"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "ladi-vton"
+description = "[ACM MM 2023] - LaDI-VTON: Latent Diffusion Textual-Inversion Enhanced Virtual Try-On"
+category = "image"
+tags = ["dresscode", "fashionai", "generative-model", "latent-diffusion-models", "stable-diffusion", "textual-inversion", "virtual-tryon", "viton-hd"]
+repository = "https://github.com/miccunifi/ladi-vton"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

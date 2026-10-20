@@ -1,0 +1,8 @@
+name = "ComfyUI-ArtGallery"
+description = "Prompt Visualization | Art Gallery"
+category = "image"
+tags = ["art", "comfyui", "stable-diffusion"]
+repository = "https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

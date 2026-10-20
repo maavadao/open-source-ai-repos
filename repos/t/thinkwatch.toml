@@ -1,0 +1,9 @@
+name = "ThinkWatch"
+description = "Self-hosted AI API and MCP gateway for organizations: SSO and RBAC, per-user identity for MCP tool calls, PII redaction and tool-call guards, rate limits, budgets, cost accounting and audit logs."
+category = "mcp-servers"
+tags = ["ai-gateway", "mcp-gateway", "mcp-security", "ai-governance", "audit-log", "bastion-host", "cost-tracking", "llm-gateway"]
+repository = "https://github.com/ThinkWatchProject/ThinkWatch"
+website = "https://thinkwat.ch"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

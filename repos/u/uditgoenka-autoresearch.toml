@@ -1,0 +1,9 @@
+name = "autoresearch"
+description = "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever."
+category = "skills-prompts"
+tags = ["ai", "autonomous-agent", "autoresearch", "claude", "claude-code", "iteration", "karpathy", "productivity"]
+repository = "https://github.com/uditgoenka/autoresearch"
+website = "https://udit.co/projects/autoresearch"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

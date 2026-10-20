@@ -1,0 +1,9 @@
+name = "synalinks"
+description = "Keras based framework for neuro-symbolic LM systems"
+category = "llm-apps"
+tags = ["in-context-learning", "in-context-reinforcement-learning", "language-model", "llmops", "llms", "neuro-symbolic", "neuro-symbolic-ai", "reinforcement-learning"]
+repository = "https://github.com/SynaLinks/synalinks"
+website = "https://synalinks.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

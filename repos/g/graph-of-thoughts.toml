@@ -1,0 +1,9 @@
+name = "graph-of-thoughts"
+description = "Official Implementation of \"Graph of Thoughts: Solving Elaborate Problems with Large Language Models\""
+category = "models"
+tags = ["graph-structures", "graphs", "large-language-models", "llm", "prompt-engineering", "prompting", "graph-of-thoughts"]
+repository = "https://github.com/spcl/graph-of-thoughts"
+website = "https://arxiv.org/pdf/2308.09687.pdf"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

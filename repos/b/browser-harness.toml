@@ -1,0 +1,9 @@
+name = "browser-harness"
+description = "Let Claude Code, Codex or Cursor use your real Chrome, logged in as you. One prompt to set up. Open source, MIT."
+category = "mcp-servers"
+tags = ["ai-agent", "browser-agent", "browser-automation", "browser-use", "cdp", "cloud-browser", "llm", "web-automation"]
+repository = "https://github.com/browser-use/browser-harness"
+website = "https://browser-harness.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

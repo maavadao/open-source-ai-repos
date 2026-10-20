@@ -1,0 +1,8 @@
+name = "yolov7-object-tracking"
+description = "YOLOv7 Object Tracking Using PyTorch, OpenCV and Sort Tracking"
+category = "vision"
+tags = ["deep-learning", "object-detection", "opencv-python", "tracking-algorithm", "yolov7", "computer-vision", "ultralytics", "ultralytics-yolo"]
+repository = "https://github.com/RizwanMunawar/yolov7-object-tracking"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

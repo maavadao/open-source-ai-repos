@@ -1,0 +1,8 @@
+name = "rl-agents"
+description = "Implementations of Reinforcement Learning and Planning algorithms"
+category = "agents"
+tags = ["planning", "reinforcement-learning", "agents"]
+repository = "https://github.com/eleurent/rl-agents"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

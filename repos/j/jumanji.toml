@@ -1,0 +1,9 @@
+name = "jumanji"
+description = "A diverse suite of scalable reinforcement learning environments in JAX"
+category = "ml-platforms"
+tags = ["jax", "python", "reinforcement-learning", "research"]
+repository = "https://github.com/instadeepai/jumanji"
+website = "https://instadeepai.github.io/jumanji"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

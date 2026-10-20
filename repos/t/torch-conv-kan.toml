@@ -1,0 +1,8 @@
+name = "torch-conv-kan"
+description = "This project is dedicated to the implementation and research of Kolmogorov-Arnold convolutional networks. The repository includes implementations of 1D, 2D, and 3D convolutions with different kernels, ResNet-like and DenseNet-like models, training code based on…"
+category = "vision"
+tags = ["computer-vision", "convolutional-neural-networks", "kolmogorov-arnold-networks"]
+repository = "https://github.com/IvanDrokin/torch-conv-kan"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

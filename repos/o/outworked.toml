@@ -1,0 +1,8 @@
+name = "outworked"
+description = "Outworked - Cozy Office for Claude Code"
+category = "coding"
+tags = ["agentic-ai", "agents", "claude", "claude-ai", "claude-code", "anthropic", "anthropic-claude", "developer-tools"]
+repository = "https://github.com/outworked/outworked"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

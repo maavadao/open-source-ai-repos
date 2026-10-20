@@ -1,0 +1,9 @@
+name = "DI-drive"
+description = "Decision Intelligence Platform for Autonomous Driving simulation."
+category = "robotics"
+tags = ["reinforcement-learning", "imitation-learning", "autodrive", "carla", "pytorch", "autonomous-driving", "metadrive"]
+repository = "https://github.com/opendilab/DI-drive"
+website = "https://opendilab.github.io/DI-drive/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

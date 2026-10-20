@@ -1,0 +1,9 @@
+name = "flyto-core"
+description = "AI said it finished. Flyto2 shows the proof."
+category = "mcp-servers"
+tags = ["ai-agents", "browser-automation", "mcp-server", "workflow-engine", "flyto2", "evidence", "replay"]
+repository = "https://github.com/flytohub/flyto-core"
+website = "https://flyto2.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

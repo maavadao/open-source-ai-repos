@@ -1,0 +1,9 @@
+name = "Holodeck"
+description = "CVPR 2024: Language Guided Generation of 3D Embodied AI Environments."
+category = "models"
+tags = ["ai2-thor", "generative-ai", "large-language-models", "text-to-3d", "unity", "3d-environment"]
+repository = "https://github.com/allenai/Holodeck"
+website = "https://yueyang1996.github.io/holodeck"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

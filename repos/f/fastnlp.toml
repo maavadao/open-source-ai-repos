@@ -1,0 +1,9 @@
+name = "fastNLP"
+description = "fastNLP: A Modularized and Extensible NLP Framework. Currently still in incubation."
+category = "ml-platforms"
+tags = ["natural-language-processing", "deep-learning", "nlp-library", "nlp-parsing", "chinese-nlp", "text-classification", "text-processing"]
+repository = "https://github.com/FudanNLP/fastNLP"
+website = "https://gitee.com/fastnlp/fastNLP"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

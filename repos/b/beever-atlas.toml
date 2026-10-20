@@ -1,0 +1,9 @@
+name = "beever-atlas"
+description = "Your First LLM-Wiki Conversation Knowledge Base"
+category = "mcp-servers"
+tags = ["discord-bot", "fastapi", "gemini", "google-adk", "knowledge-base", "llm", "mattermost", "mcp"]
+repository = "https://github.com/Beever-AI/beever-atlas"
+website = "https://docs.beever.ai/atlas"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

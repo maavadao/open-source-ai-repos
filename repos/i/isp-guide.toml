@@ -1,0 +1,8 @@
+name = "ISP-Guide"
+description = "Image Signal Processing (ISP) Guide. Learn all about the process of converting an image/video into digital form by performing tasks like noise reduction, filtering, auto exposure, autofocus, HDR correction, and image sharpening with a Specialized type of media processor."
+category = "image"
+tags = ["image-processing", "image-classification", "image-recognition", "image-signal-processor", "image-signal-processing", "image-sensor", "image-segmentation", "awesome"]
+repository = "https://github.com/mikeroyal/ISP-Guide"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

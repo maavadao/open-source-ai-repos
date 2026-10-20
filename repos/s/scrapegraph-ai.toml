@@ -1,0 +1,9 @@
+name = "Scrapegraph-ai"
+description = "Python scraper based on AI"
+category = "search"
+tags = ["scraping", "scraping-python", "llm", "web-crawler", "web-scraping", "ai-scraping", "crawler", "markdown"]
+repository = "https://github.com/ScrapeGraphAI/Scrapegraph-ai"
+website = "https://scrapegraphai.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

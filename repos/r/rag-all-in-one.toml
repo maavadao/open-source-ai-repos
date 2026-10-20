@@ -1,0 +1,8 @@
+name = "rag-all-in-one"
+description = "Guide to Building RAG (Retrieval-Augmented Generation) Applications"
+category = "llm-apps"
+tags = ["generative-ai", "llms", "rag"]
+repository = "https://github.com/lehoanglong95/rag-all-in-one"
+website = "https://www.linkedin.com/in/long-le-713b41111/"
+license = "NOASSERTION"
+added = 2026-10-20

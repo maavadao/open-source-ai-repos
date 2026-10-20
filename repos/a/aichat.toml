@@ -1,0 +1,8 @@
+name = "aichat"
+description = "All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more."
+category = "local-llms"
+tags = ["claude", "gemini", "ollama", "openai", "function-calling", "cli", "llm", "rag"]
+repository = "https://github.com/sigoden/aichat"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

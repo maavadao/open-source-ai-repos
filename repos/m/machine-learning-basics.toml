@@ -1,0 +1,8 @@
+name = "machine_learning_basics"
+description = "Plain python implementations of basic machine learning algorithms"
+category = "ml-platforms"
+tags = ["machine-learning", "logistic-regression", "ipynb", "machine-learning-algorithms", "linear-regression", "perceptron", "python-implementations", "kmeans"]
+repository = "https://github.com/zotroneneis/machine_learning_basics"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

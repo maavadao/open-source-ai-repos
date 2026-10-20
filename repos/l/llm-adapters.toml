@@ -1,0 +1,9 @@
+name = "LLM-Adapters"
+description = "Code for our EMNLP 2023 Paper: \"LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models\""
+category = "models"
+tags = ["adapters", "fine-tuning", "large-language-models", "parameter-efficient"]
+repository = "https://github.com/AGI-Edgerunners/LLM-Adapters"
+website = "https://arxiv.org/abs/2304.01933"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

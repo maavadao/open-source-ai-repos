@@ -1,0 +1,8 @@
+name = "MMRec"
+description = "A Toolbox for MultiModal Recommendation. Integrating 10+ Models..."
+category = "models"
+tags = ["multi-modal-retrieval", "multimedia-recommendation", "multimodal", "recommender-system"]
+repository = "https://github.com/enoche/MMRec"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

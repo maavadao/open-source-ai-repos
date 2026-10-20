@@ -1,0 +1,9 @@
+name = "runtm"
+description = "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and other agents code and deploy software."
+category = "coding"
+tags = ["ai-agents", "agent-runtime", "agentic", "control-plane", "ephemeral-environments", "infra", "llm-tools", "llmops"]
+repository = "https://github.com/runtm-ai/runtm"
+website = "https://www.runtm.com/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

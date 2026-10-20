@@ -1,0 +1,8 @@
+name = "hal-9100"
+description = "Edge full-stack LLM platform. Written in Rust"
+category = "models"
+tags = ["ai", "deep-learning", "large-language-models", "llm", "machine-learning", "edge"]
+repository = "https://github.com/llm-edge/hal-9100"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

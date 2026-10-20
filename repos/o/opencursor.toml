@@ -1,0 +1,9 @@
+name = "OpenCursor"
+description = "Open-source Cursor-like AI coding agent for VS Code - agentic chat, multi-provider LLMs (OpenAI, Ollama, llama.cpp), semantic search, and MCP support"
+category = "coding"
+tags = ["ai", "agent", "code", "coder", "cursor", "extension", "ide", "vscode"]
+repository = "https://github.com/PawanOsman/OpenCursor"
+website = "https://marketplace.visualstudio.com/items?itemName=pkrd.ocursor"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

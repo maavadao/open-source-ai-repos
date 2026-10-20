@@ -1,0 +1,9 @@
+name = "genal-chat"
+description = "阿童木聊天室 nestjs+vue全栈聊天室 前后端分离 typescript一把梭"
+category = "chat"
+tags = ["vue", "nodejs", "typescript", "typeorm", "socket-io", "vuex", "chatbot", "chatroom"]
+repository = "https://github.com/genalhuang/genal-chat"
+website = "https://www.genal.fun"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

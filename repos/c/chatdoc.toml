@@ -1,0 +1,8 @@
+name = "chatdoc"
+description = "Chat with your doc by openai"
+category = "other"
+tags = ["chatpdf", "gpt-3", "openai", "python", "chatdoc"]
+repository = "https://github.com/daodao97/chatdoc"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

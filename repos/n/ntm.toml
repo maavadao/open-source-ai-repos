@@ -1,0 +1,8 @@
+name = "ntm"
+description = "Named Tmux Manager: spawn, tile, and coordinate multiple AI coding agents (Claude, Codex, Gemini) across tmux panes with a TUI command palette"
+category = "agents"
+tags = ["ai-agents", "cli", "developer-tools", "go", "tmux"]
+repository = "https://github.com/Dicklesworthstone/ntm"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

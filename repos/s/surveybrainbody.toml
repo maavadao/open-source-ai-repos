@@ -1,0 +1,8 @@
+name = "SurveyBrainBody"
+description = "Embodied Co-Design for Rapidly Evolving Agents: Taxonomy, Frontiers, and Challenges"
+category = "robotics"
+tags = ["embodied-agent", "embodied-artificial-intelligence", "robotics", "survey", "agent", "evolution", "brain-body-co-design", "modularrobots"]
+repository = "https://github.com/Yuxing-Wang-THU/SurveyBrainBody"
+website = "https://arxiv.org/abs/2512.04770"
+license = "Apache-2.0"
+added = 2026-10-20

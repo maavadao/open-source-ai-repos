@@ -1,0 +1,9 @@
+name = "Agent-S"
+description = "Agent S: an open agentic framework that uses computers like a human"
+category = "browser-automation"
+tags = ["agent-computer-interface", "ai-agents", "computer-automation", "gui-agents", "memory", "mllm", "planning", "retrieval-augmented-generation"]
+repository = "https://github.com/simular-ai/Agent-S"
+website = "https://www.simular.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

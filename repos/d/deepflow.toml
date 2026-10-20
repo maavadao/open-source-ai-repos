@@ -1,0 +1,9 @@
+name = "deepflow"
+description = "eBPF Observability - Distributed Tracing and Profiling"
+category = "models"
+tags = ["opentelemetry", "kubernetes", "wasm", "apm", "gpu", "llm", "zero-code"]
+repository = "https://github.com/deepflowio/deepflow"
+website = "https://deepflow.io"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

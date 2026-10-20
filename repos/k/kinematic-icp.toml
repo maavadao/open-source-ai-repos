@@ -1,0 +1,9 @@
+name = "kinematic-icp"
+description = "A LiDAR odometry pipeline for wheeled mobile robots"
+category = "robotics"
+tags = ["3d-mapping", "kinematics-model", "lidar-slam", "odometry", "robotics", "ros2", "wheeled-mobile-robot"]
+repository = "https://github.com/PRBonn/kinematic-icp"
+website = "https://www.ipb.uni-bonn.de/pdfs/guadagnino2025icra.pdf"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

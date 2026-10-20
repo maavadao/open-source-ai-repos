@@ -1,0 +1,8 @@
+name = "Dia-TTS-Server"
+description = "Self-host the powerful Dia TTS model. This server offers a user-friendly Web UI, flexible API endpoints (incl. OpenAI compatible), support for SafeTensors/BF16, voice cloning, dialogue generation, and GPU/CPU execution."
+category = "speech"
+tags = ["ai", "api-server", "audio-generation", "cuda", "dia", "fastapi", "huggingface", "openai-api"]
+repository = "https://github.com/devnen/Dia-TTS-Server"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

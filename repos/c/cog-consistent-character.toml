@@ -1,0 +1,9 @@
+name = "cog-consistent-character"
+description = "Create images of a given character in different poses"
+category = "image"
+tags = ["ai", "cog", "comfyui", "replicate", "stable-diffusion"]
+repository = "https://github.com/fofr/cog-consistent-character"
+website = "https://replicate.com/fofr/consistent-character"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "liveblocks"
+description = "Realtime infrastructure for multiplayer apps and agents"
+category = "agents"
+tags = ["websockets", "real-time", "multiplayer", "presence", "collaboration", "toolkit", "liveblocks", "crdt"]
+repository = "https://github.com/liveblocks/liveblocks"
+website = "https://liveblocks.io"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

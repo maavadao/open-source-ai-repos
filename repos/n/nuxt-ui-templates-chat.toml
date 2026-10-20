@@ -1,0 +1,9 @@
+name = "chat"
+description = "Nuxt AI Chatbot Template made with Nuxt UI and Vercel AI SDK."
+category = "chat"
+tags = ["ai", "chat", "chatbot", "nuxt", "nuxt-ui", "nuxthub", "vue", "ai-gateway"]
+repository = "https://github.com/nuxt-ui-templates/chat"
+website = "https://chat-template.nuxt.dev"
+license = "MIT"
+language = "Vue"
+added = 2026-10-20

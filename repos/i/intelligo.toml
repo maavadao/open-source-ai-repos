@@ -1,0 +1,9 @@
+name = "intelligo"
+description = "The application framework for vertical AI SaaS | auth, workspaces, billing, credits, execution boundary, page registry. You build the agent."
+category = "chat"
+tags = ["ai", "saas", "saas-application", "shadcn-ui", "agent", "agentic-ai", "chat-ui"]
+repository = "https://github.com/intelligo-dev/intelligo"
+website = "https://intelligo.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

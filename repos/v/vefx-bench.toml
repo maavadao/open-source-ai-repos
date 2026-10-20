@@ -1,0 +1,9 @@
+name = "VEFX-Bench"
+description = "VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects"
+category = "video"
+tags = ["agent", "ai", "artificial-intelligence", "generative-ai", "image", "image-editing", "image-generation", "skills"]
+repository = "https://github.com/Visko-Platform/VEFX-Bench"
+website = "https://xiangbogaobarry.github.io/VEFX-Bench/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

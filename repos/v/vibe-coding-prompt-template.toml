@@ -1,0 +1,9 @@
+name = "vibe-coding-prompt-template"
+description = "Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs"
+category = "coding"
+tags = ["ai-agents", "ai-workflow", "beginner-friendly", "mvp-development", "technical-design", "vibe-coding", "llm-tools", "workflow-automation"]
+repository = "https://github.com/KhazP/vibe-coding-prompt-template"
+website = "https://vibeworkflow.app/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

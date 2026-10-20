@@ -1,0 +1,9 @@
+name = "LatentMAS"
+description = "[ICML 2026 Spotlight] Latent Collaboration in Multi-Agent Systems"
+category = "agents"
+tags = ["latent-reasoning", "model-collaboration", "multi-agent-systems", "continuous-reasoning", "large-language-models", "latent-space-model"]
+repository = "https://github.com/Gen-Verse/LatentMAS"
+website = "https://arxiv.org/abs/2511.20639"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "semantic-router"
+description = "An open, programmable decision layer for models and compute."
+category = "mcp-servers"
+tags = ["mixture-of-models", "semantic-router", "vllm", "ai-gateway", "kubernetes", "llmrouter", "llm", "guardrails"]
+repository = "https://github.com/vllm-project/semantic-router"
+website = "https://vllm-sr.ai"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "vrn"
+description = "Code for \"Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression\""
+category = "vision"
+tags = ["computervision", "deeplearning", "3d", "reconstruction", "face", "torch7", "computer-vision"]
+repository = "https://github.com/AaronJackson/vrn"
+website = "http://aaronsplace.co.uk/papers/jackson2017recon/"
+license = "MIT"
+language = "MATLAB"
+added = 2026-10-20

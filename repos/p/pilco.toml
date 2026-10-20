@@ -1,0 +1,8 @@
+name = "PILCO"
+description = "Bayesian Reinforcement Learning in Tensorflow"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "model-based-rl", "gaussian-processes", "tensorflow", "machine-learning"]
+repository = "https://github.com/nrontsis/PILCO"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

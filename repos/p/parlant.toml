@@ -1,0 +1,9 @@
+name = "parlant"
+description = "Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM interactions."
+category = "agents"
+tags = ["ai-agents", "genai", "llm", "customer-service", "customer-success", "gemini", "llama3", "openai"]
+repository = "https://github.com/emcie-co/parlant"
+website = "https://www.parlant.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

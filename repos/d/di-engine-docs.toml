@@ -1,0 +1,9 @@
+name = "DI-engine-docs"
+description = "DI-engine docs (Chinese and English)"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "reinforcement-learning-algorithms", "imitation-learning", "inverse-reinforcement-learning", "multi-agent-reinforcement-learning", "offline-rl", "model-based-reinforcement-learning", "deep-learning"]
+repository = "https://github.com/opendilab/DI-engine-docs"
+website = "https://di-engine-docs.readthedocs.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "xlstm"
+description = "Official repository of the xLSTM."
+category = "models"
+tags = ["deep-learning", "deep-learning-architecture", "llm", "machine-learning", "nlp", "rnn"]
+repository = "https://github.com/NX-AI/xlstm"
+website = "https://www.nx-ai.com/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

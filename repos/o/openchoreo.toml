@@ -1,0 +1,9 @@
+name = "openchoreo"
+description = "OpenChoreo is an internal developer platform for Kubernetes"
+category = "mcp-servers"
+tags = ["developer-platform", "internal-developer-platform", "ai-agents", "ci-cd", "cncf", "devops", "gitops", "kubernetes"]
+repository = "https://github.com/openchoreo/openchoreo"
+website = "https://openchoreo.dev"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

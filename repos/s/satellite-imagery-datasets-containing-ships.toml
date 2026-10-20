@@ -1,0 +1,7 @@
+name = "Satellite-Imagery-Datasets-Containing-Ships"
+description = "This repository provides a comprehensive list of radar and optical satellite datasets curated for ship detection, classification, semantic segmentation, and instance segmentation tasks. These datasets are ideal for applications in computer vision, machine learning, remote…"
+category = "learning"
+tags = ["detection", "classification", "semantic-segmentation", "instance-segmentation", "ships", "optical", "sar", "datasets"]
+repository = "https://github.com/jasonmanesis/Satellite-Imagery-Datasets-Containing-Ships"
+license = "MIT"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "hermex"
+description = "Native iPhone app for your Hermes agent"
+category = "models"
+tags = ["hermes", "hermes-agent", "hermex", "ios", "llm", "swift", "self-hosted", "swiftui"]
+repository = "https://github.com/uzairansaruzi/hermex"
+website = "https://hermexapp.com/"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

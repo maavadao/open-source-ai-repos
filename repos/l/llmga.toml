@@ -1,0 +1,8 @@
+name = "LLMGA"
+description = "This project is the official implementation of 'LLMGA: Multimodal Large Language Model based Generation Assistant', ECCV2024 Oral"
+category = "image"
+tags = ["image-editing", "image-generation", "llm", "image-design-assistant", "large-language-model", "mllm", "multi-modal", "aigc"]
+repository = "https://github.com/JIA-Lab-research/LLMGA"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

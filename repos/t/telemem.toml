@@ -1,0 +1,9 @@
+name = "telemem"
+description = "TeleMem is a high-performance drop-in replacement for Mem0, featuring semantic deduplication, long-term dialogue memory, and multimodal video reasoning."
+category = "mcp-servers"
+tags = ["agent", "conversational-ai", "llm", "long-term-memory", "mem0", "memory", "multimodal", "rag"]
+repository = "https://github.com/TeleAI-UAGI/telemem"
+website = "https://teleai-uagi.github.io/telemem/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

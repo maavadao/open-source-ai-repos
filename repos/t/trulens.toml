@@ -1,0 +1,9 @@
+name = "trulens"
+description = "Evaluation and Tracking for LLM Experiments and AI Agents"
+category = "agents"
+tags = ["machine-learning", "neural-networks", "explainable-ml", "llmops", "ai-monitoring", "ai-observability", "evals", "llm-evaluation"]
+repository = "https://github.com/truera/trulens"
+website = "https://www.trulens.org/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

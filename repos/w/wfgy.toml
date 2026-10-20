@@ -1,0 +1,8 @@
+name = "WFGY"
+description = "WFGY is heading toward WFGY 5.0 Polaris Protocol, a major open-source release for AI reasoning, RAG, agents, and real-world workflows. Includes Problem Map, Global Debug Card, WFGY 4.0, and the CFV Easter Egg."
+category = "agents"
+tags = ["rag", "ai-agents", "alignment", "debugging", "evaluation", "reasoning", "graphrag", "hallucination"]
+repository = "https://github.com/onestardao/WFGY"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

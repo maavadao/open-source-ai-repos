@@ -1,0 +1,9 @@
+name = "poml"
+description = "Prompt Orchestration Markup Language"
+category = "models"
+tags = ["llm", "markup-language", "prompt", "vscode-extension"]
+repository = "https://github.com/microsoft/poml"
+website = "https://microsoft.github.io/poml/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

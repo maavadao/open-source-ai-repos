@@ -1,0 +1,9 @@
+name = "claw-lens"
+description = "Open-source observability dashboard for OpenClaw daemons — cost analyti cs, live monitor ing, and de bugging tools, all running on your own machine."
+category = "agents"
+tags = ["agent-observability", "ai-agents", "analytics", "cost-tracking", "developer-tools", "local-first", "observibility", "openclaw"]
+repository = "https://github.com/msfirebird/claw-lens"
+website = "https://claw-lens.com/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

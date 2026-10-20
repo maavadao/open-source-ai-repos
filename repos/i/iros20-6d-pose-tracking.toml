@@ -1,0 +1,8 @@
+name = "iros20-6d-pose-tracking"
+description = "[IROS 2020] se(3)-TrackNet: Data-driven 6D Pose Tracking by Calibrating Image Residuals in Synthetic Domains"
+category = "robotics"
+tags = ["robotics", "tracking", "computer-vision", "pose-estimation", "3d", "manipulation", "robot", "robots"]
+repository = "https://github.com/wenbowen123/iros20-6d-pose-tracking"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

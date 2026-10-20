@@ -1,0 +1,9 @@
+name = "EdgeChains"
+description = "EdgeChains.js is Full-Stack GenAI library. Front-end, backend, apis, prompt management, distributed computing. All core prompts & chains are managed declaratively in jsonnet (and not hidden in classes)"
+category = "chat"
+tags = ["gpt", "llm", "openai", "typescript", "agent", "ai", "ai-agents", "autogpt"]
+repository = "https://github.com/arakoodev/EdgeChains"
+website = "https://www.arakoo.ai/"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-10-20

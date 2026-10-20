@@ -1,0 +1,9 @@
+name = "safe-rlhf"
+description = "Safe RLHF: Constrained Value Alignment via Safe Reinforcement Learning from Human Feedback"
+category = "security"
+tags = ["ai-safety", "alpaca", "datasets", "deepspeed", "large-language-models", "llama", "llm", "llms"]
+repository = "https://github.com/PKU-Alignment/safe-rlhf"
+website = "https://pku-beaver.github.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

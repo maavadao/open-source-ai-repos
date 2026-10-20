@@ -1,0 +1,9 @@
+name = "openrl"
+description = "Unified Reinforcement Learning Framework"
+category = "robotics"
+tags = ["distributed-reinforcement-learning", "embodied", "google-research-football", "gym", "gymnasium", "multi-agent-reinforcement-learning", "pytorch", "reinforcement-learning"]
+repository = "https://github.com/OpenRL-Lab/openrl"
+website = "https://openrl-docs.readthedocs.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Agently"
+description = "[GenAI Application Development Framework] Build GenAI application quick and easy Easy to interact with GenAI agent in code using structure data and chained-calls syntax Use Event-Driven Flow *TriggerFlow* to manage complex GenAI working logic Switch to any model without…"
+category = "agents"
+tags = ["agent", "agent-framework", "python", "framework", "agent-based-framework", "chatglm", "ernie", "google-gemini"]
+repository = "https://github.com/AgentEra/Agently"
+website = "http://agently.tech"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

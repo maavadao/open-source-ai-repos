@@ -1,0 +1,9 @@
+name = "Paint-by-Example"
+description = "Paint by Example: Exemplar-based Image Editing with Diffusion Models"
+category = "image"
+tags = ["computer-vision", "deep-learning", "diffusion-models", "image-editing", "image-generation", "image-manipulation", "pytorch", "stable-diffusion"]
+repository = "https://github.com/Fantasy-Studio/Paint-by-Example"
+website = "https://arxiv.org/abs/2211.13227"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

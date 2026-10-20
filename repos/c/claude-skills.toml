@@ -1,0 +1,9 @@
+name = "claude-skills"
+description = "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research…"
+category = "skills-prompts"
+tags = ["agentic-ai", "anthropic-claude", "claude-ai", "claude-code", "claude-skills", "claude-code-skills", "ai-coding-agent", "claude-code-plugins"]
+repository = "https://github.com/alirezarezvani/claude-skills"
+website = "https://alirezarezvani.medium.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "1flowbase"
+description = "Build for agents — from the AI Gateway to the entire application stack."
+category = "mcp-servers"
+tags = ["ai-gateway", "claude-api", "llm-gateway", "llm-orchestration", "self-hosted", "workflow-engine", "agent-observability", "llm-observability"]
+repository = "https://github.com/taichuy/1flowbase"
+website = "https://1flowbase.taichuy.com/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

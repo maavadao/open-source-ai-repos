@@ -1,0 +1,9 @@
+name = "newton"
+description = "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers."
+category = "robotics"
+tags = ["physics-simulation", "robotics", "nvidia-warp", "newton-physics"]
+repository = "https://github.com/newton-physics/newton"
+website = "https://newton-physics.github.io/newton/stable/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

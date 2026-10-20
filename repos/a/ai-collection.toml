@@ -1,0 +1,8 @@
+name = "ai-collection"
+description = "The Generative AI Landscape - A Collection of Awesome Generative AI Applications"
+category = "learning"
+tags = ["artificial-intelligence", "collections", "ai", "assistant-chat-bots", "assistive-technology", "generative-art", "generative-design", "generative-music"]
+repository = "https://github.com/ai-collection/ai-collection"
+website = "https://www.thataicollection.com/"
+license = "MIT"
+added = 2026-10-20

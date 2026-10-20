@@ -1,0 +1,8 @@
+name = "Aria"
+description = "Codebase for Aria - an Open Multimodal Native MoE"
+category = "models"
+tags = ["mixture-of-experts", "multimodal", "vision-and-language"]
+repository = "https://github.com/rhymes-ai/Aria"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

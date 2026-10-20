@@ -1,0 +1,9 @@
+name = "Aether"
+description = "Codex for Android, iOS & Mac. | Aether 扶摇"
+category = "agents"
+tags = ["agent", "agents", "ai", "ai-agents", "android-application", "llm", "aether", "ios"]
+repository = "https://github.com/Zhou-Shilin/Aether"
+website = "https://aether.baimoqilin.com"
+license = "GPL-3.0"
+language = "Kotlin"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "agentops"
+description = "DevOps discipline for AI coding agents: shape the work, track it as a graph, and get each change judged by a context that didn't write it."
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "claude-code-plugins", "claude-marketplace", "devops", "codex", "codex-plugin", "cursor"]
+repository = "https://github.com/boshu2/agentops"
+website = "https://www.12factoragentops.com"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

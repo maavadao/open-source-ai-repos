@@ -1,0 +1,10 @@
+name = "semantic-kernel"
+description = "Integrate cutting-edge LLM technology quickly and easily into your apps"
+category = "llm-apps"
+tags = ["ai", "artificial-intelligence", "llm", "openai", "sdk"]
+repository = "https://github.com/microsoft/semantic-kernel"
+website = "https://learn.microsoft.com/semantic-kernel/"
+license = "MIT"
+language = "C#"
+skill_level = "intermediate"
+added = 2026-10-20

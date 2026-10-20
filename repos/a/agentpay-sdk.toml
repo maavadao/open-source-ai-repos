@@ -1,0 +1,9 @@
+name = "agentpay-sdk"
+description = "An open SDK for agentic payments. Let AI agents make payments, hold funds, and move money across chains with policy enforcement and human approval built in."
+category = "agents"
+tags = ["agentic-payments", "ai-agents", "stablecoin"]
+repository = "https://github.com/worldliberty/agentpay-sdk"
+website = "https://agentpay.worldlibertyfinancial.com"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "fsrs4anki"
+description = "A modern Anki custom scheduling based on Free Spaced Repetition Scheduler algorithm"
+category = "llm-apps"
+tags = ["anki-addon", "spaced-repetition-algorithm", "anki", "deep-learning", "memory", "spaced-repetition", "srs", "machine-learning"]
+repository = "https://github.com/open-spaced-repetition/fsrs4anki"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

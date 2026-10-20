@@ -1,0 +1,9 @@
+name = "memobase"
+description = "User Profile-Based Long-Term Memory for AI Chatbot Applications."
+category = "chat"
+tags = ["chatgpt", "llm-application", "memory", "rag", "retrieval", "user-memory", "ai-companion", "ai-memory"]
+repository = "https://github.com/memodb-io/memobase"
+website = "https://memobase.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

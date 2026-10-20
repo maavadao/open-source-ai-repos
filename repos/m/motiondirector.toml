@@ -1,0 +1,9 @@
+name = "MotionDirector"
+description = "[ECCV 2024 Oral] MotionDirector: Motion Customization of Text-to-Video Diffusion Models."
+category = "video"
+tags = ["diffusion-models", "text-to-motion", "text-to-video", "text-to-video-generation", "video-generation", "motion-customization"]
+repository = "https://github.com/showlab/MotionDirector"
+website = "https://showlab.github.io/MotionDirector/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

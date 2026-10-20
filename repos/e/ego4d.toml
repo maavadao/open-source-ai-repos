@@ -1,0 +1,9 @@
+name = "Ego4d"
+description = "Ego4d dataset repository. Download the dataset, visualize, extract features & example usage of the dataset"
+category = "video"
+tags = ["dataset", "computer-vision", "video", "feature-extraction", "visuzalization"]
+repository = "https://github.com/facebookresearch/Ego4d"
+website = "https://ego4d-data.org/docs/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

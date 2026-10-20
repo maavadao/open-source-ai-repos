@@ -1,0 +1,9 @@
+name = "mcp2cli"
+description = "Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen"
+category = "mcp-servers"
+tags = ["ai", "cli", "graphql", "mcp", "openapi"]
+repository = "https://github.com/knowsuchagency/mcp2cli"
+website = "https://pypi.org/project/mcp2cli/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

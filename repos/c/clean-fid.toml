@@ -1,0 +1,9 @@
+name = "clean-fid"
+description = "PyTorch - FID calculation with proper image resizing and quantization steps [CVPR 2022]"
+category = "image"
+tags = ["computer-vision", "deep-learning", "computer-graphics", "pytorch", "generative-adversarial-network", "gan", "image-manipulation", "image-generation"]
+repository = "https://github.com/GaParmar/clean-fid"
+website = "https://www.cs.cmu.edu/~clean-fid/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

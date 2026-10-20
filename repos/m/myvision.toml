@@ -1,0 +1,9 @@
+name = "myvision"
+description = "Computer vision based ML training data generation tool"
+category = "vision"
+tags = ["ml", "machine-learning", "computer-vision", "object-detection", "training-data", "annotation", "labelling", "annotation-tool"]
+repository = "https://github.com/OvidijusParsiunas/myvision"
+website = "https://myvision.ai"
+license = "GPL-3.0"
+language = "JavaScript"
+added = 2026-10-20

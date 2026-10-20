@@ -1,0 +1,8 @@
+name = "codex-autoresearch"
+description = "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept."
+category = "skills-prompts"
+tags = ["automation", "autonomous-agent", "autoresearch", "codex", "codex-cli", "codex-skill", "developer-tools", "iteration"]
+repository = "https://github.com/leo-lilinxiao/codex-autoresearch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

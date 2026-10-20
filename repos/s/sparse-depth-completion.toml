@@ -1,0 +1,9 @@
+name = "Sparse-Depth-Completion"
+description = "Predict dense depth maps from sparse and noisy LiDAR frames guided by RGB images. (Ranked 1st place on KITTI) [MVA 2019]"
+category = "robotics"
+tags = ["depth-completion", "depth-prediction", "lidar", "sensor-fusion", "computer-vision", "deep-learning", "pytorch", "noisy-data"]
+repository = "https://github.com/wvangansbeke/Sparse-Depth-Completion"
+website = "https://arxiv.org/pdf/1902.05356.pdf"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "Awesome-Parameter-Efficient-Transfer-Learning"
+description = "A collection of parameter-efficient transfer learning papers focusing on computer vision and multimodal domains."
+category = "learning"
+tags = ["computer-vision", "deep-learning", "machine-learning", "multimodal-deep-learning", "parameter-efficient-learning", "parameter-efficient-tuning", "transfer-learning"]
+repository = "https://github.com/jianghaojun/Awesome-Parameter-Efficient-Transfer-Learning"
+license = "MIT"
+added = 2026-10-20

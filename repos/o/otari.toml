@@ -1,0 +1,9 @@
+name = "otari"
+description = "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, and usage tracking."
+category = "llm-apps"
+tags = ["ai", "gateway", "llm", "ai-gateway", "anthropic", "api-key-management", "budgets", "cost-tracking"]
+repository = "https://github.com/mozilla-ai/otari"
+website = "https://otari.ai/docs/gateway"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "project-raven"
+description = "Open-source AI meeting copilot - real-time transcription, echo cancellation, and AI assistance. Captures system audio + mic, cancels echo via WebRTC AEC3, transcribes with Deepgram, and gives you Claude/OpenAI help during meetings. Runs locally on macOS and Windows."
+category = "speech"
+tags = ["ai", "anthropic", "deepgram", "echo-cancellation", "electron", "macos", "openai", "real-time"]
+repository = "https://github.com/Laxcorp-Research/project-raven"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "LLaVA-Plus-Codebase"
+description = "LLaVA-Plus: Large Language and Vision Assistants that Plug and Learn to Use Skills"
+category = "agents"
+tags = ["agent", "large-language-models", "large-multimodal-models", "multimodal-large-language-models", "tool-use"]
+repository = "https://github.com/LLaVA-VL/LLaVA-Plus-Codebase"
+website = "https://llava-vl.github.io/llava-plus/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

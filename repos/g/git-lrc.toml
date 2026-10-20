@@ -1,0 +1,9 @@
+name = "git-lrc"
+description = "Free, Micro AI Code Reviews That Run on Git Commit"
+category = "coding"
+tags = ["code-review", "ai", "ai-agents", "commit", "commit-message", "gemini", "git", "vscode"]
+repository = "https://github.com/HexmosTech/git-lrc"
+website = "https://hexmos.com/livereview/git-lrc/"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

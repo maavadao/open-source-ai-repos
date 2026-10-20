@@ -1,0 +1,9 @@
+name = "muesli"
+description = "Muesli: agent-native local meeting transcription + dictation for macOS (Granola + WisprFlow alternative)"
+category = "speech"
+tags = ["dictation", "on-device-ai", "privacy-first", "speech-to-text", "transcription", "meeting-assistant", "meeting-notes", "apple-silicon"]
+repository = "https://github.com/Muesli-HQ/muesli"
+website = "https://muesli.works"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

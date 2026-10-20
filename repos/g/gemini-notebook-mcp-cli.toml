@@ -1,0 +1,7 @@
+name = "gemini-notebook-mcp-cli"
+description = "Programmatic access to Gemini Notebook - via command-line interface (CLI), Model Context Protocol (MCP) server, and AI agent skills."
+category = "mcp-servers"
+repository = "https://github.com/jacob-bd/gemini-notebook-mcp-cli"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

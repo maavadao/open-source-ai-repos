@@ -1,0 +1,9 @@
+name = "HyCanvas"
+description = "Free, open-source, AI-native design software for creating graphics, social posts, and more, with no paywalls or watermarks."
+category = "video"
+tags = ["design-editor", "design-tool", "graphic-design", "presentations", "self-hosted", "whiteboard", "bring-your-own-key", "collaboration"]
+repository = "https://github.com/hyscaler/HyCanvas"
+website = "https://hycanvas.com"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

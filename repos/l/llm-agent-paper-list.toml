@@ -1,0 +1,8 @@
+name = "LLM-Agent-Paper-List"
+description = "The paper list of the 86-page SCIS cover paper \"The Rise and Potential of Large Language Model Based Agents: A Survey\" by Zhiheng Xi et al."
+category = "learning"
+tags = ["agent", "large-language-models", "llm", "nlp", "survey"]
+repository = "https://github.com/WooooDyy/LLM-Agent-Paper-List"
+website = "https://arxiv.org/abs/2309.07864"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Echo-Memory"
+description = "Official code for Echo-Memory: a controlled study of memory in action-conditioned video world models (Context, Compression, Spatial, State-Space)."
+category = "video"
+tags = ["memory", "world-models", "video-generation", "action-conditioned", "computer-vision", "diffusion-models", "generative-ai", "image-to-video"]
+repository = "https://github.com/Echo-Team-Joy-Future-Academy-JD/Echo-Memory"
+website = "https://echo-team-joy-future-academy-jd.github.io/Echo-Memory/"
+license = "CC-BY-4.0"
+language = "Python"
+added = 2026-10-20

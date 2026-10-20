@@ -1,0 +1,9 @@
+name = "bitsandbytes"
+description = "Accessible large language models via k-bit quantization for PyTorch."
+category = "local-llms"
+tags = ["llm", "machine-learning", "pytorch", "qlora", "quantization"]
+repository = "https://github.com/bitsandbytes-foundation/bitsandbytes"
+website = "https://huggingface.co/docs/bitsandbytes/main/en/index"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

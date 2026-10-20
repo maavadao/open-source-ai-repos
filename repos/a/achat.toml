@@ -1,0 +1,9 @@
+name = "AChat"
+description = "AChat - An open-source/self-hosted/local-first AI platform, designed for enterprises and teams, perfectly combining powerful local processing capabilities with seamless remote synchronization."
+category = "chat"
+tags = ["agent", "ai", "chat", "chatbot", "claude", "deepseek", "enterprise-solutions", "gemini"]
+repository = "https://github.com/AprilNEA/AChat"
+website = "https://achat.dev"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

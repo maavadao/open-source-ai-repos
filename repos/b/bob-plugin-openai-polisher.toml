@@ -1,0 +1,8 @@
+name = "bob-plugin-openai-polisher"
+description = "使用 OpenAI API 给文本进行润色和语法纠错的 Bob 插件！完美代替 Grammarly！Licensed under CC BY-NC-SA 4.0"
+category = "chat"
+tags = ["bobplugin", "chatgpt", "gpt", "grammarly", "openai"]
+repository = "https://github.com/nextai-translator/bob-plugin-openai-polisher"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

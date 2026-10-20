@@ -1,0 +1,9 @@
+name = "MICA"
+description = "MICA - Towards Metrical Reconstruction of Human Faces [ECCV2022]"
+category = "vision"
+tags = ["3dmm", "computer-vision", "machine-learning", "neural-network", "flame", "fitting-algorithm", "optimization"]
+repository = "https://github.com/Zielon/MICA"
+website = "https://zielon.github.io/mica/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "donsetch"
+description = "Web fetch, search, and crawl for AI agents. Built from scratch in Rust. No keys, no accounts. AGPL v3."
+category = "learning"
+tags = ["agpl", "ai-agents", "anti-bot", "crawling", "mcp", "pdf", "rust", "web-scraper"]
+repository = "https://github.com/dondai44423/donsetch"
+license = "AGPL-3.0"
+language = "Rust"
+added = 2026-10-20

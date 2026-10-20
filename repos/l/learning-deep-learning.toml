@@ -1,0 +1,8 @@
+name = "Learning-Deep-Learning"
+description = "Paper reading notes on Deep Learning and Machine Learning"
+category = "vision"
+tags = ["deep-learning", "paper", "literature-review", "machine-learning", "computer-vision", "cnn", "paper-reading", "paper-review"]
+repository = "https://github.com/patrick-llgc/Learning-Deep-Learning"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

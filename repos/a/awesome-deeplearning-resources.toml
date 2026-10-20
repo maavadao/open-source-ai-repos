@@ -1,0 +1,7 @@
+name = "awesome-deeplearning-resources"
+description = "Deep Learning and deep reinforcement learning research papers and some codes"
+category = "learning"
+tags = ["deep-learning", "reinforcement-learning", "neural-network", "paper", "code", "video", "modelzoo", "corpus"]
+repository = "https://github.com/endymecy/awesome-deeplearning-resources"
+license = "MIT"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ai-clipping-generator"
+description = "Open-source AI video clipping generator — production-ready Next.js SaaS that auto-extracts viral shorts, Reels, and TikToks from long-form YouTube videos. Stripe billing, credits, NextAuth, and Prisma included."
+category = "video"
+tags = ["ai-saas", "ai-video-editor", "content-repurposing", "generative-ai", "nextauth", "nextjs", "nextjs-boilerplate", "opusclip-alternative"]
+repository = "https://github.com/SamurAIGPT/ai-clipping-generator"
+website = "https://muapi.ai?utm_source=github&utm_medium=about&utm_campaign=ai-clipping-generator"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "BlueGuardian"
+description = "Advanced Blue Team Security Analysis Framework powered by Multiple AI Models"
+category = "models"
+tags = ["artificial-intelligence", "blueteam", "cybersecurity", "framework", "generative-ai", "llm"]
+repository = "https://github.com/JoasASantos/BlueGuardian"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

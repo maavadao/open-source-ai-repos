@@ -1,0 +1,8 @@
+name = "PERT"
+description = "PERT: Pre-training BERT with Permuted Language Model"
+category = "models"
+tags = ["pre-trained-model", "bert", "nlp", "plm", "tensorflow", "pytorch", "transformers"]
+repository = "https://github.com/ymcui/PERT"
+website = "https://arxiv.org/abs/2203.06906"
+license = "Apache-2.0"
+added = 2026-10-20

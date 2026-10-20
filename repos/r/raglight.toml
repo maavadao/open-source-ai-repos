@@ -1,0 +1,9 @@
+name = "RAGLight"
+description = "RAGLight is a modular framework for Retrieval-Augmented Generation (RAG). It makes it easy to plug in different LLMs, embeddings, and vector stores, and now includes seamless MCP integration to connect external tools and data sources."
+category = "mcp-servers"
+tags = ["data-science", "framework", "huggingface", "ollama", "retrieval-augmented-generation", "vector-database", "artificial-intelligence", "rag"]
+repository = "https://github.com/Bessouat40/RAGLight"
+website = "https://raglight.mintlify.app/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

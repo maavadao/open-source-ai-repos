@@ -1,0 +1,8 @@
+name = "smartgpt"
+description = "A program that provides LLMs with the ability to complete complex tasks using plugins."
+category = "models"
+tags = ["ai", "gpt-3", "gpt-4", "llm", "openai", "rust"]
+repository = "https://github.com/Cormanz/smartgpt"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

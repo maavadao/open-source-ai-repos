@@ -1,0 +1,8 @@
+name = "awesome-argo"
+description = "A curated list of awesome projects and resources related to Argo (a CNCF graduated project)"
+category = "learning"
+tags = ["awesome", "awesome-list", "awesome-lists", "argocd", "argo-workflows", "argo-events", "argo-rollouts", "machine-learning"]
+repository = "https://github.com/akuity/awesome-argo"
+website = "https://akuity.github.io/awesome-argo/"
+license = "Apache-2.0"
+added = 2026-10-20

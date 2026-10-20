@@ -1,0 +1,8 @@
+name = "Flare"
+description = "The graph based agentic IDE"
+category = "mcp-servers"
+tags = ["agent", "agent-orchestration", "agentic-ai", "agentic-coding", "agentic-workflow", "agents", "ai", "ai-agents"]
+repository = "https://github.com/AlgoNoRhythm/Flare"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

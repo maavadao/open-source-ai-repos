@@ -1,0 +1,8 @@
+name = "SwiftSpeech"
+description = "A speech recognition framework designed for SwiftUI."
+category = "speech"
+tags = ["swift", "swiftui", "ios", "speech-recognition", "combine", "voice-recognition", "user-voice", "audio"]
+repository = "https://github.com/Cay-Zhang/SwiftSpeech"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

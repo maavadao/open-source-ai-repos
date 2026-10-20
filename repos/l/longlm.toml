@@ -1,0 +1,9 @@
+name = "LongLM"
+description = "[ICML'24 Spotlight] LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning"
+category = "models"
+tags = ["context-window", "large-language-models", "llm", "longlm", "self-extend", "selfextend"]
+repository = "https://github.com/datamllab/LongLM"
+website = "https://arxiv.org/pdf/2401.01325.pdf"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

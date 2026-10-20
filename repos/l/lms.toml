@@ -1,0 +1,9 @@
+name = "lms"
+description = "LM Studio CLI"
+category = "models"
+tags = ["llm", "lmstudio", "nodejs", "typescript"]
+repository = "https://github.com/lmstudio-ai/lms"
+website = "https://lms.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

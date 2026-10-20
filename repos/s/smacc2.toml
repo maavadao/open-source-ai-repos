@@ -1,0 +1,9 @@
+name = "SMACC2"
+description = "An Event-Driven, Asynchronous, Behavioral State Machine Library for ROS2 (Robotic Operating System) applications written in C++"
+category = "robotics"
+tags = ["cplusplus", "cpp", "state-machine", "ros2", "moveit2", "nav2", "mobilerobots", "mobile-robots"]
+repository = "https://github.com/robosoft-ai/SMACC2"
+website = "https://smacc2.robosoft.ai"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

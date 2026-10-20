@@ -1,0 +1,8 @@
+name = "alan-sdk-pcf"
+description = "The Self-Coding System for Your App — Alan AI SDK for Power Apps"
+category = "speech"
+tags = ["alan-studio", "chatbot", "voice", "voice-assistant", "voice-ai", "alan-voice", "voice-commands", "voice-control"]
+repository = "https://github.com/alan-ai/alan-sdk-pcf"
+website = "https://alan.app"
+license = "NOASSERTION"
+added = 2026-10-20

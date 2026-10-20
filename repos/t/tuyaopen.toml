@@ -1,0 +1,9 @@
+name = "TuyaOpen"
+description = "Next-gen AI+IoT framework for T2/T3/T5AI/ESP32/and more – Fast IoT and AI Agent hardware integration"
+category = "speech"
+tags = ["iot", "tuyaopen", "ai", "agent", "agentic-ai", "aiot", "chatbot", "hardware"]
+repository = "https://github.com/tuya/TuyaOpen"
+website = "https://tuyaopen.ai"
+license = "NOASSERTION"
+language = "C"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "DexterousHands"
+description = "This is a library that provides dual dexterous hand manipulation tasks through Isaac Gym"
+category = "ml-platforms"
+tags = ["deep-reinforcement-learning", "dexterous-robotic-hand", "reinforcement-learning"]
+repository = "https://github.com/PKU-MARL/DexterousHands"
+website = "https://pku-marl.github.io/DexterousHands/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

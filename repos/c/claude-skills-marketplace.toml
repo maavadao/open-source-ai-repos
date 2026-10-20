@@ -1,0 +1,8 @@
+name = "claude-skills-marketplace"
+description = "Claude Code Skills for software engineering workflows - Git automation, testing, and code review"
+category = "skills-prompts"
+tags = ["ai-agents", "anthropic", "automation", "claude-code", "claude-skills", "developer-tools", "ai-tools", "plugins"]
+repository = "https://github.com/mhattingpete/claude-skills-marketplace"
+license = "Apache-2.0"
+language = "HTML"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "AgentBench"
+description = "A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)"
+category = "chat"
+tags = ["chatgpt", "gpt-4", "llm", "llm-agent"]
+repository = "https://github.com/THUDM/AgentBench"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

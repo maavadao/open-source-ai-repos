@@ -1,0 +1,9 @@
+name = "tiny-llm"
+description = "learn LLM inference system on Apple Silicon for systems engineers: build a tiny vLLM + Qwen"
+category = "learning"
+tags = ["course", "large-language-model", "llm", "python", "qwen", "serving", "vllm"]
+repository = "https://github.com/skyzh/tiny-llm"
+website = "https://skyzh.github.io/tiny-llm/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

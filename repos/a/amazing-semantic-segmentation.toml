@@ -1,0 +1,8 @@
+name = "Amazing-Semantic-Segmentation"
+description = "Amazing Semantic Segmentation on Tensorflow && Keras (include FCN, UNet, SegNet, PSPNet, PAN, RefineNet, DeepLabV3, DeepLabV3+, DenseASPP, BiSegNet)"
+category = "vision"
+tags = ["computer-vision", "deep-learning", "semantic-segmentation", "keras-tensorflow", "tensorflow"]
+repository = "https://github.com/luyanger1799/Amazing-Semantic-Segmentation"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

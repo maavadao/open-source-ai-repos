@@ -1,0 +1,8 @@
+name = "Arnold"
+description = "Arnold - DOOM Agent"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "artificial-intelligence", "q-learning", "doom", "doom-2", "self-playing", "neural-network", "vizdoom-competition"]
+repository = "https://github.com/glample/Arnold"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "siamfc-tf"
+description = "SiamFC tracking in TensorFlow."
+category = "vision"
+tags = ["deep-learning", "computer-vision", "siamese-network", "tensorflow", "object-tracking", "tracking"]
+repository = "https://github.com/torrvision/siamfc-tf"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

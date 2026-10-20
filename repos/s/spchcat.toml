@@ -1,0 +1,8 @@
+name = "spchcat"
+description = "Speech recognition tool to convert audio to text transcripts, for Linux and Raspberry Pi."
+category = "speech"
+tags = ["linux", "raspberry-pi", "speech-recognition"]
+repository = "https://github.com/petewarden/spchcat"
+license = "MPL-2.0"
+language = "C"
+added = 2026-10-20

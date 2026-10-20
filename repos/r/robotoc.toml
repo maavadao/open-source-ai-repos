@@ -1,0 +1,9 @@
+name = "robotoc"
+description = "Efficient optimal control solvers for robotic systems."
+category = "robotics"
+tags = ["optimal-control", "model-predictive-control", "trajectory-optimization", "robotics", "interior-point-method", "motion-planning", "mpc", "switched-systems"]
+repository = "https://github.com/mayataka/robotoc"
+website = "https://mayataka.github.io/robotoc/"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

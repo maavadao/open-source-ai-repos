@@ -1,0 +1,9 @@
+name = "pi-subagents"
+description = "Claude Code like Sub-Agents & Workflow Orchestration for Pi — parallel execution, live widget, fleet view, custom agent types, mid-run steering, claude compatible dynamic workflows and more ..."
+category = "agents"
+tags = ["ai-agents", "pi", "pi-extension", "subagents"]
+repository = "https://github.com/tintinweb/pi-subagents"
+website = "https://www.npmjs.com/package/@tintinweb/pi-subagents"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

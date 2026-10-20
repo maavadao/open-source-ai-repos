@@ -1,0 +1,9 @@
+name = "AnglE"
+description = "Train and Infer Powerful Sentence Embeddings with AnglE | SOTA on STS and MTEB Leaderboard"
+category = "llm-apps"
+tags = ["llama", "llama2", "semantic-similarity", "semantic-textual-similarity", "sentence-embedding", "stsbenchmark", "text-embedding", "sentence-embeddings"]
+repository = "https://github.com/SeanLee97/AnglE"
+website = "https://arxiv.org/abs/2309.12871"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

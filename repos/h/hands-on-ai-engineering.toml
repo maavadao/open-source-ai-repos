@@ -1,0 +1,9 @@
+name = "Hands-On-AI-Engineering"
+description = "A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases."
+category = "mcp-servers"
+tags = ["agents", "ai", "llms", "ocr", "python", "rag", "ai-agents", "ai-engineering"]
+repository = "https://github.com/Sumanth077/Hands-On-AI-Engineering"
+website = "https://aiengineering.beehiiv.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "beads"
+description = "Beads - A memory upgrade for your coding agent"
+category = "coding"
+tags = ["agents", "claude-code", "coding"]
+repository = "https://github.com/gastownhall/beads"
+website = "https://beads.gascity.com"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

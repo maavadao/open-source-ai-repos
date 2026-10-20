@@ -1,0 +1,8 @@
+name = "MPP-LLaVA"
+description = "Personal Project: MPP-Qwen14B & MPP-Qwen-Next(Multimodal Pipeline Parallel based on Qwen-LM). Support [video/image/multi-image] {sft/conversations}. Don't let the poverty limit your imagination! Train your own 8B/14B LLaVA-training-like MLLM on RTX3090/4090 24GB."
+category = "models"
+tags = ["multimodal-large-language-models", "deepspeed", "model-parallel", "pipeline-parallelism", "mllm", "qwen", "fine-tuning", "pretraining"]
+repository = "https://github.com/Coobiw/MPP-LLaVA"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "aerial-autonomy-stack"
+description = "An open harness to simulate and deploy PX4/ArduPilot/Betaflight perception-based drone swarms with ROS2, YOLO, NVIDIA Jetson"
+category = "robotics"
+tags = ["ardupilot", "fixed-wing", "px4", "ros2", "vtol", "drone", "quadrotor", "simulation"]
+repository = "https://github.com/JacopoPan/aerial-autonomy-stack"
+website = "https://arxiv.org/abs/2602.07264"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

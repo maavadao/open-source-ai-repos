@@ -1,0 +1,8 @@
+name = "chunky"
+description = "Open-source toolkit for reliable RAG pipelines: convert PDFs to Markdown, clean documents, inspect chunks, compare chunking strategies, and enrich metadata for LLM applications."
+category = "llm-apps"
+tags = ["chunking", "rag", "retrieval-augmented-generation", "chunk-validation", "document-processing", "markdown", "pdf-processing", "rag-evaluation"]
+repository = "https://github.com/GiovanniPasq/chunky"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

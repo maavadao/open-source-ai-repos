@@ -1,0 +1,8 @@
+name = "ChatPDF"
+description = "RAG for Local LLM, chat with PDF/doc/txt files, ChatPDF. 纯原生实现RAG功能，基于本地LLM、embedding模型、reranker模型实现，支持GraphRAG，无须安装任何第三方agent库。"
+category = "documents"
+tags = ["chatdoc", "chatpdf", "llm", "pdf", "rag", "local-rag", "graphrag"]
+repository = "https://github.com/shibing624/ChatPDF"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

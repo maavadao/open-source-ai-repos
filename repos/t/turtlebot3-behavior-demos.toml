@@ -1,0 +1,8 @@
+name = "turtlebot3_behavior_demos"
+description = "Example repository for autonomous behaviors using TurtleBot robots and behavior trees, as well as Docker workflows in ROS based projects."
+category = "robotics"
+tags = ["ros", "docker", "turtlebot3"]
+repository = "https://github.com/sea-bass/turtlebot3_behavior_demos"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

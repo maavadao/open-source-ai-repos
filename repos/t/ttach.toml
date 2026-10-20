@@ -1,0 +1,8 @@
+name = "ttach"
+description = "Image Test Time Augmentation with PyTorch!"
+category = "vision"
+tags = ["augmentation", "deep-learning", "test-time-augmentation", "tta", "tta-wrapper", "pytorch", "computer-vision", "classification"]
+repository = "https://github.com/qubvel/ttach"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

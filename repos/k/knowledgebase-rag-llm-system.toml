@@ -1,0 +1,8 @@
+name = "KnowledgeBase-RAG-LLM-System"
+description = "轻量级本地知识库 RAG 问答系统 · Streamlit + LangChain + Chroma，支持知识库上传与检索增强问答"
+category = "chat"
+tags = ["chroma", "knowledge-base", "langchain", "rag", "streamlit"]
+repository = "https://github.com/lhh737/KnowledgeBase-RAG-LLM-System"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

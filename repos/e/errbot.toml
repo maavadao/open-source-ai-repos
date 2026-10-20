@@ -1,0 +1,9 @@
+name = "errbot"
+description = "Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation."
+category = "no-code"
+tags = ["python", "chatbot", "chatops", "chat", "chatbots", "devops", "python3", "automation"]
+repository = "https://github.com/errbotio/errbot"
+website = "http://errbot.io"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

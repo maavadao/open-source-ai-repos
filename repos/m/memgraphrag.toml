@@ -1,0 +1,9 @@
+name = "MemGraphRAG"
+description = "[KDD 2026] MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation"
+category = "agents"
+tags = ["agent-memory", "graphrag", "multi-agent", "rag", "graph-construction", "ontology", "ontology-construction"]
+repository = "https://github.com/XMUDeepLIT/MemGraphRAG"
+website = "https://arxiv.org/pdf/2606.00610"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

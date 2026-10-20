@@ -1,0 +1,8 @@
+name = "pocketsphinx"
+description = "A small speech recognizer"
+category = "speech"
+tags = ["speech-recognition", "python", "c"]
+repository = "https://github.com/cmusphinx/pocketsphinx"
+license = "NOASSERTION"
+language = "C"
+added = 2026-10-20

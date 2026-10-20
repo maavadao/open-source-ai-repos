@@ -1,0 +1,8 @@
+name = "inkos"
+description = "Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content"
+category = "agents"
+tags = ["ai-writing", "chinese-novel", "creative-writing-ai", "novel-generation", "ai-agent", "ai", "novel-ai", "generative-ai"]
+repository = "https://github.com/Narcooo/inkos"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

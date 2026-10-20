@@ -1,0 +1,9 @@
+name = "reasoning-from-scratch"
+description = "Implement a reasoning LLM in PyTorch from scratch, step by step"
+category = "learning"
+tags = ["ai", "artificial-intelligence", "deep-learning", "large-language-models", "llms", "machine-learning", "python", "pytorch"]
+repository = "https://github.com/rasbt/reasoning-from-scratch"
+website = "https://mng.bz/lZ5B"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "WebGLM"
+description = "WebGLM: An Efficient Web-enhanced Question Answering System (KDD 2023)"
+category = "chat"
+tags = ["chatgpt", "llm", "rlhf", "webglm"]
+repository = "https://github.com/THUDM/WebGLM"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

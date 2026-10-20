@@ -1,0 +1,9 @@
+name = "Qwen3-Medical-SFT"
+description = "Qwen3 Fine-tuning: Medical R1 Style Chat"
+category = "ml-platforms"
+tags = ["fine-tuning", "qwen3", "r1", "sft"]
+repository = "https://github.com/Zeyi-Lin/Qwen3-Medical-SFT"
+website = "https://swanlab.cn/@ZeyiLin/qwen3-sft-medical/overview"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

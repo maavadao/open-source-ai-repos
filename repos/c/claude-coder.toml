@@ -1,0 +1,9 @@
+name = "claude-coder"
+description = "Kodu is an autonomous coding agent that lives in your IDE. It is a VSCode extension that can help you build your dream project step by step by leveraging the latest technologies in automated coding agents"
+category = "chat"
+tags = ["chatgpt", "claude", "coding-agents", "llm", "openai", "vscode", "vscode-extension"]
+repository = "https://github.com/kodu-ai/claude-coder"
+website = "https://www.kodu.ai"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

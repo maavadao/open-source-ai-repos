@@ -1,0 +1,9 @@
+name = "Magick"
+description = "Magick is a cutting-edge toolkit for a new kind of AI builder. Make Magick with us!"
+category = "no-code"
+tags = ["ai", "blueprints-visual-scripting", "fine-tuning", "gpt-3", "gpt-3-prompts", "large-language-models", "no-code", "node-editor"]
+repository = "https://github.com/Oneirocom/Magick"
+website = "https://magickml.com"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

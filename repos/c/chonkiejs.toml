@@ -1,0 +1,9 @@
+name = "chonkiejs"
+description = "CHONK your texts with Chonkie Type-friendly, light-weight, fast and super-simple chunking library"
+category = "llm-apps"
+tags = ["typescript", "ai", "splitting-algorithms", "chunker", "rag", "retrieval-systems", "chunking-algorithm", "text-splitter"]
+repository = "https://github.com/feyninc/chonkiejs"
+website = "https://chonkie.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

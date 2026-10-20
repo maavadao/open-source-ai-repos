@@ -1,0 +1,9 @@
+name = "chidori"
+description = "The agent framework where every run is durable, replayable, and resumable by default."
+category = "agents"
+tags = ["agents", "ai", "agent-framework", "checkpointing", "deterministic", "durable-execution", "javascript-engine", "llm"]
+repository = "https://github.com/ThousandBirdsInc/chidori"
+website = "https://thousandbirdsinc.github.io/chidori/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

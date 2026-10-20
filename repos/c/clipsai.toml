@@ -1,0 +1,9 @@
+name = "clipsai"
+description = "Clips AI is an open-source Python library that automatically converts long videos into clips."
+category = "vision"
+tags = ["computer-vision", "nlp", "video-processing"]
+repository = "https://github.com/ClipsAI/clipsai"
+website = "https://www.clipsai.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

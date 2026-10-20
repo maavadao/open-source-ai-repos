@@ -1,0 +1,9 @@
+name = "decodo-openclaw-skill"
+description = "OpenClaw skill for scraping any URL using the Decodo Web Scraping API."
+category = "no-code"
+tags = ["ai-agent", "ai-tools", "automation", "clawhub", "google-search", "llm", "openclaw", "openclaw-skill"]
+repository = "https://github.com/Decodo/decodo-openclaw-skill"
+website = "https://decodo.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

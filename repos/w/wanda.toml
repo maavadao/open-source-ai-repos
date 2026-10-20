@@ -1,0 +1,9 @@
+name = "wanda"
+description = "A simple and effective LLM pruning approach."
+category = "models"
+tags = ["large-language-models", "network-pruning"]
+repository = "https://github.com/locuslab/wanda"
+website = "https://arxiv.org/abs/2306.11695"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

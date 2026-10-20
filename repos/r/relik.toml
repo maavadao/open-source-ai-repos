@@ -1,0 +1,8 @@
+name = "relik"
+description = "Retrieve, Read and LinK: Fast and Accurate Entity Linking and Relation Extraction on an Academic Budget (ACL 2024)"
+category = "models"
+tags = ["acl2024", "bert", "entity-linking", "huggingface", "natural-language-processing", "nlp", "relation-extraction", "retrieval"]
+repository = "https://github.com/SapienzaNLP/relik"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

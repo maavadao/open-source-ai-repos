@@ -1,0 +1,9 @@
+name = "onepanel"
+description = "The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate in a unified platform that runs on any cloud and on-premises."
+category = "vision"
+tags = ["deeplearning", "pipelines", "machinelearning", "jupyterlab", "tensorflow", "pytorch", "tensorboard", "computer-vision"]
+repository = "https://github.com/onepanelio/onepanel"
+website = "https://docs.onepanel.ai/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

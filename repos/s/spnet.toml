@@ -1,0 +1,8 @@
+name = "SPNet"
+description = "Code for our CVPR2020 paper \"Strip Pooling: Rethinking Spatial Pooling for Scene Parsing\""
+category = "vision"
+tags = ["sementation", "computer-vision"]
+repository = "https://github.com/houqb/SPNet"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

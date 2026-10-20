@@ -1,0 +1,9 @@
+name = "SDV"
+description = "Synthetic data generation for tabular data"
+category = "ml-platforms"
+tags = ["synthetic-data", "machine-learning", "relational-datasets", "multi-table", "time-series", "synthetic-data-generation", "sdv", "data-generation"]
+repository = "https://github.com/sdv-dev/SDV"
+website = "https://docs.sdv.dev/sdv"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

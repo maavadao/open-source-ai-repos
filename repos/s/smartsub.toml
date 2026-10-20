@@ -1,0 +1,9 @@
+name = "SmartSub"
+description = "视频转字幕、字幕翻译、AI 配音与声音克隆、字幕烧录——免费开源的一站式桌面工具。基于 Whisper / FunASR 等本地模型离线语音转文字，批量处理 + 全平台 GPU 加速，跨 Windows / macOS / Linux。Free, open-source desktop app to generate, translate, dub & burn video subtitles — local Whisper speech-to-text, AI dubbing & voice cloning, offline…"
+category = "speech"
+tags = ["subtitle", "translate", "whisper", "whisper-cpp", "deepseek", "ollama", "openai", "fireredasr"]
+repository = "https://github.com/buxuku/SmartSub"
+website = "https://smartsub.linxiaodong.com/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

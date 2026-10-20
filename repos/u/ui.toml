@@ -1,0 +1,9 @@
+name = "ui"
+description = "Open-source components, blocks, and AI agents designed to speed up your workflow. Import them seamlessly into your favorite tools through Registry and MCPs."
+category = "agents"
+tags = ["creative-tim", "admin", "blocks", "eleven-labs", "shadcn", "shadcn-ui", "ui-blocks", "vercel-deployment"]
+repository = "https://github.com/creativetimofficial/ui"
+website = "https://www.creative-tim.com/ui"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Video-LLaMA"
+description = "[EMNLP 2023 Demo] Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding"
+category = "models"
+tags = ["large-language-models", "video-language-pretraining", "vision-language-pretraining", "blip2", "llama", "minigpt4", "cross-modal-pretraining", "multi-modal-chatgpt"]
+repository = "https://github.com/DAMO-NLP-SG/Video-LLaMA"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

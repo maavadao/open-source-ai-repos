@@ -1,0 +1,8 @@
+name = "gp.nvim"
+description = "Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]"
+category = "coding"
+tags = ["copilot", "neovim", "nvim", "speech-to-text", "whisper", "vim", "codeium", "lua"]
+repository = "https://github.com/Robitx/gp.nvim"
+license = "MIT"
+language = "Lua"
+added = 2026-10-20

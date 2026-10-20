@@ -1,0 +1,8 @@
+name = "LIV_handhold_2"
+description = "LIV-Eye: A Low-Cost LiDAR-Inertial-Visual Fusion 3D Sensor for Robotics and Embodied AI."
+category = "robotics"
+tags = ["3d-reconstruction", "3d-vision", "embodied-ai", "lidar-camera-fusion", "lidar-slam", "sensor-fusion", "slam"]
+repository = "https://github.com/hku-mars/LIV_handhold_2"
+license = "GPL-2.0"
+language = "C++"
+added = 2026-10-20

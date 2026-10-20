@@ -1,0 +1,8 @@
+name = "assets"
+description = "Shared Ultralytics logos, media, sample images, pretrained model weights, dataset artifacts, and release assets."
+category = "vision"
+tags = ["ultralytics", "yolo", "computer-vision", "datasets", "documentation", "media", "model-weights", "pretrained-models"]
+repository = "https://github.com/ultralytics/assets"
+website = "https://docs.ultralytics.com"
+license = "AGPL-3.0"
+added = 2026-10-20

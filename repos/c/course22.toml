@@ -1,0 +1,9 @@
+name = "course22"
+description = "The fast.ai course notebooks"
+category = "learning"
+tags = ["deep-learning", "fastai", "jupyter-notebooks", "machine-learning", "notebooks", "python"]
+repository = "https://github.com/fastai/course22"
+website = "https://course.fast.ai"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

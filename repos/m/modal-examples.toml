@@ -1,0 +1,9 @@
+name = "modal-examples"
+description = "Examples of programs built using Modal"
+category = "image"
+tags = ["cloud", "machine-learning", "modal", "python", "serverless", "distributed", "gpu", "pytorch"]
+repository = "https://github.com/modal-labs/modal-examples"
+website = "https://modal.com/docs"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

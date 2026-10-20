@@ -1,0 +1,7 @@
+name = "NLPBook"
+description = "A comprehensive book on neural networks and large language models in NLP"
+category = "learning"
+tags = ["natural-language-processing", "large-language-models", "deep-learning", "neural-networks"]
+repository = "https://github.com/NiuTrans/NLPBook"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "ComfyUI_Noise"
+description = "6 nodes for ComfyUI that allows for more control and flexibility over noise to do e.g. variations or \"un-sampling\""
+category = "image"
+tags = ["comfyui", "stable-diffusion"]
+repository = "https://github.com/BlenderNeko/ComfyUI_Noise"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

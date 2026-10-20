@@ -1,0 +1,9 @@
+name = "nextjs-admin-dashboard"
+description = "AI-Native Next.js admin dashboard template and UI components that come with pre-built elements, components, pages, high-quality design, integrations, and much more."
+category = "agents"
+tags = ["charts", "components", "dashboard", "design-system", "graph", "nextjs", "nextjs-admin-template", "nextjs-dashboard"]
+repository = "https://github.com/NextAdminHQ/nextjs-admin-dashboard"
+website = "https://nextadmin.co"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

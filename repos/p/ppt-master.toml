@@ -1,0 +1,9 @@
+name = "ppt-master"
+description = "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He"
+category = "agents"
+tags = ["ai-agent", "powerpoint", "pptx", "presentation", "office", "slides", "powerpoint-generation", "ppt"]
+repository = "https://github.com/hugohe3/ppt-master"
+website = "https://hugohe3.github.io/ppt-master-examples/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

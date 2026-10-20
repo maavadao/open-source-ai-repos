@@ -1,0 +1,7 @@
+name = "awesome-remote-sensing-change-detection"
+description = "A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection."
+category = "learning"
+tags = ["awesome", "change-detection", "remote-sensing", "dataset", "deep-learning"]
+repository = "https://github.com/wenhwu/awesome-remote-sensing-change-detection"
+license = "NOASSERTION"
+added = 2026-10-20

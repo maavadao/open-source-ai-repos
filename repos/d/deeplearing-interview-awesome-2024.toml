@@ -1,0 +1,7 @@
+name = "DeepLearing-Interview-Awesome-2024"
+description = "AIGC-interview/CV-interview/LLMs-interview面试问题与答案集合仓，同时包含工作和科研过程中的新想法、新问题、新资源与新项目"
+category = "learning"
+tags = ["aigc", "algorithms", "awesome-cv", "cnn", "deep-learning", "interview-questions", "leetcode-python", "machine-learning"]
+repository = "https://github.com/315386775/DeepLearing-Interview-Awesome-2024"
+license = "NOASSERTION"
+added = 2026-10-20

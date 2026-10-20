@@ -1,0 +1,9 @@
+name = "Attend-and-Excite"
+description = "Official Implementation for \"Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models\" (SIGGRAPH 2023)"
+category = "image"
+tags = ["diffusion-models", "stable-diffusion", "text-to-image"]
+repository = "https://github.com/yuval-alaluf/Attend-and-Excite"
+website = "https://yuval-alaluf.github.io/Attend-and-Excite/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

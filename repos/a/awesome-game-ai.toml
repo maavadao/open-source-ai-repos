@@ -1,0 +1,7 @@
+name = "awesome-game-ai"
+description = "Awesome Game AI materials of Multi-Agent Reinforcement Learning"
+category = "learning"
+tags = ["reinforcement-learning", "game-ai", "imperfect-information-games", "awesome", "multi-agent", "ai"]
+repository = "https://github.com/datamllab/awesome-game-ai"
+license = "MIT"
+added = 2026-10-20

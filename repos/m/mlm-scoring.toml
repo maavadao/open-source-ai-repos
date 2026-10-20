@@ -1,0 +1,9 @@
+name = "mlm-scoring"
+description = "Python library & examples for Masked Language Model Scoring (ACL 2020)"
+category = "speech"
+tags = ["language-model", "nlp", "speech-recognition", "pytorch", "mxnet", "bert", "xlm"]
+repository = "https://github.com/awslabs/mlm-scoring"
+website = "https://www.aclweb.org/anthology/2020.acl-main.240/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

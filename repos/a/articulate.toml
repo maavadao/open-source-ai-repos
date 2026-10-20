@@ -1,0 +1,9 @@
+name = "articulate"
+description = "A platform for building conversational interfaces with intelligent agents (chatbots)"
+category = "chat"
+tags = ["nlu", "nlp", "chatbot", "react"]
+repository = "https://github.com/samtecspg/articulate"
+website = "http://spg.ai/projects/articulate/"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

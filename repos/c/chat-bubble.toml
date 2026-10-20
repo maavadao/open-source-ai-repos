@@ -1,0 +1,8 @@
+name = "chat-bubble"
+description = "Simple chatbot UI for the Web with JSON scripting"
+category = "chat"
+tags = ["chat-bots", "bot-framework", "javascript", "bot", "chatbot", "nlp", "natural-language-classifiers", "chatbot-ui"]
+repository = "https://github.com/dmitrizzle/chat-bubble"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

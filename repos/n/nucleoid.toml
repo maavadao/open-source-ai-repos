@@ -1,0 +1,9 @@
+name = "Nucleoid"
+description = "Synthesized Logic Language for World Models"
+category = "llm-apps"
+tags = ["neuro-symbolic-ai", "neuro-symbolic", "reasoning", "reasoning-engine", "logic-programming", "knowledge-base", "knowledge-graph", "neurosymbolic-ai"]
+repository = "https://github.com/NucleoidAI/Nucleoid"
+website = "https://nucleoid.ai"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "wechaty-puppet-padplus"
+description = "DEPRECATED: One puppet based on iPad protocal for Wechaty"
+category = "chat"
+tags = ["wechaty", "wechaty-puppet", "chatbot"]
+repository = "https://github.com/wechaty/wechaty-puppet-padplus"
+website = "https://wechaty.js.org/docs/puppet-services/"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

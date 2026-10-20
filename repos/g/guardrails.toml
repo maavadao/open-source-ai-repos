@@ -1,0 +1,9 @@
+name = "guardrails"
+description = "Adding guardrails to large language models."
+category = "models"
+tags = ["ai", "foundation-model", "gpt-3", "llm", "openai"]
+repository = "https://github.com/guardrails-ai/guardrails"
+website = "https://www.guardrailsai.com/docs"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

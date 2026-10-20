@@ -1,0 +1,8 @@
+name = "DAMO-ConvAI"
+description = "DAMO-ConvAI: The official repository which contains the codebase for Alibaba DAMO Conversational AI."
+category = "ml-platforms"
+tags = ["conversational-ai", "deep-learning", "natural-language-processing", "dialog"]
+repository = "https://github.com/AlibabaResearch/DAMO-ConvAI"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

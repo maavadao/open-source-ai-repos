@@ -1,0 +1,8 @@
+name = "bigdetection"
+description = "BigDetection: A Large-scale Benchmark for Improved Object Detector Pre-training"
+category = "vision"
+tags = ["object-detection", "computer-vision", "pretraining", "few-shot"]
+repository = "https://github.com/amazon-science/bigdetection"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

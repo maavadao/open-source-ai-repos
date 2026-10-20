@@ -1,0 +1,8 @@
+name = "tensorflow_end2end_speech_recognition"
+description = "End-to-End speech recognition implementation base on TensorFlow (CTC, Attention, and MTL training)"
+category = "speech"
+tags = ["speech-recognition", "ctc", "tensorflow", "timit", "csj", "timit-dataset", "attention-mechanism", "automatic-speech-recognition"]
+repository = "https://github.com/hirofumi0810/tensorflow_end2end_speech_recognition"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

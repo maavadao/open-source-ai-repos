@@ -1,0 +1,9 @@
+name = "ChatGPT"
+description = "A ChatGPT C# client for MacOS, Windows, Linux, Android, iOS and Browser. Powered by Avalonia UI framework."
+category = "chat"
+tags = ["api", "chatgpt", "openai", "ai", "avalonia", "avaloniaui", "clippy"]
+repository = "https://github.com/wieslawsoltes/ChatGPT"
+website = "https://wieslawsoltes.github.io/ChatGPT/"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

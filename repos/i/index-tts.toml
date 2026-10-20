@@ -1,0 +1,8 @@
+name = "index-tts"
+description = "An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System"
+category = "speech"
+tags = ["bigvgan", "cross-lingual", "indextts", "text-to-speech", "tts", "voice-clone", "zero-shot-tts"]
+repository = "https://github.com/index-tts/index-tts"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "PocketFlow"
+description = "Pocket Flow: 100-line LLM framework. Let Agents build Agents!"
+category = "no-code"
+tags = ["agents", "flow-based-programming", "flow-engineering", "llm-agent", "llm-framework", "agentic-workflow", "agentic-ai", "agentic-framework"]
+repository = "https://github.com/The-Pocket/PocketFlow"
+website = "https://the-pocket.github.io/PocketFlow/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

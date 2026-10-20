@@ -1,0 +1,9 @@
+name = "scikit-image"
+description = "Image processing in Python"
+category = "vision"
+tags = ["image-processing", "python", "computer-vision"]
+repository = "https://github.com/scikit-image/scikit-image"
+website = "https://scikit-image.org"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

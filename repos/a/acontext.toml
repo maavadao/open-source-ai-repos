@@ -1,0 +1,9 @@
+name = "Acontext"
+description = "Agent Skills as a Memory Layer"
+category = "agents"
+tags = ["agent", "context-engineering", "data-platform", "self-learning", "agent-development-kit", "ai-agent", "llm", "memory"]
+repository = "https://github.com/memodb-io/Acontext"
+website = "https://acontext.io"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

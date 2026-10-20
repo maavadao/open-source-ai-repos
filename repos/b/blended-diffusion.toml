@@ -1,0 +1,9 @@
+name = "blended-diffusion"
+description = "Official implementation for \"Blended Diffusion for Text-driven Editing of Natural Images\" [CVPR 2022]"
+category = "image"
+tags = ["text-guided-manipulation", "multimodal", "diffusion", "openai-clip", "openai", "text-to-image", "deep-learning", "blended-diffusion"]
+repository = "https://github.com/omriav/blended-diffusion"
+website = "https://omriavrahami.com/blended-diffusion-page/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

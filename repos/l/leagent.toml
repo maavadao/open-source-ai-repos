@@ -1,0 +1,9 @@
+name = "LeAgent"
+description = "Open-source desktop AI agent that gets work done — plans & self-corrects, agentic visual workflows, generative UI, and 100+ offline tools in one self-hostable stack."
+category = "skills-prompts"
+tags = ["agent", "agent-framework", "agent-skills", "agentic-ai", "agentic-workflow", "agents", "deepseek", "harness"]
+repository = "https://github.com/vixues/LeAgent"
+website = "https://vixues.com.cn"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

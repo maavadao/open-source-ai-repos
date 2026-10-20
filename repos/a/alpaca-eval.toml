@@ -1,0 +1,9 @@
+name = "alpaca_eval"
+description = "An automatic evaluator for instruction-following language models. Human-validated, high-quality, cheap, and fast."
+category = "models"
+tags = ["deep-learning", "evaluation", "foundation-models", "instruction-following", "large-language-models", "leaderboard", "nlp", "rlhf"]
+repository = "https://github.com/tatsu-lab/alpaca_eval"
+website = "https://tatsu-lab.github.io/alpaca_eval/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

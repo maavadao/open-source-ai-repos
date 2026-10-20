@@ -1,0 +1,7 @@
+name = "LLM-Planning-Papers"
+description = "Must-read Papers on Large Language Model (LLM) Planning."
+category = "models"
+tags = ["awesome-list", "large-language-models", "llm", "paper-list", "papers", "planning", "review", "survey"]
+repository = "https://github.com/AGI-Edgerunners/LLM-Planning-Papers"
+license = "NOASSERTION"
+added = 2026-10-20

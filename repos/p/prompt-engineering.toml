@@ -1,0 +1,6 @@
+name = "prompt-engineering"
+description = "Tips and tricks for working with Large Language Models like OpenAI's GPT-4."
+category = "models"
+repository = "https://github.com/brexhq/prompt-engineering"
+license = "MIT"
+added = 2026-10-20

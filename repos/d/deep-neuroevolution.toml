@@ -1,0 +1,8 @@
+name = "deep-neuroevolution"
+description = "Deep Neuroevolution"
+category = "ml-platforms"
+tags = ["deep-neuroevolution", "ai", "machine-learning", "reinforcement-learning"]
+repository = "https://github.com/uber-research/deep-neuroevolution"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

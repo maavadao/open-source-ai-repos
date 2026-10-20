@@ -1,0 +1,9 @@
+name = "spikingjelly"
+description = "SpikingJelly is an open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch."
+category = "ml-platforms"
+tags = ["pytorch", "spiking-neural-networks", "snn", "deep-learning", "machine-learning", "dvs"]
+repository = "https://github.com/fangwei123456/spikingjelly"
+website = "https://spikingjelly.readthedocs.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

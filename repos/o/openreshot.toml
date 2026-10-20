@@ -1,0 +1,8 @@
+name = "OpenReshot"
+description = "A native iOS app for re-shooting regular photos from different angles."
+category = "vision"
+tags = ["3d-gaussian-splatting", "coreml", "generative-ai", "ios", "photo-editing", "swiftui", "openreshoot"]
+repository = "https://github.com/kellyvv/OpenReshot"
+license = "NOASSERTION"
+language = "Swift"
+added = 2026-10-20

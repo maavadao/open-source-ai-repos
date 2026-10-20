@@ -1,0 +1,9 @@
+name = "gemini-openai-proxy"
+description = "A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol."
+category = "chat"
+tags = ["chatgpt-api", "gemini", "openai", "gemini-pro", "gemini-pro-vision", "gpt-4-vision-preview", "chatgpt"]
+repository = "https://github.com/zhu327/gemini-openai-proxy"
+website = "https://deepwiki.com/zhu327/gemini-openai-proxy"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

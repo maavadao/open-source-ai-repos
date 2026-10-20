@@ -1,0 +1,8 @@
+name = "open-agent-hub"
+description = "A lightweight, zero-dependency CLI tool to manage and activate capabilities for AI coding assistants (such as Claude Code, Cursor, Trae, etc.)."
+category = "coding"
+tags = ["ai-skills", "workflows", "skills", "anthropic-skills", "planning", "superpowers", "context-engineering", "ui-ux-design"]
+repository = "https://github.com/guanyang/open-agent-hub"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

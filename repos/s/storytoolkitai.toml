@@ -1,0 +1,8 @@
+name = "StoryToolkitAI"
+description = "An editing tool that uses AI to transcribe, understand content and search for anything in your footage, integrated with ChatGPT and other AI models"
+category = "speech"
+tags = ["ai", "davinci-resolve", "editing", "film-editing", "filmmaking", "sentence-transformers", "speech-recognition", "video-processing"]
+repository = "https://github.com/octimot/StoryToolkitAI"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

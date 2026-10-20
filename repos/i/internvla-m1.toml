@@ -1,0 +1,9 @@
+name = "InternVLA-M1"
+description = "InternVLA-M1: A Spatially Guided Vision-Language-Action Framework for Generalist Robot Policy"
+category = "robotics"
+tags = ["robotics", "vision-language-action-model", "vision-language-model"]
+repository = "https://github.com/InternRobotics/InternVLA-M1"
+website = "https://internrobotics.github.io/internvla-m1.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

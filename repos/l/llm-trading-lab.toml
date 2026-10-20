@@ -1,0 +1,7 @@
+name = "LLM-Trading-Lab"
+description = "This repo powers my experiment where ChatGPT manages a real-money micro-cap stock portfolio."
+category = "chat"
+repository = "https://github.com/LuckyOne7777/LLM-Trading-Lab"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

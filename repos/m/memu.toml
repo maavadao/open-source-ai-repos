@@ -1,0 +1,9 @@
+name = "memU"
+description = "Personal memory across agents"
+category = "mcp-servers"
+tags = ["mcp", "memory", "sandbox", "agent-memory", "claude-skills", "skills", "openclaw", "openclaw-skills"]
+repository = "https://github.com/NevaMind-AI/memU"
+website = "https://memu.pro"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

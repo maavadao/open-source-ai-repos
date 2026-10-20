@@ -1,0 +1,8 @@
+name = "onediff"
+description = "OneDiff: An out-of-the-box acceleration library for diffusion models."
+category = "image"
+tags = ["comfyui", "diffusers", "pytorch", "sdxl", "stable-diffusion", "aigc-serving", "comfyui-workflow", "cuda"]
+repository = "https://github.com/siliconflow/onediff"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

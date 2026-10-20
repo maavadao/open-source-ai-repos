@@ -1,0 +1,9 @@
+name = "openvort"
+description = "Open-source AI Employee Platform — Create AI employees that collaborate with your real team in WeCom, DingTalk, and Feishu, just like hiring a few more colleagues."
+category = "chat"
+tags = ["ai-agent", "ai-employee", "chatbot", "enterprise", "llm", "plugin-system", "plugins", "python"]
+repository = "https://github.com/openvort/openvort"
+website = "https://openvort.com"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

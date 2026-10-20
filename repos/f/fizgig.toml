@@ -1,0 +1,8 @@
+name = "Fizgig"
+description = "Fizgig — LoRA & Fine-tune Studio for Klein 9B, Krea 2, MiniMax H3, Qwen Image 2.1, Anima & Z-Image Turbo and Ace-Step XL: train, fine-tune, profile, repair and extract LoRAs & LoKR for Image, Video & Music Models"
+category = "image"
+tags = ["ai", "deep-learning", "flux", "generative-ai", "klein", "lora", "lora-extraction", "lora-training"]
+repository = "https://github.com/shootthesound/Fizgig"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

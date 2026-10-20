@@ -1,0 +1,8 @@
+name = "3DDFA_V2"
+description = "The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV 2020."
+category = "vision"
+tags = ["eccv", "3d-face-alignment", "pytorch", "face-alignment", "3d-face", "3dmm", "alignment", "3d"]
+repository = "https://github.com/cleardusk/3DDFA_V2"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

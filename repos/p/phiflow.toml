@@ -1,0 +1,8 @@
+name = "PhiFlow"
+description = "A differentiable PDE solving framework for machine learning"
+category = "ml-platforms"
+tags = ["differentiable-simulations", "fluid-simulations", "deep-learning", "neural-networks", "pde-solver"]
+repository = "https://github.com/tum-pbs/PhiFlow"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

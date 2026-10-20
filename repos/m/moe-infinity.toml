@@ -1,0 +1,8 @@
+name = "MoE-Infinity"
+description = "PyTorch library for cost-effective, fast and easy serving of MoE models."
+category = "local-llms"
+tags = ["inference-engine", "large-language-models", "mixture-of-experts", "huggingface", "pytorch", "llm-inference"]
+repository = "https://github.com/EfficientMoE/MoE-Infinity"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

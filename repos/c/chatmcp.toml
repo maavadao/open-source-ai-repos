@@ -1,0 +1,9 @@
+name = "chatmcp"
+description = "ChatMCP is an AI chat client implementing the Model Context Protocol (MCP)."
+category = "mcp-servers"
+tags = ["mcp", "mcp-client", "ai", "chat", "client"]
+repository = "https://github.com/daodao97/chatmcp"
+website = "https://daodao97.github.io/chatmcp/"
+license = "Apache-2.0"
+language = "Dart"
+added = 2026-10-20

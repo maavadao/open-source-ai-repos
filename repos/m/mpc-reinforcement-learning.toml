@@ -1,0 +1,9 @@
+name = "mpc-reinforcement-learning"
+description = "Reinforcement Learning with Model Predictive Control"
+category = "ml-platforms"
+tags = ["model-predictive-control", "reinforcement-learning", "casadi", "optimization"]
+repository = "https://github.com/FilippoAiraldi/mpc-reinforcement-learning"
+website = "https://pypi.org/project/mpcrl/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

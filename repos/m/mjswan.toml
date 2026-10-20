@@ -1,0 +1,9 @@
+name = "mjswan"
+description = "MuJoco Simulation on WebAssembly with Neural networks"
+category = "robotics"
+tags = ["mujoco", "onnx", "reinforcement-learning", "mjlab", "mujoco-wasm", "robotics", "mjswan"]
+repository = "https://github.com/ttktjmt/mjswan"
+website = "https://mjswan.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

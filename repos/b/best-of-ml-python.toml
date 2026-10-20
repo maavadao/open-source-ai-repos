@@ -1,0 +1,8 @@
+name = "best-of-ml-python"
+description = "A ranked list of awesome machine learning Python libraries. Updated weekly."
+category = "chat"
+tags = ["python", "machine-learning", "data-science", "nlp", "data-visualization", "tensorflow", "pytorch", "scikit-learn"]
+repository = "https://github.com/lukasmasuch/best-of-ml-python"
+website = "https://ml-python.best-of.org"
+license = "CC-BY-SA-4.0"
+added = 2026-10-20

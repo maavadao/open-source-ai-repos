@@ -1,0 +1,9 @@
+name = "voiceai"
+description = "Set of with to help those building Voice AI agents"
+category = "speech"
+tags = ["ai-agents", "asr", "awesome", "awesome-list", "beginners", "conversational-ai", "learning-resources", "livekit"]
+repository = "https://github.com/mahimairaja/voiceai"
+website = "https://voiceai.mahimai.ca"
+license = "MIT"
+language = "Astro"
+added = 2026-10-20

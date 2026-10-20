@@ -1,0 +1,9 @@
+name = "brigade"
+description = "Brigade — Your personal intelligence, built enterprise-grade"
+category = "coding"
+tags = ["agent-runtime", "ai", "ai-crew", "autonomous-agents", "brigade", "chatgpt", "clawdbot", "codex"]
+repository = "https://github.com/spinabot/brigade"
+website = "https://www.brigade.spinabot.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "MGM"
+description = "Official repo for \"Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models\""
+category = "models"
+tags = ["generation", "large-language-models", "vision-language-model"]
+repository = "https://github.com/JIA-Lab-research/MGM"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

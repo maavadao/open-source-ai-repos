@@ -1,0 +1,8 @@
+name = "HealthGPT"
+description = "Query your Apple Health data with natural language"
+category = "data-science"
+tags = ["apple-health", "healthkit", "ios", "openai", "swift"]
+repository = "https://github.com/StanfordBDHG/HealthGPT"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

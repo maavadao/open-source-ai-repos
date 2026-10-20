@@ -1,0 +1,9 @@
+name = "J.A.R.V.I.S"
+description = "A voice assistant which can be used to interact with your computer and controls your pc operations"
+category = "speech"
+tags = ["python", "speech-recognition", "jarvis-ai", "voice-assistant", "youtube-downloader", "pyqt5-gui", "pyttsx3", "jarvis"]
+repository = "https://github.com/BolisettySujith/J.A.R.V.I.S"
+website = "https://bolisettysujith.github.io/J.A.R.V.I.S/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

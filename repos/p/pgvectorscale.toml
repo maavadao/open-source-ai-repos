@@ -1,0 +1,8 @@
+name = "pgvectorscale"
+description = "Postgres extension for vector search (DiskANN), complements pgvector for performance and scale. Postgres OSS licensed."
+category = "vector-databases"
+repository = "https://github.com/timescale/pgvectorscale"
+license = "PostgreSQL"
+language = "Rust"
+skill_level = "intermediate"
+added = 2026-10-20

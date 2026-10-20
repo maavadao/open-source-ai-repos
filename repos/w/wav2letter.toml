@@ -1,0 +1,9 @@
+name = "wav2letter"
+description = "Facebook AI Research's Automatic Speech Recognition Toolkit"
+category = "speech"
+tags = ["wav2letter", "speech-recognition", "end-to-end", "deep-learning", "cpp"]
+repository = "https://github.com/flashlight/wav2letter"
+website = "https://github.com/facebookresearch/wav2letter/wiki"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

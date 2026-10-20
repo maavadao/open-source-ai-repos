@@ -1,0 +1,9 @@
+name = "XianTu"
+description = "\"Immortal Path\" AI-driven immersive cultivation text adventure game, based on Vue 3 + TypeScript + Fastapi, supports multiple AI models such as Gemini/Claude/OpenAI"
+category = "other"
+tags = ["ai-game", "claude", "gemini", "openai", "rpg", "sillytavern", "text-adventure", "typescript"]
+repository = "https://github.com/qianye60/XianTu"
+website = "https://qianye60.github.io/XianTu"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

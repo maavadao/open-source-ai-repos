@@ -1,0 +1,9 @@
+name = "osqp"
+description = "The Operator Splitting QP Solver"
+category = "data-science"
+tags = ["optimization", "quadratic-programming", "convex-optimization", "machine-learning", "lasso", "svm", "control", "model-predictive-control"]
+repository = "https://github.com/osqp/osqp"
+website = "https://osqp.org"
+license = "Apache-2.0"
+language = "C"
+added = 2026-10-20

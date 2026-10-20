@@ -1,0 +1,8 @@
+name = "ViralCutter"
+description = "Free tool to create viral videos from YouTube, generating clips optimized for TikTok and Instagram with automatic transcription and 9:16 editing."
+category = "models"
+tags = ["ai", "ia", "artificial-intelligence", "automator", "clips", "cortes", "gpt", "reels"]
+repository = "https://github.com/RafaelGodoyEbert/ViralCutter"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

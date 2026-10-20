@@ -1,0 +1,9 @@
+name = "Medusa"
+description = "Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads"
+category = "local-llms"
+tags = ["llm", "llm-inference"]
+repository = "https://github.com/FasterDecoding/Medusa"
+website = "https://sites.google.com/view/medusa-llm"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

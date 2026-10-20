@@ -1,0 +1,9 @@
+name = "spark"
+description = ".NET for Apache Spark makes Apache Spark easily accessible to .NET developers."
+category = "data-science"
+tags = ["spark", "csharp", "dotnet", "analytics", "bigdata", "spark-streaming", "spark-sql", "machine-learning"]
+repository = "https://github.com/dotnet/spark"
+website = "https://dot.net/spark"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

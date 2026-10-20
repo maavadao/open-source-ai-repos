@@ -1,0 +1,9 @@
+name = "awesome-vla-for-ad"
+description = "Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future"
+category = "learning"
+tags = ["autonomous-driving", "embodied-ai", "large-language-models", "multimodal-large-language-models", "vision-language-action", "vision-language-models", "llm", "vla"]
+repository = "https://github.com/worldbench/awesome-vla-for-ad"
+website = "https://worldbench.github.io/vla4ad"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

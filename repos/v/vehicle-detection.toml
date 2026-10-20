@@ -1,0 +1,8 @@
+name = "vehicle-detection"
+description = "Vehicle detection using machine learning and computer vision techniques for Udacity's Self-Driving Car Engineer Nanodegree."
+category = "vision"
+tags = ["machine-learning", "svm", "svm-classifier", "computer-vision", "hog-features", "sliding-windows", "self-driving-car", "udacity"]
+repository = "https://github.com/tatsuyah/vehicle-detection"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

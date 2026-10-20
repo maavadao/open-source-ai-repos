@@ -1,0 +1,9 @@
+name = "AudioStory"
+description = "AudioStory: Generating Long-Form Narrative Audio with Large Language Models"
+category = "image"
+tags = ["audio-generation", "diffusion-models", "multimodal-large-language-models", "video-dubbing", "video-to-audio", "text-to-audio"]
+repository = "https://github.com/TencentARC/AudioStory"
+website = "https://arxiv.org/pdf/2508.20088"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

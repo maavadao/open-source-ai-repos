@@ -1,0 +1,8 @@
+name = "RQ-VAE-Recommender"
+description = "[Pytorch] Generative retrieval model using semantic IDs from \"Recommender Systems with Generative Retrieval\""
+category = "data-science"
+tags = ["generative-ai", "recommendation-system", "recommender-system", "retrieval-systems", "variational-autoencoder", "variational-autoencoders", "generative", "gumbel"]
+repository = "https://github.com/EdoardoBotta/RQ-VAE-Recommender"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "capa"
+description = "One capabilities.yaml wires skills, tools, rules, sub-agents, MCP servers, and plugins into Cursor, Claude Code, Codex, Windsurf, GitHub Copilot, and 30+ other AI coding agents"
+category = "mcp-servers"
+tags = ["agentic-workflow", "mcp", "mcp-server", "package-manager", "capabilities", "skills", "mcp-gateway"]
+repository = "https://github.com/infragate/capa"
+website = "https://capa.sh"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

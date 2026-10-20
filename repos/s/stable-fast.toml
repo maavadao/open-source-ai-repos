@@ -1,0 +1,8 @@
+name = "stable-fast"
+description = "https://wavespeed.ai/ Best inference performance optimization framework for HuggingFace Diffusers on NVIDIA GPUs."
+category = "image"
+tags = ["cuda", "diffusers", "pytorch", "stable-diffusion", "deeplearnng", "inference-engines", "openai-triton", "performance-optimizations"]
+repository = "https://github.com/chengzeyi/stable-fast"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

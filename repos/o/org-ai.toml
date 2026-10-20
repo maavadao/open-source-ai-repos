@@ -1,0 +1,8 @@
+name = "org-ai"
+description = "Emacs as your personal AI assistant. Use LLMs such as ChatGPT or LLaMA for text generation or DALL-E and Stable Diffusion for image generation. Also supports speech input / output."
+category = "chat"
+tags = ["ai", "chatgpt", "emacs", "gpt", "generative-models", "llms"]
+repository = "https://github.com/rksm/org-ai"
+license = "GPL-3.0"
+language = "Emacs Lisp"
+added = 2026-10-20

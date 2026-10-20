@@ -1,0 +1,7 @@
+name = "awesome-llms-fine-tuning"
+description = "Explore a comprehensive collection of resources, tutorials, papers, tools, and best practices for fine-tuning Large Language Models (LLMs). Perfect for ML practitioners and researchers!"
+category = "learning"
+tags = ["ai", "awesome-list", "deep-learning", "fine-tuning", "gpt", "large-language-models", "llms", "machine-learning"]
+repository = "https://github.com/Curated-Awesome-Lists/awesome-llms-fine-tuning"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "deepinv"
+description = "DeepInverse: a PyTorch library for solving imaging inverse problems using deep learning"
+category = "image"
+tags = ["computational-imaging", "deep-learning", "deblurring", "mri", "super-resolution", "diffusion-models", "image-reconstruction", "pytorch"]
+repository = "https://github.com/deepinv/deepinv"
+website = "http://deepinv.org/"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

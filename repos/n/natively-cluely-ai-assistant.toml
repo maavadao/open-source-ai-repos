@@ -1,0 +1,9 @@
+name = "natively-cluely-ai-assistant"
+description = "Natively — Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Otter, Granola, Final Round AI, Fireflies, and Interview Coder. Real-time transcription, AI meeting notes, lecture recording, local RAG, BYOK, and stealth…"
+category = "learning"
+tags = ["ai", "ai-assistant", "claude-code", "cluely-alternative", "cluely-clone", "interview", "interviewcoder", "llm"]
+repository = "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
+website = "https://natively.software"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

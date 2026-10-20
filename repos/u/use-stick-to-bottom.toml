@@ -1,0 +1,9 @@
+name = "use-stick-to-bottom"
+description = "A lightweight React Hook intended mainly for AI chat applications, for smoothly sticking to bottom of messages"
+category = "chat"
+tags = ["ai", "chatbot", "chatgpt", "claude", "messages", "smooth-scrolling"]
+repository = "https://github.com/stackblitz-labs/use-stick-to-bottom"
+website = "https://use-stick-to-bottom.samdenty.io/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

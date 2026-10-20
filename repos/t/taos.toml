@@ -1,0 +1,9 @@
+name = "taOS"
+description = "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by choice. Offline AI memory (taOSmd), self-hosted multi-framework group chat, a full web desktop + app store, and auto-clustering across the consumer hardware…"
+category = "security"
+tags = ["agent-framework", "ai-agents", "ai-platform", "apple-silicon", "distributed-computing", "llm", "orange-pi", "raspberry-pi"]
+repository = "https://github.com/jaylfc/taOS"
+website = "https://taOS.my"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

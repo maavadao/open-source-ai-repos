@@ -1,0 +1,9 @@
+name = "playground-flight-booking"
+description = "Spring AI powered expert system demo"
+category = "other"
+tags = ["artificial-intelligence", "expert-system", "generative-ai"]
+repository = "https://github.com/tzolov/playground-flight-booking"
+website = "https://docs.spring.io/spring-ai/reference/1.0-SNAPSHOT/index.html"
+license = "NOASSERTION"
+language = "Java"
+added = 2026-10-20

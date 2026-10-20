@@ -1,0 +1,8 @@
+name = "learning-to-communicate-pytorch"
+description = "Learning to Communicate with Deep Multi-Agent Reinforcement Learning in PyTorch"
+category = "agents"
+tags = ["rl", "reinforcement-learning", "deep-reinforcement-learning", "multi-agent-reinforcement-learning", "multi-agent-systems", "drl", "deep-learning", "deepmind"]
+repository = "https://github.com/minqi/learning-to-communicate-pytorch"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ESEILANE"
+description = "High-performance Knowledge Graph engine for AI, LLMs, and GraphRAG — built for the next generation of intelligent applications."
+category = "vector-databases"
+tags = ["ai", "graph-database", "graph-ql", "graphrag", "high-performance", "knowledge-graph", "langchain", "llm"]
+repository = "https://github.com/Aliu-AiRobot/ESEILANE"
+website = "https://eseilane.org"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "partykit"
+description = "PartyKit, for Workers"
+category = "agents"
+tags = ["agents", "ai", "collaboration", "durable-objects", "real-time"]
+repository = "https://github.com/cloudflare/partykit"
+license = "ISC"
+language = "TypeScript"
+added = 2026-10-20

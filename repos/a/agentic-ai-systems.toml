@@ -1,0 +1,8 @@
+name = "Agentic-AI-Systems"
+description = "Practical system design, tools, and hands-on resources for building Gen-AI agents & agentic AI systems."
+category = "agents"
+tags = ["agentic-ai", "agents", "ai-agents", "ai-systems", "generative-ai", "langgraph", "llama-index", "llms"]
+repository = "https://github.com/alirezadir/Agentic-AI-Systems"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

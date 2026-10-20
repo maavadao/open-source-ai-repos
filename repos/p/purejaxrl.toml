@@ -1,0 +1,8 @@
+name = "purejaxrl"
+description = "Really Fast End-to-End Jax RL Implementations"
+category = "ml-platforms"
+tags = ["deep-reinforcement-learning", "jax", "reinforcement-learning", "reinforcement-learning-algorithms", "ppo"]
+repository = "https://github.com/luchris429/purejaxrl"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

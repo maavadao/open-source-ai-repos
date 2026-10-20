@@ -1,0 +1,8 @@
+name = "AI-ML-Cheatsheets"
+description = "All Stanford Cheatsheets: Artificial Intelligence, Transformers, LLMs, Deep Learning, Machine Learning, Probabilities, Statistics, Algebra and Calculus."
+category = "models"
+tags = ["artificial-intelligence", "cheetsheet", "convolutional-neural-networks", "data-science", "deep-learning", "llms", "machine-learning", "neural-networks"]
+repository = "https://github.com/analyticalrohit/AI-ML-Cheatsheets"
+website = "https://awesomeneuron.substack.com"
+license = "MIT"
+added = 2026-10-20

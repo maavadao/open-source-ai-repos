@@ -1,0 +1,9 @@
+name = "gmgn-skills"
+description = "GMGN OpenAPI skills for AI Agent — query tokens, wallets, and market data, and execute on-chain trades across Solana, BSC, and Base."
+category = "agents"
+tags = ["ai-agents", "api", "cli-tool", "crypto", "gmgn", "memecoin", "trading"]
+repository = "https://github.com/GMGNAI/gmgn-skills"
+website = "https://gmgn.ai/ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Traffic-Signal-Violation-Detection-System"
+description = "A Computer Vision based Traffic Signal Violation Detection System from video footage using YOLOv3 & Tkinter. (GUI Included)"
+category = "vision"
+tags = ["computer-vision", "tensorflow", "tkinter", "yolov3", "opencv", "traffic-violation-detection", "traffic-signal", "python"]
+repository = "https://github.com/anmspro/Traffic-Signal-Violation-Detection-System"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

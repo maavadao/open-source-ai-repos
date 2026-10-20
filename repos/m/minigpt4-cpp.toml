@@ -1,0 +1,8 @@
+name = "minigpt4.cpp"
+description = "Port of MiniGPT4 in C++ (4bit, 5bit, 6bit, 8bit, 16bit CPU inference with GGML)"
+category = "local-llms"
+tags = ["c", "cpp", "deep-learning", "ggml", "machine-learning", "minigpt4", "multimodal", "quantization"]
+repository = "https://github.com/Maknee/minigpt4.cpp"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

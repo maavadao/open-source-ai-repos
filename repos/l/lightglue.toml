@@ -1,0 +1,8 @@
+name = "LightGlue"
+description = "LightGlue: Local Feature Matching at Light Speed (ICCV 2023)"
+category = "vision"
+tags = ["deep-learning", "image-matching", "pose-estimation", "transformers"]
+repository = "https://github.com/cvg/LightGlue"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "mLLMCelltype"
+description = "Cell type annotation for single-cell RNA-seq using multi-LLM consensus"
+category = "models"
+tags = ["bioinformatics", "cell-type-annotation", "consensus-algorithm", "large-language-models", "llm", "scanpy", "seurat", "single-cell"]
+repository = "https://github.com/cafferychen777/mLLMCelltype"
+website = "https://www.mllmcelltype.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

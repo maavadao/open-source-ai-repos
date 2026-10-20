@@ -1,0 +1,9 @@
+name = "whylogs"
+description = "An open-source data logging library for machine learning models and data pipelines. Provides visibility into data quality & model performance over time. Supports privacy-preserving data collection, ensuring safety & robustness."
+category = "ml-platforms"
+tags = ["ai-pipelines", "approximate-statistics", "statistical-properties", "data-quality", "calculate-statistics", "python", "logging", "mlops"]
+repository = "https://github.com/whylabs/whylogs"
+website = "https://whylogs.readthedocs.io/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "machine-learning-asset-management"
+description = "Machine Learning in Asset Management (by @firmai)"
+category = "data-science"
+tags = ["machine-learning", "trading-strategies", "assets-management", "algorithmic-trading", "portfolio-optimization", "jupyter-notebook", "google-colab", "quantitative-finance"]
+repository = "https://github.com/firmai/machine-learning-asset-management"
+website = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420952"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

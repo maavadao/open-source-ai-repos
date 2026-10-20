@@ -1,0 +1,9 @@
+name = "SLM-Lab"
+description = "Modular Deep Reinforcement Learning framework in PyTorch. Companion library of the book \"Foundations of Deep Reinforcement Learning\"."
+category = "learning"
+tags = ["pytorch", "reinforcement-learning", "deep-reinforcement-learning", "benchmark", "policy-gradient", "dqn", "ppo", "sac"]
+repository = "https://github.com/kengz/SLM-Lab"
+website = "https://slm-lab.gitbook.io/slm-lab/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

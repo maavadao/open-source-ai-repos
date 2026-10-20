@@ -1,0 +1,9 @@
+name = "UNITER"
+description = "Research code for ECCV 2020 paper \"UNITER: UNiversal Image-TExt Representation Learning\""
+category = "models"
+tags = ["transformers", "pre-training", "vision-and-language", "pytorch"]
+repository = "https://github.com/ChenRocks/UNITER"
+website = "https://arxiv.org/abs/1909.11740"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

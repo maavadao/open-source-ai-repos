@@ -1,0 +1,9 @@
+name = "homelab_status_page"
+description = "Fool-proof, robust, and easy-to-use (robotic-UI-Research)"
+category = "robotics"
+tags = ["robotics", "d3", "dynamicland", "robotics-ui", "webgpu", "zoox", "alan-kay", "robotic-dynamicland"]
+repository = "https://github.com/BotParty/homelab_status_page"
+website = "https://robotics-odyssey.com"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

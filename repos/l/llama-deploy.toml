@@ -1,0 +1,9 @@
+name = "llama_deploy"
+description = "Deploy your agentic worfklows to production"
+category = "agents"
+tags = ["agents", "deployment", "framework", "llamaindex", "llm", "multi-agents"]
+repository = "https://github.com/run-llama/llama_deploy"
+website = "https://docs.llamaindex.ai/en/stable/module_guides/llama_deploy/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

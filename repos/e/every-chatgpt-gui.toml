@@ -1,0 +1,7 @@
+name = "every-chatgpt-gui"
+description = "Every front-end GUI client for ChatGPT, Claude, and other LLMs"
+category = "chat"
+tags = ["chatgpt", "gpt-3", "gpt-4", "large-language-models", "anthropic", "claude", "openai"]
+repository = "https://github.com/billmei/every-chatgpt-gui"
+license = "MIT"
+added = 2026-10-20

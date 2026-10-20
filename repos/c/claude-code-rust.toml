@@ -1,0 +1,8 @@
+name = "claude-code-rust"
+description = "Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary"
+category = "mcp-servers"
+tags = ["ai", "claude", "cli", "mcp", "performance", "repl", "rust"]
+repository = "https://github.com/lorryjovens-hub/claude-code-rust"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "synthetic-data-generator"
+description = "SDG is a specialized framework designed to generate high-quality structured tabular data."
+category = "security"
+tags = ["deep-learning", "gan", "generative-ai", "machine-learning", "privacy", "synthetic-data", "tabular-data", "agent"]
+repository = "https://github.com/hitsz-ids/synthetic-data-generator"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "flow-forecast"
+description = "Deep learning PyTorch library for time series forecasting, classification, and anomaly detection (originally for flood forecasting)."
+category = "models"
+tags = ["deep-learning", "pytorch", "time-series-forecasting", "time-series", "transfer-learning", "deep-neural-networks", "transformer", "forecasting"]
+repository = "https://github.com/AIStream-Peelout/flow-forecast"
+website = "https://flow-forecast.atlassian.net/wiki/spaces/FF/overview"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

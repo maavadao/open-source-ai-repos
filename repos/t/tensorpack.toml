@@ -1,0 +1,8 @@
+name = "tensorpack"
+description = "A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility"
+category = "ml-platforms"
+tags = ["tensorflow", "deep-learning", "reinforcement-learning", "neural-networks", "machine-learning"]
+repository = "https://github.com/tensorpack/tensorpack"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "orchestrator-supaconductor"
+description = "Multi-agent orchestration system for Claude Code with parallel execution, automated quality gates, Board of Directors, and bundled Superpowers skills"
+category = "coding"
+tags = ["ai-agents", "claude", "claude-code", "claude-code-plugin", "multi-agent", "orchestration", "parallel-execution", "superpowers"]
+repository = "https://github.com/Ibrahim-3d/orchestrator-supaconductor"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

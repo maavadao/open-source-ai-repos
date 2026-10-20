@@ -1,0 +1,8 @@
+name = "Unity-Robotics-Hub"
+description = "Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity."
+category = "learning"
+tags = ["robot-simulation", "ros", "urdf", "unity", "robotics-simulation", "unity-robotics", "robotics-development", "simulation"]
+repository = "https://github.com/Unity-Technologies/Unity-Robotics-Hub"
+license = "NOASSERTION"
+language = "C#"
+added = 2026-10-20

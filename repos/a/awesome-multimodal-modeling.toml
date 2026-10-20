@@ -1,0 +1,9 @@
+name = "Awesome-Multimodal-Modeling"
+description = "Awesome Multimodal Modeling [Covers MLLM, UMM, and NMM]"
+category = "learning"
+tags = ["awesome", "awesome-list", "mllm", "multimodal", "nmm", "umm", "vlm"]
+repository = "https://github.com/OpenEnvision/Awesome-Multimodal-Modeling"
+website = "https://openenvision.org/Awesome-Multimodal-Modeling/"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

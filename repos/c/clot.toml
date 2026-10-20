@@ -1,0 +1,9 @@
+name = "CLoT"
+description = "CVPR'24, Official Codebase of our Paper: \"Let's Think Outside the Box: Exploring Leap-of-Thought in Large Language Models with Creative Humor Generation\"."
+category = "models"
+tags = ["association", "humor-generation", "large-language-models", "multimodal-deep-learning", "leap-of-thought"]
+repository = "https://github.com/sail-sg/CLoT"
+website = "https://zhongshsh.github.io/CLoT"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

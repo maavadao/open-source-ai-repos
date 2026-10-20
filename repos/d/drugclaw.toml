@@ -1,0 +1,9 @@
+name = "DrugClaw"
+description = "Agentic RAG for drug intelligence · 57 skills · 15 task categories · DTI · ADR · DDI · PGx · Repurposing · Powered by LangGraph"
+category = "agents"
+tags = ["drug-discovery", "knowledge-graph", "llm", "multi-agent", "rag"]
+repository = "https://github.com/QSong-github/DrugClaw"
+website = "https://qsong-github.github.io/DrugClaw/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

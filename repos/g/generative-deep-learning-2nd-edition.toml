@@ -1,0 +1,9 @@
+name = "Generative_Deep_Learning_2nd_Edition"
+description = "The official code repository for the second edition of the O'Reilly book Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play."
+category = "learning"
+tags = ["chatgpt", "dalle2", "data-science", "deep-learning", "diffusion-models", "generative-adversarial-network", "gpt-3", "machine-learning"]
+repository = "https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition"
+website = "https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

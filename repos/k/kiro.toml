@@ -1,0 +1,9 @@
+name = "Kiro"
+description = "Kiro is an agentic IDE that works alongside you from prototype to production."
+category = "coding"
+tags = ["ai", "ide", "spec", "kiro"]
+repository = "https://github.com/kirodotdev/Kiro"
+website = "https://kiro.dev"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

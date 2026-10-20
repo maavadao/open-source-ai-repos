@@ -1,0 +1,8 @@
+name = "VisoMaster"
+description = "Powerful & Easy-to-Use Video Face Swapping and Editing Software"
+category = "vision"
+tags = ["ai", "deepfake", "face-editor", "live-portrait", "faceswap", "video-editor", "computer-vision"]
+repository = "https://github.com/visomaster/VisoMaster"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

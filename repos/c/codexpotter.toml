@@ -1,0 +1,8 @@
+name = "CodexPotter"
+description = "A better /goal"
+category = "coding"
+tags = ["codex", "codex-cli", "gpt", "openai", "ralph", "ralph-loop", "ralph-wiggum"]
+repository = "https://github.com/breezewish/CodexPotter"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

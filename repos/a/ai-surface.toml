@@ -1,0 +1,9 @@
+name = "AI-Surface"
+description = "Find and govern AI attack surfaces in application code, at PR time and inside your AI coding tool (MCP server, Claude Code hook). Free, OSS, runs offline."
+category = "mcp-servers"
+tags = ["ai-security", "devops", "devsecops", "github-action", "llm", "mcp", "static-analysis", "ai-agents"]
+repository = "https://github.com/apisec-inc/AI-Surface"
+website = "https://apisec.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

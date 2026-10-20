@@ -1,0 +1,9 @@
+name = "PythonRobotics"
+description = "Python sample codes and textbook for robotics algorithms."
+category = "video"
+tags = ["python", "robotics", "algorithm", "path-planning", "control", "animation", "localization", "slam"]
+repository = "https://github.com/AtsushiSakai/PythonRobotics"
+website = "https://atsushisakai.github.io/PythonRobotics/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

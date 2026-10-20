@@ -1,0 +1,9 @@
+name = "CopilotKit"
+description = "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol"
+category = "coding"
+tags = ["ai", "llm", "nextjs", "open-source", "react", "reactjs", "ts", "typescript"]
+repository = "https://github.com/CopilotKit/CopilotKit"
+website = "https://docs.copilotkit.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

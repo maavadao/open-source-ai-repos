@@ -1,0 +1,9 @@
+name = "Sound-of-Pixels"
+description = "Codebase for ECCV18 \"The Sound of Pixels\""
+category = "vision"
+tags = ["cross-modality", "computer-vision", "sound-separation", "self-supervised-learning"]
+repository = "https://github.com/hangzhaomit/Sound-of-Pixels"
+website = "http://sound-of-pixels.csail.mit.edu"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

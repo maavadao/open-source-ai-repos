@@ -1,0 +1,8 @@
+name = "webdataset"
+description = "A high-performance Python-based I/O system for large (and small) deep learning problems, with strong support for PyTorch."
+category = "ml-platforms"
+tags = ["webdataset", "webdataset-format", "data-augmentation", "pytorch", "deep-learning"]
+repository = "https://github.com/webdataset/webdataset"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

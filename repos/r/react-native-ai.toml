@@ -1,0 +1,9 @@
+name = "react-native-ai"
+description = "Full stack framework for building cross-platform mobile AI apps"
+category = "models"
+tags = ["ai", "cross-platform", "express", "llm", "react", "react-native", "streaming"]
+repository = "https://github.com/dabit3/react-native-ai"
+website = "https://nader.codes"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

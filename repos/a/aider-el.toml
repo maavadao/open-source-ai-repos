@@ -1,0 +1,8 @@
+name = "aider.el"
+description = "AI assisted programming in Emacs with Aider"
+category = "models"
+tags = ["ai", "aider", "emacs", "emacs-lisp", "gpt", "llm", "deepseek", "sonnet"]
+repository = "https://github.com/tninja/aider.el"
+license = "Apache-2.0"
+language = "Emacs Lisp"
+added = 2026-10-20

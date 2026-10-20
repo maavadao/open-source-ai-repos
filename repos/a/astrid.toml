@@ -1,0 +1,8 @@
+name = "astrid"
+description = "Astrid is a portable, capability-secure operating system for composable software."
+category = "mcp-servers"
+tags = ["agent-runtime", "ai-agents", "capability-security", "llm", "mcp", "microkernel", "rust", "sandbox"]
+repository = "https://github.com/astrid-runtime/astrid"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

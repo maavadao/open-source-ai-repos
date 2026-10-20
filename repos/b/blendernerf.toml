@@ -1,0 +1,8 @@
+name = "BlenderNeRF"
+description = "Easy NeRF synthetic dataset creation within Blender"
+category = "vision"
+tags = ["ai", "blender", "computer-graphics", "computer-vision", "instant-ngp", "nerf", "python", "addons"]
+repository = "https://github.com/maximeraafat/BlenderNeRF"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

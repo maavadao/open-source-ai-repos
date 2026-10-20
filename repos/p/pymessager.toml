@@ -1,0 +1,9 @@
+name = "PyMessager"
+description = "Python API to develop chatbot on Facebook Messenger Platform"
+category = "chat"
+tags = ["facebook", "bot", "python", "flask", "api", "chatbot", "messenger", "sdk"]
+repository = "https://github.com/enginebai/PyMessager"
+website = "https://enginebai.com/2016/05/16/python-facebook-bot/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

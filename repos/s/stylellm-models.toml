@@ -1,0 +1,7 @@
+name = "stylellm_models"
+description = "StyleLLM文风大模型：基于大语言模型的文本风格迁移项目。Text style transfer base on Large Language Model. #文字修饰 # 润色 #风格模仿"
+category = "image"
+tags = ["aigc", "large-language-models", "literature", "llm", "style-transfer", "text-style-transfer", "transformers"]
+repository = "https://github.com/stylellm/stylellm_models"
+license = "Apache-2.0"
+added = 2026-10-20

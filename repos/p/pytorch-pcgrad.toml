@@ -1,0 +1,8 @@
+name = "Pytorch-PCGrad"
+description = "Pytorch reimplementation for \"Gradient Surgery for Multi-Task Learning\""
+category = "ml-platforms"
+tags = ["deep-reinforcement-learning", "multi-task-learning", "deep-learning", "reinforcement-learning", "multi-task-reinforcement-learning", "rl", "multi-task-rl", "pytorch-pcgrad"]
+repository = "https://github.com/WeiChengTseng/Pytorch-PCGrad"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "mira"
+description = "a best-effort approximation of a synthetic entity complete with all of the primatives required for long-horizon persistance. batteries included."
+category = "chat"
+tags = ["ai-agents", "ai-assistant", "ai-memory", "anthropic", "chatbot", "long-term-memory", "memory-management", "open-source"]
+repository = "https://github.com/taylorsatula/mira"
+website = "https://www.miraos.org"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "vampnet"
+description = "music generation with masked transformers!"
+category = "speech"
+tags = ["deep-learning", "music", "music-generation", "transformers"]
+repository = "https://github.com/hugofloresgarcia/vampnet"
+website = "https://hugo-does-things.notion.site/VampNet-Music-Generation-via-Masked-Acoustic-Token-Modeling-e37aabd0d5f1493aa42c5711d0764b33?pvs=4"
+license = "MIT"
+language = "Max"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Reinforcement_Learning_in_Python"
+description = "Implementing Reinforcement Learning, namely Q-learning and Sarsa algorithms, for global path planning of mobile robot in unknown environment with obstacles. Comparison analysis of Q-learning and Sarsa"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "q-learning", "path-planning", "rl-qlearning", "reinforcement-learning-algorithms", "maze-algorithms", "sarsa-learning", "rl-algorithms"]
+repository = "https://github.com/sichkar-valentyn/Reinforcement_Learning_in_Python"
+website = "https://sichkar-valentyn.github.io/Reinforcement_Learning_in_Python"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

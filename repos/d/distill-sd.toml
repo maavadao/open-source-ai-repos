@@ -1,0 +1,9 @@
+name = "distill-sd"
+description = "Segmind Distilled diffusion"
+category = "image"
+tags = ["distillation", "inference", "knowledge-distillation", "stable-diffusion"]
+repository = "https://github.com/segmind/distill-sd"
+website = "https://discord.gg/p2MdJqZXnb"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

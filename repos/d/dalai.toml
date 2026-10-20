@@ -1,0 +1,9 @@
+name = "dalai"
+description = "The simplest way to run LLaMA on your local machine"
+category = "models"
+tags = ["ai", "llama", "llm"]
+repository = "https://github.com/cocktailpeanut/dalai"
+website = "https://cocktailpeanut.github.io/dalai"
+license = "NOASSERTION"
+language = "CSS"
+added = 2026-10-20

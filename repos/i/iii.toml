@@ -1,0 +1,9 @@
+name = "iii"
+description = "Effortlessly compose, extend, and observe every service in real-time for the first time ever."
+category = "agents"
+tags = ["agents", "ai", "api", "backend", "developer-tools", "genai", "javascript", "python"]
+repository = "https://github.com/iii-hq/iii"
+website = "https://iii.dev"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ChatTS"
+description = "[VLDB' 25] ChatTS: LLM for Time Series Understanding and Reasoning"
+category = "models"
+tags = ["llm", "multimodal", "timeseries", "timeseries-analysis"]
+repository = "https://github.com/NetManAIOps/ChatTS"
+website = "https://huggingface.co/spaces/xiezhe22/ChatTS"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

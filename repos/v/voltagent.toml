@@ -1,0 +1,9 @@
+name = "voltagent"
+description = "AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework"
+category = "mcp-servers"
+tags = ["agents", "ai", "chatbots", "llm", "mcp", "nodejs", "typescript", "javascript"]
+repository = "https://github.com/VoltAgent/voltagent"
+website = "https://voltagent.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "swarm-forge"
+description = "A simple tool for coordinating several AI agents."
+category = "agents"
+repository = "https://github.com/unclebob/swarm-forge"
+license = "NOASSERTION"
+language = "Clojure"
+added = 2026-10-20

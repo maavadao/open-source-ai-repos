@@ -1,0 +1,7 @@
+name = "phd-bibliography"
+description = "References on Optimal Control, Reinforcement Learning and Motion Planning"
+category = "ml-platforms"
+tags = ["bibliography", "reinforcement-learning", "optimal-control", "motion-planning", "robust-control"]
+repository = "https://github.com/eleurent/phd-bibliography"
+license = "NOASSERTION"
+added = 2026-10-20

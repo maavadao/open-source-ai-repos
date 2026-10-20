@@ -1,0 +1,8 @@
+name = "DeepSeek-OCR-WebUI"
+description = "Ready-to-use DeepSeek-OCR Web UI | Modern Interface | 7 Recognition Modes | Batch Processing | Real-time Logging | Fully Responsive"
+category = "documents"
+tags = ["batch-processing", "computer-vision", "deepseek", "fastapi", "image-recognition", "modern-ui", "ocr", "python"]
+repository = "https://github.com/neosun100/DeepSeek-OCR-WebUI"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

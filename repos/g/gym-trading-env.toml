@@ -1,0 +1,9 @@
+name = "Gym-Trading-Env"
+description = "A simple, easy, customizable Gymnasium environment for trading."
+category = "ml-platforms"
+tags = ["environment", "gym", "gym-environment", "reinforcement-learning", "reinforcement-learning-environments", "trading", "trading-algorithms", "trading-environment"]
+repository = "https://github.com/ClementPerroud/Gym-Trading-Env"
+website = "https://gym-trading-env.readthedocs.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "jupyter-text2code"
+description = "A proof-of-concept jupyter extension which converts english queries into relevant python code"
+category = "data-science"
+tags = ["jupyter-notebook", "machine-learning", "python"]
+repository = "https://github.com/deepklarity/jupyter-text2code"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

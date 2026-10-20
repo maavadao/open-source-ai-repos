@@ -1,0 +1,9 @@
+name = "OpenSTL"
+description = "OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning"
+category = "vision"
+tags = ["benchmark", "deep-learning", "predictive-learning", "pytorch", "self-supervised-learning", "video-prediction", "weather-forecast", "awesome-list"]
+repository = "https://github.com/chengtan9907/OpenSTL"
+website = "https://openstl.readthedocs.io/en/latest/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

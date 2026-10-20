@@ -1,0 +1,9 @@
+name = "keras-rl"
+description = "Deep Reinforcement Learning for Keras."
+category = "ml-platforms"
+tags = ["keras", "tensorflow", "theano", "reinforcement-learning", "neural-networks", "machine-learning"]
+repository = "https://github.com/keras-rl/keras-rl"
+website = "http://keras-rl.readthedocs.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "deep-learning-book"
+description = "Repository for \"Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python\""
+category = "learning"
+tags = ["deep-learning", "neural-network", "machine-learning", "python", "tensorflow", "artificial-intelligence", "data-science", "pytorch"]
+repository = "https://github.com/rasbt/deep-learning-book"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

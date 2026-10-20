@@ -1,0 +1,8 @@
+name = "ai-codereviewer"
+description = "AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI's GPT-4 API, improving code quality and saving developers time."
+category = "coding"
+tags = ["ai", "code-review", "github-actions", "openai"]
+repository = "https://github.com/villesau/ai-codereviewer"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

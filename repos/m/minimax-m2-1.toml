@@ -1,0 +1,8 @@
+name = "MiniMax-M2.1"
+description = "MiniMax M2.1, a SOTA model for real-world dev & agents."
+category = "agents"
+tags = ["large-language-models", "llm", "agentic-ai", "ai-coding-models", "agent"]
+repository = "https://github.com/MiniMax-AI/MiniMax-M2.1"
+website = "https://www.minimax.io"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "SqueezeLLM"
+description = "[ICML 2024] SqueezeLLM: Dense-and-Sparse Quantization"
+category = "local-llms"
+tags = ["efficient-inference", "large-language-models", "llm", "model-compression", "natural-language-processing", "post-training-quantization", "quantization", "text-generation"]
+repository = "https://github.com/SqueezeAILab/SqueezeLLM"
+website = "https://arxiv.org/abs/2306.07629"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

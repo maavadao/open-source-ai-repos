@@ -1,0 +1,8 @@
+name = "Dormice"
+description = "The SQLite of agent sandboxes — self-hosted, E2B-compatible. One machine, sandboxes that live forever, idle costs nothing."
+category = "agents"
+tags = ["agents", "ai-agents", "code-execution", "docker", "e2b", "gvisor", "sandbox", "self-hosted"]
+repository = "https://github.com/BitMiracle-AI/Dormice"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "comfyui-tooling-nodes"
+description = "Nodes for using ComfyUI as a backend for external tools. Send and receive images directly without filesystem upload/download."
+category = "image"
+tags = ["comfyui", "stable-diffusion"]
+repository = "https://github.com/Acly/comfyui-tooling-nodes"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

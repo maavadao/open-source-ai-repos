@@ -1,0 +1,8 @@
+name = "fire-detection-cnn"
+description = "real-time fire detection in video imagery using a convolutional neural network (deep learning) - from our ICIP 2018 paper (Dunnings / Breckon) + ICMLA 2019 paper (Samarth / Bhowmik / Breckon)"
+category = "vision"
+tags = ["machine-learning", "computer-vision", "object-detection", "fire-detector", "robot-vision", "deep-learning", "deep-neural-networks", "deep-learning-algorithms"]
+repository = "https://github.com/tobybreckon/fire-detection-cnn"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

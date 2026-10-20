@@ -1,0 +1,8 @@
+name = "ShuffleNet"
+description = "ShuffleNet Implementation in TensorFlow"
+category = "vision"
+tags = ["deep-learning", "shufflenet", "tensorflow", "group-convolution", "computer-vision", "classification", "realtime"]
+repository = "https://github.com/MG2033/ShuffleNet"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

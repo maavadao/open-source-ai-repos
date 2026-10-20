@@ -1,0 +1,9 @@
+name = "hallucination-leaderboard"
+description = "Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents"
+category = "models"
+tags = ["generative-ai", "hallucinations", "llm"]
+repository = "https://github.com/vectara/hallucination-leaderboard"
+website = "https://vectara.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

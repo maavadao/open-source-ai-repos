@@ -1,0 +1,7 @@
+name = "awesome-multi-task-learning"
+description = "A curated list of DATASETS, CODEBASES and PAPERS on Multi-Task Learning (MTL), from Machine Learning perspective."
+category = "learning"
+tags = ["multi-task-learning", "machine-learning", "deep-learning", "computer-vision", "loss-strategy", "multi-task-optimization", "multi-task-architecture", "deep-neural-networks"]
+repository = "https://github.com/thuml/awesome-multi-task-learning"
+license = "NOASSERTION"
+added = 2026-10-20

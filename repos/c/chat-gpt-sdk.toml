@@ -1,0 +1,9 @@
+name = "chat_gpt_sdk"
+description = "Flutter ChatGPT"
+category = "chat"
+tags = ["flutter", "openai", "dart", "gpt-4", "android", "ios", "gpt-5", "gpt-5-api"]
+repository = "https://github.com/redevrx/chat_gpt_sdk"
+website = "https://pub.dev/packages/chat_gpt_sdk"
+license = "MIT"
+language = "Dart"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "gazelle"
+description = "Joint speech-language model - respond directly to audio!"
+category = "speech"
+tags = ["audio", "llm", "multimodal", "speech"]
+repository = "https://github.com/tincans-ai/gazelle"
+website = "https://tincans.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

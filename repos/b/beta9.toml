@@ -1,0 +1,9 @@
+name = "beta9"
+description = "Ultrafast serverless GPU inference, sandboxes, and background jobs"
+category = "local-llms"
+tags = ["gpu", "ml-platform", "cuda", "fine-tuning", "generative-ai", "large-language-models", "llm", "distributed-computing"]
+repository = "https://github.com/beam-cloud/beta9"
+website = "https://beam.cloud"
+license = "AGPL-3.0"
+language = "Go"
+added = 2026-10-20

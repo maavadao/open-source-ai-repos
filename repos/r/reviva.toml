@@ -1,0 +1,9 @@
+name = "Reviva"
+description = "Local-first AI learning workspace — ask, note, review and create around your own materials. Wiki KB, Agents, Skills, creation tools.Private NotebookLM Alternative.AI 学习工作台，围绕你的资料完成问答、笔记、复习和创作输出。本地优先，多模型，Wiki 知识库，AI Agent，创作工具。本地 NotebookLM"
+category = "agents"
+tags = ["agent", "ai-agent", "knowledge-base", "rag", "skills", "wiki", "local-first", "notebooklm"]
+repository = "https://github.com/mingchen666/Reviva"
+website = "https://www.reviva.cn"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

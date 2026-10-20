@@ -1,0 +1,9 @@
+name = "astron-agent"
+description = "Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents."
+category = "mcp-servers"
+tags = ["agent", "agentic-workflow", "ai", "enterprise", "low-code", "mcp", "multi-agent", "superagent"]
+repository = "https://github.com/iflytek/astron-agent"
+website = "http://astron.ai/"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

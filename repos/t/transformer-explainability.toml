@@ -1,0 +1,8 @@
+name = "Transformer-Explainability"
+description = "[CVPR 2021] Official PyTorch implementation for Transformer Interpretability Beyond Attention Visualization, a novel method to visualize classifications by Transformer based networks."
+category = "models"
+tags = ["deep-learning", "vision-transformer", "bert-model", "bert", "explainability", "transformer-interpretability", "perturbation", "attention-visualization"]
+repository = "https://github.com/hila-chefer/Transformer-Explainability"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

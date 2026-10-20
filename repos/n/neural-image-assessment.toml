@@ -1,0 +1,8 @@
+name = "Neural-IMage-Assessment"
+description = "A PyTorch Implementation of Neural IMage Assessment"
+category = "vision"
+tags = ["computer-vision", "photo-editing", "image-enhancement", "machine-learning"]
+repository = "https://github.com/yunxiaoshi/Neural-IMage-Assessment"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

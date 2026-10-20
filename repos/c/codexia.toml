@@ -1,0 +1,9 @@
+name = "codexia"
+description = "Lightweight Agent Workstation for Codex + Claude code + keke-agent — with dots, task scheduler, git worktree & remote control"
+category = "mcp-servers"
+tags = ["codex", "ollama", "chatgpt", "openai", "codex-cli", "codex-gui", "codex-ide", "agentic-ai"]
+repository = "https://github.com/milisp/codexia"
+website = "https://milisp.dev/codexia"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

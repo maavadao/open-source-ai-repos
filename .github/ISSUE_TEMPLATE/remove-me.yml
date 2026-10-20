@@ -1,0 +1,13 @@
+name: Remove me from the developer pages
+description: Don't want your GitHub login shown on maavadao.com/developers? We'll take it off, no questions asked.
+title: "Remove me: "
+labels: [opt-out]
+body:
+  - type: input
+    id: login
+    attributes:
+      label: Your GitHub login
+      description: Open this issue from the account you want removed, so we know it's you.
+      placeholder: octocat
+    validations:
+      required: true

@@ -1,0 +1,9 @@
+name = "probing-vits"
+description = "Probing the representations of Vision Transformers."
+category = "models"
+tags = ["attention", "image-recognition", "keras", "pre-training", "self-supervision", "tensorflow", "transformers", "vits"]
+repository = "https://github.com/sayakpaul/probing-vits"
+website = "https://keras.io/examples/vision/probing_vits/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

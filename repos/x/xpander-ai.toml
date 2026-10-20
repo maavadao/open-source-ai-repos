@@ -1,0 +1,9 @@
+name = "xpander.ai"
+description = "xpander.ai is the runtime and control plane to build, run, and ship reliable AI agents fast and anywhere"
+category = "agents"
+tags = ["agentic", "agentic-ai", "agents", "ai", "ai-agents", "aiagents", "llm"]
+repository = "https://github.com/xpander-ai/xpander.ai"
+website = "https://app.xpander.ai"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

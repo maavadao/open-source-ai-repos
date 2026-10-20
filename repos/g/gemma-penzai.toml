@@ -1,0 +1,8 @@
+name = "gemma_penzai"
+description = "A JAX Research Toolkit for Visualizing, Manipulating, and Understanding Gemma Models with Multi-modal Support based on Penzai."
+category = "models"
+tags = ["gemma3", "interpret", "jax", "transformers", "llms", "multimodal", "gemma-scope"]
+repository = "https://github.com/google-deepmind/gemma_penzai"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

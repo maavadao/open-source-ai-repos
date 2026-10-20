@@ -1,0 +1,8 @@
+name = "character_select_stand_alone_app"
+description = "Character Select Stand Alone App with AI prompt and ComfyUI/WebUI API support for waiIllustriousSDXL, waiANIMA and others model"
+category = "image"
+tags = ["a1111-webui", "comfyui", "electron", "image-generation", "image-processing"]
+repository = "https://github.com/mirabarukaso/character_select_stand_alone_app"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

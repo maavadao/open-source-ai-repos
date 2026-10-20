@@ -1,0 +1,8 @@
+name = "megabots"
+description = "State-of-the-art, production ready LLM apps made mega-easy, so you don't have to build them from scratch Create a bot, now"
+category = "learning"
+tags = ["chatbot", "faiss", "gpt-35-turbo", "gpt-4", "langchain", "llama", "pinecone", "prompt-engineering"]
+repository = "https://github.com/momegas/megabots"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "archestra"
+description = "Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator"
+category = "mcp-servers"
+tags = ["a2a", "acp", "agent", "ai", "mcp", "mcp-client", "mcp-server", "runtime"]
+repository = "https://github.com/archestra-ai/archestra"
+website = "https://Archestra.AI"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

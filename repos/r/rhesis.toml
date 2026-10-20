@@ -1,0 +1,9 @@
+name = "rhesis"
+description = "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent from what they find."
+category = "llm-apps"
+tags = ["llmops", "annotations", "feedback-loop", "hypothesis-testing", "regression-testing", "systematic-evaluation"]
+repository = "https://github.com/rhesis-ai/rhesis"
+website = "https://www.rhesis.ai/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

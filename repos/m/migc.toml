@@ -1,0 +1,8 @@
+name = "MIGC"
+description = "[CVPR 2024 Highlight] MIGC and [TPAMI 2024] MIGC++ (Official Implementation)"
+category = "image"
+tags = ["aigc", "cvpr2024", "stable-diffusion", "text-to-image", "computer-vision", "cvpr", "tpami2024"]
+repository = "https://github.com/limuloo/MIGC"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

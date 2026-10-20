@@ -1,0 +1,9 @@
+name = "LoRA"
+description = "Code for loralib, an implementation of \"LoRA: Low-Rank Adaptation of Large Language Models\""
+category = "image"
+tags = ["gpt-2", "adaptation", "language-model", "gpt-3", "low-rank", "pytorch", "deep-learning", "roberta"]
+repository = "https://github.com/microsoft/LoRA"
+website = "https://arxiv.org/abs/2106.09685"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

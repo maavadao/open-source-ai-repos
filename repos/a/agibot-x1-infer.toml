@@ -1,0 +1,9 @@
+name = "agibot_x1_infer"
+description = "The inference module for AgiBot X1."
+category = "robotics"
+tags = ["open-source", "robotics", "inference"]
+repository = "https://github.com/AgibotTech/agibot_x1_infer"
+website = "https://www.zhiyuan-robot.com/products/X1"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "pecos"
+description = "PECOS - Prediction for Enormous and Correlated Spaces"
+category = "vector-databases"
+tags = ["machine-learning-algorithms", "extreme-multi-label-classification", "extreme-multi-label-ranking", "transformers", "approximate-nearest-neighbor-search"]
+repository = "https://github.com/amzn/pecos"
+website = "https://libpecos.org/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

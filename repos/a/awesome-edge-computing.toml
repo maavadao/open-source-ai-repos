@@ -1,0 +1,7 @@
+name = "awesome-edge-computing"
+description = "A curated list of awesome edge computing, including Frameworks, Simulators, Tools, etc."
+category = "learning"
+tags = ["edge-computing", "fog-computing", "edge-ai", "awesome-list", "edge-intelligence", "lightweight-framework", "simulation", "simulators"]
+repository = "https://github.com/qijianpeng/awesome-edge-computing"
+license = "CC0-1.0"
+added = 2026-10-20

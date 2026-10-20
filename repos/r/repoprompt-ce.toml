@@ -1,0 +1,9 @@
+name = "repoprompt-ce"
+description = "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI."
+category = "mcp-servers"
+tags = ["ai-agents", "coding-agents", "context-engineering", "developer-tools", "macos", "mcp", "model-context-protocol", "prompt-engineering"]
+repository = "https://github.com/repoprompt/repoprompt-ce"
+website = "https://repoprompt.com"
+license = "Apache-2.0"
+language = "Swift"
+added = 2026-10-20

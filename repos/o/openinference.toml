@@ -1,0 +1,9 @@
+name = "openinference"
+description = "OpenTelemetry Instrumentation for AI Observability"
+category = "mcp-servers"
+tags = ["llmops", "telemetry", "aiops", "llms", "opentelemetry", "tracing", "hacktoberfest", "haystack"]
+repository = "https://github.com/Arize-ai/openinference"
+website = "https://arize-ai.github.io/openinference/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

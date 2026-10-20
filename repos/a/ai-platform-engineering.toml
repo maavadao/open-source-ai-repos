@@ -1,0 +1,9 @@
+name = "ai-platform-engineering"
+description = "CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows for platform engineering and beyond."
+category = "mcp-servers"
+tags = ["agentic-ai", "platform-engineering", "ai-agents", "multi-agent-systems", "caipe", "agent-orchestration", "agentic-workflows", "agents"]
+repository = "https://github.com/caipe-io/ai-platform-engineering"
+website = "https://caipe.io"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

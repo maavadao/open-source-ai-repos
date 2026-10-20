@@ -1,0 +1,9 @@
+name = "boost"
+description = "Save tokens. Maximize context, Safely"
+category = "coding"
+tags = ["acceleration", "claude-code", "cursor", "token-reduction", "ai", "context-engineering", "context-management", "observability"]
+repository = "https://github.com/jfrog/boost"
+website = "https://boost.jfrog.com/"
+license = "NOASSERTION"
+language = "Shell"
+added = 2026-10-20

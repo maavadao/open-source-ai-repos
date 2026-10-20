@@ -1,0 +1,8 @@
+name = "ai_all_resources"
+description = "A curated list of Best Artificial Intelligence Resources"
+category = "learning"
+tags = ["machine-learning", "regression", "neural-networks", "tensorflow", "data-science", "decision-trees", "deep-learning", "mathematics"]
+repository = "https://github.com/nivu/ai_all_resources"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

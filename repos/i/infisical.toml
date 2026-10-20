@@ -1,0 +1,9 @@
+name = "infisical"
+description = "Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents."
+category = "agents"
+tags = ["environment-variables", "secret-management", "secrets", "security", "open-source", "secret-manager", "postgres", "security-tools"]
+repository = "https://github.com/Infisical/infisical"
+website = "https://infisical.com"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

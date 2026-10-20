@@ -1,0 +1,9 @@
+name = "efficientsam3"
+description = "EfficientSAM3 compresses SAM3 into lightweight, edge-friendly models via progressive knowledge distillation for fast promptable concept segmentation and tracking."
+category = "vision"
+tags = ["artificial-intelligence", "computer-vision", "edge-ai", "efficient-ai", "segment-anything", "segmentation", "tracking", "video-object-segmentation"]
+repository = "https://github.com/SimonZeng7108/efficientsam3"
+website = "https://simonzeng7108.github.io/efficientsam3/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

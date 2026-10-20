@@ -1,0 +1,9 @@
+name = "dapr"
+description = "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration."
+category = "agents"
+tags = ["microservices", "microservice", "kubernetes", "sidecar", "state-management", "event-driven", "pubsub", "serverless"]
+repository = "https://github.com/dapr/dapr"
+website = "https://dapr.io"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

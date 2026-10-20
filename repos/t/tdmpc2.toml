@@ -1,0 +1,9 @@
+name = "tdmpc2"
+description = "Code for \"TD-MPC2: Scalable, Robust World Models for Continuous Control\""
+category = "robotics"
+tags = ["reinforcement-learning", "robotics", "world-model"]
+repository = "https://github.com/nicklashansen/tdmpc2"
+website = "https://www.tdmpc2.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

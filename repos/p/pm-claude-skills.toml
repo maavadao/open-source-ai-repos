@@ -1,0 +1,9 @@
+name = "pm-claude-skills"
+description = "1255 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — PRDs, postmortems, leases, medical bills, layoffs, go-bags, new countries. Plain markdown, MIT, in Anthropic's plugin directory. Plus a typed decision layer: which skill, is it safe, ship or slip.…"
+category = "mcp-servers"
+tags = ["product-management", "productivity", "skills", "claude-skills", "agent-skills", "chatgpt", "claude-code", "cursor"]
+repository = "https://github.com/mohitagw15856/pm-claude-skills"
+website = "https://mohitagw15856.github.io/pm-claude-skills/"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

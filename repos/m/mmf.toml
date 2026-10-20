@@ -1,0 +1,9 @@
+name = "mmf"
+description = "A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)"
+category = "models"
+tags = ["pytorch", "vqa", "pretrained-models", "multimodal", "deep-learning", "captioning", "dialog", "textvqa"]
+repository = "https://github.com/facebookresearch/mmf"
+website = "https://mmf.sh/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

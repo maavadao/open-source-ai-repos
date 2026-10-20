@@ -1,0 +1,9 @@
+name = "langextract"
+description = "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization."
+category = "models"
+tags = ["llm", "nlp", "python", "gemini-ai", "information-extration", "large-language-models", "structured-data", "gemini"]
+repository = "https://github.com/google/langextract"
+website = "https://pypi.org/project/langextract/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

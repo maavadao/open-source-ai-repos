@@ -1,0 +1,9 @@
+name = "LongLoRA"
+description = "Code and documents of LongLoRA and LongAlpaca (ICLR 2024 Oral)"
+category = "image"
+tags = ["fine-tuning-llm", "large-language-models", "long-context", "llm", "lora"]
+repository = "https://github.com/JIA-Lab-research/LongLoRA"
+website = "http://arxiv.org/abs/2309.12307"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

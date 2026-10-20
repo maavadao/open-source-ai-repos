@@ -1,0 +1,9 @@
+name = "hunk"
+description = "Review-first terminal diff viewer for agentic coders"
+category = "coding"
+tags = ["cli", "code-review", "diff", "git", "tui", "agents", "jj", "jujutsu"]
+repository = "https://github.com/modem-dev/hunk"
+website = "https://hunk.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

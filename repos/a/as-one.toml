@@ -1,0 +1,9 @@
+name = "AS-One"
+description = "Easy & Modular Computer Vision Detectors, Trackers & SAM - Run YOLOv9,v8,v7,v6,v5,R,X in under 10 lines of code."
+category = "vision"
+tags = ["computer-vision", "opencv", "yolor", "yolov5", "yolov7", "yolox", "deep-learning", "object-detection"]
+repository = "https://github.com/augmentedstartups/AS-One"
+website = "https://www.augmentedstartups.com"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

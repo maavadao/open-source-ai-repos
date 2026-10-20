@@ -1,0 +1,9 @@
+name = "chonkie"
+description = "CHONK docs with Chonkie — The lightweight ingestion library for fast, efficient and robust RAG pipelines"
+category = "vector-databases"
+tags = ["rag", "chonkie", "chunker", "chunking-algorithm", "retrieval-systems", "semantic-chunker", "similarity-search", "text-splitter"]
+repository = "https://github.com/feyninc/chonkie"
+website = "https://docs.chonkie.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

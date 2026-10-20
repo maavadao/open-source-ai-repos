@@ -1,0 +1,8 @@
+name = "ocrs"
+description = "Rust library and CLI tool for OCR (extracting text from images)"
+category = "documents"
+tags = ["computer-vision", "machine-learning", "ocr"]
+repository = "https://github.com/robertknight/ocrs"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

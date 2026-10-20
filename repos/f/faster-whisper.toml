@@ -1,0 +1,9 @@
+name = "faster-whisper"
+description = "Faster Whisper transcription with CTranslate2"
+category = "speech"
+tags = ["deep-learning", "inference", "quantization", "speech-recognition", "speech-to-text", "transformer", "whisper", "openai"]
+repository = "https://github.com/SYSTRAN/faster-whisper"
+license = "MIT"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

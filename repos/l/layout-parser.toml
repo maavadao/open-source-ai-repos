@@ -1,0 +1,9 @@
+name = "layout-parser"
+description = "A Unified Toolkit for Deep Learning Based Document Image Analysis"
+category = "documents"
+tags = ["layout-analysis", "deep-learning", "object-detection", "ocr", "layout-parser", "detectron2", "document-layout-analysis", "computer-vision"]
+repository = "https://github.com/Layout-Parser/layout-parser"
+website = "https://layout-parser.github.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

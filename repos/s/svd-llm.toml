@@ -1,0 +1,9 @@
+name = "SVD-LLM"
+description = "[ICLR 2025] SVD-LLM & [NAACL 2025] SVD-LLM V2"
+category = "models"
+tags = ["generative-ai", "large-language-models", "efficient-models", "model-compression"]
+repository = "https://github.com/AIoT-MLSys-Lab/SVD-LLM"
+website = "https://arxiv.org/abs/2403.07378"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

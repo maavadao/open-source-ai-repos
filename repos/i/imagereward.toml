@@ -1,0 +1,8 @@
+name = "ImageReward"
+description = "[NeurIPS 2023] ImageReward: Learning and Evaluating Human Preferences for Text-to-image Generation"
+category = "image"
+tags = ["diffusion-models", "generative-model", "rlhf", "human-preferences"]
+repository = "https://github.com/zai-org/ImageReward"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

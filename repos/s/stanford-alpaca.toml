@@ -1,0 +1,9 @@
+name = "stanford_alpaca"
+description = "Code and documentation to train Stanford's Alpaca models, and generate the data."
+category = "models"
+tags = ["deep-learning", "instruction-following", "language-model"]
+repository = "https://github.com/tatsu-lab/stanford_alpaca"
+website = "https://crfm.stanford.edu/2023/03/13/alpaca.html"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

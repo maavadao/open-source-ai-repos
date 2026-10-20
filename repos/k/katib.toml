@@ -1,0 +1,9 @@
+name = "katib"
+description = "Automated Machine Learning on Kubernetes"
+category = "models"
+tags = ["ai", "automl", "huggingface", "hyperparameter-tuning", "jax", "kubeflow", "kubernetes", "llm"]
+repository = "https://github.com/kubeflow/katib"
+website = "https://www.kubeflow.org/docs/components/katib"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

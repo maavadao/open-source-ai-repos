@@ -1,0 +1,9 @@
+name = "video-starter-kit"
+description = "Enable AI models for video production in the browser"
+category = "video"
+tags = ["ai", "media", "video"]
+repository = "https://github.com/fal-ai-community/video-starter-kit"
+website = "https://fal-video-studio.vercel.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

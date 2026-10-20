@@ -1,0 +1,7 @@
+name = "evals"
+description = "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks."
+category = "models"
+repository = "https://github.com/openai/evals"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

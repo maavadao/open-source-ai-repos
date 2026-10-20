@@ -1,0 +1,9 @@
+name = "train-deepseek-r1"
+description = "Building DeepSeek R1 from Scratch"
+category = "learning"
+tags = ["chatgpt", "deepseek-r1", "large-language-models", "llm", "openai"]
+repository = "https://github.com/FareedKhan-dev/train-deepseek-r1"
+website = "https://medium.com/@fareedkhandev/building-deepseek-r1-from-scratch-using-python-a967fbfdaac4"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

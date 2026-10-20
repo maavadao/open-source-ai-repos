@@ -1,0 +1,9 @@
+name = "trace-file-lineage"
+description = "Find which script, notebook, data, command, or AI agent produced a file — locally, with evidence and honest uncertainty."
+category = "coding"
+tags = ["ai-agents", "artifact-tracking", "claude-code", "cli", "codex", "data-lineage", "data-provenance", "developer-tools"]
+repository = "https://github.com/uczltw6/trace-file-lineage"
+website = "https://pypi.org/project/trace-file-lineage/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "graph_nets"
+description = "Build Graph Nets in Tensorflow"
+category = "ml-platforms"
+tags = ["graph-networks", "graphs", "deep-learning", "neural-networks", "tensorflow", "sonnet", "artificial-intelligence"]
+repository = "https://github.com/google-deepmind/graph_nets"
+website = "https://arxiv.org/abs/1806.01261"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

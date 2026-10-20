@@ -1,0 +1,9 @@
+name = "whisper-asr-webservice"
+description = "OpenAI Whisper ASR Webservice API"
+category = "speech"
+tags = ["automatic-speech-recognition", "speech-recognition", "speech-to-text", "openai-whisper", "docker", "asr", "speech"]
+repository = "https://github.com/ahmetoner/whisper-asr-webservice"
+website = "https://ahmetoner.github.io/whisper-asr-webservice"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

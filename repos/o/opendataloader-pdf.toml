@@ -1,0 +1,9 @@
+name = "opendataloader-pdf"
+description = "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source."
+category = "documents"
+tags = ["json", "markdown", "pdf", "ai", "document-parsing", "html", "pdf-converter", "tables"]
+repository = "https://github.com/opendataloader-project/opendataloader-pdf"
+website = "https://opendataloader.org"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

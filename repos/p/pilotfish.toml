@@ -1,0 +1,8 @@
+name = "pilotfish"
+description = "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install."
+category = "coding"
+tags = ["ai-agents", "anthropic", "claude", "claude-code", "multi-agent", "orchestration"]
+repository = "https://github.com/Nanako0129/pilotfish"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

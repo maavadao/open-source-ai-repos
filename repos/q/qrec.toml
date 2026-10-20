@@ -1,0 +1,8 @@
+name = "QRec"
+description = "QRec: A Python Framework for quick implementation of recommender systems (TensorFlow Based)"
+category = "ml-platforms"
+tags = ["recommender-system", "social-recommendation", "deep-learning", "tensorflow", "algorithm"]
+repository = "https://github.com/Coder-Yu/QRec"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

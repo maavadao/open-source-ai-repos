@@ -1,0 +1,9 @@
+name = "langchain4j"
+description = "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates…"
+category = "vector-databases"
+tags = ["huggingface", "java", "langchain", "openai", "chatgpt", "gpt", "llama", "milvus"]
+repository = "https://github.com/langchain4j/langchain4j"
+website = "https://docs.langchain4j.dev"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

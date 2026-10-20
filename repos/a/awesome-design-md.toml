@@ -1,0 +1,8 @@
+name = "awesome-design-md"
+description = "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI."
+category = "learning"
+tags = ["awesome-list", "design-md", "design-system", "landing-page", "design-tokens", "figma", "vibe-coding", "vibe-design"]
+repository = "https://github.com/VoltAgent/awesome-design-md"
+website = "https://getdesign.md/"
+license = "MIT"
+added = 2026-10-20

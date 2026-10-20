@@ -1,0 +1,8 @@
+name = "awesome-mlops"
+description = "A curated list of references for MLOps"
+category = "learning"
+tags = ["machine-learning", "mlops", "data-science", "engineering", "federated-learning", "devops", "software-engineering", "ai"]
+repository = "https://github.com/visenger/awesome-mlops"
+website = "https://ml-ops.org"
+license = "NOASSERTION"
+added = 2026-10-20

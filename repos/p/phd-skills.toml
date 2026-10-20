@@ -1,0 +1,8 @@
+name = "phd-skills"
+description = "PhD Research Skills for Claude Code: paper reproduction, experiment design, paper review, result comparison and more."
+category = "mcp-servers"
+tags = ["academic", "claude-code", "phd", "research", "agents", "ai", "claude", "hooks"]
+repository = "https://github.com/fcakyon/phd-skills"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

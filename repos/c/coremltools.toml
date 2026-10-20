@@ -1,0 +1,9 @@
+name = "coremltools"
+description = "Core ML tools contain supporting tools for Core ML model conversion, editing, and validation."
+category = "ml-platforms"
+tags = ["coremltools", "tensorflow", "pytorch", "coreml", "machine-learning", "model-converter", "model-conversion"]
+repository = "https://github.com/apple/coremltools"
+website = "https://coremltools.readme.io"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

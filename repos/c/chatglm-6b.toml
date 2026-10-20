@@ -1,0 +1,7 @@
+name = "ChatGLM-6B"
+description = "ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型"
+category = "models"
+repository = "https://github.com/zai-org/ChatGLM-6B"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

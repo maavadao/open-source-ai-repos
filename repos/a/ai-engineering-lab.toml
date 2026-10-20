@@ -1,0 +1,9 @@
+name = "AI-Engineering-Lab"
+description = "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab."
+category = "learning"
+tags = ["ai-engineering", "curriculum", "databricks", "fine-tuning", "learning-resources", "llm", "mcp", "mlops"]
+repository = "https://github.com/zorost/AI-Engineering-Lab"
+website = "https://zorost.com/ai-engineering-lab"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

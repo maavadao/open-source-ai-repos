@@ -1,0 +1,9 @@
+name = "openclaw.net"
+description = "Self-hosted Enterprise and Personal AI + agent runtime in .NET (NativeAOT-friendly)"
+category = "no-code"
+tags = ["automation", "csharp", "llm", "nativeaot", "self-hosted", "tool-calling", "agent-runtime", "tool-execution"]
+repository = "https://github.com/clawdotnet/openclaw.net"
+website = "https://www.agentqi.dev"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

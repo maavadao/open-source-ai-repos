@@ -1,0 +1,9 @@
+name = "attention_sinks"
+description = "Extend existing LLMs way beyond the original training length with constant memory usage, without retraining"
+category = "models"
+tags = ["llm", "llms", "nlp", "python", "transformers"]
+repository = "https://github.com/tomaarsen/attention_sinks"
+website = "https://huggingface.co/blog/tomaarsen/attention-sinks"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

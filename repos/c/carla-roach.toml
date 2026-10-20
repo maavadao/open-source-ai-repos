@@ -1,0 +1,9 @@
+name = "carla-roach"
+description = "Roach: End-to-End Urban Driving by Imitating a Reinforcement Learning Coach. ICCV 2021."
+category = "robotics"
+tags = ["carla", "autonomous-driving", "imitation-learning", "iccv2021", "pytorch", "reinforcement-learning"]
+repository = "https://github.com/zhejz/carla-roach"
+website = "https://zhejz.github.io/roach"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

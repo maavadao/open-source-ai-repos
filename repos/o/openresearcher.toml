@@ -1,0 +1,8 @@
+name = "OpenResearcher"
+description = "OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis"
+category = "search"
+tags = ["deep-research", "llm", "retrieval"]
+repository = "https://github.com/TIGER-AI-Lab/OpenResearcher"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

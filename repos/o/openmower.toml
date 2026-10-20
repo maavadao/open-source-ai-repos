@@ -1,0 +1,8 @@
+name = "OpenMower"
+description = "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!"
+category = "robotics"
+tags = ["raspberry-pi", "arduino", "robot", "robotics", "gps", "ros", "rtk", "path-finding"]
+repository = "https://github.com/ClemensElflein/OpenMower"
+license = "NOASSERTION"
+language = "Shell"
+added = 2026-10-20

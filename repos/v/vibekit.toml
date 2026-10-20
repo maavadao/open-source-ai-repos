@@ -1,0 +1,9 @@
+name = "vibekit"
+description = "Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in."
+category = "coding"
+tags = ["agent", "ai", "claude-code", "codex", "vibe-coding", "gemini-cli"]
+repository = "https://github.com/superagent-ai/vibekit"
+website = "https://vibekit.sh"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

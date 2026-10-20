@@ -1,0 +1,8 @@
+name = "KG-MM-Survey"
+description = "Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey"
+category = "image"
+tags = ["awsome-list", "cross-modal-retrieval", "entity-alignment", "entity-linking", "image-classification", "image-generation", "information-extraction", "knowledge-graph"]
+repository = "https://github.com/zjukg/KG-MM-Survey"
+website = "http://arxiv.org/abs/2402.05391"
+license = "MIT"
+added = 2026-10-20

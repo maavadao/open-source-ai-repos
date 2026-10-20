@@ -1,0 +1,9 @@
+name = "jetson-inference"
+description = "Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson."
+category = "robotics"
+tags = ["deep-learning", "inference", "computer-vision", "embedded", "image-recognition", "object-detection", "segmentation", "jetson"]
+repository = "https://github.com/dusty-nv/jetson-inference"
+website = "https://developer.nvidia.com/embedded/twodaystoademo"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "marketing-dashboard"
+description = "Local-first marketing operations control center for CRM, outreach, content, analytics, approvals, automations, and agent workflows."
+category = "agents"
+tags = ["ai-agents", "analytics", "crm", "marketing-ops", "nextjs", "openclaw", "outreach", "sqlite"]
+repository = "https://github.com/builderz-labs/marketing-dashboard"
+website = "https://www.nyk.dev/oss/marketing-dashboard"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "paperlib"
+description = "An open-source academic paper management tool."
+category = "vision"
+tags = ["academic-paper", "management", "computer-science", "computer-vision", "neural-language-processing", "math", "science", "paper-management"]
+repository = "https://github.com/Future-Scholars/paperlib"
+website = "https://paperlib.app"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "sports"
+description = "computer vision and sports"
+category = "learning"
+tags = ["computer-vision", "deep-learning", "deep-neural-networks", "image-embeddings", "keypoint-detection", "object-detection", "tutorial", "football"]
+repository = "https://github.com/roboflow/sports"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

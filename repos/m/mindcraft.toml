@@ -1,0 +1,7 @@
+name = "mindcraft"
+description = "Minecraft AI with LLMs+Mineflayer"
+category = "models"
+repository = "https://github.com/mindcraft-bots/mindcraft"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

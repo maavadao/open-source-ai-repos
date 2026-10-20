@@ -1,0 +1,9 @@
+name = "atlas"
+description = "Pure Rust Inference Engine"
+category = "local-llms"
+tags = ["cuda", "gb10", "llm-inference", "mamba", "nvfp4", "openai-api", "rust", "speculative-decoding"]
+repository = "https://github.com/Avarok-Cybersecurity/atlas"
+website = "https://atlasinference.io"
+license = "AGPL-3.0"
+language = "Rust"
+added = 2026-10-20

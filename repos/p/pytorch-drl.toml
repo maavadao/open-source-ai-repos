@@ -1,0 +1,8 @@
+name = "pytorch-DRL"
+description = "PyTorch implementations of various Deep Reinforcement Learning (DRL) algorithms for both single agent and multi-agent."
+category = "agents"
+tags = ["pytorch", "deep-reinforcement-learning", "multi-agent", "deep-q-network", "actor-critic", "advantage-actor-critic", "a2c", "proximal-policy-optimization"]
+repository = "https://github.com/ChenglongChen/pytorch-DRL"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

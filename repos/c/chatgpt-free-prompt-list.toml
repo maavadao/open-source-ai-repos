@@ -1,0 +1,9 @@
+name = "ChatGPT-Free-Prompt-List"
+description = "A free guide for learning to create ChatGPT3 Prompts"
+category = "skills-prompts"
+tags = ["chatgpt", "chatgpt3", "prompt-engineering", "ai", "chatgpt4", "prompts"]
+repository = "https://github.com/mattnigh/ChatGPT-Free-Prompt-List"
+website = "https://www.prompt-bin.com/"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

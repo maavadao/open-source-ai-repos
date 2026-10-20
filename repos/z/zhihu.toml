@@ -1,0 +1,9 @@
+name = "zhihu"
+description = "This repo contains the source code in my personal column (https://zhuanlan.zhihu.com/zhaoyeyu), implemented using Python 3.6. Including Natural Language Processing and Computer Vision projects, such as text generation, machine translation, deep convolution GAN and other…"
+category = "ml-platforms"
+tags = ["deep-learning", "tensorflow-examples", "convolutional-neural-networks", "recurrent-neural-networks", "autoencoder", "gan", "style-transfer", "natural-language-processing"]
+repository = "https://github.com/NELSONZHAO/zhihu"
+website = "https://zhuanlan.zhihu.com/zhaoyeyu"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

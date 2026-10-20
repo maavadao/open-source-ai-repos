@@ -1,0 +1,8 @@
+name = "rag-postgres-openai-python"
+description = "A RAG app to ask questions about rows in a database table. Deployable on Azure Container Apps with PostgreSQL Flexible Server."
+category = "llm-apps"
+tags = ["ai-azd-templates", "azd-templates", "azure-container-apps", "azure-openai", "containers", "fastapi", "openai", "pgvector"]
+repository = "https://github.com/Azure-Samples/rag-postgres-openai-python"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "autonomous-hr-chatbot"
+description = "An autonomous HR agent that can answer user queries using tools"
+category = "agents"
+tags = ["agent", "ai", "autonomous-agents", "langchain", "openai", "python"]
+repository = "https://github.com/stepanogil/autonomous-hr-chatbot"
+website = "https://autonomous-hr-chatbot.vercel.app"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

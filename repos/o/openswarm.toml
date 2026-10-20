@@ -1,0 +1,8 @@
+name = "OpenSwarm"
+description = "OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cognitive memory."
+category = "coding"
+tags = ["ai-agents", "ai-coding", "autonomous-agents", "claude", "claude-code", "devops", "discord-bot", "linear"]
+repository = "https://github.com/Intrect-io/OpenSwarm"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

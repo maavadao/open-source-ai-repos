@@ -1,0 +1,8 @@
+name = "irl-imitation"
+description = "Implementation of Inverse Reinforcement Learning (IRL) algorithms in Python/Tensorflow. Deep MaxEnt, MaxEnt, LPIRL"
+category = "ml-platforms"
+tags = ["irl", "inverse-reinforcement-learning", "imitation", "imitation-learning", "ml", "machine-learning", "rl", "reinforcement-learning"]
+repository = "https://github.com/yrlu/irl-imitation"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

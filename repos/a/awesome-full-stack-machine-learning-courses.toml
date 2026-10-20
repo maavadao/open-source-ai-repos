@@ -1,0 +1,8 @@
+name = "awesome-full-stack-machine-learning-courses"
+description = "Curated list of publicly accessible machine learning engineering courses from CalTech, Columbia, Berkeley, MIT, and Stanford."
+category = "learning"
+tags = ["machine-learning", "deep-learning", "deep-neural-networks", "berkeley", "reinforcement-learning", "stanford", "udemy", "caltech"]
+repository = "https://github.com/leehanchung/awesome-full-stack-machine-learning-courses"
+license = "CC0-1.0"
+language = "JavaScript"
+added = 2026-10-20

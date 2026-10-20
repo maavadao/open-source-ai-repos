@@ -1,0 +1,9 @@
+name = "claude-smart"
+description = "Turns corrections into Preferences, Project-specific skills, and Shared skills for Claude Code, Codex, and OpenCode."
+category = "coding"
+tags = ["ai-agents", "claude-code", "claude-code-plugin", "self-improving-ai", "claude", "self-improvement", "memory", "codex-plugin"]
+repository = "https://github.com/ReflexioAI/claude-smart"
+website = "https://www.reflexio.ai/docs/claude-smart"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

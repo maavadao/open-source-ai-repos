@@ -1,0 +1,9 @@
+name = "nanocode"
+description = "SDK for Frontier Embedded Agents."
+category = "coding"
+tags = ["codex", "ai", "ai-agent", "ai-agents", "anthropic", "chatgpt", "claude", "claude-code"]
+repository = "https://github.com/gakonst/nanocode"
+website = "http://docs.rs/nanocodex"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

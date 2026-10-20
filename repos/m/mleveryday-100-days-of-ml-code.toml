@@ -1,0 +1,8 @@
+name = "100-Days-Of-ML-Code"
+description = "100-Days-Of-ML-Code中文版"
+category = "learning"
+tags = ["machine-learning", "python", "100-days-of-ml-code", "chinese-simplified", "infographics", "tutorial", "jupyter-notebook", "tensorflow"]
+repository = "https://github.com/MLEveryday/100-Days-Of-ML-Code"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

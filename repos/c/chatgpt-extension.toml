@@ -1,0 +1,8 @@
+name = "ChatGPT_Extension"
+description = "ChatGPT Extension is a really simple Chrome Extension (manifest v3) that you can access OpenAI's ChatGPT from anywhere on the web."
+category = "chat"
+tags = ["chatgpt", "chrome-extension", "manifest-v3", "openai"]
+repository = "https://github.com/kazuki-sf/ChatGPT_Extension"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

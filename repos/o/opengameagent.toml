@@ -1,0 +1,9 @@
+name = "OpenGameAgent"
+description = "MIT-licensed TypeScript runtime for AI-native game characters and worlds, with durable state, reliable actions, memory, tools, and Unity, Godot, and Unreal Engine integrations."
+category = "agents"
+tags = ["agent-runtime", "ai-agents", "game-ai", "game-development", "generative-ai", "godot", "living-world", "llm"]
+repository = "https://github.com/EricSun0218/OpenGameAgent"
+website = "https://opengameagent.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "ApeRAG"
+description = "ApeRAG: Production-ready GraphRAG with multi-modal indexing, AI agents, MCP support, and scalable K8s deployment"
+category = "mcp-servers"
+tags = ["agents", "graphrag", "knowledge-graph", "mcp", "context-engineering"]
+repository = "https://github.com/apecloud/ApeRAG"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

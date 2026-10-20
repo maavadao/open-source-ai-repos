@@ -1,0 +1,7 @@
+name = "awesome-matlab-robotics"
+description = "This is a list of awesome demos, tutorials, utilities and overall resources for the robotics community that use MATLAB and Simulink."
+category = "learning"
+tags = ["awesome", "awesome-list", "awesome-lists", "robotics", "robotics-libraries"]
+repository = "https://github.com/mathworks-robotics/awesome-matlab-robotics"
+license = "NOASSERTION"
+added = 2026-10-20

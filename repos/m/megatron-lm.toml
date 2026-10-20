@@ -1,0 +1,9 @@
+name = "Megatron-LM"
+description = "Ongoing research training transformer models at scale"
+category = "models"
+tags = ["large-language-models", "model-para", "transformers"]
+repository = "https://github.com/NVIDIA/Megatron-LM"
+website = "https://docs.nvidia.com/megatron-core/developer-guide/latest/get-started/quickstart.html"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

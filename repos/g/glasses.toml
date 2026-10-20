@@ -1,0 +1,9 @@
+name = "glasses"
+description = "High-quality Neural Networks for Computer Vision"
+category = "vision"
+tags = ["deep-learning", "machine-learning", "computer-vision", "neural-network", "pretrained-models", "convolutional-networks", "deep-neural-networks", "classification"]
+repository = "https://github.com/FrancescoSaverioZuppichini/glasses"
+website = "https://francescosaveriozuppichini.github.io/glasses-webapp/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

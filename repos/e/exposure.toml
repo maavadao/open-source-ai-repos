@@ -1,0 +1,8 @@
+name = "exposure"
+description = "Learning infinite-resolution image processing with GAN and RL from unpaired image datasets, using a differentiable photo editing model."
+category = "ml-platforms"
+tags = ["deep-learning", "reinforcement-learning", "generative-adversarial-network", "computational-photography", "image-processing", "gan"]
+repository = "https://github.com/yuanming-hu/exposure"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "BlueOS"
+description = "The open source platform for ROV, USV, robotic system operation, development, and expansion."
+category = "robotics"
+tags = ["ardupilot", "companion-computer", "docker", "robotics", "rov", "hacktoberfest", "blueos"]
+repository = "https://github.com/bluerobotics/BlueOS"
+website = "https://blueos.cloud/docs/"
+license = "NOASSERTION"
+language = "Vue"
+added = 2026-10-20

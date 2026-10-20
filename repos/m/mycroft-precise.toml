@@ -1,0 +1,8 @@
+name = "mycroft-precise"
+description = "A lightweight, simple-to-use, RNN wake word listener"
+category = "speech"
+tags = ["wake-word-detection", "keyword-spotting", "hotword-detection", "voice-recognition", "voice-control", "speech-recognition", "embedded-systems", "raspberry-pi"]
+repository = "https://github.com/MycroftAI/mycroft-precise"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

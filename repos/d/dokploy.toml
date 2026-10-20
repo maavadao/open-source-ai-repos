@@ -1,0 +1,9 @@
+name = "dokploy"
+description = "Open Source Alternative to Vercel, Netlify and Heroku."
+category = "agents"
+tags = ["deployment", "self-hosted", "vps", "backend", "backups", "databases", "devops", "docker"]
+repository = "https://github.com/Dokploy/dokploy"
+website = "https://dokploy.com/"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

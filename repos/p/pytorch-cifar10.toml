@@ -1,0 +1,8 @@
+name = "PyTorch_CIFAR10"
+description = "Pretrained TorchVision models on CIFAR10 dataset (with weights)"
+category = "vision"
+tags = ["torchvision", "computer-vision", "deeplearning", "cifar10", "pretrained-models", "pretrained-weights", "pytorch"]
+repository = "https://github.com/huyvnphan/PyTorch_CIFAR10"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

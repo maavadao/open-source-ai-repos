@@ -1,0 +1,8 @@
+name = "mixtral-offloading"
+description = "Run Mixtral-8x7B models in Colab or consumer desktops"
+category = "local-llms"
+tags = ["colab-notebook", "deep-learning", "google-colab", "language-model", "llm", "mixture-of-experts", "offloading", "pytorch"]
+repository = "https://github.com/dvmazur/mixtral-offloading"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

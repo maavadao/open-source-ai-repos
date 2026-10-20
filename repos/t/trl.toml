@@ -1,0 +1,9 @@
+name = "trl"
+description = "Train transformer language models with reinforcement learning."
+category = "ml-platforms"
+repository = "https://github.com/huggingface/trl"
+website = "https://huggingface.co/docs/trl"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "advanced"
+added = 2026-10-20

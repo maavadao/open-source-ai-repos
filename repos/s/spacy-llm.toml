@@ -1,0 +1,9 @@
+name = "spacy-llm"
+description = "Integrating LLMs into structured NLP pipelines"
+category = "models"
+tags = ["large-language-models", "llm", "openai", "spacy", "dolly", "gpt-3", "gpt-4", "machine-learning"]
+repository = "https://github.com/explosion/spacy-llm"
+website = "https://spacy.io/usage/large-language-models"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

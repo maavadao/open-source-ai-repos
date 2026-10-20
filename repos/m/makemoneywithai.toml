@@ -1,0 +1,8 @@
+name = "MakeMoneyWithAI"
+description = "A list of open-source AI projects you can use to generate income easily."
+category = "mcp-servers"
+tags = ["ai", "ai-agent", "ai-agents", "llm", "open-source", "open-source-ai", "deepfake", "mcp"]
+repository = "https://github.com/garylab/MakeMoneyWithAI"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "pddlstream"
+description = "PDDLStream: Integrating Symbolic Planners and Blackbox Samplers"
+category = "robotics"
+tags = ["pddl", "robotics", "motion-planning", "automated-planning", "fastdownward", "pybullet", "pybullet-planning", "planning-algorithms"]
+repository = "https://github.com/caelan/pddlstream"
+website = "https://arxiv.org/abs/1802.08705"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

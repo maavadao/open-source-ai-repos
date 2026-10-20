@@ -1,0 +1,9 @@
+name = "objaverse-xl"
+description = "Objaverse-XL is a Universe of 10M+ 3D Objects. Contains API Scripts for Downloading and Processing!"
+category = "vision"
+tags = ["3d", "objaverse", "python", "blender", "computer-vision", "image-to-3d", "text-to-3d"]
+repository = "https://github.com/allenai/objaverse-xl"
+website = "https://objaverse.allenai.org/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

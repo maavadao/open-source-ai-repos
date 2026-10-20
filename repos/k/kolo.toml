@@ -1,0 +1,8 @@
+name = "kolo"
+description = "Kolo is a text-based Python debugger for AI agents. Capture every executed function call, return value, local variable, HTTP request, and more in greppable trace files."
+category = "agents"
+tags = ["django", "python", "web", "ai", "ai-agents"]
+repository = "https://github.com/koloai/kolo"
+website = "https://kolo.app"
+license = "NOASSERTION"
+added = 2026-10-20

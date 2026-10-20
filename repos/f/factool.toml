@@ -1,0 +1,9 @@
+name = "factool"
+description = "FacTool: Factuality Detection in Generative AI"
+category = "chat"
+tags = ["generative-ai", "fact-checking", "large-language-models", "python", "chatgpt", "natural-language-processing"]
+repository = "https://github.com/GAIR-NLP/factool"
+website = "https://ethanc111.github.io/factool_website/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

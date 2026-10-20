@@ -1,0 +1,8 @@
+name = "openai-kotlin"
+description = "OpenAI API client for Kotlin with multiplatform and coroutines capabilities."
+category = "speech"
+tags = ["openai", "kotlin", "client", "multiplatform", "coroutines", "api", "chatgpt", "dall-e"]
+repository = "https://github.com/aallam/openai-kotlin"
+license = "MIT"
+language = "Kotlin"
+added = 2026-10-20

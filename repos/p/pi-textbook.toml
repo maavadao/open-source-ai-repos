@@ -1,0 +1,9 @@
+name = "pi-textbook"
+description = "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent"
+category = "agents"
+tags = ["agent-engineering", "ai-agent", "chinese", "llm", "textbook", "typescript"]
+repository = "https://github.com/hahhforest/pi-textbook"
+website = "https://build-your-own-pi-cn.enochzhang.chatgpt.site"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "crm"
+description = "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM."
+category = "agents"
+repository = "https://github.com/trycompai/crm"
+website = "https://trycrm.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

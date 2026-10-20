@@ -1,0 +1,8 @@
+name = "mini-AlphaStar"
+description = "(JAIR'2022) A mini-scale reproduction code of the AlphaStar program. Note: the original AlphaStar is the AI proposed by DeepMind to play StarCraft II. JAIR = Journal of Artificial Intelligence Research."
+category = "agents"
+tags = ["mini-alphastar", "supervised-learning", "reinforcement-learning", "starcraft2", "deep-learning", "pytorch", "self-playing-bot", "multi-agent-systems"]
+repository = "https://github.com/liuruoze/mini-AlphaStar"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

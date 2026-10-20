@@ -1,0 +1,9 @@
+name = "openai-proxy"
+description = "openai-proxy is a solution provided for Chinese users to address the issue of being unable to make requests to the OpenAI API."
+category = "chat"
+tags = ["chatgpt", "openai", "openai-api", "claude"]
+repository = "https://github.com/UNICKCHENG/openai-proxy"
+website = "https://openai-proxy.apifox.cn"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

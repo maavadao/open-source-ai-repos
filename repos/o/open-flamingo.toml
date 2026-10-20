@@ -1,0 +1,8 @@
+name = "open_flamingo"
+description = "An open-source framework for training large multimodal models."
+category = "vision"
+tags = ["computer-vision", "deep-learning", "in-context-learning", "language-model", "multimodal-learning", "pytorch", "flamingo"]
+repository = "https://github.com/mlfoundations/open_flamingo"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

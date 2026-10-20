@@ -1,0 +1,9 @@
+name = "terax-ai"
+description = "Lightweight (7MB) terminal-first AI-native development environment"
+category = "agents"
+tags = ["ai", "code-editor", "linux", "macos", "rust", "tauri", "terminal", "windows"]
+repository = "https://github.com/crynta/terax-ai"
+website = "https://terax.app"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,10 @@
+name = "n8n"
+description = "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
+category = "no-code"
+tags = ["automation", "ipaas", "n8n", "workflow", "typescript", "self-hosted", "integrations", "workflow-automation"]
+repository = "https://github.com/n8n-io/n8n"
+website = "https://n8n.io"
+license = "NOASSERTION"
+language = "TypeScript"
+skill_level = "intermediate"
+added = 2026-10-20

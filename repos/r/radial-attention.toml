@@ -1,0 +1,9 @@
+name = "radial-attention"
+description = "[NeurIPS 2025] Radial Attention: O(nlogn) Sparse Attention with Energy Decay for Long Video Generation"
+category = "image"
+tags = ["wan", "diffusion-models", "efficientml", "hunyuan-video", "mochi", "sparse-attention"]
+repository = "https://github.com/mit-han-lab/radial-attention"
+website = "https://hanlab.mit.edu/projects/radial-attention"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

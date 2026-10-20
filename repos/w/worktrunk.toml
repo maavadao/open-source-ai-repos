@@ -1,0 +1,9 @@
+name = "worktrunk"
+description = "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
+category = "coding"
+tags = ["agents", "claude-code", "codex", "developer-tools", "git", "worktrees"]
+repository = "https://github.com/max-sixty/worktrunk"
+website = "https://worktrunk.dev"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

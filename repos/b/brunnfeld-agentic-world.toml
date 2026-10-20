@@ -1,0 +1,8 @@
+name = "brunnfeld-agentic-world"
+description = "Medieval village economy simulation — up to 1000 LLM agents across multiple villages, driven by supply chains, hunger, tool degradation and market pressure."
+category = "agents"
+tags = ["agentic-ai", "agents", "generative-ai", "llm", "medieval", "multi-agent", "nodejs", "openrouter"]
+repository = "https://github.com/marcopatzelt/brunnfeld-agentic-world"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Compartment"
+description = "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creation, storage and retrieval."
+category = "mcp-servers"
+tags = ["ai-agents", "encryption", "mcp", "vector-database", "agent-memory", "claude", "local-first", "mcp-server"]
+repository = "https://github.com/MaxFreedomPollard/Compartment"
+website = "https://maxfreedompollard.github.io/Compartment/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

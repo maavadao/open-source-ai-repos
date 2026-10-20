@@ -1,0 +1,9 @@
+name = "SurveyX"
+description = "Academic Survey Paper Generation."
+category = "search"
+tags = ["deep-research", "large-language-models", "literature-search", "llm", "nlp", "automated-survey-generation", "literature-synthesis", "ai4research"]
+repository = "https://github.com/IAAR-Shanghai/SurveyX"
+website = "http://www.surveyx.cn"
+license = "NOASSERTION"
+language = "TeX"
+added = 2026-10-20

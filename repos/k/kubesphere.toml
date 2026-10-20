@@ -1,0 +1,9 @@
+name = "kubesphere"
+description = "The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management"
+category = "skills-prompts"
+tags = ["devops", "cncf", "cloud-native", "servicemesh", "kubesphere", "kubernetes", "observability", "multi-cluster"]
+repository = "https://github.com/kubesphere/kubesphere"
+website = "https://kubesphere.io"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "stealing-ur-feelings"
+description = "Winner of Mozilla's $50,000 prize for AI"
+category = "security"
+tags = ["art", "snapchat", "awards", "emotion", "mozilla", "video", "emotion-recognition", "interactive-video"]
+repository = "https://github.com/noahlevenson/stealing-ur-feelings"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

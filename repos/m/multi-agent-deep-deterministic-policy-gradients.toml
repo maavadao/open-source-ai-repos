@@ -1,0 +1,8 @@
+name = "Multi-Agent-Deep-Deterministic-Policy-Gradients"
+description = "A Pytorch implementation of the multi agent deep deterministic policy gradients (MADDPG) algorithm"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "actor-critic-methods", "maddpg", "multi-agent-reinforcement-learning", "deep-reinforcement-learning", "actor-critic-algorithm"]
+repository = "https://github.com/philtabor/Multi-Agent-Deep-Deterministic-Policy-Gradients"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

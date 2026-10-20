@@ -1,0 +1,8 @@
+name = "CppRobotics"
+description = "Header-only C++ library for robotics, control, and path planning algorithms. Work in progress, contributions are welcome!"
+category = "video"
+tags = ["cpp", "algorithm", "control", "robot", "localization", "robotics", "mapping", "animation"]
+repository = "https://github.com/giacomo-b/CppRobotics"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

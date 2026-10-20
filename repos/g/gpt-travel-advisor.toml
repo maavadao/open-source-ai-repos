@@ -1,0 +1,8 @@
+name = "gpt-travel-advisor"
+description = "reference architecture for building a travel application with GPT3"
+category = "data-science"
+tags = ["artificial-intelligence", "machine-learning", "openai", "gpt-3", "nextjs"]
+repository = "https://github.com/dabit3/gpt-travel-advisor"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

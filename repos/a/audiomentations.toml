@@ -1,0 +1,9 @@
+name = "audiomentations"
+description = "A Python library for audio data augmentation. Useful for making audio ML models work well in the real world, not just in the lab."
+category = "speech"
+tags = ["audio", "sound", "data-augmentation", "augmentation", "sound-processing", "python", "machine-learning", "music"]
+repository = "https://github.com/iver56/audiomentations"
+website = "https://iver56.github.io/audiomentations/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

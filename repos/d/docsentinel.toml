@@ -1,0 +1,8 @@
+name = "DocSentinel"
+description = "MCP server for AI agent for cybersecurity: automate assessment of documents, questionnaires & reports. Multi-format parsing, RAG knowledge base,Risks, compliance gaps, remediations."
+category = "mcp-servers"
+tags = ["ai-agent", "compliance", "document-parsing", "fastapi", "llm", "ollama", "openai", "rag"]
+repository = "https://github.com/arthurpanhku/DocSentinel"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

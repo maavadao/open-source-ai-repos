@@ -1,0 +1,9 @@
+name = "nodeterm"
+description = "Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition."
+category = "coding"
+tags = ["adhd", "ai-agents", "canvas", "claude-code", "codex", "developer-tools", "electron", "linux"]
+repository = "https://github.com/eneskirca/nodeterm"
+website = "https://nodeterm.dev"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

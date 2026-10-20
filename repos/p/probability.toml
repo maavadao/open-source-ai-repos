@@ -1,0 +1,9 @@
+name = "probability"
+description = "Probabilistic reasoning and statistical analysis in TensorFlow"
+category = "ml-platforms"
+tags = ["tensorflow", "bayesian-methods", "deep-learning", "machine-learning", "data-science", "neural-networks", "statistics", "probabilistic-programming"]
+repository = "https://github.com/tensorflow/probability"
+website = "https://www.tensorflow.org/probability/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

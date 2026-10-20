@@ -1,0 +1,8 @@
+name = "nlu"
+description = "1 line for thousands of State of The Art NLP models in hundreds of languages The fastest and most accurate way to solve text problems."
+category = "models"
+tags = ["nlu", "natural-language-understanding", "sentiment-classifier", "text-classification", "transformers", "language-detection", "named-entity-recognition", "seq2seq"]
+repository = "https://github.com/JohnSnowLabs/nlu"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "cleanlab"
+description = "Cleanlab's open-source library is the standard data-centric AI package for data quality and machine learning with messy, real-world data and labels."
+category = "data-science"
+tags = ["weak-supervision", "data-cleaning", "data-quality", "noisy-labels", "data-centric-ai", "out-of-distribution-detection", "outlier-detection", "active-learning"]
+repository = "https://github.com/cleanlab/cleanlab"
+website = "https://cleanlab.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

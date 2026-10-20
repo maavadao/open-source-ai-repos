@@ -1,0 +1,8 @@
+name = "parlor"
+description = "On-device, real-time multimodal AI with features similar to GPT-Live"
+category = "speech"
+tags = ["gemma", "kokoro", "litert-lm", "local-llm", "multimodal", "on-device-ai", "python", "real-time"]
+repository = "https://github.com/fikrikarim/parlor"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

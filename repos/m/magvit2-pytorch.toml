@@ -1,0 +1,8 @@
+name = "magvit2-pytorch"
+description = "Implementation of MagViT2 Tokenizer in Pytorch"
+category = "video"
+tags = ["artificial-intelligence", "attention-mechanisms", "deep-learning", "transformers", "video-generation", "finite-scalar-quantization"]
+repository = "https://github.com/lucidrains/magvit2-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

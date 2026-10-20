@@ -1,0 +1,8 @@
+name = "claude-obsidian"
+description = "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on…"
+category = "skills-prompts"
+tags = ["claude-code", "obsidian", "second-brain", "claude-code-skill", "knowledge-management", "open-source", "agent-skills", "ai-second-brain"]
+repository = "https://github.com/AgriciDaniel/claude-obsidian"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "openbrowser"
+description = "Let AI agents browse the web. An autonomous toolkit for browser-based AI agents."
+category = "browser-automation"
+tags = ["ai-agents", "automation", "claude", "playwright", "puppeteer", "sandbox"]
+repository = "https://github.com/ntegrals/openbrowser"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

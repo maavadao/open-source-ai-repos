@@ -1,0 +1,8 @@
+name = "FramePack"
+description = "Lets make video diffusion practical!"
+category = "video"
+repository = "https://github.com/lllyasviel/FramePack"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

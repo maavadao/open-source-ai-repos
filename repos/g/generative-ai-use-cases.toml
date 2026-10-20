@@ -1,0 +1,9 @@
+name = "generative-ai-use-cases"
+description = "Application implementation with business use cases for safely utilizing generative AI in business operations"
+category = "image"
+tags = ["aws", "bedrock", "generative-ai", "chatbot", "image-generation", "llm", "rag", "sagemaker"]
+repository = "https://github.com/aws-samples/generative-ai-use-cases"
+website = "https://aws-samples.github.io/generative-ai-use-cases/en/"
+license = "MIT-0"
+language = "TypeScript"
+added = 2026-10-20

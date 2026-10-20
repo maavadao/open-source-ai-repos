@@ -1,0 +1,9 @@
+name = "gpt-researcher"
+description = "An autonomous agent that conducts deep research on any data using any LLM providers"
+category = "mcp-servers"
+tags = ["ai", "python", "agent", "automation", "research", "search", "webscraping", "llms"]
+repository = "https://github.com/assafelovic/gpt-researcher"
+website = "https://gptr.dev"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

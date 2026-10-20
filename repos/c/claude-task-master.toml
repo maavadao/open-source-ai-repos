@@ -1,0 +1,9 @@
+name = "claude-task-master"
+description = "An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others."
+category = "coding"
+tags = ["ai", "cursor", "task-manager", "tasks", "tasks-list", "cursor-ai", "cursorai", "lovable"]
+repository = "https://github.com/eyaltoledano/claude-task-master"
+website = "https://tryhamster.com"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

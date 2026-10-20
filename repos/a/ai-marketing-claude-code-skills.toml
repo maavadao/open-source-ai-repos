@@ -1,0 +1,9 @@
+name = "ai-marketing-claude-code-skills"
+description = "Marketing frameworks that AI actually executes. Designed for Claude Code, but could be used for OpenClaw, etc."
+category = "skills-prompts"
+tags = ["ai", "ai-agents", "branding", "marketing", "claude", "claude-code", "claude-code-skills", "claude-skills"]
+repository = "https://github.com/BrianRWagner/ai-marketing-claude-code-skills"
+website = "https://www.brianrwagner.com/"
+license = "NOASSERTION"
+language = "Shell"
+added = 2026-10-20

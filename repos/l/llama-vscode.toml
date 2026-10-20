@@ -1,0 +1,8 @@
+name = "llama.vscode"
+description = "VS Code extension for LLM-assisted code/text completion"
+category = "coding"
+tags = ["copilot", "developer-tool", "extension", "llama", "llm", "vscode"]
+repository = "https://github.com/ggml-org/llama.vscode"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "openface"
+description = "Face recognition with deep neural networks."
+category = "vision"
+tags = ["deep-learning", "face-recognition", "facenet"]
+repository = "https://github.com/cmusatyalab/openface"
+website = "http://cmusatyalab.github.io/openface/"
+license = "Apache-2.0"
+language = "Lua"
+added = 2026-10-20

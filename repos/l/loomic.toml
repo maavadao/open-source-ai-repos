@@ -1,0 +1,9 @@
+name = "Loomic"
+description = "Open-source AI canvas design agent — alternative to Lovart / CapCut Video Studio / Canva AI. Chat-driven image & video generation on an infinite canvas."
+category = "video"
+tags = ["ai", "ai-agent", "canva-alternative", "canvas", "capcut-alternative", "creative-tools", "design-tool", "excalidraw"]
+repository = "https://github.com/fancyboi999/Loomic"
+website = "https://loomic-one.vercel.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

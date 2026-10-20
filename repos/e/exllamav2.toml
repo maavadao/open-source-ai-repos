@@ -1,0 +1,7 @@
+name = "exllamav2"
+description = "A fast inference library for running LLMs locally on modern consumer-class GPUs"
+category = "local-llms"
+repository = "https://github.com/turboderp-org/exllamav2"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

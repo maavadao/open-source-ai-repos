@@ -1,0 +1,8 @@
+name = "KuiperInfer"
+description = "校招、秋招、春招、实习好项目！带你从零实现一个高性能的深度学习推理库，支持大模型 llama2 、Unet、Yolov5、Resnet等模型的推理。Implement a high-performance deep learning inference library step by step"
+category = "vision"
+tags = ["inference", "inference-engine", "deep-learning", "deep-neural-networks", "convolution", "relu", "sigmoid", "graph-algorithms"]
+repository = "https://github.com/zjhellofss/KuiperInfer"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

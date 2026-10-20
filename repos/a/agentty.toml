@@ -1,0 +1,9 @@
+name = "agentty"
+description = "AI pair programming in your terminal — one static binary, sub-ms startup, any model"
+category = "mcp-servers"
+tags = ["ai-agent", "anthropic", "claude", "claude-code", "cli", "llm", "terminal", "tui"]
+repository = "https://github.com/agentty-org/agentty"
+website = "https://agentty.org"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

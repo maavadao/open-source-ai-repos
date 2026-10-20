@@ -1,0 +1,9 @@
+name = "FlashSAC"
+description = "FlashSAC: Fast and Stable Off-Policy Reinforcement Learning for High-Dimensional Robot Control"
+category = "robotics"
+tags = ["reinforcement-learning", "robotics"]
+repository = "https://github.com/Holiday-Robot/FlashSAC"
+website = "https://holiday-robot.github.io/FlashSAC/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "ml-visuals"
+description = "ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing."
+category = "ml-platforms"
+tags = ["machine-learning", "deep-learning", "natural-language-processing", "artificial-intelligence", "design"]
+repository = "https://github.com/dair-ai/ml-visuals"
+license = "MIT"
+added = 2026-10-20

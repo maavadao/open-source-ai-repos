@@ -1,0 +1,9 @@
+name = "TokenFlow"
+description = "Official Pytorch Implementation for \"TokenFlow: Consistent Diffusion Features for Consistent Video Editing\" presenting \"TokenFlow\" (ICLR 2024)"
+category = "video"
+tags = ["stable-diffusion", "text-to-image", "text-to-video", "video-editing", "tokenflow", "iclr2024"]
+repository = "https://github.com/omerbt/TokenFlow"
+website = "https://diffusion-tokenflow.github.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

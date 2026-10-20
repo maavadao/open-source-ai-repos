@@ -1,0 +1,9 @@
+name = "pgGraph"
+description = "Open-source graph database superpowers for your existing Postgres data."
+category = "agents"
+tags = ["graph", "graph-database", "postgres", "postgresql-database", "postgresql-extension", "rust", "traversal", "ai"]
+repository = "https://github.com/Evokoa/pgGraph"
+website = "https://www.polygres.com"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

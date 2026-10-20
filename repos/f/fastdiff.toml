@@ -1,0 +1,8 @@
+name = "FastDiff"
+description = "PyTorch Implementation of FastDiff (IJCAI'22)"
+category = "speech"
+tags = ["ijcai2022", "neural-vocoder", "speech-synthesis", "text-to-speech", "vocoder"]
+repository = "https://github.com/Rongjiehuang/FastDiff"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

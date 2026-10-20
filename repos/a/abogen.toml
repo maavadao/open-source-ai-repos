@@ -1,0 +1,9 @@
+name = "abogen"
+description = "Generate audiobooks from EPUBs, PDFs and text with synchronized captions."
+category = "speech"
+tags = ["audiobook", "audiobooks", "content-creation", "content-creator", "epub-converter", "kokoro", "media-generation", "narrator"]
+repository = "https://github.com/denizsafak/abogen"
+website = "https://pypi.org/project/abogen/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "rocketnotes"
+description = "AI-powered markdown editor - leverage LLMs with your documents - 100% local or in the cloud"
+category = "llm-apps"
+tags = ["aws", "markdown", "notes-app", "serverless", "openai", "langchain", "llm", "huggingface"]
+repository = "https://github.com/fynnfluegge/rocketnotes"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "presenta-lib"
+description = "The javascript presentation library for the automation era."
+category = "no-code"
+tags = ["slides", "deck", "presenta-lib", "javascript-library", "gallery", "banners", "showcase", "catalogue"]
+repository = "https://github.com/presenta-software/presenta-lib"
+website = "https://www.presenta.cc/"
+license = "BSD-3-Clause"
+language = "JavaScript"
+added = 2026-10-20

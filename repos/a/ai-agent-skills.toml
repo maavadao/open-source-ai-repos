@@ -1,0 +1,9 @@
+name = "ai-agent-skills"
+description = "Universal skill installer and package manager for AI coding agents. One command, 12+ runtimes. npx ai-agent-skills"
+category = "mcp-servers"
+tags = ["agent-skills", "claude-code", "cli", "codex", "cursor", "developer-tools", "productivity", "ai-agents"]
+repository = "https://github.com/MoizIbnYousaf/ai-agent-skills"
+website = "https://www.npmjs.com/package/ai-agent-skills"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

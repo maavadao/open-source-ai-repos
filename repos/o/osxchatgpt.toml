@@ -1,0 +1,8 @@
+name = "OSXChatGPT"
+description = "Easy to use OpenAI ChatGPT on your mac !"
+category = "chat"
+tags = ["chatgpt", "desktop-app", "macos", "openai", "openai-api", "swiftui", "gpt", "gpt35"]
+repository = "https://github.com/MustangYM/OSXChatGPT"
+license = "Apache-2.0"
+language = "Swift"
+added = 2026-10-20

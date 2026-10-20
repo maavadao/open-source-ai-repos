@@ -1,0 +1,9 @@
+name = "lumen"
+description = "Illuminate your data. Agent framework turning natural language into SQL, charts, dashboards and reports."
+category = "agents"
+tags = ["ai-agents", "conversational-ai", "data-exploration", "data-visualization", "duckdb", "holoviz", "llm", "panel"]
+repository = "https://github.com/holoviz/lumen"
+website = "https://lumen.holoviz.org"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

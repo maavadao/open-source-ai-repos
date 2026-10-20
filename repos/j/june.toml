@@ -1,0 +1,8 @@
+name = "june"
+description = "Local voice chatbot for engaging conversations, powered by Ollama, Hugging Face Transformers, and Coqui TTS Toolkit"
+category = "speech"
+tags = ["cli-app", "command-line-tool", "large-language-models", "llm", "python", "speech-to-text", "text-to-speech", "huggingface"]
+repository = "https://github.com/mezbaul-h/june"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

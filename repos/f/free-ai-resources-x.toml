@@ -1,0 +1,7 @@
+name = "free-ai-resources-x"
+description = "A curated collection of free, high quality AI tools , APIs , datasets , and learning resources covering machine learning , deep learning , generative AI , NLP , and data science . Designed to help developers , researchers , and creators explore and build with AI faster ."
+category = "learning"
+tags = ["ai", "artificial-intelligence", "data-science", "deep-learning", "machine-learning", "reinforcement-learning", "ai-agents", "ai-courses"]
+repository = "https://github.com/CelaDaniel/free-ai-resources-x"
+license = "MIT"
+added = 2026-10-20

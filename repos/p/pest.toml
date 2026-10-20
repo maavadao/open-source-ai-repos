@@ -1,0 +1,9 @@
+name = "pest"
+description = "The elegant testing framework for PHP developers and AI agents."
+category = "agents"
+tags = ["php", "testing", "pest", "framework"]
+repository = "https://github.com/pestphp/pest"
+website = "https://pestphp.com"
+license = "MIT"
+language = "PHP"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "PanWatch"
+description = "PanWatch — AI stock monitoring for A-shares, HK & US markets, powered by TradingAgents. Portfolio insights, real-time alerts & automated reports.｜盯盘侠：覆盖 A股/港股/美股的 AI 盯盘、持仓分析、实时提醒与自动报告。"
+category = "mcp-servers"
+tags = ["ai", "llm", "openai", "pwa", "self-hosted", "stock", "stock-analysis", "stock-market"]
+repository = "https://github.com/TNT-Likely/PanWatch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

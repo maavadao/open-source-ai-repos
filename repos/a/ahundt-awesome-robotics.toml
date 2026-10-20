@@ -1,0 +1,7 @@
+name = "awesome-robotics"
+description = "A curated list of awesome links and software libraries that are useful for robots."
+category = "learning"
+tags = ["robotics", "robot", "ros", "tensorflow", "machine-learning", "reinforcement-learning", "sensors", "physics"]
+repository = "https://github.com/ahundt/awesome-robotics"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Educational_RAG_System"
+description = "End-to-end educational RAG system: dual-engine retrieval (BM25 + BGE-M3 hybrid vector search), adaptive query strategies (HyDE/sub-query/backtracking), BERT intent classification, BGE-Reranker precision ranking, Chinese-optimized text splitting, and FastAPI SSE streaming —…"
+category = "llm-apps"
+tags = ["ai", "llm", "milvus", "mysql", "python", "rag", "redis"]
+repository = "https://github.com/Happy-Chen-CH/Educational_RAG_System"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "openai-style-api"
+description = "支持将openai、claude、azure openai, gemini,kimi, 智谱AI,通义千问,讯飞星火API等模型服务方的调用转为openai方式调用。屏蔽不同大模型API的差异，统一用openai api标准格式使用大模型(Shield the differences between different large model APIs and use large models in a unified openai API standard format)"
+category = "models"
+tags = ["azure", "claude", "gpt", "open-ai", "openai-api", "xunfei-spark", "gemini", "qwen"]
+repository = "https://github.com/tian-minghui/openai-style-api"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "agentskills"
+description = "Specification and documentation for Agent Skills"
+category = "skills-prompts"
+tags = ["agent-skills"]
+repository = "https://github.com/agentskills/agentskills"
+website = "https://agentskills.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

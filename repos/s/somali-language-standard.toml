@@ -1,0 +1,9 @@
+name = "somali-language-standard"
+description = "The open, machine-readable standard for the Somali language — orthography, grammar, terminology, translation, and AI/benchmark resources, as a versioned, citable RFC-style catalog."
+category = "llm-apps"
+tags = ["ai", "benchmarks", "grammar", "language-standard", "linguistics", "llm", "low-resource-languages", "machine-readable"]
+repository = "https://github.com/somastllc/somali-language-standard"
+website = "https://www.goobolabs.so"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Customer-Chatbot"
+description = "中文智能客服机器人demo，包含闲聊和专业问答2个部分，支持自定义组件（Chinese intelligent customer chatbot Demo, including the gossip and the professional Q&A(FAQ) , support for custom components！）"
+category = "chat"
+tags = ["nlp", "chatbot", "customer-chatbot", "faq", "similarity-measures", "similarity", "qa"]
+repository = "https://github.com/WenRichard/Customer-Chatbot"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

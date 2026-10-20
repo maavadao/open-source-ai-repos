@@ -1,0 +1,8 @@
+name = "PilotDeck"
+description = "Task-oriented AI Agent productivity platform"
+category = "agents"
+repository = "https://github.com/OpenBMB/PilotDeck"
+website = "https://pilotdeck.openbmb.cn"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

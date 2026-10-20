@@ -1,0 +1,8 @@
+name = "cfnet"
+description = "[CVPR'17] Training a Correlation Filter end-to-end allows lightweight networks of 2 layers (600 kB) to high performance at fast speed.."
+category = "vision"
+tags = ["deep-learning", "correlation-filter", "object-tracking", "meta-learning", "computer-vision", "machine-learning", "cvpr2017"]
+repository = "https://github.com/bertinetto/cfnet"
+license = "MIT"
+language = "MATLAB"
+added = 2026-10-20

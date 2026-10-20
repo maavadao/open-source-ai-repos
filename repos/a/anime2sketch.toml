@@ -1,0 +1,8 @@
+name = "Anime2Sketch"
+description = "A sketch extractor for anime/illustration."
+category = "image"
+tags = ["pytorch", "deep-learning", "gan", "anime", "sketch", "wacv", "gradio", "comic"]
+repository = "https://github.com/Mukosame/Anime2Sketch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

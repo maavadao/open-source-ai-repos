@@ -1,0 +1,9 @@
+name = "next-ai-draw-io"
+description = "Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code."
+category = "mcp-servers"
+tags = ["ai", "diagrams", "architecture-diagram", "claude-code", "diagram-generator", "draw-io", "drawio", "electron"]
+repository = "https://github.com/DayuanJiang/next-ai-draw-io"
+website = "https://next-ai-drawio.jiang.jp/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

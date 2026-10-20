@@ -1,0 +1,9 @@
+name = "agentkeeper"
+description = "Own your AI memory — import ChatGPT, Claude and Gemini exports, see what each AI knows about you. Checkpoint/restore and cross-model continuity for agents."
+category = "mcp-servers"
+tags = ["ai-agents", "agent-memory", "agentic-ai", "agents", "ai-memory", "anthropic", "claude", "cognitive-continuity"]
+repository = "https://github.com/Thinklanceai/agentkeeper"
+website = "https://pypi.org/project/agentkeeper-ai/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "latitude-llm"
+description = "Open-source observability for AI agents. Find where your agents fail, dispatch your coding agent to fix it, and verify the fix against real traces."
+category = "ml-platforms"
+tags = ["llm-observability", "agent-monitoring", "agent-observability", "ai-error-monitor", "ai-monitoring", "ai-observability", "llm-error-tracing", "llm-tools"]
+repository = "https://github.com/latitude-dev/latitude-llm"
+website = "https://latitude.so"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

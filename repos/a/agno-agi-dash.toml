@@ -1,0 +1,9 @@
+name = "dash"
+description = "A self-learning data agent built with systems engineering principles. It grounds answers in 6 layers of context and improves with every query."
+category = "agents"
+tags = ["agno", "ai-agents", "text-to-sql"]
+repository = "https://github.com/agno-agi/dash"
+website = "https://agno.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

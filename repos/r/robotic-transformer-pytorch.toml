@@ -1,0 +1,8 @@
+name = "robotic-transformer-pytorch"
+description = "Implementation of RT1 (Robotic Transformer) in Pytorch"
+category = "robotics"
+tags = ["artificial-intelligence", "attention-mechanisms", "deep-learning", "robotics", "transformers"]
+repository = "https://github.com/lucidrains/robotic-transformer-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

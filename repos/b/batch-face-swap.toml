@@ -1,0 +1,8 @@
+name = "batch-face-swap"
+description = "Automaticaly detects faces and replaces them"
+category = "image"
+tags = ["automatic1111", "stable-diffusion", "stable-diffusion-webui", "stable-diffusion-webui-plugin"]
+repository = "https://github.com/kex0/batch-face-swap"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

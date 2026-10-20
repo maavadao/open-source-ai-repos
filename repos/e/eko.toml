@@ -1,0 +1,9 @@
+name = "eko"
+description = "Eko (Eko Keeps Operating) - Build Production-ready Agentic Workflow with Natural Language - eko.fellou.ai"
+category = "browser-automation"
+tags = ["agent", "agentic-ai", "agentic-framework", "agentic-workflow", "browseruse", "computeruse", "natural-language-inference", "workflow"]
+repository = "https://github.com/FellouAI/eko"
+website = "https://fellou.ai/eko"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

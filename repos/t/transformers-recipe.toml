@@ -1,0 +1,7 @@
+name = "Transformers-Recipe"
+description = "A study guide to learn about Transformers"
+category = "ml-platforms"
+tags = ["deep-learning", "natural-language-processing", "machine-learning", "ai", "nlp"]
+repository = "https://github.com/dair-ai/Transformers-Recipe"
+license = "CC0-1.0"
+added = 2026-10-20

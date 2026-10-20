@@ -1,0 +1,9 @@
+name = "waymo-motion-prediction-challenge-2022-multipath-plus-plus"
+description = "Solution for Waymo Motion Prediction Challenge 2022. Our implementation of MultiPath++"
+category = "robotics"
+tags = ["sdc", "self-driving-car", "motion-prediction", "trajectory-prediction", "waymo-open-dataset", "multipath", "cvpr2022", "workshop-autonomous-driving"]
+repository = "https://github.com/stepankonev/waymo-motion-prediction-challenge-2022-multipath-plus-plus"
+website = "https://arxiv.org/abs/2206.10041"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

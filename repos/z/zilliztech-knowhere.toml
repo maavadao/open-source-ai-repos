@@ -1,0 +1,9 @@
+name = "knowhere"
+description = "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN."
+category = "vector-databases"
+tags = ["faiss", "gpu", "hnsw", "nearest-neighbor-search", "search", "vector", "vector-database"]
+repository = "https://github.com/zilliztech/knowhere"
+website = "https://github.com/milvus-io/milvus"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

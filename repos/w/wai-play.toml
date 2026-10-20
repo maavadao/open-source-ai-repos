@@ -1,0 +1,8 @@
+name = "wai-play"
+description = "WAI Play - AI web game testing and quality evaluation platform"
+category = "agents"
+tags = ["python", "game", "ai", "ai-agents", "game-testing"]
+repository = "https://github.com/waiterve/wai-play"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

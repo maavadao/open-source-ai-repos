@@ -1,0 +1,10 @@
+name = "IsaacLab"
+description = "Unified framework for robot learning with multi-physics/renderer support"
+category = "robotics"
+tags = ["robot-learning", "robotics", "omniverse-kit-extension", "isaac-sim"]
+repository = "https://github.com/isaac-sim/IsaacLab"
+website = "https://isaac-sim.github.io/IsaacLab"
+license = "NOASSERTION"
+language = "Python"
+skill_level = "advanced"
+added = 2026-10-20

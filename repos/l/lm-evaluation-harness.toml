@@ -1,0 +1,9 @@
+name = "lm-evaluation-harness"
+description = "A framework for few-shot evaluation of language models."
+category = "models"
+tags = ["evaluation-framework", "language-model", "transformer"]
+repository = "https://github.com/EleutherAI/lm-evaluation-harness"
+website = "https://www.eleuther.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

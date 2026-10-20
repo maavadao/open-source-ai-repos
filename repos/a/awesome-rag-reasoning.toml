@@ -1,0 +1,8 @@
+name = "Awesome-RAG-Reasoning"
+description = "[EMNLP 2025] Awesome RAG Reasoning Resources"
+category = "learning"
+tags = ["agent", "agentic-ai", "agentic-rag", "llm", "llms", "multi-agent-systems", "rag", "reasoning"]
+repository = "https://github.com/DavidZWZ/Awesome-RAG-Reasoning"
+website = "https://arxiv.org/abs/2507.09477"
+license = "MIT"
+added = 2026-10-20

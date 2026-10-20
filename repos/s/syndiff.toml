@@ -1,0 +1,8 @@
+name = "SynDiff"
+description = "Official PyTorch implementation of SynDiff described in the paper (https://arxiv.org/abs/2207.08208)."
+category = "image"
+tags = ["deep-learning", "medical-imaging", "denoising-diffusion-models", "image-synthesis", "image-to-image-translation", "diffusion-model", "diffusion-models", "medical-image-synthesis"]
+repository = "https://github.com/icon-lab/SynDiff"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

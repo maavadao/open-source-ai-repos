@@ -1,0 +1,8 @@
+name = "Agent-Skills"
+description = "Curated Agent Skills for Microsoft & Azure – giving AI coding assistants structured, real-time expertise from Microsoft Learn docs."
+category = "skills-prompts"
+tags = ["agent", "ai", "ai-agents", "skills", "agentic-skills", "ai-coding", "azure", "azure-openai"]
+repository = "https://github.com/MicrosoftDocs/Agent-Skills"
+website = "https://learn.microsoft.com/"
+license = "CC-BY-4.0"
+added = 2026-10-20

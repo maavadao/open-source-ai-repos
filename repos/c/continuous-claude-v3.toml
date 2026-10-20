@@ -1,0 +1,8 @@
+name = "Continuous-Claude-v3"
+description = "Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows."
+category = "mcp-servers"
+tags = ["agents", "claude-code", "claude-code-cli", "claude-code-hooks", "claude-code-mcp", "claude-code-skills", "claude-code-subagents", "claude-skills"]
+repository = "https://github.com/parcadei/Continuous-Claude-v3"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "LeggedGym-Ex"
+description = "legged robot environments for reinforcement learning in multiple simulators (IsaacGym, Genesis, IsaacSim)"
+category = "ml-platforms"
+tags = ["legged-robots", "reinforcement-learning", "multiple-simulator"]
+repository = "https://github.com/lupinjia/LeggedGym-Ex"
+website = "https://leggedgym-ex-doc.readthedocs.io/en/latest/"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

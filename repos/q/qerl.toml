@@ -1,0 +1,8 @@
+name = "QeRL"
+description = "[ICLR 2026]QeRL enables RL for 32B LLMs on a single H100 GPU."
+category = "local-llms"
+tags = ["llms", "quantization", "reasoning", "reinforcement-learning"]
+repository = "https://github.com/NVlabs/QeRL"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

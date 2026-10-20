@@ -1,0 +1,9 @@
+name = "podcast-maker"
+description = "Fully automated video maker using motion graphics and text-to-speech synthesis to turn newsletters into daily YouTube videos."
+category = "browser-automation"
+tags = ["nodejs", "podcast-maker", "youtube", "remotion", "podcast", "video-maker", "react", "puppeteer"]
+repository = "https://github.com/FelippeChemello/podcast-maker"
+website = "https://youtube.com/@CodeStackMe"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

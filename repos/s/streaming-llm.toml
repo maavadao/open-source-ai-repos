@@ -1,0 +1,8 @@
+name = "streaming-llm"
+description = "[ICLR 2024] Efficient Streaming Language Models with Attention Sinks"
+category = "models"
+repository = "https://github.com/mit-han-lab/streaming-llm"
+website = "https://arxiv.org/abs/2309.17453"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

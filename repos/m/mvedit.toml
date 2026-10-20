@@ -1,0 +1,9 @@
+name = "MVEdit"
+description = "3D-Adapter: Geometry-Consistent Multi-View Diffusion for High-Quality 3D Generation"
+category = "image"
+tags = ["3d", "diffusion-models", "generative-ai", "stable-diffusion", "texture"]
+repository = "https://github.com/Lakonik/MVEdit"
+website = "https://lakonik.github.io/3d-adapter"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

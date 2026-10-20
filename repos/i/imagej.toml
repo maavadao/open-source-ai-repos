@@ -1,0 +1,9 @@
+name = "ImageJ"
+description = "Public domain software for processing and analyzing scientific images"
+category = "vision"
+tags = ["image-processing", "computer-vision"]
+repository = "https://github.com/imagej/ImageJ"
+website = "http://imagej.org"
+license = "NOASSERTION"
+language = "Java"
+added = 2026-10-20

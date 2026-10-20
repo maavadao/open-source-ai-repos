@@ -1,0 +1,9 @@
+name = "agentshield"
+description = "AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration."
+category = "mcp-servers"
+tags = ["ai-agent", "anthropic", "claude-code", "hackathon", "mcp", "opus", "security"]
+repository = "https://github.com/affaan-m/agentshield"
+website = "https://cerebralvalley.ai/e/claude-code-hackathon"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

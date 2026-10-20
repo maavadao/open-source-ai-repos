@@ -1,0 +1,8 @@
+name = "sd-face-editor"
+description = "Face Editor for Stable Diffusion"
+category = "image"
+tags = ["stable-diffusion-webui", "stable-diffusion"]
+repository = "https://github.com/ototadana/sd-face-editor"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

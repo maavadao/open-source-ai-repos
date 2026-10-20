@@ -1,0 +1,8 @@
+name = "nvdiffrec"
+description = "Official code for the CVPR 2022 (oral) paper \"Extracting Triangular 3D Models, Materials, and Lighting From Images\"."
+category = "ml-platforms"
+tags = ["pytorch", "deep-learning"]
+repository = "https://github.com/NVlabs/nvdiffrec"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

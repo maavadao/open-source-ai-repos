@@ -1,0 +1,8 @@
+name = "skills"
+description = "Skills for teaching agents how to build on Cloudflare."
+category = "agents"
+tags = ["agents", "cloudflare", "skills", "workers"]
+repository = "https://github.com/cloudflare/skills"
+license = "Apache-2.0"
+language = "Shell"
+added = 2026-10-20

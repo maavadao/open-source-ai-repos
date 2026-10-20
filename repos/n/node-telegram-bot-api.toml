@@ -1,0 +1,8 @@
+name = "node-telegram-bot-api"
+description = "Telegram Bot API for NodeJS"
+category = "chat"
+tags = ["telegram", "bot", "bot-framework", "chatbot", "api", "nodejs"]
+repository = "https://github.com/yagop/node-telegram-bot-api"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "CAG"
+description = "Cache-Augmented Generation: A Simple, Efficient Alternative to RAG"
+category = "llm-apps"
+tags = ["cag", "llm", "rag"]
+repository = "https://github.com/hhhuang/CAG"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

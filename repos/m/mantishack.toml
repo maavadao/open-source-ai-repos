@@ -1,0 +1,9 @@
+name = "mantishack"
+description = "Mantis Hack"
+category = "mcp-servers"
+tags = ["agent-harness", "ai-agents", "autonomous-agents", "bug-bounty", "claude-code", "mcp", "security", "mantis"]
+repository = "https://github.com/deonmenezes/mantishack"
+website = "https://mantishack.com"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

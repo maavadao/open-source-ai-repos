@@ -1,0 +1,8 @@
+name = "a-PyTorch-Tutorial-to-Image-Captioning"
+description = "Show, Attend, and Tell | a PyTorch Tutorial to Image Captioning"
+category = "learning"
+tags = ["pytorch", "pytorch-tutorial", "show-attend-and-tell", "image-captioning", "encoder-decoder", "attention-mechanism", "computer-vision", "mscoco"]
+repository = "https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

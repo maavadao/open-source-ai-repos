@@ -1,0 +1,9 @@
+name = "munder-difflin"
+description = "an open-source alternative to the dots, bots and muses of the world, run an office of claude code/codex like agents on your laptop, sandboxes or anywhere, uses your existing subscriptions"
+category = "coding"
+tags = ["agents", "claude-code", "harness", "harness-engineering", "memory", "agent-orchestration", "ai-agents", "autonomous-agents"]
+repository = "https://github.com/HarnessMD/munder-difflin"
+website = "https://munderdiffl.in"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

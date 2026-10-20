@@ -1,0 +1,9 @@
+name = "Hexabot"
+description = "Hexabot v3 is an AI workflow automation platform, combining workflows, actions, agents, and conversational channels in one runtime."
+category = "no-code"
+tags = ["ai", "bot-framework", "chatbot", "agent", "agents", "chatgpt", "claude-ai", "gemini"]
+repository = "https://github.com/hexabot-ai/Hexabot"
+website = "https://docs.hexabot.ai"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "pyflow"
+description = "Fast, accurate and easy to run dense optical flow with python wrapper"
+category = "vision"
+tags = ["optical-flow", "computer-vision", "image-processing", "python-optical-flow", "dense-flow"]
+repository = "https://github.com/pathak22/pyflow"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

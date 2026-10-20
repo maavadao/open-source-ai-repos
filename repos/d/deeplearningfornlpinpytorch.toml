@@ -1,0 +1,8 @@
+name = "DeepLearningForNLPInPytorch"
+description = "An IPython Notebook tutorial on deep learning for natural language processing, including structure prediction."
+category = "learning"
+tags = ["nlp", "pytorch", "deep-learning", "tutorial", "lstm", "neural-network"]
+repository = "https://github.com/rguthrie3/DeepLearningForNLPInPytorch"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

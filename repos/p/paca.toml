@@ -1,0 +1,9 @@
+name = "paca"
+description = "AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals. Self-hosted. Fully customizable via config and plugins."
+category = "mcp-servers"
+tags = ["bdd", "open-source", "scrumban", "ai-agent", "clickup-alternative", "jira-alternative", "mcp", "openhands"]
+repository = "https://github.com/Paca-AI/paca"
+website = "https://paca-ai.org"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

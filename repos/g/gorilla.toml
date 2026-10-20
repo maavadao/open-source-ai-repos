@@ -1,0 +1,9 @@
+name = "gorilla"
+description = "Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)"
+category = "chat"
+tags = ["api", "llm", "api-documentation", "chatgpt", "gpt-4-api", "claude-api", "openai-api", "openai-functions"]
+repository = "https://github.com/ShishirPatil/gorilla"
+website = "https://gorilla.cs.berkeley.edu/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

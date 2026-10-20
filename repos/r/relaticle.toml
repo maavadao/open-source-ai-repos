@@ -1,0 +1,9 @@
+name = "relaticle"
+description = "Open-source CRM with native AI agent support. 37 MCP tools, REST API, self-hosted. Built with Laravel & Filament"
+category = "mcp-servers"
+tags = ["crm", "filament", "laravel", "livewire", "saas", "contacts", "people", "sales"]
+repository = "https://github.com/relaticle/relaticle"
+website = "https://relaticle.com"
+license = "AGPL-3.0"
+language = "PHP"
+added = 2026-10-20

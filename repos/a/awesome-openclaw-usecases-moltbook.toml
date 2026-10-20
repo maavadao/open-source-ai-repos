@@ -1,0 +1,8 @@
+name = "awesome-openclaw-usecases-moltbook"
+description = "Real-world OpenClaw automation examples from Moltbook"
+category = "learning"
+tags = ["awesome", "openclaw", "agentic-ai", "ai-agents", "automation", "awesome-list", "awesome-lists", "best-practices"]
+repository = "https://github.com/EvoLinkAI/awesome-openclaw-usecases-moltbook"
+website = "https://evolink.ai/openclaw-hosting"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "pgvector"
+description = "Open-source vector similarity search for Postgres"
+category = "vector-databases"
+tags = ["nearest-neighbor-search", "approximate-nearest-neighbor-search"]
+repository = "https://github.com/pgvector/pgvector"
+license = "NOASSERTION"
+language = "C"
+skill_level = "beginner"
+added = 2026-10-20

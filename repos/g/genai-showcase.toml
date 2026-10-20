@@ -1,0 +1,9 @@
+name = "GenAI-Showcase"
+description = "MongoDB's Generative AI Showcase: an exhaustive collection of examples and sample applications covering Retrieval-Augmented Generation (RAG), AI agents, and industry-specific use cases."
+category = "agents"
+tags = ["agents", "artificial-intelligence", "generative-ai", "llms", "rag", "atlas", "jupyter-notebook", "mongodb"]
+repository = "https://github.com/mongodb-developer/GenAI-Showcase"
+website = "https://www.mongodb.com/cloud/atlas/register"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "agentsh"
+description = "Execution-Layer Security (ELS) for AI agents — policy-enforced shell with audit."
+category = "security"
+tags = ["agentic-ai", "agents", "ai", "els", "policy", "executionlayersecurity", "ai-security", "enforcement"]
+repository = "https://github.com/canyonroad/agentsh"
+website = "https://www.agentsh.org"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

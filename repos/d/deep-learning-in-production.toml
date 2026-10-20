@@ -1,0 +1,7 @@
+name = "Deep-Learning-in-Production"
+description = "In this repository, I will share some useful notes and references about deploying deep learning-based models in production."
+category = "learning"
+tags = ["deep-learning", "deep-neural-networks", "python", "pytorch", "tesnorflow", "keras", "mxnet", "caffe2"]
+repository = "https://github.com/ahkarami/Deep-Learning-in-Production"
+license = "NOASSERTION"
+added = 2026-10-20

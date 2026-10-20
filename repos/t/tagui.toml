@@ -1,0 +1,8 @@
+name = "TagUI"
+description = "Free RPA tool by AI Singapore"
+category = "no-code"
+tags = ["rpa", "ai", "opencv", "tesseract", "nlp"]
+repository = "https://github.com/aisingapore/TagUI"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

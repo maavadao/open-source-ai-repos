@@ -1,0 +1,9 @@
+name = "mldl.study"
+description = "ML & DL roadmap with curated resources like videos, articles, research-papers, competitions, projects etc."
+category = "learning"
+tags = ["deep-learning", "machine-learning", "python", "roadmap", "roadmaps", "ai", "aiml", "artificial-intelligence"]
+repository = "https://github.com/anshaneja5/mldl.study"
+website = "https://www.mldl.study/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

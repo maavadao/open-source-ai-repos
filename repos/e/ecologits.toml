@@ -1,0 +1,9 @@
+name = "ecologits"
+description = "EcoLogits tracks the energy consumption and environmental footprint of using generative AI models through APIs."
+category = "local-llms"
+tags = ["genai", "generative-ai", "green-ai", "green-software", "llm", "llm-inference", "python", "sustainability"]
+repository = "https://github.com/mlco2/ecologits"
+website = "https://ecologits.ai/"
+license = "MPL-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "AI-Waifu-Vtuber"
+description = "AI Vtuber for Streaming on Youtube/Twitch"
+category = "speech"
+tags = ["deepl", "openai", "speech-recognition", "speech-synthesis", "speech-to-text", "tts", "vtuber", "whisper"]
+repository = "https://github.com/ardha27/AI-Waifu-Vtuber"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "Production-Level-Deep-Learning"
+description = "A guideline for building practical production-level deep learning systems to be deployed in real world applications."
+category = "ml-platforms"
+tags = ["machine-learning", "deep-learning", "pipeline", "scalable-applications", "production-system", "tfx", "kubeflow", "artificial-intelligence"]
+repository = "https://github.com/alirezadir/Production-Level-Deep-Learning"
+license = "NOASSERTION"
+added = 2026-10-20

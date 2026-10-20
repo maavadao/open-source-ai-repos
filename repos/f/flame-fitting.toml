@@ -1,0 +1,9 @@
+name = "flame-fitting"
+description = "Example code for the FLAME 3D head model. The code demonstrates how to sample 3D heads from the model, fit the model to 3D keypoints and 3D scans."
+category = "vision"
+tags = ["face-model", "morphable-model", "computer-graphics", "computer-vision", "flame-model", "flame-fitting", "chumpy", "smpl-x"]
+repository = "https://github.com/Rubikplayer/flame-fitting"
+website = "http://flame.is.tue.mpg.de/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

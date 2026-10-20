@@ -1,0 +1,8 @@
+name = "kvpress"
+description = "LLM KV cache compression made easy"
+category = "local-llms"
+tags = ["llm", "inference", "kv-cache", "kv-cache-compression", "long-context", "python", "pytorch", "transformers"]
+repository = "https://github.com/NVIDIA/kvpress"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

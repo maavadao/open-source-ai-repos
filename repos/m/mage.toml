@@ -1,0 +1,9 @@
+name = "mage"
+description = "XMage - Magic Another Game Engine"
+category = "other"
+tags = ["java", "magic", "game", "mtg", "magic-the-gathering", "game-engine", "ai", "xmage"]
+repository = "https://github.com/magefree/mage"
+website = "https://xmage.today"
+license = "MIT"
+language = "Java"
+added = 2026-10-20

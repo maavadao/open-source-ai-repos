@@ -1,0 +1,8 @@
+name = "awesome-colab-notebooks"
+description = "Collection of google colaboratory notebooks for fast and easy experiments"
+category = "learning"
+tags = ["colab-notebooks", "machine-learning", "deep-learning", "generative-adversarial-network", "tensorflow", "tensorflow-tutorials", "jupyter-notebooks", "google-colaboratory"]
+repository = "https://github.com/amrzv/awesome-colab-notebooks"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

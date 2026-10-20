@@ -1,0 +1,8 @@
+name = "numbat"
+description = "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction."
+category = "agents"
+tags = ["agent-security", "ai-agents", "ai-agent-security"]
+repository = "https://github.com/perplexityai/numbat"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

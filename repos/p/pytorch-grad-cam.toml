@@ -1,0 +1,9 @@
+name = "pytorch-grad-cam"
+description = "Advanced AI Explainability for computer vision. Support for CNNs, Vision Transformers, Classification, Object detection, Segmentation, Image similarity and more."
+category = "vision"
+tags = ["deep-learning", "pytorch", "grad-cam", "visualizations", "interpretability", "interpretable-ai", "interpretable-deep-learning", "score-cam"]
+repository = "https://github.com/jacobgil/pytorch-grad-cam"
+website = "https://jacobgil.github.io/pytorch-gradcam-book"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

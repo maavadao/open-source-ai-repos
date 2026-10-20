@@ -1,0 +1,8 @@
+name = "chainerrl"
+description = "ChainerRL is a deep reinforcement learning library built on top of Chainer."
+category = "ml-platforms"
+tags = ["chainer", "reinforcement-learning", "deep-learning", "machine-learning", "python", "dqn", "actor-critic"]
+repository = "https://github.com/chainer/chainerrl"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

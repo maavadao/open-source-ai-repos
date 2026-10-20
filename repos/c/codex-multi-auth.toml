@@ -1,0 +1,9 @@
+name = "codex-multi-auth"
+description = "Codex CLI multi-account OAuth manager with account switching, health checks, runtime rotation, diagnostics, and recovery tools for @openai/codex"
+category = "coding"
+tags = ["chatgpt", "codex", "codex-cli", "multi-account", "nodejs", "oauth2", "openai", "pkce"]
+repository = "https://github.com/ndycode/codex-multi-auth"
+website = "https://www.npmjs.com/package/codex-multi-auth"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "principia"
+description = "Open source physics-based sandbox game with electronic circuitry, mechanics, robots, puzzles, Lua scripting and more."
+category = "robotics"
+tags = ["cpp", "game", "lua", "sandbox-game", "hacktoberfest", "sdl3", "android", "linux"]
+repository = "https://github.com/Bithack/principia"
+website = "https://principia-web.se"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

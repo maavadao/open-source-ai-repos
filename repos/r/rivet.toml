@@ -1,0 +1,9 @@
+name = "rivet"
+description = "Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution."
+category = "agents"
+tags = ["multiplayer", "rust", "actor", "actors", "cloudflare-durable-objects", "durable-objects", "foundationdb", "realtime"]
+repository = "https://github.com/rivet-dev/rivet"
+website = "https://www.rivet.dev"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

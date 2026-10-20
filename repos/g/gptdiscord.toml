@@ -1,0 +1,8 @@
+name = "GPTDiscord"
+description = "A robust, all-in-one GPT interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!"
+category = "chat"
+tags = ["artificial-intelligence", "asyncio", "gpt3", "help-wanted", "openai", "openai-api", "python", "dalle2"]
+repository = "https://github.com/Kav-K/GPTDiscord"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "AGI-Papers"
+description = "A curated archive of breakthroughs in Agents, Architecture, Training, RAG, and On-Device AI."
+category = "speech"
+tags = ["nlg", "llm", "nlp", "dialogue", "sentence-similarity", "efficient", "distillation", "multimodal"]
+repository = "https://github.com/gyunggyung/AGI-Papers"
+website = "https://www.linkedin.com/in/kiwoong-yeom/"
+license = "MIT"
+added = 2026-10-20

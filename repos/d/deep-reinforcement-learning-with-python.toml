@@ -1,0 +1,9 @@
+name = "Deep-Reinforcement-Learning-With-Python"
+description = "Master classic RL, deep RL, distributional RL, inverse RL, and more using OpenAI Gym and TensorFlow with extensive Math"
+category = "ml-platforms"
+tags = ["deep-reinforcement-learning", "reinforcement-learning", "trpo", "ppo", "ddpg", "td3", "sac", "inverse-reinforcement-learning"]
+repository = "https://github.com/sudharsan13296/Deep-Reinforcement-Learning-With-Python"
+website = "https://www.amazon.com/dp/1839210680/ref=cm_sw_r_tw_dp_x_0HRDFbW4MN11H"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

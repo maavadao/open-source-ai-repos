@@ -1,0 +1,8 @@
+name = "InternVideo"
+description = "[ECCV2024] Video Foundation Models & Data for Multimodal Understanding"
+category = "models"
+tags = ["foundation-models", "video-understanding", "vision-transformer", "action-recognition", "masked-autoencoder", "multimodal", "open-set-recognition", "spatio-temporal-action-localization"]
+repository = "https://github.com/OpenGVLab/InternVideo"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

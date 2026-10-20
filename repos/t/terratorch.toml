@@ -1,0 +1,9 @@
+name = "terratorch"
+description = "A Python toolkit for fine-tuning Geospatial Foundation Models (GFMs)."
+category = "vision"
+tags = ["computer-vision", "deep-learning", "earth-observation", "foundation-models", "geospatial", "weather-models", "ai4good", "ai4science"]
+repository = "https://github.com/torchgeo/terratorch"
+website = "https://torchgeo.github.io/terratorch/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

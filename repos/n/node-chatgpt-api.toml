@@ -1,0 +1,9 @@
+name = "node-chatgpt-api"
+description = "A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app."
+category = "chat"
+tags = ["chatgpt", "chatgpt-api", "gpt", "openai", "openai-api", "api", "api-rest", "api-server"]
+repository = "https://github.com/waylaidwanderer/node-chatgpt-api"
+website = "https://www.npmjs.com/package/@waylaidwanderer/chatgpt-api"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

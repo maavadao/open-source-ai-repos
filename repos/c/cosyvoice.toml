@@ -1,0 +1,9 @@
+name = "CosyVoice"
+description = "Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability."
+category = "speech"
+tags = ["audio-generation", "gpt-4o", "text-to-speech", "tts", "cantonese", "chatbot", "chatgpt", "chinese"]
+repository = "https://github.com/QwenAudio/CosyVoice"
+website = "https://funaudiollm.github.io/cosyvoice3"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

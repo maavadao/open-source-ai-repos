@@ -1,0 +1,8 @@
+name = "awesome-deep-rl"
+description = "For deep RL and the future of AI."
+category = "learning"
+tags = ["deep-reinforcement-learning", "reinforcement-learning", "game", "reward", "artificial-general-intelligence", "exploration-exploitation", "hierarchical-reinforcement-learning", "distributional"]
+repository = "https://github.com/tigerneil/awesome-deep-rl"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "FreeReg"
+description = "[ICLR 2024] FreeReg: Image-to-Point Cloud Registration Leveraging Pretrained Diffusion Models and Monocular Depth Estimators"
+category = "image"
+tags = ["cross-modality-feature-extraction", "diffusion-model", "diffusion-models", "image-to-point-cloud-registration", "paper", "diffusion-feature"]
+repository = "https://github.com/WHU-USI3DV/FreeReg"
+website = "https://whu-usi3dv.github.io/FreeReg/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Qwen3-TTS-EasyFinetuning"
+description = "Easy fine-tuning for Qwen3-TTS: Fast voice cloning and high-quality multilingual speech synthesis."
+category = "speech"
+tags = ["ai", "audio-generation", "deep-learning", "fine-tuning", "generative-ai", "large-language-models", "llm", "multilingual"]
+repository = "https://github.com/mozi1924/Qwen3-TTS-EasyFinetuning"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

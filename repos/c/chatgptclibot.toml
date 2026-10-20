@@ -1,0 +1,8 @@
+name = "ChatGPTCLIBot"
+description = "ChatGPT Bot in CLI with long term memory support using Embeddings."
+category = "chat"
+tags = ["chatbot", "chatgpt", "chatgpt-api", "gpt-3", "openai", "gpt-4"]
+repository = "https://github.com/LagPixelLOL/ChatGPTCLIBot"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

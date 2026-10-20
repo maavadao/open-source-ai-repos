@@ -1,0 +1,9 @@
+name = "weave"
+description = "Entity-level git merge driver. Resolves false conflicts git invents when independent agents edit the same file. ~95% reduction vs. line-based merge."
+category = "mcp-servers"
+tags = ["ai-agents", "conflict-resolution", "developer-tools", "mcp", "merge-driver", "tree-sitter", "code-intelligence", "coding-agents"]
+repository = "https://github.com/Ataraxy-Labs/weave"
+website = "https://ataraxy-labs.github.io/weave/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

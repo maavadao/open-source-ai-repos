@@ -1,0 +1,8 @@
+name = "cultivation-world-simulator"
+description = "基于 AI Agent 工作流的修仙世界模拟器，旨在还原智能、开放的仙侠世界。| An open-source Cultivation World Simulator using Agentic Workflow to create a dynamic, emerging Xianxia world."
+category = "agents"
+tags = ["agentic-workflow", "ai", "ai-agents", "cultivation", "game", "llm", "open-source", "prompt-engineering"]
+repository = "https://github.com/4thfever/cultivation-world-simulator"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

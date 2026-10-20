@@ -1,0 +1,8 @@
+name = "dgx-spark-inference-stack"
+description = "Serve the home! Inference stack for your Nvidia DGX / RTX Spark (128GB ram) aka the Grace Blackwell AI supercomputer on your desk. Mostly vLLM based for now and single-spark. For the not-so-rich people. Updated once a month. Hobby project"
+category = "local-llms"
+tags = ["cuda", "dgx", "dgx-spark", "docker", "docker-compose", "generative-ai", "inference", "llama"]
+repository = "https://github.com/jdaln/dgx-spark-inference-stack"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-10-20

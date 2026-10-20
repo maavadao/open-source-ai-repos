@@ -1,0 +1,8 @@
+name = "tiny-vllm"
+description = "Build your own high performance LLM inference engine in C++ and CUDA - a smaller version of vLLM"
+category = "learning"
+tags = ["ai", "hpc", "llm", "llm-inference", "vllm", "tiny-vllm", "cpp", "cuda"]
+repository = "https://github.com/jmaczan/tiny-vllm"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "MS-G3D"
+description = "[CVPR 2020 Oral] PyTorch implementation of \"Disentangling and Unifying Graph Convolutions for Skeleton-Based Action Recognition\""
+category = "vision"
+tags = ["action-recognition", "pretrained-models", "deep-learning", "computer-vision", "skeleton", "pytorch"]
+repository = "https://github.com/kenziyuliu/MS-G3D"
+website = "https://arxiv.org/abs/2003.14111"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

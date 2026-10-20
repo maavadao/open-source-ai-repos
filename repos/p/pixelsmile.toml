@@ -1,0 +1,9 @@
+name = "PixelSmile"
+description = "PixelSmile: Fine-grained facial expression editing with continuous control, reduced semantic entanglement, and strong identity preservation."
+category = "image"
+tags = ["diffusion-models", "generative-models", "image-editing", "facial-expression-editing"]
+repository = "https://github.com/Ammmob/PixelSmile"
+website = "https://ammmob.github.io/PixelSmile/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "claude-brain"
+description = "Give Claude Code photographic memory in ONE portable file. No database, no SQLite, no ChromaDB - just a single .mv2 file you can git commit, scp, or share. Native Rust core with sub-ms operations."
+category = "skills-prompts"
+tags = ["ai-tools", "anthropic", "claude", "claude-agents", "claude-ai", "claude-code", "claude-skills", "context-window"]
+repository = "https://github.com/memvid/claude-brain"
+website = "https://memvid.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

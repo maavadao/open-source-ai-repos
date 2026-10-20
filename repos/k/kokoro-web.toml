@@ -1,0 +1,9 @@
+name = "kokoro-web"
+description = "Kokoro Web: Free AI text-to-speech, online or self-hosted, OpenAI compatible!"
+category = "speech"
+tags = ["ai", "kokoro", "kokoro-82m", "kokoro-tts", "machine-learning", "text-to-speech", "tts", "voice"]
+repository = "https://github.com/eduardolat/kokoro-web"
+website = "https://voice-generator.pages.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

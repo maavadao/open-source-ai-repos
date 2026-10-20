@@ -1,0 +1,9 @@
+name = "RuView"
+description = "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+category = "vision"
+tags = ["densepose", "wifi", "esp32", "monitoring", "rf", "wifi-security", "self-learning", "firmware"]
+repository = "https://github.com/ruvnet/RuView"
+website = "https://Cognitum.One/RuView"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

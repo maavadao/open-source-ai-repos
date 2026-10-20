@@ -1,0 +1,9 @@
+name = "morl-baselines"
+description = "Multi-Objective Reinforcement Learning algorithms implementations."
+category = "ml-platforms"
+tags = ["rl", "gym", "morl", "multi-objective-rl", "pytorch", "rl-algorithms", "gymnasium", "reinforcement-learning"]
+repository = "https://github.com/LucasAlegre/morl-baselines"
+website = "https://lucasalegre.github.io/morl-baselines"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

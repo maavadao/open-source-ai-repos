@@ -1,0 +1,8 @@
+name = "WorldGen"
+description = "WorldGen - Generate Any 3D Scene in Seconds"
+category = "vision"
+tags = ["3d-generation", "3d-reconstruction", "generative-ai", "scene-generation", "worldgen", "worldmodel", "graphics", "image-to-3d"]
+repository = "https://github.com/ZiYang-xie/WorldGen"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "serena"
+description = "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities - the IDE for your agent"
+category = "mcp-servers"
+tags = ["agent", "ai", "vibe-coding", "mcp-server", "ai-coding", "language-server", "programming", "claude"]
+repository = "https://github.com/oraios/serena"
+website = "https://oraios.github.io/serena"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

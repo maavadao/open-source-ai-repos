@@ -1,0 +1,9 @@
+name = "CodeBoarding"
+description = "Interactive architecture diagrams for codebases"
+category = "agents"
+tags = ["agents", "aiagentic", "explainability", "llms", "static-analysis", "codedocs", "codedocumentator", "python3"]
+repository = "https://github.com/CodeBoarding/CodeBoarding"
+website = "https://www.codeboarding.org"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

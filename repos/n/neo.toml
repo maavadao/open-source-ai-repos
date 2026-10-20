@@ -1,0 +1,9 @@
+name = "neo"
+description = "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops."
+category = "mcp-servers"
+tags = ["frontend", "frontend-runtime", "javascript", "json", "scene-graph", "web-workers", "ai-native", "application-engine"]
+repository = "https://github.com/neomjs/neo"
+website = "https://neomjs.com"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

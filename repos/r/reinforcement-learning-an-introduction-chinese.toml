@@ -1,0 +1,9 @@
+name = "reinforcement-learning-an-introduction-chinese"
+description = "《Reinforcement Learning: An Introduction》（第二版）中文翻译"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "reinforcement-learning-algorithms", "sphinx-doc"]
+repository = "https://github.com/qiwihui/reinforcement-learning-an-introduction-chinese"
+website = "https://rl.qiwihui.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

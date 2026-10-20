@@ -1,0 +1,8 @@
+name = "ArtGAN"
+description = "ArtGAN + WikiArt: This work presents a series of new approaches to improve GAN for conditional image synthesis and we name the proposed model as “ArtGAN”."
+category = "image"
+tags = ["artwork-synthesis", "fine-art-paintings", "wikiart-dataset", "generative-adversarial-network", "image-synthesis", "gan", "deep-learning", "artgan"]
+repository = "https://github.com/cs-chan/ArtGAN"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

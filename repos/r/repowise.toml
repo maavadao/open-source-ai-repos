@@ -1,0 +1,9 @@
+name = "repowise"
+description = "Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP."
+category = "mcp-servers"
+tags = ["ai", "code-intelligence", "dead-code", "developer-tools", "documentation", "git-analytics", "mcp", "open-source"]
+repository = "https://github.com/repowise-dev/repowise"
+website = "https://repowise.dev"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

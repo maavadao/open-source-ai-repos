@@ -1,0 +1,8 @@
+name = "Courses-"
+description = "Answers for Quizzes & Assignments that I have taken"
+category = "learning"
+tags = ["computer-science", "software-engineering", "coursera", "edx", "natural-language-processing", "reinforcement-learning", "data-structures", "deep-learning"]
+repository = "https://github.com/salimt/Courses-"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

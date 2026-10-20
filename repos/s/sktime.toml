@@ -1,0 +1,9 @@
+name = "sktime"
+description = "A unified framework for machine learning with time series"
+category = "data-science"
+tags = ["time-series", "machine-learning", "scikit-learn", "time-series-classification", "time-series-regression", "forecasting", "time-series-analysis", "data-science"]
+repository = "https://github.com/sktime/sktime"
+website = "https://www.sktime.net"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "s3"
+description = "[EMNLP'25] s3 - Efficient & Effective Search Agent Training via RL for RAG (RLVR for Search with Minimal Data)"
+category = "agents"
+tags = ["efficiency", "large-language-models", "rag", "search-agent", "agentic-ai", "information-retrieval", "gpt-5", "rlvr"]
+repository = "https://github.com/pat-jj/s3"
+website = "https://arxiv.org/abs/2505.14146"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

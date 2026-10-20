@@ -1,0 +1,9 @@
+name = "zero-to-mastery-ml"
+description = "All course materials for the Zero to Mastery Machine Learning and Data Science course."
+category = "learning"
+tags = ["machine-learning", "data-science", "deep-learning"]
+repository = "https://github.com/mrdbourke/zero-to-mastery-ml"
+website = "https://dbourke.link/ZTMmlcourse"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

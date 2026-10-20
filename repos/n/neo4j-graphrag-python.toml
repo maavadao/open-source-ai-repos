@@ -1,0 +1,9 @@
+name = "neo4j-graphrag-python"
+description = "Neo4j GraphRAG for Python"
+category = "llm-apps"
+tags = ["ai", "cypher", "genai", "graph-database", "neo4j", "python", "python3", "rag"]
+repository = "https://github.com/neo4j/neo4j-graphrag-python"
+website = "https://neo4j.com/docs/neo4j-graphrag-python/current/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

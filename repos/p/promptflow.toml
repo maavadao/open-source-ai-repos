@@ -1,0 +1,9 @@
+name = "promptflow"
+description = "Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring."
+category = "chat"
+tags = ["ai", "llm", "chatgpt", "gpt", "prompt", "prompt-engineering", "ai-application-development", "ai-applications"]
+repository = "https://github.com/microsoft/promptflow"
+website = "https://microsoft.github.io/promptflow/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

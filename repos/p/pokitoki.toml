@@ -1,0 +1,8 @@
+name = "pokitoki"
+description = "Humble AI Telegram Bot"
+category = "chat"
+tags = ["bot", "chatbot", "telegram", "chat-gpt", "ai", "gpt", "deepseek", "openai"]
+repository = "https://github.com/nalgeon/pokitoki"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

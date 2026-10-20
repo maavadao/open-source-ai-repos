@@ -1,0 +1,10 @@
+name = "dify"
+description = "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack."
+category = "no-code"
+tags = ["ai", "gpt", "llm", "openai", "python", "agent", "nextjs", "workflow"]
+repository = "https://github.com/langgenius/dify"
+website = "https://dify.ai"
+license = "NOASSERTION"
+language = "Python"
+skill_level = "beginner"
+added = 2026-10-20

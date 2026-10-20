@@ -1,0 +1,9 @@
+name = "mindshub"
+description = "The unified workspace where open-source models get things done for you."
+category = "mcp-servers"
+tags = ["ai", "artificial-inteligence", "agents", "mcp", "anton", "claude", "claude-cowork", "codex"]
+repository = "https://github.com/mindsdb/mindshub"
+website = "https://mindshub.ai"
+license = "MIT"
+language = "Makefile"
+added = 2026-10-20

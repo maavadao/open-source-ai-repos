@@ -1,0 +1,8 @@
+name = "PreenCut"
+description = "AI-Powered Video Retrieval & Clipping Tool"
+category = "speech"
+tags = ["llm", "speech-recognition", "speech-to-text", "video-analysis", "video-clip", "video-retrieval", "asr", "video-editing"]
+repository = "https://github.com/roothch/PreenCut"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

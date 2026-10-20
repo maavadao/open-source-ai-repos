@@ -1,0 +1,7 @@
+name = "awesome-llm-powered-agent"
+description = "Awesome things about LLM-powered agents. Papers / Repos / Blogs / ..."
+category = "learning"
+tags = ["awesome-list", "embodied-agent", "embodied-ai", "foundation-model", "foundation-models", "generative-agents", "generative-ai", "generative-model"]
+repository = "https://github.com/hyp1231/awesome-llm-powered-agent"
+license = "MIT"
+added = 2026-10-20

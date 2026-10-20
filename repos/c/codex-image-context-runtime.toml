@@ -1,0 +1,8 @@
+name = "codex-image-context-runtime"
+description = "A Codex plugin and local MCP runtime for context-bounded image generation and inspection."
+category = "mcp-servers"
+tags = ["codex-plugin", "context-management", "image-analysis", "image-generation", "local-first", "mcp-server", "multimodal", "nodejs"]
+repository = "https://github.com/shixinnt/codex-image-context-runtime"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

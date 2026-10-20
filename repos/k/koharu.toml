@@ -1,0 +1,9 @@
+name = "koharu"
+description = "ML-powered manga translator, written in Rust."
+category = "vision"
+tags = ["deep-learning", "manga", "rust", "japanese", "computer-vision", "gpu", "gui", "translation"]
+repository = "https://github.com/koharu-rs/koharu"
+website = "https://koharu.rs"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

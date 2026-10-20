@@ -1,0 +1,9 @@
+name = "go-micro"
+description = "A framework for agents, tools and services"
+category = "mcp-servers"
+tags = ["go", "golang", "micro"]
+repository = "https://github.com/micro/go-micro"
+website = "https://go-micro.dev"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

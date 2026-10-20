@@ -1,0 +1,9 @@
+name = "flowgram.ai"
+description = "FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler."
+category = "no-code"
+tags = ["flow", "flowchart", "graph", "javascript", "node-based-ui", "react", "typescript", "typescript-library"]
+repository = "https://github.com/bytedance/flowgram.ai"
+website = "https://flowgram.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

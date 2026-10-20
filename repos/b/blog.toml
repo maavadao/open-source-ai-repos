@@ -1,0 +1,8 @@
+name = "blog"
+description = "记录个人博客，见证成长之路 https://wangtunan.github.io/blog/"
+category = "agents"
+tags = ["leetcode", "python", "scss", "typescript", "vue", "llm", "rag", "agent"]
+repository = "https://github.com/wangtunan/blog"
+license = "NOASSERTION"
+language = "Shell"
+added = 2026-10-20

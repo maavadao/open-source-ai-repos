@@ -1,0 +1,9 @@
+name = "eiten"
+description = "Statistical and Algorithmic Investing Strategies for Everyone"
+category = "data-science"
+tags = ["machine-learning", "algorithmic-trading", "investment-portfolio", "portfolio-optimization", "trading-strategies", "trading-algorithms", "tradytics", "ai"]
+repository = "https://github.com/tradytics/eiten"
+website = "https://www.tradytics.com/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

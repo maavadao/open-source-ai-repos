@@ -1,0 +1,9 @@
+name = "implicit"
+description = "Fast Python Collaborative Filtering for Implicit Feedback Datasets"
+category = "data-science"
+tags = ["collaborative-filtering", "machine-learning", "matrix-factorization", "recommender-system", "recommendation-system", "recommendation"]
+repository = "https://github.com/benfred/implicit"
+website = "https://benfred.github.io/implicit/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

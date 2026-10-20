@@ -1,0 +1,9 @@
+name = "self-refine"
+description = "LLMs can generate feedback on their work, use it to improve the output, and repeat this process iteratively."
+category = "skills-prompts"
+tags = ["few-shot-learning", "language-generation", "large-language-models", "llms", "prompting", "reasoning", "chatgpt", "gpt-35"]
+repository = "https://github.com/madaan/self-refine"
+website = "https://selfrefine.info"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

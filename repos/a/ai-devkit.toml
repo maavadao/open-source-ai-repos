@@ -1,0 +1,9 @@
+name = "ai-devkit"
+description = "The control plane for AI coding agents."
+category = "mcp-servers"
+tags = ["ai", "claude-code", "antigravity", "agent-skills", "agent-framework", "ai-agents", "ai-coding", "cli"]
+repository = "https://github.com/codeaholicguy/ai-devkit"
+website = "https://ai-devkit.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

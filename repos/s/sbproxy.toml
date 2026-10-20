@@ -1,0 +1,9 @@
+name = "sbproxy"
+description = "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native providers behind an OpenAI-compatible API, or serve vLLM and llama.cpp on your own GPUs. Keys, budgets, guardrails, semantic cache, WAF."
+category = "mcp-servers"
+tags = ["ai-gateway", "anthropic", "api-gateway", "llm-proxy", "load-balancer", "openai", "rate-limiting", "reverse-proxy"]
+repository = "https://github.com/soapbucket/sbproxy"
+website = "https://sbproxy.dev"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

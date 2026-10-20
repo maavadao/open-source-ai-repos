@@ -1,0 +1,8 @@
+name = "langchain-ask-pdf"
+description = "An AI-app that allows you to upload a PDF and ask questions about it. It uses OpenAI's LLMs to generate a response."
+category = "llm-apps"
+tags = ["langchain", "langchain-python", "llms", "openai"]
+repository = "https://github.com/alejandro-ao/langchain-ask-pdf"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

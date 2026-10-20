@@ -1,0 +1,9 @@
+name = "lobe-tts"
+description = "Lobe TTS - A high-quality & reliable TTS/STT library for Server and Browser"
+category = "speech"
+tags = ["lobehub", "tts", "auzre", "edge", "microsoft-speech-api", "opeanai", "speech-recognition", "speech-to-text"]
+repository = "https://github.com/lobehub/lobe-tts"
+website = "https://tts.lobehub.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

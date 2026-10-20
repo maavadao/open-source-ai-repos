@@ -1,0 +1,8 @@
+name = "multiple-object-tracking-lidar"
+description = "C++ implementation to Detect, track and classify multiple objects using LIDAR scans or point cloud"
+category = "robotics"
+tags = ["lidar-object-tracking", "object-tracking", "lidar-navigation", "multiple-object-tracking", "ros", "pcl"]
+repository = "https://github.com/praveen-palanisamy/multiple-object-tracking-lidar"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

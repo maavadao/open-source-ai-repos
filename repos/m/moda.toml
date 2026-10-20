@@ -1,0 +1,9 @@
+name = "Moda"
+description = "MODA: open fashion retrieval benchmark and models by Hopit AI. MODA (203M, open source), MODA Pro Lite (213M, open weights), MODA Pro (hosted). Full-corpus benchmarks vs FashionSigLIP, SigLIP-SO400M and ZooClaw — one harness, losses shown. #1 open model on LookBench."
+category = "vector-databases"
+tags = ["benchmark", "clip", "ecommerce", "embeddings", "fashion", "fashion-clip", "image-retrieval", "information-retrieval"]
+repository = "https://github.com/hopit-ai/Moda"
+website = "https://hopit-ai.github.io/Moda/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

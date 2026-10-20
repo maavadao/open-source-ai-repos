@@ -1,0 +1,9 @@
+name = "contextualbandits"
+description = "Python implementations of contextual bandits algorithms"
+category = "ml-platforms"
+tags = ["contextual-bandits", "multiarmed-bandits", "reinforcement-learning", "exploration-exploitation"]
+repository = "https://github.com/david-cortes/contextualbandits"
+website = "http://contextual-bandits.readthedocs.io"
+license = "BSD-2-Clause"
+language = "Python"
+added = 2026-10-20

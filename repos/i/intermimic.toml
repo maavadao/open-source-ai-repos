@@ -1,0 +1,9 @@
+name = "InterMimic"
+description = "[CVPR 2025 Highlight] InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions"
+category = "robotics"
+tags = ["character-animation", "human-motion-generation", "human-object-interaction", "humanoid", "humanoid-robot", "physics-based-animation", "physics-simulation", "reinforcement-learning"]
+repository = "https://github.com/Sirui-Xu/InterMimic"
+website = "https://sirui-xu.github.io/InterMimic/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

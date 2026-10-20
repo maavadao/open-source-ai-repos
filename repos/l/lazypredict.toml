@@ -1,0 +1,8 @@
+name = "lazypredict"
+description = "Python AutoML toolkit for benchmarking classification, regression, and time-series forecasting models, with GPU acceleration, MLflow tracking, and automated preprocessing."
+category = "ml-platforms"
+tags = ["machine-learning", "automl", "regression", "classification"]
+repository = "https://github.com/shankarpandala/lazypredict"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

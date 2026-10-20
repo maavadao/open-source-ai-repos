@@ -1,0 +1,9 @@
+name = "Live-Chatbot-for-Final-Year-Project"
+description = "Chatbot system for Final Year Project. Chatbot made in Python using Natural Language Toolkit especially Machine Learning. Easy to Understand and Implement."
+category = "chat"
+tags = ["final-year-project", "final", "projects", "final-year-projects", "btech-project", "chatbot", "chat-application", "chat"]
+repository = "https://github.com/Vatshayan/Live-Chatbot-for-Final-Year-Project"
+website = "https://www.finalproject.in/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "snapai"
+description = "AI-powered icon generation CLI for React Native & Expo developers. Generate stunning app icons in seconds using OpenAI's latest models."
+category = "other"
+tags = ["ai", "cli", "developer-tools", "expo", "icon-generator", "openai", "react-native"]
+repository = "https://github.com/Code-with-Beto/snapai"
+website = "https://codewithbeto.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

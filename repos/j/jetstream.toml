@@ -1,0 +1,8 @@
+name = "JetStream"
+description = "JetStream is a throughput and memory optimized engine for LLM inference on XLA devices, starting with TPUs (and GPUs in future -- PRs welcome)."
+category = "local-llms"
+tags = ["gemma", "gpt", "gpu", "inference", "jax", "large-language-models", "llama", "llama2"]
+repository = "https://github.com/AI-Hypercomputer/JetStream"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

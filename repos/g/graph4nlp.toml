@@ -1,0 +1,8 @@
+name = "graph4nlp"
+description = "Graph4nlp is the library for the easy use of Graph Neural Networks for NLP. Welcome to visit our DLG4NLP website (https://dlg4nlp.github.io/index.html) for various learning resources!"
+category = "learning"
+tags = ["nlp", "pytorch", "natural-language-processing", "deep-learning", "machine-learning", "graph-neural-networks"]
+repository = "https://github.com/graph4ai/graph4nlp"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

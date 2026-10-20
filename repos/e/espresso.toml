@@ -1,0 +1,8 @@
+name = "espresso"
+description = "Espresso: A Fast End-to-End Neural Speech Recognition Toolkit"
+category = "speech"
+tags = ["python", "pytorch", "fairseq", "kaldi", "end-to-end", "speech-recognition", "asr"]
+repository = "https://github.com/freewym/espresso"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

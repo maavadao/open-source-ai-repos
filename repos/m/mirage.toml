@@ -1,0 +1,9 @@
+name = "mirage"
+description = "The World's First Virtual Terminal for AI Agents"
+category = "coding"
+tags = ["agent-sandbox", "agent-tools", "ai-agents", "bash", "claude-code", "fuse", "llm-agents", "openai-agents"]
+repository = "https://github.com/strukto-ai/mirage"
+website = "https://www.strukto.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

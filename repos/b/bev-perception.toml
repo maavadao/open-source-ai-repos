@@ -1,0 +1,7 @@
+name = "BEV-Perception"
+description = "Bird's Eye View Perception"
+category = "robotics"
+tags = ["autonomous-driving", "autonomous-vehicles", "bev-perception", "hdmap", "occupancy-prediction"]
+repository = "https://github.com/vasgaowei/BEV-Perception"
+license = "MIT"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "studio"
+description = "WordPress Studio, a free desktop app and CLI that helps developers streamline their local WordPress development workflow."
+category = "agents"
+tags = ["wordpress", "desktop", "electron", "agents", "cli"]
+repository = "https://github.com/Automattic/studio"
+website = "https://wordpress.studio"
+license = "GPL-2.0"
+language = "TypeScript"
+added = 2026-10-20

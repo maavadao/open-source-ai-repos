@@ -1,0 +1,9 @@
+name = "machine-learning-refined"
+description = "Master the fundamentals of machine learning, deep learning, and mathematical optimization by building key concepts and models from scratch using Python."
+category = "learning"
+tags = ["machine-learning", "deep-learning", "artificial-intelligence", "data-science", "jupyter-notebook", "numpy", "python"]
+repository = "https://github.com/neonwatty/machine-learning-refined"
+website = "https://www.mlrefined.com/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Daft"
+description = "High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale"
+category = "models"
+tags = ["machine-learning", "python", "data-engineering", "distributed-computing", "rust", "big-data", "artificial-intelligence", "multimodal"]
+repository = "https://github.com/Eventual-Inc/Daft"
+website = "https://daft.ai"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "veritas-kanban"
+description = "Lightweight orchestration harness built for your AI agents. The unfiltered truth about where your project stands."
+category = "coding"
+tags = ["ai-agents", "developer-tools", "kanban", "local-first", "pino", "project-management", "react", "task-management"]
+repository = "https://github.com/BradGroux/veritas-kanban"
+website = "https://sstb.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

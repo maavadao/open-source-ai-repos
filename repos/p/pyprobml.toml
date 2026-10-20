@@ -1,0 +1,8 @@
+name = "pyprobml"
+description = "Python code for \"Probabilistic Machine learning\" book by Kevin Murphy"
+category = "learning"
+tags = ["jupyter-notebooks", "machine-learning", "colab", "pml", "probabilistic-programming", "jax", "tensorflow", "pytorch"]
+repository = "https://github.com/probml/pyprobml"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

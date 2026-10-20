@@ -1,0 +1,9 @@
+name = "dlib"
+description = "A toolkit for making real world machine learning and data analysis applications in C++"
+category = "vision"
+tags = ["machine-learning", "deep-learning", "c-plus-plus", "python", "computer-vision", "machine-learning-library", "dlib"]
+repository = "https://github.com/davisking/dlib"
+website = "http://dlib.net"
+license = "BSL-1.0"
+language = "C++"
+added = 2026-10-20

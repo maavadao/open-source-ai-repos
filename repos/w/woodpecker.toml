@@ -1,0 +1,8 @@
+name = "Woodpecker"
+description = "Woodpecker: Hallucination Correction for Multimodal Large Language Models"
+category = "models"
+tags = ["hallucination", "hallucinations", "large-language-models", "llm", "mllm", "multimodal-large-language-models", "multimodality"]
+repository = "https://github.com/VITA-MLLM/Woodpecker"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

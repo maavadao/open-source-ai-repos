@@ -1,0 +1,8 @@
+name = "dsh-vision"
+description = "Near-native image understanding for DeepSeek Harness"
+category = "models"
+tags = ["deepseek-harness", "dsh-plugin", "image-understanding", "multimodal", "vision"]
+repository = "https://github.com/oil-oil/dsh-vision"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

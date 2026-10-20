@@ -1,0 +1,8 @@
+name = "all-rl-algorithms"
+description = "Implementation of all RL algorithms in a simpler way"
+category = "agents"
+tags = ["agent", "llm", "openai", "python", "reinforcement-learning", "rl"]
+repository = "https://github.com/FareedKhan-dev/all-rl-algorithms"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

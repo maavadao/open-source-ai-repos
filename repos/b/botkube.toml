@@ -1,0 +1,9 @@
+name = "botkube"
+description = "An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices"
+category = "chat"
+tags = ["kubernetes", "kubernetes-monitoring", "kubernetes-controller", "chatops", "botops", "chatbot", "kubebot", "botkube"]
+repository = "https://github.com/kubeshop/botkube"
+website = "https://botkube.io"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

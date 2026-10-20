@@ -1,0 +1,9 @@
+name = "shannon"
+description = "Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production."
+category = "security"
+tags = ["penetration-testing", "pentesting", "security-audit", "security-automation", "security-tools", "ai-penetration-testing", "ai-security", "cybersecurity"]
+repository = "https://github.com/KeygraphHQ/shannon"
+website = "https://keygraph.io/"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,10 @@
+name = "steel-browser"
+description = "Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure."
+category = "browser-automation"
+tags = ["ai", "ai-agents", "ai-tools", "browser-automation", "llm"]
+repository = "https://github.com/steel-dev/steel-browser"
+website = "https://steel.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+skill_level = "intermediate"
+added = 2026-10-20

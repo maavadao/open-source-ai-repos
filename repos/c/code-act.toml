@@ -1,0 +1,8 @@
+name = "code-act"
+description = "Official Repo for ICML 2024 paper \"Executable Code Actions Elicit Better LLM Agents\" by Xingyao Wang, Yangyi Chen, Lifan Yuan, Yizhe Zhang, Yunzhu Li, Hao Peng, Heng Ji."
+category = "agents"
+tags = ["llm", "llm-agent", "llm-finetuning", "llm-framework"]
+repository = "https://github.com/xingyaoww/code-act"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Leaked-GPTs"
+description = "Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription."
+category = "coding"
+tags = ["ai", "awesome", "awesome-list", "gpts", "anthropic", "artificial-intelligence", "bot", "characterai"]
+repository = "https://github.com/friuns2/Leaked-GPTs"
+website = "https://gptcall.net"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

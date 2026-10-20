@@ -1,0 +1,8 @@
+name = "ML-AndrewNg"
+description = "Notebooks from the Machine Learning Specialization"
+category = "learning"
+tags = ["andrew-ng-course", "anomaly-detection", "deeplearning-ai", "machine-learning", "recommender-system", "reinforcement-learning", "supervised-learning", "unsupervised-learning"]
+repository = "https://github.com/marinavillaschi/ML-AndrewNg"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

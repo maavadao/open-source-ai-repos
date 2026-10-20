@@ -1,0 +1,8 @@
+name = "MeshXL"
+description = "[NeurIPS 2024] MeshXL: Neural Coordinate Field for Generative 3D Foundation Models, a 3D fundamental model for mesh generation"
+category = "image"
+tags = ["3d", "3d-generation", "generative-ai", "gpt", "language-model", "multi-modal", "3d-graphics", "3d-mesh"]
+repository = "https://github.com/OpenMeshLab/MeshXL"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Gymnasium-Robotics"
+description = "A collection of robotics simulation environments for reinforcement learning"
+category = "robotics"
+tags = ["d4rl", "gymnasium", "mujoco", "reinforcement-learning", "robotics", "simulation"]
+repository = "https://github.com/Farama-Foundation/Gymnasium-Robotics"
+website = "https://robotics.farama.org/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

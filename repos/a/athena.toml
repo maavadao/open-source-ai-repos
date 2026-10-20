@@ -1,0 +1,9 @@
+name = "athena"
+description = "an open-source implementation of sequence-to-sequence based speech processing engine"
+category = "speech"
+tags = ["speech-recognition", "asr", "transformer", "tensorflow", "ctc", "unsupervised-learning", "sequence-to-sequence", "deployment"]
+repository = "https://github.com/athena-team/athena"
+website = "https://athena-team.readthedocs.io"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

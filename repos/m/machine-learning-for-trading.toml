@@ -1,0 +1,9 @@
+name = "machine-learning-for-trading"
+description = "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution."
+category = "models"
+tags = ["machine-learning", "trading", "investment", "finance", "data-science", "investment-strategies", "artificial-intelligence", "trading-strategies"]
+repository = "https://github.com/stefan-jansen/machine-learning-for-trading"
+website = "https://ml4trading.io"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

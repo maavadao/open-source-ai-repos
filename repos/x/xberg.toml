@@ -1,0 +1,9 @@
+name = "xberg"
+description = "Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fifteen bindings, with CLI, REST API, and MCP server."
+category = "documents"
+tags = ["text-extraction", "document-intelligence", "metadata-extraction", "pdf-extraction", "pdfium", "python", "rag", "table-extraction"]
+repository = "https://github.com/xberg-io/xberg"
+website = "https://docs.xberg.io"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

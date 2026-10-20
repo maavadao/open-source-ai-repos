@@ -1,0 +1,8 @@
+name = "WorkMesh"
+description = "Open-source AI-era employment platform connecting skills, jobs, enterprises, governance, and AI agents."
+category = "agents"
+tags = ["ai-agent", "ai-platform", "employment", "future-of-work", "governance", "job-matching", "nestjs", "nextjs"]
+repository = "https://github.com/yangyunice/WorkMesh"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

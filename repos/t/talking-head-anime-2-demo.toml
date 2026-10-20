@@ -1,0 +1,9 @@
+name = "talking-head-anime-2-demo"
+description = "Demo programs for the Talking Head Anime from a Single Image 2: More Expressive project."
+category = "vision"
+tags = ["ai", "anime", "computer-graphics", "computer-vision", "deep-learning", "machine-learning", "python", "pytorch"]
+repository = "https://github.com/pkhungurn/talking-head-anime-2-demo"
+website = "http://pkhungurn.github.io/talking-head-anime-2/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

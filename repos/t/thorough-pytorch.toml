@@ -1,0 +1,9 @@
+name = "thorough-pytorch"
+description = "PyTorch入门教程，在线阅读地址：https://datawhalechina.github.io/thorough-pytorch/"
+category = "ml-platforms"
+tags = ["deep-learning", "machine-learning", "python", "pytorch"]
+repository = "https://github.com/datawhalechina/thorough-pytorch"
+website = "https://datawhalechina.github.io/thorough-pytorch/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

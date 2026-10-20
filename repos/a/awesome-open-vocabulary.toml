@@ -1,0 +1,8 @@
+name = "Awesome-Open-Vocabulary"
+description = "(TPAMI 2024) A Survey on Open Vocabulary Learning"
+category = "learning"
+tags = ["computer-vision", "deep-learning", "open-vocabulary", "tpami-2024"]
+repository = "https://github.com/jianzongwu/Awesome-Open-Vocabulary"
+website = "https://arxiv.org/abs/2306.15880"
+license = "NOASSERTION"
+added = 2026-10-20

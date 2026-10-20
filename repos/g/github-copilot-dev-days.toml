@@ -1,0 +1,8 @@
+name = "GitHub-Copilot-Dev-Days"
+description = "Repo for GitHub Copilot Dev Days content, global in-person series of events focused on GitHub Copilot."
+category = "agents"
+tags = ["agentic-ai-development", "agents", "community", "github", "github-copilot", "vscode", "vscode-extension", "workshop"]
+repository = "https://github.com/github/GitHub-Copilot-Dev-Days"
+website = "https://copilot-dev-days.github.io/"
+license = "MIT"
+added = 2026-10-20

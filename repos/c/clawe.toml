@@ -1,0 +1,9 @@
+name = "clawe"
+description = "Multi-agent coordination system: think Trello for OpenClaw agents."
+category = "coding"
+tags = ["ai-agents", "ai-assistant", "claude-code", "clawbot", "openclaw"]
+repository = "https://github.com/getclawe/clawe"
+website = "https://clawe.ai"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

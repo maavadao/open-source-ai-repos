@@ -1,0 +1,9 @@
+name = "generative-ai"
+description = "Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform"
+category = "learning"
+tags = ["generative-ai", "llm", "vertex-ai", "langchain", "gemini", "gemini-api", "vertex-ai-gemini-api", "vertexai"]
+repository = "https://github.com/GoogleCloudPlatform/generative-ai"
+website = "https://docs.cloud.google.com/gemini-enterprise-agent-platform/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

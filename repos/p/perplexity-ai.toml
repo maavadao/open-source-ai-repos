@@ -1,0 +1,9 @@
+name = "perplexity-ai"
+description = "Unofficial API Wrapper for Perplexity.ai + Account Generator with Web Interface"
+category = "search"
+tags = ["ai", "api", "artificial-intelligence", "chatgpt", "gpt", "language-model", "language-models", "perplexity"]
+repository = "https://github.com/helallao/perplexity-ai"
+website = "https://perplexity.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

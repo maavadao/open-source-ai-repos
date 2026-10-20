@@ -1,0 +1,8 @@
+name = "NeuralDialogPapers"
+description = "Summary of deep learning models for dialog systems (Tiancheng Zhao LTI, CMU)"
+category = "chat"
+tags = ["deep-learning", "neural-network", "reinforcement-learning", "language", "chatbot"]
+repository = "https://github.com/snakeztc/NeuralDialogPapers"
+website = "https://snakeztc.github.io/NeuralDialogPapers"
+license = "NOASSERTION"
+added = 2026-10-20

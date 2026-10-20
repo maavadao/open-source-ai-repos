@@ -1,0 +1,9 @@
+name = "loki-mode"
+description = "Autonomous software factory. Give it a GitHub issue, a spec or a one-line task; get back a pull request with a signed receipt anyone can re-check offline. Runs on your machine with your own keys: Claude, Codex, OpenCode."
+category = "coding"
+tags = ["ai-agents", "claude", "multi-agent", "anthropic", "spec-driven-development", "ai-coding-agents", "ai-coding-tools", "autonomous-agents"]
+repository = "https://github.com/asklokesh/loki-mode"
+website = "https://www.autonomi.dev"
+license = "NOASSERTION"
+language = "Shell"
+added = 2026-10-20

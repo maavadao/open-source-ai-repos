@@ -1,0 +1,9 @@
+name = "ai4j"
+description = "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...),unified AI service(image/video/audio...), Tool Calling, MCP, RAG, SKILLS,Agent Runtime, A2A, agent blueprint, agent harness, and a built-in Coding Agent CLI/TUI/ACP."
+category = "mcp-servers"
+tags = ["chatgpt", "java", "openai", "sdk", "ollama", "deepseek", "chatglm", "hunyuan"]
+repository = "https://github.com/LnYo-Cly/ai4j"
+website = "https://lnyo-cly.github.io/ai4j/"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

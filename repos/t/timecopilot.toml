@@ -1,0 +1,9 @@
+name = "timecopilot"
+description = "TimeCopilot: the GenAI Forecasting Agent. Built on LLMs and Time Series Foundation Models, it lets you forecast, cross-validate, and detect anomalies using multiple foundation models through a single API. From finance and energy to web analytics, TimeCopilot turns…"
+category = "agents"
+tags = ["agentic-ai", "llms", "time-series", "agent-based-modeling", "artificial-intelligence", "forecasting", "generative-ai", "gpt"]
+repository = "https://github.com/TimeCopilot/timecopilot"
+website = "https://docs.timecopilot.dev/timecopilot"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

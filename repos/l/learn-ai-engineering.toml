@@ -1,0 +1,7 @@
+name = "learn-ai-engineering"
+description = "Learn AI and LLMs from scratch using free resources"
+category = "mcp-servers"
+tags = ["agentic-ai", "agents", "ai", "deep-learning", "generative-ai", "large-language-models", "llm", "machine-learning"]
+repository = "https://github.com/ashishps1/learn-ai-engineering"
+license = "GPL-3.0"
+added = 2026-10-20

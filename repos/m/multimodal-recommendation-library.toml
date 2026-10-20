@@ -1,0 +1,8 @@
+name = "Multimodal-Recommendation-Library"
+description = "A Continuously Updated Library for Advanced Models for Multimodal Recommendation"
+category = "models"
+tags = ["deep-learning", "multimedia-recommendation", "multimodal", "multimodal-recommendation", "recommendation"]
+repository = "https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ai2thor"
+description = "An open-source platform for Visual AI."
+category = "vision"
+tags = ["artificial-intelligence", "computer-vision", "visual-ai", "interaction", "physics-engine"]
+repository = "https://github.com/allenai/ai2thor"
+website = "http://ai2thor.allenai.org"
+license = "Apache-2.0"
+language = "C#"
+added = 2026-10-20

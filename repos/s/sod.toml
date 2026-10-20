@@ -1,0 +1,9 @@
+name = "sod"
+description = "An Embedded Computer Vision & Machine Learning Library (CPU Optimized & IoT Capable)"
+category = "vision"
+tags = ["computer-vision", "library", "deep-learning", "image-processing", "object-detection", "c", "cpu", "real-time"]
+repository = "https://github.com/symisc/sod"
+website = "https://sod.pixlab.io"
+license = "NOASSERTION"
+language = "C"
+added = 2026-10-20

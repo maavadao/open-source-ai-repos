@@ -1,0 +1,9 @@
+name = "fg-data-profiling"
+description = "1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames."
+category = "ml-platforms"
+tags = ["pandas-profiling", "pandas-dataframe", "statistics", "jupyter-notebook", "exploration", "data-science", "python", "pandas"]
+repository = "https://github.com/Data-Centric-AI-Community/fg-data-profiling"
+website = "https://docs.sdk.ydata.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

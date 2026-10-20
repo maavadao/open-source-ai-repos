@@ -1,0 +1,8 @@
+name = "deep-learning-with-keras-notebooks"
+description = "Jupyter notebooks for using & learning Keras"
+category = "learning"
+tags = ["deep-learning", "keras-notebooks", "keras"]
+repository = "https://github.com/erhwenkuo/deep-learning-with-keras-notebooks"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

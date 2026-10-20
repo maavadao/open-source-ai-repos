@@ -1,0 +1,8 @@
+name = "LLaMA-LoRA-Tuner"
+description = "UI tool for fine-tuning and testing your own LoRA models base on LLaMA, GPT-J and more. One-click run on Google Colab. + A Gradio ChatGPT-like Chat UI to demonstrate your language models."
+category = "image"
+tags = ["alpaca", "alpaca-lora", "llama", "lora", "machine-learning", "google-colab", "gpt-j", "gpt"]
+repository = "https://github.com/zetavg/LLaMA-LoRA-Tuner"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

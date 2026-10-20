@@ -1,0 +1,8 @@
+name = "hope-agent"
+description = "A cross-device desktop AI agent with memory, autonomous goals, dynamic workflows, and headless deployment | 会记忆、能持续推进目标、会动态编排多 Agent 的跨端桌面 AI 助手，也可服务化常驻 NAS / 云端"
+category = "mcp-servers"
+tags = ["agent", "ai-assistant", "anthropic", "chatbot", "claude", "desktop-app", "gemini", "llm"]
+repository = "https://github.com/shiwenwen/hope-agent"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

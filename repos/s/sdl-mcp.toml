@@ -1,0 +1,8 @@
+name = "sdl-mcp"
+description = "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence combined with precision tools. It turns sprawling codebases into compact, high-signal context that saves tokens, speeds up workflows, and improves agent output."
+category = "mcp-servers"
+tags = ["code-context", "coding-agent", "mcp", "token-savings", "vibe-coding", "codegraph", "semantic-analysis", "agent-context"]
+repository = "https://github.com/GlitterKill/sdl-mcp"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "text2cinemagraph"
+description = "Text2Cinemagraph: Text-Guided Synthesis of Eulerian Cinemagraphs [SIGGRAPH ASIA 2023]"
+category = "video"
+tags = ["animation", "cinemagraph", "computer-vision", "diffusion-models", "pytorch", "text-to-cinemagraph", "image-to-video", "optical-flow"]
+repository = "https://github.com/text2cinemagraph/text2cinemagraph"
+website = "https://text2cinemagraph.github.io/website/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

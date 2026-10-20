@@ -1,0 +1,8 @@
+name = "patchwork-plusplus-ros"
+description = "ROS & ROS2 Implementation of Patchwork++"
+category = "robotics"
+tags = ["3d-point-cloud", "ground", "ground-removal", "ground-segmentation", "lidar", "point-cloud", "ros", "segmentation"]
+repository = "https://github.com/url-kaist/patchwork-plusplus-ros"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-10-20

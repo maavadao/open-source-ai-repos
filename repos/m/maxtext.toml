@@ -1,0 +1,9 @@
+name = "maxtext"
+description = "A simple, performant, and scalable Jax LLM!"
+category = "models"
+tags = ["large-language-models", "llm", "gpt", "deepseek", "fine-tuning", "gemma2", "gemma3", "jax"]
+repository = "https://github.com/AI-Hypercomputer/maxtext"
+website = "https://maxtext.readthedocs.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

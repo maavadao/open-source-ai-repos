@@ -1,0 +1,8 @@
+name = "stable-diffusion-2-gui"
+description = "Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x."
+category = "image"
+tags = ["image-generation", "stable-diffusion"]
+repository = "https://github.com/qunash/stable-diffusion-2-gui"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

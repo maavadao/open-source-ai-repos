@@ -1,0 +1,8 @@
+name = "Paper-Implementations"
+description = "Use PyTorch to implement some classic frameworks"
+category = "vision"
+tags = ["pytorch", "computer-vision", "deep-learning"]
+repository = "https://github.com/sunshineatnoon/Paper-Implementations"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

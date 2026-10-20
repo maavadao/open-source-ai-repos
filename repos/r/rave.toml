@@ -1,0 +1,8 @@
+name = "RAVE"
+description = "Official implementation of the RAVE model: a Realtime Audio Variational autoEncoder"
+category = "speech"
+tags = ["deep-learning", "neural-network", "audio", "generative-model", "ai"]
+repository = "https://github.com/acids-ircam/RAVE"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

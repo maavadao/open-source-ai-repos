@@ -1,0 +1,7 @@
+name = "MindPipe"
+description = "A powerful model compression framework for LLMs and LVLMs, adapted for NVIDIA GPUs and Huawei Ascend NPUs."
+category = "models"
+repository = "https://github.com/MAC-AutoML/MindPipe"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

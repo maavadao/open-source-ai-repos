@@ -1,0 +1,9 @@
+name = "git-ai"
+description = "A Git extension for tracking the AI-generated code in your repos"
+category = "vision"
+tags = ["ai", "coding-agents", "ai-blame"]
+repository = "https://github.com/git-ai-project/git-ai"
+website = "https://usegitai.com"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

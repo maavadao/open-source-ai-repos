@@ -1,0 +1,8 @@
+name = "synthetic-computer-vision"
+description = "A list of synthetic dataset and tools for computer vision"
+category = "vision"
+tags = ["computer-vision", "virtual-worlds", "synthetic-images", "dataset"]
+repository = "https://github.com/unrealcv/synthetic-computer-vision"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

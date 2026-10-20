@@ -1,0 +1,9 @@
+name = "opcode"
+description = "A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more."
+category = "coding"
+tags = ["anthropic", "anthropic-claude", "claude", "claude-4", "claude-4-sonnet", "claude-ai", "claude-code", "claude-code-sdk"]
+repository = "https://github.com/winfunc/opcode"
+website = "https://opcode.sh"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "flamingo-pytorch"
+description = "Implementation of Flamingo, state-of-the-art few-shot visual question answering attention net out of Deepmind, in Pytorch"
+category = "models"
+tags = ["artificial-intelligence", "attention-mechanism", "deep-learning", "transformers", "visual-question-answering"]
+repository = "https://github.com/lucidrains/flamingo-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "StarWhisper"
+description = "Astronomy LLMs, StarWhisper Telescope, Virtual Sitian, and astronomy research skills"
+category = "agents"
+tags = ["astronomy", "astrophysics", "large-language-models", "llm", "agents", "ai4s", "telescope", "time-domain-astronomy"]
+repository = "https://github.com/Yu-Yang-Li/StarWhisper"
+website = "https://yu-yang-li.github.io/StarWhisper/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

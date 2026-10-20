@@ -1,0 +1,9 @@
+name = "RTM3D"
+description = "Unofficial PyTorch implementation of \"RTM3D: Real-time Monocular 3D Detection from Object Keypoints for Autonomous Driving\" (ECCV 2020)"
+category = "robotics"
+tags = ["rtm3d", "real-time", "monocular-images", "centernet", "pytorch-implementation", "3d-object-detection", "autonomous-vehicles", "self-driving-car"]
+repository = "https://github.com/maudzung/RTM3D"
+website = "https://arxiv.org/pdf/2001.03343.pdf"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "mercury-agent-skills"
+description = "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution."
+category = "agents"
+tags = ["ai", "ai-agents", "aiskills", "skills"]
+repository = "https://github.com/cosmicstack-labs/mercury-agent-skills"
+website = "https://skills.mercuryagent.sh"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

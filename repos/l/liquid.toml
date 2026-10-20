@@ -1,0 +1,9 @@
+name = "Liquid"
+description = "(Accepted by IJCV) Liquid: Language Models are Scalable and Unified Multi-modal Generators"
+category = "image"
+tags = ["generative", "generative-ai", "image-gen", "llms", "text-to-image", "text-to-image-generation", "autoregressive-models", "large-language-models"]
+repository = "https://github.com/FoundationVision/Liquid"
+website = "https://foundationvision.github.io/Liquid/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "EmbedAnything"
+description = "Highly Performant, Modular, Memory Safe and Production-ready Inference, Ingestion and Indexing built in Rust"
+category = "vector-databases"
+tags = ["machine-learning", "indexing", "rag", "rust", "information-retrieval", "vector-database", "high-performance", "inference"]
+repository = "https://github.com/StarlightSearch/EmbedAnything"
+website = "https://embed-anything.com/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

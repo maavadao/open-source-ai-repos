@@ -1,0 +1,9 @@
+name = "memgraph"
+description = "High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++."
+category = "agents"
+tags = ["graph-algorithms", "graph-database", "graph-analysis", "kafka", "cypher", "graph", "opencypher", "ai"]
+repository = "https://github.com/memgraph/memgraph"
+website = "https://memgraph.com"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

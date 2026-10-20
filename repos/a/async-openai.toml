@@ -1,0 +1,9 @@
+name = "async-openai"
+description = "Rust library for OpenAI"
+category = "other"
+tags = ["openai", "rust"]
+repository = "https://github.com/64bit/async-openai"
+website = "https://docs.rs/async-openai"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

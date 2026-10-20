@@ -1,0 +1,10 @@
+name = "AI-For-Beginners"
+description = "12 Weeks, 24 Lessons, AI for All!"
+category = "learning"
+tags = ["deep-learning", "artificial-intelligence", "machine-learning", "ai", "computer-vision", "nlp", "cnn", "rnn"]
+repository = "https://github.com/microsoft/AI-For-Beginners"
+website = "https://microsoft.github.io/AI-For-Beginners/"
+license = "MIT"
+language = "Jupyter Notebook"
+skill_level = "beginner"
+added = 2026-10-20

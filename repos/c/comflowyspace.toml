@@ -1,0 +1,9 @@
+name = "comflowyspace"
+description = "Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating images and videos, democratizing access to AI technology."
+category = "image"
+tags = ["comfyui", "stable-diffusion", "stable-diffusion-webui"]
+repository = "https://github.com/6174/comflowyspace"
+website = "https://comflowy.com/"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ATISS"
+description = "Code for \"ATISS: Autoregressive Transformers for Indoor Scene Synthesis\", NeurIPS 2021"
+category = "other"
+tags = ["autoregressive-models", "generative-ai", "layout-generation", "scene-synthesis"]
+repository = "https://github.com/nv-tlabs/ATISS"
+website = "https://research.nvidia.com/labs/toronto-ai/ATISS/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

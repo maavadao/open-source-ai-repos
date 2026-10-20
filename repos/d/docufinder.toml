@@ -1,0 +1,8 @@
+name = "Docufinder"
+description = "Anything — 파일 이름이 아니라 본문으로 찾는 문서 검색기. HWP·PDF·Office 전문 검색을 오프라인으로. Windows·macOS | Offline content search across Korean documents (HWP, PDF, Office). Windows and macOS"
+category = "llm-apps"
+tags = ["desktop-app", "document-search", "fts5", "hwpx", "korean", "onnx", "rag", "react"]
+repository = "https://github.com/chrisryugj/Docufinder"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

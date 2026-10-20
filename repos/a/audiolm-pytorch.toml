@@ -1,0 +1,8 @@
+name = "audiolm-pytorch"
+description = "Implementation of AudioLM, a SOTA Language Modeling Approach to Audio Generation out of Google Research, in Pytorch"
+category = "models"
+tags = ["artificial-intelligence", "attention-mechanisms", "audio-synthesis", "deep-learning", "transformers"]
+repository = "https://github.com/lucidrains/audiolm-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

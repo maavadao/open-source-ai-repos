@@ -1,0 +1,9 @@
+name = "core"
+description = "AI agent microservice"
+category = "mcp-servers"
+tags = ["ai", "chatbot", "docker", "llm", "plugin", "assistant", "vector-search", "agent"]
+repository = "https://github.com/cheshire-cat-ai/core"
+website = "https://cheshirecat.ai"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

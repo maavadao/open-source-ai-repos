@@ -1,0 +1,9 @@
+name = "OpenCVTutorials"
+description = "OpenCV-Python4.1 中文文档"
+category = "vision"
+tags = ["opencv", "machine-learning", "computer-vision", "deep-learning", "object-detection", "opencv-python", "python"]
+repository = "https://github.com/fendouai/OpenCVTutorials"
+website = "http://woshicver.com/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

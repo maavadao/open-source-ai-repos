@@ -1,0 +1,7 @@
+name = "awesome-tensor-compilers"
+description = "A list of awesome compiler projects and papers for tensor computation and deep learning."
+category = "learning"
+tags = ["compiler", "tensor", "deep-learning", "machine-learning", "high-performance-computing", "code-generation", "programming-language"]
+repository = "https://github.com/merrymercy/awesome-tensor-compilers"
+license = "NOASSERTION"
+added = 2026-10-20

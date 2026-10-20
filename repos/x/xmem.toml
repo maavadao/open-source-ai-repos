@@ -1,0 +1,9 @@
+name = "XMem"
+description = "[ECCV 2022] XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model"
+category = "vision"
+tags = ["computer-vision", "deep-learning", "eccv-2022", "eccv2022", "pytorch", "segmentation", "video-object-segmentation", "video-segmentation"]
+repository = "https://github.com/hkchengrex/XMem"
+website = "https://hkchengrex.com/XMem/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

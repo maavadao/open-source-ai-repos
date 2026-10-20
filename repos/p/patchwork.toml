@@ -1,0 +1,8 @@
+name = "patchwork"
+description = "SOTA fast and robust ground segmentation using 3D point cloud (accepted in RA-L'21 w/ IROS'21)"
+category = "robotics"
+tags = ["lidar", "ros", "ground-segmentation", "ground-estimation", "autonomous-driving", "ground-estimator", "3dpointcloud", "autonomous-vehicles"]
+repository = "https://github.com/LimHyungTae/patchwork"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

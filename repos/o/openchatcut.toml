@@ -1,0 +1,9 @@
+name = "OpenChatCut"
+description = "Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion rendering."
+category = "mcp-servers"
+tags = ["agent-skills", "agentic-ai", "ai-agent", "ai-video-editor", "claude-code", "codex", "electron", "ffmpeg"]
+repository = "https://github.com/0xsline/OpenChatCut"
+website = "https://openchatcut.com"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

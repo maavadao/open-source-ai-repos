@@ -1,0 +1,8 @@
+name = "curl"
+description = "CURL: Contrastive Unsupervised Representation Learning for Sample-Efficient Reinforcement Learning"
+category = "ml-platforms"
+tags = ["deep-learning", "contrastive-loss", "contrastive-learning", "contrastive-predictive-coding", "deep-reinforcement-learning", "deep-rl", "reinforcement-learning", "reinforcement-learning-algorithms"]
+repository = "https://github.com/MishaLaskin/curl"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

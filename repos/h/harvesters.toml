@@ -1,0 +1,8 @@
+name = "harvesters"
+description = "Image Acquisition Library for GenICam-based Machine Vision System"
+category = "vision"
+tags = ["genicam", "image-acquisition", "image-processing", "machine-vision", "computer-vision", "machine-learning"]
+repository = "https://github.com/genicam/harvesters"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

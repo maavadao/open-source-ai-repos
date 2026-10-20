@@ -1,0 +1,9 @@
+name = "novu"
+description = "The open-source communication infrastructure for agents and products"
+category = "agents"
+tags = ["notifications", "communication", "email", "sms", "push-notifications", "transactional", "typescript", "nodejs"]
+repository = "https://github.com/novuhq/novu"
+website = "https://go.novu.co/github"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

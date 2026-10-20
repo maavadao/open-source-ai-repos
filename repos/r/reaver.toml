@@ -1,0 +1,8 @@
+name = "reaver"
+description = "Reaver: Modular Deep Reinforcement Learning Framework. Focused on StarCraft II. Supports Gym, Atari, and MuJoCo."
+category = "ml-platforms"
+tags = ["artificial-intelligence", "deep-learning", "machine-learning", "reinforcement-learning", "actor-critic", "tensorflow", "pysc2", "starcraft-ii"]
+repository = "https://github.com/inoryy/reaver"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

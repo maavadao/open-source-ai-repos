@@ -1,0 +1,8 @@
+name = "scenic"
+description = "Scenic: A Jax Library for Computer Vision Research and Beyond"
+category = "vision"
+tags = ["jax", "computer-vision", "deep-learning", "research", "attention", "transformers", "vision-transformer"]
+repository = "https://github.com/google-research/scenic"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

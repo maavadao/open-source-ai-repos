@@ -1,0 +1,8 @@
+name = "smac"
+description = "SMAC: The StarCraft Multi-Agent Challenge"
+category = "ml-platforms"
+tags = ["starcraft-ii", "reinforcement-learning", "multiagent-systems", "benchmark", "machine-learning"]
+repository = "https://github.com/oxwhirl/smac"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

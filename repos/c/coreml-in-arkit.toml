@@ -1,0 +1,8 @@
+name = "CoreML-in-ARKit"
+description = "Simple project to detect objects and display 3D labels above them in AR. This serves as a basic Template for an ARKit project to use CoreML."
+category = "ml-platforms"
+tags = ["ios", "machine-learning", "deep-learning", "augmented-reality", "arkit", "coreml"]
+repository = "https://github.com/hanleyweng/CoreML-in-ARKit"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

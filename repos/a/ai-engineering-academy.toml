@@ -1,0 +1,9 @@
+name = "AI-Engineering.academy"
+description = "Mastering Applied AI, One Concept at a Time"
+category = "local-llms"
+tags = ["fine-tuning", "finetuning", "finetuning-llms", "inference", "large-language-models", "llm", "python", "quantization"]
+repository = "https://github.com/adithya-s-k/AI-Engineering.academy"
+website = "https://aiengineering.academy"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

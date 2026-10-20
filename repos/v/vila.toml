@@ -1,0 +1,7 @@
+name = "VILA"
+description = "VILA is a family of state-of-the-art vision language models (VLMs) for diverse multimodal AI tasks across the edge, data center, and cloud."
+category = "models"
+repository = "https://github.com/NVlabs/VILA"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

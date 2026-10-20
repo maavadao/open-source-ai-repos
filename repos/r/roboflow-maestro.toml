@@ -1,0 +1,9 @@
+name = "maestro"
+description = "streamline the fine-tuning process for multimodal models: PaliGemma 2, Florence-2, and Qwen2.5-VL"
+category = "models"
+tags = ["captioning", "fine-tuning", "florence-2", "multimodal", "objectdetection", "paligemma", "phi-3-vision", "transformers"]
+repository = "https://github.com/roboflow/maestro"
+website = "https://maestro.roboflow.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

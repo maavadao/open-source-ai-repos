@@ -1,0 +1,9 @@
+name = "ml-glossary"
+description = "Machine learning glossary"
+category = "learning"
+tags = ["machine-learning", "cheatsheets", "neural-network", "deep-learning", "deep-learning-tutorial", "data-science"]
+repository = "https://github.com/bfortuner/ml-glossary"
+website = "http://ml-cheatsheet.readthedocs.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

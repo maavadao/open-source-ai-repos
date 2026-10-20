@@ -1,0 +1,9 @@
+name = "pcl-learning"
+description = "PCL（Point Cloud Library）点云库学习记录"
+category = "robotics"
+tags = ["pcl", "ros", "pcl-library", "pcl-viewer", "3d-reconstruction", "3d-segmentation", "3d-representation", "3d-detection"]
+repository = "https://github.com/HuangCongQing/pcl-learning"
+website = "https://www.bilibili.com/video/BV1HS4y1y7AB"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

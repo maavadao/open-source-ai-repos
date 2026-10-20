@@ -1,0 +1,9 @@
+name = "rmux"
+description = "Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows."
+category = "agents"
+tags = ["agent", "ai", "multiplexer", "rust", "cli", "linux", "macos", "multiplexers"]
+repository = "https://github.com/Helvesec/rmux"
+website = "https://rmux.io"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Final2x"
+description = "a cross-platform image super-resolution tool"
+category = "image"
+tags = ["cross-platform", "electron", "typescript", "vue3", "i18n", "computer-vision", "super-resolution", "image-processing"]
+repository = "https://github.com/EutropicAI/Final2x"
+license = "BSD-3-Clause"
+language = "TypeScript"
+added = 2026-10-20

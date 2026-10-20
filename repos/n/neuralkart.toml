@@ -1,0 +1,9 @@
+name = "NeuralKart"
+description = "A Real-time Mario Kart 64 AI using ConvNets."
+category = "vision"
+tags = ["machine-learning", "keras", "convolutional-neural-networks", "cs231n", "mario-kart", "bizhawk", "deep-learning", "tensorflow"]
+repository = "https://github.com/rameshvarun/NeuralKart"
+website = "https://www.youtube.com/watch?v=Eo07BAsyQ24"
+license = "NOASSERTION"
+language = "Lua"
+added = 2026-10-20

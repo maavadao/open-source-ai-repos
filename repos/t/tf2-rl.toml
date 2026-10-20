@@ -1,0 +1,8 @@
+name = "TF2-RL"
+description = "Reinforcement learning algorithms implemented for Tensorflow 2.0+ [DQN, DDPG, AE-DDPG, SAC, PPO, Primal-Dual DDPG]"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "tensorflow2", "openai-gym", "ddpg", "dqn", "sac", "ppo", "ae-ddpg"]
+repository = "https://github.com/anita-hu/TF2-RL"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

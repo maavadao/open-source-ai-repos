@@ -1,0 +1,8 @@
+name = "ViTPose"
+description = "The official repo for [NeurIPS'22] \"ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation\" and [TPAMI'23] \"ViTPose++: Vision Transformer for Generic Body Pose Estimation\""
+category = "vision"
+tags = ["deep-learning", "distillation", "mae", "pose-estimation", "pytorch", "self-supervised-learning", "vision-transformer"]
+repository = "https://github.com/ViTAE-Transformer/ViTPose"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

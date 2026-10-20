@@ -1,0 +1,8 @@
+name = "DBreeze"
+description = "C# .NET NOSQL ( key value, object store embedded TextSearch SemanticSearch Vector layer ) ACID multi-paradigm database management system."
+category = "vector-databases"
+tags = ["nosql", "database", "embedded", "c-sharp", "text", "search", "search-engine", "net"]
+repository = "https://github.com/hhblaze/DBreeze"
+license = "BSD-2-Clause"
+language = "C#"
+added = 2026-10-20

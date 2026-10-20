@@ -1,0 +1,8 @@
+name = "awesome-aws"
+description = "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome."
+category = "learning"
+tags = ["aws", "cloud", "aws-sdk", "aws-cli", "cloudformation", "cloudwatch", "dynamodb", "elasticsearch"]
+repository = "https://github.com/donnemartin/awesome-aws"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

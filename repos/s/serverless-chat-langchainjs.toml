@@ -1,0 +1,8 @@
+name = "serverless-chat-langchainjs"
+description = "Build your own serverless AI Chat with Retrieval-Augmented-Generation using LangChain.js, TypeScript and Azure"
+category = "chat"
+tags = ["azure", "azure-functions", "generative-ai", "javascript", "langchain-js", "mongodb", "retrieval-augmented-generation", "serverless"]
+repository = "https://github.com/Azure-Samples/serverless-chat-langchainjs"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "SegmentAnythingin3D"
+description = "Segment Anything in 3D with NeRFs (NeurIPS 2023 & IJCV 2025)"
+category = "vision"
+tags = ["3d", "3d-segmentation", "computer-vision", "nerf", "segment-anything", "segmentation", "deep-learning"]
+repository = "https://github.com/Jumpat/SegmentAnythingin3D"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

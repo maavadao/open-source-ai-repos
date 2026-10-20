@@ -1,0 +1,8 @@
+name = "keras-yolo3"
+description = "Training and Detecting Objects with YOLO3"
+category = "vision"
+tags = ["yolo", "deep-learning", "object-detection"]
+repository = "https://github.com/experiencor/keras-yolo3"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

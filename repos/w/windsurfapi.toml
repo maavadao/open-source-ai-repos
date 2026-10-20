@@ -1,0 +1,9 @@
+name = "WindsurfAPI"
+description = "Turn Windsurf / Devin Desktop's 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, Anthropic- & Gemini-compatible APIs. Zero-dependency self-hosted reverse proxy for Claude Code, Cline & Cursor. 把 Windsurf/Devin 云端 100+ 模型变成三套兼容 API。"
+category = "coding"
+tags = ["openai-compatible", "windsurf", "anthropic-compatible", "claude-code", "cline", "cursor", "api-gateway", "claude"]
+repository = "https://github.com/dwgx/WindsurfAPI"
+website = "https://dwgx.github.io/WindsurfAPI/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "graph-based-deep-learning-literature"
+description = "links to conference publications in graph-based deep learning"
+category = "ml-platforms"
+tags = ["graph-neural-networks", "graph-convolutional-networks", "graph", "deep-learning", "neural-networks", "graph-representation-learning", "conference-publications"]
+repository = "https://github.com/naganandy/graph-based-deep-learning-literature"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

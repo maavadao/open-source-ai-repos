@@ -1,0 +1,8 @@
+name = "Thin-Plate-Spline-Motion-Model"
+description = "[CVPR 2022] Thin-Plate Spline Motion Model for Image Animation."
+category = "video"
+tags = ["deep-learning", "deepfake", "face-animation", "face-reenactment", "image-animation", "motion-transfer", "pose-transfer", "talking-head"]
+repository = "https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

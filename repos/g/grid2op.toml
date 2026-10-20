@@ -1,0 +1,9 @@
+name = "grid2op"
+description = "Grid2Op a testbed platform to model sequential decision making in power systems."
+category = "ml-platforms"
+tags = ["grid2op", "reinforcement-learning", "reinforcement-learning-environments", "powergrid", "powergrid-operation", "gym-environments"]
+repository = "https://github.com/Grid2op/grid2op"
+website = "https://grid2op.readthedocs.io/"
+license = "MPL-2.0"
+language = "Python"
+added = 2026-10-20

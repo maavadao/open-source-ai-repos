@@ -1,0 +1,7 @@
+name = "Pearl"
+description = "A Production-ready Reinforcement Learning AI Agent Library brought by the Applied Reinforcement Learning team at Meta."
+category = "agents"
+repository = "https://github.com/facebookresearch/Pearl"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

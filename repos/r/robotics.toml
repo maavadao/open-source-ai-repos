@@ -1,0 +1,9 @@
+name = "robotics"
+description = "Notebook-based book \"Introduction to Robotics and Perception\" by Frank Dellaert and Seth Hutchinson"
+category = "learning"
+tags = ["robotics", "jupyter-notebook", "factor-graphs", "perception"]
+repository = "https://github.com/gtbook/robotics"
+website = "https://www.roboticsbook.org/"
+license = "BSD-3-Clause"
+language = "Jupyter Notebook"
+added = 2026-10-20

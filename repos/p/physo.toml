@@ -1,0 +1,9 @@
+name = "PhySO"
+description = "Physical Symbolic Optimization"
+category = "ml-platforms"
+tags = ["deep-learning", "machine-learning", "physics", "python", "reinforcement-learning", "symbolic-regression", "equation-discovery"]
+repository = "https://github.com/WassimTenachi/PhySO"
+website = "https://physo.readthedocs.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

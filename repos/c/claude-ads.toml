@@ -1,0 +1,8 @@
+name = "claude-ads"
+description = "Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source-grounded audits, deterministic findings and evidence coverage, versioned JSON reports…"
+category = "skills-prompts"
+tags = ["claude-code", "claude-code-skill", "ai-marketing", "ai", "marketing-automation", "open-source", "agent-skills", "google-ads"]
+repository = "https://github.com/AgriciDaniel/claude-ads"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "gpt4free-ts"
+description = "Providing a free OpenAI GPT-4 API ! This is a replication project for the typescript version of xtekky/gpt4free"
+category = "chat"
+tags = ["gpt4free", "nodejs", "typescript", "chatgpt", "chatbot", "chatbots", "chatgpt-free", "chatgpt4"]
+repository = "https://github.com/xiangsx/gpt4free-ts"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "DeepGTAV"
+description = "A plugin for GTAV that transforms it into a vision-based self-driving car research environment."
+category = "ml-platforms"
+tags = ["dataset-generation", "reinforcement-learning", "gtav", "deep-learning", "self-driving-car"]
+repository = "https://github.com/aitorzip/DeepGTAV"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "QAmodel-for-Retrievalchatbot"
+description = "客服机器人，Chinese Retreival chatbot（中文检索式机器人）用到的一些QA模型，基于tf-idf，lsa，cnn，transformer，bert等"
+category = "chat"
+tags = ["qa", "chinese-retrieval", "chatbot"]
+repository = "https://github.com/WenRichard/QAmodel-for-Retrievalchatbot"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

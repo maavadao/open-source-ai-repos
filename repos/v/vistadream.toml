@@ -1,0 +1,9 @@
+name = "VistaDream"
+description = "[ICCV 2025 & TPAMI] VistaDream: Sampling multiview consistent images for single-view scene reconstruction"
+category = "image"
+tags = ["3d-generation", "3d-reconstruction", "diffusion-models", "scene-generation", "single-view-reconstruction", "novel-view-synthesis"]
+repository = "https://github.com/WHU-USI3DV/VistaDream"
+website = "https://vistadream-project-page.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

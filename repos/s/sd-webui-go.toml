@@ -1,0 +1,8 @@
+name = "sd-webui-go"
+description = "This is a Go language version of the SDK based on stable-diffusion-webui. In your code, you can directly use the API interfaces of stable-diffusion-webui through object-oriented operations, instead of dealing with cumbersome JSON. Support extensions API !"
+category = "image"
+tags = ["ai", "aigc", "api", "golang", "sd-webui", "sdk", "stable-diffusion", "stable-diffusion-webui"]
+repository = "https://github.com/SpenserCai/sd-webui-go"
+license = "GPL-3.0"
+language = "Go"
+added = 2026-10-20

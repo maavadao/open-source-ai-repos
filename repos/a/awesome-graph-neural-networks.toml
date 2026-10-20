@@ -1,0 +1,7 @@
+name = "Awesome-Graph-Neural-Networks"
+description = "Paper Lists for Graph Neural Networks"
+category = "learning"
+tags = ["graph-network", "convolutional-networks", "deep-learning", "graph-attention", "generated-graphs", "graph-auto-encoder"]
+repository = "https://github.com/TrustAGI-Lab/Awesome-Graph-Neural-Networks"
+license = "NOASSERTION"
+added = 2026-10-20

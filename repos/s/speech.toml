@@ -1,0 +1,9 @@
+name = "Speech"
+description = "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)"
+category = "speech"
+tags = ["machine-translation", "speaker-recognition", "asr", "tts", "generative-ai", "deeplearning", "neural-networks", "speaker-diariazation"]
+repository = "https://github.com/NVIDIA-NeMo/Speech"
+website = "https://docs.nvidia.com/nemo/speech/nightly/index.html"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

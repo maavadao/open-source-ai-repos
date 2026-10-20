@@ -1,0 +1,9 @@
+name = "backgroundremover"
+description = "Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source."
+category = "video"
+tags = ["background-remover", "backgroundremover", "removebackground", "remove-background", "remove-background-image", "remove-background-video", "background-removal", "python"]
+repository = "https://github.com/nadermx/backgroundremover"
+website = "https://backgroundremoverai.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

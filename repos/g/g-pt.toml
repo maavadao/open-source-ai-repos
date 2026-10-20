@@ -1,0 +1,9 @@
+name = "G.pt"
+description = "Official PyTorch Implementation of \"Learning to Learn with Generative Models of Neural Network Checkpoints\""
+category = "image"
+tags = ["deep-learning", "diffusion-models", "pytorch", "transformers"]
+repository = "https://github.com/wpeebles/G.pt"
+website = "https://www.wpeebles.com/Gpt"
+license = "BSD-2-Clause"
+language = "Python"
+added = 2026-10-20

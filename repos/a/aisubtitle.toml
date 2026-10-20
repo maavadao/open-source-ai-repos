@@ -1,0 +1,9 @@
+name = "AISubtitle"
+description = "AI subtiltle tool. Translate your subtitle with GPT. 使用chatGPT来翻译你的字幕"
+category = "chat"
+tags = ["bilibili", "chatgpt", "gpt-3", "openai", "translation", "youtube", "chatgpt-api"]
+repository = "https://github.com/cgsvv/AISubtitle"
+website = "https://ai.cgsv.top"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

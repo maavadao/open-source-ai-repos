@@ -1,0 +1,8 @@
+name = "Aspect-Based-Sentiment-Analysis"
+description = "Aspect-Based-Sentiment-Analysis: Transformer & Explainable ML (TensorFlow)"
+category = "models"
+tags = ["aspect-based-sentiment-analysis", "tensorflow", "sentiment-analysis", "machine-learning", "interpretability", "distill", "transformers", "transformer-models"]
+repository = "https://github.com/ScalaConsultants/Aspect-Based-Sentiment-Analysis"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "ChatGPT.nvim"
+description = "ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API"
+category = "chat"
+tags = ["chatgpt", "nvim-plugin", "neovim", "openai"]
+repository = "https://github.com/jackMort/ChatGPT.nvim"
+license = "Apache-2.0"
+language = "Lua"
+added = 2026-10-20

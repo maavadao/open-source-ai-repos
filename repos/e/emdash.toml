@@ -1,0 +1,9 @@
+name = "emdash"
+description = "Emdash is the Open-Source Agentic Development Environment ( YC W26). Run multiple coding agents in parallel. Use any provider."
+category = "coding"
+tags = ["ai", "cli", "containerization", "docker", "jira", "linear", "llm", "openai"]
+repository = "https://github.com/generalaction/emdash"
+website = "https://emdash.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

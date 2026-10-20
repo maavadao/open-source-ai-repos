@@ -1,0 +1,9 @@
+name = "sample-factory"
+description = "High throughput synchronous and asynchronous reinforcement learning"
+category = "ml-platforms"
+tags = ["reinforcement-learning"]
+repository = "https://github.com/alex-petrenko/sample-factory"
+website = "https://samplefactory.dev"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

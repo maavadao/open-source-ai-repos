@@ -1,0 +1,9 @@
+name = "railway-skills"
+description = "Agent skills for interacting with Railway"
+category = "agents"
+tags = ["agents", "infrastructure", "railway"]
+repository = "https://github.com/railwayapp/railway-skills"
+website = "https://railway.com/skills.sh"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

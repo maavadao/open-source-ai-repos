@@ -1,0 +1,8 @@
+name = "aleatory"
+description = "Python library for Stochastic Processes Simulation and Visualisation"
+category = "image"
+tags = ["data-visualization", "data-viz", "monte-carlo", "probability", "statistics", "stochastic-processes", "diffusion-models", "financial-mathematics"]
+repository = "https://github.com/quantgirluk/aleatory"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

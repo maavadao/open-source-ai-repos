@@ -1,0 +1,7 @@
+name = "CVPR-2022-papers"
+description = "CVPR 2022 papers with code (论文及代码）"
+category = "vision"
+tags = ["cvpr", "cvpr2022", "deep-learning", "semantic-segmentation", "image-segmentation", "pose-estimation", "computer-vision", "image-classification"]
+repository = "https://github.com/gbstack/CVPR-2022-papers"
+license = "NOASSERTION"
+added = 2026-10-20

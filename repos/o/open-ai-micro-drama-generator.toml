@@ -1,0 +1,9 @@
+name = "Open-AI-Micro-Drama-Generator"
+description = "AI short drama & micro-drama video generator — turns any idea into a complete short-form drama using multi-agent AI pipeline (screenwriter → storyboard → frames → video). Seedance 2 VIP, Kling 3.0 Pro, Veo 3.1, Sora 2."
+category = "video"
+tags = ["agentic-ai", "ai-video-generation", "fastapi", "generative-ai", "image-to-video", "micro-drama", "multi-agent", "nextjs"]
+repository = "https://github.com/Anil-matcha/Open-AI-Micro-Drama-Generator"
+website = "https://muapi.ai?utm_source=github&utm_medium=about&utm_campaign=open-ai-micro-drama-generator"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

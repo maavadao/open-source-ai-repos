@@ -1,0 +1,9 @@
+name = "Observal"
+description = "Observal is self-hosted registry for your coding agent extensions with a built in insight engine. Setup Observal, define the scope and share your Skills, MCPs and Agents with your peers."
+category = "mcp-servers"
+tags = ["cli-tool", "large-language-models", "open-source", "playground", "self-hosted", "agents", "claude-code", "cursor"]
+repository = "https://github.com/Observal/Observal"
+website = "https://observal.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

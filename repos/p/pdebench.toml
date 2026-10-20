@@ -1,0 +1,9 @@
+name = "PDEBench"
+description = "PDEBench: An Extensive Benchmark for Scientific Machine Learning"
+category = "ml-platforms"
+tags = ["ai", "benchmark", "jax", "machine-learning", "pytorch", "scientific", "scientific-computing", "sciml"]
+repository = "https://github.com/pdebench/PDEBench"
+website = "https://arxiv.org/abs/2210.07182"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

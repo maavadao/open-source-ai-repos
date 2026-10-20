@@ -1,0 +1,8 @@
+name = "handcrafted-persona-engine"
+description = "An AI-powered interactive avatar engine using Live2D, LLM, ASR, TTS, and RVC. Ideal for VTubing, streaming, and virtual assistant applications."
+category = "chat"
+tags = ["ai", "ai-vtuber", "ai-waifu", "chatbot", "live2d", "vtuber"]
+repository = "https://github.com/elevenyellow/handcrafted-persona-engine"
+license = "NOASSERTION"
+language = "C#"
+added = 2026-10-20

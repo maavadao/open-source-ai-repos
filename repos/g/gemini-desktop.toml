@@ -1,0 +1,9 @@
+name = "gemini-desktop"
+description = "On hiatus / not actively maintained — Native desktop client for Google Gemini on Windows, macOS, and Linux. Global hotkeys, Spotlight-style Quick Chat, zero data collection."
+category = "chat"
+tags = ["chatbot", "electron", "gemini", "gemini-ai", "ai-tools", "desktop-app", "google-gemini", "privacy-focused"]
+repository = "https://github.com/bwendell/gemini-desktop"
+website = "https://bwendell.github.io/gemini-desktop/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "lemonai"
+description = "Lemon AI is the first Full-stack Open-source Self-Evolving General AI Agent, offering a fully local alternative to Agentic platforms like Manus & Genspark AI. Official updates X(twitter) @LemonAI_cc"
+category = "agents"
+tags = ["agent", "agentic-ai", "ai", "fullstack", "javascript", "llm", "nodejs", "vue3"]
+repository = "https://github.com/hexdocom/lemonai"
+website = "https://lemonai.cc"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

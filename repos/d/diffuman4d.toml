@@ -1,0 +1,9 @@
+name = "Diffuman4D"
+description = "[ICCV 2025] Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models"
+category = "vision"
+tags = ["3d-computer-vision", "3d-vision", "avatar-generation", "avatar-generator", "computer-vision"]
+repository = "https://github.com/zju3dv/Diffuman4D"
+website = "https://diffuman4d.github.io"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

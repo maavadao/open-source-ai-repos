@@ -1,0 +1,9 @@
+name = "golembot"
+description = "Any Agent × Any Provider × Anywhere. Connect Cursor, Claude Code, OpenCode, or Codex to Slack, Telegram, Discord, Feishu, DingTalk, WeCom, WeChat — with any LLM provider."
+category = "coding"
+tags = ["ai", "coding-agent", "typescript", "claude-code", "cursor", "opencode", "ai-assistant", "cli"]
+repository = "https://github.com/0xranx/golembot"
+website = "https://0xranx.github.io/golembot/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "awesome-web-agents"
+description = "A list of tools, frameworks, and resources for building AI web agents"
+category = "learning"
+tags = ["ai", "llms", "llms-benchmarking", "ai-agents", "browser-automation", "awesome", "awesome-list"]
+repository = "https://github.com/steel-dev/awesome-web-agents"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "ava_downloader"
+description = "Download AVA dataset (A Large-Scale Database for Aesthetic Visual Analysis)"
+category = "vision"
+tags = ["ava", "aesthetic-visual-analysis", "python", "computer-vision", "dataset"]
+repository = "https://github.com/imfing/ava_downloader"
+license = "NOASSERTION"
+added = 2026-10-20

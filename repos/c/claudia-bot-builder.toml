@@ -1,0 +1,9 @@
+name = "claudia-bot-builder"
+description = "Create chat bots for Facebook Messenger, Slack, Amazon Alexa, Skype, Telegram, Viber, Line, GroupMe, Kik and Twilio and deploy to AWS Lambda in minutes"
+category = "chat"
+tags = ["aws-lambda", "chatbot", "facebook-messenger", "slack", "skype", "viber", "telegram", "twilio"]
+repository = "https://github.com/claudiajs/claudia-bot-builder"
+website = "https://claudiajs.com/claudia-bot-builder.html"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

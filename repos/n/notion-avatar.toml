@@ -1,0 +1,9 @@
+name = "notion-avatar"
+description = "AI-powered online tool for making notion-style avatars."
+category = "other"
+tags = ["notion", "avatar", "nextjs", "ai"]
+repository = "https://github.com/Mayandev/notion-avatar"
+website = "https://notion-avatar.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

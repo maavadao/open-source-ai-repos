@@ -1,0 +1,8 @@
+name = "lite.ai.toolkit"
+description = "A lite C++ AI toolkit: 100+ models with MNN, ORT and TRT, including Det, Seg, Stable-Diffusion, Face-Fusion."
+category = "image"
+tags = ["yolox", "onnxruntime", "robustvideomatting", "mnn", "ncnn", "tnn", "yolov6", "onnx"]
+repository = "https://github.com/xlite-dev/lite.ai.toolkit"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-10-20

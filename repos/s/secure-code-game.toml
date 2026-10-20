@@ -1,0 +1,9 @@
+name = "secure-code-game"
+description = "Learn to code securely while having fun through our popular open source in-editor experience, designed for developers, students, and anyone curious about security. Get started for free in under 2 minutes, playing right from your browser."
+category = "learning"
+tags = ["code-security", "ai", "ai-security", "coding-training", "cybersecurity", "online-course", "secure-coding", "security-training"]
+repository = "https://github.com/skills/secure-code-game"
+website = "https://gh.io/scg"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

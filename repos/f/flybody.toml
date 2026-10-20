@@ -1,0 +1,8 @@
+name = "flybody"
+description = "MuJoCo fruit fly body model and locomotion RL tasks"
+category = "ml-platforms"
+tags = ["deep-learning", "drosophila", "mujoco", "reinforcement-learning"]
+repository = "https://github.com/TuragaLab/flybody"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

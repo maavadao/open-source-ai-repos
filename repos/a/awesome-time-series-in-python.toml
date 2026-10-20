@@ -1,0 +1,7 @@
+name = "awesome_time_series_in_python"
+description = "This curated list contains python packages for time series analysis"
+category = "learning"
+tags = ["time-series", "python", "machine-learning", "statistics"]
+repository = "https://github.com/MaxBenChrist/awesome_time_series_in_python"
+license = "NOASSERTION"
+added = 2026-10-20

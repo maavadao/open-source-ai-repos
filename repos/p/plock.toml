@@ -1,0 +1,8 @@
+name = "plock"
+description = "From anywhere you can type, query and stream the output of any script (e.g. an LLM)"
+category = "local-llms"
+tags = ["cross-platform", "llm", "local", "ollama", "gpt", "context", "streaming", "tool"]
+repository = "https://github.com/jasonjmcghee/plock"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

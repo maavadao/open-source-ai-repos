@@ -1,0 +1,9 @@
+name = "MonoGS"
+description = "[CVPR'24 Highlight & Best Demo Award] Gaussian Splatting SLAM"
+category = "robotics"
+tags = ["slam", "gaussian-splatting", "computer-vision", "robotics", "cvpr2024"]
+repository = "https://github.com/muskie82/MonoGS"
+website = "https://rmurai.co.uk/projects/GaussianSplattingSLAM/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

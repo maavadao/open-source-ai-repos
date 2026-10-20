@@ -1,0 +1,9 @@
+name = "julia"
+description = "The Julia Programming Language"
+category = "data-science"
+tags = ["julia-language", "julia", "scientific", "hpc", "numerical", "machine-learning", "programming-language", "science"]
+repository = "https://github.com/JuliaLang/julia"
+website = "https://julialang.org/"
+license = "MIT"
+language = "Julia"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Deep-Learning-Roadmap"
+description = "Organized Resources for Deep Learning Researchers and Developers"
+category = "learning"
+tags = ["deep-learning", "reinforcement-learning"]
+repository = "https://github.com/astorfi/Deep-Learning-Roadmap"
+website = "https://machinelearningmindset.com/deep-learning-resources/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "robotic_arm_environment"
+description = "Doosan robotic arm, simulation, control, visualization in Gazebo and ROS2 for Reinforcement Learning."
+category = "robotics"
+tags = ["ros2", "robotic-arm", "doosan", "gazebo-simulator", "reinforcement-learning", "roscontrol"]
+repository = "https://github.com/dvalenciar/robotic_arm_environment"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

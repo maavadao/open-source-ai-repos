@@ -1,0 +1,8 @@
+name = "ppq"
+description = "PPL Quantization Tool (PPQ) is a powerful offline neural network quantization tool."
+category = "local-llms"
+tags = ["neural-network", "deep-learning", "quantization", "pytorch", "caffe", "onnx", "cuda", "open-source"]
+repository = "https://github.com/OpenPPL/ppq"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

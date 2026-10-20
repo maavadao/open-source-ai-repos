@@ -1,0 +1,9 @@
+name = "micro-agent"
+description = "An AI agent that writes (actually useful) code for you"
+category = "agents"
+tags = ["agent", "ai", "figma", "javascript", "react", "typescript"]
+repository = "https://github.com/BuilderIO/micro-agent"
+website = "https://www.builder.io/blog/micro-agent"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

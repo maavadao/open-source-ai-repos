@@ -1,0 +1,9 @@
+name = "vits2_pytorch"
+description = "unofficial vits2-TTS implementation in pytorch"
+category = "speech"
+tags = ["tts", "vits2", "deep-learning", "pytorch", "text-to-speech"]
+repository = "https://github.com/p0p4k/vits2_pytorch"
+website = "https://arxiv.org/abs/2307.16430"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "octogent"
+description = "A thin orchestration dashboard over Claude Code for managing context, automation, and developer headspace. You need tentacles."
+category = "skills-prompts"
+tags = ["agent-engineering", "agentic-workflow", "ai-agents", "claude", "claude-code", "claude-hooks", "claude-skills", "codex"]
+repository = "https://github.com/hesamsheikh/octogent"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

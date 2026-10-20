@@ -1,0 +1,9 @@
+name = "BeeCount"
+description = "Local-first bookkeeping for iOS/Android/Web · Self-hosted cloud + iCloud/WebDAV/S3 sync · AI capture · MCP | 本地优先的跨端记账 · 自建云 + iCloud/WebDAV/S3 同步 · AI 记账 · MCP"
+category = "mcp-servers"
+tags = ["accounting", "chinese", "expense-tracker", "finance-app", "flutter", "personal-finance", "privacy-first", "supabase"]
+repository = "https://github.com/TNT-Likely/BeeCount"
+website = "https://count.beejz.com"
+license = "NOASSERTION"
+language = "Dart"
+added = 2026-10-20

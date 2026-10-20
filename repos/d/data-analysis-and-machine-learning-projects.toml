@@ -1,0 +1,9 @@
+name = "Data-Analysis-and-Machine-Learning-Projects"
+description = "Repository of teaching materials, code, and data for my data analysis and machine learning projects."
+category = "data-science"
+tags = ["machine-learning", "python", "data-analysis", "data-science", "ipython-notebook", "evolutionary-algorithm"]
+repository = "https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects"
+website = "http://www.randalolson.com/blog/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

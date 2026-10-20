@@ -1,0 +1,9 @@
+name = "fireworks-tech-graph"
+description = "Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns."
+category = "coding"
+tags = ["agent-workflows", "ai", "claude-code", "developer-tools", "diagrams", "svg"]
+repository = "https://github.com/yizhiyanhua-ai/fireworks-tech-graph"
+website = "https://yizhiyanhua-ai.github.io/fireworks-tech-graph/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

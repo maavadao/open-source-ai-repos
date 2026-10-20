@@ -1,0 +1,9 @@
+name = "Claude-API"
+description = "This project provides an unofficial API for Claude AI, allowing users to access and interact with Claude AI ."
+category = "chat"
+tags = ["ai", "api", "chatbot", "chatgpt", "claude-ai", "claude-api", "python"]
+repository = "https://github.com/KoushikNavuluri/Claude-API"
+website = "https://pypi.org/project/claude-api/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

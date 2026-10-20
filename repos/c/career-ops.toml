@@ -1,0 +1,9 @@
+name = "career-ops"
+description = "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job application tracker. It helps you fill in each application; you press Submit.…"
+category = "learning"
+tags = ["ai-agent", "career", "claude-code", "cli", "interview-prep", "job-search", "open-source", "resume"]
+repository = "https://github.com/career-ops-hq/career-ops"
+website = "https://career-ops.org"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

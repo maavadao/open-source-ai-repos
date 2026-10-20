@@ -1,0 +1,9 @@
+name = "DeCLUTR"
+description = "The corresponding code from our paper \"DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations\". Do not hesitate to open an issue if you run into any trouble!"
+category = "llm-apps"
+tags = ["contrastive-learning", "natural-language-processing", "allennlp", "pytorch", "transformers", "representation-learning", "sentence-embeddings", "sentence-similarity"]
+repository = "https://github.com/JohnGiorgi/DeCLUTR"
+website = "https://aclanthology.org/2021.acl-long.72/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

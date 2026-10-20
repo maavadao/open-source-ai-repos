@@ -1,0 +1,8 @@
+name = "IncarnaMind"
+description = "IncarnaMind is a free, open-source desktop app for macOS, Windows and Linux where you write with AI and ask questions about your own documents (PDF, Word, PowerPoint, Excel and more). It can check every sentence and figure in a draft against those documents, whoever wrote it…"
+category = "mcp-servers"
+tags = ["llm", "pdf", "citations", "desktop-app", "document-qa", "electron", "knowledge-management", "literature-review"]
+repository = "https://github.com/IncarnaMind/IncarnaMind"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

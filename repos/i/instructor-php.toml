@@ -1,0 +1,9 @@
+name = "instructor-php"
+description = "Unified LLM API, structured data outputs with LLMs, and agent SDK - in PHP"
+category = "agents"
+tags = ["genai", "llm", "php", "agents", "ai", "ai-agents"]
+repository = "https://github.com/cognesy/instructor-php"
+website = "https://instructorphp.com"
+license = "MIT"
+language = "PHP"
+added = 2026-10-20

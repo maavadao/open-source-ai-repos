@@ -1,0 +1,8 @@
+name = "Cairn"
+description = "Cairn is a general-purpose AI state-space search engine, validated first on autonomous penetration testing. Sometimes misspelled as Carin."
+category = "security"
+tags = ["ai", "ai-agent", "ai-cybersecurity", "ai-hacker", "ai-hacking", "blackbox-testing", "ctf", "ctf-tools"]
+repository = "https://github.com/oritera/Cairn"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

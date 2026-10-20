@@ -1,0 +1,9 @@
+name = "TextAttack"
+description = "TextAttack is a Python framework for adversarial attacks, data augmentation, and model training in NLP https://textattack.readthedocs.io/en/master/"
+category = "security"
+tags = ["machine-learning", "security", "natural-language-processing", "nlp", "adversarial-machine-learning", "adversarial-attacks", "data-augmentation", "adversarial-examples"]
+repository = "https://github.com/QData/TextAttack"
+website = "https://textattack.readthedocs.io/en/master/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

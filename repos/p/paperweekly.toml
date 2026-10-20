@@ -1,0 +1,7 @@
+name = "PaperWeekly"
+description = "Papers for CNN, object detection, keypoint detection, semantic segmentation, medical image processing, SLAM, etc."
+category = "robotics"
+tags = ["convolutional-neural-networks", "object-detection", "keypoint-detection", "semantic-segmentation", "face-recognition", "medical-image-processing", "transformers", "slam"]
+repository = "https://github.com/Mycenae/PaperWeekly"
+license = "NOASSERTION"
+added = 2026-10-20

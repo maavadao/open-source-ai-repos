@@ -1,0 +1,7 @@
+name = "Awesome-3D-Object-Detection"
+description = "Papers, code and datasets about deep learning for 3D Object Detection."
+category = "learning"
+tags = ["object-detection", "deep-learning", "autonomous-driving", "point-cloud", "machine-learning", "computer-vision", "paper", "deep-neural-networks"]
+repository = "https://github.com/vvincenttttt/Awesome-3D-Object-Detection"
+license = "NOASSERTION"
+added = 2026-10-20

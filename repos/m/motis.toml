@@ -1,0 +1,8 @@
+name = "motis"
+description = "multimodal routing, geocoding, and map tiles"
+category = "models"
+tags = ["routing", "routing-engine", "gtfs", "intermodal", "real-time", "mobility", "gtfs-rt", "transit"]
+repository = "https://github.com/motis-project/motis"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

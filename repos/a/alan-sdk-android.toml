@@ -1,0 +1,8 @@
+name = "alan-sdk-android"
+description = "The Self-Coding System for Your App — Alan AI SDK for Android"
+category = "speech"
+tags = ["alan-sdk", "android", "voice", "voice-assistant", "alan-voice", "alan-studio", "sdk", "alan-ai"]
+repository = "https://github.com/alan-ai/alan-sdk-android"
+website = "https://alan.app/"
+license = "NOASSERTION"
+added = 2026-10-20

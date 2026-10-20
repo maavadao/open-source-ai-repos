@@ -1,0 +1,8 @@
+name = "MultiOS-USB"
+description = "Boot operating systems directly from ISO/WIM images"
+category = "models"
+tags = ["grub2", "multiboot", "usb", "bootable-usb", "iso-image", "boot", "linux", "loopback"]
+repository = "https://github.com/Mexit/MultiOS-USB"
+license = "GPL-3.0"
+language = "PowerShell"
+added = 2026-10-20

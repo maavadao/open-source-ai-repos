@@ -1,0 +1,9 @@
+name = "podcastfy"
+description = "An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI"
+category = "speech"
+tags = ["elevenlabs", "gemini", "genai", "notebooklm", "openai", "podcast"]
+repository = "https://github.com/souzatharsis/podcastfy"
+website = "https://www.podcastfy.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

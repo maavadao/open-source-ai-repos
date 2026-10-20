@@ -1,0 +1,8 @@
+name = "TensorFlow-Tutorials"
+description = "TensorFlow Tutorials with YouTube Videos"
+category = "learning"
+tags = ["tensorflow", "deep-learning", "machine-learning", "reinforcement-learning", "python-notebook", "tutorial", "neural-network", "youtube"]
+repository = "https://github.com/Hvass-Labs/TensorFlow-Tutorials"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

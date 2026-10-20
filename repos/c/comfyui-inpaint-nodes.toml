@@ -1,0 +1,8 @@
+name = "comfyui-inpaint-nodes"
+description = "Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, MAT, and various other tools for pre-filling inpaint & outpaint areas."
+category = "image"
+tags = ["comfyui", "comfyui-nodes", "inpainting", "stable-diffusion"]
+repository = "https://github.com/Acly/comfyui-inpaint-nodes"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

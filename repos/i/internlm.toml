@@ -1,0 +1,9 @@
+name = "InternLM"
+description = "Official release of InternLM series (InternLM, InternLM2, InternLM2.5, InternLM3)."
+category = "chat"
+tags = ["chatbot", "gpt", "large-language-model", "long-context", "rlhf", "fine-tuning-llm", "llm", "chinese"]
+repository = "https://github.com/InternLM/InternLM"
+website = "https://internlm.readthedocs.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

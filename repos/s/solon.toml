@@ -1,0 +1,9 @@
+name = "solon"
+description = "Java enterprise application development framework for full scenario: Restrained, Efficient, Open, Ecologicalll!!! 700% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% smaller; Compatible with java8 ~ java26; Supports LTS. (Replaceable spring)"
+category = "mcp-servers"
+tags = ["java", "microservice", "rpc", "rest-api", "plugin", "no-spring", "web-framework", "solon"]
+repository = "https://github.com/opensolon/solon"
+website = "https://solon.noear.org"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "Awesome-Controllable-Diffusion"
+description = "Papers and resources on Controllable Generation using Diffusion Models, including ControlNet, DreamBooth, IP-Adapter."
+category = "learning"
+tags = ["papers", "controlnet", "customization", "dall-e", "diffusion-models", "dreambooth", "latent-diffusion", "midjourney"]
+repository = "https://github.com/atfortes/Awesome-Controllable-Diffusion"
+license = "MIT"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "TTime"
+description = "Screenshots, word marking, OCR, AI, translation software || 截图、划词、文字识别、AI、翻译软件"
+category = "documents"
+tags = ["exe", "pc", "screenshots", "software", "translation", "macos", "ocr", "windows"]
+repository = "https://github.com/InkTimeRecord/TTime"
+website = "https://ttime.timerecord.cn/"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

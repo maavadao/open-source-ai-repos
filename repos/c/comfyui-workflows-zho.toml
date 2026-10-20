@@ -1,0 +1,7 @@
+name = "ComfyUI-Workflows-ZHO"
+description = "我的 ComfyUI 工作流合集 | My ComfyUI workflows collection"
+category = "image"
+tags = ["comfyui", "stable-diffusion"]
+repository = "https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO"
+license = "GPL-3.0"
+added = 2026-10-20

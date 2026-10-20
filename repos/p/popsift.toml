@@ -1,0 +1,9 @@
+name = "popsift"
+description = "PopSift is an implementation of the SIFT algorithm in CUDA."
+category = "vision"
+tags = ["computer-vision", "sift", "feature-extraction", "image-processing", "cuda", "gpu"]
+repository = "https://github.com/alicevision/popsift"
+website = "https://popsift.readthedocs.io"
+license = "MPL-2.0"
+language = "Cuda"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Claude-to-IM-skill"
+description = "Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark."
+category = "skills-prompts"
+tags = ["chatbot", "claude", "claude-code", "discord", "feishu", "lark", "skill", "telegram"]
+repository = "https://github.com/op7418/Claude-to-IM-skill"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

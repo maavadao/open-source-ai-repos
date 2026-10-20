@@ -1,0 +1,9 @@
+name = "ddpm-cd"
+description = "Remote Sensing Change Detection using Denoising Diffusion Probabilistic Models"
+category = "image"
+tags = ["change-detection", "climate-change", "diffusion-models", "remote-sensing", "segmentation"]
+repository = "https://github.com/wgcban/ddpm-cd"
+website = "https://www.wgcban.com/research#h.ar24vwqlm021"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

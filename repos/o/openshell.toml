@@ -1,0 +1,8 @@
+name = "OpenShell"
+description = "OpenShell is the safe, private runtime for autonomous AI agents."
+category = "agents"
+repository = "https://github.com/NVIDIA/OpenShell"
+website = "https://docs.nvidia.com/openshell/latest/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

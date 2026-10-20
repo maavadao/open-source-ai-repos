@@ -1,0 +1,8 @@
+name = "Entity"
+description = "EntitySeg Toolbox: Towards Open-World and High-Quality Image Segmentation"
+category = "vision"
+tags = ["image-segmentation", "segmentation", "pytorch", "instance-segmentation", "panoptic-segmentation", "semantic-segmentation", "object-detection", "fcos"]
+repository = "https://github.com/qqlu/Entity"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

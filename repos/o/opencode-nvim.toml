@@ -1,0 +1,8 @@
+name = "opencode.nvim"
+description = "Neovim OpenCode in the flow that you already know."
+category = "coding"
+tags = ["ai-agents", "ai-assistant", "neovim", "nvim", "opencode", "plugin", "terminal", "neovim-plugin"]
+repository = "https://github.com/nickjvandyke/opencode.nvim"
+license = "MIT"
+language = "Lua"
+added = 2026-10-20

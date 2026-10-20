@@ -1,0 +1,9 @@
+name = "AssisChat"
+description = "An ai-assistant chat app that using your own OpenAI/Claude API key."
+category = "chat"
+tags = ["ai", "chatgpt", "claude", "openai", "swiftui", "ipados", "macos"]
+repository = "https://github.com/noobnooc/AssisChat"
+website = "https://nooc.me"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

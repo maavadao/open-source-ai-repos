@@ -1,0 +1,9 @@
+name = "screenpipe"
+description = "YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context"
+category = "mcp-servers"
+tags = ["ai", "computer-vision", "llm", "machine-learning", "multimodal", "agents", "agi", "audio-recording"]
+repository = "https://github.com/screenpipe/screenpipe"
+website = "https://screenpipe.com"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

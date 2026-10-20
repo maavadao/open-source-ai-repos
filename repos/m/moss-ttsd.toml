@@ -1,0 +1,9 @@
+name = "MOSS-TTSD"
+description = "A multilingual model for long-form, multi-speaker dialogue synthesis with flexible speaker control and zero-shot voice cloning"
+category = "speech"
+tags = ["large-language-models", "speech-dialogue-generation", "finetune", "sglang", "streaming", "multilingual", "podcast", "speech-synthesis"]
+repository = "https://github.com/OpenMOSS/MOSS-TTSD"
+website = "https://mosi.cn/models/moss-ttsd"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

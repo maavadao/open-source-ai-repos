@@ -1,0 +1,9 @@
+name = "incognide"
+description = "Explore the unknown, build the future, own your data."
+category = "local-llms"
+tags = ["agents", "ai", "npc", "ai-agents", "artificial-intelligence", "ide", "llm-inference", "llms"]
+repository = "https://github.com/NPC-Worldwide/incognide"
+website = "https://enpisi.com/incognide.html"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

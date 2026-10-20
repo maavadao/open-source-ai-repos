@@ -1,0 +1,9 @@
+name = "picollm"
+description = "On-device LLM Inference Powered by X-Bit Quantization"
+category = "local-llms"
+tags = ["llm", "compression", "efficient-inference", "gemma", "generative-ai", "language-model", "language-models", "large-language-model"]
+repository = "https://github.com/Picovoice/picollm"
+website = "https://picovoice.ai/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

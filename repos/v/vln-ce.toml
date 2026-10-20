@@ -1,0 +1,9 @@
+name = "VLN-CE"
+description = "Vision-and-Language Navigation in Continuous Environments using Habitat"
+category = "robotics"
+tags = ["ai", "computer-vision", "robotics", "deep-learning", "research", "python"]
+repository = "https://github.com/jacobkrantz/VLN-CE"
+website = "https://jacobkrantz.github.io/vlnce/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "loong"
+description = "Lightweight, clear, and fully extensible AI agent infrastructure — learn easily, customize anything"
+category = "chat"
+tags = ["agent", "agentic-ai", "agents", "openclaw", "rust", "rust-lang", "loongclaw", "ai"]
+repository = "https://github.com/eastreams/loong"
+website = "https://loongclaw.ai"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

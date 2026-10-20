@@ -1,0 +1,9 @@
+name = "octo-server"
+description = "The Go backend powering OCTO — an open workplace built for humans × AI agents. REST & WebSocket APIs, Lobster (AI agent) orchestration, and WuKongIM real-time messaging control plane."
+category = "chat"
+tags = ["ai-agents", "apache2", "chat", "collaboration", "digital-workplace", "go", "golang", "im"]
+repository = "https://github.com/Mininglamp-OSS/octo-server"
+website = "https://github.com/Mininglamp-OSS"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

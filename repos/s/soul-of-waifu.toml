@@ -1,0 +1,9 @@
+name = "Soul-of-Waifu"
+description = "Give a soul to your favorite characters. Soul of Waifu is a desktop roleplay & AI companion app featuring Live2D/VRM avatars, voice chat & local LLM. Evolve together across immersive chat, RPG adventures, and your desktop."
+category = "local-llms"
+tags = ["ai", "ai-girlfriend", "ai-waifu", "character-ai", "live2d", "ai-companion", "ai-roleplay", "ai-vtuber"]
+repository = "https://github.com/jofizcd/Soul-of-Waifu"
+website = "https://jofizcd.github.io/soul-of-waifu-site/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

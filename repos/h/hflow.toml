@@ -1,0 +1,9 @@
+name = "hflow"
+description = "SDK for robotics teams to verify the quality of their data used for AI model training."
+category = "robotics"
+tags = ["airflow", "data-pipeline", "data-quality", "dataset-curation", "duckdb", "foxglove", "mcap", "parquet"]
+repository = "https://github.com/Hebbian-Robotics/hflow"
+website = "https://hebbianrobotics.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

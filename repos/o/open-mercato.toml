@@ -1,0 +1,9 @@
+name = "open-mercato"
+description = "The AI-Engineering Foundation Framework for business apps: open-source TypeScript, with multi-tenancy, RBAC, events and domain modules already decided as conventions and specs, so Cursor, Claude Code and Codex build features instead of re-deciding architecture. Start with 80%…"
+category = "coding"
+tags = ["crm", "typescript", "admin-panel", "ai-agents", "ai-coding", "framework", "agentic", "erp"]
+repository = "https://github.com/open-mercato/open-mercato"
+website = "https://www.openmercato.com/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

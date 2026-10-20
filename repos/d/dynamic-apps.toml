@@ -1,0 +1,8 @@
+name = "dynamic-apps"
+description = "Deploy an AI-generated backend for every user."
+category = "agents"
+repository = "https://github.com/rivet-dev/dynamic-apps"
+website = "https://rivet.dev/dynamic-apps"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

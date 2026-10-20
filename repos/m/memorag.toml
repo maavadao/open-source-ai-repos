@@ -1,0 +1,8 @@
+name = "MemoRAG"
+description = "Empowering RAG with a memory-based data interface for all-purpose applications!"
+category = "llm-apps"
+tags = ["memory", "rag", "long-llm"]
+repository = "https://github.com/qhjqhj00/MemoRAG"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

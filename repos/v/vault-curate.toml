@@ -1,0 +1,9 @@
+name = "vault-curate"
+description = "Find, connect, rediscover your notes — a local-first second brain for Obsidian. Semantic search with strong Chinese/CJK, relation graphs and semantic paths for connections you never drew, Hot/Cold rediscovery of forgotten notes. Desktop builds the index; phones and tablets…"
+category = "local-llms"
+tags = ["chinese-nlp", "embeddings", "hybrid-search", "obsidian", "obsidian-md", "obsidian-plugin", "ollama", "semantic-search"]
+repository = "https://github.com/notoriouslab/vault-curate"
+website = "https://community.obsidian.md/plugins/vault-curate"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

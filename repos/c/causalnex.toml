@@ -1,0 +1,9 @@
+name = "causalnex"
+description = "A Python library that helps data scientists to infer causation rather than observing correlation."
+category = "data-science"
+tags = ["causal-inference", "causal-models", "causal-networks", "bayesian-networks", "bayesian-inference", "machine-learning", "data-science", "causalnex"]
+repository = "https://github.com/mckinsey/causalnex"
+website = "http://causalnex.readthedocs.io/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

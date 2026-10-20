@@ -1,0 +1,9 @@
+name = "MegaDLMs"
+description = "GPU-optimized framework for training diffusion language models at any scale. The backend of Quokka, Super Data Learners, and OpenMoE 2 training."
+category = "image"
+tags = ["diffusion", "large-language-models"]
+repository = "https://github.com/JinjieNi/MegaDLMs"
+website = "https://x.com/NiJinjie/status/1972278010775851175"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

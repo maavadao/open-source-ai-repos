@@ -1,0 +1,9 @@
+name = "worldmonitor"
+description = "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface"
+category = "mcp-servers"
+tags = ["ai", "dashboard", "geopolitics", "monitoring", "news", "osint", "opensource", "palantir"]
+repository = "https://github.com/koala73/worldmonitor"
+website = "https://worldmonitor.app"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

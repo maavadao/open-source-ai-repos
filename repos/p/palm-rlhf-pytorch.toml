@@ -1,0 +1,8 @@
+name = "PaLM-rlhf-pytorch"
+description = "Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM"
+category = "models"
+tags = ["artificial-intelligence", "attention-mechanisms", "deep-learning", "reinforcement-learning", "transformers", "human-feedback"]
+repository = "https://github.com/lucidrains/PaLM-rlhf-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

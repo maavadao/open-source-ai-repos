@@ -1,0 +1,9 @@
+name = "Hunyuan3D-Omni"
+description = "Hunyuan3D-Omni: A Unified Framework for Controllable Generation of 3D Assets"
+category = "vision"
+tags = ["3d", "3d-aigc", "3d-generation", "hunyuan3d", "image-to-3d", "multimodal", "shape"]
+repository = "https://github.com/Tencent-Hunyuan/Hunyuan3D-Omni"
+website = "https://3d.hunyuan.tencent.com/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

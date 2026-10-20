@@ -1,0 +1,9 @@
+name = "redis-vl-python"
+description = "Redis Vector Library. The AI-native Python client for Redis."
+category = "mcp-servers"
+tags = ["python", "redis", "vector-database", "embedding", "large-language-models", "llm", "llmcache", "openai"]
+repository = "https://github.com/redis/redis-vl-python"
+website = "https://docs.redisvl.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

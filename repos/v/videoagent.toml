@@ -1,0 +1,9 @@
+name = "VideoAgent"
+description = "[EMNLP2026] \"VideoAgent: All-in-One Agentic Framework for Video Understanding and Editing, and Remaking\""
+category = "video"
+tags = ["agents", "llm-agents", "video-editing", "video-understanding", "notebooklm", "audio-editing", "audio-understanding", "podcast"]
+repository = "https://github.com/HKUDS/VideoAgent"
+website = "https://arxiv.org/abs/2606.23327"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

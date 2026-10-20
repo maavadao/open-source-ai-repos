@@ -1,0 +1,9 @@
+name = "Dive-into-DL-PyTorch"
+description = "本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。"
+category = "learning"
+tags = ["deep-learning", "deep-learning-tutorial", "pytorch", "pytorch-tutorial", "computer-vision", "natural-language-processing", "d2l"]
+repository = "https://github.com/ShusenTang/Dive-into-DL-PyTorch"
+website = "http://tangshusen.me/Dive-into-DL-PyTorch"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

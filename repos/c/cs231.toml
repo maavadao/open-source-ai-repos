@@ -1,0 +1,8 @@
+name = "CS231"
+description = "Complete Assignments for CS231n: Convolutional Neural Networks for Visual Recognition"
+category = "vision"
+tags = ["convolutional-neural-networks", "tensorflow", "cs231n", "visual-recognition", "image-captioning", "deep-learning", "computer-vision", "stanford"]
+repository = "https://github.com/mahanfathi/CS231"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

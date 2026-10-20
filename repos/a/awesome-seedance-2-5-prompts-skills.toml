@@ -1,0 +1,9 @@
+name = "awesome-seedance-2.5-prompts-skills"
+description = "100+ curated Seedance 2.5 prompts with real video previews, plus an installable Agent Skill that optimizes prompts, creates storyboards, and generates videos via Seedance models."
+category = "learning"
+tags = ["ai-video", "awesome-list", "image-to-video", "prompt-engineering", "prompts", "seedance", "text-to-video", "video-generation"]
+repository = "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills"
+website = "https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

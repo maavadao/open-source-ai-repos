@@ -1,0 +1,8 @@
+name = "robot_calibration"
+description = "Generic calibration for robots"
+category = "robotics"
+tags = ["ros", "robot", "calibration", "ros2"]
+repository = "https://github.com/mikeferguson/robot_calibration"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

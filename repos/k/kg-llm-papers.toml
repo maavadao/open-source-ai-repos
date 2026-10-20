@@ -1,0 +1,7 @@
+name = "KG-LLM-Papers"
+description = "[Paper List] Papers integrating knowledge graphs (KGs) and large language models (LLMs)"
+category = "learning"
+tags = ["awsome-list", "commonsense", "gpt", "knowledge", "knowledge-graph", "language-models", "large-language-models", "llm"]
+repository = "https://github.com/zjukg/KG-LLM-Papers"
+license = "MIT"
+added = 2026-10-20

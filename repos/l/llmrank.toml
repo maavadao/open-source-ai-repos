@@ -1,0 +1,8 @@
+name = "LLMRank"
+description = "[ECIR'24] Implementation of \"Large Language Models are Zero-Shot Rankers for Recommender Systems\""
+category = "chat"
+tags = ["chatgpt", "large-language-models", "recommendation-system", "recommender-system", "zero-shot-learning"]
+repository = "https://github.com/RUCAIBox/LLMRank"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

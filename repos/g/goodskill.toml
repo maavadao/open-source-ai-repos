@@ -1,0 +1,8 @@
+name = "goodsKill"
+description = "基于SpringCloud 2025.x + Dubbo 3.x + AI构建的模拟秒杀微服务项目，集成了Elasticsearch、Gateway、Mybatis-Plus、Sharding-JDBC等常用开源组件"
+category = "other"
+tags = ["sharding-jdbc", "springcloud", "springcloudalibaba", "spring-boot", "oauth2", "java", "ai"]
+repository = "https://github.com/techa03/goodsKill"
+license = "MIT"
+language = "Java"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Universal_Robots_ROS2_Driver"
+description = "Universal Robots ROS2 driver supporting CB3 and e-Series"
+category = "robotics"
+tags = ["robotics", "ros2", "ros-industrial", "ros2-foxy", "ros2-galactic", "ros2-rolling", "ros2-humble"]
+repository = "https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

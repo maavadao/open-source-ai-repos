@@ -1,0 +1,7 @@
+name = "ml-surveys"
+description = "Survey papers summarizing advances in deep learning, NLP, CV, graphs, reinforcement learning, recommendations, graphs, etc."
+category = "vision"
+tags = ["machine-learning", "survey", "recommender-system", "deep-learning", "nlp", "computer-vision", "reinforcement-learning", "embeddings"]
+repository = "https://github.com/eugeneyan/ml-surveys"
+license = "MIT"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "FlashRAG"
+description = "FlashRAG: A Python Toolkit for Efficient RAG Research (WWW2025 Resource)"
+category = "llm-apps"
+tags = ["benchmark", "datasets", "large-language-models", "retrieval-augmented-generation"]
+repository = "https://github.com/RUC-NLPIR/FlashRAG"
+website = "https://arxiv.org/abs/2405.13576"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "chatGPT-shell-cli"
+description = "Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required."
+category = "image"
+tags = ["chatbot", "chatgpt", "chatgpt-api", "chatgpt-api-wrapper", "terminal", "shell", "shell-script", "bash"]
+repository = "https://github.com/0xacx/chatGPT-shell-cli"
+website = "https://gptshell-jlyvxmvbl-acx00.vercel.app"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

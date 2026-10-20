@@ -1,0 +1,9 @@
+name = "smalldiffusion"
+description = "Simple and readable code for training and sampling from diffusion models"
+category = "image"
+tags = ["diffusion", "diffusion-model", "diffusion-models"]
+repository = "https://github.com/yuanchenyang/smalldiffusion"
+website = "https://www.chenyang.co/diffusion.html"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

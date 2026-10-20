@@ -1,0 +1,9 @@
+name = "xllm"
+description = "X—LLM: Cutting Edge & Easy LLM Finetuning"
+category = "chat"
+tags = ["alpaca", "bitsandbytes", "cerebras", "chatgpt", "deep-learning", "deep-neural-networks", "gpt", "gpt-4"]
+repository = "https://github.com/bobazooba/xllm"
+website = "https://t.me/talequestbot"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

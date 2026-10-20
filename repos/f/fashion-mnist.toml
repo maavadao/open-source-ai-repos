@@ -1,0 +1,9 @@
+name = "fashion-mnist"
+description = "A MNIST-like fashion product database. Benchmark"
+category = "vision"
+tags = ["mnist", "deep-learning", "benchmark", "machine-learning", "dataset", "computer-vision", "fashion", "fashion-mnist"]
+repository = "https://github.com/zalandoresearch/fashion-mnist"
+website = "http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

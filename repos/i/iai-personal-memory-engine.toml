@@ -1,0 +1,8 @@
+name = "iai-personal-memory-engine"
+description = "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time. Free, local, works with Cursor, Claude Code, Codex, OpenClaw, Hermes and more. MIT."
+category = "mcp-servers"
+tags = ["claude", "claude-code", "local-first", "mcp", "mcp-server", "ai-memory", "episodic-memory", "long-term-memory"]
+repository = "https://github.com/CodeAbra/iai-personal-memory-engine"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

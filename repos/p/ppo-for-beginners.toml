@@ -1,0 +1,8 @@
+name = "PPO-for-Beginners"
+description = "A simple and well styled PPO implementation. Based on my Medium series: https://medium.com/@eyyu/coding-ppo-from-scratch-with-pytorch-part-1-4-613dfc1b14c8."
+category = "ml-platforms"
+tags = ["ppo", "reinforcement-learning", "reinforcement-learning-algorithms", "machine-learning", "pytorch"]
+repository = "https://github.com/ericyangyu/PPO-for-Beginners"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "bionic-gpt"
+description = "Bionic is sovereign Agentic AI for the enterprise — Runs on-premise and can securely work with your sensitive data and systems."
+category = "agents"
+tags = ["architecture", "full-stack", "llmops", "llms", "rust", "agentic-ai"]
+repository = "https://github.com/bionic-gpt/bionic-gpt"
+website = "https://bionic-gpt.com"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

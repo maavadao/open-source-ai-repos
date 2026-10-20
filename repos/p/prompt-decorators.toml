@@ -1,0 +1,7 @@
+name = "prompt-decorators"
+description = "Prompt Decorators are structured prefixes, such as +++Reasoning and +++StepByStep, designed to enhance AI responses. Inspired by Python decorators, they make AI outputs more logical, accurate, and well-organized without requiring lengthy instructions, simplifying interactions…"
+category = "models"
+tags = ["ai", "generative-ai", "large-language-model", "large-language-models", "llm", "llms", "prompt", "prompt-engineering"]
+repository = "https://github.com/smkalami/prompt-decorators"
+license = "MIT"
+added = 2026-10-20

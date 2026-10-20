@@ -1,0 +1,9 @@
+name = "text_summurization_abstractive_methods"
+description = "Multiple implementations for abstractive text summurization , using google colab"
+category = "ml-platforms"
+tags = ["tensorflow", "deeplearning", "nlp", "machine-learning", "deep-learning", "seq2seq", "rnn", "ai"]
+repository = "https://github.com/theamrzaki/text_summurization_abstractive_methods"
+website = "https://medium.com/@theamrzaki"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

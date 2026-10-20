@@ -1,0 +1,8 @@
+name = "SDGym"
+description = "Benchmarking synthetic data generation methods."
+category = "ml-platforms"
+tags = ["synthetic-data", "benchmark", "tabular-data", "synthetic-data-vault", "sdgym-synthesizers", "generative-adversarial-network", "deep-learning", "generative-ai"]
+repository = "https://github.com/sdv-dev/SDGym"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

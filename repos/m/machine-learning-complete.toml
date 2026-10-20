@@ -1,0 +1,9 @@
+name = "machine_learning_complete"
+description = "A comprehensive machine learning repository containing 30+ notebooks on different concepts, algorithms and techniques."
+category = "learning"
+tags = ["machine-learning", "deep-learning", "data-science", "neural-networks", "computer-vision", "nlp", "tensorflow", "keras"]
+repository = "https://github.com/Nyandwi/machine_learning_complete"
+website = "https://nyandwi.com/machine_learning_complete/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "nono"
+description = "agent runtime security - zero trust, zero setup, zero latency agent sandboxing"
+category = "mcp-servers"
+tags = ["ai-agents", "security", "ai-agent-security", "ai-security", "mcp", "supply-chain-security", "zero-trust", "agent-sandbox"]
+repository = "https://github.com/nolabs-ai/nono"
+website = "https://nono.sh"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

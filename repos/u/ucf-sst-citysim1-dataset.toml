@@ -1,0 +1,9 @@
+name = "UCF-SST-CitySim1-Dataset"
+description = "Official github page of UCF SST CitySim Dataset"
+category = "robotics"
+tags = ["drone", "trajectory", "computer-vision", "open", "open-data", "carla-simulator", "dataset", "simulation"]
+repository = "https://github.com/UCF-SST-Lab/UCF-SST-CitySim1-Dataset"
+website = "http://ucfsst.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

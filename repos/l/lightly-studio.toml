@@ -1,0 +1,9 @@
+name = "lightly-studio"
+description = "LightlyStudio - The Unified Data Platform for Multimodal ML"
+category = "vision"
+tags = ["computer-vision", "image-labeling", "mlops", "curation"]
+repository = "https://github.com/lightly-ai/lightly-studio"
+website = "https://docs.lightly.ai/studio/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

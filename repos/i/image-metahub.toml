@@ -1,0 +1,9 @@
+name = "Image-MetaHub"
+description = "Local-first AI image organizer and generative media library manager for ComfyUI, A1111, InvokeAI & more. Search huge output folders by prompt, model, LoRA, metadata or visual similarity."
+category = "vector-databases"
+tags = ["automatic1111", "comfyui", "image-browser", "invokeai", "stable-diffusion", "image-metadata", "lora", "png-metadata"]
+repository = "https://github.com/LuqP2/Image-MetaHub"
+website = "https://imagemetahub.com"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "allosaurus"
+description = "Allosaurus is a pretrained universal phone recognizer for more than 2000 languages"
+category = "speech"
+tags = ["speech", "speech-recognition", "pytorch", "phonetics"]
+repository = "https://github.com/xinjli/allosaurus"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

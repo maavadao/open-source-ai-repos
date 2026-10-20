@@ -1,0 +1,9 @@
+name = "agentmesh"
+description = "Agent Mesh"
+category = "mcp-servers"
+tags = ["agentic-ai", "p2p-network", "network-security", "networking-ai", "mcp", "a2a", "a2a-protocol", "inference"]
+repository = "https://github.com/google/agentmesh"
+website = "https://google.github.io/agentmesh/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

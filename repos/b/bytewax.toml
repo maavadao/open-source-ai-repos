@@ -1,0 +1,9 @@
+name = "bytewax"
+description = "Python Stream Processing"
+category = "data-science"
+tags = ["python", "stream-processing", "rust", "data-engineering", "data-processing", "data-science", "dataflow", "machine-learning"]
+repository = "https://github.com/bytewax/bytewax"
+website = "https://docs.bytewax.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

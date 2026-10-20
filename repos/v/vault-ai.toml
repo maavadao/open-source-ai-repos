@@ -1,0 +1,9 @@
+name = "vault-ai"
+description = "OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend."
+category = "vector-databases"
+tags = ["chatgpt", "go", "golang", "knowledge-base", "long-term-memory", "machine-learning", "openai", "pdf-support"]
+repository = "https://github.com/pashpashpash/vault-ai"
+website = "https://vault.pash.city"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "DeepResearch"
+description = "Tongyi Deep Research, the Leading Open-source Deep Research Agent"
+category = "search"
+tags = ["agent", "llm", "artificial-intelligence", "information-seeking", "alibaba", "web-agent", "deepresearch", "tongyi"]
+repository = "https://github.com/Alibaba-NLP/DeepResearch"
+website = "https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

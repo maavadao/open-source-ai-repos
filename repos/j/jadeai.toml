@@ -1,0 +1,9 @@
+name = "JadeAI"
+description = "AI-Powered Smart Resume Builder — 50+ professional templates, PDF/image parsing, AI optimization, JD match analysis, multi-format export. Open source & free, one-click Docker deployment."
+category = "documents"
+tags = ["ai", "ai-writing", "resume", "resume-builder", "awesome-ai-tools", "awesome-cv", "awesome-resumes"]
+repository = "https://github.com/LingyiChen-AI/JadeAI"
+website = "https://jadeai.cturing.cn/en"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

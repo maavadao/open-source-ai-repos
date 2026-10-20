@@ -1,0 +1,9 @@
+name = "HFGI"
+description = "CVPR 2022 HFGI: High-Fidelity GAN Inversion for Image Attribute Editing"
+category = "video"
+tags = ["gan", "gan-inversion", "image-editing", "image-manipulation", "deep-learning", "video-editing", "computer-vision", "pytorch"]
+repository = "https://github.com/Tengfei-Wang/HFGI"
+website = "https://tengfei-wang.github.io/HFGI/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

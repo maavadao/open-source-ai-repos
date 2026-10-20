@@ -1,0 +1,8 @@
+name = "SensorsCalibration"
+description = "OpenCalib: A Multi-sensor Calibration Toolbox for Autonomous Driving"
+category = "robotics"
+tags = ["autonomous-driving", "calibration", "sensor"]
+repository = "https://github.com/PJLab-ADG/SensorsCalibration"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "GraphRAG4OpenWebUI"
+description = "GraphRAG4OpenWebUI integrates Microsoft's GraphRAG technology into Open WebUI, providing a versatile information retrieval API. It combines local, global, and web searches for advanced Q&A systems and search engines. This tool simplifies graph-based retrieval integration in…"
+category = "local-llms"
+tags = ["aiagents", "graphrag", "llms", "ollama", "openai", "openwebui", "rag"]
+repository = "https://github.com/win4r/GraphRAG4OpenWebUI"
+website = "https://www.youtube.com/@AIsuperdomain"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

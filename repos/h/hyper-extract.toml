@@ -1,0 +1,9 @@
+name = "Hyper-Extract"
+description = "Hypergraph is more powerful. Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command."
+category = "agents"
+tags = ["ai", "cli", "hypergraph", "information-extraction", "knowledge", "knowledge-graph", "llm", "python"]
+repository = "https://github.com/yifanfeng97/Hyper-Extract"
+website = "https://yifanfeng97.github.io/Hyper-Extract/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

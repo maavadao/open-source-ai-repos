@@ -1,0 +1,9 @@
+name = "PraisonAI"
+description = "PraisonAI — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs."
+category = "agents"
+tags = ["agents", "ai", "aiagent", "aiagents", "framework", "aiagentframework", "aiagentsframework", "ai-agent-framework"]
+repository = "https://github.com/MervinPraison/PraisonAI"
+website = "https://praison.ai/docs"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "flowcraft"
+description = "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice — runnable as a library, a daemon, or a real-time pipeline."
+category = "agents"
+tags = ["agent-framework", "agent-runtime", "agents", "ai", "ai-agents", "anthropic", "go", "golang"]
+repository = "https://github.com/GizClaw/flowcraft"
+website = "https://gizclaw.github.io/flowcraft/"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

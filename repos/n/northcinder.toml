@@ -1,0 +1,8 @@
+name = "northcinder"
+description = "Open-source MCP server for comparing products and asking the buyer before purchase."
+category = "mcp-servers"
+tags = ["agentic-commerce", "human-in-the-loop", "local-first", "mcp", "mcp-server", "model-context-protocol", "privacy", "self-hosted"]
+repository = "https://github.com/cinderline/northcinder"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

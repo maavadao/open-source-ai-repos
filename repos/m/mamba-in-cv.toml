@@ -1,0 +1,7 @@
+name = "Mamba-in-CV"
+description = "A paper list of some recent Mamba-based CV works."
+category = "learning"
+tags = ["awesome", "computer-vision", "mamba"]
+repository = "https://github.com/Yangzhangcst/Mamba-in-CV"
+license = "NOASSERTION"
+added = 2026-10-20

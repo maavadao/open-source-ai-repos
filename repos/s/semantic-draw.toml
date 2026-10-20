@@ -1,0 +1,9 @@
+name = "semantic-draw"
+description = "Official code for the CVPR 2025 paper \"SemanticDraw: Towards Real-Time Interactive Content Creation from Image Diffusion Models.\""
+category = "image"
+tags = ["diffusion-models", "drawing", "image-generation", "streaming", "text-to-image", "huggingface-spaces", "stable-diffusion", "stablediffusion3"]
+repository = "https://github.com/ironjr/semantic-draw"
+website = "https://jaerinlee.com/research/semantic-draw"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "transformer-deploy"
+description = "Efficient, scalable and enterprise-grade CPU/GPU inference server for Hugging Face transformer models"
+category = "local-llms"
+tags = ["inference", "deep-learning", "natural-language-processing", "deployment", "machine-learning", "server"]
+repository = "https://github.com/ELS-RD/transformer-deploy"
+website = "https://els-rd.github.io/transformer-deploy/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

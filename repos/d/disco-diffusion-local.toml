@@ -1,0 +1,8 @@
+name = "Disco_Diffusion_Local"
+description = "Getting the latest versions of Disco Diffusion to work locally, instead of colab. Including how I run this on Windows, despite some Linux only dependencies ;)"
+category = "image"
+tags = ["disco-diffusion", "clip", "vqgan-clip", "pytti", "python-text-to-image", "text-to-image", "media-synthesis", "art"]
+repository = "https://github.com/MohamadZeina/Disco_Diffusion_Local"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "PIDM"
+description = "Person Image Synthesis via Denoising Diffusion Model (CVPR 2023)"
+category = "image"
+tags = ["diffusion-models", "generative-models", "generativeai", "image-generation", "person-image-generation", "pose-guided-person-image-generation", "stable-diffusion", "cvpr2023"]
+repository = "https://github.com/ankanbhunia/PIDM"
+website = "https://ankanbhunia.github.io/PIDM"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

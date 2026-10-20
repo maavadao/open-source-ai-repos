@@ -1,0 +1,10 @@
+name = "firecrawl"
+description = "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence."
+category = "documents"
+tags = ["ai", "crawler", "markdown", "scraper", "html-to-markdown", "llm", "scraping", "web-crawler"]
+repository = "https://github.com/firecrawl/firecrawl"
+website = "https://www.firecrawl.dev"
+license = "AGPL-3.0"
+language = "TypeScript"
+skill_level = "beginner"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ai-engineering-interview-questions"
+description = "Your Cheat Sheet for AI Engineering Interview – Questions and Answers."
+category = "mcp-servers"
+tags = ["agents", "ai", "ai-agents", "ai-engineering", "interview", "interview-preparation", "interview-questions", "questions-and-answers"]
+repository = "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions"
+website = "https://outcomeschool.com/program/ai-and-machine-learning"
+license = "Apache-2.0"
+language = "Markdown"
+added = 2026-10-20

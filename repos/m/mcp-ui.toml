@@ -1,0 +1,9 @@
+name = "mcp-ui"
+description = "UI over MCP. Create next-gen UI experiences with the protocol and SDK!"
+category = "mcp-servers"
+tags = ["ai", "llm", "mcp", "ui", "frontend", "web"]
+repository = "https://github.com/MCP-UI-Org/mcp-ui"
+website = "https://mcpui.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "mini-coding-agent"
+description = "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents."
+category = "agents"
+tags = ["agents", "ai", "large-language-models", "llms", "python"]
+repository = "https://github.com/rasbt/mini-coding-agent"
+website = "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

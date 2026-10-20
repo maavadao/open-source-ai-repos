@@ -1,0 +1,9 @@
+name = "voice-overlay-ios"
+description = "An overlay that gets your user’s voice permission and input as text in a customizable UI"
+category = "speech"
+tags = ["voice", "voice-recognition", "voice-assistant", "voicetext", "instant-search", "instantsearch", "input", "search"]
+repository = "https://github.com/algolia/voice-overlay-ios"
+website = "https://alg.li/voice"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

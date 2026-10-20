@@ -1,0 +1,8 @@
+name = "shell_gpt"
+description = "A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently."
+category = "local-llms"
+tags = ["cheat-sheet", "cli", "gpt-3", "openai", "productivity", "shell", "chatgpt", "python"]
+repository = "https://github.com/TheR1D/shell_gpt"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

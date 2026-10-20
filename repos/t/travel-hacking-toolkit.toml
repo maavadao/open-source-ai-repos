@@ -1,0 +1,8 @@
+name = "travel-hacking-toolkit"
+description = "AI-powered travel hacking and search with cash, points, miles, and award flights. Drop-in skills and MCP servers for Claude, Codex, and OpenCode."
+category = "mcp-servers"
+tags = ["award-flights", "claude-code", "mcp", "opencode", "skills", "travel", "travel-hacking", "points-and-miles"]
+repository = "https://github.com/borski/travel-hacking-toolkit"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

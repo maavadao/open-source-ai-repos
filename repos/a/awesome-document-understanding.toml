@@ -1,0 +1,7 @@
+name = "awesome-document-understanding"
+description = "A curated list of resources for Document Understanding (DU) topic"
+category = "learning"
+tags = ["awesome-list", "machine-learning", "information-extraction", "key-information-extraction", "document-understanding", "robotic-process-automation", "document-analysis", "document-layout-analysis"]
+repository = "https://github.com/tstanislawek/awesome-document-understanding"
+license = "NOASSERTION"
+added = 2026-10-20

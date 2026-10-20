@@ -1,0 +1,8 @@
+name = "sd-webui-inpaint-anything"
+description = "Inpaint Anything extension performs stable diffusion inpainting on a browser UI using masks from Segment Anything."
+category = "image"
+tags = ["ai-art", "anything", "diffusers", "diffusion", "generative-art", "gradio", "huggingface", "huggingface-diffusers"]
+repository = "https://github.com/Uminosachi/sd-webui-inpaint-anything"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

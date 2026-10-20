@@ -1,0 +1,9 @@
+name = "agent-kanban"
+description = "An agent-first task board, Take human out of the loop."
+category = "coding"
+tags = ["agent-orchestration", "ai-agents", "ai-coding-agent", "claude-code", "cloudflare-pages", "codex", "developer-tools", "ed25519"]
+repository = "https://github.com/saltbo/agent-kanban"
+website = "https://agent-kanban.dev"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

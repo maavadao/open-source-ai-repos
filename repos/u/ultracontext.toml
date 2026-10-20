@@ -1,0 +1,9 @@
+name = "ultracontext"
+description = "Open Source Context infrastructure for AI agents. Auto-capture and share your agents' context everywhere."
+category = "agents"
+tags = ["agents", "ai", "ai-agents", "api", "context-api", "context-engineering", "context-management", "context-window"]
+repository = "https://github.com/ultracontext/ultracontext"
+website = "https://ultracontext.com"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

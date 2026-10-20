@@ -1,0 +1,9 @@
+name = "EAGLE"
+description = "Official Implementation of EAGLE-1 (ICML'24), EAGLE-2 (EMNLP'24), and EAGLE-3 (NeurIPS'25)."
+category = "local-llms"
+tags = ["large-language-models", "llm-inference", "speculative-decoding"]
+repository = "https://github.com/SafeAILab/EAGLE"
+website = "https://arxiv.org/pdf/2503.01840"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

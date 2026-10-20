@@ -1,0 +1,9 @@
+name = "Bonsai-demo"
+description = "Bonsai Demo"
+category = "local-llms"
+tags = ["bonsai", "llm", "prism-ml", "llamacpp", "mlx", "small-models"]
+repository = "https://github.com/PrismML-Eng/Bonsai-demo"
+website = "https://prismml.com/"
+license = "Apache-2.0"
+language = "Shell"
+added = 2026-10-20

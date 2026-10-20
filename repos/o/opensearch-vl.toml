@@ -1,0 +1,9 @@
+name = "OpenSearch-VL"
+description = "OpenSearch-VL provides a fully open recipe for training strong multimodal deep search agents through high-quality data curation, diverse visual/search tools, and fatal-aware agentic reinforcement learning."
+category = "models"
+tags = ["deep-research-agent", "multimodal", "opensource", "search-agent", "think-with-image", "vlm-agent"]
+repository = "https://github.com/shawn0728/OpenSearch-VL"
+website = "https://arxiv.org/pdf/2605.05185"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

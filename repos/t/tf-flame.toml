@@ -1,0 +1,9 @@
+name = "TF_FLAME"
+description = "Tensorflow framework for the FLAME 3D head model. The code demonstrates how to sample 3D heads from the model, fit the model to 2D or 3D keypoints, and how to generate textured head meshes from Images."
+category = "vision"
+tags = ["face-models", "morphable-model", "computer-graphics", "computer-vision", "face-model", "3d-models", "3d-mesh", "tensorflow"]
+repository = "https://github.com/TimoBolkart/TF_FLAME"
+website = "http://flame.is.tue.mpg.de/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

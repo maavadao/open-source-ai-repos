@@ -1,0 +1,9 @@
+name = "fma"
+description = "FMA: A Dataset For Music Analysis"
+category = "ml-platforms"
+tags = ["dataset", "music-analysis", "music-information-retrieval", "deep-learning", "open-data", "open-science", "reproducible-research"]
+repository = "https://github.com/mdeff/fma"
+website = "https://arxiv.org/abs/1612.01840"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

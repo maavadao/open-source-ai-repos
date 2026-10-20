@@ -1,0 +1,8 @@
+name = "dopamine"
+description = "Dopamine is a research framework for fast prototyping of reinforcement learning algorithms."
+category = "ml-platforms"
+tags = ["rl", "ml", "ai", "google", "tensorflow"]
+repository = "https://github.com/google/dopamine"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

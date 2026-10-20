@@ -1,0 +1,9 @@
+name = "OpenCLI"
+description = "Make Any Website into CLI & Use your logged-in browser by AI agent."
+category = "browser-automation"
+tags = ["ai-agent", "ai-agents", "ai-tools", "cli", "browser-automation", "browser-use", "playwright"]
+repository = "https://github.com/jackwener/OpenCLI"
+website = "https://opencli.info/"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

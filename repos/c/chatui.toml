@@ -1,0 +1,9 @@
+name = "ChatUI"
+description = "The UI design language and React library for Conversational UI"
+category = "chat"
+tags = ["ui", "chat", "chatbot", "react"]
+repository = "https://github.com/alibaba/ChatUI"
+website = "https://chatui.io"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

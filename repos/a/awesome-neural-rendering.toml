@@ -1,0 +1,7 @@
+name = "awesome-neural-rendering"
+description = "Resources of Neural Rendering"
+category = "learning"
+tags = ["awesome-list", "neural-rendering", "computer-vision", "computer-graphics", "neural-representations"]
+repository = "https://github.com/weihaox/awesome-neural-rendering"
+license = "MIT"
+added = 2026-10-20

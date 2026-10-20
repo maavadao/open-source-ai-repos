@@ -1,0 +1,9 @@
+name = "biocypher"
+description = "A unifying framework for biomedical research knowledge graphs"
+category = "llm-apps"
+tags = ["bioinformatics", "biomedical", "knowledge-graph", "neo4j", "framework", "ontology", "postgresql", "rdf"]
+repository = "https://github.com/biocypher/biocypher"
+website = "https://biocypher.org"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

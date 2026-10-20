@@ -1,0 +1,8 @@
+name = "pysentimiento"
+description = "A Python multilingual toolkit for Sentiment Analysis and Social NLP tasks"
+category = "models"
+tags = ["sentiment-analysis", "nlp", "transformers"]
+repository = "https://github.com/pysentimiento/pysentimiento"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Emojinator"
+description = "A simple emoji classifier for humans."
+category = "vision"
+tags = ["emojinator", "gesture", "frame", "python", "deep-learning", "object-detection", "opencv", "computer-vision"]
+repository = "https://github.com/akshaybahadur21/Emojinator"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "distrifuser"
+description = "[CVPR 2024 Highlight] DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models"
+category = "image"
+tags = ["acceleration", "diffusion-models", "generative-ai", "generative-model", "parallelism"]
+repository = "https://github.com/mit-han-lab/distrifuser"
+website = "https://hanlab.mit.edu/projects/distrifusion"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

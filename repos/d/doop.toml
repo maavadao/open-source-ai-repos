@@ -1,0 +1,9 @@
+name = "doop"
+description = "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in."
+category = "mcp-servers"
+tags = ["ai-agents", "claude-code", "claude-design", "design", "canvas", "claude", "design-tool", "mcp"]
+repository = "https://github.com/kgoedecke/doop"
+website = "https://doop.design"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

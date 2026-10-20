@@ -1,0 +1,9 @@
+name = "johnny-five"
+description = "JavaScript Robotics and IoT programming framework, developed at Bocoup."
+category = "robotics"
+tags = ["javascript", "arduino", "tessel", "raspberry-pi", "chip", "photon", "pcduino", "gpio"]
+repository = "https://github.com/rwaldron/johnny-five"
+website = "http://johnny-five.io"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

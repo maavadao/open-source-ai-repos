@@ -1,0 +1,8 @@
+name = "LLMPapers"
+description = "Papers & Works for large languange models (OpenAI GPT-4, Meta Llama, etc.)."
+category = "coding"
+tags = ["chatgpt", "codex", "gpt-3", "large-language-models"]
+repository = "https://github.com/SEU-COIN/LLMPapers"
+license = "NOASSERTION"
+language = "TeX"
+added = 2026-10-20

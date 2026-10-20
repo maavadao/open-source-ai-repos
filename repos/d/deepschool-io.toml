@@ -1,0 +1,8 @@
+name = "deepschool.io"
+description = "Deep Learning tutorials in jupyter notebooks."
+category = "learning"
+tags = ["deep-learning", "keras", "python3", "jupyter-notebook"]
+repository = "https://github.com/sachinruk/deepschool.io"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

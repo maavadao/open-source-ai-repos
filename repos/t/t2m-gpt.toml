@@ -1,0 +1,9 @@
+name = "T2M-GPT"
+description = "(CVPR 2023) Pytorch implementation of “T2M-GPT: Generating Human Motion from Textual Descriptions with Discrete Representations”"
+category = "models"
+tags = ["gpt", "motion-generation", "vq-vae"]
+repository = "https://github.com/Mael-zys/T2M-GPT"
+website = "https://mael-zys.github.io/T2M-GPT/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

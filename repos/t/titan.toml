@@ -1,0 +1,9 @@
+name = "Titan"
+description = "Create Discord server widgets for websites of all sizes! A simple to setup process for end-users. Server members may view or send messages into an embedded Discord channel."
+category = "chat"
+tags = ["discord", "webapp", "titan", "discord-bot", "chatbot", "embed", "widget", "discordpy"]
+repository = "https://github.com/TitanEmbeds/Titan"
+website = "https://titanembeds.com"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

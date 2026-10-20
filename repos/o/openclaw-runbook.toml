@@ -1,0 +1,9 @@
+name = "openclaw-runbook"
+description = "Unofficial OpenClaw runbook for running agents day to day without burning money, exposing your gateway, or trusting random automation."
+category = "agents"
+tags = ["ai-agents", "openclaw", "runbook", "security-hardening", "self-hosting", "tailscale"]
+repository = "https://github.com/digitalknk/openclaw-runbook"
+website = "https://digitalknk.github.io/openclaw-runbook/"
+license = "MIT"
+language = "Astro"
+added = 2026-10-20

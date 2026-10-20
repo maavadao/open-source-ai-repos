@@ -1,0 +1,9 @@
+name = "clip-as-service"
+description = "Scalable embedding, reasoning, ranking for images and sentences with CLIP"
+category = "models"
+tags = ["bert", "sentence-encoding", "deep-learning", "clip-model", "clip-as-service", "bert-as-service", "cross-modal-retrieval", "multi-modality"]
+repository = "https://github.com/jina-ai/clip-as-service"
+website = "https://clip-as-service.jina.ai"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "dao-code"
+description = "Open-source TypeScript terminal coding agent for DeepSeek-V4 — builds on DeepSeek's strong price-performance and ultra-cheap cache pricing, engineering byte-stable prefixes and cache-reusing forks so cross-session memory and a continuous self-correction layer add almost no…"
+category = "agents"
+tags = ["ai-agent", "cli", "coding-agent", "deepseek", "llm", "terminal", "typescript"]
+repository = "https://github.com/tigicion/dao-code"
+website = "https://www.npmjs.com/package/dao-code"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

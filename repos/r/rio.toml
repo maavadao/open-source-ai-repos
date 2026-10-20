@@ -1,0 +1,9 @@
+name = "rio"
+description = "WebApps in pure Python. No JavaScript, HTML and CSS needed"
+category = "data-science"
+tags = ["python", "data-analysis", "data-science", "data-visualization", "machine-learning", "gui", "app", "crud-application"]
+repository = "https://github.com/rio-labs/rio"
+website = "https://rio.dev"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

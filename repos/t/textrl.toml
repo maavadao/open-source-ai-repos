@@ -1,0 +1,8 @@
+name = "TextRL"
+description = "Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback) on any generation model in huggingface's transformer (blommz-176B/bloom/gpt/bart/T5/MetaICL)"
+category = "chat"
+tags = ["nlp", "reinforcement-learning", "language-model", "nlg", "controlled-nlg", "gpt-3", "gpt-2", "pytorch"]
+repository = "https://github.com/voidful/TextRL"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

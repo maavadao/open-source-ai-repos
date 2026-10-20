@@ -1,0 +1,9 @@
+name = "PhotoSketch"
+description = "Code for Photo-Sketching: Inferring Contour Drawings from Images"
+category = "vision"
+tags = ["ai", "computer-vision", "sketch", "graphics"]
+repository = "https://github.com/mtli/PhotoSketch"
+website = "http://www.cs.cmu.edu/~mengtial/proj/sketch/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

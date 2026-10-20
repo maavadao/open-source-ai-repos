@@ -1,0 +1,9 @@
+name = "projectmem"
+description = "Open-source coding agents memory. Records issues, attempts, fixes and decisions, then warns your agent before it repeats an approach that already failed. Native MCP server for Claude Code, Cursor, Antigravity and Codex. 100% local, no cloud, no telemetry. MIT."
+category = "mcp-servers"
+tags = ["ai-agents", "ai-memory", "ai-tools", "antigravity", "claude-code", "coding-assistant", "cursor", "developer-tools"]
+repository = "https://github.com/riponcm/projectmem"
+website = "https://www.projectmem.dev"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

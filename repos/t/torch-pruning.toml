@@ -1,0 +1,9 @@
+name = "Torch-Pruning"
+description = "[CVPR 2023] DepGraph: Towards Any Structural Pruning; LLMs, Vision Foundation Models, etc."
+category = "models"
+tags = ["pruning", "model-compression", "efficient-deep-learning", "llm", "transformers", "vision"]
+repository = "https://github.com/VainF/Torch-Pruning"
+website = "https://arxiv.org/abs/2301.12900"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

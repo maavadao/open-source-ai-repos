@@ -1,0 +1,9 @@
+name = "an-codeAI"
+description = "AI generate code"
+category = "other"
+tags = ["openai", "react", "edit", "generate-code", "nextjs", "screenshottocode"]
+repository = "https://github.com/sparrow-js/an-codeAI"
+website = "https://www.needware.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

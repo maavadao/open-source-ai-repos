@@ -1,0 +1,8 @@
+name = "PixelLib"
+description = "Visit PixelLib's official documentation https://pixellib.readthedocs.io/en/latest/"
+category = "vision"
+tags = ["computer-vision", "machine-learning", "artificial-intelligence", "image-segmentation", "semantic-segmentation", "instance-segmentation", "video-segmentation", "deeplab"]
+repository = "https://github.com/ayoolaolafenwa/PixelLib"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

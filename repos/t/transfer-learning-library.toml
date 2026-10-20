@@ -1,0 +1,9 @@
+name = "Transfer-Learning-Library"
+description = "Transfer Learning Library for Domain Adaptation, Task Adaptation, and Domain Generalization"
+category = "ml-platforms"
+tags = ["domain-adaptation", "transfer-learning", "finetune", "unsupervised-domain-adaptation", "image-translation", "adversarial-learning", "deep-learning", "self-training"]
+repository = "https://github.com/thuml/Transfer-Learning-Library"
+website = "http://transfer.thuml.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

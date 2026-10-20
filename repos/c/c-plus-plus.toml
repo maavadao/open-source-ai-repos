@@ -1,0 +1,9 @@
+name = "C-Plus-Plus"
+description = "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes."
+category = "learning"
+tags = ["cpp", "algorithm", "algorithms-implemented", "data-structures", "algorithm-competitions", "interview-preparation", "interview-questions", "search"]
+repository = "https://github.com/TheAlgorithms/C-Plus-Plus"
+website = "https://thealgorithms.github.io/C-Plus-Plus"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

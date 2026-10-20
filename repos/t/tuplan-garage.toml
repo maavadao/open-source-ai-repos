@@ -1,0 +1,8 @@
+name = "tuplan_garage"
+description = "[CoRL'23] Parting with Misconceptions about Learning-based Vehicle Motion Planning"
+category = "robotics"
+tags = ["autonomous-driving", "planning", "self-driving", "corl23", "nuplan"]
+repository = "https://github.com/autonomousvision/tuplan_garage"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

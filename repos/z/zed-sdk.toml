@@ -1,0 +1,9 @@
+name = "zed-sdk"
+description = "The spatial perception framework for rapidly building smart robots and spaces"
+category = "robotics"
+tags = ["zed-camera", "stereo-vision", "slam", "3d-reconstruction", "computer-vision", "depth-camera", "depth-estimation", "human-pose-estimation"]
+repository = "https://github.com/stereolabs/zed-sdk"
+website = "https://stereolabs.com"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

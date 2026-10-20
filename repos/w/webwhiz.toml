@@ -1,0 +1,9 @@
+name = "webwhiz"
+description = "WebWhiz allows you to create an AI chatbot that knows everything about your product and can instantly respond to your customer's queries."
+category = "chat"
+tags = ["ai", "chat", "chatbot", "chatgpt", "openai", "self-hosted"]
+repository = "https://github.com/webwhiz-ai/webwhiz"
+website = "https://www.webwhiz.ai/"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

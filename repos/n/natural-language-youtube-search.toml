@@ -1,0 +1,8 @@
+name = "natural-language-youtube-search"
+description = "Search inside YouTube videos using natural language"
+category = "vision"
+tags = ["machine-learning", "computer-vision", "search", "youtube", "clip"]
+repository = "https://github.com/haltakov/natural-language-youtube-search"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

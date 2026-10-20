@@ -1,0 +1,9 @@
+name = "ollama4j"
+description = "A simple Java library for interacting with Ollama server."
+category = "local-llms"
+tags = ["gpt", "java", "llm", "ollama", "gen-ai", "genai", "generative-ai", "language-model"]
+repository = "https://github.com/ollama4j/ollama4j"
+website = "https://ollama4j.github.io/ollama4j"
+license = "MIT"
+language = "Java"
+added = 2026-10-20

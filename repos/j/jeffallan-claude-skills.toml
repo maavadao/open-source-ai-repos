@@ -1,0 +1,8 @@
+name = "claude-skills"
+description = "67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer."
+category = "skills-prompts"
+tags = ["ai-agents", "claude", "claude-code", "claude-marketplace", "claude-skills"]
+repository = "https://github.com/Jeffallan/claude-skills"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

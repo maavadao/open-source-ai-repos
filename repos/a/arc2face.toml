@@ -1,0 +1,9 @@
+name = "Arc2Face"
+description = "[ECCV 2024 Oral ] Arc2Face: A Foundation Model for ID-Consistent Human Faces ------------------------ [ICCVW 2025] ID-Consistent, Precise Expression Generation with Blendshape-Guided Diffusion"
+category = "image"
+tags = ["face", "face-generation", "stable-diffusion", "id-embedding", "subject-driven-generation", "personalization", "blendshapes", "expressions"]
+repository = "https://github.com/foivospar/Arc2Face"
+website = "https://arc2face.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

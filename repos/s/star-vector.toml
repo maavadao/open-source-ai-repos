@@ -1,0 +1,9 @@
+name = "star-vector"
+description = "StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision."
+category = "models"
+tags = ["llm", "multimodal-large-language-models", "svg", "vlm"]
+repository = "https://github.com/joanrod/star-vector"
+website = "https://starvector.github.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

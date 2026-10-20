@@ -1,0 +1,8 @@
+name = "shimmy"
+description = "Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary."
+category = "local-llms"
+tags = ["llama", "llamacpp", "llm-inference", "ollama-api", "command-line-tool", "gguf", "inference-server", "local-ai"]
+repository = "https://github.com/Michael-A-Kuykendall/shimmy"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

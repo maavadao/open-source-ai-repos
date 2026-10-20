@@ -1,0 +1,7 @@
+name = "awesome-neural-ode"
+description = "A collection of resources regarding the interplay between differential equations, deep learning, dynamical systems, control and numerical methods."
+category = "learning"
+tags = ["deep-learning", "ordinary-differential-equations", "dynamical-systems", "dynamical-modeling", "ode-solver", "ode", "hamiltonian-dynamics", "implicit-models"]
+repository = "https://github.com/Zymrael/awesome-neural-ode"
+license = "MIT"
+added = 2026-10-20

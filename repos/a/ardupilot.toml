@@ -1,0 +1,10 @@
+name = "ardupilot"
+description = "ArduPlane, ArduCopter, ArduRover, ArduSub source"
+category = "robotics"
+tags = ["arducopter", "ardupilot", "arduplane", "ardurover", "ardusub", "uav", "drone", "plane"]
+repository = "https://github.com/ArduPilot/ardupilot"
+website = "http://ardupilot.org/"
+license = "GPL-3.0"
+language = "C++"
+skill_level = "advanced"
+added = 2026-10-20

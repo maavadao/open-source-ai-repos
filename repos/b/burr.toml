@@ -1,0 +1,9 @@
+name = "burr"
+description = "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on your own infrastructure."
+category = "llm-apps"
+tags = ["burr", "dags", "graphs", "llmops", "llms", "mlops", "persistent-data-structure", "state-machine"]
+repository = "https://github.com/apache/burr"
+website = "https://burr.apache.org/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "gpu_poor"
+description = "Calculate token/s & GPU memory requirement for any LLM. Supports llama.cpp/ggml/bnb/QLoRA quantization"
+category = "local-llms"
+tags = ["ggml", "huggingface", "llm", "quantization", "gpu", "language-model", "pytorch", "llama"]
+repository = "https://github.com/RahulSChand/gpu_poor"
+website = "https://rahulschand.github.io/gpu_poor/"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

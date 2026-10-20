@@ -1,0 +1,9 @@
+name = "evo-memory"
+description = "Code to train and evaluate Neural Attention Memory Models to obtain universally-applicable memory systems for transformers."
+category = "models"
+tags = ["evolutionary-algorithms", "large-language-models", "machine-learning", "transformers"]
+repository = "https://github.com/SakanaAI/evo-memory"
+website = "https://arxiv.org/abs/2410.13166"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

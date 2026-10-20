@@ -1,0 +1,8 @@
+name = "AgenticRAG-Survey"
+description = "Agentic-RAG explores advanced Retrieval-Augmented Generation systems enhanced with AI LLM agents."
+category = "agents"
+tags = ["agentic", "agentic-ai", "agentic-framework", "agentic-rag", "agentic-workflow", "rag", "agentic-pattern", "llm-agent"]
+repository = "https://github.com/asinghcsu/AgenticRAG-Survey"
+website = "https://arxiv.org/abs/2501.09136"
+license = "NOASSERTION"
+added = 2026-10-20

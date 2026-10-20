@@ -1,0 +1,7 @@
+name = "ABigSurvey"
+description = "A collection of 1000+ survey papers on Natural Language Processing (NLP) and Machine Learning (ML)."
+category = "ml-platforms"
+tags = ["natural-language-processing", "machine-learning", "deep-learning", "neural-networks", "paper-list", "surveys"]
+repository = "https://github.com/NiuTrans/ABigSurvey"
+license = "GPL-3.0"
+added = 2026-10-20

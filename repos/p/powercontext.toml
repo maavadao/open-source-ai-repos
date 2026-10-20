@@ -1,0 +1,9 @@
+name = "powercontext"
+description = "Not only memory but a full story"
+category = "agents"
+tags = ["memory", "context-engineering", "databases", "agentic", "long-term-memory", "multi-agent", "ai-agents", "handoff"]
+repository = "https://github.com/oceanbase/powercontext"
+website = "https://powercontext.oceanbase.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

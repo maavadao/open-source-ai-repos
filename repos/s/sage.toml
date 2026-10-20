@@ -1,0 +1,9 @@
+name = "Sage"
+description = "An extensible framework for custom, self-evolving AI agents, with configurable agent packages, tools, skills, and multi-round recursive self-improvement (RSI)."
+category = "mcp-servers"
+tags = ["agents", "llm", "manus", "ai", "workflow", "flutter", "mcp", "multi-agent"]
+repository = "https://github.com/ZHangZHengEric/Sage"
+website = "https://zhangzhengeric.github.io/Sage/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

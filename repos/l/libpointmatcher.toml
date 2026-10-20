@@ -1,0 +1,9 @@
+name = "libpointmatcher"
+description = "An Iterative Closest Point (ICP) library for 2D and 3D mapping in Robotics"
+category = "robotics"
+tags = ["libpointmatcher", "robotics", "ubuntu", "point-clouds", "libnabo", "lidar", "ros"]
+repository = "https://github.com/norlab-ulaval/libpointmatcher"
+website = "https://libpointmatcher.readthedocs.io/en/latest/"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

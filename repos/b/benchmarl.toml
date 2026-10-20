@@ -1,0 +1,9 @@
+name = "BenchMARL"
+description = "BenchMARL is a library for benchmarking Multi-Agent Reinforcement Learning (MARL). BenchMARL allows to quickly compare different MARL algorithms, tasks, and models while being systematically grounded in its two core tenets: reproducibility and standardization."
+category = "robotics"
+tags = ["benchmark", "machine-learning", "marl", "multi-agent", "multi-agent-reinforcement-learning", "pytorch", "reinforcement-learning", "rl"]
+repository = "https://github.com/facebookresearch/BenchMARL"
+website = "https://benchmarl.readthedocs.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "volcano"
+description = "A Cloud Native Batch System (Project under CNCF)"
+category = "local-llms"
+tags = ["batch-systems", "kubernetes", "golang", "hpc", "bigdata", "machine-learning", "gene", "ai"]
+repository = "https://github.com/volcano-sh/volcano"
+website = "https://volcano.sh"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

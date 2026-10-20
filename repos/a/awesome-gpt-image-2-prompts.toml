@@ -1,0 +1,9 @@
+name = "awesome-gpt-image-2-prompts"
+description = "Awesome GPT Image 2 Prompts"
+category = "learning"
+tags = ["gpt-image-2-prompts", "ai", "awesome", "awesome-list", "generative-ai", "gpt-image-2", "image-generation", "openai"]
+repository = "https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts"
+website = "https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

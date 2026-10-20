@@ -1,0 +1,9 @@
+name = "bmtk"
+description = "Brain Modeling Toolkit"
+category = "ml-platforms"
+tags = ["neuroscience", "modeling", "simulation", "python", "neural-networks", "neuroinformatics", "neuron"]
+repository = "https://github.com/AllenInstitute/bmtk"
+website = "https://alleninstitute.github.io/bmtk/"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

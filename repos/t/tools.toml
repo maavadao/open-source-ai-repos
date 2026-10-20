@@ -1,0 +1,9 @@
+name = "tools"
+description = "A set of tools that gives agents powerful capabilities."
+category = "mcp-servers"
+tags = ["agentic", "agentic-ai", "agents", "ai", "anthropic", "autonomous-agents", "genai", "litellm"]
+repository = "https://github.com/strands-agents/tools"
+website = "https://strandsagents.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

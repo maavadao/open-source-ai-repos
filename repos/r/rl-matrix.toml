@@ -1,0 +1,8 @@
+name = "RL_Matrix"
+description = "Deep Reinforcement Learning in C#"
+category = "agents"
+tags = ["cartpole", "deep-learning", "deep-reinforcement-learning", "dotnet", "dqn", "machine-learning", "multi-agent", "multi-agent-reinforcement-learning"]
+repository = "https://github.com/asieradzk/RL_Matrix"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

@@ -1,0 +1,10 @@
+name = "pydantic-ai"
+description = "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end."
+category = "agents"
+tags = ["agent-framework", "pydantic", "python", "genai", "llm", "harness", "harness-engineering"]
+repository = "https://github.com/pydantic/pydantic-ai"
+website = "https://ai.pydantic.dev"
+license = "MIT"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "cli"
+description = "A command-line tool to give your agents access to any app, create workflows and manage your One account."
+category = "agents"
+tags = ["agents", "apps", "cli", "one", "workflows"]
+repository = "https://github.com/withoneai/cli"
+website = "https://www.npmjs.com/package/@withone/cli"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

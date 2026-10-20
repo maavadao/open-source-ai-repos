@@ -1,0 +1,9 @@
+name = "pixie"
+description = "Instant Kubernetes-Native Application Observability"
+category = "ml-platforms"
+tags = ["golang", "kubernetes", "ebpf", "vega", "monitoring", "gke", "eks", "aks"]
+repository = "https://github.com/pixie-io/pixie"
+website = "https://px.dev"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

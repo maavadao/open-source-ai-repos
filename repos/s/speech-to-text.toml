@@ -1,0 +1,8 @@
+name = "speech-to-text"
+description = "Real-time transcription using faster-whisper"
+category = "speech"
+tags = ["faster-whisper", "speech-recognition", "whisper", "voice-recognition", "openai", "speech-to-text"]
+repository = "https://github.com/reriiasu/speech-to-text"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

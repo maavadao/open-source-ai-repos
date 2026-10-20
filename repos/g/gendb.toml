@@ -1,0 +1,9 @@
+name = "GenDB"
+description = "GenDB, an LLM-Powered Generative Query Engine Built for the Future"
+category = "coding"
+tags = ["claude-code", "database", "generative-ai", "llm", "multi-agent", "multi-modal", "query-optimization", "sql"]
+repository = "https://github.com/SolidLao/GenDB"
+website = "https://solidlao.github.io/GenDB/"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

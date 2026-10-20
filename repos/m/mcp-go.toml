@@ -1,0 +1,8 @@
+name = "mcp-go"
+description = "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools."
+category = "mcp-servers"
+repository = "https://github.com/mark3labs/mcp-go"
+website = "http://mcp-go.dev/"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

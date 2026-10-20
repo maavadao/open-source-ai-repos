@@ -1,0 +1,9 @@
+name = "RLHF-Reward-Modeling"
+description = "Recipes to train reward model for RLHF."
+category = "models"
+tags = ["llm", "rlhf", "reward-models", "llama3"]
+repository = "https://github.com/RLHFlow/RLHF-Reward-Modeling"
+website = "https://rlhflow.github.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

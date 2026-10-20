@@ -1,0 +1,9 @@
+name = "accel-brain-code"
+description = "The purpose of this repository is to make prototypes as case study in the context of proof of concept(PoC) and research and development(R&D) that I have written in my website. The main research topics are Auto-Encoders in relation to the representation learning, the…"
+category = "ml-platforms"
+tags = ["automatic-summarization", "deep-learning", "deep-reinforcement-learning", "reinforcement-learning", "q-learning", "restricted-boltzmann-machine", "simulated-annealing", "quantum-monte-carlo"]
+repository = "https://github.com/accel-brain/accel-brain-code"
+website = "https://accel-brain.co.jp"
+license = "GPL-2.0"
+language = "Python"
+added = 2026-10-20

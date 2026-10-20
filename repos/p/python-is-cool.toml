@@ -1,0 +1,9 @@
+name = "python-is-cool"
+description = "Cool Python features for machine learning that I used to be too afraid to use. Will be updated as I have more time / learn more."
+category = "learning"
+tags = ["python-tutorials", "python3", "advanced-python", "data-science", "machine-learning"]
+repository = "https://github.com/chiphuyen/python-is-cool"
+website = "https://huyenchip.com"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

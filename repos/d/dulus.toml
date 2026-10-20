@@ -1,0 +1,9 @@
+name = "Dulus"
+description = "Dulus Ai — Agentic AI, 100% cache hit rate, Dulus is made to save you money [Gui, Web, Cli, Telegram, 2,000 MCP, 100K Skills . LiteLLM (100+ providers), local models via Ollama, /lang in 34 languages, Mesa Redonda, I create the first utility coin that can be used 100% as AI…"
+category = "chat"
+tags = ["agent", "ai", "assistant", "openai", "dulus", "cli", "claude"]
+repository = "https://github.com/KevRojo/Dulus"
+website = "https://dulus.ai/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "uncertainty-baselines"
+description = "High-quality implementations of standard and SOTA methods on a variety of tasks."
+category = "ml-platforms"
+tags = ["bayesian-methods", "deep-learning", "machine-learning", "data-science", "tensorflow", "neural-networks", "statistics", "probabilistic-programming"]
+repository = "https://github.com/google/uncertainty-baselines"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

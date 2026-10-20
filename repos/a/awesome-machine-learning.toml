@@ -1,0 +1,8 @@
+name = "awesome-machine-learning"
+description = "A curated list of awesome Machine Learning frameworks, libraries and software."
+category = "learning"
+repository = "https://github.com/josephmisiti/awesome-machine-learning"
+license = "NOASSERTION"
+language = "Python"
+skill_level = "beginner"
+added = 2026-10-20

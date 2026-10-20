@@ -1,0 +1,8 @@
+name = "mlx-audio-swift"
+description = "A modular Swift SDK for audio processing with MLX on Apple Silicon"
+category = "speech"
+tags = ["mlx", "mlx-audio", "speech-to-speech", "speech-to-text", "stt", "text-to-speech", "tts", "mlx-audio-swift"]
+repository = "https://github.com/Blaizzy/mlx-audio-swift"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "scira-mcp-chat"
+description = "A minimalistic MCP client with a good feature set."
+category = "mcp-servers"
+tags = ["anthropic", "grok3", "mcp", "mcp-client", "model-context-protocol", "openai", "xai"]
+repository = "https://github.com/zaidmukaddam/scira-mcp-chat"
+website = "https://mcpchat.scira.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

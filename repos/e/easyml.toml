@@ -1,0 +1,8 @@
+name = "EasyML"
+description = "Easy Machine Learning is a general-purpose dataflow-based system for easing the process of applying machine learning algorithms to real world tasks."
+category = "ml-platforms"
+tags = ["machine-learning-studio", "machine-learning-platform", "learning-platform", "machine-learning", "big-data-analytics"]
+repository = "https://github.com/ICT-BDA/EasyML"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

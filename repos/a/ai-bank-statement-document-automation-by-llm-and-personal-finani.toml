@@ -1,0 +1,8 @@
+name = "AI"
+description = "AI Bank Statement Document Automation By LLM model and Personal Finanical Analysis"
+category = "documents"
+tags = ["document-automation", "gemma", "llm", "ocr", "python", "rag", "ai-agents", "crewai"]
+repository = "https://github.com/johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

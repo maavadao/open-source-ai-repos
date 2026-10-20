@@ -1,0 +1,9 @@
+name = "LangChain"
+description = "C# implementation of LangChain. We try to be as close to the original as possible in terms of abstractions, but are open to new entities."
+category = "llm-apps"
+tags = ["ai", "csharp", "langchain", "llm", "langchain-csharp", "openai", "sdk", "langchain-dotnet"]
+repository = "https://github.com/tryAGI/LangChain"
+website = "https://tryagi.github.io/LangChain/"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

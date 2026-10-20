@@ -1,0 +1,9 @@
+name = "bottender"
+description = "A framework for building conversational user interfaces."
+category = "chat"
+tags = ["messaging", "messenger", "line", "slack", "telegram", "bot", "chatbot", "framework"]
+repository = "https://github.com/Yoctol/bottender"
+website = "https://bottender.js.org"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

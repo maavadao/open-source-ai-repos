@@ -1,0 +1,9 @@
+name = "sokuji"
+description = "Real-time two-way speech translation for bilingual meetings — auto-detects the spoken language and translates both directions, cloud or fully offline on-device. Desktop (Windows · macOS · Linux) + browser extension (Chrome · Edge) for Zoom, Meet, Teams & any app."
+category = "speech"
+tags = ["ai", "meeting", "translation", "chrome-extension", "llm", "translator", "electron", "linux-app"]
+repository = "https://github.com/kizuna-ai-lab/sokuji"
+website = "https://sokuji.kizuna.ai"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

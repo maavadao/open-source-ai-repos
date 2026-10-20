@@ -1,0 +1,8 @@
+name = "anything-analyzer"
+description = "全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE | All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration"
+category = "mcp-servers"
+tags = ["2api", "ai-tools", "api-analysis", "automation-tools", "blackbox-testing", "network-analysis", "protocol-analysis", "reverse-engineering"]
+repository = "https://github.com/Mouseww/anything-analyzer"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

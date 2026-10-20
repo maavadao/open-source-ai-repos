@@ -1,0 +1,8 @@
+name = "ComfyUI_ADV_CLIP_emb"
+description = "ComfyUI node that let you pick the way in which prompt weights are interpreted"
+category = "image"
+tags = ["comfyui", "stable-diffusion"]
+repository = "https://github.com/BlenderNeko/ComfyUI_ADV_CLIP_emb"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

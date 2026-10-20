@@ -1,0 +1,8 @@
+name = "chatgpt-telegram-bot"
+description = "A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python"
+category = "speech"
+tags = ["chatgpt", "openai", "python", "telegram-bot", "dall-e", "whisper"]
+repository = "https://github.com/n3d1117/chatgpt-telegram-bot"
+license = "GPL-2.0"
+language = "Python"
+added = 2026-10-20

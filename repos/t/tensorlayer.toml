@@ -1,0 +1,9 @@
+name = "TensorLayer"
+description = "Deep Learning and Reinforcement Learning Library for Scientists and Engineers"
+category = "learning"
+tags = ["tensorlayer", "deep-learning", "tensorflow", "neural-network", "reinforcement-learning", "artificial-intelligence", "gan", "a3c"]
+repository = "https://github.com/tensorlayer/TensorLayer"
+website = "http://tensorlayerx.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

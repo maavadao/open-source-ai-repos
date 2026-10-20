@@ -1,0 +1,9 @@
+name = "Open-OmniVCus"
+description = "OmniVCus: Feedforward Subject-driven Video Customization with Multimodal Control Conditions (NeurIPS 2025)"
+category = "video"
+tags = ["customization", "diffusers", "diffusion-models", "dit", "transformer", "video-generation", "multimodal-generation"]
+repository = "https://github.com/caiyuanhao1998/Open-OmniVCus"
+website = "https://caiyuanhao1998.github.io/project/OmniVCus/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

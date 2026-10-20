@@ -1,0 +1,8 @@
+name = "Automatic_Speech_Recognition"
+description = "End-to-end Automatic Speech Recognition for Madarian and English in Tensorflow"
+category = "speech"
+tags = ["automatic-speech-recognition", "tensorflow", "timit-dataset", "feature-vector", "phonemes", "data-preprocessing", "rnn", "audio"]
+repository = "https://github.com/zzw922cn/Automatic_Speech_Recognition"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

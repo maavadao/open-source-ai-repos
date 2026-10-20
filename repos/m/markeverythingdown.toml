@@ -1,0 +1,8 @@
+name = "MarkEverythingDown"
+description = "Convert files (PDF, image, Word, PPT, Excel, notebooks, code snippets) to markdown using powerful multimodal LLM"
+category = "learning"
+tags = ["image-processing", "markdown", "microsoft-office", "pdf", "qwen", "markdownconversion", "pdftomarkdown", "multimodal"]
+repository = "https://github.com/RoffyS/MarkEverythingDown"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

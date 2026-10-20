@@ -1,0 +1,8 @@
+name = "ECCV2022-RIFE"
+description = "ECCV2022 - Real-Time Intermediate Flow Estimation for Video Frame Interpolation"
+category = "image"
+tags = ["video-interpolation", "computer-vision", "slomo-filter", "deep-learning", "aigc"]
+repository = "https://github.com/hzwer/ECCV2022-RIFE"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

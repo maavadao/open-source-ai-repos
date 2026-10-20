@@ -1,0 +1,8 @@
+name = "stable-diffusion-webui-depthmap-script"
+description = "High Resolution Depth Maps for Stable Diffusion WebUI"
+category = "image"
+tags = ["depthmap", "stable-diffusion", "lookingglass"]
+repository = "https://github.com/thygate/stable-diffusion-webui-depthmap-script"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

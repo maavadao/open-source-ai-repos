@@ -1,0 +1,9 @@
+name = "EEG-DL"
+description = "A Deep Learning library for EEG Tasks (Signals) Classification, based on TensorFlow."
+category = "models"
+tags = ["deep-learning", "eeg-classification", "eeg-signals-processing", "tensorflow", "motor-imagery-classification", "eeg-data", "cnn", "rnn"]
+repository = "https://github.com/SuperBruceJia/EEG-DL"
+website = "https://www.nitrc.org/projects/eeg_dl_library"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

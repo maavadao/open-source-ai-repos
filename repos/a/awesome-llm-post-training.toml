@@ -1,0 +1,8 @@
+name = "Awesome-LLM-Post-training"
+description = "Awesome Reasoning LLM Tutorial/Survey/Guide"
+category = "learning"
+tags = ["fine", "large-language-models", "post-training", "reasoning", "reinforcement-learning", "scaling"]
+repository = "https://github.com/mbzuai-oryx/Awesome-LLM-Post-training"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "ImageFolder"
+description = "High-performance Image Tokenizers for VAR and AR"
+category = "image"
+tags = ["autoregressive-models", "conditional-generation", "diffusion-models", "image-generation", "large-language-model", "product-quantization", "vision-transformer", "efficient-tokenizer"]
+repository = "https://github.com/lxa9867/ImageFolder"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "flash-diffusion"
+description = "Flash Diffusion — accelerating conditional diffusion models (AAAI 2025 Oral)"
+category = "image"
+tags = ["diffusion-models", "distillation", "dit", "inpainting", "sdxl", "super-resolution", "text-to-image"]
+repository = "https://github.com/gojasper/flash-diffusion"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

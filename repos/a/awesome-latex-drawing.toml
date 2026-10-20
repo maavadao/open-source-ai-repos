@@ -1,0 +1,9 @@
+name = "awesome-latex-drawing"
+description = "Drawing Bayesian networks, graphical models, tensors, technical frameworks, and illustrations in LaTeX."
+category = "learning"
+tags = ["latex", "machine-learning"]
+repository = "https://github.com/xinychen/awesome-latex-drawing"
+website = "https://spatiotemporal-data.github.io/awesome-latex-drawing/"
+license = "MIT"
+language = "TeX"
+added = 2026-10-20

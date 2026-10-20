@@ -1,0 +1,9 @@
+name = "st-chat"
+description = "Streamlit Component, for a Chatbot UI"
+category = "chat"
+tags = ["streamlit-component", "chatbot", "hacktoberfest"]
+repository = "https://github.com/AI-Yash/st-chat"
+website = "https://pypi.org/project/streamlit-chat/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

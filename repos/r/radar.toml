@@ -1,0 +1,9 @@
+name = "radar"
+description = "The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and cluster audits - all in one Go binary."
+category = "mcp-servers"
+tags = ["argocd", "cloud-native", "gitops", "helm", "k8s", "kubectl-plugin", "kubernetes", "kubernetes-dashboard"]
+repository = "https://github.com/skyhook-io/radar"
+website = "https://radarhq.io"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

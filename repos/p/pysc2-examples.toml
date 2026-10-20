@@ -1,0 +1,8 @@
+name = "pysc2-examples"
+description = "StarCraft II - pysc2 Deep Reinforcement Learning Examples"
+category = "ml-platforms"
+tags = ["startcraft2", "ai", "machine-learning", "reinforcement-learning", "deep-reinforcement-learning", "deep-q-network", "deepmind"]
+repository = "https://github.com/chris-chris/pysc2-examples"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

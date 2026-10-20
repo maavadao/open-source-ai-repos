@@ -1,0 +1,9 @@
+name = "open-codesign"
+description = "Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT."
+category = "coding"
+tags = ["ai-design", "anthropic", "byok", "claude-design", "desktop-app", "electron", "local-first", "multi-model"]
+repository = "https://github.com/OpenCoworkAI/open-codesign"
+website = "https://opencoworkai.github.io/open-codesign/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

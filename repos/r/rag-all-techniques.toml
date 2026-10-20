@@ -1,0 +1,8 @@
+name = "rag-all-techniques"
+description = "Implementation of all RAG techniques in a simpler way（以简单的方式实现所有 RAG 技术）"
+category = "llm-apps"
+tags = ["llm", "rag"]
+repository = "https://github.com/liu673/rag-all-techniques"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

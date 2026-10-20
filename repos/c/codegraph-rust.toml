@@ -1,0 +1,8 @@
+name = "codegraph-rust"
+description = "100% Rust implementation of code graphRAG with blazing fast AST+FastML parsing, surrealDB backend and advanced agentic code analysis tools through MCP for efficient code agent context management"
+category = "coding"
+tags = ["graphrag", "claude-code", "codex", "cursor", "code-search", "agents", "ai-agents", "ai-coding"]
+repository = "https://github.com/Jakedismo/codegraph-rust"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

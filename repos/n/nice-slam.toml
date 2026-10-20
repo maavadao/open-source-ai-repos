@@ -1,0 +1,9 @@
+name = "nice-slam"
+description = "[CVPR'22] NICE-SLAM: Neural Implicit Scalable Encoding for SLAM"
+category = "robotics"
+tags = ["slam", "neural-fields", "neural-implicit-representations", "scalable", "implicit-functions", "localization", "deep-learning", "3d-reconstruction"]
+repository = "https://github.com/cvg/nice-slam"
+website = "https://pengsongyou.github.io/nice-slam"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

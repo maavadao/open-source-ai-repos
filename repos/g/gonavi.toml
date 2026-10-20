@@ -1,0 +1,9 @@
+name = "GoNavi"
+description = "High-performance multi-data-source database client — ~30MB, AI & MCP ready, zero Electron bloat. | 高性能多数据源数据库客户端：约 30MB，AI 与 MCP 就绪，告别 Electron 膨胀。"
+category = "mcp-servers"
+tags = ["ai", "cross-platform", "database-client", "database-gui", "desktop-app", "developer-tools", "golang", "kafka"]
+repository = "https://github.com/Syngnat/GoNavi"
+website = "https://gonavi.org"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

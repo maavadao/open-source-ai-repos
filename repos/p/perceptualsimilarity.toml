@@ -1,0 +1,9 @@
+name = "PerceptualSimilarity"
+description = "LPIPS metric. pip install lpips"
+category = "ml-platforms"
+tags = ["deep-learning", "deep-neural-networks", "perceptual", "perceptual-metric", "perceptual-losses", "pytorch", "perceptual-similarity"]
+repository = "https://github.com/richzhang/PerceptualSimilarity"
+website = "https://richzhang.github.io/PerceptualSimilarity"
+license = "BSD-2-Clause"
+language = "Python"
+added = 2026-10-20

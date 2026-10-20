@@ -1,0 +1,9 @@
+name = "GPTARS_Interstellar"
+description = "TARS from Interstellar x ChatGPT"
+category = "robotics"
+tags = ["chatgpt", "interstellar", "python", "raspberrypi", "robotics", "tars", "gptars"]
+repository = "https://github.com/poboisvert/GPTARS_Interstellar"
+website = "https://i.ibb.co/JqcmVM3/Screenshot-2024-07-06-at-8-47-09-PM.png"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

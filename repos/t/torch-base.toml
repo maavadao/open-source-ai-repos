@@ -1,0 +1,8 @@
+name = "torch_base"
+description = "Quickly bring up your PyTorch project(a skeleton)"
+category = "vision"
+tags = ["pytorch", "computer-vision", "deep-learning", "machine-learning"]
+repository = "https://github.com/ahangchen/torch_base"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

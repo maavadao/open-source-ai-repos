@@ -1,0 +1,8 @@
+name = "crocoddyl"
+description = "Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms"
+category = "coding"
+tags = ["optimal-control", "motion-planning", "differential-dynamic-programming", "legged-robotics", "model-predictive-control", "code-generation", "ros", "conda"]
+repository = "https://github.com/loco-3d/crocoddyl"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

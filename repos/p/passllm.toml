@@ -1,0 +1,8 @@
+name = "PassLLM"
+description = "World's most accurate password guessing AI tool. A PyTorch implementation of PassLLM (USENIX 2025) that leverages PII and LoRA fine-tuning to outperform existing tools by over 45% on consumer hardware."
+category = "image"
+tags = ["llm", "lora", "machine-learning", "pytorch", "security", "ai", "artificial-intelligence", "deep-learning"]
+repository = "https://github.com/Tzohar/PassLLM"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

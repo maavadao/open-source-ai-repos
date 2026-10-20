@@ -1,0 +1,9 @@
+name = "ultravox"
+description = "A fast multimodal LLM for real-time voice"
+category = "speech"
+tags = ["ai", "llm", "slm", "speech"]
+repository = "https://github.com/fixie-ai/ultravox"
+website = "https://ultravox.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

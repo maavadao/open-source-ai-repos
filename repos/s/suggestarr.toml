@@ -1,0 +1,9 @@
+name = "SuggestArr"
+description = "Effortlessly request recommended movies, TV shows and anime to Jellyseer/Overseer based on your recently watched content on Jellyfin, Plex or Emby—let SuggestArr handle it all automatically, keeping your library fresh with new and exciting content!"
+category = "no-code"
+tags = ["jellyfin", "jellyseerr", "self-hosted", "tmdb", "automation", "docker", "media-automation", "open-source"]
+repository = "https://github.com/giuseppe99barchetta/SuggestArr"
+website = "https://giuseppe99barchetta.github.io/SuggestArr/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

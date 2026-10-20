@@ -1,0 +1,9 @@
+name = "hedgehog-lab"
+description = "Run, compile and execute JavaScript for Scientific Computing and Data Visualization TOTALLY TOTALLY TOTALLY in your BROWSER! An open source scientific computing environment for JavaScript TOTALLY in your browser, matrix operations with GPU acceleration, TeX support, data…"
+category = "data-science"
+tags = ["javascript", "scientific-computing", "machine-learning", "symbolic-computation", "computer-algebra", "gpu-acceleration", "webgl", "webgl2"]
+repository = "https://github.com/Hedgehog-Computing/hedgehog-lab"
+website = "https://hlab.app"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "skrl"
+description = "Modular Reinforcement Learning (RL) library (implemented in PyTorch, JAX, and NVIDIA Warp) with support for Gymnasium/Gym, NVIDIA Isaac Lab, MuJoCo Playground and other environments"
+category = "robotics"
+tags = ["reinforcement-learning", "python", "deep-learning", "gym", "gymnasium", "machine-learning", "robotics", "jax"]
+repository = "https://github.com/Toni-SM/skrl"
+website = "https://skrl.readthedocs.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "isaacLab.manipulation"
+description = "An independent extension based on IsaacLab. It provides support for Robot Manipulation tasks (Robot Arm and Dextrous Hand)."
+category = "robotics"
+tags = ["isaacgym", "isaaclab", "isaacsim", "manipulation", "robot-learning"]
+repository = "https://github.com/NathanWu7/isaacLab.manipulation"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

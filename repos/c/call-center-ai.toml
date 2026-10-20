@@ -1,0 +1,7 @@
+name = "call-center-ai"
+description = "Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!"
+category = "agents"
+repository = "https://github.com/microsoft/call-center-ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

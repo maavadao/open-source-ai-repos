@@ -1,0 +1,9 @@
+name = "CompressAI"
+description = "A PyTorch library and evaluation platform for end-to-end compression research"
+category = "ml-platforms"
+tags = ["compression", "deep-learning", "python", "pytorch", "machine-learning", "deep-neural-networks", "neural-network"]
+repository = "https://github.com/InterDigitalInc/CompressAI"
+website = "https://interdigitalinc.github.io/CompressAI/"
+license = "BSD-3-Clause-Clear"
+language = "Python"
+added = 2026-10-20

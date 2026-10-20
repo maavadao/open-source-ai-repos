@@ -1,0 +1,8 @@
+name = "TeaLeaves"
+description = "End-to-end pipeline for seeing how LLMs actually process your prompts. Capture attention across every layer, render heatmaps and cooking curves, compare variants with evidence — not vibes."
+category = "security"
+tags = ["ai-safety", "attention", "attention-mechanism", "data-visualization", "deep-learning", "explainable-ai", "generative-ai", "huggingface"]
+repository = "https://github.com/taylorsatula/TeaLeaves"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

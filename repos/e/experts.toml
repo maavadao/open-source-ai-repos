@@ -1,0 +1,9 @@
+name = "experts"
+description = "Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail."
+category = "agents"
+tags = ["agents", "assistants-api", "multi-agent-systems", "openai", "openai-assistants", "openai-assistants-api", "ai", "ai-agents"]
+repository = "https://github.com/metaskills/experts"
+website = "https://www.unremarkable.ai/experts/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

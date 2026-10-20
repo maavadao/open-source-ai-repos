@@ -1,0 +1,9 @@
+name = "UForm"
+description = "Pocket-Sized Multimodal AI for content understanding and generation across multilingual texts, images, and video, up to 5x faster than OpenAI CLIP and LLaVA &"
+category = "vector-databases"
+tags = ["huggingface-transformers", "language-vision", "multimodal", "pytorch", "semantic-search", "transformer", "cross-attention", "vector-search"]
+repository = "https://github.com/unum-cloud/UForm"
+website = "https://unum-cloud.github.io/UForm"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

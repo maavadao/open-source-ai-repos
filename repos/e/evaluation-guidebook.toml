@@ -1,0 +1,8 @@
+name = "evaluation-guidebook"
+description = "Sharing both practical insights and theoretical knowledge about LLM evaluation that we gathered while managing the Open LLM Leaderboard and designing lighteval!"
+category = "learning"
+tags = ["evaluation", "evaluation-metrics", "guidebook", "large-language-models", "llm", "machine-learning", "tutorial"]
+repository = "https://github.com/huggingface/evaluation-guidebook"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

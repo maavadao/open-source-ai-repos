@@ -1,0 +1,8 @@
+name = "Interceptor"
+description = "Browser automation and computer use for AI agents. One CLI and MCP server for your signed-in browser, native macOS apps, and real iPhones."
+category = "mcp-servers"
+tags = ["ai-agents", "ai-tools", "browser-automation", "browser-extension", "browser-use", "agent-skills", "cli", "computer-use"]
+repository = "https://github.com/Hacker-Valley-Media/Interceptor"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

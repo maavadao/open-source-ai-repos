@@ -1,0 +1,6 @@
+name = "agents"
+description = "sharing current agents in use"
+category = "agents"
+repository = "https://github.com/contains-studio/agents"
+license = "NOASSERTION"
+added = 2026-10-20

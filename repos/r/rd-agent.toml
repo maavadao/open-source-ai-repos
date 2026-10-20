@@ -1,0 +1,9 @@
+name = "RD-Agent"
+description = "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent…"
+category = "no-code"
+tags = ["agent", "ai", "automation", "data-mining", "data-science", "development", "llm", "research"]
+repository = "https://github.com/microsoft/RD-Agent"
+website = "https://rdagent.azurewebsites.net/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

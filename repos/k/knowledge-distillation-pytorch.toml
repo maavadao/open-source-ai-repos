@@ -1,0 +1,8 @@
+name = "knowledge-distillation-pytorch"
+description = "A PyTorch implementation for exploring deep and shallow knowledge distillation (KD) experiments with flexibility"
+category = "vision"
+tags = ["pytorch", "knowledge-distillation", "deep-neural-networks", "cifar10", "model-compression", "dark-knowledge", "computer-vision"]
+repository = "https://github.com/haitongli/knowledge-distillation-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

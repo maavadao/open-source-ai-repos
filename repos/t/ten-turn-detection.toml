@@ -1,0 +1,9 @@
+name = "ten-turn-detection"
+description = "Turn detection for full-duplex dialogue communication"
+category = "models"
+tags = ["large-language-models", "natural-language-understanding", "real-time", "turn-taking", "turn-detection", "turn-detector"]
+repository = "https://github.com/TEN-framework/ten-turn-detection"
+website = "https://huggingface.co/TEN-framework/TEN_Turn_Detection"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

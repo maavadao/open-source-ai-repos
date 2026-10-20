@@ -1,0 +1,8 @@
+name = "ReAct"
+description = "[ICLR 2023] ReAct: Synergizing Reasoning and Acting in Language Models"
+category = "models"
+tags = ["decision-making", "large-language-models", "llm", "prompting", "reasoning"]
+repository = "https://github.com/ysymyth/ReAct"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

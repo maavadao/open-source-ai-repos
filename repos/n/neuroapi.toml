@@ -1,0 +1,9 @@
+name = "NeuroAPI"
+description = "NeuroAPI: российский AI API для Codex CLI и Claude Code — безопасные one-click установщики для Windows и macOS."
+category = "coding"
+tags = ["chatgpt", "chatgpt-api", "openai-api", "gpt-4o", "gpt-4o-api", "gpt-5", "neuroapi", "ai-api"]
+repository = "https://github.com/neurogen-dev/NeuroAPI"
+website = "https://neuroapi.host"
+license = "MIT"
+language = "PowerShell"
+added = 2026-10-20

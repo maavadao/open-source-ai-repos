@@ -1,0 +1,8 @@
+name = "open-chatgpt-atlas"
+description = "Open Source and Free Alternative to ChatGPT Atlas."
+category = "chat"
+tags = ["browser-use-agent", "chatgpt", "chatgpt-atlas", "chatgpt-atlas-download", "gpt", "openai", "ai-automation", "ai-browser"]
+repository = "https://github.com/composio-community/open-chatgpt-atlas"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

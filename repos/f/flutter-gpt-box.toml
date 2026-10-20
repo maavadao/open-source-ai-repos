@@ -1,0 +1,8 @@
+name = "flutter_gpt_box"
+description = "GPTBox - a third-party client for OpenAI API."
+category = "chat"
+tags = ["app", "flutter", "gpt", "openai", "chat", "chatgpt"]
+repository = "https://github.com/lollipopkit/flutter_gpt_box"
+license = "GPL-3.0"
+language = "Dart"
+added = 2026-10-20

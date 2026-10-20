@@ -1,0 +1,8 @@
+name = "onnx-tensorrt"
+description = "ONNX-TensorRT: TensorRT backend for ONNX"
+category = "ml-platforms"
+tags = ["onnx", "deep-learning", "nvidia"]
+repository = "https://github.com/onnx/onnx-tensorrt"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

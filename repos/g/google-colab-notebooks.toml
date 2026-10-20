@@ -1,0 +1,8 @@
+name = "Google-Colab_Notebooks"
+description = "A Collection of Google Colab Notebooks for various projects"
+category = "learning"
+tags = ["animate-x", "ltxvideo", "hidream", "colab-notebooks", "upscaling", "image-to-image", "image-to-video", "text-to-image"]
+repository = "https://github.com/Isi-dev/Google-Colab_Notebooks"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

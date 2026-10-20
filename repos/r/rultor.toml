@@ -1,0 +1,9 @@
+name = "rultor"
+description = "DevOps team assistant that helps you merge, deploy, and release GitHub-hosted apps and libraries"
+category = "chat"
+tags = ["docker-container", "devops", "deployment", "docker", "continuous-delivery", "chatbot", "java", "xml"]
+repository = "https://github.com/yegor256/rultor"
+website = "https://www.rultor.com"
+license = "NOASSERTION"
+language = "Java"
+added = 2026-10-20

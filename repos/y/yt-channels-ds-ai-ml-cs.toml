@@ -1,0 +1,8 @@
+name = "yt-channels-DS-AI-ML-CS"
+description = "A comprehensive list of 180+ YouTube Channels for Data Science, Data Engineering, Machine Learning, Deep learning, Computer Science, programming, software engineering, etc."
+category = "learning"
+tags = ["ml", "ai", "machine-learning", "artificial-intelligence", "data-science", "resources", "youtube", "awesome-list"]
+repository = "https://github.com/benthecoder/yt-channels-DS-AI-ML-CS"
+website = "https://benthecoder.github.io/yt-channels-DS-AI-ML-CS/"
+license = "NOASSERTION"
+added = 2026-10-20

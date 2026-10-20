@@ -1,0 +1,9 @@
+name = "gemini-fullstack-langgraph-quickstart"
+description = "Get started with building Fullstack Agents using Gemini 2.5 and LangGraph"
+category = "agents"
+tags = ["gemini", "gemini-api"]
+repository = "https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart"
+website = "https://ai.google.dev/gemini-api/docs/google-search"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

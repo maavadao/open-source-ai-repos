@@ -1,0 +1,9 @@
+name = "TimeMixer"
+description = "[ICLR 2024] Official implementation of \"TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting\""
+category = "ml-platforms"
+tags = ["deep-learning", "machine-learning", "time-series", "time-series-forecasting", "time-series-analysis"]
+repository = "https://github.com/kwuking/TimeMixer"
+website = "https://openreview.net/pdf?id=7oLshfEIC2"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

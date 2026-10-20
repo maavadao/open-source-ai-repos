@@ -1,0 +1,8 @@
+name = "ShellOracle"
+description = "A terminal utility for intelligent shell command generation"
+category = "local-llms"
+tags = ["ai", "developer-tools", "llm", "macos", "ollama", "terminal", "zsh", "linux"]
+repository = "https://github.com/djcopley/ShellOracle"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

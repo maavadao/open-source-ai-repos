@@ -1,0 +1,9 @@
+name = "3D-BoNet"
+description = "3D-BoNet in Tensorflow (NeurIPS 2019, Spotlight)"
+category = "vision"
+tags = ["instance-segmentation", "3d-object-detection", "3d-point-clouds", "3d-vision", "computer-vision"]
+repository = "https://github.com/Yang7879/3D-BoNet"
+website = "https://arxiv.org/abs/1906.01140"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

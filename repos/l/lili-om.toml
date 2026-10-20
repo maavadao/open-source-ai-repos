@@ -1,0 +1,8 @@
+name = "lili-om"
+description = "LiLi-OM is a tightly-coupled, keyframe-based LiDAR-inertial odometry and mapping system for both solid-state-LiDAR and conventional LiDARs."
+category = "robotics"
+tags = ["lidar-inertial-odometry", "lidar-mapping", "slam", "3d-mapping", "livox-lidar", "livox-horizon", "velodyne-slam", "velodyne"]
+repository = "https://github.com/KIT-ISAS/lili-om"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-10-20

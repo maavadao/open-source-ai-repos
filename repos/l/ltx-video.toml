@@ -1,0 +1,10 @@
+name = "LTX-Video"
+description = "Official repository for LTX-Video"
+category = "video"
+tags = ["diffusion-models", "dit", "image-to-video", "image-to-video-generation", "text-to-video", "text-to-video-generation"]
+repository = "https://github.com/Lightricks/LTX-Video"
+website = "https://ltx.io/model"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "advanced"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Red-DiscordBot"
+description = "A multi-function Discord bot"
+category = "speech"
+tags = ["discord", "bot", "trivia", "music", "moderation", "fun", "modular", "chatbot"]
+repository = "https://github.com/Cog-Creators/Red-DiscordBot"
+website = "https://docs.discord.red"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

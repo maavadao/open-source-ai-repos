@@ -1,0 +1,7 @@
+name = "PurpleLlama"
+description = "Set of tools to assess and improve LLM security."
+category = "security"
+repository = "https://github.com/meta-llama/PurpleLlama"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

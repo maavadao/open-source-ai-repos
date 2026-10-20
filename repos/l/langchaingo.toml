@@ -1,0 +1,9 @@
+name = "langchaingo"
+description = "LangChain for Go, the easiest way to write LLM-based programs in Go"
+category = "llm-apps"
+tags = ["ai", "go", "golang", "langchain"]
+repository = "https://github.com/tmc/langchaingo"
+website = "https://tmc.github.io/langchaingo/"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

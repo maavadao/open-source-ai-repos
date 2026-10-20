@@ -1,0 +1,8 @@
+name = "whisper.net"
+description = "Whisper.net. Speech to text made simple using Whisper Models"
+category = "speech"
+tags = ["cross-platform", "dotnet", "dotnetcore", "speech-recognition", "speech-to-text", "translation", "vad", "voice-activity-detection"]
+repository = "https://github.com/sandrohanea/whisper.net"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

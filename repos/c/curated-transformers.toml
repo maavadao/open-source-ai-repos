@@ -1,0 +1,8 @@
+name = "curated-transformers"
+description = "A PyTorch library of curated Transformer models and their composable components"
+category = "models"
+tags = ["bert", "dolly2", "falcon", "gptneox", "llama", "llm", "nlp", "pytorch"]
+repository = "https://github.com/explosion/curated-transformers"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

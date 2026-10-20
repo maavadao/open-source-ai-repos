@@ -1,0 +1,8 @@
+name = "ComfyUI-BRIA_AI-RMBG"
+description = "Unofficial implementation of BRIA RMBG Model for ComfyUI"
+category = "image"
+tags = ["comfyui", "stable-diffusion"]
+repository = "https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

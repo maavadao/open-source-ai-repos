@@ -1,0 +1,9 @@
+name = "Modus"
+description = "MODUS: Decoder-only Any-to-Any Modeling of Diverse Modalities [ICML 2026]"
+category = "models"
+tags = ["any-to-any", "generative-models", "multimodal", "multitask-learning"]
+repository = "https://github.com/EPFL-VILAB/Modus"
+website = "https://modus-multimodal.epfl.ch/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

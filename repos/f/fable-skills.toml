@@ -1,0 +1,8 @@
+name = "fable-skills"
+description = "Six Claude Code skills that harden Opus 4.8 toward frontier behavior. Written by Fable 5, pressure-tested on the target model with transcripts included."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "ai-coding", "ai-tools", "anthropic", "automation", "claude", "claude-code"]
+repository = "https://github.com/DizzyMii/fable-skills"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

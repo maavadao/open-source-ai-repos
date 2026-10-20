@@ -1,0 +1,8 @@
+name = "ttsfm"
+description = "TTSFM mirrors OpenAI's TTS service, providing a compatible interface for text-to-speech conversion with multiple voice options for free."
+category = "speech"
+tags = ["ai", "api", "openai", "openai-api", "python", "reverse-proxy", "self-hosted"]
+repository = "https://github.com/dbccccccc/ttsfm"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

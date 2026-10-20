@@ -1,0 +1,9 @@
+name = "lmms-engine"
+description = "A simple, unified multimodal models training engine. Lean, flexible, and built for hacking at scale."
+category = "video"
+tags = ["large-language-models", "multimodal", "agi", "unified-multimodal-models", "video-generation"]
+repository = "https://github.com/EvolvingLMMs-Lab/lmms-engine"
+website = "https://lmms-engine.readthedocs.io/en/latest/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

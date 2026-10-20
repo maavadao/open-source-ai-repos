@@ -1,0 +1,9 @@
+name = "ML"
+description = "A high-level machine learning and deep learning library for the PHP language."
+category = "ml-platforms"
+tags = ["machine-learning", "analytics", "php", "classification", "clustering", "regression", "anomaly-detection", "deep-learning"]
+repository = "https://github.com/RubixML/ML"
+website = "https://rubixml.org"
+license = "MIT"
+language = "PHP"
+added = 2026-10-20

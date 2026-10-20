@@ -1,0 +1,9 @@
+name = "activegraph"
+description = "Event-sourced graph runtime for durable and stateful agents"
+category = "agents"
+tags = ["agentic-ai", "agents", "ai", "ai-agents", "event-sourcing"]
+repository = "https://github.com/yoheinakajima/activegraph"
+website = "https://activegraph.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

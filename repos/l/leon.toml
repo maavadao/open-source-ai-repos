@@ -1,0 +1,9 @@
+name = "leon"
+description = "Leon is your open-source personal assistant."
+category = "security"
+tags = ["leon", "personal-assistant", "nodejs", "python", "ai", "artificial-intelligence", "speech-to-text", "text-to-speech"]
+repository = "https://github.com/leon-ai/leon"
+website = "https://getleon.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

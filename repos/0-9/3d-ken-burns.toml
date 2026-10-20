@@ -1,0 +1,8 @@
+name = "3d-ken-burns"
+description = "an implementation of 3D Ken Burns Effect from a Single Image using PyTorch"
+category = "ml-platforms"
+tags = ["pytorch", "python", "cuda", "deep-learning", "cupy"]
+repository = "https://github.com/sniklaus/3d-ken-burns"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

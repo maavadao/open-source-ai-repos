@@ -1,0 +1,9 @@
+name = "docs"
+description = "Official documentation, blog, and changelog for LibreChat. Built with Next.js and Fumadocs. Live at librechat.ai"
+category = "chat"
+tags = ["docs", "librechat", "ai", "chatbot", "documentation", "documentation-site", "fumadocs", "i18n"]
+repository = "https://github.com/LibreChat-AI/docs"
+website = "https://www.librechat.ai"
+license = "MIT"
+language = "MDX"
+added = 2026-10-20

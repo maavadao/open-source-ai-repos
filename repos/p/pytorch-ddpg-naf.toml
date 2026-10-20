@@ -1,0 +1,8 @@
+name = "pytorch-ddpg-naf"
+description = "Implementation of algorithms for continuous control (DDPG and NAF)."
+category = "ml-platforms"
+tags = ["pytorch", "reinforcement-learning", "deep-learning", "ddpg", "deep-deterministic-policy-gradient"]
+repository = "https://github.com/ikostrikov/pytorch-ddpg-naf"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

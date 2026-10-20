@@ -1,0 +1,9 @@
+name = "ReCall"
+description = "ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning & ReCall: Learning to Reason with Tool Call for LLMs via Reinforcement Learning"
+category = "agents"
+tags = ["agent", "function-calling", "llm", "reinforcement-learning", "tool-use"]
+repository = "https://github.com/Agent-RL/ReCall"
+website = "https://attractive-almandine-935.notion.site/ReCall-Learning-to-Reason-with-Tool-Call-for-LLMs-via-Reinforcement-Learning-1d7aec91e9bb8006ad40f9edbfe2191a"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

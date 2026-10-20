@@ -1,0 +1,8 @@
+name = "3d-bat"
+description = "3D Bounding Box Annotation Tool (3D-BAT) Point cloud and Image Labeling"
+category = "robotics"
+tags = ["3d", "bounding-box", "pointcloud", "annotation", "tool", "javascript", "web", "surround"]
+repository = "https://github.com/walzimmer/3d-bat"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

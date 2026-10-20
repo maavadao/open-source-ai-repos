@@ -1,0 +1,8 @@
+name = "LuaN1aoAgent"
+description = "LuaN1aoAgent is a fully autonomous AI-driven penetration testing agent powered by graph-based cognitive reasoning."
+category = "agents"
+tags = ["pentest", "agents", "cybersecurity", "llm", "ai", "ai-agents", "ai-security-tool", "autonomous-agents"]
+repository = "https://github.com/SanMuzZzZz/LuaN1aoAgent"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

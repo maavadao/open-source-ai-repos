@@ -1,0 +1,7 @@
+# GitHub logins of people who asked not to appear on maavaDao's developer pages.
+# Anyone can ask to be removed: open the "Remove me from the developer pages" issue, or add your
+# own login here in a pull request. Maintainers merge these requests without discussion.
+#
+# Example:  logins = ["octocat", "another-login"]
+
+logins = []

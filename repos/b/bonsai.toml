@@ -1,0 +1,8 @@
+name = "bonsai"
+description = "Rust implementation of behavior trees for deterministic AI (now with Python bindings)"
+category = "robotics"
+tags = ["autonomous-robots", "behavior-tree", "bevy", "concurrency", "finite-state-machine", "game", "game-development", "navigation"]
+repository = "https://github.com/Sollimann/bonsai"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

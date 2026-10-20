@@ -1,0 +1,8 @@
+name = "TorchCP"
+description = "A Python toolbox for conformal prediction research on deep learning models, using PyTorch."
+category = "models"
+tags = ["classification", "conformal-prediction", "graph", "large-language-models", "regression", "uncertainty-quantification"]
+repository = "https://github.com/ml-stat-Sustech/TorchCP"
+license = "LGPL-3.0"
+language = "Python"
+added = 2026-10-20

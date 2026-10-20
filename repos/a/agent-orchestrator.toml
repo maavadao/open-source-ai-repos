@@ -1,0 +1,9 @@
+name = "agent-orchestrator"
+description = "Open-source (Apache-2.0) orchestrator for Claude Code, Codex & 30+ coding agents. Plan, run and supervise agent teams from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps."
+category = "coding"
+tags = ["claude-code", "codex-cli", "orchestration", "orchestrator", "skills", "agent-fleet", "agent-swarm", "git-worktrees"]
+repository = "https://github.com/OrchestratorInc/agent-orchestrator"
+website = "https://orchestrator.inc"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

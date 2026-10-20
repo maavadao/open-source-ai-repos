@@ -1,0 +1,8 @@
+name = "alphagen"
+description = "Generating sets of formulaic alpha (predictive) stock factors via reinforcement learning."
+category = "ml-platforms"
+tags = ["quantitative-trading", "reinforcement-learning", "symbolic-regression"]
+repository = "https://github.com/ICT-FinD-Lab/alphagen"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

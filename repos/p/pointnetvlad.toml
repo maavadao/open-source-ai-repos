@@ -1,0 +1,8 @@
+name = "pointnetvlad"
+description = "PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition, CVPR 2018"
+category = "vision"
+tags = ["computer-vision", "point-cloud", "deep-learning", "place-recognition"]
+repository = "https://github.com/mikacuy/pointnetvlad"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

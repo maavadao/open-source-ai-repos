@@ -1,0 +1,9 @@
+name = "RAG-Anything"
+description = "\"RAG-Anything: All-in-One RAG Framework\""
+category = "llm-apps"
+tags = ["multi-modal-rag", "retrieval-augmented-generation"]
+repository = "https://github.com/HKUDS/RAG-Anything"
+website = "http://arxiv.org/abs/2510.12323"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

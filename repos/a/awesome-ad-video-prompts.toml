@@ -1,0 +1,9 @@
+name = "awesome-ad-video-prompts"
+description = "Curated, original high-craft prompts for AI video ads (Seedance 2.0 / Veo 3 / Kling / Runway). Companion to HeyDreaming."
+category = "learning"
+tags = ["ad-creative", "advertising", "ai-ads", "ai-video", "awesome-list", "generative-ai", "marketing", "prompt-engineering"]
+repository = "https://github.com/LichAmnesia/awesome-ad-video-prompts"
+website = "https://heydreaming.com/prompts?utm_source=github&utm_medium=social&utm_campaign=github"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

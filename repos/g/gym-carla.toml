@@ -1,0 +1,8 @@
+name = "gym-carla"
+description = "An OpenAI gym wrapper for CARLA simulator"
+category = "robotics"
+tags = ["carla-simulator", "autonomous-driving", "deep-reinforcement-learning", "imitation-learning", "perception"]
+repository = "https://github.com/cjy1992/gym-carla"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

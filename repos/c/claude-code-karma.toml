@@ -1,0 +1,8 @@
+name = "claude-code-karma"
+description = "Dashboard for monitoring claude code sessions."
+category = "mcp-servers"
+tags = ["agents", "agentskills", "claude-code", "claude-code-plugin", "claude-code-skills", "dashboard", "hooks", "mcp"]
+repository = "https://github.com/JayantDevkar/claude-code-karma"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

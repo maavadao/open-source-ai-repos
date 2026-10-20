@@ -1,0 +1,9 @@
+name = "10x"
+description = "10x - Up to 20x faster AI coding with multi-step Superpowers. Open-source agent with smart model routing, BYOK, fully self-hosted."
+category = "coding"
+tags = ["ai-agents", "anthropic", "claude", "claude-code", "codex", "coding-agent", "continue", "gemini-cli"]
+repository = "https://github.com/ntegrals/10x"
+website = "https://try10x.co"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

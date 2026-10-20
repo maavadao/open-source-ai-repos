@@ -1,0 +1,8 @@
+name = "pytorch-book"
+description = "PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》)"
+category = "learning"
+tags = ["pytorch", "pytorch-tutorials", "pytorch-tutorials-cn", "deep-learning", "neural-style", "charrnn", "gan", "caption"]
+repository = "https://github.com/chenyuntc/pytorch-book"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

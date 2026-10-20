@@ -1,0 +1,9 @@
+name = "Lux-Design-S1"
+description = "Home to the design and engine of the @Lux-AI-Challenge Season 1, hosted on @kaggle"
+category = "ml-platforms"
+tags = ["ai", "competition", "programming", "lux-ai", "hacktoberfest", "reinforcement-learning"]
+repository = "https://github.com/Lux-AI-Challenge/Lux-Design-S1"
+website = "https://lux-ai.org/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

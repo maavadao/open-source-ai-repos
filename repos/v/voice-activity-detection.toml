@@ -1,0 +1,8 @@
+name = "voice_activity_detection"
+description = "Voice Activity Detection based on Deep Learning & TensorFlow"
+category = "speech"
+tags = ["voice-activity-detection", "deep-learning", "speech", "time-series", "time-series-classification", "resnet", "speech-recognition", "speech-detection"]
+repository = "https://github.com/filippogiruzzi/voice_activity_detection"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

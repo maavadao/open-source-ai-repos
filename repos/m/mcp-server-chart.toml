@@ -1,0 +1,8 @@
+name = "mcp-server-chart"
+description = "A visualization mcp & skills contains 25+ visual charts using @antvis. Using for chart generation and data analysis."
+category = "mcp-servers"
+tags = ["antv", "llm", "mcp", "mcp-server", "visualization", "skills"]
+repository = "https://github.com/antvis/mcp-server-chart"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

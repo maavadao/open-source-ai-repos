@@ -1,0 +1,8 @@
+name = "awesome-embedding-models"
+description = "A curated list of awesome embedding models tutorials, projects and communities."
+category = "learning"
+tags = ["embeddings", "embedding-models", "word2vec", "machine-learning", "natural-language-processing", "awesome", "papers"]
+repository = "https://github.com/Hironsan/awesome-embedding-models"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

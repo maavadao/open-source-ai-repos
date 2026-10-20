@@ -1,0 +1,8 @@
+name = "LearningByCheating"
+description = "(CoRL 2019) Driving in CARLA using waypoint prediction and two-stage imitation learning"
+category = "robotics"
+tags = ["autonomous-vehicles", "imitation-learning", "deep-learning", "sensorimotor-learning", "carla", "pytorch", "robotics"]
+repository = "https://github.com/dotchen/LearningByCheating"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

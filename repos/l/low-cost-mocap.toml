@@ -1,0 +1,8 @@
+name = "Low-Cost-Mocap"
+description = "Low cost motion capture system for room scale tracking"
+category = "vision"
+tags = ["autonomous-robots", "bundle-adjustment", "computer-vision", "epipolar-geometry", "motion-capture", "motion-tracking", "quadcopter", "esp32"]
+repository = "https://github.com/jyjblrd/Low-Cost-Mocap"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

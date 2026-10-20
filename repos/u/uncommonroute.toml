@@ -1,0 +1,8 @@
+name = "UncommonRoute"
+description = "Automatic LLM router — 82% cost savings, 79.4% accuracy, 93.4% pass rate. Drop-in OpenAI proxy."
+category = "agents"
+tags = ["agent", "ai", "anthropic", "cost-optimization", "llm", "model-routing", "openai", "router"]
+repository = "https://github.com/CommonstackAI/UncommonRoute"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

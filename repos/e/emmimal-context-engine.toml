@@ -1,0 +1,8 @@
+name = "context-engine"
+description = "A pure-Python context management layer for LLM systems — retrieval, re-ranking, memory decay, and token-budget enforcement in one pipeline."
+category = "llm-apps"
+tags = ["context-engineering", "large-language-models", "llm", "prompt-engineering", "rag"]
+repository = "https://github.com/Emmimal/context-engine"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

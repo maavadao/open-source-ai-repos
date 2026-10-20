@@ -1,0 +1,9 @@
+name = "GPTeam"
+description = "GPTeam: An open-source multi-agent simulation"
+category = "agents"
+tags = ["ai", "agents", "autogpt", "gpt-4"]
+repository = "https://github.com/101dotxyz/GPTeam"
+website = "https://www.gpteamai.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

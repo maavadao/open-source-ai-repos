@@ -1,0 +1,9 @@
+name = "postiz-agent"
+description = "Postiz Agents CLI - connect it to Claude / OpenClaw / etc, to schedule social media posts"
+category = "skills-prompts"
+tags = ["agent-skills", "agentic-ai", "agents", "claude", "claude-code", "openclaw", "openclaw-skills", "social-media"]
+repository = "https://github.com/gitroomhq/postiz-agent"
+website = "https://postiz.com/agent"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

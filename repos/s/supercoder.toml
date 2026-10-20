@@ -1,0 +1,9 @@
+name = "SuperCoder"
+description = "Open Source Autonomous Software Development System"
+category = "agents"
+tags = ["ai", "ai-developer", "software-development", "golang", "go", "agent", "autonomous-agents", "claude-3"]
+repository = "https://github.com/TransformerOptimus/SuperCoder"
+website = "https://superagi.com"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

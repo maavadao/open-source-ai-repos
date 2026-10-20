@@ -1,0 +1,8 @@
+name = "GCNet"
+description = "GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond"
+category = "vision"
+tags = ["object-detection", "instance-segmentation", "computer-vision", "deep-learning"]
+repository = "https://github.com/xvjiarui/GCNet"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

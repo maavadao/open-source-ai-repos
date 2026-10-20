@@ -1,0 +1,8 @@
+name = "openai-realtime-api-beta"
+description = "Node.js + JavaScript reference client for the Realtime API (beta)"
+category = "other"
+tags = ["javascript", "nodejs", "openai", "typescript"]
+repository = "https://github.com/openai/openai-realtime-api-beta"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

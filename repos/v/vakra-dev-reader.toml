@@ -1,0 +1,9 @@
+name = "reader"
+description = "Open source web infrastructure for AI. Scrape, crawl, and automate the web, clean markdown, browser sessions, ready for your agents."
+category = "search"
+tags = ["ai", "ai-agents", "anti-bot", "crawler", "data-extraction", "headless-browser", "html-to-markdown", "llm"]
+repository = "https://github.com/vakra-dev/reader"
+website = "https://reader.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

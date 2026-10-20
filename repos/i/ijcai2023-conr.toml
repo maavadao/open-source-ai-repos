@@ -1,0 +1,8 @@
+name = "IJCAI2023-CoNR"
+description = "IJCAI2023 - Collaborative Neural Rendering using Anime Character Sheets"
+category = "vision"
+tags = ["anime", "computer-graphics", "computer-vision", "deep-learning", "pytorch"]
+repository = "https://github.com/megvii-research/IJCAI2023-CoNR"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

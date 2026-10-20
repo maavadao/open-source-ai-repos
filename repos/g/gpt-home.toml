@@ -1,0 +1,9 @@
+name = "gpt-home"
+description = "ChatGPT at home! A better alternative to commercial smart home assistants, built on the Raspberry Pi using LiteLLM and LangGraph."
+category = "no-code"
+tags = ["iot", "openai", "raspberry-pi", "speech-recognition", "automation", "python", "nginx", "spotify"]
+repository = "https://github.com/judahpaul16/gpt-home"
+website = "https://hub.docker.com/r/judahpaul/gpt-home"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

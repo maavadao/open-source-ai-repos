@@ -1,0 +1,9 @@
+name = "dotfiles"
+description = "My dotfiles for macOS using Neovim, Zsh, and Ghostty + Tmux"
+category = "coding"
+tags = ["dotfiles", "macos", "zsh", "vim", "ruby", "rails", "tmux", "asdf"]
+repository = "https://github.com/joshukraine/dotfiles"
+website = "https://jsua.co/dotfiles"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

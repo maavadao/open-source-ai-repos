@@ -1,0 +1,8 @@
+name = "hardnet"
+description = "Hardnet descriptor model - \"Working hard to know your neighbor's margins: Local descriptor learning loss\""
+category = "vision"
+tags = ["deep-learning", "convolutional-neural-networks", "computer-vision", "metric-learning", "image-matching", "image-retrieval", "pytorch", "nips-2017"]
+repository = "https://github.com/DagnyT/hardnet"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

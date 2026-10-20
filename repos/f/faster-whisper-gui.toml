@@ -1,0 +1,8 @@
+name = "faster-whisper-GUI"
+description = "faster_whisper GUI with PySide6"
+category = "speech"
+tags = ["faster-whisper", "openai", "transcribe", "vad", "voice-transcription", "whisper", "whisperx", "asr"]
+repository = "https://github.com/CheshireCC/faster-whisper-GUI"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

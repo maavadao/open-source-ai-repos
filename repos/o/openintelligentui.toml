@@ -1,0 +1,9 @@
+name = "OpenIntelligentUI"
+description = "Open-Source Generative UI Framework"
+category = "coding"
+tags = ["agent-native", "agentic-ai", "agents", "ai-agents", "ai-copilot", "ai-visualization", "assistant-chat-bots", "copilot"]
+repository = "https://github.com/CopilotKit/OpenIntelligentUI"
+website = "https://opengenerativeui.copilotkit.ai/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

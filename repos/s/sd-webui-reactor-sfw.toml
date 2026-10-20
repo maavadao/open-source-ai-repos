@@ -1,0 +1,8 @@
+name = "sd-webui-reactor-sfw"
+description = "(SFW Friendly) Fast and Simple Face Swap Extension for StableDiffusion WebUI (A1111, SD.Next, Cagliostro)"
+category = "image"
+tags = ["automatic1111", "colab-notebook", "face-swap", "face-swapping", "sdnext", "stable-diffusion", "stable-diffusion-webui", "stable-diffusion-webui-plugin"]
+repository = "https://github.com/Gourieff/sd-webui-reactor-sfw"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

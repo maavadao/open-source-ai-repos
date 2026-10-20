@@ -1,0 +1,8 @@
+name = "pymilvus"
+description = "Python SDK for Milvus Vector Database"
+category = "vector-databases"
+tags = ["anns", "python", "milvus", "faiss", "faiss-vector-database", "python-sdk", "vector-database", "milvus-lite"]
+repository = "https://github.com/milvus-io/pymilvus"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

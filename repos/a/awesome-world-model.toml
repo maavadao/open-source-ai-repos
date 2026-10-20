@@ -1,0 +1,8 @@
+name = "Awesome-World-Model"
+description = "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers."
+category = "learning"
+tags = ["autonomous-driving", "autonomous-vehicles", "computer-vision", "world-model", "future-predict", "artificial-intelligence", "artificial-intelligence-algorithms", "awesome"]
+repository = "https://github.com/LMD0311/Awesome-World-Model"
+website = "https://arxiv.org/abs/2502.10498"
+license = "NOASSERTION"
+added = 2026-10-20

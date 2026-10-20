@@ -1,0 +1,9 @@
+name = "tidybot2"
+description = "TidyBot++: An Open-Source Holonomic Mobile Manipulator for Robot Learning"
+category = "robotics"
+tags = ["mobile-manipulation", "robotics", "holonomic", "imitation-learning", "robot-learning"]
+repository = "https://github.com/jimmyyhwu/tidybot2"
+website = "https://tidybot2.github.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

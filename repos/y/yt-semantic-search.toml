@@ -1,0 +1,9 @@
+name = "yt-semantic-search"
+description = "OpenAI-powered semantic search for any YouTube playlist – featuring the All-In Podcast."
+category = "other"
+tags = ["openai", "pinecone", "podcast", "search", "youtube"]
+repository = "https://github.com/transitive-bullshit/yt-semantic-search"
+website = "https://all-in-on-ai.vercel.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

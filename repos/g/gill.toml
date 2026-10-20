@@ -1,0 +1,9 @@
+name = "gill"
+description = "Code and models for the NeurIPS 2023 paper \"Generating Images with Multimodal Language Models\"."
+category = "vision"
+tags = ["computer-vision", "large-language-models", "machine-learning", "natural-language-processing"]
+repository = "https://github.com/kohjingyu/gill"
+website = "https://jykoh.com/gill"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

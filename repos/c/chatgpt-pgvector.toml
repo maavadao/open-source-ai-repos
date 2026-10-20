@@ -1,0 +1,9 @@
+name = "chatgpt-pgvector"
+description = "ChatGTP (gpt3.5-turbo) starter app"
+category = "chat"
+tags = ["gpt-3", "gpt-35-turbo", "openai", "supabase", "pgvector"]
+repository = "https://github.com/gannonh/chatgpt-pgvector"
+website = "https://astro-labs.app/docs"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

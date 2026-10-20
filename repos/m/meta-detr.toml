@@ -1,0 +1,8 @@
+name = "Meta-DETR"
+description = "[T-PAMI 2022] Meta-DETR for Few-Shot Object Detection: Official PyTorch Implementation"
+category = "vision"
+tags = ["object-detection", "few-shot-object-detection", "meta-learning", "computer-vision", "pytorch"]
+repository = "https://github.com/ZhangGongjie/Meta-DETR"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Awesome-Interview"
+description = "Collection of awesome interview references."
+category = "learning"
+tags = ["interview", "interview-preparation", "interview-practice", "interviews", "interview-prep", "backend", "frontend", "cpp"]
+repository = "https://github.com/Awesome-Interview/Awesome-Interview"
+website = "https://awesome-interview.github.io/Awesome-Interview/"
+license = "NOASSERTION"
+added = 2026-10-20

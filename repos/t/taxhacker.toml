@@ -1,0 +1,9 @@
+name = "TaxHacker"
+description = "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories"
+category = "local-llms"
+tags = ["accounting", "currency-exchange", "llm", "self-hosted", "taxes", "ai-analysis", "expenses", "invoices"]
+repository = "https://github.com/vas3k/TaxHacker"
+website = "https://taxhacker.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

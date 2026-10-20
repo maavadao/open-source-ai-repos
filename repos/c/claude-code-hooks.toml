@@ -1,0 +1,9 @@
+name = "claude-code-hooks"
+description = "claude code hooks - adding voice on each hook"
+category = "coding"
+tags = ["claude", "hooks", "agentic-ai", "agentic-coding", "agentic-engineering", "agentic-workflow", "ai", "ai-agents"]
+repository = "https://github.com/shanraisshan/claude-code-hooks"
+website = "https://www.linkedin.com/in/shanraisshan/"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

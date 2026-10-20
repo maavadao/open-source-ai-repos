@@ -1,0 +1,9 @@
+name = "HybVIO"
+description = "HybVIO visual-inertial odometry and SLAM system"
+category = "robotics"
+tags = ["computer-vision", "slam", "visual-inertial-odometry", "sensor-fusion", "aalto-university"]
+repository = "https://github.com/SpectacularAI/HybVIO"
+website = "https://arxiv.org/abs/2106.11857"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-10-20

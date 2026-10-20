@@ -1,0 +1,8 @@
+name = "awesome-quantum-machine-learning"
+description = "Here you can get all the Quantum Machine learning Basics, Algorithms ,Study Materials ,Projects and the descriptions of the projects around the web"
+category = "learning"
+tags = ["quantum", "quantum-computing", "quantum-programming-language", "machine-learning", "artificial-intelligence", "artificial-neural-networks", "tensorflow", "awesome-list"]
+repository = "https://github.com/krishnakumarsekar/awesome-quantum-machine-learning"
+license = "CC0-1.0"
+language = "HTML"
+added = 2026-10-20

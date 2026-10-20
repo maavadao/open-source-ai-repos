@@ -1,0 +1,8 @@
+name = "GhidrAssist"
+description = "An LLM extension for Ghidra to enable AI assistance in RE."
+category = "chat"
+tags = ["ghidra", "ghidra-extension", "ml", "re", "reverse-engineering", "llm", "openai", "ghidra-plugin"]
+repository = "https://github.com/symgraph/GhidrAssist"
+license = "MIT"
+language = "Java"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "imcodes"
+description = "The IM for agents. Shared Agent Context & Memory, supervised execution, and cross-agent audit across AI providers."
+category = "coding"
+tags = ["ai", "ai-agents", "automation", "claude", "claude-code", "codex", "codex-cli", "gemini"]
+repository = "https://github.com/im4codes/imcodes"
+website = "https://im.codes"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

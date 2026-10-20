@@ -1,0 +1,8 @@
+name = "obsidian-tars"
+description = "Obsidian tars plugin that supports text generation based on tag suggestions, using services like DeepSeek, Claude, OpenAI, OpenRouter, SiliconFlow, Gemini, Ollama, Kimi, Doubao, Qwen, Zhipu, QianFan & more."
+category = "local-llms"
+tags = ["kimi", "obsidian", "zhipuai", "doubao", "qianfan", "qwen", "deepseek", "claude"]
+repository = "https://github.com/TarsLab/obsidian-tars"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

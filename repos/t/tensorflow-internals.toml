@@ -1,0 +1,8 @@
+name = "tensorflow-internals"
+description = "It is open source ebook about TensorFlow kernel and implementation mechanism."
+category = "ml-platforms"
+tags = ["tensorflow", "machine-learning", "deeplearning"]
+repository = "https://github.com/horance-liu/tensorflow-internals"
+license = "NOASSERTION"
+language = "TeX"
+added = 2026-10-20

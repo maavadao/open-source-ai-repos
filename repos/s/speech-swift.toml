@@ -1,0 +1,9 @@
+name = "speech-swift"
+description = "AI speech toolkit for Apple Silicon — ASR, TTS, speech-to-speech, VAD, and diarization powered by MLX and CoreML"
+category = "speech"
+tags = ["apple-silicon", "asr", "coreml", "ios", "macos", "mlx", "neural-engine", "on-device"]
+repository = "https://github.com/soniqo/speech-swift"
+website = "https://soniqo.audio"
+license = "Apache-2.0"
+language = "Swift"
+added = 2026-10-20

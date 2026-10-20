@@ -1,0 +1,8 @@
+name = "Awesome-DiT-Inference"
+description = "A curated list of Awesome Diffusion Inference Papers with Codes: Sampling, Cache, Quantization, Parallelism, etc."
+category = "learning"
+tags = ["deepcache", "diffusion", "dit", "sd15", "sdxl", "stable-diffusion", "open-sora", "open-sora-plan"]
+repository = "https://github.com/xlite-dev/Awesome-DiT-Inference"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

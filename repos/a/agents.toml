@@ -1,0 +1,9 @@
+name = "agents"
+description = "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi"
+category = "mcp-servers"
+tags = ["anthropic", "agent-skills", "agentic-ai", "ai-agents", "cursor", "cursor-rules", "mcp", "multi-agent"]
+repository = "https://github.com/wshobson/agents"
+website = "https://sethhobson.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

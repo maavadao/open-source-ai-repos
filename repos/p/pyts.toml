@@ -1,0 +1,9 @@
+name = "pyts"
+description = "A Python package for time series classification"
+category = "data-science"
+tags = ["python", "classification", "machine-learning", "time-series-classification", "time-series-analysis", "time-series"]
+repository = "https://github.com/johannfaouzi/pyts"
+website = "https://pyts.readthedocs.io"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

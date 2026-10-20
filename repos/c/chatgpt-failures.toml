@@ -1,0 +1,8 @@
+name = "chatgpt-failures"
+description = "Failure archive for ChatGPT and similar models"
+category = "chat"
+tags = ["chatbot", "chatgpt", "error", "failure", "openai", "bing", "new-bing"]
+repository = "https://github.com/giuven95/chatgpt-failures"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

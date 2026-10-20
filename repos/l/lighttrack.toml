@@ -1,0 +1,8 @@
+name = "lighttrack"
+description = "LightTrack: A Generic Framework for Online Top-Down Human Pose Tracking"
+category = "vision"
+tags = ["computer-vision", "artificial-intelligence", "pose-tracking", "pose-estimation", "visual-object-tracking"]
+repository = "https://github.com/Guanghan/lighttrack"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

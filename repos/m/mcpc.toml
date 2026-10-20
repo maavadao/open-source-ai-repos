@@ -1,0 +1,9 @@
+name = "mcpc"
+description = "The most compatible MCP CLI client. Supports: tools, resources, prompts, completions, async tasks, skills, stdio and Streamable HTTP (MCP 2026-07-28 and 2025-11-25). Persistent sessions, OAuth 2.1 with DCR, CIMD, client credentials, and ID-JAG, OS keychain, --json for code…"
+category = "mcp-servers"
+tags = ["cli", "mcp", "mcp-client", "shell", "ai-agents", "code-mode", "bash", "model-context-protocol"]
+repository = "https://github.com/apify/mcpc"
+website = "https://npmjs.com/package/@apify/mcpc"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "netbird"
+description = "NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard"
+category = "agents"
+tags = ["wireguard", "wireguard-vpn", "vpn", "nat-traversal", "mesh-networks", "mesh", "golang", "wiretrustee"]
+repository = "https://github.com/netbirdio/netbird"
+website = "https://netbird.io"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

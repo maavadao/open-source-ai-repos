@@ -1,0 +1,8 @@
+name = "LightAgent"
+description = "LightAgent: Lightweight Python framework for OpenAI-compatible agents with tools, memory, guardrails, tracing, lifecycle hooks, multi-agent collaboration, and workflows."
+category = "mcp-servers"
+tags = ["agent-framework", "agents", "ai-agent", "llm", "mcp", "multi-agent", "openai", "openai-api"]
+repository = "https://github.com/wanxingai/LightAgent"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

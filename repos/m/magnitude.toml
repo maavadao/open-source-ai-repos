@@ -1,0 +1,8 @@
+name = "magnitude"
+description = "A fast, efficient universal vector embedding utility package."
+category = "data-science"
+tags = ["python", "natural-language-processing", "nlp", "machine-learning", "vectors", "embeddings", "word2vec", "fasttext"]
+repository = "https://github.com/plasticityai/magnitude"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

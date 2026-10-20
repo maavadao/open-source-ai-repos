@@ -1,0 +1,9 @@
+name = "behavior-1k-solution"
+description = "1st place solution of 2025 BEHAVIOR Challenge"
+category = "robotics"
+tags = ["ai", "competition", "machine-learning", "robotics", "vla"]
+repository = "https://github.com/IliaLarchenko/behavior-1k-solution"
+website = "https://robot-learning-collective.github.io/winning-behavior-1k-challenge"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

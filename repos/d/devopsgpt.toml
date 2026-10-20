@@ -1,0 +1,8 @@
+name = "DevOpsGPT"
+description = "Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code."
+category = "agents"
+repository = "https://github.com/kuafuai/DevOpsGPT"
+website = "https://www.kuafuai.net"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

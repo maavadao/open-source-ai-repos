@@ -1,0 +1,8 @@
+name = "walk-these-ways-go2"
+description = "Deploy walk-these-ways project on Unitree Go2"
+category = "robotics"
+tags = ["go2", "isaac", "reinforcement-learning", "robotics", "sim2real", "unitree"]
+repository = "https://github.com/Teddy-Liao/walk-these-ways-go2"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

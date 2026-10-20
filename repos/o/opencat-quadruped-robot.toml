@@ -1,0 +1,9 @@
+name = "OpenCat-Quadruped-Robot"
+description = "An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development."
+category = "education"
+tags = ["quadruped", "walking", "legged-robot", "arduino", "stem", "simulation", "quadruped-robot-gaits", "raspberry-pi"]
+repository = "https://github.com/PetoiCamp/OpenCat-Quadruped-Robot"
+website = "https://www.petoi.com"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

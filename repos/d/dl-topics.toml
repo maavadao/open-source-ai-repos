@@ -1,0 +1,7 @@
+name = "DL_Topics"
+description = "List of DL topics and resources essential for cracking interviews"
+category = "learning"
+tags = ["deep-learning", "computer-vision", "natural-language-processing", "probability-statistics", "linear-algebra", "generative-models"]
+repository = "https://github.com/vlgiitr/DL_Topics"
+license = "NOASSERTION"
+added = 2026-10-20

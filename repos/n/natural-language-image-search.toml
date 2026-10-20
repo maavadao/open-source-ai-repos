@@ -1,0 +1,8 @@
+name = "natural-language-image-search"
+description = "Search photos on Unsplash using natural language"
+category = "vision"
+tags = ["unsplash", "clip", "machine-learning", "computer-vision", "image-search", "photos"]
+repository = "https://github.com/haltakov/natural-language-image-search"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

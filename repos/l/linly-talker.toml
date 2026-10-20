@@ -1,0 +1,8 @@
+name = "Linly-Talker"
+description = "Digital Avatar Conversational System - Linly-Talker. Linly-Talker is an intelligent AI system that combines large language models (LLMs) with visual models to create a novel human-AI interaction method. It integrates various technologies like Whisper, Linly, Microsoft Speech…"
+category = "speech"
+repository = "https://github.com/Kedreamix/Linly-Talker"
+website = "https://kedreamix.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

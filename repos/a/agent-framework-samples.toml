@@ -1,0 +1,9 @@
+name = "Agent-Framework-Samples"
+description = "Agent Framework Samples - showcasing ways in which agent framework can be utilized."
+category = "agents"
+tags = ["agent-framework", "agents"]
+repository = "https://github.com/microsoft/Agent-Framework-Samples"
+website = "https://github.com/microsoft/agent-framework"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

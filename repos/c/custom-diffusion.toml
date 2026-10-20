@@ -1,0 +1,9 @@
+name = "custom-diffusion"
+description = "Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion (CVPR 2023)"
+category = "image"
+tags = ["customization", "fine-tuning", "text-to-image-generation", "computer-vision", "diffusion-models", "few-shot", "pytorch"]
+repository = "https://github.com/adobe-research/custom-diffusion"
+website = "https://www.cs.cmu.edu/~custom-diffusion"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

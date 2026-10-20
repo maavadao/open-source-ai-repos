@@ -1,0 +1,9 @@
+name = "AutoGPT.js"
+description = "Auto-GPT on the browser"
+category = "agents"
+tags = ["autogpt", "gpt", "gpt-4", "gpt3", "llm"]
+repository = "https://github.com/zabirauf/AutoGPT.js"
+website = "https://autogptjs.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

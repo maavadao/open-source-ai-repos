@@ -1,0 +1,9 @@
+name = "chathn"
+description = "Chat with Hacker News using natural language. Built with OpenAI Functions and Vercel AI SDK."
+category = "data-science"
+tags = ["ai", "ai-sdk", "edge-functions", "hacker-news", "nextjs", "openai", "openai-functions", "streaming"]
+repository = "https://github.com/steven-tey/chathn"
+website = "https://chathn.vercel.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

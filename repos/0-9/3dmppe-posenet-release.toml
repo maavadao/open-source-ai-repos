@@ -1,0 +1,8 @@
+name = "3DMPPE_POSENET_RELEASE"
+description = "Official PyTorch implementation of \"Camera Distance-aware Top-down Approach for 3D Multi-person Pose Estimation from a Single RGB Image\", ICCV 2019"
+category = "vision"
+tags = ["3d-human-pose", "human-pose-estimation", "pytorch", "iccv2019", "deep-learning", "computer-vision"]
+repository = "https://github.com/mks0601/3DMPPE_POSENET_RELEASE"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

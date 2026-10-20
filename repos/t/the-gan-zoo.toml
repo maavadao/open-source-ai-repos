@@ -1,0 +1,8 @@
+name = "the-gan-zoo"
+description = "A list of all named GANs!"
+category = "data-science"
+tags = ["machine-learning", "gan", "generative-adversarial-network"]
+repository = "https://github.com/hindupuravinash/the-gan-zoo"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

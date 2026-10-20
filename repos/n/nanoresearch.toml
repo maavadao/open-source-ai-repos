@@ -1,0 +1,8 @@
+name = "NanoResearch"
+description = "+ NanoResearch: The Autonomous AI Research Assistant"
+category = "skills-prompts"
+tags = ["agent-skills", "agents", "ai", "ai-agents", "ai-scientist", "artificial-intelligence", "autonomous-agents", "autonomous-research"]
+repository = "https://github.com/OpenRaiser/NanoResearch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

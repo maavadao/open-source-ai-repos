@@ -1,0 +1,9 @@
+name = "Stable-Retro"
+description = "A fork of gym-retro with additional games, emulators and supported platforms"
+category = "ml-platforms"
+tags = ["gymnasium", "machine-learning", "reinforcement-learning", "retro", "videogames", "research"]
+repository = "https://github.com/Farama-Foundation/Stable-Retro"
+website = "https://stable-retro.farama.org/"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

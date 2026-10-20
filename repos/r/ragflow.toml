@@ -1,0 +1,10 @@
+name = "ragflow"
+description = "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs"
+category = "llm-apps"
+tags = ["ai", "ai-agents", "context-engine", "rag", "retrieval-augmented-generation", "agentic-ai", "agentic-retrieval", "agentic-search"]
+repository = "https://github.com/infiniflow/ragflow"
+website = "https://ragflow.io"
+license = "Apache-2.0"
+language = "Go"
+skill_level = "intermediate"
+added = 2026-10-20

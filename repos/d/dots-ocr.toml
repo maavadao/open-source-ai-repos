@@ -1,0 +1,7 @@
+name = "dots.ocr"
+description = "Multilingual Document Layout Parsing in a Single Vision-Language Model"
+category = "documents"
+repository = "https://github.com/studio-dots-ai/dots.ocr"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

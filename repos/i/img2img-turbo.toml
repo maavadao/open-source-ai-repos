@@ -1,0 +1,8 @@
+name = "img2img-turbo"
+description = "One-step image-to-image with Stable Diffusion turbo: sketch2image, day2night, and more"
+category = "image"
+tags = ["computer-vision", "deep-learning", "generative-adversarial-network", "generative-art", "stable-diffusion"]
+repository = "https://github.com/GaParmar/img2img-turbo"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Awesome-Scientific-Language-Models"
+description = "A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery (EMNLP'24)"
+category = "learning"
+tags = ["ai4science", "large-language-models", "awesome-resources", "scientific-text-mining", "survey"]
+repository = "https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models"
+website = "https://arxiv.org/abs/2406.10833"
+license = "MIT"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "flutter_tts"
+description = "Flutter Text to Speech package"
+category = "speech"
+tags = ["flutter", "dart", "android", "ios", "google", "tts", "swift", "java"]
+repository = "https://github.com/dlutton/flutter_tts"
+license = "MIT"
+language = "Dart"
+added = 2026-10-20

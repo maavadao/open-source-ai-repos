@@ -1,0 +1,8 @@
+name = "fastquant"
+description = "fastquant — Backtest and optimize your ML trading strategies with only 3 lines of code!"
+category = "data-science"
+tags = ["trading-strategies", "backtesting", "stocks", "financial-data-science", "cryptocurrency", "algotrading", "quantitative-finance", "data-science"]
+repository = "https://github.com/enzoampil/fastquant"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "paperlists"
+description = "Processed / Cleaned Data for Paper Copilot"
+category = "learning"
+tags = ["artificial-intelligence", "computational-linguistics", "computer-graphics", "computer-vision", "databases", "dataminning", "natural-language-processing", "robotics"]
+repository = "https://github.com/papercopilot/paperlists"
+website = "https://papercopilot.com/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

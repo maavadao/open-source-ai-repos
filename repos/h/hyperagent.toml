@@ -1,0 +1,9 @@
+name = "HyperAgent"
+description = "AI Browser Automation"
+category = "browser-automation"
+tags = ["ai", "automation", "playwright", "llm", "agent", "chrome", "web"]
+repository = "https://github.com/hyperbrowserai/HyperAgent"
+website = "https://www.hyperbrowser.ai/"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

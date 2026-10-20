@@ -1,0 +1,9 @@
+name = "fdtd"
+description = "A 3D electromagnetic FDTD simulator written in Python with optional GPU support"
+category = "ml-platforms"
+tags = ["simulation", "simulation-framework", "fdtd", "optics", "photonics", "physics", "physics-simulation", "fdtd-simulator"]
+repository = "https://github.com/flaport/fdtd"
+website = "https://fdtd.readthedocs.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

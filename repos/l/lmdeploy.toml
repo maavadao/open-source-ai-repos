@@ -1,0 +1,10 @@
+name = "lmdeploy"
+description = "LMDeploy is a toolkit for compressing, deploying, and serving LLMs."
+category = "local-llms"
+tags = ["cuda-kernels", "deepspeed", "fastertransformer", "llm-inference", "turbomind", "internlm", "llama", "llm"]
+repository = "https://github.com/InternLM/lmdeploy"
+website = "https://lmdeploy.readthedocs.io/en/latest"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "advanced"
+added = 2026-10-20

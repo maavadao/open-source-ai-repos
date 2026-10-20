@@ -1,0 +1,9 @@
+name = "expressive-humanoid"
+description = "[RSS 2024]: Expressive Whole-Body Control for Humanoid Robots"
+category = "ml-platforms"
+tags = ["human-motion", "imitation-learning", "reinforcement-learning", "sim-to-real"]
+repository = "https://github.com/chengxuxin/expressive-humanoid"
+website = "https://expressive-humanoid.github.io/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

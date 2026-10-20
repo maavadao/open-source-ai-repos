@@ -1,0 +1,7 @@
+name = "Modern-Red-Team-Infrastructure"
+description = "A comprehensive modern architecture model is proposed to integrate platform solutions and tooling to support a professional Red Team."
+category = "agents"
+tags = ["ai-agents", "attack-defense", "c2", "cobalt-strike", "evasion", "evasion-techniques", "infrastructure", "purple-team"]
+repository = "https://github.com/dn9uy3n/Modern-Red-Team-Infrastructure"
+license = "NOASSERTION"
+added = 2026-10-20

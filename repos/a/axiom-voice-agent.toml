@@ -1,0 +1,8 @@
+name = "axiom-voice-agent"
+description = "Run a <400ms latency Voice Agent on just 4GB VRAM. Fully offline, no API keys required. Optimized for GTX 1650 and edge robotics with zero-copy inference. (Apache 2.0)"
+category = "speech"
+tags = ["voice-agent", "edge-robotics-voice-assistant", "local-voice-agent", "setfit-model", "setfit-training", "llama-fine-tune", "ollama-voice-agent", "sentence-transformers-finetune"]
+repository = "https://github.com/pheonix-delta/axiom-voice-agent"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

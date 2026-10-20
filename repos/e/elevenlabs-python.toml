@@ -1,0 +1,9 @@
+name = "elevenlabs-python"
+description = "The official Python SDK for the ElevenLabs API."
+category = "speech"
+tags = ["artificial-intelligence", "text-to-speech", "conversational-ai"]
+repository = "https://github.com/elevenlabs/elevenlabs-python"
+website = "https://elevenlabs.io/docs/api-reference/overview"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

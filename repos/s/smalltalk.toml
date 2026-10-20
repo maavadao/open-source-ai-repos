@@ -1,0 +1,8 @@
+name = "smalltalk"
+description = "A tinystruct-based chat module which integrated with @OpenAI GPT-4 / 3.5-turbo / ChatGPT. @tinystruct"
+category = "chat"
+tags = ["chat-application", "chatbot", "chatgpt", "java", "gpt-3", "gpt-3-5-turbo", "gpt-35-turbo", "gpt4"]
+repository = "https://github.com/tinystruct/smalltalk"
+license = "NOASSERTION"
+language = "Java"
+added = 2026-10-20

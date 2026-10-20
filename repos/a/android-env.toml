@@ -1,0 +1,8 @@
+name = "android_env"
+description = "RL research on Android devices."
+category = "ml-platforms"
+tags = ["reinforcement-learning", "android"]
+repository = "https://github.com/google-deepmind/android_env"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

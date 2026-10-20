@@ -1,0 +1,10 @@
+name = "agno"
+description = "Build, run, and manage agent platforms."
+category = "agents"
+tags = ["developer-tools", "python", "agents", "ai", "ai-agents"]
+repository = "https://github.com/agno-agi/agno"
+website = "https://agno.com"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

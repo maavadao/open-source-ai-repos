@@ -1,0 +1,7 @@
+name = "Reinforcement-Learning-Papers"
+description = "Related papers for reinforcement learning, including classic papers and latest papers in top conferences"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "model-free-rl", "model-based-rl", "offline-rl", "meta-reinforcement-learning", "unsupervised-reinforcement-learning", "reinforcement-learning-papers", "generalization-reinforcement-learning"]
+repository = "https://github.com/yingchengyang/Reinforcement-Learning-Papers"
+license = "MIT"
+added = 2026-10-20

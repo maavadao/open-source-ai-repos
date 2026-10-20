@@ -1,0 +1,8 @@
+name = "CVprojects"
+description = "computer vision projects | 计算机视觉相关好玩的AI项目（Python、C++、embedded system）"
+category = "vision"
+tags = ["computer-vision", "machine-learning", "deep-learning", "python", "cpp", "cuda", "tensorrt", "embedded-systems"]
+repository = "https://github.com/enpeizhao/CVprojects"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

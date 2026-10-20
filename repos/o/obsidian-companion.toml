@@ -1,0 +1,8 @@
+name = "obsidian-companion"
+description = "Autocomplete your obsidian notes with AI, including ChatGPT, through a copilot-like interface."
+category = "local-llms"
+tags = ["ai", "ai21labs", "chatgpt", "large-language-models", "nlp", "obsidian-md", "obsidian-plugin", "openai"]
+repository = "https://github.com/rizerphe/obsidian-companion"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "QuantDinger"
+description = "Open-source AI Trading OS, agent trading, and vibe trading, with Jev System One integration. Research, build Python strategies, backtest, and paper/live trade across crypto, stocks, and forex. Launch your own multi-tenant trading SaaS with built-in user management, billing…"
+category = "mcp-servers"
+tags = ["quantitative-finance", "quant", "trade", "python", "fintech", "agent", "forex", "alpaca"]
+repository = "https://github.com/OpenByteInc/QuantDinger"
+website = "https://ai.quantdinger.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

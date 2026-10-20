@@ -1,0 +1,8 @@
+name = "yolov7_d2"
+description = "(Earlier YOLOv7 not official one) YOLO with Transformers and Instance Segmentation, with TensorRT acceleration!"
+category = "vision"
+tags = ["yolo", "yolox", "detection", "detextron2", "tensorrt", "yolov6", "yolov7", "face"]
+repository = "https://github.com/lucasjinreal/yolov7_d2"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

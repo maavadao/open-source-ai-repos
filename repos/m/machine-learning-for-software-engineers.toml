@@ -1,0 +1,8 @@
+name = "machine-learning-for-software-engineers"
+description = "A complete daily plan for studying to become a machine learning engineer."
+category = "ml-platforms"
+tags = ["machine-learning", "deep-learning", "artificial-intelligence", "software-engineer", "machine-learning-algorithms"]
+repository = "https://github.com/ZuzooVn/machine-learning-for-software-engineers"
+website = "https://www.codementor.io/zuzoovn/how-i-plan-to-become-a-machine-learning-engineer-a4metbcuk"
+license = "CC-BY-SA-4.0"
+added = 2026-10-20

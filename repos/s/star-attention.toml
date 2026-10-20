@@ -1,0 +1,9 @@
+name = "Star-Attention"
+description = "Efficient LLM Inference over Long Sequences"
+category = "local-llms"
+tags = ["attention-mechanism", "large-language-models", "llm-inference"]
+repository = "https://github.com/NVIDIA/Star-Attention"
+website = "https://arxiv.org/abs/2411.17116"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

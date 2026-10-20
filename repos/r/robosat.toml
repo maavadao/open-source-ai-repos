@@ -1,0 +1,8 @@
+name = "robosat"
+description = "Semantic segmentation on aerial and satellite imagery. Extracts features such as: buildings, parking lots, roads, water, clouds"
+category = "vision"
+tags = ["satellite-imagery", "aerial-imagery", "machine-learning", "segmentation", "openstreetmap"]
+repository = "https://github.com/mapbox/robosat"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

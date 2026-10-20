@@ -1,0 +1,9 @@
+name = "pal"
+description = "PaL: Program-Aided Language Models (ICML 2023)"
+category = "models"
+tags = ["commonsense-reasoning", "few-shot-learning", "language-generation", "language-model", "large-language-models", "reasoning"]
+repository = "https://github.com/reasoning-machines/pal"
+website = "https://reasonwithpal.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

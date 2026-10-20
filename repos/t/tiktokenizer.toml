@@ -1,0 +1,9 @@
+name = "tiktokenizer"
+description = "Online playground for OpenAPI tokenizers"
+category = "chat"
+tags = ["chatgpt", "nextjs", "openai", "t3-stack", "tiktoken", "tokenizer"]
+repository = "https://github.com/dqbd/tiktokenizer"
+website = "https://tiktokenizer.vercel.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "LFM"
+description = "Official PyTorch implementation of the paper: Flow Matching in Latent Space"
+category = "image"
+tags = ["diffusion-models", "flow-matching", "generative-models", "vision-transformer", "latent-space", "conditional-normalizing-flows"]
+repository = "https://github.com/VinAIResearch/LFM"
+website = "https://vinairesearch.github.io/LFM/"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

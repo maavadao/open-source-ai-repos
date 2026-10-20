@@ -1,0 +1,9 @@
+name = "obsidian-edge-tts"
+description = "Free, high quality text-to-speech for your Obsidian notes, leveraging Microsoft Edge's Read Aloud API."
+category = "speech"
+tags = ["edge-tts", "obsidian", "obsidian-md", "obsidian-plugin", "text-to-speech", "tts", "speech"]
+repository = "https://github.com/travisvn/obsidian-edge-tts"
+website = "https://tts.travisvn.com"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

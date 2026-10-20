@@ -1,0 +1,8 @@
+name = "prometheus-eval"
+description = "Evaluate your LLM's response with Prometheus and GPT4"
+category = "local-llms"
+tags = ["evaluation", "litellm", "llm", "llmops", "python", "vllm", "gpt4", "llm-as-a-judge"]
+repository = "https://github.com/prometheus-eval/prometheus-eval"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

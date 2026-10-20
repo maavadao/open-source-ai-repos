@@ -1,0 +1,9 @@
+name = "llm-mcts"
+description = "[NeurIPS 2023] We use large language models as commonsense world model and heuristic policy within Monte-Carlo Tree Search, enabling better-reasoned decision-making for daily task planning problems."
+category = "models"
+tags = ["large-language-models", "neurips-2023", "task-planning"]
+repository = "https://github.com/1989Ryan/llm-mcts"
+website = "https://llm-mcts.github.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

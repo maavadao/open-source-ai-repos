@@ -1,0 +1,8 @@
+name = "MARL-code-pytorch"
+description = "Concise pytorch implements of MARL algorithms, including MAPPO, MADDPG, MATD3, QMIX and VDN."
+category = "ml-platforms"
+tags = ["mappo", "mpe", "qmix", "reinforcement-learning", "smac", "vdn", "maddpg", "matd3"]
+repository = "https://github.com/Lizhi-sjtu/MARL-code-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

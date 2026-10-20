@@ -1,0 +1,8 @@
+name = "ComfyUI-ELLA"
+description = "ELLA nodes for ComfyUI"
+category = "image"
+tags = ["comfy", "comfyui", "ella", "stable-diffusion"]
+repository = "https://github.com/TencentQQGYLab/ComfyUI-ELLA"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

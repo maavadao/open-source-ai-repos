@@ -1,0 +1,9 @@
+name = "ccLoad"
+description = "Self-hosted AI API gateway for Claude Code, Codex and Gemini: pool API keys and subscription accounts behind one endpoint with failover, protocol conversion and cost tracking."
+category = "coding"
+tags = ["ai", "ai-gateway", "anthropic", "api-proxy", "claude-api", "claude-code", "codex", "cost-control"]
+repository = "https://github.com/caidaoli/ccLoad"
+website = "https://ccload.xyz"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

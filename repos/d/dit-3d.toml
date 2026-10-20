@@ -1,0 +1,9 @@
+name = "DiT-3D"
+description = "Official Codebase of \"DiT-3D: Exploring Plain Diffusion Transformers for 3D Shape Generation\""
+category = "image"
+tags = ["3d-shape-generation", "diffusion-models", "point-clouds", "transformers", "diffusion-transformer"]
+repository = "https://github.com/DiT-3D/DiT-3D"
+website = "https://dit-3d.github.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

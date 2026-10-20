@@ -1,0 +1,7 @@
+name = "awesome-claude-prompts"
+description = "This repo includes Claude prompt curation to use Claude better."
+category = "learning"
+tags = ["anthropic", "anthropic-claude", "chatgpt", "chatgpt-4", "chatgpt3", "claude", "claude-ai", "openai"]
+repository = "https://github.com/langgptai/awesome-claude-prompts"
+license = "NOASSERTION"
+added = 2026-10-20

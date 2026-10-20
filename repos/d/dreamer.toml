@@ -1,0 +1,9 @@
+name = "dreamer"
+description = "Dream to Control: Learning Behaviors by Latent Imagination"
+category = "robotics"
+tags = ["reinforcement-learning", "artificial-intelligence", "deep-learning", "robotics", "world-models"]
+repository = "https://github.com/danijar/dreamer"
+website = "https://danijar.com/dreamer"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

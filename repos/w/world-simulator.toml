@@ -1,0 +1,8 @@
+name = "World-Simulator"
+description = "[IEEE TPAMI 2026] Simulating the Real World: Survey & Resources, which contains our survey \"Simulating the Real World: A Unified Survey of Multimodal Generative Models\" (IEEE TPAMI, 2026) and Awesome-Text2X-Resources. Watch this repository for the latest updates!"
+category = "video"
+tags = ["generative-models", "multimodal", "world-simulator", "aigc", "awesome-list", "survey", "text2x", "vision"]
+repository = "https://github.com/ALEEEHU/World-Simulator"
+website = "https://arxiv.org/abs/2503.04641"
+license = "MIT"
+added = 2026-10-20

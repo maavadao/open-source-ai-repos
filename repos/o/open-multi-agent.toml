@@ -1,0 +1,9 @@
+name = "open-multi-agent"
+description = "Self-hosted TypeScript agent runtime with durable approvals and verifiable run records. Own it, approve it, audit it."
+category = "mcp-servers"
+tags = ["agent-framework", "ai-agents", "claude", "llm", "multi-agent", "openai", "typescript", "anthropic"]
+repository = "https://github.com/open-multi-agent/open-multi-agent"
+website = "https://open-multi-agent.com/go/repo"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Awesome-AI-Agents"
+description = "A collection of autonomous agents powered by LLM."
+category = "learning"
+tags = ["agent", "agents", "llm", "llm-powered-agents", "multi-agent"]
+repository = "https://github.com/Jenqyang/Awesome-AI-Agents"
+website = "https://jenqyang.github.io/Awesome-AI-Agents/"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

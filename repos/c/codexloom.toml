@@ -1,0 +1,8 @@
+name = "codexloom"
+description = "Turn Codex threads into an organization of long-lived domain agents."
+category = "coding"
+tags = ["agent-governance", "agent-orchestration", "ai-agents", "codex", "developer-tools", "golang", "llm", "multi-agent"]
+repository = "https://github.com/yan5xu/codexloom"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

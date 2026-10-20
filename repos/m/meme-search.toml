@@ -1,0 +1,9 @@
+name = "meme-search"
+description = "The open source Meme Search Engine and Finder. Free and built to self-host locally with Python, Ruby, and Docker."
+category = "vector-databases"
+tags = ["machine-learning", "vector-database", "self-hosted", "docker", "ai", "meme", "semantic-search", "homelab"]
+repository = "https://github.com/meme-search/meme-search"
+website = "https://meme-search.neonwatty.com/"
+license = "Apache-2.0"
+language = "Ruby"
+added = 2026-10-20

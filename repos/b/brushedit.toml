@@ -1,0 +1,9 @@
+name = "BrushEdit"
+description = "[TPAMI] The official implementation of paper \"BrushEdit: All-In-One Image Inpainting and Editing\""
+category = "image"
+tags = ["diffusion-models", "image-editing", "image-inpainting"]
+repository = "https://github.com/TencentARC/BrushEdit"
+website = "https://liyaowei-stu.github.io/project/BrushEdit/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

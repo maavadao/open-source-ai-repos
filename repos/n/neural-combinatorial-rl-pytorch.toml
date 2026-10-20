@@ -1,0 +1,8 @@
+name = "neural-combinatorial-rl-pytorch"
+description = "PyTorch implementation of Neural Combinatorial Optimization with Reinforcement Learning https://arxiv.org/abs/1611.09940"
+category = "ml-platforms"
+tags = ["pytorch", "reinforcement-learning", "seq2seq", "neural-combinatorial-optimization"]
+repository = "https://github.com/pemami4911/neural-combinatorial-rl-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

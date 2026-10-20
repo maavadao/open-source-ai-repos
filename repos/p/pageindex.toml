@@ -1,0 +1,9 @@
+name = "PageIndex"
+description = "PageIndex: Document Index for Vectorless, Reasoning-based RAG"
+category = "vector-databases"
+tags = ["agentic-ai", "agents", "ai", "ai-agents", "context-engineering", "llm", "rag", "reasoning"]
+repository = "https://github.com/VectifyAI/PageIndex"
+website = "https://pageindex.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,10 @@
+name = "instructor"
+description = "structured outputs for llms"
+category = "llm-apps"
+tags = ["openai", "python", "pydantic-v2", "openai-functions", "validation", "openai-function-calli"]
+repository = "https://github.com/567-labs/instructor"
+website = "https://python.useinstructor.com"
+license = "MIT"
+language = "Python"
+skill_level = "beginner"
+added = 2026-10-20

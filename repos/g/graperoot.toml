@@ -1,0 +1,9 @@
+name = "GrapeRoot"
+description = "Compounding Context for AI Coding Assistants — MCP graph engine for Claude Code, Cursor, Copilot, Gemini, OpenCode"
+category = "mcp-servers"
+tags = ["ai-coding", "claude-code", "context-engine", "copilot", "cursor", "gemini", "mcp", "graperoot"]
+repository = "https://github.com/kunal12203/GrapeRoot"
+website = "https://graperoot.dev"
+license = "Apache-2.0"
+language = "PowerShell"
+added = 2026-10-20

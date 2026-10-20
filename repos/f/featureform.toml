@@ -1,0 +1,9 @@
+name = "featureform"
+description = "The Virtual Feature Store. Turn your existing data infrastructure into a feature store."
+category = "vector-databases"
+tags = ["machine-learning", "data-science", "vector-database", "embeddings-similarity", "embeddings", "hacktoberfest", "feature-store", "mlops"]
+repository = "https://github.com/featureform/featureform"
+website = "https://www.featureform.com"
+license = "MPL-2.0"
+language = "Go"
+added = 2026-10-20

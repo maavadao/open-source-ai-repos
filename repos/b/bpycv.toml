@@ -1,0 +1,8 @@
+name = "bpycv"
+description = "Computer vision utils for Blender (generate instance annoatation, depth and 6D pose by one line code)"
+category = "vision"
+tags = ["blender", "blender-cv", "computer-vision", "data-synthesis", "deep-learning", "instance-segmentation", "ycb", "depth"]
+repository = "https://github.com/DIYer22/bpycv"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

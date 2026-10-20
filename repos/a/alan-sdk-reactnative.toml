@@ -1,0 +1,9 @@
+name = "alan-sdk-reactnative"
+description = "The Self-Coding System for Your App — Alan AI SDK for React Native"
+category = "speech"
+tags = ["react-native", "sdk", "voice", "voice-assistant", "voice-ai", "alan-voice", "chatbot", "alan-ai"]
+repository = "https://github.com/alan-ai/alan-sdk-reactnative"
+website = "https://alan.app/"
+license = "NOASSERTION"
+language = "Ruby"
+added = 2026-10-20

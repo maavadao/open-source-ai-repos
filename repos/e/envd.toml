@@ -1,0 +1,9 @@
+name = "envd"
+description = "Reproducible development environment for humans and agents"
+category = "coding"
+tags = ["developer-tools", "development-environment", "docker", "buildkit", "hacktoberfest", "llmops", "mlops", "mlops-workflow"]
+repository = "https://github.com/tensorchord/envd"
+website = "https://envd.tensorchord.ai/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "labelCloud"
+description = "A lightweight tool for labeling 3D bounding boxes in point clouds."
+category = "vision"
+tags = ["annotation", "3d-object-detection", "tool", "machine-learning", "computer-vision", "labeling", "point-clouds", "bounding-boxes"]
+repository = "https://github.com/ch-sa/labelCloud"
+website = "https://ch-sa.github.io/labelCloud/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "OpenEMMA"
+description = "OpenEMMA, a permissively licensed open source \"reproduction\" of Waymo’s EMMA model."
+category = "robotics"
+tags = ["algorithms", "artificial-intelligence", "autonomous-car", "autonomous-driving", "autonomous-vehicles", "autonomy", "emma", "generative-ai"]
+repository = "https://github.com/taco-group/OpenEMMA"
+website = "https://arxiv.org/abs/2412.15208"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

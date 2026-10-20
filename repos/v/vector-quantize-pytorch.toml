@@ -1,0 +1,8 @@
+name = "vector-quantize-pytorch"
+description = "Vector (and Scalar) Quantization, in Pytorch"
+category = "ml-platforms"
+tags = ["artificial-intelligence", "deep-learning", "pytorch", "vector-quantization", "scalar-quantization"]
+repository = "https://github.com/lucidrains/vector-quantize-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

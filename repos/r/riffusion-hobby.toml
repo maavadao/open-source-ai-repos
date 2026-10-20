@@ -1,0 +1,8 @@
+name = "riffusion-hobby"
+description = "Stable diffusion for real-time music generation"
+category = "speech"
+tags = ["diffusion", "ai", "audio", "music", "diffusers", "stable-diffusion"]
+repository = "https://github.com/riffusion/riffusion-hobby"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

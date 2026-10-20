@@ -1,0 +1,8 @@
+name = "burpgpt"
+description = "A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities and enables running traffic-based analysis of any type."
+category = "models"
+tags = ["ai", "burp-extensions", "burpsuite", "cybersecurity", "gpt", "openai", "pentesting", "security"]
+repository = "https://github.com/aress31/burpgpt"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

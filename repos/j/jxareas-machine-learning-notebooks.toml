@@ -1,0 +1,8 @@
+name = "Machine-Learning-Notebooks"
+description = "The full collection of Jupyter Notebook labs from Andrew Ng's Machine Learning Specialization."
+category = "learning"
+tags = ["learn", "clustering", "jupyter-notebook", "machine-learning", "machine-learning-algorithms", "neural-network", "numpy", "python"]
+repository = "https://github.com/jxareas/Machine-Learning-Notebooks"
+license = "Unlicense"
+language = "Jupyter Notebook"
+added = 2026-10-20

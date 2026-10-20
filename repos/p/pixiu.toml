@@ -1,0 +1,9 @@
+name = "PIXIU"
+description = "This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open-source development…"
+category = "chat"
+tags = ["aifinance", "fintech", "llama", "machine-learning", "named-entity-recognition", "natural-language-processing", "nlp", "question-answering"]
+repository = "https://github.com/The-FinAI/PIXIU"
+website = "https://huggingface.co/collections/TheFinAI/finben-and-pixiu-english-financial-evaluation-658f515911f68f12ea193194"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

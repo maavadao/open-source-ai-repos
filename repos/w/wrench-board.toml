@@ -1,0 +1,9 @@
+name = "wrench-board"
+description = "A senior microsoldering technician, available to every repair shop from the seasoned pro to the apprentice. Powered by Claude Opus 5"
+category = "security"
+tags = ["agentic-ai", "agents", "ai-safety", "anthropic", "boardview", "claude", "claude-managed-agents", "e-waste"]
+repository = "https://github.com/Junkz3/wrench-board"
+website = "https://app.wrenchboard.cloud"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

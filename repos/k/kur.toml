@@ -1,0 +1,8 @@
+name = "kur"
+description = "Descriptive Deep Learning"
+category = "learning"
+tags = ["deep-learning", "deep-neural-networks", "speech-recognition", "deep-learning-tutorial", "machine-learning", "neural-networks", "neural-network", "image-recognition"]
+repository = "https://github.com/deepgram/kur"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

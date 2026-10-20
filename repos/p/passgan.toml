@@ -1,0 +1,8 @@
+name = "PassGAN"
+description = "A Deep Learning Approach for Password Guessing (https://arxiv.org/abs/1709.00440)"
+category = "ml-platforms"
+tags = ["password-cracking", "machine-learning", "deep-learning", "gan", "password", "password-strength"]
+repository = "https://github.com/brannondorsey/PassGAN"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

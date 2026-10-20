@@ -1,0 +1,8 @@
+name = "openai4j"
+description = "Java client library for OpenAI API.Full support for all OpenAI API models including Completions, Chat, Edits, Embeddings, Audio, Files, Assistants-v2, Images, Moderations, Batch, and Fine-tuning."
+category = "chat"
+tags = ["chatgpt", "gpt4", "openai", "openai-api", "assistants-api", "openai-api-chatbot", "openai-assistant-api", "openai-whisper"]
+repository = "https://github.com/Lambdua/openai4j"
+license = "MIT"
+language = "Java"
+added = 2026-10-20

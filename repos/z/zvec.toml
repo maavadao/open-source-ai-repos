@@ -1,0 +1,9 @@
+name = "zvec"
+description = "A lightweight, lightning-fast, in-process vector database"
+category = "skills-prompts"
+tags = ["rag", "agent-skills", "embedded", "faiss", "hnsw", "llm-memory", "search-engine", "semantic-search"]
+repository = "https://github.com/alibaba/zvec"
+website = "https://zvec.org"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "MinkowskiEngine"
+description = "Minkowski Engine is an auto-diff neural network library for high-dimensional sparse tensors"
+category = "vision"
+tags = ["neural-network", "computer-vision", "sparse-tensors", "convolutional-neural-networks", "semantic-segmentation", "auto-differentiation", "spatio-temporal-analysis", "space-time"]
+repository = "https://github.com/NVIDIA/MinkowskiEngine"
+website = "https://nvidia.github.io/MinkowskiEngine"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "TheiaSfM"
+description = "An open source library for multiview geometry and structure from motion"
+category = "vision"
+tags = ["computer-vision", "structure-from-motion", "geometry"]
+repository = "https://github.com/sweeneychris/TheiaSfM"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

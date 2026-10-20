@@ -1,0 +1,9 @@
+name = "yolov3"
+description = "PyTorch implementation of YOLOv3, YOLOv3-SPP, and YOLOv3-tiny for real-time object detection with training, validation, inference, and multi-format export."
+category = "vision"
+tags = ["yolov3", "object-detection", "yolo", "deep-learning", "ultralytics", "computer-vision", "coreml", "edge-ai"]
+repository = "https://github.com/ultralytics/yolov3"
+website = "https://docs.ultralytics.com/models/yolov3/"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

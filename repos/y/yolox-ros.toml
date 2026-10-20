@@ -1,0 +1,8 @@
+name = "YOLOX-ROS"
+description = "YOLOX + ROS2 object detection package (C++ only support)"
+category = "robotics"
+tags = ["yolox", "object-detection", "opencv", "ros2", "openvino", "tensorrt", "onnxruntime", "tflite"]
+repository = "https://github.com/Ar-Ray-code/YOLOX-ROS"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

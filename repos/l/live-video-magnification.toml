@@ -1,0 +1,8 @@
+name = "Live-Video-Magnification"
+description = "Real‑time Eulerian video magnification: amplify subtle motion & color from webcam or video. Linux/Windows/macOS"
+category = "vision"
+tags = ["motion-magnification", "video-magnification", "eulerian-video-magnification", "webcam", "opencv", "riesz-pyramid", "color-magnification", "computer-vision"]
+repository = "https://github.com/tschnz/Live-Video-Magnification"
+license = "AGPL-3.0"
+language = "C++"
+added = 2026-10-20

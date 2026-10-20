@@ -1,0 +1,9 @@
+name = "datachain"
+description = "The Context Layer for unstructured data: typed, versioned datasets over S3, GCS, Azure"
+category = "coding"
+tags = ["claude-code", "codex", "data-processing", "harness-engineering", "mlops", "unstructured-data", "data-context-layer", "ai-agents"]
+repository = "https://github.com/datachain-ai/datachain"
+website = "https://docs.datachain.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

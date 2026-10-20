@@ -1,0 +1,8 @@
+name = "tensorflow-speech-recognition"
+description = "Speech recognition using the tensorflow deep learning framework, sequence-to-sequence neural networks"
+category = "speech"
+tags = ["tensorflow", "speech-recognition", "neural-network", "deep-learning", "stt", "speech-to-text"]
+repository = "https://github.com/pannous/tensorflow-speech-recognition"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

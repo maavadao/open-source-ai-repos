@@ -1,0 +1,7 @@
+name = "Awesome-Repo-Level-Code-Generation"
+description = "Must-read papers on Repository-level Code Generation & Issue Resolution"
+category = "learning"
+tags = ["ai4se", "code-generation", "llm", "automated-software-engineering", "large-language-models", "software-engineering"]
+repository = "https://github.com/YerbaPage/Awesome-Repo-Level-Code-Generation"
+license = "MIT"
+added = 2026-10-20

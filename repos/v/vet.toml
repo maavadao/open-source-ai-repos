@@ -1,0 +1,8 @@
+name = "vet"
+description = "Find issues worth your attention."
+category = "coding"
+tags = ["ai", "ai-agents", "ai-code-review", "ai-coding-tools", "code-review", "coding-assistant", "code-quality"]
+repository = "https://github.com/imbue-ai/vet"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

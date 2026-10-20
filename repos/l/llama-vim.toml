@@ -1,0 +1,8 @@
+name = "llama.vim"
+description = "Vim plugin for LLM-assisted code/text completion"
+category = "coding"
+tags = ["llama", "llm", "vim", "vim-plugin", "copilot", "developer-tool"]
+repository = "https://github.com/ggml-org/llama.vim"
+license = "MIT"
+language = "Vim Script"
+added = 2026-10-20

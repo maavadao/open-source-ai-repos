@@ -1,0 +1,9 @@
+name = "tinyfish-cookbook"
+description = "A collection of sample apps and recipes built with the TinyFish web agent. Open-source examples for you to learn & build!"
+category = "learning"
+tags = ["agent", "agentic", "ai", "cookbook", "examples", "typescript", "web-agents", "web-automation"]
+repository = "https://github.com/tinyfish-io/tinyfish-cookbook"
+website = "https://tinyfish.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

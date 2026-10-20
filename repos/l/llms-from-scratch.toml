@@ -1,0 +1,10 @@
+name = "LLMs-from-scratch"
+description = "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step"
+category = "learning"
+tags = ["gpt", "large-language-models", "llm", "python", "pytorch", "ai", "artificial-intelligence", "language-model"]
+repository = "https://github.com/rasbt/LLMs-from-scratch"
+website = "https://www.manning.com/books/build-a-large-language-model-from-scratch"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+skill_level = "intermediate"
+added = 2026-10-20

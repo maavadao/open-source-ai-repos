@@ -1,0 +1,9 @@
+name = "phasellm"
+description = "Large language model evaluation and workflow framework from Phase AI."
+category = "models"
+tags = ["ai", "gpt", "llm", "openai", "python"]
+repository = "https://github.com/wgryc/phasellm"
+website = "http://phasellm.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

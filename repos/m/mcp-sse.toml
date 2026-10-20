@@ -1,0 +1,8 @@
+name = "mcp-sse"
+description = "A working pattern for SSE-based MCP clients and servers"
+category = "mcp-servers"
+tags = ["agents", "llm", "mcp", "tool-use"]
+repository = "https://github.com/sidharthrajaram/mcp-sse"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

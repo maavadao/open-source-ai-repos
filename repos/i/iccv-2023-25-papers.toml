@@ -1,0 +1,9 @@
+name = "ICCV-2023-25-Papers"
+description = "ICCV 2023-2025 Papers: Discover cutting-edge research from ICCV 2023-25, the leading computer vision conference. Stay updated on the latest in computer vision and deep learning, with code included. support visual intelligence development!"
+category = "vision"
+tags = ["iccv", "iccv2023", "3d-graphics", "3d-reconstruction", "biometrics", "computer-vision", "datasets", "deep-learning"]
+repository = "https://github.com/DmitryRyumin/ICCV-2023-25-Papers"
+website = "https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

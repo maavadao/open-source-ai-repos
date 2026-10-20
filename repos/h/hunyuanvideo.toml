@@ -1,0 +1,10 @@
+name = "HunyuanVideo"
+description = "HunyuanVideo: A Systematic Framework For Large Video Generation Model"
+category = "video"
+tags = ["video-generation", "diffusion-models", "diffusion-transformer"]
+repository = "https://github.com/Tencent-Hunyuan/HunyuanVideo"
+website = "https://aivideo.hunyuan.tencent.com"
+license = "NOASSERTION"
+language = "Python"
+skill_level = "advanced"
+added = 2026-10-20

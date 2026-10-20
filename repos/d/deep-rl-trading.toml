@@ -1,0 +1,8 @@
+name = "deep-RL-trading"
+description = "playing idealized trading games with deep reinforcement learning"
+category = "ml-platforms"
+tags = ["deep-reinforcement-learning", "machine-learning", "deep-learning", "trading", "neural-network", "time-series", "dqn", "reinforcement-learning"]
+repository = "https://github.com/golsun/deep-RL-trading"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

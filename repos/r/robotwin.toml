@@ -1,0 +1,9 @@
+name = "RoboTwin"
+description = "[ICML 2026] RoboTwin 2.0 Offical Code Repo"
+category = "robotics"
+tags = ["benchmark", "embodied-ai", "robotics", "data-generator"]
+repository = "https://github.com/RoboTwin-Platform/RoboTwin"
+website = "https://robotwin-platform.github.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

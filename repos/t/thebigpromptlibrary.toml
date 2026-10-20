@@ -1,0 +1,7 @@
+name = "TheBigPromptLibrary"
+description = "A collection of prompts, system prompts and LLM instructions"
+category = "skills-prompts"
+repository = "https://github.com/0xeb/TheBigPromptLibrary"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

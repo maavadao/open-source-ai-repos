@@ -1,0 +1,9 @@
+name = "fcitx5-vinput"
+description = "Voice input for Fcitx5 — local and cloud ASR, LLM rewriting, cross-distro packages"
+category = "speech"
+tags = ["fcitx5", "input-method", "linux", "offline-asr", "sherpa-onnx", "speech-recognition", "voice-input"]
+repository = "https://github.com/xifan2333/fcitx5-vinput"
+website = "https://xifan2333.github.io/fcitx5-vinput/"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-10-20

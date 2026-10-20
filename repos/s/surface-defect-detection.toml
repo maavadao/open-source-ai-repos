@@ -1,0 +1,9 @@
+name = "Surface-Defect-Detection"
+description = "目前最大的工业缺陷检测数据库及论文集 Constantly summarizing open source dataset and critical papers in the field of surface defect research which are of great importance."
+category = "vision"
+tags = ["surface-detection", "surface-defects", "image-segmentation", "pcb-surface-defect", "surface-defect-detection", "paper", "defects", "dataset"]
+repository = "https://github.com/Charmve/Surface-Defect-Detection"
+website = "https://github.com/Charmve/computer-vision-in-action"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

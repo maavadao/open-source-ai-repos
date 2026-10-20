@@ -1,0 +1,7 @@
+name = "gastown"
+description = "Gas Town - multi-agent workspace manager"
+category = "agents"
+repository = "https://github.com/gastownhall/gastown"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

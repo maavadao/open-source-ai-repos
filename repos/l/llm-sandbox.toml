@@ -1,0 +1,9 @@
+name = "llm-sandbox"
+description = "Lightweight and portable LLM sandbox runtime (code interpreter) Python library."
+category = "coding"
+tags = ["code-generation", "code-interpreter", "large-language-models", "llm-sandbox"]
+repository = "https://github.com/vndee/llm-sandbox"
+website = "https://vndee.github.io/llm-sandbox/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

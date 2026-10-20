@@ -1,0 +1,8 @@
+name = "AutoRAG"
+description = "AutoRAG: Now your agent can find anything in your computer. It gets smarter if you are using it frequently."
+category = "agents"
+tags = ["document-parser", "embeddings", "llm", "open-source", "pipeline", "qa", "rag", "retrieval-augmented-generation"]
+repository = "https://github.com/Marker-Inc-Korea/AutoRAG"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

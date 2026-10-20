@@ -1,0 +1,9 @@
+name = "ruoyi-ai"
+description = "Enterprise-grade AI agent framework with multi-provider LLM management, secure knowledge bases and high-precision RAG, visual workflow orchestration, and multi-agent coordination."
+category = "mcp-servers"
+tags = ["agent", "ai", "knowledge", "rag", "mcp"]
+repository = "https://github.com/ageerle/ruoyi-ai"
+website = "https://doc.ruoyiai.chat"
+license = "MIT"
+language = "Java"
+added = 2026-10-20

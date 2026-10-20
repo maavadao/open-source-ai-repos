@@ -1,0 +1,9 @@
+name = "Open-DiffusionGS"
+description = "Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation and Reconstruction (ICCV 2025)"
+category = "image"
+tags = ["3d-diffusion-models", "3d-gaussian-splatting", "3d-generation", "3d-graphics", "3d-vision", "3dgs", "diffusion-models", "image-to-3d"]
+repository = "https://github.com/caiyuanhao1998/Open-DiffusionGS"
+website = "https://arxiv.org/abs/2411.14384"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

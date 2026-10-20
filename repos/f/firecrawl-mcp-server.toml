@@ -1,0 +1,9 @@
+name = "firecrawl-mcp-server"
+description = "Official Firecrawl MCP server, the context API for AI agents: search, scrape, and interact with the web, plus parse, crawl, map, Agent and Monitor, from any MCP client."
+category = "mcp-servers"
+tags = ["batch-processing", "claude", "content-extraction", "data-collection", "firecrawl", "firecrawl-ai", "llm-tools", "mcp-server"]
+repository = "https://github.com/firecrawl/firecrawl-mcp-server"
+website = "https://firecrawl.dev"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

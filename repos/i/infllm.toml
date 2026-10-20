@@ -1,0 +1,8 @@
+name = "InfLLM"
+description = "The code of our paper \"InfLLM: Unveiling the Intrinsic Capacity of LLMs for Understanding Extremely Long Sequences with Training-Free Memory\""
+category = "models"
+tags = ["large-language-models", "llm", "long-context", "training-free"]
+repository = "https://github.com/thunlp/InfLLM"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

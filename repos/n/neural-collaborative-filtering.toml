@@ -1,0 +1,8 @@
+name = "neural_collaborative_filtering"
+description = "Neural Collaborative Filtering"
+category = "ml-platforms"
+tags = ["deep-learning", "recommender-system", "collaborative-filtering"]
+repository = "https://github.com/hexiangnan/neural_collaborative_filtering"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

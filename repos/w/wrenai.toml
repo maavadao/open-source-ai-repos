@@ -1,0 +1,9 @@
+name = "WrenAI"
+description = "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon…"
+category = "mcp-servers"
+tags = ["bigquery", "duckdb", "llm", "postgresql", "rag", "text-to-sql", "sql", "text2sql"]
+repository = "https://github.com/Canner/WrenAI"
+website = "https://www.getwren.ai/en/open-core"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

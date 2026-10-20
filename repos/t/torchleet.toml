@@ -1,0 +1,9 @@
+name = "TorchLeet"
+description = "LeetCode for PyTorch — 65 ML/AI interview problems from real interviews at Google, Meta, Anthropic. Jupyter notebooks, an auto-grader, and an MCP AI tutor."
+category = "learning"
+tags = ["coding-interviews", "deep-learning", "from-scratch", "interview-preparation", "interview-questions", "leetcode", "llm", "machine-learning-interview"]
+repository = "https://github.com/Exorust/TorchLeet"
+website = "https://torch-leet.vercel.app"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

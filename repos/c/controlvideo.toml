@@ -1,0 +1,8 @@
+name = "ControlVideo"
+description = "[ICLR 2024] Official pytorch implementation of \"ControlVideo: Training-free Controllable Text-to-Video Generation\""
+category = "video"
+tags = ["diffusion-models", "training-free", "video-generation"]
+repository = "https://github.com/YBYBZhang/ControlVideo"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

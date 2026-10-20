@@ -1,0 +1,7 @@
+name = "Awesome-Try-On-Models"
+description = "A repository for organizing papers, codes and other resources related to Virtual Try-on Models"
+category = "learning"
+tags = ["3d-generation", "diffusion-models", "image-generation", "sota-model", "tracking", "video-generation", "virtual-try-on"]
+repository = "https://github.com/Zheng-Chong/Awesome-Try-On-Models"
+license = "NOASSERTION"
+added = 2026-10-20

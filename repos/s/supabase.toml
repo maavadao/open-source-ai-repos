@@ -1,0 +1,9 @@
+name = "supabase"
+description = "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+category = "other"
+tags = ["firebase", "supabase", "realtime", "postgrest", "postgres", "postgresql", "websockets", "deno"]
+repository = "https://github.com/supabase/supabase"
+website = "https://supabase.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

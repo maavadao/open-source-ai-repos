@@ -1,0 +1,8 @@
+name = "FastMOT"
+description = "High-performance multiple object tracking based on YOLO, Deep SORT, and KLT"
+category = "vision"
+tags = ["jetson", "multi-object-tracking", "tensorrt", "real-time", "reid", "object-detection", "deep-sort", "computer-vision"]
+repository = "https://github.com/GeekAlexis/FastMOT"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

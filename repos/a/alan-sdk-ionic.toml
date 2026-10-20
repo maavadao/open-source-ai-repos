@@ -1,0 +1,9 @@
+name = "alan-sdk-ionic"
+description = "The Self-Coding System for Your App — Alan AI SDK for Ionic"
+category = "speech"
+tags = ["alan-ionic-sdk", "alan-studio", "chatbot", "voice", "voice-assistant", "voice-ai", "ionic", "sdk"]
+repository = "https://github.com/alan-ai/alan-sdk-ionic"
+website = "https://alan.app"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

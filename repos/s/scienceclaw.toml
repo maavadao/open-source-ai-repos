@@ -1,0 +1,9 @@
+name = "ScienceClaw"
+description = "Verifiable program-level self-evolution for AI-for-Science agents: Skills and typed Operators grow from replay-verified executions."
+category = "mcp-servers"
+tags = ["ai", "ai-agent", "bioinformatics", "literature-review", "llm", "mcp", "meta-analysis", "openclaw"]
+repository = "https://github.com/beita6969/ScienceClaw"
+website = "https://scienceclaw.science"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

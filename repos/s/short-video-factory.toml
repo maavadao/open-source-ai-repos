@@ -1,0 +1,9 @@
+name = "short-video-factory"
+description = "一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of product marketing and general content short videos, AI batch automatic cliping, beautiful cross platform desktop tool"
+category = "no-code"
+tags = ["ai", "automatic", "clipping", "cross-platform", "desktop", "marketing", "pc", "product"]
+repository = "https://github.com/YILS-LIN/short-video-factory"
+website = "https://short-video-factory.yils.blog"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

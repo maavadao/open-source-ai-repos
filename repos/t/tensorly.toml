@@ -1,0 +1,9 @@
+name = "tensorly"
+description = "TensorLy: Tensor Learning in Python."
+category = "ml-platforms"
+tags = ["machine-learning", "tensor", "decomposition", "tensor-algebra", "tensorly", "tensor-learning", "python", "tensor-methods"]
+repository = "https://github.com/tensorly/tensorly"
+website = "http://tensorly.org"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

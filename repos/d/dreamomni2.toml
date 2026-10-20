@@ -1,0 +1,8 @@
+name = "DreamOmni2"
+description = "This project is the official implementation of 'DreamOmni2: Multimodal Instruction-based Editing and Generation (CVPR2026 Highlight)''"
+category = "image"
+tags = ["image-editing", "image-generation", "unified-generation-editing-model"]
+repository = "https://github.com/JIA-Lab-research/DreamOmni2"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

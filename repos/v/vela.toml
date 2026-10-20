@@ -1,0 +1,8 @@
+name = "vela"
+description = "AI-powered IDE for novel writing — local LLM + RAG, privacy-first, BYOK. For web fiction authors and creative writers."
+category = "local-llms"
+tags = ["ai-tool", "ai-writing", "creative-writing", "desktop-app", "electron", "local-llm", "novel-writing", "rag"]
+repository = "https://github.com/heider-x/vela"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

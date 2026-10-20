@@ -1,0 +1,10 @@
+name = "skyvern"
+description = "Automate browser based workflows with AI"
+category = "browser-automation"
+tags = ["api", "automation", "browser", "computer", "gpt", "llm", "playwright", "python"]
+repository = "https://github.com/Skyvern-AI/skyvern"
+website = "https://www.skyvern.com"
+license = "AGPL-3.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "AI-Optimizer"
+description = "The next generation deep reinforcement learning tookit"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "transfer-learning", "deep-learning"]
+repository = "https://github.com/TJU-DRL-LAB/AI-Optimizer"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

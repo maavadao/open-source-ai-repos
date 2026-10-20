@@ -1,0 +1,8 @@
+name = "RoboRTS"
+description = "An open source software stack for Real-Time Strategy research on mobile robots"
+category = "robotics"
+tags = ["robotics", "real-time-strategy", "ros", "robomaster", "roborts"]
+repository = "https://github.com/RoboMaster/RoboRTS"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

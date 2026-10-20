@@ -1,0 +1,9 @@
+name = "portal"
+description = "Mobile first batteries included web ui for sst/opencode. Git integration, in browser terminal, isolated workspaces."
+category = "coding"
+tags = ["ai", "ai-agent", "ai-agents", "opencode"]
+repository = "https://github.com/hosenur/portal"
+website = "https://openportal.space"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

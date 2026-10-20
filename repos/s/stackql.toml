@@ -1,0 +1,9 @@
+name = "stackql"
+description = "Query, provision and operate Cloud, SaaS, API and Model Context Protocol (MCP) resources through a unified SQL-based framework for humans and AI agents."
+category = "mcp-servers"
+tags = ["asset-management", "cloud", "cloud-automation", "cloud-config", "cloud-operations", "cloud-security", "cspm", "infrastructure-as-code"]
+repository = "https://github.com/stackql/stackql"
+website = "https://stackql.io/"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

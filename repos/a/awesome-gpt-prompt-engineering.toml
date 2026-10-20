@@ -1,0 +1,8 @@
+name = "awesome-gpt-prompt-engineering"
+description = "A curated list of awesome resources, tools, and other shiny things for LLM prompt engineering."
+category = "learning"
+tags = ["awesome", "chatgpt", "gpt", "gpt-4", "prompt", "prompt-engineering", "awesome-list", "awesome-lists"]
+repository = "https://github.com/snwfdhmp/awesome-gpt-prompt-engineering"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

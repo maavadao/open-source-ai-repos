@@ -1,0 +1,9 @@
+name = "meta-agents-research-environments"
+description = "Meta Agents Research Environments is a comprehensive platform designed to evaluate AI agents in dynamic, realistic scenarios. Unlike static benchmarks, this platform introduces evolving environments where agents must adapt their strategies as new information becomes…"
+category = "agents"
+tags = ["agents", "ai", "autonomous-agents", "benchmark", "evaluation", "large-language-models", "llm", "meta"]
+repository = "https://github.com/facebookresearch/meta-agents-research-environments"
+website = "https://facebookresearch.github.io/meta-agents-research-environments/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

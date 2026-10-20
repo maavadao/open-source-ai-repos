@@ -1,0 +1,9 @@
+name = "AliceVision"
+description = "3D Computer Vision Framework"
+category = "vision"
+tags = ["computer-vision", "3d-reconstruction", "photogrammetry", "structure-from-motion", "camera-tracking", "multiview-stereo", "panorama-image", "panorama-stitching"]
+repository = "https://github.com/alicevision/AliceVision"
+website = "https://alicevision.org"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

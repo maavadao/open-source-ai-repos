@@ -1,0 +1,8 @@
+name = "LongLive-RAG"
+description = "Official Implementation of LongLive-RAG: A general retrieval-augmented framework for long video generation."
+category = "video"
+tags = ["autoregressive", "diffusion-models", "generative-ai", "long-video-generation", "pytorch", "retrieval-augmented-generation", "video-diffusion", "video-diffusion-model"]
+repository = "https://github.com/qiz1907/LongLive-RAG"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

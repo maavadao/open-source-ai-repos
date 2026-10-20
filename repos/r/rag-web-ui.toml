@@ -1,0 +1,8 @@
+name = "rag-web-ui"
+description = "RAG Web UI is an intelligent dialogue system based on RAG (Retrieval-Augmented Generation) technology."
+category = "local-llms"
+tags = ["ai", "langchain", "rag", "deepseek", "ollama"]
+repository = "https://github.com/rag-web-ui/rag-web-ui"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

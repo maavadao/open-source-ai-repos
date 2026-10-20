@@ -1,0 +1,9 @@
+name = "ChatGPT.Net"
+description = "C# library for ChatGPT using official OpenAI API"
+category = "chat"
+tags = ["ai", "api", "chatgpt", "csharp", "dotnet", "free", "openai", "openai-api"]
+repository = "https://github.com/PawanOsman/ChatGPT.Net"
+website = "https://www.nuget.org/packages/ChatGPT.Net"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "rogue"
+description = "Automated web vulnerability scanning with LLM agents"
+category = "agents"
+tags = ["agents", "hacking", "llms", "pentesting", "security"]
+repository = "https://github.com/faizann24/rogue"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

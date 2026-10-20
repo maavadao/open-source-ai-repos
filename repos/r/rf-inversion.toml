@@ -1,0 +1,9 @@
+name = "RF-Inversion"
+description = "Rectified Flow Inversion (RF-Inversion) - ICLR 2025"
+category = "image"
+tags = ["diffusion-models", "generative-modeling", "image-editing", "inverse-problems", "stochastic-differential-equations", "stylization", "rectified-flows", "stroke2image-synthesis"]
+repository = "https://github.com/LituRout/RF-Inversion"
+website = "https://rf-inversion.github.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

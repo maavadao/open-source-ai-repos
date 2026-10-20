@@ -1,0 +1,8 @@
+name = "knowledgeops-agent"
+description = "Production-oriented Spring AI platform prototype for RAG, tool calling, async ingestion, JWT/RBAC, and observability."
+category = "llm-apps"
+tags = ["backend", "java", "llm", "multimodal", "pdf-rag", "rag", "spring-ai", "spring-boot"]
+repository = "https://github.com/however-yir/knowledgeops-agent"
+license = "MIT"
+language = "Java"
+added = 2026-10-20

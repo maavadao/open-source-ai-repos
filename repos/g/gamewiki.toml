@@ -1,0 +1,9 @@
+name = "gamewiki"
+description = "An intelligent Wiki overlay tool designed specifically for gamers, featuring GEMINI-powered RAG (Retrieval-Augmented Generation) capabilities for smart Q&A services."
+category = "chat"
+tags = ["chatbot", "game-assistant", "overlay-browser", "ai", "wiki", "gemini", "ingame"]
+repository = "https://github.com/rimulu030/gamewiki"
+website = "https://www.gamewiki.app"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

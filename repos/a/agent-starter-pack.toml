@@ -1,0 +1,9 @@
+name = "agent-starter-pack"
+description = "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability."
+category = "agents"
+tags = ["agents", "gcp", "gemini", "genai-agents", "generative-ai", "llmops", "mlops", "observability"]
+repository = "https://github.com/GoogleCloudPlatform/agent-starter-pack"
+website = "http://goo.gle/agents-cli"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

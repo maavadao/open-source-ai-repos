@@ -1,0 +1,9 @@
+name = "rl4co"
+description = "A PyTorch library for all things Reinforcement Learning (RL) for Combinatorial Optimization (CO)"
+category = "ml-platforms"
+tags = ["combinatorial-optimization", "reinforcement-learning", "benchmark", "hydra", "tensordict", "torchrl", "pytorch-lightning", "operations-research"]
+repository = "https://github.com/ai4co/rl4co"
+website = "https://rl4co.ai4co.org"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

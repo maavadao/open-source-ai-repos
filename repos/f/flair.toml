@@ -1,0 +1,9 @@
+name = "flair"
+description = "A very simple framework for state-of-the-art Natural Language Processing (NLP)"
+category = "ml-platforms"
+tags = ["pytorch", "nlp", "named-entity-recognition", "sequence-labeling", "semantic-role-labeling", "word-embeddings", "natural-language-processing", "machine-learning"]
+repository = "https://github.com/flairNLP/flair"
+website = "https://flairnlp.github.io/flair/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

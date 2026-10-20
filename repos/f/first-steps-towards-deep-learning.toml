@@ -1,0 +1,8 @@
+name = "First-steps-towards-Deep-Learning"
+description = "This is an open sourced book on deep learning."
+category = "learning"
+tags = ["deep-learning", "deep-neural-networks", "deep-learning-tutorial", "pytorch", "python3", "pytorch-tutorial", "pytorch-implementation", "convolutional-neural-networks"]
+repository = "https://github.com/vaibhawvipul/First-steps-towards-Deep-Learning"
+license = "GPL-3.0"
+language = "CSS"
+added = 2026-10-20

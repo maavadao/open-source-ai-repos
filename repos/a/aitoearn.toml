@@ -1,0 +1,9 @@
+name = "AiToEarn"
+description = "Let's use AI to Earn!"
+category = "other"
+tags = ["auto-publish", "douyin", "electron-app", "electron-react", "kuaishou", "tool", "xiaohongshu", "kwai"]
+repository = "https://github.com/yikart/AiToEarn"
+website = "https://aitoearn.ai/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

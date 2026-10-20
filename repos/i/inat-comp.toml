@@ -1,0 +1,8 @@
+name = "inat_comp"
+description = "iNaturalist competition details"
+category = "vision"
+tags = ["dataset", "computer-vision", "competition", "inaturalist"]
+repository = "https://github.com/visipedia/inat_comp"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

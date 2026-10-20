@@ -1,0 +1,9 @@
+name = "notebook-intelligence"
+description = "A JupyterLab extension supporting Claude Code, Copilot, Ollama, and OpenAI-compatible LLMs, with MCP, skills, plugins, and notebook agents."
+category = "mcp-servers"
+tags = ["ai", "ai-agents", "ai-tools", "claude-code", "codex", "copilot", "genai", "jupyterlab"]
+repository = "https://github.com/plmbr/notebook-intelligence"
+website = "https://nbi.plmbr.dev"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

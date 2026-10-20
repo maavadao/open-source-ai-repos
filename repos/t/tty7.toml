@@ -1,0 +1,9 @@
+name = "tty7"
+description = "The terminal that outlives its window. Shells survive quitting the app, agents can drive other agents, and remote machines work the same way. Pure Rust, GPU-rendered."
+category = "coding"
+tags = ["alacritty", "cross-platform", "daemon", "developer-tools", "gpu", "gpui", "linux", "macos"]
+repository = "https://github.com/l0ng-ai/tty7"
+website = "https://tty7.io"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

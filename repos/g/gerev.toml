@@ -1,0 +1,8 @@
+name = "gerev"
+description = "AI-powered enterprise search engine"
+category = "vector-databases"
+tags = ["ai", "search-engine", "workplace-search", "enterprise-search", "chatgpt", "semantic-search-engine", "similarity-search", "confluence"]
+repository = "https://github.com/GerevAI/gerev"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

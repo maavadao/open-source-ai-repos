@@ -1,0 +1,9 @@
+name = "memtrace-public"
+description = "Structural memory for AI coding agents. Bi-temporal graph, MCP-native, zero LLM calls. Cursor · Claude Code · Codex · DeepSeek Harness · Hermes · VS Code · Windsurf."
+category = "mcp-servers"
+tags = ["ai-agents", "code-intelligence", "code-search", "coding-agents", "knowledge-graph", "local-first", "mcp", "mcp-server"]
+repository = "https://github.com/syncable-dev/memtrace-public"
+website = "https://memtrace.io"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

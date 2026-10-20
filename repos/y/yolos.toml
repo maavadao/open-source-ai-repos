@@ -1,0 +1,9 @@
+name = "YOLOS"
+description = "[NeurIPS 2021] You Only Look at One Sequence"
+category = "vision"
+tags = ["vision-transformer", "transformer", "object-detection", "computer-vision"]
+repository = "https://github.com/hustvl/YOLOS"
+website = "https://arxiv.org/abs/2106.00666"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "photoshot"
+description = "An open-source AI avatar generator web app - https://photoshot.app"
+category = "image"
+tags = ["ai", "dreambooth", "nextjs", "reactjs", "stable-diffusion", "typescript"]
+repository = "https://github.com/premieroctet/photoshot"
+website = "https://photoshot.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

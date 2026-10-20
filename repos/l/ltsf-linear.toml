@@ -1,0 +1,8 @@
+name = "LTSF-Linear"
+description = "[AAAI-23 Oral] Official implementation of the paper \"Are Transformers Effective for Time Series Forecasting?\""
+category = "ml-platforms"
+tags = ["deep-learning", "forecasting", "forecasting-model", "linear-models", "pytorch", "time-series", "time-series-forecasting", "time-series-prediction"]
+repository = "https://github.com/cure-lab/LTSF-Linear"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

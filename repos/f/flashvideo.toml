@@ -1,0 +1,9 @@
+name = "FlashVideo"
+description = "[AAAI-2026]FlashVideo: Flowing Fidelity to Detail for Efficient High-Resolution Video Generation"
+category = "video"
+tags = ["efficient-generative-model", "text-to-video", "video-generation", "diffusion-models", "generative-models"]
+repository = "https://github.com/FoundationVision/FlashVideo"
+website = "https://foundationvision.github.io/flashvideo-page/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

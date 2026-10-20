@@ -1,0 +1,9 @@
+name = "deep-reinforcement-learning"
+description = "Repo for the Deep Reinforcement Learning Nanodegree program"
+category = "ml-platforms"
+tags = ["deep-reinforcement-learning", "reinforcement-learning", "reinforcement-learning-algorithms", "neural-networks", "pytorch", "pytorch-rl", "ddpg", "dqn"]
+repository = "https://github.com/udacity/deep-reinforcement-learning"
+website = "https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "karpathy-llm-wiki"
+description = "Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, and linting."
+category = "coding"
+tags = ["agent-skill", "claude-code", "codex", "cursor", "knowledge-base", "llm", "karpathy", "knowledge-management"]
+repository = "https://github.com/Astro-Han/karpathy-llm-wiki"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

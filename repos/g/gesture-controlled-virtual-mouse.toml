@@ -1,0 +1,8 @@
+name = "Gesture-Controlled-Virtual-Mouse"
+description = "Virtually controlling computer using hand-gestures and voice commands. Using MediaPipe, OpenCV Python."
+category = "speech"
+tags = ["python3", "opencv", "mediapipe", "mediapipe-hands", "python", "final-year-project", "cse-project", "gesture-recognition"]
+repository = "https://github.com/Viral-Doshi/Gesture-Controlled-Virtual-Mouse"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

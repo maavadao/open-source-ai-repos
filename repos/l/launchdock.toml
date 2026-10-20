@@ -1,0 +1,8 @@
+name = "launchdock"
+description = "Use Claude and GPT through one local gateway with OpenAI-compatible and Claude-native APIs."
+category = "coding"
+tags = ["claude", "openai-compatible", "ai-tools", "anthropic", "codex", "gpt", "local-gateway", "proxy"]
+repository = "https://github.com/nghyane/launchdock"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

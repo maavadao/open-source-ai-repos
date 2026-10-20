@@ -1,0 +1,9 @@
+name = "InsForge"
+description = "The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end."
+category = "agents"
+tags = ["ai", "ai-agents", "coding", "oauth2", "postgresql", "deno", "embeddings", "insforge"]
+repository = "https://github.com/InsForge/InsForge"
+website = "https://insforge.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

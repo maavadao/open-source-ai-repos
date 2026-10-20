@@ -1,0 +1,9 @@
+name = "prompttools"
+description = "Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB)."
+category = "vector-databases"
+tags = ["deep-learning", "large-language-models", "machine-learning", "prompt-engineering", "python", "embeddings", "llms", "vector-search"]
+repository = "https://github.com/hegelai/prompttools"
+website = "http://prompttools.readthedocs.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

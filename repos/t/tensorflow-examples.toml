@@ -1,0 +1,8 @@
+name = "TensorFlow-Examples"
+description = "TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)"
+category = "learning"
+tags = ["tensorflow", "tutorial", "examples", "deep-learning", "python", "machine-learning"]
+repository = "https://github.com/aymericdamien/TensorFlow-Examples"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "opencommit"
+description = "top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too"
+category = "chat"
+tags = ["ai", "ai-commit", "artificial-intelligence", "chatgpt", "git", "gpt", "productivity", "ai-commits"]
+repository = "https://github.com/di-sukharev/opencommit"
+website = "https://www.npmjs.com/package/opencommit"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

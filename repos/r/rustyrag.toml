@@ -1,0 +1,9 @@
+name = "RustyRAG"
+description = "Production-grade RAG API built in Rust. Hybrid search with HNSW dense vectors and BM25 sparse matching, cross-encoder reranking, layout-aware document extraction via Docling, and 94.5% accuracy on Open RAG Bench. Powered by Cerebras, Groq, Milvus, and Jina AI."
+category = "vector-databases"
+tags = ["actix-web", "groq", "llm", "milvus", "open-source", "rag", "rust", "vector-search"]
+repository = "https://github.com/RustyRAG/RustyRAG"
+website = "https://rustyrag.ai"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

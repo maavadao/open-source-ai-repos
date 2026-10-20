@@ -1,0 +1,8 @@
+name = "DeepPiCar"
+description = "Deep Learning Autonomous Car based on Raspberry Pi, SunFounder PiCar-V Kit, TensorFlow, and Google's EdgeTPU Co-Processor"
+category = "learning"
+tags = ["raspberry-pi", "tensorflow", "tensorflow-tutorials", "picar", "edgetpu", "autonomous-vehicles", "nvidia", "colab-notebook"]
+repository = "https://github.com/dctian/DeepPiCar"
+license = "GPL-3.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

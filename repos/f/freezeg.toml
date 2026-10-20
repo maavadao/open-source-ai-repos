@@ -1,0 +1,8 @@
+name = "FreezeG"
+description = "Freezing generator for pseudo image translation"
+category = "image"
+tags = ["image-to-image-translation", "image-generation"]
+repository = "https://github.com/bryandlee/FreezeG"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

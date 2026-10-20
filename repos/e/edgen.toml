@@ -1,0 +1,9 @@
+name = "edgen"
+description = "Edgen: Local, private GenAI server alternative to OpenAI. No GPU required. Run AI models locally: LLMs (Llama2, Mistral, Mixtral...), Speech-to-text (whisper) and many others."
+category = "chat"
+tags = ["chatgpt", "edge", "genai", "llm", "localai", "ml", "rust", "tauri"]
+repository = "https://github.com/edgenai/edgen"
+website = "https://docs.edgen.co/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

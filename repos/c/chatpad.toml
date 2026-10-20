@@ -1,0 +1,9 @@
+name = "chatpad"
+description = "Not just another ChatGPT user-interface!"
+category = "chat"
+tags = ["chatgpt", "chatgpt-api", "electron", "javascript", "openai", "openai-api", "react"]
+repository = "https://github.com/deiucanta/chatpad"
+website = "https://chatpad.ai"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

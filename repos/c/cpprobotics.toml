@@ -1,0 +1,8 @@
+name = "CppRobotics"
+description = "cpp implementation of robotics algorithms including localization, mapping, SLAM, path planning and control"
+category = "robotics"
+tags = ["robotics", "cpp", "algorithms", "planning", "localization"]
+repository = "https://github.com/onlytailei/CppRobotics"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

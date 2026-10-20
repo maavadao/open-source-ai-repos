@@ -1,0 +1,7 @@
+name = "awesome-chatgpt"
+description = "Selected ChatGPT demos, tools, articles, and more"
+category = "learning"
+tags = ["chatgpt", "gpt-3", "openai"]
+repository = "https://github.com/saharmor/awesome-chatgpt"
+license = "NOASSERTION"
+added = 2026-10-20

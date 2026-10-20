@@ -1,0 +1,7 @@
+name = "supersonic"
+description = "SuperSonic is the next-generation AI+BI platform that unifies Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms."
+category = "models"
+repository = "https://github.com/tencentmusic/supersonic"
+license = "NOASSERTION"
+language = "Java"
+added = 2026-10-20

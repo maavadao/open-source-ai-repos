@@ -1,0 +1,9 @@
+name = "vector-db-benchmark"
+description = "Framework for benchmarking vector search engines"
+category = "vector-databases"
+tags = ["benchmark", "vector-search", "vector-search-engine", "vector-database"]
+repository = "https://github.com/qdrant/vector-db-benchmark"
+website = "https://qdrant.tech/benchmarks/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

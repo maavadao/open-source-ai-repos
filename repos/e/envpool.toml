@@ -1,0 +1,9 @@
+name = "envpool"
+description = "C++-based high-performance parallel environment execution engine (vectorized env) for general RL environments."
+category = "robotics"
+tags = ["reinforcement-learning", "parallel-processing", "cpp17", "pybind11", "reinforcement-learning-environments", "threadpool", "atari-games", "vizdoom"]
+repository = "https://github.com/sail-sg/envpool"
+website = "https://envpool.readthedocs.io"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

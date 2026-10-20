@@ -1,0 +1,8 @@
+name = "speculative-decoding"
+description = "Explorations into some recent techniques surrounding speculative decoding"
+category = "models"
+tags = ["artificial-intelligence", "deep-learning", "efficient-inference", "transformers"]
+repository = "https://github.com/lucidrains/speculative-decoding"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

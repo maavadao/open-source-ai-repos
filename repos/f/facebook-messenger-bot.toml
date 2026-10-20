@@ -1,0 +1,8 @@
+name = "Facebook-Messenger-Bot"
+description = "Facebook chatbot that I trained to talk like me using Seq2Seq"
+category = "chat"
+tags = ["chatbot", "seq2seq-model", "facebook-messenger-bot", "tensorflow"]
+repository = "https://github.com/adeshpande3/Facebook-Messenger-Bot"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

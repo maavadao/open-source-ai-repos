@@ -1,0 +1,7 @@
+name = "llm_wiki"
+description = "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki…"
+category = "learning"
+repository = "https://github.com/nashsu/llm_wiki"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

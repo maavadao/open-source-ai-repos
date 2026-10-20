@@ -1,0 +1,10 @@
+name = "autoware"
+description = "Autoware - the world's leading open-source software project for autonomous driving"
+category = "robotics"
+tags = ["autoware", "autonomous-vehicles", "ros", "autonomous-driving", "ros2"]
+repository = "https://github.com/autowarefoundation/autoware"
+website = "https://www.autoware.org/"
+license = "Apache-2.0"
+language = "Dockerfile"
+skill_level = "advanced"
+added = 2026-10-20

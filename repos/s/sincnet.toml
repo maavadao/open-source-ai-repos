@@ -1,0 +1,8 @@
+name = "SincNet"
+description = "SincNet is a neural architecture for efficiently processing raw audio samples."
+category = "speech"
+tags = ["deep-learning", "audio", "waveform", "filtering", "cnn", "convolutional-neural-networks", "speaker-recognition", "speaker-verification"]
+repository = "https://github.com/mravanelli/SincNet"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

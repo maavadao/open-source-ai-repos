@@ -1,0 +1,8 @@
+name = "Tetris-deep-Q-learning-pytorch"
+description = "Deep Q-learning for playing tetris game"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "deep-q-network", "deep-q-learning", "pytorch", "cv2"]
+repository = "https://github.com/vietnh1009/Tetris-deep-Q-learning-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

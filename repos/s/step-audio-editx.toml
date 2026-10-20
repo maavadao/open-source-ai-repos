@@ -1,0 +1,8 @@
+name = "Step-Audio-EditX"
+description = "A powerful 3B-parameter, LLM-based Reinforcement Learning audio edit model excels at editing emotion, speaking style, and paralinguistics, and features robust zero-shot text-to-speech"
+category = "speech"
+tags = ["audio-editing", "cross-lingual", "emotion-control", "paralinguistics", "speaking-style", "style-control", "text-to-speech", "tts"]
+repository = "https://github.com/stepfun-ai/Step-Audio-EditX"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

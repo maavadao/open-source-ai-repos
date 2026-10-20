@@ -1,0 +1,9 @@
+name = "ModelsGenesis"
+description = "[MICCAI 2019 Young Scientist Award] [MedIA Best Paper Award] Models Genesis: self-supervised pre-training for 3D medical images. Learns transferable representations from unlabeled CT and MRI volumes, then fine-tunes for downstream segmentation and classification. Keras and…"
+category = "models"
+tags = ["fine-tuning", "representation-learning", "transfer-learning", "self-supervised-learning", "3d-model", "pre-trained-model", "foundation-models", "feature-learning"]
+repository = "https://github.com/MrGiovanni/ModelsGenesis"
+website = "https://www.cs.jhu.edu/~zongwei/publication/zhou2020models.pdf"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

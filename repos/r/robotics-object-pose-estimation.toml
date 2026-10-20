@@ -1,0 +1,8 @@
+name = "Robotics-Object-Pose-Estimation"
+description = "A complete end-to-end demonstration in which we collect training data in Unity and use that data to train a deep neural network to predict the pose of a cube. This model is then deployed in a simulated robotic pick-and-place task."
+category = "learning"
+tags = ["unity", "pose-estimation", "ros", "urdf", "robotics", "autonomy", "manipulation", "computer-vision"]
+repository = "https://github.com/Unity-Technologies/Robotics-Object-Pose-Estimation"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

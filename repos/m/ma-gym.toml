@@ -1,0 +1,8 @@
+name = "ma-gym"
+description = "A collection of multi agent environments based on OpenAI gym."
+category = "agents"
+tags = ["gym", "multi-agent", "openai-gym", "reinforcement-learning", "environment", "collaborative"]
+repository = "https://github.com/koulanurag/ma-gym"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

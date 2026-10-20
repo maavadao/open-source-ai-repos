@@ -1,0 +1,8 @@
+name = "skorch"
+description = "A scikit-learn compatible neural network library that wraps PyTorch"
+category = "ml-platforms"
+tags = ["scikit-learn", "pytorch", "machine-learning", "huggingface"]
+repository = "https://github.com/skorch-dev/skorch"
+license = "BSD-3-Clause"
+language = "Jupyter Notebook"
+added = 2026-10-20

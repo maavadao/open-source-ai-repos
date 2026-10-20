@@ -1,0 +1,9 @@
+name = "Pandrator"
+description = "Turn PDFs and EPUBs into audiobooks; subtitles or videos into dubbed videos (including translation), and more. For free. Pandrator uses local models, including voice-cloning (instant, RVC-enhanced, XTTS fine-tuning) and LLM processing. It aspires to be a user-friendly app…"
+category = "speech"
+tags = ["audiobook", "audiobook-creator", "audiobook-maker", "text-processing", "text-to-speech", "rvc", "xtts", "xttsv2"]
+repository = "https://github.com/lukaszliniewicz/Pandrator"
+website = "https://pandrator.liniewicz.eu/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

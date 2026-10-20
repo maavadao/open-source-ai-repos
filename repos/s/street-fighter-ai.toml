@@ -1,0 +1,7 @@
+name = "street-fighter-ai"
+description = "This is an AI agent for Street Fighter II Champion Edition."
+category = "agents"
+repository = "https://github.com/linyiLYi/street-fighter-ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "agentic-radar"
+description = "A security scanner for your LLM agentic workflows"
+category = "mcp-servers"
+tags = ["agentic-ai", "agentic-framework", "agentic-workflow", "ai", "ai-red-teaming", "ai-security", "cli", "devsecops"]
+repository = "https://github.com/splx-ai/agentic-radar"
+website = "https://splx.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

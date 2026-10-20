@@ -1,0 +1,9 @@
+name = "workflow-builder-template"
+description = "Visual AI workflow automation platform"
+category = "agents"
+tags = ["agents", "ai", "workflows"]
+repository = "https://github.com/vercel-labs/workflow-builder-template"
+website = "https://workflow-builder.dev"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

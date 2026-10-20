@@ -1,0 +1,7 @@
+name = "awesome-deepseek-integration"
+description = "Integrate the DeepSeek API into popular software"
+category = "learning"
+tags = ["awesome", "deepseek"]
+repository = "https://github.com/deepseek-ai/awesome-deepseek-integration"
+license = "CC0-1.0"
+added = 2026-10-20

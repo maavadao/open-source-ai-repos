@@ -1,0 +1,8 @@
+name = "RL-Job-Shop-Scheduling"
+description = "Reinforcement learning approach for job shop scheduling"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "deep-reinforcement-learning", "deep-learning", "job-shop-scheduling-problem", "jss", "jssp"]
+repository = "https://github.com/prosysscience/RL-Job-Shop-Scheduling"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

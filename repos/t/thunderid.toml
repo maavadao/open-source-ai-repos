@@ -1,0 +1,9 @@
+name = "thunderid"
+description = "ThunderID is a high-performance, open-source identity stack designed for developers to secure and manage access for humans, AI agents, and machines through fully composable identity flows."
+category = "agents"
+tags = ["access-management", "authentication", "authorization", "go", "golang", "hacktoberfest", "identity", "mfa"]
+repository = "https://github.com/thunder-id/thunderid"
+website = "https://thunderid.dev"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "avibe"
+description = "The local-first Agent OS — your AI partner lives on your own machine. Drive the official Claude Code, Codex & OpenCode from your browser or any chat app."
+category = "coding"
+tags = ["agent", "chatops", "claude", "claude-code", "devtools", "llm", "slack-bot", "vibe-coding"]
+repository = "https://github.com/avibe-bot/avibe"
+website = "https://avibe.bot"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

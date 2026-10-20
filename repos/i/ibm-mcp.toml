@@ -1,0 +1,8 @@
+name = "mcp"
+description = "A collection of Model Context Protocol (MCP) servers, clients and developer tools by IBM."
+category = "mcp-servers"
+tags = ["agents", "llm", "mcp", "modelcontextprotocol", "toolcalling", "tools"]
+repository = "https://github.com/IBM/mcp"
+website = "https://www.ibm.com/think/topics/model-context-protocol"
+license = "Apache-2.0"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "Awesome-DeepSeek-Harness-Plugins"
+description = "Curated DeepSeek Harness (DSH) plugins, extensions, tools, skills, clients, runtimes, integrations, and verified references — English and Chinese."
+category = "learning"
+tags = ["agent-harness", "ai-agents", "awesome-list", "bilingual", "curated-list", "deepseek", "deepseek-harness", "developer-tools"]
+repository = "https://github.com/Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins"
+license = "MIT"
+added = 2026-10-20

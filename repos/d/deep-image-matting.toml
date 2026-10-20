@@ -1,0 +1,8 @@
+name = "Deep-Image-Matting"
+description = "Deep Image Matting"
+category = "vision"
+tags = ["computer-vision", "deep-learning", "matting"]
+repository = "https://github.com/foamliu/Deep-Image-Matting"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

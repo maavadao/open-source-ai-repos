@@ -1,0 +1,7 @@
+name = "awesome-mobile-robotics"
+description = "Useful links of different content related to AI, Computer Vision, and Robotics."
+category = "learning"
+tags = ["mobile-robotics", "autonomous-systems", "ros", "uav", "youtube", "books", "lab", "labs"]
+repository = "https://github.com/mathiasmantelli/awesome-mobile-robotics"
+license = "NOASSERTION"
+added = 2026-10-20

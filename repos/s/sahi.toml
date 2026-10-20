@@ -1,0 +1,9 @@
+name = "sahi"
+description = "Framework agnostic sliced/tiled inference + interactive ui + error analysis plots"
+category = "vision"
+tags = ["object-detection", "instance-segmentation", "computer-vision", "small-object-detection", "large-image", "pytorch", "python", "coco"]
+repository = "https://github.com/obss/sahi"
+website = "https://obss.github.io/sahi/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

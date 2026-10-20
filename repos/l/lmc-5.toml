@@ -1,0 +1,8 @@
+name = "lmc-5"
+description = "Living Memory Coordinate-5: five-axis memory architecture for long-running LLM agents. Minimal SQLite + production PostgreSQL/pgvector reference impls, multi-channel recall pipeline, LLM-proposed hippocampus, persona policies, VPS 7×24 deployment shape. Not another vector DB."
+category = "coding"
+tags = ["ai-agents", "codex", "llm-memory", "rag", "sqlite", "vector-search", "agent-memory", "recoverable-continuity"]
+repository = "https://github.com/wuxuyun0606-collab/lmc-5"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

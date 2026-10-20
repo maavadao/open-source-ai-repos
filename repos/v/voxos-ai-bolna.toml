@@ -1,0 +1,8 @@
+name = "bolna"
+description = "End-to-end platform for building voice first multimodal agents"
+category = "speech"
+tags = ["deepgram", "llm", "openai", "telephony", "twilio", "whisper", "xtts", "polly"]
+repository = "https://github.com/voxos-ai/bolna"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

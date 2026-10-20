@@ -1,0 +1,9 @@
+name = "neural-cherche"
+description = "Neural Search"
+category = "llm-apps"
+tags = ["google", "language-model", "neural-search", "semantic-search", "sparseembed", "splade", "transformers", "colbert"]
+repository = "https://github.com/raphaelsty/neural-cherche"
+website = "https://raphaelsty.github.io/neural-cherche/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

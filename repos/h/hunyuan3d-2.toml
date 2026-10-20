@@ -1,0 +1,9 @@
+name = "Hunyuan3D-2"
+description = "High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models."
+category = "image"
+tags = ["3d", "3d-aigc", "3d-generation", "image-to-3d", "text-to-3d", "texture-generation", "hunyuan3d", "diffusion-models"]
+repository = "https://github.com/Tencent-Hunyuan/Hunyuan3D-2"
+website = "https://3d.hunyuan.tencent.com/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "agent-skills-eval"
+description = "A test runner for agentskills.io-style AI agent skills"
+category = "skills-prompts"
+tags = ["agent-evals", "agent-skills", "agentskills", "ai-agents", "cli", "jsonl", "llm-evals", "llm-evaluation"]
+repository = "https://github.com/darkrishabh/agent-skills-eval"
+website = "https://darkrishabh.github.io/agent-skills-eval/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

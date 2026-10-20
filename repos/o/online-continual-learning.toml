@@ -1,0 +1,8 @@
+name = "online-continual-learning"
+description = "A collection of online continual learning paper implementations and tricks for computer vision in PyTorch, including our ASER(AAAI-21), SCR(CVPR21-W) and survey (Neurocomputing)."
+category = "vision"
+tags = ["continual-learning", "computer-vision", "deep-learning", "convolutional-neural-networks", "lifelong-learning", "incremental-learning", "catastrophic-forgetting", "online-continual-learning"]
+repository = "https://github.com/RaptorMai/online-continual-learning"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

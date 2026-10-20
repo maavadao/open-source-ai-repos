@@ -1,0 +1,9 @@
+name = "PARL"
+description = "A high-performance distributed training framework for Reinforcement Learning"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "large-scale", "parallelization"]
+repository = "https://github.com/PaddlePaddle/PARL"
+website = "https://parl.readthedocs.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "iowncode"
+description = "A curated collection of iOS, ML, AR resources sprinkled with some UI additions"
+category = "learning"
+tags = ["ios", "coreml", "swift", "keras", "coremltools", "vision-framework", "vision", "alamofire"]
+repository = "https://github.com/anupamchugh/iowncode"
+website = "https://www.iosdevie.com"
+license = "NOASSERTION"
+language = "Swift"
+added = 2026-10-20

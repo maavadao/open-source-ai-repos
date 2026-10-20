@@ -1,0 +1,9 @@
+name = "platform"
+description = "Agyn is an open-source Kubernetes-native runtime that moves AI agents like Claude Code and Codex from laptops to company infrastructure with the controls enterprises need."
+category = "coding"
+tags = ["agents", "ai-agents", "governance", "open-source", "self-hosted", "claude-code", "codex-cli", "control-plane"]
+repository = "https://github.com/agynio/platform"
+website = "https://agyn.io"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

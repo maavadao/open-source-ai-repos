@@ -1,0 +1,8 @@
+name = "nitrain"
+description = "Train AI models efficiently on medical images using any framework"
+category = "ml-platforms"
+tags = ["pytorch", "deep-learning", "keras", "neuroimaging", "medical-imaging"]
+repository = "https://github.com/nitrain/nitrain"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

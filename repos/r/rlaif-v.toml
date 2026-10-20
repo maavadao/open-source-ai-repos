@@ -1,0 +1,8 @@
+name = "RLAIF-V"
+description = "[CVPR'25 highlight] RLAIF-V: Open-Source AI Feedback Leads to Super GPT-4V Trustworthiness"
+category = "chat"
+tags = ["chatbot", "gpt-4v", "multimodal", "vision-language-learning", "rlaif-v", "llava", "llava-next", "minicpm-v"]
+repository = "https://github.com/RLHF-V/RLAIF-V"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

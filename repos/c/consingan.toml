@@ -1,0 +1,8 @@
+name = "ConSinGAN"
+description = "PyTorch implementation of \"Improved Techniques for Training Single-Image GANs\" (WACV-21)"
+category = "image"
+tags = ["gan", "single-image-generation", "image", "harmonization", "image-editing", "consingan", "image-generation", "image-animation"]
+repository = "https://github.com/tohinz/ConSinGAN"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

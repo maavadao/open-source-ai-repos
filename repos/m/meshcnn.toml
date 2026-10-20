@@ -1,0 +1,8 @@
+name = "MeshCNN"
+description = "Convolutional Neural Network for 3D meshes in PyTorch"
+category = "vision"
+tags = ["pytorch", "geometric-deep-learning", "convolutional-neural-networks", "machine-learning", "mesh", "computer-graphics", "segmentation", "3d"]
+repository = "https://github.com/ranahanocka/MeshCNN"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

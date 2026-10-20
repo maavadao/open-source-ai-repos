@@ -1,0 +1,8 @@
+name = "grok-cli"
+description = "An open-source coding agent for the Grok API"
+category = "agents"
+tags = ["agents", "ai", "cli", "code", "grok", "xai", "coding-agent"]
+repository = "https://github.com/superagent-ai/grok-cli"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

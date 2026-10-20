@@ -1,0 +1,9 @@
+name = "MAX-Image-Resolution-Enhancer"
+description = "Upscale an image by a factor of 4, while generating photo-realistic details."
+category = "vision"
+tags = ["computer-vision", "machine-learning", "ai", "neural-network", "ibm", "docker-image", "codait", "machine-learning-models"]
+repository = "https://github.com/IBM/MAX-Image-Resolution-Enhancer"
+website = "https://developer.ibm.com/exchanges/models/all/max-image-resolution-enhancer/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

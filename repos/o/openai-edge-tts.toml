@@ -1,0 +1,9 @@
+name = "openai-edge-tts"
+description = "Free, high-quality text-to-speech API endpoint to replace OpenAI, Azure, or ElevenLabs"
+category = "speech"
+tags = ["ai", "chatgpt", "edge-tts", "llm", "llm-webui", "llms", "ollama", "ollama-webui"]
+repository = "https://github.com/travisvn/openai-edge-tts"
+website = "https://tts.travisvn.com"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "habitat-sim"
+description = "A flexible, high-performance 3D simulator for Embodied AI research."
+category = "robotics"
+tags = ["ai", "computer-vision", "robotics", "simulator", "sim2real", "cplusplus"]
+repository = "https://github.com/facebookresearch/habitat-sim"
+website = "https://aihabitat.org/"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

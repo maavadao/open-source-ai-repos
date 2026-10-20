@@ -1,0 +1,9 @@
+name = "agentscope-java"
+description = "Build distributed, production-grade, long-running agents."
+category = "agents"
+tags = ["agent", "agentic", "agentic-ai", "ai", "llm", "adk", "agent-framework", "agentscope"]
+repository = "https://github.com/agentscope-ai/agentscope-java"
+website = "https://java.agentscope.io/"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

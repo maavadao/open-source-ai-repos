@@ -1,0 +1,9 @@
+name = "FinceptTerminal"
+description = "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment."
+category = "agents"
+tags = ["bloomberg-terminal", "finance", "financial-markets", "investment", "investment-research", "machine-learning", "python", "quantitative-finance"]
+repository = "https://github.com/Fincept-Corporation/FinceptTerminal"
+website = "https://fincept.in"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

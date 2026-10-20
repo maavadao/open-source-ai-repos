@@ -1,0 +1,9 @@
+name = "jeelizFaceFilter"
+description = "Lightweight WebGL & JavaScript library for real-time multi-face detection, tracking and augmented-reality face filters. Supports rotation, mouth-opening and integrates with Three.js, Babylon.js, Canvas2D and CSS3D"
+category = "vision"
+tags = ["face", "tracking", "detection", "javascript", "snapchat", "3d", "webgl", "deep-learning"]
+repository = "https://github.com/jeeliz/jeelizFaceFilter"
+website = "https://jeeliz.com"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

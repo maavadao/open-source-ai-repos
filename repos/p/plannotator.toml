@@ -1,0 +1,9 @@
+name = "plannotator"
+description = "Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click."
+category = "coding"
+tags = ["claude-code", "opencode", "obsidian", "pi-mono", "plan-mode", "codex", "agents", "code-review"]
+repository = "https://github.com/backnotprop/plannotator"
+website = "https://plannotator.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "MLJ.jl"
+description = "A Julia machine learning framework"
+category = "data-science"
+tags = ["machine-learning", "julia", "pipelines", "tuning", "data-science", "tuning-parameters", "predictive-modeling", "classification"]
+repository = "https://github.com/JuliaAI/MLJ.jl"
+website = "https://juliaml.ai"
+license = "NOASSERTION"
+language = "Julia"
+added = 2026-10-20

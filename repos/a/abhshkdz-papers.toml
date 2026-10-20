@@ -1,0 +1,7 @@
+name = "papers"
+description = "Summaries of papers on deep learning"
+category = "vision"
+tags = ["deep-learning", "deep-neural-networks", "computer-vision", "machine-learning", "artificial-intelligence"]
+repository = "https://github.com/abhshkdz/papers"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "lobe-vidol"
+description = "Lobe Vidol - Making Virtual Idols Accessible for EveryOne"
+category = "speech"
+tags = ["chatbot", "chatgpt", "framework", "nextjs", "openai", "tts", "vercel-ai", "virtual-idols"]
+repository = "https://github.com/lobehub/lobe-vidol"
+website = "https://vidol.lobehub.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "awesome-industrial-anomaly-detection"
+description = "Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。"
+category = "learning"
+tags = ["anomaly-detection", "anomaly-segmentation", "deep-learning", "defect-detection", "industrial-image", "computer-vision", "dataset", "medical"]
+repository = "https://github.com/M-3LAB/awesome-industrial-anomaly-detection"
+website = "https://link.springer.com/content/pdf/10.1007/s11633-023-1459-z.pdf"
+license = "NOASSERTION"
+added = 2026-10-20

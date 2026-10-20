@@ -1,0 +1,8 @@
+name = "Awesome-Multimodal-Papers"
+description = "A curated list of awesome Multimodal studies."
+category = "learning"
+tags = ["deep-learning", "large-multimodal-models", "multimodal", "multimodal-data", "multimodal-deep-learning", "multimodal-dialogue", "multimodal-large-language-models", "multimodal-learning"]
+repository = "https://github.com/friedrichor/Awesome-Multimodal-Papers"
+website = "https://friedrichor.github.io/Awesome-Multimodal-Papers/"
+license = "MIT"
+added = 2026-10-20

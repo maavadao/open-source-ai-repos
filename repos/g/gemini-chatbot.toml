@@ -1,0 +1,9 @@
+name = "gemini-chatbot"
+description = "Build your own generative UI chatbot using the Vercel AI SDK and Google Gemini"
+category = "chat"
+tags = ["ai", "chatbot", "gemini-pro", "nextjs", "react", "typescript", "vercel"]
+repository = "https://github.com/vercel-labs/gemini-chatbot"
+website = "https://gemini.vercel.ai"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

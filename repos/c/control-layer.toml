@@ -1,0 +1,8 @@
+name = "control-layer"
+description = "A production-grade control layer that sits between your application logic and any LLM — input validation, schema enforcement, circuit breaking, targeted retry, and audit logging in one composable pipeline."
+category = "llm-apps"
+tags = ["anthropic", "circuit-breaker", "generative-ai", "input-validation", "llm", "llm-guardrails", "llm-ops", "production-ai"]
+repository = "https://github.com/Emmimal/control-layer"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

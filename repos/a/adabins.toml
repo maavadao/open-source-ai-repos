@@ -1,0 +1,8 @@
+name = "AdaBins"
+description = "Official implementation of Adabins: Depth Estimation using adaptive bins"
+category = "vision"
+tags = ["adaptive-bins", "deep-learning", "depth-estimation", "metric-depth-estimation", "monocular-depth-estimation", "neural-networks", "pretrained-models", "single-image-depth-prediction"]
+repository = "https://github.com/shariqfarooq123/AdaBins"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

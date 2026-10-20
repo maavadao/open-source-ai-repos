@@ -1,0 +1,8 @@
+name = "coco-annotator"
+description = "Web-based image segmentation tool for object detection, localization, and keypoints"
+category = "vision"
+tags = ["machine-learning", "coco", "datasets", "annotate-images", "computer-vision", "deep-learning", "image-labeling", "coco-annotator"]
+repository = "https://github.com/jsbroks/coco-annotator"
+license = "MIT"
+language = "Vue"
+added = 2026-10-20

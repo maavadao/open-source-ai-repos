@@ -1,0 +1,9 @@
+name = "ml-retreat"
+description = "Machine Learning Journal for Intermediate to Advanced Topics."
+category = "models"
+tags = ["data-science", "documentation", "large-language-models", "learning-resources", "llm", "machine-learning", "machine-learning-algorithms", "study-notes"]
+repository = "https://github.com/hesamsheikh/ml-retreat"
+website = "https://x.com/Hesamation"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

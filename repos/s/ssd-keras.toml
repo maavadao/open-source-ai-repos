@@ -1,0 +1,8 @@
+name = "ssd_keras"
+description = "A Keras port of Single Shot MultiBox Detector"
+category = "vision"
+tags = ["ssd", "keras", "ssd-model", "object-detection", "computer-vision", "deep-learning", "fcn", "fully-convolutional-networks"]
+repository = "https://github.com/pierluigiferrari/ssd_keras"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

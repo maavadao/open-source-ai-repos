@@ -1,0 +1,9 @@
+name = "Graph-CoT"
+description = "Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs (ACL 2024)"
+category = "agents"
+tags = ["graph", "llm", "rag", "agent"]
+repository = "https://github.com/PeterGriffinJin/Graph-CoT"
+website = "https://arxiv.org/abs/2404.07103"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

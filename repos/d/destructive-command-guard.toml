@@ -1,0 +1,8 @@
+name = "destructive_command_guard"
+description = "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents."
+category = "agents"
+tags = ["ai-agents", "cli", "developer-tools", "rust", "safety", "git"]
+repository = "https://github.com/Dicklesworthstone/destructive_command_guard"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

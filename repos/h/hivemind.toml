@@ -1,0 +1,8 @@
+name = "hivemind"
+description = "Decentralized deep learning in PyTorch. Built to train models on thousands of volunteers across the world."
+category = "models"
+tags = ["deep-learning", "pytorch", "volunteer-computing", "mixture-of-experts", "distributed-training", "distributed-systems", "asynchronous-programming", "asyncio"]
+repository = "https://github.com/learning-at-home/hivemind"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

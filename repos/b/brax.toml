@@ -1,0 +1,8 @@
+name = "brax"
+description = "Massively parallel rigidbody physics simulation on accelerator hardware."
+category = "robotics"
+tags = ["jax", "reinforcement-learning", "robotics", "physics-simulation"]
+repository = "https://github.com/google/brax"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

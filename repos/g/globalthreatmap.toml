@@ -1,0 +1,9 @@
+name = "globalthreatmap"
+description = "Global threat map. Learn wars, conflicts, military bases and history of nations."
+category = "chat"
+tags = ["intelligence", "nato", "osint", "osint-tool", "real-time", "valyu-ai", "usa-military", "ai"]
+repository = "https://github.com/unicodeveloper/globalthreatmap"
+website = "https://globalthreatmap.up.railway.app"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

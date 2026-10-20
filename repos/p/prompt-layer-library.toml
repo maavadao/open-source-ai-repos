@@ -1,0 +1,9 @@
+name = "prompt-layer-library"
+description = "PromptLayer - Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions."
+category = "models"
+tags = ["gpt", "machine-learning", "openai", "prompt", "prompt-engineering", "python"]
+repository = "https://github.com/MagnivOrg/prompt-layer-library"
+website = "https://www.promptlayer.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

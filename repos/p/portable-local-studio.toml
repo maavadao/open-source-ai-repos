@@ -1,0 +1,8 @@
+name = "Portable-Local-Studio"
+description = "Portable local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF LLMs, Text to Speech & Speech to Text"
+category = "speech"
+tags = ["image-generation", "speech-to-text", "text-generation", "text-to-speech"]
+repository = "https://github.com/techjarves/Portable-Local-Studio"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

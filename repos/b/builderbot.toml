@@ -1,0 +1,9 @@
+name = "builderbot"
+description = "Crear Chatbot WhatsApp en minutos. Únete a este proyecto OpenSource"
+category = "chat"
+tags = ["bot", "dialogflow", "chatbot", "whatsapp-bot", "mongodb", "mysql", "nodejs", "chatgpt"]
+repository = "https://github.com/codigoencasa/builderbot"
+website = "https://www.builderbot.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "dolly"
+description = "Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform"
+category = "chat"
+tags = ["databricks", "gpt", "chatbot", "dolly"]
+repository = "https://github.com/databrickslabs/dolly"
+website = "https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "OpenGpt"
+description = "Create your own ChatGPT App in seconds."
+category = "chat"
+tags = ["application", "chatgpt", "openai"]
+repository = "https://github.com/futantan/OpenGpt"
+website = "https://open-gpt.app/"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

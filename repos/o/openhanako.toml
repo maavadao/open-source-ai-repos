@@ -1,0 +1,7 @@
+name = "openhanako"
+description = "A personal AI agent with memory, personality, and autonomy."
+category = "agents"
+repository = "https://github.com/liliMozi/openhanako"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

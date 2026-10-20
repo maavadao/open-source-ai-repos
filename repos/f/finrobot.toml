@@ -1,0 +1,9 @@
+name = "FinRobot"
+description = "FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models"
+category = "chat"
+tags = ["aiagent", "fingpt", "chatgpt", "finance", "large-language-models", "multimodal-deep-learning", "prompt-engineering", "robo-advisor"]
+repository = "https://github.com/AI4Finance-Foundation/FinRobot"
+website = "https://finrobot.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

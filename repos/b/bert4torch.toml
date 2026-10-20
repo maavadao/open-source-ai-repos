@@ -1,0 +1,9 @@
+name = "bert4torch"
+description = "An elegent pytorch implement of transformers"
+category = "models"
+tags = ["bert", "nlp", "pytorch", "bert4keras", "named-entity-recognition", "relation-extraction", "seq2seq", "text-classification"]
+repository = "https://github.com/Tongjilibo/bert4torch"
+website = "https://bert4torch.readthedocs.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

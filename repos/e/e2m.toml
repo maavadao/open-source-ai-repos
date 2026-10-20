@@ -1,0 +1,8 @@
+name = "e2m"
+description = "E2M converts various file types (doc, docx, epub, html, htm, url, pdf, ppt, pptx, mp3, m4a) into Markdown. It’s easy to install, with dedicated parsers and converters, supporting custom configs. E2M offers an all-in-one, flexible, and open-source solution."
+category = "models"
+tags = ["doc2x", "llm", "markdown", "text-cleaning", "e2m", "pdf-to-markdown"]
+repository = "https://github.com/wisupai/e2m"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

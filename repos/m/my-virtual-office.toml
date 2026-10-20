@@ -1,0 +1,9 @@
+name = "my-virtual-office"
+description = "A self-hosted 2D AI workspace for AI Agents"
+category = "local-llms"
+tags = ["agent-management", "agent-office", "agent-ui", "ai-agents", "ai-workspace", "hermes-agent", "local-ai", "multi-agent-workflows"]
+repository = "https://github.com/eliautobot/my-virtual-office"
+website = "https://myvirtualoffice.ai/"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

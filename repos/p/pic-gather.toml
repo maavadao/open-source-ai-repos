@@ -1,0 +1,7 @@
+name = "pic-gather"
+description = "Image collector, support for custom acquisition source, compatible with Windows and MacOS！| 图像采集器，支持自定义采集源，兼容Windows和MacOS！"
+category = "image"
+tags = ["chatgpt", "gpt", "midjourney", "dalle", "openai"]
+repository = "https://github.com/Licoy/pic-gather"
+license = "MIT"
+added = 2026-10-20

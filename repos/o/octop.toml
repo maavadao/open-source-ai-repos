@@ -1,0 +1,9 @@
+name = "Octop"
+description = "A smarter, self-hosted AI assistant — multi-user, multi-agent."
+category = "agents"
+tags = ["agent", "agentic-ai", "ai", "ai-agent", "ai-agents", "local-first", "long-term-memory"]
+repository = "https://github.com/TencentCloud/Octop"
+website = "https://octop.cloud"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

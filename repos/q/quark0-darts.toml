@@ -1,0 +1,9 @@
+name = "darts"
+description = "Differentiable architecture search for convolutional and recurrent networks"
+category = "vision"
+tags = ["deep-learning", "automl", "image-classification", "language-modeling", "pytorch", "convolutional-networks", "recurrent-networks", "neural-architecture-search"]
+repository = "https://github.com/quark0/darts"
+website = "https://arxiv.org/abs/1806.09055"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

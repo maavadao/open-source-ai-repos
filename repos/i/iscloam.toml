@@ -1,0 +1,8 @@
+name = "iscloam"
+description = "Intensity Scan Context based full SLAM implementation for autonomous driving. ICRA 2020"
+category = "robotics"
+tags = ["slam", "loam", "aloam", "localization", "autonomous-driving"]
+repository = "https://github.com/wh200720041/iscloam"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

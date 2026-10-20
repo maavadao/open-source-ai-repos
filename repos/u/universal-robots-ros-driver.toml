@@ -1,0 +1,8 @@
+name = "Universal_Robots_ROS_Driver"
+description = "Universal Robots ROS driver supporting CB3 and e-Series"
+category = "robotics"
+tags = ["ros", "ros-industrial", "robotics", "ros-melodic", "ros-noetic"]
+repository = "https://github.com/UniversalRobots/Universal_Robots_ROS_Driver"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

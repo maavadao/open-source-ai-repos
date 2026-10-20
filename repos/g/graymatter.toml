@@ -1,0 +1,9 @@
+name = "graymatter"
+description = "30 sec to give your AI agents persistent memory. Reduce 90% token consumption while also maintaining quality."
+category = "mcp-servers"
+tags = ["ai-agents", "ai-tools", "claude-code", "persistent-memory", "agent-memory", "go", "cli", "self-hosted"]
+repository = "https://github.com/angelnicolasc/graymatter"
+website = "https://graymatter.nickcerutti.workers.dev"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

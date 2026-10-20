@@ -1,0 +1,9 @@
+name = "apm"
+description = "Agent Package Manager"
+category = "coding"
+tags = ["ai-agents", "codex-cli", "context-engineering", "prompt-engineering", "claude-code", "github-copilot", "package-manager"]
+repository = "https://github.com/microsoft/apm"
+website = "https://microsoft.github.io/apm/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

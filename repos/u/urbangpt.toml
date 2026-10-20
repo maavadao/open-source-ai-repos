@@ -1,0 +1,9 @@
+name = "UrbanGPT"
+description = "[KDD'2024] \"UrbanGPT: Spatio-Temporal Large Language Models\""
+category = "models"
+tags = ["fundation-models", "instruction-tuning", "large-language-models", "pre-trained-model", "smart-cities", "spatio-temporal-prediction", "urban-computing", "urban-data-science"]
+repository = "https://github.com/HKUDS/UrbanGPT"
+website = "https://urban-gpt.github.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

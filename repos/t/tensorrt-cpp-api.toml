@@ -1,0 +1,8 @@
+name = "tensorrt-cpp-api"
+description = "TensorRT C++ API Tutorial"
+category = "learning"
+tags = ["computer-vision", "cpp", "inference", "machine-learning", "tensorrt"]
+repository = "https://github.com/cyrusbehr/tensorrt-cpp-api"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

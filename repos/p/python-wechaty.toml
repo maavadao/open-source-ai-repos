@@ -1,0 +1,9 @@
+name = "python-wechaty"
+description = "Python Wechaty is a Conversational RPA SDK for Chatbot Makers written in Python"
+category = "chat"
+tags = ["python", "chatbot", "wechat", "whatsapp", "wechaty"]
+repository = "https://github.com/wechaty/python-wechaty"
+website = "https://wechaty.readthedocs.io/zh_CN/latest/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

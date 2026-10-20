@@ -1,0 +1,9 @@
+name = "VirConv"
+description = "Virtual Sparse Convolution for Multimodal 3D Object Detection"
+category = "models"
+tags = ["kitti", "3d-object-detection", "multimodal", "point-clouds"]
+repository = "https://github.com/hailanyi/VirConv"
+website = "https://arxiv.org/abs/2303.02314"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

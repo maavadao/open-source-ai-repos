@@ -1,0 +1,9 @@
+name = "parseq"
+description = "Scene Text Recognition with Permuted Autoregressive Sequence Models (ECCV 2022)"
+category = "documents"
+tags = ["vision-transformer", "computer-vision", "scene-text-recognition", "optical-character-recognition", "text-recognition", "ocr", "eccv", "eccv2022"]
+repository = "https://github.com/baudm/parseq"
+website = "https://huggingface.co/spaces/baudm/PARSeq-OCR"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

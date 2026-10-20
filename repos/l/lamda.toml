@@ -1,0 +1,9 @@
+name = "lamda"
+description = "Android Full-Stack Device Control Platform: WebRTC/H.264 remote desktop, UI/OCR/image-matching automation, one-click MITM, built-in Frida, proxy/VPN/frp/P2P networking, MCP/Agent, 160+ APIs, designed for multi-device clusters and engineered deployments."
+category = "mcp-servers"
+tags = ["adb", "android", "frida", "uiautomation", "appium", "magisk", "reverse-engineering", "xposed"]
+repository = "https://github.com/firerpa/lamda"
+website = "https://device-farm.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

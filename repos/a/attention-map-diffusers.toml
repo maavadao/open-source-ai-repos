@@ -1,0 +1,9 @@
+name = "attention-map-diffusers"
+description = "attention map tools for huggingface/diffusers"
+category = "image"
+tags = ["attention-map", "cross-attention", "diffusers", "visualization", "huggingface", "cross-attention-map", "cross-attention-diffusers", "stable-diffusion"]
+repository = "https://github.com/wooyeolbaek/attention-map-diffusers"
+website = "https://huggingface.co/spaces/We-Want-GPU/diffusers-cross-attention-map-SDXL-t2i"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

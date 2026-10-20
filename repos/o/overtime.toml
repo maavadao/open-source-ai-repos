@@ -1,0 +1,9 @@
+name = "overtime"
+description = "Give a coding agent a brief, not a chat, and it works on its own across sessions. Includes an example run: an open-world city built in a real game engine with no human help. In early development."
+category = "mcp-servers"
+tags = ["ai-agents", "benchmark", "game-development", "llm-evaluation", "mcp", "unreal-engine"]
+repository = "https://github.com/ukanwat/overtime"
+website = "https://utkarshkanwat.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

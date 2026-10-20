@@ -1,0 +1,7 @@
+name = "obsidian-skills"
+description = "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas."
+category = "coding"
+tags = ["claude", "codex", "obsidian", "skills", "clawdbot", "cli", "defuddle", "opencode"]
+repository = "https://github.com/kepano/obsidian-skills"
+license = "MIT"
+added = 2026-10-20

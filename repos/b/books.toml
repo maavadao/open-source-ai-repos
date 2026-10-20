@@ -1,0 +1,8 @@
+name = "Books"
+description = "Books / PDFS / EPUBS for different fields of programming . READ GROW AND ENJOY"
+category = "vision"
+tags = ["cpp", "deep-learning", "javascript", "machine-learning", "pdfs", "python", "reinforcement-learning", "computer-vision"]
+repository = "https://github.com/Rishabh-creator601/Books"
+website = "https://share.streamlit.io/user/rishabh-creator601"
+license = "NOASSERTION"
+added = 2026-10-20

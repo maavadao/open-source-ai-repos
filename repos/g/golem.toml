@@ -1,0 +1,9 @@
+name = "golem"
+description = "Golem Cloud is the agent-native platform for building AI agents and distributed applications that never lose state, never duplicate work, and never require you to build infrastructure."
+category = "agents"
+tags = ["component-model", "distributed-systems", "durable-computing", "durable-execution", "fault-tolerance", "high-reliability", "serverless", "wasi"]
+repository = "https://github.com/golemcloud/golem"
+website = "https://learn.golem.cloud/"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

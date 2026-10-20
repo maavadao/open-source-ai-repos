@@ -1,0 +1,8 @@
+name = "top-cvpr-2024-papers"
+description = "This repository is a curated collection of the most exciting and influential CVPR 2024 papers. [Paper + Code + Demo]"
+category = "learning"
+tags = ["computer-vision", "cvpr", "cvpr2024", "image-segmentation", "object-detection", "paper", "transformers", "vision-and-language"]
+repository = "https://github.com/SkalskiP/top-cvpr-2024-papers"
+license = "CC0-1.0"
+language = "Python"
+added = 2026-10-20

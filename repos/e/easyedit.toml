@@ -1,0 +1,9 @@
+name = "EasyEdit"
+description = "[ACL 2024] An Easy-to-use Knowledge Editing Framework for LLMs."
+category = "chat"
+tags = ["artificial-intelligence", "efficient", "knowledge-editing", "large-language-models", "model-editing", "natural-language-processing", "tool", "easyedit"]
+repository = "https://github.com/zjunlp/EasyEdit"
+website = "https://zjunlp.github.io/project/KnowEdit"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

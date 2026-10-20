@@ -1,0 +1,9 @@
+name = "asqav-sdk"
+description = "Python and TypeScript SDKs for verifiable evidence of AI agent actions. Signed receipts, policy enforcement, audit trails. Works with LangChain, CrewAI, MCP."
+category = "mcp-servers"
+tags = ["ai-agent-governance", "ai-compliance", "audit-trail", "crewai", "eu-ai-act", "langchain", "ml-dsa", "python-sdk"]
+repository = "https://github.com/jagmarques/asqav-sdk"
+website = "https://asqav.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

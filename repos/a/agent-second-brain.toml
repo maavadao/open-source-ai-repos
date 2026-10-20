@@ -1,0 +1,9 @@
+name = "agent-second-brain"
+description = "An always-on second brain you talk to. Voice notes in Telegram → typed, linked knowledge in your Obsidian vault. Runs 24/7 on the Claude subscription you already have."
+category = "coding"
+tags = ["ai-agents", "ai-automation", "claude", "knowledge-graph", "llm", "personal-assistant", "python", "second-brain"]
+repository = "https://github.com/smixs/agent-second-brain"
+website = "https://t.me/aimastersme"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

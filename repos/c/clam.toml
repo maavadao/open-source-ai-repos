@@ -1,0 +1,9 @@
+name = "CLAM"
+description = "Open source tools for computational pathology - Nature BME"
+category = "ml-platforms"
+tags = ["histopathology", "pathology", "weakly-supervised-learning", "whole-slide-imaging", "data-efficient", "computational-pathology", "mahmoodlab", "bioimage-informatics"]
+repository = "https://github.com/mahmoodlab/CLAM"
+website = "http://clam.mahmoodlab.org"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

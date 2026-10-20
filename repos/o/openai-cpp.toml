@@ -1,0 +1,9 @@
+name = "openai-cpp"
+description = "OpenAI C++ is a community-maintained library for the Open AI API"
+category = "chat"
+tags = ["chatgpt", "cpp", "cpp11", "openai", "artificial-intelligence", "machine-learning", "openai-api", "chatgpt-api"]
+repository = "https://github.com/olrea/openai-cpp"
+website = "https://openai.com/api/"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

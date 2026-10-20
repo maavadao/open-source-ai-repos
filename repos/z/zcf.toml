@@ -1,0 +1,9 @@
+name = "zcf"
+description = "Zero-Config Code Flow for Claude code & Codex"
+category = "coding"
+tags = ["ai", "ccr", "claude", "claude-ai", "claude-code", "cli", "nodejs", "typescript"]
+repository = "https://github.com/UfoMiao/zcf"
+website = "http://zcf.ufomiao.com/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

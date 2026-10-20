@@ -1,0 +1,8 @@
+name = "OfficeBuddy"
+description = "An agent that edits your Word and Excel files — then looks at them, through real Microsoft Office, to check its own work"
+category = "agents"
+tags = ["ai-agent", "applescript", "document-automation", "docx", "excel", "llm", "macos", "multimodal"]
+repository = "https://github.com/richardChenzhihui/OfficeBuddy"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

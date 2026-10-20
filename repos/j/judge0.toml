@@ -1,0 +1,9 @@
+name = "judge0"
+description = "Robust, fast, scalable, and sandboxed open-source online code execution system for humans and AI."
+category = "agents"
+tags = ["online-judge", "online-compiler", "competitive-programming", "code-executor", "code-runner", "code-execution", "onlinejudge", "online-judges"]
+repository = "https://github.com/judge0/judge0"
+website = "https://judge0.com"
+license = "GPL-3.0"
+language = "HTML"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "grasp_diffusion"
+description = "Pytorch implementation of diffusion models on Lie Groups for 6D grasp pose generation https://sites.google.com/view/se3dif/home"
+category = "image"
+tags = ["diffusion", "diffusion-models", "grasping", "lie-groups", "deep-learning", "robotics"]
+repository = "https://github.com/robotgradient/grasp_diffusion"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

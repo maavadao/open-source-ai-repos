@@ -1,0 +1,9 @@
+name = "PyPOTS"
+description = "A Python toolkit/library for reality-centric machine/deep learning & data mining on partially-observed time series, with 50+ SOTA neural network models for scientific analysis tasks (imputation, classification, clustering, forecasting, anomaly detection, cleaning) on…"
+category = "ml-platforms"
+tags = ["time-series", "data-mining", "deep-learning", "missing-values", "anomaly-detection", "classification", "clustering", "forecasting"]
+repository = "https://github.com/WenjieDu/PyPOTS"
+website = "https://pypots.com"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

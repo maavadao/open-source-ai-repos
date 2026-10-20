@@ -1,0 +1,8 @@
+name = "nlp.js"
+description = "An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more"
+category = "chat"
+tags = ["nlp", "nlu", "nodejs", "sentiment-analysis", "natural-language-processing", "bot", "bots", "chatbot"]
+repository = "https://github.com/axa-group/nlp.js"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

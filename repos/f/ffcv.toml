@@ -1,0 +1,9 @@
+name = "ffcv"
+description = "FFCV: Fast Forward Computer Vision (and other ML workloads!)"
+category = "ml-platforms"
+tags = ["machine-learning", "data-science", "pytorch"]
+repository = "https://github.com/libffcv/ffcv"
+website = "https://ffcv.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

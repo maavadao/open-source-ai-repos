@@ -1,0 +1,8 @@
+name = "ChatFiles"
+description = "Document Chatbot — multiple files. Powered by GPT / Embedding."
+category = "chat"
+tags = ["chatbot", "chatgpt", "chatgpt-api", "chatpdf", "chatfile"]
+repository = "https://github.com/guangzhengli/ChatFiles"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "local-assistant-examples"
+description = "Build your own ChatPDF and run it locally"
+category = "local-llms"
+tags = ["langchain", "llm", "ollama", "rag"]
+repository = "https://github.com/vndee/local-assistant-examples"
+website = "https://blog.duy-huynh.com/build-your-own-rag-and-run-them-locally/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

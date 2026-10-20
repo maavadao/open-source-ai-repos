@@ -1,0 +1,10 @@
+name = "SuperAGI"
+description = "<> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably."
+category = "agents"
+tags = ["agi", "ai", "autonomous-agents", "python", "agents", "artificial-intelligence", "gpt-4", "openai"]
+repository = "https://github.com/TransformerOptimus/SuperAGI"
+website = "https://superagi.com"
+license = "MIT"
+language = "Python"
+skill_level = "advanced"
+added = 2026-10-20

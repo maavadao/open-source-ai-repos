@@ -1,0 +1,8 @@
+name = "awesome-free-llm-apis"
+description = "List of Permanent Free LLM API (API Keys)"
+category = "learning"
+tags = ["ai-agents", "anthropic", "gemini", "llm", "llm-router", "llm-routing", "ollama", "openai"]
+repository = "https://github.com/mnfst/awesome-free-llm-apis"
+license = "CC0-1.0"
+language = "JavaScript"
+added = 2026-10-20

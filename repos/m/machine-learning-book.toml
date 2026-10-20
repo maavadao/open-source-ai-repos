@@ -1,0 +1,9 @@
+name = "machine-learning-book"
+description = "Code Repository for Machine Learning with PyTorch and Scikit-Learn"
+category = "learning"
+tags = ["machine-learning", "scikit-learn", "deep-learning", "neural-networks", "pytorch"]
+repository = "https://github.com/rasbt/machine-learning-book"
+website = "https://sebastianraschka.com/books/#machine-learning-with-pytorch-and-scikit-learn"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

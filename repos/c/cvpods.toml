@@ -1,0 +1,9 @@
+name = "cvpods"
+description = "All-in-one Toolbox for Computer Vision Research."
+category = "vision"
+tags = ["pytorch", "detection", "3d", "classification", "keypoints", "self-supervised-learning", "segmentation", "research"]
+repository = "https://github.com/Megvii-BaseDetection/cvpods"
+website = "https://cvpods.readthedocs.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

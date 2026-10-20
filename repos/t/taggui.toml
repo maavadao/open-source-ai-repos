@@ -1,0 +1,8 @@
+name = "taggui"
+description = "Tag manager and captioner for image datasets"
+category = "image"
+tags = ["image-captioning", "image-tagging", "pyside6", "stable-diffusion", "tag-manager", "llava", "cogvlm", "florence-2"]
+repository = "https://github.com/jhc13/taggui"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

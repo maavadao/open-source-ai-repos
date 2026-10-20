@@ -1,0 +1,9 @@
+name = "fromage"
+description = "Code and models for the ICML 2023 paper \"Grounding Language Models to Images for Multimodal Inputs and Outputs\"."
+category = "vision"
+tags = ["computer-vision", "large-language-models", "machine-learning", "natural-language-processing"]
+repository = "https://github.com/kohjingyu/fromage"
+website = "https://jykoh.com/fromage"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

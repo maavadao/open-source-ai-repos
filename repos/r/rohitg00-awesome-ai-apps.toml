@@ -1,0 +1,9 @@
+name = "awesome-ai-apps"
+description = "A curated collection of awesome AI Agents and LLM Apps built with multiple tech stacks, showcasing real-world implementations using OpenAI, Gemini, local models, and various AI frameworks."
+category = "learning"
+tags = ["agents", "ai", "apps", "automation", "framework", "genai", "genai-apps", "llm"]
+repository = "https://github.com/rohitg00/awesome-ai-apps"
+website = "https://aiengineeringfromscratch.com"
+license = "Apache-2.0"
+language = "HTML"
+added = 2026-10-20

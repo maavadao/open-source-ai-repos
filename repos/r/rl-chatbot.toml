@@ -1,0 +1,8 @@
+name = "RL-Chatbot"
+description = "Deep Reinforcement Learning Chatbot"
+category = "chat"
+tags = ["deep-learning", "reinforcement-learning", "seq2seq-model", "chatbot", "tensorflow", "nlp"]
+repository = "https://github.com/pochih/RL-Chatbot"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

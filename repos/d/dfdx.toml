@@ -1,0 +1,8 @@
+name = "dfdx"
+description = "Deep learning in Rust, with shape checked tensors and neural networks"
+category = "ml-platforms"
+tags = ["rust", "autograd", "autodiff", "machine-learning", "neural-network", "autodifferentiation", "rust-lang", "backpropagation"]
+repository = "https://github.com/chelsea0x3b/dfdx"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ColorFlow"
+description = "The official implementation of paper \"ColorFlow: Retrieval-Augmented Image Sequence Colorization\". ColorFlow：基于检索增强的图像序列上色"
+category = "vision"
+tags = ["automatic-colorization", "colorization", "computer-vision", "image-colorization"]
+repository = "https://github.com/TencentARC/ColorFlow"
+website = "https://zhuang2002.github.io/ColorFlow/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

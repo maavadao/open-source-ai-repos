@@ -1,0 +1,9 @@
+name = "dissecting-reinforcement-learning"
+description = "Python code, PDFs and resources for the series of posts on Reinforcement Learning which I published on my personal blog"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "deep-reinforcement-learning", "markov-chain", "temporal-differencing-learning", "sarsa", "q-learning", "actor-critic", "multi-armed-bandit"]
+repository = "https://github.com/mpatacchiola/dissecting-reinforcement-learning"
+website = "https://mpatacchiola.github.io/blog/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

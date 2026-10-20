@@ -1,0 +1,10 @@
+name = "tabby"
+description = "Self-hosted AI coding assistant"
+category = "coding"
+tags = ["ai", "codegen", "coding-assistant", "coding-language", "developer-experience", "developer-tools", "gen-ai", "llms"]
+repository = "https://github.com/TabbyML/tabby"
+website = "https://tabby.tabbyml.com"
+license = "NOASSERTION"
+language = "Rust"
+skill_level = "intermediate"
+added = 2026-10-20

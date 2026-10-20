@@ -1,0 +1,8 @@
+name = "ScoreDiffusionModel"
+description = "The Pytorch Tutorial of Score-based and Diffusion Model"
+category = "learning"
+tags = ["pytorch", "score-based", "score-based-generative-models", "diffusion-models"]
+repository = "https://github.com/JeongJiHeon/ScoreDiffusionModel"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

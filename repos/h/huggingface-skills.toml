@@ -1,0 +1,8 @@
+name = "skills"
+description = "Give your agents the power of the Hugging Face ecosystem"
+category = "skills-prompts"
+repository = "https://github.com/huggingface/skills"
+website = "https://huggingface.co"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

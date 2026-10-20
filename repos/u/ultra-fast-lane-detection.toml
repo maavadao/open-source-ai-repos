@@ -1,0 +1,8 @@
+name = "Ultra-Fast-Lane-Detection"
+description = "Ultra Fast Structure-aware Deep Lane Detection (ECCV 2020)"
+category = "robotics"
+tags = ["lane-detection", "autonomous-driving", "lane-detector", "lane-finding", "road-detection", "autonomous-vehicles", "cnn", "pytorch"]
+repository = "https://github.com/cfzd/Ultra-Fast-Lane-Detection"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

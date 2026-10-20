@@ -1,0 +1,8 @@
+name = "alumnet"
+description = "AlumNet - AI-powered intelligent school history exhibition & alumni management system | AI 智能校史展示系统 — 校友星图"
+category = "education"
+tags = ["ai", "alumni", "docker", "education", "element-plus", "express", "museum", "open-source"]
+repository = "https://github.com/jungang/alumnet"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

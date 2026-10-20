@@ -1,0 +1,9 @@
+name = "midscene"
+description = "See interfaces like a human. E2E testing in natural language."
+category = "browser-automation"
+tags = ["testing", "browser-use", "computer-use", "gpt-operator", "javascript", "phone-use", "e2e-testing", "gui-agent"]
+repository = "https://github.com/web-infra-dev/midscene"
+website = "https://midscenejs.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

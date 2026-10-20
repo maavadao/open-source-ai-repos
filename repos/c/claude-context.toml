@@ -1,0 +1,8 @@
+name = "claude-context"
+description = "Code search MCP for Claude Code. Make entire codebase the context for any coding agent."
+category = "mcp-servers"
+tags = ["agent", "agentic-rag", "ai-coding", "code-search", "cursor", "embedding", "mcp", "nodejs"]
+repository = "https://github.com/zilliztech/claude-context"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

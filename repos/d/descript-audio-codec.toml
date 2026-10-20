@@ -1,0 +1,9 @@
+name = "descript-audio-codec"
+description = "State-of-the-art audio codec with 90x compression factor. Supports 44.1kHz, 24kHz, and 16kHz mono/stereo audio."
+category = "speech"
+tags = ["audio", "audio-compression", "compression-algorithm", "deep-learning", "pytorch", "codec", "gans", "generative-adversarial-network"]
+repository = "https://github.com/descriptinc/descript-audio-codec"
+website = "https://descript.notion.site/Descript-Audio-Codec-11389fce0ce2419891d6591a68f814d5"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

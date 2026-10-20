@@ -1,0 +1,8 @@
+name = "SwitchAI"
+description = "Easily select, start, and manage your preferred AI digital assistants on Android."
+category = "chat"
+tags = ["ai", "tools", "android-application", "assistant", "chatbot", "digital", "kotlin", "material3"]
+repository = "https://github.com/WSTxda/SwitchAI"
+license = "GPL-3.0"
+language = "Kotlin"
+added = 2026-10-20

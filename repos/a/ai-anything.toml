@@ -1,0 +1,9 @@
+name = "ai-anything"
+description = "Anyone can create GPT tools 人人都能创建 GPT 工具"
+category = "chat"
+tags = ["chatgpt", "openai", "tools", "ai", "nuxt3"]
+repository = "https://github.com/KeJunMao/ai-anything"
+website = "https://aianything.netlify.app/"
+license = "MIT"
+language = "Vue"
+added = 2026-10-20

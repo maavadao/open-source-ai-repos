@@ -1,0 +1,9 @@
+name = "figures4papers"
+description = "My Python scripts to make high-quality figures for publications in top AI conferences and journals."
+category = "skills-prompts"
+tags = ["figures", "python", "icml", "nature-machine-intelligence", "neurips", "llm", "machine-learning", "iclr"]
+repository = "https://github.com/ChenLiu-1996/figures4papers"
+website = "https://chenliu-1996.github.io/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

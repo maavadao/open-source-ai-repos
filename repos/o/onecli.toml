@@ -1,0 +1,9 @@
+name = "onecli"
+description = "Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent."
+category = "mcp-servers"
+tags = ["ai-agents", "rust", "secret-management", "cli", "nodejs", "postgres", "security", "security-tools"]
+repository = "https://github.com/onecli/onecli"
+website = "https://onecli.sh"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

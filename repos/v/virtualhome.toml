@@ -1,0 +1,9 @@
+name = "virtualhome"
+description = "API to run VirtualHome, a Multi-Agent Household Simulator"
+category = "vision"
+tags = ["simulator", "graph", "computer-vision", "unity", "deep-learning", "multi-agent", "reinforcement-learning"]
+repository = "https://github.com/xavierpuigf/virtualhome"
+website = "http://virtual-home.org"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

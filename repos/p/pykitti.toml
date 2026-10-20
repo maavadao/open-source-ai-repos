@@ -1,0 +1,8 @@
+name = "pykitti"
+description = "Python tools for working with KITTI data."
+category = "robotics"
+tags = ["kitti-dataset", "computer-vision", "robotics", "python"]
+repository = "https://github.com/utiasSTARS/pykitti"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

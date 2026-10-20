@@ -1,0 +1,9 @@
+name = "yolo_ros"
+description = "Ultralytics YOLOv8, YOLOv9, YOLOv10, YOLOv11, YOLOv12 for ROS 2"
+category = "robotics"
+tags = ["object-detection", "ros2", "ultralytics", "yolov8", "object-tracking", "3d-human-pose-estimation", "3d-object-detection", "human-pose-estimation"]
+repository = "https://github.com/mgonzs13/yolo_ros"
+website = "https://mgonzs13.github.io/yolo_ros/"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

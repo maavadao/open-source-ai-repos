@@ -1,0 +1,8 @@
+name = "worker-comfyui"
+description = "ComfyUI as a serverless API on Runpod"
+category = "image"
+tags = ["ai", "comfyui", "docker", "runpod", "stable-diffusion", "sdxl", "pod", "serverless"]
+repository = "https://github.com/runpod-workers/worker-comfyui"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

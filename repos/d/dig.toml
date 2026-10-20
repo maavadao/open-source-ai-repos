@@ -1,0 +1,9 @@
+name = "DIG"
+description = "A library for graph deep learning research"
+category = "ml-platforms"
+tags = ["deep-learning", "graph-neural-network", "graph-generation", "explainable-ml", "self-supervised-learning", "3d-graph"]
+repository = "https://github.com/divelab/DIG"
+website = "https://diveintographs.readthedocs.io/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

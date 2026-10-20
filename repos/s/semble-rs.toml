@@ -1,0 +1,8 @@
+name = "semble_rs"
+description = "Fast, AI-agent-native code search in Rust — hybrid BM25 + semantic, Tree-sitter AST chunking, dependency & impact analysis. Drop-in replacement for grep/cat/read/ls in Claude Code, Codex, Cursor, Aider, OpenHands."
+category = "coding"
+tags = ["ai-agent", "bm25", "claude-code", "cli", "code-search", "codex", "coding-assistant", "cursor"]
+repository = "https://github.com/johunsang/semble_rs"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

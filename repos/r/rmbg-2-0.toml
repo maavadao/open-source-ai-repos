@@ -1,0 +1,9 @@
+name = "RMBG-2.0"
+description = "Bria RMBG 2.0 - image background removee"
+category = "other"
+tags = ["ai", "background-removal", "birefnet", "briaai", "generative-ai", "model"]
+repository = "https://github.com/Bria-AI/RMBG-2.0"
+website = "https://bria.ai/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

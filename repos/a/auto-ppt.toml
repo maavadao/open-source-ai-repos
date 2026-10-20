@@ -1,0 +1,8 @@
+name = "Auto-PPT"
+description = "Auto generate pptx using gpt-3.5, Free to use online / 通过gpt-3.5生成PPT,免费在线使用"
+category = "image"
+tags = ["ai", "aigc", "generate", "gpt", "gpt-3", "gpt3", "gpt3-turbo", "ppt"]
+repository = "https://github.com/limaoyi1/Auto-PPT"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

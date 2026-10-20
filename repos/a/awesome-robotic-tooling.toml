@@ -1,0 +1,7 @@
+name = "awesome-robotic-tooling"
+description = "Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace."
+category = "learning"
+tags = ["ros", "robotics", "python", "cplusplus", "ros2", "robot", "awesome-list", "awesome"]
+repository = "https://github.com/Ly0n/awesome-robotic-tooling"
+license = "CC0-1.0"
+added = 2026-10-20

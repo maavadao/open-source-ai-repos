@@ -1,0 +1,9 @@
+name = "testsprite-cli"
+description = "Official TestSprite CLI — AI-powered automated testing from your terminal"
+category = "browser-automation"
+tags = ["ai", "cli", "e2e-testing", "playwright", "qa", "test-automation", "testing"]
+repository = "https://github.com/TestSprite/testsprite-cli"
+website = "https://www.testsprite.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

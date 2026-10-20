@@ -1,0 +1,8 @@
+name = "genaiops-promptflow-template"
+description = "GenAIOps with Prompt Flow is a \"GenAIOps template and guidance\" to help you build LLM-infused apps using Prompt Flow. It offers a range of features including Centralized Code Hosting, Lifecycle Management, Variant and Hyperparameter Experimentation, A/B Deployment, reporting…"
+category = "llm-apps"
+tags = ["azuremachinelearning", "llmops", "largelanguagemodels", "llm", "prompt", "promptengineering", "promptflow", "azure"]
+repository = "https://github.com/microsoft/genaiops-promptflow-template"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

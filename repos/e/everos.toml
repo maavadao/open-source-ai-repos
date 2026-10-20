@@ -1,0 +1,9 @@
+name = "EverOS"
+description = "One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows."
+category = "mcp-servers"
+tags = ["agentic-ai", "ai", "chats", "llm", "long-term-memory", "memory", "memory-management", "python3"]
+repository = "https://github.com/EverMind-AI/EverOS"
+website = "https://evermind.ai/everos"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "AgentVerse"
+description = "AgentVerse is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation"
+category = "agents"
+tags = ["agent", "ai", "gpt", "gpt-4", "llm"]
+repository = "https://github.com/OpenBMB/AgentVerse"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

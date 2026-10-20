@@ -1,0 +1,9 @@
+name = "meta-prompting"
+description = "Official implementation of Meta Prompting for AI Systems (https://arxiv.org/abs/2311.11482)"
+category = "models"
+tags = ["ai-systems", "foundation-models", "large-language-models", "llm", "prompting", "reasoning", "meta-prompting"]
+repository = "https://github.com/meta-prompting/meta-prompting"
+website = "https://meta-prompting.github.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

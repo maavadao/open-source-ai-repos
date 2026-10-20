@@ -1,0 +1,9 @@
+name = "maestro-flow"
+description = "Intent-driven workflow orchestration for multi-agent AI development — adaptive lifecycle engine, self-reinforcing knowledge graph, and visual dashboard for Claude Code, Gemini, Codex & more"
+category = "mcp-servers"
+tags = ["ai-agents", "claude-code", "cli", "codex", "gemini", "knowledge-graph", "mcp", "multi-agent"]
+repository = "https://github.com/catlog22/maestro-flow"
+website = "https://catlog22.github.io/maestro-flow/"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

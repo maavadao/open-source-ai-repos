@@ -1,0 +1,8 @@
+name = "Awesome-CoreML-Models"
+description = "Largest list of models for Core ML (for iOS 11+)"
+category = "learning"
+tags = ["coreml", "coreml-model", "apple", "machine-learning", "curated-list", "coreml-framework", "coreml-models", "coremltools"]
+repository = "https://github.com/likedan/Awesome-CoreML-Models"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

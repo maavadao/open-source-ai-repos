@@ -1,0 +1,9 @@
+name = "tab-ddpm"
+description = "[ICML 2023] The official implementation of the paper \"TabDDPM: Modelling Tabular Data with Diffusion Models\""
+category = "image"
+tags = ["deep-learning", "diffusion-models", "pytorch", "tabular", "ai", "synthetic-data"]
+repository = "https://github.com/yandex-research/tab-ddpm"
+website = "https://arxiv.org/abs/2209.15421"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

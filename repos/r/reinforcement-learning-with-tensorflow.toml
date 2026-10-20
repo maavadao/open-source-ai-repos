@@ -1,0 +1,9 @@
+name = "Reinforcement-learning-with-tensorflow"
+description = "Simple Reinforcement learning tutorials, 莫烦Python 中文AI教学"
+category = "learning"
+tags = ["reinforcement-learning", "tutorial", "q-learning", "sarsa", "sarsa-lambda", "deep-q-network", "a3c", "ddpg"]
+repository = "https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow"
+website = "https://mofanpy.com/tutorials/machine-learning/reinforcement-learning/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

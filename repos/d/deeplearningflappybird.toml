@@ -1,0 +1,8 @@
+name = "DeepLearningFlappyBird"
+description = "Flappy Bird hack using Deep Reinforcement Learning (Deep Q-learning)."
+category = "ml-platforms"
+tags = ["deep-learning", "deep-reinforcement-learning", "game"]
+repository = "https://github.com/yenchenlin/DeepLearningFlappyBird"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

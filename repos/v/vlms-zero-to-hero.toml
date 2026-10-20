@@ -1,0 +1,9 @@
+name = "vlms-zero-to-hero"
+description = "This series will take you on a journey from the fundamentals of NLP and Computer Vision to the cutting edge of Vision-Language Models."
+category = "image"
+tags = ["bert-model", "clip", "computer-vision", "embeddings", "gpt", "gpt-2", "lora", "natural-language-processing"]
+repository = "https://github.com/SkalskiP/vlms-zero-to-hero"
+website = "https://www.youtube.com/@SkalskiP"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

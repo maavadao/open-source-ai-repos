@@ -1,0 +1,9 @@
+name = "effGen"
+description = "[ICML 2026] effGen: Enabling Small Language Models as Capable Autonomous Agents"
+category = "agents"
+tags = ["agentic-ai", "agents", "large-language-models", "small-language-models"]
+repository = "https://github.com/ctrl-gaurav/effGen"
+website = "http://effgen.org/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

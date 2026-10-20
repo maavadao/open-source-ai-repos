@@ -1,0 +1,8 @@
+name = "DeepLearning-MuLi-Notes"
+description = "Notes about courses Dive into Deep Learning by Mu Li"
+category = "learning"
+tags = ["deep-learning", "pytorch"]
+repository = "https://github.com/MLNLP-World/DeepLearning-MuLi-Notes"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

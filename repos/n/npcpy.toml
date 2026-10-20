@@ -1,0 +1,8 @@
+name = "npcpy"
+description = "The python library for research and development in NLP, multimodal LLMs, Agents, ML, Knowledge Graphs, and more."
+category = "mcp-servers"
+tags = ["agents", "ai", "llm", "python", "sql", "yaml", "ollama", "perplexity"]
+repository = "https://github.com/NPC-Worldwide/npcpy"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

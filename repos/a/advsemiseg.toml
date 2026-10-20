@@ -1,0 +1,8 @@
+name = "AdvSemiSeg"
+description = "Adversarial Learning for Semi-supervised Semantic Segmentation, BMVC 2018"
+category = "vision"
+tags = ["pytorch", "adversarial-learning", "deep-learning", "semantic-segmentation", "semi-supervised-learning", "computer-vision"]
+repository = "https://github.com/hfslyc/AdvSemiSeg"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

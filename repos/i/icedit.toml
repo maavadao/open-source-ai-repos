@@ -1,0 +1,9 @@
+name = "ICEdit"
+description = "[NeurIPS 2025] Image editing is worth a single LoRA! 0.1% training data for fantastic image editing! Surpasses GPT-4o in ID persistence~ MoE ckpt released! Only 4GB VRAM is enough to run!"
+category = "image"
+tags = ["diffusion", "diffusion-models", "diffusion-transformer", "editing-image", "image-editing", "dit", "in-context", "gpt4o"]
+repository = "https://github.com/River-Zhang/ICEdit"
+website = "https://river-zhang.github.io/ICEdit-gh-pages/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

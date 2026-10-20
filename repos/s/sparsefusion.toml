@@ -1,0 +1,9 @@
+name = "sparsefusion"
+description = "[CVPR 2023] SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction"
+category = "image"
+tags = ["3d-generation", "diffusion-models"]
+repository = "https://github.com/zhizdev/sparsefusion"
+website = "https://sparsefusion.github.io/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "VRCT"
+description = "VRCT(VRChat Chatbox Translator & Transcription)"
+category = "speech"
+tags = ["osc", "speech-recognition", "speech-to-text", "vrchat"]
+repository = "https://github.com/misyaguziya/VRCT"
+website = "https://misyaguziya.booth.pm/items/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "mcphub.nvim"
+description = "An MCP client for Neovim that seamlessly integrates MCP servers into your editing workflow with an intuitive interface for managing, testing, and using MCP servers with your favorite chat plugins."
+category = "mcp-servers"
+tags = ["avante", "chatgpt", "chatplugin", "claude-ai", "llm", "mcp", "mcp-client", "mcp-hub"]
+repository = "https://github.com/ravitemer/mcphub.nvim"
+website = "https://ravitemer.github.io/mcphub.nvim/"
+license = "MIT"
+language = "Lua"
+added = 2026-10-20

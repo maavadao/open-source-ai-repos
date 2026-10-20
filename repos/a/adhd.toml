@@ -1,0 +1,9 @@
+name = "adhd"
+description = "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work."
+category = "agents"
+tags = ["adhd", "agents", "ai", "ai-agents", "brainstorm", "chain-of-thought", "claude", "claude-agent-sdk"]
+repository = "https://github.com/UditAkhourii/adhd"
+website = "https://divergent.sh"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

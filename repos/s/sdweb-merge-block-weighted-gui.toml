@@ -1,0 +1,8 @@
+name = "sdweb-merge-block-weighted-gui"
+description = "Merge models with separate rate for each 25 U-Net block (input, middle, output). Extension for Stable Diffusion UI by AUTOMATIC1111"
+category = "image"
+tags = ["automatic1111", "extension", "stable-diffusion", "stable-diffusion-webui-plugin"]
+repository = "https://github.com/bbc-mc/sdweb-merge-block-weighted-gui"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

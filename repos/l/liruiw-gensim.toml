@@ -1,0 +1,9 @@
+name = "GenSim"
+description = "Generating Robotic Simulation Tasks via Large Language Models"
+category = "models"
+tags = ["clip", "gpt-4", "llm", "pybullet", "simulation"]
+repository = "https://github.com/liruiw/GenSim"
+website = "https://liruiw.github.io/gensim"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "xarm_ros"
+description = "ROS packages for robotic products from UFACTORY"
+category = "robotics"
+tags = ["ros", "robotics"]
+repository = "https://github.com/xArm-Developer/xarm_ros"
+website = "https://www.ufactory.cc/"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "LLaMA-Cult-and-More"
+description = "Large Language Models for All, Cult and More, Stay in touch !"
+category = "chat"
+tags = ["alpaca", "chatgpt", "gpt", "llama", "ggml", "gpt4", "gptq", "vicuna"]
+repository = "https://github.com/shm007g/LLaMA-Cult-and-More"
+website = "https://shm007g.github.io/LLaMA-Cult-and-More/"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

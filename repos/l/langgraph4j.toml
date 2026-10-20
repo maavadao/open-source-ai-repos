@@ -1,0 +1,9 @@
+name = "langgraph4j"
+description = "LangGraph for Java is a library for Graph Engineering, designed to build sophisticated AI agentic architectures within the Java ecosystem. It works seamlessly with both Langchain4j and Spring AI."
+category = "no-code"
+tags = ["agents", "langchain4j", "ai", "spring-ai", "workflow", "langgraph"]
+repository = "https://github.com/langgraph4j/langgraph4j"
+website = "https://langgraph4j.github.io/langgraph4j/"
+license = "MIT"
+language = "Java"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "gpupixel"
+description = "Real-time image filter engine based on GPU"
+category = "video"
+tags = ["beautyface", "filter", "gpu", "android", "ios", "thinface", "gpuimage", "image"]
+repository = "https://github.com/pixpark/gpupixel"
+website = "https://gpupixel.pixpark.net/"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

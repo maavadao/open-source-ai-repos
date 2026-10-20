@@ -1,0 +1,9 @@
+name = "pytorch-doc-zh"
+description = "Pytorch 中文文档"
+category = "ml-platforms"
+tags = ["python", "pytorch", "deep-learning", "documentation"]
+repository = "https://github.com/apachecn/pytorch-doc-zh"
+website = "https://pytorch.apachecn.org"
+license = "NOASSERTION"
+language = "Shell"
+added = 2026-10-20

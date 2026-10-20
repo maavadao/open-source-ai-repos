@@ -1,0 +1,8 @@
+name = "augraphy"
+description = "Augmentation pipeline for rendering synthetic paper printing, faxing, scanning and copy machine processes"
+category = "vision"
+tags = ["data-augmentation", "crappification", "deep-neural-networks", "training-data", "machine-learning", "data-pipeline", "image-processing", "augmentation-pipeline"]
+repository = "https://github.com/sparkfish/augraphy"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

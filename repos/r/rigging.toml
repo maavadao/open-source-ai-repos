@@ -1,0 +1,9 @@
+name = "rigging"
+description = "Lightweight LLM Interaction Framework"
+category = "agents"
+tags = ["agents", "litellm", "llms", "pydantic"]
+repository = "https://github.com/dreadnode/rigging"
+website = "https://docs.dreadnode.io/open-source/rigging"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

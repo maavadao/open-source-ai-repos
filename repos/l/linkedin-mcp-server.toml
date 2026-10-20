@@ -1,0 +1,8 @@
+name = "linkedin-mcp-server"
+description = "Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages."
+category = "mcp-servers"
+tags = ["linkedin", "linkedin-scraper", "mcp", "mcp-server", "linkedin-mcp", "claude-desktop", "desktop-extension", "dxt"]
+repository = "https://github.com/stickerdaniel/linkedin-mcp-server"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

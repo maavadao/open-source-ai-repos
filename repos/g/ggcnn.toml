@@ -1,0 +1,8 @@
+name = "ggcnn"
+description = "Generative Grasping CNN from \"Closing the Loop for Robotic Grasping: A Real-time, Generative Grasp Synthesis Approach\" (RSS 2018)"
+category = "robotics"
+tags = ["robotics", "grasping", "deep-learning"]
+repository = "https://github.com/dougsm/ggcnn"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

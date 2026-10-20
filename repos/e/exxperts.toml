@@ -1,0 +1,8 @@
+name = "exxperts"
+description = "Local-first AI agents with governed, approval-gated memory. Any model provider; MCP tools and web search built in. Nothing remembered without your say-so, nothing leaves your machine."
+category = "mcp-servers"
+tags = ["agents", "ai", "local-first", "memory", "typescript", "llm", "mcp"]
+repository = "https://github.com/EXXETA/exxperts"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

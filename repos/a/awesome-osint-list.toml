@@ -1,0 +1,9 @@
+name = "Awesome-OSINT-List"
+description = "Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI."
+category = "learning"
+tags = ["information-gathering", "osint", "security-tools", "recon", "red-team", "ai", "ai-tools", "awesome-list"]
+repository = "https://github.com/Astrosp/Awesome-OSINT-List"
+website = "https://astrosp.github.io/osint-web/"
+license = "GPL-3.0"
+language = "Shell"
+added = 2026-10-20

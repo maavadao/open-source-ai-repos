@@ -1,0 +1,8 @@
+name = "lucid-memory"
+description = "Memory for AI that works like yours—local, instant, persistent. 13x faster than Pinecone, 5x leaner than RAG. Finds what RAG misses. Zero cloud, zero cost."
+category = "vector-databases"
+tags = ["agent-memory", "agentic-ai", "ai", "ai-agent", "ai-tools", "clawdbot", "llm", "memory"]
+repository = "https://github.com/JasonDocton/lucid-memory"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

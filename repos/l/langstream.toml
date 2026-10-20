@@ -1,0 +1,9 @@
+name = "langstream"
+description = "LangStream. Event-Driven Developer Platform for Building and Running LLM AI Apps. Powered by Kubernetes and Kafka."
+category = "vector-databases"
+tags = ["genai", "gpt-4", "kafka", "kafka-connect", "kubernetes", "llm", "vectordb", "huggingface"]
+repository = "https://github.com/LangStream/langstream"
+website = "https://langstream.ai"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

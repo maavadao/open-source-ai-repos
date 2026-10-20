@@ -1,0 +1,8 @@
+name = "dancenet"
+description = "DanceNet -Dance generator using Autoencoder, LSTM and Mixture Density Network. (Keras)"
+category = "vision"
+tags = ["keras", "computer-vision", "lstm", "generative-model", "mixture-density-networks", "autoencoder"]
+repository = "https://github.com/jsn5/dancenet"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

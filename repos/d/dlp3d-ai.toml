@@ -1,0 +1,9 @@
+name = "dlp3d.ai"
+description = "Open-source Autonomous 3D Characters on the Web"
+category = "models"
+tags = ["babylonjs", "digital-human", "large-language-models", "llm", "3d-animation", "realtime-chat"]
+repository = "https://github.com/dlp3d-ai/dlp3d.ai"
+website = "https://dlp3d.readthedocs.io"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "linorobot2"
+description = "Autonomous mobile robots (2WD, 4WD, Mecanum Drive)"
+category = "robotics"
+tags = ["robotics", "ros2", "gazebo", "robots", "mecanum-wheel", "4wd", "2wd", "autonomous"]
+repository = "https://github.com/linorobot/linorobot2"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

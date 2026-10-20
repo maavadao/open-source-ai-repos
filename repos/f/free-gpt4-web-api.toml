@@ -1,0 +1,8 @@
+name = "Free-GPT4-WEB-API"
+description = "Not just GPT4! Easy to use, Self-Hosted, Unlimited and Free WEB API of the latest A.I. like Gemini, DeepSeek, Claude and GPT"
+category = "chat"
+tags = ["artificial-intelligence", "chatgpt", "gpt-alternative", "sirigpt", "free-gpt", "api", "api-server", "python"]
+repository = "https://github.com/aledipa/Free-GPT4-WEB-API"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

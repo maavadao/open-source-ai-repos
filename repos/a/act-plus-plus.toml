@@ -1,0 +1,9 @@
+name = "act-plus-plus"
+description = "Imitation learning algorithms with Co-training for Mobile ALOHA: ACT, Diffusion Policy, VINN"
+category = "robotics"
+tags = ["imitation-learning", "robotics"]
+repository = "https://github.com/MarkFzp/act-plus-plus"
+website = "https://mobile-aloha.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

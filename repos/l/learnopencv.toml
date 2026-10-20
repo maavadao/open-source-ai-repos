@@ -1,0 +1,9 @@
+name = "learnopencv"
+description = "Learn OpenCV : C++ and Python Examples"
+category = "learning"
+tags = ["computer-vision", "machine-learning", "ai", "deep-learning", "deep-neural-networks", "deeplearning", "computervision", "opencv"]
+repository = "https://github.com/spmallick/learnopencv"
+website = "https://www.learnopencv.com/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

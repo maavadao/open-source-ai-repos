@@ -1,0 +1,9 @@
+name = "MagicTime"
+description = "[TPAMI 2025] MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators"
+category = "video"
+tags = ["text-to-video", "video-generation", "diffusion-models", "time-lapse", "time-lapse-dataset", "open-sora-plan", "long-video-generation", "metamorphic-video-generation"]
+repository = "https://github.com/PKU-YuanGroup/MagicTime"
+website = "https://pku-yuangroup.github.io/MagicTime/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

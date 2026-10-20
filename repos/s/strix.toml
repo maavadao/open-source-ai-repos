@@ -1,0 +1,9 @@
+name = "strix"
+description = "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities."
+category = "security"
+tags = ["agents", "artificial-intelligence", "cybersecurity", "penetration-testing", "ai-penetration-testing", "ai-pentesting", "ai-security", "bug-bounty"]
+repository = "https://github.com/usestrix/strix"
+website = "https://strix.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

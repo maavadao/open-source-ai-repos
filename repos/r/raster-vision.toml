@@ -1,0 +1,9 @@
+name = "raster-vision"
+description = "An open source library and framework for deep learning on satellite and aerial imagery."
+category = "vision"
+tags = ["deep-learning", "computer-vision", "remote-sensing", "geospatial", "object-detection", "semantic-segmentation", "classification", "machine-learning"]
+repository = "https://github.com/azavea/raster-vision"
+website = "https://docs.rastervision.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

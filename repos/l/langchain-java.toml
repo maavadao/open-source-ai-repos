@@ -1,0 +1,8 @@
+name = "langchain-java"
+description = "Java version of LangChain, while empowering LLM for Big Data."
+category = "llm-apps"
+tags = ["langchain", "llm", "java", "large-language-models", "openai", "langchian-java", "sql-chain"]
+repository = "https://github.com/HamaWhiteGG/langchain-java"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "learn-agent-architecture"
+description = "Learn AI agents from scratch."
+category = "learning"
+tags = ["ai-agents", "harness-engineering", "agentic-ai"]
+repository = "https://github.com/hardness1020/learn-agent-architecture"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

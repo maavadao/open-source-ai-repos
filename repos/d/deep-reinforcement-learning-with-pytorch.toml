@@ -1,0 +1,8 @@
+name = "Deep-reinforcement-learning-with-pytorch"
+description = "PyTorch implementation of DQN, AC, ACER, A2C, A3C, PG, DDPG, TRPO, PPO, SAC, TD3 and ...."
+category = "ml-platforms"
+tags = ["policy-gradient", "pytorch", "actor-critic-algorithm", "alphago", "deep-reinforcement-learning", "a2c", "dqn", "sarsa"]
+repository = "https://github.com/sweetice/Deep-reinforcement-learning-with-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

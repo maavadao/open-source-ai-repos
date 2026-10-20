@@ -1,0 +1,9 @@
+name = "understudy"
+description = "An understudy watches. Then performs."
+category = "chat"
+tags = ["agents", "ai", "assistant", "gui-agents", "own-your-data", "personal"]
+repository = "https://github.com/understudy-ai/understudy"
+website = "https://understudy-ai.github.io/understudy/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "ix"
+description = "Autonomous GPT-4 agent platform"
+category = "agents"
+tags = ["ai", "gpt-4", "openai", "python"]
+repository = "https://github.com/kreneskyp/ix"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "PMRF"
+description = "[ICLR 2025] Official implementation of Posterior-Mean Rectified Flow: Towards Minimum MSE Photo-Realistic Image Restoration"
+category = "image"
+tags = ["blind-face-restoration", "colorization", "computer-vision", "denoising", "diffusion-models", "flow-matching", "generative-models", "image-manipulation"]
+repository = "https://github.com/ohayonguy/PMRF"
+website = "https://pmrf-ml.github.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

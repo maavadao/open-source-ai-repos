@@ -1,0 +1,9 @@
+name = "mlcourse.ai"
+description = "Open Machine Learning Course"
+category = "learning"
+tags = ["machine-learning", "data-analysis", "data-science", "pandas", "algorithms", "numpy", "scipy", "matplotlib"]
+repository = "https://github.com/Yorko/mlcourse.ai"
+website = "https://mlcourse.ai"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

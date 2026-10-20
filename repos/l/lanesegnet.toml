@@ -1,0 +1,8 @@
+name = "LaneSegNet"
+description = "[ICLR 2024] Map Learning with Lane Segment for Autonomous Driving"
+category = "robotics"
+tags = ["autonomous-driving", "lane-segment", "online-mapping", "topology-reasoning", "laneline-detection"]
+repository = "https://github.com/OpenDriveLab/LaneSegNet"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

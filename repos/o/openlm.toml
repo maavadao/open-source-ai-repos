@@ -1,0 +1,8 @@
+name = "openlm"
+description = "OpenAI-compatible Python client that can call any LLM"
+category = "models"
+tags = ["llm", "openai", "cohere", "huggingface"]
+repository = "https://github.com/r2d4/openlm"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

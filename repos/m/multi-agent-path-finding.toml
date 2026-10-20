@@ -1,0 +1,8 @@
+name = "Multi-Agent-Path-Finding"
+description = "Anonymous Multi-Agent Path Finding (MAPF) with Conflict-Based Search and Space-Time A*"
+category = "agents"
+tags = ["multi-agent-path-finding", "mapf", "cbs", "astar", "space-time", "simulation", "conflict-based-search", "anonymous-multi-agent-path-finding"]
+repository = "https://github.com/GavinPHR/Multi-Agent-Path-Finding"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

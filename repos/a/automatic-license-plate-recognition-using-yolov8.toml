@@ -1,0 +1,8 @@
+name = "Automatic-License-Plate-Recognition-using-YOLOv8"
+description = "License Plate Detection using YOLOv8"
+category = "vision"
+tags = ["computer-vision", "deep-learning", "easyocr", "licenseplatedetection", "opencv", "python", "tracking-algorithm", "yolov8"]
+repository = "https://github.com/Muhammad-Zeerak-Khan/Automatic-License-Plate-Recognition-using-YOLOv8"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

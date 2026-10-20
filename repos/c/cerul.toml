@@ -1,0 +1,9 @@
+name = "cerul"
+description = "Open-source video processing core and CLI. Search and annotate local videos with your own model endpoints."
+category = "documents"
+tags = ["ai-agent", "computer-vision", "multimodal", "semantic-search", "understanding", "video-search", "ai-agents", "open-source"]
+repository = "https://github.com/cerul-ai/cerul"
+website = "https://cerul.ai"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

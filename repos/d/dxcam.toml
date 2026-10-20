@@ -1,0 +1,8 @@
+name = "DXcam"
+description = "A Python high-performance screen capture library for Windows using Desktop Duplication API - Updated 2026"
+category = "vision"
+tags = ["d3d11", "deep-learning", "fps-game", "python", "pytorch", "screenshot", "streaming", "2026"]
+repository = "https://github.com/ra1nty/DXcam"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

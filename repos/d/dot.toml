@@ -1,0 +1,9 @@
+name = "Dot"
+description = "Text-To-Speech, RAG, and LLMs. All local!"
+category = "speech"
+tags = ["embeddings", "llm", "local", "rag", "standalone", "standalone-app", "document-chat", "faiss"]
+repository = "https://github.com/alexpinel/Dot"
+website = "https://dotapp.uk/"
+license = "GPL-3.0"
+language = "JavaScript"
+added = 2026-10-20

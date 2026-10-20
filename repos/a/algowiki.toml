@@ -1,0 +1,9 @@
+name = "AlgoWiki"
+description = "Repository which contains links and resources on different topics of Computer Science."
+category = "data-science"
+tags = ["knowledge", "algorithm", "computer-science", "machine-learning", "html", "artificial-intelligence", "linux", "competitive-programming"]
+repository = "https://github.com/vicky002/AlgoWiki"
+website = "https://vikeshtiwari.com"
+license = "MIT"
+language = "CSS"
+added = 2026-10-20

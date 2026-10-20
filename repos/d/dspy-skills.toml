@@ -1,0 +1,8 @@
+name = "dspy-skills"
+description = "Collection of Claude Skills for DSPy framework - program language models, optimize prompts, and build RAG pipelines systematically"
+category = "skills-prompts"
+tags = ["agent-skills", "claude-code", "claude-skills", "dspy", "llm", "prompt-optimization", "rag"]
+repository = "https://github.com/OmidZamani/dspy-skills"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

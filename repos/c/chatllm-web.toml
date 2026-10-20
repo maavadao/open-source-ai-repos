@@ -1,0 +1,9 @@
+name = "ChatLLM-Web"
+description = "Private local model studio, AI chat, and agent workspace powered by WebGPU and WebLLM."
+category = "local-llms"
+tags = ["llm", "webgpu", "react", "pwa", "cloudflare-pages", "llama", "local-ai", "vite"]
+repository = "https://github.com/Ryan-yang125/ChatLLM-Web"
+website = "https://chatllm-web.pages.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

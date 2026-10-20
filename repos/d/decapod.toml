@@ -1,0 +1,9 @@
+name = "decapod"
+description = "Repo-native governance kernel for bounded, convergent, proof-backed agent work."
+category = "agents"
+tags = ["agents", "ai", "ai-agents", "control-plane", "kernel", "orchestration", "rust"]
+repository = "https://github.com/DecapodLabs/decapod"
+website = "https://decapodlabs.github.io/decapod/"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

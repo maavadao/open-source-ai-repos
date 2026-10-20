@@ -1,0 +1,8 @@
+name = "ROS-LLM"
+description = "ROS-LLM is a framework designed for embodied intelligence applications in ROS. It allows natural language interactions and leverages Large Language Models (LLMs) for decision-making and robot control. With an easy configuration process, this framework allows for swift…"
+category = "robotics"
+tags = ["gpt", "llm", "ros", "embodied-intelligence"]
+repository = "https://github.com/Auromix/ROS-LLM"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "orchestkit"
+description = "The Complete AI Development Toolkit for Claude Code. 106 skills, 36 agents, 171 hooks. Install `ork` for stable (v9.x), or `ork-alpha` for the v10 line, which ships daily."
+category = "mcp-servers"
+tags = ["agents", "ai-development", "claude-code", "claude-plugin", "langgraph", "llm", "rag", "react"]
+repository = "https://github.com/yonatangross/orchestkit"
+website = "https://orchestkit.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

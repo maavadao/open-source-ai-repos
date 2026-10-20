@@ -1,0 +1,9 @@
+name = "Rath"
+description = "Next generation of automated data exploratory analysis and visualization platform."
+category = "data-science"
+tags = ["datamining", "visualization", "automated-visualization", "data-exploration", "eda", "machine-learning", "automated-data-analysis", "data-visualization"]
+repository = "https://github.com/Kanaries/Rath"
+website = "https://rath.kanaries.net"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

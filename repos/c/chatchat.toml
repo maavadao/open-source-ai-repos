@@ -1,0 +1,9 @@
+name = "ChatChat"
+description = "Chat Chat, your own unified chat and search to AI platform, with a simple and easy to use interface."
+category = "chat"
+tags = ["ai", "api", "gpt-3", "openai", "gpt", "okisdev", "azure", "chat"]
+repository = "https://github.com/okisdev/ChatChat"
+website = "https://chat.okisdev.com"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

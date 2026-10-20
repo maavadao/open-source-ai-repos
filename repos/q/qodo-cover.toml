@@ -1,0 +1,9 @@
+name = "qodo-cover"
+description = "Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement!"
+category = "agents"
+tags = ["agents", "ai", "test-automation", "testing"]
+repository = "https://github.com/qodo-ai/qodo-cover"
+website = "https://qodo.ai/"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "zke"
+description = "ZKE（Z Kubernetes Engine）：AI 原生的 Kubernetes 云操作环境，桌面式多集群控制台加受控 AIOps Agent，基于 Server + Agent 与 QUIC/mTLS，适用于私有云、混合云及边缘环境"
+category = "agents"
+tags = ["agent", "cloud-native", "kubernetes", "kubernetes-engine", "multi-cluster", "multi-tenant", "edge-computing", "hybrid-cloud"]
+repository = "https://github.com/togettoyou/zke"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

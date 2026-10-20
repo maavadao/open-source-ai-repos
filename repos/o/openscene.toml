@@ -1,0 +1,8 @@
+name = "OpenScene"
+description = "3D Occupancy Prediction Benchmark in Autonomous Driving"
+category = "robotics"
+tags = ["3d-occupancy", "autonomous-driving", "foundation-model"]
+repository = "https://github.com/OpenDriveLab/OpenScene"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Stable-Diffusion"
+description = "FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning…"
+category = "learning"
+tags = ["dreambooth", "guides", "stable-diffusion", "tts", "tutorials", "text-to-video", "text-to-image", "education"]
+repository = "https://github.com/FurkanGozukara/Stable-Diffusion"
+website = "https://www.youtube.com/SECourses"
+license = "GPL-3.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "neural_sp"
+description = "End-to-end ASR/LM implementation with PyTorch"
+category = "speech"
+tags = ["pytorch", "speech-recognition", "automatic-speech-recognition", "asr", "ctc", "attention-mechanism", "attention", "seq2seq"]
+repository = "https://github.com/hirofumi0810/neural_sp"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

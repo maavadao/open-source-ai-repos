@@ -1,0 +1,8 @@
+name = "local-llms-on-android"
+description = "Run local LLMs like Gemma, Qwen, and LLaMA on Android for offline, private, real-time chat and question answering with LiteRT and ONNX Runtime."
+category = "local-llms"
+tags = ["android", "local-llm", "local-llm-integration", "onnx-runtime", "android-app", "chatbot", "huggingface-tokenizers", "llama3"]
+repository = "https://github.com/dineshsoudagar/local-llms-on-android"
+license = "MIT"
+language = "Kotlin"
+added = 2026-10-20

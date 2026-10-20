@@ -1,0 +1,8 @@
+name = "codegraph"
+description = "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local"
+category = "coding"
+repository = "https://github.com/colbymchenry/codegraph"
+website = "https://colbymchenry.github.io/codegraph/"
+license = "MIT"
+language = "C"
+added = 2026-10-20

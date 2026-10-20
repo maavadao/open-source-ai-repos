@@ -1,0 +1,9 @@
+name = "OpenPipe"
+description = "Turn expensive prompts into cheap fine-tuned models"
+category = "llm-apps"
+tags = ["ai", "llm", "llmops", "prompt-engineering"]
+repository = "https://github.com/OpenPipe/OpenPipe"
+website = "https://openpipe.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

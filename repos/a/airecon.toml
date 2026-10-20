@@ -1,0 +1,8 @@
+name = "airecon"
+description = "AIRecon is an autonomous cybersecurity agent that combines a self-hosted Large Language Model (Ollama) with a Kali Linux Docker sandbox and a Textual TUI. It is designed to automate security assessments, penetration testing, and bug bounty reconnaissance — without any API…"
+category = "no-code"
+tags = ["ai-agents", "bugbounty", "ollama", "penetration-testing", "reconnaissance", "automation", "cli", "python"]
+repository = "https://github.com/pikpikcu/airecon"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

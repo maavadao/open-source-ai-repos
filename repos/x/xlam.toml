@@ -1,0 +1,8 @@
+name = "xLAM"
+description = "xLAM: A Family of Large Action Models to Empower AI Agent Systems"
+category = "agents"
+tags = ["agents", "llm-agent", "llms", "xlam", "agentstudio", "actionstudio"]
+repository = "https://github.com/SalesforceAIResearch/xLAM"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

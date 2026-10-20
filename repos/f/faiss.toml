@@ -1,0 +1,9 @@
+name = "faiss"
+description = "A library for efficient similarity search and clustering of dense vectors."
+category = "vector-databases"
+repository = "https://github.com/facebookresearch/faiss"
+website = "https://faiss.ai"
+license = "MIT"
+language = "C++"
+skill_level = "advanced"
+added = 2026-10-20

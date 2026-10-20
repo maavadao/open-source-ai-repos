@@ -1,0 +1,9 @@
+name = "lix"
+description = "Embeddable version control system for files and tables."
+category = "agents"
+tags = ["change-detection", "version-control", "ai", "ai-agents"]
+repository = "https://github.com/opral/lix"
+website = "https://lix.dev"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

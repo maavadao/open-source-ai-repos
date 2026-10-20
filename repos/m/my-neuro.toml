@@ -1,0 +1,8 @@
+name = "my-neuro"
+description = "This project lets you create your own AI desktop companion with customizable characters and voice conversations that respond in just 1 second. Features include long-term memory, visual recognition, voice cloning and LLM training. Compatible with various Live2D customizations."
+category = "agents"
+tags = ["ai", "live2d", "llm", "python", "ai-vtuber", "chatbots", "agent", "neuro-sama"]
+repository = "https://github.com/morettt/my-neuro"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

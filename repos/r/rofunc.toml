@@ -1,0 +1,9 @@
+name = "Rofunc"
+description = "The Full Process Python Package for Robot Learning from Demonstration and Robot Manipulation"
+category = "robotics"
+tags = ["optitrack", "planning-algorithms", "imitation-learning", "learning-from-demonstration", "robot", "isaac-gym", "humanoid-robots", "reinforcement-learning-algorithms"]
+repository = "https://github.com/Skylark0924/Rofunc"
+website = "https://rofunc.readthedocs.io"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

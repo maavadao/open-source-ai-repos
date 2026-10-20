@@ -1,0 +1,9 @@
+name = "torchtune"
+description = "PyTorch native post-training library"
+category = "ml-platforms"
+repository = "https://github.com/meta-pytorch/torchtune"
+website = "https://pytorch.org/torchtune/"
+license = "BSD-3-Clause"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

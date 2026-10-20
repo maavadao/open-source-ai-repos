@@ -1,0 +1,9 @@
+name = "Hands-On-Reinforcement-Learning-With-Python"
+description = "Master Reinforcement and Deep Reinforcement Learning using OpenAI Gym and TensorFlow"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "deep-reinforcement-learning", "sarsa", "q-learning", "policy-gradients", "deep-q-network", "deep-learning-algorithms", "asynchronous-advantage-actor-critic"]
+repository = "https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python"
+website = "https://www.amazon.com/dp/B079Q3WLM4/ref=sr_1_1?ie=UTF8&qid=1518175121&sr=8-1&keywords=hands+on+reinforcement+learning+with+python"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

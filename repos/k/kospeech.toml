@@ -1,0 +1,9 @@
+name = "kospeech"
+description = "Open-Source Toolkit for End-to-End Korean Automatic Speech Recognition leveraging PyTorch and Hydra."
+category = "speech"
+tags = ["speech-recognition", "asr", "korean-speech", "end-to-end", "las-models", "ksponspeech", "pytorch", "seq2seq"]
+repository = "https://github.com/sooftware/kospeech"
+website = "https://sooftware.github.io/kospeech/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

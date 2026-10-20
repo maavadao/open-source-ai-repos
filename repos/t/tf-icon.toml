@@ -1,0 +1,9 @@
+name = "TF-ICON"
+description = "[ICCV 2023] \"TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition\" (Official Implementation)"
+category = "image"
+tags = ["image-composition", "image-inversion", "generative-ai", "stable-diffusion", "text-to-image", "diffusion-model"]
+repository = "https://github.com/Shilin-LU/TF-ICON"
+website = "https://shilin-lu.github.io/tf-icon.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

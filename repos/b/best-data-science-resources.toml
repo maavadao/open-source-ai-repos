@@ -1,0 +1,8 @@
+name = "best-data-science-resources"
+description = "This repository contains the best Data Science free hand-picked resources to equip you with all the industry-driven skills and interview preparation kit."
+category = "learning"
+tags = ["data", "datascience", "machine-learning", "deep-learning", "ai", "artificial-intelligence", "neural-network", "data-structures"]
+repository = "https://github.com/Mohitkr95/best-data-science-resources"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

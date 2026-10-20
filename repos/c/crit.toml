@@ -1,0 +1,9 @@
+name = "crit"
+description = "Review AI coding agents' plans, diffs and running apps in the browser. Local-first, works with any agent."
+category = "coding"
+tags = ["agentic-coding", "ai-tools", "cli", "llm", "markdown", "code-review", "ai-agents", "developer-tools"]
+repository = "https://github.com/tomasz-tomczyk/crit"
+website = "https://crit.md"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

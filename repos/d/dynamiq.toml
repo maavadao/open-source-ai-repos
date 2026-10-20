@@ -1,0 +1,9 @@
+name = "dynamiq"
+description = "Dynamiq is an orchestration framework for agentic AI and LLM applications"
+category = "agents"
+tags = ["agents", "ai", "generative-ai", "gpt", "llm", "llmops", "rag"]
+repository = "https://github.com/dynamiq-ai/dynamiq"
+website = "https://getdynamiq.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

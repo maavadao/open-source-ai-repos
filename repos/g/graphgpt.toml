@@ -1,0 +1,9 @@
+name = "GraphGPT"
+description = "[SIGIR'2024] \"GraphGPT: Graph Instruction Tuning for Large Language Models\""
+category = "models"
+tags = ["graph-neural-networks", "instruction-tuning", "large-language-models", "text-graph", "graph-learning"]
+repository = "https://github.com/HKUDS/GraphGPT"
+website = "https://arxiv.org/abs/2310.13023"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

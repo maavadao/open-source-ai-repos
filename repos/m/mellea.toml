@@ -1,0 +1,9 @@
+name = "mellea"
+description = "Mellea is a library for writing generative programs."
+category = "agents"
+tags = ["agents", "generative-ai", "llms", "generative-computing"]
+repository = "https://github.com/generative-computing/mellea"
+website = "https://mellea.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

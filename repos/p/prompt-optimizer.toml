@@ -1,0 +1,9 @@
+name = "prompt-optimizer"
+description = "An AI prompt optimizer for writing better prompts and getting better AI results."
+category = "models"
+tags = ["llm", "prompt", "prompt-engineering", "prompt-optimization", "prompt-toolkit", "prompt-tuning", "ai-prompts", "ai-tools"]
+repository = "https://github.com/linshenkx/prompt-optimizer"
+website = "https://prompt.always200.com"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

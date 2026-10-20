@@ -1,0 +1,8 @@
+name = "AlignLLMHumanSurvey"
+description = "Aligning Large Language Models with Human: A Survey"
+category = "chat"
+tags = ["chatgpt", "gpt-4", "large-language-models", "llms", "rlhf", "supervised-finetuning", "survey", "awesome"]
+repository = "https://github.com/GaryYufei/AlignLLMHumanSurvey"
+website = "https://arxiv.org/abs/2307.12966"
+license = "NOASSERTION"
+added = 2026-10-20

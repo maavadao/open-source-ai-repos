@@ -1,0 +1,8 @@
+name = "simple-llm-finetuner"
+description = "Simple UI for LLM Model Finetuning"
+category = "models"
+tags = ["ai", "gpt-2", "gpt-3", "huggingface", "huggingface-transformers", "llama", "llm", "peft"]
+repository = "https://github.com/lxe/simple-llm-finetuner"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Multi-Modality-Arena"
+description = "Chatbot Arena meets multi-modality! Multi-Modality Arena allows you to benchmark vision-language models side-by-side while providing images as inputs. Supports MiniGPT-4, LLaMA-Adapter V2, LLaVA, BLIP-2, and many more!"
+category = "chat"
+tags = ["chat", "chatbot", "chatgpt", "gradio", "large-language-models", "llms", "vqa", "multi-modality"]
+repository = "https://github.com/OpenGVLab/Multi-Modality-Arena"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

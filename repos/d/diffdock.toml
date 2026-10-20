@@ -1,0 +1,9 @@
+name = "DiffDock"
+description = "Implementation of DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking"
+category = "image"
+tags = ["diffusion-models", "docking", "binding", "computational-biology", "equivariance", "machine-learning", "non-euclidean-geometry", "score-based-models"]
+repository = "https://github.com/gcorso/DiffDock"
+website = "https://arxiv.org/abs/2210.01776"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

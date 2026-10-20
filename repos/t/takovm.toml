@@ -1,0 +1,9 @@
+name = "TakoVM"
+description = "A secure file system for your agents to execute code"
+category = "agents"
+tags = ["agent-tools", "ai", "ai-agents", "code-execution", "llm", "security", "agentic-ai", "ai-tools"]
+repository = "https://github.com/Tako-Research/TakoVM"
+website = "https://tako-research.github.io/TakoVM/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

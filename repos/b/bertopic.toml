@@ -1,0 +1,9 @@
+name = "BERTopic"
+description = "Leveraging BERT and c-TF-IDF to create easily interpretable topics."
+category = "models"
+tags = ["bert", "transformers", "topic-modeling", "sentence-embeddings", "nlp", "machine-learning", "topic", "ldavis"]
+repository = "https://github.com/MaartenGr/BERTopic"
+website = "https://maartengr.github.io/BERTopic/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

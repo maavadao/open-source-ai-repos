@@ -1,0 +1,9 @@
+name = "Bernini"
+description = "Bernini is a unified framework for video generation and editing that combines an MLLM-based semantic planner with a DiT-based renderer."
+category = "video"
+tags = ["video-editing", "video-generation", "image-editing", "image-generation"]
+repository = "https://github.com/bytedance/Bernini"
+website = "https://bernini-ai.github.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

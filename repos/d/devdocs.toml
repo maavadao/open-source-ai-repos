@@ -1,0 +1,9 @@
+name = "DevDocs"
+description = "Completely free, private, UI based Tech Documentation MCP server. Designed for coders and software developers in mind. Easily integrate into Cursor, Windsurf, Cline, Roo Code, Claude Desktop App"
+category = "mcp-servers"
+tags = ["crawl4ai", "documentation", "llm", "playwright", "python3", "scraper", "security", "typescript"]
+repository = "https://github.com/cyberagiinc/DevDocs"
+website = "https://www.cyberagi.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

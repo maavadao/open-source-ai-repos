@@ -1,0 +1,9 @@
+name = "ConsisID"
+description = "[CVPR 2025 Highlight] Identity-Preserving Text-to-Video Generation by Frequency Decomposition"
+category = "video"
+tags = ["diffusion", "diffusion-models", "text-to-video", "video-generation", "identity-preserving", "video-generator", "videogeneration", "video-generation-dataset"]
+repository = "https://github.com/PKU-YuanGroup/ConsisID"
+website = "https://pku-yuangroup.github.io/ConsisID/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

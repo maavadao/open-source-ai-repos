@@ -1,0 +1,9 @@
+name = "course-content-dl"
+description = "NMA deep learning course"
+category = "learning"
+tags = ["deep-learning", "reinforcement-learning-algorithms", "continual-learning", "convolutional-neural-networks", "recurrent-neural-networks", "transformers"]
+repository = "https://github.com/NeuromatchAcademy/course-content-dl"
+website = "https://deeplearning.neuromatch.io/"
+license = "CC-BY-4.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

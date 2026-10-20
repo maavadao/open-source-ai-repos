@@ -1,0 +1,8 @@
+name = "Transcribro"
+description = "Private and on-device speech recognition keyboard and service for Android."
+category = "speech"
+tags = ["android", "keyboard", "material-3", "material-you", "speech-recognition", "speech-to-text", "jetpack-compose", "material-design-3"]
+repository = "https://github.com/soupslurpr/Transcribro"
+license = "ISC"
+language = "Kotlin"
+added = 2026-10-20

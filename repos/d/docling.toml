@@ -1,0 +1,10 @@
+name = "docling"
+description = "Get your documents ready for gen AI"
+category = "documents"
+tags = ["ai", "convert", "documents", "pdf", "tables", "document-parser", "document-parsing", "docx"]
+repository = "https://github.com/docling-project/docling"
+website = "https://docling-project.github.io/docling/"
+license = "MIT"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

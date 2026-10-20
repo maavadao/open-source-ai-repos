@@ -1,0 +1,9 @@
+name = "GURU-Ai"
+description = "SIMPLE YET COMPLICATED"
+category = "no-code"
+tags = ["ai", "automation", "chatgpt", "openai", "qrcode", "termux"]
+repository = "https://github.com/Guru322/GURU-Ai"
+website = "http://guru.is-a.dev/"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,10 @@
+name = "searxng"
+description = "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled."
+category = "search"
+tags = ["metasearch", "search", "python", "searxng", "search-engine", "searx", "bing", "brave"]
+repository = "https://github.com/searxng/searxng"
+website = "https://docs.searxng.org"
+license = "AGPL-3.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

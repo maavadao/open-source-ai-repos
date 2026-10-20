@@ -1,0 +1,9 @@
+name = "MTBook"
+description = "《机器翻译：基础与模型》肖桐 朱靖波 著 - Machine Translation: Foundations and Models"
+category = "ml-platforms"
+tags = ["machine-translation", "deep-learning", "natural-language-processing", "neural-machine-translation", "statistical-machine-translation", "machine-learning", "tex"]
+repository = "https://github.com/NiuTrans/MTBook"
+website = "https://opensource.niutrans.com/mtbook/index.html"
+license = "NOASSERTION"
+language = "TeX"
+added = 2026-10-20

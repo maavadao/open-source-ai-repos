@@ -1,0 +1,7 @@
+name = "image-to-image-papers"
+description = "<-> <-> A collection of image to image papers with code (constantly updating)"
+category = "vision"
+tags = ["image-to-image", "generative-adversarial-network", "gan", "papers", "image-to-image-translation", "image-manipulation", "curated-list", "image-translation"]
+repository = "https://github.com/lzhbrian/image-to-image-papers"
+license = "MIT"
+added = 2026-10-20

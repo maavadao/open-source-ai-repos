@@ -1,0 +1,8 @@
+name = "Voice-Cloning-App"
+description = "A Python/Pytorch app for easily synthesising human voices"
+category = "speech"
+tags = ["python", "tts", "text-to-speech", "pytorch", "deep-learning", "voice-cloning", "tacotron2"]
+repository = "https://github.com/voice-cloning-app/Voice-Cloning-App"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

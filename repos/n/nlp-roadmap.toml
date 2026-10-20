@@ -1,0 +1,8 @@
+name = "nlp-roadmap"
+description = "ROADMAP(Mind Map) and KEYWORD for students those who have interest in learning NLP"
+category = "learning"
+tags = ["natural-language-processing", "nlp", "roadmap", "probability-statistics", "machine-learning", "textmining", "keyword"]
+repository = "https://github.com/graykode/nlp-roadmap"
+website = "https://www.reddit.com/r/MachineLearning/comments/d8jheo/p_natural_language_processing_roadmap_and_keyword/"
+license = "MIT"
+added = 2026-10-20

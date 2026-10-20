@@ -1,0 +1,9 @@
+name = "nlp_overview"
+description = "Overview of Modern Deep Learning Techniques Applied to Natural Language Processing"
+category = "ml-platforms"
+tags = ["nlp", "deep-learning", "word-embeddings", "cnn", "rnn", "reinforcement-learning"]
+repository = "https://github.com/omarsar/nlp_overview"
+website = "https://nlpoverview.com/"
+license = "MIT"
+language = "CSS"
+added = 2026-10-20

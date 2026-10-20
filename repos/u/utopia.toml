@@ -1,0 +1,8 @@
+name = "utopia"
+description = "World's first open-source enterprise world model."
+category = "agents"
+tags = ["agent-memory", "knowledge-base", "knowledge-graph", "llm", "pgvector", "postgresql", "rag", "rust"]
+repository = "https://github.com/deeplethe/utopia"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

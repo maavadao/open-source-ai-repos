@@ -1,0 +1,9 @@
+name = "watch-skill"
+description = "Give AI agents eyes, ears, and verifiable results. Watch Skill turns video, audio and screen activity into searchable, timestamped evidence and proves work with deterministic contracts, not model opinion. DeepWatch is the agent workspace built on DeepSeek Harness. Python +…"
+category = "mcp-servers"
+tags = ["ai-agents", "computer-vision", "mcp", "multimodal", "ocr", "video-understanding", "python", "speech-to-text"]
+repository = "https://github.com/oxbshw/watch-skill"
+website = "https://pypi.org/project/watch-skill/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

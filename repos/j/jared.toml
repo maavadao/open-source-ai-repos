@@ -1,0 +1,8 @@
+name = "Jared"
+description = "An easily extensible chat bot for iMessage written in Swift."
+category = "chat"
+tags = ["imessage", "chatbot", "swift", "applescript", "chat-bot"]
+repository = "https://github.com/ZekeSnider/Jared"
+license = "Apache-2.0"
+language = "Swift"
+added = 2026-10-20

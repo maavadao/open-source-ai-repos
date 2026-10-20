@@ -1,0 +1,8 @@
+name = "devol"
+description = "Early POC of genetic neural architecture search"
+category = "vision"
+tags = ["deep-learning", "genetic-algorithm", "machine-learning", "keras", "automl", "neural-architecture-search", "computer-vision"]
+repository = "https://github.com/joeddav/devol"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

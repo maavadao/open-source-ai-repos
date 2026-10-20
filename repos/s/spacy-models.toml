@@ -1,0 +1,9 @@
+name = "spacy-models"
+description = "Models for the spaCy Natural Language Processing (NLP) library"
+category = "data-science"
+tags = ["spacy", "nlp", "natural-language-processing", "machine-learning", "models", "machine-learning-models", "statistical-models", "spacy-models"]
+repository = "https://github.com/explosion/spacy-models"
+website = "https://spacy.io"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "urban-bot"
+description = "The universal chatbot library based on React. Write once, launch Telegram, Discord, Facebook, ... every messenger with chatbots"
+category = "chat"
+tags = ["react", "chatbot", "chatbots", "telegram", "telegram-bot", "facebook-messenger-bot", "slack-bot", "bot"]
+repository = "https://github.com/urban-bot/urban-bot"
+website = "https://urban-bot.now.sh"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

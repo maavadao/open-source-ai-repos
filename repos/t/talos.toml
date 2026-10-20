@@ -1,0 +1,9 @@
+name = "talos"
+description = "Hyperparameter Experiments with TensorFlow and Keras"
+category = "ml-platforms"
+tags = ["deep-learning", "keras", "keras-tensorflow", "hyperparameter-optimization", "artificial-intelligence", "tensorflow"]
+repository = "https://github.com/autonomio/talos"
+website = "https://autonom.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "WhyBuddy"
+description = "A Simple and Universal Product Rehearsal Engine, Speccing Anything. 简洁通用的产品推演引擎，推演万物。"
+category = "coding"
+tags = ["ai", "ai-agent", "ai-agents", "anthropic", "chatgpt", "claude", "claude-code", "clawdbot"]
+repository = "https://github.com/xiaojilele-glitch/WhyBuddy"
+website = "http://www.miantuan.ai/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "open-deep-research"
+description = "An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl"
+category = "search"
+repository = "https://github.com/nickscamara/open-deep-research"
+website = "https://firecrawl.dev/extract"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

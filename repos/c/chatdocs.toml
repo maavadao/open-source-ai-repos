@@ -1,0 +1,8 @@
+name = "chatdocs"
+description = "Chat with your documents offline using AI."
+category = "llm-apps"
+tags = ["ai", "chroma", "ctransformers", "langchain", "llm", "transformers", "chatdocs"]
+repository = "https://github.com/marella/chatdocs"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

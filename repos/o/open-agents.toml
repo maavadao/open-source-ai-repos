@@ -1,0 +1,9 @@
+name = "open-agents"
+description = "An open source template for building cloud agents."
+category = "agents"
+tags = ["agent", "agents", "ai", "background-agents"]
+repository = "https://github.com/vercel-labs/open-agents"
+website = "https://open-agents.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

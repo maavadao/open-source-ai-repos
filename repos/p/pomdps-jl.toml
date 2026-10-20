@@ -1,0 +1,9 @@
+name = "POMDPs.jl"
+description = "MDPs and POMDPs in Julia - An interface for defining, solving, and simulating fully and partially observable Markov decision processes on discrete and continuous spaces."
+category = "ml-platforms"
+tags = ["pomdps", "markov-decision-processes", "julia", "artificial-intelligence", "control-systems", "reinforcement-learning", "reinforcement-learning-algorithms", "mdps"]
+repository = "https://github.com/JuliaPOMDP/POMDPs.jl"
+website = "http://juliapomdp.github.io/POMDPs.jl/latest/"
+license = "NOASSERTION"
+language = "Julia"
+added = 2026-10-20

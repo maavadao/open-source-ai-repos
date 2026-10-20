@@ -1,0 +1,9 @@
+name = "sentrux"
+description = "Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust."
+category = "mcp-servers"
+tags = ["architecture", "code-quality", "developer-tools", "mcp", "rust", "static-analysis", "treemap", "visualization"]
+repository = "https://github.com/sentrux/sentrux"
+website = "https://sentrux.dev"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "azan-mcp"
+description = "Azan + Prayer Time + MCP + AI Agents + Islamic + Salah + A lightweight MCP library to calculate prayer times and trigger Azan with a single tool call. If you’re building an AI agent or prayer application, there’s no need to deal with astronomical calculations, timezones, or…"
+category = "mcp-servers"
+tags = ["prayer-times", "azan", "prayer", "dates", "android-prayer-times", "islamic-prayer-times", "longitude", "prayertimes"]
+repository = "https://github.com/ahmedeltaher/azan-mcp"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Chatito"
+description = "Dataset generation for AI chatbots, NLP tasks, named entity recognition or text classification models using a simple DSL!"
+category = "chat"
+tags = ["chatito", "nlu", "dataset", "nlp", "text-classification", "named-entity-recognition", "nlg", "dataset-generation"]
+repository = "https://github.com/rodrigopivi/Chatito"
+website = "https://rodrigopivi.github.io/Chatito/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

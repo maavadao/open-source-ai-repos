@@ -1,0 +1,9 @@
+name = "kaggle-imaterialist"
+description = "The First Place Solution of Kaggle iMaterialist (Fashion) 2019 at FGVC6"
+category = "vision"
+tags = ["computer-vision", "mmdetection", "kaggle", "object-detection", "instance-segmentation", "deep-learning", "pytorch", "kaggle-imaterialist"]
+repository = "https://github.com/amirassov/kaggle-imaterialist"
+website = "https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

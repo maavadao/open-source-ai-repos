@@ -1,0 +1,9 @@
+name = "Vibe-Workflow"
+description = "Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFauna AI — node-based AI workflow builder for generative image & video pipelines"
+category = "no-code"
+tags = ["ai", "creative-tools", "fastapi", "generative-ai", "image-generation", "nextjs", "node-editor", "open-source"]
+repository = "https://github.com/SamurAIGPT/Vibe-Workflow"
+website = "https://muapi.ai/workflow"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

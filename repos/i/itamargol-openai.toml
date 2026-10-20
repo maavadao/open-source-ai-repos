@@ -1,0 +1,9 @@
+name = "openai"
+description = "LLMs Best Tricks"
+category = "llm-apps"
+tags = ["ai", "llm", "generative-ai", "gpt-3", "gpt-4", "langchain", "openai", "openai-api"]
+repository = "https://github.com/itamargol/openai"
+website = "https://www.patreon.com/ItamarGolan"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

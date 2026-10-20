@@ -1,0 +1,8 @@
+name = "neural"
+description = "AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)"
+category = "coding"
+tags = ["code-generation", "neovim", "openai", "gpt-3", "chatgpt", "ai", "linux", "macos"]
+repository = "https://github.com/dense-analysis/neural"
+license = "MIT"
+language = "Vim Script"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "megaparse"
+description = "File Parser optimised for LLM Ingestion with no loss Parse PDFs, Docx, PPTx in a format that is ideal for LLMs."
+category = "documents"
+tags = ["docx", "llm", "parser", "pdf", "powerpoint"]
+repository = "https://github.com/The-Vibe-Company/megaparse"
+website = "https://megaparse.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

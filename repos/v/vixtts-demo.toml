@@ -1,0 +1,9 @@
+name = "vixtts-demo"
+description = "A Vietnamese Voice Cloning Text-to-Speech Model"
+category = "speech"
+tags = ["text-to-speech", "vietnamese"]
+repository = "https://github.com/thinhlpg/vixtts-demo"
+website = "https://huggingface.co/spaces/thinhlpg/vixtts-demo"
+license = "MPL-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

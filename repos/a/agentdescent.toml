@@ -1,0 +1,9 @@
+name = "agentdescent"
+description = "Gradient descent, but the parameters are agents — a parallel, asynchronous framework for self-evolving agents (skills, prompts, harnesses). Diffs are the gradients; the aggregator is the optimizer."
+category = "agents"
+tags = ["agent-framework", "agents", "ai-agents", "asynchronous", "evolutionary-algorithms", "gradient-descent", "llm", "llm-agents"]
+repository = "https://github.com/Birfy/agentdescent"
+website = "https://birfy.github.io/agentdescent/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

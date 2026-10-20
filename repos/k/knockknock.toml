@@ -1,0 +1,8 @@
+name = "knockknock"
+description = "Knock Knock: Get notified when your training ends with only two additional lines of code"
+category = "vision"
+tags = ["machine-learning", "natural-language-processing", "nlproc", "nlp", "computer-vision", "cv", "python", "python36"]
+repository = "https://github.com/huggingface/knockknock"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

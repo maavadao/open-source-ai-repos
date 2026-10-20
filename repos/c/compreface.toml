@@ -1,0 +1,9 @@
+name = "CompreFace"
+description = "Leading free and open-source face recognition system"
+category = "vision"
+tags = ["face-recognition", "computer-vision", "face-detection", "facenet", "insightface", "docker", "docker-compose", "rest-api"]
+repository = "https://github.com/exadel-inc/CompreFace"
+website = "https://exadel.com/accelerator-showcase/compreface/"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

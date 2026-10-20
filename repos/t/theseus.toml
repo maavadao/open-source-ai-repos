@@ -1,0 +1,8 @@
+name = "theseus"
+description = "A library for differentiable nonlinear optimization"
+category = "robotics"
+tags = ["differentiable-optimization", "robotics", "embodied-ai", "nonlinear-least-squares", "pytorch", "deep-learning", "computer-vision", "gauss-newton"]
+repository = "https://github.com/facebookresearch/theseus"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

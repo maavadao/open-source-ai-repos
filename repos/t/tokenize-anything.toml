@@ -1,0 +1,8 @@
+name = "tokenize-anything"
+description = "[ECCV 2024] Tokenize Anything via Prompting"
+category = "models"
+tags = ["foundation-models", "representation-learning", "multimodal", "promptable"]
+repository = "https://github.com/baaivision/tokenize-anything"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

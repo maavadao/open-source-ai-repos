@@ -1,0 +1,8 @@
+name = "RetinexNet"
+description = "A Tensorflow implementation of RetinexNet"
+category = "vision"
+tags = ["computer-vision", "lowlight", "image-processing", "image-enhancement", "image-restoration"]
+repository = "https://github.com/weichen582/RetinexNet"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

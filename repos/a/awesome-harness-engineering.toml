@@ -1,0 +1,8 @@
+name = "awesome-harness-engineering"
+description = "Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration."
+category = "mcp-servers"
+tags = ["agent-harness", "agent-memory", "agent-orchestration", "ai-agents", "awesome-list", "context-engineering", "harness-engineering", "mcp"]
+repository = "https://github.com/ai-boost/awesome-harness-engineering"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

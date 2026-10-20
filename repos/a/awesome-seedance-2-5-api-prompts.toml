@@ -1,0 +1,8 @@
+name = "awesome-seedance-2.5-api-prompts"
+description = "Seedance 2.5 API guide, prompts, parameters, and examples for video generation"
+category = "learning"
+tags = ["ai-video", "bytedance", "muapi", "seedance", "text-to-video", "video-generation", "generative-ai", "prompt-engineering"]
+repository = "https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts"
+website = "https://muapi.ai/playground/seedance-2.5-text-to-video"
+license = "NOASSERTION"
+added = 2026-10-20

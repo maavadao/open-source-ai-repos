@@ -1,0 +1,8 @@
+name = "Dataset_Synthesizer"
+description = "NVIDIA Deep learning Dataset Synthesizer (NDDS)"
+category = "vision"
+tags = ["computer-vision", "deep-learning", "synthetic-dataset-generation", "domain-randomization", "pose-estimation", "object-detection"]
+repository = "https://github.com/NVIDIA/Dataset_Synthesizer"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "unreal"
+description = "Reinforcement learning with unsupervised auxiliary tasks"
+category = "ml-platforms"
+tags = ["tensorflow", "deepmind-lab", "reinforcement-learning", "unreal"]
+repository = "https://github.com/miyosuda/unreal"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

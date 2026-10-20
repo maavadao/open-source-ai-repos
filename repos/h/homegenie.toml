@@ -1,0 +1,9 @@
+name = "HomeGenie"
+description = "HomeGenie: The Programmable Intelligence with 100% Local Agentic AI."
+category = "no-code"
+tags = ["zwave", "x10", "gpio", "knx", "smart-home", "zigbee", "automation", "building-automation"]
+repository = "https://github.com/genielabs/HomeGenie"
+website = "https://homegenie.it"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "transcriptionstream"
+description = "turnkey self-hosted offline transcription and diarization service with llm summary"
+category = "no-code"
+tags = ["automation", "diarization", "llm", "speaker-diarization", "speech-recognition", "transcription", "whisper", "ollama"]
+repository = "https://github.com/transcriptionstream/transcriptionstream"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

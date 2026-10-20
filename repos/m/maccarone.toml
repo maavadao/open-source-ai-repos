@@ -1,0 +1,8 @@
+name = "maccarone"
+description = "AI-managed code blocks in Python"
+category = "other"
+tags = ["generative-ai", "python"]
+repository = "https://github.com/bsilverthorn/maccarone"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

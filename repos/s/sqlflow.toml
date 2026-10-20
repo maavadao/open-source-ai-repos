@@ -1,0 +1,9 @@
+name = "sqlflow"
+description = "Brings SQL and AI together."
+category = "ml-platforms"
+tags = ["sqlflow", "sql-syntax", "ai", "transpiler", "deep-learning", "databases", "machine-learning"]
+repository = "https://github.com/sql-machine-learning/sqlflow"
+website = "https://sqlflow.org"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

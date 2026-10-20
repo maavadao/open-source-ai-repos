@@ -1,0 +1,9 @@
+name = "LightZero"
+description = "[NeurIPS 2023 Spotlight] LightZero: A Unified Benchmark for Monte Carlo Tree Search in General Sequential Decision Scenarios (awesome MCTS)"
+category = "ml-platforms"
+tags = ["alpha-beta-pruning", "alphazero", "atari", "board-games", "continuous-control", "gomoku", "monte-carlo-tree-search", "muzero"]
+repository = "https://github.com/opendilab/LightZero"
+website = "https://opendilab.github.io/LightZero"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

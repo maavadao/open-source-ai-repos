@@ -1,0 +1,8 @@
+name = "LabelMeAnnotationTool"
+description = "Source code for the LabelMe annotation tool."
+category = "vision"
+tags = ["annotation", "computer-vision"]
+repository = "https://github.com/CSAILVision/LabelMeAnnotationTool"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

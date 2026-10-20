@@ -1,0 +1,8 @@
+name = "Rainbow"
+description = "Rainbow: Combining Improvements in Deep Reinforcement Learning"
+category = "ml-platforms"
+tags = ["deep-learning", "deep-reinforcement-learning"]
+repository = "https://github.com/Kaixhin/Rainbow"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

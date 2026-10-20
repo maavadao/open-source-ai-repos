@@ -1,0 +1,8 @@
+name = "Awesome-Embedded"
+description = "A curated list of awesome embedded programming."
+category = "learning"
+tags = ["embedded", "microcontroller", "linux-programming", "rtos", "raspberry-pi", "beaglebone", "freertos", "bootloader"]
+repository = "https://github.com/nhivp/Awesome-Embedded"
+website = "https://nhivp.github.io/Awesome-Embedded/"
+license = "Unlicense"
+added = 2026-10-20

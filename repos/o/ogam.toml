@@ -1,0 +1,9 @@
+name = "OGAM"
+description = "The Swiss Army Knife of Offline AI. Chat, see, speak, and generate images on your phone or Mac — GGUF LLMs, vision, Whisper speech-to-text, Stable Diffusion, tool calling, and local-network servers. Runs on your CPU, GPU, or NPU. No account, no API key, zero data leaves your…"
+category = "mcp-servers"
+tags = ["privacy-first", "gguf", "llama-cpp", "local-ai", "edge-ai", "offline-llm", "stable-diffusion-android", "whisper-android"]
+repository = "https://github.com/off-grid-ai/OGAM"
+website = "https://getoffgridai.co/pro/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

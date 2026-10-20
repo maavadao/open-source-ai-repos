@@ -1,0 +1,8 @@
+name = "CCTV-Smartphone-AI-Monitoring"
+description = "本地监控 + AI 视觉 — LAN-based smartphone-powered AI monitoring framework with structured event output for data acquisition and analysis."
+category = "vision"
+tags = ["ai-monitoring", "computer-vision", "image-recognition-tool", "ip-camera", "multimodal", "video-streaming", "device-repurposing", "event-driven"]
+repository = "https://github.com/suzuran0y/CCTV-Smartphone-AI-Monitoring"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

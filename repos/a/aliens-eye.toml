@@ -1,0 +1,8 @@
+name = "Aliens_eye"
+description = "AI powered OSINT engine to discover and map 840+ social media identities across the web"
+category = "other"
+tags = ["osint", "python", "linux", "python3", "debain", "information", "information-gathering", "termux"]
+repository = "https://github.com/arxhr007/Aliens_eye"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

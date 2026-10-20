@@ -1,0 +1,8 @@
+name = "contrastors"
+description = "Train Models Contrastively in Pytorch"
+category = "llm-apps"
+tags = ["contrastive-learning", "deep-learning", "embeddings", "pytorch", "text-embeddings", "dense-retrieval", "transformers", "image-embeddings"]
+repository = "https://github.com/nomic-ai/contrastors"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

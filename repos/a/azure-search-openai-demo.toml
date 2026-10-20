@@ -1,0 +1,9 @@
+name = "azure-search-openai-demo"
+description = "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences."
+category = "chat"
+tags = ["azure", "azurecognitivesearch", "chatgpt", "openai", "azureopenai", "azd-templates", "azure-ai-search", "ai-azd-templates"]
+repository = "https://github.com/Azure-Samples/azure-search-openai-demo"
+website = "https://azure.microsoft.com/products/search"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

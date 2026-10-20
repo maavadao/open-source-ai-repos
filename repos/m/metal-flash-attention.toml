@@ -1,0 +1,8 @@
+name = "metal-flash-attention"
+description = "FlashAttention (Metal Port)"
+category = "image"
+tags = ["artificial-intelligence", "attention-mechanism", "high-performance-computing", "metal", "stable-diffusion", "transformer-models", "software-engineering"]
+repository = "https://github.com/philipturner/metal-flash-attention"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

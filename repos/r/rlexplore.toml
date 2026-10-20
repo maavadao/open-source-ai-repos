@@ -1,0 +1,9 @@
+name = "RLeXplore"
+description = "RLeXplore provides stable baselines of exploration methods in reinforcement learning, such as intrinsic curiosity module (ICM), random network distillation (RND) and rewarding impact-driven exploration (RIDE)."
+category = "robotics"
+tags = ["reinforcement-learning", "efficient-algorithm", "exploration-strategy", "baselines", "gym", "machine-learning", "pybullet", "pytorch"]
+repository = "https://github.com/RLE-Foundation/RLeXplore"
+website = "https://docs.rllte.dev/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

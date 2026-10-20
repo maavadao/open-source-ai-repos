@@ -1,0 +1,9 @@
+name = "slickgpt"
+description = "SlickGPT is a light-weight \"use-your-own-API-key\" web client for the OpenAI API written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers."
+category = "chat"
+tags = ["chatgpt", "chatgpt-api", "openai", "svelte", "sveltekit"]
+repository = "https://github.com/ShipBit/slickgpt"
+website = "https://slickgpt.vercel.app"
+license = "MIT"
+language = "Svelte"
+added = 2026-10-20

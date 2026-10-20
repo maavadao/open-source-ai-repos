@@ -1,0 +1,9 @@
+name = "DALLE-mtf"
+description = "Open-AI's DALL-E for large scale training in mesh-tensorflow."
+category = "image"
+tags = ["artificial-intelligence", "transformers", "multimodal", "text-to-image", "variational-autoencoder", "autoregressive"]
+repository = "https://github.com/EleutherAI/DALLE-mtf"
+website = "https://www.eleuther.ai/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

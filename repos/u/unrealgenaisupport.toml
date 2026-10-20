@@ -1,0 +1,9 @@
+name = "UnrealGenAISupport"
+description = "Unreal Engine plugin for LLM/GenAI models & MCP UE5 server. OpenAI GPT-5, Deepseek R1, Claude Opus/Sonnet, Gemini 3, Grok 4, Alibaba Qwen, Kimi, ElevenLabs TTS, Inworld, OpenRouter, Groq, GLM, Ollama, Local, Meshy, Tripo, Hunyuan3D, Rodin, fal, Dashscope, Seedream. NPC AI…"
+category = "mcp-servers"
+tags = ["claude", "deepseek", "game-development", "grok", "llm", "openai", "unreal-engine-5", "unreal-engine-plugin"]
+repository = "https://github.com/prajwalshettydev/UnrealGenAISupport"
+website = "https://muddyterrain.com/docs/"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

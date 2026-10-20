@@ -1,0 +1,9 @@
+name = "OpenKB"
+description = "OpenKB: Open LLM Knowledge Base"
+category = "agents"
+tags = ["knowledge-base", "rag", "ai", "llm", "agents", "retrieval"]
+repository = "https://github.com/VectifyAI/OpenKB"
+website = "https://pageindex.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

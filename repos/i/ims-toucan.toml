@@ -1,0 +1,8 @@
+name = "IMS-Toucan"
+description = "Controllable and fast Text-to-Speech for over 7000 languages!"
+category = "speech"
+tags = ["text-to-speech", "toolkit", "speech-synthesis", "deep-learning", "speech-processing", "tts", "pytorch", "speech"]
+repository = "https://github.com/DigitalPhonetics/IMS-Toucan"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

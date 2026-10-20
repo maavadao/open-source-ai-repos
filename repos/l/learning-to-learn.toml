@@ -1,0 +1,9 @@
+name = "learning-to-learn"
+description = "Learning to Learn in TensorFlow"
+category = "ml-platforms"
+tags = ["machine-learning", "artificial-intelligence", "neural-networks", "deep-learning"]
+repository = "https://github.com/google-deepmind/learning-to-learn"
+website = "https://arxiv.org/abs/1606.04474"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

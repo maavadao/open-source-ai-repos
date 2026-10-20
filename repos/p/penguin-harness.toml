@@ -1,0 +1,9 @@
+name = "penguin-harness"
+description = "Unified and Stable RSI Platform"
+category = "coding"
+tags = ["agent", "agentic-ai", "ai", "claude-code", "llm", "harness", "build-tool", "desktop"]
+repository = "https://github.com/Prism-Shadow/penguin-harness"
+website = "https://penguin.ooo/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

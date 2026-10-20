@@ -1,0 +1,8 @@
+name = "mjrl"
+description = "Reinforcement learning algorithms for MuJoCo tasks"
+category = "robotics"
+tags = ["reinforcement-learning", "mujoco", "simulation", "robotics"]
+repository = "https://github.com/aravindr93/mjrl"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

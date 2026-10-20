@@ -1,0 +1,9 @@
+name = "MARS5-TTS"
+description = "MARS5 speech model (TTS) from CAMB.AI"
+category = "speech"
+tags = ["prosody", "speech", "speech-synthesis", "text-to-speech", "voice-cloneai", "voice-cloning"]
+repository = "https://github.com/Camb-ai/MARS5-TTS"
+website = "https://www.camb.ai"
+license = "AGPL-3.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "txtchat"
+description = "Local chat assistants with AI superpowers"
+category = "llm-apps"
+tags = ["machine-learning", "nlp", "python", "search", "txtai", "rag", "retrieval-augmented-generation", "large-language-models"]
+repository = "https://github.com/neuml/txtchat"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

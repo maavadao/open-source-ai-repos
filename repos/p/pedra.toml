@@ -1,0 +1,8 @@
+name = "PEDRA"
+description = "Programmable Engine for Drone Reinforcement Learning Applications"
+category = "robotics"
+tags = ["drone", "reinforcement-learning", "unreal-engine", "programmable-engine", "airsim", "python"]
+repository = "https://github.com/aqeelanwar/PEDRA"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

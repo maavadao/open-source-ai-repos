@@ -1,0 +1,9 @@
+name = "Vibe-Trading"
+description = "\"Vibe-Trading: Your Personal Trading Agent\""
+category = "mcp-servers"
+tags = ["backtesting", "multi-agent", "quantitative-finance", "trading", "ai-agent", "algorithmic-trading", "fintech", "llm"]
+repository = "https://github.com/HKUDS/Vibe-Trading"
+website = "https://vibetrading.wiki/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

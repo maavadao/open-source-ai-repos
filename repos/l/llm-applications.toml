@@ -1,0 +1,8 @@
+name = "llm-applications"
+description = "A comprehensive guide to building RAG-based LLM applications for production."
+category = "local-llms"
+tags = ["llms", "machine-learning", "ray", "anyscale", "fine-tuning", "llama2", "openai", "serving"]
+repository = "https://github.com/ray-project/llm-applications"
+license = "CC-BY-4.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "harbor"
+description = "Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore."
+category = "mcp-servers"
+tags = ["cli", "docker", "docker-compose", "llm", "tools", "ai", "self-hosted", "tool"]
+repository = "https://github.com/av/harbor"
+website = "https://discord.gg/8nDRphrhSF"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "braviaprime"
+description = "...short biography"
+category = "vision"
+tags = ["proctoring-ai", "algorithms", "behavioral", "context-aware-ai", "explainable-ai", "multimodal", "real-time", "software-development"]
+repository = "https://github.com/braviaprime/braviaprime"
+website = "https://github.com/braviadev/braviadev"
+license = "NOASSERTION"
+added = 2026-10-20

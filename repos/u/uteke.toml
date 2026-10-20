@@ -1,0 +1,9 @@
+name = "uteke"
+description = "The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embeddings. Single Rust binary, zero config, fully offline."
+category = "mcp-servers"
+tags = ["ai", "cli", "embeddings", "hnsw", "local-first", "memory", "rust", "sqlite"]
+repository = "https://github.com/codecoradev/uteke"
+website = "https://codecora.dev"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

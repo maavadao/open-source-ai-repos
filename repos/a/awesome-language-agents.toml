@@ -1,0 +1,9 @@
+name = "awesome-language-agents"
+description = "List of language agents based on paper \"Cognitive Architectures for Language Agents\""
+category = "learning"
+tags = ["artificial-intelligence", "awesome-list", "language-agent", "language-model", "llm", "natural-language-processing"]
+repository = "https://github.com/ysymyth/awesome-language-agents"
+website = "https://arxiv.org/abs/2309.02427"
+license = "NOASSERTION"
+language = "TeX"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "chat-js"
+description = "Production-ready AI chat. Start here and make it your own. Formerly Sparka AI"
+category = "chat"
+tags = ["ai", "anthropic", "chat", "chatbot", "chatgpt", "gemini", "grok", "llm"]
+repository = "https://github.com/FranciscoMoretti/chat-js"
+website = "https://chatjs.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

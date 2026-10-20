@@ -1,0 +1,8 @@
+name = "Ad-papers"
+description = "Papers on Computational Advertising"
+category = "ml-platforms"
+tags = ["computational-advertising", "machine-learning", "ctr-prediction", "deep-learning", "advertising", "recommender-system", "papers"]
+repository = "https://github.com/wzhe06/Ad-papers"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

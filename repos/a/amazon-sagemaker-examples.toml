@@ -1,0 +1,9 @@
+name = "amazon-sagemaker-examples"
+description = "Example Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using Amazon SageMaker."
+category = "learning"
+tags = ["sagemaker", "aws", "reinforcement-learning", "machine-learning", "deep-learning", "examples", "jupyter-notebook", "mlops"]
+repository = "https://github.com/aws/amazon-sagemaker-examples"
+website = "https://sagemaker-examples.readthedocs.io"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

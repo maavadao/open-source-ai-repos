@@ -1,0 +1,7 @@
+name = "awesome-nerf-editing"
+description = "🏻A list of papers curated for you to dive into the Awesome Radiance Field-based 3D Editing."
+category = "learning"
+tags = ["computer-graphics", "computer-vision", "editing", "nerf", "3dgs"]
+repository = "https://github.com/EricLee0224/awesome-nerf-editing"
+license = "MIT"
+added = 2026-10-20

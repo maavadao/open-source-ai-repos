@@ -1,0 +1,8 @@
+name = "agentcontrolplane"
+description = "ACP is the Agent Control Plane - a distributed agent scheduler optimized for simplicity, clarity, and control. It is designed for outer-loop agents that run without supervision, and make asynchronous tool calls like requesting human feedback on key operations. Full MCP support."
+category = "mcp-servers"
+tags = ["agents", "human-in-the-loop", "kubernetes", "llms", "orchestration", "framework", "outer-loops", "mcp"]
+repository = "https://github.com/humanlayer/agentcontrolplane"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

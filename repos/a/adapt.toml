@@ -1,0 +1,8 @@
+name = "adapt"
+description = "Adapt Intent Parser"
+category = "speech"
+tags = ["intent-parser", "speech-to-text", "speech-recognition", "opensource", "open-source", "intents"]
+repository = "https://github.com/MycroftAI/adapt"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

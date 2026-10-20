@@ -1,0 +1,9 @@
+name = "disco_rl"
+description = "Accompanying code for \"Discovering State-of-the-art Reinforcement Algorithms\" Nature publication"
+category = "ml-platforms"
+tags = ["ai", "meta-learning", "nature", "reinforcement-learning", "reinforcement-learning-algorithms"]
+repository = "https://github.com/google-deepmind/disco_rl"
+website = "https://google-deepmind.github.io/disco_rl"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

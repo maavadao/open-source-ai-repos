@@ -1,0 +1,8 @@
+name = "trading-bot"
+description = "Stock Trading Bot using Deep Q-Learning"
+category = "agents"
+tags = ["stock-price-prediction", "stock-trading", "ai-agents", "reinforcement-learning", "q-learning", "deep-q-learning", "stock-trading-bot", "trading-bot"]
+repository = "https://github.com/pskrunner14/trading-bot"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

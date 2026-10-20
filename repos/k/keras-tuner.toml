@@ -1,0 +1,9 @@
+name = "keras-tuner"
+description = "A Hyperparameter Tuning Library for Keras"
+category = "ml-platforms"
+tags = ["automl", "deep-learning", "hyperparameter-optimization", "keras", "machine-learning", "tensorflow"]
+repository = "https://github.com/keras-team/keras-tuner"
+website = "https://keras.io/keras_tuner/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

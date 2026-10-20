@@ -1,0 +1,8 @@
+name = "Image-OutPainting"
+description = "Keras Implementation of Painting outside the box"
+category = "vision"
+tags = ["gans", "keras", "image-outpainting", "deep-learning", "computer-vision", "tensorflow", "python"]
+repository = "https://github.com/bendangnuksung/Image-OutPainting"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

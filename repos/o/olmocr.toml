@@ -1,0 +1,9 @@
+name = "olmocr"
+description = "Toolkit for linearizing PDFs for LLM datasets/training"
+category = "documents"
+repository = "https://github.com/allenai/olmocr"
+website = "https://olmocr.allenai.org"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

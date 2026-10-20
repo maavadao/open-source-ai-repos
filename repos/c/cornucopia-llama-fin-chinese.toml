@@ -1,0 +1,9 @@
+name = "Cornucopia-LLaMA-Fin-Chinese"
+description = "聚宝盆(Cornucopia): 中文金融系列开源可商用大模型，并提供一套高效轻量化的垂直领域LLM训练框架(Pretraining、SFT、RLHF、Quantize等)"
+category = "models"
+tags = ["llama", "nlp", "chinese", "finance", "rlhf", "sft", "qa", "text-generation"]
+repository = "https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese"
+website = "https://zhuanlan.zhihu.com/p/633736418"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

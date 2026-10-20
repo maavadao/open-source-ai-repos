@@ -1,0 +1,7 @@
+name = "whisper-standalone-win"
+description = "Whisper & Faster-Whisper standalone executables for those who don't want to bother with Python."
+category = "speech"
+tags = ["openai", "speech-to-text", "transcriber", "whisper", "asr", "speech-recognition", "subtitles", "ctranslate2"]
+repository = "https://github.com/Purfview/whisper-standalone-win"
+license = "NOASSERTION"
+added = 2026-10-20

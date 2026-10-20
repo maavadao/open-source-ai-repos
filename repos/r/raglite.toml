@@ -1,0 +1,8 @@
+name = "raglite"
+description = "RAGLite is a Python toolkit for Retrieval-Augmented Generation (RAG) with DuckDB or PostgreSQL"
+category = "vector-databases"
+tags = ["llm", "markdown", "pdf", "rag", "retrieval-augmented-generation", "sqlite", "vector-search", "pgvector"]
+repository = "https://github.com/superlinear-ai/raglite"
+license = "MPL-2.0"
+language = "Python"
+added = 2026-10-20

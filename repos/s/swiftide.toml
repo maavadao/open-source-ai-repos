@@ -1,0 +1,9 @@
+name = "swiftide"
+description = "Fast, streaming indexing, query, and agentic LLM applications in Rust"
+category = "agents"
+tags = ["indexing", "llm", "rag", "ai", "data", "ml", "llmops", "genai"]
+repository = "https://github.com/bosun-ai/swiftide"
+website = "https://swiftide.rs"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

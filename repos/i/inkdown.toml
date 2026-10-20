@@ -1,0 +1,8 @@
+name = "inkdown"
+description = "Inkdown is a WYSIWYG editor and an LLM dialogue tool, fully compatible with GitHub Flavored Markdown Spec."
+category = "chat"
+tags = ["docs-generator", "electron", "markdown", "notes-app", "wysiwyg", "mardown-editor", "slatejs", "chatbot"]
+repository = "https://github.com/1943time/inkdown"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

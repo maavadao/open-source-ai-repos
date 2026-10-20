@@ -1,0 +1,9 @@
+name = "alethe-agents"
+description = "A local-first desktop workspace for running, organizing, and resuming multiple coding agents and shells with real PTYs, split panes, persistent layouts, and local session history."
+category = "coding"
+tags = ["agents", "claude-code", "codex", "ai", "orquestration"]
+repository = "https://github.com/Kc1t/alethe-agents"
+website = "https://alethe-agents.kc1t.com/"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "discoart"
+description = "Create Disco Diffusion artworks in one line"
+category = "skills-prompts"
+tags = ["creative-ai", "disco-diffusion", "cross-modal", "dalle", "generative-art", "multimodal", "diffusion", "prompts"]
+repository = "https://github.com/jina-ai/discoart"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

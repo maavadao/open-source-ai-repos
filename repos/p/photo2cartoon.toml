@@ -1,0 +1,8 @@
+name = "photo2cartoon"
+description = "人像卡通化探索项目 (photo-to-cartoon translation project)"
+category = "vision"
+tags = ["cartoon", "deep-learning", "computer-vision", "gan", "avatar-generator"]
+repository = "https://github.com/minivision-ai/photo2cartoon"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

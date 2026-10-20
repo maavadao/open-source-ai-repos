@@ -1,0 +1,8 @@
+name = "gpt-code-ui"
+description = "An open source implementation of OpenAI's ChatGPT Code interpreter"
+category = "chat"
+tags = ["chatgpt", "gpt", "llms", "openai"]
+repository = "https://github.com/ricklamers/gpt-code-ui"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

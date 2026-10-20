@@ -1,0 +1,8 @@
+name = "attention-is-all-you-need-pytorch"
+description = "A PyTorch implementation of the Transformer model in \"Attention is All You Need\"."
+category = "ml-platforms"
+tags = ["attention", "deep-learning", "attention-is-all-you-need", "pytorch", "nlp", "natural-language-processing"]
+repository = "https://github.com/jadore801120/attention-is-all-you-need-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

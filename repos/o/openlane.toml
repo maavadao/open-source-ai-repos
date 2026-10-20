@@ -1,0 +1,8 @@
+name = "OpenLane"
+description = "[ECCV 2022 Oral] OpenLane: Large-scale Realistic 3D Lane Dataset"
+category = "robotics"
+tags = ["dataset", "deep-learning", "lane-detection", "autonomous-driving"]
+repository = "https://github.com/OpenDriveLab/OpenLane"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

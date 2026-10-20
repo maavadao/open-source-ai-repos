@@ -1,0 +1,8 @@
+name = "RelayDiffusion"
+description = "The official implementation of \"Relay Diffusion: Unifying diffusion process across resolutions for image synthesis\" [ICLR 2024 Spotlight]"
+category = "image"
+tags = ["diffusion-models", "generative-model", "image-synthesis", "machine-learning"]
+repository = "https://github.com/zai-org/RelayDiffusion"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

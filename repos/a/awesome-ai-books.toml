@@ -1,0 +1,8 @@
+name = "awesome-AI-books"
+description = "Some awesome AI related books and pdfs for learning and downloading, also apply some playground models for learning"
+category = "learning"
+tags = ["books", "pdf", "ai", "artificial-intelligence", "machine-learning", "deep-learning", "mathematics", "data-mining"]
+repository = "https://github.com/zslucky/awesome-AI-books"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "chandra"
+description = "OCR model that handles complex tables, forms, handwriting with full layout."
+category = "documents"
+tags = ["ai", "ocr"]
+repository = "https://github.com/datalab-to/chandra"
+website = "https://www.datalab.to"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

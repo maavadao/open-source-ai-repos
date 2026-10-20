@@ -1,0 +1,9 @@
+name = "awesome-agentic-world-model"
+description = "Quo Vadis, World Modeling? Towards Interactive World Proxies for Continually Improving Agents"
+category = "learning"
+tags = ["agent", "agentic", "agentic-ai", "agentic-world-model", "agents", "world-model", "world-modeling", "world-models"]
+repository = "https://github.com/worldbench/awesome-agentic-world-model"
+website = "https://worldbench.github.io/awesome-agentic-world-model"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

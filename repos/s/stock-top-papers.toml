@@ -1,0 +1,7 @@
+name = "stock-top-papers"
+description = "Top paper collection for stock price prediction, quantitative trading. Covering top conferences and journals like KDD, WWW, CIKM, AAAI, IJCAI, ACL, EMNLP."
+category = "ml-platforms"
+tags = ["deep-learning", "paper-code-dataset", "paper-collection", "quantitative-trading", "reinforcement-learning", "stock-price-prediction", "stock-trading"]
+repository = "https://github.com/marcuswang6/stock-top-papers"
+license = "Apache-2.0"
+added = 2026-10-20

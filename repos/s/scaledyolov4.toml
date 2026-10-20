@@ -1,0 +1,8 @@
+name = "ScaledYOLOv4"
+description = "Scaled-YOLOv4: Scaling Cross Stage Partial Network"
+category = "vision"
+tags = ["machine-learning", "deep-learning", "ml", "pytorch", "yolo", "object-detection", "yolov3", "yolov4"]
+repository = "https://github.com/WongKinYiu/ScaledYOLOv4"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

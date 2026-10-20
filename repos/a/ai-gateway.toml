@@ -1,0 +1,9 @@
+name = "AI-Gateway"
+description = "Labs to explore AI Models, MCP servers, and Agents with the AI Gateway powered by Azure API Management and Microsoft Foundry"
+category = "mcp-servers"
+tags = ["apimanagement", "azure", "openai", "openai-api", "genai", "agents", "autogen", "foundry"]
+repository = "https://github.com/Azure-Samples/AI-Gateway"
+website = "https://aka.ms/ai-gateway/labs"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

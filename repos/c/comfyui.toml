@@ -1,0 +1,10 @@
+name = "ComfyUI"
+description = "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world."
+category = "image"
+tags = ["stable-diffusion", "pytorch", "ai", "python", "comfy", "comfyui"]
+repository = "https://github.com/Comfy-Org/ComfyUI"
+website = "https://www.comfy.org"
+license = "GPL-3.0"
+language = "Python"
+skill_level = "advanced"
+added = 2026-10-20

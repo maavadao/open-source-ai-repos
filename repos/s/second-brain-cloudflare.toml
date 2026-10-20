@@ -1,0 +1,9 @@
+name = "second-brain-cloudflare"
+description = "One memory layer, every AI tool. Store anything once — recall it in Claude, ChatGPT, Cursor, or any MCP client. Self-hosted on Cloudflare's free tier."
+category = "mcp-servers"
+tags = ["ai-memory", "claude", "claude-ai", "claude-code", "cloudflare", "cloudflare-workers", "d1", "mcp"]
+repository = "https://github.com/rahilp/second-brain-cloudflare"
+website = "https://www.thesecondbrain.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

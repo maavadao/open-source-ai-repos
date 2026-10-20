@@ -1,0 +1,7 @@
+name = "openplayground"
+description = "An LLM playground you can run on your laptop"
+category = "models"
+repository = "https://github.com/nat/openplayground"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

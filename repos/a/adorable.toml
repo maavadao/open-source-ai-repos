@@ -1,0 +1,8 @@
+name = "Adorable"
+description = "Open Source Lovable"
+category = "coding"
+tags = ["agents", "ai", "code-generation"]
+repository = "https://github.com/freestyle-sh/Adorable"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

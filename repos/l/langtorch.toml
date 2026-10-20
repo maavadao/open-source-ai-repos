@@ -1,0 +1,9 @@
+name = "langtorch"
+description = "Building composable LLM applications & workflow with Java."
+category = "chat"
+tags = ["chatgpt", "langchain", "large-language-models", "llm", "openai", "chatgpt-plugins", "langtorch", "chain-of-thought"]
+repository = "https://github.com/li2109/langtorch"
+website = "https://knowly-ai.gitbook.io/langtorch"
+license = "MIT"
+language = "Java"
+added = 2026-10-20

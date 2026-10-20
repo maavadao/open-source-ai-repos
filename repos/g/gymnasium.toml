@@ -1,0 +1,10 @@
+name = "Gymnasium"
+description = "A standard API for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)"
+category = "robotics"
+tags = ["api", "gym", "reinforcement-learning"]
+repository = "https://github.com/Farama-Foundation/Gymnasium"
+website = "https://gymnasium.farama.org"
+license = "MIT"
+language = "Python"
+skill_level = "beginner"
+added = 2026-10-20

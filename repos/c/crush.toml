@@ -1,0 +1,8 @@
+name = "crush"
+description = "Glamourous agentic coding for all"
+category = "agents"
+tags = ["agentic-ai", "ai", "llms", "ravishing"]
+repository = "https://github.com/charmbracelet/crush"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

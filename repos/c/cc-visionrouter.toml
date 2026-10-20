@@ -1,0 +1,8 @@
+name = "cc-VisionRouter"
+description = "Transparent proxy for Claude Code that auto-routes image-bearing requests to a multimodal model — so a non-multimodal primary model never crashes your long-running sessions."
+category = "coding"
+tags = ["anthropic", "ccswitch", "claude-code", "cli", "llm", "mimo", "multimodal", "proxy"]
+repository = "https://github.com/Able-rip/cc-VisionRouter"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

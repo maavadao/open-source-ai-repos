@@ -1,0 +1,8 @@
+name = "AIOS"
+description = "AIOS: AI Agent Operating System"
+category = "agents"
+repository = "https://github.com/agiresearch/AIOS"
+website = "https://docs.aios.foundation"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "codex-orange-book"
+description = "OpenAI Codex: The Complete Guide · 橙皮书系列 · GPT-5.5 时代的 AI 编程实战手册"
+category = "learning"
+tags = ["agentic-coding", "ai-coding", "codex", "gpt-5", "openai", "orange-book", "huasheng"]
+repository = "https://github.com/alchaincyf/codex-orange-book"
+website = "https://www.huasheng.ai/orange-books/codex"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

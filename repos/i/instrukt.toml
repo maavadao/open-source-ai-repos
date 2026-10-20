@@ -1,0 +1,9 @@
+name = "Instrukt"
+description = "Integrated AI environment in the terminal. Build, test and instruct agents."
+category = "agents"
+tags = ["ai", "containers", "gpt", "langchain", "llm", "terminal", "tui", "agent-executor"]
+repository = "https://github.com/blob42/Instrukt"
+website = "https://blob42.github.io/Instrukt/"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

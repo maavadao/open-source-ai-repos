@@ -1,0 +1,9 @@
+name = "com.openai.unity"
+description = "A Non-Official OpenAI Rest Client for Unity (UPM)"
+category = "models"
+tags = ["upm", "upm-package", "unity", "unity3d", "openai", "open-ai", "openupm", "ai"]
+repository = "https://github.com/RageAgainstThePixel/com.openai.unity"
+website = "https://openai.com"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

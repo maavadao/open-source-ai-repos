@@ -1,0 +1,8 @@
+name = "pg-aiguide"
+description = "MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code."
+category = "mcp-servers"
+tags = ["ai", "ai-agents", "ai-coding", "claude-marketplace", "claude-plugin", "claude-skills", "docs", "documentation"]
+repository = "https://github.com/timescale/pg-aiguide"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

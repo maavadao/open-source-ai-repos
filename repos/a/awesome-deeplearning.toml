@@ -1,0 +1,8 @@
+name = "awesome-DeepLearning"
+description = "深度学习入门课、资深课、特色课、学术案例、产业实践案例、深度学习知识百科及面试题库The course, case and knowledge of Deep Learning and AI"
+category = "learning"
+tags = ["cnn", "rnn", "detection", "classification", "gan", "video", "segmentation", "pose"]
+repository = "https://github.com/PaddlePaddle/awesome-DeepLearning"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

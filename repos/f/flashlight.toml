@@ -1,0 +1,9 @@
+name = "flashlight"
+description = "A C++ standalone library for machine learning"
+category = "ml-platforms"
+tags = ["flashlight", "machine-learning", "autograd", "cpp", "deep-learning", "neural-network", "ml"]
+repository = "https://github.com/flashlight/flashlight"
+website = "https://fl.readthedocs.io/en/latest/"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

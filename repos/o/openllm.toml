@@ -1,0 +1,10 @@
+name = "OpenLLM"
+description = "Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud."
+category = "local-llms"
+tags = ["llm", "llmops", "model-inference", "fine-tuning", "llm-serving", "llama", "vicuna", "bentoml"]
+repository = "https://github.com/bentoml/OpenLLM"
+website = "https://bentoml.com"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "beginner"
+added = 2026-10-20

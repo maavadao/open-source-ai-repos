@@ -1,0 +1,8 @@
+name = "langconnect-client"
+description = "A Modern GUI Interface for Vector Database Management(Supports MCP integration)"
+category = "mcp-servers"
+tags = ["langchain", "mcp", "postgresql", "vector-database"]
+repository = "https://github.com/braincrew-lab/langconnect-client"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

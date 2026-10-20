@@ -1,0 +1,9 @@
+name = "repochat"
+description = "Chatbot assistant enabling GitHub repository interaction using LLMs with Retrieval Augmented Generation"
+category = "chat"
+tags = ["chat-application", "deeplake", "github", "langchain", "openai", "streamlit", "code-llama", "huggingface"]
+repository = "https://github.com/pnkvalavala/repochat"
+website = "https://repochat.streamlit.app"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

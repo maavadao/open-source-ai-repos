@@ -1,0 +1,8 @@
+name = "BallonsTranslator"
+description = "深度学习辅助漫画翻译工具, 支持一键机翻和简单的图像/文本编辑 | Yet another computer-aided comic/manga translation tool powered by deeplearning"
+category = "documents"
+tags = ["comics", "computer-aided-translation", "deep-learning", "manga", "ocr", "scene-text-detection", "inpainting", "pytorch"]
+repository = "https://github.com/dmMaze/BallonsTranslator"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

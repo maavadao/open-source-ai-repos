@@ -1,0 +1,8 @@
+name = "SolidGPT"
+description = "Developer AI Persona Search Agent"
+category = "coding"
+tags = ["gpt-4", "llm", "solidgpt", "developer-tools", "codechat", "copilot", "glean", "notion"]
+repository = "https://github.com/AI-Citizen/SolidGPT"
+license = "CC-BY-4.0"
+language = "Python"
+added = 2026-10-20

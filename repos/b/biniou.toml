@@ -1,0 +1,8 @@
+name = "biniou"
+description = "a self-hosted webui for 30+ generative ai"
+category = "speech"
+tags = ["bark", "controlnet", "gfpgan", "gradio", "huggingface", "insightface", "kandinsky", "real-esrgan"]
+repository = "https://github.com/Woolverine94/biniou"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

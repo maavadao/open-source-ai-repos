@@ -1,0 +1,8 @@
+name = "cv"
+description = "Rust CV mono-repo. Contains pure-Rust dependencies which attempt to encapsulate the capability of OpenCV, OpenMVG, and vSLAM frameworks in a cohesive set of APIs."
+category = "vision"
+tags = ["rust-cv", "computer-vision", "algorithms", "crates"]
+repository = "https://github.com/rust-cv/cv"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

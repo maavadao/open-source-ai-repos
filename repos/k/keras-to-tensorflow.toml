@@ -1,0 +1,8 @@
+name = "keras_to_tensorflow"
+description = "General code to convert a trained keras model into an inference tensorflow model"
+category = "ml-platforms"
+tags = ["machine-learning", "deep-learning", "keras", "tensorflow", "python"]
+repository = "https://github.com/amir-abdi/keras_to_tensorflow"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

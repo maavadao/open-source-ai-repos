@@ -1,0 +1,9 @@
+name = "awesome-ai-ppt"
+description = "A curated list of AI PPT, PowerPoint automation, PPTX editing, and slide workflow tools."
+category = "learning"
+tags = ["ai", "awesome", "awesome-list", "generative-ai", "powerpoint", "pptx", "presentation", "slides"]
+repository = "https://github.com/ningzimu/awesome-ai-ppt"
+website = "https://ningzimu.github.io/awesome-ai-ppt/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

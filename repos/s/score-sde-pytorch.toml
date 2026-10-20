@@ -1,0 +1,9 @@
+name = "score_sde_pytorch"
+description = "PyTorch implementation for Score-Based Generative Modeling through Stochastic Differential Equations (ICLR 2021, Oral)"
+category = "image"
+tags = ["pytorch", "stochastic-differential-equations", "inverse-problems", "generative-models", "score-matching", "score-based-generative-modeling", "controllable-generation", "iclr-2021"]
+repository = "https://github.com/yang-song/score_sde_pytorch"
+website = "https://arxiv.org/abs/2011.13456"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

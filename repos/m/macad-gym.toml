@@ -1,0 +1,9 @@
+name = "macad-gym"
+description = "Multi-Agent Connected Autonomous Driving (MACAD) Gym environments for Deep RL. Code for the paper presented in the Machine Learning for Autonomous Driving Workshop at NeurIPS 2019"
+category = "robotics"
+tags = ["multi-agent-reinforcement-learning", "autonomous-driving", "multi-agent-autonomous-driving", "carla-gym", "macad-gym", "carla", "carla-rl", "carla-reinforcement-learning"]
+repository = "https://github.com/praveen-palanisamy/macad-gym"
+website = "https://arxiv.org/abs/1911.04175"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

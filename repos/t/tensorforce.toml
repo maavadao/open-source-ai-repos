@@ -1,0 +1,8 @@
+name = "tensorforce"
+description = "Tensorforce: a TensorFlow library for applied reinforcement learning"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "tensorflow", "deep-reinforcement-learning", "tensorflow-library", "tensorforce", "control", "system-control"]
+repository = "https://github.com/tensorforce/tensorforce"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "video-search-and-summarization"
+description = "NVIDIA AI Blueprint for video search and summarization (VSS) is a GPU-accelerated reference architecture for building video analytics agents with real-time verified alerts, visual Q&A, and automated reporting. The VSS Blueprint uses vision language models (VLMs) such as…"
+category = "mcp-servers"
+tags = ["rag", "vlm", "skills", "video-analytics", "video-search", "computer-vision", "generative-ai", "long-video-understanding"]
+repository = "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization"
+website = "https://build.nvidia.com/nvidia/video-search-and-summarization"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

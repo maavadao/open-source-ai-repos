@@ -1,0 +1,8 @@
+name = "PaddleViT"
+description = "PaddleViT: State-of-the-art Visual Transformer and MLP Models for PaddlePaddle 2.0+"
+category = "vision"
+tags = ["cv", "computer-vision", "paddlepaddle", "vit", "mlp", "transformer", "encoder-decoder", "classification"]
+repository = "https://github.com/BR-IDL/PaddleViT"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "PaLM-pytorch"
+description = "Implementation of the specific Transformer architecture from PaLM - Scaling Language Modeling with Pathways"
+category = "models"
+tags = ["deep-learning", "transformers", "attention-mechanism", "artificial-general-intelligence"]
+repository = "https://github.com/lucidrains/PaLM-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

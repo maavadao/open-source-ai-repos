@@ -1,0 +1,8 @@
+name = "Awesome-LLM-Inference"
+description = "A curated list of Awesome LLM/VLM Inference Papers with Codes: Flash-Attention, Paged-Attention, WINT8/4, Parallelism, etc."
+category = "learning"
+tags = ["flash-attention", "paged-attention", "tensorrt-llm", "vllm", "awesome-llm", "llm-inference", "deepseek", "flash-attention-3"]
+repository = "https://github.com/xlite-dev/Awesome-LLM-Inference"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

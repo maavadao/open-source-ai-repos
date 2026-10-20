@@ -1,0 +1,9 @@
+name = "langgraph-swarm-py"
+description = "For your multi-agent needs"
+category = "agents"
+tags = ["agents", "langgraph", "llms", "multiagent", "multiagent-systems", "python"]
+repository = "https://github.com/langchain-ai/langgraph-swarm-py"
+website = "https://langchain-ai.github.io/langgraph/concepts/multi_agent/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

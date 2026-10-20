@@ -1,0 +1,8 @@
+name = "doccano"
+description = "Open source annotation tool for machine learning practitioners."
+category = "data-science"
+tags = ["natural-language-processing", "machine-learning", "annotation-tool", "python", "datasets", "dataset", "data-labeling", "text-annotation"]
+repository = "https://github.com/doccano/doccano"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

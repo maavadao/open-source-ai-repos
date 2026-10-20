@@ -1,0 +1,9 @@
+name = "whispering-ui"
+description = "Native UI for the Whispering Tiger project - https://github.com/Sharrnah/whispering (live transcription / translation)"
+category = "speech"
+tags = ["ai", "speech-recognition", "transcribe", "translate", "translator", "tts", "whisper-ai"]
+repository = "https://github.com/Sharrnah/whispering-ui"
+website = "https://whispering-tiger.github.io/"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

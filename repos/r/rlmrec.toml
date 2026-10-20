@@ -1,0 +1,9 @@
+name = "RLMRec"
+description = "[WWW'2024] \"RLMRec: Representation Learning with Large Language Models for Recommendation\""
+category = "models"
+tags = ["collaborative-filtering", "graph-neural-networks", "large-language-models", "recommendation", "recommender-systems"]
+repository = "https://github.com/HKUDS/RLMRec"
+website = "https://arxiv.org/abs/2310.15950"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

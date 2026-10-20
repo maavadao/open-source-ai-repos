@@ -1,0 +1,8 @@
+name = "machine-learning-list"
+description = "A curriculum for learning about foundation models, from scratch to the frontier"
+category = "learning"
+tags = ["artificial-intelligence", "language-model", "machine-learning", "transformers"]
+repository = "https://github.com/elicit/machine-learning-list"
+website = "https://elicit.com/careers"
+license = "NOASSERTION"
+added = 2026-10-20

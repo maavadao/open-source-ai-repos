@@ -1,0 +1,9 @@
+name = "CloakBrowser"
+description = "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 50+ tests passed."
+category = "browser-automation"
+tags = ["anti-detect", "bot-detection", "browser-automation", "chromium", "cloudflare", "fingerprint", "playwright", "recaptcha"]
+repository = "https://github.com/CloakHQ/CloakBrowser"
+website = "https://cloakbrowser.dev/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

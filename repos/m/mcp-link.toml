@@ -1,0 +1,9 @@
+name = "mcp-link"
+description = "Convert Any OpenAPI V3 API to MCP Server"
+category = "mcp-servers"
+tags = ["agents", "mcp", "mcp-server"]
+repository = "https://github.com/automation-ai-labs/mcp-link"
+website = "https://mcp-link.vercel.app"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

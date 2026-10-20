@@ -1,0 +1,9 @@
+name = "spacebot"
+description = "An AI agent for teams, communities, and multi-user environments."
+category = "no-code"
+tags = ["agent", "ai", "agentic", "automation", "enterprise", "messaging", "developer-tools"]
+repository = "https://github.com/spacedriveapp/spacebot"
+website = "https://spacebot.sh"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

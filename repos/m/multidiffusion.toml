@@ -1,0 +1,9 @@
+name = "MultiDiffusion"
+description = "Official Pytorch Implementation for \"MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation\" presenting \"MultiDiffusion\" (ICML 2023)"
+category = "image"
+tags = ["diffusion-models", "generative-model", "image-generation", "stable-diffusion", "text-to-image", "multidiffusion", "icml"]
+repository = "https://github.com/omerbt/MultiDiffusion"
+website = "https://multidiffusion.github.io/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "OpenMinis"
+description = "OpenMinis — The AI Agent app across platforms. Fully free and open source."
+category = "agents"
+repository = "https://github.com/OpenMinis/OpenMinis"
+website = "https://openminis.app"
+license = "GPL-3.0"
+language = "Swift"
+added = 2026-10-20

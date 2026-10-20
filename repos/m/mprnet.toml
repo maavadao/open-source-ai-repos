@@ -1,0 +1,8 @@
+name = "MPRNet"
+description = "[CVPR 2021] Multi-Stage Progressive Image Restoration. SOTA results for Image deblurring, deraining, and denoising."
+category = "vision"
+tags = ["image-deblurring", "image-denoising", "image-deraining", "low-level-vision", "computer-vision", "image-restoration", "multistage-network", "progressive-restoration"]
+repository = "https://github.com/swz30/MPRNet"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

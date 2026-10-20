@@ -1,0 +1,9 @@
+name = "mirobody"
+description = "Turn scattered health data into answers you can trace. Self-hosted AI health data engine for lab reports, wearables and genetics, with a built-in MCP server. Run it with Docker and one LLM key, or keep every model local on llama.cpp."
+category = "mcp-servers"
+tags = ["ai-agents", "health-data", "lab-reports", "self-hosted", "wearables", "apple-health", "digital-health", "healthcare-ai"]
+repository = "https://github.com/thetahealth/mirobody"
+website = "https://mirobody.ai/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

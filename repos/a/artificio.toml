@@ -1,0 +1,8 @@
+name = "artificio"
+description = "Deep Learning Computer Vision Algorithms for Real-World Use"
+category = "vision"
+tags = ["deep-learning", "neural-networks", "applications", "artificial-intelligence", "auto-encoders", "convolutional-neural-networks", "image-finder", "transfer-learning"]
+repository = "https://github.com/ankonzoid/artificio"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

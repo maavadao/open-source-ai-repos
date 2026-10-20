@@ -1,0 +1,9 @@
+name = "Video-ChatGPT"
+description = "[ACL 2024 ] Video-ChatGPT is a video conversation model capable of generating meaningful conversation about videos. It combines the capabilities of LLMs with a pretrained visual encoder adapted for spatiotemporal video representation. We also introduce a rigorous…"
+category = "chat"
+tags = ["chatbot", "clip", "gpt-4", "llama", "llava", "mulit-modal", "vicuna", "vision-language"]
+repository = "https://github.com/mbzuai-oryx/Video-ChatGPT"
+website = "https://mbzuai-oryx.github.io/Video-ChatGPT"
+license = "CC-BY-4.0"
+language = "Python"
+added = 2026-10-20

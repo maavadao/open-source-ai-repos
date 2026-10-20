@@ -1,0 +1,7 @@
+name = "awesome-machine-learning-robotics"
+description = "A curated list of resources about Machine Learning for Robotics"
+category = "learning"
+tags = ["robotics", "machine-learning", "deep-learning", "reinforcement-learning", "curriculum-learning", "approximate-inference", "deep-reinforcement-learning", "awesome"]
+repository = "https://github.com/Phylliade/awesome-machine-learning-robotics"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "crawlee-python"
+description = "Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Parsel, BeautifulSoup, Playwright, and raw HTTP. Both headful and…"
+category = "browser-automation"
+tags = ["apify", "automation", "beautifulsoup", "crawler", "crawling", "headless", "headless-chrome", "pip"]
+repository = "https://github.com/apify/crawlee-python"
+website = "https://crawlee.dev/python/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

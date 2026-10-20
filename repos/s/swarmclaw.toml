@@ -1,0 +1,9 @@
+name = "swarmclaw"
+description = "Open-source self-hosted AI agent runtime and multi-agent framework for autonomous agent swarms. Agent memory, MCP tools, schedules, delegation, and 23+ LLM providers (Claude, GPT, Gemini, OpenRouter, Ollama). A practical Claude Code and LangChain alternative."
+category = "mcp-servers"
+tags = ["openclaw", "ai", "orchestration", "agent-framework", "agents", "ai-agents", "autonomous-agents", "claude"]
+repository = "https://github.com/swarmclawai/swarmclaw"
+website = "https://www.swarmclaw.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

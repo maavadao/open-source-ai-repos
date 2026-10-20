@@ -1,0 +1,9 @@
+name = "pgx"
+description = "Vectorized RL game environments in JAX"
+category = "ml-platforms"
+tags = ["machine-learning", "ai", "game", "reinforcement-learning", "backgammon", "chess", "go-game", "shogi"]
+repository = "https://github.com/sotetsuk/pgx"
+website = "http://sotets.uk/pgx/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "mysql_mcp_server"
+description = "A Model Context Protocol (MCP) server that enables secure interaction with MySQL databases"
+category = "mcp-servers"
+tags = ["ai", "mcp", "model-context-protocol", "mysql", "claude", "claude-code", "database", "llm"]
+repository = "https://github.com/designcomputer/mysql_mcp_server"
+website = "https://designcomputer.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Face-Mask-Detection"
+description = "Face Mask Detection system based on computer vision and deep learning using OpenCV and Tensorflow/Keras"
+category = "vision"
+tags = ["python", "python-3", "python3", "keras", "keras-tensorflow", "deep-learning", "computer-vision", "face-mask-detection"]
+repository = "https://github.com/chandrikadeb7/Face-Mask-Detection"
+website = "https://www.youtube.com/watch?v=AAkNyZlUae0"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

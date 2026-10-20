@@ -1,0 +1,8 @@
+name = "claude-seo"
+description = "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9…"
+category = "coding"
+tags = ["claude-code", "seo", "ai", "ai-seo", "claude-code-skill", "marketing-automation", "open-source"]
+repository = "https://github.com/AgriciDaniel/claude-seo"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "XPretrain"
+description = "Multi-modality pre-training"
+category = "vision"
+tags = ["multimodal-learning", "pre-training", "multimedia", "computer-vision", "nlp"]
+repository = "https://github.com/microsoft/XPretrain"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

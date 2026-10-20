@@ -1,0 +1,9 @@
+name = "awesome-robotics-libraries"
+description = "A curated list of robotics libraries and software"
+category = "learning"
+tags = ["robotics-libraries", "multibody-dynamics", "simulation", "robotics", "motion-planning", "slam", "awesome-list", "optimization"]
+repository = "https://github.com/jslee02/awesome-robotics-libraries"
+website = "http://jslee02.github.io/awesome-robotics-libraries/"
+license = "CC0-1.0"
+language = "Python"
+added = 2026-10-20

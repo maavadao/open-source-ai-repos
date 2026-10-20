@@ -1,0 +1,9 @@
+name = "letta-code"
+description = "Stateful agents that are like people, with memory, identity, and the ability to learn and adapt"
+category = "coding"
+tags = ["agent-memory", "ai", "claude", "codex", "continual-learning", "letta", "memgpt", "stateful-agents"]
+repository = "https://github.com/letta-ai/letta-code"
+website = "https://www.letta.com/agent"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

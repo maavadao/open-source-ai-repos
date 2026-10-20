@@ -1,0 +1,9 @@
+name = "mahotas"
+description = "Computer Vision in Python"
+category = "vision"
+tags = ["computer-vision", "numpy", "python", "c-plus-plus", "python-2", "python-3"]
+repository = "https://github.com/luispedro/mahotas"
+website = "https://mahotas.rtfd.io"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

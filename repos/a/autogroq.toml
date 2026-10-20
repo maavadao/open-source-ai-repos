@@ -1,0 +1,9 @@
+name = "AutoGroq"
+description = "AutoGroq is a groundbreaking tool that revolutionizes the way users interact with Autogen and other AI assistants. By dynamically generating tailored teams of AI agents based on your project requirements, AutoGroq eliminates the need for manual configuration and allows you to…"
+category = "agents"
+tags = ["agents", "ai", "artificial-intelligence", "autogen", "crewai", "groq", "llm"]
+repository = "https://github.com/jgravelle/AutoGroq"
+website = "https://autogroq.streamlit.app/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

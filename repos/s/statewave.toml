@@ -1,0 +1,9 @@
+name = "statewave"
+description = "Open-source memory runtime for AI agents — reproducible, provenance-tagged context bundles instead of query-time retrieval. Apache-2.0, self-hosted on Postgres + pgvector, Python + TypeScript SDKs."
+category = "agents"
+tags = ["ai-agents", "pgvector", "postgres", "python", "llm", "rag", "agent-memory", "memory"]
+repository = "https://github.com/smaramwbc/statewave"
+website = "https://statewave.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

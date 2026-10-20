@@ -1,0 +1,9 @@
+name = "duckle"
+description = "Open-source ETL/ELT you deploy on your own servers or cloud. Built on DuckDB: no-code/low-code visual pipelines or SQL, 385 components, dbt, CDC, data quality, reverse ETL, lineage, MCP for AI agents. No vendor cloud, no per-row billing."
+category = "mcp-servers"
+tags = ["data-engineering", "data-integration", "data-pipeline", "data-quality", "duckdb", "elt", "etl", "cdc"]
+repository = "https://github.com/slothflowlabs/duckle"
+website = "https://duckle.org/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

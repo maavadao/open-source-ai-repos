@@ -1,0 +1,7 @@
+name = "awesome-CARLA"
+description = "CARLA resources such as tutorial, blog, code and etc https://github.com/carla-simulator/carla"
+category = "learning"
+tags = ["carla", "carla-simulator", "carla-driving-simulator", "self-driving-car", "reinforcement-learning", "imitation-learning", "autonomous-vehicles", "simulator"]
+repository = "https://github.com/Amin-Tgz/awesome-CARLA"
+license = "CC0-1.0"
+added = 2026-10-20

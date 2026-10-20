@@ -1,0 +1,9 @@
+name = "DeepCTR"
+description = "Easy-to-use,Modular and Extendible package of deep-learning based CTR models ."
+category = "ml-platforms"
+tags = ["ctr", "click-through-rate", "deep-learning", "factorization-machines", "deepfm", "ffm", "nfm", "mlr"]
+repository = "https://github.com/shenweichen/DeepCTR"
+website = "https://deepctr-doc.readthedocs.io/en/latest/index.html"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

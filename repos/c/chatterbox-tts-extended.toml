@@ -1,0 +1,8 @@
+name = "Chatterbox-TTS-Extended"
+description = "Modified version of Chatterbox that accepts text files as input and no character restrictions. I use it to make audiobooks, especially for my kids."
+category = "speech"
+tags = ["audiobook", "audiobooks", "chatterbox", "chatterbox-tts", "chatterbox-ui", "text-to-speech", "tts", "tts-gui"]
+repository = "https://github.com/petermg/Chatterbox-TTS-Extended"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

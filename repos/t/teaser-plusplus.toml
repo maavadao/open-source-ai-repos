@@ -1,0 +1,8 @@
+name = "TEASER-plusplus"
+description = "A fast and robust point cloud registration library"
+category = "robotics"
+tags = ["point-clouds", "robotics", "optimization", "3d-registration", "3d-reconstruction", "slam"]
+repository = "https://github.com/MIT-SPARK/TEASER-plusplus"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

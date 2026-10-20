@@ -1,0 +1,9 @@
+name = "swarm-tools"
+description = "Multi-agent swarm coordination for OpenCode with learning capabilities, agent issue tracking, and management"
+category = "coding"
+tags = ["ai-agents", "machine-learning", "multi-agent", "opencode", "swarm"]
+repository = "https://github.com/joelhooks/swarm-tools"
+website = "https://swarmtools.ai"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

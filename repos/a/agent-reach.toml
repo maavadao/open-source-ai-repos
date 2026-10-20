@@ -1,0 +1,8 @@
+name = "Agent-Reach"
+description = "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+category = "mcp-servers"
+tags = ["agent-infrastructure", "ai-agent", "ai-search", "automation", "bilibili", "claude-code", "cli", "cursor"]
+repository = "https://github.com/Panniantong/Agent-Reach"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

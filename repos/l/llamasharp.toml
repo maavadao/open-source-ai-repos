@@ -1,0 +1,9 @@
+name = "LLamaSharp"
+description = "A C#/.NET library to run LLM (LLaMA/LLaVA) on your local device efficiently."
+category = "local-llms"
+tags = ["chatbot", "gpt", "llama", "llamacpp", "llm", "semantic-kernel", "llava", "multi-modal"]
+repository = "https://github.com/SciSharp/LLamaSharp"
+website = "https://scisharp.github.io/LLamaSharp"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

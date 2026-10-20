@@ -1,0 +1,9 @@
+name = "MaxKB"
+description = "MaxKB is an open-source platform for building enterprise-grade agents. 强大易用的开源企业级智能体平台。"
+category = "mcp-servers"
+tags = ["llm", "ollama", "maxkb", "knowledgebase", "chatbot", "langchain", "pgvector", "rag"]
+repository = "https://github.com/1Panel-dev/MaxKB"
+website = "https://maxkb.cn"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

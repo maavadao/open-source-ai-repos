@@ -1,0 +1,8 @@
+name = "InvoiceNet"
+description = "Deep neural network to extract intelligent information from invoice documents."
+category = "ml-platforms"
+tags = ["invoice", "invoice-management", "invoices", "invoice-insight", "classification", "deep-learning", "deep-neural-networks", "deeplearning"]
+repository = "https://github.com/naiveHobo/InvoiceNet"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

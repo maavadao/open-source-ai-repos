@@ -1,0 +1,9 @@
+name = "TensorFlow-Book"
+description = "Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations."
+category = "learning"
+tags = ["tensorflow", "machine-learning", "regression", "convolutional-neural-networks", "logistic-regression", "book", "reinforcement-learning", "autoencoder"]
+repository = "https://github.com/BinRoot/TensorFlow-Book"
+website = "http://www.tensorflowbook.com"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

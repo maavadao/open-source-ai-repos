@@ -1,0 +1,8 @@
+name = "wb_humanoid_mpc"
+description = "Whole-Body Nonlinear MPC for Realtime Humanoid Loco-Manipulation Planning and Control"
+category = "robotics"
+tags = ["humanoid", "humanoid-robot", "locomotion", "mpc", "planning", "walking", "wholebodycontrol", "ai"]
+repository = "https://github.com/manumerous/wb_humanoid_mpc"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

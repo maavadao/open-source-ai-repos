@@ -1,0 +1,9 @@
+name = "spring-ai-summary"
+description = "SpringAI，LLM，MCP，Embedding"
+category = "mcp-servers"
+tags = ["deepseek", "doubao", "learning-by-doing", "llm", "mcp", "openai", "springai"]
+repository = "https://github.com/java-ai-tech/spring-ai-summary"
+website = "http://www.glmapper.com/"
+license = "NOASSERTION"
+language = "Java"
+added = 2026-10-20

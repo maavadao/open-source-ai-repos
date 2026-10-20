@@ -1,0 +1,7 @@
+name = "Awesome-Text-to-Image"
+description = "(ෆ`´ෆ) A Survey on Text-to-Image Generation/Synthesis."
+category = "learning"
+tags = ["generative-adversarial-network", "text-to-image", "image-synthesis", "image-generation", "survey", "awseome-list", "image-manipulation", "text-to-face"]
+repository = "https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image"
+license = "MIT"
+added = 2026-10-20

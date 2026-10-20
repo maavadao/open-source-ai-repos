@@ -1,0 +1,9 @@
+name = "AWSIM"
+description = "Open sourced digital twin simulator for Autoware"
+category = "robotics"
+tags = ["autonomous-driving", "autoware", "ros2", "unity"]
+repository = "https://github.com/autowarefoundation/AWSIM"
+website = "https://autowarefoundation.github.io/AWSIM/"
+license = "NOASSERTION"
+language = "C#"
+added = 2026-10-20

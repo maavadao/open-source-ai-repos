@@ -1,0 +1,8 @@
+name = "notebooklm-py"
+description = "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemini Notebook's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw."
+category = "skills-prompts"
+tags = ["python", "sdk", "skills", "google-notebooklm", "notebooklm", "notebooklm-api", "python-api", "agentic-skill"]
+repository = "https://github.com/teng-lin/notebooklm-py"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

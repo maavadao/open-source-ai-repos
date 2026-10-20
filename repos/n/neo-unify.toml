@@ -1,0 +1,8 @@
+name = "neo-unify"
+description = "Toy-scale unified multimodal model experiments — encoder-free understanding & generation with Mixture-of-Transformers on MLX/Apple Silicon"
+category = "image"
+tags = ["apple-silicon", "deep-learning", "flow-matching", "generative-ai", "image-generation", "mixture-of-experts", "mlx", "multimodal"]
+repository = "https://github.com/eren23/neo-unify"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

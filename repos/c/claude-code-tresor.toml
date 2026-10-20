@@ -1,0 +1,9 @@
+name = "claude-code-tresor"
+description = "A world-class collection of Claude Code utilities: autonomous skills, expert agents, slash commands, and prompts that supercharge your development workflow"
+category = "coding"
+tags = ["agent-development-kit", "agentic-ai", "agentic-coding", "agentic-workflow", "agents", "anthropic-claude", "claude-code"]
+repository = "https://github.com/alirezarezvani/claude-code-tresor"
+website = "https://alirezarezvani.com"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Seq2seqChatbots"
+description = "A wrapper around tensor2tensor to flexibly train, interact, and generate data for neural chatbots."
+category = "chat"
+tags = ["chatbot", "dialog", "neural-networks", "seq2seq", "transformer", "tensorflow", "tensor2tensor", "dataset"]
+repository = "https://github.com/ricsinaruto/Seq2seqChatbots"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

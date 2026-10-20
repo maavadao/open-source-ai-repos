@@ -1,0 +1,9 @@
+name = "pomegranate"
+description = "Fast, flexible and easy to use probabilistic modelling in Python."
+category = "ml-platforms"
+tags = ["python", "machine-learning", "probabilistic-graphical-models", "pytorch"]
+repository = "https://github.com/jmschrei/pomegranate"
+website = "http://pomegranate.readthedocs.org/en/latest/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

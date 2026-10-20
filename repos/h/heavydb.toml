@@ -1,0 +1,9 @@
+name = "heavydb"
+description = "HeavyDB (formerly MapD/OmniSciDB)"
+category = "ml-platforms"
+tags = ["gpu", "database", "olap", "visualization", "sql", "machine-learning", "interactive", "real-time"]
+repository = "https://github.com/heavyai/heavydb"
+website = "https://heavy.ai"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

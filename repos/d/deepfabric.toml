@@ -1,0 +1,9 @@
+name = "deepfabric"
+description = "Generate High-Quality Synthetics, Train, Measure, and Evaluate in a Single Pipeline"
+category = "agents"
+tags = ["ai", "data-science", "dataset", "huggingface", "huggingface-datasets", "machine-learning", "synthetic-data", "agents"]
+repository = "https://github.com/nolabs-ai/deepfabric"
+website = "http://docs.deepfabric.dev"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "causalml"
+description = "Uplift modeling and causal inference with machine learning algorithms"
+category = "data-science"
+tags = ["incubation", "machine-learning", "causal-inference", "uplift-modeling"]
+repository = "https://github.com/uber/causalml"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "voxtype"
+description = "Voice-to-text with push-to-talk for Wayland compositors"
+category = "speech"
+tags = ["accessibility", "dictation", "gnome", "hyprland", "kde", "linux", "offline", "push-to-talk"]
+repository = "https://github.com/peteonrails/voxtype"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

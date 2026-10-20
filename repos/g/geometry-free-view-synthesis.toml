@@ -1,0 +1,9 @@
+name = "geometry-free-view-synthesis"
+description = "Is a geometric model required to synthesize novel views from a single image?"
+category = "models"
+tags = ["transformers", "novel-view-synthesis"]
+repository = "https://github.com/CompVis/geometry-free-view-synthesis"
+website = "https://arxiv.org/abs/2104.07652"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

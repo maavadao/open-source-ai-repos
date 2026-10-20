@@ -1,0 +1,8 @@
+name = "cheatengine-mcp-bridge"
+description = "Connect your favorite AI agents directly to Cheat Engine via MCP. Automate reverse engineering, pointer scanning, and memory analysis using natural language."
+category = "mcp-servers"
+tags = ["ai-agents", "cheat-engine", "debugging", "game-research", "mcp", "memory-analysis", "reverse-engineering", "ai-tools"]
+repository = "https://github.com/miscusi-peek/cheatengine-mcp-bridge"
+license = "MIT"
+language = "Lua"
+added = 2026-10-20

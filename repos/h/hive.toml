@@ -1,0 +1,8 @@
+name = "hive"
+description = "Multi-Agent Harness for Production AI"
+category = "skills-prompts"
+tags = ["agent", "agent-framework", "agent-skills", "anthropic", "automation", "autonomous-agents", "claude", "human-in-the-loop"]
+repository = "https://github.com/aden-hive/hive"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

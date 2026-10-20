@@ -1,0 +1,9 @@
+name = "SparseBEV"
+description = "[ICCV 2023 & TPAMI 2026] SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos"
+category = "robotics"
+tags = ["3d-object-detection", "autonomous-driving", "bev-perception", "transformer"]
+repository = "https://github.com/MCG-NJU/SparseBEV"
+website = "https://arxiv.org/abs/2308.09244"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

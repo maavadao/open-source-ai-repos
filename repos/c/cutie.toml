@@ -1,0 +1,9 @@
+name = "Cutie"
+description = "[CVPR 2024 Highlight] Putting the Object Back Into Video Object Segmentation"
+category = "video"
+tags = ["computer-vision", "deep-learning", "pytorch", "segmentation", "video-editing", "video-object-segmentation", "video-segmentation", "cvpr2024"]
+repository = "https://github.com/hkchengrex/Cutie"
+website = "https://hkchengrex.com/Cutie/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

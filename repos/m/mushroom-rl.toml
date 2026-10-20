@@ -1,0 +1,8 @@
+name = "mushroom-rl"
+description = "Python library for Reinforcement Learning."
+category = "ml-platforms"
+tags = ["reinforcement-learning", "deep-reinforcement-learning", "deep-learning", "openai-gym", "atari", "rl", "pytorch", "mujoco"]
+repository = "https://github.com/MushroomRL/mushroom-rl"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

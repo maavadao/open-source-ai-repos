@@ -1,0 +1,8 @@
+name = "Transformers-for-NLP-and-Computer-Vision-3rd-Edition"
+description = "Transformers 3rd Edition"
+category = "llm-apps"
+tags = ["bert", "clip", "dalle-3", "distilbert", "generative-ai", "retrieval-augmented-generation", "roberta-model", "stability-ai"]
+repository = "https://github.com/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

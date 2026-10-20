@@ -1,0 +1,9 @@
+name = "fashion-detection"
+description = "Fashion Detection in the Wild (Deep Clothes Detector)"
+category = "vision"
+tags = ["computer-vision", "deep-learning", "clothes-detection", "clothes-detector", "vision-for-fashion"]
+repository = "https://github.com/liuziwei7/fashion-detection"
+website = "https://liuziwei7.github.io/projects/DeepFashion.html"
+license = "NOASSERTION"
+language = "MATLAB"
+added = 2026-10-20

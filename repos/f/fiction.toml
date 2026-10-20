@@ -1,0 +1,9 @@
+name = "fiction"
+description = "Agentic Digital Self Platform"
+category = "agents"
+tags = ["ai", "agentic", "agents", "digital", "digital-self", "digital-twin"]
+repository = "https://github.com/fictionco/fiction"
+website = "https://www.fiction.com"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

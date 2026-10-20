@@ -1,0 +1,8 @@
+name = "LLM-workshop-2024"
+description = "A 4-hour coding workshop to understand how LLMs are implemented and used"
+category = "models"
+tags = ["large-language-models", "llm", "pytorch"]
+repository = "https://github.com/rasbt/LLM-workshop-2024"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

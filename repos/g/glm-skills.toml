@@ -1,0 +1,8 @@
+name = "GLM-skills"
+description = "Official skills for the GLM family of models."
+category = "documents"
+tags = ["glm", "multimodal", "ocr", "skills", "vision"]
+repository = "https://github.com/zai-org/GLM-skills"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

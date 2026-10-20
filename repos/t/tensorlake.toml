@@ -1,0 +1,9 @@
+name = "tensorlake"
+description = "Tensorlake is a serverless runtime for sandboxes and deploying background agentic applications"
+category = "agents"
+tags = ["ai-agents", "code-execution", "code-interpreter", "llm", "rl", "sandbox", "sandboxes", "tensorlake"]
+repository = "https://github.com/tensorlakeai/tensorlake"
+website = "https://tensorlake.ai"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

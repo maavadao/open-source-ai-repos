@@ -1,0 +1,8 @@
+name = "scattertext"
+description = "Beautiful visualizations of how language differs among document types."
+category = "data-science"
+tags = ["nlp", "d3", "word-embeddings", "machine-learning", "natural-language-processing", "visualization", "word2vec", "text-visualization"]
+repository = "https://github.com/JasonKessler/scattertext"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

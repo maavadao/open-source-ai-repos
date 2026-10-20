@@ -1,0 +1,9 @@
+name = "daymon"
+description = "Daymon puts your favorite AI to work 24/7. It schedules, remembers, and orchestrates your own virtual team. Free."
+category = "mcp-servers"
+tags = ["mcp", "automation", "daemon", "developer-tools", "electron", "macos", "open-source", "productivity"]
+repository = "https://github.com/daymonio/daymon"
+website = "http://daymon.io"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

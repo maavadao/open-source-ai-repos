@@ -1,0 +1,9 @@
+name = "book-genesis-studio"
+description = "Open-source writing skills for Claude Code, Codex, OpenCode, Antigravity, Gemini, OpenClaw, and Hermes. Your creativity. Your agent. Your book."
+category = "learning"
+tags = ["claude-code", "open-source", "writing-tools", "ai-writing", "openai-codex", "book-writing", "cli", "creative-writing"]
+repository = "https://github.com/felipelobomotta-blip/book-genesis-studio"
+website = "https://felipelobomotta-blip.github.io/book-genesis-studio/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

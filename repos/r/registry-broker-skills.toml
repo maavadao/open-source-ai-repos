@@ -1,0 +1,9 @@
+name = "registry-broker-skills"
+description = "AI agent skills for the Universal Registry - search, chat, and register 72,000+ agents across 14+ protocols. Works with Claude, Codex, Cursor, OpenClaw, and any AI assistant."
+category = "mcp-servers"
+tags = ["a2a", "ai-agents", "clawhub", "hashgraph", "hedera", "mcp", "openclaw", "registry-broker"]
+repository = "https://github.com/hashgraph-online/registry-broker-skills"
+website = "https://hol.org/registry"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "bark.cpp"
+description = "Suno AI's Bark model in C/C++ for fast text-to-speech generation"
+category = "speech"
+tags = ["inference", "machine-learning", "text-to-speech", "tts", "ggml"]
+repository = "https://github.com/PABannier/bark.cpp"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

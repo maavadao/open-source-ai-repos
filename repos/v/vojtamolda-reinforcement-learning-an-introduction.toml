@@ -1,0 +1,8 @@
+name = "reinforcement-learning-an-introduction"
+description = "Solutions to exercises in Reinforcement Learning: An Introduction (2nd Edition)."
+category = "ml-platforms"
+tags = ["reinforcement-learning", "python"]
+repository = "https://github.com/vojtamolda/reinforcement-learning-an-introduction"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

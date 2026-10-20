@@ -1,0 +1,9 @@
+name = "rea"
+description = "Reverse engineer anything with agents, from app behavior down to native binaries."
+category = "mcp-servers"
+tags = ["ai-agents", "binary-analysis", "cli", "decompiler", "mcp", "model-context-protocol", "reverse-engineering", "static-analysis"]
+repository = "https://github.com/morluto/rea"
+website = "https://rea.tools"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

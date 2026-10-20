@@ -1,0 +1,6 @@
+name = "Kimi-K2"
+description = "Kimi K2 is the large language model series developed by Moonshot AI team"
+category = "models"
+repository = "https://github.com/MoonshotAI/Kimi-K2"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "mistral.rs"
+description = "Fast, flexible LLM inference"
+category = "models"
+tags = ["llm", "rust", "uqff"]
+repository = "https://github.com/EricLBuehler/mistral.rs"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

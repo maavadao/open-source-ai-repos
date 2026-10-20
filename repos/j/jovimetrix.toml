@@ -1,0 +1,8 @@
+name = "Jovimetrix"
+description = "Animation via tick. Wave-based parameter modulation, Math operations with Unary and Binary support, universal Value conversion for all major types (int, string, list, dict, Image, Mask), shape masking, image channel ops, batch processing, dynamic bus routing. Queue & Load…"
+category = "image"
+tags = ["comfyui", "comfyui-manager", "image-processing", "litegraph", "stable-diffusion"]
+repository = "https://github.com/Amorano/Jovimetrix"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

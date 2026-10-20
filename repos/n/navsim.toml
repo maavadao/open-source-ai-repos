@@ -1,0 +1,8 @@
+name = "navsim"
+description = "[CoRL '25] Pseudo-Simulation for Autonomous Driving; [NeurIPS '24] NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking"
+category = "robotics"
+tags = ["autonomous-driving", "planning", "self-driving"]
+repository = "https://github.com/autonomousvision/navsim"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

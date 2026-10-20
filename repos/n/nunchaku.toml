@@ -1,0 +1,8 @@
+name = "nunchaku"
+description = "[ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models"
+category = "image"
+tags = ["diffusion-models", "flux", "genai", "lora", "mlsys", "quantization", "iclr", "iclr2025"]
+repository = "https://github.com/nunchux-ai/nunchaku"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

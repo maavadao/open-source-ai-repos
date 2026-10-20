@@ -1,0 +1,9 @@
+name = "VieNeu-TTS"
+description = "Vietnamese TTS with instant voice cloning • On-device • Real-time CPU inference • 48kHz audio quality • Chuyển văn bản thành giọng nói tiếng Việt • Text to speech tiếng Việt • TTS tiếng Việt"
+category = "speech"
+tags = ["deep-learning", "text-to-speech", "on-device-ml", "real-time", "speech-synthesis", "tts", "vietnamese-language", "vietnamese"]
+repository = "https://github.com/pnnbao97/VieNeu-TTS"
+website = "https://www.vieneu.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

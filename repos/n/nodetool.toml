@@ -1,0 +1,9 @@
+name = "nodetool"
+description = "Agent-first Creative Workspace"
+category = "video"
+tags = ["anthropic", "huggingface", "openai", "ollama", "fal", "gemini", "openrouter", "replicate"]
+repository = "https://github.com/nodetool-ai/nodetool"
+website = "https://nodetool.ai/"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

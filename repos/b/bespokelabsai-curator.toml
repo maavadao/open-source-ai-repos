@@ -1,0 +1,9 @@
+name = "curator"
+description = "Synthetic data curation for post-training and structured data extraction"
+category = "agents"
+tags = ["synthetic-data", "agents", "llm", "prompt", "python", "synthetic-dataset-generation", "deep-learning", "fine-tuning"]
+repository = "https://github.com/bespokelabsai/curator"
+website = "https://docs.bespokelabs.ai/bespoke-curator"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "project-codeguard"
+description = "Project CodeGuard is an open-source, model-agnostic security framework that embeds secure-by-default practices into AI coding agent workflows. It provides comprehensive security rules that guide AI assistants to generate more secure code automatically."
+category = "agents"
+tags = ["agentic-ai", "agents", "ai", "ai-generated-code", "coding", "cybersecurity", "cybersecurity-tools"]
+repository = "https://github.com/cosai-oasis/project-codeguard"
+website = "https://project-codeguard.org/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

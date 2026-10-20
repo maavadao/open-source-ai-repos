@@ -1,0 +1,9 @@
+name = "awesome-streamlit"
+description = "The purpose of this project is to share knowledge on how awesome Streamlit is and can be"
+category = "learning"
+tags = ["data", "models", "analytics", "streamlit", "machine-learning", "apps", "python", "data-science"]
+repository = "https://github.com/MarcSkovMadsen/awesome-streamlit"
+website = "https://awesome-streamlit.org"
+license = "CC-BY-SA-4.0"
+language = "HTML"
+added = 2026-10-20

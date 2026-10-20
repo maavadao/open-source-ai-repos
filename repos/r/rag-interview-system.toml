@@ -1,0 +1,9 @@
+name = "rag-interview-system"
+description = "A complete collection of RAG interview questions, answers (1509 questions & 52 RAG types), system design scenarios, architecture patterns, and production-ready concepts."
+category = "learning"
+tags = ["agentic-rag", "ai", "deep-learning", "generative-ai", "graph-rag", "interview-preparation", "interview-questions", "knowledge-graph"]
+repository = "https://github.com/ather-techie/rag-interview-system"
+website = "https://ather-techie.github.io/rag-interview-system/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

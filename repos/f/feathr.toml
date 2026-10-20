@@ -1,0 +1,9 @@
+name = "feathr"
+description = "Feathr – A scalable, unified data and AI engineering platform for enterprise"
+category = "ml-platforms"
+tags = ["feature-engineering", "feature-store", "artificial-intelligence", "mlops", "data-engineering", "data-quality", "machine-learning", "apache-spark"]
+repository = "https://github.com/feathr-ai/feathr"
+website = "https://join.slack.com/t/feathrai/shared_invite/zt-1ffva5u6v-voq0Us7bbKAw873cEzHOSg"
+license = "Apache-2.0"
+language = "Scala"
+added = 2026-10-20

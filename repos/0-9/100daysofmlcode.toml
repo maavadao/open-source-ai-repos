@@ -1,0 +1,9 @@
+name = "100DaysofMLCode"
+description = "My journey to learn and grow in the domain of Machine Learning and Artificial Intelligence by performing the #100DaysofMLCode Challenge. Now supported by bright developers adding their learnings"
+category = "models"
+tags = ["machine-learning", "python", "linear-regression", "linear-algebra", "scikitlearn-machine-learning", "deep-learning", "artificial-intelligence", "big-data"]
+repository = "https://github.com/NishkarshRaj/100DaysofMLCode"
+website = "http://github.com/NishkarshRaj"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

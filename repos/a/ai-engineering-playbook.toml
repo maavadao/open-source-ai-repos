@@ -1,0 +1,9 @@
+name = "ai-engineering-playbook"
+description = "A zero-to-100 learning path for applied AI engineering — RAG, embeddings, vector search, agents, MCP, and the production engineering around them. 56 pages, built as a searchable site."
+category = "mcp-servers"
+tags = ["ai-agents", "ai-engineering", "embeddings", "learning-resources", "llm", "llmops", "mcp", "mkdocs-material"]
+repository = "https://github.com/karthikreddy-7/ai-engineering-playbook"
+website = "https://karthikreddy-7.github.io/ai-engineering-playbook/"
+license = "MIT"
+language = "MDX"
+added = 2026-10-20

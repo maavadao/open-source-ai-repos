@@ -1,0 +1,8 @@
+name = "HuggingFaceModelDownloader"
+description = "Simple go utility to download HuggingFace Models and Datasets"
+category = "models"
+tags = ["golang", "huggingface", "llm", "transformers"]
+repository = "https://github.com/bodaay/HuggingFaceModelDownloader"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

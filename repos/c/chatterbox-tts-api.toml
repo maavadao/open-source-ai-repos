@@ -1,0 +1,9 @@
+name = "chatterbox-tts-api"
+description = "Local, OpenAI-compatible text-to-speech (TTS) API using Chatterbox, enabling users to generate voice cloned speech anywhere the OpenAI API is used (e.g. Open WebUI, AnythingLLM, etc.)"
+category = "speech"
+tags = ["chatgpt", "chatterbox", "docker", "ollama", "open-webui", "openai", "text-to-speech", "tts"]
+repository = "https://github.com/travisvn/chatterbox-tts-api"
+website = "https://chatterboxtts.com"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

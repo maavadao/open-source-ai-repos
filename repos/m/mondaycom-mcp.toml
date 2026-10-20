@@ -1,0 +1,9 @@
+name = "mcp"
+description = "Enable AI agents to work reliably - giving them secure access to structured data, tools to take action, and the context needed to make smart decisions."
+category = "mcp-servers"
+tags = ["agents", "copilot", "mcp", "mcp-server", "monday"]
+repository = "https://github.com/mondaycom/mcp"
+website = "https://monday.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

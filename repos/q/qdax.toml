@@ -1,0 +1,9 @@
+name = "QDax"
+description = "Accelerated Quality-Diversity"
+category = "ml-platforms"
+tags = ["quality-diversity", "reinforcement-learning", "open-endedness", "neuroevolution"]
+repository = "https://github.com/adaptive-intelligent-robotics/QDax"
+website = "https://qdax.readthedocs.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

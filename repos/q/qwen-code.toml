@@ -1,0 +1,9 @@
+name = "qwen-code"
+description = "An open-source AI coding agent that lives in your terminal."
+category = "mcp-servers"
+tags = ["agentic", "ai", "ai-agent", "ai-coding", "cli", "coding-agent", "developer-tools", "llm"]
+repository = "https://github.com/QwenLM/qwen-code"
+website = "https://qwenlm.github.io/qwen-code-docs/en/users/overview"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

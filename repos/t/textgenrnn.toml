@@ -1,0 +1,8 @@
+name = "textgenrnn"
+description = "Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code."
+category = "ml-platforms"
+tags = ["keras", "deep-learning", "text-generation", "tensorflow", "python"]
+repository = "https://github.com/minimaxir/textgenrnn"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

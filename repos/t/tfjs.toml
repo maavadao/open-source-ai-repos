@@ -1,0 +1,9 @@
+name = "tfjs"
+description = "A WebGL accelerated JavaScript library for training and deploying ML models."
+category = "ml-platforms"
+tags = ["deep-learning", "typescript", "webgl", "javascript", "machine-learning", "neural-network", "deep-neural-network", "gpu-acceleration"]
+repository = "https://github.com/tensorflow/tfjs"
+website = "https://js.tensorflow.org"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

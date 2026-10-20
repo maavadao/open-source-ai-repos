@@ -1,0 +1,9 @@
+name = "tvm"
+description = "Open Machine Learning Compiler Framework"
+category = "ml-platforms"
+tags = ["compiler", "tensor", "deep-learning", "gpu", "opencl", "metal", "performance", "javascript"]
+repository = "https://github.com/apache/tvm"
+website = "https://tvm.apache.org/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

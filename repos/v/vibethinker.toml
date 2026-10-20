@@ -1,0 +1,8 @@
+name = "VibeThinker"
+description = "Tiny Model, Big Logic: Diversity-Driven Optimization Elicits Large-Model Reasoning Ability in VibeThinker-1.5B"
+category = "models"
+tags = ["ai", "huggingface", "language-model", "transformer", "aime2025", "livecodebench", "reasoning-language-models", "reasoning-models"]
+repository = "https://github.com/WeiboAI/VibeThinker"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

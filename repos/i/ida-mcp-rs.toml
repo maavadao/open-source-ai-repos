@@ -1,0 +1,8 @@
+name = "ida-mcp-rs"
+description = "Headless IDA Pro MCP Server"
+category = "mcp-servers"
+tags = ["headless", "idalib", "idapro", "mcp", "mcp-server", "rust", "rust-lang"]
+repository = "https://github.com/blacktop/ida-mcp-rs"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

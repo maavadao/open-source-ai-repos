@@ -1,0 +1,9 @@
+name = "Telegram.Bot"
+description = ".NET Client for Telegram Bot API"
+category = "chat"
+tags = ["telegram", "telegram-bot", "telegram-bot-api", "chatbot", "bot"]
+repository = "https://github.com/TelegramBots/Telegram.Bot"
+website = "https://telegrambots.github.io/book"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "loam_velodyne"
+description = "Laser Odometry and Mapping (Loam) is a realtime method for state estimation and mapping using a 3D lidar."
+category = "robotics"
+tags = ["velodyne", "ros", "loam-velodyne", "lidar", "pointcloud", "pcl", "slam", "mapping"]
+repository = "https://github.com/laboshinl/loam_velodyne"
+website = "http://wiki.ros.org/loam_velodyne"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

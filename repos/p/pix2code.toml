@@ -1,0 +1,8 @@
+name = "pix2code"
+description = "pix2code: Generating Code from a Graphical User Interface Screenshot"
+category = "ml-platforms"
+tags = ["deep-learning", "datasets", "deep-neural-networks", "front-end-development", "graphical-user-interface"]
+repository = "https://github.com/tonybeltramelli/pix2code"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

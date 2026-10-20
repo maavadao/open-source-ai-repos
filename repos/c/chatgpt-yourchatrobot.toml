@@ -1,0 +1,8 @@
+name = "ChatGPT-YourChatRobot"
+description = "开箱即用an unofficial implement of ChatGPT in QQ/Wechat. 一个非官方的ChatGPT腾讯qq/微信(非公众号)实现版，快来把你的qq或微信变成chatgpt吧"
+category = "image"
+tags = ["chatbot", "chatgpt", "chatgpt-bot", "gpt-3", "java", "openai", "qq-bot", "wechat-bot"]
+repository = "https://github.com/ashinnotfound/ChatGPT-YourChatRobot"
+license = "MIT"
+language = "Java"
+added = 2026-10-20

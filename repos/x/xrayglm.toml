@@ -1,0 +1,8 @@
+name = "XrayGLM"
+description = "首个会看胸部X光片的中文多模态医学大模型 | The first Chinese Medical Multimodal Model that Chest Radiographs Summarization."
+category = "models"
+tags = ["large-language-models", "llms", "medical", "multimodal", "xray", "visualglm-6b"]
+repository = "https://github.com/WangRongsheng/XrayGLM"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

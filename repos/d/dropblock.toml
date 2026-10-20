@@ -1,0 +1,8 @@
+name = "dropblock"
+description = "Implementation of DropBlock: A regularization method for convolutional networks in PyTorch."
+category = "vision"
+tags = ["machine-learning", "computer-vision", "pytorch", "regularization", "convolutional-neural-networks", "dropblock", "pytorch-implementation", "dropout"]
+repository = "https://github.com/miguelvr/dropblock"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

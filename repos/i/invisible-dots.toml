@@ -1,0 +1,8 @@
+name = "invisible_dots"
+description = "Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems."
+category = "mcp-servers"
+tags = ["ai-agent", "playwright", "ai-agents", "browser-automation", "mcp", "stealth-browser", "autonomous-agents", "computer-use"]
+repository = "https://github.com/feder-cr/invisible_dots"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

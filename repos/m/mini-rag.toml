@@ -1,0 +1,9 @@
+name = "mini-rag"
+description = "An Educational Project (step by step) to teach how to build a production-ready app for RAG application."
+category = "education"
+tags = ["docker", "education", "fastapi", "genai", "python", "rag"]
+repository = "https://github.com/bakrianoo/mini-rag"
+website = "https://www.youtube.com/watch?v=Vv6e2Rb1Q6w&list=PLvLvlVqNQGHCUR2p0b8a0QpVjDUg50wQj&pp=gAQBiAQB"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

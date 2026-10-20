@@ -1,0 +1,8 @@
+name = "MobileAgent"
+description = "Mobile-Agent: The Powerful GUI Agent Family"
+category = "coding"
+tags = ["agent", "mllm", "mobile-agents", "multimodal", "multimodal-large-language-models", "multimodal-agent", "android", "app"]
+repository = "https://github.com/X-PLUG/MobileAgent"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

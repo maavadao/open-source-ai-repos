@@ -1,0 +1,8 @@
+name = "UltraEval-Audio"
+description = "Your faithful, impartial partner for audio evaluation — know yourself, know your rivals. 真实评测，知己知彼。A unified benchmark framework for ASR/TTS/Audio Codec/audio LLM evaluation"
+category = "speech"
+tags = ["evaluation", "speech-recognition", "speech-to-speech", "speech-to-text", "asr", "audio-codec", "benchmark", "llm-evaluation"]
+repository = "https://github.com/OpenBMB/UltraEval-Audio"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

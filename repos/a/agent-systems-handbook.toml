@@ -1,0 +1,9 @@
+name = "agent-systems-handbook"
+description = "A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP/A2A, context engineering, agent memory, evaluation, observability, and multi-agent architecture. Current trend focus: Gemini Interactions API and managed agents, emerging agent runtimes…"
+category = "mcp-servers"
+tags = ["a2a", "agent-framework", "agentic-ai", "ai-agents", "autonomous-agents", "developer-tools", "generative-ai", "langgraph"]
+repository = "https://github.com/Prompthon-IO/agent-systems-handbook"
+website = "https://labs.prompthon.io/"
+license = "NOASSERTION"
+language = "MDX"
+added = 2026-10-20

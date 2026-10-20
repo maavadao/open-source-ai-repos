@@ -1,0 +1,8 @@
+name = "sonus"
+description = "/so.nus/ STT (speech to text) for Node with offline hotword detection"
+category = "speech"
+tags = ["speech", "speech-recognition", "speech-to-text", "voice-control", "stt", "node", "hotword-detection", "keyword-spotting"]
+repository = "https://github.com/evancohen/sonus"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

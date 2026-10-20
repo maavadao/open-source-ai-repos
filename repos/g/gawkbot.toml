@@ -1,0 +1,9 @@
+name = "gawkbot"
+description = "open source grok bot. gawk bots automate your menial work via AI models and build you microapps to manage the outcome, so that you have a false sense of control."
+category = "coding"
+tags = ["agents", "autonomous-agents", "claude-code", "knowledge-graph", "grokbot", "ai-agents", "ai-teammates", "codex"]
+repository = "https://github.com/najmuzzaman-mohammad/gawkbot"
+website = "https://gawk.bot"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

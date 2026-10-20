@@ -1,0 +1,7 @@
+name = "Awesome-Geospatial"
+description = "Long list of geospatial tools and resources"
+category = "learning"
+tags = ["awesome-list", "awesome", "spatial-analysis", "spatial-data", "data-analysis", "geospatial-analysis", "remote-sensing", "deep-learning"]
+repository = "https://github.com/sacridini/Awesome-Geospatial"
+license = "CC0-1.0"
+added = 2026-10-20

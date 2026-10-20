@@ -1,0 +1,8 @@
+name = "pytorch-lightning-template"
+description = "An easy/swift-to-adapt PyTorch-Lighting template. 套壳模板，简单易用，稍改原来Pytorch代码，即可适配Lightning。You can translate your previous Pytorch code much easier using this template, and keep your freedom to edit all the functions as well. Big-project-friendly as well. No need to rewrite your…"
+category = "ml-platforms"
+tags = ["pytorch", "pytorch-lightning", "pytorch-lightning-template", "best-practices", "config", "deep-learning", "template"]
+repository = "https://github.com/miracleyoo/pytorch-lightning-template"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

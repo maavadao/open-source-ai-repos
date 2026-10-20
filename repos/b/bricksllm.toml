@@ -1,0 +1,9 @@
+name = "BricksLLM"
+description = "Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI, Azure OpenAI, Anthropic, vLLM, and open-source LLMs."
+category = "security"
+tags = ["golang", "llm", "openai", "ai", "anthropic", "azure", "gpt", "postgresql"]
+repository = "https://github.com/bricks-cloud/BricksLLM"
+website = "https://trybricks.ai/"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

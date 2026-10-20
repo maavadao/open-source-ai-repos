@@ -1,0 +1,8 @@
+name = "claude-to-chatgpt"
+description = "This project converts the API of Anthropic's Claude model to the OpenAI Chat API format."
+category = "chat"
+tags = ["anthropic", "chatgpt", "claude", "claude-ai", "openai"]
+repository = "https://github.com/jtsang4/claude-to-chatgpt"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

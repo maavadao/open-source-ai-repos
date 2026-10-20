@@ -1,0 +1,9 @@
+name = "openops"
+description = "The batteries-included, No-Code FinOps automation platform, with the AI you trust."
+category = "mcp-servers"
+tags = ["cloud-optimization", "finops", "cloud-governance", "enterprise-automation", "low-code", "no-code", "self-hosted", "workflow-automation"]
+repository = "https://github.com/openops-cloud/openops"
+website = "https://www.openops.com"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

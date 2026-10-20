@@ -1,0 +1,9 @@
+name = "Video-RAG-master"
+description = "[NeurIPS 2025] This is the official implementation of our paper \"Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension\""
+category = "llm-apps"
+tags = ["long-video-understanding", "retrieval-augmented-generation", "training-free", "video-understanding", "multi-modal-large-language-model", "video-large-language-models", "plug-and-play"]
+repository = "https://github.com/Leon1207/Video-RAG-master"
+website = "https://arxiv.org/pdf/2411.13093"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

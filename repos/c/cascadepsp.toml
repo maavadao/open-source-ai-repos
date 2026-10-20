@@ -1,0 +1,9 @@
+name = "CascadePSP"
+description = "[CVPR 2020] CascadePSP: Toward Class-Agnostic and Very High-Resolution Segmentation via Global and Local Refinement"
+category = "vision"
+tags = ["segmentation", "deep-learning", "pytorch", "cvpr2020", "computer-vision", "segmentation-refinement", "refinement-network", "high-resolution"]
+repository = "https://github.com/hkchengrex/CascadePSP"
+website = "https://hkchengrex.com/CascadePSP/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

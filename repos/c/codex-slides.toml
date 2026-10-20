@@ -1,0 +1,8 @@
+name = "codex-slides"
+description = "Open-source AI slide studio inside Codex: image-native decks, every slide a full visual canvas. 10+ high-quality slides in ~4–5 minutes — Fast mode renders every page in parallel. Watch the whole chain live: research → outline → style → render → edit → present → export…"
+category = "mcp-servers"
+tags = ["agent-skills", "ai-ppt", "ai-presentation", "ai-slides", "codex", "codex-plugin", "coding-agents", "deep-research"]
+repository = "https://github.com/nexu-io/codex-slides"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

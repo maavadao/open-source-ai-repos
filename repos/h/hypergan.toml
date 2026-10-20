@@ -1,0 +1,8 @@
+name = "HyperGAN"
+description = "Composable GAN framework with api and user interface"
+category = "vision"
+tags = ["gan", "unsupervised-learning", "generative-adversarial-network", "artificial-intelligence", "machine-learning", "machine-learning-api", "python", "online-learning"]
+repository = "https://github.com/HyperGAN/HyperGAN"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

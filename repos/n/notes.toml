@@ -1,0 +1,7 @@
+name = "notes"
+description = "Learn about Machine Learning and Artificial Intelligence"
+category = "llm-apps"
+tags = ["artificial-intelligence", "machine-learning", "deep-learning", "reinforcement-learning", "bayesian-inference", "probabilistic-programming", "knowledge-representation", "reasoning"]
+repository = "https://github.com/brylevkirill/notes"
+license = "NOASSERTION"
+added = 2026-10-20

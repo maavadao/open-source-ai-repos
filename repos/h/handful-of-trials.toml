@@ -1,0 +1,8 @@
+name = "handful-of-trials"
+description = "Experiment code for \"Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models\""
+category = "ml-platforms"
+tags = ["model-based-rl", "reinforcement-learning"]
+repository = "https://github.com/kchua/handful-of-trials"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

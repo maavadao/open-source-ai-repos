@@ -1,0 +1,8 @@
+name = "stable-dreamfusion"
+description = "Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion."
+category = "image"
+tags = ["text-to-3d", "gui", "nerf", "stable-diffusion", "dreamfusion", "image-to-3d"]
+repository = "https://github.com/ashawkey/stable-dreamfusion"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

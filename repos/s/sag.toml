@@ -1,0 +1,9 @@
+name = "SAG"
+description = "A new SOTA for RAG — an original retrieval architecture and an open-source knowledge base for humans and agents."
+category = "vector-databases"
+tags = ["ai", "knowledge-graph", "llm", "rag", "vector-search", "data-engineering", "graphrag", "knowledge-base"]
+repository = "https://github.com/Zleap-AI/SAG"
+website = "https://zleap.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

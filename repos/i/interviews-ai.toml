@@ -1,0 +1,8 @@
+name = "interviews.ai"
+description = "It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced researchers will find it fascinating as well."
+category = "learning"
+tags = ["data-science", "machine-learning", "deep-learning", "interview-preparation", "jobs", "artificial-intelligence", "pytorch-tutorial", "graduate-school"]
+repository = "https://github.com/BoltzmannEntropy/interviews.ai"
+website = "https://interviews.ai"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Simd"
+description = "C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX for x86/x64, NEON, SVE for ARM, HVX for Hexagon"
+category = "ml-platforms"
+tags = ["simd", "avx", "neon", "image-processing", "c-plus-plus", "simd-library", "arm", "lbp"]
+repository = "https://github.com/ermig1979/Simd"
+website = "http://ermig1979.github.io/Simd"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

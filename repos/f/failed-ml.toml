@@ -1,0 +1,8 @@
+name = "Failed-ML"
+description = "Compilation of high-profile real-world examples of failed machine learning projects"
+category = "vision"
+tags = ["ai", "artificial-intelligence", "data-science", "deep-learning", "machine-learning", "ml", "failed-ml", "computer-vision"]
+repository = "https://github.com/kennethleungty/Failed-ML"
+website = "https://towardsdatascience.com/when-ai-goes-astray-high-profile-machine-learning-mishaps-in-the-real-world-26bd58692195"
+license = "MIT"
+added = 2026-10-20

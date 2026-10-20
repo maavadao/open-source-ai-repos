@@ -1,0 +1,9 @@
+name = "daily"
+description = "daily.dev is the personalized developer news feed and community. Get the best tech content from all over the web in your browser new tab or on mobile. Free and open source."
+category = "other"
+tags = ["chrome-extension", "developer-tools", "developer-portal", "professional-networking", "edge-extension", "ai", "community", "pwa"]
+repository = "https://github.com/dailydotdev/daily"
+website = "https://daily.dev"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-10-20

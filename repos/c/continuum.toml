@@ -1,0 +1,8 @@
+name = "continuum"
+description = "Shared memory + orchestration for your coding agents — one MCP server, persistent vector memory, agent registry"
+category = "mcp-servers"
+tags = ["agent-memory", "agent-orchestration", "ai-agents", "astro", "claude", "claude-code", "codex", "mcp"]
+repository = "https://github.com/pouyahasanamreji/continuum"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

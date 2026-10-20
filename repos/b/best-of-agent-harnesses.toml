@@ -1,0 +1,9 @@
+name = "best-of-Agent-Harnesses"
+description = "Ranked list of 167 AI agent harnesses, plus templates, playbooks, MCP, and learning resources. Rescored weekly."
+category = "mcp-servers"
+tags = ["agent-framework", "agent-harness", "agentic-ai", "agents", "ai-agents", "ai-tools", "awesome-list", "best-of-list"]
+repository = "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
+website = "https://ryanalberts.github.io/best-of-Agent-Harnesses/"
+license = "CC-BY-SA-4.0"
+language = "Python"
+added = 2026-10-20

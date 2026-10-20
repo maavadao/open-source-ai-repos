@@ -1,0 +1,9 @@
+name = "hacker-news-digest"
+description = "Let LLM Summarize Hacker News for You"
+category = "search"
+tags = ["hacker-news", "python", "data-extraction", "hacker-news-reader", "rss", "extract-summaries", "hacker-news-digest", "spider"]
+repository = "https://github.com/polyrabbit/hacker-news-digest"
+website = "http://hackernews.betacat.io/"
+license = "LGPL-3.0"
+language = "Python"
+added = 2026-10-20

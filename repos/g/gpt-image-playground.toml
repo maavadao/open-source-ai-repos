@@ -1,0 +1,9 @@
+name = "gpt_image_playground"
+description = "基于 OpenAI gpt-image-2.5 API 的图片生成与编辑工具"
+category = "image"
+tags = ["gpt-image", "image-editing", "image-generation", "openai", "react", "tailwindcss", "typescript", "vite"]
+repository = "https://github.com/CookSleep/gpt_image_playground"
+website = "https://gpt-image-playground.cooksleep.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

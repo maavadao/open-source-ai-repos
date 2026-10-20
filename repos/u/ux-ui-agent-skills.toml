@@ -1,0 +1,9 @@
+name = "ux-ui-agent-skills"
+description = "Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success."
+category = "skills-prompts"
+tags = ["accessibility", "ai-agents", "claude", "claude-code", "claude-skills", "component-library", "design-system", "design-to-code"]
+repository = "https://github.com/plugin87/ux-ui-agent-skills"
+website = "https://plugin87.github.io/ux-ui-agent-skills/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

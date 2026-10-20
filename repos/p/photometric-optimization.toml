@@ -1,0 +1,8 @@
+name = "photometric_optimization"
+description = "Photometric optimization code for creating the FLAME texture space and other applications"
+category = "vision"
+tags = ["texture-space", "flame-texture", "flame-model", "3d-face-reconstruction", "python", "computer-vision", "pytorch-implementation", "pytorch3d"]
+repository = "https://github.com/HavenFeng/photometric_optimization"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

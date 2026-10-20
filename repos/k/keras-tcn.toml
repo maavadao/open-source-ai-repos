@@ -1,0 +1,8 @@
+name = "keras-tcn"
+description = "Keras Temporal Convolutional Network. Supports Python and R."
+category = "ml-platforms"
+tags = ["keras", "tcn", "recurrent-neural-networks", "deep-learning", "machine-learning"]
+repository = "https://github.com/philipperemy/keras-tcn"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

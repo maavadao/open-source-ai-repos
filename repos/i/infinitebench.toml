@@ -1,0 +1,8 @@
+name = "InfiniteBench"
+description = "Codes for the paper \"∞Bench: Extending Long Context Evaluation Beyond 100K Tokens\": https://arxiv.org/abs/2402.13718"
+category = "models"
+tags = ["benchmark", "large-language-models", "long-context"]
+repository = "https://github.com/OpenBMB/InfiniteBench"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

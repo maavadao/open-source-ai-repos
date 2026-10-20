@@ -1,0 +1,9 @@
+name = "ok-robot"
+description = "An open, modular framework for zero-shot, language conditioned pick-and-drop tasks in arbitrary homes."
+category = "robotics"
+tags = ["open-vocabulary", "robotics", "home-robots"]
+repository = "https://github.com/ok-robot/ok-robot"
+website = "https://ok-robot.github.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

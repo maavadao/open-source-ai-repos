@@ -1,0 +1,9 @@
+name = "SynapseML"
+description = "Simple and Distributed Machine Learning Python Library porting ML algorithms for Spark"
+category = "vision"
+tags = ["spark", "pyspark", "azure", "scala", "microsoft", "ml", "machine-learning", "databricks"]
+repository = "https://github.com/microsoft/SynapseML"
+website = "http://aka.ms/spark"
+license = "MIT"
+language = "Scala"
+added = 2026-10-20

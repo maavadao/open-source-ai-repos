@@ -1,0 +1,9 @@
+name = "hyperframes"
+description = "Write HTML. Render video. Built for agents."
+category = "mcp-servers"
+tags = ["ai", "animation", "ffmpeg", "framework", "gsap", "html", "mcp", "puppeteer"]
+repository = "https://github.com/heygen-com/hyperframes"
+website = "https://hyperframes.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

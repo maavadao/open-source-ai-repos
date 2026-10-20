@@ -1,0 +1,9 @@
+name = "ai-agents-the-definitive-guide"
+description = "Repo for AI Agents The Definitive Guide"
+category = "agents"
+tags = ["ai-agents", "benchmarks", "deployment", "langchain", "langgraph", "llms", "multi-agent-systems", "test-time-compute"]
+repository = "https://github.com/Nicolepcx/ai-agents-the-definitive-guide"
+website = "https://www.oreilly.com/library/view/ai-agents-the/0642572247775/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

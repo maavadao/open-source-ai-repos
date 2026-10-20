@@ -1,0 +1,7 @@
+name = "awesome-ai-awesomeness"
+description = "A curated list of awesome awesomeness about artificial intelligence"
+category = "learning"
+tags = ["artificial-intelligence", "artificial-neural-networks", "neural-networks", "computer-vision", "deep-learning", "machine-l", "natural-language-processing"]
+repository = "https://github.com/amusi/awesome-ai-awesomeness"
+license = "NOASSERTION"
+added = 2026-10-20

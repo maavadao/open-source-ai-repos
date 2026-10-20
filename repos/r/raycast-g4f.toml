@@ -1,0 +1,8 @@
+name = "raycast-g4f"
+description = "Raycast extension to use GPT, Claude, Llama, and more... all for FREE! + Full support for custom APIs."
+category = "chat"
+tags = ["gpt", "gpt-4", "gpt4free", "raycast-extension", "llama3", "chatbot", "chatgpt", "free-gpt"]
+repository = "https://github.com/XInTheDark/raycast-g4f"
+license = "GPL-3.0"
+language = "JavaScript"
+added = 2026-10-20

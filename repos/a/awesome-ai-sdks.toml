@@ -1,0 +1,7 @@
+name = "awesome-ai-sdks"
+description = "A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents"
+category = "learning"
+tags = ["agent", "agentops", "agents", "ai", "ai-agents", "awesome", "awesome-list", "chatgpt"]
+repository = "https://github.com/e2b-dev/awesome-ai-sdks"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "caveman"
+description = "why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman."
+category = "skills-prompts"
+tags = ["ai", "anthropic", "caveman", "claude", "claude-code", "llm", "meme", "prompt-engineering"]
+repository = "https://github.com/JuliusBrussee/caveman"
+website = "https://docs.caveman.so/caveman"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "rag-fusion"
+description = "RAG-Fusion: multi-query generation + Reciprocal Rank Fusion for better retrieval-augmented generation. Includes evaluation harness with NFCorpus/BEIR."
+category = "vector-databases"
+tags = ["chromadb", "information-retrieval", "openai", "python", "rag", "rag-fusion", "reciprocal-rank-fusion", "retrieval-augmented-generation"]
+repository = "https://github.com/Raudaschl/rag-fusion"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

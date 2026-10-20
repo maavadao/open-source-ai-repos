@@ -1,0 +1,9 @@
+name = "oh-my-pi"
+description = "Coding agent with the IDE wired in. Built by Stencil Labs."
+category = "mcp-servers"
+tags = ["bun", "cli", "typescript", "ai-agent", "coding-assistant", "llm", "ai-coding-agent", "anthropic"]
+repository = "https://github.com/can1357/oh-my-pi"
+website = "https://omp.sh"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

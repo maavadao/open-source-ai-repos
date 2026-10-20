@@ -1,0 +1,9 @@
+name = "wink-nlp"
+description = "Developer friendly Natural Language Processing"
+category = "chat"
+tags = ["natural-language-processing", "nlp", "tokenize", "sbd", "sentence-boundary-detection", "negation-handling", "sentiment-analysis", "pos-tagging"]
+repository = "https://github.com/winkjs/wink-nlp"
+website = "https://winkjs.org/wink-nlp/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

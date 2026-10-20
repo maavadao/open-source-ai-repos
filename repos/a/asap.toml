@@ -1,0 +1,9 @@
+name = "ASAP"
+description = "[RSS 2025] \"ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills\""
+category = "robotics"
+tags = ["humanoid", "reinforcement-learning", "robotics"]
+repository = "https://github.com/LeCAR-Lab/ASAP"
+website = "https://agile.human2humanoid.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

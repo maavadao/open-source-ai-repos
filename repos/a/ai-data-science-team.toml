@@ -1,0 +1,8 @@
+name = "ai-data-science-team"
+description = "An AI-powered data science team of agents to help you perform common data science tasks 10X faster."
+category = "coding"
+tags = ["data-science", "generative-ai", "agents", "ai", "ai-engineer", "ai-engineering", "copilot", "data-scientist"]
+repository = "https://github.com/business-science/ai-data-science-team"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

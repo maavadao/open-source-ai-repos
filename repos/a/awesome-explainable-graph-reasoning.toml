@@ -1,0 +1,7 @@
+name = "awesome-explainable-graph-reasoning"
+description = "A collection of research papers and software related to explainability in graph machine learning."
+category = "learning"
+tags = ["awesome-list", "graph", "graph-algorithms", "deep-learning", "explainable-ai", "explainable-ml", "graphml"]
+repository = "https://github.com/AstraZeneca/awesome-explainable-graph-reasoning"
+license = "Apache-2.0"
+added = 2026-10-20

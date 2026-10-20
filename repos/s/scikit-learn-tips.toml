@@ -1,0 +1,9 @@
+name = "scikit-learn-tips"
+description = "50 scikit-learn tips"
+category = "data-science"
+tags = ["scikit-learn", "machine-learning", "python", "data-science", "data-school"]
+repository = "https://github.com/justmarkham/scikit-learn-tips"
+website = "https://scikit-learn.tips"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "photoshop-mcp"
+description = "MCP for Adobe Photoshop. 118 tools. Control from Cursor, Claude or custom LLMs."
+category = "mcp-servers"
+tags = ["adobe", "ai", "ai-assistant", "claude", "creative-automation", "extendscript", "graphic-design", "image-editing"]
+repository = "https://github.com/alisaitteke/photoshop-mcp"
+website = "https://photoshop-mcp.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

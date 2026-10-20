@@ -1,0 +1,8 @@
+name = "pronto"
+description = "Pronto - Legged Robot State Estimator - libraries, ROS wrapper and messages"
+category = "robotics"
+tags = ["robotics", "ros", "slam"]
+repository = "https://github.com/ori-drs/pronto"
+license = "LGPL-2.1"
+language = "C++"
+added = 2026-10-20

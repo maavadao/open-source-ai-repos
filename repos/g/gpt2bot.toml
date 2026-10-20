@@ -1,0 +1,8 @@
+name = "gpt2bot"
+description = "Your new Telegram buddy powered by transformers"
+category = "chat"
+tags = ["transformers", "gpt-2", "dialogpt", "bot", "chatbot", "telegram-bot", "machine-learning", "ai-chatbot"]
+repository = "https://github.com/polakowo/gpt2bot"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

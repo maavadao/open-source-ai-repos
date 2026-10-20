@@ -1,0 +1,9 @@
+name = "hermes-web-search-plus"
+description = "Give your Hermes agent the web as real sources, never a made-up answer — multi-provider search and extraction with an optional local, key-free DonSeTch option."
+category = "mcp-servers"
+tags = ["ai-agents", "hermes-agent", "mcp", "python", "research-agent", "search-api", "searxng", "source-grounding"]
+repository = "https://github.com/robbyczgw-cla/hermes-web-search-plus"
+website = "https://websearchplus.xyz"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

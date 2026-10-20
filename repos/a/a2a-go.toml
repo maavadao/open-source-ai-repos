@@ -1,0 +1,9 @@
+name = "a2a-go"
+description = "Golang SDK for A2A Protocol"
+category = "agents"
+tags = ["a2a", "a2a-protocol", "agent-to-agent", "agents", "ai", "go", "multiagent-systems", "protocol"]
+repository = "https://github.com/a2aproject/a2a-go"
+website = "https://a2a-protocol.org/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "pymarl2"
+description = "Fine-tuned MARL algorithms on SMAC (100% win rates on most scenarios)"
+category = "ml-platforms"
+tags = ["marl", "smac", "starcraft", "sota", "reinforcement-learning"]
+repository = "https://github.com/hijkzzz/pymarl2"
+website = "https://iclr-blogposts.github.io/2023/blog/2023/riit/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

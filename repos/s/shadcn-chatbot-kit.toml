@@ -1,0 +1,9 @@
+name = "shadcn-chatbot-kit"
+description = "Beautifully designed chatbot components based on shadcn/ui"
+category = "models"
+tags = ["ai-sdk", "nextjs", "shadcn", "shadcn-ui", "generative-ai", "llm", "openai", "react"]
+repository = "https://github.com/Blazity/shadcn-chatbot-kit"
+website = "https://shadcn-chatbot-kit.vercel.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Amazing-Python-Scripts"
+description = "Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts."
+category = "learning"
+tags = ["projects", "python-projects", "machine-learning", "artificial-intelligence", "python", "speech", "webcam", "python-scripts"]
+repository = "https://github.com/avinashkranjan/Amazing-Python-Scripts"
+website = "https://amazing-python-scripts.avinashranjan.com"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Inverse-Reinforcement-Learning"
+description = "Implementations of selected inverse reinforcement learning algorithms."
+category = "ml-platforms"
+tags = ["inverse-reinforcement-learning", "reinforcement-learning"]
+repository = "https://github.com/MatthewJA/Inverse-Reinforcement-Learning"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

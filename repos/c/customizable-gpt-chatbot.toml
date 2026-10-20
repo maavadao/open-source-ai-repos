@@ -1,0 +1,8 @@
+name = "customizable-gpt-chatbot"
+description = "Veldra — talk an agent into existence, then watch it grow. A self-hostable, local-first agent platform: describe what you need in plain language and it compiles a working agent tools, MCP, RAG, teams. The more you use it, the better it gets agents learn from your feedback and…"
+category = "skills-prompts"
+tags = ["artificial-intelligence", "chatbot", "data-preprocessing", "machine-learning", "nlp", "python", "conversational-ai", "voice-chat"]
+repository = "https://github.com/shamspias/customizable-gpt-chatbot"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

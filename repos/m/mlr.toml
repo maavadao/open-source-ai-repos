@@ -1,0 +1,9 @@
+name = "mlr"
+description = "Machine Learning in R"
+category = "learning"
+tags = ["machine-learning", "data-science", "tuning", "cran", "r-package", "predictive-modeling", "classification", "regression"]
+repository = "https://github.com/mlr-org/mlr"
+website = "https://mlr.mlr-org.com"
+license = "NOASSERTION"
+language = "R"
+added = 2026-10-20

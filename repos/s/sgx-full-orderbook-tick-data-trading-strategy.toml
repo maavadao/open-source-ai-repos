@@ -1,0 +1,8 @@
+name = "SGX-Full-OrderBook-Tick-Data-Trading-Strategy"
+description = "Providing the solutions for high-frequency trading (HFT) strategies using data science approaches (Machine Learning) on Full Orderbook Tick Data."
+category = "learning"
+tags = ["high-frequency-trading", "limit-order-book", "python", "machine-learning", "feature-selection", "feature-engineering", "backtesting-trading-strategies", "model-selection"]
+repository = "https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

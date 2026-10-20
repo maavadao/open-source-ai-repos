@@ -1,0 +1,8 @@
+name = "Genie-TTS"
+description = "GPT-SoVITS ONNX Inference Engine & Model Converter"
+category = "speech"
+tags = ["gpt-sovits", "tts", "text-to-speech", "vits", "voice-clone", "voice-cloning"]
+repository = "https://github.com/High-Logic/Genie-TTS"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "QuantResearch"
+description = "Quantitative analysis, strategies and backtests"
+category = "ml-platforms"
+tags = ["quantitative-finance", "quantitative-trading", "portfolio-management", "risk-management", "derivatives-pricing", "machine-learning", "deep-learning", "backtesting-trading-strategies"]
+repository = "https://github.com/letianzj/QuantResearch"
+website = "https://letianzj.github.io/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "azure-openai-proxy"
+description = "Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings,Langchain. Adapter from OpenAI to Azure OpenAI."
+category = "chat"
+tags = ["azure", "azure-openai", "chatgpt", "gpt-4", "openai", "langchain"]
+repository = "https://github.com/stulzq/azure-openai-proxy"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

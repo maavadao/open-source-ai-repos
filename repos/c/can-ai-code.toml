@@ -1,0 +1,9 @@
+name = "can-ai-code"
+description = "Self-evaluating interview for AI coders"
+category = "learning"
+tags = ["ai", "ggml", "langchain", "llama-cpp", "llm", "humaneval", "transformers"]
+repository = "https://github.com/the-crypt-keeper/can-ai-code"
+website = "https://huggingface.co/spaces/mike-ravkine/can-ai-code-results"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

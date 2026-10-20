@@ -1,0 +1,9 @@
+name = "MindVideo"
+description = "Official code base for MinD-Video"
+category = "image"
+tags = ["brain-decoding", "foundation-models", "large-language-models", "stable-diffusion", "video-reconstruction"]
+repository = "https://github.com/jqin4749/MindVideo"
+website = "https://mind-video.com/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

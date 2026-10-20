@@ -1,0 +1,9 @@
+name = "RobustVideoMatting"
+description = "Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!"
+category = "vision"
+tags = ["computer-vision", "machine-learning", "ai", "matting", "deep-learning"]
+repository = "https://github.com/PeterL1n/RobustVideoMatting"
+website = "https://peterl1n.github.io/RobustVideoMatting/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

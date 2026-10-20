@@ -1,0 +1,8 @@
+name = "CrewAI-Studio"
+description = "A user-friendly, multi-platform GUI for managing and running CrewAI agents and tasks. Supports Conda and virtual environments, no coding needed."
+category = "no-code"
+tags = ["crewai", "crewaiui", "agents", "ai", "gui", "no-code", "streamlit", "crewaigui"]
+repository = "https://github.com/strnad/CrewAI-Studio"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

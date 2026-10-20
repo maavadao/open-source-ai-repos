@@ -1,0 +1,8 @@
+name = "autoscraper"
+description = "A Smart, Automatic, Fast and Lightweight Web Scraper for Python"
+category = "no-code"
+tags = ["scraping", "scraper", "scrape", "webscraping", "crawler", "web-scraping", "ai", "artificial-intelligence"]
+repository = "https://github.com/alirezamika/autoscraper"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

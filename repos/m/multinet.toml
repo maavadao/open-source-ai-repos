@@ -1,0 +1,8 @@
+name = "MultiNet"
+description = "Real-time Joint Semantic Reasoning for Autonomous Driving"
+category = "robotics"
+tags = ["tensorflow", "computer-vision", "real-time", "autonomous-driving", "deep-learning"]
+repository = "https://github.com/MarvinTeichmann/MultiNet"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

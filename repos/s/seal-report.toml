@@ -1,0 +1,9 @@
+name = "Seal-Report"
+description = "Database Reporting Tool and Tasks (.Net)"
+category = "documents"
+tags = ["reporting-engine", "report-generator", "business-intelligence", "task-scheduler", "html-report", "dashboards", "chart", "linq"]
+repository = "https://github.com/ariacom/Seal-Report"
+website = "https://sealreport.org"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

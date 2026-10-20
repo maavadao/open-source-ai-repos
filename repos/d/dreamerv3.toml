@@ -1,0 +1,9 @@
+name = "dreamerv3"
+description = "Mastering Diverse Domains through World Models"
+category = "ml-platforms"
+tags = ["artificial-intelligence", "general", "minecraft", "reinforcement-learning", "world-models", "jax"]
+repository = "https://github.com/danijar/dreamerv3"
+website = "https://danijar.com/dreamerv3"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "MedNeXt"
+description = "[MICCAI 2023] MedNeXt is a fully ConvNeXt architecture for 3D medical image segmentation."
+category = "models"
+tags = ["convnext", "medical-image-analysis", "medical-image-segmentation", "medical-imaging", "transformers", "unet-image-segmentation", "mednext", "ct-segmentation"]
+repository = "https://github.com/MIC-DKFZ/MedNeXt"
+website = "https://arxiv.org/pdf/2303.09975"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "pmetal"
+description = "PMetal: high-performance Apple Silicon framework for local LLM inference, LoRA/QLoRA fine-tuning, serving, quantization, and MLX/Metal acceleration."
+category = "image"
+tags = ["ai", "llm-inference", "llm-training", "metal", "mlx", "ane", "distillation", "tui"]
+repository = "https://github.com/Epistates/pmetal"
+website = "https://pmetal.io"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

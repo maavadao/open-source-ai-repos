@@ -1,0 +1,9 @@
+name = "DiffPhysDrone"
+description = "Published on Nature Machine Intelligence! The first real robot(quadrotor) based on differentiable physics training."
+category = "robotics"
+tags = ["drone", "end-to-end", "reinforcement-learning", "robotics"]
+repository = "https://github.com/HenryHuYu/DiffPhysDrone"
+website = "https://www.nature.com/articles/s42256-025-01048-0"
+license = "NOASSERTION"
+language = "Cuda"
+added = 2026-10-20

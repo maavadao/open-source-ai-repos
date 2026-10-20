@@ -1,0 +1,10 @@
+name = "promptfoo"
+description = "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic."
+category = "llm-apps"
+tags = ["llm", "prompt-engineering", "prompts", "llmops", "prompt-testing", "testing", "rag", "evaluation"]
+repository = "https://github.com/promptfoo/promptfoo"
+website = "https://promptfoo.dev"
+license = "MIT"
+language = "TypeScript"
+skill_level = "beginner"
+added = 2026-10-20

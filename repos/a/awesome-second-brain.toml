@@ -1,0 +1,8 @@
+name = "awesome-second-brain"
+description = "A curated solutions to building a self-evolving second brain that helps AI agents understand your personal and team context."
+category = "learning"
+tags = ["anthropic", "awesome", "awesome-lists", "chatgpt", "claude", "context", "cursor", "gemini"]
+repository = "https://github.com/aristoapp/awesome-second-brain"
+website = "https://membase.so/gh"
+license = "Apache-2.0"
+added = 2026-10-20

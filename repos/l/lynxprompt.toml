@@ -1,0 +1,9 @@
+name = "LynxPrompt"
+description = "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AGENTS.md, CLAUDE.md, and more"
+category = "coding"
+tags = ["claude-code", "cursor", "lynxprompt", "vibe-coding", "agents-md", "ai-ide", "copilot", "cursorrules"]
+repository = "https://github.com/GeiserX/LynxPrompt"
+website = "https://lynxprompt.com"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

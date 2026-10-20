@@ -1,0 +1,9 @@
+name = "amica"
+description = "Amica is an open source interface for interactive communication with 3D characters with voice synthesis and speech recognition."
+category = "speech"
+tags = ["ai", "assistant-chat-bots", "computer-vision", "llm", "speech-recognition", "tts"]
+repository = "https://github.com/semperai/amica"
+website = "https://heyamica.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

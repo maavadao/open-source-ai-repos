@@ -1,0 +1,8 @@
+name = "LightMem"
+description = "[ICLR 2026] LightMem: Lightweight and Efficient Memory-Augmented Generation"
+category = "chat"
+tags = ["agent", "ai-agents", "artificial-intelligence", "chatbot", "genai", "knowledge", "large-language-models", "lightweight"]
+repository = "https://github.com/zjunlp/LightMem"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

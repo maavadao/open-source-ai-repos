@@ -1,0 +1,8 @@
+name = "gemini-skill"
+description = "gemini drawing MCP & skill through browser, can be used in openclaw or any agent that supports MCP. Gemini画图 MCP和sill，支持龙虾或任何agent使用٩(๑><๑)۶"
+category = "mcp-servers"
+tags = ["automation", "drawing", "gemini", "mcp", "mcp-client", "mcp-server", "openclaw", "openclaw-agent"]
+repository = "https://github.com/WJZ-P/gemini-skill"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

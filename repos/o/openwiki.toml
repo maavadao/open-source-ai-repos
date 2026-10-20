@@ -1,0 +1,7 @@
+name = "openwiki"
+description = "OpenWiki is a CLI that writes and maintains agent documentation for your codebase."
+category = "agents"
+repository = "https://github.com/langchain-ai/openwiki"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

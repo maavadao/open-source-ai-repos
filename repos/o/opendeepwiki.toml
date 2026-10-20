@@ -1,0 +1,9 @@
+name = "OpenDeepWiki"
+description = "OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, supporting modular design, and is easy to expand and customize."
+category = "chat"
+tags = ["chatgpt", "deepwiki", "docs", "fine-tuning"]
+repository = "https://github.com/AIDotNet/OpenDeepWiki"
+website = "https://opendeep.wiki/"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

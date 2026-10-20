@@ -1,0 +1,9 @@
+name = "MathPile"
+description = "[NeurlPS D&B 2024] Generative AI for Math: MathPile"
+category = "models"
+tags = ["corpus", "language-model", "large-language-models", "math", "pre-training"]
+repository = "https://github.com/GAIR-NLP/MathPile"
+website = "https://gair-nlp.github.io/MathPile/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

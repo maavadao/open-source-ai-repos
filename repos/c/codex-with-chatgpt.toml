@@ -1,0 +1,8 @@
+name = "codex-with-chatgpt"
+description = "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness."
+category = "mcp-servers"
+tags = ["ai-agents", "chatgpt", "codex", "mcp", "model-context-protocol", "oauth"]
+repository = "https://github.com/XiaoDuoYa/codex-with-chatgpt"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

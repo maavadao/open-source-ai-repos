@@ -1,0 +1,8 @@
+name = "img2dataset"
+description = "Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine."
+category = "models"
+tags = ["deep-learning", "dataset", "big-data", "image", "multimodal", "image-dataset", "download-images"]
+repository = "https://github.com/rom1504/img2dataset"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

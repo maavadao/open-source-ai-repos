@@ -1,0 +1,8 @@
+name = "datascience-pizza"
+description = "Repositório para juntar informações sobre materiais de estudo em análise de dados e áreas afins, empresas que trabalham com dados e dicionário de conceitos"
+category = "data-science"
+tags = ["data-science", "machine-learning", "data-scientists", "dados", "hacktoberfest"]
+repository = "https://github.com/PizzaDeDados/datascience-pizza"
+website = "https://guia.pizzadedados.com"
+license = "MPL-2.0"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "openbrowserclaw"
+description = "Browser-native personal AI assistant. Zero infrastructure, the browser is the server."
+category = "chat"
+tags = ["ai-agents", "ai-assistant", "browser", "claude", "claw", "openclaw", "pwa", "typescript"]
+repository = "https://github.com/wexare-ai/openbrowserclaw"
+website = "https://openbrowserclaw.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

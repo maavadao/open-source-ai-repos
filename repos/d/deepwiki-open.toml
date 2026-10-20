@@ -1,0 +1,9 @@
+name = "deepwiki-open"
+description = "Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme"
+category = "coding"
+tags = ["ai", "gemini", "github", "ollama", "open-source", "openai", "openrouter", "self-hosted"]
+repository = "https://github.com/AsyncFuncAI/deepwiki-open"
+website = "https://grok-wiki.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "code-interpreter"
+description = "Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app"
+category = "models"
+tags = ["ai", "code-interpreter", "cohere", "gpt", "ai-data-analysis", "anthropic", "jupyter", "jupyter-notebook"]
+repository = "https://github.com/e2b-dev/code-interpreter"
+website = "https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=code-interpreter"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Multi-Agent-AI-System"
+description = "Building a Multi-Agent AI System with LangGraph and LangSmith"
+category = "agents"
+tags = ["ai-agents", "langchain", "langgraph", "langsmith", "multi-agent-systems", "openai"]
+repository = "https://github.com/FareedKhan-dev/Multi-Agent-AI-System"
+website = "https://medium.com/@fareedkhandev/6cb70487cd81"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

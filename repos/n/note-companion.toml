@@ -1,0 +1,9 @@
+name = "note-companion"
+description = "Note Companion: AI assistant for Obsidian that goes beyond just a chat. (prev File Organizer 2000)"
+category = "documents"
+tags = ["gpt", "obsidian", "ocr"]
+repository = "https://github.com/Nexus-JPF/note-companion"
+website = "https://notecompanion.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

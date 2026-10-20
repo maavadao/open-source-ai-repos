@@ -1,0 +1,8 @@
+name = "PaddleFormers"
+description = "PaddleFormers is an easy-to-use library of pre-trained large language model zoo based on PaddlePaddle."
+category = "models"
+tags = ["model"]
+repository = "https://github.com/PaddlePaddle/PaddleFormers"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

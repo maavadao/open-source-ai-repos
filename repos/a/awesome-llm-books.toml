@@ -1,0 +1,7 @@
+name = "awesome-llm-books"
+description = "Awesome LLM Books: Curated list of books on Large Language Models"
+category = "learning"
+tags = ["awesome-list", "books", "gpt", "llms", "llm-book"]
+repository = "https://github.com/Jason2Brownlee/awesome-llm-books"
+license = "NOASSERTION"
+added = 2026-10-20

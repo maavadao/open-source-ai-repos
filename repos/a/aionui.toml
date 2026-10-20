@@ -1,0 +1,9 @@
+name = "AionUi"
+description = "Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!"
+category = "coding"
+tags = ["ai", "ai-agent", "gemini", "gemini-cli", "llm", "chat", "chatbot", "office"]
+repository = "https://github.com/iOfficeAI/AionUi"
+website = "https://www.aionui.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

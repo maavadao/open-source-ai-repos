@@ -1,0 +1,9 @@
+name = "b4run"
+description = "Ridiculous speed. Readable code."
+category = "agents"
+tags = ["agents", "ai", "framework", "langchain", "langgraph", "typescript", "developer-tools"]
+repository = "https://github.com/cacheplane/b4run"
+website = "https://b4.run"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "AAAI-2024-Papers"
+description = "AAAI 2024 Papers: Explore a comprehensive collection of innovative research papers presented at one of the premier artificial intelligence conferences. Seamlessly integrate code implementations for better understanding. experience the forefront of progress in artificial…"
+category = "learning"
+tags = ["aaai", "aaai2024", "artificial-intelligence", "computer-vision", "deep-learning", "expert-systems", "human-computer-interaction", "knowledge-representation"]
+repository = "https://github.com/DmitryRyumin/AAAI-2024-Papers"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

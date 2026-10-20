@@ -1,0 +1,7 @@
+name = "awesome-image-alignment-and-stitching"
+description = "A curated list of awesome resources for image alignment and stitching ..."
+category = "learning"
+tags = ["awesome", "awesome-list", "computer-vision", "stitching", "alignment"]
+repository = "https://github.com/tzxiang/awesome-image-alignment-and-stitching"
+license = "NOASSERTION"
+added = 2026-10-20

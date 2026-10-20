@@ -1,0 +1,9 @@
+name = "screen.vision"
+description = "Get a guided tour for anything, right on your screen."
+category = "agents"
+tags = ["ai", "ai-agents", "llms", "typescript", "agentic-ai", "python"]
+repository = "https://github.com/r-muresan/screen.vision"
+website = "https://screen.vision"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

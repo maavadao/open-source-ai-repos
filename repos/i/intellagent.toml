@@ -1,0 +1,9 @@
+name = "intellagent"
+description = "A framework for comprehensive diagnosis and optimization of agents using simulated, realistic synthetic interactions"
+category = "agents"
+tags = ["agent", "evaluation", "llmops", "simulator", "synthetic-data"]
+repository = "https://github.com/plurai-ai/intellagent"
+website = "https://intellagent-doc.plurai.ai/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

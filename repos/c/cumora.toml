@@ -1,0 +1,8 @@
+name = "cumora"
+description = "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains."
+category = "coding"
+repository = "https://github.com/yetone/cumora"
+website = "https://cumora.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

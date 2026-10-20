@@ -1,0 +1,9 @@
+name = "aisix"
+description = "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bedrock & more — routing, guardrails, caching, rate limits, observability."
+category = "security"
+tags = ["ai-agents", "ai-gateway", "anthropic", "bedrock", "gateway", "gemini", "guardrails", "inference-gateway"]
+repository = "https://github.com/api7/aisix"
+website = "https://api7.ai/ai-gateway"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

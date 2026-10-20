@@ -1,0 +1,9 @@
+name = "pylate"
+description = "Late Interaction Models Training & Retrieval"
+category = "llm-apps"
+tags = ["colbert", "information-retrieval", "language-model", "rag"]
+repository = "https://github.com/lightonai/pylate"
+website = "https://lightonai.github.io/pylate/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

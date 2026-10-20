@@ -1,0 +1,9 @@
+name = "rag-search"
+description = "RAG Search API"
+category = "llm-apps"
+tags = ["ai-search-engine", "rag"]
+repository = "https://github.com/thinkany-ai/rag-search"
+website = "https://thinkany.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

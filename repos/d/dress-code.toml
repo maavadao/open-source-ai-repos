@@ -1,0 +1,8 @@
+name = "dress-code"
+description = "Dress Code: High-Resolution Multi-Category Virtual Try-On. ECCV 2022"
+category = "vision"
+tags = ["dress-code", "virtual-try-on", "computer-vision", "deep-learning", "artificial-intelligence", "eccv2022"]
+repository = "https://github.com/aimagelab/dress-code"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

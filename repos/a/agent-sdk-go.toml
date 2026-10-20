@@ -1,0 +1,9 @@
+name = "agent-sdk-go"
+description = "A powerful Go framework for building production-ready AI agents!"
+category = "agents"
+tags = ["agentic-ai", "agents", "framework", "golang"]
+repository = "https://github.com/Ingenimax/agent-sdk-go"
+website = "https://docs.goagents.dev/"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

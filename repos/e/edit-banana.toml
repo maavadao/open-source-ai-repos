@@ -1,0 +1,9 @@
+name = "Edit-Banana"
+description = "Edit Banana: A framework for converting statistical formats into editable."
+category = "models"
+tags = ["ai", "data", "figure", "llm", "nanobanana", "open-source", "python", "pythonprogramming"]
+repository = "https://github.com/BIT-DataLab/Edit-Banana"
+website = "https://www.editbanana.net"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

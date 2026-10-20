@@ -1,0 +1,8 @@
+name = "helix-work"
+description = "Model-neutral AI workspace for macOS with multi-provider models, extensible tools, and inspectable deliverables."
+category = "mcp-servers"
+tags = ["ai-agent", "ai-workspace", "apple-silicon", "desktop-app", "developer-tools", "document-generation", "generative-ai", "llm"]
+repository = "https://github.com/advai-x/helix-work"
+website = "https://helixwork.net"
+license = "NOASSERTION"
+added = 2026-10-20

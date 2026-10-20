@@ -1,0 +1,9 @@
+name = "chatgpt_telegram_bot"
+description = "Telegram bot with ChatGPT & Claude Python-based, using OpenAI's API."
+category = "chat"
+tags = ["chat-gpt", "chatbot", "telegram", "openai", "python"]
+repository = "https://github.com/father-bot/chatgpt_telegram_bot"
+website = "https://t.me/jadvebot"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

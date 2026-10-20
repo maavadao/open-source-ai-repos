@@ -1,0 +1,9 @@
+name = "sandbox"
+description = "All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container."
+category = "mcp-servers"
+tags = ["agent", "all-in-one", "sandbox", "browser", "filesystem", "mcp", "shell"]
+repository = "https://github.com/agent-infra/sandbox"
+website = "https://sandbox.agent-infra.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

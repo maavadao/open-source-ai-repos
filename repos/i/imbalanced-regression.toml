@@ -1,0 +1,9 @@
+name = "imbalanced-regression"
+description = "[ICML 2021, Long Talk] Delving into Deep Imbalanced Regression"
+category = "vision"
+tags = ["imbalanced-data", "imbalanced-learning", "imbalanced-classification", "imbalance", "regression", "long-tail", "imbalanced-regression", "icml"]
+repository = "https://github.com/YyzHarry/imbalanced-regression"
+website = "http://dir.csail.mit.edu"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

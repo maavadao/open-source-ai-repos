@@ -1,0 +1,9 @@
+name = "draw-a-ui"
+description = "Draw a mockup and generate html for it"
+category = "models"
+tags = ["ai", "gpt", "openai", "react", "typescript"]
+repository = "https://github.com/SawyerHood/draw-a-ui"
+website = "https://draw-a-ui.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

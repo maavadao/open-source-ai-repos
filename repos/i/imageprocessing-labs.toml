@@ -1,0 +1,8 @@
+name = "imageprocessing-labs"
+description = "computer vision, image processing and machine learning on the web browser or node."
+category = "vision"
+tags = ["javascript", "machine-learning", "computer-vision", "image-processing"]
+repository = "https://github.com/wellflat/imageprocessing-labs"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

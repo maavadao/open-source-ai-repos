@@ -1,0 +1,9 @@
+name = "mamma"
+description = "Official code for MAMMA: Markerless Accurate Multi-person Motion Acquisition."
+category = "vision"
+tags = ["3d-human-reconstruction", "computer-vision", "cvpr2026", "deep-learning", "hmr", "human-pose-estimation", "mocap", "motion-capture"]
+repository = "https://github.com/cuevhv/mamma"
+website = "https://mamma.is.tue.mpg.de/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

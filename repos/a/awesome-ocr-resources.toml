@@ -1,0 +1,8 @@
+name = "awesome-ocr-resources"
+description = "A collection of resources (including the papers and datasets) of OCR (Optical Character Recognition)."
+category = "learning"
+tags = ["ocr", "text-detection", "text-recognition", "text-segmentation", "end-to-end-ocr", "machine-learning", "deep-learning", "computer-vision"]
+repository = "https://github.com/ZumingHuang/awesome-ocr-resources"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

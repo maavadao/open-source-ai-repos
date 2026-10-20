@@ -1,0 +1,7 @@
+name = "awesome-computer-vision-resources"
+description = "a collection of computer vision projects&tools. 计算机视觉方向项目和工具集合。"
+category = "learning"
+tags = ["computer-vision", "image-classification", "image-segmentation", "semantic-segmentation", "medical-imaging", "ocr", "visual-question-answering", "image-captioning"]
+repository = "https://github.com/HanXinzi-AI/awesome-computer-vision-resources"
+license = "NOASSERTION"
+added = 2026-10-20

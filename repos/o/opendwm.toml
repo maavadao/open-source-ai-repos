@@ -1,0 +1,8 @@
+name = "OpenDWM"
+description = "An open source code repository of driving world models, with training, inferencing, evaluation tools, and pretrained checkpoints."
+category = "video"
+tags = ["autonomous-driving", "diffusion-models", "video-generation", "world-models"]
+repository = "https://github.com/SenseTime-FVG/OpenDWM"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

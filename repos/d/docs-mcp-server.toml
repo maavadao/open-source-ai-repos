@@ -1,0 +1,9 @@
+name = "docs-mcp-server"
+description = "Grounded Docs MCP Server: Open-Source Alternative to Context7, Nia, and Ref.Tools"
+category = "mcp-servers"
+tags = ["agentic-ai", "copilot", "cursor", "llm", "mcp", "vscode", "windsurf"]
+repository = "https://github.com/arabold/docs-mcp-server"
+website = "https://grounded.tools"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

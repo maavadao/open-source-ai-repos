@@ -1,0 +1,9 @@
+name = "livehelperchat"
+description = "Live Helper Chat - live support for your website. Featuring web and mobile apps, Voice & Video & ScreenShare. Supports Telegram, Twilio (whatsapp), Facebook messenger including building a bot."
+category = "chat"
+tags = ["live-support", "chat-application", "chat", "livehelp", "live-help", "screenshare", "audio-call", "video-call"]
+repository = "https://github.com/LiveHelperChat/livehelperchat"
+website = "http://livehelperchat.com"
+license = "Apache-2.0"
+language = "PHP"
+added = 2026-10-20

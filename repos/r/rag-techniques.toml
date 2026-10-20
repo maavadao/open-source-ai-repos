@@ -1,0 +1,9 @@
+name = "RAG_Techniques"
+description = "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial."
+category = "learning"
+tags = ["rag", "tutorials", "langchain", "llama-index", "llms", "python", "ai", "llm"]
+repository = "https://github.com/NirDiamant/RAG_Techniques"
+website = "https://diamant-ai.com"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

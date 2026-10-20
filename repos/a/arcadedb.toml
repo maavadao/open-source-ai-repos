@@ -1,0 +1,9 @@
+name = "arcadedb"
+description = "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a conceptual fork of OrientDB, the first Multi-Model DBMS. ArcadeDB supports Vector Embeddings."
+category = "vector-databases"
+tags = ["database", "dbms", "multi-model", "graph", "document", "time-series", "key-value", "embedded"]
+repository = "https://github.com/ArcadeData/arcadedb"
+website = "https://arcadedb.com"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

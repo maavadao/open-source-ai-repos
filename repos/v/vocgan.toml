@@ -1,0 +1,8 @@
+name = "VocGAN"
+description = "VocGAN: A High-Fidelity Real-time Vocoder with a Hierarchically-nested Adversarial Network"
+category = "speech"
+tags = ["vocoder", "gan", "melgan", "vocgan", "speech-synthesis", "text-to-speech", "speech-processing"]
+repository = "https://github.com/rishikksh20/VocGAN"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

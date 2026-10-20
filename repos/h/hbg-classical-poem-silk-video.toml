@@ -1,0 +1,8 @@
+name = "hbg-classical-poem-silk-video"
+description = "Agent Skill for turning Chinese classical poems into vertical Chinese-art videos with ImageGen stills, Docker I2V, calligraphy captions, retained ambience, BGM and final MP4 QA."
+category = "coding"
+tags = ["agent-skill", "chinese-poetry", "codex", "docker", "ffmpeg", "generative-ai", "image-to-video"]
+repository = "https://github.com/Mr-funny/hbg-classical-poem-silk-video"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

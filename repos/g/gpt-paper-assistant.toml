@@ -1,0 +1,9 @@
+name = "gpt_paper_assistant"
+description = "GPT4 based personalized ArXiv paper assistant bot"
+category = "models"
+tags = ["arxiv", "gpt", "research"]
+repository = "https://github.com/tatsu-lab/gpt_paper_assistant"
+website = "https://tatsu-lab.github.io/gpt_paper_assistant/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "StreamYOLO"
+description = "Real-time Object Detection for Streaming Perception, CVPR 2022"
+category = "robotics"
+tags = ["object-detection", "streaming-perception", "autonomous-driving"]
+repository = "https://github.com/yancie-yjr/StreamYOLO"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

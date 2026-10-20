@@ -1,0 +1,9 @@
+name = "webbrain"
+description = "Open-source AI browser agent for Chrome and Firefox (monorepo)"
+category = "browser-automation"
+tags = ["ai-agent", "ai-tools", "browser-extension", "chrome-extension", "firefox-addon", "ai-agents", "browser-ai", "browser-automation"]
+repository = "https://github.com/webbrain-one/webbrain"
+website = "https://webbrain.one"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "MNN"
+description = "MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI."
+category = "models"
+tags = ["mnn", "convolution", "vulkan", "embedded-devices", "winograd-algorithm", "machine-learning", "deep-learning", "ml"]
+repository = "https://github.com/alibaba/MNN"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

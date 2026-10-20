@@ -1,0 +1,9 @@
+name = "LaneATT"
+description = "Code for the paper entitled \"Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection\" (CVPR 2021)"
+category = "vision"
+tags = ["lane-detection", "deep-learning", "computer-vision", "pytorch"]
+repository = "https://github.com/lucastabelini/LaneATT"
+website = "https://openaccess.thecvf.com/content/CVPR2021/html/Tabelini_Keep_Your_Eyes_on_the_Lane_Real-Time_Attention-Guided_Lane_Detection_CVPR_2021_paper.html"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

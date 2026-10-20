@@ -1,0 +1,9 @@
+name = "datalevin"
+description = "A simple, fast and versatile Datalog database"
+category = "vector-databases"
+tags = ["key-value-store", "embedded-database", "fulltext-search", "vector-database", "client-server-database", "graph-database", "document-database", "ai-native"]
+repository = "https://github.com/datalevin/datalevin"
+website = "https://datalevin.org"
+license = "EPL-2.0"
+language = "Clojure"
+added = 2026-10-20

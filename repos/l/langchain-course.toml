@@ -1,0 +1,8 @@
+name = "langchain-course"
+description = "A project-based course repository for developing AI agents using LangChain v1+ and LangGraph: search agents, RAG systems, reflection agents, and code interpreters."
+category = "learning"
+tags = ["agents", "langchain", "langgraph", "langsmith", "python", "rag"]
+repository = "https://github.com/emarco177/langchain-course"
+website = "https://www.udemy.com/course/langchain/"
+license = "Apache-2.0"
+added = 2026-10-20

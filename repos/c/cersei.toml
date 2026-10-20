@@ -1,0 +1,9 @@
+name = "cersei"
+description = "The Rust SDK for building coding agents. Tools, streaming, graph, sub-agent orchestration, MCP — as composable functions"
+category = "coding"
+tags = ["agent", "antrophic", "claude-code", "codex", "coding-agent", "openai", "opencode", "rust"]
+repository = "https://github.com/pacifio/cersei"
+website = "https://cersei.tryatlas.cc/docs/"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

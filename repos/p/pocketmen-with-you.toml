@@ -1,0 +1,8 @@
+name = "PocketMen-with-you"
+description = "Create high-fidelity Codex companions from 2+ photos with local open-weight neural editing and no OpenAI API key."
+category = "coding"
+tags = ["agent-skill", "ai-pet", "character-consistency", "codex", "codex-skill", "desktop-pet", "image-generation", "multimodal"]
+repository = "https://github.com/six-nut/PocketMen-with-you"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

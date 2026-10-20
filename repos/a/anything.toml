@@ -1,0 +1,9 @@
+name = "anything"
+description = "If Posthog built Zapier. Feature complete, Fullstack, AI Automation framework made for users."
+category = "no-code"
+tags = ["gpt", "llm", "rpa", "automation", "n8n", "zapier"]
+repository = "https://github.com/tryanything-ai/anything"
+website = "https://tryanything.xyz"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

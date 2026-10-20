@@ -1,0 +1,8 @@
+name = "talkio"
+description = "Local-first multi-AI group chat desktop app — pull gpt, Claude, Gemini, DeepSeek into one conversation. Tauri 2 + React 19."
+category = "mcp-servers"
+tags = ["ai", "chat", "chatbot", "chatgpt", "claude", "deepseek", "llm", "mcp"]
+repository = "https://github.com/llt22/talkio"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

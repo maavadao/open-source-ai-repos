@@ -1,0 +1,9 @@
+name = "TransmogrifAI"
+description = "TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand-tuning"
+category = "models"
+tags = ["ml", "automl", "transformations", "estimators", "dsl", "pipelines", "machine-learning", "scala"]
+repository = "https://github.com/salesforce/TransmogrifAI"
+website = "https://transmogrif.ai"
+license = "BSD-3-Clause"
+language = "Scala"
+added = 2026-10-20

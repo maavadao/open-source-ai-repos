@@ -1,0 +1,8 @@
+name = "PortaSpeech"
+description = "PyTorch Implementation of PortaSpeech: Portable and High-Quality Generative Text-to-Speech"
+category = "speech"
+tags = ["text-to-speech", "normalizing-flows", "generative-model", "deep-neural-networks", "pytorch", "tts", "speech-synthesis", "neural-tts"]
+repository = "https://github.com/keonlee9420/PortaSpeech"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

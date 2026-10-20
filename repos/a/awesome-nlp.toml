@@ -1,0 +1,7 @@
+name = "awesome-nlp"
+description = "A curated list of resources dedicated to Natural Language Processing (NLP)"
+category = "learning"
+tags = ["natural-language-processing", "deep-learning", "machine-learning", "language", "awesome", "awesome-list", "nlp", "text-mining"]
+repository = "https://github.com/keon/awesome-nlp"
+license = "CC0-1.0"
+added = 2026-10-20

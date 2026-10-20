@@ -1,0 +1,8 @@
+name = "open-cowork"
+description = "Open-source AI agent desktop app for Windows & macOS. One-click install Claude Code, MCP tools, and Skills — with sandbox isolation, multi-model support, and Feishu/Slack integration."
+category = "mcp-servers"
+tags = ["ai-agent", "claude-code", "desktop-app", "anthropic", "open-cowork", "ai-coding", "ai-tools", "coding-agent"]
+repository = "https://github.com/OpenCoworkAI/open-cowork"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

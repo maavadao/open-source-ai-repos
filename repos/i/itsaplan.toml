@@ -1,0 +1,9 @@
+name = "itsaplan"
+description = "Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products."
+category = "learning"
+tags = ["agentic", "agile", "ai-agents", "issue-tracker", "jira-alternative", "kanban", "linear-alternative", "open-source"]
+repository = "https://github.com/croffasia/itsaplan"
+website = "https://itsaplan.dev/"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

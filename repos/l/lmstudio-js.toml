@@ -1,0 +1,9 @@
+name = "lmstudio-js"
+description = "LM Studio TypeScript SDK"
+category = "models"
+tags = ["llm", "lmstudio", "nodejs", "typescript", "lm-studio"]
+repository = "https://github.com/lmstudio-ai/lmstudio-js"
+website = "https://www.npmjs.com/package/@lmstudio/sdk"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

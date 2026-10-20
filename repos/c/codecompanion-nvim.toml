@@ -1,0 +1,9 @@
+name = "codecompanion.nvim"
+description = "AI Coding, Vim Style"
+category = "coding"
+tags = ["neovim", "openai", "anthropic", "ollama", "plugin", "copilot", "gemini", "google-gemini"]
+repository = "https://github.com/olimorris/codecompanion.nvim"
+website = "https://codecompanion.olimorris.dev"
+license = "Apache-2.0"
+language = "Lua"
+added = 2026-10-20

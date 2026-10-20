@@ -1,0 +1,9 @@
+name = "huskarl"
+description = "Deep Reinforcement Learning Framework + Algorithms"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "algorithms", "artificial-intelligence", "deep-learning", "tensorflow", "python"]
+repository = "https://github.com/danaugrs/huskarl"
+website = "https://medium.com/@tensorflow/introducing-huskarl-the-modular-deep-reinforcement-learning-framework-e47d4b228dd3"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

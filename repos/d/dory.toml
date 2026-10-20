@@ -1,0 +1,9 @@
+name = "dory"
+description = "Dory is the complete local development system for Apple Silicon: Docker, Compose, Kubernetes, virtual machines, and policy-bound agent sandboxes."
+category = "mcp-servers"
+tags = ["apple-silicon", "containers", "docker", "docker-desktop", "macos", "orbstack", "swift", "swiftui"]
+repository = "https://github.com/Augani/dory"
+website = "https://usedory.dev/"
+license = "GPL-3.0"
+language = "Swift"
+added = 2026-10-20

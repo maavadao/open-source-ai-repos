@@ -1,0 +1,8 @@
+name = "azure-search-openai-demo-csharp"
+description = "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences."
+category = "chat"
+tags = ["azd-templates", "chatgpt", "csharp", "openai", "dotnet", "azure", "ai-azd-templates"]
+repository = "https://github.com/Azure-Samples/azure-search-openai-demo-csharp"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

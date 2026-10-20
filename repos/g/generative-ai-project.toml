@@ -1,0 +1,8 @@
+name = "generative_ai_project"
+description = "A production-ready template to kickstart your Generative AI projects with structure and scalability in mind."
+category = "models"
+tags = ["ai-projects", "ai-template", "generative-ai", "llm", "prompt-engineering", "template"]
+repository = "https://github.com/HeyNina101/generative_ai_project"
+website = "https://www.linkedin.com/in/ninadurann/"
+license = "Apache-2.0"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "visionary"
+description = "Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform"
+category = "image"
+tags = ["3dgs", "4dgs", "avatar", "gaussian-splatting", "neural-rendering", "threejs", "viewer", "webgpu"]
+repository = "https://github.com/Visionary-Laboratory/visionary"
+website = "https://visionary.openxlab.org.cn/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

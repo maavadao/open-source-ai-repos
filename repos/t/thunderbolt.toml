@@ -1,0 +1,9 @@
+name = "thunderbolt"
+description = "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in."
+category = "agents"
+tags = ["ai", "ai-agents", "llms", "on-device-ai"]
+repository = "https://github.com/thunderbird/thunderbolt"
+website = "https://thunderbolt.io"
+license = "MPL-2.0"
+language = "TypeScript"
+added = 2026-10-20

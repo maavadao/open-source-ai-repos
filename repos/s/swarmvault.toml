@@ -1,0 +1,9 @@
+name = "swarmvault"
+description = "The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge base, and agent memory store. Built on Andrej Karpathy's pattern. An Obsidian alternative for personal knowledge management, AI second brain, and durable Claude Code / Codex / OpenClaw memory."
+category = "mcp-servers"
+tags = ["local-first", "obsidian", "karpathy", "knowledge-graph", "claude-code", "codex", "llm-wiki", "mcp-server"]
+repository = "https://github.com/swarmclawai/swarmvault"
+website = "https://www.swarmvault.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

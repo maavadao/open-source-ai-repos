@@ -1,0 +1,9 @@
+name = "NanoLLM"
+description = "Optimized local inference for LLMs with HuggingFace-like APIs for quantization, vision/language models, multimodal agents, speech, vector DB, and RAG."
+category = "vector-databases"
+tags = ["edge-ai", "llm-inference", "multimodal", "speech", "rag", "vector-database", "vision-transformer"]
+repository = "https://github.com/dusty-nv/NanoLLM"
+website = "https://dusty-nv.github.io/NanoLLM/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

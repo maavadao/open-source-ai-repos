@@ -1,0 +1,9 @@
+name = "machine-learning-experiments"
+description = "Interactive Machine Learning experiments: models training + models demo"
+category = "learning"
+tags = ["machine-learning", "javascript", "python", "tensorflow", "jupyter-notebooks", "colab-notebook", "colab", "ai"]
+repository = "https://github.com/trekhleb/machine-learning-experiments"
+website = "https://trekhleb.dev/machine-learning-experiments/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

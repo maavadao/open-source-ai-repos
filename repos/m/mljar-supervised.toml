@@ -1,0 +1,9 @@
+name = "mljar-supervised"
+description = "Python package for AutoML on Tabular Data with Feature Engineering, Hyper-Parameters Tuning, Explanations and Automatic Documentation"
+category = "ml-platforms"
+tags = ["automl", "machine-learning", "mljar", "data-science", "scikit-learn", "hyperparameter-optimization", "feature-engineering", "xgboost"]
+repository = "https://github.com/mljar/mljar-supervised"
+website = "https://mljar.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

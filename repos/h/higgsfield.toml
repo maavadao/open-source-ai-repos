@@ -1,0 +1,8 @@
+name = "higgsfield"
+description = "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters"
+category = "models"
+tags = ["cluster-management", "deep-learning", "distributed", "llama", "llama2", "llm", "machine-learning", "mlops"]
+repository = "https://github.com/higgsfield-ai/higgsfield"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

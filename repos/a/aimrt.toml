@@ -1,0 +1,9 @@
+name = "AimRT"
+description = "A high-performance runtime framework for modern robotics."
+category = "robotics"
+tags = ["cpp20", "robotics"]
+repository = "https://github.com/AimRT/AimRT"
+website = "https://aimrt.org"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

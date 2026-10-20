@@ -1,0 +1,9 @@
+name = "cee"
+description = "Deterministic-first execution engine for agent workflows in Go: the LLM extracts at the edge, a deterministic state machine decides. Zero dependencies, no-code JSON plugins, replayable runs."
+category = "agents"
+tags = ["agents", "ai-agents", "circuit-breaker", "dag", "deterministic", "execution-engine", "go", "golang"]
+repository = "https://github.com/p0nymc1/cee"
+website = "https://p0nymc1.github.io/cee/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "HistomicsTK"
+description = "A Python toolkit for pathology image analysis algorithms."
+category = "vision"
+tags = ["computer-vision", "medical-image-processing", "machine-learning", "bioimage-informatics", "histology", "python", "digital-slide-archive"]
+repository = "https://github.com/DigitalSlideArchive/HistomicsTK"
+website = "https://digitalslidearchive.github.io/HistomicsTK/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

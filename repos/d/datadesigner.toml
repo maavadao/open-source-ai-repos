@@ -1,0 +1,9 @@
+name = "DataDesigner"
+description = "NeMo Data Designer: Generate high-quality synthetic data from scratch or from seed data."
+category = "mcp-servers"
+tags = ["agentic-ai", "data-augmentation", "data-generation", "llm", "mcp", "multimodal", "nemo", "nvidia"]
+repository = "https://github.com/NVIDIA-NeMo/DataDesigner"
+website = "https://docs.nvidia.com/nemo/datadesigner"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

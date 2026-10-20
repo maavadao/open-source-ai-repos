@@ -1,0 +1,8 @@
+name = "nncf"
+description = "Neural Network Compression Framework for enhanced OpenVINO inference"
+category = "vision"
+tags = ["quantization", "pruning", "sparsity", "quantization-aware-training", "mixed-precision-training", "compression", "semantic-segmentation", "object-detection"]
+repository = "https://github.com/openvinotoolkit/nncf"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

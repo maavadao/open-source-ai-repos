@@ -1,0 +1,9 @@
+name = "kody"
+description = "Your agents' cloud — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host."
+category = "mcp-servers"
+tags = ["agents", "ai-assistant", "cloudflare-workers", "code-mode", "mcp", "personal-assistant"]
+repository = "https://github.com/kody-hq/kody"
+website = "https://kody.codes"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

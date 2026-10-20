@@ -1,0 +1,9 @@
+name = "bosquet"
+description = "Tooling to build LLM applications: prompt templating and composition, agents, LLM memory, and other instruments for builders of AI applications."
+category = "llm-apps"
+tags = ["clojure", "gpt", "prompt-engineering", "llmops", "ai"]
+repository = "https://github.com/zmedelis/bosquet"
+website = "https://zmedelis.github.io/bosquet/"
+license = "EPL-1.0"
+language = "Clojure"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "H2O"
+description = "[NeurIPS'23] H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models."
+category = "models"
+tags = ["gpt-3", "heavy-hitters", "high-throughput", "kv-cache", "large-language-models", "sparsity"]
+repository = "https://github.com/FMInference/H2O"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

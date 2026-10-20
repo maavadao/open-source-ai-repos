@@ -1,0 +1,8 @@
+name = "LifeReloaded"
+description = "A life simulation Game powered by GPT-4's “Advanced Data Analysis” function , offering you a second chance at life. 由GPT4的Advanced Data Analysis功能驱动的人生重来模拟器，给您人生第二春。"
+category = "chat"
+tags = ["advanced-data-analysis", "chatgpt", "code", "codeinterpreter", "gpt", "gpt-4", "openai", "prompt"]
+repository = "https://github.com/EmbraceAGI/LifeReloaded"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

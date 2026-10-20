@@ -1,0 +1,9 @@
+name = "visual-pushing-grasping"
+description = "Train robotic agents to learn to plan pushing and grasping actions for manipulation with deep reinforcement learning."
+category = "robotics"
+tags = ["robotics", "manipulation", "grasping", "pushing", "computer-vision", "deep-learning", "3d", "vision"]
+repository = "https://github.com/andyzeng/visual-pushing-grasping"
+website = "http://vpg.cs.princeton.edu/"
+license = "BSD-2-Clause"
+language = "Python"
+added = 2026-10-20

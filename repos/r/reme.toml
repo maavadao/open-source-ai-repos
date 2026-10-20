@@ -1,0 +1,9 @@
+name = "ReMe"
+description = "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me."
+category = "agents"
+tags = ["agent", "ai-agents", "memory", "reme", "memoryscope", "rag", "dsh-plugin", "openclaw-plugin"]
+repository = "https://github.com/agentscope-ai/ReMe"
+website = "https://reme.agentscope.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

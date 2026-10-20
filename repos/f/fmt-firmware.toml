@@ -1,0 +1,8 @@
+name = "FMT-Firmware"
+description = "Firmament Autopilot Embedded System"
+category = "robotics"
+tags = ["uav", "embedded", "drone", "robotics", "pixhawk", "multicopter", "autonomous-vehicles", "evtol"]
+repository = "https://github.com/Firmament-Autopilot/FMT-Firmware"
+license = "Apache-2.0"
+language = "C"
+added = 2026-10-20

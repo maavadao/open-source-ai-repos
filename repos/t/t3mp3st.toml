@@ -1,0 +1,8 @@
+name = "T3MP3ST"
+description = "autonomous red teaming platform; multi-agent offensive-security meta-harness"
+category = "agents"
+tags = ["agents", "ai", "multi-agent", "offensive-security", "redteam"]
+repository = "https://github.com/elder-plinius/T3MP3ST"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "council"
+description = "Council is an open-source platform for the rapid development and robust deployment of customized generative AI applications"
+category = "chat"
+tags = ["generative-ai", "ai", "artificial-intelligence", "chatgpt", "gpt3", "gpt4", "machine-learning", "python"]
+repository = "https://github.com/chain-ml/council"
+website = "https://council.dev"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

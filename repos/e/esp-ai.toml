@@ -1,0 +1,9 @@
+name = "esp-ai"
+description = "The simplest and lowest-cost AI integration solution. If you like this project, please give it a Star~ | 最简单、最低成本的AI接入方案。喜欢本项目的话点个 Star 吧~"
+category = "speech"
+tags = ["esp32", "iat", "llm", "tts", "arduino-llm", "esp-ai", "esp32-ai", "esp32-llm"]
+repository = "https://github.com/wangzongming/esp-ai"
+website = "https://espai.fun"
+license = "MIT"
+language = "C"
+added = 2026-10-20

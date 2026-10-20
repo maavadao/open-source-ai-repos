@@ -1,0 +1,7 @@
+name = "cs-video-courses"
+description = "List of Computer Science courses with video lectures."
+category = "learning"
+tags = ["computer-science", "algorithms", "systems", "databases", "machine-learning", "web-development", "security", "computer-architecture"]
+repository = "https://github.com/Developer-Y/cs-video-courses"
+license = "NOASSERTION"
+added = 2026-10-20

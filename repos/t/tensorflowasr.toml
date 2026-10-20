@@ -1,0 +1,9 @@
+name = "TensorFlowASR"
+description = "TensorFlowASR: Almost State-of-the-art Automatic Speech Recognition in Tensorflow 2. Supported languages that can use characters or subwords"
+category = "speech"
+tags = ["automatic-speech-recognition", "deepspeech2", "speech-recognition", "speech-to-text", "tensorflow2", "rnn-transducer", "conformer", "tflite"]
+repository = "https://github.com/TensorSpeech/TensorFlowASR"
+website = "https://huylenguyen.com/asr"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "wechat-gptbot"
+description = "A wechat robot based on ChatGPT with no risk, very stable!"
+category = "chat"
+tags = ["chatgpt", "wechat", "openai", "python"]
+repository = "https://github.com/iuiaoin/wechat-gptbot"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

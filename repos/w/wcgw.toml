@@ -1,0 +1,8 @@
+name = "wcgw"
+description = "Shell and coding agent on mcp clients"
+category = "mcp-servers"
+tags = ["chatgpt", "custom-gpt", "llm", "llm-agent", "llm-code", "openai", "shell", "ai-coding"]
+repository = "https://github.com/rusiaaman/wcgw"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

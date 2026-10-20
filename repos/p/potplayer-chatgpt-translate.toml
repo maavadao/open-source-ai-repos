@@ -1,0 +1,8 @@
+name = "PotPlayer_ChatGPT_Translate"
+description = "[support ollama/other model]【兼容ollama和其他模型】将任何具有OpenAI API调用方法的模型集成到PotPlayer中。它使你在观看视频时能够实时翻译字幕，从而打破语言障碍，提升你的观看体验。 This real-time subtitle translation plugin integrates OpenAI's ChatGPT API (or any model with the same API calling method) into PotPlayer. It enables you to…"
+category = "chat"
+tags = ["api", "chatgpt", "chatgpt-api", "openai", "openai-api", "player-video", "potplayer", "translate"]
+repository = "https://github.com/Felix3322/PotPlayer_ChatGPT_Translate"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-10-20

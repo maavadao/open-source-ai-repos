@@ -1,0 +1,9 @@
+name = "repo-harness"
+description = "File-backed workflow harness for reliable Claude Code and Codex sessions."
+category = "coding"
+tags = ["agentic-workflows", "ai-agents", "claude-code", "codegraph", "codex", "developer-tools", "typescript"]
+repository = "https://github.com/Ancienttwo/repo-harness"
+website = "https://www.repoharness.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

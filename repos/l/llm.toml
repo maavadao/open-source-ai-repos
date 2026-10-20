@@ -1,0 +1,9 @@
+name = "llm"
+description = "Access large language models from the command-line"
+category = "models"
+tags = ["llms", "openai", "ai"]
+repository = "https://github.com/simonw/llm"
+website = "https://llm.datasette.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

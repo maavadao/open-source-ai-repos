@@ -1,0 +1,9 @@
+name = "opencompass"
+description = "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, DeepSeek, etc, across 100+ datasets covering knowledge, reasoning, coding, science, language, long-context, and safety."
+category = "chat"
+tags = ["evaluation", "benchmark", "large-language-model", "llm", "llm-eval"]
+repository = "https://github.com/open-compass/opencompass"
+website = "https://opencompass.org.cn/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "cocoplus"
+description = "CocoPlus is an Agentic Operating System for Snowflake Coco. It brings structured, multi-agent workflows to data engineering projects — covering everything from project initialization through spec, plan, build, test, review, and ship phases."
+category = "agents"
+tags = ["cortex", "snowflake", "agents", "agentskills", "cortexai", "llm"]
+repository = "https://github.com/Snowflake-Labs/cocoplus"
+website = "https://cocoplus.dev/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

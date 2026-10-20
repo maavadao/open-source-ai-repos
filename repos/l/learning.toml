@@ -1,0 +1,8 @@
+name = "learning"
+description = "A log of things I'm learning"
+category = "models"
+tags = ["learning-resources", "deep-learning", "machine-learning", "python", "generative-ai", "llms", "nlp"]
+repository = "https://github.com/amitness/learning"
+website = "https://twitter.com/amitness"
+license = "MIT"
+added = 2026-10-20

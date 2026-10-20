@@ -1,0 +1,9 @@
+name = "llmaker"
+description = "Selfhost modern LLM stacks. Run the whole fleet from your terminal"
+category = "vector-databases"
+tags = ["ai-agents", "bubbletea", "cli", "docker", "fastapi", "golang", "langchain", "langgraph"]
+repository = "https://github.com/raiyanyahya/llmaker"
+website = "https://llmaker.raiyanyahya.workers.dev/"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

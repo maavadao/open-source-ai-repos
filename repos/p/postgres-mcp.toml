@@ -1,0 +1,7 @@
+name = "postgres-mcp"
+description = "Postgres MCP Pro provides configurable read/write access and performance analysis for you and your AI agents."
+category = "mcp-servers"
+repository = "https://github.com/crystaldba/postgres-mcp"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "memit"
+description = "Mass-editing thousands of facts into a transformer memory (ICLR 2023)"
+category = "models"
+tags = ["gpt", "transformer", "editing", "pytorch"]
+repository = "https://github.com/kmeng01/memit"
+website = "https://memit.baulab.info"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

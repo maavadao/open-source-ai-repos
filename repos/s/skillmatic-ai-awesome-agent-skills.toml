@@ -1,0 +1,8 @@
+name = "awesome-agent-skills"
+description = "The definitive resource for Agent Skills - modular capabilities revolutionizing AI agent architecture"
+category = "learning"
+tags = ["agent-skills", "ai-agents", "context-engineering", "skills", "ai-tools", "awesome-list", "claude-code", "codex"]
+repository = "https://github.com/skillmatic-ai/awesome-agent-skills"
+website = "https://agentskills.io"
+license = "CC0-1.0"
+added = 2026-10-20

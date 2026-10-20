@@ -1,0 +1,9 @@
+name = "heron"
+description = "Agent and LLM API performance monitoring via network packet probe. Measures performance of OpenClaw, Claude, Codex, DeepAgents and more — deployed on the provider side, no SDK changes required."
+category = "local-llms"
+tags = ["libpcap", "llm-monitoring", "llm-observability", "observability", "packet-capture", "vllm", "agentic-ai", "ai-agent-development"]
+repository = "https://github.com/Netis/heron"
+website = "https://heron-ai.pages.dev"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

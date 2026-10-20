@@ -1,0 +1,8 @@
+name = "upkie"
+description = "Open-source wheeled biped robots"
+category = "robotics"
+tags = ["legged-robots", "locomotion", "python", "robotics", "wheeled-biped", "reinforcement-learning", "simulation", "model-predictive-control"]
+repository = "https://github.com/upkie/upkie"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

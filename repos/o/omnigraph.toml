@@ -1,0 +1,9 @@
+name = "omnigraph"
+description = "Object-storage native graph database with branching and typed ontology"
+category = "mcp-servers"
+tags = ["apache-arrow", "datafusion", "graph-database", "knowledge-graph", "lakehouse", "lance", "mcp", "rust"]
+repository = "https://github.com/ModernRelay/omnigraph"
+website = "https://omnigraph.dev"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

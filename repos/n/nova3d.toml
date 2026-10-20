@@ -1,0 +1,8 @@
+name = "Nova3D"
+description = "Design workspace for programmable 3D. Nova builds assets and worlds as editable, versioned programs: parametric, articulated and simulation-ready, compiled to CAD tools, 3D applications and robotics simulators."
+category = "models"
+tags = ["3d-generation", "cad", "claude", "gemini", "glb", "llms", "openai", "code-native"]
+repository = "https://github.com/RareSense/Nova3D"
+website = "https://nova3d.xyz"
+license = "MIT"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "better-chatbot"
+description = "Formerly Better Chatbot. Navigator is an open-source AI workspace for agents, MCP and workflow automation."
+category = "mcp-servers"
+tags = ["chatbot", "mcp", "ollama", "mcp-client", "ai", "mcp-server", "vercel", "agent"]
+repository = "https://github.com/keinsaasforever/better-chatbot"
+website = "https://app.keinsaas.com/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

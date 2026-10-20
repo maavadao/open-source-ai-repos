@@ -1,0 +1,9 @@
+name = "beelzebub"
+description = "A secure low code deception runtime framework, leveraging AI for System Virtualization."
+category = "mcp-servers"
+tags = ["cybersecurity", "security", "honeypot", "framework", "go", "research-project", "whitehat", "cloudnative"]
+repository = "https://github.com/beelzebub-labs/beelzebub"
+website = "https://docs.beelzebub.ai"
+license = "GPL-3.0"
+language = "Go"
+added = 2026-10-20

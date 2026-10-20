@@ -1,0 +1,9 @@
+name = "orca"
+description = "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+category = "coding"
+tags = ["claude-code", "codex", "ghostty", "terminal", "opencode", "orchestration", "worktrees", "pi"]
+repository = "https://github.com/stablyai/orca"
+website = "https://orca.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

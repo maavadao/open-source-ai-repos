@@ -1,0 +1,9 @@
+name = "DALI"
+description = "A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications."
+category = "ml-platforms"
+tags = ["fast-data-pipeline", "image-augmentation", "data-augmentation", "image-processing", "data-processing", "deep-learning", "machine-learning", "python"]
+repository = "https://github.com/NVIDIA/DALI"
+website = "https://docs.nvidia.com/deeplearning/dali/user-guide/docs/index.html"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

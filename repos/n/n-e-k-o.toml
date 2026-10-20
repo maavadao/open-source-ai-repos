@@ -1,0 +1,9 @@
+name = "N.E.K.O"
+description = "A catgirl who lives with you in real time — reaching out first, sharing your media, and actually getting things done, powered by an embodied emotional engine.一只会主动找你玩的 AI 猫娘。"
+category = "agents"
+tags = ["jarvis-assistant", "waifu", "own-your-data", "personal", "proactive-agent", "proactive-ai", "digital-human", "companion"]
+repository = "https://github.com/Project-N-E-K-O/N.E.K.O"
+website = "https://store.steampowered.com/app/4099310"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

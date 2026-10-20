@@ -1,0 +1,8 @@
+name = "learn-modern-ai-python"
+description = "Learn Modern AI Assisted Python with Type Hints"
+category = "chat"
+tags = ["chatgpt", "docker", "linux", "prompt-engineering", "python", "ai-python", "devcontainers", "agentic-ai"]
+repository = "https://github.com/panaversity/learn-modern-ai-python"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

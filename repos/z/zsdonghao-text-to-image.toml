@@ -1,0 +1,9 @@
+name = "text-to-image"
+description = "Generative Adversarial Text to Image Synthesis / Please Star -->"
+category = "image"
+tags = ["tensorflow", "tensorlayer", "gan", "text-to-image"]
+repository = "https://github.com/zsdonghao/text-to-image"
+website = "https://github.com/zsdonghao/tensorlayer"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

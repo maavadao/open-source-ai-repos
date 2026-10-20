@@ -1,0 +1,9 @@
+name = "foosbar"
+description = "Code to support my autonomous foosball playing robot"
+category = "robotics"
+tags = ["foosball", "qtm", "qualisys", "robotics", "table-football", "table-soccer"]
+repository = "https://github.com/misprit7/foosbar"
+website = "https://www.youtube.com/watch?v=xrwXZXGiP1w"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

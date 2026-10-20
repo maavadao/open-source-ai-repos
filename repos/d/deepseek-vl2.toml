@@ -1,0 +1,7 @@
+name = "DeepSeek-VL2"
+description = "DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding"
+category = "models"
+repository = "https://github.com/deepseek-ai/DeepSeek-VL2"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

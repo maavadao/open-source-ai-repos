@@ -1,0 +1,9 @@
+name = "prodigy-recipes"
+description = "Recipes for the Prodigy, our fully scriptable annotation tool"
+category = "vision"
+tags = ["artificial-intelligence", "machine-learning", "data-science", "annotation", "annotation-tool", "data-annotation", "machine-teaching", "labeling-tool"]
+repository = "https://github.com/explosion/prodigy-recipes"
+website = "https://prodi.gy"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

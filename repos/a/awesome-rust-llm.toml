@@ -1,0 +1,7 @@
+name = "awesome-rust-llm"
+description = "A curated list of Rust tools, libraries, and frameworks for working with LLMs, GPT, AI"
+category = "learning"
+tags = ["ai", "gpt", "llm", "rust", "rust-lang"]
+repository = "https://github.com/jondot/awesome-rust-llm"
+license = "NOASSERTION"
+added = 2026-10-20

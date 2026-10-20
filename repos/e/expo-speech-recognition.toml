@@ -1,0 +1,8 @@
+name = "expo-speech-recognition"
+description = "Speech Recognition for React Native Expo projects"
+category = "speech"
+tags = ["expo", "react-native", "speech-recognition", "speech-to-text", "voice-recognition"]
+repository = "https://github.com/jamsch/expo-speech-recognition"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

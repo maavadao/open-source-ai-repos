@@ -1,0 +1,8 @@
+name = "github-mcp-server"
+description = "GitHub's official MCP Server"
+category = "mcp-servers"
+tags = ["github", "mcp", "mcp-server"]
+repository = "https://github.com/github/github-mcp-server"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

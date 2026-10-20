@@ -1,0 +1,8 @@
+name = "python-machine-learning-book-2nd-edition"
+description = "The \"Python Machine Learning (2nd edition)\" book code repository and info resource"
+category = "learning"
+tags = ["machine-learning", "deep-learning", "python", "scikit-learn", "tensorflow", "data-science"]
+repository = "https://github.com/rasbt/python-machine-learning-book-2nd-edition"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "chatgpt-telegram-bot-serverless"
+description = "ChatGPT Telegram Bot running in AWS Lambda"
+category = "chat"
+tags = ["chatgpt", "aws-lambda", "openai", "python"]
+repository = "https://github.com/franalgaba/chatgpt-telegram-bot-serverless"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

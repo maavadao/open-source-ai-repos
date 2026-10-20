@@ -1,0 +1,9 @@
+name = "kilocode"
+description = "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent."
+category = "coding"
+tags = ["ai-coding", "vscode", "vscode-extension", "ai-developer-tools", "chatgpt", "claude", "gemini", "sonnet"]
+repository = "https://github.com/Kilo-Org/kilocode"
+website = "https://kilo.ai/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

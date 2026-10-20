@@ -1,0 +1,8 @@
+name = "convoviz"
+description = "Convert your ChatGPT export (ZIP) into clean Markdown text files with inline media, and generate data visualizations like word clouds and usage graphs."
+category = "chat"
+tags = ["chatgpt", "conversations", "json", "markdown", "openai", "python", "zip", "export"]
+repository = "https://github.com/mohamed-chs/convoviz"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

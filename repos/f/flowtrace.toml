@@ -1,0 +1,9 @@
+name = "Flowtrace"
+description = "Run a task with AI as a flow of steps you keep, reuse, and refine, not a one-off chat."
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "codex", "cursor", "llm", "agent-skills", "agentic-ai", "ai"]
+repository = "https://github.com/AIScientists-Dev/Flowtrace"
+website = "https://morphmind.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "dynamic_robot_localization"
+description = "Point cloud registration pipeline for robot localization and 3D perception"
+category = "robotics"
+tags = ["robot-localization", "localization", "robotics", "mapping", "pcl", "lidar", "pointcloud-registration", "tracking"]
+repository = "https://github.com/carlosmccosta/dynamic_robot_localization"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

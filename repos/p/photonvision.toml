@@ -1,0 +1,9 @@
+name = "photonvision"
+description = "PhotonVision is the free, fast, and easy-to-use computer vision solution for the FIRST Robotics Competition."
+category = "vision"
+tags = ["frc", "vision", "java", "opencv", "wpilib", "vision-processing", "computer-vision"]
+repository = "https://github.com/PhotonVision/photonvision"
+website = "https://photonvision.org"
+license = "GPL-3.0"
+language = "Java"
+added = 2026-10-20

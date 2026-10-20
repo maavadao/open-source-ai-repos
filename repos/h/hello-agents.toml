@@ -1,0 +1,9 @@
+name = "Hello-Agents"
+description = "Building AI Agent Systems from Scratch — A comprehensive, practical tutorial from fundamentals to production-grade multi-agent applications"
+category = "learning"
+tags = ["agent", "ai", "deep-learning", "langchain", "llm", "machine-learning", "multi-agent", "openai"]
+repository = "https://github.com/Reyzowter/Hello-Agents"
+website = "http://helloagents.org/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

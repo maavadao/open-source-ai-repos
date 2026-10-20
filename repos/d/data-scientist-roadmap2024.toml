@@ -1,0 +1,8 @@
+name = "data-scientist-roadmap2024"
+description = "Here lies the resources and topics necessary for the role of Data Scientist and Machine Learning"
+category = "learning"
+tags = ["data-science", "data-visualization", "devops", "docker", "grind75", "huggingface", "interview-preparation", "interview-questions"]
+repository = "https://github.com/xandie985/data-scientist-roadmap2024"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

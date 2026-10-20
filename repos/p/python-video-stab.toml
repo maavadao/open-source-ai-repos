@@ -1,0 +1,9 @@
+name = "python_video_stab"
+description = "A Python package to stabilize videos using OpenCV"
+category = "video"
+tags = ["opencv", "python", "computer-vision", "video", "video-stabilization"]
+repository = "https://github.com/AdamSpannbauer/python_video_stab"
+website = "https://adamspannbauer.github.io/python_video_stab/html/index.html"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "photoswap"
+description = "Official implementation of the NeurIPS 2023 paper \"Photoswap: Personalized Subject Swapping in Images\""
+category = "image"
+tags = ["diffusion-models", "generative-ai", "image-editing", "personalization", "photoswap"]
+repository = "https://github.com/UCSB-AI/photoswap"
+website = "https://photoswap.github.io"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

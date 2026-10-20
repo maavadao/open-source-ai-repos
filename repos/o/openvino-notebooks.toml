@@ -1,0 +1,9 @@
+name = "openvino_notebooks"
+description = "Jupyter notebook tutorials for OpenVINO"
+category = "learning"
+tags = ["deep-learning", "machine-learning", "computer-vision", "openvino", "inference"]
+repository = "https://github.com/openvinotoolkit/openvino_notebooks"
+website = "https://openvinotoolkit.github.io/openvino_notebooks/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

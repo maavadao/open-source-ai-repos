@@ -1,0 +1,9 @@
+name = "deeptraffic"
+description = "DeepTraffic is a deep reinforcement learning competition, part of the MIT Deep Learning series."
+category = "ml-platforms"
+tags = ["deep-learning", "machine-learning", "deep-reinforcement-learning", "mit", "self-driving-cars", "deep-rl", "tensorflow", "convnetjs"]
+repository = "https://github.com/lexfridman/deeptraffic"
+website = "https://selfdrivingcars.mit.edu/deeptraffic"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

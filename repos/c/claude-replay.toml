@@ -1,0 +1,9 @@
+name = "claude-replay"
+description = "Convert AI coding agent sessions (Claude Code, Cursor, Codex, Gemini, OpenCode, Kimi Code, Hermes) into self-contained, embeddable HTML replays"
+category = "coding"
+tags = ["agents", "claude-code", "codex", "cursor", "gemini-cli", "opencode", "kimi-code", "open-code"]
+repository = "https://github.com/es617/claude-replay"
+website = "https://es617.dev/claude-replay/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

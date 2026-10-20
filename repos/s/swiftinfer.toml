@@ -1,0 +1,9 @@
+name = "SwiftInfer"
+description = "Efficient AI Inference & Serving"
+category = "local-llms"
+tags = ["artificial-intelligence", "deep-learning", "gpt", "inference", "llama", "llama2", "llm-inference", "llm-serving"]
+repository = "https://github.com/hpcaitech/SwiftInfer"
+website = "https://hpc-ai.com/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "wppconnect"
+description = "WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interaction, such as customer service, media sending, intelligence recognition based…"
+category = "browser-automation"
+tags = ["sulla", "bot", "chat", "framework", "ai", "chatbot", "message", "whatsapp"]
+repository = "https://github.com/wppconnect-team/wppconnect"
+website = "https://wppconnect.io"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

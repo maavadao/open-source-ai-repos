@@ -1,0 +1,9 @@
+name = "llm-strategy"
+description = "Directly Connecting Python to LLMs via Strongly-Typed Functions, Dataclasses, Interfaces & Generic Types"
+category = "llm-apps"
+tags = ["llm", "python", "langchain", "gpt", "openai", "pydantic", "strongly-typed"]
+repository = "https://github.com/BlackHC/llm-strategy"
+website = "https://blackhc.github.io/llm-strategy/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

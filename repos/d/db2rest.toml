@@ -1,0 +1,9 @@
+name = "db2rest"
+description = "Instant no code DATA API platform for relational databases. Connect any database, run anywhere. Power your GENAI application function/tools calls in seconds."
+category = "no-code"
+tags = ["data-api", "java", "restapi", "spring-boot", "springboot", "mysql", "mysql-database", "postgres"]
+repository = "https://github.com/9tigerio/db2rest"
+website = "https://db2rest.com"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

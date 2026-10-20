@@ -1,0 +1,8 @@
+name = "tensorflow_template_application"
+description = "TensorFlow template application for deep learning"
+category = "local-llms"
+tags = ["tensorflow", "tfrecords", "libsvm", "csv", "deep-learning", "machine-learning", "mlp", "cnn"]
+repository = "https://github.com/tobegit3hub/tensorflow_template_application"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "hisabi"
+description = "Open-source personal finance tracking web application with SMS parser"
+category = "models"
+tags = ["finance-management", "personal-finance", "finance-tracker", "self-hosted", "graphql", "laravel", "laravel-framework", "open-source"]
+repository = "https://github.com/hisabi-app/hisabi"
+website = "https://hisabi.saleem.dev"
+license = "MIT"
+language = "PHP"
+added = 2026-10-20

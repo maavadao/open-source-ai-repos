@@ -1,0 +1,8 @@
+name = "is-even-ai"
+description = "Check if a number is even with the power of AI"
+category = "chat"
+tags = ["ai", "chatgpt", "gpt", "is-even", "openai"]
+repository = "https://github.com/Calvin-LL/is-even-ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

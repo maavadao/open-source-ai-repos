@@ -1,0 +1,8 @@
+name = "Awesome-Language-Model-on-Graphs"
+description = "A curated list of papers and resources based on \"Large Language Models on Graphs: A Comprehensive Survey\" (TKDE)"
+category = "learning"
+tags = ["graphs", "large-language-models", "generative-ai", "survey", "awesome-resources"]
+repository = "https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs"
+website = "https://arxiv.org/abs/2312.02783"
+license = "MIT"
+added = 2026-10-20

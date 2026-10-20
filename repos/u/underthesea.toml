@@ -1,0 +1,9 @@
+name = "underthesea"
+description = "Underthesea - AI Assistant"
+category = "chat"
+tags = ["nlp", "vietnamese", "word-segmenter", "agents", "llm", "agentic-ai", "ai", "assistant"]
+repository = "https://github.com/undertheseanlp/underthesea"
+website = "http://undertheseanlp.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

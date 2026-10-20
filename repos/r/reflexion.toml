@@ -1,0 +1,8 @@
+name = "reflexion"
+description = "[NeurIPS 2023] Reflexion: Language Agents with Verbal Reinforcement Learning"
+category = "models"
+tags = ["ai", "artificial-intelligence", "llm"]
+repository = "https://github.com/noahshinn/reflexion"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

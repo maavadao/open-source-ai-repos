@@ -1,0 +1,9 @@
+name = "ha-mcp"
+description = "The Unofficial and Awesome Home Assistant MCP Server"
+category = "mcp-servers"
+tags = ["ai", "claude", "hacs", "home-assistant", "home-automation", "llm", "mcp", "model-context-protocol"]
+repository = "https://github.com/homeassistant-ai/ha-mcp"
+website = "https://homeassistant-ai.github.io/ha-mcp/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

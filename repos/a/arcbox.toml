@@ -1,0 +1,9 @@
+name = "arcbox"
+description = "Run AI agents on real and isolated machines — own kernel, filesystem, and network — with <100ms boot. Local first, OCI compatible, pure Rust."
+category = "browser-automation"
+tags = ["ai-agents", "computer-use", "containers", "docker", "firecracker", "microvm", "rust", "sandbox"]
+repository = "https://github.com/arcboxlabs/arcbox"
+website = "https://arcbox.dev"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

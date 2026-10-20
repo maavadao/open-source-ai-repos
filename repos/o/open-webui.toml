@@ -1,0 +1,10 @@
+name = "open-webui"
+description = "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+category = "chat"
+tags = ["ollama", "ollama-webui", "llm", "webui", "self-hosted", "llm-ui", "llm-webui", "llms"]
+repository = "https://github.com/open-webui/open-webui"
+website = "https://openwebui.com"
+license = "NOASSERTION"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

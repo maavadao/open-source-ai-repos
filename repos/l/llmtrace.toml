@@ -1,0 +1,9 @@
+name = "llmtrace"
+description = "Zero-code LLM security & observability proxy. Real-time prompt injection detection, PII scanning, and cost control for OpenAI-compatible APIs. Built in Rust."
+category = "security"
+tags = ["agentic", "ai-agents", "ai-infrastructure", "aiops", "llm-inference", "llm-security", "llm-security-compliance-prompt-injection", "llmops"]
+repository = "https://github.com/techlab-innov/llmtrace"
+website = "http://docs.llmtrace.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

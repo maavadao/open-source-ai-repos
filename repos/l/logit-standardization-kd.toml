@@ -1,0 +1,8 @@
+name = "logit-standardization-KD"
+description = "[CVPR 2024 Highlight] Logit Standardization in Knowledge Distillation"
+category = "vision"
+tags = ["computer-vision", "cvpr2024", "knowledge-distillation", "resnet", "vision-transformer", "cv", "cvpr", "model-compression"]
+repository = "https://github.com/sunshangquan/logit-standardization-KD"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

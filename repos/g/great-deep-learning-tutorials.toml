@@ -1,0 +1,7 @@
+name = "Great-Deep-Learning-Tutorials"
+description = "A Great Collection of Deep Learning Tutorials and Repositories"
+category = "learning"
+tags = ["deep-learning", "deep-neural-networks", "deep-learning-tutorial", "machine-learning", "nlp", "computer-vision", "gan"]
+repository = "https://github.com/ahkarami/Great-Deep-Learning-Tutorials"
+license = "MIT"
+added = 2026-10-20

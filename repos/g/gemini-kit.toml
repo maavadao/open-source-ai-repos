@@ -1,0 +1,8 @@
+name = "gemini-kit"
+description = "19 AI Agents + 44 Commands for Gemini CLI - Code 10x faster with auto planning, testing, review & security"
+category = "mcp-servers"
+tags = ["gemini-extension", "ai-agents", "coding-assistant", "developer-tools", "gemini-cli", "mcp"]
+repository = "https://github.com/nth5693/gemini-kit"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

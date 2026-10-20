@@ -1,0 +1,8 @@
+name = "dox"
+description = "Self-documenting AGENTS.md"
+category = "agents"
+tags = ["agents-md", "ai", "ai-agents", "documentation"]
+repository = "https://github.com/agent0ai/dox"
+website = "https://agent-zero.ai"
+license = "MIT"
+added = 2026-10-20

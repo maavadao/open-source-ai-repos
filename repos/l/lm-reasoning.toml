@@ -1,0 +1,7 @@
+name = "LM-reasoning"
+description = "This repository contains a collection of papers and resources on Reasoning in Large Language Models."
+category = "chat"
+tags = ["large-language-models", "reasoning", "deductive-reasoning", "natural-language-processing", "artificial-intelligence", "human-intelligence", "language-modeling", "language-models"]
+repository = "https://github.com/jeffhj/LM-reasoning"
+license = "MIT"
+added = 2026-10-20

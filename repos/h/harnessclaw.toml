@@ -1,0 +1,8 @@
+name = "harnessclaw"
+description = "Harnessclaw is a powerful, Electron-based desktop application designed to manage, chat with, and operate AI agents and skills seamlessly."
+category = "chat"
+tags = ["ai-agents", "chatbot", "desktop-app", "harness-engineering", "agent", "electron-app", "harness", "open"]
+repository = "https://github.com/harnessclaw/harnessclaw"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

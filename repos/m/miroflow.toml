@@ -1,0 +1,9 @@
+name = "MiroFlow"
+description = "Top-1 on 5+ benchmarks | Web UI | Supports MiroThinker, Claude, Kimi, OpenAI"
+category = "search"
+tags = ["agent-framework", "agents", "claude", "deep-research", "futurex", "gaia", "gpt-5", "hle"]
+repository = "https://github.com/MiroMindAI/MiroFlow"
+website = "https://miromindai.github.io/MiroFlow/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

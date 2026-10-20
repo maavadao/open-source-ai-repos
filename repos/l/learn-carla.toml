@@ -1,0 +1,8 @@
+name = "Learn-Carla"
+description = "Learn how to use CARLA with basic APIs"
+category = "robotics"
+tags = ["autonomous-driving", "carla", "simulations"]
+repository = "https://github.com/DerrickXuNu/Learn-Carla"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

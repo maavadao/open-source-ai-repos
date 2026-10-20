@@ -1,0 +1,9 @@
+name = "recall"
+description = "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code , Opencode durable memory — entirely offline."
+category = "security"
+tags = ["ai", "ai-agents", "anthropic", "claude", "claude-code", "claude-code-plugin", "claude-plugin", "context"]
+repository = "https://github.com/raiyanyahya/recall"
+website = "https://recallplugin.dev"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "Luotuo-Chinese-LLM"
+description = "骆驼(Luotuo): Open Sourced Chinese Language Models. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技"
+category = "models"
+repository = "https://github.com/LC1332/Luotuo-Chinese-LLM"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

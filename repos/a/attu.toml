@@ -1,0 +1,8 @@
+name = "attu"
+description = "The Best GUI for Milvus"
+category = "vector-databases"
+tags = ["vector-database", "milvus", "attu"]
+repository = "https://github.com/zilliztech/attu"
+license = "NOASSERTION"
+language = "Shell"
+added = 2026-10-20

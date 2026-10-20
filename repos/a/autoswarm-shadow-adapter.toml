@@ -1,0 +1,9 @@
+name = "AutoSwarm-Shadow-Adapter"
+description = "Zero-modification Human-in-the-Loop adapter for OpenOPC's agentic DAG runtime."
+category = "agents"
+tags = ["fastapi", "hitl", "human-in-the-loop", "llm", "multi-agent", "openopc", "orchestration", "python"]
+repository = "https://github.com/AhmadHassan-BTed/AutoSwarm-Shadow-Adapter"
+website = "https://pypi.org/project/AutoSwarm-shadow-adapter/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

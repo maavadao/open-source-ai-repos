@@ -1,0 +1,9 @@
+name = "Augmentor"
+description = "Image augmentation library in Python for machine learning."
+category = "ml-platforms"
+tags = ["augmentation", "machine-learning", "deep-learning", "neural-networks"]
+repository = "https://github.com/mdbloice/Augmentor"
+website = "https://augmentor.readthedocs.io/en/stable"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

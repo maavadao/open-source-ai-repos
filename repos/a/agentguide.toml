@@ -1,0 +1,8 @@
+name = "AgentGuide"
+description = "https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成"
+category = "learning"
+tags = ["ai-agent", "crewai", "interview", "job-hunting", "langchain", "llm", "multi-agent", "rag"]
+repository = "https://github.com/adongwanai/AgentGuide"
+license = "NOASSERTION"
+language = "MDX"
+added = 2026-10-20

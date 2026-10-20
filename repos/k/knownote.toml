@@ -1,0 +1,9 @@
+name = "KnowNote"
+description = "A local-first AI knowledge base & NotebookLM alternative built with Electron."
+category = "learning"
+tags = ["notebooklm", "anthropic", "electron-app", "google", "local-first", "localllama", "notebooks", "openai-compatible"]
+repository = "https://github.com/mrsibe/KnowNote"
+website = "https://knownote.pages.dev"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

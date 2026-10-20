@@ -1,0 +1,9 @@
+name = "Fusion"
+description = "Your Software Factory - build faster and better with multi node agents that work 24/7"
+category = "agents"
+tags = ["agent", "agentic-workflow", "agents", "llm", "orchestration-framework"]
+repository = "https://github.com/Runfusion/Fusion"
+website = "http://runfusion.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

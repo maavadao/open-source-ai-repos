@@ -1,0 +1,9 @@
+name = "Robust-U1"
+description = "[ICML 2026] Official Implementation of Robust-U1: Can MLLMs Self-Recover Corrupted Visual Content for Robust Understanding?"
+category = "models"
+tags = ["generation", "image-restoration", "large-language-models", "low-level-vision", "reasoning", "reasoning-language-models", "unified-model"]
+repository = "https://github.com/PolyX-Research/Robust-U1"
+website = "https://huggingface.co/spaces/Jiaqi-hkust/Robust-U1"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "clawsweeper"
+description = "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week."
+category = "other"
+tags = ["ai", "bot", "openclaw", "review"]
+repository = "https://github.com/openclaw/clawsweeper"
+website = "https://clawsweeper.bot"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

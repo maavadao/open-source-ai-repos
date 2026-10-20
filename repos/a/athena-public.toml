@@ -1,0 +1,9 @@
+name = "Athena-Public"
+description = "Local-first memory, decision engine, and governance harness for AI agents — portable across IDEs. Own the state. Rent the intelligence."
+category = "no-code"
+tags = ["ai-assistant", "automation", "framework", "gemini", "google-antigravity", "python", "knowledge-management", "rag"]
+repository = "https://github.com/winstonkoh87/Athena-Public"
+website = "https://winstonkoh87.com/athena/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "predikit"
+description = "The missing bridge between your ML models and your AI agents."
+category = "local-llms"
+tags = ["agents", "langchain", "llm", "machine-learning", "openai", "python", "sklearn", "xgboost"]
+repository = "https://github.com/Tejas-TA/predikit"
+website = "https://pypi.org/project/predikit/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

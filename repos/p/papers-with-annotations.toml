@@ -1,0 +1,7 @@
+name = "papers-with-annotations"
+description = "Research papers with annotations, illustrations and explanations"
+category = "vision"
+tags = ["machine-learning", "deep-learning", "computer-vision"]
+repository = "https://github.com/Machine-Learning-Tokyo/papers-with-annotations"
+license = "MIT"
+added = 2026-10-20

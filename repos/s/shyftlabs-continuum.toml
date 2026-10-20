@@ -1,0 +1,9 @@
+name = "continuum"
+description = "Continuum — the agent runtime by ShyftLabs. Build, orchestrate, ship."
+category = "mcp-servers"
+tags = ["agent-framework", "agentic-ai", "ai-agents", "ai-orchestration", "anthropic", "enterprise-ai", "human-in-the-loop", "kimi-k2"]
+repository = "https://github.com/shyftlabs/continuum"
+website = "https://docs.continuum.shyftlabs.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

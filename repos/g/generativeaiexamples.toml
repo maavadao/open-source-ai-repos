@@ -1,0 +1,8 @@
+name = "GenerativeAIExamples"
+description = "Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture."
+category = "local-llms"
+tags = ["gpu-acceleration", "large-language-models", "llm", "llm-inference", "microservice", "nemo", "rag", "retrieval-augmented-generation"]
+repository = "https://github.com/NVIDIA/GenerativeAIExamples"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

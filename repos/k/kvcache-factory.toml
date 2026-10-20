@@ -1,0 +1,8 @@
+name = "KVCache-Factory"
+description = "Unified KV Cache Compression Methods for Auto-Regressive Models"
+category = "models"
+tags = ["kv-cache", "kv-cache-compression", "llm"]
+repository = "https://github.com/Zefan-Cai/KVCache-Factory"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

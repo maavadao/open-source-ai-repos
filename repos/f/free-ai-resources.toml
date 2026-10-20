@@ -1,0 +1,7 @@
+name = "free-ai-resources"
+description = "FREE AI Resources - Courses, Jobs, Blogs, AI Research, and many more - for everyone!"
+category = "learning"
+tags = ["artificial-intelligence", "artificial-neural-networks", "machine-learning", "machine-learning-algorithms", "machinelearning", "data-science", "ai", "research"]
+repository = "https://github.com/mrsaeeddev/free-ai-resources"
+license = "MIT"
+added = 2026-10-20

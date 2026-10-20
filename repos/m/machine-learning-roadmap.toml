@@ -1,0 +1,7 @@
+name = "machine-learning-roadmap"
+description = "A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them."
+category = "learning"
+tags = ["machine-learning", "deep-learning", "data", "data-science"]
+repository = "https://github.com/mrdbourke/machine-learning-roadmap"
+license = "MIT"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ClickUi"
+description = "The best way to use AI is on your own computer. Use local or paid API models, and ctrl+k to show/hide the chat UI. Experience the future of AI, and help build it too!"
+category = "speech"
+tags = ["ai", "chatgpt", "claude", "deepseek", "hotkeys", "kokoro", "ollama", "open-source"]
+repository = "https://github.com/CodeUpdaterBot/ClickUi"
+website = "https://clickui.app"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

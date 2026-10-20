@@ -1,0 +1,9 @@
+name = "StableSR"
+description = "[IJCV2024] Exploiting Diffusion Prior for Real-World Image Super-Resolution"
+category = "image"
+tags = ["stable-diffusion", "super-resolution", "stablesr"]
+repository = "https://github.com/IceClear/StableSR"
+website = "https://iceclear.github.io/projects/stablesr/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "clothes-virtual-try-on"
+description = "Virtual Clothing Assistant a custom unique implementation of ViTON, allows user to try different clothings virtually"
+category = "vision"
+tags = ["computer-vision", "deeplearning", "segmentation", "viton", "pose-estimation", "gan"]
+repository = "https://github.com/SwayamInSync/clothes-virtual-try-on"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ogb"
+description = "Benchmark datasets, data loaders, and evaluators for graph machine learning"
+category = "ml-platforms"
+tags = ["graph-machine-learning", "graph-neural-networks", "deep-learning", "datasets"]
+repository = "https://github.com/snap-stanford/ogb"
+website = "https://ogb.stanford.edu"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

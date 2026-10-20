@@ -1,0 +1,9 @@
+name = "TabTin"
+description = "A workspace where people and multiple AI agents work together."
+category = "agents"
+tags = ["agents", "ai", "collaboration", "desktop", "workspace"]
+repository = "https://github.com/tabtin-ai/TabTin"
+website = "https://www.tabtin.com/"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

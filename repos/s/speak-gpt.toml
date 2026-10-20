@@ -1,0 +1,9 @@
+name = "speak-gpt"
+description = "Your personal voice assistant based on OpenAI ChatGPT."
+category = "speech"
+tags = ["android", "assistant", "assistant-chat-bots", "chatbot", "chatgpt", "dall-e", "gpt", "kotlin"]
+repository = "https://github.com/AndraxDev/speak-gpt"
+website = "https://play.google.com/store/apps/details?id=org.teslasoft.assistant"
+license = "Apache-2.0"
+language = "Kotlin"
+added = 2026-10-20

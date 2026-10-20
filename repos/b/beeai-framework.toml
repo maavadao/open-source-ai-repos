@@ -1,0 +1,9 @@
+name = "beeai-framework"
+description = "Build production-ready AI agents in both Python and Typescript."
+category = "agents"
+tags = ["agents", "ai", "framework", "ai-agent", "llm", "multiagent", "python", "typescript"]
+repository = "https://github.com/i-am-bee/beeai-framework"
+website = "http://framework.beeai.dev"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

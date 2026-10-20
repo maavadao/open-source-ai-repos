@@ -1,0 +1,9 @@
+name = "pytextrank"
+description = "Python implementation of TextRank algorithms (\"textgraphs\") for phrase extraction"
+category = "data-science"
+tags = ["textrank", "summarization", "natural-language-processing", "nlp", "machine-learning", "graph-algorithms", "spacy", "spacy-extension"]
+repository = "https://github.com/DerwenAI/pytextrank"
+website = "https://derwen.ai/docs/ptr/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

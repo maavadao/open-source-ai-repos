@@ -1,0 +1,8 @@
+name = "Qwen-VL"
+description = "The official repo of Qwen-VL (通义千问-VL) chat & pretrained large vision language model proposed by Alibaba Cloud."
+category = "models"
+tags = ["large-language-models", "vision-language-model"]
+repository = "https://github.com/QwenLM/Qwen-VL"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

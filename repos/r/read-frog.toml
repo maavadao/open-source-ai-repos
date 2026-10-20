@@ -1,0 +1,9 @@
+name = "read-frog"
+description = "Read Frog - Open-source AI language learning & flashcards, an Immersive Translate alternative | 陪读蛙 - 开源 AI 语言学习与闪词卡，沉浸式翻译替代"
+category = "models"
+tags = ["browser-extension", "chrome-extension", "deepseek", "language-learning", "llm", "openai", "gpt", "english-learning"]
+repository = "https://github.com/mengxi-ream/read-frog"
+website = "https://www.readfrog.app"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

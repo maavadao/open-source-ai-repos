@@ -1,0 +1,8 @@
+name = "RemoveWindowsAI"
+description = "Force Remove Copilot, Recall and More in Windows 11"
+category = "security"
+tags = ["copilot", "recall", "windows", "ai", "debloat", "image-creator", "rewrite", "powershell"]
+repository = "https://github.com/zoicware/RemoveWindowsAI"
+license = "MIT"
+language = "PowerShell"
+added = 2026-10-20

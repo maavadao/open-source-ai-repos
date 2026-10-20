@@ -1,0 +1,8 @@
+name = "goal-flow"
+description = "Graph-Orchestrated Agent Loop — a production-grade framework on LangGraph. Combine workflow graphs and agent loops, transpile Dify DSL to runnable code, swap wire protocols (Dify/OpenAI)."
+category = "agents"
+tags = ["agent", "agentic", "agentic-ai", "agentic-engineering", "ai", "harness", "llm", "mulit-agent"]
+repository = "https://github.com/wanmol/goal-flow"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

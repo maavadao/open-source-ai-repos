@@ -1,0 +1,9 @@
+name = "BossSensor"
+description = "Hide screen when boss is approaching."
+category = "vision"
+tags = ["machine-learning", "cnn", "deep-learning", "opencv", "computer-vision"]
+repository = "https://github.com/Hironsan/BossSensor"
+website = "http://ahogrammer.com/2016/11/15/deep-learning-enables-you-to-hide-screen-when-your-boss-is-approaching/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

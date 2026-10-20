@@ -1,0 +1,7 @@
+name = "Collaborative_Perception"
+description = "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario."
+category = "robotics"
+tags = ["autonomous-driving", "collaborative-perception", "cooperative-perception", "v2v", "multi-agent-perception", "v2i", "v2x", "awesome-list"]
+repository = "https://github.com/Little-Podi/Collaborative_Perception"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,10 @@
+name = "jan"
+description = "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer."
+category = "local-llms"
+tags = ["llamacpp", "localai", "self-hosted", "gpt", "tauri", "chatgpt", "llm", "open-source"]
+repository = "https://github.com/janhq/jan"
+website = "https://jan.ai"
+license = "NOASSERTION"
+language = "Rust"
+skill_level = "beginner"
+added = 2026-10-20

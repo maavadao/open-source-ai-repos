@@ -1,0 +1,8 @@
+name = "llm-engineer-toolkit"
+description = "A curated list of 120+ LLM libraries category wise."
+category = "learning"
+tags = ["ai-engineer", "generative-ai", "large-language-models", "llms", "llm-engineer"]
+repository = "https://github.com/KalyanKS-NLP/llm-engineer-toolkit"
+website = "https://www.linkedin.com/in/kalyanksnlp/"
+license = "Apache-2.0"
+added = 2026-10-20

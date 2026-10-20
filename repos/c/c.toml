@@ -1,0 +1,9 @@
+name = "C"
+description = "Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes."
+category = "learning"
+tags = ["algorithms", "data-structures", "datastructures", "c", "algorithm-challenges", "algorithm-competitions", "education", "learn-to-code"]
+repository = "https://github.com/TheAlgorithms/C"
+website = "https://thealgorithms.github.io/C"
+license = "GPL-3.0"
+language = "C"
+added = 2026-10-20

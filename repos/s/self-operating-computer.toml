@@ -1,0 +1,9 @@
+name = "self-operating-computer"
+description = "A framework to enable a multimodal model to operate a computer."
+category = "no-code"
+tags = ["automation", "openai", "pyautogui"]
+repository = "https://github.com/OthersideAI/self-operating-computer"
+website = "https://www.hyperwriteai.com/self-operating-computer"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

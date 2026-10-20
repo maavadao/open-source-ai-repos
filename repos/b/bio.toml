@@ -1,0 +1,9 @@
+name = "bio"
+description = "The world's most powerful open-source bio AI assistant - Access academic literature, clinical trials, drug labels, and more, all through natural conversation."
+category = "agents"
+tags = ["academic-paper", "ai", "ai-agents", "bio-ai", "drug-design", "drug-discovery", "healthcare-ai"]
+repository = "https://github.com/yorkeccak/bio"
+website = "https://bio.valyu.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

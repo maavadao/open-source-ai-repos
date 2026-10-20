@@ -1,0 +1,9 @@
+name = "InternVL"
+description = "[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4o. 接近GPT-4o表现的开源多模态对话模型"
+category = "vision"
+tags = ["image-classification", "image-text-retrieval", "llm", "semantic-segmentation", "video-classification", "vision-language-model", "vit-22b", "vit-6b"]
+repository = "https://github.com/OpenGVLab/InternVL"
+website = "https://internvl.readthedocs.io/en/latest/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

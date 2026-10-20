@@ -1,0 +1,9 @@
+name = "Spatial-MLLM"
+description = "[NeurIPS 2025 Spotlight] Official implementation of Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence"
+category = "image"
+tags = ["llm", "multimodal", "multimodal-large-language-models", "spatial-intelligence", "aigc"]
+repository = "https://github.com/THU-SI/Spatial-MLLM"
+website = "https://diankun-wu.github.io/Spatial-MLLM/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

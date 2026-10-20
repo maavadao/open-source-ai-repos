@@ -1,0 +1,9 @@
+name = "carma-platform"
+description = "CARMA Platform is built on robot operating system (ROS) and utilizes open source software (OSS) that enables Cooperative Driving Automation (CDA) features to allow Automated Driving Systems to interact and cooperate with infrastructure and other vehicles through…"
+category = "robotics"
+tags = ["ros", "cpp", "cooperative-driving-automation", "automated-vehicles", "autonomous-driving", "autonomous-vehicles", "self-driving", "open-source"]
+repository = "https://github.com/usdot-fhwa-stol/carma-platform"
+website = "https://usdot-fhwa-stol.github.io/documentation/carma-platform/"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

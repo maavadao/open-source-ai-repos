@@ -1,0 +1,8 @@
+name = "MapTR"
+description = "[ICLR'23 Spotlight & ECCV'24 & IJCV'24] MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction"
+category = "robotics"
+tags = ["bev", "end-to-end", "real-time", "transformer", "online-hdmap-construction", "shape-representation", "vectorized-hdmap", "autonomous-driving"]
+repository = "https://github.com/hustvl/MapTR"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Curie"
+description = "Curie: Automated and Rigorous Scientific Experimentation with AI Agents"
+category = "agents"
+tags = ["ai-agents", "ai-for-science", "artificial-intelligence", "cli", "gpt", "llm", "scientific-experiment", "scientific-research"]
+repository = "https://github.com/Just-Curieous/Curie"
+website = "https://www.just-curieous.com/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "composer"
+description = "Supercharge Your Model Training"
+category = "ml-platforms"
+tags = ["deep-learning", "pytorch", "neural-networks", "ml-systems", "ml-efficiency", "ml-training", "machine-learning", "neural-network"]
+repository = "https://github.com/mosaicml/composer"
+website = "http://docs.mosaicml.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "UTMOSv2"
+description = "UTokyo-SaruLab MOS Prediction System"
+category = "speech"
+tags = ["ai", "artificial-intelligence", "deep-learning", "machine-learning", "mean-opinion-score", "mos", "speech-recognition", "speech-synthesis"]
+repository = "https://github.com/sarulab-speech/UTMOSv2"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

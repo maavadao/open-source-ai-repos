@@ -1,0 +1,9 @@
+name = "VeritasGraph"
+description = "VeritasGraph — open-source Knowledge Graph & GraphRAG framework on GitHub. Build multi-hop reasoning, ontology-aware retrieval, and verifiable attribution over your own data. Nodes, edges, RDF, linked-data — runs locally or in the cloud."
+category = "agents"
+tags = ["generative-ai", "graph-rag", "information-retrieval", "llm", "nlp", "rag", "multi-hop-reasoning", "enterprise-ai"]
+repository = "https://github.com/bibinprathap/VeritasGraph"
+website = "https://bibinprathap.github.io/VeritasGraph/studio/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

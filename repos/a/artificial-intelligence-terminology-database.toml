@@ -1,0 +1,7 @@
+name = "Artificial-Intelligence-Terminology-Database"
+description = "A comprehensive mapping database of English to Chinese technical vocabulary in the artificial intelligence domain"
+category = "data-science"
+tags = ["artificial-intelligence", "machine-learning", "ai", "terminology"]
+repository = "https://github.com/jiqizhixin/Artificial-Intelligence-Terminology-Database"
+license = "NOASSERTION"
+added = 2026-10-20

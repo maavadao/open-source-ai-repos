@@ -1,0 +1,8 @@
+name = "facts"
+description = "Antidote for fluffy specs, a toolkit for fact-driven development with AI agents"
+category = "coding"
+tags = ["agents", "claude-code", "codex", "copilot", "gemini", "llm", "skills", "spec-driven-development"]
+repository = "https://github.com/av/facts"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

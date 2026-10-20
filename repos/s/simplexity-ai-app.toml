@@ -1,0 +1,8 @@
+name = "simplexity-ai-app"
+description = "Community-driven P.... AI desktop app powered by Electron, bringing powerful AI language intelligence straight to your desktop."
+category = "search"
+tags = ["ai", "chatbot", "electron", "electron-app", "javascript", "meta", "perplexity", "perplexity-ai"]
+repository = "https://github.com/inulute/simplexity-ai-app"
+license = "GPL-3.0"
+language = "JavaScript"
+added = 2026-10-20

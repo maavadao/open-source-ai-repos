@@ -1,0 +1,9 @@
+name = "gluonts"
+description = "Probabilistic time series modeling in Python"
+category = "ml-platforms"
+tags = ["time-series", "deep-learning", "forecasting", "neural-networks", "machine-learning", "time-series-prediction", "time-series-forecasting", "mxnet"]
+repository = "https://github.com/awslabs/gluonts"
+website = "https://ts.gluon.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

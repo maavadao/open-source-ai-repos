@@ -1,0 +1,8 @@
+name = "flan-alpaca"
+description = "This repository contains code for extending the Stanford Alpaca synthetic instruction tuning to existing instruction-tuned models such as Flan-T5."
+category = "models"
+tags = ["flan-t5", "alpaca", "language-model", "llm", "transformers"]
+repository = "https://github.com/declare-lab/flan-alpaca"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

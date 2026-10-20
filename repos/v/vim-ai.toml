@@ -1,0 +1,8 @@
+name = "vim-ai"
+description = "AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim."
+category = "coding"
+tags = ["chatgpt", "code-generation", "gpt-4", "neovim", "openai", "vim", "llm", "gemini"]
+repository = "https://github.com/madox2/vim-ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

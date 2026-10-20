@@ -1,0 +1,7 @@
+name = "ai-megalist"
+description = "Curated index of 200+ AI tools, one writeup per tool with hands-on takes. Covers coding, design, research, video, voice, agents, music, local LLMs. Compare alternatives, see real pricing, find the right tool for the job."
+category = "coding"
+tags = ["agents", "ai", "ai-agents", "ai-tools", "ai-video", "artificial-intelligence", "awesome", "awesome-list"]
+repository = "https://github.com/IrtezaAsadRizvi/ai-megalist"
+license = "MIT"
+added = 2026-10-20

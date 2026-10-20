@@ -1,0 +1,8 @@
+name = "awesome-ios-design-md"
+description = "200 production-grade DESIGN.md design systems for the world's best apps. Framework-neutral plus SwiftUI, Jetpack Compose, and Expo. Hand one to your AI agent, ship pixel-matched UI."
+category = "learning"
+tags = ["ai-agents", "ai-coding", "android", "awesome", "awesome-list", "claude", "cursor", "design-md"]
+repository = "https://github.com/Meliwat/awesome-ios-design-md"
+website = "https://www.spectr.to/gallery"
+license = "MIT"
+added = 2026-10-20

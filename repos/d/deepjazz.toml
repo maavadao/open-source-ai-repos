@@ -1,0 +1,9 @@
+name = "deepjazz"
+description = "Deep learning driven jazz generation using Keras & Theano!"
+category = "speech"
+tags = ["deep-learning", "machine-learning", "music", "jazz", "keras", "theano", "neural-networks", "rnn"]
+repository = "https://github.com/jisungk/deepjazz"
+website = "http://deepjazz.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

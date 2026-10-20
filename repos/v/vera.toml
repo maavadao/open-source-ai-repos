@@ -1,0 +1,8 @@
+name = "vera"
+description = "Local code search combining BM25, vector similarity, and cross-encoder reranking. Parses 60+ languages with tree-sitter, runs entirely offline, and returns structured results with file paths, line ranges, and symbol metadata. Built in Rust."
+category = "mcp-servers"
+tags = ["bm25", "cli", "code-search", "code-search-engine", "cross-encoder", "embeddings", "local", "mcp"]
+repository = "https://github.com/VeraTools/vera"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

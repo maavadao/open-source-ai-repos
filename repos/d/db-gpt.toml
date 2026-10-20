@@ -1,0 +1,9 @@
+name = "DB-GPT"
+description = "open-source agentic AI data assistant for the next generation of AI + Data products."
+category = "agents"
+tags = ["database", "gpt-4", "vicuna", "private", "security", "llm", "agents", "bgi"]
+repository = "https://github.com/eosphoros-ai/DB-GPT"
+website = "http://docs.dbgpt.cn"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

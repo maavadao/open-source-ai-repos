@@ -1,0 +1,8 @@
+name = "vidur"
+description = "Accurate, large-scale, and extensible simulator for LLM inference Systems"
+category = "local-llms"
+tags = ["inference", "llm", "simulation", "transformer", "vllm"]
+repository = "https://github.com/microsoft/vidur"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

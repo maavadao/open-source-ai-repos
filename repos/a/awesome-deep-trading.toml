@@ -1,0 +1,7 @@
+name = "awesome-deep-trading"
+description = "List of awesome resources for machine learning-based algorithmic trading"
+category = "learning"
+tags = ["deep-trading", "deep-learning", "trading-algorithms", "trading-bot", "quantitative-trading", "fintech", "stock-trading", "trading-bots"]
+repository = "https://github.com/cbailes/awesome-deep-trading"
+license = "MIT"
+added = 2026-10-20

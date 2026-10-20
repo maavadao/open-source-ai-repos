@@ -1,0 +1,8 @@
+name = "adaptive-classifier"
+description = "A flexible, adaptive classification system for dynamic text classification"
+category = "models"
+tags = ["adaptive-learning", "bert", "classifier", "continous-learning", "distilbert", "elastic-weight-consolidation", "embeddings", "faiss"]
+repository = "https://github.com/codelion/adaptive-classifier"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

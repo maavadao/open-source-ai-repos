@@ -1,0 +1,8 @@
+name = "codex_py2cpp"
+description = "Converts python code into c++ by using OpenAI CODEX."
+category = "coding"
+tags = ["codex", "cpp", "openai", "python", "code-generation", "ai"]
+repository = "https://github.com/alxschwrz/codex_py2cpp"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

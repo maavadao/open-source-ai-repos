@@ -1,0 +1,9 @@
+name = "juror"
+description = "Cheaper and better Greptile alternative runs on your own github actions."
+category = "mcp-servers"
+tags = ["ai-agents", "ai-code-review", "cli", "code-quality", "code-review", "codex", "developer-tools", "devtools"]
+repository = "https://github.com/Juror-AI/juror"
+website = "https://jays.fyi/blog/how-i-removed-greptile"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "emgucv"
+description = "Emgu CV is a cross platform .Net wrapper to the OpenCV image processing library."
+category = "vision"
+tags = ["ai", "computer-vision", "dotnet", "emgu", "emgucv", "image-classification", "image-processing", "image-recognition"]
+repository = "https://github.com/emgucv/emgucv"
+website = "https://www.emgu.com/"
+license = "NOASSERTION"
+language = "C#"
+added = 2026-10-20

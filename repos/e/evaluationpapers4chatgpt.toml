@@ -1,0 +1,7 @@
+name = "EvaluationPapers4ChatGPT"
+description = "Resource, Evaluation and Detection Papers for ChatGPT"
+category = "chat"
+tags = ["chatgpt", "detection", "evaluation", "large-language-models", "resource"]
+repository = "https://github.com/THU-KEG/EvaluationPapers4ChatGPT"
+license = "MIT"
+added = 2026-10-20

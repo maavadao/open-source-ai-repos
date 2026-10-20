@@ -1,0 +1,9 @@
+name = "ClawX"
+description = "ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. China website is https://clawx.com.cn."
+category = "skills-prompts"
+tags = ["agent", "clawdbot", "moltbot", "openclaw", "skill", "agentic-ai", "agents", "ai"]
+repository = "https://github.com/ValueCell-ai/ClawX"
+website = "https://claw-x.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

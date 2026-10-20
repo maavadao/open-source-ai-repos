@@ -1,0 +1,8 @@
+name = "GalTransl"
+description = "支持GPT/Claude/Deepseek/Sakura等大语言模型的Galgame自动化翻译解决方案 Automated translation solution for visual novels supporting GPT/Claude/Deepseek/Sakura"
+category = "other"
+tags = ["ai", "galgame", "translater"]
+repository = "https://github.com/GalTransl/GalTransl"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

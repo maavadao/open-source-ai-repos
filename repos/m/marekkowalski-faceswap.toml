@@ -1,0 +1,8 @@
+name = "FaceSwap"
+description = "3D face swapping implemented in Python"
+category = "vision"
+tags = ["3d-models", "face-alignment", "computer-vision", "face-swap", "optimization"]
+repository = "https://github.com/MarekKowalski/FaceSwap"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

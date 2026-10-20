@@ -1,0 +1,8 @@
+name = "xiaogpt"
+description = "Play ChatGPT and other LLM with Xiaomi AI Speaker"
+category = "chat"
+tags = ["python", "chatgpt", "xiaomi", "llms"]
+repository = "https://github.com/yihong0618/xiaogpt"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "DeepRL-TensorFlow2"
+description = "Simple implementations of various popular Deep Reinforcement Learning algorithms using TensorFlow2"
+category = "ml-platforms"
+tags = ["tensorflow", "machine-learning", "reinforcement-learning", "a2c", "a3c", "reinforce", "dqn", "trpo"]
+repository = "https://github.com/olramde/DeepRL-TensorFlow2"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

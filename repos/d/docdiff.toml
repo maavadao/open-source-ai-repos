@@ -1,0 +1,8 @@
+name = "DocDiff"
+description = "ACM Multimedia 2023: DocDiff: Document Enhancement via Residual Diffusion Models. Also contains 1597 red seals in Chinese scenes, along with their corresponding binary masks."
+category = "documents"
+tags = ["deblurring", "diffusion-models", "document-binarization", "image-translation", "img2img", "image-to-image", "low-level-vision", "super-resolution"]
+repository = "https://github.com/Royalvice/DocDiff"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

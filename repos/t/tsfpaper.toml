@@ -1,0 +1,7 @@
+name = "TSFpaper"
+description = "This repository contains a reading list of papers on Time Series Forecasting/Prediction (TSF) and Spatio-Temporal Forecasting/Prediction (STF). These papers are mainly categorized according to the type of model."
+category = "learning"
+tags = ["deep-learning", "time-series", "time-series-analysis", "time-series-forecasting", "time-series-prediction", "deep-neural-networks", "paper-lists", "rnn"]
+repository = "https://github.com/ddz16/TSFpaper"
+license = "NOASSERTION"
+added = 2026-10-20

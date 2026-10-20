@@ -1,0 +1,8 @@
+name = "bindsnet"
+description = "Simulation of spiking neural networks (SNNs) using PyTorch."
+category = "ml-platforms"
+tags = ["spiking-neural-networks", "gpu-computing", "pytorch", "machine-learning", "snn", "reinforcement-learning", "stdp", "dynamic"]
+repository = "https://github.com/BindsNET/bindsnet"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Surprise"
+description = "A Python scikit for building and analyzing recommender systems"
+category = "data-science"
+tags = ["recommender", "systems", "recommendation", "svd", "matrix", "factorization", "machine-learning"]
+repository = "https://github.com/NicolasHug/Surprise"
+website = "http://surpriselib.com"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

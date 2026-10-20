@@ -1,0 +1,7 @@
+name = "reproducible-image-denoising-state-of-the-art"
+description = "Collection of popular and reproducible image denoising works."
+category = "ml-platforms"
+tags = ["image-denoising", "benchmarking", "state-of-the-art", "reproducible-research", "implementation", "curated-list", "summary", "inverse-problems"]
+repository = "https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art"
+license = "NOASSERTION"
+added = 2026-10-20

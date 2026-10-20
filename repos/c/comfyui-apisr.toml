@@ -1,0 +1,8 @@
+name = "ComfyUI-APISR"
+description = "Unofficial implementation of APISR for ComfyUI"
+category = "image"
+tags = ["comfyui", "stable-diffusion"]
+repository = "https://github.com/ZHO-ZHO-ZHO/ComfyUI-APISR"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

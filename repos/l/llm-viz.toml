@@ -1,0 +1,8 @@
+name = "llm-viz"
+description = "3D Visualization of an GPT-style LLM"
+category = "vision"
+repository = "https://github.com/bbycroft/llm-viz"
+website = "https://bbycroft.net"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

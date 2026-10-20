@@ -1,0 +1,9 @@
+name = "learn-claude-code"
+description = "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1"
+category = "learning"
+tags = ["agent", "claude-code", "teaching", "agent-development", "ai-agent", "claude", "educational", "llm"]
+repository = "https://github.com/shareAI-lab/learn-claude-code"
+website = "https://learn.shareai.run"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

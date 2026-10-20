@@ -1,0 +1,9 @@
+name = "franka_ros2"
+description = "ROS 2 integration for Franka research robots"
+category = "robotics"
+tags = ["ros2", "robotics"]
+repository = "https://github.com/frankarobotics/franka_ros2"
+website = "https://frankarobotics.github.io/docs/doc/franka_ros2_jazzy/docs/index.html"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

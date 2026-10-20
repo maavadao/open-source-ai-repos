@@ -1,0 +1,8 @@
+name = "GITM"
+description = "Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory"
+category = "models"
+tags = ["artificial-intelligence", "llms", "minecraft", "reinforcement-learning", "gitm", "ghost-in-the-minecraft"]
+repository = "https://github.com/OpenGVLab/GITM"
+website = "https://arxiv.org/abs/2305.17144"
+license = "NOASSERTION"
+added = 2026-10-20

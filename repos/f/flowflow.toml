@@ -1,0 +1,9 @@
+name = "flowflow"
+description = "Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite"
+category = "vector-databases"
+tags = ["dioxus", "ios", "lancedb", "rag", "rrf", "stt", "vector-database", "vector-search"]
+repository = "https://github.com/mirkobozzetto/flowflow"
+website = "https://apps.apple.com/us/app/flowflow/id6773033233"
+license = "EUPL-1.2"
+language = "Rust"
+added = 2026-10-20

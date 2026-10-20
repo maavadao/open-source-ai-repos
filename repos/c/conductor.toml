@@ -1,0 +1,9 @@
+name = "conductor"
+description = "Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents"
+category = "no-code"
+tags = ["distributed-systems", "grpc", "java", "javascript", "microservice-orchestration", "orchestration-engine", "orchestrator", "reactjs"]
+repository = "https://github.com/conductor-oss/conductor"
+website = "https://docs.conductor-oss.org/"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "MEEE"
+description = "Code to reproduce the experiments in Sample Efficient Reinforcement Learning via Model-Ensemble Exploration and Exploitation (MEEE)."
+category = "ml-platforms"
+tags = ["reinforcement-learning", "exploration-exploitation", "model-based-reinforcement-learning"]
+repository = "https://github.com/YaoYao1995/MEEE"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

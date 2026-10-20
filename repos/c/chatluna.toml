@@ -1,0 +1,9 @@
+name = "chatluna"
+description = "多平台模型接入，可扩展，多种输出格式，提供大语言模型聊天服务的插件 | A bot plugin for LLM chat with multi-model integration, extensibility, and various output formats"
+category = "mcp-servers"
+tags = ["chatgpt", "gpt", "koishi", "openai", "plugin", "typescript", "bot", "chatglm"]
+repository = "https://github.com/ChatLunaLab/chatluna"
+website = "https://chatluna.chat"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

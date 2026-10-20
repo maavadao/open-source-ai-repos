@@ -1,0 +1,8 @@
+name = "handson-ml"
+description = "DEPRECATED – See https://github.com/ageron/handson-ml3 or handson-mlp instead."
+category = "ml-platforms"
+tags = ["tensorflow", "scikit-learn", "machine-learning", "python", "deep-learning", "neural-network", "ml", "distributed"]
+repository = "https://github.com/ageron/handson-ml"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

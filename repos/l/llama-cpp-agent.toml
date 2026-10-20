@@ -1,0 +1,8 @@
+name = "llama-cpp-agent"
+description = "The llama-cpp-agent framework is a tool designed for easy interaction with Large Language Models (LLMs). Allowing users to chat with LLM models, execute structured function calls and get structured output. Works also with models not fine-tuned to JSON output and function calls."
+category = "agents"
+tags = ["agents", "llamacpp", "llm", "llms", "function-calling", "parallel-function-call", "llm-agent", "llm-framework"]
+repository = "https://github.com/Maximilian-Winter/llama-cpp-agent"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

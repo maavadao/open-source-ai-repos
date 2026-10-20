@@ -1,0 +1,10 @@
+name = "navigation2"
+description = "ROS 2 Navigation Framework and System"
+category = "robotics"
+tags = ["ros2", "navigation", "robotics"]
+repository = "https://github.com/ros-navigation/navigation2"
+website = "https://nav2.org/"
+license = "NOASSERTION"
+language = "C++"
+skill_level = "advanced"
+added = 2026-10-20

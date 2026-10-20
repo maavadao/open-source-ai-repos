@@ -1,0 +1,9 @@
+name = "DAGSfM"
+description = "Distributed and Graph-based Structure from Motion. This project includes the official implementation of our Pattern Recognition 2020 paper: Graph-Based Parallel Large Scale Structure from Motion."
+category = "vision"
+tags = ["computer-vision", "structure-from-motion", "multi-view-geometry", "sfm", "3d-reconstruction", "distributed-systems", "graph", "clustering"]
+repository = "https://github.com/AIBluefisher/DAGSfM"
+website = "https://aibluefisher.github.io/GraphSfM/"
+license = "BSD-3-Clause"
+language = "C"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "agent-chat-ui"
+description = "Web app for interacting with any LangGraph agent (PY & TS) via a chat interface."
+category = "chat"
+tags = ["agent", "chat", "langgraph", "llm"]
+repository = "https://github.com/langchain-ai/agent-chat-ui"
+website = "https://agentchat.vercel.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

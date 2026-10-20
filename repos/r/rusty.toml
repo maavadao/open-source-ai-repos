@@ -1,0 +1,8 @@
+name = "rusty"
+description = "AI-powered CLI tool to help you remember bash commands."
+category = "models"
+tags = ["gpt-3", "rust", "machine-learning", "rust-lang", "language-model", "openai", "hacktoberfest"]
+repository = "https://github.com/zahidkhawaja/rusty"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

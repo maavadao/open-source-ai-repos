@@ -1,0 +1,8 @@
+name = "TransformerLens"
+description = "A library for mechanistic interpretability of GPT-style language models"
+category = "models"
+repository = "https://github.com/TransformerLensOrg/TransformerLens"
+website = "https://transformerlensorg.github.io/TransformerLens/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

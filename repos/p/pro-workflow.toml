@@ -1,0 +1,9 @@
+name = "pro-workflow"
+description = "Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills."
+category = "skills-prompts"
+tags = ["claude", "claude-code", "cursor", "workflow", "agent-orchestration", "ai-agents", "ai-coding", "ai-workflow"]
+repository = "https://github.com/rohitg00/pro-workflow"
+website = "https://rohitg00.github.io/pro-workflow/infographic.html"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

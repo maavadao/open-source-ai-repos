@@ -1,0 +1,8 @@
+name = "self-supervised-depth-completion"
+description = "ICRA 2019 \"Self-supervised Sparse-to-Dense: Self-supervised Depth Completion from LiDAR and Monocular Camera\""
+category = "robotics"
+tags = ["depth-estimation", "depth-completion", "depth-prediction", "lidar", "deep-learning", "pytorch", "computer-vision", "self-supervised-learning"]
+repository = "https://github.com/fangchangma/self-supervised-depth-completion"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

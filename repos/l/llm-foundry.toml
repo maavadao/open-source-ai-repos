@@ -1,0 +1,9 @@
+name = "llm-foundry"
+description = "LLM training code for Databricks foundation models"
+category = "models"
+tags = ["deep-learning", "llm", "neural-networks", "nlp", "pytorch"]
+repository = "https://github.com/mosaicml/llm-foundry"
+website = "https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

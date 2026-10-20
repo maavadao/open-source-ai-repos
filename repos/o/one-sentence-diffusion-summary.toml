@@ -1,0 +1,7 @@
+name = "One-sentence_Diffusion_summary"
+description = "The repo for studying and sharing diffusion models."
+category = "image"
+tags = ["diffusion", "diffusion-models", "score-based-generative-models", "score-based-models"]
+repository = "https://github.com/kwonminki/One-sentence_Diffusion_summary"
+license = "NOASSERTION"
+added = 2026-10-20

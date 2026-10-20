@@ -1,0 +1,9 @@
+name = "claude-elixir-phoenix"
+description = "Claude Code plugin for Elixir/Phoenix/LiveView — 26 specialist agents, Iron Laws enforcement, and Tidewave MCP integration. Plan features with parallel research agents, execute with automatic verification, review with 4-agent parallel audits, and capture learnings as reusable…"
+category = "skills-prompts"
+tags = ["automation", "claude", "claude-code", "claude-code-plugin", "claude-code-skills", "claude-skills", "elixir", "elixir-lang"]
+repository = "https://github.com/oliver-kriska/claude-elixir-phoenix"
+website = "https://phxagents.dev"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

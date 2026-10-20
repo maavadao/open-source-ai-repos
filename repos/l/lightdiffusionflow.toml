@@ -1,0 +1,9 @@
+name = "LightDiffusionFlow"
+description = "This extension is developed for AUTOMATIC1111's Stable Diffusion web UI that provides import/export options for parameters."
+category = "no-code"
+tags = ["lightflow", "stable-diffusion", "stable-diffusion-webui", "stable-diffusion-webui-plugin", "workflow", "sd-webui", "sd"]
+repository = "https://github.com/Tencent/LightDiffusionFlow"
+website = "https://www.lightflow.ai/"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

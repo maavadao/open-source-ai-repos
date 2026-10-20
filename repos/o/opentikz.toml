@@ -1,0 +1,9 @@
+name = "opentikz"
+description = "TikZ for paper diagrams, without hand-writing TikZ — copyable icons, editable templates, and a Claude Code skill"
+category = "agents"
+tags = ["agents", "ai", "latex", "papers", "skill-md", "skills", "tikz", "tikz-figures"]
+repository = "https://github.com/opentikz/opentikz"
+website = "https://opentikz.org/"
+license = "NOASSERTION"
+language = "TeX"
+added = 2026-10-20

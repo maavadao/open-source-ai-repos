@@ -1,0 +1,9 @@
+name = "MagicDance"
+description = "[ICML 2024] MagicPose(also known as MagicDance): Realistic Human Poses and Facial Expressions Retargeting with Identity-aware Diffusion"
+category = "video"
+tags = ["cartoon-animation", "diffusion-models", "generative-model", "image-editing", "video-editing", "behavior-generation", "generative-ai", "video-generation"]
+repository = "https://github.com/Boese0601/MagicDance"
+website = "https://boese0601.github.io/magicdance/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

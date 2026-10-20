@@ -1,0 +1,9 @@
+name = "AI-Research-SKILLs"
+description = "Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. Maintained by Orchestra Research."
+category = "skills-prompts"
+tags = ["ai", "ai-research", "claude", "claude-code", "claude-skills", "codex", "gemini", "gpt-5"]
+repository = "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+website = "http://orchestra-research.com"
+license = "MIT"
+language = "TeX"
+added = 2026-10-20

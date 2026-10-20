@@ -1,0 +1,9 @@
+name = "drq"
+description = "DrQ: Data regularized Q"
+category = "ml-platforms"
+tags = ["rl", "reinforcement-learning", "deep-learning", "mujoco", "dm-control", "gym", "pixel", "sac"]
+repository = "https://github.com/denisyarats/drq"
+website = "https://sites.google.com/view/data-regularized-q"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

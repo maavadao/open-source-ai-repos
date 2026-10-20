@@ -1,0 +1,9 @@
+name = "kaggle-solutions"
+description = "Collection of Kaggle Solutions and Ideas"
+category = "ml-platforms"
+tags = ["kaggle", "competition", "solutions", "data-science", "machine-learning", "data-mining", "ai", "deep-learning"]
+repository = "https://github.com/faridrashidi/kaggle-solutions"
+website = "https://kaggle.farid.one"
+license = "MIT"
+language = "Astro"
+added = 2026-10-20

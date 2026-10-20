@@ -1,0 +1,8 @@
+name = "Health-Care-Chatbot"
+description = "It is a medical chatbot that will provide quick answers to FAQs by setting up rule-based keyword chatbots."
+category = "chat"
+tags = ["healthcare", "health-check", "heart-disease", "heart-disease-prediction", "chatbot", "medical-chatbot", "nlp-machine-learning", "nlp-keywords-extraction"]
+repository = "https://github.com/amberkakkar01/Health-Care-Chatbot"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

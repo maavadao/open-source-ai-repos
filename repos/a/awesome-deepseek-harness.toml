@@ -1,0 +1,9 @@
+name = "awesome-deepseek-harness"
+description = "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic."
+category = "learning"
+tags = ["agent", "ai", "ai-agents", "ai-tools", "awesome", "awesome-list", "coding-assistant", "curated-list"]
+repository = "https://github.com/0xsline/awesome-deepseek-harness"
+website = "https://deepseekdocs.com/"
+license = "CC0-1.0"
+language = "Python"
+added = 2026-10-20

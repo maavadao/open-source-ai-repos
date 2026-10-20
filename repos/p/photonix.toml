@@ -1,0 +1,9 @@
+name = "photonix"
+description = "A modern, web-based photo management server. Run it on your home server and it will let you find the right photo from your collection on any device. Smart filtering is made possible by object recognition, face recognition, location awareness, color analysis and other ML…"
+category = "vision"
+tags = ["photo", "photography", "django", "javascript", "react", "web", "gallery", "management"]
+repository = "https://github.com/photonixapp/photonix"
+website = "https://photonix.org/"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

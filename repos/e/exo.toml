@@ -1,0 +1,8 @@
+name = "exo"
+description = "Run frontier AI locally."
+category = "local-llms"
+repository = "https://github.com/exo-explore/exo"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

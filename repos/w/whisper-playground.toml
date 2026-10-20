@@ -1,0 +1,8 @@
+name = "whisper-playground"
+description = "Build real time speech2text web apps using OpenAI's Whisper https://openai.com/blog/whisper/"
+category = "speech"
+tags = ["machine-learning", "speech-recognition", "speech-to-text", "whisper", "openai"]
+repository = "https://github.com/saharmor/whisper-playground"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

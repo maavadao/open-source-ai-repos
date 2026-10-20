@@ -1,0 +1,8 @@
+name = "Awesome-LLMOps"
+description = "An awesome & curated list of best LLMOps tools for developers"
+category = "learning"
+tags = ["awesome-list", "mlops", "ai-development-tools", "llmops"]
+repository = "https://github.com/tensorchord/Awesome-LLMOps"
+license = "CC0-1.0"
+language = "Shell"
+added = 2026-10-20

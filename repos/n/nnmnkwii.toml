@@ -1,0 +1,9 @@
+name = "nnmnkwii"
+description = "Library to build speech synthesis systems designed for easy and fast prototyping."
+category = "speech"
+tags = ["machine-learning", "speech-synthesis", "voice-conversion", "python", "text-to-speech", "speech-processing"]
+repository = "https://github.com/r9y9/nnmnkwii"
+website = "https://r9y9.github.io/nnmnkwii/latest/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "DB-GPT-Hub"
+description = "A repository that contains models, datasets, and fine-tuning techniques for DB-GPT, with the purpose of enhancing model performance in Text-to-SQL"
+category = "models"
+tags = ["sql", "text2sql", "gpt", "llm", "text-to-sql", "datasets", "nl2sql", "database"]
+repository = "https://github.com/eosphoros-ai/DB-GPT-Hub"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

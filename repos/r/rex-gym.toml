@@ -1,0 +1,8 @@
+name = "rex-gym"
+description = "OpenAI Gym environments for an open-source quadruped robot (SpotMicro)"
+category = "robotics"
+tags = ["openai-gym", "openai-gym-environments", "robotics", "tensorflow", "python3", "pybullet", "reinforcement-learning", "reinforcement-learning-algorithms"]
+repository = "https://github.com/nicrusso7/rex-gym"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

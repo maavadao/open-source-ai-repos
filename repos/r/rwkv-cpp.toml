@@ -1,0 +1,8 @@
+name = "rwkv.cpp"
+description = "INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model"
+category = "local-llms"
+tags = ["deep-learning", "language-model", "llm", "machine-learning", "quantization", "rwkv", "ggml"]
+repository = "https://github.com/RWKV/rwkv.cpp"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

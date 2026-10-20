@@ -1,0 +1,9 @@
+name = "claudexor"
+description = "Multi-harness control plane for Claude Code, Codex, Cursor, and OpenCode: quota-aware rotation across multiple Claude/Codex subscriptions, shared thread context, and cross-model review."
+category = "mcp-servers"
+tags = ["ai-agents", "cli", "codex", "coding-agent", "developer-tools", "macos", "mcp", "agent-orchestration"]
+repository = "https://github.com/razzant/claudexor"
+website = "https://claudexor.ai/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

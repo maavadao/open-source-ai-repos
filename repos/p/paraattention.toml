@@ -1,0 +1,8 @@
+name = "ParaAttention"
+description = "https://wavespeed.ai/ Context parallel attention that accelerates DiT model inference with dynamic caching"
+category = "image"
+tags = ["attention", "diffusers", "inference", "inference-engine", "parallel-computing", "transformers", "flux", "hunyuan-video"]
+repository = "https://github.com/chengzeyi/ParaAttention"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

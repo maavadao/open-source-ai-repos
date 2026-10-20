@@ -1,0 +1,8 @@
+name = "control-toolbox"
+description = "The Control Toolbox - An Open-Source C++ Library for Robotics, Optimal and Model Predictive Control"
+category = "robotics"
+tags = ["optimal-control", "model-predictive-control", "ilqr", "ilqg", "robotics", "trajectory-optimization", "lqr-controller", "control-systems"]
+repository = "https://github.com/ethz-adrl/control-toolbox"
+license = "BSD-2-Clause"
+language = "C++"
+added = 2026-10-20

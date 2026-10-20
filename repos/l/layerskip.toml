@@ -1,0 +1,8 @@
+name = "LayerSkip"
+description = "Code for \"LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding\", ACL 2024"
+category = "models"
+tags = ["llm", "optimization", "transformers", "early-exit", "layer-drop", "speculative-decoding"]
+repository = "https://github.com/facebookresearch/LayerSkip"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

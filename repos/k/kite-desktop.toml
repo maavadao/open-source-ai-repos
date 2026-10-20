@@ -1,0 +1,9 @@
+name = "kite-desktop"
+description = "kite-desktop，一个基于 Wails v3 打造、面向桌面端的 K8S 多集群管理工具"
+category = "other"
+tags = ["eryajf", "k8s", "kubernetes", "wails3", "go", "openai"]
+repository = "https://github.com/eryajf/kite-desktop"
+website = "https://kite-desktop.eryajf.net"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

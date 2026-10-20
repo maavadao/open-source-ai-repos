@@ -1,0 +1,9 @@
+name = "maubot"
+description = "A plugin-based Matrix bot system."
+category = "chat"
+tags = ["matrix", "matrix-org", "chatbot", "maubot", "python", "asyncio"]
+repository = "https://github.com/maubot/maubot"
+website = "https://mau.bot"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

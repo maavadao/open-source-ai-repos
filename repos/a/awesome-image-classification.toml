@@ -1,0 +1,7 @@
+name = "awesome-image-classification"
+description = "A curated list of deep learning image classification papers and codes"
+category = "learning"
+tags = ["deep-learning", "computer-vision", "image-classification", "awesome", "awesome-list", "papers"]
+repository = "https://github.com/weiaicunzai/awesome-image-classification"
+license = "NOASSERTION"
+added = 2026-10-20

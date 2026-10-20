@@ -1,0 +1,8 @@
+name = "NBA-Machine-Learning-Sports-Betting"
+description = "NBA sports betting using machine learning"
+category = "models"
+tags = ["python", "tensorflow", "keras", "nba", "nba-analytics", "nba-prediction", "sports-betting", "sports"]
+repository = "https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

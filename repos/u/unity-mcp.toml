@@ -1,0 +1,9 @@
+name = "unity-mcp"
+description = "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity."
+category = "mcp-servers"
+tags = ["ai", "ai-integration", "mcp", "unity", "anthropic", "claude", "copilot", "cursor"]
+repository = "https://github.com/CoplayDev/unity-mcp"
+website = "https://coplaydev.github.io/unity-mcp/"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

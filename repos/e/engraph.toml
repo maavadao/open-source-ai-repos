@@ -1,0 +1,8 @@
+name = "engraph"
+description = "Local knowledge graph for AI agents. Hybrid search + MCP server for Obsidian vaults."
+category = "mcp-servers"
+tags = ["ai-agents", "knowledge-graph", "local-first", "mcp", "obsidian", "rag", "rust", "semantic-search"]
+repository = "https://github.com/devwhodevs/engraph"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

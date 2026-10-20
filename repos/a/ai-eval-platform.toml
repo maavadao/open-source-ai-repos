@@ -1,0 +1,8 @@
+name = "ai-eval-platform"
+description = "开源 AI 应用评测平台，支持 RAG、AI Agent、多轮对话、LLM-as-Judge、接口评测、评测报告和人工盲测。Open-source AI evaluation platform for RAG, AI Agents, multi-turn conversations, LLM-as-Judge, endpoint evaluation"
+category = "agents"
+tags = ["agent-evaluation", "ai-agent", "ai-evaluation", "ai-infra", "blind-test", "human-evaluation", "llm-as-judge", "llm-evaluation"]
+repository = "https://github.com/huangyiminghappy/ai-eval-platform"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

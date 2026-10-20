@@ -1,0 +1,8 @@
+name = "data_management_LLM"
+description = "Collection of training data management explorations for large language models"
+category = "models"
+tags = ["instruction-tuning", "large-language-models", "natural-language-processing", "pre-training", "pretraining"]
+repository = "https://github.com/ZigeW/data_management_LLM"
+website = "https://arxiv.org/abs/2312.01700"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "simpleT5"
+description = "simpleT5 is built on top of PyTorch-lightning and Transformers that lets you quickly train your T5 models."
+category = "models"
+tags = ["t5", "transformers", "summarization", "translation", "classification", "pytorch", "simplet5", "finetune"]
+repository = "https://github.com/Shivanandroy/simpleT5"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

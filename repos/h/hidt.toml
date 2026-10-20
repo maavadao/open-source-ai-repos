@@ -1,0 +1,8 @@
+name = "HiDT"
+description = "Official repository for the paper \"High-Resolution Daytime Translation Without Domain Labels\" (CVPR2020, Oral)"
+category = "image"
+tags = ["gan", "style-transfer", "high-resolution", "unsupervised-learning", "deep-learning", "image-to-image-translation", "computational-photography", "image-processing"]
+repository = "https://github.com/advimman/HiDT"
+license = "BSD-3-Clause"
+language = "Jupyter Notebook"
+added = 2026-10-20

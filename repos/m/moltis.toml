@@ -1,0 +1,9 @@
+name = "moltis"
+description = "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware."
+category = "mcp-servers"
+tags = ["rust", "ai-agent", "ai-assistant", "llm", "mcp", "sandbox", "self-hosted", "single-binary"]
+repository = "https://github.com/moltis-org/moltis"
+website = "https://moltis.org"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

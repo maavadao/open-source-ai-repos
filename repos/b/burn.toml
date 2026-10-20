@@ -1,0 +1,9 @@
+name = "burn"
+description = "Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability."
+category = "ml-platforms"
+tags = ["autodiff", "deep-learning", "machine-learning", "rust", "scientific-computing", "ndarray", "tensor", "neural-network"]
+repository = "https://github.com/tracel-ai/burn"
+website = "https://burn.dev"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

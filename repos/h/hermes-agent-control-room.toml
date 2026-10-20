@@ -1,0 +1,8 @@
+name = "hermes-agent-control-room"
+description = "Control Room-first template for managing Hermes agents from one VPS agent to specialist teams and orchestrated workflows"
+category = "agents"
+tags = ["ai-agents", "hermes-agent", "multi-agent", "vps", "agent-control-room"]
+repository = "https://github.com/shannhk/hermes-agent-control-room"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

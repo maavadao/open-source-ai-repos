@@ -1,0 +1,8 @@
+name = "awesome-claude-fable-5"
+description = "Curated Claude Fable 5 use cases, tutorials, integrations, demos, and benchmark evidence with source links. Access Claude Fable 5 exclusively via MuAPI."
+category = "learning"
+tags = ["agentic-coding", "ai-agents", "anthropic", "anthropic-api", "anthropic-claude", "awesome-list", "benchmarks", "claude"]
+repository = "https://github.com/Anil-matcha/awesome-claude-fable-5"
+website = "https://muapi.ai/playground/claude-fable-5?utm_source=github&utm_medium=about&utm_campaign=awesome-claude-fable-5"
+license = "MIT"
+added = 2026-10-20

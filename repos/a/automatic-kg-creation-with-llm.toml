@@ -1,0 +1,8 @@
+name = "automatic-KG-creation-with-LLM"
+description = "Automatic Ontology and Knowledge Graph construction with LLM"
+category = "llm-apps"
+tags = ["knowledge-graph", "large-language-models", "ontology-engineering", "reproducibility"]
+repository = "https://github.com/fusion-jena/automatic-KG-creation-with-LLM"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

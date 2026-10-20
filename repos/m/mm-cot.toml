@@ -1,0 +1,8 @@
+name = "mm-cot"
+description = "Official implementation for \"Multimodal Chain-of-Thought Reasoning in Language Models\" (stay tuned and more will be updated)"
+category = "models"
+repository = "https://github.com/amazon-science/mm-cot"
+website = "https://arxiv.org/abs/2302.00923"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

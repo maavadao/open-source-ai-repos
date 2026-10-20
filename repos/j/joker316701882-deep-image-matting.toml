@@ -1,0 +1,8 @@
+name = "Deep-Image-Matting"
+description = "This is tensorflow implementation for paper \"Deep Image Matting\""
+category = "vision"
+tags = ["deeplearning", "matting", "computer-vision"]
+repository = "https://github.com/Joker316701882/Deep-Image-Matting"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

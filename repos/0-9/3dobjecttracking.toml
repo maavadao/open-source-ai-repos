@@ -1,0 +1,8 @@
+name = "3DObjectTracking"
+description = "Algorithms and Publications on 3D Object Tracking"
+category = "vision"
+tags = ["pose-estimation", "computer-vision", "accv2020", "paper", "cvpr2022", "ijcv", "iros2023", "articulated"]
+repository = "https://github.com/DLR-RM/3DObjectTracking"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

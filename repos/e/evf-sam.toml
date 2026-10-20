@@ -1,0 +1,8 @@
+name = "EVF-SAM"
+description = "Official code of \"EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model\""
+category = "vision"
+tags = ["multimodal", "segmentation", "segment-anything", "referring-image-segmentation", "multimodal-large-language-models"]
+repository = "https://github.com/hustvl/EVF-SAM"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

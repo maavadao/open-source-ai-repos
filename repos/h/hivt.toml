@@ -1,0 +1,9 @@
+name = "HiVT"
+description = "[CVPR 2022] HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction"
+category = "robotics"
+tags = ["autonomous-driving", "motion-prediction", "transformer", "cvpr2022"]
+repository = "https://github.com/ZikangZhou/HiVT"
+website = "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_HiVT_Hierarchical_Vector_Transformer_for_Multi-Agent_Motion_Prediction_CVPR_2022_paper.pdf"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Robots"
+description = "Create and simulate ABB, KUKA, UR, and Staubli robot programs."
+category = "robotics"
+tags = ["robotics", "robot", "kuka", "ur", "staubli", "rhino", "grasshopper"]
+repository = "https://github.com/visose/Robots"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

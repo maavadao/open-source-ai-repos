@@ -1,0 +1,9 @@
+name = "cli-agent-orchestrator"
+description = "Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions"
+category = "mcp-servers"
+tags = ["agent-orchestration", "ai-agents", "ai-coding-assistant", "antigravity", "claude-code", "codex", "copilot-cli", "cursor-cli"]
+repository = "https://github.com/awslabs/cli-agent-orchestrator"
+website = "https://awslabs.github.io/cli-agent-orchestrator/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "mcap"
+description = "MCAP is a modular, performant, and serialization-agnostic container file format, useful for pub/sub and robotics applications."
+category = "robotics"
+tags = ["robotics", "data", "serialization", "deserialization", "typescript", "golang", "python", "cpp"]
+repository = "https://github.com/foxglove/mcap"
+website = "https://mcap.dev"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

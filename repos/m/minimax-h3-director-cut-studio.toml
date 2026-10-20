@@ -1,0 +1,9 @@
+name = "MiniMax-H3-Director-Cut-Studio"
+description = "Premiere-inspired PySide6 director studio for MiniMax H3 Ref2VA with AI shot planning, semantic media enrichment, timeline prompt reconciliation and shot-aware long-video rendering through ComfyUI."
+category = "speech"
+tags = ["ai-video", "blip", "comfyui", "ffmpeg", "generative-ai", "lm-studio", "minimax-h3", "prompt-engineering"]
+repository = "https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio"
+website = "https://www.youtube.com/@imbiplazaASUS"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

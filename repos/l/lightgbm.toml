@@ -1,0 +1,10 @@
+name = "LightGBM"
+description = "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks."
+category = "ml-platforms"
+tags = ["gbdt", "gbm", "machine-learning", "data-mining", "distributed", "lightgbm", "gbrt", "decision-trees"]
+repository = "https://github.com/lightgbm-org/LightGBM"
+website = "https://lightgbm.readthedocs.io/en/latest/"
+license = "MIT"
+language = "C++"
+skill_level = "beginner"
+added = 2026-10-20

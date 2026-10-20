@@ -1,0 +1,8 @@
+name = "UNav-Sim"
+description = "Visually Realistic Underwater Robotics Simulator UNav-Sim"
+category = "robotics"
+tags = ["ai", "autonomous-robots", "auv", "gym-environment", "machine-learning", "mpc", "px4", "reinforcement-learning"]
+repository = "https://github.com/open-airlab/UNav-Sim"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

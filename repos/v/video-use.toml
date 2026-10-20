@@ -1,0 +1,8 @@
+name = "video-use"
+description = "Edit videos with coding agents"
+category = "coding"
+repository = "https://github.com/browser-use/video-use"
+website = "https://video-use.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "llm-functions"
+description = "Easily create LLM tools and agents using plain Bash/JavaScript/Python functions."
+category = "mcp-servers"
+tags = ["function-calling", "llm", "llm-functions", "tool-use", "ai-agents", "ai-tools", "llm-agents", "llm-tools"]
+repository = "https://github.com/sigoden/llm-functions"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

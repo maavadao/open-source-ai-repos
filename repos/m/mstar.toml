@@ -1,0 +1,9 @@
+name = "mstar"
+description = "A high-performance, universal serving framework for any-to-any models."
+category = "image"
+tags = ["agentic-infrastructure", "diffusion", "distributed-systems", "high-performance-computing", "inference", "multimodal", "robotics", "serving-infrastructure"]
+repository = "https://github.com/mstar-project/mstar"
+website = "http://mstar-project.github.io/mstar"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

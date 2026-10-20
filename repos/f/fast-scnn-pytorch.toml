@@ -1,0 +1,8 @@
+name = "Fast-SCNN-pytorch"
+description = "A PyTorch Implementation of Fast-SCNN: Fast Semantic Segmentation Network"
+category = "vision"
+tags = ["pytorch", "deep-learning", "fast-scnn", "semantic-segmentation", "computer-vision"]
+repository = "https://github.com/Tramac/Fast-SCNN-pytorch"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

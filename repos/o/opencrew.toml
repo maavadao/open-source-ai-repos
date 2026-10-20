@@ -1,0 +1,8 @@
+name = "opencrew"
+description = "Openclaw多智能体协同系统 | Multi-Agent OS for Decision Makers — 基于 OpenClaw (Clawbot) + Slack，让 AI 团队各司其职、自主稳定迭代。"
+category = "no-code"
+tags = ["a2a-protocol", "agent-orchestration", "ai-agents", "ai-team", "autonomous-agents", "knowledge-management", "multi-agent", "no-code"]
+repository = "https://github.com/AlexAnys/opencrew"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

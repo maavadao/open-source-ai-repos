@@ -1,0 +1,9 @@
+name = "tensorflow-docs"
+description = "TensorFlow 最新官方文档中文版"
+category = "ml-platforms"
+tags = ["tensorflow", "documentation", "machine-learning"]
+repository = "https://github.com/xitu/tensorflow-docs"
+website = "https://tensorflow.juejin.im"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

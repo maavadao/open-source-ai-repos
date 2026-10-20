@@ -1,0 +1,8 @@
+name = "carla_garage"
+description = "[ICCV'23] Hidden Biases of End-to-End Driving Models & A starter kit for the CARLA leaderboard 2.0."
+category = "robotics"
+tags = ["autonomous-driving", "carla-leaderboard", "carla-simulator", "end-to-end-driving", "imitation-learning"]
+repository = "https://github.com/autonomousvision/carla_garage"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

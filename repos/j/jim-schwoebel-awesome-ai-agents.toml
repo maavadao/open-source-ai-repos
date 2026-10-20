@@ -1,0 +1,8 @@
+name = "awesome_ai_agents"
+description = "A comprehensive list of 1,500+ resources and tools related to AI agents."
+category = "learning"
+tags = ["agent-based-modeling", "agentic", "agentic-ai", "agentic-workflow", "agents", "ai", "ai-agent", "ai-agent-framework"]
+repository = "https://github.com/jim-schwoebel/awesome_ai_agents"
+website = "https://agents.blog"
+license = "Apache-2.0"
+added = 2026-10-20

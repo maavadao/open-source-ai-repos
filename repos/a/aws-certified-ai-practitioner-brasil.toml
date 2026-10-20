@@ -1,0 +1,9 @@
+name = "aws-certified-ai-practitioner-brasil"
+description = "Conteúdo em PT-BR para a AWS AI Practitioner (AIF-C01), com foco em fundamentos de IA/ML na AWS, serviços gerenciados (Bedrock, Sagemaker, etc.), boas práticas de governança e aplicações de negócio."
+category = "data-science"
+tags = ["ai-practitioner", "aif-c01-study", "aif-c01-test", "artificial-intelligence", "aws", "aws-certified-cloud-practitioner", "brasil", "cloudstudy"]
+repository = "https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil"
+website = "https://www.cloudstudy.com.br/"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

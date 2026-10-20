@@ -1,0 +1,8 @@
+name = "ai-pronunciation-trainer"
+description = "This tool uses AI to evaluate your pronunciation."
+category = "speech"
+tags = ["ai", "language-learning", "pronunciation", "speech-recognition", "speech-to-text"]
+repository = "https://github.com/Thiagohgl/ai-pronunciation-trainer"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

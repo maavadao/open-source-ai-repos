@@ -1,0 +1,8 @@
+name = "Awesome-Agent-Papers"
+description = "[Up-to-date] Large Language Model Agent: A Survey on Methodology, Applications and Challenges"
+category = "learning"
+tags = ["agent", "awesome-list", "llm", "llmagents"]
+repository = "https://github.com/luo-junyu/Awesome-Agent-Papers"
+website = "https://arxiv.org/abs/2503.21460"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "MO-Gymnasium"
+description = "Multi-objective Gymnasium environments for reinforcement learning"
+category = "ml-platforms"
+tags = ["morl", "multi-objective", "reinforcement-learning", "multi-objective-rl", "gymnasium", "gymnasium-environment"]
+repository = "https://github.com/Farama-Foundation/MO-Gymnasium"
+website = "http://mo-gymnasium.farama.org/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

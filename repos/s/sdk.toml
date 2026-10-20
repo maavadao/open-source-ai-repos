@@ -1,0 +1,9 @@
+name = "sdk"
+description = "AI video generation SDK — JSX for videos. One API for Kling, Flux, ElevenLabs, Veed. Built on Vercel AI SDK."
+category = "coding"
+tags = ["ai-sdk", "ai-video", "elevenlabs", "flux", "generative-ai", "image-to-video", "jsx", "kling"]
+repository = "https://github.com/vargHQ/sdk"
+website = "https://varg.ai/sdk"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

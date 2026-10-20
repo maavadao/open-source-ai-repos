@@ -1,0 +1,8 @@
+name = "IGR"
+description = "Implicit Geometric Regularization for Learning Shapes"
+category = "vision"
+tags = ["deep-learning", "3d-reconstruction", "computer-vision"]
+repository = "https://github.com/amosgropp/IGR"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

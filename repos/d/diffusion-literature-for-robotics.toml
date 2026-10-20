@@ -1,0 +1,7 @@
+name = "diffusion-literature-for-robotics"
+description = "Summary of key papers and blogs about diffusion models to learn about the topic. Detailed list of all published diffusion robotics papers."
+category = "image"
+tags = ["diffusion-models", "literature", "robotics", "summary", "imitation-learning", "reinforcement-learning", "grasping", "offline-rl"]
+repository = "https://github.com/mbreuss/diffusion-literature-for-robotics"
+license = "MIT"
+added = 2026-10-20

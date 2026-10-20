@@ -1,0 +1,9 @@
+name = "Home-AssistantConfig"
+description = "Home Assistant configuration & Documentation for my Smart House. Write-ups, videos, part lists, and links throughout. Be sure to it. Updated FREQUENTLY!"
+category = "coding"
+tags = ["home-assistant", "home-automation", "automation", "homeautomation", "hue", "led-controller", "home-assistant-config", "homeassistant-config"]
+repository = "https://github.com/CCOSTAN/Home-AssistantConfig"
+website = "https://www.vCloudInfo.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

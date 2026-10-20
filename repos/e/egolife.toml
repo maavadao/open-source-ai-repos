@@ -1,0 +1,9 @@
+name = "EgoLife"
+description = "[CVPR 2025] EgoLife: Towards Egocentric Life Assistant"
+category = "llm-apps"
+tags = ["egocentric-vision", "omnimodal", "rag"]
+repository = "https://github.com/EvolvingLMMs-Lab/EgoLife"
+website = "https://egolife-ai.github.io/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

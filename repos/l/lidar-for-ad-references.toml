@@ -1,0 +1,7 @@
+name = "Lidar_For_AD_references"
+description = "A list of references on lidar point cloud processing for autonomous driving"
+category = "robotics"
+tags = ["lidar-point-cloud", "autonomous-driving", "clustering", "obstacle-detection", "simulator"]
+repository = "https://github.com/beedotkiran/Lidar_For_AD_references"
+license = "NOASSERTION"
+added = 2026-10-20

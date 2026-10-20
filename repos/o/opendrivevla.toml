@@ -1,0 +1,9 @@
+name = "OpenDriveVLA"
+description = "[AAAI 2026] OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model"
+category = "robotics"
+tags = ["autonomous-driving", "end-to-end-autonomous-driving", "vision-language-action-model"]
+repository = "https://github.com/DriveVLA/OpenDriveVLA"
+website = "https://drivevla.github.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

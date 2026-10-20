@@ -1,0 +1,7 @@
+name = "sd-akashic"
+description = "A compendium of informations regarding Stable Diffusion (SD)"
+category = "image"
+tags = ["diffusion", "guide", "stable-diffusion"]
+repository = "https://github.com/Maks-s/sd-akashic"
+license = "Unlicense"
+added = 2026-10-20

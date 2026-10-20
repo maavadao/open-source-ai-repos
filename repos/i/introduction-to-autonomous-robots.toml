@@ -1,0 +1,9 @@
+name = "Introduction-to-Autonomous-Robots"
+description = "Introduction to Autonomous Robots"
+category = "learning"
+tags = ["robotics", "book", "cu", "boulder"]
+repository = "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots"
+website = "https://introduction-to-autonomous-robots.github.io/"
+license = "NOASSERTION"
+language = "TeX"
+added = 2026-10-20

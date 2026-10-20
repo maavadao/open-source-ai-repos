@@ -1,0 +1,9 @@
+name = "kuberay"
+description = "A toolkit to run Ray applications on Kubernetes"
+category = "ml-platforms"
+tags = ["machine-learning", "kubernetes", "ray", "deep-learning", "artificial-intelligence", "distributed-computing", "orchestration"]
+repository = "https://github.com/kuberay-project/kuberay"
+website = "https://kuberay-project.github.io/kuberay/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

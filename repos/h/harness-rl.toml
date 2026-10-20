@@ -1,0 +1,8 @@
+name = "Harness-RL"
+description = "Agentic RAG R1 Framework via Reinforcement Learning"
+category = "agents"
+tags = ["agentic", "grpo", "rl", "harness"]
+repository = "https://github.com/jiangxinke/Harness-RL"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

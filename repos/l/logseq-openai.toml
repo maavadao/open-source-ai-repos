@@ -1,0 +1,9 @@
+name = "logseq-openai"
+description = "A plugin for GPT-3 AI assisted note taking in Logseq"
+category = "other"
+tags = ["logseq", "gpt-3", "openai", "gpt3", "dall-e", "logseq-plugin", "typescript", "gpt-4"]
+repository = "https://github.com/briansunter/logseq-openai"
+website = "https://twitter.com/bsunter"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

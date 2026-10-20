@@ -1,0 +1,9 @@
+name = "open-harness"
+description = "A code-first, composable SDK to build powerful AI agents"
+category = "mcp-servers"
+tags = ["agents", "agentskills", "ai", "ai-agents", "mcp"]
+repository = "https://github.com/MaxGfeller/open-harness"
+website = "https://open-harness.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

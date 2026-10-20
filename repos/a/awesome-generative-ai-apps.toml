@@ -1,0 +1,9 @@
+name = "awesome-generative-ai-apps"
+description = "50+ open-source generative AI apps you can clone, deploy, and monetize — image generators, video tools, virtual try-ons, AI SaaS templates, and platform integrations. One-click Vercel deploy on every template."
+category = "learning"
+tags = ["nextjs", "open-source", "ai-apps", "ai-image-generator", "ai-saas", "ai-tools", "ai-video-generator", "awesome"]
+repository = "https://github.com/Anil-matcha/awesome-generative-ai-apps"
+website = "https://muapi.ai?utm_source=github&utm_medium=about&utm_campaign=awesome-generative-ai-apps"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

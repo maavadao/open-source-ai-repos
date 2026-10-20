@@ -1,0 +1,8 @@
+name = "multi-agent-shogun"
+description = "Samurai-inspired multi-agent system for Claude Code. Orchestrate parallel AI tasks via tmux with shogun → karo → ashigaru hierarchy."
+category = "coding"
+tags = ["ai-agent", "anthropic", "automation", "claude-code", "llm", "multi-agent", "parallel-processing", "samurai"]
+repository = "https://github.com/yohey-w/multi-agent-shogun"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

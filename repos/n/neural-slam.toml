@@ -1,0 +1,9 @@
+name = "Neural-SLAM"
+description = "Pytorch code for ICLR-20 Paper \"Learning to Explore using Active Neural SLAM\""
+category = "robotics"
+tags = ["navigation", "visual-navigation", "robotics", "neural-slam", "active-neural-slam", "exploration", "deep-reinforcement-learning", "deep-rl"]
+repository = "https://github.com/devendrachaplot/Neural-SLAM"
+website = "https://devendrachaplot.github.io/projects/neural-slam.html"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

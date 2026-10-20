@@ -1,0 +1,8 @@
+name = "rag-chatbot"
+description = "RAG (Retrieval-augmented generation) ChatBot that provides answers based on contextual information extracted from a collection of Markdown files."
+category = "vector-databases"
+tags = ["chatbot", "chromadb", "gpu", "lamacpp", "rag", "vector-database", "llama3", "llm"]
+repository = "https://github.com/umbertogriffo/rag-chatbot"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

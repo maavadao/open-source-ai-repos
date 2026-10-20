@@ -1,0 +1,8 @@
+name = "PhoGPT"
+description = "PhoGPT: Generative Pre-training for Vietnamese (2023)"
+category = "models"
+tags = ["generative-pre-trained-transformer", "gpt", "instruction-following", "llm", "phogpt", "vietnamese", "vietnamese-nlp"]
+repository = "https://github.com/VinAIResearch/PhoGPT"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

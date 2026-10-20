@@ -1,0 +1,9 @@
+name = "python-telegram-bot"
+description = "We have made you a wrapper you can't refuse"
+category = "chat"
+tags = ["python", "telegram", "bot", "chatbot", "framework"]
+repository = "https://github.com/python-telegram-bot/python-telegram-bot"
+website = "https://python-telegram-bot.org"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

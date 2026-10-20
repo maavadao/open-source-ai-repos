@@ -1,0 +1,8 @@
+name = "rl_learn"
+description = "我的强化学习笔记和学习材料 still updating ... ..."
+category = "ml-platforms"
+tags = ["reinforcement-learning", "learning-by-doing"]
+repository = "https://github.com/applenob/rl_learn"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "HR-VITON"
+description = "Official PyTorch implementation for the paper High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions (ECCV 2022)."
+category = "image"
+tags = ["image-generation", "image-synthesis", "virtual-try-on", "virtual-tryon", "virtual-tryon-ecommerce"]
+repository = "https://github.com/sangyun884/HR-VITON"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

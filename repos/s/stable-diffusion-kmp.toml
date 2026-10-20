@@ -1,0 +1,9 @@
+name = "Stable-Diffusion-KMP"
+description = "Stable Diffusion AI client app for Android and iOS"
+category = "image"
+tags = ["android", "automatic1111", "clean-architecture", "compose", "compose-ui", "kotlin", "multimodule-android-app", "mvi"]
+repository = "https://github.com/ShiftHackZ/Stable-Diffusion-KMP"
+website = "https://sdai.moroz.cc"
+license = "AGPL-3.0"
+language = "Kotlin"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "BiliSum"
+description = "为 Bilibili、YouTube 及本地视频提供 AI 视频摘要和知识库.AI video summarizer and knowledge base for Bilibili, YouTube and local videos."
+category = "speech"
+tags = ["ai-notes", "ai-summary", "bilibili", "bilibili-summary", "knowledge-base", "obsidian", "rag", "video-summary"]
+repository = "https://github.com/lycohana/BiliSum"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

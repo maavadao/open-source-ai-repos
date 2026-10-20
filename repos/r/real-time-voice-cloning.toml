@@ -1,0 +1,8 @@
+name = "Real-Time-Voice-Cloning"
+description = "Clone a voice in 5 seconds to generate arbitrary speech in real-time"
+category = "speech"
+tags = ["deep-learning", "pytorch", "tensorflow", "tts", "voice-cloning", "python"]
+repository = "https://github.com/CorentinJ/Real-Time-Voice-Cloning"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

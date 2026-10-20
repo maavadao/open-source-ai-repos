@@ -1,0 +1,9 @@
+name = "NotelyVoice"
+description = "A 100% private AI voice transcription app that converts speech to text in 100+ languages. Built with Compose Multiplatform for Android & iOS using Whisper AI - no cloud uploads, all processing happens on-device for complete privacy."
+category = "speech"
+tags = ["android", "audio-player", "compose-ios", "compose-multiplatform", "compose-multiplatform-sample", "ios", "jetpack-compose", "kotlin-coroutines"]
+repository = "https://github.com/Notely-Voice/NotelyVoice"
+website = "https://notelyvoice.com"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-10-20

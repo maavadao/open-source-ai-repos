@@ -1,0 +1,8 @@
+name = "mace"
+description = "MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms."
+category = "ml-platforms"
+tags = ["deep-learning", "neural-network", "opencl", "neon", "hvx", "machine-learning"]
+repository = "https://github.com/XiaoMi/mace"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "AgentEvolver"
+description = "AgentEvolver: Towards Efficient Self-Evolving Agent System"
+category = "agents"
+tags = ["agent", "llm", "reinforcement-learning", "self-evolving", "agent-system"]
+repository = "https://github.com/modelscope/AgentEvolver"
+website = "https://modelscope.github.io/AgentEvolver/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

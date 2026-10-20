@@ -1,0 +1,9 @@
+name = "machine-learning-yearning-cn"
+description = "Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著"
+category = "learning"
+tags = ["machine-learning", "deep-learning", "book"]
+repository = "https://github.com/deeplearning-ai/machine-learning-yearning-cn"
+website = "https://deeplearning-ai.github.io/machine-learning-yearning-cn/"
+license = "NOASSERTION"
+language = "CSS"
+added = 2026-10-20

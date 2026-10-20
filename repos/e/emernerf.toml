@@ -1,0 +1,9 @@
+name = "EmerNeRF"
+description = "PyTorch Implementation of EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision"
+category = "robotics"
+tags = ["autonomous-driving", "driving", "foundation-models", "nerf"]
+repository = "https://github.com/NVlabs/EmerNeRF"
+website = "https://emernerf.github.io/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

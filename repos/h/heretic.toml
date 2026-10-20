@@ -1,0 +1,9 @@
+name = "heretic"
+description = "Fully automatic censorship removal for language models"
+category = "models"
+tags = ["abliteration", "llm", "transformer"]
+repository = "https://github.com/p-e-w/heretic"
+website = "https://heretic-project.org"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

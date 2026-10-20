@@ -1,0 +1,8 @@
+name = "KG_RAG"
+description = "Empower Large Language Models (LLM) using Knowledge Graph based Retrieval-Augmented Generation (KG-RAG) for knowledge intensive tasks"
+category = "llm-apps"
+tags = ["gpt", "knowledge-graph", "large-language-models", "llama2", "llm", "rag", "retrieval-augmented-generation", "biomedical-applications"]
+repository = "https://github.com/BaranziniLab/KG_RAG"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

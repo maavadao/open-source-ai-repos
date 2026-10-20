@@ -1,0 +1,9 @@
+name = "AGenUI"
+description = "Native A2UI Renderer for iOS/Android/HarmonyOS. High performance streaming Generative UI. Custom Components, Styles and more."
+category = "agents"
+tags = ["a2ui", "ai-agents", "cross-platform", "generative-ui", "harmonyos", "native-rendering", "streaming-ui", "agenui"]
+repository = "https://github.com/AGenUI/AGenUI"
+website = "https://genui.amap.com/"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

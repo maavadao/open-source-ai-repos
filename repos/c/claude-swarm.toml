@@ -1,0 +1,8 @@
+name = "claude-swarm"
+description = "Multi-agent orchestration for Claude Code — decompose tasks, coordinate agents, visualize everything in a rich terminal UI"
+category = "coding"
+tags = ["agent-sdk", "agents", "ai", "claude", "claude-code", "hackathon", "multi-agent", "orchestration"]
+repository = "https://github.com/affaan-m/claude-swarm"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

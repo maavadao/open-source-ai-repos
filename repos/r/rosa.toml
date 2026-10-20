@@ -1,0 +1,8 @@
+name = "rosa"
+description = "ROSA is an AI Agent designed to interact with ROS1- and ROS2-based robotics systems using natural language queries. ROSA helps robot developers inspect, diagnose, understand, and operate robots."
+category = "robotics"
+tags = ["agents", "ai", "developer-tools", "robotics", "ros", "ros2", "jpl", "nasa"]
+repository = "https://github.com/nasa-jpl/rosa"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

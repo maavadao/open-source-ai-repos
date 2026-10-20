@@ -1,0 +1,9 @@
+name = "FlashLearn"
+description = "Integrate LLM in any pipeline - fit/predict pattern, JSON driven flows, and built in concurency support."
+category = "agents"
+tags = ["ai", "ai-agents", "concurrency", "llm", "llm-agent", "python", "agentic-ai-development", "ai-agents-framework"]
+repository = "https://github.com/Pravko-Solutions/FlashLearn"
+website = "https://flashlearn.tech/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

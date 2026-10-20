@@ -1,0 +1,7 @@
+name = "Deep-Reinforcement-Learning-Survey"
+description = "My Exploration on Deep Reinforcement Learning Survey"
+category = "robotics"
+tags = ["reinforcement-learning", "deep-learning", "robotics", "gaming"]
+repository = "https://github.com/andrewliao11/Deep-Reinforcement-Learning-Survey"
+license = "NOASSERTION"
+added = 2026-10-20

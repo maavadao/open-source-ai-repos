@@ -1,0 +1,9 @@
+name = "autotrain-advanced"
+description = "AutoTrain Advanced"
+category = "ml-platforms"
+tags = ["huggingface", "deep-learning", "machine-learning", "natural-language-processing", "natural-language-understanding", "autotrain", "python"]
+repository = "https://github.com/huggingface/autotrain-advanced"
+website = "https://huggingface.co/autotrain"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

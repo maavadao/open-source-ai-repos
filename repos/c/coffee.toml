@@ -1,0 +1,9 @@
+name = "coffee"
+description = "Build and iterate on your UI 10x faster with AI - right from your own IDE"
+category = "coding"
+tags = ["ai", "code-generation", "frontend", "generative-ai", "llms", "react", "ui-components"]
+repository = "https://github.com/Coframe/coffee"
+website = "https://twitter.com/coframe_ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

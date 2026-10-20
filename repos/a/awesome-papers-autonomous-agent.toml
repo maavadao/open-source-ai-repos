@@ -1,0 +1,7 @@
+name = "Awesome-Papers-Autonomous-Agent"
+description = "A collection of recent papers on building autonomous agent. Two topics included: RL-based / LLM-based agents."
+category = "learning"
+tags = ["agent", "large-language-models", "reinforcement-learning", "artificial-intelligence", "autonomous-agent", "awesome-paper-collection", "machine-learning", "natural-language-processing"]
+repository = "https://github.com/lafmdp/Awesome-Papers-Autonomous-Agent"
+license = "NOASSERTION"
+added = 2026-10-20

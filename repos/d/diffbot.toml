@@ -1,0 +1,9 @@
+name = "diffbot"
+description = "DiffBot is an autonomous 2wd differential drive robot using ROS Noetic on a Raspberry Pi 4 B. With its SLAMTEC Lidar and the ROS Control hardware interface it's capable of navigating in an environment using the ROS Navigation stack and making use of SLAM algorithms to create…"
+category = "robotics"
+tags = ["ros", "diffbot", "robot", "raspberry", "python", "cpp", "noetic", "differential"]
+repository = "https://github.com/ros-mobile-robots/diffbot"
+website = "https://ros-mobile-robots.com"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

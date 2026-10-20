@@ -1,0 +1,9 @@
+name = "lux-ui"
+description = "Create the best admin based on Vue3.x, Vite5.x, TypeScript, Vuetify3.x, Chat GPT"
+category = "chat"
+tags = ["vite", "vue3", "vuetify3", "pinia", "typscript", "vuetify", "openai", "firebase"]
+repository = "https://github.com/yangjiakai/lux-ui"
+website = "https://lux.vuetify3.com/"
+license = "MIT"
+language = "Vue"
+added = 2026-10-20

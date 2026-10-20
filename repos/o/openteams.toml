@@ -1,0 +1,9 @@
+name = "openteams"
+description = "Plan, Build, and Ship — with a team of AI agents instead of one"
+category = "coding"
+tags = ["agents", "multi-agent-systems", "ai-team", "openteams", "agency-agents", "agentic-ai", "claude-code", "codex"]
+repository = "https://github.com/openteams-lab/openteams"
+website = "https://openteams-lab.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

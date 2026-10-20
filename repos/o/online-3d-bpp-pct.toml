@@ -1,0 +1,8 @@
+name = "Online-3D-BPP-PCT"
+description = "Code implementation of \"Learning Efficient Online 3D Bin Packing on Packing Configuration Trees\". We propose to enhance the practical applicability of online 3D Bin Packing Problem (BPP) via learning on a hierarchical packing configuration tree which makes the deep…"
+category = "ml-platforms"
+tags = ["3d-packing", "packing-algorithm", "reinforcement-learning", "online-packing", "bin-packing"]
+repository = "https://github.com/alexfrom0815/Online-3D-BPP-PCT"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

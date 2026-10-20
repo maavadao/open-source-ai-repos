@@ -1,0 +1,9 @@
+name = "scvi-tools"
+description = "Deep probabilistic analysis of single-cell and spatial omics data"
+category = "ml-platforms"
+tags = ["scrna-seq", "variational-bayes", "variational-autoencoder", "cite-seq", "single-cell-genomics", "single-cell-rna-seq", "deep-generative-model", "human-cell-atlas"]
+repository = "https://github.com/scverse/scvi-tools"
+website = "http://scvi-tools.org/"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

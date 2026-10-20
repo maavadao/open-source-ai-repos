@@ -1,0 +1,9 @@
+name = "roboflow-python"
+description = "The official Roboflow Python package. Manage your datasets, models, and deployments. Roboflow has everything you need to build a computer vision application."
+category = "vision"
+tags = ["python", "machine-learning", "computer-vision", "deep-learning"]
+repository = "https://github.com/roboflow/roboflow-python"
+website = "https://docs.roboflow.com/python"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

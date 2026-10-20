@@ -1,0 +1,8 @@
+name = "sourcery"
+description = "Instant AI code reviews"
+category = "coding"
+tags = ["refactoring", "python", "ai", "software-development", "code-quality", "code-reviews", "code-review-bot"]
+repository = "https://github.com/sourcery-ai/sourcery"
+website = "https://sourcery.ai"
+license = "MIT"
+added = 2026-10-20

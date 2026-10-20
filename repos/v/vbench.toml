@@ -1,0 +1,9 @@
+name = "VBench"
+description = "[CVPR2024 Highlight] VBench - We Evaluate Video Generation"
+category = "video"
+tags = ["aigc", "evaluation-kit", "gen-ai", "stable-diffusion", "text-to-video", "video-generation", "benchmark", "dataset"]
+repository = "https://github.com/Vchitect/VBench"
+website = "https://vchitect.github.io/VBench-project/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

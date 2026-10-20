@@ -1,0 +1,8 @@
+name = "SwiftWhisper"
+description = "The easiest way to transcribe audio in Swift"
+category = "speech"
+tags = ["ios", "swift", "whisper", "macos", "openai", "speech-recognition", "speech-to-text", "transcription"]
+repository = "https://github.com/exPHAT/SwiftWhisper"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

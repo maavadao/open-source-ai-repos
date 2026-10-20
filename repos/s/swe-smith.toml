@@ -1,0 +1,9 @@
+name = "SWE-smith"
+description = "[NeurIPS 2025 D&B Spotlight] Scaling Data for SWE-agents"
+category = "agents"
+tags = ["agents", "language-model", "software-engineering", "training"]
+repository = "https://github.com/SWE-bench/SWE-smith"
+website = "https://swesmith.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

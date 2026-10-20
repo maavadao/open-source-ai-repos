@@ -1,0 +1,8 @@
+name = "vall-e"
+description = "An unofficial PyTorch implementation of the audio LM VALL-E"
+category = "speech"
+tags = ["vall-e", "valle", "text-to-speech", "pytorch", "tts", "audio-lm"]
+repository = "https://github.com/enhuiz/vall-e"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

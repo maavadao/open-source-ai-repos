@@ -1,0 +1,10 @@
+name = "dvc"
+description = "Data Versioning and ML Experiments"
+category = "ml-platforms"
+tags = ["data-science", "machine-learning", "reproducibility", "data-version-control", "developer-tools", "ai", "unstructured-data"]
+repository = "https://github.com/treeverse/dvc"
+website = "https://dvc.org"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

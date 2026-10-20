@@ -1,0 +1,9 @@
+name = "ai-powered-search"
+description = "The codebase for the book \"AI-Powered Search\" (Manning Publications, 2025) and associated \"AI-Powered Search: Modern Retrieval for Humans & Agents\" Maven course"
+category = "learning"
+tags = ["ai", "ai-powered-search", "foundation-models", "generative-search", "hybrid-search", "information-retrieval", "large-language-models", "learning-to-rank"]
+repository = "https://github.com/treygrainger/ai-powered-search"
+website = "https://aipoweredsearch.com"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

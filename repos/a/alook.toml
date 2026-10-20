@@ -1,0 +1,9 @@
+name = "alook"
+description = "Rooms for people and agents."
+category = "coding"
+tags = ["agent-orchestration", "ai-collaboration", "claude-code", "codex", "coding-agent", "multiple-agent", "one-person-business", "one-person-company"]
+repository = "https://github.com/alookai/alook"
+website = "https://alook.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

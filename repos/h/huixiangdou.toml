@@ -1,0 +1,9 @@
+name = "HuixiangDou"
+description = "HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical Assistance"
+category = "robotics"
+tags = ["chatbot", "llm", "rag", "dsl", "lark", "pipeline", "robot", "wechat"]
+repository = "https://github.com/InternLM/HuixiangDou"
+website = "https://openxlab.org.cn/apps/detail/tpoisonooo/huixiangdou-web"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

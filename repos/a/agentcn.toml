@@ -1,0 +1,9 @@
+name = "agentcn"
+description = "shadcn/ui, but for building agents."
+category = "agents"
+tags = ["agents", "ai-agents", "eve", "flue", "mastra", "shadcn", "typescript"]
+repository = "https://github.com/shadcn-labs/agentcn"
+website = "https://agentcn.run"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

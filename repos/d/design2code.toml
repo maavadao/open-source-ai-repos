@@ -1,0 +1,8 @@
+name = "design2code"
+description = "Convert any web design screenshot to clean HTML/CSS code"
+category = "coding"
+tags = ["code-generation", "gpt4", "vision", "coding-assistant", "openai", "ai", "design-to-code"]
+repository = "https://github.com/mostafasadeghi97/design2code"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "PyChatGPT"
+description = "Python client for the ChatGPT API with, conversation tracking, proxy support and more."
+category = "chat"
+tags = ["chatgpt", "openai", "python"]
+repository = "https://github.com/rawandahmad698/PyChatGPT"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

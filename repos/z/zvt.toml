@@ -1,0 +1,9 @@
+name = "zvt"
+description = "modular quant framework."
+category = "data-science"
+tags = ["stock", "quant", "fintech", "trading-platform", "technical-analysis", "cryptocurrency", "fundamental-analysis", "algorithmic-trading"]
+repository = "https://github.com/zvtvz/zvt"
+website = "https://zvt.readthedocs.io/en/latest/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

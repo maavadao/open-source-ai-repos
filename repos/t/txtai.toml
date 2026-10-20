@@ -1,0 +1,10 @@
+name = "txtai"
+description = "All-in-one AI framework for semantic search, LLM orchestration and language model workflows"
+category = "llm-apps"
+tags = ["python", "search", "nlp", "semantic-search", "vector-search", "txtai", "llm", "vector-database"]
+repository = "https://github.com/neuml/txtai"
+website = "https://neuml.github.io/txtai"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

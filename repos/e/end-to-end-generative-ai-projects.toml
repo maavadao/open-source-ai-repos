@@ -1,0 +1,8 @@
+name = "END-TO-END-GENERATIVE-AI-PROJECTS"
+description = "End to End Generative AI Industry Projects on LLM Models with Deployment_Awesome LLM Projects"
+category = "image"
+tags = ["chainlit", "finetuning-llms", "gemini", "generative-ai", "gradio-python-llm", "huggingface", "langchain", "large-language-models"]
+repository = "https://github.com/GURPREETKAURJETHRA/END-TO-END-GENERATIVE-AI-PROJECTS"
+website = "https://github.com/GURPREETKAURJETHRA/Generative-AI-LLM-Projects"
+license = "MIT"
+added = 2026-10-20

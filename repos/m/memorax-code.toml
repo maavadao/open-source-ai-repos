@@ -1,0 +1,9 @@
+name = "memorax-code"
+description = "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks."
+category = "coding"
+tags = ["ai-agents", "claude-code", "codex", "coding-memory", "developer-tools", "memorax", "typescript"]
+repository = "https://github.com/memorax-ai/memorax-code"
+website = "https://code.memorax.net/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

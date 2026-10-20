@@ -1,0 +1,9 @@
+name = "VideoCaptioner"
+description = "卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling."
+category = "video"
+tags = ["ai", "subtitle", "translate", "video-subtile"]
+repository = "https://github.com/WEIFENG2333/VideoCaptioner"
+website = "https://www.videocaptioner.cn"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

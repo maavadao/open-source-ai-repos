@@ -1,0 +1,8 @@
+name = "Awesome-Human-Interaction-Motion-Generation"
+description = "This repository collects papers on Human-Interaction-Motion-Generation applications. We will update new papers irregularly."
+category = "learning"
+tags = ["computer-vision", "deep-learning", "human-motion-generation", "human-interaction-motion-generation", "human-human-interaction", "human-object-interaction", "human-scene-interaction", "diffusion-models"]
+repository = "https://github.com/soraproducer/Awesome-Human-Interaction-Motion-Generation"
+website = "https://arxiv.org/abs/2503.12763"
+license = "NOASSERTION"
+added = 2026-10-20

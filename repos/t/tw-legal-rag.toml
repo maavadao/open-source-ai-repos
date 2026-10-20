@@ -1,0 +1,9 @@
+name = "tw-legal-rag"
+description = "台灣法律 MCP 伺服器 + CLI（免費、免註冊、免 API key）：2,270 萬筆裁判書、行政函釋、憲法法庭裁判，附引用查核。Free Taiwan legal MCP server for Claude/ChatGPT/Codex: bring your own LLM, retrieval-only."
+category = "mcp-servers"
+tags = ["court-judgments", "legal-ai", "legal-research", "legal-tech", "llm", "mcp", "model-context-protocol", "python-cli"]
+repository = "https://github.com/aa0101181514/tw-legal-rag"
+website = "https://dr-legal.com.tw"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

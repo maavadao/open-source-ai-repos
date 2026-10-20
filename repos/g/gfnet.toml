@@ -1,0 +1,9 @@
+name = "GFNet"
+description = "[NeurIPS 2021] [T-PAMI] Global Filter Networks for Image Classification"
+category = "vision"
+tags = ["vision-transformer", "image-classification", "computer-vision", "deep-learning", "image-recognition"]
+repository = "https://github.com/raoyongming/GFNet"
+website = "https://gfnet.ivg-research.xyz/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

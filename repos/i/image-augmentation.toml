@@ -1,0 +1,8 @@
+name = "Image-Augmentation"
+description = "Image augmentation for object detection, segmentation and classification"
+category = "vision"
+tags = ["computer-vision", "image-augmentation", "object-detection", "object-segmentation", "image-classification"]
+repository = "https://github.com/Fafa-DL/Image-Augmentation"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

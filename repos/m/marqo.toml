@@ -1,0 +1,10 @@
+name = "marqo"
+description = "Ecommerce Search and Discovery - marqo.ai"
+category = "vector-databases"
+tags = ["multi-modal", "search-engine", "machine-learning", "ecommerce"]
+repository = "https://github.com/marqo-ai/marqo"
+website = "https://marqo.ai"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "beginner"
+added = 2026-10-20

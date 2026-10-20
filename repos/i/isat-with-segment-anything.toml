@@ -1,0 +1,8 @@
+name = "ISAT_with_segment_anything"
+description = "Labeling tool with SAM(segment anything model),supports SAM, SAM2, SAM3, sam-hq, MobileSAM EdgeSAM etc.交互式半自动图像标注工具"
+category = "vision"
+tags = ["annotation-tool", "computer-vision", "labeling-tool", "segment-anything", "labeling", "segment-anything-2", "sam", "sam2"]
+repository = "https://github.com/yatengLG/ISAT_with_segment_anything"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

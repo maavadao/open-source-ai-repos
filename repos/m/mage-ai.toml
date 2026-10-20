@@ -1,0 +1,9 @@
+name = "mage-ai"
+description = "Build, run, and manage data pipelines for integrating and transforming data."
+category = "data-science"
+tags = ["machine-learning", "artificial-intelligence", "data", "data-engineering", "data-science", "python", "elt", "etl"]
+repository = "https://github.com/mage-ai/mage-ai"
+website = "https://www.mage.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Safe-and-Stable-Ckpt2Safetensors-Conversion-Tool-GUI"
+description = "Convert your Stable Diffusion checkpoints quickly and easily."
+category = "image"
+tags = ["artificial-intelligence", "automatic1111", "ckpt", "converter", "gui", "gui-application", "malware", "pickle"]
+repository = "https://github.com/diStyApps/Safe-and-Stable-Ckpt2Safetensors-Conversion-Tool-GUI"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

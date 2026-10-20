@@ -1,0 +1,8 @@
+name = "agentchain"
+description = "Chain together LLMs for reasoning & orchestrate multiple large models for accomplishing complex tasks"
+category = "speech"
+tags = ["artificial-intelligence", "llm", "machine-learning", "multimodal", "nlproc", "langchain", "stable-diffusion", "blip"]
+repository = "https://github.com/jina-ai/agentchain"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

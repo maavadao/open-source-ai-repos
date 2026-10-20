@@ -1,0 +1,9 @@
+name = "agentfm-core"
+description = "AgentFM is a peer-to-peer network that turns everyday computers into a decentralized AI supercomputer. AgentFM lets you run massive AI workloads directly across a global mesh of idle CPUs and GPUs."
+category = "agents"
+tags = ["agents", "decentralized", "generative-ai", "go", "gpu", "llm", "p2p", "python"]
+repository = "https://github.com/Agent-FM/agentfm-core"
+website = "https://agentfm.net"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

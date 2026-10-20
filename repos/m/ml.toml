@@ -1,0 +1,8 @@
+name = "ml"
+description = "Machine learning tools in JavaScript"
+category = "data-science"
+tags = ["machine-learning", "ml", "javascript"]
+repository = "https://github.com/mljs/ml"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

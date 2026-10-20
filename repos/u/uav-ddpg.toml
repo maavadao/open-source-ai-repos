@@ -1,0 +1,9 @@
+name = "UAV-DDPG"
+description = "Code for paper \"Computation Offloading Optimization for UAV-assisted Mobile Edge Computing: A Deep Deterministic Policy Gradient Approach\""
+category = "ml-platforms"
+tags = ["ddpg", "reinforcement-learning-algorithms", "tensorflow", "unmanned-aerial-vehicle", "deep-deterministic-policy-gradient", "reinforcement-learning", "dqn", "actor-critic-algorithm"]
+repository = "https://github.com/fangvv/UAV-DDPG"
+website = "https://fangvv.github.io/UAV-DDPG/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

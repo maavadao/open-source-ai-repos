@@ -1,0 +1,8 @@
+name = "local-rag"
+description = "Ingest files for retrieval augmented generation (RAG) with open-source Large Language Models (LLMs), all without 3rd parties or sensitive data leaving your network."
+category = "local-llms"
+tags = ["large-language-models", "llm", "rag", "retrieval-augmented-generation", "ollama"]
+repository = "https://github.com/jonfairbanks/local-rag"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

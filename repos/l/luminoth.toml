@@ -1,0 +1,9 @@
+name = "luminoth"
+description = "Deep Learning toolkit for Computer Vision."
+category = "vision"
+tags = ["tensorflow", "sonnet", "deep-learning", "computer-vision", "object-detection", "python", "machine-learning", "toolkit"]
+repository = "https://github.com/tryolabs/luminoth"
+website = "https://tryolabs.com"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

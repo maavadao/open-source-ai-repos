@@ -1,0 +1,9 @@
+name = "latentbox"
+description = "A collection of awesome-lists for AI, creativity and art. AI、创意和艺术领域的精选合集。https://latentbox.com"
+category = "learning"
+tags = ["ai", "art", "awesome-list", "creative-coding", "design", "ui", "ux"]
+repository = "https://github.com/latentcat/latentbox"
+website = "https://latentbox.com"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

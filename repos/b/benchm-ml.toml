@@ -1,0 +1,8 @@
+name = "benchm-ml"
+description = "A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms for binary classification (random forests, gradient boosted trees…"
+category = "ml-platforms"
+tags = ["machine-learning", "data-science", "r", "python", "gradient-boosting-machine", "random-forest", "deep-learning", "xgboost"]
+repository = "https://github.com/szilard/benchm-ml"
+license = "MIT"
+language = "R"
+added = 2026-10-20

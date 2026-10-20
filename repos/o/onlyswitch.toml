@@ -1,0 +1,9 @@
+name = "OnlySwitch"
+description = "The all-in-one macOS menu bar companion: customizable controls, system monitor, AI Agent, Shortcuts, widgets, remote control, and more."
+category = "agents"
+tags = ["macos", "swiftui", "statusbar", "menubar-app", "notch", "wallpaper", "audioplayer", "dark-mode"]
+repository = "https://github.com/jacklandrin/OnlySwitch"
+website = "https://onlyswitch.click/"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

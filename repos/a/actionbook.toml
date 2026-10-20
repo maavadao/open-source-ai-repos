@@ -1,0 +1,9 @@
+name = "actionbook"
+description = "Let your AI agent get the sources behind logins and paywalls."
+category = "browser-automation"
+tags = ["ai-agents", "browser-automation", "rust", "skills"]
+repository = "https://github.com/actionbook/actionbook"
+website = "https://actionbook.app"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

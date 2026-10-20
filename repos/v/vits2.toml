@@ -1,0 +1,9 @@
+name = "vits2"
+description = "VITS2: Improving Quality and Efficiency of Single-Stage Text-to-Speech with Adversarial Learning and Architecture Design"
+category = "speech"
+tags = ["deep-learning", "pytorch", "speech", "speech-synthesis", "text-to-speech", "tts", "vits2", "voice-conversion"]
+repository = "https://github.com/daniilrobnikov/vits2"
+website = "https://vits-2.github.io/demo/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

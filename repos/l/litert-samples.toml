@@ -1,0 +1,9 @@
+name = "litert-samples"
+description = "LiteRT and LiteRT-LM sample apps, model recipes, agent skills and utilities."
+category = "local-llms"
+tags = ["edge-ai", "generative-ai", "on-device-ai"]
+repository = "https://github.com/google-ai-edge/litert-samples"
+website = "https://developers.google.com/edge/litert"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

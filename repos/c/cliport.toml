@@ -1,0 +1,9 @@
+name = "cliport"
+description = "CLIPort: What and Where Pathways for Robotic Manipulation"
+category = "robotics"
+tags = ["clip", "robotics", "vision", "deep-learning", "natural-language-processing", "grounding", "vision-language", "manipulation"]
+repository = "https://github.com/cliport/cliport"
+website = "https://cliport.github.io"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

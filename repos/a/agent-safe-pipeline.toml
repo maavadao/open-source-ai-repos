@@ -1,0 +1,9 @@
+name = "agent-safe-pipeline"
+description = "An execution-authority gateway for AI agents and APIs. It intercepts consequential HTTP actions, asks Decionis whether they are authorized, and forwards exactly the authorized request once on a single-use grant, holds it for a person, or refuses it, leaving chained evidence…"
+category = "mcp-servers"
+tags = ["ai-agents", "ai-governance", "authorization", "human-in-the-loop", "mcp", "policy-as-code", "execution-authority", "agent-security"]
+repository = "https://github.com/decionis/agent-safe-pipeline"
+website = "https://decionis.com/docs?utm_source=github&utm_medium=org_readme&utm_campaign=dev_discovery"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

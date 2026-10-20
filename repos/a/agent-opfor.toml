@@ -1,0 +1,8 @@
+name = "agent-opfor"
+description = "Open-source adversary emulation for AI agents and MCP servers."
+category = "mcp-servers"
+tags = ["adversary-emulation", "agentic-ai", "ai-agents", "ai-red-teaming", "ai-security", "jailbreak", "llm-security", "mcp"]
+repository = "https://github.com/KeyValueSoftwareSystems/agent-opfor"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

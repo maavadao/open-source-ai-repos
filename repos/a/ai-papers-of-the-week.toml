@@ -1,0 +1,7 @@
+name = "AI-Papers-of-the-Week"
+description = "Highlighting the top ML papers every week."
+category = "data-science"
+tags = ["ai", "data-science", "deeplearning", "machine-learning", "nlp"]
+repository = "https://github.com/dair-ai/AI-Papers-of-the-Week"
+license = "NOASSERTION"
+added = 2026-10-20

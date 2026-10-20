@@ -1,0 +1,8 @@
+name = "auto-browser"
+description = "Give your AI agent a real browser — with a human in the loop. Open-source MCP-native browser agent."
+category = "mcp-servers"
+tags = ["ai-agent", "browser-automation", "claude", "docker", "fastapi", "llm", "local-first", "mcp"]
+repository = "https://github.com/LvcidPsyche/auto-browser"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

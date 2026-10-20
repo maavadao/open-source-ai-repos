@@ -1,0 +1,7 @@
+name = "awesome-state-of-depth-completion"
+description = "Current state of supervised and unsupervised depth completion methods"
+category = "learning"
+tags = ["depth-completion", "kitti", "void", "supervised-learning", "unsupervised-learning", "self-supervised-learning", "benchmark", "awesome"]
+repository = "https://github.com/alexklwong/awesome-state-of-depth-completion"
+license = "NOASSERTION"
+added = 2026-10-20

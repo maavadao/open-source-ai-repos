@@ -1,0 +1,9 @@
+name = "PyTorch-SVGRender"
+description = "SVG Differentiable Rendering: Generating vector graphics using neural networks. Support: text-to-SVG, Image-to-SVG, SVG Editing."
+category = "image"
+tags = ["differentiable-rendering", "svg", "text-to-svg", "img-to-svg", "svg-generation", "pytorch-svgrender", "rendering-2d-graphics", "svg-synthesis"]
+repository = "https://github.com/ximinng/PyTorch-SVGRender"
+website = "https://ximinng.github.io/PyTorch-SVGRender-project/"
+license = "MPL-2.0"
+language = "Python"
+added = 2026-10-20

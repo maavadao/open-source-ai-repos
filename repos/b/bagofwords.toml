@@ -1,0 +1,9 @@
+name = "bagofwords"
+description = "Chat with your data - with memory, rules, and observability built in. Deploy in 2 minutes"
+category = "agents"
+tags = ["analytics", "data", "visualization", "agents", "ai", "text2sql"]
+repository = "https://github.com/bagofwords1/bagofwords"
+website = "https://bagofwords.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

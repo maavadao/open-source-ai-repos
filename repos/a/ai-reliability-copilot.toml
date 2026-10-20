@@ -1,0 +1,9 @@
+name = "ai-reliability-copilot"
+description = "Turn a production incident into a structured 9-section LLM response (severity, root cause, mitigation, postmortem). Ships with a 5-scenario regression suite + LLM-as-judge eval pipeline."
+category = "mcp-servers"
+tags = ["ai-sdk", "incident-response", "nextjs", "postgres", "rag", "sre", "supabase", "typescript"]
+repository = "https://github.com/YanpengQi7/ai-reliability-copilot"
+website = "https://ai-reliability-copilot.vercel.app"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

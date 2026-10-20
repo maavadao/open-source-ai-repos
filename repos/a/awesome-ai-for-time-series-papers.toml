@@ -1,0 +1,7 @@
+name = "awesome-AI-for-time-series-papers"
+description = "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals."
+category = "learning"
+tags = ["timeseries", "timeseries-analysis", "timeseries-forecasting", "timeseries-prediction", "timeseriesclassification", "anomalydetection", "changepoint-detection", "classification"]
+repository = "https://github.com/qingsongedu/awesome-AI-for-time-series-papers"
+license = "MIT"
+added = 2026-10-20

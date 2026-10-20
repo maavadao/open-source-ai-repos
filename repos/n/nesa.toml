@@ -1,0 +1,9 @@
+name = "nesa"
+description = "Run AI models end-to-end encrypted."
+category = "security"
+tags = ["ai", "encryption", "privacy", "deep-learning", "llms"]
+repository = "https://github.com/nesaorg/nesa"
+website = "https://nesa.ai"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

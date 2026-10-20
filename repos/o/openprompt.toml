@@ -1,0 +1,9 @@
+name = "OpenPrompt"
+description = "An Open-Source Framework for Prompt-Learning."
+category = "skills-prompts"
+tags = ["nlp", "pre-trained-language-models", "ai", "nlp-machine-learning", "natural-language-processing", "natural-language-understanding", "deep-learning", "pre-trained-model"]
+repository = "https://github.com/thunlp/OpenPrompt"
+website = "https://thunlp.github.io/OpenPrompt/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "HugNLP"
+description = "CIKM2023 Best Demo Paper Award. HugNLP is a unified and comprehensive NLP library based on HuggingFace Transformer. Please hugging for NLP now!"
+category = "models"
+tags = ["code-understanding", "deep-learning", "few-shot-learning", "instruction-tuning", "large-language-models", "natural-language-processing", "prompt-based-learning", "pytorch"]
+repository = "https://github.com/HugAILab/HugNLP"
+website = "https://wjn1996.github.io/blogs/HugNLP/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

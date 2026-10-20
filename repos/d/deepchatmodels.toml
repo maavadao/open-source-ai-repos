@@ -1,0 +1,8 @@
+name = "DeepChatModels"
+description = "Conversation models in TensorFlow. (website removed)"
+category = "chat"
+tags = ["tensorflow", "conversation-models", "sequence-to-sequence", "encoder-decoder", "tensorboard", "chatbot", "flask", "appengine-python"]
+repository = "https://github.com/mckinziebrandon/DeepChatModels"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

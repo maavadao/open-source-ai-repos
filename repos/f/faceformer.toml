@@ -1,0 +1,8 @@
+name = "FaceFormer"
+description = "[CVPR 2022] FaceFormer: Speech-Driven 3D Facial Animation with Transformers"
+category = "speech"
+tags = ["computer-vision", "computer-graphics", "deep-learning", "facial-animation", "speech", "3d-face", "3d-models", "pytorch-implementation"]
+repository = "https://github.com/EvelynFan/FaceFormer"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

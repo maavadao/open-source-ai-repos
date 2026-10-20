@@ -1,0 +1,9 @@
+name = "PrismerCloud"
+description = "Prismer Cloud"
+category = "mcp-servers"
+tags = ["agent-communication", "agent-memory", "ai-agents", "claude", "cursor", "docker", "knowledge-base", "llm-tools"]
+repository = "https://github.com/Prismer-AI/PrismerCloud"
+website = "https://prismer.cloud"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

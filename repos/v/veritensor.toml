@@ -1,0 +1,9 @@
+name = "Veritensor"
+description = "The Anti-Virus for AI Artifacts & RAG Firewall. A static analysis tool scanning Models and Notebooks for RCE, Datasets and RAG docs for Data Poisoning, PII, and Prompt Injections. Secure your AI Supply Chain."
+category = "learning"
+tags = ["ai-security", "ci-cd", "cosign", "devsecops", "generative-ai", "huggingface", "llm-security", "machine-learning-security"]
+repository = "https://github.com/arsbr/Veritensor"
+website = "https://www.veritensor.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

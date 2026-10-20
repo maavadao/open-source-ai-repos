@@ -1,0 +1,9 @@
+name = "core"
+description = "A framework helps you quickly build AI Native IDE products. MCP Client, supports Model Context Protocol (MCP) tools via MCP server."
+category = "mcp-servers"
+tags = ["ide", "opensumi", "ide-framework", "editor", "electron", "webide", "typescript", "ai"]
+repository = "https://github.com/opensumi/core"
+website = "https://opensumi.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

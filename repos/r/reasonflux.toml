@@ -1,0 +1,9 @@
+name = "ReasonFlux"
+description = "[NeurIPS 2025 Spotlight] LLM post-training suite — featuring ReasonFlux, ReasonFlux-PRM, and ReasonFlux-Coder."
+category = "coding"
+tags = ["chain-of-thought", "deepseek-r1", "reinforcement-learning", "llm-rlhf", "sft-data", "clawdbot-skill", "code-generation", "gemini-pro"]
+repository = "https://github.com/Gen-Verse/ReasonFlux"
+website = "https://arxiv.org/abs/2502.06772"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

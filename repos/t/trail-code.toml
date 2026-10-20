@@ -1,0 +1,9 @@
+name = "Trail-Code"
+description = "Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase."
+category = "mcp-servers"
+tags = ["ai-agents", "claude-code", "code-graph", "context-engineering", "developer-tools", "knowledge-graph", "llm", "mcp"]
+repository = "https://github.com/trailhq/Trail-Code"
+website = "https://trailhq.com/graft"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

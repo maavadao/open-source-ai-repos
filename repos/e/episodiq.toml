@@ -1,0 +1,8 @@
+name = "episodiq"
+description = "Economical human-readable logs and structural (event pattern) retrieval for agentic trajectories"
+category = "agents"
+tags = ["ai-agents", "observability", "devtools", "llmops"]
+repository = "https://github.com/slavaZim/episodiq"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

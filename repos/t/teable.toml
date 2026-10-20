@@ -1,0 +1,9 @@
+name = "teable"
+description = "AI Spreadsheet for Business"
+category = "no-code"
+tags = ["airtable", "airtable-alternative", "database", "no-code", "postgres", "postgresql", "low-code", "spreadsheet"]
+repository = "https://github.com/teableio/teable"
+website = "https://teable.ai"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

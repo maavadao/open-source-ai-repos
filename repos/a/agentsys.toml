@@ -1,0 +1,9 @@
+name = "agentsys"
+description = "AI writes code. This automates everything else · 24 plugins · 49 agents · 44 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro."
+category = "coding"
+tags = ["claude-code", "codex", "opencode", "anthropic", "claude", "code-review", "ai", "automation"]
+repository = "https://github.com/agent-sh/agentsys"
+website = "https://agent-sh.github.io/agentsys/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

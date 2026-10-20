@@ -1,0 +1,9 @@
+name = "genai-processors"
+description = "GenAI Processors is a lightweight Python library that enables efficient, parallel content processing."
+category = "agents"
+tags = ["agent", "ai", "asyncio", "gemini", "genai", "generative-ai", "language-model", "multimodal"]
+repository = "https://github.com/google-gemini/genai-processors"
+website = "https://google-gemini.github.io/genai-processors/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

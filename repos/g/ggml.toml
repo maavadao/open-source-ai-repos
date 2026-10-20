@@ -1,0 +1,9 @@
+name = "ggml"
+description = "Tensor library for machine learning"
+category = "models"
+tags = ["machine-learning"]
+repository = "https://github.com/ggml-org/ggml"
+website = "https://github.com/ggml-org"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

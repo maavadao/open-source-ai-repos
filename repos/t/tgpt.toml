@@ -1,0 +1,8 @@
+name = "tgpt"
+description = "AI Chatbots in terminal for free"
+category = "chat"
+tags = ["chatgpt", "ai", "chatbot", "cli", "go", "golang", "linux", "macos"]
+repository = "https://github.com/aandrew-me/tgpt"
+license = "GPL-3.0"
+language = "Go"
+added = 2026-10-20

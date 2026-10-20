@@ -1,0 +1,9 @@
+name = "FinGPT"
+description = "FinGPT: Open-Source Financial Large Language Models! Revolutionize We release the trained model on HuggingFace."
+category = "chat"
+tags = ["chatgpt", "finance", "fintech", "large-language-models", "machine-learning", "nlp", "prompt-engineering", "pytorch"]
+repository = "https://github.com/AI4Finance-Foundation/FinGPT"
+website = "https://fingpt.io"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

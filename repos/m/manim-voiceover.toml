@@ -1,0 +1,9 @@
+name = "manim-voiceover"
+description = "Manim plugin for all things voiceover"
+category = "speech"
+tags = ["text-to-speech", "voiceover", "manim", "tts", "ai", "math-animations", "speech-synthesis", "voice-synthesis"]
+repository = "https://github.com/ManimCommunity/manim-voiceover"
+website = "https://voiceover.manim.community/en/stable"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "flyde"
+description = "Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backend developers can collaborate on the same visual flows."
+category = "no-code"
+tags = ["flow-based-programming", "visual-programming", "vscode", "visual-programming-editor", "visual-programming-language", "vscode-extension", "agentic-ai", "ai"]
+repository = "https://github.com/flydelabs/flyde"
+website = "https://www.flyde.dev"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

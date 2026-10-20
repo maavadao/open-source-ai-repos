@@ -1,0 +1,9 @@
+name = "rowboat"
+description = "AI coworker with memory and collaboration"
+category = "coding"
+tags = ["agents", "agents-sdk", "ai", "ai-agents", "ai-agents-automation", "chatgpt", "generative-ai", "llm"]
+repository = "https://github.com/rowboatlabs/rowboat"
+website = "https://www.rowboatlabs.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

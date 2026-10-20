@@ -1,0 +1,8 @@
+name = "lab"
+description = "A customisable 3D platform for agent-based AI research"
+category = "ml-platforms"
+tags = ["machine-learning", "artificial-intelligence", "neural-networks", "deep-learning"]
+repository = "https://github.com/google-deepmind/lab"
+license = "NOASSERTION"
+language = "C"
+added = 2026-10-20

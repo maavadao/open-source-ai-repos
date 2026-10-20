@@ -1,0 +1,98 @@
+# Every repo belongs to exactly one category: put its id (the name in [brackets]) in the
+# repo file's `category` field. To propose a new category, open an issue first.
+
+[agents]
+name = "AI agents"
+description = "Frameworks and apps for building agents that plan, use tools and act on their own."
+
+[coding]
+name = "Coding assistants"
+description = "Tools that help you write, review, explain and fix code."
+
+[llm-apps]
+name = "LLM & RAG frameworks"
+description = "Libraries for building apps on large language models, retrieval and prompts."
+
+[local-llms]
+name = "Run models locally"
+description = "Runtimes, inference servers and quantisation for running models on your own hardware."
+
+[chat]
+name = "Chat interfaces"
+description = "Self-hostable chat apps and assistants."
+
+[models]
+name = "Open models"
+description = "Open-weight language, vision and multimodal models, with their code and papers."
+
+[image]
+name = "Image generation"
+description = "Text-to-image, image editing and diffusion tools."
+
+[video]
+name = "Video & animation"
+description = "Video generation, editing and animation."
+
+[speech]
+name = "Speech & audio"
+description = "Speech recognition, text-to-speech, voice and music."
+
+[vision]
+name = "Computer vision"
+description = "Detection, segmentation, tracking, 3D and other vision tools."
+
+[documents]
+name = "Documents & OCR"
+description = "Turning PDFs, scans and web pages into text and data."
+
+[search]
+name = "Search & research"
+description = "AI search engines, scrapers and research assistants."
+
+[vector-databases]
+name = "Vector databases"
+description = "Databases and libraries for storing and searching embeddings."
+
+[ml-platforms]
+name = "Training & MLOps"
+description = "Deep learning frameworks, fine-tuning, evaluation, deployment and observability."
+
+[data-science]
+name = "Data science"
+description = "Notebooks, data processing, analytics and classic machine learning."
+
+[robotics]
+name = "Robotics & driving"
+description = "Robotics, embodied AI, drones and autonomous driving."
+
+[browser-automation]
+name = "Browser & computer use"
+description = "Agents and libraries that drive browsers, desktops and phones."
+
+[no-code]
+name = "Workflow & no-code"
+description = "Visual builders and workflow automation with AI steps."
+
+[mcp-servers]
+name = "MCP servers"
+description = "Model Context Protocol servers and tooling that connect models to apps and data."
+
+[skills-prompts]
+name = "Skills & prompts"
+description = "Reusable agent skills, prompt collections and system prompts."
+
+[learning]
+name = "Learn AI"
+description = "Courses, tutorials, books, paper implementations and curated lists."
+
+[education]
+name = "Education"
+description = "Tools made for teaching and learning in classrooms and at home."
+
+[security]
+name = "AI safety & security"
+description = "Red-teaming, guardrails, privacy and security tools for AI systems."
+
+[other]
+name = "Other"
+description = "Everything that doesn't fit above."

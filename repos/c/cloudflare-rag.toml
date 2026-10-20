@@ -1,0 +1,9 @@
+name = "cloudflare-rag"
+description = "Fullstack \"Chat with your PDFs\" RAG (Retrieval Augmented Generation) app built fully on Cloudflare"
+category = "chat"
+tags = ["chatgpt", "cloudflare", "llm", "rag"]
+repository = "https://github.com/RafalWilinski/cloudflare-rag"
+website = "https://rwilinski.ai/consulting"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Neural-Photo-Editor"
+description = "A simple interface for editing natural photos with generative neural networks."
+category = "vision"
+tags = ["machine-learning", "deep-learning", "gans", "computer-vision", "interfaces", "convolutional-neural-networks"]
+repository = "https://github.com/ajbrock/Neural-Photo-Editor"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

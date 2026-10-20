@@ -1,0 +1,7 @@
+name = "Diffusion-Models-Papers-Survey-Taxonomy"
+description = "Diffusion model papers, survey, and taxonomy"
+category = "video"
+tags = ["diffusion-models", "survey", "stable-diffusion", "text-to-image", "text-to-3d", "text-to-video"]
+repository = "https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy"
+license = "NOASSERTION"
+added = 2026-10-20

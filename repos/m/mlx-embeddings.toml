@@ -1,0 +1,8 @@
+name = "mlx-embeddings"
+description = "MLX-Embeddings is the best package for running Vision and Language Embedding models locally on your Mac using MLX."
+category = "chat"
+tags = ["chatbot", "embeddings", "llms", "rag", "retrieval-augmented-generation"]
+repository = "https://github.com/Blaizzy/mlx-embeddings"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

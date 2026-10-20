@@ -1,0 +1,8 @@
+name = "awesome-vlm-architectures"
+description = "Curated visual catalog of 155+ vision-language model (VLM/MLLM) architectures: papers, diagrams, training recipes, datasets, and a release timeline for multimodal AI agents."
+category = "learning"
+tags = ["ai-agents", "architecture-diagrams", "arxiv", "computer-vision", "deep-learning", "foundation-models", "large-multimodal-models", "mllm"]
+repository = "https://github.com/gokayfem/awesome-vlm-architectures"
+license = "CC0-1.0"
+language = "Markdown"
+added = 2026-10-20

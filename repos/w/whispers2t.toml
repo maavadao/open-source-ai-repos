@@ -1,0 +1,8 @@
+name = "WhisperS2T"
+description = "An Optimized Speech-to-Text Pipeline for the Whisper Model Supporting Multiple Inference Engine"
+category = "speech"
+tags = ["asr", "deep-learning", "speech-recognition", "speech-to-text", "whisper", "tensorrt-llm", "tensorrt", "vad"]
+repository = "https://github.com/shashikg/WhisperS2T"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

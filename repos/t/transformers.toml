@@ -1,0 +1,9 @@
+name = "transformers"
+description = "Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
+category = "ml-platforms"
+tags = ["nlp", "natural-language-processing", "pytorch", "pytorch-transformers", "transformer", "model-hub", "pretrained-models", "speech-recognition"]
+repository = "https://github.com/huggingface/transformers"
+website = "https://huggingface.co/transformers"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

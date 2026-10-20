@@ -1,0 +1,8 @@
+name = "awesome-coderabbit"
+description = "Official awesome-list of CodeRabbit Starters & Resources"
+category = "learning"
+tags = ["ai", "code", "codereview", "engineering", "generative-ai", "pull-requests", "awesome", "awesome-list"]
+repository = "https://github.com/coderabbitai/awesome-coderabbit"
+website = "https://www.coderabbit.ai/"
+license = "CC0-1.0"
+added = 2026-10-20

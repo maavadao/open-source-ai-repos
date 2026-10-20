@@ -1,0 +1,9 @@
+name = "rapidpages"
+description = "Generate React and Tailwind components using AI"
+category = "other"
+tags = ["ai", "openai", "react", "tailwind", "ui"]
+repository = "https://github.com/rapidpages/rapidpages"
+website = "https://www.rapidpages.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

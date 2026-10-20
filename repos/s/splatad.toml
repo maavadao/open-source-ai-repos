@@ -1,0 +1,9 @@
+name = "splatad"
+description = "SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving"
+category = "robotics"
+tags = ["3d-reconstruction", "autonomous-driving", "cuda", "gaussian-splatting"]
+repository = "https://github.com/carlinds/splatad"
+website = "https://research.zenseact.com/publications/splatad/"
+license = "Apache-2.0"
+language = "Cuda"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "SSD-Tensorflow"
+description = "Single Shot MultiBox Detector in TensorFlow"
+category = "vision"
+tags = ["tensorflow", "ssd", "deep-learning", "yolo", "object-detection"]
+repository = "https://github.com/balancap/SSD-Tensorflow"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

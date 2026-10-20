@@ -1,0 +1,8 @@
+name = "speech-to-speech"
+description = "Build voice agents with open-source models"
+category = "speech"
+tags = ["ai", "assistant", "language-model", "machine-learning", "python", "speech", "speech-synthesis", "speech-to-text"]
+repository = "https://github.com/huggingface/speech-to-speech"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

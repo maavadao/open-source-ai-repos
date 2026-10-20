@@ -1,0 +1,9 @@
+name = "Fido"
+description = "A lightweight C++ machine learning library for embedded electronics and robotics."
+category = "robotics"
+tags = ["robotics", "machine-learning", "neural-network", "embedded", "beta"]
+repository = "https://github.com/FidoProject/Fido"
+website = "http://fidoproject.github.io/"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

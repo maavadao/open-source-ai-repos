@@ -1,0 +1,9 @@
+name = "Mortal"
+description = "A fast and strong AI for riichi mahjong, powered by Rust and deep reinforcement learning."
+category = "ml-platforms"
+tags = ["ai", "deep-learning", "game-ai", "mahjong", "reinforcement-learning", "riichi", "mjai", "mahjong-ai"]
+repository = "https://github.com/Equim-chan/Mortal"
+website = "https://mortal.ekyu.moe"
+license = "AGPL-3.0"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "getting-started"
+description = "A Starter Project Template for Wechaty works out-of-the-box"
+category = "learning"
+tags = ["wechaty", "bot", "video-tutorial", "getting-started", "wechat", "chatbot"]
+repository = "https://github.com/wechaty/getting-started"
+website = "https://gitpod.io/#https://github.com/wechaty/wechaty-getting-started"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

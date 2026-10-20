@@ -1,0 +1,8 @@
+name = "dsnote"
+description = "Speech Note Linux app. Note taking, reading and translating with offline Speech to Text, Text to Speech and Machine translation."
+category = "speech"
+tags = ["asr", "sailfishos", "stt", "tts", "flatpak-applications", "linux-desktop", "nmt", "offline"]
+repository = "https://github.com/mkiol/dsnote"
+license = "MPL-2.0"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "eino"
+description = "The ultimate LLM/AI application development framework in Go."
+category = "llm-apps"
+tags = ["ai", "langchaingo", "ai-application", "llm-application", "langchain-for-go", "ai-framework", "langchain"]
+repository = "https://github.com/cloudwego/eino"
+website = "https://www.cloudwego.io/docs/eino/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

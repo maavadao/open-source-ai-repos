@@ -1,0 +1,9 @@
+name = "BaseAI"
+description = "BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command."
+category = "search"
+tags = ["ai", "langbase", "baseai", "anthropic", "artificial-intelligence", "cohere", "gemini", "grok"]
+repository = "https://github.com/CommandCodeAI/BaseAI"
+website = "https://BaseAI.dev"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "prompt-hacker-collections"
+description = "prompt attack-defense, prompt Injection, reverse engineering notes and examples | 提示词对抗、破解例子与笔记"
+category = "security"
+tags = ["gpt", "gpt-4", "prompt-engineering", "attack-defense", "prompt-injection"]
+repository = "https://github.com/yunwei37/prompt-hacker-collections"
+website = "https://yunwei37.github.io/prompt-hacker-collections/"
+license = "MIT"
+added = 2026-10-20

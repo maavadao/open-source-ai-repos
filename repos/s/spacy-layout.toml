@@ -1,0 +1,8 @@
+name = "spacy-layout"
+description = "Process PDFs, Word documents and more with spaCy"
+category = "documents"
+tags = ["docx", "generative-ai", "natural-language-processing", "nlp", "pdf", "pdf-converter", "rag", "spacy"]
+repository = "https://github.com/explosion/spacy-layout"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

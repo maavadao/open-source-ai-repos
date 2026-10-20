@@ -1,0 +1,9 @@
+name = "3DTopia-XL"
+description = "[CVPR 2025 Highlight] 3DTopia-XL: High-Quality 3D PBR Asset Generation via Primitive Diffusion"
+category = "image"
+tags = ["3d-generation", "diffusion-models", "image-to-3d", "text-to-3d", "cvpr", "cvpr2025"]
+repository = "https://github.com/3DTopia/3DTopia-XL"
+website = "https://3dtopia.github.io/3DTopia-XL/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Chat-UniVi"
+description = "[CVPR 2024 Highlight] Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding"
+category = "models"
+tags = ["image-understanding", "large-language-models", "video-understanding", "vision-language-model"]
+repository = "https://github.com/PKU-YuanGroup/Chat-UniVi"
+website = "https://arxiv.org/abs/2311.08046"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

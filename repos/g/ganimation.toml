@@ -1,0 +1,9 @@
+name = "GANimation"
+description = "GANimation: Anatomically-aware Facial Animation from a Single Image (ECCV'18 Oral) [PyTorch]"
+category = "ml-platforms"
+tags = ["face-manipulation", "facial-expressions", "deep-learning", "generative-adversarial-network", "pytorch", "ganimation", "eccv-2018", "gan"]
+repository = "https://github.com/albertpumarola/GANimation"
+website = "http://www.albertpumarola.com/research/GANimation/index.html"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

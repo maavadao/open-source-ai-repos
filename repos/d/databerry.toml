@@ -1,0 +1,8 @@
+name = "databerry"
+description = "The no-code platform for building custom LLM Agents"
+category = "no-code"
+tags = ["ai", "chatgpt", "llm", "no-code", "openai", "qdrant", "semantic-search", "typescript"]
+repository = "https://github.com/gmpetrov/databerry"
+website = "https://chaindesk.ai"
+license = "NOASSERTION"
+added = 2026-10-20

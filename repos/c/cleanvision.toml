@@ -1,0 +1,9 @@
+name = "cleanvision"
+description = "Automatically find issues in image datasets and practice data-centric computer vision."
+category = "image"
+tags = ["computer-vision", "data-centric-ai", "data-exploration", "data-quality", "data-validation", "deep-learning", "exploratory-data-analysis", "image-analysis"]
+repository = "https://github.com/cleanlab/cleanvision"
+website = "https://cleanvision.readthedocs.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

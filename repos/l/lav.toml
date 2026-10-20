@@ -1,0 +1,9 @@
+name = "LAV"
+description = "(CVPR 2022) A minimalist, mapless, end-to-end self-driving stack for joint perception, prediction, planning and control."
+category = "robotics"
+tags = ["autonomous-driving", "distillation", "carla-simulator", "cvpr2022", "imitation-learning", "perception", "prediction", "planning"]
+repository = "https://github.com/dotchen/LAV"
+website = "https://dotchen.github.io/LAV/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

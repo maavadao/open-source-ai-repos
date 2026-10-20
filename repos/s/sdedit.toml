@@ -1,0 +1,9 @@
+name = "SDEdit"
+description = "PyTorch implementation for SDEdit: Image Synthesis and Editing with Stochastic Differential Equations"
+category = "image"
+tags = ["pytorch", "score-matching", "image-editing", "image-generation", "controllable-generation", "image-manipulation"]
+repository = "https://github.com/ermongroup/SDEdit"
+website = "https://sde-image-editing.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

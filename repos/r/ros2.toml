@@ -1,0 +1,8 @@
+name = "ros2"
+description = "The Robot Operating System, is a meta operating system for robots."
+category = "robotics"
+repository = "https://github.com/ros2/ros2"
+website = "https://docs.ros.org"
+license = "NOASSERTION"
+skill_level = "intermediate"
+added = 2026-10-20

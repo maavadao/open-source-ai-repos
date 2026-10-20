@@ -1,0 +1,8 @@
+name = "ComfyUI-H3-FaceRefine"
+description = "Refine and improve the quality of small faces in MiniMax H3 video. Per-frame face tracking, crop, refine with H3, stitch back."
+category = "video"
+tags = ["ai-video", "comfyui", "comfyui-custom-node", "comfyui-custom-nodes", "comfyui-nodes", "comfyui-video", "diffusion-models", "face-detection"]
+repository = "https://github.com/Carasibana/ComfyUI-H3-FaceRefine"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

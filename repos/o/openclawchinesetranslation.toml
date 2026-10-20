@@ -1,0 +1,9 @@
+name = "OpenClawChineseTranslation"
+description = "OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！"
+category = "chat"
+tags = ["chinese", "localization", "openclaw", "ai-assistant", "chatbot", "discord", "lobster", "open-source"]
+repository = "https://github.com/1186258278/OpenClawChineseTranslation"
+website = "https://openclaw.qt.cool"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

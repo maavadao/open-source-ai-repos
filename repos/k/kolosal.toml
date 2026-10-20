@@ -1,0 +1,9 @@
+name = "Kolosal"
+description = "Kolosal AI is an OpenSource and Lightweight alternative to LM Studio to run LLMs 100% offline on your device."
+category = "models"
+tags = ["llm", "c", "cpp", "deepseek", "gemma", "gemma2", "gemma3", "gpt"]
+repository = "https://github.com/KolosalAI/Kolosal"
+website = "https://kolosal.ai"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

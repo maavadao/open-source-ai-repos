@@ -1,0 +1,9 @@
+name = "streamlit"
+description = "Streamlit — A faster way to build and share data apps."
+category = "ml-platforms"
+tags = ["python", "machine-learning", "data-science", "deep-learning", "data-visualization", "streamlit", "data-analysis", "developer-tools"]
+repository = "https://github.com/streamlit/streamlit"
+website = "https://streamlit.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

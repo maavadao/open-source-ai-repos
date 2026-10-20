@@ -1,0 +1,7 @@
+name = "prime-agent"
+description = "A self-improving RLM agent for coding workflows and long-running autonomous tasks."
+category = "agents"
+repository = "https://github.com/PrimeIntellect-ai/prime-agent"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "claude-workflow-v2"
+description = "Universal Claude Code workflow plugin with agents, skills, hooks, and commands"
+category = "skills-prompts"
+tags = ["agent-skills", "ai", "ai-agents", "claude-code", "codex", "cursor", "skills", "workflow"]
+repository = "https://github.com/CloudAI-X/claude-workflow-v2"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

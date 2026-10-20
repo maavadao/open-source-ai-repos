@@ -1,0 +1,9 @@
+name = "agents-flex"
+description = "Agents-flex is A lightweight Java AI agent development framework (positioned as a counterpart to Spring AI). It supports features such as RAG, MCP, Skills, Text2SQL , LLM Wiki, Sub-agents, Web Search, TTS (synchronous and streaming), and STT."
+category = "local-llms"
+tags = ["llm", "agent", "ai", "chatbot", "chatgpt", "gpt", "langchain4j", "llama3"]
+repository = "https://github.com/agents-flex/agents-flex"
+website = "https://agentsflex.com"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

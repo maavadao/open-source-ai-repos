@@ -1,0 +1,9 @@
+name = "Biodiversity"
+description = "Microsoft AI for Good Lab — Biodiversity research hub. Open-source AI models, edge devices, and tools for biodiversity monitoring and conservation. Your source for MegaDetector, SPARROW, PytorchWildlife, Bioacoustics, and more."
+category = "vision"
+tags = ["camera-traps", "conservation", "machine-learning", "computer-vision", "megadetector", "ai-for-good", "bioacoustics", "biodiversity"]
+repository = "https://github.com/microsoft/Biodiversity"
+website = "https://microsoft.github.io/Biodiversity/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

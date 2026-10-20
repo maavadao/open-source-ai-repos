@@ -1,0 +1,8 @@
+name = "ComfyUI-Copilot"
+description = "An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance"
+category = "coding"
+tags = ["agent", "ai", "comfy-ui", "copilot", "deepseek", "deepseek-v3", "gpt-4", "llm-agent"]
+repository = "https://github.com/ATH-MaaS/ComfyUI-Copilot"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

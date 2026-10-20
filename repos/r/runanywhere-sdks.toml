@@ -1,0 +1,9 @@
+name = "runanywhere-sdks"
+description = "Production ready toolkit to run AI locally"
+category = "image"
+tags = ["ios", "kotlin", "llm", "swift", "inference", "multimodal", "on-device-ai", "voice-ai"]
+repository = "https://github.com/RunanywhereAI/runanywhere-sdks"
+website = "https://www.runanywhere.ai"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

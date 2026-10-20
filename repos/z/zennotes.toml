@@ -1,0 +1,9 @@
+name = "zennotes"
+description = "Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration."
+category = "mcp-servers"
+tags = ["electron", "local-first", "markdown", "mcp", "notes", "vim"]
+repository = "https://github.com/ZenNotes/zennotes"
+website = "https://zennotes.org"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

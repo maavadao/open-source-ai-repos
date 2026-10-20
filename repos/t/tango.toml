@@ -1,0 +1,9 @@
+name = "tango"
+description = "A family of diffusion models for text-to-audio generation."
+category = "image"
+tags = ["audio-generation", "diffusion", "diffusion-models", "language-models", "large-language-models", "text-to-audio"]
+repository = "https://github.com/declare-lab/tango"
+website = "https://tango2-web.github.io/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

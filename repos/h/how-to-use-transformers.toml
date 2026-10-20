@@ -1,0 +1,9 @@
+name = "How-to-use-Transformers"
+description = "Transformers 库快速入门教程"
+category = "models"
+tags = ["nlp", "pytorch", "transformers", "bert", "classification", "natural-language-processing", "ner", "prompt"]
+repository = "https://github.com/jsksxs360/How-to-use-Transformers"
+website = "https://transformers.run/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

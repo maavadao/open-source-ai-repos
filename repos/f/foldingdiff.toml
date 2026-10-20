@@ -1,0 +1,9 @@
+name = "foldingdiff"
+description = "Diffusion models of protein structure; trigonometry and attention are all you need!"
+category = "image"
+tags = ["diffusion", "diffusion-models", "protein", "proteins", "transformer", "protein-structure-generation"]
+repository = "https://github.com/microsoft/foldingdiff"
+website = "https://www.nature.com/articles/s41467-024-45051-2"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

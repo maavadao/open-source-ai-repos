@@ -1,0 +1,8 @@
+name = "3D-BoundingBox"
+description = "PyTorch implementation for 3D Bounding Box Estimation Using Deep Learning and Geometry"
+category = "vision"
+tags = ["pytorch", "3d", "computer-vision", "localization"]
+repository = "https://github.com/skhadem/3D-BoundingBox"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

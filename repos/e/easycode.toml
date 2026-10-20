@@ -1,0 +1,9 @@
+name = "EasyCode"
+description = "Easy Code (formerly DeepV Code) — A highly customizable AI coding assistant compatible with all major AI models. The perfect alternative to Claude Code and Codex, offering deep code analysis, intelligent suggestions, version rollback, multi-device sync, and automated testing…"
+category = "coding"
+tags = ["ai", "ai-agents", "ai-coding-assistant", "vibe-coding"]
+repository = "https://github.com/OrionStarAI/EasyCode"
+website = "https://easycode.bot"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

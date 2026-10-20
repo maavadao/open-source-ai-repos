@@ -1,0 +1,8 @@
+name = "hcaptcha-challenger"
+description = "Gracefully face hCaptcha challenge with multimodal large language model."
+category = "browser-automation"
+tags = ["hcaptcha", "hcaptcha-solver", "yolo", "playwright", "clip", "agent", "gemini", "llm"]
+repository = "https://github.com/QIN2DIM/hcaptcha-challenger"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

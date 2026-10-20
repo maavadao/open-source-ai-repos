@@ -1,0 +1,9 @@
+name = "php-opencv"
+description = "PHP extensions for OpenCV"
+category = "vision"
+tags = ["php7", "opencv", "php-extension", "php-opencv", "phpopencv", "face-recognition", "face-detection", "computer-vision"]
+repository = "https://github.com/hihozhou/php-opencv"
+website = "https://phpopencv.org"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

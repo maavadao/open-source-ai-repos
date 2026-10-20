@@ -1,0 +1,8 @@
+name = "cycle-diffusion"
+description = "[ICCV 2023] A latent space for stochastic diffusion models"
+category = "image"
+tags = ["diffusion-models", "generative-models", "image-to-image-translation", "score-based-generative-models", "stable-diffusion", "text-to-image", "zero-shot-learning", "image-synthesis"]
+repository = "https://github.com/ChenWu98/cycle-diffusion"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

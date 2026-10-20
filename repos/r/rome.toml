@@ -1,0 +1,9 @@
+name = "rome"
+description = "Locating and editing factual associations in GPT (NeurIPS 2022)"
+category = "models"
+tags = ["transformers", "gpt", "interpretability", "pytorch"]
+repository = "https://github.com/kmeng01/rome"
+website = "https://rome.baulab.info"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

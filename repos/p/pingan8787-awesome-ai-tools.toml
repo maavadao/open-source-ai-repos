@@ -1,0 +1,7 @@
+name = "awesome-ai-tools"
+description = "Finding the AI tools you need!"
+category = "learning"
+tags = ["ai", "ai-tools", "chatgpt", "openai"]
+repository = "https://github.com/pingan8787/awesome-ai-tools"
+license = "NOASSERTION"
+added = 2026-10-20

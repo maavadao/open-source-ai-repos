@@ -1,0 +1,8 @@
+name = "LIBERO"
+description = "Benchmarking Knowledge Transfer in Lifelong Robot Learning"
+category = "robotics"
+tags = ["benchmark", "imitation-learning", "lifelong-learning", "manipulation", "multitask-learning", "robot-learning"]
+repository = "https://github.com/Lifelong-Robot-Learning/LIBERO"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "bub"
+description = "Bub it. Build it. A tiny agent runtime, composable with plugins."
+category = "skills-prompts"
+tags = ["python", "ai-agents", "agent-framework", "agent-skills", "cli", "context-engineering", "plugins", "self-hosted"]
+repository = "https://github.com/bubbuild/bub"
+website = "https://bub.build/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "suno-api"
+description = "Use API to call the music generation AI of suno.ai, and easily integrate it into agents like GPTs."
+category = "speech"
+tags = ["ai", "suno", "suno-ai", "suno-ai-api", "typescript", "music"]
+repository = "https://github.com/gcui-art/suno-api"
+website = "https://suno.gcui.ai"
+license = "LGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

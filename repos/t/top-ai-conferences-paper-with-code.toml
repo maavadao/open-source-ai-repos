@@ -1,0 +1,7 @@
+name = "Top-AI-Conferences-Paper-with-Code"
+description = "MLNLP：本仓库整理人工智能会议（如 ACL、EMNLP、NAACL、COLING、AAAI、IJCAI、ICLR、NeurIPS、ICML 等）中开源代码的论文。"
+category = "vision"
+tags = ["computer-vision", "deep-learning", "machine-learning", "natural-language-processing", "pytorch", "tensorflow", "mlnlp"]
+repository = "https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code"
+license = "NOASSERTION"
+added = 2026-10-20

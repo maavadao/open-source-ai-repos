@@ -1,0 +1,9 @@
+name = "ante"
+description = "Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It works like Claude Code or Codex, with none of their dependencies or model constraints."
+category = "agents"
+tags = ["ai-agents", "rust", "agent", "agentic-ai", "artifical-life", "terminal"]
+repository = "https://github.com/AntigmaLabs/ante"
+website = "https://antigma.ai"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

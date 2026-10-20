@@ -1,0 +1,9 @@
+name = "aci"
+description = "ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps."
+category = "mcp-servers"
+tags = ["agents", "ai", "integration", "llm", "mcp", "open-source", "tools", "ai-agents"]
+repository = "https://github.com/aipotheosis-labs/aci"
+website = "https://www.aci.dev/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

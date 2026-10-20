@@ -1,0 +1,8 @@
+name = "VoxNovel"
+description = "VoxNovel: generate audiobooks giving each character a different voice actor."
+category = "speech"
+tags = ["audiobook-creator", "audiobooks", "booknlp", "epub", "generative-ai", "multi-speaker", "styletts2", "torch"]
+repository = "https://github.com/DrewThomasson/VoxNovel"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

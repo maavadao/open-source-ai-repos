@@ -1,0 +1,8 @@
+name = "stable-diffusion-webui-docker"
+description = "Easy Docker setup for Stable Diffusion with user-friendly UI"
+category = "image"
+tags = ["docker", "stable-diffusion", "gradio", "docker-compse", "pytorch"]
+repository = "https://github.com/AbdBarho/stable-diffusion-webui-docker"
+license = "NOASSERTION"
+language = "Shell"
+added = 2026-10-20

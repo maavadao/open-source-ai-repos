@@ -1,0 +1,8 @@
+name = "ralph"
+description = "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete."
+category = "agents"
+repository = "https://github.com/snarktank/ralph"
+website = "https://x.com/ryancarson/status/2008548371712135632"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

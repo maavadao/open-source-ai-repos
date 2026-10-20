@@ -1,0 +1,7 @@
+name = "awesome-image-translation"
+description = "Collection of awesome resources on image-to-image translation."
+category = "learning"
+tags = ["image-translation", "awesome-list", "image-generation", "computer-vision", "computer-graphics"]
+repository = "https://github.com/weihaox/awesome-image-translation"
+license = "MIT"
+added = 2026-10-20

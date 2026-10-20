@@ -1,0 +1,8 @@
+name = "DynSLAM"
+description = "Master's Thesis on Simultaneous Localization and Mapping in dynamic environments. Separately reconstructs both the static environment and the dynamic objects from it, such as cars."
+category = "robotics"
+tags = ["slam", "computer-vision", "deep-learning", "dense", "autonomous-vehicles", "eth-zurich", "master-thesis"]
+repository = "https://github.com/AndreiBarsan/DynSLAM"
+license = "BSD-3-Clause"
+language = "Jupyter Notebook"
+added = 2026-10-20

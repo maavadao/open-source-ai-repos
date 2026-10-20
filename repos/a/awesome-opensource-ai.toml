@@ -1,0 +1,9 @@
+name = "awesome-opensource-ai"
+description = "Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated."
+category = "learning"
+tags = ["agents", "ai", "artificial-intelligence", "awesome", "awesome-list", "generative-ai", "llm", "machine-learning"]
+repository = "https://github.com/alvinreal/awesome-opensource-ai"
+website = "https://awesomeosai.com"
+license = "CC0-1.0"
+language = "Python"
+added = 2026-10-20

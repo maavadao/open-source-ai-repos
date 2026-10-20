@@ -1,0 +1,10 @@
+name = "gz-sim"
+description = "Open source robotics simulator. The latest version of Gazebo."
+category = "robotics"
+tags = ["ignition-gazebo", "ignition-robotics", "graphical-interface", "ignition-libraries", "robotics", "simulation", "robotics-simulation", "cpp"]
+repository = "https://github.com/gazebosim/gz-sim"
+website = "https://gazebosim.org"
+license = "Apache-2.0"
+language = "C++"
+skill_level = "intermediate"
+added = 2026-10-20

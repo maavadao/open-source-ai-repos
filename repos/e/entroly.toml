@@ -1,0 +1,9 @@
+name = "entroly"
+description = "Cut AI context cost without trusting the compressor. Every reduction is reversible, byte-exact recoverable, and carries an auditable receipt. Local-first, works through proxy, MCP, SDK, or agent wrapper."
+category = "mcp-servers"
+tags = ["ai-agents", "claude-code", "mcp", "token-optimization", "context-compression", "hallucination-detection", "llm", "codex"]
+repository = "https://github.com/juyterman1000/entroly"
+website = "https://juyterman1000.github.io/entroly/docs/index.html"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

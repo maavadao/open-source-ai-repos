@@ -1,0 +1,8 @@
+name = "Mask3D"
+description = "Mask3D predicts accurate 3D semantic instances achieving state-of-the-art on ScanNet, ScanNet200, S3DIS and STPLS3D."
+category = "vision"
+tags = ["3d-computer-vision", "computer-vision", "deep-learning", "deep-neural-networks", "pytorch"]
+repository = "https://github.com/JonasSchult/Mask3D"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

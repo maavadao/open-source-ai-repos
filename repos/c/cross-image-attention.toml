@@ -1,0 +1,9 @@
+name = "cross-image-attention"
+description = "Officail Implementation for \"Cross-Image Attention for Zero-Shot Appearance Transfer\""
+category = "image"
+tags = ["diffusion-models", "stable-diffusion", "style-transfer", "text-to-image", "appearance-transfer"]
+repository = "https://github.com/garibida/cross-image-attention"
+website = "https://garibida.github.io/cross-image-attention/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

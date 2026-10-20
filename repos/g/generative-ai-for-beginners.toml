@@ -1,0 +1,10 @@
+name = "generative-ai-for-beginners"
+description = "21 Lessons, Get Started Building with Generative AI"
+category = "learning"
+tags = ["ai", "chatgpt", "dall-e", "generativeai", "gpt", "azure", "generative-ai", "llms"]
+repository = "https://github.com/microsoft/generative-ai-for-beginners"
+website = "https://microsoft.github.io/generative-ai-for-beginners/"
+license = "MIT"
+language = "Jupyter Notebook"
+skill_level = "beginner"
+added = 2026-10-20

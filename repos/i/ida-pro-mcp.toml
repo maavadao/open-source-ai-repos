@@ -1,0 +1,9 @@
+name = "ida-pro-mcp"
+description = "AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP."
+category = "mcp-servers"
+tags = ["ida-plugin", "ida-pro", "mcp", "mcp-server", "modelcontextprotocol", "reverse-engineering", "ai", "aiagent"]
+repository = "https://github.com/mrexodia/ida-pro-mcp"
+website = "https://plugins.hex-rays.com/mrexodia/ida-pro-mcp"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

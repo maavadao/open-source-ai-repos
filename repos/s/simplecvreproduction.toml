@@ -1,0 +1,8 @@
+name = "SimpleCVReproduction"
+description = "Replication of simple CV Projects including attention, classification, detection, keypoint detection, etc."
+category = "vision"
+tags = ["computer-vision", "paper-reproduction", "demo", "cv", "pytorch", "classification", "object-detection", "face-detection"]
+repository = "https://github.com/pprp/SimpleCVReproduction"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "HunyuanPortrait"
+description = "[CVPR-2025] The code of HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation"
+category = "video"
+tags = ["diffusion-models", "image-to-video", "portrait-animation", "video-generation", "talking-head", "generative-ai"]
+repository = "https://github.com/Tencent-Hunyuan/HunyuanPortrait"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "zeta"
+description = "Build high-performance AI models with modular building blocks"
+category = "learning"
+tags = ["transformers", "pytorch", "attention-mechanism", "attention-model", "chatgpt", "ffns", "llms", "openai"]
+repository = "https://github.com/kyegomez/zeta"
+website = "https://zeta.apac.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

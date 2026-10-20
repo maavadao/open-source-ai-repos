@@ -1,0 +1,9 @@
+name = "concierge"
+description = "Universal SDK for building next-gen MCP servers"
+category = "mcp-servers"
+tags = ["agentic-ai", "agentic-workflow", "agents", "ai", "automation", "llm", "mcp", "mcp-server"]
+repository = "https://github.com/concierge-hq/concierge"
+website = "https://platform.getconcierge.app"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "sales-outreach-automation-langgraph"
+description = "Automate lead research, qualification, and outreach with AI agents and Langgraph, creating personalized messaging and connecting with your CRMs (HubSpot, Airtable, Google Sheets)"
+category = "no-code"
+tags = ["sales-automation", "langgraph", "lead-generation", "automation", "crm-connections", "ai-automation", "leads-management", "ai-agents"]
+repository = "https://github.com/kaymen99/sales-outreach-automation-langgraph"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

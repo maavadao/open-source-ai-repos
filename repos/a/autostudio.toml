@@ -1,0 +1,9 @@
+name = "AutoStudio"
+description = "[CVPRW 2026] AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation"
+category = "image"
+tags = ["image-generation", "multi-turn-dialogue", "text-to-image-generation"]
+repository = "https://github.com/donahowe/AutoStudio"
+website = "https://arxiv.org/abs/2406.01388"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Agent_Memory_Techniques"
+description = "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo benchmarks, and production patterns."
+category = "learning"
+tags = ["agent-memory", "ai-agents", "anthropic", "episodic-memory", "graphiti", "knowledge-graph", "langchain", "letta"]
+repository = "https://github.com/NirDiamant/Agent_Memory_Techniques"
+website = "https://diamantai.substack.com/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

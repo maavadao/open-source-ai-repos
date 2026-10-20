@@ -1,0 +1,9 @@
+name = "shinkai-local-ai-agents"
+description = "Shinkai is a two click install App that allows you to create Local AI agents in 5 minutes or less using a simple UI. Supports: MCPs, Remote and Local AI, Crypto and Payments."
+category = "local-llms"
+tags = ["local-ai", "ai-agents", "local-ai-agents", "crypto-ai-agents", "decentralized-ai", "mcp-agents"]
+repository = "https://github.com/dcSpark/shinkai-local-ai-agents"
+website = "https://shinkai.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

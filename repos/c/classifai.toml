@@ -1,0 +1,9 @@
+name = "classifai"
+description = "Supercharge WordPress Content Workflows and Engagement with Artificial Intelligence."
+category = "vision"
+tags = ["wordpress", "wordpress-plugin", "ai", "machine-learning", "ibm-watson", "microsoft-azure", "ml", "artificial-intelligence"]
+repository = "https://github.com/10up/classifai"
+website = "https://classifaiplugin.com"
+license = "GPL-2.0"
+language = "PHP"
+added = 2026-10-20

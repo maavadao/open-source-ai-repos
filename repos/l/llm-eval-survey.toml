@@ -1,0 +1,8 @@
+name = "LLM-eval-survey"
+description = "The official GitHub page for the survey paper \"A Survey on Evaluation of Large Language Models\"."
+category = "models"
+tags = ["benchmark", "evaluation", "large-language-models", "llm", "llms", "model-assessment"]
+repository = "https://github.com/MLGroupJLU/LLM-eval-survey"
+website = "https://arxiv.org/abs/2307.03109"
+license = "NOASSERTION"
+added = 2026-10-20

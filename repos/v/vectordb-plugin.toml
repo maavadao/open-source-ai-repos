@@ -1,0 +1,9 @@
+name = "VectorDB-Plugin"
+description = "Program that lets you ask questions about your documents and audio or video files."
+category = "vector-databases"
+tags = ["retrieval-chatbot", "embedding-vectors", "embeddings", "embedding-models", "database-management", "python", "vector-data-management", "tiledb"]
+repository = "https://github.com/BBC-Esq/VectorDB-Plugin"
+website = "https://www.youtube.com/@AI_For_Lawyers"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

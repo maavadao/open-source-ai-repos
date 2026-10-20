@@ -1,0 +1,9 @@
+name = "canvas-editor"
+description = "A Canvas/SVG-based rich text editor"
+category = "documents"
+tags = ["editor", "canvas", "canvas-editor", "rich-text", "typescript", "vite", "wysiwyg", "control"]
+repository = "https://github.com/Hufe921/canvas-editor"
+website = "https://hufe.club/canvas-editor-docs"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

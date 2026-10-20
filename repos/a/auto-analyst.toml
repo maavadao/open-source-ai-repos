@@ -1,0 +1,9 @@
+name = "Auto-Analyst"
+description = "Open-source AI-powered data science platform."
+category = "models"
+tags = ["ai", "claude", "data-analysis", "data-science", "data-visualization", "dspy-ai", "large-language-models", "openai"]
+repository = "https://github.com/FireBird-Technologies/Auto-Analyst"
+website = "https://www.autoanalyst.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

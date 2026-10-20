@@ -1,0 +1,10 @@
+name = "windmill"
+description = "Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal."
+category = "no-code"
+tags = ["low-code", "open-source", "platform", "python", "typescript", "postgresql", "self-hostable"]
+repository = "https://github.com/windmill-labs/windmill"
+website = "https://windmill.dev"
+license = "NOASSERTION"
+language = "Rust"
+skill_level = "intermediate"
+added = 2026-10-20

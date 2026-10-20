@@ -1,0 +1,8 @@
+name = "comfyUI-LongLook"
+description = "A ComfyUI node pack that implements FreeLong (NeurIPS 2024) spectral blending for Wan 2.2 video generation"
+category = "video"
+tags = ["ai", "comfyui", "generative-ai", "stable-diffusion", "video-generation", "wan", "wan22", "freelong"]
+repository = "https://github.com/shootthesound/comfyUI-LongLook"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

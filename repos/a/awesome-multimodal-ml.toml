@@ -1,0 +1,7 @@
+name = "awesome-multimodal-ml"
+description = "Reading list for research topics in multimodal machine learning"
+category = "learning"
+tags = ["multimodal-learning", "machine-learning", "representation-learning", "natural-language-processing", "computer-vision", "speech-processing", "robotics", "healthcare"]
+repository = "https://github.com/pliang279/awesome-multimodal-ml"
+license = "MIT"
+added = 2026-10-20

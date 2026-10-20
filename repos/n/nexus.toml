@@ -1,0 +1,9 @@
+name = "nexus"
+description = "Govern & Secure your AI"
+category = "mcp-servers"
+tags = ["ai", "api", "model-context-protocol", "mcp", "large-language-models", "llmops", "llms"]
+repository = "https://github.com/Nexus-Router/nexus"
+website = "https://nexusrouter.com"
+license = "MPL-2.0"
+language = "Rust"
+added = 2026-10-20

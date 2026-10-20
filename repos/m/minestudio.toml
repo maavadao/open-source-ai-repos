@@ -1,0 +1,9 @@
+name = "MineStudio"
+description = "MineStudio: A Streamlined Package for Minecraft AI Agent Development"
+category = "agents"
+tags = ["dataset", "imitation-learning", "minecraft", "reinforcement-learning", "game", "open-world", "autonomous-agents"]
+repository = "https://github.com/CraftJarvis/MineStudio"
+website = "https://craftjarvis.github.io/MineStudio/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "awesome-agent-orchestrators"
+description = "List of agent orchestrators"
+category = "learning"
+tags = ["agent-orchestration", "claude-code", "codex", "gemini-cli", "opencode", "agentic-ai", "ai-agents", "ai-coding"]
+repository = "https://github.com/andyrewlee/awesome-agent-orchestrators"
+website = "https://agent-orchestrators.com"
+license = "CC0-1.0"
+added = 2026-10-20

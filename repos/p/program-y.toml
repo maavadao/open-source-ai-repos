@@ -1,0 +1,9 @@
+name = "program-y"
+description = "Python 3.x based AIML 2.0 Chatbot interpreter, framework, related programs and knowledge files"
+category = "learning"
+tags = ["aiml", "chatbot", "ai", "python", "virtual", "virtualassistant", "framework", "api"]
+repository = "https://github.com/keiffster/program-y"
+website = "https://keiffster.github.io/program-y/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

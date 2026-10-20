@@ -1,0 +1,7 @@
+name = "MultimodalRecSys"
+description = "A curated list of awesome resources about multimodal recommender systems."
+category = "learning"
+tags = ["multimodal", "recommendation", "recommender-system"]
+repository = "https://github.com/enoche/MultimodalRecSys"
+license = "GPL-3.0"
+added = 2026-10-20

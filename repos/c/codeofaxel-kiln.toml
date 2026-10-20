@@ -1,0 +1,9 @@
+name = "Kiln"
+description = "Describe it or draw it — Kiln makes it real. The open-source MCP server for 3D printing: AI agents (ChatGPT, Claude, Codex, Cursor, Gemini, Grok, or any MCP client) design, generate, slice & print on Bambu Lab, Creality, Prusa, Elegoo, Klipper/Moonraker, OctoPrint…"
+category = "mcp-servers"
+tags = ["3d-printing", "ai-agents", "bambu-lab", "klipper", "mcp", "model-context-protocol", "moonraker", "octoprint"]
+repository = "https://github.com/codeofaxel/Kiln"
+website = "https://kiln3d.com/?utm_source=github&utm_medium=repo-about"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

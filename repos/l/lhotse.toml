@@ -1,0 +1,9 @@
+name = "lhotse"
+description = "Tools for handling multimodal data in machine learning projects."
+category = "speech"
+tags = ["speech", "audio", "kaldi", "machine-learning", "ai", "deep-learning", "pytorch", "data"]
+repository = "https://github.com/lhotse-speech/lhotse"
+website = "https://lhotse.readthedocs.io/en/latest/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

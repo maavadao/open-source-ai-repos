@@ -1,0 +1,8 @@
+name = "UPSNet"
+description = "UPSNet: A Unified Panoptic Segmentation Network"
+category = "vision"
+tags = ["panoptic-segmentation", "scene-parsing", "instance-segmentation", "cvpr2019", "computer-vision", "deep-learning"]
+repository = "https://github.com/uber-research/UPSNet"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

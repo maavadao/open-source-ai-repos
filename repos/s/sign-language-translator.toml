@@ -1,0 +1,9 @@
+name = "sign-language-translator"
+description = "Python library & framework to build custom translators for the hearing-impaired and translate between Sign Language & Text using Artificial Intelligence."
+category = "vision"
+tags = ["deep-learning", "language-models", "motion-transfer", "nlp", "pose-estimation", "sign-language", "sign-language-translation", "sign-to-text"]
+repository = "https://github.com/sign-language-translator/sign-language-translator"
+website = "https://pypi.org/project/sign-language-translator/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

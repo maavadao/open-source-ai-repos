@@ -1,0 +1,8 @@
+name = "fable-method"
+description = "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude", "claude-code", "claude-md", "coding-agent", "evaluation", "llm"]
+repository = "https://github.com/Sahir619/fable-method"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

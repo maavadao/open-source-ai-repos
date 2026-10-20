@@ -1,0 +1,8 @@
+name = "automl-gs"
+description = "Provide an input CSV and a target field to predict, generate a model + code to run it."
+category = "ml-platforms"
+tags = ["python", "tensorflow", "keras", "xgboost", "machine-learning", "automl"]
+repository = "https://github.com/minimaxir/automl-gs"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

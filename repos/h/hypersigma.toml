@@ -1,0 +1,8 @@
+name = "HyperSIGMA"
+description = "The official repo for [TPAMI'25] \"HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model\""
+category = "vision"
+tags = ["computer-vision", "deep-learning", "hyperspectral-anomaly-detection", "hyperspectral-datasets", "hyperspectral-image-classification", "hyperspectral-image-denoising", "hyperspectral-image-segmentation", "hyperspectral-unmixing"]
+repository = "https://github.com/WHU-Sigma/HyperSIGMA"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "pycococreator"
+description = "Helper functions to create COCO datasets"
+category = "vision"
+tags = ["computer-vision", "machine-learning", "dataset", "coco"]
+repository = "https://github.com/waspinator/pycococreator"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

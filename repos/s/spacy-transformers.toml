@@ -1,0 +1,9 @@
+name = "spacy-transformers"
+description = "Use pretrained transformers like BERT, XLNet and GPT-2 in spaCy"
+category = "models"
+tags = ["spacy", "spacy-pipeline", "spacy-extension", "nlp", "natural-language-processing", "natural-language-understanding", "pytorch", "bert"]
+repository = "https://github.com/explosion/spacy-transformers"
+website = "https://spacy.io/usage/embeddings-transformers"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

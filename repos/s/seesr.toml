@@ -1,0 +1,8 @@
+name = "SeeSR"
+description = "[CVPR2024] SeeSR: Towards Semantics-Aware Real-World Image Super-Resolution"
+category = "image"
+tags = ["stable-diffusion", "super-resolution", "seesr"]
+repository = "https://github.com/cswry/SeeSR"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

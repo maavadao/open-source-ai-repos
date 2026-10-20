@@ -1,0 +1,7 @@
+name = "awesome-real-world-rl"
+description = "Great resources for making Reinforcement Learning work in Real Life situations. Papers,projects and more."
+category = "learning"
+tags = ["reinforcement-learning", "sim2real", "meta-learning", "robotics", "imitation-learning", "gans", "simulation", "awesome-list"]
+repository = "https://github.com/ugurkanates/awesome-real-world-rl"
+license = "CC0-1.0"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "api-relay-audit"
+description = "Local security audit for AI API relays and LLM proxies: detects prompt injection, model substitution, tool-call rewriting, SSE anomalies, error leakage, and Web3 wallet risks."
+category = "security"
+tags = ["ai-agents", "ai-security", "anthropic", "api-gateway", "claude", "llm-proxy", "llm-security", "openai-api"]
+repository = "https://github.com/toby-bridges/api-relay-audit"
+website = "https://toby-bridges.github.io/api-relay-audit/"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

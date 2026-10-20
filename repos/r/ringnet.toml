@@ -1,0 +1,9 @@
+name = "RingNet"
+description = "Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision"
+category = "vision"
+tags = ["3d-mesh", "flame", "flame-model", "morphable-model", "3d-landmarks", "face-reconstruction", "tensorflow", "3d-models"]
+repository = "https://github.com/soubhiksanyal/RingNet"
+website = "https://ringnet.is.tue.mpg.de"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

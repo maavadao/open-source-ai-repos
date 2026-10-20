@@ -1,0 +1,9 @@
+name = "agent-sessions"
+description = "Local-first macOS app to browse, search, analyze, and resume supported AI coding-agent session history across Codex, Claude Code, OpenCode, Cursor Agent, Antigravity, Hermes, OpenClaw, Copilot CLI, and more."
+category = "coding"
+tags = ["agentic-workflow", "ai", "claude-code", "codex", "codex-cli", "developer-tools", "macos", "openai"]
+repository = "https://github.com/jazzyalex/agent-sessions"
+website = "https://jazzyalex.github.io/agent-sessions/?campaign=github&ref=about-sidebar"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

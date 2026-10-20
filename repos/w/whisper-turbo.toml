@@ -1,0 +1,9 @@
+name = "whisper-turbo"
+description = "Cross-Platform, GPU Accelerated Whisper"
+category = "speech"
+tags = ["machine-learning", "rust", "webgpu", "whisper", "audio", "speech-recognition", "windows"]
+repository = "https://github.com/FL33TW00D/whisper-turbo"
+website = "https://whisper-turbo.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

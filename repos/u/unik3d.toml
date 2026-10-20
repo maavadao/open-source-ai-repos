@@ -1,0 +1,9 @@
+name = "UniK3D"
+description = "[CVPR 2025] UniK3D: Universal Camera Monocular 3D Estimation"
+category = "vision"
+tags = ["3d-estimation", "camera-calibration", "computer-vision", "depth-estimation"]
+repository = "https://github.com/lpiccinelli-eth/UniK3D"
+website = "https://lpiccinelli-eth.github.io/pub/unik3d/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

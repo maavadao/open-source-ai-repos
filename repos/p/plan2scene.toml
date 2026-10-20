@@ -1,0 +1,8 @@
+name = "plan2scene"
+description = "Official implementation of the paper Plan2Scene."
+category = "vision"
+tags = ["texture-synthesis", "indoor-reconstruction", "3d-reconstruction", "computer-vision", "machine-learning"]
+repository = "https://github.com/3dlg-hcvc/plan2scene"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

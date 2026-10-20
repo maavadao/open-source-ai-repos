@@ -1,0 +1,7 @@
+name = "OpenMAIC"
+description = "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
+category = "education"
+repository = "https://github.com/THU-MAIC/OpenMAIC"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

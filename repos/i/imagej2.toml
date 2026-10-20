@@ -1,0 +1,9 @@
+name = "imagej2"
+description = "Open scientific N-dimensional image processing"
+category = "vision"
+tags = ["image-processing", "computer-vision"]
+repository = "https://github.com/imagej/imagej2"
+website = "https://imagej.net/"
+license = "BSD-2-Clause"
+language = "Java"
+added = 2026-10-20

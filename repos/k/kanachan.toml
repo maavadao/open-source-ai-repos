@@ -1,0 +1,8 @@
+name = "kanachan"
+description = "A Japanese (Riichi) Mahjong AI Framework"
+category = "models"
+tags = ["mahjong", "japanese-mahjong", "riichi-mahjong", "majsoul", "mahjong-soul", "machine-learning", "game-ai", "mahjong-ai"]
+repository = "https://github.com/Cryolite/kanachan"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

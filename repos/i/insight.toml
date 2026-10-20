@@ -1,0 +1,8 @@
+name = "INSIGHT"
+description = "INSIGHT is an autonomous AI that can do medical research!"
+category = "chat"
+tags = ["agent", "ai", "chatgpt", "gpt", "llm", "medical", "ml", "python"]
+repository = "https://github.com/oneil512/INSIGHT"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

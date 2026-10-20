@@ -1,0 +1,8 @@
+name = "Flappy-bird-deep-Q-learning-pytorch"
+description = "Deep Q-learning for playing flappy bird game"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "deep-q-network", "deep-q-learning", "pytorch", "pygame"]
+repository = "https://github.com/vietnh1009/Flappy-bird-deep-Q-learning-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

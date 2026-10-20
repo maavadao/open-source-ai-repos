@@ -1,0 +1,9 @@
+name = "CogACT"
+description = "A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation"
+category = "robotics"
+tags = ["embodied-ai"]
+repository = "https://github.com/microsoft/CogACT"
+website = "https://cogact.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

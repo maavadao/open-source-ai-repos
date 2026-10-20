@@ -1,0 +1,9 @@
+name = "bedrock-engineer"
+description = "Universal AI Agent using Amazon Bedrock, capable of customize to create/edit files, execute commands, search the web, use knowledge base, use multi-agents, generative images and more."
+category = "agents"
+tags = ["agent", "ai", "aws", "bedrock", "claude", "deepseek-r1", "generative-ai", "llm"]
+repository = "https://github.com/aws-samples/bedrock-engineer"
+website = "https://speakerdeck.com/gawa/introducing-bedrock-engineer-en"
+license = "MIT-0"
+language = "TypeScript"
+added = 2026-10-20

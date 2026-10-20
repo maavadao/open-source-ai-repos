@@ -1,0 +1,9 @@
+name = "1Prompt1Story"
+description = "ICLR 2025 (Spotlight) One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt"
+category = "image"
+tags = ["diffusion", "diffusion-model", "diffusion-models", "storytelling", "text-to-image"]
+repository = "https://github.com/byliutao/1Prompt1Story"
+website = "https://byliutao.github.io/1Prompt1Story.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

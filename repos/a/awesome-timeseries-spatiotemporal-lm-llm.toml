@@ -1,0 +1,7 @@
+name = "Awesome-TimeSeries-SpatioTemporal-LM-LLM"
+description = "A professional list on Large (Language) Models and Foundation Models (LLM, LM, FM) for Time Series, Spatiotemporal, and Event Data."
+category = "learning"
+tags = ["anomalydetection", "autoscaling", "deeplearning", "forecasting", "foundation-models", "large-language-models", "large-models", "machinelearning"]
+repository = "https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "InternVLA-A-series"
+description = "InternVLA-A1: Unifying Understanding, Generation, and Action for Robotic Manipulation​"
+category = "robotics"
+tags = ["manipulation", "robotics", "vision-language-action-model"]
+repository = "https://github.com/InternRobotics/InternVLA-A-series"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

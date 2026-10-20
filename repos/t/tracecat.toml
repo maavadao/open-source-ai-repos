@@ -1,0 +1,9 @@
+name = "tracecat"
+description = "Open-source security automation platform for teams and AI agents"
+category = "no-code"
+tags = ["automation", "fastapi", "nextjs", "temporalio", "orchestration", "low-code", "agents", "security"]
+repository = "https://github.com/TracecatHQ/tracecat"
+website = "https://tracecat.com"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

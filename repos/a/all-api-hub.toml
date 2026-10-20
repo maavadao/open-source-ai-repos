@@ -1,0 +1,9 @@
+name = "all-api-hub"
+description = "All-in-one New-API/Sub2API account hub: balance/usage dashboard, auto check-in, one-click keys, price comparison, health checks, plus advanced channel management | 一站式 New-API/Sub2API 等中转站账号管理：余额/用量看板、自动签到、密钥一键使用、价格对比、可用性测试，另提供高级渠道管理"
+category = "coding"
+tags = ["chatgpt", "new-api", "one-api", "openai", "voapi", "chatgpt-api", "cc-switch", "claude"]
+repository = "https://github.com/qixing-jk/all-api-hub"
+website = "https://all-api-hub.qixing1217.top/"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

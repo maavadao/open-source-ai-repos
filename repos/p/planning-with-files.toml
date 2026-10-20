@@ -1,0 +1,9 @@
+name = "planning-with-files"
+description = "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code…"
+category = "skills-prompts"
+tags = ["claude", "claude-code", "claude-skills", "manus", "agent-skills", "planning", "autonomous-agents", "codex"]
+repository = "https://github.com/OthmanAdi/planning-with-files"
+website = "https://gilded-laurel-c7nj.here.now/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

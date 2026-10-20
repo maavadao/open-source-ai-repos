@@ -1,0 +1,9 @@
+name = "vision"
+description = "Datasets, Transforms and Models specific to Computer Vision"
+category = "vision"
+tags = ["computer-vision", "machine-learning"]
+repository = "https://github.com/pytorch/vision"
+website = "https://pytorch.org/vision"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "plant"
+description = "[CoRL'22] PlanT: Explainable Planning Transformers via Object-Level Representations"
+category = "robotics"
+tags = ["autonomous-driving", "carla-simulator", "corl22", "planning", "self-driving", "transformer"]
+repository = "https://github.com/autonomousvision/plant"
+website = "https://katrinrenz.de/plant/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

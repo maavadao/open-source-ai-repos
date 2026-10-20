@@ -1,0 +1,9 @@
+name = "Wegent"
+description = "Plan, build, and deliver with an open-source, self-hostable AI workspace for coding, collaboration, and automation."
+category = "coding"
+tags = ["agent", "ai", "claude-code", "chatbot", "codex", "wework", "dsh-plugin"]
+repository = "https://github.com/wecode-ai/Wegent"
+website = "https://wecode-ai.github.io/wegent-docs"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

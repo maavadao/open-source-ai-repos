@@ -1,0 +1,8 @@
+name = "finetrainers"
+description = "Scalable and memory-optimized training of diffusion models"
+category = "image"
+tags = ["ai", "art", "artificial-intelligence", "diffusers", "diffusion", "diffusion-models", "pytorch", "transformers"]
+repository = "https://github.com/huggingface/finetrainers"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

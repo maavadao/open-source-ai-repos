@@ -1,0 +1,8 @@
+name = "promptr"
+description = "Promptr is a CLI tool that applies plain language instructions to the filesystem. Instructions can utilize a liquidjs based templating system. Use cases include refactoring, code generation, and experimentation."
+category = "coding"
+tags = ["ai", "cli", "command-line", "chatgpt", "gpt-4", "gpt4", "prompt-engineering", "prompt-toolkit"]
+repository = "https://github.com/ferrislucas/promptr"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

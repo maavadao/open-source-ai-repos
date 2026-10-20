@@ -1,0 +1,9 @@
+name = "cvui"
+description = "A (very) simple UI lib built on top of OpenCV drawing primitives"
+category = "vision"
+tags = ["opencv", "gui", "ui", "computer-vision", "cpp", "python", "imgui", "opencv-drawing-primitives"]
+repository = "https://github.com/Dovyski/cvui"
+website = "https://dovyski.github.io/cvui/"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

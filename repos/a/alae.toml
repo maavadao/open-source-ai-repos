@@ -1,0 +1,8 @@
+name = "ALAE"
+description = "[CVPR2020] Adversarial Latent Autoencoders"
+category = "vision"
+tags = ["generative-adversarial-network", "deep-learning", "autoencoder", "ffhq", "celeba", "celeba-hq", "stylegan", "alae"]
+repository = "https://github.com/podgorskiy/ALAE"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

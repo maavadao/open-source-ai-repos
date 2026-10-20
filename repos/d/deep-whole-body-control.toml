@@ -1,0 +1,8 @@
+name = "Deep-Whole-Body-Control"
+description = "[CoRL 2022] Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion"
+category = "robotics"
+tags = ["deep-learning", "locomotion", "pytorch", "reinforcement-learning", "robotics"]
+repository = "https://github.com/MarkFzp/Deep-Whole-Body-Control"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

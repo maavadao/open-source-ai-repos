@@ -1,0 +1,9 @@
+name = "ehForwarderBot"
+description = "An extensible message tunneling chat bot framework. Delivers messages to and from multiple platforms and remotely control your accounts."
+category = "chat"
+tags = ["chat-bot", "chatbot", "tunnel-bot", "chat-tunneling", "framework", "eh-forwarder-bot", "python-3", "hacktoberfest"]
+repository = "https://github.com/ehForwarderBot/ehForwarderBot"
+website = "https://ehforwarderbot.readthedocs.io"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

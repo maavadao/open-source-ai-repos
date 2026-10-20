@@ -1,0 +1,8 @@
+name = "bgslibrary"
+description = "A C++ Background Subtraction Library with wrappers for Python, MATLAB, Java and GUI on QT"
+category = "vision"
+tags = ["background-subtraction", "opencv", "bgs", "computer-vision", "foreground-detection", "pybgs", "moving-object-detection"]
+repository = "https://github.com/andrewssobral/bgslibrary"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

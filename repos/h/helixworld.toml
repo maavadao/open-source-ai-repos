@@ -1,0 +1,9 @@
+name = "HelixWorld"
+description = "HelixWorld: real-time interactive audio-visual world model."
+category = "speech"
+tags = ["audio-visual", "generative-ai", "realtime", "spatial-audio", "world-model"]
+repository = "https://github.com/NoizAI/HelixWorld"
+website = "https://helixworld.org"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

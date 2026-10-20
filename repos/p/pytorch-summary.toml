@@ -1,0 +1,8 @@
+name = "pytorch-summary"
+description = "Model summary in PyTorch similar to `model.summary()` in Keras"
+category = "ml-platforms"
+tags = ["pytorch", "keras", "summary", "deep-learning"]
+repository = "https://github.com/sksq96/pytorch-summary"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

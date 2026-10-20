@@ -1,0 +1,9 @@
+name = "mindpocket"
+description = "Open-source, free, multi-platform, one-click deploy, AI Agent–integrated personal bookmarking system｜完全开源、免费、多端、一键部署、AI Agent 集成的个人收藏夹系统"
+category = "agents"
+tags = ["agent", "ai", "bookmarks-manager", "rag", "vercel"]
+repository = "https://github.com/jihe520/mindpocket"
+website = "https://mindpocket.top"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

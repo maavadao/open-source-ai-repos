@@ -1,0 +1,8 @@
+name = "dynasaur"
+description = "Official repository for \"DynaSaur: Large Language Agents Beyond Predefined Actions\""
+category = "agents"
+tags = ["agents", "agi", "llm", "ai", "nlp"]
+repository = "https://github.com/adobe-research/dynasaur"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

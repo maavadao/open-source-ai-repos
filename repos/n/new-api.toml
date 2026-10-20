@@ -1,0 +1,9 @@
+name = "new-api"
+description = "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management."
+category = "models"
+tags = ["claude", "gemini", "openai", "rerank", "ai-gateway", "deepseek", "newapi"]
+repository = "https://github.com/QuantumNous/new-api"
+website = "https://www.newapi.ai"
+license = "AGPL-3.0"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "mcp-agent"
+description = "Build effective agents using Model Context Protocol and simple workflow patterns"
+category = "mcp-servers"
+tags = ["agents", "ai", "ai-agents", "llms", "mcp", "model-context-protocol", "python", "llm"]
+repository = "https://github.com/lastmile-ai/mcp-agent"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

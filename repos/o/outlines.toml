@@ -1,0 +1,10 @@
+name = "outlines"
+description = "Structured Outputs"
+category = "llm-apps"
+tags = ["generative-ai", "llms", "prompt-engineering", "symbolic-ai", "cfg", "json", "regex", "structured-generation"]
+repository = "https://github.com/dottxt-ai/outlines"
+website = "https://dottxt-ai.github.io/outlines/"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

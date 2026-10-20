@@ -1,0 +1,8 @@
+name = "GitHubDaily"
+description = "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub."
+category = "learning"
+tags = ["github", "open-source", "ai", "java", "python", "web", "javascript", "frontend"]
+repository = "https://github.com/GitHubDaily/GitHubDaily"
+website = "https://githubdaily.com"
+license = "NOASSERTION"
+added = 2026-10-20

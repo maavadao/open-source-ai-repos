@@ -1,0 +1,8 @@
+name = "sim-use"
+description = "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices."
+category = "agents"
+tags = ["accessibility", "ai-agents", "ai-development", "android-emulator", "ios-simulator", "mobile-automation"]
+repository = "https://github.com/lycorp-jp/sim-use"
+license = "Apache-2.0"
+language = "Swift"
+added = 2026-10-20

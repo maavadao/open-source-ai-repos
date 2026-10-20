@@ -1,0 +1,8 @@
+name = "mlx-vlm"
+description = "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX."
+category = "local-llms"
+tags = ["llava", "llm", "mlx", "vision-transformer", "apple-silicon", "idefics", "local-ai", "paligemma"]
+repository = "https://github.com/Blaizzy/mlx-vlm"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

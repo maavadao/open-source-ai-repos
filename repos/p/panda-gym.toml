@@ -1,0 +1,8 @@
+name = "panda-gym"
+description = "Set of robotic environments based on PyBullet physics engine and gymnasium."
+category = "robotics"
+tags = ["franka-emika", "robotics", "reinforcement-learning", "python", "deep-learning", "machine-learning", "artificial-intelligence"]
+repository = "https://github.com/qgallouedec/panda-gym"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

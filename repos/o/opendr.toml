@@ -1,0 +1,8 @@
+name = "opendr"
+description = "A modular, open and non-proprietary toolkit for core robotic functionalities by harnessing deep learning"
+category = "robotics"
+tags = ["deep-learning", "robotics"]
+repository = "https://github.com/opendr-eu/opendr"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

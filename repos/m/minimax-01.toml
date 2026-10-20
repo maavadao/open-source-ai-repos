@@ -1,0 +1,9 @@
+name = "MiniMax-01"
+description = "The official repo of MiniMax-Text-01 and MiniMax-VL-01, large-language-model & vision-language-model based on Linear Attention"
+category = "models"
+tags = ["large-language-models", "llm", "minimax-text-01", "minimax-vl-01", "vision-language-model", "vlm", "llms"]
+repository = "https://github.com/MiniMax-AI/MiniMax-01"
+website = "https://www.minimax.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

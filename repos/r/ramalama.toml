@@ -1,0 +1,10 @@
+name = "ramalama"
+description = "RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of containers."
+category = "local-llms"
+tags = ["ai", "containers", "cuda", "hip", "inference-server", "intel", "llamacpp", "llm"]
+repository = "https://github.com/containers/ramalama"
+website = "https://ramalama.ai"
+license = "MIT"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

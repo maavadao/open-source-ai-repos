@@ -1,0 +1,8 @@
+name = "silero-models"
+description = "Silero Models: pre-trained text-to-speech models made embarrassingly simple"
+category = "speech"
+tags = ["speech-to-text", "pretrained-models", "pytorch", "colab", "torch-hub", "text-to-speech", "tts-models", "speech"]
+repository = "https://github.com/snakers4/silero-models"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "navop"
+description = "A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI."
+category = "agents"
+tags = ["ai-agents", "clickhouse", "dameng", "duckdb", "iotdb", "kingbase", "markdown", "mermaid"]
+repository = "https://github.com/feigeCode/navop"
+website = "https://navop.dev"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

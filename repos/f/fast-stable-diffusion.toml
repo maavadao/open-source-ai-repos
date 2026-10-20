@@ -1,0 +1,8 @@
+name = "fast-stable-diffusion"
+description = "fast-stable-diffusion + DreamBooth"
+category = "image"
+tags = ["ai", "colab", "dreambooth", "notebook", "stable-diffusion", "a1111", "sdxl", "sd"]
+repository = "https://github.com/TheLastBen/fast-stable-diffusion"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

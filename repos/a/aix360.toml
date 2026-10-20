@@ -1,0 +1,9 @@
+name = "AIX360"
+description = "Interpretability and explainability of data and machine learning models"
+category = "ml-platforms"
+tags = ["explainable-ai", "explainable-ml", "trusted-ai", "trusted-ml", "machine-learning", "deep-learning", "codait", "artificial-intelligence"]
+repository = "https://github.com/Trusted-AI/AIX360"
+website = "https://aix360.res.ibm.com/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

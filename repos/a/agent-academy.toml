@@ -1,0 +1,9 @@
+name = "agent-academy"
+description = "Curated lessons on getting started building agents with Copilot Studio"
+category = "coding"
+tags = ["agents", "copilot"]
+repository = "https://github.com/microsoft/agent-academy"
+website = "https://aka.ms/agent-academy"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

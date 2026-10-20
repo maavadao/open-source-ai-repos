@@ -1,0 +1,9 @@
+name = "cactus"
+description = "Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots."
+category = "speech"
+tags = ["android", "framework", "ios", "llamacpp", "llm", "llm-inference", "llms", "transformer"]
+repository = "https://github.com/cactus-compute/cactus"
+website = "https://cactuscompute.com"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

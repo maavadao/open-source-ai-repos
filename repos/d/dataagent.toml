@@ -1,0 +1,9 @@
+name = "dataagent"
+description = "DataFoundry is an open-source AI workbench for data analysis, unifying data sources, knowledge, tools, and agent runtime into a governed workspace for interactive analytics."
+category = "agents"
+tags = ["ag-ui", "agent-runtime", "ai", "ai-agents", "data-analysis", "data-sources", "data-workbench", "ink"]
+repository = "https://github.com/datagallery-ai/dataagent"
+website = "https://datagallery-ai.github.io/dataagent/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

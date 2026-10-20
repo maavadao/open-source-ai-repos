@@ -1,0 +1,9 @@
+name = "qwen2API"
+description = "A project converting the Qwen web page to an API."
+category = "other"
+tags = ["2api", "openai", "vite", "docker", "go", "typescript"]
+repository = "https://github.com/YuJunZhiXue/qwen2API"
+website = "https://t.me/qwen2api"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

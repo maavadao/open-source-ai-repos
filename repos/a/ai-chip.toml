@@ -1,0 +1,9 @@
+name = "AI-Chip"
+description = "A list of ICs and IPs for AI, Machine Learning and Deep Learning."
+category = "ml-platforms"
+tags = ["chip", "ai-chips", "machine-learning", "deep-learning", "processor"]
+repository = "https://github.com/basicmi/AI-Chip"
+website = "https://basicmi.github.io/AI-Chip/"
+license = "NOASSERTION"
+language = "PHP"
+added = 2026-10-20

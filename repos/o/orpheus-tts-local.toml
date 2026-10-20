@@ -1,0 +1,8 @@
+name = "orpheus-tts-local"
+description = "Run Orpheus 3B Locally With LM Studio"
+category = "speech"
+tags = ["ai", "text-to-speech", "tts", "python"]
+repository = "https://github.com/isaiahbjork/orpheus-tts-local"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

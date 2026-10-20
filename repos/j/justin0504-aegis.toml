@@ -1,0 +1,9 @@
+name = "Aegis"
+description = "Runtime policy enforcement for AI agents. Cryptographic audit trail, human-in-the-loop approvals, kill switch. Zero code changes."
+category = "mcp-servers"
+tags = ["ai-agents", "ai-safety", "anthropic", "audit-trail", "langchain", "llm-observability", "mcp", "policy-engine"]
+repository = "https://github.com/Justin0504/Aegis"
+website = "https://aegistraces.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

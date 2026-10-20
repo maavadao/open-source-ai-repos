@@ -1,0 +1,9 @@
+name = "omlx"
+description = "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar"
+category = "local-llms"
+tags = ["apple-silicon", "inference-server", "llm", "macos", "mlx", "openai-api"]
+repository = "https://github.com/jundot/omlx"
+website = "https://omlx.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

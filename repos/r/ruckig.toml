@@ -1,0 +1,9 @@
+name = "ruckig"
+description = "Motion Generation for Robots and Machines. Real-time. Jerk-constrained. Time-optimal."
+category = "robotics"
+tags = ["trajectory-generation", "robotics", "jerk-constrained", "time-optimal", "motion-planning", "robot-arm", "optimal-control"]
+repository = "https://github.com/pantor/ruckig"
+website = "https://ruckig.com"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

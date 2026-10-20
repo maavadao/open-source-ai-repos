@@ -1,0 +1,9 @@
+name = "Clippy"
+description = "Bring back Clippy on Windows 10/11!"
+category = "chat"
+tags = ["ai", "chatgpt", "clippy", "fluent-design", "gpt-3", "openai", "windows", "windows-10"]
+repository = "https://github.com/FireCubeStudios/Clippy"
+website = "https://discord.gg/3WYcKat"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

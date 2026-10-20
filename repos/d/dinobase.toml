@@ -1,0 +1,8 @@
+name = "dinobase"
+description = "The agent-first database"
+category = "agents"
+tags = ["agents", "ai", "database"]
+repository = "https://github.com/kappa90/dinobase"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

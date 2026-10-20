@@ -1,0 +1,9 @@
+name = "pix2pixHD"
+description = "Synthesizing and manipulating 2048x1024 images with conditional GANs"
+category = "vision"
+tags = ["gan", "deep-learning", "deep-neural-networks", "pytorch", "pix2pix", "image-to-image-translation", "generative-adversarial-network", "computer-vision"]
+repository = "https://github.com/NVIDIA/pix2pixHD"
+website = "https://tcwang0509.github.io/pix2pixHD/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

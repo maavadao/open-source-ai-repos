@@ -1,0 +1,8 @@
+name = "Awesome-Physics-Cognition-based-Video-Generation"
+description = "A comprehensive list of papers investigating physical cognition in video generation, including papers, codes, and related websites."
+category = "learning"
+tags = ["physics", "survey", "video-generation", "world-models", "world-simulator", "embodied-ai", "3d", "4d"]
+repository = "https://github.com/minnie-lin/Awesome-Physics-Cognition-based-Video-Generation"
+website = "https://arxiv.org/abs/2503.21765"
+license = "NOASSERTION"
+added = 2026-10-20

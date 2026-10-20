@@ -1,0 +1,9 @@
+name = "tutti"
+description = "Where people and agents build in tune."
+category = "mcp-servers"
+tags = ["agent-collaboration", "agent-orchestration", "agent-workspace", "agentic-ai", "agentic-workflow", "ai-agents", "ai-tools", "ai-workspace"]
+repository = "https://github.com/tutti-os/tutti"
+website = "https://tutti.sh/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "KIVI"
+description = "[ICML 2024] KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache"
+category = "local-llms"
+tags = ["inference", "large-language-models", "llama", "llm", "natural-language-processing", "quantization", "transformer"]
+repository = "https://github.com/jy-yuan/KIVI"
+website = "https://arxiv.org/abs/2402.02750"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

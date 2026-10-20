@@ -1,0 +1,9 @@
+name = "runtime"
+description = "The runtime behind every E2B stack: Cloud, Enterprise, and your own machine."
+category = "agents"
+tags = ["ai-agents", "code-interpreter", "consul", "devtools", "firecracker", "gcp", "go", "golang"]
+repository = "https://github.com/e2b-dev/runtime"
+website = "https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=runtime"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

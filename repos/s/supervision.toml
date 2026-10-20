@@ -1,0 +1,9 @@
+name = "supervision"
+description = "We write your reusable computer vision tools."
+category = "no-code"
+tags = ["computer-vision", "image-processing", "python", "yolo", "instance-segmentation", "object-detection", "tracking", "video-processing"]
+repository = "https://github.com/roboflow/supervision"
+website = "https://supervision.roboflow.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

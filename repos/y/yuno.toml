@@ -1,0 +1,8 @@
+name = "Yuno"
+description = "Yuno is context based search engine for anime."
+category = "search"
+tags = ["search-engine", "anime", "deep-learning", "python", "transformers"]
+repository = "https://github.com/IAmPara0x/Yuno"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

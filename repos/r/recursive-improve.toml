@@ -1,0 +1,9 @@
+name = "recursive-improve"
+description = "Make your agents recursively self-improve"
+category = "agents"
+tags = ["agent-learning", "agents", "ai", "ai-agent", "ai-tools", "llm", "machine-learning"]
+repository = "https://github.com/kayba-ai/recursive-improve"
+website = "https://kayba.ai/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

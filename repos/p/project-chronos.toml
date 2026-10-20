@@ -1,0 +1,8 @@
+name = "Project_Chronos"
+description = "Zero-Stall MoE Inference via Lookahead Prediction & Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention."
+category = "image"
+tags = ["high-throughput", "mixture-of-experts", "predictive-inference", "sliding-window-attention", "streaming-llm", "async-dma", "dual-layer-moe", "io-latency-hiding"]
+repository = "https://github.com/FonaTech/Project_Chronos"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

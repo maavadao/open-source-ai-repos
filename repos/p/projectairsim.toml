@@ -1,0 +1,9 @@
+name = "ProjectAirSim"
+description = "Project AirSim is Microsoft's evolution of AirSim, an advanced simulation platform for building, training, and testing autonomous systems in high-fidelity virtual environments"
+category = "robotics"
+tags = ["ai", "airsim", "ardupilot", "autonomous-vehicles", "drones", "jsbsim", "matlab", "px4"]
+repository = "https://github.com/iamaisim/ProjectAirSim"
+website = "https://iamaisim.github.io/ProjectAirSim/"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

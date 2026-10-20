@@ -1,0 +1,8 @@
+name = "Awesome-LLM4IE-Papers"
+description = "Awesome papers about generative Information Extraction (IE) using Large Language Models (LLMs)"
+category = "learning"
+tags = ["cross-domain-learning", "data-augmentation", "event-arguments", "event-detection", "event-extraction", "few-shot-learning", "in-context-learning", "information-extraction"]
+repository = "https://github.com/quqxui/Awesome-LLM4IE-Papers"
+website = "https://arxiv.org/abs/2312.17617"
+license = "NOASSERTION"
+added = 2026-10-20

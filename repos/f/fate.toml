@@ -1,0 +1,8 @@
+name = "FATE"
+description = "An Industrial Grade Federated Learning Framework"
+category = "data-science"
+tags = ["fate", "machine-learning", "federated-learning", "privacy-preserving", "algorithm"]
+repository = "https://github.com/FederatedAI/FATE"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

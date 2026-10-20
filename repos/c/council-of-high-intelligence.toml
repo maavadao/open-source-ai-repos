@@ -1,0 +1,9 @@
+name = "council-of-high-intelligence"
+description = "Structured multi-perspective deliberation for hard decisions. Run full councils, focused triads, or duo debates across Claude Code, Codex, Gemini CLI, and OpenCode."
+category = "coding"
+tags = ["ai-agents", "claude-code", "decision-making", "deliberation", "multi-llm", "prompt-engineering", "agent-skill", "codex"]
+repository = "https://github.com/0xNyk/council-of-high-intelligence"
+website = "https://www.nyk.dev/oss/council-of-high-intelligence"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

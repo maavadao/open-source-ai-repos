@@ -1,0 +1,9 @@
+name = "Hello-Python"
+description = "Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA..."
+category = "learning"
+tags = ["fastapi", "mongodb", "python", "python3", "tutorial", "chatgpt", "chatgpt-api", "gpt-3"]
+repository = "https://github.com/mouredev/Hello-Python"
+website = "https://mouredev.link/python"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

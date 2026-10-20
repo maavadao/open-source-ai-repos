@@ -1,0 +1,8 @@
+name = "PyTorch-RL"
+description = "PyTorch implementation of Deep Reinforcement Learning: Policy Gradient methods (TRPO, PPO, A2C) and Generative Adversarial Imitation Learning (GAIL). Fast Fisher vector product TRPO."
+category = "ml-platforms"
+tags = ["reinforcement-learning", "policy-gradient", "pytorch-rl", "proximal-policy-optimization", "trpo", "ppo", "pytorch", "a2c"]
+repository = "https://github.com/Khrylx/PyTorch-RL"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ainativelang"
+description = "AINL helps turn AI from \"a smart conversation\" into \"a structured worker.\" It is designed for teams building AI workflows that need multiple steps, state and memory, tool use, repeatable execution, validation and control, and lower dependence on long prompt loops. AINL is a…"
+category = "mcp-servers"
+tags = ["agent-orchestration", "ai-agents", "claude-code", "compiler", "deterministic-execution", "domain-specific-language", "dsl", "langchain-alternative"]
+repository = "https://github.com/sbhooley/ainativelang"
+website = "https://ainativelang.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

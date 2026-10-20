@@ -1,0 +1,8 @@
+name = "CIA-SSD"
+description = "CIA-SSD: Confident IoU-Aware Single Stage Object Detector From Point Cloud, AAAI 2021."
+category = "robotics"
+tags = ["3d-object-detection", "single-stage-detector", "cia-ssd", "point-cloud-detection", "autonomous-driving"]
+repository = "https://github.com/Vegeta2020/CIA-SSD"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

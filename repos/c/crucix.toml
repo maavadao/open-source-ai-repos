@@ -1,0 +1,9 @@
+name = "Crucix"
+description = "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes."
+category = "agents"
+tags = ["ai", "intelligence", "osint"]
+repository = "https://github.com/calesthio/Crucix"
+website = "https://crucix.live"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-10-20

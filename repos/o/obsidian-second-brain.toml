@@ -1,0 +1,9 @@
+name = "obsidian-second-brain"
+description = "Persistent memory for Claude Code, Codex and 6 other AI agents, stored as plain markdown in your Obsidian vault. New: Crew, one shared logbook so Claude Code, Codex, Cursor and Grok Bot know what each other did. 48 commands: semantic search, self-rewriting notes, key-less…"
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "obsidian", "second-brain", "claude", "claude-skill", "knowledge-management", "obsidian-md"]
+repository = "https://github.com/eugeniughelbur/obsidian-second-brain"
+website = "https://theaioperator.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

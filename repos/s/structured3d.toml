@@ -1,0 +1,9 @@
+name = "Structured3D"
+description = "[ECCV'20] Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling"
+category = "vision"
+tags = ["computer-vision", "computer-graphics", "deep-learning", "3d-reconstruction", "room-layout", "dataset", "scene-understanding", "structure-annotations"]
+repository = "https://github.com/bertjiazheng/Structured3D"
+website = "https://structured3d-dataset.org"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

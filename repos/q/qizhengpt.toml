@@ -1,0 +1,8 @@
+name = "QiZhenGPT"
+description = "QiZhenGPT: An Open Source Chinese Medical Large Language Model｜一个开源的中文医疗大语言模型"
+category = "chat"
+tags = ["alpaca", "llama", "chinese-medical", "disease", "medicine", "chatgpt", "gpt", "llm"]
+repository = "https://github.com/CMKRG/QiZhenGPT"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

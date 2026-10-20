@@ -1,0 +1,8 @@
+name = "SenseNova-Skills"
+description = "Modular SenseNova skills for building AI-powered office assistants and productivity workflows"
+category = "skills-prompts"
+tags = ["agent", "agent-skills", "ai-agents", "ai-assistant", "data-analysis", "document-processing", "office-automation", "presentation-slides"]
+repository = "https://github.com/OpenSenseNova/SenseNova-Skills"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "lightly-train"
+description = "All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation."
+category = "vision"
+tags = ["computer-vision", "contrastive-learning", "deep-learning", "distillation", "embeddings", "pretrained-models", "python", "pytorch"]
+repository = "https://github.com/lightly-ai/lightly-train"
+website = "https://docs.lightly.ai/train"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

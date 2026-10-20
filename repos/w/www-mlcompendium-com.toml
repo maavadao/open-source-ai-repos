@@ -1,0 +1,8 @@
+name = "www.mlcompendium.com"
+description = "The AI Compendium, previously called the ML Compendium, curates resources and explanations of machine learning (ML) and deep learning, from a business problem through data, AI, engineering, and product."
+category = "ml-platforms"
+tags = ["machine-learning", "deep-learning", "algorithms", "product-management", "ux-design", "ux-research", "ux-experience", "marketing"]
+repository = "https://github.com/orico/www.mlcompendium.com"
+website = "https://www.mlcompendium.com"
+license = "NOASSERTION"
+added = 2026-10-20

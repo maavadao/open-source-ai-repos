@@ -1,0 +1,9 @@
+name = "towr"
+description = "A light-weight, Eigen-based C++ library for trajectory optimization for legged robots."
+category = "robotics"
+tags = ["trajectory-optimization", "legged-robots", "motion-planning", "nonlinear-programming", "ros", "xpp", "ifopt", "ipopt"]
+repository = "https://github.com/ethz-adrl/towr"
+website = "http://wiki.ros.org/towr"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "torchgan"
+description = "Research Framework for easy and efficient training of GANs based on Pytorch"
+category = "vision"
+tags = ["machine-learning", "computer-vision", "generative-adversarial-networks", "python3", "pytorch", "neural-networks", "deep-learning", "generative-model"]
+repository = "https://github.com/torchgan/torchgan"
+website = "https://torchgan.readthedocs.io/en/latest/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

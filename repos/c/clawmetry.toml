@@ -1,0 +1,9 @@
+name = "clawmetry"
+description = "See your agent think. Zero-config observability & governance for 30 AI agent runtimes: Claude Code, OpenAI Codex, Hermes, OpenClaw & 26 more. Live token costs, sessions, tool calls, crons."
+category = "coding"
+tags = ["ai-agent", "monitoring", "observability", "openclaw", "opentelemetry", "python", "clawmetry", "agent-monitoring"]
+repository = "https://github.com/vivekchand/clawmetry"
+website = "https://clawmetry.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

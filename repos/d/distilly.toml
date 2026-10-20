@@ -1,0 +1,8 @@
+name = "distilly"
+description = "Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agent", "claude-code", "codex", "hermes-agent", "knowledge-distillation", "meta-skill", "openclaw"]
+repository = "https://github.com/titanwings/distilly"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

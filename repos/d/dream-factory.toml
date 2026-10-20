@@ -1,0 +1,8 @@
+name = "dream-factory"
+description = "Multi-threaded GUI manager for mass creation of AI-generated art with support for multiple GPUs."
+category = "image"
+tags = ["ai", "ai-art", "generative-art", "image-generation", "machine-learning", "multi-gpu", "multithreaded", "nvidia-gpu"]
+repository = "https://github.com/rbbrdckybk/dream-factory"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

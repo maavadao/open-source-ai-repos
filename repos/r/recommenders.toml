@@ -1,0 +1,9 @@
+name = "recommenders"
+description = "Best Practices on Recommendation Systems"
+category = "learning"
+tags = ["machine-learning", "recommender", "ranking", "deep-learning", "python", "jupyter-notebook", "recommendation-algorithm", "rating"]
+repository = "https://github.com/recommenders-team/recommenders"
+website = "https://recommenders-team.github.io/recommenders/intro.html"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

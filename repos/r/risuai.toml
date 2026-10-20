@@ -1,0 +1,9 @@
+name = "Risuai"
+description = "Make your own story. User-friendly software for LLM roleplaying"
+category = "mcp-servers"
+tags = ["ai", "roleplay", "characters", "chat", "llm", "chatbot", "gpt", "claude"]
+repository = "https://github.com/kwaroran/Risuai"
+website = "https://risuai.net"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

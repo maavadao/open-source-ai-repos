@@ -1,0 +1,9 @@
+name = "petals"
+description = "Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading"
+category = "chat"
+tags = ["bloom", "deep-learning", "distributed-systems", "language-models", "large-language-models", "machine-learning", "neural-networks", "pytorch"]
+repository = "https://github.com/bigscience-workshop/petals"
+website = "https://petals.dev"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

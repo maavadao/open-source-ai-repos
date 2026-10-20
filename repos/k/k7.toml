@@ -1,0 +1,9 @@
+name = "k7"
+description = "Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. Star it if you like it!"
+category = "agents"
+tags = ["agents", "code", "firecracker", "kata", "kubernetes", "virtual-machine", "virtualization", "sandbox"]
+repository = "https://github.com/Katakate/k7"
+website = "https://docs.katakate.org"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

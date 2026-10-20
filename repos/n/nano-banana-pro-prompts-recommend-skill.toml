@@ -1,0 +1,9 @@
+name = "nano-banana-pro-prompts-recommend-skill"
+description = "AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images."
+category = "image"
+tags = ["ai-agent", "ai-image", "claude-code-skill", "clawhub", "content-creation", "gemini", "image-generation", "nano-banana"]
+repository = "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
+website = "https://youmind.com/nano-banana-pro-prompts"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

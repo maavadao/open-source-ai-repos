@@ -1,0 +1,9 @@
+name = "obscura"
+description = "The headless browser for AI agents and web scraping"
+category = "browser-automation"
+tags = ["antidetect", "antidetect-browser", "browser", "browser-automation", "cdp", "headless", "playwright", "puppeteer"]
+repository = "https://github.com/h4ckf0r0day/obscura"
+website = "https://obscura.sh"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

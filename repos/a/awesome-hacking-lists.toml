@@ -1,0 +1,7 @@
+name = "awesome-hacking-lists"
+description = "A curated collection of top-tier penetration testing tools and productivity utilities across multiple domains. Join us to explore, contribute, and enhance your hacking toolkit!"
+category = "mcp-servers"
+tags = ["web", "hacking", "awesome-list", "hacker", "hacking-tool", "kali-scripts", "hacking-tools", "pentesting-tools"]
+repository = "https://github.com/taielab/awesome-hacking-lists"
+license = "NOASSERTION"
+added = 2026-10-20

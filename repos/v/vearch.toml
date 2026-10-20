@@ -1,0 +1,9 @@
+name = "vearch"
+description = "Distributed vector search for AI-native applications"
+category = "vector-databases"
+tags = ["vectors", "vector-search", "cloud-native", "document-retrieval", "embeddings", "vector-database", "hybrid-search", "rag"]
+repository = "https://github.com/vearch/vearch"
+website = "https://vearch.github.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

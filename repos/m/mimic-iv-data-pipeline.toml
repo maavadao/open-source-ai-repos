@@ -1,0 +1,8 @@
+name = "MIMIC-IV-Data-Pipeline"
+description = "A customizable pipeline for multimodal data extraction from MIMIC-IV!"
+category = "models"
+tags = ["electronic-health-records", "mimic", "mimic-iv", "clinical-notes", "multimodal", "waveforms", "tabular-data", "medical-imaging"]
+repository = "https://github.com/healthylaife/MIMIC-IV-Data-Pipeline"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

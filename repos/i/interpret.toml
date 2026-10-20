@@ -1,0 +1,9 @@
+name = "interpret"
+description = "Fit interpretable models. Explain blackbox machine learning."
+category = "data-science"
+tags = ["machine-learning", "interpretability", "gradient-boosting", "blackbox", "scikit-learn", "xai", "interpretml", "interpretable-machine-learning"]
+repository = "https://github.com/interpretml/interpret"
+website = "https://interpret.ml/docs"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

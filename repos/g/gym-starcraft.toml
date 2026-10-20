@@ -1,0 +1,8 @@
+name = "gym-starcraft"
+description = "StarCraft environment for OpenAI Gym, based on Facebook's TorchCraft. (In progress)"
+category = "ml-platforms"
+tags = ["openai-gym", "gym-starcraft", "starcraft", "reinforcement-learning", "artificial-intelligence", "deep-learning"]
+repository = "https://github.com/alibaba/gym-starcraft"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

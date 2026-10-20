@@ -1,0 +1,8 @@
+name = "Binder"
+description = "[ICLR 2023] Code for the paper \"Binding Language Models in Symbolic Languages\""
+category = "models"
+tags = ["in-context-learning", "language-binding", "language-model", "large-language-models", "natural-language-processing", "openai", "prompt-learning", "structured-knowledge-grounding"]
+repository = "https://github.com/xlang-ai/Binder"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

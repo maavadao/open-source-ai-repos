@@ -1,0 +1,8 @@
+name = "KittiBox"
+description = "A car detection model implemented in Tensorflow."
+category = "robotics"
+tags = ["tensorflow", "deep-learning", "computer-vision", "detection", "autonomous-driving", "faster-rcnn"]
+repository = "https://github.com/MarvinTeichmann/KittiBox"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

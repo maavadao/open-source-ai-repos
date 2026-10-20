@@ -1,0 +1,8 @@
+name = "sru"
+description = "Training RNNs as Fast as CNNs (https://arxiv.org/abs/1709.02755)"
+category = "ml-platforms"
+tags = ["pytorch", "deep-learning", "recurrent-neural-networks", "nlp"]
+repository = "https://github.com/asappresearch/sru"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

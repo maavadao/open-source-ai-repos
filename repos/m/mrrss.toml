@@ -1,0 +1,9 @@
+name = "MrRSS"
+description = "A modern, cross-platform, and free AI RSS reader. 一个现代化、跨平台且免费的 AI RSS 阅读器."
+category = "other"
+tags = ["rss-reader", "atom", "feed-reader", "feeds", "rss", "ai"]
+repository = "https://github.com/DevXDojo/MrRSS"
+website = "https://mrrss.ch3nyang.top/"
+license = "GPL-3.0"
+language = "Go"
+added = 2026-10-20

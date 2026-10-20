@@ -1,0 +1,9 @@
+name = "aurora"
+description = "Aurora — Open source AI-powered agentic incident management & root cause analysis for SREs. LangGraph agents investigate across AWS, Azure, GCP, Kubernetes. Integrates with PagerDuty, Datadog, Grafana, Slack and More. Apache 2.0."
+category = "no-code"
+tags = ["aiops", "aws", "azure", "datadog", "devops", "gcp", "grafana", "incident-management"]
+repository = "https://github.com/Arvo-AI/aurora"
+website = "https://www.aurorasre.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Cradle"
+description = "The Cradle framework is a first attempt at General Computer Control (GCC). Cradle supports agents to ace any computer task by enabling strong reasoning abilities, self-improvment, and skill curation, in a standardized general environment with minimal requirements."
+category = "agents"
+tags = ["ai-agent", "ai-agents-framework", "computer-control", "cradle", "gcc", "generative-ai", "grounding", "large-language-models"]
+repository = "https://github.com/BAAI-Agents/Cradle"
+website = "https://baai-agents.github.io/Cradle/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

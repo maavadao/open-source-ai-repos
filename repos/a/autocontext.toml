@@ -1,0 +1,8 @@
+name = "autocontext"
+description = "a recursive self-improving harness designed to help your agents (and future iterations of those agents) succeed on any task"
+category = "coding"
+tags = ["agents", "ai", "autoresearch", "llms", "ml", "openclaw", "claude", "claude-code"]
+repository = "https://github.com/greyhaven-ai/autocontext"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

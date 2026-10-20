@@ -1,0 +1,9 @@
+name = "smithers"
+description = "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing them quickly, durably, and reliably"
+category = "coding"
+tags = ["agent-orchestration", "ai-agents", "background-agents", "claude-code", "codex", "developer-tools", "durable-execution", "human-in-the-loop"]
+repository = "https://github.com/smithersai/smithers"
+website = "https://smithers.sh"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

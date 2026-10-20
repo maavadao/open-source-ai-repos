@@ -1,0 +1,9 @@
+name = "Awesome-MIM"
+description = "[Survey] Masked Modeling for Self-supervised Representation Learning on Vision and Beyond (https://arxiv.org/abs/2401.00897)"
+category = "learning"
+tags = ["awesome-list", "awesome-mim", "masked-image-modeling", "self-supervised-learning", "vision-transformer", "masked-autoencoder", "computer-vision", "deep-learning"]
+repository = "https://github.com/Lupin1998/Awesome-MIM"
+website = "https://openmixup.readthedocs.io/en/latest/awesome_selfsup/MIM.html"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

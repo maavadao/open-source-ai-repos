@@ -1,0 +1,9 @@
+name = "this-word-does-not-exist"
+description = "This Word Does Not Exist"
+category = "models"
+tags = ["machine-learning", "gpt-2", "transformers", "natural-language-processing", "natural-language-understanding", "natural-language-generation"]
+repository = "https://github.com/turtlesoupy/this-word-does-not-exist"
+website = "https://www.thisworddoesnotexist.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

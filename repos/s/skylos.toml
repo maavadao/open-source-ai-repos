@@ -1,0 +1,9 @@
+name = "skylos"
+description = "Open source local-first PR scanner that finds dead code, security bugs, secrets, quality regressions, and AI-code mistakes before merge. For first timers refer to https://duriantaco.github.io/skylos/repo-map/"
+category = "security"
+tags = ["python", "code-quality", "dead-code", "dead-code-detection", "devsecops", "sast", "static-analysis", "typescript"]
+repository = "https://github.com/duriantaco/skylos"
+website = "https://skylos.dev/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

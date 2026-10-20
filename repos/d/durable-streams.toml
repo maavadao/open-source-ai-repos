@@ -1,0 +1,9 @@
+name = "durable-streams"
+description = "The data primitive for the agent loop."
+category = "agents"
+tags = ["agents", "ai", "data", "durable", "real-time", "sessions", "transport"]
+repository = "https://github.com/durable-streams/durable-streams"
+website = "https://durablestreams.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "yek"
+description = "A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption"
+category = "models"
+tags = ["ai", "cli", "large-language-models", "llm", "rust-lang", "serialization"]
+repository = "https://github.com/mohsen1/yek"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "sd-parseq"
+description = "Parameter sequencer for Stable Diffusion"
+category = "video"
+tags = ["ai", "ai-art", "ai-video-generator", "deforum", "stable-diffusion", "video"]
+repository = "https://github.com/rewbs/sd-parseq"
+website = "https://sd-parseq.web.app/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

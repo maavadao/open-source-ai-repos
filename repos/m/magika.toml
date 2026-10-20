@@ -1,0 +1,9 @@
+name = "magika"
+description = "Fast and accurate AI powered file content types detection"
+category = "ml-platforms"
+tags = ["deep-learning", "filetype", "keras-classification-models", "keras-models", "mime-types", "ai", "onnx"]
+repository = "https://github.com/google/magika"
+website = "https://securityresearch.google/magika/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

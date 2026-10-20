@@ -1,0 +1,9 @@
+name = "openai-agents-js"
+description = "A lightweight, powerful framework for multi-agent workflows and voice agents"
+category = "agents"
+tags = ["agents", "openai", "openai-api", "realtime-api", "typescript"]
+repository = "https://github.com/openai/openai-agents-js"
+website = "https://openai.github.io/openai-agents-js/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "snowChat"
+description = "Chat snowflake - Text to SQL"
+category = "chat"
+tags = ["streamlit", "chatgpt", "snowflake", "langchain", "supabase", "llama", "snowpark", "agents"]
+repository = "https://github.com/kaarthik108/snowChat"
+website = "https://snowchat.streamlit.app/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

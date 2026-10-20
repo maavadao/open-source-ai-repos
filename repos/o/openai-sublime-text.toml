@@ -1,0 +1,8 @@
+name = "OpenAI-sublime-text"
+description = "First class Sublime Text AI assistant with gpt-5, Opus 4.6, Gemini 3 and ollama support!"
+category = "chat"
+tags = ["chatgpt", "nlp", "openai", "sublime-text", "gpt-4", "ai-assistant", "llm", "o3-mini"]
+repository = "https://github.com/yaroslavyaroslav/OpenAI-sublime-text"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

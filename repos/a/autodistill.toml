@@ -1,0 +1,9 @@
+name = "autodistill"
+description = "Images to inference with no labeling (use foundation models to train supervised models)."
+category = "vision"
+tags = ["computer-vision", "model-distillation", "auto-labeling", "deep-learning", "foundation-models", "grounding-dino", "image-annotation", "image-classification"]
+repository = "https://github.com/autodistill/autodistill"
+website = "https://docs.autodistill.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

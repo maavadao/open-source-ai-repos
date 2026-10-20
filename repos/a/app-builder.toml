@@ -1,0 +1,9 @@
+name = "app-builder"
+description = "appbuilder-sdk, 千帆AppBuilder-SDK帮助开发者灵活、快速的搭建AI原生应用"
+category = "agents"
+tags = ["ai-native", "erniebot", "large-language-models", "llm", "llms", "qianfan", "agent", "appbuilder"]
+repository = "https://github.com/baidubce/app-builder"
+website = "https://appbuilder.cloud.baidu.com/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "rich-text-to-image"
+description = "Rich-Text-to-Image Generation"
+category = "image"
+tags = ["computer-vision", "diffusion-models", "pytorch", "rich-text", "text-to-image-generation"]
+repository = "https://github.com/songweige/rich-text-to-image"
+website = "https://rich-text-to-image.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

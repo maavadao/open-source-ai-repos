@@ -1,0 +1,9 @@
+name = "jabref"
+description = "Desktop app for managing BibTeX and BibLaTeX (.bib) libraries"
+category = "documents"
+tags = ["jabref", "bibtex", "java", "latex", "biblatex", "bibliography", "academia", "reference-manager"]
+repository = "https://github.com/JabRef/jabref"
+website = "https://www.jabref.org"
+license = "MIT"
+language = "Java"
+added = 2026-10-20

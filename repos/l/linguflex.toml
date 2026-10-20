@@ -1,0 +1,8 @@
+name = "Linguflex"
+description = "Command Your World with Voice"
+category = "chat"
+tags = ["chatbot", "function-calling", "openai", "openai-api", "python"]
+repository = "https://github.com/KoljaB/Linguflex"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

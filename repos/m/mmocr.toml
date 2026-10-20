@@ -1,0 +1,9 @@
+name = "mmocr"
+description = "OpenMMLab Text Detection, Recognition and Understanding Toolbox"
+category = "documents"
+tags = ["pytorch", "ocr", "deep-learning", "text-detection", "text-recognition", "sar", "psenet", "panet"]
+repository = "https://github.com/open-mmlab/mmocr"
+website = "https://mmocr.readthedocs.io/en/dev-1.x/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

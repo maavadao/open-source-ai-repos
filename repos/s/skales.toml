@@ -1,0 +1,8 @@
+name = "skales"
+description = "Personal AI agent for macOS, Windows, Linux, Android & iOS. Set a goal, it works alone: coding (Skales Code), desktop + browser automation, autonomous scheduled Tasks. Teams of agents and humans across paired desktops. Agent2Agent, MCP, computer use, voice, local LLMs…"
+category = "mcp-servers"
+tags = ["ai-agent", "ai-assistant", "automation", "autonomous-agent", "desktop-app", "electron", "llm", "local-ai"]
+repository = "https://github.com/skalesapp/skales"
+website = "https://skales.app"
+license = "NOASSERTION"
+added = 2026-10-20

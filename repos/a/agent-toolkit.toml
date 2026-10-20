@@ -1,0 +1,8 @@
+name = "agent-toolkit"
+description = "A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows."
+category = "learning"
+tags = ["agent-skills", "ai", "automation", "claude", "claude-code", "coding-agent", "development"]
+repository = "https://github.com/softaworks/agent-toolkit"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

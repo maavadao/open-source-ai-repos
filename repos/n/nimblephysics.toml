@@ -1,0 +1,9 @@
+name = "nimblephysics"
+description = "Nimble: Physics Engine for Biomechanics and Deep Learning"
+category = "robotics"
+tags = ["pytorch", "physics-engine", "human-robot-interaction", "robotics", "robotics-simulation", "robotics-control", "biomechanics", "biomechatronics"]
+repository = "https://github.com/keenon/nimblephysics"
+website = "http://www.nimblephysics.org"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

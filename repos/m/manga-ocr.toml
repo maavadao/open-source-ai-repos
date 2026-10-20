@@ -1,0 +1,8 @@
+name = "manga-ocr"
+description = "Optical character recognition for Japanese text, with the main focus being Japanese manga"
+category = "documents"
+tags = ["ocr", "japanese", "manga", "transformers", "computer-vision", "deep-learning", "comics"]
+repository = "https://github.com/kha-white/manga-ocr"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

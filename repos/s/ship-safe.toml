@@ -1,0 +1,9 @@
+name = "ship-safe"
+description = "The independent security agent for AI-written software. Finds issues, investigates whether they are real, and shows you the evidence. Deterministic core, no API key needed, JSON and SARIF output."
+category = "mcp-servers"
+tags = ["cli", "npm", "owasp", "secrets", "security", "security-tools", "static-analysis", "agentic-ai"]
+repository = "https://github.com/asamassekou10/ship-safe"
+website = "https://shipsafe.sh"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

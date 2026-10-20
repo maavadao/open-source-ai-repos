@@ -1,0 +1,8 @@
+name = "Super-mario-bros-A3C-pytorch"
+description = "Asynchronous Advantage Actor-Critic (A3C) algorithm for Super Mario Bros"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "a3c", "pytorch", "gym", "python", "deep-learning", "super-mario-bros", "mario"]
+repository = "https://github.com/vietnh1009/Super-mario-bros-A3C-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

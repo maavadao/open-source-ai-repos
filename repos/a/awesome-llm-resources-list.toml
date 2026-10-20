@@ -1,0 +1,8 @@
+name = "Awesome-LLM-Resources-List"
+description = "A Curated Collection of resources for applied AI engineering (work in progress)."
+category = "learning"
+tags = ["large-language-models", "llm", "resources"]
+repository = "https://github.com/ilsilfverskiold/Awesome-LLM-Resources-List"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

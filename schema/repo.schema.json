@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/maavadao/open-source-ai-repos/schema/repo.schema.json",
+  "title": "maavaDao open-source AI repo",
+  "description": "One open-source AI repository. The file lives at repos/<first character>/<slug>.toml.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["name", "description", "category", "repository", "added"],
+  "properties": {
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 80,
+      "description": "The project's name as its makers write it."
+    },
+    "description": {
+      "type": "string",
+      "minLength": 10,
+      "maxLength": 300,
+      "description": "One or two plain sentences: what it does and who it helps. Use the project's own description or your own words, never text copied from another directory."
+    },
+    "category": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$",
+      "description": "One id from categories.toml."
+    },
+    "tags": {
+      "type": "array",
+      "maxItems": 8,
+      "uniqueItems": true,
+      "items": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]{0,39}$" }
+    },
+    "repository": {
+      "type": "string",
+      "pattern": "^https://(github\\.com|gitlab\\.com|codeberg\\.org|huggingface\\.co)/[A-Za-z0-9._-]+/[A-Za-z0-9._-]+$",
+      "description": "Where the source code lives. Open source only."
+    },
+    "website": { "type": "string", "pattern": "^https?://\\S+$" },
+    "docs": { "type": "string", "pattern": "^https?://\\S+$" },
+    "license": {
+      "type": "string",
+      "maxLength": 40,
+      "description": "SPDX identifier (MIT, Apache-2.0, GPL-3.0, …), or NOASSERTION if the repository has no clear licence."
+    },
+    "language": { "type": "string", "maxLength": 40, "description": "Main programming language." },
+    "skill_level": { "enum": ["beginner", "intermediate", "advanced"] },
+    "runs_locally": { "type": "boolean", "description": "Can be run on your own machine or server." },
+    "added": { "type": "string", "format": "date" }
+  }
+}

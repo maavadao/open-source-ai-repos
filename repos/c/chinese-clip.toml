@@ -1,0 +1,8 @@
+name = "Chinese-CLIP"
+description = "Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation."
+category = "vision"
+tags = ["chinese", "computer-vision", "multi-modal-learning", "nlp", "pytorch", "vision-and-language-pre-training", "image-text-retrieval", "clip"]
+repository = "https://github.com/OFA-Sys/Chinese-CLIP"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

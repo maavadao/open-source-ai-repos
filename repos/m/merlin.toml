@@ -1,0 +1,9 @@
+name = "merlin"
+description = "This is now the official location of the Merlin project."
+category = "speech"
+tags = ["merlin", "speech-synthesis", "text-to-speech", "voice-conversion", "deep-learning", "python", "theano", "tensorflow"]
+repository = "https://github.com/CSTR-Edinburgh/merlin"
+website = "http://www.cstr.ed.ac.uk/projects/merlin/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

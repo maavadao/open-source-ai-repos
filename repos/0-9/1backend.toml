@@ -1,0 +1,9 @@
+name = "1backend"
+description = "Build AI (or any) apps with scalable microservices & microfrontends."
+category = "other"
+tags = ["paas", "microservices", "ai", "on-premise", "on-premise-ai", "microservices-platform", "ai-platform", "backend-framework"]
+repository = "https://github.com/1backend/1backend"
+website = "https://1backend.com"
+license = "AGPL-3.0"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "boxcars"
+description = "Building applications with composability using Boxcars with LLM's."
+category = "llm-apps"
+tags = ["activerecord", "langchain", "ruby", "openai", "sql"]
+repository = "https://github.com/BoxcarsAI/boxcars"
+license = "MIT"
+language = "Ruby"
+added = 2026-10-20

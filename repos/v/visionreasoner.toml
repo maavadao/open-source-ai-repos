@@ -1,0 +1,8 @@
+name = "VisionReasoner"
+description = "[ICLR 2026] VisionReasoner: Unified Reasoning-Integrated Visual Perception via Reinforcement Learning"
+category = "vision"
+tags = ["multimodal", "multimodal-large-language-models", "reasoning-language-models", "reinforcement-learning", "segmentation", "visual-perception", "counting-objects", "object-detection"]
+repository = "https://github.com/JIA-Lab-research/VisionReasoner"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

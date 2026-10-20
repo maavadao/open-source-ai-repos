@@ -1,0 +1,8 @@
+name = "LangHelper"
+description = "Striving to create a great Application with full functions of learning languages by ChatGPT, TTS, STT and other awesome AI models, supports talking, speaking assessment, memorizing words with contexts, Listening test, so on."
+category = "speech"
+tags = ["ai", "assessment", "chatgpt", "speech", "speech-recognition", "speech-to-text", "ielts", "language-learning"]
+repository = "https://github.com/NsLearning/LangHelper"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

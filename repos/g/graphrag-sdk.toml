@@ -1,0 +1,9 @@
+name = "GraphRAG-SDK"
+description = "Build fast and accurate GenAI apps with GraphRAG SDK at scale"
+category = "llm-apps"
+tags = ["falkordb", "graphrag", "knowledge-graph", "rag", "graph-database", "open-source", "sdk", "genai"]
+repository = "https://github.com/FalkorDB/GraphRAG-SDK"
+website = "https://www.falkordb.com/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

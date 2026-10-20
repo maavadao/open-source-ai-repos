@@ -1,0 +1,9 @@
+name = "chatbox"
+description = "Powerful AI Client"
+category = "coding"
+tags = ["chatgpt", "openai", "copilot", "gpt", "chatbot", "ollama", "assistant", "claude"]
+repository = "https://github.com/chatboxai/chatbox"
+website = "https://chatboxai.app?utm_medium=github"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

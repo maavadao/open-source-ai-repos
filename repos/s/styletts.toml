@@ -1,0 +1,8 @@
+name = "StyleTTS"
+description = "Official Implementation of StyleTTS"
+category = "speech"
+tags = ["speech-synthesis", "text-to-speech", "tts", "pytorch", "deep-learning"]
+repository = "https://github.com/yl4579/StyleTTS"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "BrickGPT"
+description = "[ICCV 2025 Best Paper] Official repository for BrickGPT, the first approach for generating physically stable toy brick models from text prompts."
+category = "learning"
+tags = ["generative-ai", "lego"]
+repository = "https://github.com/AvaLovelace1/BrickGPT"
+website = "https://avalovelace1.github.io/BrickGPT/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

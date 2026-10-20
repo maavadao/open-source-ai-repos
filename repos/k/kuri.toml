@@ -1,0 +1,9 @@
+name = "kuri"
+description = "Browser automation, web crawling, and iOS + Android device control for AI agents. Zig-native, token-efficient CDP snapshots, HAR recording, native adb wire-protocol client, and a standalone fetcher."
+category = "browser-automation"
+tags = ["ai-agents", "android", "browser-automation", "chrome-cdp", "ios", "mobile-automation", "web-scraping", "zig"]
+repository = "https://github.com/justrach/kuri"
+website = "https://kuri.trilok.ai"
+license = "NOASSERTION"
+language = "Zig"
+added = 2026-10-20

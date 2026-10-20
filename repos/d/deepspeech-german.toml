@@ -1,0 +1,8 @@
+name = "deepspeech-german"
+description = "Automatic Speech Recognition (ASR) - German"
+category = "speech"
+tags = ["mozilla-deepspeech", "speech-recognition", "german"]
+repository = "https://github.com/AASHISHAG/deepspeech-german"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

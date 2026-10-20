@@ -1,0 +1,9 @@
+name = "clawsuite"
+description = "All-in-one command center for OpenClaw agents"
+category = "agents"
+tags = ["ai-agents", "desktop-app", "openclaw", "react", "tauri", "typescript", "vscode-alternative", "agent"]
+repository = "https://github.com/outsourc-e/clawsuite"
+website = "https://clawsuite.io"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

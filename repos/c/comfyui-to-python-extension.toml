@@ -1,0 +1,8 @@
+name = "ComfyUI-to-Python-Extension"
+description = "A powerful tool that translates ComfyUI workflows into executable Python code."
+category = "image"
+tags = ["comfyui", "image-generation", "stable-diffusion", "ai-art", "generative-art", "pytorch"]
+repository = "https://github.com/pydn/ComfyUI-to-Python-Extension"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

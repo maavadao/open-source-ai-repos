@@ -1,0 +1,9 @@
+name = "files-sdk"
+description = "Write once. Store anywhere."
+category = "agents"
+tags = ["blob", "cloudflare", "files", "minio", "r2", "s3", "storage", "vercel"]
+repository = "https://github.com/haydenbleasel/files-sdk"
+website = "https://files-sdk.dev/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

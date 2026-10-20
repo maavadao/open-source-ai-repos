@@ -1,0 +1,8 @@
+name = "robustness"
+description = "Corruption and Perturbation Robustness (ICLR 2019)"
+category = "vision"
+tags = ["imagenet", "robustness", "pytorch", "deep-learning", "convolutional-neural-networks", "computer-vision", "machine-learning", "domain-generalization"]
+repository = "https://github.com/hendrycks/robustness"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

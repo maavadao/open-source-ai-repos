@@ -1,0 +1,8 @@
+name = "linfa"
+description = "A Rust machine learning framework."
+category = "data-science"
+tags = ["machine-learning", "rust", "algorithms", "scientific-computing"]
+repository = "https://github.com/rust-ml/linfa"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "mola"
+description = "A Modular Optimization framework for Localization and mApping (MOLA)"
+category = "robotics"
+tags = ["slam", "lidar", "lidar-point-cloud", "localization", "mobile-robots", "graph-slam", "toolkit", "cxx"]
+repository = "https://github.com/MOLAorg/mola"
+website = "https://docs.mola-slam.org/latest/"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

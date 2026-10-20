@@ -1,0 +1,8 @@
+name = "targetdiff"
+description = "The official implementation of 3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction (ICLR 2023)"
+category = "image"
+tags = ["ai-for-science", "diffusion-models", "drug-design", "equivariant-networks", "iclr2023"]
+repository = "https://github.com/guanjq/targetdiff"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

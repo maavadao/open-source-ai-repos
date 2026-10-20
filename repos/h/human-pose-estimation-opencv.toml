@@ -1,0 +1,8 @@
+name = "human-pose-estimation-opencv"
+description = "Perform Human Pose Estimation in OpenCV Using OpenPose MobileNet"
+category = "vision"
+tags = ["pose-estimation", "openpose", "opencv", "tensorflow", "humanpose", "computer-vision"]
+repository = "https://github.com/quanhua92/human-pose-estimation-opencv"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

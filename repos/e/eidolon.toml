@@ -1,0 +1,9 @@
+name = "eidolon"
+description = "The first AI Agent Server, Eidolon is a pluggable Agent SDK and enterprise ready, deployment server for Agentic applications"
+category = "agents"
+tags = ["agents", "generative-ai", "langchain", "llama", "llm", "openai", "python", "services"]
+repository = "https://github.com/eidolon-ai/eidolon"
+website = "https://www.eidolonai.com/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

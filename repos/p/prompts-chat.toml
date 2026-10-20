@@ -1,0 +1,9 @@
+name = "prompts.chat"
+description = "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy."
+category = "skills-prompts"
+tags = ["chatgpt", "ai", "artificial-intelligence", "awesome-list", "chatgpt-prompts", "claude", "gemini", "gpt"]
+repository = "https://github.com/f/prompts.chat"
+website = "https://prompts.chat"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

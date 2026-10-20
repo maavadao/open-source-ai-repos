@@ -1,0 +1,9 @@
+name = "diffae"
+description = "Official implementation of Diffusion Autoencoders"
+category = "image"
+tags = ["deep-learning", "diffusion-models", "autoencoder", "ffhq", "lsun", "latent-variable-models", "cvpr2022"]
+repository = "https://github.com/konpatp/diffae"
+website = "https://diff-ae.github.io/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

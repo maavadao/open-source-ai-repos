@@ -1,0 +1,8 @@
+name = "pytorch-cpn"
+description = "A PyTorch re-implementation of CPN (Cascaded Pyramid Network for Multi-Person Pose Estimation)"
+category = "vision"
+tags = ["pytorch", "deep-learning", "deep-neural-networks", "keypoint-estimation", "keypoint-localization", "pose-estimation", "computer-vision"]
+repository = "https://github.com/GengDavid/pytorch-cpn"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

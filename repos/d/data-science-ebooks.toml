@@ -1,0 +1,7 @@
+name = "Data-Science-EBooks"
+description = "A curated collection of eBooks on Data Science, Machine Learning, and AI to help you learn and grow."
+category = "learning"
+tags = ["data-science", "machine-learning", "python", "data-science-learning", "datasciencebasics", "math-for-machine-learning", "mathematics", "ai"]
+repository = "https://github.com/aniketpotabatti/Data-Science-EBooks"
+license = "NOASSERTION"
+added = 2026-10-20

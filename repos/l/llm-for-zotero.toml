@@ -1,0 +1,9 @@
+name = "llm-for-zotero"
+description = "An open-source research agent system for your Zotero library."
+category = "mcp-servers"
+tags = ["academic-paper", "literature-analysis", "llm-agent", "zotero-plugin", "zotero", "codex", "research-tool", "rag"]
+repository = "https://github.com/yilewang/llm-for-zotero"
+website = "https://yilewang.github.io/llm-for-zotero"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

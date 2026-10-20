@@ -1,0 +1,8 @@
+name = "NerfingMVS"
+description = "[ICCV 2021 Oral] NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo"
+category = "vision"
+tags = ["computer-vision", "deep-learning", "3d-reconstruction", "3dvision", "neural-radiance-fields", "multi-view-stereo"]
+repository = "https://github.com/weiyithu/NerfingMVS"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

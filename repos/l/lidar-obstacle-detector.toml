@@ -1,0 +1,8 @@
+name = "lidar_obstacle_detector"
+description = "3D LiDAR Object Detection & Tracking using Euclidean Clustering, RANSAC, & Hungarian Algorithm"
+category = "robotics"
+tags = ["3d-lidar", "object-detection", "object-tracking", "obstacle-detection", "obstacle-tracking", "pcl-library", "ransac-algorithm", "hungarian-algorithm"]
+repository = "https://github.com/SS47816/lidar_obstacle_detector"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

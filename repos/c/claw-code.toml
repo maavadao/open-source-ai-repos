@@ -1,0 +1,7 @@
+name = "claw-code"
+description = "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention."
+category = "agents"
+repository = "https://github.com/ultraworkers/claw-code"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

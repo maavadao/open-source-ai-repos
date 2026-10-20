@@ -1,0 +1,8 @@
+name = "no-cost-ai"
+description = "80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free)"
+category = "agents"
+tags = ["ai", "ai-agents", "audio-ai", "chat-ai", "claude", "free-ai", "free-ai-api", "free-llm"]
+repository = "https://github.com/zebbern/no-cost-ai"
+website = "https://nocostai.vercel.app"
+license = "MIT"
+added = 2026-10-20

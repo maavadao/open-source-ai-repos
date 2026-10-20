@@ -1,0 +1,7 @@
+name = "autoresearch"
+description = "AI agents running research on single-GPU nanochat training automatically"
+category = "agents"
+repository = "https://github.com/karpathy/autoresearch"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

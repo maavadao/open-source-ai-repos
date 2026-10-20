@@ -1,0 +1,9 @@
+name = "efficientnet"
+description = "Implementation of EfficientNet model. Keras and TensorFlow Keras."
+category = "vision"
+tags = ["classification", "imagenet", "efficientnet", "pretrained-models", "image-classification", "efficient", "nasnetmobile", "mobilenet"]
+repository = "https://github.com/qubvel/efficientnet"
+website = "https://arxiv.org/abs/1905.11946"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

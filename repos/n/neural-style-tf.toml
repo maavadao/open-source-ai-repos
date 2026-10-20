@@ -1,0 +1,8 @@
+name = "neural-style-tf"
+description = "TensorFlow (Python API) implementation of Neural Style"
+category = "ml-platforms"
+tags = ["style-transfer", "tensorflow", "convolutional-neural-network", "deep-learning"]
+repository = "https://github.com/cysmith/neural-style-tf"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

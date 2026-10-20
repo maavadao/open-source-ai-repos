@@ -1,0 +1,8 @@
+name = "FB-BEV"
+description = "Official PyTorch implementation of FB-BEV & FB-OCC - Forward-backward view transformation for vision-centric autonomous driving perception"
+category = "robotics"
+tags = ["3d-object-detection", "autonomous-driving", "bev-perception", "3d-occupancy-prediction", "3d-perception", "deep-learning", "nuscenes", "scene-understanding"]
+repository = "https://github.com/NVlabs/FB-BEV"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "stablediffusion-infinity"
+description = "Outpainting with Stable Diffusion on an infinite canvas"
+category = "image"
+tags = ["outpainting", "stablediffusion", "gui", "inpainting", "stable-diffusion"]
+repository = "https://github.com/lkwq007/stablediffusion-infinity"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "iris"
+description = "Transformers are Sample-Efficient World Models. ICLR 2023, notable top 5%."
+category = "models"
+tags = ["deep-learning", "machine-learning", "reinforcement-learning", "artificial-intelligence", "atari", "world-models", "research", "transformers"]
+repository = "https://github.com/eloialonso/iris"
+website = "https://openreview.net/forum?id=vhFu1Acb0xb"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "aidea"
+description = "An APP that integrates mainstream large language models and image generation models, built with Flutter, with fully open-source code."
+category = "image"
+tags = ["ai", "chatbot", "flutter", "gpt", "gpt-4", "stable-diffusion", "wenxinyiyan", "tongyiqianwen"]
+repository = "https://github.com/mylxsw/aidea"
+website = "https://ai.aicode.cc"
+license = "MIT"
+language = "Dart"
+added = 2026-10-20

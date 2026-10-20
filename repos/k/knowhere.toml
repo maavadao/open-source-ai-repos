@@ -1,0 +1,9 @@
+name = "knowhere"
+description = "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG."
+category = "coding"
+tags = ["ai-agents", "claude-code", "cursor", "langchain", "rag-pipeline", "skills", "agent-harness", "codex"]
+repository = "https://github.com/Ontos-AI/knowhere"
+website = "https://knowhereto.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

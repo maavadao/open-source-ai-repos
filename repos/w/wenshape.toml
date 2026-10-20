@@ -1,0 +1,9 @@
+name = "WenShape"
+description = "WenShape文枢(原NOVIX写作):深度上下文感知的智能体小说创作系统/A Deep Context-Aware Agent-Based Novel Creation System"
+category = "agents"
+tags = ["agent", "ai", "javascript", "llm", "novel", "python", "rag"]
+repository = "https://github.com/unitagain/WenShape"
+website = "https://wenshape.cn"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

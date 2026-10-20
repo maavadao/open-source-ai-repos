@@ -1,0 +1,9 @@
+name = "vits"
+description = "VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech"
+category = "speech"
+tags = ["tts", "text-to-speech", "pytorch", "deep-learning", "speech-synthesis"]
+repository = "https://github.com/jaywalnut310/vits"
+website = "https://jaywalnut310.github.io/vits-demo/index.html"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

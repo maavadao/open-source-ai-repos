@@ -1,0 +1,8 @@
+name = "arize-skills"
+description = "Agent skills for Arize — datasets, experiments, and traces via the ax CLI"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "ai-observability", "arize", "claude-code", "codex", "cursor", "datasets"]
+repository = "https://github.com/Arize-ai/arize-skills"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

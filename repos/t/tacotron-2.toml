@@ -1,0 +1,8 @@
+name = "Tacotron-2"
+description = "DeepMind's Tacotron-2 Tensorflow implementation"
+category = "speech"
+tags = ["tacotron", "tensorflow", "paper", "python", "speech-synthesis", "text-to-speech", "wavenet"]
+repository = "https://github.com/Rayhane-mamah/Tacotron-2"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

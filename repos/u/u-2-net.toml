@@ -1,0 +1,8 @@
+name = "U-2-Net"
+description = "The code for our newly accepted paper in Pattern Recognition 2020: \"U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection.\""
+category = "vision"
+tags = ["computer-vision", "deep-learning", "image-background-removal", "image-processing", "image-segmentation", "u-2-net", "u2net"]
+repository = "https://github.com/xuebinqin/U-2-Net"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

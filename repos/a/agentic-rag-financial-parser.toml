@@ -1,0 +1,9 @@
+name = "agentic-rag-financial-parser"
+description = "Enterprise RAG ecosystem managing 32000+ semantic chunks. Features hybrid parsing (LlamaParse/PyMuPDF) and 256-dim MRL embeddings for 512MB RAM environments"
+category = "agents"
+tags = ["agentic-rag", "fastapi", "genai", "langgraph", "llmops", "pinecone-db", "python", "rag"]
+repository = "https://github.com/Ambuj123-lab/agentic-rag-financial-parser"
+website = "https://agentic-rag-financial-parser.onrender.com/"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

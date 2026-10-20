@@ -1,0 +1,8 @@
+name = "serviette"
+description = "A no-code RAG server that keeps answers in sync with your documents. Works with 8 vector databases. Built on Pathway."
+category = "no-code"
+tags = ["pathway", "vector-database", "retrieval-augmented-generation", "rag", "chromadb", "document-qa", "duckdb", "live-data"]
+repository = "https://github.com/pathwaycom/serviette"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

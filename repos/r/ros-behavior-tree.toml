@@ -1,0 +1,8 @@
+name = "ROS-Behavior-Tree"
+description = "Behavior Trees Library for ROS (Robot Operating System). In C++ and python"
+category = "robotics"
+tags = ["behavior-trees", "behavior-tree", "ros"]
+repository = "https://github.com/miccol/ROS-Behavior-Tree"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

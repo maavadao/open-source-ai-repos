@@ -1,0 +1,9 @@
+name = "deer-workflow"
+description = "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes."
+category = "coding"
+tags = ["agent", "ai", "ai-agent", "ai-agents", "ai-coding", "dynamic-workflow", "dynamic-workflows", "llm"]
+repository = "https://github.com/deerwork-ai/deer-workflow"
+website = "https://deerwork-ai.github.io/deer-workflow/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

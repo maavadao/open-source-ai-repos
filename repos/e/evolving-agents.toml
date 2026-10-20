@@ -1,0 +1,9 @@
+name = "evolving-agents"
+description = "A director agent that learns how your team works: it plans by walking your CLAUDE.md and memory as linked statements, delegates to Claude Code or local models, and keeps each lesson as a gated, versioned patch. Measured: 0.929 vs 0.589."
+category = "coding"
+tags = ["agents", "ai", "aiagents", "evolution", "agent-memory", "ai-agents", "claude", "claude-code"]
+repository = "https://github.com/EvolvingAgentsLabs/evolving-agents"
+website = "https://evolvingagentslabs.github.io/#director"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "awesome-ai-agents"
+description = "A list of AI autonomous agents"
+category = "learning"
+tags = ["agent", "ai", "artificial-intelligence", "autogpt", "autonomous-agents", "awesome", "babyagi", "gpt-4"]
+repository = "https://github.com/e2b-dev/awesome-ai-agents"
+website = "https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=awesome-ai-agents"
+license = "NOASSERTION"
+added = 2026-10-20

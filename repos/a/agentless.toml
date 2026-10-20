@@ -1,0 +1,8 @@
+name = "Agentless"
+description = "Agentless: an agentless approach to automatically solve software development problems"
+category = "agents"
+tags = ["agent", "artificial-intelligence", "llm", "software-development"]
+repository = "https://github.com/OpenAutoCoder/Agentless"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

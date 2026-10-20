@@ -1,0 +1,8 @@
+name = "FIESTA"
+description = "Fast Incremental Euclidean Distance Fields for Online Motion Planning of Aerial Robots"
+category = "robotics"
+tags = ["robotics", "mapping", "planning", "euclidean-distances"]
+repository = "https://github.com/HKUST-Aerial-Robotics/FIESTA"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

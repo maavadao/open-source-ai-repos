@@ -1,0 +1,8 @@
+name = "MixTeX-Latex-OCR"
+description = "MixTeX multimodal LaTeX, ZhEn, and, Table OCR. It performs efficient CPU-based inference in a local offline on Windows."
+category = "documents"
+tags = ["computer-vision", "deep-learning", "latex", "machine-learning", "ocr", "onnx", "python"]
+repository = "https://github.com/RQLuo/MixTeX-Latex-OCR"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

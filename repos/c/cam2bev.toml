@@ -1,0 +1,8 @@
+name = "Cam2BEV"
+description = "TensorFlow Implementation for Computing a Semantically Segmented Bird's Eye View (BEV) Image Given the Images of Multiple Vehicle-Mounted Cameras."
+category = "robotics"
+tags = ["computer-vision", "machine-learning", "deep-learning", "autonomous-vehicles", "ipm", "segmentation", "sim2real", "simulation"]
+repository = "https://github.com/ika-rwth-aachen/Cam2BEV"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

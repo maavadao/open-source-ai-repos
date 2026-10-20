@@ -1,0 +1,8 @@
+name = "SimpleMem"
+description = "[ICML'26] SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal"
+category = "mcp-servers"
+tags = ["agent", "compression", "llm", "mcp", "memory", "rag", "retrieval", "semantic-search"]
+repository = "https://github.com/aiming-lab/SimpleMem"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

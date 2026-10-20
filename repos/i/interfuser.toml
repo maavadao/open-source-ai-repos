@@ -1,0 +1,8 @@
+name = "InterFuser"
+description = "[CoRL 2022] InterFuser: Safety-Enhanced Autonomous Driving Using Interpretable Sensor Fusion Transformer"
+category = "robotics"
+tags = ["autonomous-driving", "bird-view-image", "transformer"]
+repository = "https://github.com/opendilab/InterFuser"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

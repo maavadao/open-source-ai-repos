@@ -1,0 +1,9 @@
+name = "desktop"
+description = "E2B Desktop Sandbox for LLMs. E2B Sandbox with desktop graphical environment that you can connect to any LLM for secure computer use."
+category = "models"
+tags = ["desktop", "e2b", "gpt", "gui", "vm", "e2b-dev", "ai", "computer"]
+repository = "https://github.com/e2b-dev/desktop"
+website = "https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=desktop"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

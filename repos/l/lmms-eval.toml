@@ -1,0 +1,9 @@
+name = "lmms-eval"
+description = "One-for-All Multimodal Evaluation Toolkit Across Text, Image, Video, and Audio Tasks"
+category = "models"
+tags = ["agi", "evaluation", "large-language-models", "multimodal", "audio-evaluation", "benchmark", "llm-evaluation", "video-understanding"]
+repository = "https://github.com/EvolvingLMMs-Lab/lmms-eval"
+website = "https://www.lmms-lab.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

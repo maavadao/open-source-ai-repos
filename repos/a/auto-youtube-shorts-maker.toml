@@ -1,0 +1,8 @@
+name = "Auto-YouTube-Shorts-Maker"
+description = "Automatically generate youtube shorts easily with this simple script!"
+category = "video"
+tags = ["automate", "binary-bytes", "python", "script", "openai", "openai-api", "video-maker", "youtube-shorts"]
+repository = "https://github.com/Binary-Bytes/Auto-YouTube-Shorts-Maker"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

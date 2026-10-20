@@ -1,0 +1,9 @@
+name = "hands-on-modern-rl"
+description = "An open-source, hands-on curriculum bridging the gap from basic RL concepts to LLM alignment, RLVR, and advanced Agentic systems."
+category = "learning"
+tags = ["agent", "agentic", "agentic-ai", "agentic-rl", "dpo", "grpo", "llm", "llm-alignment"]
+repository = "https://github.com/walkinglabs/hands-on-modern-rl"
+website = "https://walkinglabs.github.io/hands-on-modern-rl/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

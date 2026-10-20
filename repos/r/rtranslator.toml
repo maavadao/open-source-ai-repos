@@ -1,0 +1,8 @@
+name = "RTranslator"
+description = "Open source real-time translation app for Android that runs locally"
+category = "speech"
+tags = ["translator", "bluetooth-le", "realtime-translator", "android-app", "onnx", "onnxruntime", "sentencepiece", "transformers"]
+repository = "https://github.com/niedev/RTranslator"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

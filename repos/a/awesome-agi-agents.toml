@@ -1,0 +1,8 @@
+name = "Awesome-AGI-Agents"
+description = "Awesome list of AGI Agents. Agents 精选资源合集."
+category = "learning"
+tags = ["agents", "ai", "ai-agents", "agi-agents", "agi", "llm", "agents-art", "artificial-intelligence"]
+repository = "https://github.com/yzfly/Awesome-AGI-Agents"
+website = "https://agents.art"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "cursor-talk-to-figma-mcp"
+description = "TalkToFigma: MCP integration between AI Agent (Cursor, Claude Code, Codex) and Figma, allowing Agentic AI to communicate with Figma for reading designs and modifying them programmatically."
+category = "mcp-servers"
+tags = ["agent", "agentic", "agentic-ai", "ai", "cursor", "design", "figma", "mcp"]
+repository = "https://github.com/grab/cursor-talk-to-figma-mcp"
+website = "https://www.figma.com/community/plugin/1485687494525374295/cursor-talk-to-figma-mcp-plugin"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

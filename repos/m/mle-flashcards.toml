@@ -1,0 +1,7 @@
+name = "MLE-Flashcards"
+description = "200+ detailed flashcards useful for reviewing topics in machine learning, computer vision, and computer science."
+category = "learning"
+tags = ["ai", "artificial-intelligence", "computer-vision", "machine-learning", "computer-science", "flashcards", "interview", "interview-preparation"]
+repository = "https://github.com/b7leung/MLE-Flashcards"
+license = "GPL-3.0"
+added = 2026-10-20

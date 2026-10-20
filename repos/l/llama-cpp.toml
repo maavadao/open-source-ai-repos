@@ -1,0 +1,10 @@
+name = "llama.cpp"
+description = "LLM inference in C/C++"
+category = "local-llms"
+tags = ["ggml"]
+repository = "https://github.com/ggml-org/llama.cpp"
+website = "https://llama.app"
+license = "MIT"
+language = "C++"
+skill_level = "advanced"
+added = 2026-10-20

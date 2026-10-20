@@ -1,0 +1,8 @@
+name = "yao-meta-skill"
+description = "YAO = Yielding AI Outcomes. A rigorous engineering, evaluation, governance, and portability system for reusable agent skills."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "meta-skill", "skill-engineering", "workflow-automation", "evaluation", "governance", "portability"]
+repository = "https://github.com/yaojingang/yao-meta-skill"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "chatgpt-pro"
+description = "ChatGPT-Pro is an advanced application that combines the power of ChatGPT and DALL.E."
+category = "image"
+tags = ["openai", "ai-bot", "chatgpt", "conversational-ai", "gpt", "gpt-3", "machine-learning", "ml"]
+repository = "https://github.com/EyuCoder/chatgpt-pro"
+website = "https://chatgpt.eyucoder.com"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

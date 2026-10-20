@@ -1,0 +1,9 @@
+name = "awesome-artificial-intelligence"
+description = "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers."
+category = "learning"
+tags = ["machine-learning", "machine-intelligence", "artificial-intelligence", "reinforcement-learning", "intelligent-systems", "deep-learning", "intelligent-machines", "ai"]
+repository = "https://github.com/owainlewis/awesome-artificial-intelligence"
+website = "https://aiengineer.co"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

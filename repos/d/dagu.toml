@@ -1,0 +1,9 @@
+name = "dagu"
+description = "Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow /…"
+category = "mcp-servers"
+tags = ["cron", "workflow-engine", "workflow-scheduler", "workflow-orchestration", "devops", "data-pipeline", "job-scheduler", "task-automation"]
+repository = "https://github.com/dagucloud/dagu"
+website = "https://dagu.sh"
+license = "GPL-3.0"
+language = "Go"
+added = 2026-10-20

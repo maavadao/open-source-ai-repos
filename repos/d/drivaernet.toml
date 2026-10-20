@@ -1,0 +1,8 @@
+name = "DrivAerNet"
+description = "A Large-Scale Multimodal Car Dataset with Computational Fluid Dynamics Simulations and Deep Learning Benchmarks"
+category = "ml-platforms"
+tags = ["3d-geometry", "aerodynamics", "car-design", "cfd", "computational-fluid-dynamics", "data-driven", "deep-learning", "deep-neural-networks"]
+repository = "https://github.com/Mohamedelrefaie/DrivAerNet"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

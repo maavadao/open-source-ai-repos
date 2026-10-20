@@ -1,0 +1,8 @@
+name = "RL-Based-Cyber-Threat-Detection"
+description = "A powerful AI-powered chatbot that leverages Neo4j's Cyber Knowledge Graph (CKG) and Groq API to provide intelligent cybersecurity threat intelligence through natural language queries."
+category = "ml-platforms"
+tags = ["generative-ai", "groq-api", "neo4j-database", "reinforcement-learning"]
+repository = "https://github.com/Suraj-G-Rao/RL-Based-Cyber-Threat-Detection"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

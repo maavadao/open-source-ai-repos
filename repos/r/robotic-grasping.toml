@@ -1,0 +1,8 @@
+name = "robotic-grasping"
+description = "Antipodal Robotic Grasping using GR-ConvNet. IROS 2020."
+category = "robotics"
+tags = ["robotics", "grasping", "deep-learning", "robotic-manipulation"]
+repository = "https://github.com/skumra/robotic-grasping"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

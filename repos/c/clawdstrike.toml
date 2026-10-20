@@ -1,0 +1,9 @@
+name = "clawdstrike"
+description = "Agentic AI EDR for developer workstations and autonomous agent swarms. Build Swarm Detection & Response platforms with Clawdstrike."
+category = "security"
+tags = ["agents", "cybersecurity", "cybersecurity-tools", "openclaw-security", "security", "security-tools", "agent-security", "agentic-security"]
+repository = "https://github.com/backbay-labs/clawdstrike"
+website = "https://backbay.io"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

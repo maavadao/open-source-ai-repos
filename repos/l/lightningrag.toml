@@ -1,0 +1,9 @@
+name = "LightningRAG"
+description = "LightningRAG is a full-stack Vue + Gin starter with a decoupled frontend and backend, plus built-in, extensible RAG (retrieval-augmented generation): knowledge bases, vector search, and integrations with many LLM and vector-store providers"
+category = "agents"
+tags = ["go", "golang", "rag", "retrieval-augmented-generation", "agent", "ai", "deepseek", "dify"]
+repository = "https://github.com/LightningRAG/LightningRAG"
+website = "https://LightningRAG.com"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

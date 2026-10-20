@@ -1,0 +1,8 @@
+name = "Limine"
+description = "Modern, secure, portable, multiprotocol bootloader and boot manager."
+category = "models"
+tags = ["bootloader", "bios", "x86", "x86-64", "uefi", "gpt", "mbr", "efi"]
+repository = "https://github.com/Limine-Bootloader/Limine"
+license = "BSD-2-Clause"
+language = "C"
+added = 2026-10-20

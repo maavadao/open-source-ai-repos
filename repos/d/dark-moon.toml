@@ -1,0 +1,9 @@
+name = "Dark-Moon"
+description = "Open-source autonomous AI penetration testing. 50 specialist agents across web, API, cloud, Active Directory, Kubernetes, CI/CD and AI/LLM (OWASP LLM Top 10). Runs on a local LLM behind a Privacy Gateway. Integrates with GitHub, GitLab, Jenkins, VS Code, JetBrains, n8n…"
+category = "mcp-servers"
+tags = ["ai-security-tool", "llm", "offensive-security", "penetration-testing", "pentesting", "active-directory", "ai-red-team", "kubernetes"]
+repository = "https://github.com/ASCIT31/Dark-Moon"
+website = "https://dark-moon.org/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

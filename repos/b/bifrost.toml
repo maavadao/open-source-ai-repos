@@ -1,0 +1,9 @@
+name = "bifrost"
+description = "Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, virtual keys, budgets and MCP Code Mode. Works with any SDK or agent and adds…"
+category = "mcp-servers"
+tags = ["gateway", "llm-gateway", "guardrails", "mcp-gateway", "ai-gateway", "llm-cost", "llm-observability", "load-balancing"]
+repository = "https://github.com/maximhq/bifrost"
+website = "https://www.getmaxim.ai/bifrost"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "evorl"
+description = "EvoRL is a fully GPU-accelerated framework for Evolutionary Reinforcement Learning, implemented with JAX. It supports Reinforcement Learning (RL), Evolutionary Computation (EC), Evolution-guided Reinforcement Learning (ERL), AutoRL, and seamless integration with GPU-optimized…"
+category = "ml-platforms"
+tags = ["automl", "evolutionary-algorithms", "gpu-acceleration", "hpo", "jax", "policy-gradient", "population-based-training", "ppo"]
+repository = "https://github.com/EMI-Group/evorl"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

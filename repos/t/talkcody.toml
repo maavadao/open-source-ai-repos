@@ -1,0 +1,9 @@
+name = "talkcody"
+description = "TalkCody - Code is cheap, show me your talk. Free Open Source AI Coding Agent."
+category = "coding"
+tags = ["ai-agents", "coding-agent", "coding-assistant", "rust", "tauri2", "vercel-ai-sdk"]
+repository = "https://github.com/talkcody/talkcody"
+website = "https://talkcody.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

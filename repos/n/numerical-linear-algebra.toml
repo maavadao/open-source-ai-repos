@@ -1,0 +1,9 @@
+name = "numerical-linear-algebra"
+description = "Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course"
+category = "learning"
+tags = ["numpy", "python", "linear-algebra", "data-science", "machine-learning", "algorithms", "deep-learning"]
+repository = "https://github.com/fastai/numerical-linear-algebra"
+website = "http://www.fast.ai/2017/07/17/num-lin-alg/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

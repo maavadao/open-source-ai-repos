@@ -1,0 +1,9 @@
+name = "web-agent-protocol"
+description = "Web Agent Protocol (WAP) - Record and replay user interactions in the browser with MCP support"
+category = "mcp-servers"
+tags = ["ai-agents", "ai-tools", "browser-automation", "browser-use", "llm", "playwright", "python", "mcp"]
+repository = "https://github.com/OTA-Tech-AI/web-agent-protocol"
+website = "https://otatech.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

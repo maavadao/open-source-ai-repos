@@ -1,0 +1,9 @@
+name = "llm_bridge"
+description = "A tiny, vendor-neutral LLM client library — one interface (LLMClient) with pluggable adapters for OpenAI, AWS Bedrock and Google Gemini, or bring your own backend."
+category = "models"
+tags = ["adapter", "ai", "aws-bedrock", "bedrock", "gemini", "genai", "generative-ai", "llm"]
+repository = "https://github.com/SantanderAI/llm_bridge"
+website = "https://github.com/SantanderAI"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

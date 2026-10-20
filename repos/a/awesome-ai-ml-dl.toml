@@ -1,0 +1,8 @@
+name = "awesome-ai-ml-dl"
+description = "Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics."
+category = "learning"
+tags = ["ai", "ml", "dl", "artificial-intelligence", "machine-learning", "deep-learning", "neural-networks", "algorithms"]
+repository = "https://github.com/neomatrix369/awesome-ai-ml-dl"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

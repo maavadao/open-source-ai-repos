@@ -1,0 +1,8 @@
+name = "gpt-go"
+description = "OpenAI ChatGPT/GPT-4/GPT-3 SDK Go Client to Interact with the GPT-4/GPT-3 APIs."
+category = "chat"
+tags = ["chatgpt", "chatgpt-api", "golang", "gpt-3", "gpt-4", "openai", "sdk-go"]
+repository = "https://github.com/hanyuancheung/gpt-go"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "kornia-rs"
+description = "Low-level 3D Computer Vision library in Rust"
+category = "robotics"
+tags = ["computer-vision", "deep-learning", "image-processing", "machine-learning", "pyo3", "python", "robotics", "rust"]
+repository = "https://github.com/kornia/kornia-rs"
+website = "https://docs.rs/kornia"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

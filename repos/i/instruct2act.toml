@@ -1,0 +1,8 @@
+name = "Instruct2Act"
+description = "Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model"
+category = "robotics"
+tags = ["llm", "robotics", "segment-anything", "chatgpt", "clip"]
+repository = "https://github.com/OpenGVLab/Instruct2Act"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

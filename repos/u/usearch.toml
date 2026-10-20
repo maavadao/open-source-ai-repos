@@ -1,0 +1,10 @@
+name = "USearch"
+description = "Fast Open-Source Search & Clustering engine × for Vectors & Arbitrary Objects × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram"
+category = "vector-databases"
+tags = ["kann", "vector-search", "approximate-nearest-neighbor-search", "simd", "search", "similarity-search", "database", "faiss"]
+repository = "https://github.com/unum-cloud/USearch"
+website = "https://unum-cloud.github.io/usearch/"
+license = "Apache-2.0"
+language = "C++"
+skill_level = "intermediate"
+added = 2026-10-20

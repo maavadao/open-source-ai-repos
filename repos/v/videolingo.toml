@@ -1,0 +1,9 @@
+name = "VideoLingo"
+description = "Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组"
+category = "speech"
+tags = ["ai-translation", "dubbing", "localization", "video-translation", "voice-cloning"]
+repository = "https://github.com/Huanshere/VideoLingo"
+website = "https://docs.videolingo.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

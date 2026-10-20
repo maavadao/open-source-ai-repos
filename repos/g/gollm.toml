@@ -1,0 +1,9 @@
+name = "gollm"
+description = "Unified Go interface for Language Model (LLM) providers. Simplifies LLM integration with flexible prompt management and common task functions."
+category = "llm-apps"
+tags = ["dspy", "go", "golang", "llm", "prompt-engineering", "anthropic", "groq", "language-model"]
+repository = "https://github.com/teilomillet/gollm"
+website = "https://docs.gollm.co"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

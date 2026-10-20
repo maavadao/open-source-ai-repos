@@ -1,0 +1,8 @@
+name = "bark-voice-cloning-HuBERT-quantizer"
+description = "The code for the bark-voicecloning model. Training and inference."
+category = "speech"
+tags = ["ai", "neural-networks", "text-to-speech", "voice-cloning", "voice-conversion"]
+repository = "https://github.com/gitmylo/bark-voice-cloning-HuBERT-quantizer"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

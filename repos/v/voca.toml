@@ -1,0 +1,9 @@
+name = "voca"
+description = "This codebase demonstrates how to synthesize realistic 3D character animations given an arbitrary speech signal and a static character mesh."
+category = "vision"
+tags = ["computer-vision", "computer-graphics", "face-animation", "3d-models", "morphable-model", "machine-learning", "3d-face", "python"]
+repository = "https://github.com/TimoBolkart/voca"
+website = "https://voca.is.tue.mpg.de/en"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

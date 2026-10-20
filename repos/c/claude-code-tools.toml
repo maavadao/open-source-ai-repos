@@ -1,0 +1,8 @@
+name = "claude-code-tools"
+description = "Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents."
+category = "coding"
+tags = ["claude-code", "cli", "cli-agent", "llm", "tmux", "code-agent", "codex", "codex-cli"]
+repository = "https://github.com/pchalasani/claude-code-tools"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

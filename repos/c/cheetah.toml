@@ -1,0 +1,8 @@
+name = "cheetah"
+description = "Mac app for crushing tech interviews with AI"
+category = "learning"
+tags = ["gpt", "openai", "whisper", "whisper-cpp", "ai", "chatgpt", "gpt-4", "swift"]
+repository = "https://github.com/leetcode-mafia/cheetah"
+license = "CC0-1.0"
+language = "Swift"
+added = 2026-10-20

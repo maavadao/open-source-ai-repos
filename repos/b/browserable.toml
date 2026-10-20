@@ -1,0 +1,9 @@
+name = "browserable"
+description = "Open source and self-hostable browser automation library for AI agents"
+category = "browser-automation"
+tags = ["ai-agents", "ai-tools", "browser-automation", "javascript", "playwright", "deep-research", "browser-use", "browser-use-js"]
+repository = "https://github.com/browserable/browserable"
+website = "https://browserable.ai"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

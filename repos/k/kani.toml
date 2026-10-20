@@ -1,0 +1,9 @@
+name = "kani"
+description = "kani (カニ) is a highly hackable microframework for tool-calling language models. (NLP-OSS @ EMNLP 2023)"
+category = "chat"
+tags = ["framework", "function-calling", "large-language-models", "llama", "openai", "gpt-4", "llms", "microframework"]
+repository = "https://github.com/zhudotexe/kani"
+website = "https://kani.readthedocs.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

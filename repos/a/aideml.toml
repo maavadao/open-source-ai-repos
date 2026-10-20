@@ -1,0 +1,9 @@
+name = "aideml"
+description = "AIDE: an LLM agent for machine learning engineering - the research Weco grew out of. Referenced in OpenAI MLE-bench."
+category = "agents"
+tags = ["ai", "data-science", "llm", "machine-learning", "ai-agents", "automated-machine-learning", "autonomous-agents", "autoresearch"]
+repository = "https://github.com/WecoAI/aideml"
+website = "https://weco.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

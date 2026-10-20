@@ -1,0 +1,8 @@
+name = "robotics_master"
+description = "Online Robotics Master"
+category = "robotics"
+tags = ["robotics", "computer-vision", "deep-learning", "optimization"]
+repository = "https://github.com/brunoeducsantos/robotics_master"
+website = "https://discord.com/invite/xhjtWWfm"
+license = "NOASSERTION"
+added = 2026-10-20

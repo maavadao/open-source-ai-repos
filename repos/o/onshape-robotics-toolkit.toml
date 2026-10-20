@@ -1,0 +1,9 @@
+name = "onshape-robotics-toolkit"
+description = "A python library to facilitate interaction with Onshape's REST API"
+category = "robotics"
+tags = ["cad", "control-systems", "mechanical-design", "onshape", "onshape-3d-cad", "onshape-api", "optimization", "python"]
+repository = "https://github.com/neurobionics/onshape-robotics-toolkit"
+website = "https://neurobionics.github.io/onshape-robotics-toolkit/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

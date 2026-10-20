@@ -1,0 +1,8 @@
+name = "diff-sampler"
+description = "An open-source toolbox for fast sampling of diffusion models. Official implementations of our works published in ICML'24, NeurIPS'24, CVPR'24, J. Stat. Mech'25."
+category = "image"
+tags = ["diffusion-models", "ode-solver", "samplers", "cvpr2024", "benchmark", "icml-2024", "neurips-2024"]
+repository = "https://github.com/zju-pi/diff-sampler"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

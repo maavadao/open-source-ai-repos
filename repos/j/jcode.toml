@@ -1,0 +1,9 @@
+name = "jcode"
+description = "High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows"
+category = "mcp-servers"
+tags = ["ai", "claude", "cli", "coding-agent", "llm", "mcp", "openai", "rust"]
+repository = "https://github.com/1jehuang/jcode"
+website = "https://jcode.sh"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

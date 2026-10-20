@@ -1,0 +1,9 @@
+name = "webclaw"
+description = "Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server."
+category = "mcp-servers"
+tags = ["ai-agents", "cli", "llm", "markdown", "mcp", "rust", "self-hosted", "web-extraction"]
+repository = "https://github.com/0xMassi/webclaw"
+website = "https://webclaw.io"
+license = "AGPL-3.0"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "MachineLearningRoguelike"
+description = "A small Roguelike game that uses Machine Learning to power its entities. Originally used in talks by Ciro & Alessia."
+category = "ml-platforms"
+tags = ["machine-learning", "reinforcement-learning", "ai", "2d", "intermediate", "cinemachine", "unity"]
+repository = "https://github.com/UnityTechnologies/MachineLearningRoguelike"
+license = "NOASSERTION"
+language = "C#"
+added = 2026-10-20

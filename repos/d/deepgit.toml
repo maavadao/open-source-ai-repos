@@ -1,0 +1,9 @@
+name = "DeepGit"
+description = "Deep research agent to help you find the best GitHub repositories !"
+category = "search"
+tags = ["agent", "deep-research", "github-search", "langchain", "langgraph", "open-source", "llm", "nlp"]
+repository = "https://github.com/zamalali/DeepGit"
+website = "https://deepgit.vercel.app"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

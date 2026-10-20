@@ -1,0 +1,9 @@
+name = "pytorch-semseg"
+description = "Semantic Segmentation Architectures Implemented in PyTorch"
+category = "vision"
+tags = ["pytorch", "semantic-segmentation", "deep-learning", "fully-convolutional-networks"]
+repository = "https://github.com/meetps/pytorch-semseg"
+website = "https://meetshah.dev/semantic-segmentation/deep-learning/pytorch/visdom/2017/06/01/semantic-segmentation-over-the-years.html"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

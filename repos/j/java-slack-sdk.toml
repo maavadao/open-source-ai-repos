@@ -1,0 +1,9 @@
+name = "java-slack-sdk"
+description = "Slack Developer Kit (including Bolt for Java) for any JVM language"
+category = "chat"
+tags = ["java", "slack", "slack-api", "slack-bot", "slack-app", "jvm-languages", "kotlin", "bolt"]
+repository = "https://github.com/slackapi/java-slack-sdk"
+website = "https://docs.slack.dev/tools/java-slack-sdk/"
+license = "MIT"
+language = "Java"
+added = 2026-10-20

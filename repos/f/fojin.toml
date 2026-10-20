@@ -1,0 +1,9 @@
+name = "fojin"
+description = "Buddhist Digital Text Platform — 10,500+ texts, 613 sources, trilingual cross-canon, AI Q&A (RAG), knowledge graph, full-text search"
+category = "llm-apps"
+tags = ["ai", "buddhism", "chinese-classics", "digital-humanities", "docker", "elasticsearch", "fastapi", "full-text-search"]
+repository = "https://github.com/xr843/fojin"
+website = "https://fojin.app"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

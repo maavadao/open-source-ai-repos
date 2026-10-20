@@ -1,0 +1,9 @@
+name = "lightly"
+description = "A python library for self-supervised learning on images."
+category = "vision"
+tags = ["deep-learning", "self-supervised-learning", "machine-learning", "computer-vision", "pytorch", "embeddings", "contrastive-learning", "hacktoberfest"]
+repository = "https://github.com/lightly-ai/lightly"
+website = "https://docs.lightly.ai/self-supervised-learning/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "OpenRCA"
+description = "[ICLR'25] OpenRCA: Can Large Language Models Locate the Root Cause of Software Failures?"
+category = "agents"
+tags = ["benchmark", "rca", "root-cause-analysis", "large-language-models", "llm", "software-engineering", "llm-agent"]
+repository = "https://github.com/microsoft/OpenRCA"
+website = "https://aka.ms/openrca"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

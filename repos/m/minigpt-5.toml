@@ -1,0 +1,9 @@
+name = "MiniGPT-5"
+description = "Official implementation of paper \"MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens\""
+category = "image"
+tags = ["diffusion-models", "multimodal-generation", "multimodal-llm", "transformers"]
+repository = "https://github.com/UCSB-AI/MiniGPT-5"
+website = "https://eric-ai-lab.github.io/minigpt-5.github.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "MoBA"
+description = "MoBA: Mixture of Block Attention for Long-Context LLMs"
+category = "local-llms"
+tags = ["flash-attention", "llm", "llm-serving", "llm-training", "moe", "pytorch", "transformer"]
+repository = "https://github.com/MoonshotAI/MoBA"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

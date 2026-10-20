@@ -1,0 +1,9 @@
+name = "vibesdk"
+description = "An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack"
+category = "coding"
+tags = ["ai", "cloudflare-workers", "coding-agent", "durable-objects", "vibe-coding", "text-to-app"]
+repository = "https://github.com/cloudflare/vibesdk"
+website = "https://build.cloudflare.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

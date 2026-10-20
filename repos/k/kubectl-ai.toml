@@ -1,0 +1,8 @@
+name = "kubectl-ai"
+description = "AI powered Kubernetes Assistant"
+category = "chat"
+tags = ["ai", "assistant", "cli", "kubernetes"]
+repository = "https://github.com/GoogleCloudPlatform/kubectl-ai"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

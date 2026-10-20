@@ -1,0 +1,9 @@
+name = "stable.art"
+description = "Photoshop plugin for Stable Diffusion with Automatic1111 as backend (locally or with Google Colab)"
+category = "image"
+tags = ["ai", "ai-art", "art", "photoshop", "plugin", "stable-diffusion", "automatic1111"]
+repository = "https://github.com/isekaidev/stable.art"
+website = "https://stable.art"
+license = "MIT"
+language = "Vue"
+added = 2026-10-20

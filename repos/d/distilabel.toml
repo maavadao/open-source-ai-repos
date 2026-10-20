@@ -1,0 +1,9 @@
+name = "distilabel"
+description = "Distilabel is a framework for synthetic data and AI feedback for engineers who need fast, reliable and scalable pipelines based on verified research papers."
+category = "models"
+tags = ["ai", "huggingface", "llms", "openai", "python", "rlaif", "rlhf", "synthetic-data"]
+repository = "https://github.com/argilla-io/distilabel"
+website = "https://distilabel.argilla.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

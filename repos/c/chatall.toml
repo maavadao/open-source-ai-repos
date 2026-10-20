@@ -1,0 +1,9 @@
+name = "ChatALL"
+description = "Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers"
+category = "chat"
+tags = ["bingchat", "chatgpt", "electron-app", "vuejs3", "vuetify3", "desktop-app", "linux", "macos"]
+repository = "https://github.com/ai-shifu/ChatALL"
+website = "https://chatall.ai"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

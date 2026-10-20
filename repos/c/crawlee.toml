@@ -1,0 +1,9 @@
+name = "crawlee"
+description = "Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM…"
+category = "browser-automation"
+tags = ["web-scraping", "web-crawling", "npm", "headless-chrome", "puppeteer", "automation", "apify", "scraping"]
+repository = "https://github.com/apify/crawlee"
+website = "https://crawlee.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

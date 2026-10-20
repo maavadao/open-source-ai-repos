@@ -1,0 +1,7 @@
+name = "awesome_computer_science"
+description = "The complete syllabus of Computer Science and Engineering. Roadmap, Checklist for Beginners."
+category = "learning"
+tags = ["computer-science", "operating-systems", "computer-networks", "assembly-language", "compiler-design", "artificial-intelligence", "programming", "algorithms"]
+repository = "https://github.com/apeman/awesome_computer_science"
+license = "MPL-2.0"
+added = 2026-10-20

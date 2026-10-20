@@ -1,0 +1,9 @@
+name = "data-juicer"
+description = "Data processing for and with foundation models!"
+category = "models"
+tags = ["data-analysis", "data-science", "large-language-models", "llm", "data-visualization", "llms", "instruction-tuning", "pre-training"]
+repository = "https://github.com/datajuicer/data-juicer"
+website = "https://datajuicer.github.io/data-juicer/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

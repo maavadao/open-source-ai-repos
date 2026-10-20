@@ -1,0 +1,8 @@
+name = "VisRAG"
+description = "Parsing-free RAG supported by VLMs"
+category = "documents"
+tags = ["rag", "retrieval", "retrieval-augmented-generation", "vision-language-model", "multi-modal", "multi-modality", "document-retrieval", "document-understanding"]
+repository = "https://github.com/OpenBMB/VisRAG"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

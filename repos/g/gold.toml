@@ -1,0 +1,8 @@
+name = "gold"
+description = "Reinforcement Learning in Go"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "golang", "reinforcementlearning", "go", "machine-learning"]
+repository = "https://github.com/aunum/gold"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

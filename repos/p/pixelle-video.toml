@@ -1,0 +1,9 @@
+name = "Pixelle-Video"
+description = "AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
+category = "speech"
+tags = ["aigc", "comfyui", "image-generation", "tts", "video-generation"]
+repository = "https://github.com/ATH-MaaS/Pixelle-Video"
+website = "https://aidc-ai.github.io/Pixelle-Video/zh"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

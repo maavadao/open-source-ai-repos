@@ -1,0 +1,8 @@
+name = "SegAnyGAussians"
+description = "The official implementation of Segment Any 3D GAussians (AAAI-25)"
+category = "vision"
+tags = ["3d-segmentation", "computer-vision", "gaussian-splatting", "segment-anything"]
+repository = "https://github.com/Jumpat/SegAnyGAussians"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "pro-chat"
+description = "Components Library for Quickly Building LLM Chat Interfaces."
+category = "chat"
+tags = ["ant-design", "pro-components", "pro-editor", "chat", "chatbot", "react"]
+repository = "https://github.com/ant-design/pro-chat"
+website = "https://pro-chat.antdigital.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

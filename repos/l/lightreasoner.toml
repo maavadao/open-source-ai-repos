@@ -1,0 +1,9 @@
+name = "LightReasoner"
+description = "[ACL 2026 Oral] \"LightReasoner: Can Small Language Models Teach Large Language Models Reasoning?\""
+category = "models"
+tags = ["large-language-models", "post-training", "reasoning-models", "token-efficiency"]
+repository = "https://github.com/HKUDS/LightReasoner"
+website = "https://arxiv.org/abs/2510.07962"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

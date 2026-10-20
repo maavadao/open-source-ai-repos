@@ -1,0 +1,9 @@
+name = "hub"
+description = "A library for transfer learning by reusing parts of TensorFlow models."
+category = "vision"
+tags = ["tensorflow", "machine-learning", "transfer-learning", "embeddings", "image-classification", "python", "ml"]
+repository = "https://github.com/tensorflow/hub"
+website = "https://tensorflow.org/hub"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

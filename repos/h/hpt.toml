@@ -1,0 +1,9 @@
+name = "HPT"
+description = "Heterogeneous Pre-trained Transformer (HPT) as Scalable Policy Learner."
+category = "robotics"
+tags = ["foundation-models", "heterogeneity", "hpt", "policy", "robotics"]
+repository = "https://github.com/liruiw/HPT"
+website = "https://liruiw.github.io/hpt"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

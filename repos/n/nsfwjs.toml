@@ -1,0 +1,9 @@
+name = "nsfwjs"
+description = "NSFW detection on the client-side via TensorFlow.js"
+category = "data-science"
+tags = ["machine-learning", "machinelearning", "javascript", "tensorflowjs", "tensorflow-js", "node-module", "content-management", "nsfw-recognition"]
+repository = "https://github.com/infinitered/nsfwjs"
+website = "https://nsfwjs.com/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

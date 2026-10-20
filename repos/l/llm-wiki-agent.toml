@@ -1,0 +1,8 @@
+name = "llm-wiki-agent"
+description = "A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude Code, Codex, OpenCode, Gemini CLI. No API key needed."
+category = "coding"
+tags = ["llm", "knowledge-base", "wiki", "claude-code", "knowledge-graph", "obsidian", "markdown", "codex"]
+repository = "https://github.com/SamurAIGPT/llm-wiki-agent"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

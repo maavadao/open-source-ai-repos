@@ -1,0 +1,8 @@
+name = "tiktoken-rs"
+description = "Ready-made tokenizer library for working with GPT and tiktoken"
+category = "other"
+tags = ["bpe", "openai", "rust", "tokenizer"]
+repository = "https://github.com/zurawiki/tiktoken-rs"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

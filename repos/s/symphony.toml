@@ -1,0 +1,8 @@
+name = "symphony"
+description = "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents."
+category = "coding"
+repository = "https://github.com/openai/symphony"
+website = "https://openai.com/index/open-source-codex-orchestration-symphony/"
+license = "Apache-2.0"
+language = "Elixir"
+added = 2026-10-20

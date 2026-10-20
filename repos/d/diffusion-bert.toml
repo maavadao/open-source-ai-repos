@@ -1,0 +1,8 @@
+name = "Diffusion-BERT"
+description = "ACL'2023: DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models"
+category = "image"
+tags = ["diffusion-models", "bert", "conditional-generation", "pretrained-language-model", "text-generation", "unconditional-generation"]
+repository = "https://github.com/Hzfinfdu/Diffusion-BERT"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

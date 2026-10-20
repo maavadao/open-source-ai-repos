@@ -1,0 +1,9 @@
+name = "ai-knowledge-graph"
+description = "AI Powered Knowledge Graph Generator"
+category = "llm-apps"
+tags = ["artificial-intelligence", "knowledge-distillation", "knowledge-graph", "llm", "networkx", "pyvis", "visualization"]
+repository = "https://github.com/robert-mcdermott/ai-knowledge-graph"
+website = "https://robert-mcdermott.medium.com/from-unstructured-text-to-interactive-knowledge-graphs-using-llms-dd02a1f71cd6"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

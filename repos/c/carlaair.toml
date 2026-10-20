@@ -1,0 +1,8 @@
+name = "CarlaAir"
+description = "CarlaAir: Fly Drones Inside a CARLA World!! A Unified Infrastructure for Air-Ground Embodied Intelligence"
+category = "robotics"
+tags = ["airsim", "autonomous-driving", "carla", "drone", "python", "robotics", "ros2", "simulation"]
+repository = "https://github.com/louiszengCN/CarlaAir"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

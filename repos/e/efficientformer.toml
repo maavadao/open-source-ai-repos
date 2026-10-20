@@ -1,0 +1,9 @@
+name = "EfficientFormer"
+description = "EfficientFormerV2 [ICCV 2023] & EfficientFormer [NeurIPs 2022]"
+category = "vision"
+tags = ["deep-learning", "detection", "efficient-inference", "efficient-neural-networks", "pytorch", "semantic-segmentation", "transformer", "imagenet"]
+repository = "https://github.com/snap-research/EfficientFormer"
+website = "https://arxiv.org/abs/2212.08059"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

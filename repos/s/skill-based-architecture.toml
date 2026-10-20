@@ -1,0 +1,8 @@
+name = "skill-based-architecture"
+description = "A meta-skill that produces skills. Point it at any codebase and it distills the project's rules, workflows, and hard-won lessons into a dedicated skills/<name>/ directory — a project skill that becomes the single source of truth every AI agent (Cursor, Claude Code, Codex…"
+category = "skills-prompts"
+tags = ["ai", "claude", "skill", "agent", "chatbot", "markdown", "spec"]
+repository = "https://github.com/WoJiSama/skill-based-architecture"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

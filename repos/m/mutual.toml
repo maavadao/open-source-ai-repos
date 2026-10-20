@@ -1,0 +1,9 @@
+name = "MuTual"
+description = "A Dataset for Multi-Turn Dialogue Reasoning"
+category = "chat"
+tags = ["dataset", "chatbot"]
+repository = "https://github.com/Nealcly/MuTual"
+website = "https://nealcly.github.io/MuTual-leaderboard/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

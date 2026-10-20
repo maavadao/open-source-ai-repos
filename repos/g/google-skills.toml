@@ -1,0 +1,8 @@
+name = "skills"
+description = "Agent Skills for Google products and technologies"
+category = "skills-prompts"
+tags = ["google", "googlecloud", "skills"]
+repository = "https://github.com/google/skills"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

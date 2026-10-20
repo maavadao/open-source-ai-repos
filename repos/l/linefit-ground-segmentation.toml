@@ -1,0 +1,8 @@
+name = "linefit_ground_segmentation"
+description = "Ground Segmentation from Lidar Point Clouds"
+category = "robotics"
+tags = ["lidar", "ros", "segmentation"]
+repository = "https://github.com/lorenwel/linefit_ground_segmentation"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

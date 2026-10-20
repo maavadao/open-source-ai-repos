@@ -1,0 +1,9 @@
+name = "pytorch_tabular"
+description = "A unified framework for Deep Learning Models on tabular data"
+category = "ml-platforms"
+tags = ["tabular-data", "deep-learning", "pytorch", "pytorch-lightning", "hacktoberfest", "machine-learning"]
+repository = "https://github.com/pytorch-tabular/pytorch_tabular"
+website = "https://pytorch-tabular.readthedocs.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

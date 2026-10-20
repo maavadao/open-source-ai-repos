@@ -1,0 +1,7 @@
+name = "Awesome-Knowledge-Distillation-of-LLMs"
+description = "This repository collects papers for \"A Survey on Knowledge Distillation of Large Language Models\". We break down KD into Knowledge Elicitation and Distillation Algorithms, and explore the Skill & Vertical Distillation of LLMs."
+category = "learning"
+tags = ["data-augmentation", "instruction-following", "kd", "knowledge-distillation", "large-language-model", "llm", "self-training", "survey"]
+repository = "https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs"
+license = "NOASSERTION"
+added = 2026-10-20

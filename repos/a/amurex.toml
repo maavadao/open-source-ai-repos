@@ -1,0 +1,9 @@
+name = "amurex"
+description = "World's first AI meeting copilot → The Invisible Companion for Work + Life"
+category = "coding"
+tags = ["chrome-extension", "copilot", "meetings", "transcriptions", "ai"]
+repository = "https://github.com/thepersonalaicompany/amurex"
+website = "https://chromewebstore.google.com/detail/amurex-early-preview/dckidmhhpnfhachdpobgfbjnhfnmddmc"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-10-20

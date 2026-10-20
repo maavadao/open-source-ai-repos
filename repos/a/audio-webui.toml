@@ -1,0 +1,8 @@
+name = "audio-webui"
+description = "A webui for different audio related Neural Networks"
+category = "speech"
+tags = ["ai", "audioldm", "bark", "rvc", "text-to-audio", "text-to-speech", "voice-cloning", "audiocraft"]
+repository = "https://github.com/gitmylo/audio-webui"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

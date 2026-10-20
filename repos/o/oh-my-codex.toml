@@ -1,0 +1,8 @@
+name = "oh-my-codex"
+description = "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more."
+category = "agents"
+repository = "https://github.com/Yeachan-Heo/oh-my-codex"
+website = "https://oh-my-codex.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ohmycaptcha"
+description = "Self-hostable YesCaptcha-compatible captcha solver built with FastAPI, Playwright, and OpenAI-compatible multimodal models."
+category = "browser-automation"
+tags = ["captcha", "fastapi", "multimodal", "openai-compatible", "playwright", "recaptcha", "self-hosted", "vision-models"]
+repository = "https://github.com/shenhao-stu/ohmycaptcha"
+website = "https://shenhao-stu.github.io/ohmycaptcha/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

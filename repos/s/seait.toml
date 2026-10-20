@@ -1,0 +1,8 @@
+name = "seait"
+description = "SEAIT is a user-friendly application that simplifies the installation process of AI-related projects"
+category = "image"
+tags = ["ai", "artificial-intelligence", "automatic1111", "install", "installation", "installer", "invokeai", "large-language-models"]
+repository = "https://github.com/diStyApps/seait"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

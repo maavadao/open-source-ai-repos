@@ -1,0 +1,8 @@
+name = "claude-code-guide"
+description = "Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks from beginner to power user!"
+category = "mcp-servers"
+tags = ["ai", "ai-agent", "ai-agent-tools", "claude", "claude-ai", "claude-api", "claude-code", "claude-code-communication"]
+repository = "https://github.com/zebbern/claude-code-guide"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

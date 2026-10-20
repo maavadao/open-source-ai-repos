@@ -1,0 +1,8 @@
+name = "awesome-ai-handbook"
+description = "A practical guide to AI: from running your first local model to building your own agents. 52 files covering LLMs, Ollama, RAG, prompt engineering, machine learning, AI agents, and local AI tools."
+category = "learning"
+tags = ["ai", "ai-agent", "ai-agents", "ai-coding", "ai-model", "ai-tools", "awesome-list", "embeddings"]
+repository = "https://github.com/bestdeejay-design/awesome-ai-handbook"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

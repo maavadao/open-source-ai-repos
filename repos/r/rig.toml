@@ -1,0 +1,9 @@
+name = "rig"
+description = "Build modular and scalable LLM Applications in Rust"
+category = "no-code"
+tags = ["ai", "llm", "agent", "artificial-intelligence", "automation", "large-language-model", "rust", "scalable-ai"]
+repository = "https://github.com/0xPlaygrounds/rig"
+website = "https://rig.rs"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

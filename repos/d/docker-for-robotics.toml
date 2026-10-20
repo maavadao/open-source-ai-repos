@@ -1,0 +1,8 @@
+name = "docker-for-robotics"
+description = "Collection of best practices for working with Docker/Docker-Compose and the Robot Operating System (ROS/ROS 2) in simulation as well as with hardware and real-time requirements"
+category = "learning"
+tags = ["best-practice", "best-practices", "docker", "docker-compose", "dockerfile", "graphic-user-interface", "gui", "guide"]
+repository = "https://github.com/2b-t/docker-for-robotics"
+license = "MIT"
+language = "Dockerfile"
+added = 2026-10-20

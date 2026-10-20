@@ -1,0 +1,9 @@
+name = "basjoo"
+description = "Open-source AI customer support platform — RAG knowledge base, multi-provider LLM agents, embeddable chat widget. FastAPI + Next.js + pgvector."
+category = "chat"
+tags = ["ai", "chatbot", "customer-support", "embeddable-widget", "fastapi", "nextjs", "rag", "sse-streaming"]
+repository = "https://github.com/haoyiyin/basjoo"
+website = "https://basjoo.de"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

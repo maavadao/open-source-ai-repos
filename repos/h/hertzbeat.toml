@@ -1,0 +1,9 @@
+name = "hertzbeat"
+description = "An AI-powered next-generation open source real-time observability system."
+category = "agents"
+tags = ["monitor", "monitoring", "prometheus", "self-hosted", "status", "status-page", "alerting", "database"]
+repository = "https://github.com/apache/hertzbeat"
+website = "https://hertzbeat.apache.org/"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

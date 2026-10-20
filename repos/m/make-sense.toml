@@ -1,0 +1,8 @@
+name = "make-sense"
+description = "Free to use online tool for labelling photos. https://makesense.ai"
+category = "vision"
+tags = ["deep-learning", "image-annotation", "detection", "tagging", "object-detection", "labeling-tool", "computer-vision", "landmark-detection"]
+repository = "https://github.com/SkalskiP/make-sense"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

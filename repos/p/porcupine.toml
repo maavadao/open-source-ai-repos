@@ -1,0 +1,9 @@
+name = "porcupine"
+description = "On-device wake word detection powered by deep learning"
+category = "speech"
+tags = ["wake-word-detection", "hotword", "keyword-spotting", "keyword-spotter", "wake-word", "wake-word-engine", "handsfree", "hotword-detection"]
+repository = "https://github.com/Picovoice/porcupine"
+website = "https://picovoice.ai/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

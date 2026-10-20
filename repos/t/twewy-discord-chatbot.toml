@@ -1,0 +1,9 @@
+name = "twewy-discord-chatbot"
+description = "Discord AI Chatbot using DialoGPT, trained on the game transcript of The World Ends With You"
+category = "chat"
+tags = ["discord", "discord-bot", "discord-py", "chatbot", "chatbot-application", "gpt2-chatbot", "gpt"]
+repository = "https://github.com/RuolinZheng08/twewy-discord-chatbot"
+website = "https://www.freecodecamp.org/news/discord-ai-chatbot/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

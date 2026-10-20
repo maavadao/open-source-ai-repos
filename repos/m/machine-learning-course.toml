@@ -1,0 +1,9 @@
+name = "machine-learning-course"
+description = "Machine Learning Course with Python"
+category = "learning"
+tags = ["python", "machine-learning", "machine-learning-algorithms", "artificial-intelligence", "algorithms"]
+repository = "https://github.com/instillai/machine-learning-course"
+website = "https://machine-learning-course.readthedocs.io/en/latest/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

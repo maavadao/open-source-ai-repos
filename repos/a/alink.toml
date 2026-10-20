@@ -1,0 +1,8 @@
+name = "Alink"
+description = "Alink is the Machine Learning algorithm platform based on Flink, developed by the PAI team of Alibaba computing platform."
+category = "data-science"
+tags = ["machine-learning", "flink", "classification", "clustering", "regression", "graph-algorithms", "xgboost", "recommender"]
+repository = "https://github.com/alibaba/Alink"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

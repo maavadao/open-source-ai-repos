@@ -1,0 +1,9 @@
+name = "any-auto-register"
+description = "Auto-register & manage accounts for ChatGPT, Cursor, Kiro, Grok, Windsurf, Trae & 13+ AI platforms · Protocol/browser dual-mode · Plugin-based · One-click Mac/Windows desktop app"
+category = "coding"
+tags = ["account-management", "account-registration", "ai", "ai-tools", "auto-register", "automation", "captcha-solver", "chatgpt"]
+repository = "https://github.com/lxf746/any-auto-register"
+website = "https://github.com/lxf746/any2api"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

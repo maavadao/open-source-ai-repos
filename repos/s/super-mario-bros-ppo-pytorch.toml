@@ -1,0 +1,8 @@
+name = "Super-mario-bros-PPO-pytorch"
+description = "Proximal Policy Optimization (PPO) algorithm for Super Mario Bros"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "ppo", "ppo2", "pytorch", "gym", "python3", "python", "deep-learning"]
+repository = "https://github.com/vietnh1009/Super-mario-bros-PPO-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

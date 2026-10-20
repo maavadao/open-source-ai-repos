@@ -1,0 +1,9 @@
+name = "clarity-upscaler"
+description = "Clarity AI | AI Image Upscaler & Enhancer - free and open-source Magnific Alternative"
+category = "image"
+tags = ["ai", "ai-art", "image-upscale", "image-upscaler", "image-upscaling", "image2image", "img2img", "stable-diffusion"]
+repository = "https://github.com/philz1337x/clarity-upscaler"
+website = "https://ClarityAI.co"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "iTransformer"
+description = "Unofficial implementation of iTransformer - SOTA Time Series Forecasting using Attention networks, out of Tsinghua / Ant group"
+category = "models"
+tags = ["artificial-intelligence", "attention-mechanisms", "deep-learning", "time-series-forecasting", "transformers"]
+repository = "https://github.com/lucidrains/iTransformer"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "mobilegym"
+description = "[EMNLP 2026] MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research · 浏览器里运行的安卓模拟器 · Browser-hosted Android Simulator · Verifiable Evaluation · Scalable Online RL Training"
+category = "no-code"
+tags = ["benchmark", "mobile-agent", "reinforcement-learning", "vlm", "agents", "gym", "llm", "llm-agents"]
+repository = "https://github.com/Purewhiter/mobilegym"
+website = "https://mobilegym.dev"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

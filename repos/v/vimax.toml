@@ -1,0 +1,9 @@
+name = "ViMax"
+description = "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\""
+category = "video"
+tags = ["agentic-aigc", "video-generation"]
+repository = "https://github.com/HKUDS/ViMax"
+website = "https://arxiv.org/abs/2606.07649"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

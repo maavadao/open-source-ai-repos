@@ -1,0 +1,9 @@
+name = "aerostack2"
+description = "Aerostack2 is a ROS 2 framework developed to create autonomous multi-aerial-robots systems in an easy and powerful way."
+category = "robotics"
+tags = ["ros2", "aerial-robotics", "drones", "robotics", "swarm-robotics", "uavs"]
+repository = "https://github.com/aerostack2/aerostack2"
+website = "https://aerostack2.github.io/"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

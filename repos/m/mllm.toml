@@ -1,0 +1,9 @@
+name = "mllm"
+description = "Fast Multimodal LLM on Mobile Devices"
+category = "models"
+tags = ["llama", "multimodal", "ai", "llm", "mobile"]
+repository = "https://github.com/UbiquitousLearning/mllm"
+website = "https://ubiquitouslearning.github.io/mllm/"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

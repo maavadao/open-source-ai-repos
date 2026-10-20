@@ -1,0 +1,9 @@
+name = "detecto"
+description = "Build fully-functioning computer vision models with PyTorch"
+category = "vision"
+tags = ["object-detection", "machine-learning", "computer-vision", "python", "pytorch", "faster-rcnn"]
+repository = "https://github.com/alankbi/detecto"
+website = "https://detecto.readthedocs.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

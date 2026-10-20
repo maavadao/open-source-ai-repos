@@ -1,0 +1,9 @@
+name = "AIstudioProxyAPI"
+description = "FastAPI + Playwright + Camoufox 中间层代理服务器，兼容OpenAI API且支持参数转发。项目通过浏览器自动化将API请求转发到 Google AI Studio Chat，并同样按照OpenAI标准格式返回的工具。内置调试WebUI面板。"
+category = "browser-automation"
+tags = ["camoufox", "google-ai-studio", "middleware", "openai-api", "playwright", "proxy", "python", "reverse-proxy"]
+repository = "https://github.com/CJackHwang/AIstudioProxyAPI"
+website = "https://linux.do/u/cjackhwang"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

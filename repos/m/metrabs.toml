@@ -1,0 +1,9 @@
+name = "metrabs"
+description = "Estimate absolute 3D human poses from RGB images."
+category = "vision"
+tags = ["human-pose-estimation", "tensorflow2", "deep-learning", "motion-capture", "computer-vision", "machine-learning", "tensorflow", "3d-human-pose"]
+repository = "https://github.com/isarandi/metrabs"
+website = "https://arxiv.org/abs/2007.07227"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

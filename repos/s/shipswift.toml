@@ -1,0 +1,9 @@
+name = "ShipSwift"
+description = "AI-native SwiftUI component library with full-stack recipes — connect via MCP for instant access."
+category = "mcp-servers"
+tags = ["ai", "animation", "chart", "component-library", "ios", "mcp", "swift", "swiftui"]
+repository = "https://github.com/signerlabs/ShipSwift"
+website = "https://shipswift.app"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

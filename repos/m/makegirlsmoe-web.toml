@@ -1,0 +1,9 @@
+name = "makegirlsmoe_web"
+description = "Create Anime Characters with MakeGirlsMoe"
+category = "ml-platforms"
+tags = ["deep-learning", "generative-adversarial-network", "anime", "reactjs", "react", "gan"]
+repository = "https://github.com/makegirlsmoe/makegirlsmoe_web"
+website = "http://make.girls.moe"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

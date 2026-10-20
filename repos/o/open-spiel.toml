@@ -1,0 +1,8 @@
+name = "open_spiel"
+description = "OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games."
+category = "ml-platforms"
+tags = ["games", "reinforcement-learning", "multiagent", "cpp", "python"]
+repository = "https://github.com/google-deepmind/open_spiel"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

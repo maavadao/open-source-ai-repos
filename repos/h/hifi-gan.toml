@@ -1,0 +1,8 @@
+name = "hifi-gan"
+description = "HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis"
+category = "speech"
+tags = ["speech-synthesis", "gan", "text-to-speech", "tts", "deep-learning", "hifi-gan", "pytorch", "vocoder"]
+repository = "https://github.com/jik876/hifi-gan"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

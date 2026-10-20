@@ -1,0 +1,9 @@
+name = "awesome-assistants"
+description = "A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below."
+category = "learning"
+tags = ["awesome-ai", "awesome-gpt", "awesome-gpts", "awesome-list", "bots", "chatbot", "chatgpt", "chatgpt-api"]
+repository = "https://github.com/awesome-assistants/awesome-assistants"
+website = "https://t.me/CamoChatBot"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

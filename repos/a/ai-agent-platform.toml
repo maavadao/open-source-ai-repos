@@ -1,0 +1,8 @@
+name = "ai-agent-platform"
+description = "企业级 AI Agent 平台 | Spring Boot 3 + LangChain4j | ReAct 推理 + 多路召回 RAG + 语义缓存 + 多智能体协作"
+category = "agents"
+tags = ["ai-agent", "docker", "java", "langchain4j", "llm", "milvus", "rag", "react-agent"]
+repository = "https://github.com/888newstep/ai-agent-platform"
+license = "NOASSERTION"
+language = "Java"
+added = 2026-10-20

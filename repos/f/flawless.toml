@@ -1,0 +1,8 @@
+name = "Flawless"
+description = "AI SRE AgenticOps for Kubernetes and cloud infrastructure."
+category = "mcp-servers"
+tags = ["agenticops", "ai", "aiops", "cloud", "cloud-native", "devops", "kubernetes", "llm"]
+repository = "https://github.com/William-Lu-stack/Flawless"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

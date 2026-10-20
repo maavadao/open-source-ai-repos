@@ -1,0 +1,9 @@
+name = "diagram-gpt"
+description = "Draw flowchart, sequence diagram, class diagram, user journey, gantt, C4C diagram with nature language."
+category = "chat"
+tags = ["chatgpt", "openai"]
+repository = "https://github.com/fraserxu/diagram-gpt"
+website = "https://diagram-gpt.fraserxu.dev"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

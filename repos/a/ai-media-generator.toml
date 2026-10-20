@@ -1,0 +1,7 @@
+name = "ai-media-generator"
+description = "Zero-skill cinema. Senior-director prompts on autopilot. A Claude Code Skill for high-quality AI image / video / music prompt crafting and browser-based execution across 14+ generative platforms."
+category = "coding"
+tags = ["ai-image", "ai-music", "ai-video", "claude-code", "claude-skill", "flux", "generative-ai", "kling"]
+repository = "https://github.com/Hao0321/ai-media-generator"
+license = "MIT"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "arctic"
+description = "[CVPR 2023] Official repository for downloading, processing, visualizing, and training models on the ARCTIC dataset."
+category = "video"
+tags = ["3d-reconstruction", "animation", "augmented-reality", "computer-graphics", "computer-vision", "hand-object-interaction", "mano", "pose-estimation"]
+repository = "https://github.com/zc-alexfan/arctic"
+website = "https://arctic.is.tue.mpg.de"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

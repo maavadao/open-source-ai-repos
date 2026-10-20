@@ -1,0 +1,8 @@
+name = "DeepDanbooru"
+description = "AI based multi-label girl image classification system, implemented by using TensorFlow."
+category = "ml-platforms"
+tags = ["danbooru", "tensorflow", "machine-learning"]
+repository = "https://github.com/KichangKim/DeepDanbooru"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

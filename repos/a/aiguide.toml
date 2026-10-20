@@ -1,0 +1,8 @@
+name = "AIGuide"
+description = "AI 应用开发、AI 编程实战与面试指南，涵盖 LLM、Agent、RAG、MCP、Claude Code、Codex 等核心技术与工程实践。"
+category = "mcp-servers"
+tags = ["ai", "ai-agents", "claude-code", "codex", "context-engineering", "cursor", "golang", "graphrag"]
+repository = "https://github.com/Snailclimb/AIGuide"
+website = "https://javaguide.cn/ai/"
+license = "NOASSERTION"
+added = 2026-10-20

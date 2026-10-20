@@ -1,0 +1,9 @@
+name = "llm4free"
+description = "LLM4Free — All-in-one Python toolkit for web search, AI interaction (40+ free providers), digital utilities, and more. Formerly WebScout."
+category = "speech"
+tags = ["ai", "python", "freeai", "openai", "text-generation", "websearch", "deepseek-r1", "chatgpt-free"]
+repository = "https://github.com/OEvortex/llm4free"
+website = "https://pypi.org/project/llm4free/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

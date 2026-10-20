@@ -1,0 +1,9 @@
+name = "feeds.fun"
+description = "News reader with tags, scoring, and LLM"
+category = "models"
+tags = ["feed", "feed-aggregator", "feed-reader", "news", "news-aggregator", "news-reader", "rss", "rss-aggregator"]
+repository = "https://github.com/Tiendil/feeds.fun"
+website = "https://feeds.fun"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

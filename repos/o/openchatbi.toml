@@ -1,0 +1,9 @@
+name = "openchatbi"
+description = "OpenChatBI is an intelligent chat-based BI tool powered by large language models, designed to help users query, analyze, and visualize data through natural language conversations. It uses LangGraph and LangChain to build chat agent and workflows that support natural language…"
+category = "agents"
+tags = ["agent", "ai", "analytics", "bi", "database", "datawarehouse", "gpt", "langchain"]
+repository = "https://github.com/zhongyu09/openchatbi"
+website = "https://zhongyu09.github.io/openchatbi/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "AI-Infra-from-Zero-to-Hero"
+description = "Awesome System for Machine Learning AI System Papers and Industry Practice. System for Machine Learning, LLM (Large Language Model), GenAI (Generative AI). OSDI, NSDI, SIGCOMM, SoCC, MLSys, etc. Llama3, Mistral, etc. Video Tutorials."
+category = "learning"
+tags = ["large-language-models", "ai-infra", "genai", "mlsys", "model-serving", "model-training", "llmsys"]
+repository = "https://github.com/HuaizhengZhang/AI-Infra-from-Zero-to-Hero"
+website = "https://huaizheng.xyz/"
+license = "MIT"
+added = 2026-10-20

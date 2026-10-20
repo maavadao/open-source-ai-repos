@@ -1,0 +1,9 @@
+name = "course-content"
+description = "NMA Computational Neuroscience course"
+category = "learning"
+tags = ["neuroscience", "machine-learning", "dynamic-systems", "stochastic-processes"]
+repository = "https://github.com/NeuromatchAcademy/course-content"
+website = "https://compneuro.neuromatch.io"
+license = "CC-BY-4.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "LLM-Hub"
+description = "Local LLM, image&video&music generator, run codex with local models on your phone"
+category = "coding"
+tags = ["ai", "llama", "llm", "phi4", "rag", "granite", "lfm25", "mistral"]
+repository = "https://github.com/timmyy123/LLM-Hub"
+website = "https://llm-hub.app"
+license = "NOASSERTION"
+language = "C"
+added = 2026-10-20

@@ -1,0 +1,10 @@
+name = "crewAI"
+description = "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks."
+category = "agents"
+tags = ["agents", "ai", "ai-agents", "llms", "aiagentframework"]
+repository = "https://github.com/crewAIInc/crewAI"
+website = "https://www.crewai.com"
+license = "MIT"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

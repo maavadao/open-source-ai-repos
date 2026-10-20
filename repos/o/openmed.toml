@@ -1,0 +1,9 @@
+name = "openmed"
+description = "Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed PII languages, and Python, MLX, Android and browser runtimes. Apache-2.0 SDK."
+category = "local-llms"
+tags = ["healthcare", "llm", "on-device", "on-premise", "sovereign-ai", "mlx", "swift", "ios"]
+repository = "https://github.com/maziyarpanahi/openmed"
+website = "https://openmed.life/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

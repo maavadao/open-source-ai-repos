@@ -1,0 +1,8 @@
+name = "tensorflow-onnx"
+description = "Convert TensorFlow, Keras, Tensorflow.js and Tflite models to ONNX"
+category = "ml-platforms"
+tags = ["tensorflow", "onnx", "export", "convert", "keras", "tflite", "tensorflowjs", "deep-learning"]
+repository = "https://github.com/onnx/tensorflow-onnx"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

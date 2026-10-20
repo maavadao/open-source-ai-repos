@@ -1,0 +1,9 @@
+name = "supavec"
+description = "The open-source alternative to Carbon.ai. Build powerful RAG applications with any data source, at any scale."
+category = "llm-apps"
+tags = ["nextjs", "rag", "typescript", "tailwindcss", "ai"]
+repository = "https://github.com/supavec/supavec"
+website = "https://www.supavec.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

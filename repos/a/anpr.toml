@@ -1,0 +1,8 @@
+name = "ANPR"
+description = "license plate detection and recognition"
+category = "documents"
+tags = ["licence-plates-recognition", "plate-detection", "anpr", "yolo", "deep-learning", "cnn", "plate-recognition", "tunisian-license-plates"]
+repository = "https://github.com/GuiltyNeuron/ANPR"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

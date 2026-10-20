@@ -1,0 +1,8 @@
+name = "ai-engineering-cheatsheets"
+description = "Give you decision-ready references for the most common AI engineering problems"
+category = "agents"
+tags = ["agent", "agentic-ai", "agentic-ai-development", "agents", "ai", "ai-agents", "ai-engineer", "ai-engineering"]
+repository = "https://github.com/louisfb01/ai-engineering-cheatsheets"
+website = "https://academy.towardsai.net/?ref=1f9b29"
+license = "NOASSERTION"
+added = 2026-10-20

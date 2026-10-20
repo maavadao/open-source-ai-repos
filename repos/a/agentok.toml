@@ -1,0 +1,9 @@
+name = "agentok"
+description = "AG2 Visualized - Build Multi-Agentic Apps with Drag-and-Drop."
+category = "agents"
+tags = ["autogen", "artificial-intelligence", "llm", "openai", "gpt", "ag2", "multi-agent", "deepseek"]
+repository = "https://github.com/lyuai/agentok"
+website = "http://studio.agentok.ai/"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

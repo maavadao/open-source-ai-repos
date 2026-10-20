@@ -1,0 +1,8 @@
+name = "awesome-deep-learning-music"
+description = "List of articles related to deep learning applied to music"
+category = "learning"
+tags = ["awesome", "awesome-list", "unicorns", "list", "lists", "resources", "deeplearning", "deep-learning"]
+repository = "https://github.com/ybayle/awesome-deep-learning-music"
+license = "MIT"
+language = "TeX"
+added = 2026-10-20

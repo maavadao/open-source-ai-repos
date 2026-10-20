@@ -1,0 +1,8 @@
+name = "talk-to-girlfriend-ai"
+description = "ai agent that could talk to my gf thru my mac. went viral got like 20m views"
+category = "mcp-servers"
+tags = ["ai", "ai-agents", "indexing", "mcp"]
+repository = "https://github.com/arlanrakh/talk-to-girlfriend-ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

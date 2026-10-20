@@ -1,0 +1,9 @@
+name = "zhusuan"
+description = "A probabilistic programming library for Bayesian deep learning, generative models, based on Tensorflow"
+category = "ml-platforms"
+tags = ["bayesian-inference", "probabilistic-programming", "graphical-models", "generative-models", "deep-learning"]
+repository = "https://github.com/thu-ml/zhusuan"
+website = "http://zhusuan.readthedocs.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

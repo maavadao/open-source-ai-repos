@@ -1,0 +1,9 @@
+name = "zeroboot"
+description = "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking"
+category = "agents"
+tags = ["ai-agents", "code-execution", "firecracker", "kvm", "rust", "sandbox", "vm", "copy-on-write"]
+repository = "https://github.com/zerobootdev/zeroboot"
+website = "https://zeroboot.dev"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

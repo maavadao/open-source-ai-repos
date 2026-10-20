@@ -1,0 +1,8 @@
+name = "alphafold2"
+description = "To eventually become an unofficial Pytorch implementation / replication of Alphafold2, as details of the architecture get released"
+category = "ml-platforms"
+tags = ["artificial-intelligence", "deep-learning", "protein-folding", "attention-mechanism"]
+repository = "https://github.com/lucidrains/alphafold2"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

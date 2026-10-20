@@ -1,0 +1,9 @@
+name = "SWE-AF"
+description = "Autonomous software engineering fleet of AI agents for production-grade PRs on AgentField: plan, code, test, and ship."
+category = "coding"
+tags = ["agent-factory", "ai-factory", "claude-code", "code-generation", "codex", "coding-agent", "gemini-cli", "llm"]
+repository = "https://github.com/Agent-Field/SWE-AF"
+website = "https://agentfield.ai/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "claude-code-book"
+description = "《御舆：解码 Agent Harness》42万字拆解 AI Agent 的Harness骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harness。在线阅读网站："
+category = "mcp-servers"
+tags = ["agent", "agent-architecture", "ai-agent", "anthropic", "book", "chinese", "claude-code", "llm"]
+repository = "https://github.com/lintsinghua/claude-code-book"
+website = "https://lintsinghua.github.io"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "rag-time"
+description = "RAG Time: A 5-week Learning Journey to Mastering RAG"
+category = "vector-databases"
+tags = ["ai", "gpt", "hybrid-search", "language-model", "openai", "rag", "vector-search", "binary-quantization"]
+repository = "https://github.com/microsoft/rag-time"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

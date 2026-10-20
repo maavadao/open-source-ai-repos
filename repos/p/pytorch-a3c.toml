@@ -1,0 +1,8 @@
+name = "pytorch-a3c"
+description = "PyTorch implementation of Asynchronous Advantage Actor Critic (A3C) from \"Asynchronous Methods for Deep Reinforcement Learning\"."
+category = "ml-platforms"
+tags = ["python", "reinforcement-learning", "pytorch", "deep-learning", "actor-critic", "a3c", "pytorch-a3c", "asynchronous-methods"]
+repository = "https://github.com/ikostrikov/pytorch-a3c"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

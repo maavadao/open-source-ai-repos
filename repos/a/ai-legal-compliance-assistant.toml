@@ -1,0 +1,9 @@
+name = "ai-legal-compliance-assistant"
+description = "AI-powered legal compliance assistant for alcohol beverage pricing laws — extracts, analyzes, and explains New York state-level regulationsusing RAG + knowledge-graph reasoning."
+category = "llm-apps"
+tags = ["compliance", "fastapi", "knowledge-graph", "legal-ai", "llm", "nlp", "python", "rag"]
+repository = "https://github.com/Ramseygithub/ai-legal-compliance-assistant"
+website = "http://0.0.0.0:8000/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

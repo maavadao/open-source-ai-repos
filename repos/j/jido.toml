@@ -1,0 +1,9 @@
+name = "jido"
+description = "Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows."
+category = "no-code"
+tags = ["elixir", "workflow", "event-driven-architecture", "orchestration", "agent-framework", "ai-agents", "core", "elixir-package"]
+repository = "https://github.com/agentjido/jido"
+website = "https://jido.run"
+license = "Apache-2.0"
+language = "Elixir"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "distribution-is-all-you-need"
+description = "The basic distribution probability Tutorial for Deep Learning Researchers"
+category = "learning"
+tags = ["deep-learning", "mathmatics", "probability", "gaussian", "distribution"]
+repository = "https://github.com/graykode/distribution-is-all-you-need"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

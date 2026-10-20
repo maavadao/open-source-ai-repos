@@ -1,0 +1,9 @@
+name = "openyak"
+description = "One chat. Every agent. A universal interface for AI agents running on your computer."
+category = "mcp-servers"
+tags = ["agent", "agentic-ai", "desktop-application", "open-source", "ai-agent", "local-first", "acp", "agent-client-protocol"]
+repository = "https://github.com/openyak/openyak"
+website = "https://open-yak.com/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

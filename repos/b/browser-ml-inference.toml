@@ -1,0 +1,9 @@
+name = "browser-ml-inference"
+description = "Edge Inference in Browser with Transformer NLP model"
+category = "models"
+tags = ["nlp", "edge-computing", "transformers", "huggingface", "cloudflare-pages", "onnx", "onnx-runtime", "react"]
+repository = "https://github.com/jobergum/browser-ml-inference"
+website = "https://aiserv.cloud/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

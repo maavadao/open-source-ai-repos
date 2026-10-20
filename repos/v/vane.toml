@@ -1,0 +1,9 @@
+name = "Vane"
+description = "Vane is an AI-powered answering engine."
+category = "search"
+tags = ["ai-search-engine", "search-engine", "open-source-ai-search-engine", "perplexica", "artificial-intelligence", "machine-learning", "searxng", "searxng-copilot"]
+repository = "https://github.com/ItzCrazyKns/Vane"
+license = "MIT"
+language = "TypeScript"
+skill_level = "intermediate"
+added = 2026-10-20

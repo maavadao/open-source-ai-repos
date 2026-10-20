@@ -1,0 +1,9 @@
+name = "openlegion"
+description = "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that can do everything a human can do."
+category = "mcp-servers"
+tags = ["agent-framework", "ai-agents", "autonomous-agents", "llm-agents", "multi-agent", "openclaw-alternative", "self-hosted", "openclaw"]
+repository = "https://github.com/openlegion-ai/openlegion"
+website = "https://openlegion.ai"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

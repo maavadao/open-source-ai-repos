@@ -1,0 +1,9 @@
+name = "gaianet-node"
+description = "Install, run and deploy your own decentralized AI agent service"
+category = "mcp-servers"
+tags = ["agentic-ai", "agentic-framework", "ai", "ai-agents", "chatbot", "decentralized", "ethereum", "machine-learning"]
+repository = "https://github.com/GaiaNet-AI/gaianet-node"
+website = "https://www.gaianet.ai/"
+license = "GPL-3.0"
+language = "Shell"
+added = 2026-10-20

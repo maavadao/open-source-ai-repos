@@ -1,0 +1,9 @@
+name = "quant-mind"
+description = "QuantMind is an open source agent-native knowledge extraction and retrieval framework for quantitative finance."
+category = "no-code"
+tags = ["quantitative-finance", "quantitative-research", "data", "knowledge", "llm", "pipeline", "workflow", "agent"]
+repository = "https://github.com/LLMQuant/quant-mind"
+website = "http://llmquantdata.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

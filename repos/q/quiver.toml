@@ -1,0 +1,9 @@
+name = "quiver"
+description = "Interactive convnet features visualization for Keras"
+category = "ml-platforms"
+tags = ["deep-learning", "convolutional-neural-networks", "visualization"]
+repository = "https://github.com/keplr-io/quiver"
+website = "https://keplr-io.github.io/quiver/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "attyx"
+description = "GPU accelerated terminal for agentic workflows"
+category = "no-code"
+tags = ["gpu", "kitty-graphics", "terminal", "terminal-emulator", "zig", "linux", "macos", "kitty-keyboard"]
+repository = "https://github.com/semos-labs/attyx"
+website = "https://attyx.sh"
+license = "MIT"
+language = "Zig"
+added = 2026-10-20

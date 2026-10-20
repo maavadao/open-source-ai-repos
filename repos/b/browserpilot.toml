@@ -1,0 +1,8 @@
+name = "browserpilot"
+description = "Natural language browser automation"
+category = "browser-automation"
+tags = ["browser-automation", "generative-ai", "gpt-3", "robotic-process-automation", "rpa", "selenium", "selenium-python"]
+repository = "https://github.com/handrew/browserpilot"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

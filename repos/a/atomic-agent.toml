@@ -1,0 +1,9 @@
+name = "atomic-agent"
+description = "Atomic Agent is a local-first AI agent. Runs open-weight models on your own machine via llama.cpp."
+category = "mcp-servers"
+tags = ["agents", "ai-agent", "browser-automation", "cli", "gguf", "llama-cpp", "llm", "local-first"]
+repository = "https://github.com/AtomicBot-ai/atomic-agent"
+website = "https://atomicagent.io"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

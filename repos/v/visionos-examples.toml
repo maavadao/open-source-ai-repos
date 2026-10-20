@@ -1,0 +1,9 @@
+name = "visionOS-examples"
+description = "visionOS examples ⸺ Spatial Computing Accelerators for Apple Vision Pro"
+category = "chat"
+tags = ["apple-vision-pro", "spatial-computing", "swiftui", "visionos", "lm-studio", "ai", "chatgpt", "augmented-reality"]
+repository = "https://github.com/IvanCampos/visionOS-examples"
+website = "https://ivancampos.com"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

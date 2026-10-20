@@ -1,0 +1,8 @@
+name = "Beginner-Data-Science-Projects"
+description = "This repository is a curated collection of hands-on data science projects tailored for beginners. Whether you're just starting your journey in data science or looking to strengthen your skills, these projects provide a practical and interactive way to apply your knowledge."
+category = "learning"
+tags = ["artificial-intelligence", "data-science", "deep-learning", "machine-learning", "neural-network"]
+repository = "https://github.com/tkarim45/Beginner-Data-Science-Projects"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

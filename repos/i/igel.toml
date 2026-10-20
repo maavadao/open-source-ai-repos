@@ -1,0 +1,9 @@
+name = "igel"
+description = "a delightful machine learning tool that allows you to train, test, and use models without writing code"
+category = "no-code"
+tags = ["machine-learning", "machinelearning", "machine-learning-algorithms", "machine-learning-library", "artificial-intelligence", "neural-network", "neural-networks", "sklearn"]
+repository = "https://github.com/nidhaloff/igel"
+website = "https://igel.readthedocs.io/en/latest/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

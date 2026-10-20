@@ -1,0 +1,9 @@
+name = "catalyst"
+description = "Accelerated deep learning R&D"
+category = "vision"
+tags = ["deep-learning", "reinforcement-learning", "machine-learning", "computer-vision", "pytorch", "python", "distributed-computing", "infrastructure"]
+repository = "https://github.com/catalyst-team/catalyst"
+website = "https://catalyst-team.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

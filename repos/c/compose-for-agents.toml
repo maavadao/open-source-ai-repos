@@ -1,0 +1,8 @@
+name = "compose-for-agents"
+description = "Build and run AI agents using Docker Compose. A collection of ready-to-use examples for orchestrating open-source LLMs, tools, and agent runtimes."
+category = "local-llms"
+tags = ["agentic-workflows", "ai-agents", "docker", "docker-compose", "examples", "large-language-models", "llama-cpp", "openai-gym"]
+repository = "https://github.com/docker/compose-for-agents"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

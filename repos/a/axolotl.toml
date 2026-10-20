@@ -1,0 +1,10 @@
+name = "axolotl"
+description = "Go ahead and axolotl questions"
+category = "ml-platforms"
+tags = ["fine-tuning", "llm"]
+repository = "https://github.com/axolotl-ai-cloud/axolotl"
+website = "https://docs.axolotl.ai"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "advanced"
+added = 2026-10-20

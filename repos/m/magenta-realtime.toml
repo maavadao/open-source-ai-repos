@@ -1,0 +1,9 @@
+name = "magenta-realtime"
+description = "Magenta RealTime 2: An Open-Weights Live Music Model"
+category = "speech"
+tags = ["jax", "machine-learning", "mlx", "music", "real-time"]
+repository = "https://github.com/magenta/magenta-realtime"
+website = "https://magenta.withgoogle.com/magenta-realtime-2"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

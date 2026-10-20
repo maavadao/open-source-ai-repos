@@ -1,0 +1,9 @@
+name = "yu-ai-code-mother"
+description = "编程导航 AI + 微服务全栈新项目，基于 Spring Boot 3 + LangChain4j 的大厂 AI 应用生成平台，支持多种模式的智能代码生成、可视化编辑预览、一键部署分享、应用管理、AI 智能路由等。覆盖 AI 智能体开发、LangGraph4j 工作流、Tool Calling、SSE、Vue 3 全栈开发、Spring Cloud 微服务架构、MySQL / Redis / COS / Caffeine 存储、Nginx、多种设计模式、ARMS + Prometheus + Grafana 监控、Cursor Vibe…"
+category = "models"
+tags = ["java", "ai", "backend", "deepseek", "frontend", "langchain4j", "langgraph4j", "mysql"]
+repository = "https://github.com/liyupi/yu-ai-code-mother"
+website = "https://www.codefather.cn/course/1948291549923344386"
+license = "NOASSERTION"
+language = "Java"
+added = 2026-10-20

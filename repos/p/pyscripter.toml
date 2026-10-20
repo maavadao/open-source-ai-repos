@@ -1,0 +1,8 @@
+name = "pyscripter"
+description = "Pyscripter is a feature-rich but lightweight Python IDE"
+category = "models"
+tags = ["python", "ide", "editor", "debugger", "llm"]
+repository = "https://github.com/lmbelo/pyscripter"
+license = "MIT"
+language = "Pascal"
+added = 2026-10-20

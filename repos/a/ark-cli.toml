@@ -1,0 +1,9 @@
+name = "ark-cli"
+description = "The fastest way to put Volcengine Ark in your terminal and your AI agent — go from prompt to generated media, multimodal answer, or deployed endpoint in a single command, no API glue code."
+category = "video"
+tags = ["ai-agent", "ai-skills", "ark", "cli", "doubao", "llm", "multimodal", "text-to-image"]
+repository = "https://github.com/volcengine/ark-cli"
+website = "https://console.volcengine.com/ark/region:cn-beijing/arkcli"
+license = "Apache-2.0"
+language = "jq"
+added = 2026-10-20

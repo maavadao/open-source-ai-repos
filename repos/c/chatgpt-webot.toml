@@ -1,0 +1,8 @@
+name = "ChatGPT-weBot"
+description = "Chat with ChatGPT (gpt-3.5 or newer)，WeChat hook interface based"
+category = "image"
+tags = ["chatgpt", "wechatbot", "updates-api", "bot", "stable-diffusion", "wechat"]
+repository = "https://github.com/SnapdragonLee/ChatGPT-weBot"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

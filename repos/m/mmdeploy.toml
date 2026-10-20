@@ -1,0 +1,9 @@
+name = "mmdeploy"
+description = "OpenMMLab Model Deployment Framework"
+category = "vision"
+tags = ["model-converter", "sdk", "deployment", "tensorrt", "ncnn", "pplnn", "openvino", "onnxruntime"]
+repository = "https://github.com/open-mmlab/mmdeploy"
+website = "https://mmdeploy.readthedocs.io/en/latest/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

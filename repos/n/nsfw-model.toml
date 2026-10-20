@@ -1,0 +1,8 @@
+name = "nsfw_model"
+description = "Keras model of NSFW detector"
+category = "ml-platforms"
+tags = ["keras", "nsfw-data", "machine-learning", "machinelearning", "inceptionv3", "inception-v3"]
+repository = "https://github.com/GantMan/nsfw_model"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

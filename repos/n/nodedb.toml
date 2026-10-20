@@ -1,0 +1,9 @@
+name = "nodedb"
+description = "The memory & storage engine for AI agents. Multi-model, edge-to-cloud, PostgreSQL-compatible."
+category = "agents"
+tags = ["graph", "rag", "timeseries", "vector", "database", "distributed", "kv-store", "local"]
+repository = "https://github.com/NodeDB-Lab/nodedb"
+website = "https://nodedb.dev"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

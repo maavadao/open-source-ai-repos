@@ -1,0 +1,9 @@
+name = "agmsg"
+description = "Cross-vendor messaging for CLI AI coding agents — let Claude Code, Codex, Gemini & Copilot talk to each other in one team. Bash + SQLite, no daemon, no framework."
+category = "coding"
+tags = ["agent-communication", "agent-teams", "agentic", "ai-agents", "bash", "claude-code", "cli", "codex"]
+repository = "https://github.com/fujibee/agmsg"
+website = "https://www.producthunt.com/products/agmsg"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

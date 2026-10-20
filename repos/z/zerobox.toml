@@ -1,0 +1,8 @@
+name = "zerobox"
+description = "Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls."
+category = "mcp-servers"
+tags = ["ai-agents", "openclaw", "process-isolation", "sandbox", "security", "vault", "rust", "llm"]
+repository = "https://github.com/afshinm/zerobox"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

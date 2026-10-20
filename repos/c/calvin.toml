@@ -1,0 +1,9 @@
+name = "calvin"
+description = "CALVIN - A benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks"
+category = "robotics"
+tags = ["natural-language-processing", "robotics", "deep-learning", "grounding", "vision-language", "manipulation", "computer-vision", "pytorch"]
+repository = "https://github.com/mees/calvin"
+website = "http://calvin.cs.uni-freiburg.de"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

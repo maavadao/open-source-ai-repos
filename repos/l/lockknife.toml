@@ -1,0 +1,9 @@
+name = "LockKnife"
+description = "LockKnife: The Ultimate Android Security Research Tool. A unified TUI workspace and headless CLI for deep Android security research, built for researchers and hackers. Powered by Python orchestration and a Rust-accelerated core, enabling AI agent–driven hacking, credential…"
+category = "agents"
+tags = ["adb", "android-hacking", "android-security", "foss", "open-source", "ai-agents", "ai-hacking", "android-forensics"]
+repository = "https://github.com/ImKKingshuk/LockKnife"
+website = "https://lockknife.vercel.app"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

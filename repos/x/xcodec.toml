@@ -1,0 +1,8 @@
+name = "xcodec"
+description = "AAAI 2025: Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model"
+category = "speech"
+tags = ["audio", "audio-codec", "codec", "music", "sound", "speech", "text-to-music", "text-to-sound"]
+repository = "https://github.com/zhenye234/xcodec"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

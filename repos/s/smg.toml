@@ -1,0 +1,9 @@
+name = "smg"
+description = "Engine-agnostic LLM gateway in Rust. Full OpenAI & Anthropic API compatibility across vLLM, TRT-LLM, TokenSpeed, SGLang, OpenAI, Gemini & more. Industry-first gRPC pipeline, KV cache-aware routing, chat history, tokenization caching, Responses API, embeddings, WASM plugins…"
+category = "mcp-servers"
+tags = ["anthropic", "claude", "gemini", "inference-gateway", "llm", "openai", "routing", "sglang"]
+repository = "https://github.com/smg-project/smg"
+website = "https://lightseek.org/smg"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

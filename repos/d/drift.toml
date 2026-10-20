@@ -1,0 +1,8 @@
+name = "drift"
+description = "Codebase intelligence for AI. Detects patterns & conventions + remembers decisions across sessions. MCP server for any IDE. Offline CLI."
+category = "mcp-servers"
+tags = ["ai-tools", "cli", "code-quality", "csharp", "java", "mcp", "mcp-server", "model-context-protocol"]
+repository = "https://github.com/dadbodgeoff/drift"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

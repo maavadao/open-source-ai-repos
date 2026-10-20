@@ -1,0 +1,9 @@
+name = "Lance"
+description = "A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing."
+category = "video"
+tags = ["image-editing", "image-generation", "image-understanding", "video-generation", "video-understanding", "unified-multimodal-models"]
+repository = "https://github.com/bytedance/Lance"
+website = "https://lance-project.github.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

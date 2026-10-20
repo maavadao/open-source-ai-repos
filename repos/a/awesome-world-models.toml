@@ -1,0 +1,7 @@
+name = "Awesome-World-Models"
+description = "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling."
+category = "learning"
+tags = ["awesome-list", "dynamical-systems", "embodied-ai", "generative-model", "world-models"]
+repository = "https://github.com/knightnemo/Awesome-World-Models"
+license = "BSD-3-Clause"
+added = 2026-10-20

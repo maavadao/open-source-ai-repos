@@ -1,0 +1,8 @@
+name = "boss-skill"
+description = "Boss Skill - BMAD 全自动研发流水线（多 Agent 编排）"
+category = "skills-prompts"
+tags = ["ai-agents", "bmad", "bmad-workflow", "claude-code", "cursor", "skill", "trae"]
+repository = "https://github.com/echoVic/boss-skill"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

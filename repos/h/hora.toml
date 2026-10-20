@@ -1,0 +1,9 @@
+name = "hora"
+description = "efficient approximate nearest neighbor search algorithm collections library written in Rust ."
+category = "vector-databases"
+tags = ["search-engine", "rust", "approximate-nearest-neighbor-search", "artificial-intelligence", "recommender-system", "image-search", "vector-search", "algorithm"]
+repository = "https://github.com/hora-search/hora"
+website = "http://horasearch.com/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

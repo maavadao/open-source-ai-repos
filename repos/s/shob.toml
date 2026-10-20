@@ -1,0 +1,9 @@
+name = "shob"
+description = "Shob – an AI agent that delivers high-quality coding & automation work"
+category = "mcp-servers"
+tags = ["ai-agents", "claude-code", "cli", "codex", "opencode", "anthropic", "antigravity", "codex-cli"]
+repository = "https://github.com/shobcoder/shob"
+website = "https://shob.olova.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

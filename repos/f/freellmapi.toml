@@ -1,0 +1,8 @@
+name = "freellmapi"
+description = "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
+category = "models"
+repository = "https://github.com/tashfeenahmed/freellmapi"
+website = "https://freellmapi.co"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

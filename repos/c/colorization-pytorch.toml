@@ -1,0 +1,9 @@
+name = "colorization-pytorch"
+description = "PyTorch reimplementation of Interactive Deep Colorization"
+category = "vision"
+tags = ["convolutional-neural-networks", "computer-vision", "computer-graphics", "pytorch", "image-colorization", "siggraph", "deep-learning"]
+repository = "https://github.com/richzhang/colorization-pytorch"
+website = "https://richzhang.github.io/ideepcolor/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

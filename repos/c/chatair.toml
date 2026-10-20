@@ -1,0 +1,8 @@
+name = "chatAir"
+description = "A native Android app for ChatGPT, Gemini, Claude, and DeepSeek ChatGPT、Gemini、Claude 和 DeepSeek 的原生安卓应用程序"
+category = "chat"
+tags = ["ai", "chatgpt", "gemini", "openai", "android", "openrouter", "claude", "deepseek"]
+repository = "https://github.com/flyun/chatAir"
+license = "GPL-3.0"
+language = "Java"
+added = 2026-10-20

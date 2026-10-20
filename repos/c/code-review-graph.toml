@@ -1,0 +1,9 @@
+name = "code-review-graph"
+description = "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows."
+category = "mcp-servers"
+tags = ["ai-coding", "claude", "claude-code", "code-review", "graphrag", "incremental", "knowledge-graph", "llm"]
+repository = "https://github.com/tirth8205/code-review-graph"
+website = "https://code-review-graph.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

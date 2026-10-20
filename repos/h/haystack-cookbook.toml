@@ -1,0 +1,9 @@
+name = "haystack-cookbook"
+description = "🏻 A collection of example notebooks using Haystack"
+category = "learning"
+tags = ["agentic", "agentic-ai", "agents", "ai", "ai-tools", "genai", "genai-usecases", "haystack-ai"]
+repository = "https://github.com/deepset-ai/haystack-cookbook"
+website = "https://haystack.deepset.ai/cookbook"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

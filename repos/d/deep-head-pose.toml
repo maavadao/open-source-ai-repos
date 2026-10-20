@@ -1,0 +1,8 @@
+name = "deep-head-pose"
+description = "Deep Learning Head Pose Estimation using PyTorch."
+category = "ml-platforms"
+tags = ["head-pose-estimation", "head-pose", "face-pose", "gaze-estimation", "gaze", "head", "deep-learning", "deep-neural-networks"]
+repository = "https://github.com/natanielruiz/deep-head-pose"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

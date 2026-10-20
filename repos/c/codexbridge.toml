@@ -1,0 +1,8 @@
+name = "CodexBridge"
+description = "WeChat-to-Codex bridge for running Codex app-server from chat, with threads, slash commands, approvals, agents, automation, uploads, and assistant records."
+category = "coding"
+tags = ["ai-agent", "assistant", "automation", "bridge", "chatbot", "codex", "codex-app-server", "developer-tools"]
+repository = "https://github.com/Gan-Xing/CodexBridge"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

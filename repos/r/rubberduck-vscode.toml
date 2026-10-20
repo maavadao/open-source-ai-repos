@@ -1,0 +1,9 @@
+name = "rubberduck-vscode"
+description = "Use AI-powered code edits, explanations, code generation, error diagnosis, and chat in Visual Studio Code with the official OpenAI API."
+category = "chat"
+tags = ["vscode", "vscode-extension", "visual-studio-code", "ai", "chatbot", "chatgpt", "gpt3", "openai"]
+repository = "https://github.com/lgrammel/rubberduck-vscode"
+website = "https://marketplace.visualstudio.com/items?itemName=Rubberduck.rubberduck-vscode"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

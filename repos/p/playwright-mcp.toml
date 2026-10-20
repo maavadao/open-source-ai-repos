@@ -1,0 +1,10 @@
+name = "playwright-mcp"
+description = "Playwright MCP server"
+category = "browser-automation"
+tags = ["mcp", "playwright"]
+repository = "https://github.com/microsoft/playwright-mcp"
+website = "https://www.npmjs.com/package/@playwright/mcp"
+license = "Apache-2.0"
+language = "TypeScript"
+skill_level = "intermediate"
+added = 2026-10-20

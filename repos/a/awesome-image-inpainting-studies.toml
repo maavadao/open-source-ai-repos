@@ -1,0 +1,8 @@
+name = "awesome-image-inpainting-studies"
+description = "A collection of awesome image inpainting studies."
+category = "learning"
+tags = ["diffusion-models", "generative-adversarial-networks", "image-inpainting", "interactive-image-inpainting", "paper-list"]
+repository = "https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies"
+license = "MIT"
+language = "TeX"
+added = 2026-10-20

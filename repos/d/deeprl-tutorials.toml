@@ -1,0 +1,8 @@
+name = "DeepRL-Tutorials"
+description = "Contains high quality implementations of Deep Reinforcement Learning algorithms written in PyTorch"
+category = "learning"
+tags = ["python3", "pytorch", "reinforcement-learning", "deep-reinforcement-learning", "deep-q-network", "double-dqn", "multi-step-learning", "dueling-dqn"]
+repository = "https://github.com/qfettes/DeepRL-Tutorials"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

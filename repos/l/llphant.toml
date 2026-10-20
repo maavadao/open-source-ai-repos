@@ -1,0 +1,8 @@
+name = "LLPhant"
+description = "LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain"
+category = "vector-databases"
+tags = ["genai", "gpt4", "langchain", "laravel", "llamaindex", "openai", "php", "symfony"]
+repository = "https://github.com/LLPhant/LLPhant"
+license = "MIT"
+language = "PHP"
+added = 2026-10-20

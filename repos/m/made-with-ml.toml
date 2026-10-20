@@ -1,0 +1,10 @@
+name = "Made-With-ML"
+description = "Learn how to develop, deploy and iterate on production-grade ML applications."
+category = "learning"
+tags = ["machine-learning", "deep-learning", "pytorch", "natural-language-processing", "data-science", "python", "mlops", "data-engineering"]
+repository = "https://github.com/GokuMohandas/Made-With-ML"
+website = "https://madewithml.com"
+license = "MIT"
+language = "Jupyter Notebook"
+skill_level = "intermediate"
+added = 2026-10-20

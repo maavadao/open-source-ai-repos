@@ -1,0 +1,8 @@
+name = "TensorFlow-and-DeepLearning-Tutorial"
+description = "A TensorFlow & Deep Learning online course I taught in 2016"
+category = "learning"
+tags = ["deep-learning", "tensorflow", "deep-learning-tutorial", "tensorboard"]
+repository = "https://github.com/CreatCodeBuild/TensorFlow-and-DeepLearning-Tutorial"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

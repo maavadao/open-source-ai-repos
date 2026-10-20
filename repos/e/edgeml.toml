@@ -1,0 +1,8 @@
+name = "EdgeML"
+description = "This repository provides code for machine learning algorithms for edge devices developed at Microsoft Research India."
+category = "ml-platforms"
+tags = ["iot-device", "sensor", "edge-machine-learning", "resource-constrained-ml", "machine-learning-algorithms", "microsoft-research", "machine-learning", "tensorflow"]
+repository = "https://github.com/microsoft/EdgeML"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

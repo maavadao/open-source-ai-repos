@@ -1,0 +1,8 @@
+name = "Pytorch-UNet"
+description = "PyTorch implementation of the U-Net for image semantic segmentation with high quality images"
+category = "vision"
+tags = ["pytorch", "unet", "pytorch-unet", "semantic-segmentation", "convolutional-networks", "kaggle", "tensorboard", "wandb"]
+repository = "https://github.com/milesial/Pytorch-UNet"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

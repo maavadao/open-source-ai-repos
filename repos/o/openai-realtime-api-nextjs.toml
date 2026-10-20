@@ -1,0 +1,9 @@
+name = "openai-realtime-api-nextjs"
+description = "Leverage the OpenAI Realtime API (12-17-2024) with this Next.js 15 starter template featuring shadcn/ui components, tool-calling & localization. Use starter to build Voice AI apps with WebRTC."
+category = "speech"
+tags = ["nextjs", "openai", "realtime-api", "shadcn", "shadcn-ui", "voice-ai", "webrtc", "gpt4o-realtime-api"]
+repository = "https://github.com/cameronking4/openai-realtime-api-nextjs"
+website = "https://openai-rt-shadcn.vercel.app/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

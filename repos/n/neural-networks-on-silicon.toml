@@ -1,0 +1,7 @@
+name = "Neural-Networks-on-Silicon"
+description = "This is originally a collection of papers on neural network accelerators. Now it's more like my selection of research on deep learning and computer architecture."
+category = "ml-platforms"
+tags = ["deep-learning", "hardware"]
+repository = "https://github.com/fengbintu/Neural-Networks-on-Silicon"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "simlingo"
+description = "[CVPR 2025, Spotlight] SimLingo (CarLLava): Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment"
+category = "robotics"
+tags = ["autonomous-driving", "carla", "vla", "vlm"]
+repository = "https://github.com/RenzKa/simlingo"
+website = "https://www.katrinrenz.de/simlingo/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

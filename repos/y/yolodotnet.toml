@@ -1,0 +1,8 @@
+name = "YoloDotNet"
+description = "YoloDotNet - A C# .NET 8.0 project for Classification, Object Detection, OBB Detection, Segmentation and Pose Estimation in both images and live video streams."
+category = "video"
+tags = ["object-detection", "onnx", "onnx-runtime", "computer-vision", "video", "video-processing", "detection", "image-classification"]
+repository = "https://github.com/NickSwardh/YoloDotNet"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

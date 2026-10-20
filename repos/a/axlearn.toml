@@ -1,0 +1,8 @@
+name = "axlearn"
+description = "An Extensible Deep Learning Library"
+category = "ml-platforms"
+tags = ["deep-learning", "jax"]
+repository = "https://github.com/apple/axlearn"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

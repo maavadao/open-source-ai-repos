@@ -1,0 +1,9 @@
+name = "Kai"
+description = "OpenClaw alternative in your pocket"
+category = "chat"
+tags = ["ai", "kotlin-multiplatform", "chatbot", "jetpack-compose", "ai-assistant", "android", "ios", "openai-compatible"]
+repository = "https://github.com/SimonSchubert/Kai"
+website = "https://kai9000.com/"
+license = "Apache-2.0"
+language = "Kotlin"
+added = 2026-10-20

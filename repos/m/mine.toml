@@ -1,0 +1,8 @@
+name = "MINE"
+description = "Code and models for our ICCV 2021 paper \"MINE: Towards Continuous Depth MPI with NeRF for Novel View Synthesis\""
+category = "vision"
+tags = ["deep-learning", "novel-view-synthesis", "nerf", "depth-estimation", "3d-reconstruction", "computer-vision", "3d-vision"]
+repository = "https://github.com/vincentfung13/MINE"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

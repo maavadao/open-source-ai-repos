@@ -1,0 +1,8 @@
+name = "comfyui_HiDream-Sampler"
+description = "ComfyUI Wrapper for HiDream"
+category = "image"
+tags = ["ai-art", "comfyui", "custom-node", "diffusers", "image-generation", "comfy-nodes"]
+repository = "https://github.com/lum3on/comfyui_HiDream-Sampler"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

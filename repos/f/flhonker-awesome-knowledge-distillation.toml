@@ -1,0 +1,7 @@
+name = "Awesome-Knowledge-Distillation"
+description = "Awesome Knowledge-Distillation. 分类整理的知识蒸馏paper(2014-2021)。"
+category = "learning"
+tags = ["kd", "knowldge-distillation", "distillation", "deep-learning", "transfer-learning", "model-compression"]
+repository = "https://github.com/FLHonker/Awesome-Knowledge-Distillation"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,10 @@
+name = "annotated_deep_learning_paper_implementations"
+description = "60+ Implementations/tutorials of deep learning papers with side-by-side notes ; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), reinforcement learning (ppo, dqn), capsnet…"
+category = "learning"
+tags = ["deep-learning", "deep-learning-tutorial", "pytorch", "gan", "transformers", "reinforcement-learning", "optimizers", "neural-networks"]
+repository = "https://github.com/labmlai/annotated_deep_learning_paper_implementations"
+website = "https://nn.labml.ai/"
+license = "MIT"
+language = "Python"
+skill_level = "advanced"
+added = 2026-10-20

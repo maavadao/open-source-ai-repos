@@ -1,0 +1,9 @@
+name = "AnyV2V"
+description = "Code and data for \"AnyV2V: A Tuning-Free Framework For Any Video-to-Video Editing Tasks\" [TMLR 2024]"
+category = "video"
+tags = ["deep-learning", "generative-ai", "image-editing", "image-to-video-generation", "pytorch", "video-editing", "video-synthesis"]
+repository = "https://github.com/TIGER-AI-Lab/AnyV2V"
+website = "https://tiger-ai-lab.github.io/AnyV2V/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

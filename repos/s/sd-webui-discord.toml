@@ -1,0 +1,8 @@
+name = "sd-webui-discord"
+description = "SD-WEBUI-DISCORD is a Discord bot developed in Go language for stable-diffusion-webui. It utilizes the sd-webui-go to invoke the sd-webui API and supports cluster deployment of multiple sd-webui nodes with automatic scheduling and allocation."
+category = "image"
+tags = ["cluster", "discord", "discord-bot", "golang", "sd-webui", "stable-diffusion", "stable-diffusion-webui", "api"]
+repository = "https://github.com/SpenserCai/sd-webui-discord"
+license = "AGPL-3.0"
+language = "Go"
+added = 2026-10-20

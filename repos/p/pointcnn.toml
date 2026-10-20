@@ -1,0 +1,9 @@
+name = "PointCNN"
+description = "PointCNN: Convolution On X-Transformed Points (NeurIPS 2018)"
+category = "robotics"
+tags = ["pointcloud", "convolutional-neural-networks", "deep-neural-networks", "machine-learning", "autonomous-driving", "segmentation", "point-cloud", "scannet"]
+repository = "https://github.com/yangyanli/PointCNN"
+website = "https://arxiv.org/abs/1801.07791"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

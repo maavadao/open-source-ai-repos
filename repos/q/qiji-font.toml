@@ -1,0 +1,9 @@
+name = "qiji-font"
+description = "齊伋體 - typeface from Ming Dynasty woodblock printed books"
+category = "vision"
+tags = ["font", "typography", "chinese", "woodcutting", "classical-chinese", "typeface", "computer-vision"]
+repository = "https://github.com/LingDong-/qiji-font"
+website = "https://qiji-font.netlify.app/"
+license = "OFL-1.1"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "hash"
+description = "The open-source, multi-tenant platform for self-building knowledge graphs and simulation"
+category = "llm-apps"
+tags = ["hash", "rust", "typescript", "graph", "ai", "database", "type-system", "simulation"]
+repository = "https://github.com/hashintel/hash"
+website = "https://hash.dev"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "chrome-devtools-mcp"
+description = "Chrome DevTools for coding agents"
+category = "mcp-servers"
+tags = ["mcp-server", "puppeteer", "chrome-devtools", "browser", "chrome", "debugging", "devtools", "mcp"]
+repository = "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+website = "https://developer.chrome.com/docs/devtools/agents"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "flock"
+description = "A desktop multi-agent harness built with Rust, Tauri, and React, powered by langgraph-rust."
+category = "mcp-servers"
+tags = ["agent", "langchain", "langgraph", "llm", "muti-agent", "openai", "react-flow", "workflow"]
+repository = "https://github.com/Onelevenvy/flock"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

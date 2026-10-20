@@ -1,0 +1,9 @@
+name = "zml"
+description = "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild"
+category = "local-llms"
+tags = ["ai", "bazel", "hpc", "inference", "xla", "zig"]
+repository = "https://github.com/zml/zml"
+website = "https://zml.ai"
+license = "Apache-2.0"
+language = "Zig"
+added = 2026-10-20

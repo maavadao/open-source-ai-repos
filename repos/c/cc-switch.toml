@@ -1,0 +1,9 @@
+name = "cc-switch"
+description = "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io"
+category = "mcp-servers"
+tags = ["ai-tools", "claude-code", "desktop-app", "open-source", "rust", "tauri", "codex", "mcp"]
+repository = "https://github.com/farion1231/cc-switch"
+website = "https://ccswitch.io"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

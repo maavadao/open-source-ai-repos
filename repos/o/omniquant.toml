@@ -1,0 +1,8 @@
+name = "OmniQuant"
+description = "[ICLR2024 spotlight] OmniQuant is a simple and powerful quantization technique for LLMs."
+category = "local-llms"
+tags = ["large-language-models", "llm", "quantization"]
+repository = "https://github.com/OpenGVLab/OmniQuant"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

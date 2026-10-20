@@ -1,0 +1,9 @@
+name = "DiffPoseTalk"
+description = "DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models"
+category = "video"
+tags = ["3d-facial-animation", "diffusion-models", "facial-animation", "speech-driven", "talking-head"]
+repository = "https://github.com/DiffPoseTalk/DiffPoseTalk"
+website = "https://diffposetalk.github.io"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

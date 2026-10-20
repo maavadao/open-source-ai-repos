@@ -1,0 +1,7 @@
+name = "Awesome-Video-Diffusion"
+description = "A curated list of recent diffusion models for video generation, editing, and various other applications."
+category = "learning"
+tags = ["awesome", "diffusion-models", "video-editing", "video-generation", "motion-customization", "video-generation-evaluation"]
+repository = "https://github.com/showlab/Awesome-Video-Diffusion"
+license = "NOASSERTION"
+added = 2026-10-20

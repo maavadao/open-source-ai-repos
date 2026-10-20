@@ -1,0 +1,9 @@
+name = "ReCamMaster"
+description = "[ICCV'25 Best Paper Finalist] ReCamMaster: Camera-Controlled Generative Rendering from A Single Video"
+category = "video"
+tags = ["aigc", "computer-vision", "video-generation", "4d", "camera-control"]
+repository = "https://github.com/KlingAIResearch/ReCamMaster"
+website = "https://jianhongbai.github.io/ReCamMaster/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

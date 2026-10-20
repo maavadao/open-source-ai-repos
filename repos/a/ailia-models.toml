@@ -1,0 +1,8 @@
+name = "ailia-models"
+description = "The collection of pre-trained, state-of-the-art AI models for ailia SDK"
+category = "vision"
+tags = ["deep-learning", "face-recognition", "face-detection", "object-detection", "object-recognition", "hand-detection", "fashion-ai", "image-classification"]
+repository = "https://github.com/ailia-ai/ailia-models"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

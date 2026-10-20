@@ -1,0 +1,8 @@
+name = "awesome-gamedev-agent-skills"
+description = "74 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills), with a router that loads the right skill for your engine and task. Runs in…"
+category = "learning"
+tags = ["agent-skills", "ai-agents", "awesome-list", "claude-code", "game-development", "gamedev", "godot", "kiro"]
+repository = "https://github.com/gamedev-skills/awesome-gamedev-agent-skills"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

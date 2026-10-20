@@ -1,0 +1,7 @@
+name = "awesome-knowledge-distillation"
+description = "Awesome Knowledge Distillation"
+category = "learning"
+tags = ["knowledge-distillation", "knowledge-transfer", "teacher-student", "co-training", "distillation", "distillation-model", "model-distillation", "knowldge-distillation"]
+repository = "https://github.com/dkozlov/awesome-knowledge-distillation"
+license = "Apache-2.0"
+added = 2026-10-20

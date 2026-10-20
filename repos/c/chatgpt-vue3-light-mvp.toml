@@ -1,0 +1,9 @@
+name = "chatgpt-vue3-light-mvp"
+description = "一个可二次开发 Chat Bot 单轮对话 Web 端 MVP 原型模板, 基于 Vue 3, Vite8, TypeScript, Naive UI, Pinia(v3), UnoCSS 等主流技术构建, 简单集成大模型 API, 采用单轮 AI 问答对话模式, 每次提问独立响应, 无需上下文, 支持 SSE 打字机效果流式输出, 集成 markdown-it Mermaid/KaTex/LaTex 公式高亮预览, 星火, 智谱, 硅基流动, Deepseek V4/V3/R1 深度思考推理模型预览, 兼容 <think> 标签, 包含蒸馏…"
+category = "local-llms"
+tags = ["ai", "chat", "chatbot", "deepseek", "glm", "gpt", "llm", "ollama"]
+repository = "https://github.com/pdsuwwz/chatgpt-vue3-light-mvp"
+website = "https://botkit.likemashang.com"
+license = "MIT"
+language = "Vue"
+added = 2026-10-20

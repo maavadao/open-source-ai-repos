@@ -1,0 +1,9 @@
+name = "LeakGAN"
+description = "The codes of paper \"Long Text Generation via Adversarial Training with Leaked Information\" on AAAI 2018. Text generation using GAN and Hierarchical Reinforcement Learning."
+category = "ml-platforms"
+tags = ["natural-language-processing", "generative-adversarial-network", "hierarchical-reinforcement-learning", "reinforcement-learning", "text-generation"]
+repository = "https://github.com/CR-Gjx/LeakGAN"
+website = "https://arxiv.org/abs/1709.08624"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

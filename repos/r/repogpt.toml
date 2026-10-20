@@ -1,0 +1,8 @@
+name = "repogpt"
+description = "RepoGPT: AI-powered GitHub assistant to chat, manage, and explore your repos effortlessly."
+category = "chat"
+tags = ["chatgpt", "generative-ai", "langchain", "nextjs", "repository", "aiagent", "chatgpt-api"]
+repository = "https://github.com/mbarinov/repogpt"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

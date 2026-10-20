@@ -1,0 +1,9 @@
+name = "numpy-ml"
+description = "Machine learning, in numpy"
+category = "ml-platforms"
+tags = ["machine-learning", "neural-networks", "topic-modeling", "gaussian-mixture-models", "hidden-markov-models", "gradient-boosting", "bayesian-inference", "wavenet"]
+repository = "https://github.com/ddbourgin/numpy-ml"
+website = "https://numpy-ml.readthedocs.io/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

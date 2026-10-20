@@ -1,0 +1,8 @@
+name = "fastapi-langgraph-agent-production-ready-template"
+description = "A production-ready FastAPI template for building AI agent applications with LangGraph integration. This template provides a robust foundation for building scalable, secure, and maintainable AI agent services."
+category = "agents"
+tags = ["agent", "agentic-ai", "docker", "fastapi", "fastapi-template", "langchain", "langchain-python", "langgraph"]
+repository = "https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

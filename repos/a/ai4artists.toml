@@ -1,0 +1,7 @@
+name = "ai4artists"
+description = "A list of AI Art courses, tools, libraries, people, and places."
+category = "learning"
+tags = ["artificial-intelligence", "awesome", "awesome-list", "creative-coding", "neural-networks", "deep-learning", "pytorch", "tensorflow"]
+repository = "https://github.com/jonathandinu/ai4artists"
+license = "CC0-1.0"
+added = 2026-10-20

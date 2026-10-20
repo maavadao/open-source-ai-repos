@@ -1,0 +1,8 @@
+name = "SkinDeep"
+description = "Get Deinked!!"
+category = "image"
+tags = ["controlnet", "stable-diffusion"]
+repository = "https://github.com/vijishmadhavan/SkinDeep"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

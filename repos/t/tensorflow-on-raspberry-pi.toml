@@ -1,0 +1,8 @@
+name = "tensorflow-on-raspberry-pi"
+description = "TensorFlow for Raspberry Pi"
+category = "ml-platforms"
+tags = ["raspberry-pi", "tensorflow", "machine-learning"]
+repository = "https://github.com/samjabrahams/tensorflow-on-raspberry-pi"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

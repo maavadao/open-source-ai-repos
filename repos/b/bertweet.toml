@@ -1,0 +1,8 @@
+name = "BERTweet"
+description = "BERTweet: A pre-trained language model for English Tweets (EMNLP-2020)"
+category = "models"
+tags = ["python3", "bert", "roberta", "transformers", "fairseq", "language-model", "english", "part-of-speech-tagging"]
+repository = "https://github.com/VinAIResearch/BERTweet"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

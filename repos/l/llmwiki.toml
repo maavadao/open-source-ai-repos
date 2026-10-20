@@ -1,0 +1,9 @@
+name = "llmwiki"
+description = "Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki !"
+category = "mcp-servers"
+tags = ["agents", "ai-agents", "claude", "karpathy", "knowledge-base", "llm", "llm-wiki", "mcp"]
+repository = "https://github.com/lucasastorian/llmwiki"
+website = "https://llmwiki.app"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

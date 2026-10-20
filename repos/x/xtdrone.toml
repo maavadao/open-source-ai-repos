@@ -1,0 +1,8 @@
+name = "XTDrone"
+description = "UAV Simulation Platform based on PX4, ROS and Gazebo"
+category = "robotics"
+tags = ["uav", "aircraft", "self-driving", "px4", "ros", "gazebo"]
+repository = "https://github.com/robin-shaun/XTDrone"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "langwatch"
+description = "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assistant in the company."
+category = "no-code"
+tags = ["ai", "analytics", "datasets", "evaluation", "gpt", "llm", "observability", "openai"]
+repository = "https://github.com/langwatch/langwatch"
+website = "https://langwatch.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

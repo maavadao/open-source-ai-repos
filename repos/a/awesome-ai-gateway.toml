@@ -1,0 +1,9 @@
+name = "awesome-ai-gateway"
+description = "Awesome AI Gateway — pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by cost, security & compliance, see what consolidated in 2026, learn how they actually work from an 8-chapter handbook, and verify every number yourself.…"
+category = "mcp-servers"
+tags = ["ai-gateway", "ai-infrastructure", "api-gateway", "awesome", "awesome-list", "litellm", "llm", "llm-gateway"]
+repository = "https://github.com/cuihuan/awesome-ai-gateway"
+website = "https://cuihuan.github.io/awesome-ai-gateway/"
+license = "CC0-1.0"
+language = "HTML"
+added = 2026-10-20

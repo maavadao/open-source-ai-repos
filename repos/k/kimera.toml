@@ -1,0 +1,7 @@
+name = "Kimera"
+description = "Index repo for Kimera code"
+category = "robotics"
+tags = ["robotics", "computer-vision", "semantics", "3d-reconstruction", "slam", "visual-inertial-odometry"]
+repository = "https://github.com/MIT-SPARK/Kimera"
+license = "BSD-2-Clause"
+added = 2026-10-20

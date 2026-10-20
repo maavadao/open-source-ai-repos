@@ -1,0 +1,9 @@
+name = "small-text"
+description = "Active Learning for Text Classification in Python"
+category = "models"
+tags = ["active-learning", "text-classification", "pytorch", "transformers", "natural-language-processing", "python", "machine-learning", "deep-learning"]
+repository = "https://github.com/webis-de/small-text"
+website = "https://small-text.readthedocs.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

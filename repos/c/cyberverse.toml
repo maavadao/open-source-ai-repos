@@ -1,0 +1,9 @@
+name = "CyberVerse"
+description = "Self hosted, real-time digital human agent platform. Build voice-first AI agents with WebRTC, persona memory, tools, RAG, and optional digital-human video."
+category = "speech"
+tags = ["ai-agents", "ai-companion", "digital-human", "digital-life", "jarvis-assistant", "streaming", "webrtc", "voice-agent"]
+repository = "https://github.com/Lynpoint/CyberVerse"
+website = "https://www.cyberverse.cc"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

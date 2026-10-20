@@ -1,0 +1,9 @@
+name = "DiffRL"
+description = "[ICLR 2022] Accelerated Policy Learning with Parallel Differentiable Simulation"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "robotic-control", "differentiable-simulation"]
+repository = "https://github.com/NVlabs/DiffRL"
+website = "https://short-horizon-actor-critic.github.io/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "camofox-browser"
+description = "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement."
+category = "browser-automation"
+tags = ["ai-agent", "anti-bot", "antidetect-browser", "automation", "bot-detection", "browser-automation", "cloudflare-bypass", "headless-browser"]
+repository = "https://github.com/jo-inc/camofox-browser"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

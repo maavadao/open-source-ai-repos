@@ -1,0 +1,9 @@
+name = "optimate"
+description = "A collection of libraries to optimise AI model performances"
+category = "models"
+tags = ["ai", "analytics", "artificial-intelligence", "deeplearning", "large-language-models", "llm"]
+repository = "https://github.com/nebuly-ai/optimate"
+website = "https://www.nebuly.com/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "chatgpt-prompt-splitter"
+description = "ChatGPT PROMPTs Splitter. Tool for safely process chunks of up to 15,000 characters per request"
+category = "chat"
+tags = ["chatgpt", "language-model", "nlp-tool", "open-source", "openai", "python", "text-splitter", "ai-conversations"]
+repository = "https://github.com/jupediaz/chatgpt-prompt-splitter"
+website = "https://chatgpt-prompt-splitter.jjdiaz.dev"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

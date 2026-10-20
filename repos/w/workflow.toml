@@ -1,0 +1,9 @@
+name = "workflow"
+description = "Workflow SDK: Build durable, reliable, and observable apps and AI Agents in TypeScript"
+category = "agents"
+tags = ["ai-agents", "durable-execution", "orchestration", "vercel", "serverless", "workflow-engine", "workflows"]
+repository = "https://github.com/vercel/workflow"
+website = "https://workflow-sdk.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

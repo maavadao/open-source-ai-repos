@@ -1,0 +1,9 @@
+name = "grida"
+description = "Grida — Open Canvas"
+category = "no-code"
+tags = ["webgpu", "canvas", "database", "no-code", "postgresql", "supabase", "artboard", "svg"]
+repository = "https://github.com/gridaco/grida"
+website = "https://grida.co"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

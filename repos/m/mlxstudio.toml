@@ -1,0 +1,8 @@
+name = "mlxstudio"
+description = "MLX Studio - Easiest way to run LLM's on your Mac. All in one engine."
+category = "local-llms"
+tags = ["llm", "lmstudio", "macbook", "mlx", "mlxllm", "mlxstudio", "ai", "ai-agents"]
+repository = "https://github.com/jjang-ai/mlxstudio"
+website = "https://mlx.studio"
+license = "NOASSERTION"
+added = 2026-10-20

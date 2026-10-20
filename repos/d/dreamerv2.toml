@@ -1,0 +1,9 @@
+name = "dreamerv2"
+description = "Mastering Atari with Discrete World Models"
+category = "robotics"
+tags = ["reinforcement-learning", "world-models", "artificial-intelligence", "robotics", "deep-learning", "video-prediction", "atari", "research"]
+repository = "https://github.com/danijar/dreamerv2"
+website = "https://danijar.com/dreamerv2"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

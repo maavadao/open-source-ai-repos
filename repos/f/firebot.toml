@@ -1,0 +1,9 @@
+name = "Firebot"
+description = "A powerful all-in-one bot for Twitch streamers"
+category = "chat"
+tags = ["streamer", "streaming", "firebot", "bot", "twitch", "twitch-bot", "twitchtv", "chatbot"]
+repository = "https://github.com/crowbartools/Firebot"
+website = "https://firebot.app"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

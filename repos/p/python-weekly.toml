@@ -1,0 +1,9 @@
+name = "python-weekly"
+description = "A free weekly newsletter featuring noteworthy articles, tutorials, open-source projects, podcasts, videos, trending topics, and more.Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。"
+category = "learning"
+tags = ["ai", "mechine-learing", "newsletter", "opensource", "python", "python3", "weekly", "github"]
+repository = "https://github.com/chinesehuazhou/python-weekly"
+website = "https://weekly.pythoncat.top"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

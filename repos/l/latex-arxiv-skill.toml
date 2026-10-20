@@ -1,0 +1,9 @@
+name = "latex-arxiv-SKILL"
+description = "A highly customizable agentic harness for arXiv-ready ML/AI review papers (and beyond). It drives agentic AI like Codex CLI and Claude Code through a gated LaTeX workflow with verified BibTeX citations."
+category = "coding"
+tags = ["academic-writing", "agent-skill", "agentic", "agentic-ai", "ai-agents", "anthropic", "arxiv", "bibtex"]
+repository = "https://github.com/appautomaton/latex-arxiv-SKILL"
+website = "https://appautomaton.com/latex-arxiv-SKILL/"
+license = "MIT"
+language = "TeX"
+added = 2026-10-20

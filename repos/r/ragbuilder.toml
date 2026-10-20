@@ -1,0 +1,9 @@
+name = "ragbuilder"
+description = "A toolkit to create optimal Production-readyRetrieval Augmented Generation(RAG) setup for your data"
+category = "llm-apps"
+tags = ["developer-tools", "genai", "rag"]
+repository = "https://github.com/KruxAI/ragbuilder"
+website = "https://ragbuilder.pages.dev"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

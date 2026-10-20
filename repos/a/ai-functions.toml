@@ -1,0 +1,8 @@
+name = "AI-Functions"
+description = "AI-Powered Function Magic: Never code again with GPT models!"
+category = "chat"
+tags = ["gpt-3", "gpt4", "chatgpt", "openai", "openai-api", "python"]
+repository = "https://github.com/Torantulino/AI-Functions"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "ncnn"
+description = "ncnn is a high-performance neural network inference framework optimized for the mobile platform"
+category = "local-llms"
+tags = ["inference", "high-preformance", "simd", "arm-neon", "deep-learning", "artificial-intelligence", "android", "ios"]
+repository = "https://github.com/Tencent/ncnn"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

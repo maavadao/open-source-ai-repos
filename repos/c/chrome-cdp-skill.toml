@@ -1,0 +1,7 @@
+name = "chrome-cdp-skill"
+description = "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open"
+category = "skills-prompts"
+repository = "https://github.com/pasky/chrome-cdp-skill"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "gzh-design-skill"
+description = "把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML."
+category = "skills-prompts"
+tags = ["agent-skill", "ai-agent", "claude-code", "codex", "cursor", "gongzhonghao", "html", "markdown"]
+repository = "https://github.com/isjiamu/gzh-design-skill"
+website = "https://github.com/AlephMuYe"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

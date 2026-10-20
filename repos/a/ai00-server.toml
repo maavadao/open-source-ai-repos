@@ -1,0 +1,9 @@
+name = "ai00_server"
+description = "The all-in-one RWKV runtime box with embed, RAG, AI agents, and more."
+category = "chat"
+tags = ["ai", "chatgpt", "chatgpt-api", "llm", "openai", "openai-api", "rwkv", "aiagents"]
+repository = "https://github.com/Ai00-X/ai00_server"
+website = "https://ai00-x.github.io/ai00_server/"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

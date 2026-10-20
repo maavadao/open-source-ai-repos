@@ -1,0 +1,8 @@
+name = "homebox-companion"
+description = "AI-powered companion for Homebox. Snap photos and let AI auto-identify and catalog items into your inventory, then use the AI Chat to organize, search, and update your inventory effortlessly."
+category = "other"
+tags = ["docker", "fastapi", "homebox", "inventory", "openai", "svelte", "vision-ai", "litellm"]
+repository = "https://github.com/Duelion/homebox-companion"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

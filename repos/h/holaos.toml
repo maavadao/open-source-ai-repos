@@ -1,0 +1,9 @@
+name = "holaOS"
+description = "Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Claude Code, Codex), any model, or BYOK. Set up in clicks, not months.…"
+category = "mcp-servers"
+tags = ["ai", "holaboss", "agent-harness", "ai-agents", "electron", "mcp", "memory", "model-context-protocol"]
+repository = "https://github.com/holaboss-ai/holaOS"
+website = "https://holaos.ai"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

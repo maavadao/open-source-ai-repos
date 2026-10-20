@@ -1,0 +1,9 @@
+name = "llm-wiki"
+description = "LLM-compiled knowledge bases for any AI agent. Parallel multi-agent research, thesis-driven investigation, source ingestion, wiki compilation, querying, and artifact generation."
+category = "coding"
+tags = ["agentic-ai", "agentic-skills", "agentic-workflow", "claude-code", "codex", "llm", "plugin", "wiki"]
+repository = "https://github.com/nvk/llm-wiki"
+website = "https://llm-wiki.net/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "RoboBrain"
+description = "[CVPR 2025] RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete. Official Repository."
+category = "robotics"
+tags = ["embodied-ai", "robotics", "vllm"]
+repository = "https://github.com/FlagOpen/RoboBrain"
+website = "https://superrobobrain.github.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

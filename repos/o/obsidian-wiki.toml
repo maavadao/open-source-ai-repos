@@ -1,0 +1,8 @@
+name = "obsidian-wiki"
+description = "Framework for AI agents to build and maintain a digital brain through Obsidian wiki | Memory System for Agents"
+category = "mcp-servers"
+tags = ["agent-skills", "knowledge-base", "llm-tools", "obsidian", "wiki", "brain", "obsidian-brain", "knowledge-graph"]
+repository = "https://github.com/Ar9av/obsidian-wiki"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "SenseVoice"
+description = "Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, language ID, emotion recognition, and audio event detection."
+category = "speech"
+tags = ["asr", "speech-recognition", "speech-to-text", "cross-lingual", "pytorch", "speech-emotion-recognition", "multilingual", "audio-analysis"]
+repository = "https://github.com/QwenAudio/SenseVoice"
+website = "https://huggingface.co/spaces/FunAudioLLM/SenseVoice"
+license = "MIT"
+language = "C"
+added = 2026-10-20

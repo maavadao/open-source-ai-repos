@@ -1,0 +1,8 @@
+name = "PoinTr"
+description = "[ICCV 2021 Oral] PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers"
+category = "vision"
+tags = ["deep-learning", "computer-vision", "pointcloud-completion", "vision-transformers", "3dvision", "iccv2021"]
+repository = "https://github.com/yuxumin/PoinTr"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

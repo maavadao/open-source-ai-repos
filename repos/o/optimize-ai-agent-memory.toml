@@ -1,0 +1,9 @@
+name = "optimize-ai-agent-memory"
+description = "9 Different Ways to Optimize AI Agent Memories"
+category = "agents"
+tags = ["ai-agents", "llm", "memory", "openai", "optimization", "python", "rag"]
+repository = "https://github.com/FareedKhan-dev/optimize-ai-agent-memory"
+website = "https://medium.com/@fareedkhandev/optimizing-memory-of-ai-agents-for-better-performance-using-67d813e3d796"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

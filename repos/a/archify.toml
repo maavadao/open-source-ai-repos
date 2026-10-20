@@ -1,0 +1,9 @@
+name = "archify"
+description = "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more."
+category = "skills-prompts"
+tags = ["architecture-diagram", "developer-tools", "system-design", "agent-skills", "codex", "opencode", "sequence-diagram", "deepseek-harness"]
+repository = "https://github.com/tt-a1i/archify"
+website = "https://archify.si"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

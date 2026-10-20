@@ -1,0 +1,8 @@
+name = "audio-transformers-course"
+description = "The Hugging Face Course on Transformers for Audio"
+category = "learning"
+tags = ["audio", "deep-learning", "hacktoberfest", "transformers"]
+repository = "https://github.com/huggingface/audio-transformers-course"
+license = "Apache-2.0"
+language = "MDX"
+added = 2026-10-20

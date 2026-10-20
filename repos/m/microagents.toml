@@ -1,0 +1,8 @@
+name = "microagents"
+description = "Self-improving Agents"
+category = "models"
+tags = ["gpt-4-turbo", "llm", "openai"]
+repository = "https://github.com/aymenfurter/microagents"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

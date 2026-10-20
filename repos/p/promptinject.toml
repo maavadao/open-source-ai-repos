@@ -1,0 +1,8 @@
+name = "PromptInject"
+description = "PromptInject is a framework that assembles prompts in a modular fashion to provide a quantitative analysis of the robustness of LLMs to adversarial prompt attacks. Best Paper Awards @ NeurIPS ML Safety Workshop 2022"
+category = "security"
+tags = ["ai-safety", "language-models", "ml-safety", "agi", "ai-alignment", "agi-alignment", "adversarial-attacks", "gpt-3"]
+repository = "https://github.com/agencyenterprise/PromptInject"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

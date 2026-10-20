@@ -1,0 +1,9 @@
+name = "skardi"
+description = "Skardi is a self-improving context framework for ai agents"
+category = "agents"
+tags = ["agent", "datafusion", "datalake", "iceberg", "lance", "mongo", "mysql", "postgres"]
+repository = "https://github.com/SkardiLabs/skardi"
+website = "https://skardi.ai"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

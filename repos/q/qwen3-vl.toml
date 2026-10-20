@@ -1,0 +1,7 @@
+name = "Qwen3-VL"
+description = "Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud."
+category = "models"
+repository = "https://github.com/QwenLM/Qwen3-VL"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

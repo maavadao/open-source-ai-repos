@@ -1,0 +1,9 @@
+name = "jscpd"
+description = "Copy/paste detector for source code. 220+ languages, Rust engine, SARIF/HTML/badge reporters, GitHub Action, MCP server for AI agents."
+category = "mcp-servers"
+tags = ["copy-paste", "duplicates", "cpd", "code-quality", "clones-detection", "ai", "coding-agents", "skills"]
+repository = "https://github.com/kucherenko/jscpd"
+website = "https://jscpd.dev"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

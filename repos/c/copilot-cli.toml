@@ -1,0 +1,7 @@
+name = "copilot-cli"
+description = "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal."
+category = "coding"
+repository = "https://github.com/github/copilot-cli"
+license = "NOASSERTION"
+language = "Shell"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "MIScnn"
+description = "A framework for Medical Image Segmentation with Convolutional Neural Networks and Deep Learning"
+category = "vision"
+tags = ["deep-learning", "convolutional-neural-networks", "medical-image-processing", "medical-image-segmentation", "framework", "computer-vision", "clinical-decision-support", "tensorflow"]
+repository = "https://github.com/frankkramer-lab/MIScnn"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

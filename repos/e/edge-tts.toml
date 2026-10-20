@@ -1,0 +1,9 @@
+name = "edge-tts"
+description = "Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge"
+category = "speech"
+tags = ["tts", "speech-synthesis", "text-to-speech"]
+repository = "https://github.com/rany2/edge-tts"
+website = "https://pypi.org/project/edge-tts/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

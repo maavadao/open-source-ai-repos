@@ -1,0 +1,9 @@
+name = "Core-AI-Framework-Lab"
+description = "A practical lab for exploring Apple's Core AI framework, model assets, specialization, and on-device inference."
+category = "speech"
+tags = ["ai", "apple", "apple-silicon", "core-ai", "generative-ai", "ios", "machine-learning", "macos"]
+repository = "https://github.com/rudrankriyam/Core-AI-Framework-Lab"
+website = "https://developer.apple.com/core-ai/"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

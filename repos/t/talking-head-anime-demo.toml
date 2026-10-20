@@ -1,0 +1,8 @@
+name = "talking-head-anime-demo"
+description = "Demo for the \"Talking Head Anime from a Single Image.\""
+category = "vision"
+tags = ["ai", "anime", "computer-graphics", "computer-vision", "deep-learning", "machine-learning", "pytorch", "vtuber"]
+repository = "https://github.com/pkhungurn/talking-head-anime-demo"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

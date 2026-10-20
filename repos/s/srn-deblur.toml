@@ -1,0 +1,9 @@
+name = "SRN-Deblur"
+description = "Repository for Scale-recurrent Network for Deep Image Deblurring"
+category = "vision"
+tags = ["computer-vision", "deblurring", "image-processing"]
+repository = "https://github.com/jiangsutx/SRN-Deblur"
+website = "http://www.xtao.website/projects/srndeblur/srndeblur_cvpr18.pdf"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

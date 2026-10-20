@@ -1,0 +1,9 @@
+name = "NN-SVG"
+description = "Publication-ready NN-architecture schematics."
+category = "ml-platforms"
+tags = ["machine-learning", "deep-learning", "diagrams", "drawing", "d3", "neural-network", "svg", "threejs"]
+repository = "https://github.com/alexlenail/NN-SVG"
+website = "http://alexlenail.me/NN-SVG/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

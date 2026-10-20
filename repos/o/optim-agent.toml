@@ -1,0 +1,9 @@
+name = "optim-agent"
+description = "LLM agents as your hyperparameter optimizer."
+category = "skills-prompts"
+tags = ["agent-skills", "claude-code", "codex-cli", "hyperparameter-optimization", "machine-learning", "skill", "ai-agents", "automl"]
+repository = "https://github.com/Optim-Agent/optim-agent"
+website = "https://optim-agent.github.io/optim-agent/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

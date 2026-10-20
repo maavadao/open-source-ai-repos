@@ -1,0 +1,9 @@
+name = "unisondb"
+description = "A streaming multimodal database for Edge AI, and Edge Computing."
+category = "agents"
+tags = ["ai-agents", "database", "key-value", "multi-modal", "replicated", "streaming", "wide-column-database", "unisondb"]
+repository = "https://github.com/ankur-anand/unisondb"
+website = "https://unisondb.io/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

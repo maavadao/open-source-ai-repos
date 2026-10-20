@@ -1,0 +1,9 @@
+name = "ultralytics"
+description = "Ultralytics YOLO27, YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking"
+category = "vision"
+tags = ["ultralytics", "yolov8", "yolo", "deep-learning", "image-classification", "machine-learning", "object-detection", "pytorch"]
+repository = "https://github.com/ultralytics/ultralytics"
+website = "https://platform.ultralytics.com"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

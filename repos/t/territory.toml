@@ -1,0 +1,9 @@
+name = "territory"
+description = "3D rendered proc-gen world test. C++ homebrew voxel engine for agent-driven prodedural generation / world simulation"
+category = "vision"
+tags = ["artwork", "simulation", "procedural-generation", "procedural", "opengl", "opengl3", "voxel-engine", "voxel-game"]
+repository = "https://github.com/weigert/territory"
+website = "https://weigert.vsos.ethz.ch"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

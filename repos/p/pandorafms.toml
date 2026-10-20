@@ -1,0 +1,9 @@
+name = "pandorafms"
+description = "This is the old repo for Pandora OPEN project (Pandora FMS OpenSource)"
+category = "agents"
+tags = ["monitoring", "network-monitoring", "agents", "wmi", "snmp", "aix", "solaris", "linux"]
+repository = "https://github.com/pandorafms/pandorafms"
+website = "https://pandoraopen.io"
+license = "NOASSERTION"
+language = "PHP"
+added = 2026-10-20

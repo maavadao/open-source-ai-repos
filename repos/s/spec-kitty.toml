@@ -1,0 +1,9 @@
+name = "spec-kitty"
+description = "Spec-Driven Development with organizational governance. Specs tell AI agents what to build; Charter governs how they build it. Git-native missions, enforceable workflows, and consistent engineering standards across AI coding agents and harnesses."
+category = "coding"
+tags = ["claude-code", "gemini-cli", "spec-driven-development", "cursor-agent", "github-copilot", "windsurf", "ai-coding-workflow", "ai-development-dashboard"]
+repository = "https://github.com/spec-kitty/spec-kitty"
+website = "https://spec-kitty.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

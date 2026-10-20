@@ -1,0 +1,9 @@
+name = "crab"
+description = "CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents. https://crab.camel-ai.org/"
+category = "agents"
+tags = ["gui-automation", "language-model-agent", "large-language-models", "multi-agent-systems", "visual-language-models"]
+repository = "https://github.com/camel-ai/crab"
+website = "https://crab.camel-ai.org/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

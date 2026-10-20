@@ -1,0 +1,8 @@
+name = "openapi-wrapper"
+description = "I've developed a ChatGPT clone using Next.js 14, Shadcn-UI, Prisma ORM, and integrated it with the OpenAI API. It offers a user-friendly conversational AI experience."
+category = "chat"
+tags = ["chatgpt", "chatgpt-api", "clone-app", "reactjs", "open-source", "react-typescript", "chatgpt-clone", "contributions-welcome"]
+repository = "https://github.com/nisabmohd/openapi-wrapper"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

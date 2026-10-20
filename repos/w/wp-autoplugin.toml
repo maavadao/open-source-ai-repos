@@ -1,0 +1,9 @@
+name = "wp-autoplugin"
+description = "Quickly create functional plugins from simple descriptions, addressing specific needs without unnecessary bloat."
+category = "models"
+tags = ["ai", "artificial-intelligence", "llm", "wordpress", "wordpress-plugin", "anthropic", "claude", "claude-ai"]
+repository = "https://github.com/WP-Autoplugin/wp-autoplugin"
+website = "https://wp-autoplugin.com"
+license = "NOASSERTION"
+language = "PHP"
+added = 2026-10-20

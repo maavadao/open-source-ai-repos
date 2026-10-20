@@ -1,0 +1,8 @@
+name = "runprompt"
+description = "Run LLM prompts from your shell"
+category = "local-llms"
+tags = ["ai-agents", "ai-development", "anthropic", "bash", "bash-script", "dotprompt", "llm", "ollama"]
+repository = "https://github.com/chr15m/runprompt"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

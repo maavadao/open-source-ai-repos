@@ -1,0 +1,9 @@
+name = "prompt-kit"
+description = "Core building blocks for AI apps. High-quality, accessible, and customizable components for AI interfaces."
+category = "other"
+tags = ["ai", "components", "nextjs", "react", "shadcn", "shadcn-ui", "tailwindcss", "ui"]
+repository = "https://github.com/ibelick/prompt-kit"
+website = "https://prompt-kit.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

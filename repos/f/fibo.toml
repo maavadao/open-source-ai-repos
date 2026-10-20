@@ -1,0 +1,9 @@
+name = "FIBO"
+description = "FIBO is a SOTA, first open-source, JSON-native text-to-image model built for controllable, predictable, and legally safe image generation."
+category = "image"
+tags = ["ai", "image-generation", "image-generation-ai", "sota", "ethical-ai", "agentic-ai", "creative-ai", "deep-learning"]
+repository = "https://github.com/Bria-AI/FIBO"
+website = "https://bria.ai"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

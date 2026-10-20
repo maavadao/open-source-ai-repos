@@ -1,0 +1,9 @@
+name = "Agent-Kernel"
+description = "A MicroKernel Multi-Agents System Framework for Adaptive Social Simulation Powered by LLMs"
+category = "agents"
+tags = ["artificial-intelligence", "large-language-models", "multi-agent-systems", "social-simulation"]
+repository = "https://github.com/ZJU-LLMs/Agent-Kernel"
+website = "https://www.agent-kernel.tech"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Awesome-Model-Merging-Methods-Theories-Applications"
+description = "Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities. ACM Computing Surveys, 2026."
+category = "learning"
+tags = ["attack-defense", "continual-learning", "ensemble-learning", "federated-learning", "generalization", "generative-model", "large-language-models", "model-fusion"]
+repository = "https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications"
+website = "https://arxiv.org/pdf/2408.07666"
+license = "NOASSERTION"
+added = 2026-10-20

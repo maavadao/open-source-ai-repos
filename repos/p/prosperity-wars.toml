@@ -1,0 +1,8 @@
+name = "Prosperity-Wars"
+description = "Game-like agent based economy simulator"
+category = "agents"
+tags = ["simulation", "game", "agent-based", "economy", "strategy", "unity", "4x-strategy-game", "idle-game"]
+repository = "https://github.com/Nashet/Prosperity-Wars"
+license = "GPL-3.0"
+language = "C#"
+added = 2026-10-20

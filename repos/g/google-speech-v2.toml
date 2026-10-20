@@ -1,0 +1,7 @@
+name = "google-speech-v2"
+description = "Reverse Engineering Google's Speech To Text API (v2)"
+category = "speech"
+tags = ["audio", "text-to-speech"]
+repository = "https://github.com/gillesdemey/google-speech-v2"
+license = "NOASSERTION"
+added = 2026-10-20

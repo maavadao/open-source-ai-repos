@@ -1,0 +1,9 @@
+name = "llm-python"
+description = "Large Language Models (LLMs) tutorials & sample scripts, ft. langchain, openai, llamaindex, gpt, chromadb & pinecone"
+category = "learning"
+tags = ["langchain", "chromadb", "gpt-3", "langchain-python", "llamaindex", "openai-api", "llm", "llmops"]
+repository = "https://github.com/onlyphantom/llm-python"
+website = "https://www.youtube.com/playlist?list=PLXsFtK46HZxUQERRbOmuGoqbMD-KWLkOS"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

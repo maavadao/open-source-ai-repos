@@ -1,0 +1,8 @@
+name = "Tensorflow-Project-Template"
+description = "A best practice for tensorflow project template architecture."
+category = "learning"
+tags = ["tesnorflow", "software-engineering", "oop", "deep-learning", "neural-network", "convolutional-neural-networks", "tensorflow-tutorials", "deep-learning-tutorial"]
+repository = "https://github.com/mgsalem/Tensorflow-Project-Template"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

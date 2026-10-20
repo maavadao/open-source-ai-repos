@@ -1,0 +1,8 @@
+name = "ml-course"
+description = "Open Machine Learning course"
+category = "learning"
+tags = ["machine-learning", "python", "course", "deep-learning", "pytorch", "natural-language-processing", "reinforcement-learning", "computer-vision"]
+repository = "https://github.com/girafe-ai/ml-course"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

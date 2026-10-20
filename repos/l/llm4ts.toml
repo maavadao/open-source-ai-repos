@@ -1,0 +1,7 @@
+name = "LLM4TS"
+description = "Large Language & Foundation Models for Time Series."
+category = "models"
+tags = ["deep-learning", "large-language-models", "survey", "time-series", "foundation-models"]
+repository = "https://github.com/liaoyuhua/LLM4TS"
+license = "NOASSERTION"
+added = 2026-10-20

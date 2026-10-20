@@ -1,0 +1,7 @@
+name = "Awesome-LLM-Reasoning-with-NeSy"
+description = "Latest Advances on Neuro-Symbolic Learning in the era of Large Language Models"
+category = "learning"
+tags = ["artificial-intelligence", "large-language-models", "machine-learning", "neuro-symbolic", "awesome", "embodied-ai", "first-order-logic", "gpt-4o"]
+repository = "https://github.com/LAMDA-NeSy/Awesome-LLM-Reasoning-with-NeSy"
+license = "NOASSERTION"
+added = 2026-10-20

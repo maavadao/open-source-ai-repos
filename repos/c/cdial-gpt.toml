@@ -1,0 +1,8 @@
+name = "CDial-GPT"
+description = "A Large-scale Chinese Short-Text Conversation Dataset and Chinese pre-training dialog models"
+category = "models"
+tags = ["dialogue", "pytorch", "gpt", "gpt-2", "lccc", "text-generation"]
+repository = "https://github.com/thu-coai/CDial-GPT"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

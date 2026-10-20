@@ -1,0 +1,9 @@
+name = "IP-Adapter"
+description = "The image prompt adapter is designed to enable a pretrained text-to-image diffusion model to generate images with image prompt."
+category = "image"
+repository = "https://github.com/tencent-ailab/IP-Adapter"
+website = "https://ip-adapter.github.io"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+skill_level = "intermediate"
+added = 2026-10-20

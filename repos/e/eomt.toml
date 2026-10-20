@@ -1,0 +1,9 @@
+name = "eomt"
+description = "[CVPR 2025 Highlight] Official code and models for Encoder-only Mask Transformer (EoMT)."
+category = "vision"
+tags = ["image-segmentation", "instance-segmentation", "panoptic-segmentation", "segmentation", "transformers", "vision-transformer", "vit", "eomt"]
+repository = "https://github.com/tue-mps/eomt"
+website = "https://www.tue-mps.org/eomt/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

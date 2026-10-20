@@ -1,0 +1,9 @@
+name = "ChatSim"
+description = "[CVPR2024 Highlight] Editable Scene Simulation for Autonomous Driving via LLM-Agent Collaboration"
+category = "robotics"
+tags = ["3d", "3d-reconstruction", "3d-vision", "auto", "autonomous-driving", "llm", "llm-agent", "llm-agents"]
+repository = "https://github.com/yifanlu0227/ChatSim"
+website = "https://yifanlu0227.github.io/ChatSim"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

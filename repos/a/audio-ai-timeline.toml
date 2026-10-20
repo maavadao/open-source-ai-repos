@@ -1,0 +1,7 @@
+name = "audio-ai-timeline"
+description = "A timeline of the latest AI models for audio generation, starting in 2023!"
+category = "data-science"
+tags = ["artificial-intelligence", "audio-generation", "machine-learning"]
+repository = "https://github.com/archinetai/audio-ai-timeline"
+license = "NOASSERTION"
+added = 2026-10-20

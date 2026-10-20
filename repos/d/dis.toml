@@ -1,0 +1,8 @@
+name = "DIS"
+description = "This is the repo for our new project Highly Accurate Dichotomous Image Segmentation"
+category = "vision"
+tags = ["background-removal", "deep-learning", "dichotomous-image-segmentation", "computer-vision", "u-2-net"]
+repository = "https://github.com/xuebinqin/DIS"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

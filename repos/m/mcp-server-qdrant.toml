@@ -1,0 +1,9 @@
+name = "mcp-server-qdrant"
+description = "An official Qdrant Model Context Protocol (MCP) server implementation"
+category = "mcp-servers"
+tags = ["claude", "cursor", "llm", "mcp", "mcp-server", "semantic-search", "windsurf"]
+repository = "https://github.com/qdrant/mcp-server-qdrant"
+website = "https://qdrant.tech"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

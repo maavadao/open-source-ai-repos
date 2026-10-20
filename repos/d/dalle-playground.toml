@@ -1,0 +1,8 @@
+name = "dalle-playground"
+description = "A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)"
+category = "image"
+tags = ["dall-e", "openai", "gan", "text-to-image", "transformers", "artificial", "artificial-intelligence", "machine-learning"]
+repository = "https://github.com/saharmor/dalle-playground"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "OccNet"
+description = "[ICCV 2023] OccNet: Scene as Occupancy"
+category = "robotics"
+tags = ["3d-object-detection", "autonomous-driving", "3d-occupancy"]
+repository = "https://github.com/OpenDriveLab/OccNet"
+website = "https://arxiv.org/abs/2306.02851"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

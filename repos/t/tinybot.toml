@@ -1,0 +1,9 @@
+name = "tinybot"
+description = "Tinybot is a lightweight personal AI Agent that is constantly evolving"
+category = "local-llms"
+tags = ["agent", "ai", "ai-agent", "memory", "deepseek", "llm", "qwen", "rust"]
+repository = "https://github.com/SudoJacky/tinybot"
+website = "https://sudojacky.github.io/tinybot/"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

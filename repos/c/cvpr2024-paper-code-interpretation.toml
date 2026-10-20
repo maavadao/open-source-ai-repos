@@ -1,0 +1,8 @@
+name = "CVPR2024-Paper-Code-Interpretation"
+description = "cvpr2024/cvpr2023/cvpr2022/cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017 论文/代码/解读/直播合集，极市团队整理"
+category = "vision"
+tags = ["computer-vision", "cvpr2020", "cvpr2019", "deep-learning", "machine-learning", "object-detection", "image-segmentation", "image-classification"]
+repository = "https://github.com/extreme-assistant/CVPR2024-Paper-Code-Interpretation"
+website = "http://bbs.cvmart.net/"
+license = "NOASSERTION"
+added = 2026-10-20

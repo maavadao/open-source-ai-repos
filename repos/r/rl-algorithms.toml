@@ -1,0 +1,9 @@
+name = "rl_algorithms"
+description = "Structural implementation of RL key algorithms"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "pytorch", "gym", "policy-gradient", "deep-learning", "dqn", "python3"]
+repository = "https://github.com/medipixel/rl_algorithms"
+website = "https://www.medipixel.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

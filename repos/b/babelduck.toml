@@ -1,0 +1,9 @@
+name = "BabelDuck"
+description = "Beginner-friendly AI conversation practice application"
+category = "speech"
+tags = ["ai", "language-learning", "language-practice", "chatbot", "chatgpt", "openai", "conversation", "speech"]
+repository = "https://github.com/Orenoid/BabelDuck"
+website = "https://duck.orenoid.com"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

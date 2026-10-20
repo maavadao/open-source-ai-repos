@@ -1,0 +1,9 @@
+name = "POT"
+description = "POT : Python Optimal Transport"
+category = "data-science"
+tags = ["optimal-transport", "numerical-optimization", "machine-learning", "emd", "ot-mapping-estimation", "wasserstein-barycenter", "ot-solver", "python"]
+repository = "https://github.com/PythonOT/POT"
+website = "https://PythonOT.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

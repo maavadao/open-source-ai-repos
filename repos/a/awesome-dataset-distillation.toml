@@ -1,0 +1,9 @@
+name = "Awesome-Dataset-Distillation"
+description = "A curated list of awesome papers on dataset distillation and related applications."
+category = "learning"
+tags = ["awesome-list", "deep-learning"]
+repository = "https://github.com/Guang000/Awesome-Dataset-Distillation"
+website = "https://guang000.github.io/Awesome-Dataset-Distillation/"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

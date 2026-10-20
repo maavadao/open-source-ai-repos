@@ -1,0 +1,8 @@
+name = "opencove"
+description = "Your infinite canvas workspace for agents, tasks, knowledge, and research. An infinite canvas for Claude Code, Codex, terminals, tasks, and notes."
+category = "coding"
+tags = ["ai", "ai-agents", "claude-code", "codex", "desktop-app", "electron", "infinite-canvas", "react"]
+repository = "https://github.com/DeadWaveWave/opencove"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

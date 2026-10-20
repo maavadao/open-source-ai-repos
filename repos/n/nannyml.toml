@@ -1,0 +1,9 @@
+name = "nannyml"
+description = "nannyml: post-deployment data science in python"
+category = "ml-platforms"
+tags = ["machine-learning", "ml", "mlops", "performance-monitoring", "data-science", "monitoring", "python", "data-drift"]
+repository = "https://github.com/NannyML/nannyml"
+website = "https://www.nannyml.com/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

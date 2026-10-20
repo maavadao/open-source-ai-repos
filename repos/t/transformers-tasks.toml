@@ -1,0 +1,9 @@
+name = "transformers_tasks"
+description = "NLP Algorithms with transformers lib. Supporting Text-Classification, Text-Generation, Information-Extraction, Text-Matching, RLHF, SFT etc."
+category = "models"
+tags = ["nlp", "text-classification", "text-matching", "information-extraction", "reinforcement-learning", "transformers", "text-generation"]
+repository = "https://github.com/HarderThenHarder/transformers_tasks"
+website = "https://www.zhihu.com/column/c_1451236880973426688"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

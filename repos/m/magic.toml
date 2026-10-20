@@ -1,0 +1,9 @@
+name = "magic"
+description = "Magicrew. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)"
+category = "mcp-servers"
+tags = ["agent", "agi", "ai", "gpt", "llm", "low-code", "mcp", "no-code"]
+repository = "https://github.com/dtyq/magic"
+website = "https://www.magicrew.ai/"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

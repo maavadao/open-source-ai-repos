@@ -1,0 +1,8 @@
+name = "parti-pytorch"
+description = "Implementation of Parti, Google's pure attention-based text-to-image neural network, in Pytorch"
+category = "image"
+tags = ["artificial-intelligence", "attention-mechanism", "deep-learning", "text-to-image", "transformers"]
+repository = "https://github.com/lucidrains/parti-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

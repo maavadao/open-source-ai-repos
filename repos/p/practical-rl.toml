@@ -1,0 +1,8 @@
+name = "Practical_RL"
+description = "A course in reinforcement learning in the wild"
+category = "learning"
+tags = ["reinforcement-learning", "course-materials", "deep-learning", "deep-reinforcement-learning", "git-course", "mooc", "tensorflow", "pytorch"]
+repository = "https://github.com/yandexdataschool/Practical_RL"
+license = "Unlicense"
+language = "Jupyter Notebook"
+added = 2026-10-20

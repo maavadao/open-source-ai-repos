@@ -1,0 +1,9 @@
+name = "VisTR"
+description = "[CVPR2021 Oral] End-to-End Video Instance Segmentation with Transformers"
+category = "vision"
+tags = ["cvpr2021", "video-instance-segmentation", "transformers", "instance-segmentation"]
+repository = "https://github.com/YuqingWang1029/VisTR"
+website = "https://arxiv.org/abs/2011.14503"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

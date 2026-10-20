@@ -1,0 +1,9 @@
+name = "comanda"
+description = "The CLI-native orchestrator for AI agent workflows. Run Claude Code, Codex, Gemini CLI & Kimi Code from declarative YAML. Because the terminal is where real work happens."
+category = "mcp-servers"
+tags = ["agents", "ai", "ai-agents", "anthropic", "automation", "claude", "cli", "codex"]
+repository = "https://github.com/kris-hansen/comanda"
+website = "https://comanda.sh"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

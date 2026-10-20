@@ -1,0 +1,7 @@
+name = "Awesome-Deblurring"
+description = "A curated list of resources for Image and Video Deblurring"
+category = "learning"
+tags = ["image-deblurring", "video-deblurring", "image-deconvolution", "stereo-deblurring", "burst-deblurring", "motion-blur", "kernel-estimation", "camera-shake"]
+repository = "https://github.com/subeeshvasu/Awesome-Deblurring"
+license = "NOASSERTION"
+added = 2026-10-20

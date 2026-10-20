@@ -1,0 +1,8 @@
+name = "IA-SSD"
+description = "Not All Points Are Equal: Learning Highly Efficient Point-based Detectors for 3D LiDAR Point Clouds (CVPR 2022, Oral)"
+category = "robotics"
+tags = ["point-cloud", "pytorch", "object-detection", "autonomous-driving", "3d-object-detection", "ia-ssd"]
+repository = "https://github.com/yifanzhang713/IA-SSD"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

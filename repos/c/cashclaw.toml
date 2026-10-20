@@ -1,0 +1,9 @@
+name = "cashclaw"
+description = "An autonomous agent that takes work, does work, gets paid, and gets better at it."
+category = "agents"
+tags = ["ai-agent", "autonomous-agent", "base", "claude", "llm", "marketplace", "onchain", "self-learning"]
+repository = "https://github.com/moltlaunch/cashclaw"
+website = "https://moltlaunch.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

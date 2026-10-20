@@ -1,0 +1,7 @@
+name = "CV-pretrained-model"
+description = "A collection of computer vision pre-trained models."
+category = "vision"
+tags = ["computer-vision", "tensorflow", "keras", "pytorch", "mxnet", "models", "model", "pretrained-models"]
+repository = "https://github.com/balavenkatesh3322/CV-pretrained-model"
+license = "MIT"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "unfake.js"
+description = "Fix AI pixel art and vector images right in your browser"
+category = "image"
+tags = ["browser-tools", "computer-vision", "pixel-art", "text-to-image", "vector-graphics"]
+repository = "https://github.com/jenissimo/unfake.js"
+website = "https://jenissimo.itch.io/unfaker"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

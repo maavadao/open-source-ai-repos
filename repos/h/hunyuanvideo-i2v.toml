@@ -1,0 +1,9 @@
+name = "HunyuanVideo-I2V"
+description = "HunyuanVideo-I2V: A Customizable Image-to-Video Model based on HunyuanVideo"
+category = "video"
+tags = ["diffusion-models", "image-to-video", "image-to-video-generation", "videogeneration"]
+repository = "https://github.com/Tencent-Hunyuan/HunyuanVideo-I2V"
+website = "https://video.hunyuan.tencent.com/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

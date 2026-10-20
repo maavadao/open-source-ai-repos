@@ -1,0 +1,9 @@
+name = "ai-cookbook"
+description = "Examples and tutorials to help developers build AI systems"
+category = "learning"
+tags = ["agents", "ai", "anthropic", "llm", "openai", "python"]
+repository = "https://github.com/daveebbelaar/ai-cookbook"
+website = "https://www.youtube.com/@daveebbelaar"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

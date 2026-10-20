@@ -1,0 +1,9 @@
+name = "vaex"
+description = "Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second"
+category = "data-science"
+tags = ["dataframe", "python", "bigdata", "tabular-data", "visualization", "memory-mapped-file", "hdf5", "machine-learning"]
+repository = "https://github.com/vaexio/vaex"
+website = "https://vaex.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

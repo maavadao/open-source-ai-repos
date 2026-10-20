@@ -1,0 +1,8 @@
+name = "RecNN"
+description = "Reinforced Recommendation toolkit built around pytorch 1.7"
+category = "ml-platforms"
+tags = ["pytorch", "reinforcement-learning", "news-recommendation", "pytorch-rl", "recommender-system", "recommendation-system", "library", "toolkit"]
+repository = "https://github.com/awarebayes/RecNN"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

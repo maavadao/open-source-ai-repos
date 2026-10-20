@@ -1,0 +1,9 @@
+name = "open-bsp-api"
+description = "Open-source WhatsApp + Instagram Business platform"
+category = "mcp-servers"
+tags = ["agents", "ai-agents", "deno", "mcp", "supabase", "whatsapp", "whatsapp-api", "ai"]
+repository = "https://github.com/matiasbattocchia/open-bsp-api"
+website = "https://web.openbsp.dev"
+license = "Unlicense"
+language = "TypeScript"
+added = 2026-10-20

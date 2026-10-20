@@ -1,0 +1,9 @@
+name = "cvlib"
+description = "A simple, high level, easy to use, open source Computer Vision library for Python."
+category = "vision"
+tags = ["computer-vision", "image-processing", "machine-learning", "deep-learning", "python"]
+repository = "https://github.com/arunponnusamy/cvlib"
+website = "http://arunponnusamy.com/cvlib/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

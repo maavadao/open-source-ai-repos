@@ -1,0 +1,9 @@
+name = "SSDNeRF"
+description = "[ICCV 2023] Single-Stage Diffusion NeRF"
+category = "image"
+tags = ["3d-reconstruction", "diffusion-models", "generative-model", "nerf", "iccv"]
+repository = "https://github.com/Lakonik/SSDNeRF"
+website = "https://lakonik.github.io/ssdnerf/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

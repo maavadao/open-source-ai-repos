@@ -1,0 +1,9 @@
+name = "context-engineering-kit"
+description = "Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others. Includes CodeRabbit open-source alternative."
+category = "coding"
+tags = ["agent", "ai", "claude", "llm", "marketplace", "cline", "cursor", "opencode"]
+repository = "https://github.com/NeoLabHQ/context-engineering-kit"
+website = "https://neolab.gitbook.io/cek"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

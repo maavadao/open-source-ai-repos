@@ -1,0 +1,9 @@
+name = "flux-krea"
+description = "Official GitHub repository for FLUX.1 Krea [dev]."
+category = "image"
+tags = ["diffusion-models", "flux", "machine-learning", "text-to-image"]
+repository = "https://github.com/krea-ai/flux-krea"
+website = "https://krea.ai/blog/flux-krea-open-source-release"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

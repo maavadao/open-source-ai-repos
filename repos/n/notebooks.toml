@@ -1,0 +1,9 @@
+name = "notebooks"
+description = "A collection of tutorials on state-of-the-art computer vision models and techniques. Explore everything from foundational architectures like ResNet to cutting-edge models like RF-DETR, YOLO11, SAM 3, and Qwen3-VL."
+category = "learning"
+tags = ["computer-vision", "deep-learning", "deep-neural-networks", "image-classification", "image-segmentation", "object-detection", "yolov5", "pytorch"]
+repository = "https://github.com/roboflow/notebooks"
+website = "https://roboflow.com/models"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "MAC-VO"
+description = "[ICRA 2025 Best Paper] MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry"
+category = "vision"
+tags = ["computer-vision", "slam-algorithms", "visual-odometry"]
+repository = "https://github.com/MAC-VO/MAC-VO"
+website = "https://mac-vo.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "speechbrain"
+description = "A PyTorch-based Speech Toolkit"
+category = "speech"
+tags = ["speech-recognition", "speech-toolkit", "speaker-recognition", "speech-to-text", "speech-enhancement", "speech-separation", "audio", "audio-processing"]
+repository = "https://github.com/speechbrain/speechbrain"
+website = "http://speechbrain.github.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

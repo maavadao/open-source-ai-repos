@@ -1,0 +1,9 @@
+name = "comfyui-mcp"
+description = "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178…"
+category = "mcp-servers"
+tags = ["agent-skills", "ai-agent", "claude-code", "claude-plugin", "comfyui", "comfyui-extension", "flux", "image-generation"]
+repository = "https://github.com/artokun/comfyui-mcp"
+website = "https://comfyui-mcp.artokun.io/docs"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

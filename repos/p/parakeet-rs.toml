@@ -1,0 +1,9 @@
+name = "parakeet-rs"
+description = "very fast speech-to-text, diarization, streaming (even in CPU) with NVIDIA Parakeet in Rust"
+category = "speech"
+tags = ["asr", "onnx", "parakeet", "speech", "speech-recognition", "speech-to-text", "automatic-speech-recognition", "speaker-diarization"]
+repository = "https://github.com/altunenes/parakeet-rs"
+website = "https://huggingface.co/altunenes/parakeet-rs"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

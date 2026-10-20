@@ -1,0 +1,8 @@
+name = "activity-frames"
+description = "Turn your workday into structured workflows agents can execute. 100% local, served over MCP."
+category = "mcp-servers"
+tags = ["agent-memory", "ai-agents", "context-engineering", "llm", "mcp", "computer-use", "episodic-memory"]
+repository = "https://github.com/nossa-y/activity-frames"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

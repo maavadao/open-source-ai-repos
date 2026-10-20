@@ -1,0 +1,8 @@
+name = "Machine-Learning"
+description = "ML from scratch"
+category = "learning"
+tags = ["machine-learning"]
+repository = "https://github.com/DorsaRoh/Machine-Learning"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "comet"
+description = "Comet: agent skill harness for turning ideas into evaluated workflows"
+category = "skills-prompts"
+tags = ["ai", "harness-engineering", "sdd", "skills", "spec", "eval", "skill-creator", "phase-guarded"]
+repository = "https://github.com/rpamis/comet"
+website = "https://docs.comet.rpamis.com"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

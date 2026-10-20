@@ -1,0 +1,8 @@
+name = "alan-sdk-cordova"
+description = "The Self-Coding System for Your App — Alan AI SDK for Cordova"
+category = "speech"
+tags = ["conversational-ai", "speech-recognition", "text-to-speech", "machine-learning", "voice-commands", "chatbot", "voice-assistant", "voice-interface"]
+repository = "https://github.com/alan-ai/alan-sdk-cordova"
+license = "NOASSERTION"
+language = "Ruby"
+added = 2026-10-20

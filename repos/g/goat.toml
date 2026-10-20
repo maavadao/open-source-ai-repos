@@ -1,0 +1,8 @@
+name = "goat"
+description = "[Archived] Read-only historical snapshot. No issues, PRs, or updates. Use as-is."
+category = "agents"
+tags = ["agents", "ai", "blockchain", "crypto"]
+repository = "https://github.com/goat-sdk/goat"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

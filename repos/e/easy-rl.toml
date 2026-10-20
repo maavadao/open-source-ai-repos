@@ -1,0 +1,8 @@
+name = "easy-rl"
+description = "强化学习中文教程（蘑菇书），在线阅读地址：https://datawhalechina.github.io/easy-rl/"
+category = "ml-platforms"
+tags = ["deep-reinforcement-learning", "reinforcement-learning", "dqn", "ppo", "a3c", "q-learning", "sarsa", "imitation-learning"]
+repository = "https://github.com/datawhalechina/easy-rl"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

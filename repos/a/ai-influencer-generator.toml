@@ -1,0 +1,9 @@
+name = "AI-Influencer-Generator"
+description = "Create and customize your AI influencer open-source"
+category = "video"
+tags = ["ai-influencer", "artificial-intelligence", "text-to-image", "text-to-video", "virtual-influencers", "ai-api", "ai-tools", "creative-ai"]
+repository = "https://github.com/SamurAIGPT/AI-Influencer-Generator"
+website = "https://vadoo.tv/ai-influencer-generator"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

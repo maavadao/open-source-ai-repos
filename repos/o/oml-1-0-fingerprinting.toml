@@ -1,0 +1,8 @@
+name = "OML-1.0-Fingerprinting"
+description = "OML 1.0 via Fingerprinting: Open, Monetizable, and Loyal AI"
+category = "ml-platforms"
+tags = ["oml", "fine-tuning", "fingerprint", "loyalty", "sentient", "verifiable-ai"]
+repository = "https://github.com/sentient-agi/OML-1.0-Fingerprinting"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

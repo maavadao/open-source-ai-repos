@@ -1,0 +1,9 @@
+name = "Everywhere"
+description = "On-screen aware AI assistant for your desktop. Uses current app context, multiple LLMs, and MCP tools to help you act across apps."
+category = "mcp-servers"
+tags = ["ai", "avalonia", "deepseek", "mcp", "openai", "claude", "gemini", "ai-agents"]
+repository = "https://github.com/Sylinko/Everywhere"
+website = "https://everywhere.sylinko.com"
+license = "NOASSERTION"
+language = "C#"
+added = 2026-10-20

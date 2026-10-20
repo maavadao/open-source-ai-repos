@@ -1,0 +1,8 @@
+name = "ComfyUI_ExtraModels"
+description = "Support for miscellaneous image models. Currently supports: DiT, PixArt, HunYuanDiT, MiaoBi, and a few VAEs."
+category = "image"
+tags = ["comfyui", "stable-diffusion"]
+repository = "https://github.com/city96/ComfyUI_ExtraModels"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

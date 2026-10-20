@@ -1,0 +1,9 @@
+name = "hive"
+description = "Browser-native hive-mind for CLI coding agents — Claude Code, Codex, Gemini, and OpenCode collaborate as real PTY processes via a team protocol."
+category = "coding"
+tags = ["agent-orchestration", "ai-agents", "claude-code", "cli", "codex", "coding-agent", "developer-tools", "local-first"]
+repository = "https://github.com/tt-a1i/hive"
+website = "https://hivehq.dev"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

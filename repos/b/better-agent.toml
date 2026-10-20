@@ -1,0 +1,9 @@
+name = "better-agent"
+description = "The better way to build AI agents in TypeScript."
+category = "agents"
+tags = ["ai", "ai-agents", "ai-agents-framework", "generative-ai", "llm", "typescript"]
+repository = "https://github.com/better-agent/better-agent"
+website = "https://www.better-agent.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

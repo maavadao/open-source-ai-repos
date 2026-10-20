@@ -1,0 +1,9 @@
+name = "xyne"
+description = "AI-first Search & Answer Engine for work. Open-source alternative to Glean."
+category = "llm-apps"
+tags = ["enterprise-search", "gen-ai", "rag", "typescript", "claude", "generative-ai", "integrations", "openai"]
+repository = "https://github.com/xynehq/xyne"
+website = "https://xyne.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

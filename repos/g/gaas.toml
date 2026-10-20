@@ -1,0 +1,9 @@
+name = "GAAS"
+description = "GAAS is an open-source program designed for fully autonomous VTOL(a.k.a flying cars) and drones. GAAS stands for Generalized Autonomy Aviation System."
+category = "robotics"
+tags = ["drone", "drones", "autonomous-quadcoptor", "autonomous", "flying-car", "aviation", "flight-controller", "flight"]
+repository = "https://github.com/generalized-intelligence/GAAS"
+website = "https://www.gaas.dev"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

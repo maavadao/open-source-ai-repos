@@ -1,0 +1,10 @@
+name = "mlflow"
+description = "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data."
+category = "ml-platforms"
+tags = ["machine-learning", "ai", "ml", "mlflow", "apache-spark", "model-management", "agentops", "agents"]
+repository = "https://github.com/mlflow/mlflow"
+website = "https://mlflow.org"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "beginner"
+added = 2026-10-20

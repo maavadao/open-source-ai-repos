@@ -1,0 +1,9 @@
+name = "MonoScene"
+description = "[CVPR 2022] \"MonoScene: Monocular 3D Semantic Scene Completion\": 3D Semantic Occupancy Prediction from a single image"
+category = "vision"
+tags = ["nyu-depth-v2", "semantic-scene-completion", "semantic-scene-understanding", "single-image-reconstruction", "monocular", "2d-to-3d", "semantic-kitti", "kitti-360"]
+repository = "https://github.com/astra-vision/MonoScene"
+website = "https://astra-vision.github.io/MonoScene/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

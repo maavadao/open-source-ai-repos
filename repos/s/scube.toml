@@ -1,0 +1,9 @@
+name = "SCube"
+description = "[NeurIPS 2024] SCube: Instant Large-Scale Scene Reconstruction using VoxSplats"
+category = "image"
+tags = ["3d-reconstruction", "diffusion-models", "gaussian-splatting", "sparse-view", "voxel"]
+repository = "https://github.com/nv-tlabs/SCube"
+website = "https://research.nvidia.com/labs/toronto-ai/scube/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

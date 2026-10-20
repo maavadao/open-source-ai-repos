@@ -1,0 +1,8 @@
+name = "storyteller"
+description = "Multimodal AI Story Teller, built with Stable Diffusion, GPT, and neural text-to-speech"
+category = "speech"
+tags = ["gpt", "image-generation", "pytorch", "stable-diffusion", "text-to-image", "text-to-speech", "text-to-video", "video-generation"]
+repository = "https://github.com/jaketae/storyteller"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

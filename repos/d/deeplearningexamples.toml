@@ -1,0 +1,8 @@
+name = "DeepLearningExamples"
+description = "State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure."
+category = "speech"
+tags = ["computer-vision", "deep-learning", "drug-discovery", "forecasting", "large-language-models", "mxnet", "paddlepaddle", "pytorch"]
+repository = "https://github.com/NVIDIA/DeepLearningExamples"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

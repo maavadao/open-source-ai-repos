@@ -1,0 +1,8 @@
+name = "lobe-cli-toolbox"
+description = "Lobe CLI Toolbox - AI CLI Toolbox, enhancing git commit and i18n workflow efficiency"
+category = "chat"
+tags = ["chatgpt", "ai-commit", "git-commits", "gitmoji-cli", "cli", "openai", "lobehub", "aicommit"]
+repository = "https://github.com/lobehub/lobe-cli-toolbox"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

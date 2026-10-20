@@ -1,0 +1,8 @@
+name = "stitching"
+description = "A Python package for fast and robust Image Stitching"
+category = "vision"
+tags = ["computer-vision", "image-stitching", "opencv-python", "panorama", "python"]
+repository = "https://github.com/OpenStitching/stitching"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "agent-engineer"
+description = "Agent Engineer - a practical course for software engineers"
+category = "learning"
+tags = ["agentic-framework", "ai-agents", "generative-ai"]
+repository = "https://github.com/addyosmani/agent-engineer"
+license = "Apache-2.0"
+added = 2026-10-20

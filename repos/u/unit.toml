@@ -1,0 +1,8 @@
+name = "UNIT"
+description = "Unsupervised Image-to-Image Translation"
+category = "ml-platforms"
+tags = ["gan", "deep-learning", "pix2pix", "image-translation"]
+repository = "https://github.com/mingyuliutw/UNIT"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

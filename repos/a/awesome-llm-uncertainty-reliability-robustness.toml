@@ -1,0 +1,7 @@
+name = "Awesome-LLM-Uncertainty-Reliability-Robustness"
+description = "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models"
+category = "learning"
+tags = ["awesome-list", "calibration", "gpt-3", "gpt-4", "llms", "reliability", "robustness", "safety"]
+repository = "https://github.com/jxzhangjhu/Awesome-LLM-Uncertainty-Reliability-Robustness"
+license = "MIT"
+added = 2026-10-20

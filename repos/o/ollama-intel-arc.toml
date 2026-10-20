@@ -1,0 +1,8 @@
+name = "ollama-intel-arc"
+description = "Make use of Intel Arc Series GPU to Run Ollama, StableDiffusion, Whisper and Open WebUI, for image generation, speech recognition and interaction with Large Language Models (LLM)."
+category = "image"
+tags = ["docker", "intel-arc", "ollama", "openai-whisper", "stable-diffusion", "intel-gpu"]
+repository = "https://github.com/eleiton/ollama-intel-arc"
+license = "Apache-2.0"
+language = "Dockerfile"
+added = 2026-10-20

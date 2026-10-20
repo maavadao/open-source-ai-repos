@@ -1,0 +1,9 @@
+name = "Baichuan-13B"
+description = "A 13B large language model developed by Baichuan Intelligent Technology"
+category = "chat"
+tags = ["artificial-intelligence", "chatgpt", "chinese", "gpt-4", "huggingface", "large-language-models", "natural-language-processing", "benchmark"]
+repository = "https://github.com/baichuan-inc/Baichuan-13B"
+website = "https://huggingface.co/baichuan-inc/Baichuan-13B-Chat"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

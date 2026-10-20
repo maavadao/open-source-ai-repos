@@ -1,0 +1,9 @@
+name = "llmflows"
+description = "LLMFlows - Simple, Explicit and Transparent LLM Apps"
+category = "vector-databases"
+tags = ["ai", "llm", "llm-inference", "llmops", "llms", "machine-learning", "openai", "prompt-engineering"]
+repository = "https://github.com/stoyan-stoyanov/llmflows"
+website = "https://llmflows.readthedocs.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

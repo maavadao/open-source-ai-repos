@@ -1,0 +1,8 @@
+name = "ProDiff"
+description = "PyTorch Implementation of ProDiff (ACM-MM'22) with a Extremely-Fast diffusion speech synthesis pipeline"
+category = "speech"
+tags = ["diffusion-models", "speech-synthesis", "text-to-speech"]
+repository = "https://github.com/Rongjiehuang/ProDiff"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

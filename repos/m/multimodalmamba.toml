@@ -1,0 +1,9 @@
+name = "MultiModalMamba"
+description = "A novel implementation of fusing ViT with Mamba into a fast, agile, and high performance Multi-Modal Model. Powered by Zeta, the simplest AI framework ever."
+category = "models"
+tags = ["ai", "artificial-intelligence", "attention-mechanism", "machine-learning", "ml", "pytorch", "zeta", "mamba"]
+repository = "https://github.com/kyegomez/MultiModalMamba"
+website = "https://discord.gg/GYbXvDGevY"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

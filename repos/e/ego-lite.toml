@@ -1,0 +1,9 @@
+name = "ego-lite"
+description = "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agent", "skills-sh", "skills", "browser", "browser-automation", "automation", "claude-code"]
+repository = "https://github.com/citrolabs/ego-lite"
+website = "https://lite.ego.app"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

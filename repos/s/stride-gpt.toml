@@ -1,0 +1,9 @@
+name = "stride-gpt"
+description = "An AI-powered threat modeling tool that leverages OpenAI's GPT models to generate threat models for a given application based on the STRIDE methodology."
+category = "mcp-servers"
+tags = ["ai-security", "application-security", "attack-trees", "cybersecurity", "dread", "generative-ai", "llm", "mcp"]
+repository = "https://github.com/mrwadams/stride-gpt"
+website = "https://stridegpt.streamlit.app"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

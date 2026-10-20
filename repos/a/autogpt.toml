@@ -1,0 +1,10 @@
+name = "AutoGPT"
+description = "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
+category = "agents"
+tags = ["ai", "openai", "python", "artificial-intelligence", "autonomous-agents", "llama-api", "agentic-ai", "agents"]
+repository = "https://github.com/Significant-Gravitas/AutoGPT"
+website = "https://agpt.co"
+license = "NOASSERTION"
+language = "Python"
+skill_level = "advanced"
+added = 2026-10-20

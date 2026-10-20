@@ -1,0 +1,9 @@
+name = "pydantic-ai-skills"
+description = "This package implements Agent Skills (https://agentskills.io) support with progressive disclosure for Pydantic AI. Supports filesystem and programmatic skills."
+category = "skills-prompts"
+tags = ["agent-skills", "agentic-ai", "ai-agents", "claude-code", "pydantic-ai", "agent-framework", "python"]
+repository = "https://github.com/DougTrajano/pydantic-ai-skills"
+website = "https://dougtrajano.github.io/pydantic-ai-skills/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "4D-ARE"
+description = "Build LLM agents that explain why, not just what. Attribution-driven agent requirements engineering framework. Based on the 4D-ARE Paper - https://arxiv.org/abs/2601.04556"
+category = "mcp-servers"
+tags = ["agents", "causal-reasoning", "llm", "mcp", "prompt-engineering", "python"]
+repository = "https://github.com/ybeven/4D-ARE"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "diffwave"
+description = "DiffWave is a fast, high-quality neural vocoder and waveform synthesizer."
+category = "speech"
+tags = ["machine-learning", "text-to-speech", "neural-network", "paper", "pytorch", "speech-synthesis", "diffwave", "vocoder"]
+repository = "https://github.com/lmnt-com/diffwave"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

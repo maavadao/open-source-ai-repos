@@ -1,0 +1,8 @@
+name = "i-have-adhd"
+description = "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
+category = "skills-prompts"
+tags = ["adhd", "claude-", "claude-code-plugin", "claude-skills", "developer-tools", "productivity"]
+repository = "https://github.com/ayghri/i-have-adhd"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "multi-task-NLP"
+description = "multi_task_NLP is a utility toolkit enabling NLP developers to easily train and infer a single model for multiple tasks."
+category = "models"
+tags = ["pytorch", "multitask-learning", "sentence-classification", "sequence-labeling", "entailment", "ranking", "intent-classification", "named-entity-recognition"]
+repository = "https://github.com/hellohaptik/multi-task-NLP"
+website = "https://multi-task-nlp.readthedocs.io/en/latest/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

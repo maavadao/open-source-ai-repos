@@ -1,0 +1,8 @@
+name = "GTR"
+description = "Global Tracking Transformers, CVPR 2022"
+category = "vision"
+tags = ["tracking", "large-vocabulary", "transformers"]
+repository = "https://github.com/xingyizhou/GTR"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

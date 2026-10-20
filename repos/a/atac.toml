@@ -1,0 +1,8 @@
+name = "ATaC"
+description = "Record and Replay AI Agent Trajectories."
+category = "mcp-servers"
+tags = ["agent-infra", "agents", "mcp", "skills"]
+repository = "https://github.com/ATaC-team/ATaC"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "ML-2021-notes"
+description = "臺灣大學 (NTU) 李宏毅教授「機器學習 (Machine Learning) 2021 Spring 」課程筆記"
+category = "models"
+tags = ["deep-learning", "machine-learning", "reinforcement-learning", "self-supervised-learning", "transformer", "gan", "cnn", "self-attention"]
+repository = "https://github.com/chsiang426/ML-2021-notes"
+website = "https://chsiang426.github.io/ML-2021-notes/"
+license = "NOASSERTION"
+added = 2026-10-20

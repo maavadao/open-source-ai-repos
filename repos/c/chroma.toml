@@ -1,0 +1,10 @@
+name = "chroma"
+description = "Search infrastructure for AI"
+category = "vector-databases"
+tags = ["database", "rust", "rust-lang", "ai", "agents", "ai-agents"]
+repository = "https://github.com/chroma-core/chroma"
+website = "https://www.trychroma.com"
+license = "Apache-2.0"
+language = "Rust"
+skill_level = "beginner"
+added = 2026-10-20

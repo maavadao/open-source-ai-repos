@@ -1,0 +1,9 @@
+name = "spaCy"
+description = "Industrial-strength Natural Language Processing (NLP) in Python"
+category = "ml-platforms"
+tags = ["natural-language-processing", "data-science", "machine-learning", "python", "cython", "nlp", "artificial-intelligence", "ai"]
+repository = "https://github.com/explosion/spaCy"
+website = "https://spacy.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

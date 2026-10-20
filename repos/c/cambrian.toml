@@ -1,0 +1,9 @@
+name = "cambrian"
+description = "Cambrian-1 is a family of multimodal LLMs with a vision-centric design."
+category = "vision"
+tags = ["chatbot", "clip", "computer-vision", "dino", "instruction-tuning", "large-language-models", "llms", "mllm"]
+repository = "https://github.com/cambrian-mllm/cambrian"
+website = "https://cambrian-mllm.github.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "chatbot"
+description = "A full-featured, hackable Next.js AI chatbot built by Vercel"
+category = "chat"
+tags = ["ai", "nextjs", "shadcn-ui", "vercel", "chatgpt", "react", "redis"]
+repository = "https://github.com/vercel/chatbot"
+website = "https://chatbot.ai-sdk.dev"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

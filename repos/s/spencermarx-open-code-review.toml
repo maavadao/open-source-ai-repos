@@ -1,0 +1,8 @@
+name = "open-code-review"
+description = "AI-powered multi-agent code review. Simulates a customizable team of Engineers performing code review with built-in discourse."
+category = "skills-prompts"
+tags = ["agentic-ai", "agents", "ai", "claude-ai", "claude-code", "claude-code-plugin", "claude-skills", "code-review"]
+repository = "https://github.com/spencermarx/open-code-review"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

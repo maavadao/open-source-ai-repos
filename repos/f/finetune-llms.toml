@@ -1,0 +1,8 @@
+name = "Finetune_LLMs"
+description = "Repo for fine-tuning Casual LLMs"
+category = "models"
+tags = ["docker", "falcon", "gpt", "gpt-3", "gpt-35-turbo", "gpt-4", "gpt-j-6b", "llama"]
+repository = "https://github.com/mallorbc/Finetune_LLMs"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

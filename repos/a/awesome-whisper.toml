@@ -1,0 +1,7 @@
+name = "awesome-whisper"
+description = "Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI"
+category = "learning"
+tags = ["ai", "artificial-intelligence", "awesome", "awesome-list", "gpt", "openai", "speech-to-text", "transcription"]
+repository = "https://github.com/sindresorhus/awesome-whisper"
+license = "CC0-1.0"
+added = 2026-10-20

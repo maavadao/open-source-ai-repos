@@ -1,0 +1,8 @@
+name = "J.A.R.V.I.S"
+description = "Personal Assistant built using python libraries. It does almost anything which includes sending emails, Optical Text Recognition, Dynamic News Reporting at any time with API integration, Todo list generator, Opens any website with just a voice command, Plays Music, Wikipedia…"
+category = "speech"
+tags = ["python3", "jarvis-ai", "jarvis", "dictionary-application", "newsapi", "weather-api", "speech-recognition", "pyttsx3"]
+repository = "https://github.com/GauravSingh9356/J.A.R.V.I.S"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

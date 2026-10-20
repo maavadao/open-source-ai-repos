@@ -1,0 +1,9 @@
+name = "bytedesk"
+description = "Open Souce IM with AI powered live-chat, email, ticket support, omni-channel customer service，alternative to slack + zendesk/intercom/hubspot/ada/decagon/sierra"
+category = "chat"
+tags = ["ai", "chatbot", "helpdesk", "livechat", "rag", "team", "omnichannel", "support"]
+repository = "https://github.com/Bytedesk/bytedesk"
+website = "https://www.bytedesk.com/en/"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-10-20

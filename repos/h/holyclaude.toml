@@ -1,0 +1,9 @@
+name = "HolyClaude"
+description = "AI coding workstation: Claude Code + web UI + 8 AI CLIs + headless browser + 50+ tools"
+category = "browser-automation"
+tags = ["ai", "ai-coding", "anthropic", "claude", "claude-code", "coding-agent", "container", "developer-tools"]
+repository = "https://github.com/CoderLuii/HolyClaude"
+website = "https://holyclaude.coderluii.dev"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

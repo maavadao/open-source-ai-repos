@@ -1,0 +1,9 @@
+name = "DouZero"
+description = "[ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning | 斗地主AI"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "doudizhu", "game-ai", "poker"]
+repository = "https://github.com/kwai/DouZero"
+website = "https://douzero.org/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

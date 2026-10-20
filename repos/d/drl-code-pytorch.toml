@@ -1,0 +1,8 @@
+name = "DRL-code-pytorch"
+description = "Concise pytorch implements of DRL algorithms, including REINFORCE, A2C, DQN, PPO(discrete and continuous), DDPG, TD3, SAC."
+category = "ml-platforms"
+tags = ["ddpg-pytorch", "dqn-pytorch", "ppo-pytorch", "pytorch", "rainbow-dqn", "reinforcement-learning", "sac-pytorch", "td3-pytorch"]
+repository = "https://github.com/Lizhi-sjtu/DRL-code-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

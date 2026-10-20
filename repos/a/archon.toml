@@ -1,0 +1,9 @@
+name = "Archon"
+description = "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable."
+category = "coding"
+tags = ["ai", "automation", "bun", "claude", "cli", "coding-assistant", "developer-tools", "typescript"]
+repository = "https://github.com/coleam00/Archon"
+website = "https://archon.diy"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

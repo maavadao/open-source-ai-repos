@@ -1,0 +1,8 @@
+name = "Langchain-Chatchat"
+description = "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain"
+category = "local-llms"
+tags = ["chatglm", "langchain", "llm", "knowledge-base", "llama", "chatbot", "chatgpt", "embedding"]
+repository = "https://github.com/chatchat-space/Langchain-Chatchat"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

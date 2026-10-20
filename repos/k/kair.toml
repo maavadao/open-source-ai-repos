@@ -1,0 +1,9 @@
+name = "KAIR"
+description = "Image Restoration Toolbox (PyTorch). Training and testing codes for DPIR, USRNet, DnCNN, FFDNet, SRMD, DPSR, BSRGAN, SwinIR"
+category = "image"
+tags = ["image-restoration", "denoising", "super-resolution", "sisr", "pytorch", "toolbox", "dncnn", "usrnet"]
+repository = "https://github.com/cszn/KAIR"
+website = "https://cszn.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

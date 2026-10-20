@@ -1,0 +1,8 @@
+name = "generative-compression"
+description = "TensorFlow Implementation of Generative Adversarial Networks for Extreme Learned Image Compression"
+category = "vision"
+tags = ["generative-adversarial-network", "image-compression", "tensorflow", "gan", "computer-vision"]
+repository = "https://github.com/Justin-Tan/generative-compression"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

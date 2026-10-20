@@ -1,0 +1,9 @@
+name = "terminator"
+description = "playwright for windows computer use"
+category = "agents"
+tags = ["agent", "agents", "ai", "llm", "ml", "native", "py", "rust"]
+repository = "https://github.com/mediar-ai/terminator"
+website = "https://t8r.tech/"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

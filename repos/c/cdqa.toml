@@ -1,0 +1,9 @@
+name = "cdQA"
+description = "[NOT MAINTAINED] An End-To-End Closed Domain Question Answering System."
+category = "models"
+tags = ["reading-comprehension", "question-answering", "deep-learning", "natural-language-processing", "information-retrieval", "bert", "artificial-intelligence", "nlp"]
+repository = "https://github.com/cdqa-suite/cdQA"
+website = "https://cdqa-suite.github.io/cdQA-website/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ParScale"
+description = "Parallel Scaling Law for Language Model — Beyond Parameter and Inference Time Scaling"
+category = "models"
+tags = ["large-language-models", "llm", "machine-learning", "scaling-law"]
+repository = "https://github.com/QwenLM/ParScale"
+website = "https://arxiv.org/abs/2505.10475"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

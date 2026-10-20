@@ -1,0 +1,8 @@
+name = "claw-empire"
+description = "Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents (Claude Code, Codex CLI, Gemini CLI, OpenCode, and more) as a virtual autonomous company."
+category = "agents"
+tags = ["openclaw", "openclaw-agent", "openclaw-extension", "openclaw-plugin", "agentic-workflow", "agents", "ochestration"]
+repository = "https://github.com/GreenSheep01201/claw-empire"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

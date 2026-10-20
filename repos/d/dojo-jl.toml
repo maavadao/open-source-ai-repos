@@ -1,0 +1,8 @@
+name = "Dojo.jl"
+description = "A differentiable physics engine for robotics"
+category = "robotics"
+tags = ["simulation", "robotics", "motion-planning", "reinforcement-learning", "trajectory-optimization", "locomotion", "differentiable", "gradients"]
+repository = "https://github.com/dojo-sim/Dojo.jl"
+license = "MIT"
+language = "Julia"
+added = 2026-10-20

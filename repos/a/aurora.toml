@@ -1,0 +1,8 @@
+name = "aurora"
+description = "free chatgpt api"
+category = "chat"
+tags = ["chatgpt", "free", "gpt", "chat2api"]
+repository = "https://github.com/aurora-develop/aurora"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

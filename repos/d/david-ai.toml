@@ -1,0 +1,9 @@
+name = "david-ai"
+description = "David AI is a free and open-source collection of customizable, production-ready UI components built with Tailwind CSS."
+category = "other"
+tags = ["tailwindcss", "kits", "dashboard", "tailwindcss-starter-kit", "tailwindcss-starter-project", "tailwindcss-extension", "angular-landing-page", "dynamic-components"]
+repository = "https://github.com/creativetimofficial/david-ai"
+website = "https://www.creative-tim.com/david-ui"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

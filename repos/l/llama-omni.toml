@@ -1,0 +1,9 @@
+name = "LLaMA-Omni"
+description = "LLaMA-Omni is a low-latency and high-quality end-to-end speech interaction model built upon Llama-3.1-8B-Instruct, aiming to achieve speech capabilities at the GPT-4o level."
+category = "speech"
+tags = ["large-language-models", "multimodal-large-language-models", "speech-language-model", "speech-to-speech", "speech-to-text", "speech-interaction"]
+repository = "https://github.com/ictnlp/LLaMA-Omni"
+website = "https://arxiv.org/abs/2409.06666"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

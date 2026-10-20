@@ -1,0 +1,8 @@
+name = "cookiecutter-fastapi"
+description = "Cookiecutter template for FastAPI projects using: Machine Learning, uv, Github Actions and Pytests"
+category = "models"
+tags = ["fastapi", "boilerplate", "docker", "cookiecutter", "python", "fastapi-boilerplate", "black", "machine-learning"]
+repository = "https://github.com/arthurhenrique/cookiecutter-fastapi"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

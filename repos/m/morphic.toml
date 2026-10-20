@@ -1,0 +1,10 @@
+name = "morphic"
+description = "An AI-powered search engine with a generative UI"
+category = "search"
+tags = ["generative-ai", "generative-ui", "nextjs", "react", "tailwindcss", "typescript", "shadcn-ui", "vercel-ai-sdk"]
+repository = "https://github.com/miurla/morphic"
+website = "https://www.morphic.sh"
+license = "Apache-2.0"
+language = "TypeScript"
+skill_level = "intermediate"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Patter"
+description = "Open-source voice-AI SDK. The Vapi/Retell alternative for builders who want to own the stack. Give your AI agent a phone number in 4 lines — Python and TypeScript, MIT licensed, Twilio, Telnyx, and Plivo."
+category = "speech"
+tags = ["open-source", "openai", "python", "sdk", "speech-to-text", "telnyx", "text-to-speech", "twilio"]
+repository = "https://github.com/PatterAI/Patter"
+website = "https://getpatter.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

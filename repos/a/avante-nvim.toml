@@ -1,0 +1,7 @@
+name = "avante.nvim"
+description = "Use your Neovim like using Cursor AI IDE!"
+category = "coding"
+repository = "https://github.com/avante-corp/avante.nvim"
+license = "Apache-2.0"
+language = "Lua"
+added = 2026-10-20

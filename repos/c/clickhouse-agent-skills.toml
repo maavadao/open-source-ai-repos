@@ -1,0 +1,9 @@
+name = "agent-skills"
+description = "The official Agent Skills for ClickHouse and ClickHouse Cloud"
+category = "agents"
+tags = ["agents", "clickhouse"]
+repository = "https://github.com/ClickHouse/agent-skills"
+website = "https://clickhouse.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "potato"
+description = "potato: the portable annotation tool"
+category = "speech"
+tags = ["agentic-ai", "agentic-workflow", "agents", "annotation", "annotation-tool", "audio", "data-labeling", "image"]
+repository = "https://github.com/davidjurgens/potato"
+website = "https://www.potatoannotator.com/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

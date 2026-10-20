@@ -1,0 +1,9 @@
+name = "tickdb-unified-realtime-marketdata-api"
+description = "TickDB: AI-native real time stock API and market data API for US/HK/CN stocks, forex, futures, crypto, indices and commodities. Skill, CLI, MCP, REST API and WebSocket. AI 原生实时股票 API 与金融行情数据 API，覆盖美股、港股、A股、外汇、期货、指数、大宗商品、加密货币。"
+category = "learning"
+tags = ["commodities", "financial-data", "forex", "indices", "market-data", "order-book", "real-time", "rest-api"]
+repository = "https://github.com/TickDB/tickdb-unified-realtime-marketdata-api"
+website = "https://tickdb.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

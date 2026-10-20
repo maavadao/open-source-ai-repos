@@ -1,0 +1,9 @@
+name = "4dface"
+description = "Real-time 3D face tracking and reconstruction from 2D video"
+category = "vision"
+tags = ["computer-vision", "face-models", "video-processing", "modern-cpp"]
+repository = "https://github.com/patrikhuber/4dface"
+website = "https://www.4dface.io"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

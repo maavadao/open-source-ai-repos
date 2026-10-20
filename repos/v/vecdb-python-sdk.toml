@@ -1,0 +1,9 @@
+name = "vecdb-python-sdk"
+description = "Python SDK for vector search, semantic search, RAG, embeddings, and AI agents on Oracle AI Database"
+category = "vector-databases"
+tags = ["ai-agents", "embeddings", "generative-ai", "oracle", "oracle-database", "python", "rag", "vector-database"]
+repository = "https://github.com/oracle/vecdb-python-sdk"
+website = "https://docs.oracle.com/en/cloud/paas/autonomous-vector-database/vcapi/quickstart.html"
+license = "UPL-1.0"
+language = "Python"
+added = 2026-10-20

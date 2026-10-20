@@ -1,0 +1,8 @@
+name = "MUNIT"
+description = "Multimodal Unsupervised Image-to-Image Translation"
+category = "ml-platforms"
+tags = ["gan", "deep-learning", "pix2pix", "image-translation", "munit"]
+repository = "https://github.com/NVlabs/MUNIT"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

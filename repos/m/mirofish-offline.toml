@@ -1,0 +1,9 @@
+name = "MiroFish-Offline"
+description = "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack."
+category = "local-llms"
+tags = ["ai", "neo4j", "offline", "ollama", "open-source", "vue", "multi-agent", "prediction"]
+repository = "https://github.com/nikmcfly/MiroFish-Offline"
+website = "https://x.com/nikmcfly69/status/2033147482331390328"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

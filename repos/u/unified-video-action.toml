@@ -1,0 +1,9 @@
+name = "unified_video_action"
+description = "Official PyTorch Implementation of Unified Video Action Model (RSS 2025)"
+category = "video"
+tags = ["robotics", "video-generation"]
+repository = "https://github.com/ShuangLI59/unified_video_action"
+website = "https://unified-video-action-model.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

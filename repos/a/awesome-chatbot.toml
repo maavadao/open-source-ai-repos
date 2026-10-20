@@ -1,0 +1,9 @@
+name = "Awesome-Chatbot"
+description = "Awesome Chatbot Projects,Corpus,Papers,Tutorials.Chinese Chatbot =>"
+category = "learning"
+tags = ["chatbot", "tensorflow", "awesome", "seq2seq", "seq2seq-chatbot", "seq2seq-model", "corpus", "tutorial"]
+repository = "https://github.com/fendouai/Awesome-Chatbot"
+website = "http://www.panchuangai.com/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

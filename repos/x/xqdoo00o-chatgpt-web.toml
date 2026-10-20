@@ -1,0 +1,9 @@
+name = "chatgpt-web"
+description = "Pure Javascript ChatGPT demo based on OpenAI API"
+category = "chat"
+tags = ["caddy", "chatgpt", "html5", "javascript", "nginx", "markdown", "openai"]
+repository = "https://github.com/xqdoo00o/chatgpt-web"
+website = "https://xqdoo00o.github.io/chatgpt-web/"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

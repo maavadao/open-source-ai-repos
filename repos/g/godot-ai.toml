@@ -1,0 +1,8 @@
+name = "godot-ai"
+description = "Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun."
+category = "mcp-servers"
+tags = ["ai", "game-development", "godot", "godot-plugin", "mcp"]
+repository = "https://github.com/hi-godot/godot-ai"
+license = "MIT"
+language = "GDScript"
+added = 2026-10-20

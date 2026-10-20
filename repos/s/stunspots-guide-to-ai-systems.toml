@@ -1,0 +1,9 @@
+name = "stunspots-guide-to-ai-systems"
+description = "Operational doctrine for practical AI systems design."
+category = "agents"
+tags = ["agentic-systems", "ai-agents", "ai-architecture", "ai-engineering", "ai-evals", "ai-governance", "human-ai-interaction", "knowledge-systems"]
+repository = "https://github.com/Stunspot/stunspots-guide-to-ai-systems"
+website = "https://stunspot.github.io/stunspots-guide-to-ai-systems/"
+license = "CC-BY-4.0"
+language = "PowerShell"
+added = 2026-10-20

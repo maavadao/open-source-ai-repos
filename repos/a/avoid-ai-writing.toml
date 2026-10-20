@@ -1,0 +1,9 @@
+name = "avoid-ai-writing"
+description = "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes."
+category = "skills-prompts"
+tags = ["ai-writing", "claude", "claude-code", "llm", "prompt-engineering", "skill", "writing"]
+repository = "https://github.com/conorbronsdon/avoid-ai-writing"
+website = "https://chainofthought.show/go/avoid-ai-writing/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

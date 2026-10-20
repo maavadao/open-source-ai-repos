@@ -1,0 +1,9 @@
+name = "darts"
+description = "A python library for user-friendly forecasting and anomaly detection on time series."
+category = "ml-platforms"
+tags = ["python", "time-series", "forecasting", "machine-learning", "deep-learning", "anomaly-detection", "data-science"]
+repository = "https://github.com/unit8co/darts"
+website = "https://unit8co.github.io/darts/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

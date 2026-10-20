@@ -1,0 +1,9 @@
+name = "Dive-into-DL-TensorFlow2.0"
+description = "本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为TensorFlow 2.0实现，项目已得到李沐老师的认可"
+category = "learning"
+tags = ["deep-learning", "python3", "dive-into-deep-learning", "tensorflow2", "jupyter-notebook", "nlp", "cv", "tutorials"]
+repository = "https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0"
+website = "https://trickygo.github.io/Dive-into-DL-TensorFlow2.0/#/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

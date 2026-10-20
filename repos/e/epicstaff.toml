@@ -1,0 +1,9 @@
+name = "EpicStaff"
+description = "Source-available, self-hosted platform for building AI agent flows - visual editor over a Django backend."
+category = "no-code"
+tags = ["ai", "gui", "orchestration", "python", "ade", "aiagents", "low-code", "multi-agent-systems"]
+repository = "https://github.com/EpicStaff/EpicStaff"
+website = "https://www.epicstaff.com/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

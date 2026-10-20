@@ -1,0 +1,9 @@
+name = "serenata-de-amor"
+description = "Artificial Intelligence for social control of public administration | **This repository does not receive frequent updates. Check out the README**"
+category = "data-science"
+tags = ["machine-learning", "data-science", "artificial-intelligence", "politics", "civic-tech", "open-data"]
+repository = "https://github.com/okfn-brasil/serenata-de-amor"
+website = "https://serenata.ai/en"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

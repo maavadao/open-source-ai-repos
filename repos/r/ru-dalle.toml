@@ -1,0 +1,9 @@
+name = "ru-dalle"
+description = "Generate images from texts. In Russian"
+category = "image"
+tags = ["image-generation", "text-to-image", "python", "pytorch", "dalle", "openai", "russian", "russian-language"]
+repository = "https://github.com/ai-forever/ru-dalle"
+website = "https://rudalle.ru/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

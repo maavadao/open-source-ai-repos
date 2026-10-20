@@ -1,0 +1,8 @@
+name = "Awesome-Diffusion-Models-in-Medical-Imaging"
+description = "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)"
+category = "learning"
+tags = ["ddpm", "denoising", "diffusion", "diffusion-models", "generation", "generative-models", "medical-imaging", "reconstruction"]
+repository = "https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging"
+website = "https://www.sciencedirect.com/science/article/pii/S1361841523001068"
+license = "MIT"
+added = 2026-10-20

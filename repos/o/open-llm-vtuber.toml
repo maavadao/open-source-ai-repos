@@ -1,0 +1,9 @@
+name = "Open-LLM-VTuber"
+description = "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D avatar running locally across platforms"
+category = "local-llms"
+tags = ["ai-vtuber", "ai-waifu", "ai", "neuro-sama", "chatbots", "live2d", "live2d-web", "llm"]
+repository = "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber"
+website = "https://open-llm-vtuber.github.io/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

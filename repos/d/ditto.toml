@@ -1,0 +1,9 @@
+name = "Ditto"
+description = "[CVPR'26 Highlight] Ditto: Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset"
+category = "video"
+tags = ["diffusion-models", "synthetic-data", "video-editing"]
+repository = "https://github.com/EzioBy/Ditto"
+website = "https://editto.net"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

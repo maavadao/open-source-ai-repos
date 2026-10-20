@@ -1,0 +1,9 @@
+name = "MMAudio"
+description = "[CVPR 2025] MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis"
+category = "speech"
+tags = ["audio", "audio-synthesis", "computer-vision", "deep-learning", "video-to-audio", "text-to-audio"]
+repository = "https://github.com/hkchengrex/MMAudio"
+website = "https://hkchengrex.com/MMAudio/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

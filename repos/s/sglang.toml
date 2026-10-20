@@ -1,0 +1,10 @@
+name = "sglang"
+description = "SGLang is a high-performance serving framework for large language models and multimodal models."
+category = "local-llms"
+tags = ["cuda", "inference", "llama", "llm", "moe", "transformer", "vlm", "deepseek"]
+repository = "https://github.com/sgl-project/sglang"
+website = "https://sglang.io"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "advanced"
+added = 2026-10-20

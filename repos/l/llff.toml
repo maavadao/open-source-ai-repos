@@ -1,0 +1,9 @@
+name = "LLFF"
+description = "Code release for Local Light Field Fusion at SIGGRAPH 2019"
+category = "ml-platforms"
+tags = ["light-field", "rendering", "view-synthesis", "deep-learning"]
+repository = "https://github.com/Fyusion/LLFF"
+website = "https://fyusion.com/LLFF"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-10-20

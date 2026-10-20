@@ -1,0 +1,9 @@
+name = "vllm-mlx"
+description = "High-performance OpenAI and Anthropic compatible LLM inference server for Apple Silicon. Native MLX, continuous batching, multimodal models, MCP tool calling, and Claude Code support."
+category = "mcp-servers"
+tags = ["apple-silicon", "llm", "macos", "mlx", "multimodal-ai", "speech-to-text", "text-to-speech", "vision-language-model"]
+repository = "https://github.com/waybarrios/vllm-mlx"
+website = "https://vllm-mlx.is-a.dev/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

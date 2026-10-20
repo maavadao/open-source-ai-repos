@@ -1,0 +1,9 @@
+name = "LLMstudio"
+description = "Framework to bring LLM applications to production"
+category = "llm-apps"
+tags = ["ai", "langchain", "llm", "ml", "openai", "prompt-engineering", "vertex-ai", "llmops"]
+repository = "https://github.com/TensorOpsAI/LLMstudio"
+website = "https://tensorops.ai"
+license = "MPL-2.0"
+language = "Python"
+added = 2026-10-20

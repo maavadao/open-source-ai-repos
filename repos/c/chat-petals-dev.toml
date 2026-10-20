@@ -1,0 +1,9 @@
+name = "chat.petals.dev"
+description = "Chatbot web app + HTTP and Websocket endpoints for LLM inference with the Petals client"
+category = "chat"
+tags = ["api", "bloom", "chatbot", "distributed-systems", "gpt", "guanaco", "language-models", "large-language-models"]
+repository = "https://github.com/petals-infra/chat.petals.dev"
+website = "https://chat.petals.dev"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions"
+description = "Solutions of Reinforcement Learning, An Introduction"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "exercise-solutions", "self-study", "solutions"]
+repository = "https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

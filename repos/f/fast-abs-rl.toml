@@ -1,0 +1,8 @@
+name = "fast_abs_rl"
+description = "Code for ACL 2018 paper: \"Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting. Chen and Bansal\""
+category = "ml-platforms"
+tags = ["deep-learning", "natural-language-processing", "reinforcement-learning", "abstractive-summarization", "pytorch"]
+repository = "https://github.com/ChenRocks/fast_abs_rl"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

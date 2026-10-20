@@ -1,0 +1,9 @@
+name = "future-agi"
+description = "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0."
+category = "security"
+tags = ["ai-gateway", "observability", "simulation", "ai-agents", "ai-evals", "evaluation-framework", "llm-evaluation", "llm-observability"]
+repository = "https://github.com/future-agi/future-agi"
+website = "https://futureagi.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "vexjoy-agent"
+description = "VexJoy AI Agent with Jev Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates the work with reviews, tests, and a learning loop."
+category = "skills-prompts"
+tags = ["ai", "ai-agents", "ai-skills", "claude", "claude-code", "ai-pipelines", "ai-workflows", "claude-ai"]
+repository = "https://github.com/notque/vexjoy-agent"
+website = "https://vexjoy.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

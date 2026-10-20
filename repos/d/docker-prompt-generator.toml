@@ -1,0 +1,9 @@
+name = "docker-prompt-generator"
+description = "Using a Model to generate prompts for Model applications. / 使用模型来生成作图咒语的偷懒工具，支持 MidJourney、Stable Diffusion 等。"
+category = "image"
+tags = ["midjourney", "midjourney-app", "prompt", "prompt-tool", "stable-diffusion", "stable-diffusion-webui"]
+repository = "https://github.com/soulteary/docker-prompt-generator"
+website = "https://soulteary.com/2023/04/05/eighty-lines-of-code-to-implement-the-open-source-midjourney-and-stable-diffusion-spell-drawing-tool.html"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

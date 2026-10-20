@@ -1,0 +1,8 @@
+name = "RealtimeTTS"
+description = "Converts text to speech in realtime"
+category = "speech"
+tags = ["python", "realtime", "speech-synthesis", "text-to-speech"]
+repository = "https://github.com/KoljaB/RealtimeTTS"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

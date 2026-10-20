@@ -1,0 +1,9 @@
+name = "marvin"
+description = "an ambient intelligence library"
+category = "agents"
+tags = ["ai", "chatbots", "gpt", "llm", "python", "ambient-ai", "agents", "nli"]
+repository = "https://github.com/PrefectHQ/marvin"
+website = "https://marvin.mintlify.app"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

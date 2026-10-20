@@ -1,0 +1,8 @@
+name = "vector-python-sdk"
+description = "Anki Vector Python SDK"
+category = "robotics"
+tags = ["ai", "anki", "robot", "robotics", "vector", "vision"]
+repository = "https://github.com/anki/vector-python-sdk"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "optillm"
+description = "Optimizing inference proxy for LLMs"
+category = "local-llms"
+tags = ["agent", "agentic-ai", "agentic-workflow", "agents", "api-gateway", "genai", "large-language-models", "llm"]
+repository = "https://github.com/algorithmicsuperintelligence/optillm"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

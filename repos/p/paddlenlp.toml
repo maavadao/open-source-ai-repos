@@ -1,0 +1,9 @@
+name = "PaddleNLP"
+description = "Easy-to-use and powerful LLM and SLM library with awesome model zoo."
+category = "search"
+tags = ["nlp", "embedding", "bert", "ernie", "paddlenlp", "pretrained-models", "transformers", "information-extraction"]
+repository = "https://github.com/PaddlePaddle/PaddleNLP"
+website = "https://paddlenlp.readthedocs.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

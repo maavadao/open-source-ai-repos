@@ -1,0 +1,9 @@
+name = "opacus"
+description = "Training PyTorch models with differential privacy"
+category = "ml-platforms"
+tags = ["differential-privacy", "privacy-preserving-machine-learning", "deep-learning", "machine-learning", "neural-network", "pytorch"]
+repository = "https://github.com/meta-pytorch/opacus"
+website = "https://opacus.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

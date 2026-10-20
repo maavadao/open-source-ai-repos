@@ -1,0 +1,9 @@
+name = "boost"
+description = "Laravel-focused MCP server for augmenting your AI powered local development experience."
+category = "mcp-servers"
+tags = ["ai", "dev", "laravel"]
+repository = "https://github.com/laravel/boost"
+website = "https://laravel.com/docs/13.x/boost"
+license = "MIT"
+language = "PHP"
+added = 2026-10-20

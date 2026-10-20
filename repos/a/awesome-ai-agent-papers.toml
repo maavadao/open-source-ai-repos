@@ -1,0 +1,8 @@
+name = "awesome-ai-agent-papers"
+description = "A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, workflows, and autonomous systems."
+category = "learning"
+tags = ["ai-agents", "llm-agents", "memory", "rag", "research-paper", "llm", "awesome", "awesome-list"]
+repository = "https://github.com/VoltAgent/awesome-ai-agent-papers"
+website = "https://starterkit.getdesign.md/"
+license = "MIT"
+added = 2026-10-20

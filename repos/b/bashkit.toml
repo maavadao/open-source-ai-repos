@@ -1,0 +1,9 @@
+name = "bashkit"
+description = "Virtual Bash interpreter with a virtual file system for multi-tenant environments."
+category = "agents"
+tags = ["agents", "bash", "everruns"]
+repository = "https://github.com/everruns/bashkit"
+website = "https://bashkit.sh/"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

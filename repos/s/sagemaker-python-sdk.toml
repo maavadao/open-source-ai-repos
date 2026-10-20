@@ -1,0 +1,9 @@
+name = "sagemaker-python-sdk"
+description = "A library for training and deploying machine learning models on Amazon SageMaker"
+category = "ml-platforms"
+tags = ["aws", "mxnet", "tensorflow", "machine-learning", "python", "pytorch", "sagemaker", "huggingface"]
+repository = "https://github.com/aws/sagemaker-python-sdk"
+website = "https://sagemaker.readthedocs.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

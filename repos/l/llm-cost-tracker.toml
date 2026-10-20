@@ -1,0 +1,9 @@
+name = "llm_cost_tracker"
+description = "LLM spend tracking and budgets for Rails — by user, feature, or any tag, in your own database, no proxy."
+category = "llm-apps"
+tags = ["anthropic", "cost-tracking", "faraday", "gemini", "llm", "llmops", "openai", "ruby"]
+repository = "https://github.com/sergey-homenko/llm_cost_tracker"
+website = "https://rubygems.org/gems/llm_cost_tracker"
+license = "NOASSERTION"
+language = "Ruby"
+added = 2026-10-20

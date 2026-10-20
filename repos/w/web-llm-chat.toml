@@ -1,0 +1,9 @@
+name = "web-llm-chat"
+description = "Chat with AI large language models running natively in your browser. Enjoy private, server-free, seamless AI conversations."
+category = "security"
+tags = ["ai", "chat", "chat-application", "chatbot", "gemma", "generative-ai", "hermes", "large-language-models"]
+repository = "https://github.com/mlc-ai/web-llm-chat"
+website = "https://chat.webllm.ai/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

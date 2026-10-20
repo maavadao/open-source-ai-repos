@@ -1,0 +1,9 @@
+name = "AdaIN-style"
+description = "Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization"
+category = "ml-platforms"
+tags = ["style-transfer", "neural-style", "generative-art", "generative-model", "deep-learning"]
+repository = "https://github.com/xunhuang1995/AdaIN-style"
+website = "https://arxiv.org/abs/1703.06868"
+license = "MIT"
+language = "Lua"
+added = 2026-10-20

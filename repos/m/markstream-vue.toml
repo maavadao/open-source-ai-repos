@@ -1,0 +1,9 @@
+name = "markstream-vue"
+description = "Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Svelte, and Angular, with Mermaid, KaTeX, stream-diffs code blocks, safe HTML, and low-jitter updates."
+category = "chat"
+tags = ["markdown", "ai", "katex", "mermaid", "nuxt", "react", "stream-markdown", "svelte"]
+repository = "https://github.com/Simon-He95/markstream-vue"
+website = "https://markstream.simonhe.me"
+license = "MIT"
+language = "Vue"
+added = 2026-10-20

@@ -1,0 +1,10 @@
+name = "scikit-learn"
+description = "scikit-learn: machine learning in Python"
+category = "ml-platforms"
+tags = ["machine-learning", "python", "statistics", "data-science", "data-analysis"]
+repository = "https://github.com/scikit-learn/scikit-learn"
+website = "https://scikit-learn.org"
+license = "BSD-3-Clause"
+language = "Python"
+skill_level = "beginner"
+added = 2026-10-20

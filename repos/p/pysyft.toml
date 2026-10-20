@@ -1,0 +1,9 @@
+name = "PySyft"
+description = "Perform data science on data that remains in someone else's server"
+category = "security"
+tags = ["deep-learning", "secure-computation", "pytorch", "privacy", "cryptography", "python", "syft", "federated-learning"]
+repository = "https://github.com/OpenMined/PySyft"
+website = "https://www.openmined.org/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

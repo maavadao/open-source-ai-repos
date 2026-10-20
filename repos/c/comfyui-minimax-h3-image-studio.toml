@@ -1,0 +1,9 @@
+name = "ComfyUI-MiniMax-H3-Image-Studio"
+description = "ComfyUI nodes and tested workflows for MiniMax H3 still-image generation, reference editing, and Qwen detail refinement."
+category = "image"
+tags = ["comfyui", "generative-ai", "image-editing", "image-to-image", "minimax-h3", "text-to-image", "qwen-image-edit", "reference-editing"]
+repository = "https://github.com/astropuzzo/ComfyUI-MiniMax-H3-Image-Studio"
+website = "https://docs.comfy.org/tutorials/video/minimax/minimax-h3"
+license = "Unlicense"
+language = "Python"
+added = 2026-10-20

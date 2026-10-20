@@ -1,0 +1,9 @@
+name = "AwesomeMRC"
+description = "IJCAI 2021 Tutorial & code for Retrospective Reader for Machine Reading Comprehension (AAAI 2021)"
+category = "learning"
+tags = ["question-answering", "reading-comprehension", "transformers"]
+repository = "https://github.com/cooelf/AwesomeMRC"
+website = "https://arxiv.org/abs/2005.06249"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

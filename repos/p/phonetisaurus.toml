@@ -1,0 +1,8 @@
+name = "Phonetisaurus"
+description = "Phonetisaurus G2P"
+category = "speech"
+tags = ["openfst", "g2p", "speech-recognition", "speech-to-text", "pronunciation-dictionary", "lexicon"]
+repository = "https://github.com/AdolfVonKleist/Phonetisaurus"
+license = "BSD-3-Clause"
+language = "Shell"
+added = 2026-10-20

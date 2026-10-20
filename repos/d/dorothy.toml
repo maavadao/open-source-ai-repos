@@ -1,0 +1,9 @@
+name = "Dorothy"
+description = "Dorothy, the wife your AI agents needs."
+category = "agents"
+tags = ["ai", "ai-agents", "ai-tools", "orchestration"]
+repository = "https://github.com/Charlie85270/Dorothy"
+website = "https://dorothyai.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

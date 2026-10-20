@@ -1,0 +1,9 @@
+name = "carefree-learn"
+description = "Deep Learning PyTorch"
+category = "vision"
+tags = ["pytorch", "automl", "algorithm", "ensemble", "numpy", "machine-learning", "tabular-data", "python"]
+repository = "https://github.com/carefree0910/carefree-learn"
+website = "https://carefree0910.me/carefree-learn-doc/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

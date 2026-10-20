@@ -1,0 +1,9 @@
+name = "topicGPT"
+description = "TopicGPT: A Prompt-Based Framework for Topic Modeling [NAACL'24]"
+category = "local-llms"
+tags = ["python", "topic-modeling", "llm", "nlp", "openai", "vllm"]
+repository = "https://github.com/chtmp223/topicGPT"
+website = "https://chtmp223.github.io/topicGPT"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

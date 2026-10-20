@@ -1,0 +1,8 @@
+name = "EDDI"
+description = "Companion application for Elite Dangerous"
+category = "speech"
+tags = ["voiceattack-plugin", "text-to-speech", "elite-dangerous", "eddn", "edsm", "frontier-api", "elite", "voiceattack"]
+repository = "https://github.com/EDCD/EDDI"
+license = "NOASSERTION"
+language = "C#"
+added = 2026-10-20

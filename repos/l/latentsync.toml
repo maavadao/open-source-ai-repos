@@ -1,0 +1,9 @@
+name = "LatentSync"
+description = "Taming Stable Diffusion for Lip Sync!"
+category = "image"
+tags = ["research", "diffusion-models", "lipsync", "video-gen", "virtual-avatars"]
+repository = "https://github.com/bytedance/LatentSync"
+website = "https://arxiv.org/abs/2412.09262"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "CodeFuse-Query"
+description = "Query-Based Code Analysis Engine"
+category = "models"
+tags = ["code-analysis", "large-language-models", "query-language"]
+repository = "https://github.com/codefuse-ai/CodeFuse-Query"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

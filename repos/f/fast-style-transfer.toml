@@ -1,0 +1,8 @@
+name = "fast-style-transfer"
+description = "TensorFlow CNN for fast style transfer"
+category = "ml-platforms"
+tags = ["style-transfer", "neural-style", "neural-networks", "deep-learning"]
+repository = "https://github.com/lengstrom/fast-style-transfer"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

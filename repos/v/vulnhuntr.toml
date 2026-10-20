@@ -1,0 +1,8 @@
+name = "vulnhuntr"
+description = "Zero shot vulnerability discovery using LLMs"
+category = "models"
+tags = ["ai", "llm", "security", "vulnerability-detection", "static-analysis"]
+repository = "https://github.com/protectai/vulnhuntr"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

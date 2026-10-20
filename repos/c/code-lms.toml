@@ -1,0 +1,8 @@
+name = "Code-LMs"
+description = "Guide to using pre-trained large language models of source code"
+category = "ml-platforms"
+tags = ["gpt-2", "deep-learning", "source-code"]
+repository = "https://github.com/VHellendoorn/Code-LMs"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

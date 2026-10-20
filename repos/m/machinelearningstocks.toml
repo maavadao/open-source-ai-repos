@@ -1,0 +1,8 @@
+name = "MachineLearningStocks"
+description = "Using python and scikit-learn to make stock predictions"
+category = "learning"
+tags = ["stock-prediction", "machine-learning", "scikit-learn", "python", "yahoo-finance", "stock", "historical-stock-fundamentals", "quantitative-finance"]
+repository = "https://github.com/robertmartin8/MachineLearningStocks"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

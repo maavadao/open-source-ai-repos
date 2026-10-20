@@ -1,0 +1,9 @@
+name = "vibes"
+description = "A simple mobile-focused chat app to talk to an agent via the ACP protocol"
+category = "coding"
+tags = ["acp", "agents", "claude", "codex", "copilot", "mistral"]
+repository = "https://github.com/rcarmo/vibes"
+website = "https://rcarmo.github.io/projects/vibes/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

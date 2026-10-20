@@ -1,0 +1,9 @@
+name = "Claude-Skills"
+description = "385 AI skills, 77 expert agents, and 900 stdlib Python tools for every team: engineering, PM, marketing, C-level, compliance, business ops, research, and a LinkedIn toolkit. Installs on Claude Code, Cursor, Codex, Gemini, Copilot, and 6 other AI assistants."
+category = "mcp-servers"
+tags = ["ai-agents", "ai-skills", "claude-code", "developer-tools", "agentic-coding", "cursor", "github-copilot", "compliance-automation"]
+repository = "https://github.com/borghei/Claude-Skills"
+website = "https://borghei.github.io/Claude-Skills"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

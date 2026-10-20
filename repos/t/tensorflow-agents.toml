@@ -1,0 +1,8 @@
+name = "agents"
+description = "TF-Agents: A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning."
+category = "ml-platforms"
+tags = ["reinforcement-learning", "tensorflow", "contextual-bandits", "bandits", "multi-armed-bandits", "tf-agents", "rl-algorithms", "dqn"]
+repository = "https://github.com/tensorflow/agents"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "list_of_robot_electronics"
+description = "A curated list of awesome open source electronic resources for robotics"
+category = "learning"
+tags = ["bot", "robot", "robotics", "curated-list", "electronics", "embedded-systems", "embedded"]
+repository = "https://github.com/cajt/list_of_robot_electronics"
+license = "BSD-2-Clause"
+added = 2026-10-20

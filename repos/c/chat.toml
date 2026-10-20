@@ -1,0 +1,9 @@
+name = "chat"
+description = "Universal chat layer for building bots and agents."
+category = "chat"
+tags = ["ai", "chat", "discord", "google-chat", "slack", "teams", "vercel"]
+repository = "https://github.com/vercel/chat"
+website = "https://chat-sdk.dev/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

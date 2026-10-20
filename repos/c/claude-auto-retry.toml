@@ -1,0 +1,8 @@
+name = "claude-auto-retry"
+description = "Auto-retry Claude Code on subscription rate limits, API overload (529/5xx) and safeguard false positives — waits for the printed reset, exponential backoff, tmux-based"
+category = "coding"
+tags = ["ai-agents", "anthropic", "automation", "backoff", "claude", "claude-code", "cli", "rate-limit"]
+repository = "https://github.com/cheapestinference/claude-auto-retry"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

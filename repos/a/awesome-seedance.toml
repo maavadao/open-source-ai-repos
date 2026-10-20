@@ -1,0 +1,9 @@
+name = "awesome-seedance"
+description = "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to use for cinematic film, anime, UGC, social media, meme and advertising. Includes Seedance API guides and advanced video generation workflows."
+category = "learning"
+tags = ["ai", "how-to-use", "prompt-engineering", "prompts", "seedance", "seedance-2", "seedance-api", "seedance2"]
+repository = "https://github.com/ZeroLu/awesome-seedance"
+website = "https://cyberbara.com/seedance2.0?utm_source=awesome-seedance"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

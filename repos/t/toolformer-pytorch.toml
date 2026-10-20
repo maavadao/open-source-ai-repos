@@ -1,0 +1,8 @@
+name = "toolformer-pytorch"
+description = "Implementation of Toolformer, Language Models That Can Use Tools, by MetaAI"
+category = "models"
+tags = ["api-calling", "artificial-intelligence", "attention-mechanisms", "deep-learning", "transformers"]
+repository = "https://github.com/lucidrains/toolformer-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

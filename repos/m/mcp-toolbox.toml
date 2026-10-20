@@ -1,0 +1,9 @@
+name = "mcp-toolbox"
+description = "MCP Toolbox for Databases is an open source MCP server for databases."
+category = "mcp-servers"
+tags = ["genai", "mcp", "agent", "ai", "database", "llm", "server", "agents"]
+repository = "https://github.com/googleapis/mcp-toolbox"
+website = "https://mcp-toolbox.dev/documentation/introduction/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

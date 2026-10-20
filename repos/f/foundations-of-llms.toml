@@ -1,0 +1,7 @@
+name = "Foundations-of-LLMs"
+description = "A book for Learning the Foundations of LLMs"
+category = "learning"
+repository = "https://github.com/ZJU-LLMs/Foundations-of-LLMs"
+website = "https://www.agent-kernel.tech/"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Deep-Research-Survey"
+description = "A Systematic Survey of Deep Research"
+category = "agents"
+tags = ["deepresearch", "large-language-models", "llm-agent", "rag"]
+repository = "https://github.com/mangopy/Deep-Research-Survey"
+website = "https://deep-research-survey.github.io/"
+license = "NOASSERTION"
+added = 2026-10-20

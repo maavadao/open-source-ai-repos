@@ -1,0 +1,9 @@
+name = "upgini"
+description = "Data search & enrichment library for Machine Learning → Easily find and add relevant features to your ML & AI pipeline from hundreds of public and premium external data sources, including open & commercial LLMs"
+category = "chat"
+tags = ["data-science", "machine-learning", "scikit-learn", "python-library", "kaggle", "open-data", "public-data", "automl"]
+repository = "https://github.com/upgini/upgini"
+website = "https://upgini.com"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

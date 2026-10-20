@@ -1,0 +1,8 @@
+name = "MATLABRobotics"
+description = "MATLAB sample codes for mobile robot navigation"
+category = "robotics"
+tags = ["matlab", "ekf-slam", "nelder-mead", "icp", "dijkstra", "robotics", "robot", "autonomous-driving"]
+repository = "https://github.com/AtsushiSakai/MATLABRobotics"
+license = "NOASSERTION"
+language = "MATLAB"
+added = 2026-10-20

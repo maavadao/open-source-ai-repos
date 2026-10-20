@@ -1,0 +1,9 @@
+name = "Folo"
+description = "Folo is the AI RSS Reader"
+category = "other"
+tags = ["reader", "rss", "rss-reader", "ai", "rsshub"]
+repository = "https://github.com/RSSNext/Folo"
+website = "https://app.folo.is"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

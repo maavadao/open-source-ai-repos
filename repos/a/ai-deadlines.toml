@@ -1,0 +1,9 @@
+name = "ai-deadlines"
+description = "AI conference deadline countdowns"
+category = "robotics"
+tags = ["deep-learning", "deep-neural-networks", "machine-learning", "computer-vision", "artificial-intelligence", "natural-language-processing", "robotics"]
+repository = "https://github.com/paperswithcode/ai-deadlines"
+website = "http://aideadlin.es"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

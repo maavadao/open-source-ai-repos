@@ -1,0 +1,9 @@
+name = "plano"
+description = "Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestration, and guardrails so you stay focused on your agents core logic."
+category = "local-llms"
+tags = ["gateway", "generative-ai", "llm-inference", "llms", "prompt", "proxy", "proxy-server", "llmops"]
+repository = "https://github.com/katanemo/plano"
+website = "https://planoai.dev"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

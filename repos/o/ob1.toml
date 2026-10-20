@@ -1,0 +1,8 @@
+name = "OB1"
+description = "Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS."
+category = "mcp-servers"
+tags = ["ai-agents", "mcp", "memory-layer", "memory-layer-for-ai", "open-brain", "open-source", "personal-knowledge", "personal-knowledge-management"]
+repository = "https://github.com/NateBJones-Projects/OB1"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "OmniShow"
+description = "[ICML 2026] ByteDance's All-in-One Video Generation Model for Human-Object Interaction Video Generation"
+category = "video"
+tags = ["aigc", "computer-vision", "deep-learning", "diffusion-models", "dit", "large-models", "mmdit", "multimodal-ai"]
+repository = "https://github.com/Correr-Zhou/OmniShow"
+website = "https://correr-zhou.github.io/OmniShow/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

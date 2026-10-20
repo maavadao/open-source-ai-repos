@@ -1,0 +1,8 @@
+name = "awesome-copilot-agents"
+description = "A curated list of awesome GitHub instructions, prompt, skills, MCPs and agent markdown files for enhancing your GitHub Copilot AI experience."
+category = "mcp-servers"
+tags = ["awesome", "awesome-list", "copilot-instructions", "github-copilot", "prompt-engineering", "vscode-copilot-chat", "copilot-prompting", "agent-skills"]
+repository = "https://github.com/Code-and-Sorts/awesome-copilot-agents"
+license = "CC0-1.0"
+language = "TypeScript"
+added = 2026-10-20

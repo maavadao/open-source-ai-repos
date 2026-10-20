@@ -1,0 +1,8 @@
+name = "VideoClaw"
+description = "AI 全自动化视频生成员工 | Your First AIGC Coworker. Chat an Idea. Get a Film."
+category = "speech"
+tags = ["filmmaking", "agent", "openclaw", "openclaw-skills", "multi-agent-system", "aigc", "video-generation", "image-generation"]
+repository = "https://github.com/HITsz-TMG/VideoClaw"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "lambda-networks"
+description = "Implementation of LambdaNetworks, a new approach to image recognition that reaches SOTA with less compute"
+category = "vision"
+tags = ["artificial-intelligence", "deep-learning", "computer-vision", "attention-mechanism", "attention"]
+repository = "https://github.com/lucidrains/lambda-networks"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "course-v3"
+description = "The 3rd edition of course.fast.ai"
+category = "learning"
+tags = ["data-science", "fastai", "deep-learning", "pytorch", "machine-learning", "machine-learning-courses", "mooc"]
+repository = "https://github.com/fastai/course-v3"
+website = "https://course.fast.ai/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

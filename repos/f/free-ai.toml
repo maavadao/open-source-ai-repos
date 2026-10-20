@@ -1,0 +1,9 @@
+name = "free-ai"
+description = "FreeTheAI: free AI API and open model marketplace. One OpenAI-compatible endpoint at api.freetheai.org/v1 with free models, paid plans, and sellers listing at their own prices."
+category = "image"
+tags = ["discord-bot", "free-api", "openai-compatible", "ai-api", "image-generation", "openai-api", "streaming", "tool-calling"]
+repository = "https://github.com/Free-The-Ai/free-ai"
+website = "https://freetheai.org"
+license = "MIT"
+language = "Astro"
+added = 2026-10-20

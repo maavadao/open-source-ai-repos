@@ -1,0 +1,9 @@
+name = "ComfyUI-LTXVideo"
+description = "LTX-Video Support for ComfyUI"
+category = "video"
+tags = ["comfyui", "diffusion-models", "dit", "image-to-video", "image-to-video-generation", "text-to-image", "text-to-image-generation"]
+repository = "https://github.com/Lightricks/ComfyUI-LTXVideo"
+website = "https://ltx.io/model/ltx-2"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

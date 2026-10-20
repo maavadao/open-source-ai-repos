@@ -1,0 +1,9 @@
+name = "diffusers"
+description = "Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch."
+category = "image"
+tags = ["deep-learning", "diffusion", "image-generation", "pytorch", "score-based-generative-modeling", "image2image", "text2image", "stable-diffusion"]
+repository = "https://github.com/huggingface/diffusers"
+website = "https://huggingface.co/docs/diffusers"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

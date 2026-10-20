@@ -1,0 +1,9 @@
+name = "pipeshub-ai"
+description = "The open-source context layer for AI agents. PipesHub turns your company's knowledge (Slack, Drive, Jira, GitHub, Microsoft 365 and 40+ connectors) into a permission-aware workspace that agents can search, grep, navigate and cite. MCP, SDKs and built-in agents. Self-hosted."
+category = "mcp-servers"
+tags = ["glean", "knowledge-graph", "ollama", "python", "rag", "ai", "enterprise-search", "graphrag"]
+repository = "https://github.com/pipeshub-ai/pipeshub-ai"
+website = "https://pipeshub.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

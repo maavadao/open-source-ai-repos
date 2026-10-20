@@ -1,0 +1,8 @@
+name = "ComfyUI-3D-Pack"
+description = "An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)"
+category = "image"
+tags = ["comfy", "comfyui", "machine-learning"]
+repository = "https://github.com/MrForExample/ComfyUI-3D-Pack"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

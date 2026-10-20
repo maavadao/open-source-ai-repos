@@ -1,0 +1,8 @@
+name = "awesome-dsh-plugin"
+description = "A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem"
+category = "learning"
+tags = ["agent-harness", "ai-agent", "ai-agents", "autonomous-agent", "awesome", "awesome-list", "cli", "coding-agent"]
+repository = "https://github.com/Anil-matcha/awesome-dsh-plugin"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "agentfs"
+description = "The filesystem for agents."
+category = "agents"
+tags = ["agents", "filesystem", "sqlite", "turso"]
+repository = "https://github.com/tursodatabase/agentfs"
+website = "https://www.agentfs.ai"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

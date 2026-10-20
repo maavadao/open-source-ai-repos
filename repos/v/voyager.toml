@@ -1,0 +1,9 @@
+name = "Voyager"
+description = "An Open-Ended Embodied Agent with Large Language Models"
+category = "models"
+tags = ["large-language-models", "embodied-learning", "open-ended-learning", "minecraft"]
+repository = "https://github.com/MineDojo/Voyager"
+website = "https://voyager.minedojo.org/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

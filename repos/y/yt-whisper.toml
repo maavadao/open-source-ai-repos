@@ -1,0 +1,8 @@
+name = "yt-whisper"
+description = "Using OpenAI's Whisper to automatically generate YouTube subtitles"
+category = "speech"
+tags = ["ffmpeg", "openai", "openai-whisper", "whisper", "youtube", "youtube-dl", "subtitles", "subtitles-generated"]
+repository = "https://github.com/m1guelpf/yt-whisper"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

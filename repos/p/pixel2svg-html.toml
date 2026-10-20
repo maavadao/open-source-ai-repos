@@ -1,0 +1,9 @@
+name = "pixel2svg-html"
+description = "Codex skill for converting raster logos into smooth minimal SVG plus standalone HTML previews."
+category = "vision"
+tags = ["ai-agent-skills", "ai-design-tools", "codex-skill", "computer-vision", "developer-tools", "generative-ai", "html", "image-processing"]
+repository = "https://github.com/nolangz/pixel2svg-html"
+website = "https://www.nolanlai.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

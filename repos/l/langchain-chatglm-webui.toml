@@ -1,0 +1,8 @@
+name = "LangChain-ChatGLM-Webui"
+description = "基于LangChain和ChatGLM-6B等系列LLM的针对本地知识库的自动问答"
+category = "llm-apps"
+tags = ["chatglm-6b", "chatglm-webui", "langchain", "llm", "minimax", "belle", "bilibili", "llama"]
+repository = "https://github.com/X-D-Lab/LangChain-ChatGLM-Webui"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

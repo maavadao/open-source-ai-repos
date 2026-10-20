@@ -1,0 +1,9 @@
+name = "caffe"
+description = "Caffe: a fast open framework for deep learning."
+category = "ml-platforms"
+tags = ["deep-learning", "machine-learning", "vision"]
+repository = "https://github.com/BVLC/caffe"
+website = "http://caffe.berkeleyvision.org/"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

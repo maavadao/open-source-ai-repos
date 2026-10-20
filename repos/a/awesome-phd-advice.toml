@@ -1,0 +1,7 @@
+name = "awesome-phd-advice"
+description = "Collection of advice for prospective and current PhD students"
+category = "learning"
+tags = ["phd-students", "phd-application", "research", "computer-science", "machine-learning"]
+repository = "https://github.com/pliang279/awesome-phd-advice"
+license = "MIT"
+added = 2026-10-20

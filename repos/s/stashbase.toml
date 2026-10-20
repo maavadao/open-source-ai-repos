@@ -1,0 +1,9 @@
+name = "stashbase"
+description = "An open-source, local-first writing workspace where you can write with Claude Code and Codex, drawing on your own sources and past work."
+category = "mcp-servers"
+tags = ["ai-agents", "document-search", "electron", "local-first", "mcp", "semantic-search", "typescript", "mcp-server"]
+repository = "https://github.com/liliu-z/stashbase"
+website = "https://stashbase.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

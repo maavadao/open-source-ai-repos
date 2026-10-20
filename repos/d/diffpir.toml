@@ -1,0 +1,9 @@
+name = "DiffPIR"
+description = "\"Denoising Diffusion Models for Plug-and-Play Image Restoration\", Yuanzhi Zhu, Kai Zhang, Jingyun Liang, Jiezhang Cao, Bihan Wen, Radu Timofte, Luc Van Gool."
+category = "image"
+tags = ["diffusion-models", "training-free", "image-reatoration"]
+repository = "https://github.com/yuanzhi-zhu/DiffPIR"
+website = "https://yuanzhi-zhu.github.io/DiffPIR/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

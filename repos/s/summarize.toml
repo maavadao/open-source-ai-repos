@@ -1,0 +1,9 @@
+name = "summarize"
+description = "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension."
+category = "other"
+tags = ["ai", "cli", "summarize", "typescript"]
+repository = "https://github.com/steipete/summarize"
+website = "https://summarize.sh"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

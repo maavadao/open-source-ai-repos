@@ -1,0 +1,9 @@
+name = "diffusion-classifier"
+description = "Diffusion Classifier leverages pretrained diffusion models to perform zero-shot classification without additional training"
+category = "image"
+tags = ["bayes-theorem", "classification", "computer-vision", "deep-learning", "diffusion", "diffusion-models", "elbo", "generative"]
+repository = "https://github.com/diffusion-classifier/diffusion-classifier"
+website = "http://diffusion-classifier.github.io/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

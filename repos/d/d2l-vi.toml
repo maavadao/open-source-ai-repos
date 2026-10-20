@@ -1,0 +1,8 @@
+name = "d2l-vi"
+description = "Một cuốn sách về Học Sâu đề cập đến nhiều framework phổ biến, được sử dụng trên 300 trường Đại học từ 55 đất nước bao gồm MIT, Stanford, Harvard, và Cambridge."
+category = "vision"
+tags = ["deep-learning", "machine-learning", "computer-vision", "tensorflow", "pytorch", "python", "kaggle", "keras"]
+repository = "https://github.com/d2l-ai/d2l-vi"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

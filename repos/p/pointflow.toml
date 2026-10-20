@@ -1,0 +1,9 @@
+name = "PointFlow"
+description = "PointFlow : 3D Point Cloud Generation with Continuous Normalizing Flows"
+category = "vision"
+tags = ["3d-point-clouds", "continuous-normalizing-flows", "shapes", "machine-learning", "computer-vision", "pytorch"]
+repository = "https://github.com/stevenygd/PointFlow"
+website = "https://www.guandaoyang.com/PointFlow/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

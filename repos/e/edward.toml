@@ -1,0 +1,9 @@
+name = "edward"
+description = "A probabilistic programming language in TensorFlow. Deep generative models, variational inference."
+category = "ml-platforms"
+tags = ["bayesian-methods", "deep-learning", "machine-learning", "data-science", "tensorflow", "neural-networks", "statistics", "probabilistic-programming"]
+repository = "https://github.com/blei-lab/edward"
+website = "http://edwardlib.org"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

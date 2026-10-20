@@ -1,0 +1,9 @@
+name = "deep-searcher"
+description = "Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python."
+category = "vector-databases"
+tags = ["agent", "llm", "rag", "vector-database", "deepseek", "agentic-rag", "milvus", "openai"]
+repository = "https://github.com/zilliztech/deep-searcher"
+website = "https://zilliztech.github.io/deep-searcher/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

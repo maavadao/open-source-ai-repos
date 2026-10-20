@@ -1,0 +1,9 @@
+name = "abel"
+description = "SOTA Math Opensource LLM"
+category = "models"
+tags = ["generative-ai", "llm", "math"]
+repository = "https://github.com/GAIR-NLP/abel"
+website = "https://gair-nlp.github.io/abel/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

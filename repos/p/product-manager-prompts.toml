@@ -1,0 +1,8 @@
+name = "product-manager-prompts"
+description = "A repository of Generative AI prompts for product managers using agents such as ChatGPT, Claude, & Gemini"
+category = "chat"
+tags = ["agile", "chatgpt", "documentation-generator", "generative-ai", "product-management", "product-owner"]
+repository = "https://github.com/deanpeters/product-manager-prompts"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

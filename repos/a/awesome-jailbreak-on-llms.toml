@@ -1,0 +1,7 @@
+name = "Awesome-Jailbreak-on-LLMs"
+description = "Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting jailbreak methods on LLMs. It contains papers, codes, datasets, evaluations, and analyses."
+category = "learning"
+tags = ["ai", "jailbreak", "llm", "llms", "privacy", "safety", "security", "vlm"]
+repository = "https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs"
+license = "MIT"
+added = 2026-10-20

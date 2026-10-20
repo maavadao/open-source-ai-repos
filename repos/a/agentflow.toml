@@ -1,0 +1,9 @@
+name = "AgentFlow"
+description = "AgentFlow: In-the-Flow Agentic System Optimization"
+category = "agents"
+tags = ["agentic-ai", "agentic-systems", "llms", "llms-reasoning", "multi-agent-systems", "reinforcement-learning", "tool-augmented"]
+repository = "https://github.com/lupantech/AgentFlow"
+website = "https://agentflow.stanford.edu"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

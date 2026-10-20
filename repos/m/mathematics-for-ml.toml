@@ -1,0 +1,7 @@
+name = "Mathematics-for-ML"
+description = "A collection of resources to learn mathematics for machine learning"
+category = "ml-platforms"
+tags = ["ai", "deep-learning", "machine-learning", "mathematics", "ml"]
+repository = "https://github.com/dair-ai/Mathematics-for-ML"
+license = "NOASSERTION"
+added = 2026-10-20

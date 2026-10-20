@@ -1,0 +1,9 @@
+name = "mcp"
+description = "Official Microsoft Learn MCP Server and CLI tool – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples."
+category = "mcp-servers"
+tags = ["ai", "ai-agents", "documentation", "mcp", "microsoft", "microsoft-learn", "rag", "copilot"]
+repository = "https://github.com/MicrosoftDocs/mcp"
+website = "https://learn.microsoft.com"
+license = "CC-BY-4.0"
+language = "TypeScript"
+added = 2026-10-20

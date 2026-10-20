@@ -1,0 +1,9 @@
+name = "ihmc-open-robotics-software"
+description = "Robotics software featuring legged locomotion algorithms and a momentum-based controller core with optimization. Supporting software for world-class robots including humanoids, running birds, exoskeletons, mechs and more."
+category = "robotics"
+tags = ["robotics", "java", "ihmc", "humanoid-robot", "walking", "whole-body-control"]
+repository = "https://github.com/ihmcrobotics/ihmc-open-robotics-software"
+website = "https://robots.ihmc.us"
+license = "NOASSERTION"
+language = "Java"
+added = 2026-10-20

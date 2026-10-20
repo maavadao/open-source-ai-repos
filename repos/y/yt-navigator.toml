@@ -1,0 +1,8 @@
+name = "YT-Navigator"
+description = "YT Navigator: AI-powered YouTube content explorer that lets you search and chat with channel videos using AI agents. Extract insights from hours of content in seconds with semantic search and precise timestamps."
+category = "agents"
+tags = ["agentic-ai", "agentic-rag", "ai", "django", "langchain", "langgraph", "llm", "python"]
+repository = "https://github.com/wassim249/YT-Navigator"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

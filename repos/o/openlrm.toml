@@ -1,0 +1,8 @@
+name = "OpenLRM"
+description = "An open-source impl. of Large Reconstruction Models"
+category = "image"
+tags = ["3d", "aigc", "computer-vision", "generation"]
+repository = "https://github.com/3DTopia/OpenLRM"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

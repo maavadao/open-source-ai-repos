@@ -1,0 +1,9 @@
+name = "openclaw-nerve"
+description = "Real-time web cockpit for OpenClaw: voice conversations, agent automated kanban board, workspace/file control, sub-agent sessions, inline charts, and usage visibility."
+category = "speech"
+tags = ["ai-agent", "claude", "dashboard", "open-source", "openai", "openclaw", "self-hosted", "voice"]
+repository = "https://github.com/daggerhashimoto/openclaw-nerve"
+website = "https://nerve.zone"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

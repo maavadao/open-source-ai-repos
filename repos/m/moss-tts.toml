@@ -1,0 +1,9 @@
+name = "MOSS-TTS"
+description = "An open-source model family for long-form speech, dialogue synthesis, voice design, sound effects, and real-time streaming TTS"
+category = "speech"
+tags = ["audio", "audio-tokenizer", "llm", "multimodal", "text-to-speech", "voice-cloning", "multilingual", "speech-synthesis"]
+repository = "https://github.com/OpenMOSS/MOSS-TTS"
+website = "https://mosi.cn/models/moss-tts"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

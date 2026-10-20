@@ -1,0 +1,10 @@
+name = "loopx"
+description = "Local-first control plane and research workbench for long-horizon agents and teams. Durable goals, governed collaboration, and cited trajectory analysis."
+category = "agents"
+tags = ["agent-control-plane", "ai-agents", "codex", "agent-harness", "long-horizon-agents", "claude-code", "local-first", "multi-agent"]
+repository = "https://github.com/loopx-project/loopx"
+website = "https://my.feishu.cn/wiki/CaL5wMk9ui17ngkWzeUcMlAYnZg"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

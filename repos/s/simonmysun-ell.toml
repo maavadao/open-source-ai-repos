@@ -1,0 +1,8 @@
+name = "ell"
+description = "A command-line interface for LLMs written in Bash."
+category = "models"
+tags = ["gpt", "llm", "gemini", "openai", "bash"]
+repository = "https://github.com/simonmysun/ell"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

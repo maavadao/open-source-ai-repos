@@ -1,0 +1,8 @@
+name = "trove-ai"
+description = "中文互联网内容的个人 AI 稍后读 + 知识库 · Read-later + AI knowledge base for the Chinese internet"
+category = "llm-apps"
+tags = ["ai", "chinese", "fastapi", "knowledge-base", "nextjs", "obsidian", "pgvector", "rag"]
+repository = "https://github.com/weaiw/trove-ai"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

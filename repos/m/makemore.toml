@@ -1,0 +1,7 @@
+name = "makemore"
+description = "An autoregressive character-level language model for making more things"
+category = "models"
+repository = "https://github.com/karpathy/makemore"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

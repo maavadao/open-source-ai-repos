@@ -1,0 +1,9 @@
+name = "grepai"
+description = "Semantic Search & Call Graphs for AI Agents (100% Local)"
+category = "mcp-servers"
+tags = ["ai", "claude-code", "cli", "code-search", "cursor", "developer-tools", "embeddings", "golang"]
+repository = "https://github.com/yoanbernabeu/grepai"
+website = "https://yoanbernabeu.github.io/grepai/"
+license = "MIT"
+language = "C"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "One-DM"
+description = "Official Code for ECCV 2024 paper — One-Shot Diffusion Mimicker for Handwritten Text Generation"
+category = "image"
+tags = ["diffusion-models", "handwritten-text-generation", "computer-vision", "deep-learning", "pytorch-implementation", "image-generation", "handwriting-imitator", "latent-diffusion"]
+repository = "https://github.com/dailenson/One-DM"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

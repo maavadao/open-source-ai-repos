@@ -1,0 +1,9 @@
+name = "helicone"
+description = "Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23"
+category = "llm-apps"
+tags = ["large-language-models", "prompt-engineering", "agent-monitoring", "analytics", "evaluation", "gpt", "langchain", "llama-index"]
+repository = "https://github.com/Helicone/helicone"
+website = "https://www.helicone.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "dolma"
+description = "Data and tools for generating and inspecting OLMo pre-training data."
+category = "models"
+tags = ["data-processing", "large-language-models", "llm", "machile-learning", "nlp"]
+repository = "https://github.com/allenai/dolma"
+website = "https://allenai.github.io/dolma/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

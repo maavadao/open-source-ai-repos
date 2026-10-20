@@ -1,0 +1,8 @@
+name = "spotlight"
+description = "Deep recommender models using PyTorch."
+category = "ml-platforms"
+tags = ["recommender-system", "deep-learning", "learning-to-rank", "python", "machine-learning", "matrix-factorization", "pytorch"]
+repository = "https://github.com/maciejkula/spotlight"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "AutoViz"
+description = "Automatically Visualize any dataset, any size with a single line of code. Created by Ram Seshadri. Collaborators Welcome. Permission Granted upon Request."
+category = "ml-platforms"
+tags = ["visualization", "python3", "python", "xgboost", "automl", "scikit-learn", "machine-learning", "tableau"]
+repository = "https://github.com/AutoViML/AutoViz"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

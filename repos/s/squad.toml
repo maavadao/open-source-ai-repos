@@ -1,0 +1,9 @@
+name = "squad"
+description = "Squad: AI agent teams for any project"
+category = "coding"
+tags = ["ai", "cli", "copilot", "developer-tools", "github-copilot", "multi-agent", "typescript"]
+repository = "https://github.com/bradygaster/squad"
+website = "https://bradygaster.github.io/squad/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

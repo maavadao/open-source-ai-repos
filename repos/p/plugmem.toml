@@ -1,0 +1,8 @@
+name = "PlugMem"
+description = "ICML 2026 | PALM@NeurIPS2026 Oral | Plug-and-play long-term memory for LLM agents"
+category = "agents"
+tags = ["agent-memory", "llm-agent", "rag"]
+repository = "https://github.com/TIMAN-group/PlugMem"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

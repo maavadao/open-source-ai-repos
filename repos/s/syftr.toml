@@ -1,0 +1,8 @@
+name = "syftr"
+description = "syftr is an agent optimizer that helps you find the best agentic workflows for your budget."
+category = "agents"
+tags = ["agents", "ai", "ai-agents", "hyperparameter-optimization", "hyperparameter-search", "llm-agent", "llms", "pareto-optimality"]
+repository = "https://github.com/datarobot/syftr"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

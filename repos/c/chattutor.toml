@@ -1,0 +1,9 @@
+name = "ChatTutor"
+description = "ChatTutor: Visual and Interactive AI Tutor"
+category = "education"
+tags = ["ai", "ai-education", "education", "llm", "stem"]
+repository = "https://github.com/HugeCatLab/ChatTutor"
+website = "https://chattutor.app"
+license = "AGPL-3.0"
+language = "Vue"
+added = 2026-10-20

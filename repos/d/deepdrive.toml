@@ -1,0 +1,9 @@
+name = "deepdrive"
+description = "Deepdrive is a simulator that allows anyone with a PC to push the state-of-the-art in self-driving"
+category = "ml-platforms"
+tags = ["self-driving-car", "tensorflow", "reinforcement-learning", "unreal-engine", "simulation", "deep-learning", "python", "gym"]
+repository = "https://github.com/deepdrive/deepdrive"
+website = "https://deepdrive.io"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "gorilla-cli"
+description = "LLMs for your CLI"
+category = "models"
+tags = ["aws", "bash", "cli", "k8s", "llm", "productivity", "terminal", "gcp"]
+repository = "https://github.com/gorilla-llm/gorilla-cli"
+website = "https://gorilla.cs.berkeley.edu/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

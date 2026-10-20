@@ -1,0 +1,9 @@
+name = "LLM-groundedDiffusion"
+description = "LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models (LLM-grounded Diffusion: LMD, TMLR 2024)"
+category = "image"
+tags = ["image-generation", "llm", "stable-diffusion", "stable-diffusion-webui", "text-to-image"]
+repository = "https://github.com/TonyLianLong/LLM-groundedDiffusion"
+website = "https://llm-grounded-diffusion.github.io/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

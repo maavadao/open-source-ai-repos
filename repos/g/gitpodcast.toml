@@ -1,0 +1,9 @@
+name = "gitpodcast"
+description = "Convert any git repository into an engaging podcast"
+category = "no-code"
+tags = ["ai", "automation", "azure", "developer-tools", "github", "openai", "podcast", "tts"]
+repository = "https://github.com/BandarLabs/gitpodcast"
+website = "https://www.gitpodcast.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

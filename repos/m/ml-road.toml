@@ -1,0 +1,8 @@
+name = "ml-road"
+description = "Machine Learning and Agentic AI Resources, Practice and Research"
+category = "speech"
+tags = ["machine-learning", "deep-learning", "nlp", "computer-vision", "speech-recognition", "tensorflow", "pytorch", "agentic-ai"]
+repository = "https://github.com/yanshengjia/ml-road"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

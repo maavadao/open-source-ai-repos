@@ -1,0 +1,9 @@
+name = "neurojs"
+description = "A JavaScript deep learning and reinforcement learning library."
+category = "ml-platforms"
+tags = ["deep-learning", "self-driving-car", "reinforcement-learning", "javascript", "neural-network", "machine-learning"]
+repository = "https://github.com/janhuenermann/neurojs"
+website = "http://janhuenermann.com/projects/learning-to-drive"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

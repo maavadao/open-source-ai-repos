@@ -1,0 +1,8 @@
+name = "PyTorchNLPBook"
+description = "Code and data accompanying Natural Language Processing with PyTorch published by O'Reilly Media https://amzn.to/3JUgR2L"
+category = "learning"
+tags = ["natural-language-processing", "nlp", "pytorch-nlp", "pytorch", "pytorch-tutorial", "deep-learning", "deep-neural-networks", "neural-networks"]
+repository = "https://github.com/delip/PyTorchNLPBook"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

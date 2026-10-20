@@ -1,0 +1,8 @@
+name = "claude-tap"
+description = "Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi, and Hermes in a local trace viewer."
+category = "coding"
+tags = ["ai-tools", "claude-code", "codex", "developer-tools", "llm", "proxy", "trace", "agent-debugging"]
+repository = "https://github.com/liaohch3/claude-tap"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "MachineLearningNotebooks"
+description = "Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft"
+category = "learning"
+tags = ["machine-learning", "notebook", "azure", "deep-learning", "data-science", "azure-machine-learning", "azure-ml", "azureml"]
+repository = "https://github.com/Azure/MachineLearningNotebooks"
+website = "https://docs.microsoft.com/azure/machine-learning/service/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

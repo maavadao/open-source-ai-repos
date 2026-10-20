@@ -1,0 +1,9 @@
+name = "hagrid"
+description = "HAnd Gesture Recognition Image Dataset"
+category = "vision"
+tags = ["computer-vision", "dataset", "deep-learning", "gesture-recognition", "gestures-classification", "image-classification", "bounding-boxes", "hands"]
+repository = "https://github.com/hukenovs/hagrid"
+website = "https://arxiv.org/abs/2206.08219"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

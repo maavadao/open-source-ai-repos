@@ -1,0 +1,9 @@
+name = "frugon"
+description = "Free, local, open-source LLM cost analyzer - see where your LLM bill leaks, on your machine."
+category = "llm-apps"
+tags = ["anthropic", "cli", "cost-optimization", "finops", "llm", "llmops", "local-first", "openai"]
+repository = "https://github.com/Rodiun/frugon"
+website = "https://frugon.rodiun.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

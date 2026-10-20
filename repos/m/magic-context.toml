@@ -1,0 +1,9 @@
+name = "magic-context"
+description = "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexKit."
+category = "coding"
+tags = ["agent-framework", "agent-memory", "ai", "ai-agents", "ai-context", "opencode", "ai-memory", "cache-aware"]
+repository = "https://github.com/cortexkit/magic-context"
+website = "https://discord.gg/DSa65w8wuf"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

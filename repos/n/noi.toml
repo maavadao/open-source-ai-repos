@@ -1,0 +1,9 @@
+name = "Noi"
+description = "Less chaos. More flow."
+category = "coding"
+tags = ["ai", "browser", "chatgpt", "claude", "extension", "gemini", "noi", "application"]
+repository = "https://github.com/lencx/Noi"
+website = "https://noib.app"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

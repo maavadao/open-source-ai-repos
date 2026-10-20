@@ -1,0 +1,8 @@
+name = "DialogRPT"
+description = "EMNLP 2020: \"Dialogue Response Ranking Training with Large-Scale Human Feedback Data\""
+category = "models"
+tags = ["dialog", "pretrained-models", "transformers", "pytorch", "conversational-ai", "dialogpt", "gpt-2", "human-feedback-data"]
+repository = "https://github.com/golsun/DialogRPT"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

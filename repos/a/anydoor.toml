@@ -1,0 +1,9 @@
+name = "AnyDoor"
+description = "Official implementations for paper: Anydoor: zero-shot object-level image customization"
+category = "image"
+tags = ["image-composition", "image-customization", "image-generation", "image-editing"]
+repository = "https://github.com/ali-vilab/AnyDoor"
+website = "https://ali-vilab.github.io/AnyDoor-Page/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

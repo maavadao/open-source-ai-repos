@@ -1,0 +1,7 @@
+name = "claw0"
+description = "0 - 1 learn OpenClaw: sections to build an claw-AI agent from scratch"
+category = "learning"
+repository = "https://github.com/shareAI-lab/claw0"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

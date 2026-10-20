@@ -1,0 +1,9 @@
+name = "kelivo"
+description = "A Flutter LLM Chat Client. Support Mobile & Desktop."
+category = "chat"
+tags = ["ai", "android", "flutter", "flutter-apps", "harmonyos", "ios", "llm", "harmony"]
+repository = "https://github.com/Chevey339/kelivo"
+website = "https://kelivo.psycheas.top"
+license = "AGPL-3.0"
+language = "Dart"
+added = 2026-10-20

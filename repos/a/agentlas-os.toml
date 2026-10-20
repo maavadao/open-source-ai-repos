@@ -1,0 +1,9 @@
+name = "Agentlas-OS"
+description = "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model."
+category = "mcp-servers"
+tags = ["agent-framework", "agentic-ai", "ai-agents", "llm", "a2a", "agent", "agent-os-desktop", "agent-skills"]
+repository = "https://github.com/agentlas-ai/Agentlas-OS"
+website = "https://agentlas.cloud"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

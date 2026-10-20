@@ -1,0 +1,8 @@
+name = "XAgent"
+description = "An Autonomous LLM Agent for Complex Task Solving"
+category = "agents"
+repository = "https://github.com/OpenBMB/XAgent"
+website = "https://blog.x-agent.net/blog/xagent/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

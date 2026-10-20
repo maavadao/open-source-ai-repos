@@ -1,0 +1,9 @@
+name = "inference"
+description = "Turn any computer or edge device into a command center for your computer vision projects."
+category = "vision"
+tags = ["computer-vision", "inference-api", "inference-server", "vit", "yolov5", "yolov8", "jetson", "tensorrt"]
+repository = "https://github.com/roboflow/inference"
+website = "https://inference.roboflow.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

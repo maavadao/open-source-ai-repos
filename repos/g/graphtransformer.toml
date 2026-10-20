@@ -1,0 +1,9 @@
+name = "graphtransformer"
+description = "Graph Transformer Architecture. Source code for \"A Generalization of Transformer Networks to Graphs\", DLG-AAAI'21."
+category = "models"
+tags = ["graph-transformer", "transformers", "transformer", "attention", "graph-neural-networks", "graph-deep-learning", "aaai", "transformer-networks"]
+repository = "https://github.com/graphdeeplearning/graphtransformer"
+website = "https://arxiv.org/abs/2012.09699"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

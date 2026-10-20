@@ -1,0 +1,9 @@
+name = "ChatKBQA"
+description = "[ACL 2024] Official resources of \"ChatKBQA: A Generate-then-Retrieve Framework for Knowledge Base Question Answering with Fine-tuned Large Language Models\"."
+category = "llm-apps"
+tags = ["knowledge-graph", "semantic-parsing", "sparql-query", "graph-database", "finetuning", "large-language-models"]
+repository = "https://github.com/LHRLAB/ChatKBQA"
+website = "https://doi.org/10.18653/v1/2024.findings-acl.122"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

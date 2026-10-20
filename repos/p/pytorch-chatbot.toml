@@ -1,0 +1,8 @@
+name = "pytorch-chatbot"
+description = "Pytorch seq2seq chatbot"
+category = "learning"
+tags = ["pytorch", "sequence-to-sequence", "seq2seq", "pytorch-tutorial", "beam-search", "chatbot"]
+repository = "https://github.com/ywk991112/pytorch-chatbot"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

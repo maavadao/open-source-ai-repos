@@ -1,0 +1,8 @@
+name = "solidworks-automation-skill"
+description = "Reliable AI Skill + MCP toolkit for agent-driven desktop CAD automation."
+category = "mcp-servers"
+tags = ["autocad", "cad", "claude", "codex", "dwg", "dxf", "mcp", "mechanical-design"]
+repository = "https://github.com/wzyn20051216/solidworks-automation-skill"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

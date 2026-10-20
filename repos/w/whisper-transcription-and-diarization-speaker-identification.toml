@@ -1,0 +1,8 @@
+name = "Whisper-transcription_and_diarization-speaker-identification-"
+description = "How to use OpenAIs Whisper to transcribe and diarize audio files"
+category = "speech"
+tags = ["openai", "python", "whisper"]
+repository = "https://github.com/lablab-ai/Whisper-transcription_and_diarization-speaker-identification-"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

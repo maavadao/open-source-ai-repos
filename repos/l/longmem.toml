@@ -1,0 +1,9 @@
+name = "LongMem"
+description = "Official implementation of our NeurIPS 2023 paper \"Augmenting Language Models with Long-Term Memory\"."
+category = "models"
+tags = ["large-language-models", "long-context-modeling", "long-term-memory"]
+repository = "https://github.com/Victorwz/LongMem"
+website = "https://arxiv.org/abs/2306.07174"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

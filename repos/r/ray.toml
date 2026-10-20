@@ -1,0 +1,10 @@
+name = "ray"
+description = "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads."
+category = "ml-platforms"
+tags = ["ray", "distributed", "parallel", "machine-learning", "reinforcement-learning", "deep-learning", "python", "rllib"]
+repository = "https://github.com/ray-project/ray"
+website = "https://ray.io"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "advanced"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "NovelClaw"
+description = "Dynamic-memory-first collaborative AI framework for long-form story generation, chapter planning, and coherent narrative writing"
+category = "agents"
+tags = ["ai", "agent", "creative-writing", "creative-writing-ai", "fastapi", "llm", "multi-agent", "novel"]
+repository = "https://github.com/iLearn-Lab/NovelClaw"
+website = "https://hitsz-ds.github.io/CoLong-Idea-Studio/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

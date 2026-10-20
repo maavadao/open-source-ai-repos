@@ -1,0 +1,9 @@
+name = "ext-apps"
+description = "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers"
+category = "mcp-servers"
+tags = ["ai", "apps", "mcp", "mcp-apps", "modelcontextprotocol", "ui"]
+repository = "https://github.com/modelcontextprotocol/ext-apps"
+website = "https://apps.extensions.modelcontextprotocol.io/"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

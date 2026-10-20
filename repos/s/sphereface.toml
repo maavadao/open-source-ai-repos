@@ -1,0 +1,8 @@
+name = "sphereface"
+description = "Implementation for <SphereFace: Deep Hypersphere Embedding for Face Recognition> in CVPR'17."
+category = "vision"
+tags = ["face-recognition", "caffe", "sphereface", "cvpr-2017", "face-detection", "angular-softmax", "deep-learning"]
+repository = "https://github.com/wy1iu/sphereface"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

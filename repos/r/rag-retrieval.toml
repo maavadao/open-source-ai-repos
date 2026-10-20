@@ -1,0 +1,8 @@
+name = "RAG-Retrieval"
+description = "Unify Efficient Fine-tuning of RAG Retrieval, including Embedding, ColBERT, ReRanker."
+category = "llm-apps"
+tags = ["ai", "llm", "nlp", "rag", "retrieval-augmented-generation"]
+repository = "https://github.com/NovaSearch-Team/RAG-Retrieval"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

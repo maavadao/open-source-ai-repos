@@ -1,0 +1,9 @@
+name = "flyte"
+description = "Type-safe, distributed orchestration of agents, ML pipelines, and real-time inference on your k8s — in pure Python with async/await, also other languages (rust, go and ts)"
+category = "mcp-servers"
+tags = ["machine-learning", "scale", "workflow", "mlops", "python", "agent-runtime", "agents", "ai-runtime"]
+repository = "https://github.com/flyteorg/flyte"
+website = "https://flyte.org"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

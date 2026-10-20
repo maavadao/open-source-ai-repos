@@ -1,0 +1,7 @@
+name = "dispatch"
+description = "A Claude Code skill that 10x's your effective context window by dispatching tasks to background AI workers."
+category = "coding"
+tags = ["ai-agents", "ai-coding", "automation", "claude-code", "coding-assistant", "developer-tools", "multi-model", "task-orchestration"]
+repository = "https://github.com/bassimeledath/dispatch"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "DALLE-pytorch"
+description = "Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch"
+category = "image"
+tags = ["artificial-intelligence", "deep-learning", "attention-mechanism", "text-to-image", "transformers", "multi-modal"]
+repository = "https://github.com/lucidrains/DALLE-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

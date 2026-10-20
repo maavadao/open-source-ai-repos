@@ -1,0 +1,8 @@
+name = "DAMO-YOLO"
+description = "DAMO-YOLO: a fast and accurate object detection method with some new techs, including NAS backbones, efficient RepGFPN, ZeroHead, AlignedOTA, and distillation enhancement."
+category = "vision"
+tags = ["deep-learning", "nas", "object-detection", "onnx", "pytorch", "tensorrt", "yolo", "yolov5"]
+repository = "https://github.com/tinyvision/DAMO-YOLO"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

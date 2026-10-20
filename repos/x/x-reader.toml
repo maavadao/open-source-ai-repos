@@ -1,0 +1,9 @@
+name = "x-reader"
+description = "Universal content reader MCP Server for 10+ platforms"
+category = "mcp-servers"
+tags = ["ai-agents", "content-extraction", "mcp", "mcp-server", "python", "twitter", "web-scraping", "youtube"]
+repository = "https://github.com/runesleo/x-reader"
+website = "https://xreader.leolabs.me"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

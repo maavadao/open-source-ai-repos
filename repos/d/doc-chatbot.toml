@@ -1,0 +1,8 @@
+name = "doc-chatbot"
+description = "Document chatbot — multiple files, topics, chat windows and chat history. Powered by GPT."
+category = "chat"
+tags = ["openai", "typescript", "gpt-3", "gpt-4", "langchain", "mongoose", "nextjs", "openai-api"]
+repository = "https://github.com/dissorial/doc-chatbot"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

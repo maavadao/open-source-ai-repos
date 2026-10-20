@@ -1,0 +1,9 @@
+name = "fast-alpr"
+description = "Fast Automatic License Plate Recognition (ALPR) framework."
+category = "vision"
+tags = ["anpr", "plate-recognition", "plate-detection", "license-plate-recognition", "alpr", "automatic-license-plate-recognition", "alpr-sdk", "real-time"]
+repository = "https://github.com/ankandrew/fast-alpr"
+website = "https://ankandrew.github.io/fast-alpr/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "DreamLayer-Eval"
+description = "DreamLayer Eval: open-source benchmarking for image and video diffusion models. Automate prompts, seeds, and metrics for reproducible results. A research project from DreamLayer AI (dreamlayer.io)."
+category = "image"
+tags = ["image-generation", "stable-diffusion", "diffusion-models", "generative-ai", "benchmarking", "evaluation-metrics"]
+repository = "https://github.com/TheDesignFounder/DreamLayer-Eval"
+website = "https://dreamlayer.io/opensource"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

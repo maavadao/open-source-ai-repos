@@ -1,0 +1,8 @@
+name = "rl_games"
+description = "RL implementations"
+category = "ml-platforms"
+tags = ["deep-learning", "pytorch", "reinforcement-learning"]
+repository = "https://github.com/Denys88/rl_games"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

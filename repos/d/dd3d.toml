@@ -1,0 +1,8 @@
+name = "dd3d"
+description = "Official PyTorch implementation of DD3D: Is Pseudo-Lidar needed for Monocular 3D Object detection? (ICCV 2021), Dennis Park*, Rares Ambrus*, Vitor Guizilini, Jie Li, and Adrien Gaidon."
+category = "vision"
+tags = ["deep-learning", "pytorch", "computer-vision"]
+repository = "https://github.com/TRI-ML/dd3d"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

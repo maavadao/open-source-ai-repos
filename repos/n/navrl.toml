@@ -1,0 +1,8 @@
+name = "NavRL"
+description = "[IEEE RA-L'25] NavRL: Learning Safe Flight in Dynamic Environments (NVIDIA Isaac/Python/ROS1/ROS2)"
+category = "robotics"
+tags = ["collision-avoidance", "isaac-sim", "nvidia-isaac", "reinforcement-learning", "robot-navigation", "robotics", "ros1-noetic", "ros2-humble"]
+repository = "https://github.com/Zhefan-Xu/NavRL"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "ragapp"
+description = "The easiest way to use Agentic RAG in any enterprise"
+category = "agents"
+tags = ["agentic", "agents", "ai", "docker", "llamaindex", "rag"]
+repository = "https://github.com/ragapp/ragapp"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

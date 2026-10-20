@@ -1,0 +1,9 @@
+name = "harnessrouter"
+description = "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, PI, DSH, and more through one API, with sessions, streaming, files, cancellation, and failure handling. Implements the Unified…"
+category = "agents"
+tags = ["agent-harness", "ai-infrastructure", "open-protocol", "open-source", "unified-api", "agent-api", "open-standard", "unified-interface"]
+repository = "https://github.com/HarnessRouter/harnessrouter"
+website = "https://harnessrouter.ai/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

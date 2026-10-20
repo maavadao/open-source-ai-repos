@@ -1,0 +1,9 @@
+name = "Flux.jl"
+description = "Relax! Flux is the ML library that doesn't make you tensor"
+category = "image"
+tags = ["flux", "machine-learning", "neural-networks", "deep-learning", "data-science", "the-human-brain"]
+repository = "https://github.com/FluxML/Flux.jl"
+website = "https://fluxml.ai/"
+license = "NOASSERTION"
+language = "Julia"
+added = 2026-10-20

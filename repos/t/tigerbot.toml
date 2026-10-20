@@ -1,0 +1,9 @@
+name = "TigerBot"
+description = "TigerBot: A multi-language multi-task LLM"
+category = "models"
+tags = ["llm", "nlp", "chinese", "data", "llama2"]
+repository = "https://github.com/TigerResearch/TigerBot"
+website = "https://www.tigerbot.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

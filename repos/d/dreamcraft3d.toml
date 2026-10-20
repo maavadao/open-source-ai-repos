@@ -1,0 +1,9 @@
+name = "DreamCraft3D"
+description = "[ICLR 2024] Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior"
+category = "image"
+tags = ["3d-generation", "aigc", "diffusion-models", "generative-model", "image-to-3d", "3d-creation"]
+repository = "https://github.com/deepseek-ai/DreamCraft3D"
+website = "https://mrtornado24.github.io/DreamCraft3D/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

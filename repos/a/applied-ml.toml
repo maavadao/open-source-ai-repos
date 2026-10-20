@@ -1,0 +1,9 @@
+name = "applied-ml"
+description = "Papers & tech blogs by companies sharing their work on data science & machine learning in production."
+category = "learning"
+tags = ["applied-machine-learning", "production", "applied-data-science", "machine-learning", "data-science", "reinforcement-learning", "data-engineering", "recsys"]
+repository = "https://github.com/eugeneyan/applied-ml"
+website = "https://applyingml.com"
+license = "MIT"
+skill_level = "intermediate"
+added = 2026-10-20

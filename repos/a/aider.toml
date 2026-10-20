@@ -1,0 +1,10 @@
+name = "aider"
+description = "aider is AI pair programming in your terminal"
+category = "coding"
+tags = ["chatgpt", "cli", "command-line", "gpt-4", "openai", "gpt-3", "gpt-35-turbo", "claude-3"]
+repository = "https://github.com/Aider-AI/aider"
+website = "https://aider.chat"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

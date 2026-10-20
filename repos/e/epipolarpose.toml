@@ -1,0 +1,8 @@
+name = "EpipolarPose"
+description = "Self-Supervised Learning of 3D Human Pose using Multi-view Geometry (CVPR2019)"
+category = "vision"
+tags = ["human-pose-estimation", "3d-pose-estimation", "pytorch", "computer-vision", "cvpr2019", "cvpr-2019", "cvpr", "cvpr19"]
+repository = "https://github.com/mkocabas/EpipolarPose"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

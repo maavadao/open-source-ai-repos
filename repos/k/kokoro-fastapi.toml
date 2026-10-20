@@ -1,0 +1,8 @@
+name = "Kokoro-FastAPI"
+description = "Dockerized OpenAI-compatible wrapper for Kokoro-82M text-to-speech w/multiplatform CPU, AMD, NVIDIA GPU PyTorch; multi-speaker, clone-tuning, caption timestamps, SSML, optional readalong web UI"
+category = "speech"
+tags = ["fastapi", "tts", "tts-api", "kokoro", "kokoro-tts", "pytorch", "openai-compatible-api", "openwebui"]
+repository = "https://github.com/remsky/Kokoro-FastAPI"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

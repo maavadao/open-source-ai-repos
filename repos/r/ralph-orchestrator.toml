@@ -1,0 +1,8 @@
+name = "ralph-orchestrator"
+description = "An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration"
+category = "coding"
+tags = ["ai", "ai-agents", "ai-agents-framework", "ai-developer-tools", "claude-code", "claude-code-cli", "codex-cli", "development-tools"]
+repository = "https://github.com/mikeyobrien/ralph-orchestrator"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

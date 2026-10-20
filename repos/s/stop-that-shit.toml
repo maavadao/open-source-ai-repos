@@ -1,0 +1,9 @@
+name = "stop-that-shit"
+description = "Stop That Shit（别再造史了）｜面向 Codex/GPT 场景的多平台 Hook + Skill Guard：拦截 AI coding agent 无需求的哈希、校验和与任务范围膨胀。 A multi-platform Hook + Skill Guard for AI coding agents in Codex/GPT workflows: stop unrequested hashes, checksums, and task-scope creep."
+category = "security"
+tags = ["agent-skills", "ai-agents", "codex", "codex-cli", "codex-plugin", "developer-tools", "guardrails", "local-first"]
+repository = "https://github.com/lennney/stop-that-shit"
+website = "https://take-a-deep-breath0.com/zh/stop-that-shit"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

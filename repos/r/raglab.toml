@@ -1,0 +1,9 @@
+name = "RAGLAB"
+description = "[EMNLP 2024: Demo Oral] RAGLAB: A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation"
+category = "llm-apps"
+tags = ["rag", "retrieval-augmented-generation", "fair-comparison", "llm"]
+repository = "https://github.com/fate-ubw/RAGLAB"
+website = "https://arxiv.org/abs/2408.11381"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

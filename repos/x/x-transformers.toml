@@ -1,0 +1,8 @@
+name = "x-transformers"
+description = "A concise but complete full-attention transformer with a set of promising experimental features from various papers"
+category = "models"
+tags = ["artificial-intelligence", "deep-learning", "attention-mechanism", "transformers"]
+repository = "https://github.com/lucidrains/x-transformers"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

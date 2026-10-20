@@ -1,0 +1,8 @@
+name = "srcbook"
+description = "TypeScript notebook"
+category = "other"
+tags = ["ai", "javascript", "local", "notebook", "typescript"]
+repository = "https://github.com/srcbookdev/srcbook"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

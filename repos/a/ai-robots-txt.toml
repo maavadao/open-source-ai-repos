@@ -1,0 +1,8 @@
+name = "ai.robots.txt"
+description = "A list of AI agents and robots to block."
+category = "security"
+tags = ["ai", "crawlers", "crawling", "privacy"]
+repository = "https://github.com/ai-robots-txt/ai.robots.txt"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

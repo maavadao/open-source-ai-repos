@@ -1,0 +1,9 @@
+name = "AudioMuse-AI"
+description = "AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and Plex: no metadata or external services required."
+category = "speech"
+tags = ["jellyfin", "playlist", "docker", "k3s", "kubernetes", "llm", "librosa", "navidrome"]
+repository = "https://github.com/NeptuneHub/AudioMuse-AI"
+website = "https://neptunehub.github.io/AudioMuse-AI/"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "mlrun"
+description = "MLRun is an open source MLOps platform for quickly building and managing continuous ML applications across their lifecycle. MLRun integrates into your development and CI/CD environment and automates the delivery of production data, ML pipelines, and online applications."
+category = "no-code"
+tags = ["mlops", "python", "data-science", "machine-learning", "data-engineering", "experiment-tracking", "model-serving", "mlops-workflow"]
+repository = "https://github.com/mlrun/mlrun"
+website = "https://mlrun.org"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

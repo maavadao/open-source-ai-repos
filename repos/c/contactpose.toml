@@ -1,0 +1,9 @@
+name = "ContactPose"
+description = "Large dataset of hand-object contact, hand- and object-pose, and 2.9 M RGB-D grasp images."
+category = "robotics"
+tags = ["hand-object-interaction", "grasps", "dataset", "mano", "rgb", "computer-vision", "robotics", "contact"]
+repository = "https://github.com/facebookresearch/ContactPose"
+website = "http://contactpose.cc.gatech.edu/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

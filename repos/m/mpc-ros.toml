@@ -1,0 +1,9 @@
+name = "mpc_ros"
+description = "Differential Wheeled Mobile Robot - Nonlinear Model Predictive Control based on ROS"
+category = "robotics"
+tags = ["mpc", "ros", "planner", "unicycle", "simulation", "gazebo-simulation", "trajectory", "navigation"]
+repository = "https://github.com/Geonhee-LEE/mpc_ros"
+website = "https://www.youtube.com/watch?v=5IqFGBmDGjU"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

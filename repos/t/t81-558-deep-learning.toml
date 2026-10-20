@@ -1,0 +1,9 @@
+name = "t81_558_deep_learning"
+description = "T81-558: Keras - Applications of Deep Neural Networks @Washington University in St. Louis"
+category = "ml-platforms"
+tags = ["neural-network", "machine-learning", "tensorflow", "keras", "deeplearning", "gan", "convolutional-neural-networks"]
+repository = "https://github.com/jeffheaton/t81_558_deep_learning"
+website = "https://sites.wustl.edu/jeffheaton/t81-558/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

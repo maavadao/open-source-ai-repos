@@ -1,0 +1,9 @@
+name = "LLM-Blender"
+description = "[ACL2023] We introduce LLM-Blender, an innovative ensembling framework to attain consistently superior performance by leveraging the diverse strengths of multiple open-source LLMs. LLM-Blender cut the weaknesses through ranking and integrate the strengths through fusing…"
+category = "models"
+tags = ["ensamble-methods", "large-language-models", "llm", "natural-language-processing"]
+repository = "https://github.com/yuchenlin/LLM-Blender"
+website = "https://yuchenlin.xyz/LLM-Blender/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

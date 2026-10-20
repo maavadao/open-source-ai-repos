@@ -1,0 +1,8 @@
+name = "stable-diffusion-webui-chatgpt-utilities"
+description = "Enables use of ChatGPT directly from the UI"
+category = "image"
+tags = ["automatic1111", "stable-diffusion"]
+repository = "https://github.com/hallatore/stable-diffusion-webui-chatgpt-utilities"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

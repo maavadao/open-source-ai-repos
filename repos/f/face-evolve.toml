@@ -1,0 +1,8 @@
+name = "face.evoLVe"
+description = "High-Performance Face Recognition Library on PaddlePaddle & PyTorch"
+category = "vision"
+tags = ["pytorch", "face-recognition", "face-detection", "face-alignment", "face-landmark-detection", "model-training", "feature-extraction", "fine-tuning"]
+repository = "https://github.com/ZhaoJ9014/face.evoLVe"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "Awesome-CVPR2024-Low-Level-Vision"
+description = "A Collection of Papers and Codes in CVPR2023/2022 about low level vision"
+category = "learning"
+tags = ["low-level", "super-resolution", "denoising", "image-compression", "image-restoration", "image-inpainting", "image-generation", "image-enhancement"]
+repository = "https://github.com/DarrenPan/Awesome-CVPR2024-Low-Level-Vision"
+license = "NOASSERTION"
+added = 2026-10-20

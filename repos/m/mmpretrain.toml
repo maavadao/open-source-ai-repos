@@ -1,0 +1,9 @@
+name = "mmpretrain"
+description = "OpenMMLab Pre-training Toolbox and Benchmark"
+category = "vision"
+tags = ["image-classification", "resnet", "mobilenet", "pytorch", "deep-learning", "swin-transformer", "beit", "clip"]
+repository = "https://github.com/open-mmlab/mmpretrain"
+website = "https://mmpretrain.readthedocs.io/en/latest/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

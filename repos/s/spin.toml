@@ -1,0 +1,9 @@
+name = "SPIN"
+description = "The official implementation of Self-Play Fine-Tuning (SPIN)"
+category = "models"
+tags = ["deep-learning", "fine-tuning", "large-language-models", "self-play"]
+repository = "https://github.com/uclaml/SPIN"
+website = "https://uclaml.github.io/SPIN/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

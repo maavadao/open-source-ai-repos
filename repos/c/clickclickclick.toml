@@ -1,0 +1,9 @@
+name = "clickclickclick"
+description = "Autonomous Android and computer use using any LLM (local or remote)"
+category = "browser-automation"
+tags = ["android-automation", "computer-use", "gemini", "ollama", "openai", "agents", "ai-agents-framework", "antrophic"]
+repository = "https://github.com/instavm/clickclickclick"
+website = "https://instavm.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "KaibanJS"
+description = "KaibanJS is a JavaScript-native framework for building and managing multi-agent systems with a Kanban-inspired approach."
+category = "agents"
+tags = ["agents", "ai", "langchain-js", "llms", "multi-agent-systems", "agentic", "agentic-framework", "javascript"]
+repository = "https://github.com/kaiban-ai/KaibanJS"
+website = "https://www.kaibanjs.com/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

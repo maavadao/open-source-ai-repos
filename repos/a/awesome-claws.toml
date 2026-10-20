@@ -1,0 +1,7 @@
+name = "awesome-claws"
+description = "A curated list of awesome AI agents inspired by OpenClaw"
+category = "learning"
+tags = ["ai-agents", "awesome", "awesome-list", "openclaw"]
+repository = "https://github.com/machinae/awesome-claws"
+license = "MIT"
+added = 2026-10-20

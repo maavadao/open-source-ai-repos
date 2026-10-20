@@ -1,0 +1,8 @@
+name = "dtreeviz"
+description = "A python library for decision tree visualization and model interpretation."
+category = "data-science"
+tags = ["machine-learning", "scikit-learn", "python", "data-science", "xgboost", "decision-trees", "visualization", "random-forest"]
+repository = "https://github.com/parrt/dtreeviz"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "openai-api-proxy"
+description = "一行Docker命令部署的 OpenAI/GPT API代理，支持SSE流式返回、腾讯云函数 。Simple proxy for OpenAi api via a one-line docker command"
+category = "other"
+tags = ["openai", "proxy", "gpt-3"]
+repository = "https://github.com/easychen/openai-api-proxy"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

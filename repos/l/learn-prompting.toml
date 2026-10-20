@@ -1,0 +1,9 @@
+name = "Learn_Prompting"
+description = "Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community"
+category = "chat"
+tags = ["gpt-3", "prompting", "prompt-engineering", "gpt3", "llm", "chatgpt", "gpt-4", "gpt-4-api"]
+repository = "https://github.com/trigaten/Learn_Prompting"
+website = "https://learnprompting.org"
+license = "NOASSERTION"
+language = "MDX"
+added = 2026-10-20

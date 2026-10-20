@@ -1,0 +1,9 @@
+name = "sunfish"
+description = "Sunfish: a Python Chess Engine in 111 lines of code"
+category = "other"
+tags = ["sunfish", "python", "chess-engine", "chess-ai", "ai", "chess"]
+repository = "https://github.com/thomasahle/sunfish"
+website = "https://www.chessprogramming.org/Sunfish"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

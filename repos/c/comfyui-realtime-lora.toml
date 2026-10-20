@@ -1,0 +1,8 @@
+name = "comfyUI-Realtime-Lora"
+description = "Train and block edit and save LoRAs directly inside ComfyUI for Z-image, Flux Klein, SDXL, Flux, WAN 2.2, SD 1.5"
+category = "image"
+tags = ["ai", "comfyui", "lora", "model", "sdxl", "stable-diffusion", "wan22", "z-image-turbo"]
+repository = "https://github.com/shootthesound/comfyUI-Realtime-Lora"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

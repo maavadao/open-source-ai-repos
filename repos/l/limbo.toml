@@ -1,0 +1,8 @@
+name = "limbo"
+description = "A simple, clean, easy to modify Slack chatbot"
+category = "chat"
+tags = ["python", "slack", "chatbot", "docker"]
+repository = "https://github.com/llimllib/limbo"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

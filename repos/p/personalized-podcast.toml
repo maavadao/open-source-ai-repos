@@ -1,0 +1,9 @@
+name = "personalized-podcast"
+description = "Turn any content into a personalized AI podcast. NotebookLM-style, except you control the script, voices, and hosts. Listen in Apple Podcasts, Spotify, or any podcast app."
+category = "coding"
+tags = ["ai", "claude-code", "podcast", "rss", "text-to-speech", "tts"]
+repository = "https://github.com/zarazhangrui/personalized-podcast"
+website = "https://x.com/zarazhangrui"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

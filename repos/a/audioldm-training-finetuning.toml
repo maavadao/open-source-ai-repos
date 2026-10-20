@@ -1,0 +1,9 @@
+name = "AudioLDM-training-finetuning"
+description = "AudioLDM training, finetuning, evaluation and inference."
+category = "image"
+tags = ["audiogeneration", "diffusion-models"]
+repository = "https://github.com/haoheliu/AudioLDM-training-finetuning"
+website = "https://audioldm.github.io/audioldm2/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

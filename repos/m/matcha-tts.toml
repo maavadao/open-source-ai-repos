@@ -1,0 +1,9 @@
+name = "Matcha-TTS"
+description = "[ICASSP 2024] Matcha-TTS: A fast TTS architecture with conditional flow matching"
+category = "speech"
+tags = ["deep-learning", "flow-matching", "machine-learning", "non-autoregressive", "probabilistic", "probabilistic-machine-learning", "text-to-speech", "tts"]
+repository = "https://github.com/shivammehta25/Matcha-TTS"
+website = "https://shivammehta25.github.io/Matcha-TTS/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "ncsnv2"
+description = "The official PyTorch implementation for NCSNv2 (NeurIPS 2020)"
+category = "image"
+tags = ["score-matching", "generative-models", "score-based-generative-modeling", "diffusion-models", "neurips-2020"]
+repository = "https://github.com/ermongroup/ncsnv2"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

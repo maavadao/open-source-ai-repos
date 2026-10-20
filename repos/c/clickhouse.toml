@@ -1,0 +1,9 @@
+name = "ClickHouse"
+description = "ClickHouse is a real-time analytics database management system"
+category = "data-science"
+tags = ["dbms", "olap", "analytics", "sql", "big-data", "mpp", "clickhouse", "hacktoberfest"]
+repository = "https://github.com/ClickHouse/ClickHouse"
+website = "https://clickhouse.com"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

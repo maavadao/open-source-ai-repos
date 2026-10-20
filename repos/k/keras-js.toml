@@ -1,0 +1,9 @@
+name = "keras-js"
+description = "Run Keras models in the browser, with GPU support using WebGL"
+category = "ml-platforms"
+tags = ["deep-learning", "machine-learning", "webgl", "tensorflow", "neural-networks", "keras", "javascript"]
+repository = "https://github.com/transcranial/keras-js"
+website = "https://transcranial.github.io/keras-js"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

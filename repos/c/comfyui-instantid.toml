@@ -1,0 +1,8 @@
+name = "ComfyUI-InstantID"
+description = "Unofficial implementation of InstantID for ComfyUI"
+category = "image"
+tags = ["comfyui", "stable-diffusion"]
+repository = "https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

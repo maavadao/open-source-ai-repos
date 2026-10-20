@@ -1,0 +1,7 @@
+name = "speech_dataset"
+description = "The dataset of Speech Recognition"
+category = "speech"
+tags = ["asr", "speech-recognition", "deep-learning", "dataset", "audio", "deep-neural-networks", "wav", "speech-to-text"]
+repository = "https://github.com/double22a/speech_dataset"
+license = "Apache-2.0"
+added = 2026-10-20

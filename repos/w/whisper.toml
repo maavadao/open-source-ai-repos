@@ -1,0 +1,8 @@
+name = "whisper"
+description = "Robust Speech Recognition via Large-Scale Weak Supervision"
+category = "speech"
+repository = "https://github.com/openai/whisper"
+license = "MIT"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

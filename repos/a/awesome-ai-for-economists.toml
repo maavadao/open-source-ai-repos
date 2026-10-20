@@ -1,0 +1,8 @@
+name = "awesome-ai-for-economists"
+description = "A curated list of AI tools, agent skills, libraries, and resources for economics research, teaching, and policy analysis. Maintained by the OpenEcon team."
+category = "mcp-servers"
+tags = ["ai", "awesome", "awesome-list", "causal-inference", "econometrics", "economics", "economists", "generative-ai"]
+repository = "https://github.com/hanlulong/awesome-ai-for-economists"
+website = "https://openecon.ai"
+license = "CC0-1.0"
+added = 2026-10-20

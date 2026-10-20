@@ -1,0 +1,9 @@
+name = "manga-image-translator"
+description = "Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)"
+category = "documents"
+tags = ["manga", "anime", "ocr", "deep-learning", "image-processing", "auto-translation", "machine-translation", "pytorch-implementation"]
+repository = "https://github.com/zyddnys/manga-image-translator"
+website = "https://cotrans.touhou.ai/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

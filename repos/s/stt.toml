@@ -1,0 +1,9 @@
+name = "stt"
+description = "Voice Recognition to Text Tool / 一个离线运行的本地音视频转字幕工具，输出json、srt字幕、纯文字格式"
+category = "speech"
+tags = ["speech", "speech-recognition", "speech-to-text", "stt"]
+repository = "https://github.com/jianchang512/stt"
+website = "https://pyvideotrans.com"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

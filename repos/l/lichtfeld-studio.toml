@@ -1,0 +1,9 @@
+name = "LichtFeld-Studio"
+description = "Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application."
+category = "vision"
+tags = ["cuda", "gaussian-splatting", "optimization", "computer-graphics", "computer-vision"]
+repository = "https://github.com/MrNeRF/LichtFeld-Studio"
+website = "https://lichtfeld.io"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "chaty"
+description = "one line code, satisfied all your ChatGPT imagination"
+category = "chat"
+tags = ["chatbot", "chatgpt", "chatgpt3", "nodejs", "typescript", "wechat"]
+repository = "https://github.com/cosin2077/chaty"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "real-time-voice-translator"
+description = "A desktop application that uses AI to translate voice between languages in real time, while preserving the speaker's tone and emotion."
+category = "speech"
+tags = ["final-year-project", "machine-learning", "ml", "real-time-transcription", "translates-audio", "voice-translator", "deep-translator", "googletranslator"]
+repository = "https://github.com/SamirPaulb/real-time-voice-translator"
+website = "https://samirpaulb.github.io/posts/real-time-voice-translator"
+license = "GPL-2.0"
+language = "Tcl"
+added = 2026-10-20

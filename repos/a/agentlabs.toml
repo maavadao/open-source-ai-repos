@@ -1,0 +1,9 @@
+name = "agentlabs"
+description = "Universal AI Agent Frontend. Build your backend we handle the rest."
+category = "agents"
+tags = ["ai-agents", "ai-agents-framework", "analytics", "authentication"]
+repository = "https://github.com/agentlabs-dev/agentlabs"
+website = "https://agentlabs.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

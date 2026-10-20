@@ -1,0 +1,8 @@
+name = "agent-safety-eval-lab"
+description = "Agent trace and tool-use safety evaluation lab."
+category = "security"
+tags = ["ai-agents", "evals", "llm-safety", "red-teaming", "tool-use"]
+repository = "https://github.com/YutoTerashima/agent-safety-eval-lab"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

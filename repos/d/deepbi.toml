@@ -1,0 +1,9 @@
+name = "DeepBI"
+description = "LLM based data scientist, AI native data application. AI-driven infinite thinking redefines BI."
+category = "models"
+tags = ["csv", "gpt", "gpt-4", "mysql", "redis", "ai", "bi", "data"]
+repository = "https://github.com/DeepInsight-AI/DeepBI"
+website = "https://www.deepbi.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ComfyUI-Docker"
+description = "Dockerfile for ComfyUI. | 容器镜像与启动脚本"
+category = "image"
+tags = ["stable-diffusion", "comfyui", "docker"]
+repository = "https://github.com/YanWenKun/ComfyUI-Docker"
+website = "https://hub.docker.com/r/yanwk/comfyui-boot"
+license = "NOASSERTION"
+language = "Dockerfile"
+added = 2026-10-20

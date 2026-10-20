@@ -1,0 +1,8 @@
+name = "AI-Horde"
+description = "A crowdsourced distributed cluster for AI art and text generation"
+category = "image"
+tags = ["ai", "distributed-computing", "flask-api", "gpt", "opt", "stable-diffusion", "volunteer-computing"]
+repository = "https://github.com/Haidra-Org/AI-Horde"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

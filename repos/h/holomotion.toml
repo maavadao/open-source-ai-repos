@@ -1,0 +1,8 @@
+name = "HoloMotion"
+description = "HoloMotion: A Foundation Model for Whole-Body Humanoid Control"
+category = "robotics"
+tags = ["foundation-models", "humanoid-robot", "motion-tracking", "robotics", "whole-body-control"]
+repository = "https://github.com/HorizonRobotics/HoloMotion"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "FoleyCrafter"
+description = "[IJCV 2026] FoleyCrafter: Bring Silent Videos to Life with Lifelike and Synchronized Sounds. AI拟音大师，给你的无声视频添加生动而且同步的音效"
+category = "image"
+tags = ["aigc", "audio-processing", "diffusion-models", "foley-sound-synthesis", "video-to-audio"]
+repository = "https://github.com/open-mmlab/FoleyCrafter"
+website = "https://foleycrafter.github.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

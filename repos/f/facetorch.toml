@@ -1,0 +1,8 @@
+name = "facetorch"
+description = "Python library for analysing faces using PyTorch"
+category = "vision"
+tags = ["conda-forge", "deep-learning", "deepfake-detection", "docker-compose", "face-detection", "facial-detection", "facial-expression-recognition", "machine-learning"]
+repository = "https://github.com/tomas-gajarsky/facetorch"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

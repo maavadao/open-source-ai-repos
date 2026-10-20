@@ -1,0 +1,9 @@
+name = "lucas"
+description = "A2W's SRE agent for Kubernetes"
+category = "agents"
+tags = ["ai-agents", "kubernetes", "sre"]
+repository = "https://github.com/a2wio/lucas"
+website = "https://a2w.io"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

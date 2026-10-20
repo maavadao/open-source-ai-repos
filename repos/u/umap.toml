@@ -1,0 +1,9 @@
+name = "umap"
+description = "Uniform Manifold Approximation and Projection"
+category = "data-science"
+tags = ["umap", "dimensionality-reduction", "visualization", "machine-learning", "topological-data-analysis"]
+repository = "https://github.com/lmcinnes/umap"
+website = "https://umap-learn.readthedocs.io"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

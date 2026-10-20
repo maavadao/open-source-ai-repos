@@ -1,0 +1,8 @@
+name = "SydneyQt"
+description = "A cross-platform desktop client for the jailbroken New Bing AI Copilot (Sydney ver.) built with Go and Wails (previously based on Python and Qt)."
+category = "security"
+tags = ["bing", "bing-ai", "new-bing", "sydney", "binggpt", "chatbot", "chatgpt", "edge"]
+repository = "https://github.com/juzeon/SydneyQt"
+license = "Unlicense"
+language = "Go"
+added = 2026-10-20

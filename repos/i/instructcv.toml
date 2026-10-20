@@ -1,0 +1,9 @@
+name = "InstructCV"
+description = "[ ICLR 2024 ] Official Codebase for \"InstructCV: Instruction-Tuned Text-to-Image Diffusion Models as Vision Generalists\""
+category = "image"
+tags = ["diffusion-models", "generative-model", "multi-task-learning", "stable-diffusion", "text-to-image", "vision-language-model"]
+repository = "https://github.com/AlaaLab/InstructCV"
+website = "https://openreview.net/forum?id=Nu9mOSq7eH"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

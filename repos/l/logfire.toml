@@ -1,0 +1,9 @@
+name = "logfire"
+description = "AI observability platform for production LLM and agent systems."
+category = "ml-platforms"
+tags = ["fastapi", "logging", "observability", "openai", "opentelemetry", "pydantic", "python", "trace"]
+repository = "https://github.com/pydantic/logfire"
+website = "https://pydantic.dev/logfire/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

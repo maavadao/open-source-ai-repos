@@ -1,0 +1,8 @@
+name = "Pretrained-Language-Model"
+description = "Pretrained language model and its related optimization techniques developed by Huawei Noah's Ark Lab."
+category = "local-llms"
+tags = ["knowledge-distillation", "model-compression", "quantization", "pretrained-models", "large-scale-distributed"]
+repository = "https://github.com/huawei-noah/Pretrained-Language-Model"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "claude-code-changelog"
+description = "Tracking prompts, feature flags and metadata of Claude Code releases. Subscribe to ↓"
+category = "skills-prompts"
+tags = ["ai-agents", "anthropic", "anthropic-claude", "claude-code", "claude-code-system-prompts", "system-prompts", "system-prompts-leak"]
+repository = "https://github.com/marckrenn/claude-code-changelog"
+website = "https://x.com/ClaudeCodeLog"
+license = "NOASSERTION"
+added = 2026-10-20

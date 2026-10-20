@@ -1,0 +1,9 @@
+name = "llm-universe"
+description = "本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/"
+category = "llm-apps"
+tags = ["langchain", "rag"]
+repository = "https://github.com/datawhalechina/llm-universe"
+website = "https://datawhalechina.github.io/llm-universe/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "TP-GAN"
+description = "Official TP-GAN Tensorflow implementation for paper \"Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis\""
+category = "vision"
+tags = ["tensorflow", "computer-vision", "face-recognition", "generative-adversarial-network", "synthesis"]
+repository = "https://github.com/HRLTY/TP-GAN"
+website = "http://www.andrew.cmu.edu/user/ruih2/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

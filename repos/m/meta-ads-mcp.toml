@@ -1,0 +1,9 @@
+name = "meta-ads-mcp"
+description = "Meta Ads (Facebook/Instagram) MCP server for Claude, ChatGPT, Perplexity & Cursor — the Meta node of Pipeboard’s 5-platform family (+ Google, TikTok, Snap, Reddit). Hosted remote MCP, badged Meta Business Partner, free plan — no self-hosting required."
+category = "mcp-servers"
+tags = ["advertising", "ai-agents", "chatgpt", "claude", "facebook-ads", "instagram-ads", "mcp", "meta-ads"]
+repository = "https://github.com/pipeboard-co/meta-ads-mcp"
+website = "https://pipeboard.co"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

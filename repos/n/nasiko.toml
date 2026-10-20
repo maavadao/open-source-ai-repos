@@ -1,0 +1,9 @@
+name = "nasiko"
+description = "The Open Runtime for AI Agents"
+category = "agents"
+tags = ["agent-security", "ai", "ai-agents", "cli", "hacktoberfest", "llms", "mcp-gateway", "multi-agent"]
+repository = "https://github.com/Nasiko-Labs/nasiko"
+website = "https://www.nasiko.com"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

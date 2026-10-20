@@ -1,0 +1,9 @@
+name = "EDDI"
+description = "Config-driven engine that turns JSON into production-grade AI agents. Multi-agent orchestration, 12+ LLM providers, MCP/A2A protocols, RAG, persistent memory, and enterprise compliance (EU AI Act, GDPR, HIPAA). Built on Quarkus."
+category = "mcp-servers"
+tags = ["mongodb", "java", "conversational-ai", "quarkus", "conversation-memory", "langchain4j", "mcp-client", "mcp-server"]
+repository = "https://github.com/labsai/EDDI"
+website = "https://eddi.technology"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

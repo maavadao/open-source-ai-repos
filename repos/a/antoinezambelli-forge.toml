@@ -1,0 +1,8 @@
+name = "forge"
+description = "A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows"
+category = "local-llms"
+tags = ["agentic-ai", "agentic-workflow", "agents", "function-calling", "llama-cpp", "llamafile", "llm", "ollama"]
+repository = "https://github.com/antoinezambelli/forge"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

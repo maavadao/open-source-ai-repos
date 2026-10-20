@@ -1,0 +1,9 @@
+name = "claude-code-workflow"
+description = "QuietHarness：Claude Code、Codex、Cursor 共用的轻量 AI 工作系统"
+category = "coding"
+tags = ["agent-workflow", "ai-agents", "claude-code", "codex", "cursor", "developer-tools", "llm", "shell"]
+repository = "https://github.com/runesleo/claude-code-workflow"
+website = "https://leolabs.me"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

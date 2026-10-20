@@ -1,0 +1,9 @@
+name = "repobrain"
+description = "RepoBrain (formerly Antigravity) — Give your repo a brain. ChatGPT for your codebase: works in Claude Code, Cursor, Codex, Windsurf & more."
+category = "mcp-servers"
+tags = ["claude-code", "codex-cli", "developer-tools", "mcp-server", "windsurf", "code-search", "rag", "agents-sdk"]
+repository = "https://github.com/study8677/repobrain"
+website = "https://deepwiki.com/study8677/antigravity-workspace-template"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

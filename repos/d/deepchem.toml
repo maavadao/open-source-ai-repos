@@ -1,0 +1,9 @@
+name = "deepchem"
+description = "Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology"
+category = "ml-platforms"
+tags = ["drug-discovery", "quantum-chemistry", "deep-learning", "biology", "materials-science", "hacktoberfest"]
+repository = "https://github.com/deepchem/deepchem"
+website = "https://deepchem.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

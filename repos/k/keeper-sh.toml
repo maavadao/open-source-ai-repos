@@ -1,0 +1,9 @@
+name = "keeper.sh"
+description = "Calendar sync tool & universal calendar MCP server. Aggregate, sync and control calendars on Google, Outlook, Office 365, iCloud, CalDAV or ICS."
+category = "mcp-servers"
+tags = ["bun", "calendar", "ical", "nextjs", "sync", "typescript", "ics", "caldav"]
+repository = "https://github.com/ridafkih/keeper.sh"
+website = "https://www.keeper.sh"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

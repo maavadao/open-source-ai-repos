@@ -1,0 +1,8 @@
+name = "Dreambooth-Stable-Diffusion"
+description = "Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion"
+category = "image"
+tags = ["pytorch", "pytorch-lightning", "stable-diffusion", "text-to-image"]
+repository = "https://github.com/XavierXiao/Dreambooth-Stable-Diffusion"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

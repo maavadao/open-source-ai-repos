@@ -1,0 +1,9 @@
+name = "hackerai"
+description = "Find and fix vulnerabilities by chatting with AI"
+category = "agents"
+tags = ["ai-agents", "ai-tools", "nextjs", "react", "typescript"]
+repository = "https://github.com/hackerai-tech/hackerai"
+website = "https://hackerai.co"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

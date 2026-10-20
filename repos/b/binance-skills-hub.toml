@@ -1,0 +1,8 @@
+name = "binance-skills-hub"
+description = "Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto"
+category = "agents"
+tags = ["agents", "ai", "crypto", "skills"]
+repository = "https://github.com/binance/binance-skills-hub"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

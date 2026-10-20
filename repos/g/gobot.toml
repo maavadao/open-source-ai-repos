@@ -1,0 +1,9 @@
+name = "gobot"
+description = "Golang framework for robotics, drones, and the Internet of Things (IoT)"
+category = "robotics"
+tags = ["robotics", "iot", "drone", "go", "robot", "uav", "arduino", "raspberry-pi"]
+repository = "https://github.com/hybridgroup/gobot"
+website = "https://gobot.io"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

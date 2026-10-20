@@ -1,0 +1,9 @@
+name = "eesen"
+description = "The official repository of the Eesen project"
+category = "speech"
+tags = ["tensorflow", "ctc-loss", "asr", "ctc", "kaldi", "speech-recognition", "speech-to-text"]
+repository = "https://github.com/srvk/eesen"
+website = "http://arxiv.org/abs/1507.08240"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "VAR"
+description = "[NeurIPS 2024 Best Paper Award][GPT beats diffusion] [scaling laws in visual generation] Official impl. of \"Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction\". An *ultra-simple, user-friendly yet state-of-the-art* codebase for autoregressive…"
+category = "image"
+tags = ["auto-regressive-model", "diffusion-models", "image-generation", "transformers", "autoregressive-models", "generative-ai", "generative-model", "gpt"]
+repository = "https://github.com/FoundationVision/VAR"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "PokerRL"
+description = "Framework for Multi-Agent Deep Reinforcement Learning in Poker"
+category = "ml-platforms"
+tags = ["deep-learning", "gym-environment", "poker", "reinforcement-learning", "reinforcement-learning-algorithms", "framework", "ray", "research"]
+repository = "https://github.com/EricSteinberger/PokerRL"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

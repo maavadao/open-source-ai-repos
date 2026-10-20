@@ -1,0 +1,9 @@
+name = "gemini-cli"
+description = "An open-source AI agent that brings the power of Gemini directly into your terminal."
+category = "mcp-servers"
+tags = ["gemini", "gemini-api", "ai", "ai-agents", "cli", "mcp-client", "mcp-server"]
+repository = "https://github.com/google-gemini/gemini-cli"
+website = "https://geminicli.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

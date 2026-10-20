@@ -1,0 +1,8 @@
+name = "OmniGen"
+description = "OmniGen: Unified Image Generation. https://arxiv.org/pdf/2409.11340"
+category = "image"
+tags = ["diffusion", "image", "image-generation", "multi-modal", "image-edit", "multi-task"]
+repository = "https://github.com/VectorSpaceLab/OmniGen"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "hyperresearch"
+description = "Convert Claude Code or Codex into the most intelligent Deep Research Agent. Collect, search, and synthesize web research into a persistent, searchable wiki that builds on itself. Hosted API + MCP: hyperresearch.ai"
+category = "mcp-servers"
+tags = ["agents", "agentskills", "claude-code", "deep-research", "deep-research-agent", "codex", "deepresearch", "research"]
+repository = "https://github.com/jordan-gibbs/hyperresearch"
+website = "https://hyperresearch.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

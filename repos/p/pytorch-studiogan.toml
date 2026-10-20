@@ -1,0 +1,9 @@
+name = "PyTorch-StudioGAN"
+description = "StudioGAN is a Pytorch library providing implementations of representative Generative Adversarial Networks (GANs) for conditional/unconditional image generation."
+category = "ml-platforms"
+tags = ["pytorch", "deep-learning", "generative-adversarial-network", "biggan", "stylegan2", "machine-learning", "stylegan2-ada", "stylegan3"]
+repository = "https://github.com/POSTECH-CVLab/PyTorch-StudioGAN"
+website = "https://github.com/MINGUKKANG"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

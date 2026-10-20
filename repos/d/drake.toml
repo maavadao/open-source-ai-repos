@@ -1,0 +1,9 @@
+name = "drake"
+description = "Model-based design and verification for robotics."
+category = "robotics"
+tags = ["robotics", "drake"]
+repository = "https://github.com/RobotLocomotion/drake"
+website = "https://drake.mit.edu"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

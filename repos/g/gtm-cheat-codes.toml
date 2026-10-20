@@ -1,0 +1,8 @@
+name = "gtm-cheat-codes"
+description = "A field guide for go to market teams using coding agents. Installable skills for campaign planning, CRM context, customer proof, and reviewable agent workflows."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude", "coding-agents", "cursor", "customer-success", "go-to-market", "gtm"]
+repository = "https://github.com/zapier/gtm-cheat-codes"
+website = "https://zapier.com/gtm-ops-guide"
+license = "MIT"
+added = 2026-10-20

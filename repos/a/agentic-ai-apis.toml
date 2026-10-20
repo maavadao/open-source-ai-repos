@@ -1,0 +1,8 @@
+name = "agentic-ai-apis"
+description = "The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and ship your agent today."
+category = "mcp-servers"
+tags = ["agentic-ai", "ai-agents", "ai-tools", "api-collection", "api-directory", "apis", "automation", "curated-list"]
+repository = "https://github.com/cporter202/agentic-ai-apis"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

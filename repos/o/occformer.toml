@@ -1,0 +1,9 @@
+name = "OccFormer"
+description = "[ICCV 2023] OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction"
+category = "robotics"
+tags = ["autonomous-driving", "multi-camera", "occupancy-prediction", "semantic-segmentation", "semantic-scene-completion", "semantic-scene-understanding"]
+repository = "https://github.com/zhangyp15/OccFormer"
+website = "https://arxiv.org/abs/2304.05316"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

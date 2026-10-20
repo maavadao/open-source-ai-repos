@@ -1,0 +1,8 @@
+name = "GigaAM"
+description = "Foundational Model for Speech Recognition Tasks"
+category = "speech"
+tags = ["emotion-recognition", "foundation-models", "speech-recognition", "self-supervised-learning"]
+repository = "https://github.com/salute-developers/GigaAM"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

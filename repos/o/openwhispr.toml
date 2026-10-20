@@ -1,0 +1,9 @@
+name = "openwhispr"
+description = "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform."
+category = "speech"
+tags = ["ai", "open-source", "whisper", "anthropic", "cross-platform", "gemini", "groq", "linux"]
+repository = "https://github.com/OpenWhispr/openwhispr"
+website = "https://openwhispr.com"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

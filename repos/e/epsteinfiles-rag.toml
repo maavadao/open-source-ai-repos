@@ -1,0 +1,8 @@
+name = "EpsteinFiles-RAG"
+description = "A RAG pipeline implementation built on the 'Epstein Files 20K' dataset from Hugging Face (Teyler)."
+category = "llm-apps"
+tags = ["epstein", "epstein-files", "rag", "rag-chatbot", "rag-pipeline"]
+repository = "https://github.com/AnkitNayak-dev/EpsteinFiles-RAG"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "VARAG"
+description = "Vision-Augmented Retrieval and Generation (VARAG) - Vision first RAG Engine"
+category = "llm-apps"
+tags = ["colpali", "multimodal-retrieval", "rag"]
+repository = "https://github.com/adithya-s-k/VARAG"
+website = "https://adithya-s-k.github.io/VARAG/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

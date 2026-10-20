@@ -1,0 +1,8 @@
+name = "HashNeRF-pytorch"
+description = "Pure PyTorch Implementation of NVIDIA paper on Instant Training of Neural Graphics primitives: https://nvlabs.github.io/instant-ngp/"
+category = "vision"
+tags = ["nerf", "real-time-rendering", "computer-graphics", "computer-vision", "neural-network", "signed-distance-functions", "artificial-intelligence", "machine-learning"]
+repository = "https://github.com/yashbhalgat/HashNeRF-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

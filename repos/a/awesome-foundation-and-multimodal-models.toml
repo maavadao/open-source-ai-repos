@@ -1,0 +1,8 @@
+name = "awesome-foundation-and-multimodal-models"
+description = "+ + = Curated list of top foundation and multimodal models! [Paper + Code + Examples + Tutorials]"
+category = "learning"
+tags = ["blip", "clip", "foundational-models", "grounding-dino", "llava", "multimodal", "segment-anything", "computer-vision"]
+repository = "https://github.com/SkalskiP/awesome-foundation-and-multimodal-models"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "handeye_calib_camodocal"
+description = "Easy to use and accurate hand eye calibration which has been working reliably for years (2016-present) with kinect, kinectv2, rgbd cameras, optical trackers, and several robots including the ur5 and kuka iiwa."
+category = "robotics"
+tags = ["hand-eye-calibration", "ros", "robot-arm", "rotation", "orientations", "kinematics", "solver", "translation"]
+repository = "https://github.com/jhu-lcsr/handeye_calib_camodocal"
+license = "BSD-2-Clause"
+language = "C++"
+added = 2026-10-20

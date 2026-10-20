@@ -1,0 +1,9 @@
+name = "AutoAgents"
+description = "A multi-agent framework written in Rust that enables you to build, deploy, and coordinate multiple intelligent agents"
+category = "agents"
+tags = ["agents", "ai", "ai-agents", "ai-agents-framework", "llm"]
+repository = "https://github.com/liquidos-ai/AutoAgents"
+website = "https://liquidos-ai.github.io/AutoAgents/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

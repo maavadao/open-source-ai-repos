@@ -1,0 +1,8 @@
+name = "awesome-attention-mechanism-in-cv"
+description = "Awesome List of Attention Modules and Plug&Play Modules in Computer Vision"
+category = "learning"
+tags = ["pytorch-attention", "attention-model", "attention-mechanisms", "implementation", "vision-transformer", "plugandplay", "computer-vision"]
+repository = "https://github.com/pprp/awesome-attention-mechanism-in-cv"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

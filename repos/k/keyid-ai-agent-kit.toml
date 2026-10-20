@@ -1,0 +1,9 @@
+name = "agent-kit"
+description = "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup."
+category = "mcp-servers"
+tags = ["agent", "ai-agent", "claude", "email", "keyid", "mcp", "model-context-protocol", "tools"]
+repository = "https://github.com/KeyID-AI/agent-kit"
+website = "https://keyid.ai"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "TrafficLab-3D"
+description = "Create a digital-twin style traffic visualization using only mp4 CCTV footage and its Google Maps location."
+category = "robotics"
+tags = ["autonomous-driving", "camera-calibration", "cctv-analysis", "computer-vision", "digital-twin", "geospatial-mapping", "homography", "object-detection"]
+repository = "https://github.com/duy-phamduc68/TrafficLab-3D"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

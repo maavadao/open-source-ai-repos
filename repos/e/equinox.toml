@@ -1,0 +1,8 @@
+name = "equinox"
+description = "Elegant easy-to-use neural networks + scientific computing in JAX. https://docs.kidger.site/equinox/"
+category = "ml-platforms"
+tags = ["deep-learning", "jax", "neural-networks", "equinox"]
+repository = "https://github.com/patrick-kidger/equinox"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

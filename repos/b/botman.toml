@@ -1,0 +1,9 @@
+name = "botman"
+description = "A framework agnostic PHP library to build chat bots"
+category = "chat"
+tags = ["chatbot", "botman", "bot-framework", "chatbot-framework", "php", "bot"]
+repository = "https://github.com/botman/botman"
+website = "https://botman.io"
+license = "MIT"
+language = "PHP"
+added = 2026-10-20

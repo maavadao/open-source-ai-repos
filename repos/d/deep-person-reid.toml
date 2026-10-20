@@ -1,0 +1,9 @@
+name = "deep-person-reid"
+description = "Torchreid: Deep learning person re-identification in PyTorch."
+category = "vision"
+tags = ["deep-learning", "pytorch", "computer-vision", "machine-learning", "deep-neural-networks", "person-reidentification", "person-reid", "image-retrieval"]
+repository = "https://github.com/KaiyangZhou/deep-person-reid"
+website = "https://kaiyangzhou.github.io/deep-person-reid/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "EconML"
+description = "ALICE (Automated Learning and Intelligence for Causation and Economics) is a Microsoft Research project aimed at applying Artificial Intelligence concepts to economic decision making. One of its goals is to build a toolkit that combines state-of-the-art machine learning…"
+category = "data-science"
+tags = ["machine-learning", "economics", "causal-inference", "causality", "econometrics", "treatment-effects"]
+repository = "https://github.com/py-why/EconML"
+website = "https://www.microsoft.com/en-us/research/project/alice/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

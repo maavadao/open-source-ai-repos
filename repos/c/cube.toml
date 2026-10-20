@@ -1,0 +1,9 @@
+name = "cube"
+description = "Cube Core is open-source semantic layer for AI, BI and embedded analytics"
+category = "agents"
+tags = ["analytics", "cube", "postgresql", "mysql", "bigquery", "sql", "rust", "headless-bi"]
+repository = "https://github.com/cube-js/cube"
+website = "https://cube.dev"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

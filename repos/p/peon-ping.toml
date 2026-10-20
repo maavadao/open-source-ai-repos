@@ -1,0 +1,9 @@
+name = "peon-ping"
+description = "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today."
+category = "coding"
+tags = ["ai", "ai-engineering", "antigravity", "claude-code", "codex", "cursor", "opencode", "terminal"]
+repository = "https://github.com/PeonPing/peon-ping"
+website = "https://www.peonping.com"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

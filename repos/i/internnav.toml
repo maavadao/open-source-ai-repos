@@ -1,0 +1,9 @@
+name = "InternNav"
+description = "InternRobotics' open platform for building generalized navigation foundation models."
+category = "robotics"
+tags = ["mllms", "navigation", "robotics", "vision-language-action-model", "vision-language-navigation", "visual-navigation", "spatial-ai", "spatial-intelligence"]
+repository = "https://github.com/InternRobotics/InternNav"
+website = "https://internrobotics.github.io/user_guide/internnav/index.html"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

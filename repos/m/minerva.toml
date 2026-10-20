@@ -1,0 +1,8 @@
+name = "MINERVA"
+description = "Meandering In Networks of Entities to Reach Verisimilar Answers"
+category = "llm-apps"
+tags = ["knowledge-graph", "natural-language-processing", "machine-learning", "reinforcement-learning"]
+repository = "https://github.com/shehzaadzd/MINERVA"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

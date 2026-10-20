@@ -1,0 +1,8 @@
+name = "compass-skills"
+description = "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents"
+category = "skills-prompts"
+tags = ["agent-memory", "agent-skills", "ai-agents", "ai-coding-agent", "claude-code", "claude-skills", "codex-skills", "developer-tools"]
+repository = "https://github.com/dongshuyan/compass-skills"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

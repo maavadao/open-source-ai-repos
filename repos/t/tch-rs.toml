@@ -1,0 +1,8 @@
+name = "tch-rs"
+description = "Rust bindings for the C++ api of PyTorch."
+category = "ml-platforms"
+tags = ["pytorch", "rust", "machine-learning", "neural-network", "deep-learning"]
+repository = "https://github.com/LaurentMazare/tch-rs"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

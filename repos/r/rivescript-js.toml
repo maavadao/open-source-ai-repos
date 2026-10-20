@@ -1,0 +1,9 @@
+name = "rivescript-js"
+description = "A RiveScript interpreter for JavaScript. RiveScript is a scripting language for chatterbots."
+category = "chat"
+tags = ["rivescript", "chatbot", "chatbots", "artificial-intelligence", "bots", "ai"]
+repository = "https://github.com/aichaos/rivescript-js"
+website = "https://www.rivescript.com/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

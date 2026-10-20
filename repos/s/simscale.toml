@@ -1,0 +1,9 @@
+name = "SimScale"
+description = "[CVPR 2026 Oral] Learning to Drive via Real-World Simulation at Scale"
+category = "robotics"
+tags = ["autonomous-driving", "data-scaling-laws", "sim-to-real", "simulation", "co-training"]
+repository = "https://github.com/OpenDriveLab/SimScale"
+website = "https://opendrivelab.com/SimScale/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "awesome-model-based-RL"
+description = "A curated list of awesome model based RL resources (continually updated)"
+category = "learning"
+tags = ["reinforcement-learning", "reinforcement-learning-algorithms", "model-based-reinforcement-learning", "model-based-rl", "awesome", "awesome-list"]
+repository = "https://github.com/opendilab/awesome-model-based-RL"
+license = "Apache-2.0"
+added = 2026-10-20

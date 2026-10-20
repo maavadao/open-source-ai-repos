@@ -1,0 +1,9 @@
+name = "AgentDock"
+description = "Framework retired. Prompts and document generators moved to AgentDock/prompt-library, the book to AgentDock/ai-agents-book. See the pinned issue."
+category = "learning"
+tags = ["llm", "ai-agents", "agent-skills", "mcp", "prompt-library", "prompts"]
+repository = "https://github.com/AgentDock/AgentDock"
+website = "https://agentdock.ai"
+license = "MIT"
+language = "MDX"
+added = 2026-10-20

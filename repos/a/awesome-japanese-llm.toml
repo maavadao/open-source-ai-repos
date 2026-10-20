@@ -1,0 +1,9 @@
+name = "awesome-japanese-llm"
+description = "日本語LLMまとめ - Overview of Japanese LLMs"
+category = "learning"
+tags = ["language-model", "language-models", "large-language-model", "large-language-models", "llm", "llms", "japanese", "japanese-language"]
+repository = "https://github.com/llm-jp/awesome-japanese-llm"
+website = "https://llm-jp.github.io/awesome-japanese-llm"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

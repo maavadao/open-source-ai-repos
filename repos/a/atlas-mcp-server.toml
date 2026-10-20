@@ -1,0 +1,9 @@
+name = "atlas-mcp-server"
+description = "A Model Context Protocol (MCP) server for ATLAS, a Neo4j-powered task management system for LLM Agents - implementing a three-tier architecture (Projects, Tasks, Knowledge) to manage complex workflows. Now with Deep Research."
+category = "mcp-servers"
+tags = ["mcp", "task-management", "graph-database", "neo4j", "deep-research", "model-context-protocol", "cyanheads", "ai-agents"]
+repository = "https://github.com/cyanheads/atlas-mcp-server"
+website = "https://www.npmjs.com/package/atlas-mcp-server"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

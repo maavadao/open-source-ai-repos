@@ -1,0 +1,9 @@
+name = "manhattan_sdf"
+description = "Code for \"Neural 3D Scene Reconstruction with the Manhattan-world Assumption\" CVPR 2022 Oral"
+category = "vision"
+tags = ["3d-reconstruction", "3d-vision", "computer-vision", "cvpr2022"]
+repository = "https://github.com/zju3dv/manhattan_sdf"
+website = "https://zju3dv.github.io/manhattan_sdf/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

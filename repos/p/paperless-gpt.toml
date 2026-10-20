@@ -1,0 +1,8 @@
+name = "paperless-gpt"
+description = "Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI"
+category = "documents"
+tags = ["ai", "chatgpt", "llm", "ollama", "paperless", "paperless-ngx", "mistral", "ocr"]
+repository = "https://github.com/icereed/paperless-gpt"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

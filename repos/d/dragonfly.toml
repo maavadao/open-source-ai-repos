@@ -1,0 +1,9 @@
+name = "dragonfly"
+description = "A modern replacement for Redis and Memcached"
+category = "vector-databases"
+tags = ["memcached", "multi-threading", "redis", "cpp", "fibers", "cache", "database", "in-memory"]
+repository = "https://github.com/dragonflydb/dragonfly"
+website = "https://www.dragonflydb.io/"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

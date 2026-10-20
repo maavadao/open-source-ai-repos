@@ -1,0 +1,9 @@
+name = "DeepLearning"
+description = "Deep Learning (Python, C, C++, Java, Scala, Go)"
+category = "ml-platforms"
+tags = ["deep-learning"]
+repository = "https://github.com/yusugomori/DeepLearning"
+website = "https://yusugomori.com"
+license = "MIT"
+language = "Java"
+added = 2026-10-20

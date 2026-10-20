@@ -1,0 +1,8 @@
+name = "simple-HRNet"
+description = "Multi-person Human Pose Estimation with HRNet in Pytorch"
+category = "vision"
+tags = ["pytorch", "hrnet", "yolov3", "computer-vision", "machine-learning", "human-pose-estimation", "keypoint-detection", "coco-dataset"]
+repository = "https://github.com/stefanopini/simple-HRNet"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

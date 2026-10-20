@@ -1,0 +1,8 @@
+name = "LLMsPracticalGuide"
+description = "A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)"
+category = "learning"
+tags = ["large-language-models", "natural-language-processing", "nlp", "survey"]
+repository = "https://github.com/Mooler0410/LLMsPracticalGuide"
+website = "https://arxiv.org/abs/2304.13712v2"
+license = "NOASSERTION"
+added = 2026-10-20

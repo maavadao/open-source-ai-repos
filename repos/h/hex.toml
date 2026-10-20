@@ -1,0 +1,8 @@
+name = "HEX"
+description = "HEX is a whole-body vision-language-action framework for full-sized humanoid robots."
+category = "robotics"
+tags = ["cross-embodiment", "embodied-ai", "humanoid-robotics", "imitation-learning", "multimodal-ai", "vision-language-action-model", "vla-model", "whole-body-manipulation"]
+repository = "https://github.com/Open-X-Humanoid/HEX"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

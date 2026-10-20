@@ -1,0 +1,9 @@
+name = "fantasy_football_chat_bot"
+description = "GroupMe Discord and Slack Chatbot for ESPN Fantasy Football"
+category = "chat"
+tags = ["fantasy-football", "python", "chatbot", "chat-bot", "slack-bot", "slackbot", "discord-bot", "discordbot"]
+repository = "https://github.com/dtcarls/fantasy_football_chat_bot"
+website = "https://www.gamedaybot.com/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

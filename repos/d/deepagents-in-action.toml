@@ -1,0 +1,9 @@
+name = "deepagents-in-action"
+description = "《Deep Agents 实战》—— LangChain 官方大使出品，基于 LangChain / LangGraph 生态，从零构建生产级 AI Agent 的完整指南"
+category = "learning"
+tags = ["agentic-ai", "ai-agents", "astro", "chinese", "context-engineering", "course", "langchain", "langgraph"]
+repository = "https://github.com/datawhalechina/deepagents-in-action"
+website = "https://datawhalechina.github.io/deepagents-in-action/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

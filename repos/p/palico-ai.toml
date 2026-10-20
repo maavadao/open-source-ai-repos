@@ -1,0 +1,9 @@
+name = "palico-ai"
+description = "Build, Improve Performance, and Productionize your AI Application"
+category = "agents"
+tags = ["langchain", "langchain-js", "llamaindex", "llm", "llm-agent", "llm-evaluation", "llm-framework", "portkey"]
+repository = "https://github.com/palico-ai/palico-ai"
+website = "https://www.palico.ai/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

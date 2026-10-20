@@ -1,0 +1,8 @@
+name = "AI-in-a-Box"
+description = "AI-in-a-Box leverages the expertise of Microsoft across the globe to develop and provide AI and ML solutions to the technical community. Our intent is to present a curated collection of solution accelerators that can help engineers establish their AI/ML environments and…"
+category = "learning"
+tags = ["ai", "azd", "azd-templates", "azure", "chat-bot", "chatbot", "chatgpt", "document-intelligence"]
+repository = "https://github.com/Azure/AI-in-a-Box"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "mex"
+description = "Team memory for engineers and their AI agents. Lives in your repo. Shared through Git."
+category = "mcp-servers"
+tags = ["claude-code", "claude-code-skills", "cli-tool", "context-management", "cursor", "developer-tools", "documentation", "llm"]
+repository = "https://github.com/mex-memory/mex"
+website = "https://mexmemory.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

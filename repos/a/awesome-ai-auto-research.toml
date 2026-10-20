@@ -1,0 +1,9 @@
+name = "awesome-ai-auto-research"
+description = "A Survey on AI Auto-Research"
+category = "learning"
+tags = ["agent", "agentic-ai", "ai", "ai-research", "ai-scientist", "auto-research", "large-language-models", "llm"]
+repository = "https://github.com/worldbench/awesome-ai-auto-research"
+website = "https://worldbench.github.io/awesome-ai-auto-research"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

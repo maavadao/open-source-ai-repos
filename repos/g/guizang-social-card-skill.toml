@@ -1,0 +1,8 @@
+name = "guizang-social-card-skill"
+description = "Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 211 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对"
+category = "browser-automation"
+tags = ["agent-skill", "ai-agent", "anthropic", "claude-code", "claude-skill", "codex", "editorial-design", "html-template"]
+repository = "https://github.com/op7418/guizang-social-card-skill"
+license = "AGPL-3.0"
+language = "HTML"
+added = 2026-10-20

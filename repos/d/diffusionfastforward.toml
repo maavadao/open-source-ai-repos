@@ -1,0 +1,8 @@
+name = "DiffusionFastForward"
+description = "DiffusionFastForward: a free course and experimental framework for diffusion-based generative models"
+category = "learning"
+tags = ["diffusion-model", "diffusion-models", "generative-art", "generative-model", "generative-models", "image-generation", "latent-diffusion", "learning-resources"]
+repository = "https://github.com/mikonvergence/DiffusionFastForward"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

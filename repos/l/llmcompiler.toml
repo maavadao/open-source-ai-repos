@@ -1,0 +1,9 @@
+name = "LLMCompiler"
+description = "[ICML 2024] LLMCompiler: An LLM Compiler for Parallel Function Calling"
+category = "agents"
+tags = ["function-calling", "llm", "llm-agent", "llm-agents", "llms", "parallel-function-call", "efficient-inference", "large-language-models"]
+repository = "https://github.com/SqueezeAILab/LLMCompiler"
+website = "https://arxiv.org/abs/2312.04511"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

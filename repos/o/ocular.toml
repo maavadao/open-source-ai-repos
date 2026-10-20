@@ -1,0 +1,9 @@
+name = "ocular"
+description = "AI Powered Search and Chat for Orgs - Think ChatGPT meets Google Search but powered by your data."
+category = "chat"
+tags = ["ai", "chatgpt", "enterprise-search", "llm", "rag"]
+repository = "https://github.com/OcularEngineering/ocular"
+website = "https://www.useocular.com"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

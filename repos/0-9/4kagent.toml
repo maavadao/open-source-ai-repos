@@ -1,0 +1,9 @@
+name = "4KAgent"
+description = "[NeurIPS 2025] 4KAgent: Agentic Any Image to 4K Super-Resolution. An intelligent computer vision agent that can magically restore any image to perfect-4K!"
+category = "no-code"
+tags = ["agent", "agentic-ai", "computer-vision", "image-enhancement", "image-processing", "image-restoration", "large-language-models", "low-level"]
+repository = "https://github.com/taco-group/4KAgent"
+website = "https://4kagent.github.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "paperless-ngx"
+description = "A community-supported supercharged document management system: scan, index and archive all your documents"
+category = "documents"
+tags = ["angular", "archiving", "django", "dms", "document-management", "document-management-system", "machine-learning", "ocr"]
+repository = "https://github.com/paperless-ngx/paperless-ngx"
+website = "http://docs.paperless-ngx.com/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

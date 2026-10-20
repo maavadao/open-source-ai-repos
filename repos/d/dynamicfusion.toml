@@ -1,0 +1,8 @@
+name = "dynamicfusion"
+description = "Implementation of Newcombe et al. CVPR 2015 DynamicFusion paper"
+category = "vision"
+tags = ["opencv", "3d-reconstruction", "computer-vision", "non-rigid", "cuda"]
+repository = "https://github.com/mihaibujanca/dynamicfusion"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "collie"
+description = "Herdr mobile client for iPhone and Android. A self-hosted PWA to drive Claude Code, Pi, Codex and OpenCode in Herdr, tmux or zellij from your phone. Push alerts, no app store."
+category = "coding"
+tags = ["herdr", "herdr-plugin", "agent-orchestration", "ai-agents", "multiplexing", "pwa", "ai", "ai-coding"]
+repository = "https://github.com/AltanS/collie"
+website = "https://colliepwa.dev/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

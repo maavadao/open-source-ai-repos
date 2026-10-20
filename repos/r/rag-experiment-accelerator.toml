@@ -1,0 +1,8 @@
+name = "rag-experiment-accelerator"
+description = "The RAG Experiment Accelerator is a versatile tool designed to expedite and facilitate the process of conducting experiments and evaluations using Azure Cognitive Search and RAG pattern."
+category = "llm-apps"
+tags = ["acs", "chunking", "embedding", "rag", "evaluation", "experiment", "information-retrieval", "openai"]
+repository = "https://github.com/microsoft/rag-experiment-accelerator"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "opencode"
+description = "The open source coding agent."
+category = "coding"
+repository = "https://github.com/anomalyco/opencode"
+website = "https://opencode.ai"
+license = "MIT"
+language = "TypeScript"
+skill_level = "intermediate"
+added = 2026-10-20

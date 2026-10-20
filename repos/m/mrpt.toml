@@ -1,0 +1,9 @@
+name = "mrpt"
+description = "The Mobile Robot Programming Toolkit (MRPT)"
+category = "robotics"
+tags = ["mrpt", "c-plus-plus", "mobile-robotics", "slam", "autonomous-driving", "computer-vision", "mobile-robots", "maps"]
+repository = "https://github.com/MRPT/mrpt"
+website = "https://docs.mrpt.org/reference/latest/"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

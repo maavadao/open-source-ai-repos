@@ -1,0 +1,8 @@
+name = "keras-attention"
+description = "Keras Attention Layer (Luong and Bahdanau scores)."
+category = "ml-platforms"
+tags = ["keras", "keras-neural-networks", "attention-mechanism", "attention-model", "deep-learning"]
+repository = "https://github.com/philipperemy/keras-attention"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

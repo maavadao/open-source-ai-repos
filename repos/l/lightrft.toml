@@ -1,0 +1,9 @@
+name = "LightRFT"
+description = "LightRFT: Light, Efficient, Omni-modal & Reward-model Driven Reinforcement Fine-Tuning Framework"
+category = "models"
+tags = ["dapo", "grpo", "llm", "llm-training", "multi-modal", "reinforcement-learning", "rft", "reward-model"]
+repository = "https://github.com/opendilab/LightRFT"
+website = "https://opendilab.github.io/LightRFT"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

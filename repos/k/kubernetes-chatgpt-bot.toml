@@ -1,0 +1,8 @@
+name = "kubernetes-chatgpt-bot"
+description = "A ChatGPT bot for Kubernetes issues."
+category = "chat"
+tags = ["chatbot", "chatgpt", "kubernetes", "prometheus", "slack"]
+repository = "https://github.com/robusta-dev/kubernetes-chatgpt-bot"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

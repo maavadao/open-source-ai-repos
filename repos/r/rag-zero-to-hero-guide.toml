@@ -1,0 +1,9 @@
+name = "rag-zero-to-hero-guide"
+description = "Comprehensive guide to learn RAG from basics to advanced."
+category = "llm-apps"
+tags = ["ai-engineer", "generative-ai", "large-language-models", "llm-engineer", "llm-rag", "llms", "retrieval-augmented-generation"]
+repository = "https://github.com/KalyanKS-NLP/rag-zero-to-hero-guide"
+website = "https://x.com/kalyan_kpl"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

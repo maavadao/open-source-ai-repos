@@ -1,0 +1,9 @@
+name = "harmonist"
+description = "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies."
+category = "coding"
+tags = ["agent-framework", "agent-system", "ai-agents", "claude-code", "cursor-ide", "llm", "multi-agent-framework", "orchestration"]
+repository = "https://github.com/GammaLabTechnologies/harmonist"
+website = "https://gammalab.ae"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "scientific-agent-skills"
+description = "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude…"
+category = "skills-prompts"
+tags = ["ai-scientist", "bioinformatics", "chemoinformatics", "claude", "claude-skills", "claudecode", "clinical-research", "computational-biology"]
+repository = "https://github.com/K-Dense-AI/scientific-agent-skills"
+website = "https://arxiv.org/abs/2609.00065"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "FastVideo"
+description = "A unified inference and post-training framework for accelerated video generation."
+category = "video"
+tags = ["diffusers", "diffusion-models", "video-generation", "distillation", "inference", "post-training"]
+repository = "https://github.com/hao-ai-lab/FastVideo"
+website = "https://hao-ai-lab.github.io/FastVideo"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

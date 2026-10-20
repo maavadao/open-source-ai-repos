@@ -1,0 +1,8 @@
+name = "Huatuo-Llama-Med-Chinese"
+description = "Repo for BenCao [original name: HuaTuo (华驼)], Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知识的大语言模型指令微调"
+category = "models"
+tags = ["llama", "llm", "medical", "nlp", "aidoctor", "medgpt", "medqa", "chinese"]
+repository = "https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

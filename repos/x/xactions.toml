@@ -1,0 +1,9 @@
+name = "XActions"
+description = "The Complete X/Twitter Automation Toolkit — Scrapers, MCP server for AI agents (Claude/GPT), CLI, browser scripts. No API fees. Open source. Unfollow people who don't follow back. Monitor real-time analytics. Auto follow, like, comment, scrape, without API. Follow Bot. Like…"
+category = "mcp-servers"
+tags = ["ai-agent", "automation", "claude", "gpt", "mass-unfollow", "mcp", "model-context-protocol", "nodejs"]
+repository = "https://github.com/nirholas/XActions"
+website = "https://xactions.app/features"
+license = "Apache-2.0"
+language = "HTML"
+added = 2026-10-20

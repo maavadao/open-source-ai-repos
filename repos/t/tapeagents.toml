@@ -1,0 +1,9 @@
+name = "TapeAgents"
+description = "TapeAgents is a framework that facilitates all stages of the LLM Agent development lifecycle"
+category = "agents"
+tags = ["agentic", "agents", "finetuning", "llm-agent", "multi-agent", "multi-agent-simulation", "prompt-tuning", "ai-agents"]
+repository = "https://github.com/ServiceNow/TapeAgents"
+website = "https://arxiv.org/abs/2412.08445"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

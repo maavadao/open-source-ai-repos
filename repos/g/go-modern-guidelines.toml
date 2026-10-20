@@ -1,0 +1,8 @@
+name = "go-modern-guidelines"
+description = "Help AI coding agents write modern Go"
+category = "agents"
+tags = ["ai-agents", "coding-agent", "developer-tools", "go", "golang", "guidelines"]
+repository = "https://github.com/JetBrains/go-modern-guidelines"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

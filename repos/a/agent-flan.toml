@@ -1,0 +1,8 @@
+name = "Agent-FLAN"
+description = "[ACL2024 Findings] Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models"
+category = "chat"
+tags = ["agent", "llm", "chatbot", "fine-tuning-llm", "gpt", "large-language-model"]
+repository = "https://github.com/InternLM/Agent-FLAN"
+website = "https://internlm.github.io/Agent-FLAN/"
+license = "Apache-2.0"
+added = 2026-10-20

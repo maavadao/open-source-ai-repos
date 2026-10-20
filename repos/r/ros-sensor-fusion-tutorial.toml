@@ -1,0 +1,7 @@
+name = "ros-sensor-fusion-tutorial"
+description = "An in-depth step-by-step tutorial for implementing sensor fusion with robot_localization!"
+category = "learning"
+tags = ["robotics", "ros", "sensor-fusion", "robot-localization", "ekf-localization", "kalman-filter", "tutorial"]
+repository = "https://github.com/methylDragon/ros-sensor-fusion-tutorial"
+license = "MIT"
+added = 2026-10-20

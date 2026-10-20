@@ -1,0 +1,9 @@
+name = "Paddle-Lite"
+description = "PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎）"
+category = "ml-platforms"
+tags = ["mobile", "deep-learning", "neural-network", "arm", "mdl", "baidu", "embedded", "mali"]
+repository = "https://github.com/PaddlePaddle/Paddle-Lite"
+website = "https://www.paddlepaddle.org.cn/lite"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

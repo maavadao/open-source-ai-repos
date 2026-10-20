@@ -1,0 +1,9 @@
+name = "dbhub"
+description = "Token conscious database MCP server for Postgres, MySQL, SQL Server, Oracle, MariaDB, SQLite."
+category = "mcp-servers"
+tags = ["ai", "anthropic", "claude", "database", "mcp", "mcp-server", "claude-ai", "mysql"]
+repository = "https://github.com/bytebase/dbhub"
+website = "https://dbhub.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

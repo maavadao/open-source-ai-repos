@@ -1,0 +1,9 @@
+name = "wikipedia-semantic-search"
+description = "Semantic Search on Wikipedia with Upstash Vector"
+category = "vector-databases"
+tags = ["ai", "search", "semantic", "vector", "vector-database"]
+repository = "https://github.com/upstash/wikipedia-semantic-search"
+website = "https://wikipedia-semantic-search.vercel.app/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

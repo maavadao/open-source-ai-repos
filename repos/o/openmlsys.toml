@@ -1,0 +1,9 @@
+name = "openmlsys"
+description = "《Machine Learning Systems: Design and Implementation》 (V2 is launching soon）"
+category = "data-science"
+tags = ["machine-learning", "software-architecture", "textbook", "computer-systems"]
+repository = "https://github.com/openmlsys/openmlsys"
+website = "https://openmlsys.github.io/v1/cn/"
+license = "NOASSERTION"
+language = "TeX"
+added = 2026-10-20

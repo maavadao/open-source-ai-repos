@@ -1,0 +1,9 @@
+name = "GSCNN"
+description = "Gated-Shape CNN for Semantic Segmentation (ICCV 2019)"
+category = "vision"
+tags = ["semantic-segmentation", "deep-learning", "iccv2019", "computer-vision", "pytorch", "nv-tlabs", "semantic-boundaries"]
+repository = "https://github.com/nv-tlabs/GSCNN"
+website = "https://nv-tlabs.github.io/GSCNN/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

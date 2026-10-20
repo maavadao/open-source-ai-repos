@@ -1,0 +1,9 @@
+name = "Seedance-2-API"
+description = "Python wrapper for ByteDance's Seedance 2.0 , Seedance 2.5 and Seedance 2 Mini API — Text-to-Video, Image-to-Video, realistic human faces, 1080p, consistent character generation."
+category = "video"
+tags = ["ai-video-generation", "muapi", "python-api-wrapper", "seedance-2-api", "seedance-api", "sora-alternative", "text-to-video-api", "bytedance-seedance"]
+repository = "https://github.com/Anil-matcha/Seedance-2-API"
+website = "https://muapi.ai/playground/seedance-v2.0-i2v"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

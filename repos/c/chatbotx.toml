@@ -1,0 +1,9 @@
+name = "ChatbotX"
+description = "Open-source ManyChat alternative, built for AI. Omnichannel marketing across WhatsApp, TikTok, Facebook, Instagram, Telegram, Zalo, Email, API, and Webchat"
+category = "chat"
+tags = ["agentic-ai", "marketing-automation", "nextjs", "open-source", "oss", "redis", "typescript", "chatbot"]
+repository = "https://github.com/ChatbotXIO/ChatbotX"
+website = "https://chatbotx.io/docs"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

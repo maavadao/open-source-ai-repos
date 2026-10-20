@@ -1,0 +1,9 @@
+name = "Build-a-Large-Language-Model-from-Scratch"
+description = "Building a GPT-like LLM from scratch with PyTorch."
+category = "learning"
+tags = ["ai", "artificial-intelligence", "large-language-models", "llm", "neural-networks", "python", "pytorch", "gpt"]
+repository = "https://github.com/JohnMachado11/Build-a-Large-Language-Model-from-Scratch"
+website = "https://www.manning.com/books/build-a-large-language-model-from-scratch"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

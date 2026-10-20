@@ -1,0 +1,9 @@
+name = "optimum"
+description = "Accelerate inference and training of Transformers, Diffusers, TIMM and Sentence Transformers with easy to use hardware optimization tools"
+category = "local-llms"
+tags = ["onnx", "pytorch", "inference", "training", "intel", "graphcore", "onnxruntime", "transformers"]
+repository = "https://github.com/huggingface/optimum"
+website = "https://huggingface.co/docs/optimum/main/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

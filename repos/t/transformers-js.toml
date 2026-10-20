@@ -1,0 +1,9 @@
+name = "transformers.js"
+description = "State-of-the-art Machine Learning for the web. Run Transformers directly in your browser, with no need for a server!"
+category = "models"
+tags = ["browser", "javascript", "transformers", "webml"]
+repository = "https://github.com/huggingface/transformers.js"
+website = "https://huggingface.co/docs/transformers.js"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

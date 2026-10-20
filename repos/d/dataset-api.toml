@@ -1,0 +1,9 @@
+name = "dataset-api"
+description = "The ApolloScape Open Dataset for Autonomous Driving and its Application."
+category = "robotics"
+tags = ["autonomous-driving", "dataset", "trajectory-prediction", "video-inpainting", "3d-lidar", "apolloscape-dataset", "3d-car-instance"]
+repository = "https://github.com/ApolloScapeAuto/dataset-api"
+website = "https://apolloscapeauto.github.io/dataset-api/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Citadel"
+description = "The operating layer for Claude Code + OpenAI Codex: persistent project memory, intent routing, safety hooks, cost telemetry, and parallel agent fleets."
+category = "mcp-servers"
+tags = ["agent-orchestration", "agent-workflow", "ai-agents", "claude-code-plugin", "claude-plugins", "codex-plugin", "developer-tools", "mcp"]
+repository = "https://github.com/SethGammon/Citadel"
+website = "https://sethgammon.github.io/Citadel/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

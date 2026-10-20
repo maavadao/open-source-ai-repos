@@ -1,0 +1,8 @@
+name = "tokenspice"
+description = "EVM agent-based token simulator"
+category = "agents"
+tags = ["token", "simulation", "blockchain", "ethereum"]
+repository = "https://github.com/tokenspice/tokenspice"
+license = "MIT"
+language = "Solidity"
+added = 2026-10-20

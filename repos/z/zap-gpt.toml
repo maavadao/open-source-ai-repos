@@ -1,0 +1,8 @@
+name = "zap-gpt"
+description = "ChatGPT para Whatsapp"
+category = "chat"
+tags = ["ai", "chatgpt", "gpt", "ia", "whatsapp"]
+repository = "https://github.com/victorharry/zap-gpt"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

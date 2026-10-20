@@ -1,0 +1,9 @@
+name = "hof"
+description = "A developer experience centered on CUE. Unifies schemas, data models, deterministic and agentic code generation, workflow and task engine, dagger powered environments, coding assistant, and vscode extension; woven together on the CUE lattice. Squint harder if you can't see…"
+category = "agents"
+tags = ["code-generator", "cuelang", "data-modeling", "tui", "workflow-engine", "agents", "llms", "schemas"]
+repository = "https://github.com/hofstadter-io/hof"
+website = "https://hofstadter.io"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

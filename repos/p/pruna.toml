@@ -1,0 +1,9 @@
+name = "pruna"
+description = "Pruna is a model optimization framework built for developers, enabling you to deliver faster, more efficient models with minimal overhead."
+category = "speech"
+tags = ["ai", "computer-vision", "deep-learning", "llm", "machine-learning", "optimization", "python", "speech-recognition"]
+repository = "https://github.com/PrunaAI/pruna"
+website = "https://docs.pruna.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

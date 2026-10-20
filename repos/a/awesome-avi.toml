@@ -1,0 +1,8 @@
+name = "Awesome-AVI"
+description = "Awesome Audio-Visual Intelligence, Survey of Audio-Visual Intelligence"
+category = "learning"
+tags = ["audio-video", "audio-visual", "large-language-models", "multimodal-large-language-models", "video-processing", "audio", "audio-video-generation", "mllm-reasoning"]
+repository = "https://github.com/JavisVerse/Awesome-AVI"
+website = "https://arxiv.org/abs/2605.04045"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "stable-worldmodel"
+description = "A platform for reproducible world model research and evaluation"
+category = "ml-platforms"
+tags = ["deep-learning", "pytorch", "jepa", "world-model", "model-predictive-control"]
+repository = "https://github.com/galilai-group/stable-worldmodel"
+website = "https://galilai-group.github.io/stable-worldmodel/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

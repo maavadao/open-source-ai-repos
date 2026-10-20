@@ -1,0 +1,9 @@
+name = "hoard"
+description = "cli command organizer written in rust"
+category = "models"
+tags = ["cli", "tool", "command", "command-line-tool", "rust", "organizer", "zsh", "bash"]
+repository = "https://github.com/Hyde46/hoard"
+website = "https://hyde46.github.io/hoard/"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

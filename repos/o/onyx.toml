@@ -1,0 +1,9 @@
+name = "onyx"
+description = "Open Source AI Platform - AI Chat with advanced features that works with every LLM"
+category = "vector-databases"
+tags = ["enterprise-search", "rag", "ai-chat", "chatgpt", "gen-ai", "nextjs", "python", "information-retrieval"]
+repository = "https://github.com/onyx-dot-app/onyx"
+website = "https://onyx.app"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

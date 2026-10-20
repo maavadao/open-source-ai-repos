@@ -1,0 +1,9 @@
+name = "text2room"
+description = "Text2Room generates textured 3D meshes from a given text prompt using 2D text-to-image models (ICCV2023)."
+category = "image"
+tags = ["3d-generation", "diffusion-models", "mesh-generation", "text-to-image"]
+repository = "https://github.com/lukasHoel/text2room"
+website = "https://lukashoel.github.io/text-to-room/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

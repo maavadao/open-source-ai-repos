@@ -1,0 +1,9 @@
+name = "ComponentArrays.jl"
+description = "Arrays with arbitrarily nested named components."
+category = "ml-platforms"
+tags = ["differential-equations", "differentialequations", "control-systems", "controls-and-dynamics", "controls", "scientific-machine-learning", "modeling", "simulation"]
+repository = "https://github.com/SciML/ComponentArrays.jl"
+website = "https://docs.sciml.ai/ComponentArrays/stable/"
+license = "MIT"
+language = "Julia"
+added = 2026-10-20

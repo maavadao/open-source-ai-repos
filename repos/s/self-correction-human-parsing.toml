@@ -1,0 +1,8 @@
+name = "Self-Correction-Human-Parsing"
+description = "An out-of-box human parsing representation extractor."
+category = "vision"
+tags = ["deep-learning", "computer-vision", "semantic-segmentation", "human-parsing"]
+repository = "https://github.com/GoGoDuck912/Self-Correction-Human-Parsing"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

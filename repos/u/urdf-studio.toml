@@ -1,0 +1,9 @@
+name = "URDF-Studio"
+description = "URDF-Studio is a web-based visual URDF robot modeler with 3D workspace, structured skeleton/detail/hardware workflows, motor library integration, MuJoCo export, and AI assistance."
+category = "robotics"
+tags = ["robot", "robotics", "urdf", "urdf-design"]
+repository = "https://github.com/OpenLegged/URDF-Studio"
+website = "https://urdf.enkeebot.com/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

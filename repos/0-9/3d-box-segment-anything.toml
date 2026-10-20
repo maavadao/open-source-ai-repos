@@ -1,0 +1,8 @@
+name = "3D-Box-Segment-Anything"
+description = "We extend Segment Anything to 3D perception by combining it with VoxelNeXt."
+category = "robotics"
+tags = ["3d", "autonomous-driving", "segment-anything"]
+repository = "https://github.com/JIA-Lab-research/3D-Box-Segment-Anything"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

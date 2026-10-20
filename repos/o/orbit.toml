@@ -1,0 +1,9 @@
+name = "orbit"
+description = "A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood."
+category = "ml-platforms"
+tags = ["python", "forecasting", "bayesian", "exponential-smoothing", "pyro", "stan", "pystan", "probabilistic-programming"]
+repository = "https://github.com/uber/orbit"
+website = "https://orbit-ml.readthedocs.io/en/stable/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

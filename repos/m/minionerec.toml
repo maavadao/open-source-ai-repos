@@ -1,0 +1,8 @@
+name = "MiniOneRec"
+description = "Minimal reproduction of OneRec"
+category = "models"
+tags = ["generative-ai", "generative-recommendation", "generative-recommenders", "large-language-model", "large-language-models", "llm", "recommendation", "recommendation-system"]
+repository = "https://github.com/AkaliKong/MiniOneRec"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

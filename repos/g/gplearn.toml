@@ -1,0 +1,9 @@
+name = "gplearn"
+description = "Genetic Programming in Python, with a scikit-learn inspired API"
+category = "data-science"
+tags = ["genetic-programming", "machine-learning", "python", "scikit-learn", "symbolic-regression"]
+repository = "https://github.com/trevorstephens/gplearn"
+website = "http://gplearn.readthedocs.io/"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

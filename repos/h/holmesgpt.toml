@@ -1,0 +1,9 @@
+name = "holmesgpt"
+description = "SRE Agent - CNCF Sandbox Project"
+category = "chat"
+tags = ["aiops", "kubernetes", "llm", "llm-agent", "llm-framework", "llms", "monitoring", "observability"]
+repository = "https://github.com/HolmesGPT/holmesgpt"
+website = "https://holmesgpt.dev/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

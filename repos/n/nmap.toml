@@ -1,0 +1,9 @@
+name = "nmap"
+description = "Nmap - the Network Mapper. Github mirror of official SVN repository."
+category = "data-science"
+tags = ["c-plus-plus", "lua", "security", "port-scanner", "machine-learning", "linux", "windows", "osx"]
+repository = "https://github.com/nmap/nmap"
+website = "https://svn.nmap.org/"
+license = "NOASSERTION"
+language = "C"
+added = 2026-10-20

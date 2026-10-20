@@ -1,0 +1,8 @@
+name = "KeyForge3D"
+description = "KeyForge3D is an app that turns a photo of a key into a 3D-printable STL file. Ideal for locksmiths and hobbyists, it analyzes the key's bitting pattern using image processing and generates an accurate 3D model for quick replication."
+category = "vision"
+tags = ["3d-printing", "computer-vision", "hardware-hacking", "image-processing", "opencv", "python", "security-research", "stl"]
+repository = "https://github.com/makalin/KeyForge3D"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

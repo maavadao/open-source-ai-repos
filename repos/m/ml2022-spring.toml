@@ -1,0 +1,9 @@
+name = "ML2022-Spring"
+description = "**Official** 李宏毅 (Hung-yi Lee) 機器學習 Machine Learning 2022 Spring"
+category = "ml-platforms"
+tags = ["machine-learning", "deep-learning"]
+repository = "https://github.com/virginiakm1988/ML2022-Spring"
+website = "https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

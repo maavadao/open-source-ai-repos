@@ -1,0 +1,9 @@
+name = "LLM-Engineers-Handbook"
+description = "The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices"
+category = "llm-apps"
+tags = ["genai", "llm", "llmops", "mlops", "rag", "aws", "fine-tuning-llm", "llm-evaluation"]
+repository = "https://github.com/PacktPublishing/LLM-Engineers-Handbook"
+website = "https://www.amazon.com/LLM-Engineers-Handbook-engineering-production/dp/1836200072/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

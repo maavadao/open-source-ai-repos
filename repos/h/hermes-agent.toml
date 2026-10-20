@@ -1,0 +1,9 @@
+name = "hermes-agent"
+description = "The agent that grows with you"
+category = "coding"
+tags = ["ai", "ai-agent", "ai-agents", "llm", "anthropic", "chatgpt", "claude", "claude-code"]
+repository = "https://github.com/NousResearch/hermes-agent"
+website = "https://hermes-agent.nousresearch.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

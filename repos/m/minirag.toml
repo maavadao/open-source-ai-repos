@@ -1,0 +1,9 @@
+name = "MiniRAG"
+description = "[ACL2026] \"MiniRAG: Making RAG Simpler with Small and Open-Sourced Language Models\""
+category = "llm-apps"
+tags = ["large-language-models", "rag", "retrieval-augmented-generation"]
+repository = "https://github.com/HKUDS/MiniRAG"
+website = "https://arxiv.org/abs/2501.06713"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

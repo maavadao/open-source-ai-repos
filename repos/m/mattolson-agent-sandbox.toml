@@ -1,0 +1,8 @@
+name = "agent-sandbox"
+description = "Secure local dev environment for collaboration with AI coding agents"
+category = "agents"
+tags = ["agent-sandbox", "agents", "coding-agents", "agent-harness"]
+repository = "https://github.com/mattolson/agent-sandbox"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

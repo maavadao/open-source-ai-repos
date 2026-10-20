@@ -1,0 +1,9 @@
+name = "gangealing"
+description = "Official PyTorch Implementation of \"GAN-Supervised Dense Visual Alignment\" (CVPR 2022 Oral, Best Paper Finalist)"
+category = "vision"
+tags = ["cvpr", "cvpr2022", "gan", "image-manipulation", "deep-learning", "pytorch", "computer-vision", "alignment"]
+repository = "https://github.com/wpeebles/gangealing"
+website = "https://www.wpeebles.com/gangealing"
+license = "BSD-2-Clause"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "SCAN"
+description = "PyTorch source code for \"Stacked Cross Attention for Image-Text Matching\" (ECCV 2018)"
+category = "vision"
+tags = ["visual-semantic", "cross-modal", "image-captioning", "neural-network", "deep-learning", "pytorch", "computer-vision"]
+repository = "https://github.com/kuanghuei/SCAN"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "devika"
+description = "Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin."
+category = "agents"
+repository = "https://github.com/stitionai/devika"
+website = "https://winfunc.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

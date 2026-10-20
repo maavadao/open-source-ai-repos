@@ -1,0 +1,8 @@
+name = "openflipbook"
+description = "Open-source flipbook.page clone — every page is an AI-generated illustration, click anywhere to explore deeper. Next.js + FastAPI + Modal. BYO keys."
+category = "video"
+tags = ["ai-image-generation", "fal-ai", "fastapi", "flipbook", "gemini-api", "generative-ai", "infinite-canvas", "ltx-video"]
+repository = "https://github.com/eren23/openflipbook"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

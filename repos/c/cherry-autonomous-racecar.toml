@@ -1,0 +1,8 @@
+name = "Cherry-Autonomous-Racecar"
+description = "Implementation of the CNN from End to End Learning for Self-Driving Cars on a Nvidia Jetson TX1 using Tensorflow and ROS"
+category = "robotics"
+tags = ["deep-learning", "tensorflow", "robot-operating-system", "ros", "python", "autonomous-driving", "convolutional-neural-networks", "robotics"]
+repository = "https://github.com/DJTobias/Cherry-Autonomous-Racecar"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "web-llm"
+description = "High-performance In-browser LLM Inference Engine"
+category = "chat"
+tags = ["deep-learning", "llm", "tvm", "webgpu", "webml", "chatgpt", "language-model"]
+repository = "https://github.com/mlc-ai/web-llm"
+website = "https://webllm.mlc.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

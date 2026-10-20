@@ -1,0 +1,9 @@
+name = "PRMLT"
+description = "Matlab code of machine learning algorithms in book PRML"
+category = "learning"
+tags = ["matlab", "machine-learning", "prml", "algorithms", "machine-learning-algorithms"]
+repository = "https://github.com/PRML/PRMLT"
+website = "http://prml.github.io/"
+license = "MIT"
+language = "MATLAB"
+added = 2026-10-20

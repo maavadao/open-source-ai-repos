@@ -1,0 +1,9 @@
+name = "reward-learning-rl"
+description = "[RSS 2019] End-to-End Robotic Reinforcement Learning without Reward Engineering"
+category = "robotics"
+tags = ["reinforcement-learning", "deep-reinforcement-learning", "machine-learning", "robotics", "deep-learning"]
+repository = "https://github.com/avisingh599/reward-learning-rl"
+website = "https://sites.google.com/view/reward-learning-rl/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

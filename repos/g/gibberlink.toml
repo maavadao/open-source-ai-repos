@@ -1,0 +1,8 @@
+name = "gibberlink"
+description = "Two conversational AI agents switching from English to sound-level protocol after confirming they are both AI agents"
+category = "agents"
+repository = "https://github.com/PennyroyalTea/gibberlink"
+website = "https://www.gbrl.ai/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

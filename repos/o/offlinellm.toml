@@ -1,0 +1,9 @@
+name = "OfflineLLM"
+description = "Private on-device AI chat for Android — runs any GGUF model locally via llama.cpp with ARM-optimised SIMD. Zero network permissions, encrypted settings, biometric lock, tamper detection. + GPU Acceleration"
+category = "local-llms"
+tags = ["android", "android-llm", "edge-ai", "llm", "local-llm", "on-device-ai", "private-ai-assistant", "local-llm-android"]
+repository = "https://github.com/jegly/OfflineLLM"
+website = "https://jegly.xyz"
+license = "NOASSERTION"
+language = "Kotlin"
+added = 2026-10-20

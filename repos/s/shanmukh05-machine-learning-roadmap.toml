@@ -1,0 +1,8 @@
+name = "Machine-Learning-Roadmap"
+description = "A roadmap for getting started with Machine Learning"
+category = "learning"
+tags = ["machine-learning", "roadmap", "deep-learning", "computer-vision", "nlp", "tabular-data", "beginner", "data-science"]
+repository = "https://github.com/shanmukh05/Machine-Learning-Roadmap"
+website = "https://shanmukh05.github.io/Machine-Learning-Roadmap/"
+license = "MIT"
+added = 2026-10-20

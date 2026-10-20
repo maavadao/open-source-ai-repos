@@ -1,0 +1,9 @@
+name = "Robust-R1"
+description = "[AAAI 2026 Oral] Official Implementation of Robust-R1: Degradation-Aware Reasoning for Robust Visual Understanding"
+category = "models"
+tags = ["large-language-models", "multi-modal", "multimodel-large-language-model", "reasoning", "robustness", "trustworthy-ai"]
+repository = "https://github.com/jqtangust/Robust-R1"
+website = "https://huggingface.co/papers/2512.17532"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

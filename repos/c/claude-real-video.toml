@@ -1,0 +1,9 @@
+name = "claude-real-video"
+description = "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT."
+category = "coding"
+tags = ["claude", "claude-code", "cli", "ffmpeg", "keyframe-extraction", "llm", "multimodal", "python"]
+repository = "https://github.com/HUANGCHIHHUNGLeo/claude-real-video"
+website = "https://leoaido.com/crv-pro/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

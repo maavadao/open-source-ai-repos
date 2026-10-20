@@ -1,0 +1,8 @@
+name = "opendream"
+description = "An extensible, easy-to-use, and portable diffusion web UI"
+category = "image"
+tags = ["ai", "automatic-1111", "diffusion", "image-generation", "stable-diffusion"]
+repository = "https://github.com/varunshenoy/opendream"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

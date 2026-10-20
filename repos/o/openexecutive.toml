@@ -1,0 +1,9 @@
+name = "OpenExecutive"
+description = "AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js)."
+category = "agents"
+tags = ["ai", "anthropic", "claude", "fastapi", "llm", "multi-agent", "nextjs", "python"]
+repository = "https://github.com/SenteLabsAI/OpenExecutive"
+website = "https://openexecutive.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

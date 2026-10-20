@@ -1,0 +1,8 @@
+name = "cockpit-tools"
+description = "通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with…"
+category = "coding"
+tags = ["account-manager", "ai", "antigravity", "codex", "github-copilot", "windsurf", "kiro", "cursor"]
+repository = "https://github.com/jlcodes99/cockpit-tools"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

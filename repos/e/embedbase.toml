@@ -1,0 +1,9 @@
+name = "embedbase"
+description = "A dead-simple API to build LLM-powered apps"
+category = "vector-databases"
+tags = ["ai", "artificial-intelligence", "embeddings", "machine-learning", "natural-language-processing", "openai", "pgvector", "supabase"]
+repository = "https://github.com/different-ai/embedbase"
+website = "https://docs.embedbase.xyz"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

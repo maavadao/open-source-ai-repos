@@ -1,0 +1,8 @@
+name = "vibetest-use"
+description = "Vibetest MCP - automated QA testing using Browser-Use agents"
+category = "mcp-servers"
+tags = ["agents", "browser", "claude", "cursor", "mcp", "mcp-server"]
+repository = "https://github.com/browser-use/vibetest-use"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

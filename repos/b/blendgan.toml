@@ -1,0 +1,8 @@
+name = "BlendGAN"
+description = "Official PyTorch implementation of \"BlendGAN: Implicitly GAN Blending for Arbitrary Stylized Face Generation\" (NeurIPS 2021)"
+category = "image"
+tags = ["generative-adversarial-network", "gan", "image-generation", "style-transfer"]
+repository = "https://github.com/onion-liu/BlendGAN"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "text2text"
+description = "Text2Text Language Modeling Toolkit"
+category = "chat"
+tags = ["nlp", "question-generation", "translator", "cross-lingual", "multi-lingual", "transformers", "levenshtein-distance", "embeddings"]
+repository = "https://github.com/artitw/text2text"
+website = "https://discord.gg/eHaaUuWpTc"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

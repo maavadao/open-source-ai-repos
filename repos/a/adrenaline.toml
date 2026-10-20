@@ -1,0 +1,8 @@
+name = "adrenaline"
+description = "Chat with (and visualize) your codebase"
+category = "chat"
+tags = ["codegen", "ai", "chatbot", "developer-tool", "gpt-4", "llm", "static-analysis"]
+repository = "https://github.com/shobrook/adrenaline"
+website = "https://useadrenaline.com"
+license = "NOASSERTION"
+added = 2026-10-20

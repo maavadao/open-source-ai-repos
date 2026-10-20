@@ -1,0 +1,8 @@
+name = "paxm"
+description = "Persistent, provider-neutral memory for Codex, Claude Code, OpenCode, Pi, and MCP coding agents."
+category = "mcp-servers"
+tags = ["agent-memory", "ai-agents", "claude-code", "codex", "golang", "local-first", "mcp", "opencode"]
+repository = "https://github.com/pax-beehive/paxm"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

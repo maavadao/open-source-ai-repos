@@ -1,0 +1,8 @@
+name = "LLM-TPU"
+description = "Run generative AI models in sophgo BM1684X/BM1688"
+category = "local-llms"
+tags = ["generative-ai", "llm", "bm1684x", "llm-inference", "llama3", "large-language-models", "qwen2-5-vl", "qwen3"]
+repository = "https://github.com/sophgo/LLM-TPU"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

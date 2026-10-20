@@ -1,0 +1,9 @@
+name = "cad2data-Revit-IFC-DWG"
+description = "DDC Converters 2.0: RVT/RFA to GLB, IFC4 and JSONL; IFC to Excel; DWG to Excel, DXF and SVG. Offline CLI and desktop apps, n8n workflows and AI-agent instructions."
+category = "coding"
+tags = ["autodesk", "bim", "cad", "converter", "ifc", "n8n", "opensource", "pipeline"]
+repository = "https://github.com/datadrivenconstruction/cad2data-Revit-IFC-DWG"
+website = "https://datadrivenconstruction.io/"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

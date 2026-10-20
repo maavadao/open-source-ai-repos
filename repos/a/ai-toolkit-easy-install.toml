@@ -1,0 +1,8 @@
+name = "AI-Toolkit-Easy-Install"
+description = "One-click Portable Windows installation of 'AI-Toolkit by Ostris'"
+category = "image"
+tags = ["ai-toolkit", "easy-install", "fine-tuning", "lora", "machine-learning", "stable-diffusion", "windows-installer"]
+repository = "https://github.com/Tavris1/AI-Toolkit-Easy-Install"
+license = "MIT"
+language = "Batchfile"
+added = 2026-10-20

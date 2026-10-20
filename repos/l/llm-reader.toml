@@ -1,0 +1,8 @@
+name = "llm-reader"
+description = "Turn Webpage to LLM friendly input text. Similar to Firecrawl and Jina Reader API. Makes RAG, AI web scraping, image & webpage links extraction easy."
+category = "search"
+tags = ["extract-data", "llm", "llm-agent", "scraper", "scraping", "scraping-websites", "webscraping", "ai-agent-tools"]
+repository = "https://github.com/m92vyas/llm-reader"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

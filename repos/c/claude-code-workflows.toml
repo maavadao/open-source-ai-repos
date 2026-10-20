@@ -1,0 +1,8 @@
+name = "claude-code-workflows"
+description = "Development workflows for Claude Code that keep broad exploration focused on the outcome you approved."
+category = "skills-prompts"
+tags = ["claude-code", "code-quality", "productivity", "claude-code-plugin", "ai-agents", "development-workflow", "agentic-ai", "developer-tools"]
+repository = "https://github.com/shinpr/claude-code-workflows"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

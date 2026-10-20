@@ -1,0 +1,8 @@
+name = "hercules"
+description = "Gaining advanced insights from Git repository history."
+category = "ml-platforms"
+tags = ["git-analysis", "machine-learning", "tensorflow", "git", "mloncode", "tensorboard-visualizations", "burndown", "mining-software-repositories"]
+repository = "https://github.com/src-d/hercules"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

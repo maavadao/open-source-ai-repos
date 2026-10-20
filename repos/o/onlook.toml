@@ -1,0 +1,9 @@
+name = "onlook"
+description = "The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code."
+category = "coding"
+tags = ["react", "typescript", "tailwindcss", "nextjs", "design", "frontend", "ui", "figma"]
+repository = "https://github.com/onlook-dev/onlook"
+website = "https://onlook.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

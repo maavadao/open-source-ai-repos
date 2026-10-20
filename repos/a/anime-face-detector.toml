@@ -1,0 +1,8 @@
+name = "anime-face-detector"
+description = "Anime Face Detector using mmdet and mmpose"
+category = "vision"
+tags = ["computer-vision", "pytorch", "anime", "face-detection", "face-landmark-detection"]
+repository = "https://github.com/hysts/anime-face-detector"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "GLM-4.5"
+description = "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models"
+category = "agents"
+tags = ["agent", "llm", "moe", "reasoning-language-models", "glm"]
+repository = "https://github.com/zai-org/GLM-4.5"
+website = "https://z.ai/blog/glm-4.5"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

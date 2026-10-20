@@ -1,0 +1,9 @@
+name = "ii-researcher"
+description = "II-Researcher: a new open-source framework designed to aid building search / research agents"
+category = "agents"
+tags = ["ai", "agents", "agent", "agentic-ai", "agentic-framework", "agentic-workflow"]
+repository = "https://github.com/Intelligent-Internet/ii-researcher"
+website = "https://www.ii.inc/web/blog/post/ii-researcher"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

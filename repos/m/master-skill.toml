@@ -1,0 +1,9 @@
+name = "Master-skill"
+description = "FoJin-powered Buddhist AI persona framework — source-grounded, boundary-aware, fidelity-tested, runtime-ready."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-persona", "buddhism", "chinese-buddhism", "claude-skills", "digital-humanities", "llm", "rag"]
+repository = "https://github.com/xr843/Master-skill"
+website = "https://fojin.app/chat"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

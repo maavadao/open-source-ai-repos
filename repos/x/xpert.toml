@@ -1,0 +1,9 @@
+name = "xpert"
+description = "XpertAI is an open-source platform for building, running, and evolving ai agents, providing extensible capabilities and infrastructure for diverse AI systems."
+category = "no-code"
+tags = ["agent", "ai", "openai", "xpert", "workflow", "ai-agents", "ai-governance", "harness"]
+repository = "https://github.com/xpert-ai/xpert"
+website = "https://xpertai.cn/en/"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

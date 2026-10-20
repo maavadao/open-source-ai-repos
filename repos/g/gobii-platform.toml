@@ -1,0 +1,9 @@
+name = "gobii-platform"
+description = "Your easy to use, always-on AI workforce"
+category = "no-code"
+tags = ["agentic-ai", "ai", "automation", "openclaw-alternative", "oss", "deepseek", "gemini", "gemma"]
+repository = "https://github.com/gobii-ai/gobii-platform"
+website = "https://gobii.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

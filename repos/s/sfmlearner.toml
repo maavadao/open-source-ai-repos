@@ -1,0 +1,8 @@
+name = "SfMLearner"
+description = "An unsupervised learning framework for depth and ego-motion estimation from monocular videos"
+category = "ml-platforms"
+tags = ["deep-learning", "depth-prediction", "visual-odometry", "self-supervised-learning", "unsupervised-learning"]
+repository = "https://github.com/tinghuiz/SfMLearner"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

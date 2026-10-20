@@ -1,0 +1,8 @@
+name = "json-repair"
+description = "Repair JSON！Solution for JSON Anomalies from LLMs."
+category = "agents"
+tags = ["json", "agent", "go", "json-repair", "llm", "llm-tools"]
+repository = "https://github.com/RealAlexandreAI/json-repair"
+license = "GPL-3.0"
+language = "Go"
+added = 2026-10-20

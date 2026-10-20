@@ -1,0 +1,9 @@
+name = "EmbodiedScan"
+description = "[CVPR 2024 & NeurIPS 2024] EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI"
+category = "robotics"
+tags = ["3d-vision", "computer-vision", "multi-modal-learning", "robotics"]
+repository = "https://github.com/InternRobotics/EmbodiedScan"
+website = "https://tai-wang.github.io/embodiedscan/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

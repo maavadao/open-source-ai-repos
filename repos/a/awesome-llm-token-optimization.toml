@@ -1,0 +1,8 @@
+name = "awesome-llm-token-optimization"
+description = "A curated list of strategies, tools, papers, and resources for reducing LLM token costs and improving efficiency in production."
+category = "learning"
+tags = ["ai", "awesome", "awesome-list", "claude", "context-window", "cost-optimization", "generative-ai", "inference-optimization"]
+repository = "https://github.com/pleasedodisturb/awesome-llm-token-optimization"
+license = "NOASSERTION"
+language = "Shell"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "dots.llm1"
+description = "The official repository of the dots.llm1 base and instruct models proposed by rednote-hilab."
+category = "models"
+tags = ["llm", "large-language-models", "natural-language-processing", "pretrained-language-model"]
+repository = "https://github.com/studio-dots-ai/dots.llm1"
+license = "MIT"
+added = 2026-10-20

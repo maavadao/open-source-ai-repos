@@ -1,0 +1,8 @@
+name = "quantalogic"
+description = "Quantalogic ReAct Agent - Coding Agent Framework - Gives a if you like the project"
+category = "agents"
+tags = ["agents", "ai", "generative-ai"]
+repository = "https://github.com/quantalogic/quantalogic"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

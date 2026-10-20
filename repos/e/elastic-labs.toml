@@ -1,0 +1,8 @@
+name = "elastic-labs"
+description = "Notebooks & Example Apps for Search, Observability, and Security with Elasticsearch"
+category = "learning"
+tags = ["ai", "chatgpt", "chatlog", "elastic", "elasticsearch", "genai", "genaistack", "openai"]
+repository = "https://github.com/elastic/elastic-labs"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

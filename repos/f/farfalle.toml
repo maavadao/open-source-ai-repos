@@ -1,0 +1,10 @@
+name = "farfalle"
+description = "AI search engine - self-host with local or cloud LLMs"
+category = "search"
+tags = ["fastapi", "nextjs", "perplexity", "react", "shadcn-ui", "tailwindcss", "gpt-4o", "groq"]
+repository = "https://github.com/rashadphz/farfalle"
+website = "https://www.farfalle.dev/"
+license = "Apache-2.0"
+language = "TypeScript"
+skill_level = "intermediate"
+added = 2026-10-20

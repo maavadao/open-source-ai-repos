@@ -1,0 +1,8 @@
+name = "CvT"
+description = "This is an official implementation of CvT: Introducing Convolutions to Vision Transformers."
+category = "vision"
+tags = ["cvt", "deep-learning", "classification", "imagenet", "computer-vision"]
+repository = "https://github.com/microsoft/CvT"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

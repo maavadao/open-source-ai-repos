@@ -1,0 +1,9 @@
+name = "4DGaussians"
+description = "[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering"
+category = "vision"
+tags = ["3d", "computer-vision", "dynamic-scene", "gaussian-splatting", "graphics", "neural-network", "neural-rendering", "novel-view-synthesis"]
+repository = "https://github.com/hustvl/4DGaussians"
+website = "https://guanjunwu.github.io/4dgs/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

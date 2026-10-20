@@ -1,0 +1,10 @@
+name = "NextChat"
+description = "Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows."
+category = "chat"
+tags = ["nextjs", "vercel", "webui", "cross-platform", "tauri", "tauri-app", "react", "desktop"]
+repository = "https://github.com/ChatGPTNextWeb/NextChat"
+website = "https://nextchat.club"
+license = "MIT"
+language = "TypeScript"
+skill_level = "beginner"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "claude-scholar"
+description = "Semi-automated research assistant for academic research and software development. Supports Claude Code, Codex CLI, Kimi Code CLI, and OpenCode across ideation, coding, experiments, writing, and publication."
+category = "mcp-servers"
+tags = ["academic-research", "ai-agents", "claude", "claude-code", "developer-tools", "mcp", "paper-writing", "zotero"]
+repository = "https://github.com/Galaxy-Dawn/claude-scholar"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

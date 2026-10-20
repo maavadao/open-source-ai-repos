@@ -1,0 +1,9 @@
+name = "VoxPoser"
+description = "VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models"
+category = "robotics"
+tags = ["embodied-ai", "foundation-models", "large-language-models", "motion-planning", "robotic-manipulation", "robotics", "vision-language-model"]
+repository = "https://github.com/huangwl18/VoxPoser"
+website = "https://voxposer.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

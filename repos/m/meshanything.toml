@@ -1,0 +1,9 @@
+name = "MeshAnything"
+description = "[ICLR 2025] From anything to mesh like human artists. Official impl. of \"MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers\""
+category = "vision"
+tags = ["3d", "generative-ai", "generative-model", "mesh", "mesh-generation", "auto-regressive-model", "large-language-models", "transformers"]
+repository = "https://github.com/buaacyw/MeshAnything"
+website = "https://buaacyw.github.io/mesh-anything/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

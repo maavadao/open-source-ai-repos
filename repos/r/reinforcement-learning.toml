@@ -1,0 +1,9 @@
+name = "Reinforcement-Learning"
+description = "Learn Deep Reinforcement Learning in 60 days! Lectures & Code in Python. Reinforcement Learning + Deep Learning"
+category = "learning"
+tags = ["reinforcement-learning", "machine-learning", "artificial-intelligence", "deep-reinforcement-learning", "deep-learning", "policy-gradients", "evolution-strategies", "a2c"]
+repository = "https://github.com/andri27-ts/Reinforcement-Learning"
+website = "https://andri27-ts.github.io/Reinforcement-Learning/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "tt-metal"
+description = "TT-NN operator library, and TT-Metalium low level kernel programming model."
+category = "image"
+tags = ["llama", "llm", "metal", "stable-diffusion", "tenstorrent", "accelerator", "scale-out", "kernels"]
+repository = "https://github.com/tenstorrent/tt-metal"
+website = "https://docs.tenstorrent.com/tt-metal/latest/ttnn/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

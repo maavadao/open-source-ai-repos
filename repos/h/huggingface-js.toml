@@ -1,0 +1,9 @@
+name = "huggingface.js"
+description = "Use Hugging Face with JavaScript"
+category = "local-llms"
+tags = ["api-client", "hub", "inference", "machine-learning", "huggingface"]
+repository = "https://github.com/huggingface/huggingface.js"
+website = "https://hf.co/docs/huggingface.js"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

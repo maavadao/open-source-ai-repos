@@ -1,0 +1,8 @@
+name = "Heat"
+description = "An LLM agnostic desktop and mobile client."
+category = "search"
+tags = ["llm", "ollama", "swiftui", "anthropic", "mistral", "openai", "perplexity", "swift"]
+repository = "https://github.com/nathanborror/Heat"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

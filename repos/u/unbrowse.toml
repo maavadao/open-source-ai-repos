@@ -1,0 +1,9 @@
+name = "unbrowse"
+description = "Unbrowse - Reverse engineer any website so that your agents can access its APIs directly"
+category = "mcp-servers"
+tags = ["agents", "browser-use", "clawdbot", "har", "moltbot", "openclaw", "reverse-engineering", "skills"]
+repository = "https://github.com/unbrowse-ai/unbrowse"
+website = "https://unbrowse.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

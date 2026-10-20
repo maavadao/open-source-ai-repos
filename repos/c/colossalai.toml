@@ -1,0 +1,9 @@
+name = "ColossalAI"
+description = "Making large AI models cheaper, faster and more accessible"
+category = "local-llms"
+tags = ["deep-learning", "hpc", "large-scale", "data-parallelism", "pipeline-parallelism", "model-parallelism", "ai", "big-model"]
+repository = "https://github.com/hpcaitech/ColossalAI"
+website = "https://www.colossalai.org"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

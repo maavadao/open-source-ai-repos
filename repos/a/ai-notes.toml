@@ -1,0 +1,9 @@
+name = "ai-notes"
+description = "notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under the /Resources folder."
+category = "image"
+tags = ["ai", "prompt-engineering", "stable-diffusion", "openai", "gpt", "gpt-3", "multimodal"]
+repository = "https://github.com/swyxio/ai-notes"
+website = "https://latent.space/"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "UniPic"
+description = "Open-source SOTA multi-image editing model"
+category = "image"
+tags = ["aigc", "diffusion-models", "image", "vlm", "qwen-image", "image-editing", "image-generation", "understanding"]
+repository = "https://github.com/SkyworkAI/UniPic"
+website = "https://unipic-v2.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

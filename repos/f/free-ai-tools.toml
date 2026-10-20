@@ -1,0 +1,9 @@
+name = "free-ai-tools"
+description = "Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps"
+category = "learning"
+tags = ["ai", "ai-tools", "awesome-list", "developer-resources", "free-ai-tools", "free-ai-tools-for-pc", "open-source", "best-ai-tools-2026"]
+repository = "https://github.com/ShaikhWarsi/free-ai-tools"
+website = "https://FreeAiToolsList.vercel.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

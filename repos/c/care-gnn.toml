@@ -1,0 +1,9 @@
+name = "CARE-GNN"
+description = "Code for CIKM 2020 paper Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters"
+category = "ml-platforms"
+tags = ["fraud-detection", "fraud-prevention", "security", "machine-learning", "graphneuralnetwork", "deep-learning", "datamining", "reinforcement-learning"]
+repository = "https://github.com/YingtongDou/CARE-GNN"
+website = "https://arxiv.org/abs/2008.08692"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

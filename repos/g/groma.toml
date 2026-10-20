@@ -1,0 +1,9 @@
+name = "Groma"
+description = "[ECCV2024] Grounded Multimodal Large Language Model with Localized Visual Tokenization"
+category = "models"
+tags = ["grounding", "llm", "mllm", "large-language-models", "foundation-models", "llama", "llama2", "multimodal"]
+repository = "https://github.com/FoundationVision/Groma"
+website = "https://groma-mllm.github.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

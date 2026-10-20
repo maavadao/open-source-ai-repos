@@ -1,0 +1,8 @@
+name = "MM-Diffusion"
+description = "[CVPR'23] MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation"
+category = "video"
+tags = ["audio-generation", "content-creation", "diffusion-models", "multi-modality", "video-generation"]
+repository = "https://github.com/researchmm/MM-Diffusion"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

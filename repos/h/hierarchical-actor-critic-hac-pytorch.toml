@@ -1,0 +1,8 @@
+name = "Hierarchical-Actor-Critic-HAC-PyTorch"
+description = "PyTorch implementation of Hierarchical Actor Critic (HAC) for OpenAI gym environments"
+category = "ml-platforms"
+tags = ["pytorch", "reinforcement-learning", "reinforcement-learning-algorithms", "gym-environment", "hierarchical-reinforcement-learning", "actor-critic", "gym-environments", "openai-gym"]
+repository = "https://github.com/nikhilbarhate99/Hierarchical-Actor-Critic-HAC-PyTorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "agency-orchestrator"
+description = "One sentence → your one-person company of AI experts → complete deliverable in minutes. 276 CN + 184 EN + 5 more languages (ko/ru/pt-BR/id/ar) · zero-code YAML · auto-verified acceptance · Web Studio / Desktop / Docker · 15 LLM providers (11 key-free). 一句话组建你的「一人公司」AI…"
+category = "mcp-servers"
+tags = ["ai-agents", "claude", "crewai-alternative", "deepseek", "multi-agent", "ollama", "orchestrator", "workflow"]
+repository = "https://github.com/jnMetaCode/agency-orchestrator"
+website = "https://ao.aiolaola.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

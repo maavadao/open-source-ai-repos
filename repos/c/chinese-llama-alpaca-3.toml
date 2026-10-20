@@ -1,0 +1,8 @@
+name = "Chinese-LLaMA-Alpaca-3"
+description = "中文羊驼大模型三期项目 (Chinese Llama-3 LLMs) developed from Meta Llama 3"
+category = "models"
+tags = ["alpaca", "large-language-models", "llama", "llama-2", "llama-3", "llm", "nlp", "llama3"]
+repository = "https://github.com/ymcui/Chinese-LLaMA-Alpaca-3"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

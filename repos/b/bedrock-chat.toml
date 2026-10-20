@@ -1,0 +1,8 @@
+name = "bedrock-chat"
+description = "AWS-native chatbot using Bedrock"
+category = "chat"
+tags = ["chatbot", "fastapi", "generative-ai", "lambda", "llm", "python", "react", "streaming-response"]
+repository = "https://github.com/aws-samples/bedrock-chat"
+license = "MIT-0"
+language = "TypeScript"
+added = 2026-10-20

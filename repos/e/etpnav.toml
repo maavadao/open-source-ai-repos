@@ -1,0 +1,8 @@
+name = "ETPNav"
+description = "[TPAMI 2024] Official repo of \"ETPNav: Evolving Topological Planning for Vision-Language Navigation in Continuous Environments\""
+category = "robotics"
+tags = ["embodied-ai", "vision-and-language", "topological-maps", "vision-language-navigation", "vision-language-pre-training"]
+repository = "https://github.com/MarSaKi/ETPNav"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

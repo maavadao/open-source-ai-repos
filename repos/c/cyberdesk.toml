@@ -1,0 +1,9 @@
+name = "cyberdesk"
+description = "Open source virtual desktops for AI agents"
+category = "browser-automation"
+tags = ["ai-agents", "computer-use", "fastapi", "hono", "kubernetes", "nextjs", "terraform", "virtual-machine"]
+repository = "https://github.com/cyberdesk-hq/cyberdesk"
+website = "https://cyberdesk.io"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

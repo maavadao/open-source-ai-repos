@@ -1,0 +1,7 @@
+name = "awesome-ai-ml-resources"
+description = "Learn AI/ML for beginners with a roadmap and free resources."
+category = "learning"
+tags = ["roadmap", "artifical-intelligense", "machine-learning"]
+repository = "https://github.com/armankhondker/awesome-ai-ml-resources"
+license = "MIT"
+added = 2026-10-20

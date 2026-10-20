@@ -1,0 +1,9 @@
+name = "TinyChatEngine"
+description = "TinyChatEngine: On-Device LLM Inference Library"
+category = "local-llms"
+tags = ["arm", "c", "cpp", "cuda-programming", "deep-learning", "edge-computing", "large-language-models", "on-device-ai"]
+repository = "https://github.com/mit-han-lab/TinyChatEngine"
+website = "https://mit-han-lab.github.io/TinyChatEngine/"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

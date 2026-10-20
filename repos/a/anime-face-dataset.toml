@@ -1,0 +1,8 @@
+name = "Anime-Face-Dataset"
+description = "A collection of high-quality anime faces."
+category = "image"
+tags = ["anime", "dataset", "gan", "computer-vision", "machine-learning", "image-generation"]
+repository = "https://github.com/bchao1/Anime-Face-Dataset"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

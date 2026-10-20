@@ -1,0 +1,9 @@
+name = "uzu"
+description = "A high-performance inference engine for AI models"
+category = "speech"
+tags = ["high-performance", "inference", "llm", "metal", "rust", "ai", "tts"]
+repository = "https://github.com/trymirai/uzu"
+website = "https://trymirai.com"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

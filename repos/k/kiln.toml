@@ -1,0 +1,9 @@
+name = "Kiln"
+description = "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more."
+category = "mcp-servers"
+tags = ["ai", "chain-of-thought", "collaboration", "dataset-generation", "fine-tuning", "machine-learning", "macos", "ml"]
+repository = "https://github.com/Kiln-AI/Kiln"
+website = "https://kiln.tech"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

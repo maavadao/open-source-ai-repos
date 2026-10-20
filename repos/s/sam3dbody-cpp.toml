@@ -1,0 +1,9 @@
+name = "SAM3DBody-cpp"
+description = "Real-time 3D full-body reconstruction from a single camera, Multiperson BVH output, Pure C++ runtime, ONNX + ggml, 70-joint skeleton with hands."
+category = "vision"
+tags = ["3d-human-pose", "computer-vision", "cpp", "cuda", "ggml", "motion-capture", "onnx", "opengl"]
+repository = "https://github.com/AmmarkoV/SAM3DBody-cpp"
+website = "http://ammar.gr"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

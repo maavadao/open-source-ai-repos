@@ -1,0 +1,7 @@
+name = "LLM-for-misinformation-research"
+description = "Paper list of misinformation research using (multi-modal) large language models, i.e., (M)LLMs."
+category = "learning"
+tags = ["fact-checking", "fact-verification", "fake-news-detection", "large-language-models", "misinformation", "paper-list", "rumor-detection"]
+repository = "https://github.com/ICTMCG/LLM-for-misinformation-research"
+license = "MIT"
+added = 2026-10-20

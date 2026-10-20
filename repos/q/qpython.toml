@@ -1,0 +1,9 @@
+name = "qpython"
+description = "QPython is an Android Python engine primarily designed for Python and AI learners. It offers a range of impressive features to enhance Python programming experience."
+category = "learning"
+tags = ["ai", "android", "generative-ai", "python"]
+repository = "https://github.com/qpython-android/qpython"
+website = "https://www.qpython.org"
+license = "NOASSERTION"
+language = "Java"
+added = 2026-10-20

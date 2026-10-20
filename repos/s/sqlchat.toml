@@ -1,0 +1,9 @@
+name = "sqlchat"
+description = "Chat-based SQL Client and Editor for the next decade"
+category = "chat"
+tags = ["chatgpt", "mysql", "openai", "postgres", "sql", "sqlclient", "sqleditor", "clickhouse"]
+repository = "https://github.com/sqlchat/sqlchat"
+website = "https://sqlchat.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

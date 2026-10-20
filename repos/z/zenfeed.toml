@@ -1,0 +1,9 @@
+name = "zenfeed"
+description = "Make RSS great again with AI !! 数据打标请联系 glidea123 (数万并发随时狂飙)"
+category = "mcp-servers"
+tags = ["ai", "deepseek", "email", "mcp", "mcp-server", "monitoring", "openai", "rss"]
+repository = "https://github.com/glidea/zenfeed"
+website = "https://zenfeed.xyz"
+license = "AGPL-3.0"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "SG-Nav"
+description = "[NeurIPS 2024] SG-Nav: Online 3D Scene Graph Prompting for LLM-based Zero-shot Object Navigation"
+category = "robotics"
+tags = ["3d-scene-graph", "embodied-ai", "large-language-models", "matterport3d", "neurips-2024", "object-goal-navigation"]
+repository = "https://github.com/bagh2178/SG-Nav"
+website = "https://bagh2178.github.io/SG-Nav/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

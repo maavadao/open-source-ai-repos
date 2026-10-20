@@ -1,0 +1,9 @@
+name = "tokenizers"
+description = "Fast State-of-the-Art Tokenizers optimized for Research and Production"
+category = "models"
+tags = ["nlp", "natural-language-processing", "natural-language-understanding", "language-model", "transformers", "bert", "gpt"]
+repository = "https://github.com/huggingface/tokenizers"
+website = "https://huggingface.co/docs/tokenizers"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

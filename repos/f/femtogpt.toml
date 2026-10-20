@@ -1,0 +1,9 @@
+name = "femtoGPT"
+description = "Pure Rust implementation of a minimal Generative Pretrained Transformer"
+category = "models"
+tags = ["gpt", "machine-learning", "neural-network", "llm", "from-scratch", "rust", "gpu", "opencl"]
+repository = "https://github.com/keyvank/femtoGPT"
+website = "https://discord.gg/wTJFaDVn45"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

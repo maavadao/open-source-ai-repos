@@ -1,0 +1,8 @@
+name = "awesome-self-supervised-gnn"
+description = "Papers about pretraining and self-supervised learning on Graph Neural Networks (GNN)."
+category = "learning"
+tags = ["graph-neural-networks", "pretraining", "self-supervised-learning", "deep-learning", "machine-learning", "graph-mining", "pre-training", "graph-self-supervised-learning"]
+repository = "https://github.com/ChandlerBang/awesome-self-supervised-gnn"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

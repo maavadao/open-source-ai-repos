@@ -1,0 +1,9 @@
+name = "AI-Bootcamp"
+description = "Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, Ollama, LLMs, RAGs, LangChain, LangGraph, Fine-tuning, DSPy & AI Agents (CrewAI), (Using ChatGPT, gpt-oss, Claude, Qwen, Gemma, Llama, Gemini)"
+category = "learning"
+tags = ["artificial-intelligence", "chatgpt", "langchain", "large-language-models", "llama", "machine-learning", "prompt-engineering", "rag"]
+repository = "https://github.com/curiousily/AI-Bootcamp"
+website = "https://mlexpert.io"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

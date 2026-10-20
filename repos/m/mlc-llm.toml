@@ -1,0 +1,10 @@
+name = "mlc-llm"
+description = "Universal LLM Deployment Engine with ML Compilation"
+category = "local-llms"
+tags = ["llm", "machine-learning-compilation", "language-model", "tvm"]
+repository = "https://github.com/mlc-ai/mlc-llm"
+website = "https://llm.mlc.ai"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "advanced"
+added = 2026-10-20

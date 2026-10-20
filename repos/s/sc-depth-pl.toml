@@ -1,0 +1,8 @@
+name = "sc_depth_pl"
+description = "SC-Depth (V1, V2, and V3) for Unsupervised Monocular Depth Estimation Webpage//jiawangbian.github.io/sc_depth_pl/"
+category = "vision"
+tags = ["depth-estimation", "deep-learning", "self-supervised-learning", "pose-estimation", "computer-vision"]
+repository = "https://github.com/JiawangBian/sc_depth_pl"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

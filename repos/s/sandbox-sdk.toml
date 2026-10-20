@@ -1,0 +1,9 @@
+name = "sandbox-sdk"
+description = "Run sandboxed code environments on Cloudflare's edge network"
+category = "agents"
+tags = ["agent", "agents", "ai", "code-interpreter", "containers", "devtools", "sandbox"]
+repository = "https://github.com/cloudflare/sandbox-sdk"
+website = "https://sandbox.cloudflare.com/"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "torchgeo"
+description = "TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data"
+category = "vision"
+tags = ["pytorch", "torchvision", "datasets", "models", "transforms", "remote-sensing", "deep-learning", "earth-observation"]
+repository = "https://github.com/torchgeo/torchgeo"
+website = "https://torchgeo.org/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

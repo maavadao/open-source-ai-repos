@@ -1,0 +1,9 @@
+name = "cofounder"
+description = "ai-generated apps , full stack + generative UI"
+category = "other"
+tags = ["ai", "api", "design", "generative", "javascript", "postgresql", "react", "tailwind"]
+repository = "https://github.com/nraiden/cofounder"
+website = "https://cofounder.openinterface.ai/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

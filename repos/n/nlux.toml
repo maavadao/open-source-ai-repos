@@ -1,0 +1,9 @@
+name = "nlux"
+description = "The 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 Conversational AI JavaScript Library — UI for any LLM, supporting LangChain / HuggingFace / Vercel AI, and more React, Next.js, and plain JavaScript"
+category = "chat"
+tags = ["artificial-intelligence", "chatbot", "chatgpt", "huggingface", "javascript", "large-language-models", "llm", "openai"]
+repository = "https://github.com/nlkitai/nlux"
+website = "https://docs.nlkit.com/nlux"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

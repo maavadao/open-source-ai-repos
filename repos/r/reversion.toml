@@ -1,0 +1,9 @@
+name = "ReVersion"
+description = "[SIGGRAPH Asia 2024] ReVersion: Diffusion-Based Relation Inversion from Images"
+category = "image"
+tags = ["diffusion-model", "image-generation", "relation-modeling", "stable-diffusion", "aigc", "gen-ai"]
+repository = "https://github.com/ziqihuangg/ReVersion"
+website = "https://ziqihuangg.github.io/projects/reversion.html"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

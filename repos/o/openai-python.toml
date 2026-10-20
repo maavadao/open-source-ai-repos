@@ -1,0 +1,9 @@
+name = "openai-python"
+description = "The official Python library for the OpenAI API"
+category = "other"
+tags = ["openai", "python"]
+repository = "https://github.com/openai/openai-python"
+website = "https://pypi.org/project/openai/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ViP-LLaVA"
+description = "[CVPR2024] ViP-LLaVA: Making Large Multimodal Models Understand Arbitrary Visual Prompts"
+category = "chat"
+tags = ["chatbot", "clip", "foundation-models", "gpt-4", "gpt-4-vision", "llama", "llama2", "llava"]
+repository = "https://github.com/WisconsinAIVision/ViP-LLaVA"
+website = "https://vip-llava.github.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

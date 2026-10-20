@@ -1,0 +1,9 @@
+name = "open-computer-use"
+description = "AI computer use powered by open source LLMs and E2B Desktop Sandbox"
+category = "browser-automation"
+tags = ["agent", "ai", "anthropic", "claude", "computer-use", "llm"]
+repository = "https://github.com/e2b-dev/open-computer-use"
+website = "https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=open-computer-use"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

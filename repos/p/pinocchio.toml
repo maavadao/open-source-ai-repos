@@ -1,0 +1,9 @@
+name = "pinocchio"
+description = "A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives"
+category = "coding"
+tags = ["robotics", "dynamics", "analytical-derivatives", "kinematics", "c-plus-plus", "rigid-body-dynamics", "code-generation", "python"]
+repository = "https://github.com/stack-of-tasks/pinocchio"
+website = "http://stack-of-tasks.github.io/pinocchio/"
+license = "BSD-2-Clause"
+language = "C++"
+added = 2026-10-20

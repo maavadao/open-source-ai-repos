@@ -1,0 +1,9 @@
+name = "MaaAssistantArknights"
+description = "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients."
+category = "vision"
+tags = ["arknights", "maa", "computer-vision"]
+repository = "https://github.com/MaaAssistantArknights/MaaAssistantArknights"
+website = "https://maa.plus"
+license = "AGPL-3.0"
+language = "C++"
+added = 2026-10-20

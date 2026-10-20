@@ -1,0 +1,9 @@
+name = "autokeras"
+description = "AutoML library for deep learning"
+category = "ml-platforms"
+tags = ["automl", "neural-architecture-search", "automated-machine-learning", "python", "deep-learning", "machine-learning", "autodl", "tensorflow"]
+repository = "https://github.com/keras-team/autokeras"
+website = "http://autokeras.com/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "sweetviz"
+description = "Visualize and compare datasets, target values and associations, with one line of code."
+category = "data-science"
+tags = ["pandas-dataframe", "eda", "pandas", "data-exploration", "data-analysis", "data-science", "data-visualization", "machine-learning"]
+repository = "https://github.com/fbdesignpro/sweetviz"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

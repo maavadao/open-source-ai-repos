@@ -1,0 +1,9 @@
+name = "nitrostack"
+description = "The full-stack TypeScript framework to build, test, and deploy production-ready MCP servers and AI-native apps."
+category = "mcp-servers"
+tags = ["agentic-ai", "ai", "chatgpt", "chatgpt-apps", "claude", "mcp", "mcp-client", "mcp-server"]
+repository = "https://github.com/nitrocloudofficial/nitrostack"
+website = "https://nitrostack.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

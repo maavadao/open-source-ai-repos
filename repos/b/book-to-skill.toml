@@ -1,0 +1,8 @@
+name = "book-to-skill"
+description = "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work."
+category = "learning"
+tags = ["agent-skills", "ai-agents", "context-engineering", "document-processing", "edtech", "knowledge-base", "knowledge-management", "llm"]
+repository = "https://github.com/virgiliojr94/book-to-skill"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "supabase-py"
+description = "Python Client for Supabase. Query Postgres from Flask, Django, FastAPI. Python user authentication, security policies, edge functions, file storage, and realtime data streaming. Good first issue."
+category = "data-science"
+tags = ["python", "community", "supabase", "auth", "authentication", "authorization", "data-science", "databases"]
+repository = "https://github.com/supabase/supabase-py"
+website = "https://supabase.com/docs/reference/python"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

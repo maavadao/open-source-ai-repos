@@ -1,0 +1,8 @@
+name = "scientific-illustrator"
+description = "Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates."
+category = "mcp-servers"
+tags = ["codex", "drawio", "editable-figures", "mcp", "powerpoint", "scientific-illustration"]
+repository = "https://github.com/icebird1998/scientific-illustrator"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

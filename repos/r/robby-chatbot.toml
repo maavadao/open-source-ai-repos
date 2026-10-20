@@ -1,0 +1,9 @@
+name = "Robby-chatbot"
+description = "AI chatbot for chat with CSV, PDF, TXT files and YTB videos | using Langchain | OpenAI | Streamlit"
+category = "chat"
+tags = ["ai", "chatbot", "langchain", "openai", "streamlit", "gpt-4", "nlp"]
+repository = "https://github.com/yvann-ba/Robby-chatbot"
+website = "https://robby-chatbot.streamlit.app/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "pmb"
+description = "Local-first persistent memory for AI coding agents (Claude Code, Cursor, Codex) over MCP. Decisions, lessons and facts live in one SQLite file on your disk. Offline, multilingual."
+category = "mcp-servers"
+tags = ["ai-agents", "ai-memory", "bm25", "claude-code", "codex", "cursor", "knowledge-graph", "lancedb"]
+repository = "https://github.com/oleksiijko/pmb"
+website = "https://pypi.org/project/pmb-ai/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

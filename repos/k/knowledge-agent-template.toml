@@ -1,0 +1,9 @@
+name = "knowledge-agent-template"
+description = "Open source file-system and knowledge based agent template. Build AI agents that stay up to date with your knowledge base"
+category = "chat"
+tags = ["agents", "ai-agent", "chatbot", "file-system", "nuxt", "sandbox", "typescript", "vue"]
+repository = "https://github.com/vercel-labs/knowledge-agent-template"
+website = "https://chatsdk-knowledge-agent.vercel.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

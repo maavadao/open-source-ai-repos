@@ -1,0 +1,9 @@
+name = "hear"
+description = "Command line interface for the built-in speech recognition and transcription capabilities in macOS."
+category = "speech"
+tags = ["speech-recognition", "macos", "command-line-tool", "command-line", "transcribe-audio-files", "transcription", "transcribe-audio", "command-line-interface"]
+repository = "https://github.com/sveinbjornt/hear"
+website = "https://sveinbjorn.org/hear"
+license = "BSD-3-Clause"
+language = "Objective-C"
+added = 2026-10-20

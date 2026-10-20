@@ -1,0 +1,8 @@
+name = "CliRelay"
+description = "Self-hosted AI gateway for coding CLIs — one OpenAI/Claude/Gemini/Codex-compatible endpoint, with a multi-tenant web console, request logs, and spend quotas."
+category = "coding"
+tags = ["ai-gateway", "anthropic", "api-gateway", "claude-code", "gemini-cli", "go", "llm", "llm-proxy"]
+repository = "https://github.com/kittors/CliRelay"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

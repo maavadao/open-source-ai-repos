@@ -1,0 +1,8 @@
+name = "claude-hud"
+description = "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress"
+category = "coding"
+tags = ["anthropic", "claude", "claude-code", "cli", "plugin", "statusline", "typescript"]
+repository = "https://github.com/jarrodwatts/claude-hud"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

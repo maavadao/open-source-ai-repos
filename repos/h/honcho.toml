@@ -1,0 +1,9 @@
+name = "honcho"
+description = "Memory library for building stateful agents"
+category = "agents"
+tags = ["ai", "llm", "memory", "agent-memory", "ai-agents", "ai-memory", "context-engineering", "continual-learning"]
+repository = "https://github.com/plastic-labs/honcho"
+website = "https://honcho.dev/docs"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

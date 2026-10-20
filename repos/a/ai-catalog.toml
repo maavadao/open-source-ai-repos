@@ -1,0 +1,9 @@
+name = "AI-Catalog"
+description = "Huge AI models catalog. A curated list of AI tools, platforms, and resources across various domains."
+category = "learning"
+tags = ["ai", "artificial-intelligence", "chatbot", "code", "data-science", "education", "image", "image-processing"]
+repository = "https://github.com/mehmetkahya0/AI-Catalog"
+website = "https://mehmetkahya0.github.io/AI-Catalog/"
+license = "GPL-3.0"
+language = "HTML"
+added = 2026-10-20

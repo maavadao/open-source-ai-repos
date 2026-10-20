@@ -1,0 +1,8 @@
+name = "ollama-ebook-summary"
+description = "LLM for Long Text Summary (Comprehensive Bulleted Notes)"
+category = "local-llms"
+tags = ["privategpt", "gpt", "llm", "summarization", "privategpt4linux", "localai", "localgpt", "generative-ai"]
+repository = "https://github.com/cognitivetech/ollama-ebook-summary"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

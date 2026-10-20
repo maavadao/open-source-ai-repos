@@ -1,0 +1,9 @@
+name = "agent-flow"
+description = "Real-time visualization of Claude Code agent orchestration — see your agents think, branch, and coordinate as they work."
+category = "coding"
+tags = ["agent-visualization", "ai-agents", "claude-code", "developer-tools", "llm", "vscode-extension"]
+repository = "https://github.com/patoles/agent-flow"
+website = "https://marketplace.visualstudio.com/items?itemName=simon-p.agent-flow"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

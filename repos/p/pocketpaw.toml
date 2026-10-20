@@ -1,0 +1,9 @@
+name = "pocketpaw"
+description = "Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama."
+category = "local-llms"
+tags = ["ai-agents", "cli", "jarvis-assistant", "multi-agent-systems", "ollama", "open-source", "personal-assistant", "python"]
+repository = "https://github.com/pocketpaw/pocketpaw"
+website = "http://pocketpaw.xyz/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

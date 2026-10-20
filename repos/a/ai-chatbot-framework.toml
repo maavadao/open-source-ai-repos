@@ -1,0 +1,8 @@
+name = "ai-chatbot-framework"
+description = "A python chatbot framework with Natural Language Understanding and Artificial Intelligence."
+category = "chat"
+tags = ["chatbot", "ai-chatbot-framework", "ai-chatbot", "conversational-ai", "hacktoberfest", "help-wanted", "llm", "tool-calling"]
+repository = "https://github.com/alfredfrancis/ai-chatbot-framework"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

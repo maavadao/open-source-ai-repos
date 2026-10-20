@@ -1,0 +1,9 @@
+name = "Nubase"
+description = "Turn AI-written code into real apps. Nubase is an open-source, AI-native backend platform for AI Coding, agentic applications, and modern product teams: Memory, Database, Storage, and Auth in one self-hostable service."
+category = "skills-prompts"
+tags = ["ai", "ai-agents", "memory", "pgvector", "postgresql", "postgrest", "supabase", "supabase-auth"]
+repository = "https://github.com/OtterMind/Nubase"
+website = "https://nubase.ai"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

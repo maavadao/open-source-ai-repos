@@ -1,0 +1,9 @@
+name = "VisionLLM"
+description = "VisionLLM Series"
+category = "vision"
+tags = ["large-language-models", "object-detection", "generalist-model"]
+repository = "https://github.com/OpenGVLab/VisionLLM"
+website = "https://arxiv.org/abs/2305.11175"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

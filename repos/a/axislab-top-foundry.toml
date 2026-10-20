@@ -1,0 +1,9 @@
+name = "Foundry"
+description = "Transform any idea into a running AI-powered company"
+category = "no-code"
+tags = ["agent-platform", "ai", "ai-agents", "ai-company", "autonomous-agents", "collaboration", "digital-company", "llm"]
+repository = "https://github.com/axislab-top/Foundry"
+website = "https://www.axislab.top"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

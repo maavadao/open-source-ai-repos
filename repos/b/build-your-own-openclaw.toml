@@ -1,0 +1,9 @@
+name = "build-your-own-openclaw"
+description = "A step-by-step guide to build your own AI agent."
+category = "learning"
+tags = ["ai-agent", "tutorial", "build-your-own-x", "llm", "python"]
+repository = "https://github.com/czl9707/build-your-own-openclaw"
+website = "https://build-your-own-openclaw.kiyo-n-zane.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "MemoMind"
+description = "Give your AI agent a brain that remembers. Local memory system for Claude Code — 100% private, GPU-accelerated, zero cloud dependency."
+category = "mcp-servers"
+tags = ["agent-memory", "ai", "claude-code", "llm", "local-first", "mcp", "memory"]
+repository = "https://github.com/24kchengYe/MemoMind"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

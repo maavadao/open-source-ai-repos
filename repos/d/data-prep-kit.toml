@@ -1,0 +1,9 @@
+name = "data-prep-kit"
+description = "Open source project for data preparation for GenAI applications"
+category = "models"
+tags = ["data-preparation", "finetuning", "llm", "llmapps", "data", "data-prep", "data-preprocessing", "data-preprocessing-pipelines"]
+repository = "https://github.com/data-prep-kit/data-prep-kit"
+website = "https://data-prep-kit.github.io/data-prep-kit/"
+license = "Apache-2.0"
+language = "HTML"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "pwa-asset-generator"
+description = "Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated images according to Web App Manifest specs and Apple Human Interface guidelines."
+category = "browser-automation"
+tags = ["pwa", "splash-screen", "icon", "manifest", "launch-image", "puppeteer", "ios", "android"]
+repository = "https://github.com/elegantapp/pwa-asset-generator"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

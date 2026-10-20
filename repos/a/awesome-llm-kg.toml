@@ -1,0 +1,7 @@
+name = "Awesome-LLM-KG"
+description = "Awesome papers about unifying LLMs and KGs"
+category = "learning"
+tags = ["awsome", "chatgpt", "gpt-4", "kg", "knowledge-graph", "language-model", "large-language-model", "llm"]
+repository = "https://github.com/RManLuo/Awesome-LLM-KG"
+license = "NOASSERTION"
+added = 2026-10-20

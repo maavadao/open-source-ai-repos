@@ -1,0 +1,9 @@
+name = "DeepRetrieval"
+description = "[COLM’25] DeepRetrieval — Training Search Agent by RLVR with Retrieval Outcome"
+category = "search"
+tags = ["aiagent", "information-retrieval", "large-language-models", "reinforcement-learning", "ai-search", "search-agent"]
+repository = "https://github.com/pat-jj/DeepRetrieval"
+website = "https://pat-jj.github.io/DeepRetrieval-AI/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "cocoindex-code"
+description = "A super light-weight embedded code search engine CLI (AST based) that just works - improves speed and efficiency for coding agent Star if you like it!"
+category = "mcp-servers"
+tags = ["agents", "code-search", "coding-agent", "indexing", "python", "context-engineering", "mcp", "tree-sitter"]
+repository = "https://github.com/cocoindex-io/cocoindex-code"
+website = "https://cocoindex.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

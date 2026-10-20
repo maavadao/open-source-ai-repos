@@ -1,0 +1,9 @@
+name = "coder_eval"
+description = "Playwright for coding agents. Test that your skills, MCP servers, and CLIs actually work when an agent uses them — sandboxed YAML suites, A/B experiments, CI gates."
+category = "mcp-servers"
+tags = ["agent-evaluation", "claude-code", "codex", "coding-agents", "evaluation-framework", "claude", "claude-skills", "agent-testing"]
+repository = "https://github.com/UiPath/coder_eval"
+website = "https://coder-eval.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

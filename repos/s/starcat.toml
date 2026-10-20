@@ -1,0 +1,9 @@
+name = "Starcat"
+description = "A native macOS app that turns GitHub Stars into a searchable, organized, AI-powered personal knowledge base."
+category = "llm-apps"
+tags = ["ai", "github-stars", "knowledge-base", "local-first", "macos", "rag", "sqlite", "starcat"]
+repository = "https://github.com/starcat-app/Starcat"
+website = "https://starcat.ink"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

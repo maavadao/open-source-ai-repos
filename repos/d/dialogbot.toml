@@ -1,0 +1,8 @@
+name = "dialogbot"
+description = "dialogbot, provide search-based dialogue, task-based dialogue and generative dialogue model. 对话机器人，基于问答型对话、任务型对话、聊天型对话等模型实现，支持网络检索问答，领域知识问答，任务引导问答，闲聊问答，开箱即用。"
+category = "chat"
+tags = ["question-answering", "qa", "nlp", "deep-learning", "chatbot", "dialog", "dialogbot"]
+repository = "https://github.com/shibing624/dialogbot"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "BK-SDM"
+description = "A Compressed Stable Diffusion for Efficient Text-to-Image Generation [ECCV'24]"
+category = "image"
+tags = ["compression", "stable-diffusion", "huggingface", "pytorch", "distillation", "lightweight"]
+repository = "https://github.com/Nota-NetsPresso/BK-SDM"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "mission-control"
+description = "Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes."
+category = "mcp-servers"
+tags = ["agent-orchestration", "nextjs", "openclaw", "sqlite", "ai-agents", "developer-tools", "mcp", "open-source"]
+repository = "https://github.com/builderz-labs/mission-control"
+website = "https://mc.builderz.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

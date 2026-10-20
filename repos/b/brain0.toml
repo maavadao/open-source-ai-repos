@@ -1,0 +1,8 @@
+name = "brain0"
+description = "The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for coding agents, signed provenance attestations. One command, offline by default."
+category = "mcp-servers"
+tags = ["ai", "ai-agents", "attestation", "audit", "claude", "cli", "code-review", "coding-agents"]
+repository = "https://github.com/Brain0-ai/brain0"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

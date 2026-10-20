@@ -1,0 +1,9 @@
+name = "Cosmos-Drive-Dreams"
+description = "Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models"
+category = "video"
+tags = ["autonomous-driving", "generation", "video-generation"]
+repository = "https://github.com/nv-tlabs/Cosmos-Drive-Dreams"
+website = "https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

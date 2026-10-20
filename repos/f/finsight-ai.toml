@@ -1,0 +1,8 @@
+name = "FinSight-AI"
+description = "AI equity research agent with resilient workflows, evidence-grounded RAG, versioned reports, and automated quality evaluation."
+category = "agents"
+tags = ["ai-agent", "financial-research", "llm-evaluation", "pgvector", "postgresql", "rabbitmq", "rag", "redis"]
+repository = "https://github.com/juanjuandog/FinSight-AI"
+license = "MIT"
+language = "Java"
+added = 2026-10-20

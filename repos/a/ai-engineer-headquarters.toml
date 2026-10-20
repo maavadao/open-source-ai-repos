@@ -1,0 +1,9 @@
+name = "AI-Engineer-Headquarters"
+description = "A collection of scientific methods, processes, algorithms, and systems to build stories & models."
+category = "security"
+tags = ["python", "machine-learning", "deep-learning", "pytorch", "data-structures-and-algorithms", "mlops", "natural-language-processing", "statistics"]
+repository = "https://github.com/hemansnation/AI-Engineer-Headquarters"
+website = "https://www.masterdexter.io/ai-engineer-hq"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

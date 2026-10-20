@@ -1,0 +1,8 @@
+name = "reversi-alpha-zero"
+description = "Reversi reinforcement learning by AlphaGo Zero methods."
+category = "ml-platforms"
+tags = ["reinforcement-learning", "deeplearning", "alphago-zero", "keras", "tensorflow", "machine-learning", "reversi"]
+repository = "https://github.com/mokemokechicken/reversi-alpha-zero"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

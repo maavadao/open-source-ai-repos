@@ -1,0 +1,9 @@
+name = "CrisperWhisper"
+description = "Controllable Transcription. Verbatim ( every, filler, pause, stutter, vocal sound) , or intended ( what the speaker meant to say, optimized for readability) with word-level timestamps."
+category = "speech"
+tags = ["asr", "audio", "detection", "filler", "recognition", "speech", "speech-recognition", "timestamps"]
+repository = "https://github.com/nyrahealth/CrisperWhisper"
+website = "https://nyra-labs.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

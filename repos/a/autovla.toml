@@ -1,0 +1,9 @@
+name = "AutoVLA"
+description = "[NeurIPS 2025] AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning"
+category = "robotics"
+tags = ["autonomous-driving", "grpo", "reinforcement-finetuning", "vision-language-action"]
+repository = "https://github.com/ucla-mobility/AutoVLA"
+website = "https://autovla.github.io/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

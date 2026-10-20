@@ -1,0 +1,9 @@
+name = "novel-to-game"
+description = "Agent skills for source-grounded novel-to-game adaptation (小说改编游戏 / story to game): cited design docs, target-runtime builds, evidence-based QA. Three playable browser examples. For Claude Code, Codex, and Kimi Code."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-game-development", "claude-code", "game-design", "kimi-code", "narrative-design", "novel-to-game", "story-to-game"]
+repository = "https://github.com/zenstory-ai/novel-to-game"
+website = "https://plateau.vibecoco.ai"
+license = "MIT"
+language = "Markdown"
+added = 2026-10-20

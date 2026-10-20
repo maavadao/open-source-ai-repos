@@ -1,0 +1,9 @@
+name = "carefree-drawboard"
+description = "Infinite Drawboard in Python"
+category = "image"
+tags = ["drawboard", "python", "stable-diffusion", "framework", "fullstack", "infrastructure", "web"]
+repository = "https://github.com/carefree0910/carefree-drawboard"
+website = "https://drawboard-demo.nolibox.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

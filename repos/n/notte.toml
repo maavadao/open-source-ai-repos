@@ -1,0 +1,9 @@
+name = "notte"
+description = "Cloud browser infrastructure and web automation platform for your AI and coding agents"
+category = "no-code"
+tags = ["agent", "ai", "anthropic", "automation", "browser", "llm", "openai", "web"]
+repository = "https://github.com/nottelabs/notte"
+website = "https://www.notte.cc/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "optimization-engine"
+description = "Nonconvex embedded optimization: code generation for fast real-time optimization + ROS support"
+category = "coding"
+tags = ["embedded-optimization", "nonconvex", "model-predictive-control", "rust-library", "rust", "rust-crate", "nonlinear-optimization", "nonlinear-model-predictive-control"]
+repository = "https://github.com/alphaville/optimization-engine"
+website = "https://alphaville.github.io/optimization-engine/"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

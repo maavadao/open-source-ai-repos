@@ -1,0 +1,8 @@
+name = "siam-mot"
+description = "SiamMOT: Siamese Multi-Object Tracking"
+category = "vision"
+tags = ["computer-vision", "multi-object-tracking", "video-analysis"]
+repository = "https://github.com/amazon-science/siam-mot"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

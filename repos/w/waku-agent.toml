@@ -1,0 +1,8 @@
+name = "waku-agent"
+description = "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code built to stay legible as it grows."
+category = "chat"
+tags = ["agent-framework", "ai-agent", "ai-assistant", "claude", "evals", "llm", "llmops", "local-first"]
+repository = "https://github.com/ShenSeanChen/waku-agent"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

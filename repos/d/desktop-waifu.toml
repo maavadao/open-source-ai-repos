@@ -1,0 +1,8 @@
+name = "desktop-waifu"
+description = "Desktop Waifu!"
+category = "chat"
+tags = ["ai", "chatbot", "vtuber"]
+repository = "https://github.com/AlizerUncaged/desktop-waifu"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

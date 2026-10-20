@@ -1,0 +1,7 @@
+name = "World-Models-Autonomous-Driving-Survey"
+description = "A curated list of world models for autonomous driving."
+category = "learning"
+tags = ["autonomous-driving", "deep-learning", "self-supervised-learning", "world-models"]
+repository = "https://github.com/HaoranZhuExplorer/World-Models-Autonomous-Driving-Survey"
+license = "NOASSERTION"
+added = 2026-10-20

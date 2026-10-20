@@ -1,0 +1,9 @@
+name = "anyquery"
+description = "One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP."
+category = "mcp-servers"
+tags = ["api", "business-intelligence", "csv", "data-visualization", "database", "json", "mysql", "parquet"]
+repository = "https://github.com/julien040/anyquery"
+website = "https://anyquery.dev"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

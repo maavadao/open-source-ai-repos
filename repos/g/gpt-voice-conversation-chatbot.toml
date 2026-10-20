@@ -1,0 +1,8 @@
+name = "gpt-voice-conversation-chatbot"
+description = "Allows you to have an engaging and safely emotive spoken / CLI conversation with the AI ChatGPT / GPT-4 while giving you the option to let it remember things discussed."
+category = "speech"
+tags = ["chatbot", "gpt-3", "openai", "speech-to-text", "speech-recognition", "tts", "elevenlabs", "conversational-ai"]
+repository = "https://github.com/Adri6336/gpt-voice-conversation-chatbot"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

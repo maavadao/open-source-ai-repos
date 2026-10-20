@@ -1,0 +1,8 @@
+name = "cupoch"
+description = "Robotics with GPU computing"
+category = "robotics"
+tags = ["point-cloud", "cuda", "pybind11", "gpu", "registration", "python", "odometry", "jetson"]
+repository = "https://github.com/neka-nat/cupoch"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

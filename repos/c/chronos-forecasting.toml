@@ -1,0 +1,9 @@
+name = "chronos-forecasting"
+description = "Chronos: Pretrained Models for Time Series Forecasting"
+category = "models"
+tags = ["forecasting", "large-language-models", "llm", "machine-learning", "time-series", "foundation-models", "pretrained-models", "time-series-forecasting"]
+repository = "https://github.com/amazon-science/chronos-forecasting"
+website = "https://arxiv.org/abs/2510.15821"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

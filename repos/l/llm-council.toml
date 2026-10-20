@@ -1,0 +1,7 @@
+name = "llm-council"
+description = "LLM Council works together to answer your hardest questions"
+category = "models"
+repository = "https://github.com/karpathy/llm-council"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Pedestron"
+description = "[Pedestron] Generalizable Pedestrian Detection: The Elephant In The Room. @ CVPR2021"
+category = "robotics"
+tags = ["pedestrian-detection", "autonomous-driving", "citypersons", "caltech", "eurocity-persons", "retinanet", "cascade-rcnn", "faster-rcnn"]
+repository = "https://github.com/hasanirtiza/Pedestron"
+website = "https://openaccess.thecvf.com/content/CVPR2021/papers/Hasan_Generalizable_Pedestrian_Detection_The_Elephant_in_the_Room_CVPR_2021_paper.pdf"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

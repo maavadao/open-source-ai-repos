@@ -1,0 +1,8 @@
+name = "Agentfy"
+description = "Agentfy is a modular microservices architecture designed to process user requests and execute workflows across multiple social media platforms. ASK ONCE, LET THE AGENT DO THE REST!"
+category = "mcp-servers"
+tags = ["ai-agents", "ai-tools", "python", "tikhub", "model-context-protocol", "multi-agent-systems", "openai", "prompt-engineering-tool"]
+repository = "https://github.com/Agentfy-io/Agentfy"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

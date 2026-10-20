@@ -1,0 +1,9 @@
+name = "data-science-interviews"
+description = "Data science interview questions and answers"
+category = "learning"
+tags = ["data-science", "machine-learning", "interview-questions", "data-science-interviews"]
+repository = "https://github.com/alexeygrigorev/data-science-interviews"
+website = "https://alexeygrigorev.com/data-science-interviews/"
+license = "CC-BY-4.0"
+language = "HTML"
+added = 2026-10-20

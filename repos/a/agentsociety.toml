@@ -1,0 +1,9 @@
+name = "AgentSociety"
+description = "AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimental design. It provides a flexible framework for creating and managing intelligent agents in simulated environments."
+category = "agents"
+tags = ["agentsociety2", "ai-social-scientist", "agent", "multi-agents", "simulation", "agent-based-modeling", "ai-assistants", "ai-for-science"]
+repository = "https://github.com/tsinghua-fib-lab/AgentSociety"
+website = "https://agentsociety2.fiblab.net"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

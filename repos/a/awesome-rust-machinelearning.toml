@@ -1,0 +1,9 @@
+name = "Awesome-Rust-MachineLearning"
+description = "This repository is a list of machine learning libraries written in Rust. It's a compilation of GitHub repositories, blogs, books, movies, discussions, papers, etc."
+category = "learning"
+tags = ["rust", "machine-learning", "machine-learning-library", "rust-library", "natural-language-processing", "image-processing", "deep-learning", "awasome"]
+repository = "https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning"
+website = "https://vaaaaanquish.github.io/Awesome-Rust-MachineLearning/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

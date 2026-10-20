@@ -1,0 +1,9 @@
+name = "llamafile"
+description = "Distribute and run LLMs with a single file."
+category = "speech"
+tags = ["cross-platform", "gguf", "llama-cpp", "local-ai", "local-inference", "local-llm", "open-source-ai", "single-file-executable"]
+repository = "https://github.com/mozilla-ai/llamafile"
+website = "https://docs.mozilla.ai/llamafile"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

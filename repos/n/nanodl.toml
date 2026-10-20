@@ -1,0 +1,8 @@
+name = "nanodl"
+description = "JAX library for training sub-4B foundation models for edge"
+category = "models"
+tags = ["attention-mechanism", "deep-learning", "distributed-training", "gpt", "jax", "llama", "machine-learning", "nlp"]
+repository = "https://github.com/HenryNdubuaku/nanodl"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

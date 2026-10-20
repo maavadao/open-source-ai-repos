@@ -1,0 +1,9 @@
+name = "ceres-solver"
+description = "A large scale non-linear optimization library"
+category = "vision"
+tags = ["c-plus-plus", "numerical-optimization", "nonlinear-optimization-algorithms", "nonlinear-programming", "nonlinear-least-squares", "bundle-adjustment", "bfgs", "levenberg-marquardt"]
+repository = "https://github.com/ceres-solver/ceres-solver"
+website = "http://ceres-solver.org/"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

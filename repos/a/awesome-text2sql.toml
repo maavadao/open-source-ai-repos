@@ -1,0 +1,7 @@
+name = "Awesome-Text2SQL"
+description = "Curated tutorials and resources for Large Language Models, Text2SQL, Text2DSL、Text2API、Text2Vis and more."
+category = "learning"
+tags = ["ai", "awesome", "datset", "deep-learning", "finetuning", "llm", "nlp", "survey"]
+repository = "https://github.com/eosphoros-ai/Awesome-Text2SQL"
+license = "MIT"
+added = 2026-10-20

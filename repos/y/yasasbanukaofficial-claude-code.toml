@@ -1,0 +1,8 @@
+name = "claude-code"
+description = "Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou."
+category = "coding"
+tags = ["claude-ai", "claude-code", "leaked-claude-code", "leaked-code"]
+repository = "https://github.com/yasasbanukaofficial/claude-code"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

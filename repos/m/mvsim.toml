@@ -1,0 +1,9 @@
+name = "mvsim"
+description = "Vehicle and mobile robotics simulator. C++ & Python API. Use it as a standalone application or via ROS 1 or ROS 2"
+category = "robotics"
+tags = ["vehicle-dynamics", "sensors", "ros-node", "ros", "robots", "ros2", "gazebo", "mrpt"]
+repository = "https://github.com/MRPT/mvsim"
+website = "https://mvsimulator.readthedocs.io/"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

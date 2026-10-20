@@ -1,0 +1,8 @@
+name = "PnPInversion"
+description = "[ICLR2024] Official repo for paper \"PnP Inversion: Boosting Diffusion-based Editing with 3 Lines of Code\""
+category = "image"
+tags = ["deep-learning", "diffusion-model", "diffusion-models", "image-editing", "image-generation", "paper-implementation", "paper-implementations", "pytorch"]
+repository = "https://github.com/cure-lab/PnPInversion"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

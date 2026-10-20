@@ -1,0 +1,9 @@
+name = "iot-dc3"
+description = "IoT DC3 — Connect the Physical World to AI. An open-source Industrial IoT Runtime for Physical AI: 36 protocol drivers, edge-to-cloud data delivery, and an MCP tool gateway so AI agents act on devices in a safe, controllable, traceable loop."
+category = "mcp-servers"
+tags = ["iot", "spring-cloud", "data-collection", "mqtt", "java", "plc", "modbus", "cloud-native"]
+repository = "https://github.com/pnoker/iot-dc3"
+website = "https://dc3.site"
+license = "NOASSERTION"
+language = "Java"
+added = 2026-10-20

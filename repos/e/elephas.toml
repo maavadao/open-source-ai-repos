@@ -1,0 +1,9 @@
+name = "elephas"
+description = "Distributed Deep learning with Keras & Spark"
+category = "ml-platforms"
+tags = ["spark", "keras", "neural-networks", "deep-learning", "distributed-computing"]
+repository = "https://github.com/maxpumperla/elephas"
+website = "http://maxpumperla.com/elephas/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

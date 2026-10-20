@@ -1,0 +1,10 @@
+name = "PaddleOCR"
+description = "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages."
+category = "documents"
+tags = ["ocr", "chineseocr", "pdf2markdown", "pp-ocr", "pp-structure", "document-parsing", "document-translation", "kie"]
+repository = "https://github.com/PaddlePaddle/PaddleOCR"
+website = "https://www.paddleocr.com"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

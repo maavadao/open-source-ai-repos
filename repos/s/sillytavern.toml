@@ -1,0 +1,9 @@
+name = "SillyTavern"
+description = "LLM Frontend for Power Users."
+category = "chat"
+tags = ["ai", "chat", "llm"]
+repository = "https://github.com/SillyTavern/SillyTavern"
+website = "https://sillytavern.app"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-10-20

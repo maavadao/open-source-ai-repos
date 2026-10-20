@@ -1,0 +1,9 @@
+name = "Eventline"
+description = "Micro-framework for routing and handling events for bots and applications . IFTTT for developers"
+category = "chat"
+tags = ["event-driven", "chatbot", "eventbus", "messenger-platform", "botkit", "router"]
+repository = "https://github.com/surebot/Eventline"
+website = "https://eventline.surebot.io/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

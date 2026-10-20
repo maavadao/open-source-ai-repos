@@ -1,0 +1,8 @@
+name = "zapier-mcp"
+description = "Official plugin distribution for the hosted Zapier MCP server. Install it in your AI client and connect to thousands of apps."
+category = "mcp-servers"
+tags = ["mcp", "ai-agents", "automation", "claude-code", "claude-code-plugin", "codex-plugin", "cursor-ai", "cursor-plugin"]
+repository = "https://github.com/zapier/zapier-mcp"
+website = "https://docs.zapier.com/mcp"
+license = "MIT"
+added = 2026-10-20

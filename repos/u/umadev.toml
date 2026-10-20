@@ -1,0 +1,9 @@
+name = "umadev"
+description = "UmaDev: A coding agent that works like a real dev team, commanding the Claude Code / Codex / OpenCode you already use."
+category = "coding"
+tags = ["ai", "ai-coding", "claude-code", "agents", "ai-agents", "codex-cli", "coding", "open-code"]
+repository = "https://github.com/umacloud/umadev"
+website = "https://umadev.goder.ai"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Wuerstchen"
+description = "Official implementation of Würstchen: Efficient Pretraining of Text-to-Image Models"
+category = "image"
+tags = ["diffusion-models", "efficiency", "machine-learning", "stable-diffusion"]
+repository = "https://github.com/dome272/Wuerstchen"
+website = "https://arxiv.org/abs/2306.00637"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

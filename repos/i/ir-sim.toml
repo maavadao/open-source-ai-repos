@@ -1,0 +1,9 @@
+name = "ir-sim"
+description = "A Python-based lightweight robot simulator designed for navigation, control, and learning"
+category = "robotics"
+tags = ["autonomous-driving", "navigation", "python", "robotics", "simulator", "control", "robotics-simulation", "multi-agent"]
+repository = "https://github.com/hanruihua/ir-sim"
+website = "https://ir-sim.readthedocs.io/en/stable/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

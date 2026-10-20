@@ -1,0 +1,9 @@
+name = "universal-data-tool"
+description = "Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app."
+category = "vision"
+tags = ["computer-vision", "annotate-images", "entity-recognition", "desktop", "classification", "dataset", "annotation-tool", "deep-learning"]
+repository = "https://github.com/UniversalDataTool/universal-data-tool"
+website = "https://universaldatatool.com"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

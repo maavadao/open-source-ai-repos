@@ -1,0 +1,9 @@
+name = "cline"
+description = "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
+category = "coding"
+repository = "https://github.com/cline/cline"
+website = "https://cline.bot"
+license = "Apache-2.0"
+language = "TypeScript"
+skill_level = "intermediate"
+added = 2026-10-20

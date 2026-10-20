@@ -1,0 +1,9 @@
+name = "openlit"
+description = "OpenLIT is the open-source agent harness engineering platform: trace, evaluate, guard, and improve everything around the model in your AI agents, on OTEL."
+category = "coding"
+tags = ["observability", "llmops", "ai-observability", "openai", "clickhouse", "genai", "opentelemetry", "open-source"]
+repository = "https://github.com/openlit/openlit"
+website = "https://docs.openlit.io"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

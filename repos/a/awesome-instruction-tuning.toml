@@ -1,0 +1,8 @@
+name = "Awesome-instruction-tuning"
+description = "A curated list of awesome instruction tuning datasets, models, papers and repositories."
+category = "learning"
+tags = ["alpaca", "awesome", "awesome-list", "chatgpt", "cross-task-generalization", "gpt", "in-context-learning", "instruct-gpt"]
+repository = "https://github.com/zhilizju/Awesome-instruction-tuning"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

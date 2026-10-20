@@ -1,0 +1,9 @@
+name = "tau2-bench"
+description = "τ-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains"
+category = "models"
+tags = ["benchmark", "llm", "ai", "language-model-agent", "conversational-agents"]
+repository = "https://github.com/sierra-research/tau2-bench"
+website = "https://www.taubench.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

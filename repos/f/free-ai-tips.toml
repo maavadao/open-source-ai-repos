@@ -1,0 +1,9 @@
+name = "free-ai-tips"
+description = "Free AI-Tips is a FREE Newsletter provided by Business Science. It comes with bite-sized Python AI for Business tutorials every week. Sign up here"
+category = "learning"
+tags = ["ai", "business-analytics", "generative-ai", "llm", "llms", "python", "python-tutorial", "python-tutorials"]
+repository = "https://github.com/business-science/free-ai-tips"
+website = "https://learn.business-science.io/ai-tips-newsletter-register"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

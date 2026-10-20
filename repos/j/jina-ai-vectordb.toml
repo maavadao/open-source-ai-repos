@@ -1,0 +1,8 @@
+name = "vectordb"
+description = "A Python vector database you just need - no more, no less."
+category = "vector-databases"
+tags = ["embedding-similarity", "neural-search", "sentence-embeddings", "vector-database", "vector-database-embedding", "vector-search"]
+repository = "https://github.com/jina-ai/vectordb"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "image-restoration-sde"
+description = "Image Restoration with Mean-Reverting Stochastic Differential Equations, ICML 2023. Winning solution of the NTIRE 2023 Image Shadow Removal Challenge."
+category = "image"
+tags = ["deblurring", "dehazing", "denoising", "deraining", "diffusion-models", "image-restoration", "inpainting", "stochastic-differential-equations"]
+repository = "https://github.com/Algolzw/image-restoration-sde"
+website = "https://algolzw.github.io/ir-sde/index.html"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

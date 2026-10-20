@@ -1,0 +1,8 @@
+name = "Finance"
+description = "Python toolkit for quantitative finance: stock analysis, technical indicators, strategy backtesting, portfolio optimization, and financial modeling."
+category = "data-science"
+tags = ["stocks", "stock-market", "finance", "python", "machine-learning", "data-science", "technical-indicators", "quantitative-finance"]
+repository = "https://github.com/shashankvemuri/Finance"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

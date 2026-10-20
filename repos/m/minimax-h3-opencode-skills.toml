@@ -1,0 +1,8 @@
+name = "minimax-h3-opencode-skills"
+description = "OpenCode skill suite for MiniMax H3 directing, routing, multishot planning, prompt generation, and review."
+category = "skills-prompts"
+tags = ["agent-skills", "minimax-h3", "multimodal", "opencode", "prompt-engineering", "video-generation"]
+repository = "https://github.com/unknowlei/minimax-h3-opencode-skills"
+license = "MIT"
+language = "PowerShell"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Deep_reinforcement_learning_Course"
+description = "Implementations from the free course Deep Reinforcement Learning with Tensorflow and PyTorch"
+category = "learning"
+tags = ["deep-reinforcement-learning", "qlearning", "deep-learning", "tensorflow-tutorials", "tensorflow", "ppo", "a2c", "actor-critic"]
+repository = "https://github.com/simoninithomas/Deep_reinforcement_learning_Course"
+website = "http://www.simoninithomas.com/deep-rl-course"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

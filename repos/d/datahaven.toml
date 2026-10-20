@@ -1,0 +1,9 @@
+name = "datahaven"
+description = "An EVM compatible Substrate chain, powered by StorageHub and secured by EigenLayer"
+category = "security"
+tags = ["blockchain", "decentralized", "eigenlayer", "eigenlayer-avs", "ethereum", "storage", "ai-agents", "privacy"]
+repository = "https://github.com/datahaven-xyz/datahaven"
+website = "https://datahaven.xyz/"
+license = "GPL-3.0"
+language = "Rust"
+added = 2026-10-20

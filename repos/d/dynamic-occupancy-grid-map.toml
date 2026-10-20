@@ -1,0 +1,8 @@
+name = "dynamic-occupancy-grid-map"
+description = "Implementation of \"A Random Finite Set Approach for Dynamic Occupancy Grid Maps with Real-Time Application\""
+category = "robotics"
+tags = ["occupancy-grid-map", "dynamic-occupancy-grid-map", "cuda", "autonomous-driving", "particle-filter", "opengl", "adas", "dogma"]
+repository = "https://github.com/TheCodez/dynamic-occupancy-grid-map"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

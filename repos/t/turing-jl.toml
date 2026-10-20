@@ -1,0 +1,9 @@
+name = "Turing.jl"
+description = "Bayesian inference with probabilistic programming."
+category = "data-science"
+tags = ["machine-learning", "probabilistic-programming", "julia-language", "artificial-intelligence", "bayesian-inference", "hamiltonian-monte-carlo", "turing", "bayesian-statistics"]
+repository = "https://github.com/TuringLang/Turing.jl"
+website = "https://turinglang.org"
+license = "MIT"
+language = "Julia"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "Awesome-Context-Engineering"
+description = "Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and implementation guides for LLMs and AI agents."
+category = "learning"
+tags = ["agent", "agentic-ai", "agi", "awesome-list", "cognitive-science", "context-engineering", "llm", "rag"]
+repository = "https://github.com/Meirtz/Awesome-Context-Engineering"
+license = "MIT"
+added = 2026-10-20

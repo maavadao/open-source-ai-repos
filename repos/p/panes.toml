@@ -1,0 +1,9 @@
+name = "panes"
+description = "Create dynamic modals, cards, panes for your applications in few steps. Any framework and free."
+category = "chat"
+tags = ["sheet", "mobile", "modal", "cordova", "card", "ai-agents", "chatbot"]
+repository = "https://github.com/tech-systems/panes"
+website = "https://panejs.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

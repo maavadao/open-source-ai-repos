@@ -1,0 +1,8 @@
+name = "praxis"
+description = "Turn scattered knowledge, operational data, and history into source-linked context that your agents can inspect, explain, and reuse."
+category = "skills-prompts"
+tags = ["agent-memory", "agent-skills", "agentic-ai", "agentic-rag", "ai-agents", "ai-workflows", "context-engineering", "developer-tools"]
+repository = "https://github.com/sparkplug604/praxis"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

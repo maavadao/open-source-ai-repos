@@ -1,0 +1,9 @@
+name = "firecrawl-app-examples"
+description = "This repository contains complete application examples, including websites and other projects, developed using Firecrawl."
+category = "search"
+tags = ["ai", "ai-scraping", "data", "examples", "html-to-markdown", "llm", "markdown", "rag"]
+repository = "https://github.com/firecrawl/firecrawl-app-examples"
+website = "https://www.firecrawl.dev/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

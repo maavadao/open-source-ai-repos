@@ -1,0 +1,8 @@
+name = "pysc2"
+description = "StarCraft II Learning Environment"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "machine-learning", "starcraft-ii", "starcraft-ii-replays", "deepmind", "blizzard-api"]
+repository = "https://github.com/google-deepmind/pysc2"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "AI-Text-Humanizer-App"
+description = "Transform AI-generated text into formal, human-like, and academic writing with ease, avoids AI detector!"
+category = "models"
+tags = ["ai-humanizer", "transformers", "natural-language-processing", "nltk", "nltk-python", "nltk-tokenizer", "python3", "open-source"]
+repository = "https://github.com/DadaNanjesha/AI-Text-Humanizer-App"
+website = "https://ai-text-humanizer-app-by-dada.streamlit.app/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

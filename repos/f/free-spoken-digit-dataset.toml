@@ -1,0 +1,8 @@
+name = "free-spoken-digit-dataset"
+description = "A free audio dataset of spoken digits. An audio version of MNIST."
+category = "speech"
+tags = ["dataset", "spoken-language", "mnist", "machine-learning", "speech-recognition", "audio", "spoken-digits"]
+repository = "https://github.com/Jakobovski/free-spoken-digit-dataset"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

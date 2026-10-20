@@ -1,0 +1,9 @@
+name = "diffusion-explainer"
+description = "Diffusion Explainer: Visual Explanation for Text-to-image Stable Diffusion"
+category = "image"
+tags = ["clip", "deep-learning", "generative-model", "interactive-visualization", "machine-learning", "stable-diffusion", "visual-learning", "visualization"]
+repository = "https://github.com/poloclub/diffusion-explainer"
+website = "https://poloclub.github.io/diffusion-explainer/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

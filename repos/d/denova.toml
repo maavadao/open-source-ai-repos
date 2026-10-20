@@ -1,0 +1,9 @@
+name = "denova"
+description = "An AI creative platform for novel writing and AI generated RPG, with built-in support for AI agents, Skills, subagent workflows, automations, image generation, and version control."
+category = "agents"
+tags = ["agent", "novel", "ai-agents", "ai-tools", "ide"]
+repository = "https://github.com/alfredxw/denova"
+website = "https://denova-ai.com/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "AI-Novel-Writer"
+description = "书童 Pagekin（原名 AI 小说作家）：开源免费的 AI 长篇小说写作桌面软件，从设定、蓝图到正文、审稿、定稿；支持拆解仿写、续写、改写，可导入写作 Skill（如去 AI 味）。模型需自行配置，作品在本地。Pagekin (formerly AI Novel Writer): free, open-source AI novel writing app for long novels and web fiction. Imitate, continue, rewrite; import writing skills.…"
+category = "local-llms"
+tags = ["ai-writing", "electron", "fiction-writing", "local-first", "novel-writing", "ollama", "creative-writing", "long-form-fiction"]
+repository = "https://github.com/EthanYoQ/AI-Novel-Writer"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

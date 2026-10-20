@@ -1,0 +1,8 @@
+name = "liteflow"
+description = "Lightweight, fast, stable, programmable component-based rule engine — where AI Agents orchestrate just like ordinary components. Uniquely designed DSL: component reuse, sync/async & dynamic orchestration, multi-language scripting, nested rules, hot deployment and smooth…"
+category = "agents"
+tags = ["component", "dsl", "flow-engine", "hot-reload", "java-rule-engine", "rule-engine", "java-rule", "ai-agent"]
+repository = "https://github.com/dromara/liteflow"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

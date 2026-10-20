@@ -1,0 +1,9 @@
+name = "diffusion-forcing-transformer"
+description = "[ICML 2025] Official PyTorch Implementation of \"History-Guided Video Diffusion\""
+category = "video"
+tags = ["diffusion-models", "generative-ai", "image-to-video", "transformer", "video-generation"]
+repository = "https://github.com/kwsong0113/diffusion-forcing-transformer"
+website = "https://boyuan.space/history-guidance"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

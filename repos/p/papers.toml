@@ -1,0 +1,7 @@
+name = "papers"
+description = "Summaries of machine learning papers"
+category = "vision"
+tags = ["machine-learning", "deep-learning", "paper", "summary", "computer-vision", "nlp", "gan", "deep-reinforcement-learning"]
+repository = "https://github.com/aleju/papers"
+license = "NOASSERTION"
+added = 2026-10-20

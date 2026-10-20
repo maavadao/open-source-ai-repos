@@ -1,0 +1,9 @@
+name = "picolm"
+description = "Run a 1-billion parameter LLM on a $10 board with 256MB RAM"
+category = "local-llms"
+tags = ["arm", "embedded", "inference", "llm", "openclaw", "picoclaw", "quantization", "raspberry-pi"]
+repository = "https://github.com/RightNow-AI/picolm"
+website = "https://www.rightnowai.co/forge"
+license = "MIT"
+language = "C"
+added = 2026-10-20

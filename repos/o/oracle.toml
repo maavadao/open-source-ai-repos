@@ -1,0 +1,9 @@
+name = "oracle"
+description = "Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files."
+category = "agents"
+tags = ["agents", "ai", "gpt-5-pro", "anthropic", "gemini-pro", "openai", "opus", "sonnet"]
+repository = "https://github.com/steipete/oracle"
+website = "https://askoracle.sh"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "awesome-computer-vision-models"
+description = "A list of popular deep learning models related to classification, segmentation and detection problems"
+category = "learning"
+tags = ["awesome-list", "machine-learning", "machine-learning-algorithms", "machine-learning-models", "computer-vision", "computer-vision-algorithms", "semantic-segmentation", "image-classification"]
+repository = "https://github.com/gmalivenko/awesome-computer-vision-models"
+license = "CC-BY-4.0"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "echo"
+description = "The User Pays AI SDK"
+category = "models"
+tags = ["anthropic", "billing", "gemini", "llm", "openai", "react", "typescript", "vercel"]
+repository = "https://github.com/Merit-Systems/echo"
+website = "https://echo.merit.systems"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

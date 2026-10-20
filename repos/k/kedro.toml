@@ -1,0 +1,9 @@
+name = "kedro"
+description = "Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular."
+category = "agents"
+tags = ["kedro", "hacktoberfest", "mlops", "python", "machine-learning", "machine-learning-engineering", "agentic-ai", "agentic-workflow"]
+repository = "https://github.com/kedro-org/kedro"
+website = "https://kedro.org"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

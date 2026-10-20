@@ -1,0 +1,8 @@
+name = "PageLM"
+description = "PageLM is a community driven version of NotebookLM & a education platform that transforms study materials into interactive resources like quizzes, flashcards, notes, and podcasts."
+category = "education"
+tags = ["ai", "docker", "edtech", "education", "flashcards", "javascript", "langchain", "nodejs"]
+repository = "https://github.com/CaviraOSS/PageLM"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

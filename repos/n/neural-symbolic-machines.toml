@@ -1,0 +1,8 @@
+name = "neural-symbolic-machines"
+description = "Neural Symbolic Machines is a framework to integrate neural networks and symbolic representations using reinforcement learning, with applications in program synthesis and semantic parsing."
+category = "ml-platforms"
+tags = ["deep-learning", "deep-reinforcement-learning", "tensorflow", "program-synthesis", "semantic-parsing", "rnn", "reinforcement-learning"]
+repository = "https://github.com/crazydonkey200/neural-symbolic-machines"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

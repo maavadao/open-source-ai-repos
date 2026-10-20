@@ -1,0 +1,9 @@
+name = "repeng"
+description = "A library for making RepE control vectors"
+category = "models"
+tags = ["language-model", "machine-learning", "transformers", "representation-engineering", "sae", "saes", "sparse-autoencoder", "sparse-autoencoders"]
+repository = "https://github.com/vgel/repeng"
+website = "https://vgel.me/posts/representation-engineering/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

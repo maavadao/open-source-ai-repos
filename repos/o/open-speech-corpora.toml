@@ -1,0 +1,7 @@
+name = "open-speech-corpora"
+description = "A list of accessible speech corpora for ASR, TTS, and other Speech Technologies"
+category = "speech"
+tags = ["tts", "stt", "speech-to-text", "text-to-speech", "speech-recognition", "speech-synthesis", "speech-processing", "voice-recognition"]
+repository = "https://github.com/coqui-ai/open-speech-corpora"
+license = "MIT"
+added = 2026-10-20

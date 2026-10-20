@@ -1,0 +1,8 @@
+name = "playwright-skill"
+description = "General-purpose Playwright automation for coding agents"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "automations", "coding-agents", "developer-tool", "e2e-testing-tools", "playwright-automation", "playwright-tests"]
+repository = "https://github.com/lackeyjb/playwright-skill"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "MulimgViewer"
+description = "MulimgViewer is a multi-image viewer that can open multiple images in one interface, which is convenient for image comparison and image stitching."
+category = "vision"
+tags = ["image-stitching", "deep-learning", "viewer", "picture-viewer", "ubuntu", "windows10", "image-viewer", "multiple-images"]
+repository = "https://github.com/nachifur/MulimgViewer"
+website = "https://mulimgviewer.readthedocs.io/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

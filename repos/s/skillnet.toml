@@ -1,0 +1,9 @@
+name = "SkillNet"
+description = "Create, Evaluate, and Connect AI Skills"
+category = "agents"
+tags = ["ai-agents", "ai-skills", "artificial-intelligence", "knowledge-graph", "large-language-models", "natural-language-processing", "openkg", "skills"]
+repository = "https://github.com/zjunlp/SkillNet"
+website = "http://skillnet.openkg.cn/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

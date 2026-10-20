@@ -1,0 +1,8 @@
+name = "ai-native-engineering-manifesto"
+description = "A manifesto and playbook for AI-native software engineering in the LLM era / AI-Native的软件工程宣言"
+category = "coding"
+tags = ["agentic-coding", "ai-agents", "ai-coding", "ai-native", "best-practices", "claude-code", "context-engineering", "cursor"]
+repository = "https://github.com/Ge-limin/ai-native-engineering-manifesto"
+website = "https://liminge.space/manifesto"
+license = "CC-BY-4.0"
+added = 2026-10-20

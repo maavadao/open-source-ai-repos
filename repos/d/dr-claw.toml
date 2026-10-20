@@ -1,0 +1,9 @@
+name = "dr-claw"
+description = "A Super AI Lab with massive AI Doctors as Assistants. Best IDE for Research via AI Power."
+category = "coding"
+tags = ["ai-agents", "ai-scientist", "auto-research", "claude-code", "claude-science-desktop-alternative", "claude-science-free", "literature-review", "paper-writing"]
+repository = "https://github.com/OpenLAIR/dr-claw"
+website = "https://openlair.github.io/dr-claw/"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

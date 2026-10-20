@@ -1,0 +1,9 @@
+name = "learnhouse"
+description = "The Next-gen Open Source learning platform for everyone"
+category = "education"
+tags = ["education", "learning", "lms", "educational", "platforms", "python", "react", "api"]
+repository = "https://github.com/learnhouse/learnhouse"
+website = "https://learnhouse.app"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

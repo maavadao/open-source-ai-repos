@@ -1,0 +1,9 @@
+name = "Collaborative-Diffusion"
+description = "[CVPR 2023] Collaborative Diffusion"
+category = "image"
+tags = ["diffusion-models", "face-editing", "face-generation", "image-editing", "image-generation", "latent-diffusion-models", "multi-modality", "aigc"]
+repository = "https://github.com/ziqihuangg/Collaborative-Diffusion"
+website = "https://ziqihuangg.github.io/projects/collaborative-diffusion.html"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

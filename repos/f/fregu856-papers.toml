@@ -1,0 +1,8 @@
+name = "papers"
+description = "I categorize, annotate and write comments for all research papers I read (550+ papers since 2018)."
+category = "vision"
+tags = ["machine-learning", "deep-learning", "computer-vision", "papers"]
+repository = "https://github.com/fregu856/papers"
+website = "http://www.fregu856.com/"
+license = "NOASSERTION"
+added = 2026-10-20

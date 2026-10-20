@@ -1,0 +1,9 @@
+name = "codanna"
+description = "Local code intelligence MCP server and CLI for AI coding agents"
+category = "mcp-servers"
+tags = ["ai-agents", "call-graph-analysis", "code-indexing", "code-intelligence", "code-search", "coding-agents", "developer-tools-ai-agent", "local-first"]
+repository = "https://github.com/bartolli/codanna"
+website = "https://docs.codanna.sh/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "greptimedb"
+description = "The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage."
+category = "agents"
+tags = ["cloud-native", "rust", "metrics", "logs", "observability", "traces", "promql", "observability-database"]
+repository = "https://github.com/GreptimeTeam/greptimedb"
+website = "https://greptime.com/product/db"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

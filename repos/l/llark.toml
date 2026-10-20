@@ -1,0 +1,9 @@
+name = "llark"
+description = "Code for the paper \"LLark: A Multimodal Instruction-Following Language Model for Music\" by Josh Gardner, Simon Durand, Daniel Stoller, and Rachel Bittner."
+category = "models"
+tags = ["foundation-model", "multimodal", "music-information-retrieval"]
+repository = "https://github.com/spotify-research/llark"
+website = "https://storage.googleapis.com/music2text-public/index.html"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

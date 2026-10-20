@@ -1,0 +1,9 @@
+name = "GraspGen"
+description = "Official repo for GraspGen: A Diffusion-based Framework for 6-DOF Grasping"
+category = "robotics"
+tags = ["robotics"]
+repository = "https://github.com/NVlabs/GraspGen"
+website = "https://graspgen.github.io/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "openai-chat-api-workflow"
+description = "An Alfred 5 Workflow for using OpenAI Chat API to interact with GPT models It also allows image generation/editing/understanding , speech-to-text conversion , and text-to-speech synthesis"
+category = "no-code"
+tags = ["alfred", "openai", "workflow", "ai", "gpt", "dall-e", "image-generation", "speech-to-text"]
+repository = "https://github.com/yohasebe/openai-chat-api-workflow"
+website = "https://github.com/yohasebe/openai-text-completion-workflow"
+license = "MIT"
+language = "Ruby"
+added = 2026-10-20

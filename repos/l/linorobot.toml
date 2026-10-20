@@ -1,0 +1,9 @@
+name = "linorobot"
+description = "Autonomous ground robots (2WD, 4WD, Ackermann Steering, Mecanum Drive)"
+category = "robotics"
+tags = ["ros", "agv", "2wd", "4wd", "ackermann", "mecanum-wheel", "robotics", "autonomous-vehicles"]
+repository = "https://github.com/linorobot/linorobot"
+website = "http://linorobot.org"
+license = "BSD-2-Clause"
+language = "C++"
+added = 2026-10-20

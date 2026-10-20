@@ -1,0 +1,8 @@
+name = "awesome-cursorrules"
+description = "Configuration files that enhance Cursor AI editor experience with custom rules and behaviors"
+category = "learning"
+tags = ["awesome", "awesome-list", "cursor", "cursor-ai-editor", "cursorrules"]
+repository = "https://github.com/PatrickJS/awesome-cursorrules"
+license = "CC0-1.0"
+language = "JavaScript"
+added = 2026-10-20

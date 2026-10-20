@@ -1,0 +1,9 @@
+name = "auto_ml"
+description = "[UNMAINTAINED] Automated machine learning for analytics & production"
+category = "ml-platforms"
+tags = ["machine-learning", "data-science", "automated-machine-learning", "gradient-boosting", "scikit-learn", "python", "machine-learning-pipelines", "machine-learning-library"]
+repository = "https://github.com/ClimbsRocks/auto_ml"
+website = "http://auto-ml.readthedocs.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

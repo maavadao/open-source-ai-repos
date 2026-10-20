@@ -1,0 +1,9 @@
+name = "syncode"
+description = "Efficient and general syntactical decoding for Large Language Models"
+category = "local-llms"
+tags = ["large-language-models", "llm-inference", "parser", "llm", "grammar"]
+repository = "https://github.com/structuredllm/syncode"
+website = "https://structuredllm.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

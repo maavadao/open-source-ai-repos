@@ -1,0 +1,9 @@
+name = "Atomic-Chat"
+description = "Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/invite/8wGSsvmg4V"
+category = "mcp-servers"
+tags = ["ai-chat", "ai-tools", "apple-silicon", "chatgpt", "deepseek", "desktop-app", "gemma", "gguf"]
+repository = "https://github.com/AtomicBot-ai/Atomic-Chat"
+website = "https://atomic.chat"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

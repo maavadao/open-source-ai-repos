@@ -1,0 +1,9 @@
+name = "agent-skills-hub"
+description = "Discover and compare open-source Agent Skills, tools & MCP servers — with quality scoring, trending analysis, and automated GitHub sync"
+category = "mcp-servers"
+tags = ["agent-skills", "ai-agents", "ai-security", "claude", "claude-code", "directory", "mcp", "mcp-servers"]
+repository = "https://github.com/zhuyansen/agent-skills-hub"
+website = "https://agentskillshub.top"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

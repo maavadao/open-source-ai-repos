@@ -1,0 +1,9 @@
+name = "Machine-Learning-Collection"
+description = "A resource for learning about Machine learning & Deep Learning"
+category = "learning"
+tags = ["pytorch", "pytorch-implementation", "pytorch-tutorial", "pytorch-gan", "pytorch-examples", "tensorflow2", "tensorflow-tutorials", "tensorflow-examples"]
+repository = "https://github.com/aladdinpersson/Machine-Learning-Collection"
+website = "https://www.youtube.com/c/AladdinPersson"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

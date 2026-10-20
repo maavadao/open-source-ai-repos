@@ -1,0 +1,9 @@
+name = "model-based-diffusion"
+description = "Official implementation for the paper \"Model-based Diffusion for Trajectory Optimization\". Model-based diffusion (MBD) is a novel diffusion-based trajectory optimization framework that employs a dynamics model to run the reverse denoising process to generate high-quality…"
+category = "image"
+tags = ["control", "diffusion", "diffusion-models", "optimization", "planning", "rl", "sampling-methods", "trajectory"]
+repository = "https://github.com/LeCAR-Lab/model-based-diffusion"
+website = "https://lecar-lab.github.io/mbd/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

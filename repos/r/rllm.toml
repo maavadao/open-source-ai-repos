@@ -1,0 +1,9 @@
+name = "rllm"
+description = "Democratizing Reinforcement Learning for LLMs"
+category = "agents"
+tags = ["agent-framework", "agentic-workflow", "distributed-training", "llm-training", "machine-learning", "ml-infrastructure", "ml-platform", "reinforcement-learning"]
+repository = "https://github.com/rllm-org/rllm"
+website = "https://docs.rllm-project.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

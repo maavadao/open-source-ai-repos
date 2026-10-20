@@ -1,0 +1,8 @@
+name = "youwee"
+description = "A beautiful, cross-platform downloader for YouTube, TikTok, Instagram, and 1800+ sites (yt-dlp GUI) with AI video summaries and post-processing"
+category = "agents"
+tags = ["open-source", "react", "tauri", "youtube-dl", "yt-dlp", "yt-dlp-gui", "llm", "summary-video"]
+repository = "https://github.com/vanloctech/youwee"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

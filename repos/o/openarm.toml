@@ -1,0 +1,9 @@
+name = "openarm"
+description = "A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments."
+category = "robotics"
+tags = ["bilateral-teleoperation", "genesis", "humanoid-robot", "imitation-learning", "machine-learning", "open-source", "python", "reinforcement-learning"]
+repository = "https://github.com/enactic/openarm"
+website = "https://openarm.dev"
+license = "Apache-2.0"
+language = "MDX"
+added = 2026-10-20

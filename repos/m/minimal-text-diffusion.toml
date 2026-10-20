@@ -1,0 +1,8 @@
+name = "minimal-text-diffusion"
+description = "A minimal implementation of diffusion models for text generation"
+category = "image"
+tags = ["diffusion-models", "text-generation", "ddpm", "generative-model"]
+repository = "https://github.com/madaan/minimal-text-diffusion"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

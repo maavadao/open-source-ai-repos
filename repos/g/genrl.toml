@@ -1,0 +1,9 @@
+name = "genrl"
+description = "A PyTorch reinforcement learning library for generalizable and reproducible algorithm implementations with an aim to improve accessibility in RL"
+category = "ml-platforms"
+tags = ["reinforcement-learning-algorithms", "reinforcement-learning", "machine-learning", "gym", "openai", "python", "data-science", "pytorch"]
+repository = "https://github.com/SforAiDl/genrl"
+website = "https://genrl.readthedocs.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

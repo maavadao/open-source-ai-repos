@@ -1,0 +1,9 @@
+name = "OpenCat-Old"
+description = "A programmable and highly maneuverable robotic cat for STEM education and AI-enhanced services."
+category = "robotics"
+tags = ["ai-robotics", "arduino", "iot", "legged-locomotion", "legged-robotics", "legged-robots", "physical-ai", "quadruped-robot"]
+repository = "https://github.com/PetoiCamp/OpenCat-Old"
+website = "https://www.petoi.com"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

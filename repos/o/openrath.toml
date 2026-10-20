@@ -1,0 +1,9 @@
+name = "OpenRath"
+description = "An open-source, PyTorch-like runtime for dynamic multi-agent and multi-session workflows."
+category = "mcp-servers"
+tags = ["agent-framework", "agentic-ai", "ai-agents", "anthropic", "llm", "memory", "model-context-protocol", "multi-agent"]
+repository = "https://github.com/Rath-Team/OpenRath"
+website = "https://www.openrath.com/"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

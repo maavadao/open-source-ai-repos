@@ -1,0 +1,9 @@
+name = "score_sde"
+description = "Official code for Score-Based Generative Modeling through Stochastic Differential Equations (ICLR 2021, Oral)"
+category = "image"
+tags = ["score-matching", "stochastic-differential-equations", "generative-models", "score-based-generative-modeling", "controllable-generation", "inverse-problems", "jax", "flax"]
+repository = "https://github.com/yang-song/score_sde"
+website = "https://arxiv.org/abs/2011.13456"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

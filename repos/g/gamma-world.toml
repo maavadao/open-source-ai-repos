@@ -1,0 +1,9 @@
+name = "Gamma-World"
+description = "Implementation of Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players"
+category = "image"
+tags = ["aigc", "multi-agent", "robotics", "video-game", "worldmodel"]
+repository = "https://github.com/nv-tlabs/Gamma-World"
+website = "https://research.nvidia.com/labs/sil/projects/gamma-world/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

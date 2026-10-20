@@ -1,0 +1,8 @@
+name = "dice"
+description = "Digital Image Correlation Engine (DICe): a stereo DIC application that runs on Mac, Windows, and Linux"
+category = "vision"
+tags = ["digital-images", "algorithm", "correlation", "tracking", "computer-vision", "modelling", "stereo-dic", "dic"]
+repository = "https://github.com/dicengine/dice"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

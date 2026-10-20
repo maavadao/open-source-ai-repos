@@ -1,0 +1,9 @@
+name = "chameleon-llm"
+description = "Codes for \"Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models\"."
+category = "chat"
+tags = ["python", "ai", "chatgpt", "gpt-4", "llm", "openai", "tool"]
+repository = "https://github.com/lupantech/chameleon-llm"
+website = "https://chameleon-llm.github.io"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

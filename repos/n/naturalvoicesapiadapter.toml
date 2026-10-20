@@ -1,0 +1,8 @@
+name = "NaturalVoiceSAPIAdapter"
+description = "Make Azure natural TTS voices accessible to any SAPI 5-compatible application."
+category = "speech"
+tags = ["microsoft-tts", "sapi5", "text-to-speech", "tts", "tts-engine", "microsoft-cognitive-services", "speech-synthesis", "natural-voice"]
+repository = "https://github.com/gexgd0419/NaturalVoiceSAPIAdapter"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

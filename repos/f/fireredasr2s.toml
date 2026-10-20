@@ -1,0 +1,8 @@
+name = "FireRedASR2S"
+description = "A SOTA Industrial-Grade All-in-One ASR system with ASR, VAD, LID, and Punc modules. FireRedASR2 supports Chinese (Mandarin, 20+ dialects/accents), English, code-switching, and both speech and singing ASR. FireRedVAD supports speech/singing/music in 100+ langs. FireRedLID…"
+category = "speech"
+tags = ["asr", "automatic-speech-recognition", "industrial-grade", "llm", "multimodal-llm", "open-source", "sota", "speech-recognition"]
+repository = "https://github.com/FireRedTeam/FireRedASR2S"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

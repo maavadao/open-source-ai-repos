@@ -1,0 +1,9 @@
+name = "opa"
+description = "Open Policy Agent (OPA) is an open source, general-purpose policy engine."
+category = "agents"
+tags = ["opa", "policy", "declarative", "json", "compliance", "cloud-native", "authorization", "open-policy-agent"]
+repository = "https://github.com/open-policy-agent/opa"
+website = "https://www.openpolicyagent.org"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

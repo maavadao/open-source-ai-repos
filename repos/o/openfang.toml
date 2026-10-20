@@ -1,0 +1,9 @@
+name = "openfang"
+description = "Open-source Agent Operating System"
+category = "mcp-servers"
+tags = ["agent-framework", "ai-agents", "llm", "mcp", "open-source", "openclaw", "operating-system", "rust"]
+repository = "https://github.com/RightNow-AI/openfang"
+website = "https://www.openfang.sh/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

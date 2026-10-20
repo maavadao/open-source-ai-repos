@@ -1,0 +1,8 @@
+name = "MedLLMsPracticalGuide"
+description = "[Nature Reviews Bioengineering] Application of Large Language Models in Medicine. A curated list of practical guide resources of Medical LLMs (Medical LLMs Tree, Tables, and Papers)"
+category = "learning"
+tags = ["ai-in-medicine", "clinical-ai", "large-language-models", "survey", "medical-large-language-models"]
+repository = "https://github.com/AI-in-Health/MedLLMsPracticalGuide"
+website = "https://arxiv.org/abs/2311.05112"
+license = "MIT"
+added = 2026-10-20

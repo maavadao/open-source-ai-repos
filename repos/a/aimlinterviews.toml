@@ -1,0 +1,9 @@
+name = "AIMLInterviews"
+description = "A Comprehensive Guide for Generative AI, Agentic AI, Multimodal AI, Physical AI Interviews. Proven Formula for multiple FAANG offers and more"
+category = "learning"
+tags = ["machine-learning", "machine-learning-algorithms", "ai", "deep-learning", "system-design", "scalable-applications", "interview", "interview-preparation"]
+repository = "https://github.com/alirezadir/AIMLInterviews"
+website = "https://www.aimlinterviews.io/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

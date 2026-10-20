@@ -1,0 +1,8 @@
+name = "unprompted"
+description = "Templating language written for Stable Diffusion workflows. Available as an extension for the Automatic1111 WebUI."
+category = "image"
+tags = ["a1111-stable-diffusion-webui", "ai-art", "deep-learning", "gradio", "img2img", "python", "stable-diffusion", "template-engine"]
+repository = "https://github.com/ThereforeGames/unprompted"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

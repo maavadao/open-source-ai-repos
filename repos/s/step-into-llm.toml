@@ -1,0 +1,8 @@
+name = "step_into_llm"
+description = "MindSpore online courses: Step into LLM"
+category = "learning"
+tags = ["llm", "natural-language-processing", "nlp", "large-language-models", "mindspore", "bert", "chatgpt", "codegeex"]
+repository = "https://github.com/candle-org/step_into_llm"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

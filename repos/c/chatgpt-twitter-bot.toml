@@ -1,0 +1,9 @@
+name = "chatgpt-twitter-bot"
+description = "Twitter bot powered by OpenAI's ChatGPT API. It's aliveeeee"
+category = "chat"
+tags = ["bots", "chatbot", "chatgpt", "openai", "twitter"]
+repository = "https://github.com/transitive-bullshit/chatgpt-twitter-bot"
+website = "https://twitter.com/ChatGPTBot"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

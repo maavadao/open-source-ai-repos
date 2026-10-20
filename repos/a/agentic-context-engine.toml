@@ -1,0 +1,9 @@
+name = "agentic-context-engine"
+description = "Make your agents learn from experience. Now available as a hosted solution at kayba.ai"
+category = "agents"
+tags = ["ai-agents", "ai-tools", "context-engineering", "llm", "python", "agent-memory", "agents", "ai"]
+repository = "https://github.com/kayba-ai/agentic-context-engine"
+website = "https://www.kayba.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

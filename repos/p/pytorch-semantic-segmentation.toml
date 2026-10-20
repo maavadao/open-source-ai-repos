@@ -1,0 +1,8 @@
+name = "pytorch-semantic-segmentation"
+description = "PyTorch for Semantic Segmentation"
+category = "vision"
+tags = ["semantic-segmentation", "deep-learning", "fully-convolutional-networks", "pytorch"]
+repository = "https://github.com/zijundeng/pytorch-semantic-segmentation"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

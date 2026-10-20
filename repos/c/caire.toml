@@ -1,0 +1,8 @@
+name = "caire"
+description = "Content aware image resize library"
+category = "vision"
+tags = ["seam-carving", "image-processing", "image-resize", "edge-detection", "golang", "face-detection", "computer-vision", "machine-learning"]
+repository = "https://github.com/esimov/caire"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

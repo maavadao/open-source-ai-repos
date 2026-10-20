@@ -1,0 +1,9 @@
+name = "PNDM"
+description = "The official implementation for Pseudo Numerical Methods for Diffusion Models on Manifolds (PNDM, PLMS | ICLR2022)"
+category = "image"
+tags = ["diffusion-models", "numerical-methods", "generative-models", "pytorch"]
+repository = "https://github.com/luping-liu/PNDM"
+website = "https://arxiv.org/abs/2202.09778"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

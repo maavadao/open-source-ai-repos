@@ -1,0 +1,9 @@
+name = "OpenMMLabCourse"
+description = "OpenMMLab course index and stuff"
+category = "learning"
+tags = ["computer-vision", "tutorials"]
+repository = "https://github.com/open-mmlab/OpenMMLabCourse"
+website = "https://open-mmlab.github.io/OpenMMLabCourse/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

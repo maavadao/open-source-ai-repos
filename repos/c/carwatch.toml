@@ -1,0 +1,9 @@
+name = "CarWatch"
+description = "Your car as a chat-room agent: Raspberry Pi 5 + dashcam + local AI. CodeWatch's sibling for the garage."
+category = "speech"
+tags = ["agents", "automotive", "edge-ai", "llama-cpp", "llm", "offline-ai", "qwen", "raspberry-pi"]
+repository = "https://github.com/ThinkOffApp/CarWatch"
+website = "https://carwatch.dev"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

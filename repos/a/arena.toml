@@ -1,0 +1,9 @@
+name = "arena"
+description = "DIAMBRA Arena: a New Reinforcement Learning Platform for Research and Experimentation"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "deep-reinforcement-learning", "video-games", "artificial-intelligence", "machine-learning", "deep-learning", "esports", "tournaments"]
+repository = "https://github.com/diambra/arena"
+website = "https://docs.diambra.ai"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

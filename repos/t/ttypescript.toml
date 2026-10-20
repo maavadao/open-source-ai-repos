@@ -1,0 +1,8 @@
+name = "ttypescript"
+description = "Over TypeScript tool to use custom transformers in the tsconfig.json"
+category = "models"
+tags = ["transformers", "typescript", "custom-transformer", "transformer-typescript"]
+repository = "https://github.com/cevek/ttypescript"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

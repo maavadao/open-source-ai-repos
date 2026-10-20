@@ -1,0 +1,9 @@
+name = "deja-vu"
+description = "Coding agent memory for Claude Code, Codex, Cursor and 39 more, built from the session history already on your disk. Local search, MCP and hooks, no LLM, one Go binary."
+category = "mcp-servers"
+tags = ["claude-code", "codex", "mcp", "opencode", "agent-memory", "coding-agents", "mcp-server", "claude-code-hooks"]
+repository = "https://github.com/vshulcz/deja-vu"
+website = "https://vshulcz.github.io/deja-vu/"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Controllable-RAG-Agent"
+description = "This repository provides an advanced Retrieval-Augmented Generation (RAG) solution for complex question answering. It uses sophisticated graph based algorithm to handle the tasks."
+category = "agents"
+tags = ["advanced-rag", "agent", "llm", "rag", "langchain", "langgraph", "openai", "python"]
+repository = "https://github.com/NirDiamant/Controllable-RAG-Agent"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

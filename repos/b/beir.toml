@@ -1,0 +1,9 @@
+name = "beir"
+description = "A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15+ diverse IR datasets."
+category = "llm-apps"
+tags = ["nlp", "information-retrieval", "bert", "benchmark", "sentence-transformers", "question-generation", "retrieval", "passage-retrieval"]
+repository = "https://github.com/beir-cellar/beir"
+website = "http://beir.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

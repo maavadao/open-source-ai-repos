@@ -1,0 +1,8 @@
+name = "memora"
+description = "Give your AI agents persistent, collective memory — with deduplicating absorb, supersession lineage, semantic search, and a graph UI. Speaks MCP."
+category = "mcp-servers"
+tags = ["ai-agent", "claude", "knowledge-graph", "llms", "mcp", "mcp-server", "memory", "rag"]
+repository = "https://github.com/agentic-box/memora"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

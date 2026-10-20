@@ -1,0 +1,9 @@
+name = "FCOS"
+description = "FCOS: Fully Convolutional One-Stage Object Detection (ICCV'19)"
+category = "vision"
+tags = ["fcos", "object-detection", "one-stage", "anchor-free", "pytorch", "computer-vision", "iccv2019"]
+repository = "https://github.com/tianzhi0549/FCOS"
+website = "https://arxiv.org/abs/1904.01355"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "magentic"
+description = "Seamlessly integrate LLMs as Python functions"
+category = "chat"
+tags = ["agent", "ai", "chatbot", "chatgpt", "gpt", "llm", "openai", "openai-api"]
+repository = "https://github.com/jackmpcollins/magentic"
+website = "https://magentic.dev/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

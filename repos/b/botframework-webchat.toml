@@ -1,0 +1,9 @@
+name = "BotFramework-WebChat"
+description = "A highly-customizable web-based client for Azure Bot Services."
+category = "chat"
+tags = ["bot-framework", "adaptive-cards", "azure-bot-services", "chat", "conversational-ui", "conversational-ai", "bot", "chatbot"]
+repository = "https://github.com/microsoft/BotFramework-WebChat"
+website = "https://www.botframework.com/"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "iPolloWork"
+description = "Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-agent projects and tasks, and editable code, documents, presentations, design…"
+category = "mcp-servers"
+tags = ["ai-agents", "opencode", "deepseek-harness", "dsh-plugin", "visual-editor", "agent-skills", "claude-code", "codex"]
+repository = "https://github.com/Devin-AXIS/iPolloWork"
+website = "https://www.ipollo.ai/"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

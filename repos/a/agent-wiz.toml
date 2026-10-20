@@ -1,0 +1,9 @@
+name = "Agent-Wiz"
+description = "A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more."
+category = "no-code"
+tags = ["agent", "agentic-ai", "ai", "ai-agents", "autogen", "crewai", "langraph", "llama-index"]
+repository = "https://github.com/Repello-AI/Agent-Wiz"
+website = "https://repello.ai/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

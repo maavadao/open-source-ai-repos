@@ -1,0 +1,8 @@
+name = "command-code"
+description = "Command Code AI — the best coding agent for open models."
+category = "agents"
+tags = ["ai", "ai-agent", "anthropic", "cli", "coding-agent", "command-code", "command-line", "command-line-tool"]
+repository = "https://github.com/CommandCodeAI/command-code"
+website = "https://commandcode.ai"
+license = "NOASSERTION"
+added = 2026-10-20

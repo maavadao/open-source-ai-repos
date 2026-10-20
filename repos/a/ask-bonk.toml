@@ -1,0 +1,8 @@
+name = "ask-bonk"
+description = "Bonk is a code & docs agent that can build, review and triage for you, built on Cloudflare Workers & OpenCode."
+category = "coding"
+tags = ["agents", "bonk", "cloudflare", "code-review", "opencode", "sandbox-sdk", "workers"]
+repository = "https://github.com/Cloudflare-Studio/ask-bonk"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

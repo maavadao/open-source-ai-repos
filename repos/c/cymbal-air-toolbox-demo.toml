@@ -1,0 +1,9 @@
+name = "cymbal-air-toolbox-demo"
+description = "Demo of a customer service agent (Cymbal Air) using LangGraph, Tools, and RAG to interact with Google Cloud Databases via MCP Toolbox."
+category = "mcp-servers"
+tags = ["agent", "agents", "ai", "alloydb", "bigquery", "databases", "genai", "google-cloud-ai"]
+repository = "https://github.com/GoogleCloudPlatform/cymbal-air-toolbox-demo"
+website = "https://github.com/googleapis/genai-toolbox/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "DynamicViT"
+description = "[NeurIPS 2021] [T-PAMI] DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification"
+category = "vision"
+tags = ["vision-transformers", "image-classification", "computer-vision", "deep-learning"]
+repository = "https://github.com/raoyongming/DynamicViT"
+website = "https://dynamicvit.ivg-research.xyz/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

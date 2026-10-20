@@ -1,0 +1,8 @@
+name = "bonito"
+description = "A lightweight library for generating synthetic instruction tuning datasets for your data without GPT."
+category = "models"
+tags = ["llm", "synthetic-data", "synthetic-dataset-generation", "zero-shot-learning", "domain-adaptation", "gpt", "task-adaptation"]
+repository = "https://github.com/BatsResearch/bonito"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,6 @@
+name = "generative_agents"
+description = "Generative Agents: Interactive Simulacra of Human Behavior"
+category = "agents"
+repository = "https://github.com/joonspk-research/generative_agents"
+license = "Apache-2.0"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "hatchet"
+description = "An orchestration engine for background tasks, AI agents, and durable workflows"
+category = "agents"
+tags = ["event-driven", "golang", "workflow-engine", "distributed", "distributed-systems", "fastapi", "nodejs", "python"]
+repository = "https://github.com/hatchet-dev/hatchet"
+website = "https://hatchet.run"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

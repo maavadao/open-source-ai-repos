@@ -1,0 +1,9 @@
+name = "dialogflow-web-v2"
+description = "Dialogflow Web Integration. Supports rich components"
+category = "chat"
+tags = ["dialogflow", "nlp", "ui", "vue", "javascript", "dialogflow-v2", "dark-theme", "chatbot"]
+repository = "https://github.com/mishushakov/dialogflow-web-v2"
+website = "https://mishushakov.github.io/dialogflow-web-v2/"
+license = "GPL-3.0"
+language = "Vue"
+added = 2026-10-20

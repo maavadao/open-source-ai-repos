@@ -1,0 +1,8 @@
+name = "Personae"
+description = "Personae is a repo of implements and environment of Deep Reinforcement Learning & Supervised Learning for Quantitative Trading."
+category = "ml-platforms"
+tags = ["reinforcement-learning", "supervised-learning", "stock-data", "trading", "paper", "stock", "time-series-prediction", "stock-price-prediction"]
+repository = "https://github.com/Ceruleanacg/Personae"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

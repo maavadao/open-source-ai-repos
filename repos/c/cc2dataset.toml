@@ -1,0 +1,8 @@
+name = "cc2dataset"
+description = "Easily convert common crawl to a dataset of caption and document. Image/text Audio/text Video/text, ..."
+category = "models"
+tags = ["big-data", "dataset", "multimodal"]
+repository = "https://github.com/rom1504/cc2dataset"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

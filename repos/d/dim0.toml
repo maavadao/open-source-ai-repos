@@ -1,0 +1,9 @@
+name = "dim0"
+description = "Open-source, real-time collaborative AI canvas - notes, mini-apps, and agents on one infinite board."
+category = "agents"
+tags = ["ai-agent", "canvas", "infinite-canvas", "knowledge-graph", "mindmap", "note-taking", "productivity", "qdrant"]
+repository = "https://github.com/vcmf/dim0"
+website = "https://dim0.net"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

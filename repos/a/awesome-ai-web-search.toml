@@ -1,0 +1,9 @@
+name = "awesome-ai-web-search"
+description = "List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search"
+category = "learning"
+tags = ["ai", "ai-search-engine", "artificial-intelligence", "artificial-intelligence-projects", "awesome", "awesome-list", "generative-ai", "generative-ai-projects"]
+repository = "https://github.com/felladrin/awesome-ai-web-search"
+website = "https://hf.co/spaces/felladrin/awesome-ai-web-search"
+license = "CC0-1.0"
+language = "HTML"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "gen-cv"
+description = "Vision AI Solution Accelerator"
+category = "image"
+tags = ["azure-computer-vision", "embeddings", "florence", "foundation-models", "image-search", "stable-diffusion", "cognitive-search-vector-store", "generative-computer-vision"]
+repository = "https://github.com/Azure/gen-cv"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

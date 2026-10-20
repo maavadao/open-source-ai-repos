@@ -1,0 +1,9 @@
+name = "NEWTON"
+description = "NEWTON: Agentic Planning for Physically Grounded Video Generation"
+category = "video"
+tags = ["agentic-ai", "ai-agents", "aigc", "computer-vision", "diffusion-models", "grpo", "llm-agent", "multimodal"]
+repository = "https://github.com/CUTEPKQ/NEWTON"
+website = "https://newton026.github.io/newton/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

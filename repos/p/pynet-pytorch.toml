@@ -1,0 +1,9 @@
+name = "PyNET-PyTorch"
+description = "Generating RGB photos from RAW image files with PyNET (PyTorch)"
+category = "vision"
+tags = ["pynet", "pytorch-implementation", "image-enhancement", "image-processing", "image-reconstruction", "deep-learning", "raw-to-rgb", "computer-vision"]
+repository = "https://github.com/aiff22/PyNET-PyTorch"
+website = "http://www.vision.ee.ethz.ch/~ihnatova/pynet.html"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

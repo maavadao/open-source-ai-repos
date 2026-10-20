@@ -1,0 +1,9 @@
+name = "pykeen"
+description = "A Python library for learning and evaluating knowledge graph embeddings"
+category = "ml-platforms"
+tags = ["knowledge-graph-embeddings", "knowledge-graphs", "machine-learning", "link-prediction", "knowledge-base-completion", "pykeen", "deep-learning", "cuda"]
+repository = "https://github.com/pykeen/pykeen"
+website = "https://pykeen.readthedocs.io/en/stable/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

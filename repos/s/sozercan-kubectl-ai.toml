@@ -1,0 +1,8 @@
+name = "kubectl-ai"
+description = "Kubectl plugin to create manifests with LLMs"
+category = "chat"
+tags = ["kubernetes", "openai", "chatgpt", "kubectl-plugins", "gpt-4", "hacktoberfest", "ai", "kubectl"]
+repository = "https://github.com/sozercan/kubectl-ai"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "SEED"
+description = "Official implementation of SEED-LLaMA (ICLR 2024)."
+category = "models"
+tags = ["foundation-model", "multimodal", "vision-language"]
+repository = "https://github.com/AILab-CVC/SEED"
+website = "https://ailab-cvc.github.io/seed"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

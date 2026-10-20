@@ -1,0 +1,8 @@
+name = "scene-card-studio"
+description = "AI visual director for turning personal photos into structured, editable visual narratives."
+category = "image"
+tags = ["ai-tools", "codex-skill", "generative-ai", "image-generation", "visual-storytelling", "photo-narrative"]
+repository = "https://github.com/swping999/scene-card-studio"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

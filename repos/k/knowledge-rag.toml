@@ -1,0 +1,9 @@
+name = "knowledge-rag"
+description = "Local RAG MCP server for Claude Code — hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format parsers. Zero external servers, zero API keys."
+category = "mcp-servers"
+tags = ["claude", "claude-code", "local-ai", "mcp", "rag", "retrieval-augmented-generation", "semantic-search", "vector-database"]
+repository = "https://github.com/lyonzin/knowledge-rag"
+website = "https://pypi.org/project/knowledge-rag/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

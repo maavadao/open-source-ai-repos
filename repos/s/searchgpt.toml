@@ -1,0 +1,8 @@
+name = "searchGPT"
+description = "Grounded search engine (i.e. with source reference) based on LLM / ChatGPT / OpenAI API. It supports web search, file content search etc."
+category = "chat"
+tags = ["chatgpt", "grounded-api", "grounded-bot", "llm", "nlp", "nlp-machine-learning", "openai", "python"]
+repository = "https://github.com/michaelthwan/searchGPT"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

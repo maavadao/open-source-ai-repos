@@ -1,0 +1,9 @@
+name = "MemoryVLA"
+description = "[ICLR 2026] Code of \"MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation\""
+category = "robotics"
+tags = ["memory", "robotics", "vla"]
+repository = "https://github.com/shihao1895/MemoryVLA"
+website = "https://shihao1895.github.io/MemoryVLA/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

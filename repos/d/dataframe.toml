@@ -1,0 +1,9 @@
+name = "DataFrame"
+description = "C++ DataFrame for statistical, financial, and ML analysis in modern C++"
+category = "data-science"
+tags = ["numerical-analysis", "dataframe", "data-analysis", "multidimensional-data", "cpp", "large-data", "statistical-analysis", "financial-data-analysis"]
+repository = "https://github.com/hosseinmoein/DataFrame"
+website = "https://hosseinmoein.github.io/DataFrame/"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

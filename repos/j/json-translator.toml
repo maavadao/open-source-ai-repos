@@ -1,0 +1,9 @@
+name = "json-translator"
+description = "jsontt - AI JSON Translator with GPT / Gemma / Mixtral / llama + other FREE translation modules to translate your json/yaml files into other languages Check Readme Supports GPT / Gemma / Mixtral / llama / DeepL / Google / Bing / Libre / Argos"
+category = "models"
+tags = ["json", "translate-api", "translate", "json-translate", "google-translate-api", "free-json-translate", "translation", "language"]
+repository = "https://github.com/mololab/json-translator"
+website = "https://www.npmjs.com/package/@parvineyvazov/json-translator"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

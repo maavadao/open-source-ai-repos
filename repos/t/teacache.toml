@@ -1,0 +1,9 @@
+name = "TeaCache"
+description = "Timestep Embedding Tells: It's Time to Cache for Video Diffusion Model"
+category = "video"
+tags = ["diffusion-models", "inference-acceleration", "video-generation", "cogvideox", "hunyuan-video", "latte", "open-sora", "open-sora-plan"]
+repository = "https://github.com/ali-vilab/TeaCache"
+website = "https://liewfeng.github.io/TeaCache/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

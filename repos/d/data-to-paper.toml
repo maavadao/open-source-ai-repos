@@ -1,0 +1,8 @@
+name = "data-to-paper"
+description = "data-to-paper: Backward-traceable AI-driven scientific research"
+category = "agents"
+tags = ["agents", "ai", "autonomous-agents", "interactive-machine-learning", "llm", "scientific-research"]
+repository = "https://github.com/Technion-Kishony-lab/data-to-paper"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

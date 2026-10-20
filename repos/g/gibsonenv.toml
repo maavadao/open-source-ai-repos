@@ -1,0 +1,9 @@
+name = "GibsonEnv"
+description = "Gibson Environments: Real-World Perception for Embodied Agents"
+category = "robotics"
+tags = ["computer-vision", "robotics", "simulator", "sim2real", "deep-learning", "deep-reinforcement-learning", "research", "ros"]
+repository = "https://github.com/StanfordVL/GibsonEnv"
+website = "http://gibsonenv.stanford.edu/"
+license = "MIT"
+language = "C"
+added = 2026-10-20

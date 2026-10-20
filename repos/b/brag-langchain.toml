@@ -1,0 +1,9 @@
+name = "bRAG-langchain"
+description = "Everything you need to know to build your own RAG application"
+category = "chat"
+tags = ["agentic-rag", "chatbot", "llm", "machine-learning", "python", "rag", "ai", "retrieval-augmented-generation"]
+repository = "https://github.com/bragai/bRAG-langchain"
+website = "https://bragai.dev"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "DataAug4NLP"
+description = "Collection of papers and resources for data augmentation for NLP."
+category = "models"
+tags = ["data-augmentation", "text-classification", "acl2021", "natural-language-processing", "machine-learning", "artificial-intelligence", "deep-learning", "survey"]
+repository = "https://github.com/styfeng/DataAug4NLP"
+website = "https://arxiv.org/abs/2105.03075"
+license = "NOASSERTION"
+added = 2026-10-20

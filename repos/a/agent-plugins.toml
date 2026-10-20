@@ -1,0 +1,8 @@
+name = "agent-plugins"
+description = "Agent Plugins for AWS equip AI coding agents with the skills to help you architect, deploy, and operate on AWS."
+category = "skills-prompts"
+tags = ["agent-skills", "agents", "coding-agent-skills", "coding-agents", "agent-plugins", "aws"]
+repository = "https://github.com/awslabs/agent-plugins"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

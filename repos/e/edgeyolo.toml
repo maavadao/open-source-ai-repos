@@ -1,0 +1,8 @@
+name = "edgeyolo"
+description = "an edge-real-time anchor-free object detector with decent performance"
+category = "vision"
+tags = ["anchor-free", "computer-vision", "object-detector", "deep-learning", "edge-computing", "object-detection", "onnx", "yolo"]
+repository = "https://github.com/LSH9832/edgeyolo"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

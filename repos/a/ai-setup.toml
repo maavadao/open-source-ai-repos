@@ -1,0 +1,9 @@
+name = "ai-setup"
+description = "Continuously sync your AI setups with one command. Codebase tailor suited agent skills, MCPs and config files for Claude Code, Cursor, and Codex."
+category = "mcp-servers"
+tags = ["agent-config", "ai-agents", "anthropic", "claude-code", "claude-md", "cli", "cursor", "cursorrules"]
+repository = "https://github.com/caliber-ai-org/ai-setup"
+website = "https://trycaliber.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

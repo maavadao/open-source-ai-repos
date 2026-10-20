@@ -1,0 +1,9 @@
+name = "workshop"
+description = "Give your coding agent the power to write and run agent evals."
+category = "models"
+tags = ["llm", "raindrop", "tracing"]
+repository = "https://github.com/raindrop-ai/workshop"
+website = "https://www.raindrop.ai/workshop/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

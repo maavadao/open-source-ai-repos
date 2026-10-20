@@ -1,0 +1,9 @@
+name = "tersa"
+description = "Tersa is an open source canvas for building AI workflows."
+category = "other"
+tags = ["ai", "aisdk", "anthropic", "canvas", "openai"]
+repository = "https://github.com/vercel-labs/tersa"
+website = "https://tersa-phi.vercel.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

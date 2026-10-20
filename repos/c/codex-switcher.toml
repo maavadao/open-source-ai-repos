@@ -1,0 +1,8 @@
+name = "codex-switcher"
+description = "A Desktop Application for Managing Multiple OpenAI Codex CLI Accounts"
+category = "coding"
+tags = ["codex", "openai", "tauri", "vibe", "vibe-coding", "agent", "openai-codex"]
+repository = "https://github.com/Lampese/codex-switcher"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

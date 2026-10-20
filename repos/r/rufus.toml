@@ -1,0 +1,9 @@
+name = "rufus"
+description = "The Reliable USB Formatting Utility"
+category = "models"
+tags = ["usb", "iso", "bootable-drives", "mbr", "uefi", "bios", "boot", "windows"]
+repository = "https://github.com/pbatard/rufus"
+website = "https://rufus.ie"
+license = "GPL-3.0"
+language = "C"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "slacker"
+description = "Slack Bot Framework"
+category = "chat"
+tags = ["slack", "slack-bot", "slackbot", "slackapi", "slack-api", "slack-commands", "bot", "bot-framework"]
+repository = "https://github.com/shomali11/slacker"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "plate"
+description = "Rich-text editor with AI and shadcn/ui"
+category = "mcp-servers"
+tags = ["slate", "wysiwyg", "react", "typescript", "ai", "shadcn-ui", "mcp"]
+repository = "https://github.com/udecode/plate"
+website = "https://platejs.org"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

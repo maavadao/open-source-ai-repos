@@ -1,0 +1,9 @@
+name = "stable-diffusion-multi-user"
+description = "stable diffusion multi-user django server code with multi-GPU load balancing"
+category = "image"
+tags = ["aigc", "stable-diffusion", "stable-diffusion-api"]
+repository = "https://github.com/wolverinn/stable-diffusion-multi-user"
+website = "https://image.stable-ai.tech/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

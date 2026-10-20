@@ -1,0 +1,9 @@
+name = "recastnavigation"
+description = "Industry-standard navigation-mesh toolset for games"
+category = "other"
+tags = ["ai", "crowd-simulation", "game-development", "navigation", "navmesh", "pathfinding", "game", "gamedev"]
+repository = "https://github.com/recastnavigation/recastnavigation"
+website = "http://recastnav.com/"
+license = "Zlib"
+language = "C++"
+added = 2026-10-20

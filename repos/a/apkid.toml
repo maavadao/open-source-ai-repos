@@ -1,0 +1,8 @@
+name = "APKiD"
+description = "Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android"
+category = "data-science"
+tags = ["android", "antivirus", "machine-learning", "malware-detection", "malware-analysis", "malware-research", "yara", "yara-forensics"]
+repository = "https://github.com/rednaga/APKiD"
+license = "NOASSERTION"
+language = "YARA"
+added = 2026-10-20

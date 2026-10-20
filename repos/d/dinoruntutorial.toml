@@ -1,0 +1,9 @@
+name = "DinoRunTutorial"
+description = "Accompanying code for Paperspace tutorial \"Build an AI to play Dino Run\""
+category = "learning"
+tags = ["machine-learning", "jupyter-notebook", "paperspace", "reinforcement-learning", "q-learning", "keras-tensorflow"]
+repository = "https://github.com/Paperspace/DinoRunTutorial"
+website = "https://blog.paperspace.com/dino-run"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "ofxCv"
+description = "Alternative approach to interfacing with OpenCv from openFrameworks."
+category = "vision"
+tags = ["openframeworks", "addon", "opencv", "wrapper", "computer-vision"]
+repository = "https://github.com/kylemcdonald/ofxCv"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

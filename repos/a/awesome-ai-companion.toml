@@ -1,0 +1,9 @@
+name = "awesome-ai-companion"
+description = "Open-source AI companions, desktop pets, long-term memory & proactive chat. 人机恋开源项目大全。让你的家机能够脱离官端自主存在，拥有记忆和主动性。"
+category = "learning"
+tags = ["ai-agents", "ai-companion", "awesome-list", "chatbot", "llm", "memory", "open-source", "self-hosted"]
+repository = "https://github.com/DasterProkio/awesome-ai-companion"
+website = "https://lutopia.app/companion/"
+license = "CC-BY-4.0"
+language = "HTML"
+added = 2026-10-20

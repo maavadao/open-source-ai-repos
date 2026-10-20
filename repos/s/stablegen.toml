@@ -1,0 +1,8 @@
+name = "StableGen"
+description = "Transform your 3D texturing workflow with the power of generative AI, directly within Blender!"
+category = "image"
+tags = ["blender", "controlnet", "ipadapter", "stable-diffusion", "texture", "qwen-image-edit", "trellis2"]
+repository = "https://github.com/sakalond/StableGen"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

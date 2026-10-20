@@ -1,0 +1,9 @@
+name = "tsai"
+description = "Time series Timeseries Deep Learning Machine Learning Python Pytorch fastai | State-of-the-art Deep Learning library for Time Series and Sequences in Pytorch / fastai"
+category = "models"
+tags = ["time-series-classification", "deep-learning", "fastai", "pytorch", "timeseries", "time-series", "sequential", "time-series-analysis"]
+repository = "https://github.com/timeseriesAI/tsai"
+website = "https://timeseriesai.github.io/tsai/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "OpenAIWorkshop"
+description = "workshop materials to build intelligent solutions on Open AI"
+category = "data-science"
+tags = ["azure", "cognitive-services", "machine-learning", "openai"]
+repository = "https://github.com/microsoft/OpenAIWorkshop"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

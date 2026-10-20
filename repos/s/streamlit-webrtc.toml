@@ -1,0 +1,9 @@
+name = "streamlit-webrtc"
+description = "Real-time video and audio processing on Streamlit"
+category = "vision"
+tags = ["streamlit", "streamlit-webrtc", "pypi", "webrtc", "video-streaming", "video-processing", "python", "hacktoberfest"]
+repository = "https://github.com/whitphx/streamlit-webrtc"
+website = "https://whitphx.github.io/streamlit-webrtc/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

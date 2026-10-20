@@ -1,0 +1,9 @@
+name = "YTPro"
+description = "Youtube client with older Android version support, background player, Google Gemini and many more features."
+category = "other"
+tags = ["ytdl", "ytdl-core", "node-ytdl-core", "youtube", "youtube-downloader", "youtube-vanced", "ytpro", "yt-adskip"]
+repository = "https://github.com/prateek-chaubey/YTPro"
+website = "https://prateek.is-a.dev/YTPro"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

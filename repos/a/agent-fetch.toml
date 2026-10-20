@@ -1,0 +1,8 @@
+name = "agent-fetch"
+description = "Full-content web fetcher for AI agents — Chrome TLS fingerprinting, browser impersonation, multi-strategy article extraction, and web scraping."
+category = "search"
+tags = ["ai-agents", "anti-bot-detection", "content-extraction", "fetcher", "html-to-markdown", "tls-fingerprint", "web-scraping", "nodejs"]
+repository = "https://github.com/teng-lin/agent-fetch"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "multi-subject-render"
+description = "Generate multiple complex subjects all at once!"
+category = "image"
+tags = ["automatic1111", "stable-diffusion", "stable-diffusion-webui", "stable-diffusion-webui-plugin"]
+repository = "https://github.com/Extraltodeus/multi-subject-render"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

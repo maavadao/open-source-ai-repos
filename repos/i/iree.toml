@@ -1,0 +1,9 @@
+name = "iree"
+description = "A retargetable MLIR-based machine learning compiler and runtime toolkit."
+category = "ml-platforms"
+tags = ["mlir", "vulkan", "tensorflow", "spirv", "cuda", "jax", "pytorch", "compiler"]
+repository = "https://github.com/iree-org/iree"
+website = "http://iree.dev/"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "karateclub"
+description = "Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020)"
+category = "data-science"
+tags = ["community-detection", "graph-clustering", "deepwalk", "networkx", "louvain", "network-science", "machine-learning", "unsupervised-learning"]
+repository = "https://github.com/benedekrozemberczki/karateclub"
+website = "https://karateclub.readthedocs.io"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

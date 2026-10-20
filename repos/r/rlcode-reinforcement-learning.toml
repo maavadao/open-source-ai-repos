@@ -1,0 +1,8 @@
+name = "reinforcement-learning"
+description = "Minimal and Clean Reinforcement Learning Examples"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "deep-learning", "deep-reinforcement-learning", "machine-learning", "policy-gradient", "deep-q-network", "dqn", "actor-critic"]
+repository = "https://github.com/rlcode/reinforcement-learning"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

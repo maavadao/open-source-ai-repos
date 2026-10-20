@@ -1,0 +1,8 @@
+name = "engram"
+description = "Hybrid long-term memory plugin for OpenClaw agents — SQLite+FTS5 for structured facts, LanceDB for semantic recall"
+category = "agents"
+tags = ["ai-agents", "embeddings", "lancedb", "memory", "openclaw", "rag", "sqlite", "typescript"]
+repository = "https://github.com/NanoFlow-io/engram"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "trafilatura"
+description = "Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML"
+category = "search"
+tags = ["web-scraping", "text-extraction", "nlp", "html2text", "text-mining", "crawler", "text-cleaning", "text-preprocessing"]
+repository = "https://github.com/adbar/trafilatura"
+website = "https://trafilatura.readthedocs.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

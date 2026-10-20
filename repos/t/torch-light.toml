@@ -1,0 +1,8 @@
+name = "torch-light"
+description = "Deep-learning by using Pytorch. Basic nns like Logistic, CNN, RNN, LSTM and some examples are implemented by complex model."
+category = "ml-platforms"
+tags = ["deep-learning", "pytorch", "reinforcement-learning"]
+repository = "https://github.com/ne7ermore/torch-light"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

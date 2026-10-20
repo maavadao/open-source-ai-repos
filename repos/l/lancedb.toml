@@ -1,0 +1,10 @@
+name = "lancedb"
+description = "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less."
+category = "vector-databases"
+tags = ["approximate-nearest-neighbor-search", "image-search", "nearest-neighbor-search", "recommender-system", "search-engine", "semantic-search", "similarity-search", "vector-database"]
+repository = "https://github.com/lancedb/lancedb"
+website = "https://lancedb.com"
+license = "Apache-2.0"
+language = "Rust"
+skill_level = "beginner"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "CLIP-Guided-Diffusion"
+description = "Just playing with getting CLIP Guided Diffusion running locally, rather than having to use colab."
+category = "image"
+tags = ["text-to-image", "text2image", "openai-clip"]
+repository = "https://github.com/nerdyrodent/CLIP-Guided-Diffusion"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

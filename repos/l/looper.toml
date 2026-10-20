@@ -1,0 +1,8 @@
+name = "looper"
+description = "Design visual, review-gated agent loops for Claude Code before you run them."
+category = "coding"
+tags = ["agent-loops", "agentic-workflows", "ai-agents", "claude-code", "claude-code-skill", "llm-as-judge"]
+repository = "https://github.com/ksimback/looper"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

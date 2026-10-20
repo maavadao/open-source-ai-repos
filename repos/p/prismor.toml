@@ -1,0 +1,9 @@
+name = "prismor"
+description = "Self-hosted runtime control plane for AI agents. Observe or HITL approve or Block rogue tool calls before it executes: secret leaks, prompt injection, supply chain etc in a local dashboard. Agent agnostic (Claude, codex, langchain etc.)"
+category = "mcp-servers"
+tags = ["cybersecurity", "security", "agent-security", "agents", "ai-security", "skill-scanner", "prompt-injection", "ai-agents"]
+repository = "https://github.com/PrismorSec/prismor"
+website = "https://prismor.dev"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

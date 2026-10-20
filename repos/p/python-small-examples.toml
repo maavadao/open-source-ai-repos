@@ -1,0 +1,8 @@
+name = "python-small-examples"
+description = "告别枯燥，致力于打造 Python 实用小例子，更多Python良心教程见 https://ai-jupyter.com"
+category = "ml-platforms"
+tags = ["python", "data-science", "machine-learning", "python-web", "python-gui", "tensorflow", "pytorch"]
+repository = "https://github.com/jackzhenguo/python-small-examples"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

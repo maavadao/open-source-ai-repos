@@ -1,0 +1,8 @@
+name = "Seq2seq-Chatbot-for-Keras"
+description = "This repository contains a new generative model of chatbot based on seq2seq modeling."
+category = "chat"
+tags = ["chatbot", "keras", "seq2seq", "nlp", "dialogue", "glove", "deep-learning", "conversational-agents"]
+repository = "https://github.com/oswaldoludwig/Seq2seq-Chatbot-for-Keras"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

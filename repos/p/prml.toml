@@ -1,0 +1,8 @@
+name = "prml"
+description = "Repository of notes, code and notebooks in Python for the book Pattern Recognition and Machine Learning by Christopher Bishop"
+category = "learning"
+tags = ["machine-learning", "prml", "bayesian-statistics", "python", "pattern-recognition"]
+repository = "https://github.com/gerdm/prml"
+license = "AGPL-3.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

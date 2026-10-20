@@ -1,0 +1,9 @@
+name = "openscience"
+description = "The open-source AI workbench for scientific research"
+category = "agents"
+tags = ["agent", "ai", "bun", "cli", "llm", "ml", "open-source", "research"]
+repository = "https://github.com/synthetic-sciences/openscience"
+website = "https://openscience.sh"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

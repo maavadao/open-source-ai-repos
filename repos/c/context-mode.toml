@@ -1,0 +1,9 @@
+name = "context-mode"
+description = "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
+category = "mcp-servers"
+tags = ["claude", "claude-code", "claude-code-plugins", "mcp", "skills", "codex", "copilot", "opencode"]
+repository = "https://github.com/mksglu/context-mode"
+website = "https://context-mode.com"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

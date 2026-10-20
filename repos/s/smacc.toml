@@ -1,0 +1,9 @@
+name = "SMACC"
+description = "An Event-Driven, Asynchronous, Behavioral State Machine Library for ROS (Robotic Operating System) applications written in C++"
+category = "robotics"
+tags = ["state-machine", "ros", "ros-packages", "navigation", "mobile-robots", "c-plus-plus", "statechart"]
+repository = "https://github.com/robosoft-ai/SMACC"
+website = "https://smacc.dev"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

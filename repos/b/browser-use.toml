@@ -1,0 +1,10 @@
+name = "browser-use"
+description = "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API."
+category = "browser-automation"
+tags = ["llm", "ai-agents", "ai-tools", "browser-automation", "python", "browser-use", "playwright", "browser-agent"]
+repository = "https://github.com/browser-use/browser-use"
+website = "https://browser-use.com"
+license = "MIT"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "gun"
+description = "An open source cybersecurity protocol for syncing decentralized graph data."
+category = "data-science"
+tags = ["machine-learning", "artificial-intelligence", "big-data", "blockchain", "p2p", "decentralized", "graph", "cryptography"]
+repository = "https://github.com/amark/gun"
+website = "https://gun.eco/docs"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

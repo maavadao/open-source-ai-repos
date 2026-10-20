@@ -1,0 +1,9 @@
+name = "cartoonify"
+description = "Deploy and scale serverless machine learning app - in 4 steps."
+category = "vision"
+tags = ["serverless", "serverless-framework", "gan", "aws", "aws-lambda", "cartoongan", "deployment", "pytorch"]
+repository = "https://github.com/ahmedbesbes/cartoonify"
+website = "https://cartoonify.netlify.app/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

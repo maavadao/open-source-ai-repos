@@ -1,0 +1,8 @@
+name = "TimeSformer-pytorch"
+description = "Implementation of TimeSformer from Facebook AI, a pure attention-based solution for video classification"
+category = "models"
+tags = ["artificial-intelligence", "deep-learning", "attention-mechanism", "transformers", "video-classification"]
+repository = "https://github.com/lucidrains/TimeSformer-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

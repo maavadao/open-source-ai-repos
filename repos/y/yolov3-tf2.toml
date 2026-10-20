@@ -1,0 +1,8 @@
+name = "yolov3-tf2"
+description = "YoloV3 Implemented in Tensorflow 2.0"
+category = "learning"
+tags = ["tensorflow", "tf2", "yolo", "yolov3", "object-detection", "deep-learning", "machine-learning", "neural-network"]
+repository = "https://github.com/zzh8829/yolov3-tf2"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "UniTok"
+description = "[NeurIPS 2025 Spotlight] A Unified Tokenizer for Visual Generation and Understanding"
+category = "image"
+tags = ["autoregressive-models", "generative", "generative-ai", "generative-model", "image-generation", "image-tokenizer", "large-language-models", "text-to-image"]
+repository = "https://github.com/FoundationVision/UniTok"
+website = "https://foundationvision.github.io/UniTok/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

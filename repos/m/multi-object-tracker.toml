@@ -1,0 +1,9 @@
+name = "multi-object-tracker"
+description = "Multi-object trackers in Python"
+category = "vision"
+tags = ["multi-object-tracking", "computer-vision", "caffe", "object-tracking", "object-detection", "deep-learning", "python3", "tracker"]
+repository = "https://github.com/adipandas/multi-object-tracker"
+website = "https://adipandas.github.io/multi-object-tracker/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "PINTO_model_zoo"
+description = "A repository for storing models that have been inter-converted between various frameworks. Supported frameworks are TensorFlow, PyTorch, ONNX, OpenVINO, TFJS, TFTRT, TensorFlowLite (Float32/16/INT8), EdgeTPU, CoreML."
+category = "vision"
+tags = ["tensorflow", "tensorflow-lite", "openvino", "edgetpu", "mediapipe", "coreml", "tensorflowjs", "tf-trt"]
+repository = "https://github.com/PINTO0309/PINTO_model_zoo"
+website = "https://qiita.com/PINTO"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

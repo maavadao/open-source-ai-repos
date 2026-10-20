@@ -1,0 +1,8 @@
+name = "OneRAG"
+description = "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB, pgvector, MongoDB), 5 LLMs (Gemini, OpenAI, Claude, Ollama, OpenRouter). OpenAI-compatible API. 2100+ tests."
+category = "vector-databases"
+tags = ["chatbot", "fastapi", "graphrag", "hybrid-search", "korean-nlp", "langchain-alternative", "llm", "python"]
+repository = "https://github.com/notadev-iamaura/OneRAG"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

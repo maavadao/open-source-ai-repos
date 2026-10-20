@@ -1,0 +1,9 @@
+name = "ChatDB"
+description = "The official repository of \"ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory\"."
+category = "llm-apps"
+tags = ["database", "large-language-models", "memory", "symbolic-execution"]
+repository = "https://github.com/huchenxucs/ChatDB"
+website = "https://chatdatabase.github.io/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

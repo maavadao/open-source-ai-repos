@@ -1,0 +1,7 @@
+name = "lit-llama"
+description = "Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed."
+category = "local-llms"
+repository = "https://github.com/Lightning-AI/lit-llama"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

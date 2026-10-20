@@ -1,0 +1,9 @@
+name = "spool"
+description = "Store, share, and resume AI coding sessions."
+category = "mcp-servers"
+tags = ["ai-agents", "claude-code", "codex", "developer-tools", "electron", "full-text-search", "local-first", "macos"]
+repository = "https://github.com/paperboytm/spool"
+website = "https://spool.new"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

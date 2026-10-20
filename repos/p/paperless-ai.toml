@@ -1,0 +1,9 @@
+name = "paperless-ai"
+description = "An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents."
+category = "no-code"
+tags = ["ai", "automation", "paperless", "paperless-ngx", "gemma", "llama", "mistral", "ollama"]
+repository = "https://github.com/clusterzx/paperless-ai"
+website = "https://clusterzx.github.io/paperless-ai/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

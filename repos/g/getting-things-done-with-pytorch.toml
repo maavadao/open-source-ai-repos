@@ -1,0 +1,9 @@
+name = "Getting-Things-Done-with-Pytorch"
+description = "Jupyter Notebook tutorials on solving real-world problems with Machine Learning & Deep Learning using PyTorch. Topics: Face detection with Detectron 2, Time Series anomaly detection with LSTM Autoencoders, Object Detection with YOLO v5, Build your first Neural Network, Time…"
+category = "learning"
+tags = ["pytorch", "deep-learning", "machine-learning", "computer-vision", "object-detection", "face-detection", "face-recognition", "time-series"]
+repository = "https://github.com/curiousily/Getting-Things-Done-with-Pytorch"
+website = "https://mlexpert.io"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

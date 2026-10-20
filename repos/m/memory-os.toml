@@ -1,0 +1,8 @@
+name = "memory-os"
+description = "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider."
+category = "vector-databases"
+tags = ["ai-memory", "context-injection", "docker", "ground-truth", "hermes-agent", "local-first", "open-source", "persistent-memory"]
+repository = "https://github.com/ClaudioDrews/memory-os"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "agent-skills"
+description = "Production-grade engineering skills for AI coding agents."
+category = "skills-prompts"
+tags = ["agent-skills", "antigravity", "claude-code", "cursor", "skills", "codex"]
+repository = "https://github.com/addyosmani/agent-skills"
+website = "https://skills.addy.ie"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

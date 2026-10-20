@@ -1,0 +1,9 @@
+name = "safe-control-gym"
+description = "PyBullet CartPole and Quadrotor environments—with CasADi symbolic a priori dynamics—for learning-based control and RL"
+category = "robotics"
+tags = ["gym", "pybullet", "reinforcement-learning", "control", "safety", "quadrotor", "quadcopter", "cartpole"]
+repository = "https://github.com/learnsyslab/safe-control-gym"
+website = "https://www.dynsyslab.org/safe-robot-learning/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

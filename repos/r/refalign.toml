@@ -1,0 +1,9 @@
+name = "RefAlign"
+description = "[ECCV 2026] Official PyTorch implementation of RefAlign: Representation Alignment for Reference-to-Video Generation"
+category = "video"
+tags = ["diffusion-models", "repa", "representation-alignment", "video-generation", "reference-alignment", "reference-to-video", "controllable-generation", "representation-learning"]
+repository = "https://github.com/gudaochangsheng/RefAlign"
+website = "https://gudaochangsheng.github.io/RefAlign-Page/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

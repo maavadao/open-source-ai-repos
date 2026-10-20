@@ -1,0 +1,9 @@
+name = "gpt4-playground"
+description = "Clone of OpenAI's ChatGPT and Playground environments to enable experimenting with API keys."
+category = "data-science"
+tags = ["gpt4", "gpt4-api", "nextjs", "nlp", "openai", "playground"]
+repository = "https://github.com/Nashex/gpt4-playground"
+website = "https://www.gpt4-playground.com/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

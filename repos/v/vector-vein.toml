@@ -1,0 +1,9 @@
+name = "vector-vein"
+description = "No-code AI workflow. Drag and drop workflow nodes and use your workflow with your AI agents."
+category = "no-code"
+tags = ["ai", "workflow", "openai", "python"]
+repository = "https://github.com/AndersonBY/vector-vein"
+website = "https://vectorvein.ai"
+license = "NOASSERTION"
+language = "Vue"
+added = 2026-10-20

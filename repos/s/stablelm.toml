@@ -1,0 +1,7 @@
+name = "StableLM"
+description = "StableLM: Stability AI Language Models"
+category = "models"
+repository = "https://github.com/Stability-AI/StableLM"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

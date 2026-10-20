@@ -1,0 +1,9 @@
+name = "refinery"
+description = "The data scientist's open-source choice to scale, assess and maintain natural language data. Treat training data like a software artifact."
+category = "models"
+tags = ["annotations", "data-centric-ai", "data-labeling", "deep-learning", "labeling", "labeling-tool", "machine-learning", "natural-language-processing"]
+repository = "https://github.com/code-kern-ai/refinery"
+website = "https://www.kern.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

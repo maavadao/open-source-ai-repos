@@ -1,0 +1,8 @@
+name = "Awesome-3D-Object-Detection-for-Autonomous-Driving"
+description = "3D Object Detection for Autonomous Driving: A Comprehensive Survey (IJCV 2023)"
+category = "learning"
+tags = ["3d-object-detection", "autonomous-driving", "autonomous-vehicles", "lidar", "kitti-dataset", "waymo-open-dataset", "nuscenes"]
+repository = "https://github.com/PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving"
+website = "https://link.springer.com/article/10.1007/s11263-023-01790-1"
+license = "NOASSERTION"
+added = 2026-10-20

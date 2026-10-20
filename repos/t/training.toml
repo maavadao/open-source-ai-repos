@@ -1,0 +1,9 @@
+name = "training"
+description = "Reference implementations of MLPerf training benchmarks"
+category = "ml-platforms"
+tags = ["benchmark", "machine-learning"]
+repository = "https://github.com/mlcommons/training"
+website = "https://mlcommons.org/en/groups/training"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

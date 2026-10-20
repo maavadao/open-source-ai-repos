@@ -1,0 +1,8 @@
+name = "AITreasureBox"
+description = "Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱"
+category = "learning"
+tags = ["ai", "gpt", "openai", "alpaca", "deep-learning", "llama", "machine-learning", "awesome-list"]
+repository = "https://github.com/superiorlu/AITreasureBox"
+license = "GPL-3.0"
+language = "Ruby"
+added = 2026-10-20

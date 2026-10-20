@@ -1,0 +1,9 @@
+name = "happier"
+description = "Web, Desktop & Mobile client and orchestrator for Codex, Claude Code, OpenCode, Pi, Cursor, Grok, Antigravity, Kimi, Augment Code, Qwen, fully end-to-end encrypted"
+category = "coding"
+tags = ["ai-agents", "claude", "claude-code", "codex", "gemini", "opencode", "vibecoding", "ade"]
+repository = "https://github.com/happier-dev/happier"
+website = "https://happier.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

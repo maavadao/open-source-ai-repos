@@ -1,0 +1,9 @@
+name = "Open-dLLM"
+description = "Open diffusion language model for code generation — releasing pretraining, evaluation, inference, and checkpoints."
+category = "image"
+tags = ["diffusion-models", "large-language-models"]
+repository = "https://github.com/pengzhangzhi/Open-dLLM"
+website = "https://oval-shell-31c.notion.site/Open-dLLM-Open-Diffusion-Large-Language-Model-25e03bf6136480b7a4ebe3d53be9f68a?pvs=74"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

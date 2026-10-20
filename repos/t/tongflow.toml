@@ -1,0 +1,8 @@
+name = "tongflow"
+description = "Modality-First GenAI Platform"
+category = "no-code"
+tags = ["generative-ai", "workflow", "multimodal", "canvas", "3d", "ai", "ai-tools", "document"]
+repository = "https://github.com/tong-io/tongflow"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

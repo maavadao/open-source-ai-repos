@@ -1,0 +1,8 @@
+name = "DeepQA"
+description = "My tensorflow implementation of \"A neural conversational model\", a Deep learning based chatbot"
+category = "chat"
+tags = ["chatbot", "deep-learning", "tensorflow", "seq2seq"]
+repository = "https://github.com/Conchylicultor/DeepQA"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

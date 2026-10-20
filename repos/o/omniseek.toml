@@ -1,0 +1,9 @@
+name = "omniseek"
+description = "Give your AI agent the parts of the internet web search doesn't reach. An add-on for Claude Code, Cursor, and Codex: podcasts and videos, Bilibili, V2EX, Zhihu, Reddit, Hacker News, and research papers. Runs on your computer; logged-in sites use your own login, off by default."
+category = "mcp-servers"
+tags = ["mcp", "self-hosted", "ai-agents", "deep-research", "mcp-server", "model-context-protocol", "academic-search", "ai-search"]
+repository = "https://github.com/Battam1111/omniseek"
+website = "https://battam1111.github.io/omniseek/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

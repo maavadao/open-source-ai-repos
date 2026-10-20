@@ -1,0 +1,9 @@
+name = "ag-ui"
+description = "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications."
+category = "agents"
+tags = ["ag-ui-protocol", "agent-frontend", "agent-ui", "agentic-workflow", "ai-agents"]
+repository = "https://github.com/ag-ui-protocol/ag-ui"
+website = "https://ag-ui.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

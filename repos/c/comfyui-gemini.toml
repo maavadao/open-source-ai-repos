@@ -1,0 +1,8 @@
+name = "ComfyUI-Gemini"
+description = "Using Gemini in ComfyUI"
+category = "image"
+tags = ["comfyui", "stable-diffusion", "gemini-pro", "google-gemini"]
+repository = "https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

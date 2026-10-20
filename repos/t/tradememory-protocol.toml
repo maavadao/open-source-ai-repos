@@ -1,0 +1,9 @@
+name = "tradememory-protocol"
+description = "Decision audit trail + persistent memory for AI trading agents. Outcome-weighted recall, tamper-evident SHA-256 chain with RFC 3161 anchoring, 20 MCP tools."
+category = "mcp-servers"
+tags = ["claude", "forex", "mcp", "memory", "mt5", "trading", "ai-agents", "crypto"]
+repository = "https://github.com/mnemox-ai/tradememory-protocol"
+website = "https://mnemox.ai/tradememory/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

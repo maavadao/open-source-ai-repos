@@ -1,0 +1,9 @@
+name = "laser"
+description = "The Truth Is In There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction"
+category = "models"
+tags = ["gpt-j", "interpretability", "laser", "llama2", "llm", "llms", "model-compression", "transformers"]
+repository = "https://github.com/pratyushasharma/laser"
+website = "https://pratyushasharma.github.io/laser/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

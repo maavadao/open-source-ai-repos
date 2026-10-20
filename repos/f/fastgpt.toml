@@ -1,0 +1,9 @@
+name = "FastGPT"
+description = "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without…"
+category = "mcp-servers"
+tags = ["nextjs", "openai", "llm", "rag", "claude", "deepseek", "qwen", "workflow"]
+repository = "https://github.com/labring/FastGPT"
+website = "https://fastgpt.io"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

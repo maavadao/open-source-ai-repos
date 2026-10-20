@@ -1,0 +1,9 @@
+name = "Video-MME-v2"
+description = "Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding"
+category = "video"
+tags = ["large-language-models", "large-vision-language-models", "multimodal-large-language-models", "video", "video-mme"]
+repository = "https://github.com/MME-Benchmarks/Video-MME-v2"
+website = "https://video-mme-v2.netlify.app/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

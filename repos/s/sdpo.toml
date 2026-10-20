@@ -1,0 +1,9 @@
+name = "SDPO"
+description = "Reinforcement Learning via Self-Distillation (SDPO)"
+category = "models"
+tags = ["distillation", "llm", "reasoning", "rl"]
+repository = "https://github.com/lasgroup/SDPO"
+website = "https://self-distillation.github.io/SDPO"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

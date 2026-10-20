@@ -1,0 +1,9 @@
+name = "klaw.sh"
+description = "kubectl for AI Agents"
+category = "agents"
+tags = ["agents", "ai-agents", "orchestration"]
+repository = "https://github.com/klawsh/klaw.sh"
+website = "https://klaw.sh"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

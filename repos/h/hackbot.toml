@@ -1,0 +1,8 @@
+name = "HackBot"
+description = "AI-powered cybersecurity chatbot designed to provide helpful and accurate answers to your cybersecurity-related queries and also do code analysis and scan analysis."
+category = "no-code"
+tags = ["ai", "chatbot", "cli-chat-app", "llama2", "automation", "cybersecurity", "cybersecurity-education", "cybersecurity-tools"]
+repository = "https://github.com/morpheuslord/HackBot"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

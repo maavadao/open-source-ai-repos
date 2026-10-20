@@ -1,0 +1,9 @@
+name = "agentacct"
+description = "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry."
+category = "mcp-servers"
+tags = ["agent-observability", "ai-agents", "analytics", "claude-code", "cli", "codex", "coding-agent", "cost-tracking"]
+repository = "https://github.com/mikehasa/agentacct"
+website = "https://trytofu.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

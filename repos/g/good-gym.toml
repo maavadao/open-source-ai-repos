@@ -1,0 +1,8 @@
+name = "Good-GYM"
+description = "AI-powered fitness assistant for real-time pose estimation, exercise counting, and workout feedback."
+category = "vision"
+tags = ["ai", "computer-vision", "exercise", "fitness", "fitness-tracker"]
+repository = "https://github.com/yo-WASSUP/Good-GYM"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

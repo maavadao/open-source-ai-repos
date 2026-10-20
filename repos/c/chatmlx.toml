@@ -1,0 +1,8 @@
+name = "ChatMLX"
+description = "ChatMLX is a modern, open-source, high-performance chat application for MacOS based on large language models."
+category = "local-llms"
+tags = ["chat", "llama", "mlx", "mlx-swift", "swift", "swiftui", "transformer", "transformers"]
+repository = "https://github.com/johnmai-dev/ChatMLX"
+license = "Apache-2.0"
+language = "Swift"
+added = 2026-10-20

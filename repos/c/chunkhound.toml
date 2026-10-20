@@ -1,0 +1,9 @@
+name = "chunkhound"
+description = "Your entire engineering context, deeply understood"
+category = "mcp-servers"
+tags = ["agent", "ai", "duckdb", "mcp-server", "semantic-search", "tree-sitter", "rag"]
+repository = "https://github.com/chunkhound/chunkhound"
+website = "https://chunkhound.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

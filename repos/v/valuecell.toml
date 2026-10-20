@@ -1,0 +1,9 @@
+name = "valuecell"
+description = "ValueCell is a community-driven, multi-agent platform for financial applications."
+category = "mcp-servers"
+tags = ["agentic-ai", "agents", "ai", "assitant", "crypto", "equity", "finance", "investment"]
+repository = "https://github.com/ValueCell-ai/valuecell"
+website = "https://valuecell.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

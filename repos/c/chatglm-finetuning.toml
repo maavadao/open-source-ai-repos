@@ -1,0 +1,8 @@
+name = "chatglm_finetuning"
+description = "chatglm 6b finetuning and alpaca finetuning"
+category = "image"
+tags = ["chatglm", "deep-learning", "lora", "pytorch", "p-tuning-v2", "adalora", "sft", "freeze"]
+repository = "https://github.com/ssbuild/chatglm_finetuning"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

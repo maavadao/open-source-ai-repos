@@ -1,0 +1,9 @@
+name = "nn-zero-to-hero"
+description = "Neural Networks: Zero to Hero"
+category = "learning"
+repository = "https://github.com/karpathy/nn-zero-to-hero"
+website = "https://karpathy.ai/zero-to-hero.html"
+license = "MIT"
+language = "Jupyter Notebook"
+skill_level = "intermediate"
+added = 2026-10-20

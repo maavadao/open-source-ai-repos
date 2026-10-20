@@ -1,0 +1,9 @@
+name = "xtreme1"
+description = "Xtreme1 is an all-in-one data labeling and annotation platform for multimodal data training and supports 3D LiDAR point cloud, image, and LLM."
+category = "vision"
+tags = ["annotation-tool", "annotation", "computer-vision", "image-annotation", "image-classification", "image-labelling-tool", "labeling-tool", "3d-annotation"]
+repository = "https://github.com/xtreme1-io/xtreme1"
+website = "https://www.basic.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

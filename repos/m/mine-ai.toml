@@ -1,0 +1,8 @@
+name = "mine-ai"
+description = "Open-source reference implementations for AI-enabled payment security, blockchain fraud detection, and AML/CFT compliance reasoning."
+category = "llm-apps"
+tags = ["aml", "blockchain", "cft", "compliance", "digital-assets", "fraud-detection", "llm", "payment-security"]
+repository = "https://github.com/mine-ai-xyz/mine-ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

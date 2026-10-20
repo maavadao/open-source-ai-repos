@@ -1,0 +1,9 @@
+name = "OpenThinkIMG"
+description = "OpenThinkIMG is an end-to-end open-source framework that empowers LVLMs to think with images."
+category = "ml-platforms"
+tags = ["grpo", "lvlm", "reinforcement-learning", "vision-tool"]
+repository = "https://github.com/zhaochen0110/OpenThinkIMG"
+website = "https://arxiv.org/pdf/2505.08617"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

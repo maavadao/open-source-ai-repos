@@ -1,0 +1,9 @@
+name = "RA-Bench"
+description = "Real-event-anchored benchmark for detecting AI-generated videos in real-world crisis settings."
+category = "models"
+tags = ["ai-generated-video", "benchmark", "crisis-events", "dataset", "deepfake-detection", "multimodal", "video-forensics"]
+repository = "https://github.com/Shuo-Liang-0111/RA-Bench"
+website = "https://ra-bench-crisis-video.yxgma811120.chatgpt.site/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

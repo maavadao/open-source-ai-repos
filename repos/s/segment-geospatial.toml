@@ -1,0 +1,9 @@
+name = "segment-geospatial"
+description = "A Python package for segmenting geospatial data with the Segment Anything Model (SAM)"
+category = "vision"
+tags = ["artificial-intelligence", "deep-learning", "machine-learning", "segmentation", "geopython", "geospatial", "segment-anything"]
+repository = "https://github.com/opengeos/segment-geospatial"
+website = "https://samgeo.gishub.org"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

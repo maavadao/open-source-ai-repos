@@ -1,0 +1,9 @@
+name = "Tensorflow-Tutorial"
+description = "Tensorflow tutorial from basic to hard, 莫烦Python 中文AI教学"
+category = "learning"
+tags = ["tensorflow", "tensorflow-tutorials", "gan", "generative-adversarial-network", "rnn", "cnn", "classification", "regression"]
+repository = "https://github.com/MorvanZhou/Tensorflow-Tutorial"
+website = "https://mofanpy.com/tutorials/machine-learning/tensorflow/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

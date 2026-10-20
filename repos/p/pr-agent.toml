@@ -1,0 +1,9 @@
+name = "pr-agent"
+description = "PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier."
+category = "coding"
+tags = ["openai", "pull-request", "code-review", "pull-requests", "coding-assistant", "devtools", "ai", "anthropic"]
+repository = "https://github.com/The-PR-Agent/pr-agent"
+website = "https://www.pr-agent.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

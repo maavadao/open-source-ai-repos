@@ -1,0 +1,9 @@
+name = "WaveRNN"
+description = "WaveRNN Vocoder + TTS"
+category = "speech"
+tags = ["wavernn", "pytorch", "neural-vocoder", "speech-synthesis", "tts", "tacotron", "text-to-speech"]
+repository = "https://github.com/fatchord/WaveRNN"
+website = "https://fatchord.github.io/model_outputs/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

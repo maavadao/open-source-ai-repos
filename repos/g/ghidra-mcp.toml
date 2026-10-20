@@ -1,0 +1,8 @@
+name = "ghidra-mcp"
+description = "Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment."
+category = "mcp-servers"
+tags = ["binary-analysis", "ghidra", "java", "mcp", "model-context-protocol", "python", "reverse-engineering", "static-analysis"]
+repository = "https://github.com/bethington/ghidra-mcp"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

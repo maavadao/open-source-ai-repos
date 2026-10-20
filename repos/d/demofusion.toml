@@ -1,0 +1,9 @@
+name = "DemoFusion"
+description = "Let us democratise high-resolution generation! (CVPR 2024)"
+category = "image"
+tags = ["aigc", "high-resolution", "low-resource", "stable-diffusion", "genai"]
+repository = "https://github.com/PRIS-CV/DemoFusion"
+website = "https://ruoyidu.github.io/demofusion/demofusion.html"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

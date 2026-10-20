@@ -1,0 +1,9 @@
+name = "scikit-learn-videos"
+description = "Jupyter notebooks from the scikit-learn video series"
+category = "learning"
+tags = ["scikit-learn", "machine-learning", "data-science", "jupyter-notebook", "tutorial", "python"]
+repository = "https://github.com/justmarkham/scikit-learn-videos"
+website = "https://courses.dataschool.io/introduction-to-machine-learning-with-scikit-learn"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

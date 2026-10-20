@@ -1,0 +1,9 @@
+name = "mars"
+description = "Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions."
+category = "ml-platforms"
+tags = ["python", "numpy", "tensor", "pandas", "machine-learning", "scikit-learn", "tensorflow", "pytorch"]
+repository = "https://github.com/mars-project/mars"
+website = "https://mars-project.readthedocs.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

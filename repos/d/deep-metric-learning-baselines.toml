@@ -1,0 +1,8 @@
+name = "Deep-Metric-Learning-Baselines"
+description = "PyTorch Implementation for Deep Metric Learning Pipelines"
+category = "vision"
+tags = ["pytorch", "deep-metric-learning", "deep-learning", "metric-learning", "neural-networks", "computer-vision", "pku-vehicle", "distance-sampling"]
+repository = "https://github.com/Confusezius/Deep-Metric-Learning-Baselines"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

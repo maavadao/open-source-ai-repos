@@ -1,0 +1,9 @@
+name = "cccc"
+description = "Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 workflow"
+category = "coding"
+tags = ["ai-agents", "claude-code", "codex-cli", "gemini-cli", "group-chat", "llm-orchestration", "local-first", "multi-agent"]
+repository = "https://github.com/ChesterRa/cccc"
+website = "https://cccc.sh/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

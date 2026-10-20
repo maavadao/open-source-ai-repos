@@ -1,0 +1,9 @@
+name = "curobo"
+description = "CUDA Accelerated Robot Library"
+category = "robotics"
+tags = ["cuda", "motion-planning", "pytorch", "robotics", "inverse-kinematics", "trajectory-optimization", "tsdf"]
+repository = "https://github.com/NVlabs/curobo"
+website = "https://nvlabs.github.io/curobo"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "redis-ai-resources"
+description = "A curated list of awesome community resources, integrations, and examples of Redis in the AI ecosystem."
+category = "learning"
+tags = ["redis", "vector-search", "ai", "awesome-list", "ecosystem", "feature-store", "machine-learning", "vector-database"]
+repository = "https://github.com/redis-developer/redis-ai-resources"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

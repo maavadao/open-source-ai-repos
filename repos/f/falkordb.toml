@@ -1,0 +1,9 @@
+name = "FalkorDB"
+description = "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG)."
+category = "llm-apps"
+tags = ["graph-database", "knowledge-graph", "database-as-a-service", "cloud-database", "database", "developer-tools", "devtools", "realtime-database"]
+repository = "https://github.com/FalkorDB/FalkorDB"
+website = "https://www.falkordb.com/"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

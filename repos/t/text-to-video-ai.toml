@@ -1,0 +1,9 @@
+name = "Text-To-Video-AI"
+description = "Generate video from text using AI"
+category = "video"
+tags = ["ai-api", "ai-tools", "ai-video", "ai-video-generator", "artificial-intelligence", "generative-ai", "image-to-video", "image-to-video-generation"]
+repository = "https://github.com/SamurAIGPT/Text-To-Video-AI"
+website = "https://www.vadoo.tv/text-to-video-ai"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

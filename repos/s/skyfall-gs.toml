@@ -1,0 +1,9 @@
+name = "Skyfall-GS"
+description = "[ECCV 2026] Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery"
+category = "image"
+tags = ["3d-reconstruction", "3dgs", "computer-graphics", "computer-vision", "diffusion-models", "earth-observation", "remote-sensing", "satellite"]
+repository = "https://github.com/jayin92/Skyfall-GS"
+website = "https://skyfall-gs.jayinnn.dev"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

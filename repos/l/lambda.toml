@@ -1,0 +1,9 @@
+name = "LAMBDA"
+description = "This is the offical repository of paper \"LAMBDA: A large Model Based Data Agent\". https://www.polyu.edu.hk/ama/cmfai/lambda.html"
+category = "agents"
+tags = ["agents", "ai", "generative-ai", "large-language-models"]
+repository = "https://github.com/AMA-CMFAI/LAMBDA"
+website = "https://arxiv.org/abs/2407.17535"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

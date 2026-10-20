@@ -1,0 +1,9 @@
+name = "hold"
+description = "[CVPR 2024Highlight] Official repository for HOLD, the first method that jointly reconstructs articulated hands and objects from monocular videos without assuming a pre-scanned object template and 3D hand-object training data."
+category = "vision"
+tags = ["3d-reconstruction", "ai", "artificial-intelligence", "augmented-reality", "computer-vision", "hand-object-interaction", "hand-object-reconstruction", "hand-tracking"]
+repository = "https://github.com/zc-alexfan/hold"
+website = "https://zc-alexfan.github.io/hold"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

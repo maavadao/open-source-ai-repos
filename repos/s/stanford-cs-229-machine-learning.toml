@@ -1,0 +1,8 @@
+name = "stanford-cs-229-machine-learning"
+description = "VIP cheatsheets for Stanford's CS 229 Machine Learning"
+category = "ml-platforms"
+tags = ["cheatsheet", "machine-learning", "data-science", "supervised-learning", "unsupervised-learning", "deep-learning", "ml-cheatsheet", "cs229"]
+repository = "https://github.com/afshinea/stanford-cs-229-machine-learning"
+website = "https://stanford.edu/~shervine/teaching/cs-229"
+license = "MIT"
+added = 2026-10-20

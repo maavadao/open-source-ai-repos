@@ -1,0 +1,9 @@
+name = "RLinf"
+description = "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI"
+category = "robotics"
+tags = ["reinforcement-learning", "agentic-ai", "rlinf", "vla-rl", "embodied-ai", "rl-infra"]
+repository = "https://github.com/RLinf/RLinf"
+website = "https://rlinf.readthedocs.io/en/latest/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

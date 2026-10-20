@@ -1,0 +1,8 @@
+name = "galah"
+description = "Galah: An LLM-powered web honeypot."
+category = "models"
+tags = ["golang", "honeypot", "llm", "openai", "openai-api", "security", "security-tools"]
+repository = "https://github.com/0x4D31/galah"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

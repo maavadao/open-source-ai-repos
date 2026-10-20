@@ -1,0 +1,9 @@
+name = "inspector"
+description = "Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP apps, and ChatGPT apps."
+category = "mcp-servers"
+tags = ["mcp", "modelcontextprotocol", "mcp-clients", "mcp-tools", "opensource", "chatgpt", "mcp-apps", "anthropic"]
+repository = "https://github.com/MCPJam/inspector"
+website = "https://www.mcpjam.com/"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

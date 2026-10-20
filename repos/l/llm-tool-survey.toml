@@ -1,0 +1,8 @@
+name = "LLM-Tool-Survey"
+description = "This is the repository for the Tool Learning survey."
+category = "chat"
+tags = ["chatgpt", "llm", "tool-learning", "tool-retrieval", "agent", "ir", "large-language-models", "autonomous-agents"]
+repository = "https://github.com/quchangle1/LLM-Tool-Survey"
+website = "https://arxiv.org/abs/2405.17935"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "dig-into-apollo"
+description = "Apollo notes (Apollo学习笔记) - Apollo learning notes for beginners."
+category = "robotics"
+tags = ["autonomous-driving", "self-driving-car", "autonomous-vehicles", "apollo-notes", "learning-apollo"]
+repository = "https://github.com/daohu527/dig-into-apollo"
+license = "MIT"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "GameFormer"
+description = "[ICCV 2023 Oral] Game-theoretic modeling and learning of Transformer-based interactive prediction and planning"
+category = "robotics"
+tags = ["autonomous-driving", "deep-neural-networks", "predictive-modeling"]
+repository = "https://github.com/MCZhi/GameFormer"
+website = "https://mczhi.github.io/GameFormer/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

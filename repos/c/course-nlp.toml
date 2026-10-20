@@ -1,0 +1,9 @@
+name = "course-nlp"
+description = "A Code-First Introduction to NLP course"
+category = "learning"
+tags = ["nlp", "machine-learning", "data-science", "python"]
+repository = "https://github.com/fastai/course-nlp"
+website = "https://www.fast.ai/2019/07/08/fastai-nlp/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

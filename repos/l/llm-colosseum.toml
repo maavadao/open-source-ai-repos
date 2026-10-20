@@ -1,0 +1,9 @@
+name = "llm-colosseum"
+description = "Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM"
+category = "models"
+tags = ["genai", "llm", "benchmark", "streetfighterai"]
+repository = "https://github.com/OpenGenerativeAI/llm-colosseum"
+website = "https://llm-colosseum.phospho.ai"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

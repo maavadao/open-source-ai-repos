@@ -1,0 +1,10 @@
+name = "openai-cookbook"
+description = "Examples and guides for using the OpenAI API"
+category = "learning"
+tags = ["openai", "chatgpt", "gpt-4", "openai-api"]
+repository = "https://github.com/openai/openai-cookbook"
+website = "https://cookbook.openai.com"
+license = "MIT"
+language = "Jupyter Notebook"
+skill_level = "intermediate"
+added = 2026-10-20

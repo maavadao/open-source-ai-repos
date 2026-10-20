@@ -1,0 +1,9 @@
+name = "OneTrainer"
+description = "OneTrainer is a one-stop solution for all your Diffusion training needs."
+category = "image"
+tags = ["fine-tuning", "lora", "training", "image-model-training"]
+repository = "https://github.com/Nerogar/OneTrainer"
+license = "AGPL-3.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

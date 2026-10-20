@@ -1,0 +1,9 @@
+name = "vigil-llm"
+description = "Vigil Detect prompt injections, jailbreaks, and other potentially risky Large Language Model (LLM) inputs"
+category = "security"
+tags = ["llm-security", "prompt-injection", "adversarial-attacks", "adversarial-machine-learning", "large-language-models", "llmops", "yara-scanner", "security-tools"]
+repository = "https://github.com/deadbits/vigil-llm"
+website = "https://vigil.deadbits.ai/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

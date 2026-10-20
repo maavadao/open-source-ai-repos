@@ -1,0 +1,7 @@
+name = "Interactive_Tools"
+description = "Interactive Tools for Machine Learning, Deep Learning and Math"
+category = "ml-platforms"
+tags = ["deep-learning", "interactive-tools", "machine-learning"]
+repository = "https://github.com/Machine-Learning-Tokyo/Interactive_Tools"
+license = "NOASSERTION"
+added = 2026-10-20

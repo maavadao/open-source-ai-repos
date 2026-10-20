@@ -1,0 +1,8 @@
+name = "FasterTransformer"
+description = "Transformer related optimization, including BERT, GPT"
+category = "models"
+tags = ["pytorch", "transformer", "gpt", "bert"]
+repository = "https://github.com/NVIDIA/FasterTransformer"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

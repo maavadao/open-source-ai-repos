@@ -1,0 +1,9 @@
+name = "hms-ml-demo"
+description = "HMS ML Demo provides an example of integrating Huawei ML Kit service into applications. This example demonstrates how to integrate services provided by ML Kit, such as face detection, text recognition, image segmentation, asr, and tts."
+category = "documents"
+tags = ["hms", "machine-learning", "face-recognition", "face-detection", "classification", "huawei", "image-segmentation", "ocr"]
+repository = "https://github.com/HMS-Core/hms-ml-demo"
+website = "https://developer.huawei.com/consumer/en/hms/huawei-mlkit?ha_source=hms1"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

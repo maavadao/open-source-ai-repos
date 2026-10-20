@@ -1,0 +1,9 @@
+name = "collab-public"
+description = "Collaborator is a place to create with agents."
+category = "coding"
+tags = ["agents", "ai", "claude-code", "codex-cli", "ide", "terminal"]
+repository = "https://github.com/collabs-inc/collab-public"
+website = "https://collaborator.bot/"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

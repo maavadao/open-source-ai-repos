@@ -1,0 +1,8 @@
+name = "persian-license-plate-recognition"
+description = "PLPR utilizes YOLOv5 and custom models for high-accuracy Persian license plate recognition, featuring real-time processing and an intuitive interface in an open-source framework."
+category = "vision"
+tags = ["ai", "computer-vision", "image-processing", "license-plate-recognition", "machine-learning", "python", "vehicle-identification", "yolov5"]
+repository = "https://github.com/truthofmatthew/persian-license-plate-recognition"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

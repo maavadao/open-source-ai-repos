@@ -1,0 +1,8 @@
+name = "VoiceStreamAI"
+description = "Near-Realtime audio transcription using self-hosted Whisper and WebSocket in Python/JS"
+category = "speech"
+tags = ["ai", "speech-recognition", "speech-to-text", "websocket"]
+repository = "https://github.com/alesaccoia/VoiceStreamAI"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "DeepLabCut"
+description = "Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals incl. humans"
+category = "vision"
+tags = ["behavior-analysis", "deep-learning", "pose-estimation", "feature-detectors", "toolbox", "deeplabcut", "animal-pose-estimation", "labeling-tool"]
+repository = "https://github.com/DeepLabCut/DeepLabCut"
+website = "http://deeplabcut.org"
+license = "LGPL-3.0"
+language = "Python"
+added = 2026-10-20

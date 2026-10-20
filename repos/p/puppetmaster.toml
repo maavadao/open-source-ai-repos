@@ -1,0 +1,8 @@
+name = "Puppetmaster"
+description = "Provider-neutral control plane for durable-state agent swarms: subprocess workers, leases, artifacts, memory, and deterministic stitching."
+category = "coding"
+tags = ["agent-swarms", "agents", "ai-agents", "claude-code", "codex", "cursor", "distributed-systems", "llm"]
+repository = "https://github.com/professorpalmer/Puppetmaster"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

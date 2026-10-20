@@ -1,0 +1,7 @@
+name = "human-eval"
+description = "Code for the paper \"Evaluating Large Language Models Trained on Code\""
+category = "models"
+repository = "https://github.com/openai/human-eval"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

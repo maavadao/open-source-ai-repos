@@ -1,0 +1,10 @@
+name = "dagster"
+description = "An orchestration platform for the development, production, and observation of data assets."
+category = "ml-platforms"
+tags = ["data-pipelines", "dagster", "workflow", "data-science", "workflow-automation", "python", "scheduler", "data-orchestrator"]
+repository = "https://github.com/dagster-io/dagster"
+website = "https://dagster.io"
+license = "Apache-2.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

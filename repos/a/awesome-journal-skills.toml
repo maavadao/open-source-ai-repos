@@ -1,0 +1,9 @@
+name = "Awesome-Journal-Skills"
+description = "Journal-specific Claude Code/Codex skill packs covering mainstream journals — AER, QJE, Nature, Cell, 管理世界, 经济研究 & 200+ more — your fast track to getting published. ｜ 覆盖主流期刊的 Claude Code/Codex 期刊技能包，从选题、识别策略到表格规范与审稿回复全流程，助你快速发论文。"
+category = "mcp-servers"
+tags = ["academic-writing", "agent-skills", "journal", "academic-research", "ai-agents", "anthropic", "awesome-list", "claude"]
+repository = "https://github.com/brycewang-stanford/Awesome-Journal-Skills"
+website = "https://www.copaper.ai"
+license = "MIT"
+language = "Stata"
+added = 2026-10-20

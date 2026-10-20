@@ -1,0 +1,9 @@
+name = "alignment-handbook"
+description = "Robust recipes to align language models with human and AI preferences"
+category = "models"
+tags = ["llm", "rlhf", "transformers"]
+repository = "https://github.com/huggingface/alignment-handbook"
+website = "https://huggingface.co/HuggingFaceH4"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

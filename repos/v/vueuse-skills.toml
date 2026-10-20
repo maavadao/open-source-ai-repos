@@ -1,0 +1,8 @@
+name = "skills"
+description = "Agent Skills for VueUse"
+category = "skills-prompts"
+tags = ["agent-skills", "agents", "ai", "skills", "vue", "vueuse"]
+repository = "https://github.com/vueuse/skills"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

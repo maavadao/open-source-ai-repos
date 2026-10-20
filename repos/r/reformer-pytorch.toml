@@ -1,0 +1,8 @@
+name = "reformer-pytorch"
+description = "Reformer, the efficient Transformer, in Pytorch"
+category = "models"
+tags = ["artificial-intelligence", "transformers", "attention-mechanism", "machine-learning", "pytorch"]
+repository = "https://github.com/lucidrains/reformer-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

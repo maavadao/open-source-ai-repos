@@ -1,0 +1,8 @@
+name = "powerful-benchmarker"
+description = "A library for ML benchmarking. It's powerful."
+category = "vision"
+tags = ["pytorch", "benchmarking", "computer-vision", "machine-learning", "deep-learning", "domain-adaptation", "metric-learning", "transfer-learning"]
+repository = "https://github.com/KevinMusgrave/powerful-benchmarker"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

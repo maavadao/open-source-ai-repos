@@ -1,0 +1,9 @@
+name = "NLP-Tutorials"
+description = "Simple implementations of NLP models. Tutorials are written in Chinese on my website https://mofanpy.com"
+category = "learning"
+tags = ["seq2seq", "attention", "nlp", "tutorial", "bert", "gpt", "w2v", "transformer"]
+repository = "https://github.com/MorvanZhou/NLP-Tutorials"
+website = "https://mofanpy.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "VoxelHashing"
+description = "[Siggraph Asia 2013] Large-Scale, Real-Time 3D Reconstruction"
+category = "vision"
+tags = ["3d-reconstruction", "kinect", "computer-vision"]
+repository = "https://github.com/niessner/VoxelHashing"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

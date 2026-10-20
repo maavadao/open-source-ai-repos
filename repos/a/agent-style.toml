@@ -1,0 +1,8 @@
+name = "agent-style"
+description = "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro."
+category = "agents"
+tags = ["ai-agents", "llm", "prompt-engineering", "style-guide", "technical-writing", "writing-style"]
+repository = "https://github.com/yzhao062/agent-style"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

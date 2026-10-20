@@ -1,0 +1,9 @@
+name = "database-build"
+description = "In-browser Postgres sandbox with AI assistance (formerly postgres.new)"
+category = "models"
+tags = ["ai", "browser", "llm", "pglite", "postgres"]
+repository = "https://github.com/supabase-community/database-build"
+website = "https://database.build"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

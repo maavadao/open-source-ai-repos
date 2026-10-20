@@ -1,0 +1,9 @@
+name = "accessibility-agents"
+description = "Accessibility review agents for Claude Code, GitHub Copilot, and Claude Desktop. Eleven specialists that enforce WCAG 2.2 AA compliance so AI coding tools stop generating inaccessible code."
+category = "coding"
+tags = ["a11y", "accessibility", "ai-agents", "aria", "assistive-technology", "claude", "claude-code", "copilot"]
+repository = "https://github.com/Community-Access/accessibility-agents"
+website = "https://github.com/taylorarndt/a11y-agent-team#readme"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

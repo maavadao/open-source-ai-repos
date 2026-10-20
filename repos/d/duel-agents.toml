@@ -1,0 +1,9 @@
+name = "Duel-Agents"
+description = "CLI, SDK, and IDE plugins for Duel Agents"
+category = "coding"
+tags = ["ai-agents", "anthropic", "claude-code", "cli", "cursor", "duel-agents", "llm", "npm"]
+repository = "https://github.com/2aronS/Duel-Agents"
+website = "https://duelagents.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

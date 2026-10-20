@@ -1,0 +1,9 @@
+name = "chipper"
+description = "AI interface for tinkerers (Ollama, Haystack RAG, Python)"
+category = "local-llms"
+tags = ["embedding", "llm", "llm-inference", "ollama", "ollama-api", "ollama-client", "ollama-gui", "rag"]
+repository = "https://github.com/TilmanGriesel/chipper"
+website = "https://chipper.tilmangriesel.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

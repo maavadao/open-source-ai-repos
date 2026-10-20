@@ -1,0 +1,8 @@
+name = "Transformers_for_Text_Classification"
+description = "基于Transformers的文本分类"
+category = "models"
+tags = ["text-classification", "transformers", "nlp"]
+repository = "https://github.com/zhanlaoban/Transformers_for_Text_Classification"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

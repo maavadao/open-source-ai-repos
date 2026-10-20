@@ -1,0 +1,7 @@
+name = "ai-creator-academy"
+description = "Free, open-source curriculum for making money with generative AI image, video, and audio — for creators and agencies."
+category = "coding"
+tags = ["ai-agents", "open-source", "ai", "ai-audio", "ai-avatars", "ai-filmmaking", "ai-image", "ai-influencer"]
+repository = "https://github.com/Anil-matcha/ai-creator-academy"
+license = "MIT"
+added = 2026-10-20

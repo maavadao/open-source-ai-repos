@@ -1,0 +1,9 @@
+name = "serve"
+description = "Build multimodal AI applications with cloud-native stack"
+category = "llm-apps"
+tags = ["neural-search", "cloud-native", "deep-learning", "machine-learning", "framework", "grpc", "kubernetes", "multimodal"]
+repository = "https://github.com/jina-ai/serve"
+website = "https://jina.ai/serve"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

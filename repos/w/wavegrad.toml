@@ -1,0 +1,8 @@
+name = "WaveGrad"
+description = "Implementation of WaveGrad high-fidelity vocoder from Google Brain in PyTorch."
+category = "speech"
+tags = ["wavegrad", "vocoder", "text-to-speech", "tts", "tts-engines", "speech", "speech-synthesis", "ljspeech"]
+repository = "https://github.com/ivanvovk/WaveGrad"
+license = "BSD-3-Clause"
+language = "Jupyter Notebook"
+added = 2026-10-20

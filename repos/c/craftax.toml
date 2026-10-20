@@ -1,0 +1,8 @@
+name = "Craftax"
+description = "(Crafter + NetHack) in JAX. ICML 2024 Spotlight."
+category = "ml-platforms"
+tags = ["reinforcement-learning", "benchmark", "environment", "machine-learning", "icml-2024"]
+repository = "https://github.com/MichaelTMatthews/Craftax"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

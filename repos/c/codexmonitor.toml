@@ -1,0 +1,9 @@
+name = "CodexMonitor"
+description = "An app to monitor the (Codex) situation"
+category = "coding"
+tags = ["ai", "codex", "linux", "macos", "tauri-app"]
+repository = "https://github.com/Dimillian/CodexMonitor"
+website = "https://www.codexmonitor.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

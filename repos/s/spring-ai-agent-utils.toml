@@ -1,0 +1,9 @@
+name = "spring-ai-agent-utils"
+description = "A Spring AI library that brings Claude Code-inspired tools and agent skills to your AI applications."
+category = "agents"
+tags = ["agentic-patterns", "ai-agents", "ai-context-management", "ai-tools", "spring-ai"]
+repository = "https://github.com/spring-ai-community/spring-ai-agent-utils"
+website = "https://spring-ai-community.github.io/spring-ai-agent-utils"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

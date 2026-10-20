@@ -1,0 +1,8 @@
+name = "AIAlpha"
+description = "Use unsupervised and supervised learning to predict stocks"
+category = "data-science"
+tags = ["artificial-intelligence", "artificial-neural-networks", "lstm", "machine-learning", "stock-price-prediction", "algorithmic-trading", "quantitative-finance", "autoencoder"]
+repository = "https://github.com/VivekPa/AIAlpha"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

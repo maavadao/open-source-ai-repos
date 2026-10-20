@@ -1,0 +1,8 @@
+name = "stable-diffusion-webui-colab"
+description = "stable diffusion webui colab"
+category = "image"
+tags = ["stable-diffusion", "stable-diffusion-web-ui", "stable-diffusion-webui", "colab", "colab-notebook", "colaboratory", "dreambooth", "lora"]
+repository = "https://github.com/camenduru/stable-diffusion-webui-colab"
+license = "Unlicense"
+language = "Jupyter Notebook"
+added = 2026-10-20

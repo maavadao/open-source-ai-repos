@@ -1,0 +1,9 @@
+name = "itr-wala"
+description = "File your Indian income tax return (ITR) from your terminal. Deterministic tax engine, both regimes, AY 2026-27. Claude Code / Codex / Gemini skill."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude", "claude-code", "claude-skills", "codex", "gemini-cli", "income-tax"]
+repository = "https://github.com/karanb192/itr-wala"
+website = "https://itr-wala.karanbansal.in"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,6 @@
+name = "stanford-cme-295-transformers-large-language-models"
+description = "VIP cheatsheet for Stanford's CME 295 Transformers and Large Language Models"
+category = "models"
+repository = "https://github.com/afshinea/stanford-cme-295-transformers-large-language-models"
+license = "MIT"
+added = 2026-10-20

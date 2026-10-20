@@ -1,0 +1,7 @@
+name = "Awesome-Image-Colorization"
+description = "A collection of Deep Learning based Image Colorization and Video Colorization papers."
+category = "learning"
+tags = ["image-colorization", "user-interaction", "papers", "graphics", "computer-vision", "colorization", "user-guided", "automatic-colorization"]
+repository = "https://github.com/MarkMoHR/Awesome-Image-Colorization"
+license = "NOASSERTION"
+added = 2026-10-20

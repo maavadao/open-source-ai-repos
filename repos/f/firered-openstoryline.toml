@@ -1,0 +1,8 @@
+name = "FireRed-OpenStoryline"
+description = "FireRed-OpenStoryline is an AI video editing agent that transforms manual editing into intention-driven directing through natural language interaction, LLM-powered planning, and precise tool orchestration. It facilitates transparent, human-in-the-loop creation with reusable…"
+category = "mcp-servers"
+tags = ["agent", "video-cut", "skills", "chatbot", "video", "video-editing", "video-editing-tools", "langchain"]
+repository = "https://github.com/FireRedTeam/FireRed-OpenStoryline"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

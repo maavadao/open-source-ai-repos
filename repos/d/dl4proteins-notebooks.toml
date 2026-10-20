@@ -1,0 +1,8 @@
+name = "DL4Proteins-notebooks"
+description = "Colab Notebooks covering deep learning tools for biomolecular structure prediction and design"
+category = "learning"
+tags = ["convolutional-neural-networks", "deep-learning", "diffusion-models", "graph-neural-networks", "jupyter-notebooks", "language-model", "neural-networks", "protein-design"]
+repository = "https://github.com/Graylab/DL4Proteins-notebooks"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

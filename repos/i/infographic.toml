@@ -1,0 +1,9 @@
+name = "Infographic"
+description = "An Infographic Generation and Rendering Framework, bring words to life with AI!"
+category = "models"
+tags = ["infographic", "llm", "visualization", "ai", "antv"]
+repository = "https://github.com/antvis/Infographic"
+website = "https://infographic.antv.vision"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

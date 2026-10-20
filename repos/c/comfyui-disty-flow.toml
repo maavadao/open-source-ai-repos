@@ -1,0 +1,8 @@
+name = "ComfyUI-disty-Flow"
+description = "Flow is a custom node designed to provide a user-friendly interface for ComfyUI."
+category = "image"
+tags = ["ai", "comfyui", "comfyui-manager", "comfyui-nodes", "comfyui-workflow", "flux", "genrative-ai", "stable-diffusion"]
+repository = "https://github.com/diStyApps/ComfyUI-disty-Flow"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

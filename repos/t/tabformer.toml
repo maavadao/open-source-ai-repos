@@ -1,0 +1,9 @@
+name = "TabFormer"
+description = "Code & Data for \"Tabular Transformers for Modeling Multivariate Time Series\" (ICASSP, 2021)"
+category = "models"
+tags = ["machine-learning", "artificial-intelligence", "credit-card-dataset", "fraud-detection", "gpt", "bert", "tabular-data", "prsa-dataset"]
+repository = "https://github.com/IBM/TabFormer"
+website = "https://arxiv.org/abs/2011.01843"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

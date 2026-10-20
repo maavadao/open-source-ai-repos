@@ -1,0 +1,9 @@
+name = "pyswip"
+description = "PySwip is a Python-Prolog interface that enables querying SWI-Prolog in your Python programs."
+category = "robotics"
+tags = ["python", "prolog", "swi-prolog", "artificial-intelligence", "expert-systems", "natural-language-processing", "robotics", "logic-programming"]
+repository = "https://github.com/yuce/pyswip"
+website = "https://pyswip.org"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

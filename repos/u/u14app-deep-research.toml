@@ -1,0 +1,9 @@
+name = "deep-research"
+description = "Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server."
+category = "mcp-servers"
+tags = ["deep-research", "deepresearch", "gemini", "anthropic", "deepseek", "grok", "ollama", "openai"]
+repository = "https://github.com/u14app/deep-research"
+website = "https://research.u14.app"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "model-optimization"
+description = "A toolkit to optimize ML models for deployment for Keras and TensorFlow, including quantization and pruning."
+category = "local-llms"
+tags = ["tensorflow", "machine-learning", "deep-learning", "optimization", "quantized-neural-networks", "quantized-networks", "quantized-training", "keras"]
+repository = "https://github.com/tensorflow/model-optimization"
+website = "https://www.tensorflow.org/model_optimization"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

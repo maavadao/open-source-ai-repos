@@ -1,0 +1,10 @@
+name = "paperclip"
+description = "The open-source app everyone uses to manage agents at work"
+category = "agents"
+tags = ["agent-orchestration", "agentic-ai", "ai-agents", "autonomous-agents", "claude-code", "codex", "mcp", "multi-agent"]
+repository = "https://github.com/paperclipai/paperclip"
+website = "https://paperclip.ing"
+license = "MIT"
+language = "TypeScript"
+skill_level = "intermediate"
+added = 2026-10-20

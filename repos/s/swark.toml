@@ -1,0 +1,9 @@
+name = "swark"
+description = "Create architecture diagrams from code automatically using large language models (LLMs)."
+category = "models"
+tags = ["architecture", "llm", "system-design", "visualization", "vscode-extension", "language-model", "developer-tools"]
+repository = "https://github.com/swark-io/swark"
+website = "https://swark.io"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

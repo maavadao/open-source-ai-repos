@@ -1,0 +1,9 @@
+name = "semantix"
+description = "semantic agent kernel which make agent efficient and self-evolve"
+category = "coding"
+tags = ["agent-framework", "agent-orchestration", "agentic-ai", "agents", "ai", "ai-coding"]
+repository = "https://github.com/Gnosil/semantix"
+website = "https://semantix.ensureok.ai"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "UniGoal"
+description = "[CVPR 2025] UniGoal: Towards Universal Zero-shot Goal-oriented Navigation"
+category = "robotics"
+tags = ["3d-scene-graph", "cvpr2025", "embodied-ai", "image-goal-navigation", "instruction-following", "large-language-models", "matterport3d", "navigation"]
+repository = "https://github.com/bagh2178/UniGoal"
+website = "https://bagh2178.github.io/UniGoal/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Friday"
+description = "Private control plane for AI agents"
+category = "coding"
+tags = ["agents", "ai-assistant", "automation", "friday", "openai", "self-hosted", "workflow", "codex"]
+repository = "https://github.com/thesongzhu/Friday"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

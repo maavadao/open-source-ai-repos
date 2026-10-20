@@ -1,0 +1,9 @@
+name = "DeepZero"
+description = "Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parses, decompiles, and analyzes thousands of Windows kernel drivers for exploitable IOCTLs natively using AI agents."
+category = "agents"
+tags = ["ai", "ai-agents", "automated-analysis", "cybersecurity", "exploit-development", "kernel-drivers", "langchain", "llm"]
+repository = "https://github.com/416rehman/DeepZero"
+website = "http://blog.ahmadz.ai/DeepZero/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

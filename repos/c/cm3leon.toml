@@ -1,0 +1,9 @@
+name = "CM3Leon"
+description = "An open source implementation of \"Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning\", an all-new multi modal AI that uses just a decoder to generate both text and images"
+category = "image"
+tags = ["attention", "attention-is-all-you-need", "dalle", "imagegeneration", "multimodal", "multimodal-learning", "multimodality"]
+repository = "https://github.com/kyegomez/CM3Leon"
+website = "https://discord.gg/qUtxnK2NMf"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

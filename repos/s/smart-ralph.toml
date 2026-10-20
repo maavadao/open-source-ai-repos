@@ -1,0 +1,8 @@
+name = "smart-ralph"
+description = "Spec-driven development with smart compaction. Claude Code plugin combining Ralph Wiggum loop with structured specification workflow."
+category = "skills-prompts"
+tags = ["agentic-coding", "ai", "ai-agents", "autonomous-coding", "claude", "claude-code", "claude-code-plugin", "coding-agent"]
+repository = "https://github.com/tzachbon/smart-ralph"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Resume-Matcher"
+description = "The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support."
+category = "vector-databases"
+tags = ["text-similarity", "natural-language-processing", "word-embeddings", "python", "machine-learning", "resume", "vector-search", "resume-builder"]
+repository = "https://github.com/srbhr/Resume-Matcher"
+website = "https://resumematcher.fyi/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

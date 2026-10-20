@@ -1,0 +1,8 @@
+name = "Awesome-LLMs-meet-Multimodal-Generation"
+description = "A curated list of papers on LLMs-based multimodal generation (image, video, 3D and audio)."
+category = "learning"
+tags = ["aigc", "large-language-models", "large-vision-language-models", "multimodal-generation", "multimodal-large-language-models", "multimodal-models", "multimodality", "text-to-3d"]
+repository = "https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

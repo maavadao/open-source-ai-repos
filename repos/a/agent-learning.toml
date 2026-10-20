@@ -1,0 +1,9 @@
+name = "agent_learning"
+description = "A systematic AI Agent development tutorial covering LLM agents, RAG, tool use, memory systems, multi-agent systems, LangChain, LangGraph, MCP, and agentic RL.｜从零开始学 AI Agent 开发 | 系统、全面、实战导向的 Agent 开发教程 | 每日自动追踪 arXiv 最新论文 | Learn AI Agent Development from Scratch"
+category = "mcp-servers"
+tags = ["ai-agent", "llm", "rag", "agent-learning", "agentic-workflow", "ai-agent-tutorial", "dspy", "grpo"]
+repository = "https://github.com/Haozhe-Xing/agent_learning"
+website = "https://haozhe-xing.github.io/agent_learning/"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

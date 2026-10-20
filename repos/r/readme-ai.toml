@@ -1,0 +1,9 @@
+name = "readme-ai"
+description = "README file generator, powered by AI."
+category = "agents"
+tags = ["readme-generator", "readme", "readme-md-generator", "ai", "markdown", "documentation", "developer-tools", "documentation-generator"]
+repository = "https://github.com/eli64s/readme-ai"
+website = "https://eli64s.github.io/readme-ai/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

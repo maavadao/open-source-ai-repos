@@ -1,0 +1,9 @@
+name = "dlwpt-code"
+description = "Code for the book Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann."
+category = "learning"
+tags = ["pytorch", "deep-learning", "deep-neural-networks", "python", "python3"]
+repository = "https://github.com/deep-learning-with-pytorch/dlwpt-code"
+website = "https://www.manning.com/books/deep-learning-with-pytorch"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

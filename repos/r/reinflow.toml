@@ -1,0 +1,9 @@
+name = "ReinFlow"
+description = "[NeurIPS 2025] Flow x RL. \"ReinFlow: Fine-tuning Flow Policy with Online Reinforcement Learning\". Support VLAs e.g., Pi0, Pi0.5, GR00TN1.5. Fully open-sourced."
+category = "robotics"
+tags = ["actorcritic", "flowmatching", "onlinerl", "policygradient", "rl", "robotics", "fine-tuning", "finetuning-rl"]
+repository = "https://github.com/ReinFlow/ReinFlow"
+website = "https://reinflow.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

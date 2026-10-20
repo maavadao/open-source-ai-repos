@@ -1,0 +1,9 @@
+name = "openvino"
+description = "OpenVINO is an open source toolkit for optimizing and deploying AI inference"
+category = "speech"
+tags = ["inference", "deep-learning", "openvino", "ai", "computer-vision", "diffusion-models", "generative-ai", "llm-inference"]
+repository = "https://github.com/openvinotoolkit/openvino"
+website = "https://docs.openvino.ai"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

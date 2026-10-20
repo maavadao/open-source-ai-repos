@@ -1,0 +1,8 @@
+name = "pytracking"
+description = "Visual tracking library based on PyTorch."
+category = "vision"
+tags = ["computer-vision", "tracking", "machine-learning", "visual-tracking"]
+repository = "https://github.com/visionml/pytracking"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

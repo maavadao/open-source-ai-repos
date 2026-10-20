@@ -1,0 +1,9 @@
+name = "Raven"
+description = "The Harness of Harnesses • built for RSI: a trusted, persistent, self-evolving multi-agent ecosystem for all-domain collaboration."
+category = "coding"
+tags = ["ai", "ai-agents", "anthropic", "chatgpt", "claude", "codex", "evermind", "hermes"]
+repository = "https://github.com/EverMind-AI/Raven"
+website = "https://raven.evermind.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

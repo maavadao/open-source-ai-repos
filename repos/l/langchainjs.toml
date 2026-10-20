@@ -1,0 +1,8 @@
+name = "langchainjs"
+description = "The agent engineering platform"
+category = "agents"
+repository = "https://github.com/langchain-ai/langchainjs"
+website = "https://docs.langchain.com/langchain/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

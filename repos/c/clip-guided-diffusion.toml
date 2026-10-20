@@ -1,0 +1,8 @@
+name = "clip-guided-diffusion"
+description = "A CLI tool/python module for generating images from text using guided diffusion and CLIP from OpenAI."
+category = "image"
+tags = ["multimodal", "image-generation", "text-to-image-synthesis", "text-to-image", "openai", "openai-clip", "deep-learning", "artificial-intelligence"]
+repository = "https://github.com/afiaka87/clip-guided-diffusion"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

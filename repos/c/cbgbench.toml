@@ -1,0 +1,8 @@
+name = "CBGBench"
+description = "Official code repository of < CBGBench: Fill in the Blank of Protein-Molecule Complex Binding Graph >"
+category = "image"
+tags = ["benchmark", "diffusion-models", "drug-design", "generative-ai", "generative-model", "molecule-generation"]
+repository = "https://github.com/EDAPINENUT/CBGBench"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

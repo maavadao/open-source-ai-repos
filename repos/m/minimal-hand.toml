@@ -1,0 +1,8 @@
+name = "minimal-hand"
+description = "A minimal solution to hand motion capture from a single color camera at over 100fps. Easy to use, plug to run."
+category = "vision"
+tags = ["computer-vision", "deep-learning", "3d-hand-pose-estimation", "hand-tracking", "hand-motion-capture"]
+repository = "https://github.com/CalciferZh/minimal-hand"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

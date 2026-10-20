@@ -1,0 +1,9 @@
+name = "LMFlow"
+description = "An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Models for All."
+category = "chat"
+tags = ["chatgpt", "deep-learning", "instruction-following", "language-model", "pretrained-models", "pytorch", "transformer"]
+repository = "https://github.com/OptimalScale/LMFlow"
+website = "https://optimalscale.github.io/LMFlow/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

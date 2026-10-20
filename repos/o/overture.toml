@@ -1,0 +1,8 @@
+name = "Overture"
+description = "Overture is an open-source, locally running web interface delivered as an MCP (Model Context Protocol) server that visually maps out the execution plan of any AI coding agent as an interactive flowchart/graph before the agent begins writing code."
+category = "mcp-servers"
+tags = ["ai-agent", "ai-coding", "claude", "claude-code", "copilot", "cursor", "developer-tools", "gemini"]
+repository = "https://github.com/SixHq/Overture"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

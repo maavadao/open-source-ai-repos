@@ -1,0 +1,8 @@
+name = "papr"
+description = "A fast, native RSS reader — plus an agent-facing CLI so your AI agent can read, search and triage your feeds from the shell."
+category = "skills-prompts"
+tags = ["desktop-app", "feed-reader", "react", "rss", "rss-reader", "rust", "tauri", "agent-skills"]
+repository = "https://github.com/l0ng-ai/papr"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

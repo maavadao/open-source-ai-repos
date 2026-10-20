@@ -1,0 +1,8 @@
+name = "obstacle-tower-env"
+description = "Obstacle Tower Environment"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "ml-agents", "deep-learning", "unity-3d", "gym-environment"]
+repository = "https://github.com/Unity-Technologies/obstacle-tower-env"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

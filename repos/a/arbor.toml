@@ -1,0 +1,9 @@
+name = "Arbor"
+description = "A generalist autonomous research agent — runs experiments, researches, and iteratively optimizes, autonomously."
+category = "agents"
+tags = ["agents", "autonomous-agents", "autoresearch"]
+repository = "https://github.com/RUC-NLPIR/Arbor"
+website = "https://ruc-nlpir.github.io/Arbor/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

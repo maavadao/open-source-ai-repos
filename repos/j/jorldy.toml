@@ -1,0 +1,8 @@
+name = "JORLDY"
+description = "Repository for Open Source Reinforcement Learning Framework JORLDY"
+category = "ml-platforms"
+tags = ["framework", "reinforcement-learning", "gym", "mlagents", "pytorch"]
+repository = "https://github.com/kakaoenterprise/JORLDY"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

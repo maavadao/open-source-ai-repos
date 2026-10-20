@@ -1,0 +1,9 @@
+name = "AudioGPT"
+description = "AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head"
+category = "speech"
+tags = ["audio", "gpt", "music", "sound", "speech", "talking-head"]
+repository = "https://github.com/AIGC-Audio/AudioGPT"
+website = "https://huggingface.co/spaces/AIGC-Audio/AudioGPT"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

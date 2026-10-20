@@ -1,0 +1,9 @@
+name = "openakita"
+description = "An open-source AI assistant framework with skills and agent architecture"
+category = "no-code"
+tags = ["agent", "ai", "assistant", "automation", "clawd", "clawdbot", "openclaw", "python"]
+repository = "https://github.com/openakita/openakita"
+website = "http://openakita.ai"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

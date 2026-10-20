@@ -1,0 +1,8 @@
+name = "surf-cli"
+description = "The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tested."
+category = "browser-automation"
+tags = ["ai-agents", "browser-automation", "chrome", "cli", "devtools"]
+repository = "https://github.com/nicobailon/surf-cli"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

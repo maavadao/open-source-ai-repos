@@ -1,0 +1,9 @@
+name = "react-simple-chatbot"
+description = "Easy way to create conversation chats"
+category = "chat"
+tags = ["react", "chat", "chatbot", "conversational-ui"]
+repository = "https://github.com/LucasBassetti/react-simple-chatbot"
+website = "https://lucasbassetti.github.io/react-simple-chatbot/."
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

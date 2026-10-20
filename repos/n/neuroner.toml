@@ -1,0 +1,9 @@
+name = "NeuroNER"
+description = "Named-entity recognition using neural networks. Easy-to-use and state-of-the-art results."
+category = "ml-platforms"
+tags = ["nlp", "machine-learning", "neural-networks", "named-entity-recognition", "deep-learning", "tensorflow"]
+repository = "https://github.com/Franck-Dernoncourt/NeuroNER"
+website = "http://neuroner.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

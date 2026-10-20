@@ -1,0 +1,8 @@
+name = "ai-short-drama"
+description = "AI short-drama story architecture, Studio routing, model-aware shot timelines, continuity, validation, and resumable workflows for Codex and Claude Code."
+category = "coding"
+tags = ["ai-short-drama", "codex-skills", "generative-ai", "prompt-engineering", "storytelling"]
+repository = "https://github.com/Hao0321/ai-short-drama"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

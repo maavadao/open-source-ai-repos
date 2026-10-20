@@ -1,0 +1,9 @@
+name = "llm-beginner"
+description = "《大模型与智能体》电子书与 6 个编程任务：Transformer、mini-GPT、SFT/DPO、RAG、工具调用与编程智能体。"
+category = "agents"
+tags = ["fudannlp", "step-by-step", "agent", "llm", "openmoss"]
+repository = "https://github.com/nndl/llm-beginner"
+website = "https://nndl.ai/llm-agent/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

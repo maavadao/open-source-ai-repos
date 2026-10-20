@@ -1,0 +1,8 @@
+name = "neonavigation"
+description = "A 2-D/3-DOF seamless global/local mobile robot motion planner package for ROS"
+category = "robotics"
+tags = ["robotics", "navigation", "motion-planner"]
+repository = "https://github.com/at-wat/neonavigation"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

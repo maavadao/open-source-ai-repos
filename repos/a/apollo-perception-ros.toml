@@ -1,0 +1,8 @@
+name = "apollo_perception_ros"
+description = "Object detection / tracking / fusion based on Apollo r3.0.0 perception module in ROS"
+category = "robotics"
+tags = ["apollo", "autonomous-vehicles", "autonomous-driving", "self-driving-car", "autonomy", "perception"]
+repository = "https://github.com/cedricxie/apollo_perception_ros"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

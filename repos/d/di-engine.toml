@@ -1,0 +1,9 @@
+name = "DI-engine"
+description = "OpenDILab Decision AI Engine. The Most Comprehensive Reinforcement Learning Framework B.P."
+category = "ml-platforms"
+tags = ["reinforcement-learning", "multiagent-reinforcement-learning", "self-play", "imitation-learning", "inverse-reinforcement-learning", "exploration-exploitation", "distributed-system", "python"]
+repository = "https://github.com/opendilab/DI-engine"
+website = "https://di-engine-docs.readthedocs.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

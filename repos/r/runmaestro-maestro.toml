@@ -1,0 +1,9 @@
+name = "Maestro"
+description = "Agent Orchestration Command Center"
+category = "coding"
+tags = ["ai-agents", "claude-code", "generative-ai", "codex", "opencode"]
+repository = "https://github.com/RunMaestro/Maestro"
+website = "https://RunMaestro.ai"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

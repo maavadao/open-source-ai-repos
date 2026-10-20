@@ -1,0 +1,8 @@
+name = "4DAnyone"
+description = "[SIGGRAPH Asia 2026] 4DAnyone: Create Anyone in 4D from a Casual Monocular Video"
+category = "video"
+tags = ["4d-gaussian-splatting", "generative-ai", "generative-model", "video-generation", "video-world-model"]
+repository = "https://github.com/ant-research/4DAnyone"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

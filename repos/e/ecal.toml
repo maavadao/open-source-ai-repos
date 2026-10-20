@@ -1,0 +1,9 @@
+name = "ecal"
+description = "eCAL - enhanced Communication Abstraction Layer. A high performance publish-subscribe, client-server cross-plattform middleware."
+category = "robotics"
+tags = ["publish-subscribe", "client-server", "google-protobuf", "shared-memory", "autonomous-driving", "interprocess-communication", "ecal", "middleware"]
+repository = "https://github.com/eclipse-ecal/ecal"
+website = "https://ecal.io"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "fromthetensor"
+description = "From the Tensor to Stable Diffusion, a rough outline for a 10 week course."
+category = "learning"
+tags = ["deep-learning", "pytorch", "transformers"]
+repository = "https://github.com/jla524/fromthetensor"
+license = "NOASSERTION"
+added = 2026-10-20

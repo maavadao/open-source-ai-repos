@@ -1,0 +1,8 @@
+name = "open-rag-eval"
+description = "RAG evaluation without the need for \"golden answers\""
+category = "llm-apps"
+tags = ["evaluation-metrics", "rag", "retrieval-augmented-generation", "vectara", "metrics", "rag-evaluation"]
+repository = "https://github.com/vectara/open-rag-eval"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

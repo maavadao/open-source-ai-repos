@@ -1,0 +1,8 @@
+name = "ReconAIzer"
+description = "A Burp Suite extension to add OpenAI (GPT) on Burp and help you with your Bug Bounty recon to discover endpoints, params, URLs, subdomains and more!"
+category = "chat"
+tags = ["bugbounty", "burp-extensions", "burpsuite", "openai", "openai-api", "gpt-4", "openai-chatgpt"]
+repository = "https://github.com/hisxo/ReconAIzer"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

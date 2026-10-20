@@ -1,0 +1,9 @@
+name = "infinity"
+description = "Infinity is a high-throughput, low-latency serving engine for text-embeddings, reranking models, clip, clap and colpali"
+category = "models"
+tags = ["llm", "text-embeddings", "bert-embeddings"]
+repository = "https://github.com/michaelfeil/infinity"
+website = "https://michaelfeil.github.io/infinity/"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

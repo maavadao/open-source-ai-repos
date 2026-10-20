@@ -1,0 +1,9 @@
+name = "wandbot"
+description = "wandbot is a technical support bot for Weights & Biases' AI developer tools that can run in Discord, Slack, ChatGPT and Zendesk"
+category = "chat"
+tags = ["ai", "chat", "discord", "gpt", "gpt-4", "openai", "slack", "support-bot"]
+repository = "https://github.com/wandb/wandbot"
+website = "https://www.wandb.ai/site"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

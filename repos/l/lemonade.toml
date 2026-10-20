@@ -1,0 +1,9 @@
+name = "lemonade"
+description = "Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk"
+category = "mcp-servers"
+tags = ["amd", "llama", "llm", "llm-inference", "local-server", "mistral", "npu", "onnxruntime"]
+repository = "https://github.com/lemonade-sdk/lemonade"
+website = "https://lemonade-server.ai/"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

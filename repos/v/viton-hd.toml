@@ -1,0 +1,9 @@
+name = "VITON-HD"
+description = "Official PyTorch implementation of \"VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization\" (CVPR 2021)"
+category = "image"
+tags = ["deep-learning", "image-generation", "normalization", "virtual-try-on", "viton", "clothing-agnostic-representation"]
+repository = "https://github.com/shadow2496/VITON-HD"
+website = "https://psh01087.github.io/VITON-HD"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

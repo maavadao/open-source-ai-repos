@@ -1,0 +1,8 @@
+name = "autoMate"
+description = "Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves"
+category = "no-code"
+tags = ["agent", "ai", "deepseek", "ollama", "omniparser", "rpa", "computeruse", "manus"]
+repository = "https://github.com/yuruotong1/autoMate"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

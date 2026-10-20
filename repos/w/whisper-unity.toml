@@ -1,0 +1,8 @@
+name = "whisper.unity"
+description = "Running speech to text model (whisper.cpp) in Unity3d on your local machine."
+category = "speech"
+tags = ["asr", "stt", "speech-to-text", "openai", "speech-recognition", "whisper", "unity3d"]
+repository = "https://github.com/Macoron/whisper.unity"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

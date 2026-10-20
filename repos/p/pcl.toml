@@ -1,0 +1,9 @@
+name = "pcl"
+description = "Point Cloud Library (PCL)"
+category = "vision"
+tags = ["pcl", "c-plus-plus", "cpp", "pointcloud", "computer-vision", "point-cloud"]
+repository = "https://github.com/PointCloudLibrary/pcl"
+website = "https://pointclouds.org/"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "PufferLib"
+description = "Puffing up reinforcement learning"
+category = "ml-platforms"
+tags = ["reinforcement-learning"]
+repository = "https://github.com/PufferAI/PufferLib"
+website = "https://puffer.ai/"
+license = "MIT"
+language = "C"
+added = 2026-10-20

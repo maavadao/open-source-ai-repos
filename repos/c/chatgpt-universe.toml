@@ -1,0 +1,7 @@
+name = "chatgpt-universe"
+description = "ChatGPT Universe is fleeting notes on ChatGPT, GPT, and large language models (LLMs)"
+category = "chat"
+tags = ["chatgpt", "generative-model", "resource-list", "gpt", "language-models"]
+repository = "https://github.com/cedrickchee/chatgpt-universe"
+license = "MIT"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "RPG-DiffusionMaster"
+description = "[ICML 2024] Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs (RPG)"
+category = "image"
+tags = ["large-language-models", "multimodal-large-language-models", "image-editting", "text-to-image"]
+repository = "https://github.com/YangLing0818/RPG-DiffusionMaster"
+website = "https://proceedings.mlr.press/v235/yang24ai.html"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "agtx"
+description = "🏼 The blackboard for coding agents - agentic development environment for claude code, codex, cursor, opencode, grok and more."
+category = "coding"
+tags = ["claude-code", "spec-driven-development", "opencode", "claude", "codex", "gemini", "vibe-coding", "cursor"]
+repository = "https://github.com/fynnfluegge/agtx"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

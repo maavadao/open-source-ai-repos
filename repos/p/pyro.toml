@@ -1,0 +1,9 @@
+name = "pyro"
+description = "Deep universal probabilistic programming with Python and PyTorch"
+category = "ml-platforms"
+tags = ["python", "pytorch", "machine-learning", "bayesian", "probabilistic-programming", "bayesian-inference", "variational-inference", "probabilistic-modeling"]
+repository = "https://github.com/pyro-ppl/pyro"
+website = "http://pyro.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

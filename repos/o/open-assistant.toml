@@ -1,0 +1,9 @@
+name = "Open-Assistant"
+description = "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so."
+category = "chat"
+tags = ["chatgpt", "language-model", "rlhf", "ai", "assistant", "discord-bot", "machine-learning", "nextjs"]
+repository = "https://github.com/LAION-AI/Open-Assistant"
+website = "https://open-assistant.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

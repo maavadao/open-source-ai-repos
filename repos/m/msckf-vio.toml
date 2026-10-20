@@ -1,0 +1,8 @@
+name = "msckf_vio"
+description = "Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight"
+category = "robotics"
+tags = ["visual-inertial-odometry", "stereo-vision", "ros"]
+repository = "https://github.com/KumarRobotics/msckf_vio"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

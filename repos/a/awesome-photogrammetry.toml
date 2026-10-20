@@ -1,0 +1,7 @@
+name = "awesome-photogrammetry"
+description = "Awesome photogrammetry projects"
+category = "learning"
+tags = ["photogrammetry", "computer-vision", "robotics", "image-processing", "awesome"]
+repository = "https://github.com/awesome-photogrammetry/awesome-photogrammetry"
+license = "NOASSERTION"
+added = 2026-10-20

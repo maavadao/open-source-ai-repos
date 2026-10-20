@@ -1,0 +1,9 @@
+name = "Mish"
+description = "Official Repository for \"Mish: A Self Regularized Non-Monotonic Neural Activation Function\" [BMVC 2020]"
+category = "vision"
+tags = ["deep-learning", "activation-functions", "mathematics", "neural-networks", "computer-vision", "bmvc", "bmvc20", "object-detection"]
+repository = "https://github.com/digantamisra98/Mish"
+website = "https://www.bmva-archive.org.uk/bmvc/2020/assets/papers/0928.pdf"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

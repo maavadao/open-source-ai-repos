@@ -1,0 +1,8 @@
+name = "zero123plus"
+description = "Code repository for Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model."
+category = "image"
+tags = ["3d", "3d-graphics", "aigc", "diffusers", "diffusion-models", "image-to-3d", "research-project", "text-to-3d"]
+repository = "https://github.com/SUDO-AI-3D/zero123plus"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

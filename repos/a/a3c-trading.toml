@@ -1,0 +1,8 @@
+name = "a3c_trading"
+description = "Trading with recurrent actor-critic reinforcement learning"
+category = "ml-platforms"
+tags = ["trading", "reinforcement-learning", "tensorflow"]
+repository = "https://github.com/evgps/a3c_trading"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

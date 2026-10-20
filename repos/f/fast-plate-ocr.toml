@@ -1,0 +1,9 @@
+name = "fast-plate-ocr"
+description = "Lightweight & fast OCR models for license plate text recognition."
+category = "documents"
+tags = ["plate-recognition", "plate-ocr", "license-plate-recognition", "jax", "keras3", "onnx", "pytorch", "tensorflow"]
+repository = "https://github.com/ankandrew/fast-plate-ocr"
+website = "https://ankandrew.github.io/fast-plate-ocr/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

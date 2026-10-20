@@ -1,0 +1,9 @@
+name = "siamese-fc"
+description = "Arbitrary object tracking at 50-100 FPS with Fully Convolutional Siamese networks."
+category = "vision"
+tags = ["object-tracking", "siamese-network", "deep-learning", "computer-vision", "machine-learning"]
+repository = "https://github.com/bertinetto/siamese-fc"
+website = "http://www.robots.ox.ac.uk/~luca/siamese-fc.html"
+license = "MIT"
+language = "MATLAB"
+added = 2026-10-20

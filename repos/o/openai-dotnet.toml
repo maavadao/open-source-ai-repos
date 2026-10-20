@@ -1,0 +1,9 @@
+name = "openai-dotnet"
+description = "The official .NET library for the OpenAI API"
+category = "other"
+tags = ["csharp", "dotnet", "openai"]
+repository = "https://github.com/openai/openai-dotnet"
+website = "https://www.nuget.org/packages/OpenAI"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

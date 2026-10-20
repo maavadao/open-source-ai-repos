@@ -1,0 +1,9 @@
+name = "JarvisEvo"
+description = "[CVPR' 2026] JarvisEvo: Towards a Self-Evolving Photo Editing Agent with Synergistic Editor-Evaluator Optimization"
+category = "agents"
+tags = ["agents", "editing-image", "lightroom", "rlhf", "mllm", "vlm"]
+repository = "https://github.com/LYL1015/JarvisEvo"
+website = "https://jarvisevo.vercel.app/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

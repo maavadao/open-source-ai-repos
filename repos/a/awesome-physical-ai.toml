@@ -1,0 +1,7 @@
+name = "awesome-physical-ai"
+description = "A curated list of academic papers and resources on Physical AI — focusing on Vision-Language-Action (VLA) models, world models, embodied ai, and robotic foundation models."
+category = "learning"
+tags = ["embodied-ai", "foundational-models", "physical-ai", "robotics", "visual-language-action-models", "vla", "awesome"]
+repository = "https://github.com/keon/awesome-physical-ai"
+license = "CC0-1.0"
+added = 2026-10-20

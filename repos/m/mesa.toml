@@ -1,0 +1,9 @@
+name = "mesa"
+description = "Mesa is an open-source Python library for agent-based modeling, ideal for simulating complex systems and exploring emergent behaviors."
+category = "agents"
+tags = ["mesa", "agent-based-modeling", "agent-based-simulation", "simulation-framework", "simulation", "simulation-environment", "complex-systems", "complexity-analysis"]
+repository = "https://github.com/mesa/mesa"
+website = "https://mesa.readthedocs.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

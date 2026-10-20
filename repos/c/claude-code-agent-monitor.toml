@@ -1,0 +1,9 @@
+name = "Claude-Code-Agent-Monitor"
+description = "A real-time monitoring dashboard for Claude Code & Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, & WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchestration, providing live analytics, a Kanban status board, status…"
+category = "skills-prompts"
+tags = ["claude-agents", "claude-code", "claude-skills", "express", "expressjs", "node", "nodejs", "python"]
+repository = "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
+website = "https://hoangsonww.github.io/Claude-Code-Agent-Monitor/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

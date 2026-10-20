@@ -1,0 +1,8 @@
+name = "comfyui-prompt-reader-node"
+description = "The ultimate solution for managing image metadata and multi-tool compatibility. ComfyUI node version of the SD Prompt Reader"
+category = "image"
+tags = ["comfyui", "comfyui-workflow", "prompt-engineering", "prompt-toolkit", "stable-diffusion", "stable-diffusion-webui"]
+repository = "https://github.com/receyuki/comfyui-prompt-reader-node"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

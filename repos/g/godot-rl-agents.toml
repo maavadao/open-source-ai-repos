@@ -1,0 +1,8 @@
+name = "godot_rl_agents"
+description = "An Open Source package that allows video game creators, AI researchers and hobbyists the opportunity to learn complex behaviors for their Non Player Characters or agents"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "simulation", "godot"]
+repository = "https://github.com/edbeeching/godot_rl_agents"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

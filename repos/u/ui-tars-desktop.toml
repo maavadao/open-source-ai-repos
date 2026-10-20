@@ -1,0 +1,9 @@
+name = "UI-TARS-desktop"
+description = "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra"
+category = "mcp-servers"
+tags = ["agent", "vlm", "vision", "computer-use", "mcp", "mcp-server", "gui-operator", "browser-use"]
+repository = "https://github.com/bytedance/UI-TARS-desktop"
+website = "https://agent-tars.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

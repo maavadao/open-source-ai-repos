@@ -1,0 +1,8 @@
+name = "flame"
+description = "A minimal training framework for scaling FLA models"
+category = "models"
+tags = ["large-language-models", "sequence-modeling", "flash-linear-attention"]
+repository = "https://github.com/fla-org/flame"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

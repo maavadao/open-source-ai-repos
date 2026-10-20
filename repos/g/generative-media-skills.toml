@@ -1,0 +1,9 @@
+name = "Generative-Media-Skills"
+description = "Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai."
+category = "mcp-servers"
+tags = ["agent-skills", "agent-tools", "ai-agents", "ai-video", "claude-code", "claude-code-skills", "fal-ai-alternative", "flux"]
+repository = "https://github.com/SamurAIGPT/Generative-Media-Skills"
+website = "https://muapi.ai?utm_source=github&utm_medium=about&utm_campaign=generative-media-skills"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

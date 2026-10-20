@@ -1,0 +1,9 @@
+name = "babysitter"
+description = "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration"
+category = "skills-prompts"
+tags = ["agent-orchestration", "agent-skills", "agentic-ai", "agentic-workflow", "ai-automation", "babysitter", "claude-code", "claude-skills"]
+repository = "https://github.com/a5c-ai/babysitter"
+website = "https://a5c.ai"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

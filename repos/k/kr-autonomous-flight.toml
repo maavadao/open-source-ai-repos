@@ -1,0 +1,8 @@
+name = "kr_autonomous_flight"
+description = "KR (KumarRobotics) autonomous flight system for GPS-denied quadrotors"
+category = "robotics"
+tags = ["uav", "autonomous-flight", "autonomous-quadcoptor", "autonomous-navigation", "autonomous-uav", "ros"]
+repository = "https://github.com/KumarRobotics/kr_autonomous_flight"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

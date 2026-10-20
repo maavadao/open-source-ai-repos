@@ -1,0 +1,9 @@
+name = "qdrant-js"
+description = "JavaScript/Typescript SDK for Qdrant Vector Database"
+category = "vector-databases"
+tags = ["javascript", "sdk", "sdk-typescript", "typescript", "vector-database"]
+repository = "https://github.com/qdrant/qdrant-js"
+website = "https://qdrant.tech"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

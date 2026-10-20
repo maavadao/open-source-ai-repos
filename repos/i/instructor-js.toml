@@ -1,0 +1,9 @@
+name = "instructor-js"
+description = "structured extraction for llms"
+category = "models"
+tags = ["llm", "openai", "zod"]
+repository = "https://github.com/567-labs/instructor-js"
+website = "https://js.useinstructor.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

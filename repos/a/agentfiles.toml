@@ -1,0 +1,9 @@
+name = "agentfiles"
+description = "Browse, create, and edit AI agent files across Claude Code, Cursor, Codex, and 12 coding tools — from Obsidian."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "ai-tools", "claude-code", "codex", "coding-agents", "copilot", "cursor"]
+repository = "https://github.com/Railly/agentfiles"
+website = "https://agentfiles.crafter.run"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

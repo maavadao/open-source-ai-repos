@@ -1,0 +1,8 @@
+name = "skills"
+description = "Skills for Real Engineers. Straight from my .agents directory."
+category = "skills-prompts"
+repository = "https://github.com/mattpocock/skills"
+website = "https://aihero.dev/skills"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

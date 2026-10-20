@@ -1,0 +1,8 @@
+name = "UAV_Obstacle_Avoiding_DRL"
+description = "This is a project about deep reinforcement learning autonomous obstacle avoidance algorithm for UAV."
+category = "ml-platforms"
+tags = ["reinforcement-learning", "reinforcement-learning-algorithms", "uav"]
+repository = "https://github.com/ZYunfeii/UAV_Obstacle_Avoiding_DRL"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

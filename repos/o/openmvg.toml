@@ -1,0 +1,8 @@
+name = "openMVG"
+description = "open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion."
+category = "robotics"
+tags = ["geometry", "computer-vision", "openmvg", "structure-from-motion", "sfm", "multiple-view-geometry", "drone", "photogrammetry"]
+repository = "https://github.com/openMVG/openMVG"
+license = "MPL-2.0"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "RWKV-LM"
+description = "RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 \"Goose\". So it's combining the best of RNN and transformer - great performance, linear time, constant space (no…"
+category = "chat"
+tags = ["attention-mechanism", "deep-learning", "gpt", "gpt-2", "gpt-3", "language-model", "linear-attention", "lstm"]
+repository = "https://github.com/BlinkDL/RWKV-LM"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

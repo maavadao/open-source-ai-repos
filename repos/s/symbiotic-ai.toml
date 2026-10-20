@@ -1,0 +1,9 @@
+name = "symbiotic-ai"
+description = "A symbiotic AI agent that remembers everything, challenges you, and extends your cognition."
+category = "skills-prompts"
+tags = ["agent", "ai", "ai-agents", "assistant", "claude", "claude-code", "agent-skills"]
+repository = "https://github.com/lout33/symbiotic-ai"
+website = "https://symbiotic.makestudio.app/"
+license = "NOASSERTION"
+language = "Shell"
+added = 2026-10-20

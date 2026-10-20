@@ -1,0 +1,9 @@
+name = "SnapOtter"
+description = "Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your network."
+category = "security"
+tags = ["ai", "docker", "homelab", "image-editor", "image-processing", "open-source", "self-hosted", "privacy"]
+repository = "https://github.com/snapotter-hq/SnapOtter"
+website = "https://snapotter.com"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

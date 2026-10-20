@@ -1,0 +1,9 @@
+name = "OpenThesis"
+description = "Open-source, model-agnostic AI company research for long-term investors. · 面向长期投资者的开源、模型无关 AI 公司研究系统。"
+category = "agents"
+tags = ["agentic-ai", "ai", "ai-agents", "artificial-intelligence", "data-analysis", "finance", "financial-analysis", "financial-data"]
+repository = "https://github.com/zjy1346/OpenThesis"
+website = "https://openthesis.cc.cd/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

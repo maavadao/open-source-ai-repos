@@ -1,0 +1,9 @@
+name = "ReinforcementLearning.jl"
+description = "A reinforcement learning package for Julia"
+category = "ml-platforms"
+tags = ["julia", "reinforcement-learning", "machine-learning", "deep-reinforcement-learning", "deep-q-network"]
+repository = "https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl"
+website = "https://juliareinforcementlearning.org"
+license = "NOASSERTION"
+language = "Julia"
+added = 2026-10-20

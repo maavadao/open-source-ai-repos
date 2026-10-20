@@ -1,0 +1,8 @@
+name = "mahalanobis_3d_multi_object_tracking"
+description = "[NeurIPS Workshop 2019] Official code of the paper \"Probabilistic 3D Multi-Object Tracking for Autonomous Driving.\" First Place of the First NuScenes Tracking Challenge in the AI Driving Olympics Workshop of NeurIPS."
+category = "robotics"
+tags = ["3d-multi-object-tracking", "autonomous-driving", "computer-vision", "kalman-filter", "robotics"]
+repository = "https://github.com/eddyhkchiu/mahalanobis_3d_multi_object_tracking"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

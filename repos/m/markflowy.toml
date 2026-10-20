@@ -1,0 +1,9 @@
+name = "MarkFlowy"
+description = "A high-performance, cross-platform editor that supports WYSIWYG Markdown and general text editing."
+category = "chat"
+tags = ["tauri", "markdown", "markdowneditor", "chatgpt", "editor", "prosemirror", "linux-app", "macos-app"]
+repository = "https://github.com/drl990114/MarkFlowy"
+website = "https://www.markflowy.cc"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

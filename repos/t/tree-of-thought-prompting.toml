@@ -1,0 +1,7 @@
+name = "tree-of-thought-prompting"
+description = "Using Tree-of-Thought Prompting to boost ChatGPT's reasoning"
+category = "models"
+tags = ["large-language-models", "llm", "prompt-engineering"]
+repository = "https://github.com/dave1010/tree-of-thought-prompting"
+license = "MIT"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "bkit-claude-code"
+description = "bkit Vibecoding Kit - PDCA methodology + Claude Code mastery for AI-native development"
+category = "coding"
+tags = ["ai-agents", "ai-native-development", "claude-code", "multi-language", "pdca", "pipeline", "plugin-repo", "ai-driven-work"]
+repository = "https://github.com/ww-w-ai/bkit-claude-code"
+website = "https://bkit.ai"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

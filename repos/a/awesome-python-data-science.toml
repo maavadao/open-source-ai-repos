@@ -1,0 +1,8 @@
+name = "awesome-python-data-science"
+description = "Probably the best curated list of data science software in Python."
+category = "learning"
+tags = ["awesome", "awesome-list", "awesome-python", "scikit-learn", "python", "deep-learning", "machine-learning", "data-science"]
+repository = "https://github.com/krzjoa/awesome-python-data-science"
+website = "https://krzjoa.github.io/awesome-python-data-science"
+license = "CC-BY-4.0"
+added = 2026-10-20

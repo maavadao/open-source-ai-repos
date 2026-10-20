@@ -1,0 +1,8 @@
+name = "whisper.rn"
+description = "React Native binding of whisper.cpp."
+category = "speech"
+tags = ["openai", "react-native", "whisper", "whisper-cpp", "speech-recognition"]
+repository = "https://github.com/mybigday/whisper.rn"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

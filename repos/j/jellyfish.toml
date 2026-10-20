@@ -1,0 +1,9 @@
+name = "Jellyfish"
+description = "An end-to-end production workspace for AI-generated short dramas. From script input to structured storyboarding, consistency management, shot preparation, video generation, and export."
+category = "video"
+tags = ["ai", "short-drama"]
+repository = "https://github.com/Forget-C/Jellyfish"
+website = "https://forget-c.github.io/Jellyfish"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

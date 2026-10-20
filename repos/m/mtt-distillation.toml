@@ -1,0 +1,9 @@
+name = "mtt-distillation"
+description = "Official code for our CVPR '22 paper \"Dataset Distillation by Matching Training Trajectories\""
+category = "vision"
+tags = ["computer-vision", "machine-learning", "artificial-intelligence", "synthetic-data"]
+repository = "https://github.com/GeorgeCazenavette/mtt-distillation"
+website = "https://georgecazenavette.github.io/mtt-distillation/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

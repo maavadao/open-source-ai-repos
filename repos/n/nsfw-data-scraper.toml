@@ -1,0 +1,8 @@
+name = "nsfw_data_scraper"
+description = "Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier"
+category = "ml-platforms"
+tags = ["nsfw-classifier", "nsfw", "deep-learning", "content-moderation", "pornography", "machine-learning"]
+repository = "https://github.com/alex000kim/nsfw_data_scraper"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

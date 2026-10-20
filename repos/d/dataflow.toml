@@ -1,0 +1,9 @@
+name = "DataFlow"
+description = "[SIGMOD'27] Easy Data Preparation with latest LLMs-based Operators and Pipelines."
+category = "models"
+tags = ["data", "data-cleaning", "data-pipelines", "data-processing", "data-science", "data-synthesis", "llms", "operators"]
+repository = "https://github.com/OpenDCAI/DataFlow"
+website = "https://OpenDCAI.github.io/DataFlow-Doc/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "maro"
+description = "Multi-Agent Resource Optimization (MARO) platform is an instance of Reinforcement Learning as a Service (RaaS) for real-world resource optimization problems."
+category = "agents"
+tags = ["reinforcement-learning", "multi-agent-reinforcement-learning", "multi-agent", "simulator", "resource-optimization", "operations-research", "citi-bike", "inventory-management"]
+repository = "https://github.com/microsoft/maro"
+website = "https://maro.readthedocs.io/en/latest/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

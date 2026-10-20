@@ -1,0 +1,9 @@
+name = "monocle"
+description = "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written in Python."
+category = "local-llms"
+tags = ["generative-ai", "linux-foundation", "llms", "observability", "oss", "python", "telemetry", "tracing"]
+repository = "https://github.com/monocle2ai/monocle"
+website = "http://monocle2ai.org"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

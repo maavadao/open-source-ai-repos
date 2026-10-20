@@ -1,0 +1,9 @@
+name = "autocrop"
+description = "Automatically detects and crops faces from batches of pictures."
+category = "vision"
+tags = ["opencv", "face-detection", "face", "computer-vision", "crop", "autocrop", "python", "pictures"]
+repository = "https://github.com/leblancfg/autocrop"
+website = "http://leblancfg.com/autocrop/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

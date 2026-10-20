@@ -1,0 +1,9 @@
+name = "instill-core"
+description = "Instill Core is a full-stack AI infrastructure tool for data, model and pipeline orchestration, designed to streamline every aspect of building versatile AI-first applications"
+category = "no-code"
+tags = ["unstructured-data", "low-code", "developer-tools", "etl", "no-code", "open-source", "hacktoberfest", "ai"]
+repository = "https://github.com/instill-ai/instill-core"
+website = "https://www.instill-ai.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

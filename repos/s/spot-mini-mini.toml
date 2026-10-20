@@ -1,0 +1,9 @@
+name = "spot_mini_mini"
+description = "Dynamics and Domain Randomized Gait Modulation with Bezier Curves for Sim-to-Real Legged Locomotion."
+category = "robotics"
+tags = ["quadruped", "locomotion", "reinforcement-learning", "pybullet", "environment", "ros", "optimization", "control"]
+repository = "https://github.com/OpenQuadruped/spot_mini_mini"
+website = "https://moribots.github.io/project/spot-mini-mini"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

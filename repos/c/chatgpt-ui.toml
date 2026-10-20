@@ -1,0 +1,9 @@
+name = "chatgpt-ui"
+description = "A ChatGPT web client that supports multiple users, multiple languages, and multiple database connections for persistent data storage. Provides Docker images and quick deployment scripts."
+category = "chat"
+tags = ["chatgpt", "openai", "chatgpt-client", "node-chatgpt", "nuxt-chatgpt", "vue-chatgpt", "docker", "docker-chatgpt"]
+repository = "https://github.com/WongSaang/chatgpt-ui"
+website = "https://wongsaang.github.io/chatgpt-ui/"
+license = "MIT"
+language = "Vue"
+added = 2026-10-20

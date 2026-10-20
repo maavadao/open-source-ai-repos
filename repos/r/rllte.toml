@@ -1,0 +1,9 @@
+name = "rllte"
+description = "Long-Term Evolution Project of Reinforcement Learning"
+category = "robotics"
+tags = ["benchmark-framework", "long-term-project", "machine-learning", "reinforcement-learning", "robotics", "deep-learning", "gym", "huggingface"]
+repository = "https://github.com/RLE-Foundation/rllte"
+website = "https://rllte.rlevolution.org"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

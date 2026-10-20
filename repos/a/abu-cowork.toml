@@ -1,0 +1,9 @@
+name = "Abu-Cowork"
+description = "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first · multi-Harness roadmap · DeepSeek Harness integration in progress"
+category = "learning"
+tags = ["ai-agent", "ai-assistant", "automation", "desktop-app", "llm", "local-first", "mcp", "privacy"]
+repository = "https://github.com/PM-Shawn/Abu-Cowork"
+website = "https://abuwork.com"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

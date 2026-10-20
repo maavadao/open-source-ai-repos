@@ -1,0 +1,9 @@
+name = "MultiGen"
+description = "Multi-agent end-to-end application - General-purpose artificial intelligence agent for multimodal agent collaboration"
+category = "agents"
+tags = ["docker", "sandbox", "agents", "a2a-agent", "multi-agent-systems", "vnc", "reactagent", "x11vnc"]
+repository = "https://github.com/lingyuanli/MultiGen"
+website = "https://www.manus.llmops.org.cn"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

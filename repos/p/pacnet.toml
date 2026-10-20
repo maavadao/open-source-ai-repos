@@ -1,0 +1,9 @@
+name = "pacnet"
+description = "Pixel-Adaptive Convolutional Neural Networks (CVPR '19)"
+category = "vision"
+tags = ["deep-learning", "machine-learning", "computer-vision"]
+repository = "https://github.com/NVlabs/pacnet"
+website = "https://suhangpro.github.io/pac/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

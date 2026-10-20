@@ -1,0 +1,8 @@
+name = "WhisperJAV"
+description = "ASR/STT subtitle generator. Uses Qwen3-ASR, local LLM, Whisper, TEN-VAD. Noise-robust for JAV"
+category = "speech"
+tags = ["aitranslate", "hallucination", "japanese", "llm", "modelscope", "qwen3", "qwen3-asr", "speech-to-text"]
+repository = "https://github.com/meizhong986/WhisperJAV"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Skill-Anything"
+description = "Any source (PDF, video, web, audio, text) to interactive learning package with quizzes, flashcards and spaced repetition. One command, 12-section study guide."
+category = "education"
+tags = ["active-recall", "ai-learning", "cli-tool", "education", "flashcard-generator", "knowledge-extraction", "learning-tool", "llm"]
+repository = "https://github.com/SYuan03/Skill-Anything"
+website = "https://SYuan03.github.io/Skill-Anything/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

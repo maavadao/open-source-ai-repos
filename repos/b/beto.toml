@@ -1,0 +1,7 @@
+name = "beto"
+description = "BETO - Spanish version of the BERT model"
+category = "models"
+tags = ["bert", "bert-model", "transformers", "transformers-library", "nlp", "spanish"]
+repository = "https://github.com/dccuchile/beto"
+license = "CC-BY-4.0"
+added = 2026-10-20

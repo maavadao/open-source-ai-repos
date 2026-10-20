@@ -1,0 +1,9 @@
+name = "diamond"
+description = "DIAMOND (DIffusion As a Model Of eNvironment Dreams) is a reinforcement learning agent trained in a diffusion world model. NeurIPS 2024 Spotlight."
+category = "image"
+tags = ["atari", "deep-learning", "diffusion-models", "machine-learning", "reinforcement-learning", "research", "world-models", "artificial-intelligence"]
+repository = "https://github.com/eloialonso/diamond"
+website = "https://diamond-wm.github.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

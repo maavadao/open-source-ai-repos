@@ -1,0 +1,9 @@
+name = "YuE"
+description = "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing."
+category = "speech"
+tags = ["foundation-models", "music-generation", "huggingface", "llama", "audio-generation", "voice-cloning", "llms", "style-transfers"]
+repository = "https://github.com/multimodal-art-projection/YuE"
+website = "https://map-yue2.github.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

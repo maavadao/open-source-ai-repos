@@ -1,0 +1,8 @@
+name = "muse-maskgit-pytorch"
+description = "Implementation of Muse: Text-to-Image Generation via Masked Generative Transformers, in Pytorch"
+category = "image"
+tags = ["artificial-intelligence", "deep-learning", "text-to-image", "attention-mechanisms", "transformers"]
+repository = "https://github.com/lucidrains/muse-maskgit-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

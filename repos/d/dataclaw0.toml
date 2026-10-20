@@ -1,0 +1,8 @@
+name = "DataClaw0"
+description = "DataClaw: Agentic Tailoring Multimodal Data from Raw Streams — coming soon (code, weights, dataset & DataClaw-val upon acceptance)."
+category = "video"
+tags = ["dataset", "embodied-ai", "grpo", "gui-agents", "multimodal", "sft", "video-generation", "vlm"]
+repository = "https://github.com/vancyland/DataClaw0"
+website = "https://czjdsg.github.io/MakeAnyData/"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "FateZero"
+description = "[ICCV 2023 Oral] \"FateZero: Fusing Attentions for Zero-shot Text-based Video Editing\""
+category = "video"
+tags = ["stable-diffusion", "text-driven-editing", "video-editing", "image-editing", "video-style-transfer"]
+repository = "https://github.com/ChenyangQiQi/FateZero"
+website = "http://fate-zero-edit.github.io/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

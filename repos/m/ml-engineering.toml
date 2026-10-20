@@ -1,0 +1,9 @@
+name = "ml-engineering"
+description = "Machine Learning Engineering Open Book"
+category = "learning"
+tags = ["pytorch", "slurm", "large-language-models", "llm", "machine-learning", "scalability", "transformers", "machine-learning-engineering"]
+repository = "https://github.com/stas00/ml-engineering"
+website = "https://stasosphere.com/machine-learning/"
+license = "CC-BY-SA-4.0"
+language = "Python"
+added = 2026-10-20

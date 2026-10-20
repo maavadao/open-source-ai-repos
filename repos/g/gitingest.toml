@@ -1,0 +1,9 @@
+name = "gitingest"
+description = "Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase"
+category = "other"
+tags = ["ai", "code", "ingestion", "developer-tool"]
+repository = "https://github.com/coderamp-labs/gitingest"
+website = "https://gitingest.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

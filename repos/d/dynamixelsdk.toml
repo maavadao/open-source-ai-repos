@@ -1,0 +1,9 @@
+name = "DynamixelSDK"
+description = "ROBOTIS Dynamixel SDK (Protocol1.0/2.0)"
+category = "robotics"
+tags = ["robotis", "robot", "dynamixel", "dynamixelsdk", "sdk", "arduino", "ros", "package"]
+repository = "https://github.com/ROBOTIS-GIT/DynamixelSDK"
+website = "http://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/overview/"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

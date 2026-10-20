@@ -1,0 +1,8 @@
+name = "AIHub"
+description = "一款集合多家大模型能力的客户端。拥有丰富的个性化功能。现已支持：OpenAI，Ollama，谷歌 Gemini，讯飞星火，百度文心，阿里通义，天工，月之暗面，智谱，阶跃星辰，DeepSeek 。A collection of large model capabilities of the client. Has a wealth of personalized functions. English UI support."
+category = "chat"
+tags = ["chatgpt", "electron", "gemini", "macos", "vue", "windows", "knowledge-base", "llm"]
+repository = "https://github.com/classfang/AIHub"
+license = "Apache-2.0"
+language = "Vue"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "mobilewright"
+description = "Mobilewright is a dev framework for Mobile App Testing and Automation. It allows testing iOS/Android app on real devices, emulators and simulators with a single API."
+category = "browser-automation"
+tags = ["android", "app", "e2e-testing", "end-to-end-testing", "ios", "real-device-automation", "real-devices", "mobilewright"]
+repository = "https://github.com/mobile-next/mobilewright"
+website = "https://mobilewright.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

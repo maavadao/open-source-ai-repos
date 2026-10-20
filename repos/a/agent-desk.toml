@@ -1,0 +1,9 @@
+name = "agent-desk"
+description = "Open-source AI customer support system. AI-first support, human-ready operations."
+category = "chat"
+tags = ["ai-agent", "chatbot", "customer-support", "customer-support-ai", "golang", "helpdesk", "knowledge-base", "live-chat"]
+repository = "https://github.com/huabeitech/agent-desk"
+website = "https://agent-desk.huabei.pro"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

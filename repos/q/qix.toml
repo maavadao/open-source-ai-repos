@@ -1,0 +1,8 @@
+name = "Qix"
+description = "Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang"
+category = "ml-platforms"
+tags = ["machine-learning", "distributed-systems", "postgresql", "deep-learning", "go", "awesome", "distributed-computing", "distributed-database"]
+repository = "https://github.com/ty4z2008/Qix"
+website = "http://ty4z2008.github.io/Qix"
+license = "NOASSERTION"
+added = 2026-10-20

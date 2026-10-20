@@ -1,0 +1,8 @@
+name = "keras_Realtime_Multi-Person_Pose_Estimation"
+description = "Keras version of Realtime Multi-Person Pose Estimation project"
+category = "vision"
+tags = ["pose-estimation", "keras", "caffe", "deep-learning", "computer-vision", "cvpr-2017", "real-time", "human-behavior-understanding"]
+repository = "https://github.com/michalfaber/keras_Realtime_Multi-Person_Pose_Estimation"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

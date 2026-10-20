@@ -1,0 +1,9 @@
+name = "neuron-ai"
+description = "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs, memory) to agents that interact with your data and UI."
+category = "vector-databases"
+tags = ["agentic-ai", "agentic-framework", "ai", "llm", "llm-inference", "llms", "vector-database", "php"]
+repository = "https://github.com/neuron-core/neuron-ai"
+website = "https://neuron-ai.dev"
+license = "MIT"
+language = "PHP"
+added = 2026-10-20

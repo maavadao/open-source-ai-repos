@@ -1,0 +1,8 @@
+name = "axodox-machinelearning"
+description = "This repository contains a pure C++ ONNX implementation of multiple offline AI models, such as StableDiffusion (1.5 and XL), ControlNet, Midas, HED and OpenPose."
+category = "image"
+tags = ["cpp", "image-generation", "mit-license", "native", "nuget", "onnx", "stable-diffusion", "directml"]
+repository = "https://github.com/axodox/axodox-machinelearning"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

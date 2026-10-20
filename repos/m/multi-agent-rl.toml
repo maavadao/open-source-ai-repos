@@ -1,0 +1,9 @@
+name = "Multi-agent-RL"
+description = "Projects from basic algorithms to MARL. Implements MADDPG,MATD3,MA/HAPPO in Predator-Prey pursuit games with PettingZoo MPE environments."
+category = "ml-platforms"
+tags = ["maddpg-pytorch", "marl", "multiagent-particle-environment", "multiplayer", "reinforcement-learning", "petting", "pettingzoo", "matd3"]
+repository = "https://github.com/Ronchy2000/Multi-agent-RL"
+website = "https://deepwiki.com/Ronchy2000/Multi-agent-RL"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

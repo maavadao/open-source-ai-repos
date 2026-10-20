@@ -1,0 +1,9 @@
+name = "frigate"
+description = "NVR with realtime local object detection for IP cameras"
+category = "vision"
+tags = ["rtsp", "realtime", "tensorflow", "google-coral", "mqtt", "nvr", "camera", "home-assistant"]
+repository = "https://github.com/blakeblackshear/frigate"
+website = "https://frigate.video"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "pyrobosim"
+description = "2D mobile robot simulator for behavior prototyping with optional ROS 2 interface."
+category = "robotics"
+tags = ["python", "robotics", "behavior", "simulation"]
+repository = "https://github.com/sea-bass/pyrobosim"
+website = "https://pyrobosim.readthedocs.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

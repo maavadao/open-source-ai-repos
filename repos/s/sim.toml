@@ -1,0 +1,9 @@
+name = "sim"
+description = "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders."
+category = "no-code"
+tags = ["agentic-workflow", "agents", "ai", "nextjs", "typescript", "agent-workflow", "aiagents", "anthropic"]
+repository = "https://github.com/simstudioai/sim"
+website = "https://www.sim.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

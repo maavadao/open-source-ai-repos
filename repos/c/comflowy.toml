@@ -1,0 +1,9 @@
+name = "comflowy"
+description = "Unleash endless possibilities with ComfyUI and Stable Diffusion, committed to crafting refined AI-Gen tools and cultivating a vibrant community for both developers and users."
+category = "image"
+tags = ["comfyui", "stable-diffusion", "stable-diffusion-webui"]
+repository = "https://github.com/6174/comflowy"
+website = "https://www.comflowy.com/"
+license = "NOASSERTION"
+language = "MDX"
+added = 2026-10-20

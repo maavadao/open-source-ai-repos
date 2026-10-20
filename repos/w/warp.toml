@@ -1,0 +1,9 @@
+name = "warp"
+description = "Warp is an agentic development environment, born out of the terminal."
+category = "agents"
+tags = ["rust", "linux", "macos", "terminal", "bash", "zsh", "wasm", "shell"]
+repository = "https://github.com/warpdotdev/warp"
+website = "https://warp.dev"
+license = "AGPL-3.0"
+language = "Rust"
+added = 2026-10-20

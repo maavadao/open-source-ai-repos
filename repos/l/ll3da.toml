@@ -1,0 +1,9 @@
+name = "LL3DA"
+description = "[CVPR 2024] \"LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning\"; an interactive Large Language 3D Assistant."
+category = "vision"
+tags = ["3d", "3d-models", "gpt", "instruction-tuning", "language-model", "llm", "multi-modal", "3d-to-text"]
+repository = "https://github.com/Open3DA/LL3DA"
+website = "https://ll3da.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

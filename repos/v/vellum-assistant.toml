@@ -1,0 +1,9 @@
+name = "vellum-assistant"
+description = "An AI Assistant that’s easy to setup, does your work 24/7, knows your preferences and gets better over time."
+category = "coding"
+tags = ["ai-assistant", "anthropic", "macos", "open-source", "openai", "telegram-bot", "agent", "agentic-ai"]
+repository = "https://github.com/vellum-ai/vellum-assistant"
+website = "https://vellum.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

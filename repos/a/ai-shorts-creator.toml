@@ -1,0 +1,8 @@
+name = "AI-Shorts-Creator"
+description = "AI-Video-Cropper is a Python-based tool that leverages the power of GPT-4 (OpenAI's language model) to automatically analyze videos, extract the most interesting sections, and crop them for improved viewing experience. This project combines the capabilities of GPT-4, FFmpeg…"
+category = "vision"
+tags = ["face-detection", "ffmpeg", "gpt4", "openai", "opencv", "python", "youtube"]
+repository = "https://github.com/NisaarAgharia/AI-Shorts-Creator"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

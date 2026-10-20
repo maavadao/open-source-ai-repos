@@ -1,0 +1,8 @@
+name = "HallusionBench"
+description = "[CVPR'24] HallusionBench: You See What You Think? Or You Think What You See? An Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5, and Other Multi-modality Models"
+category = "models"
+tags = ["benchmark", "vlms", "gpt-4", "gpt-4v", "llava", "benchmarks", "hallucination", "llm"]
+repository = "https://github.com/tianyi-lab/HallusionBench"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

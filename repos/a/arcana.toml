@@ -1,0 +1,9 @@
+name = "arcana"
+description = "Embeddable RAG library for Elixir/Phoenix with agentic pipelines and dashboard"
+category = "agents"
+tags = ["agent", "elixir", "nx", "rag"]
+repository = "https://github.com/georgeguimaraes/arcana"
+website = "https://hexdocs.pm/arcana"
+license = "Apache-2.0"
+language = "Elixir"
+added = 2026-10-20

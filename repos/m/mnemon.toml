@@ -1,0 +1,9 @@
+name = "mnemon"
+description = "LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with DeepSeek Harness, Claude Code, OpenClaw, and any agent runtime."
+category = "mcp-servers"
+tags = ["agent-memory", "ai-agent", "ai-tools", "claude", "claude-code", "cli", "context-window", "knowledge-graph"]
+repository = "https://github.com/mnemon-dev/mnemon"
+website = "https://mnemon.dev"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

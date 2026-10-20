@@ -1,0 +1,9 @@
+name = "DeepMoji"
+description = "State-of-the-art deep learning model for analyzing sentiment, emotion, sarcasm etc."
+category = "ml-platforms"
+tags = ["machine-learning", "deep-learning", "natural-language-processing", "python", "ai", "keras", "neural-networks", "nlp"]
+repository = "https://github.com/bfelbo/DeepMoji"
+website = "https://deepmoji.mit.edu/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

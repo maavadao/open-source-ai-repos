@@ -1,0 +1,8 @@
+name = "PaperLens"
+description = "AI-Powered Research Assistant for Academic Paper Discovery, Analysis, and Citation Intelligence"
+category = "search"
+tags = ["academic-search", "ai-research", "literature-review-tool", "openalex", "paper-search", "pubmed", "research-tools", "academic-paper"]
+repository = "https://github.com/vanthree31/PaperLens"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "embedding_studio"
+description = "Embedding Studio is a framework which allows you transform your Vector Database into a feature-rich Search Engine."
+category = "vector-databases"
+tags = ["embeddings", "embeddings-similarity", "fine-tuning", "llm-inference", "query-parser", "search-algorithm", "search-engine", "semantic-similarity"]
+repository = "https://github.com/EulerSearch/embedding_studio"
+website = "https://embeddingstud.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

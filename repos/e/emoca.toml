@@ -1,0 +1,9 @@
+name = "emoca"
+description = "Official repository accompanying a CVPR 2022 paper EMOCA: Emotion Driven Monocular Face Capture And Animation. EMOCA takes a single image of a face as input and produces a 3D reconstruction. EMOCA sets the new standard on reconstructing highly emotional images in-the-wild"
+category = "vision"
+tags = ["computer-vision", "face-reconstruction", "emotion-recognition", "cvpr", "pytorch", "pytorch-lightning", "deep-learning", "3d-reconstruction"]
+repository = "https://github.com/radekd91/emoca"
+website = "https://emoca.is.tue.mpg.de/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

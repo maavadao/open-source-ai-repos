@@ -1,0 +1,9 @@
+name = "ClawBio"
+description = "ClawBio - The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Open. Free."
+category = "agents"
+tags = ["ai-agents", "bioinformatics", "equity", "genomics", "local-first", "openclaw", "population-genetics", "reproducibility"]
+repository = "https://github.com/ClawBio/ClawBio"
+website = "https://clawbio.github.io/ClawBio/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

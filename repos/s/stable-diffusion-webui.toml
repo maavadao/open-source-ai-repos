@@ -1,0 +1,9 @@
+name = "stable-diffusion-webui"
+description = "Stable Diffusion web UI"
+category = "image"
+tags = ["deep-learning", "diffusion", "image-generation", "image2image", "img2img", "text2image", "txt2img", "ai"]
+repository = "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
+license = "AGPL-3.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

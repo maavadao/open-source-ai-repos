@@ -1,0 +1,9 @@
+name = "oceanbase"
+description = "OceanBase is the unified distributed database for the AI era — open-source, multi-model, one engine for your most demanding workloads."
+category = "vector-databases"
+tags = ["oceanbase", "paxos", "htap", "cloud-native", "mysql-compatibility", "oltp", "hacktoberfest", "database"]
+repository = "https://github.com/oceanbase/oceanbase"
+website = "https://en.oceanbase.com"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

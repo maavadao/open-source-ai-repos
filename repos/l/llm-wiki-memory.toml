@@ -1,0 +1,8 @@
+name = "llm-wiki-memory"
+description = "Local, git-versioned memory for AI coding agents. No RAG, no Docker, no external service. Capture, compile, recall over a local LLM wiki with on-device embeddings and an MCP server."
+category = "mcp-servers"
+tags = ["agent-memory", "andrej-karpathy", "andrej-karpathy-llm-wiki", "andrej-karpathy-skills", "claude-code", "embeddings", "llm-wiki", "memory"]
+repository = "https://github.com/ctxr-dev/llm-wiki-memory"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

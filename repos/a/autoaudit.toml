@@ -1,0 +1,8 @@
+name = "AutoAudit"
+description = "AutoAudit—— the LLM for Cyber Security 网络安全大语言模型"
+category = "image"
+tags = ["cyber-security", "llama", "fine-tuning", "qlora", "gpt", "lora", "security-tools"]
+repository = "https://github.com/ddzipp/AutoAudit"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

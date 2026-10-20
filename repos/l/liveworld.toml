@@ -1,0 +1,9 @@
+name = "LiveWorld"
+description = "Official implementation of paper LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models"
+category = "video"
+tags = ["aigc", "computer-vision", "generative-ai", "video-generation", "wan", "world-models"]
+repository = "https://github.com/ZichengDuan/LiveWorld"
+website = "https://zichengduan.github.io/LiveWorld/index.html"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

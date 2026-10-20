@@ -1,0 +1,9 @@
+name = "bark"
+description = "Open-Source Framework for Development, Simulation and Benchmarking of Behavior Planning Algorithms for Autonomous Driving"
+category = "robotics"
+tags = ["benchmark", "autonomous-driving", "research", "multi-agent", "self-driving-car", "bark-simulator", "bark", "simulation"]
+repository = "https://github.com/bark-simulator/bark"
+website = "https://bark-simulator.github.io/"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

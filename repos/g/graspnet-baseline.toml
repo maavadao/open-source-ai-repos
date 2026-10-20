@@ -1,0 +1,9 @@
+name = "graspnet-baseline"
+description = "Baseline model for \"GraspNet-1Billion: A Large-Scale Benchmark for General Object Grasping\" (CVPR 2020)"
+category = "robotics"
+tags = ["point-cloud", "grasping", "3d", "deep-learning", "robotics", "graspnet-1billion"]
+repository = "https://github.com/graspnet/graspnet-baseline"
+website = "https://graspnet.net/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

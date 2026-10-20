@@ -1,0 +1,9 @@
+name = "stark"
+description = "(NeurIPS D&B 2024) STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases"
+category = "llm-apps"
+tags = ["llm", "multimodal", "graph", "nlp", "knowledge-base", "information-retrieval", "semi-structured-data"]
+repository = "https://github.com/snap-stanford/stark"
+website = "https://stark.stanford.edu/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

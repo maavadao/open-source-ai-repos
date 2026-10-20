@@ -1,0 +1,7 @@
+name = "awesome-end-to-end-autonomous-driving"
+description = "A curated list of awesome End-to-End Autonomous Driving resources (continually updated)"
+category = "learning"
+tags = ["autonomous-driving", "imitation-learning", "paper-list", "reinforcement-learning"]
+repository = "https://github.com/opendilab/awesome-end-to-end-autonomous-driving"
+license = "Apache-2.0"
+added = 2026-10-20

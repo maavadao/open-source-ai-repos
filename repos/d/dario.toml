@@ -1,0 +1,9 @@
+name = "dario"
+description = "One local endpoint that routes Cursor, Cline, Aider, Claude Code and the Agent SDK through your Claude and ChatGPT subscriptions, with failover and pooling and zero runtime dependencies."
+category = "coding"
+tags = ["anthropic", "claude", "claude-max", "openai", "litellm", "llm-router", "ollama", "openrouter"]
+repository = "https://github.com/askalf/dario"
+website = "https://www.npmjs.com/package/@askalf/dario"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

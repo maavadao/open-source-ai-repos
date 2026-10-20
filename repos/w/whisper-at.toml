@@ -1,0 +1,8 @@
+name = "whisper-at"
+description = "Code and Pretrained Models for Interspeech 2023 Paper \"Whisper-AT: Noise-Robust Automatic Speech Recognizers are Also Strong Audio Event Taggers\""
+category = "speech"
+tags = ["audio", "audio-classification", "audio-processing", "audio-tagging", "speech-recognition"]
+repository = "https://github.com/YuanGongND/whisper-at"
+license = "BSD-2-Clause"
+language = "Python"
+added = 2026-10-20

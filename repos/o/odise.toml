@@ -1,0 +1,9 @@
+name = "ODISE"
+description = "Official PyTorch implementation of ODISE: Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models [CVPR 2023 Highlight]"
+category = "image"
+tags = ["deep-learning", "instance-segmentation", "panoptic-segmentation", "pytorch", "semantic-segmentation", "diffusion-models", "text-image-retrieval", "zero-shot-learning"]
+repository = "https://github.com/NVlabs/ODISE"
+website = "https://arxiv.org/abs/2303.04803"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

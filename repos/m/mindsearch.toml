@@ -1,0 +1,8 @@
+name = "MindSearch"
+description = "An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)"
+category = "agents"
+tags = ["gpt", "llm", "llms", "search", "transformer", "ai-search-engine", "multi-agent-systems", "web-search"]
+repository = "https://github.com/InternLM/MindSearch"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

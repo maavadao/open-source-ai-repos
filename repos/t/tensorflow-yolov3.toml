@@ -1,0 +1,9 @@
+name = "tensorflow-yolov3"
+description = "TensorFlow Code for technical report: \"YOLOv3: An Incremental Improvement\""
+category = "vision"
+tags = ["yolov3", "tensorflow", "object-detection", "deep-learning"]
+repository = "https://github.com/YunYang1994/tensorflow-yolov3"
+website = "https://yunyang1994.gitee.io/2018/12/28/YOLOv3-算法的一点理解/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

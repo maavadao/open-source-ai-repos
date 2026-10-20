@@ -1,0 +1,9 @@
+name = "antialiased-cnns"
+description = "pip install antialiased-cnns to improve stability and accuracy"
+category = "vision"
+tags = ["convolutional-neural-networks", "icml-2019", "icml", "shift-invariant", "shift-equivariant", "antialiasing", "cnns", "artificial-intelligence"]
+repository = "https://github.com/adobe/antialiased-cnns"
+website = "https://richzhang.github.io/antialiased-cnns/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "GenAI_LLM_timeline"
+description = "ChatGPT, GenerativeAI and LLMs Timeline"
+category = "coding"
+tags = ["chatgpt", "generative-ai", "generative-models", "gpt", "large-language-models", "llama", "llm", "chatgpt-api"]
+repository = "https://github.com/hollobit/GenAI_LLM_timeline"
+license = "NOASSERTION"
+added = 2026-10-20

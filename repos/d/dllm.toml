@@ -1,0 +1,9 @@
+name = "dllm"
+description = "dLLM: Simple Diffusion Language Modeling"
+category = "models"
+tags = ["llm", "discrete-diffusion-models", "nlp"]
+repository = "https://github.com/ZHZisZZ/dllm"
+website = "https://arxiv.org/pdf/2602.22661"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

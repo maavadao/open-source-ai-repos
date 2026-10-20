@@ -1,0 +1,8 @@
+name = "youtube-automation-agent"
+description = "Open-source, self-hosted AI agent that runs a YouTube channel end to end: researches topics, writes scripts, generates narration, visuals and video, optimizes SEO, and publishes after your approval, then learns from analytics. Works with Gemini, OpenAI, OpenRouter, DeepSeek…"
+category = "no-code"
+tags = ["ai-agents", "automation", "content-automation", "content-creation", "content-strategy", "google-gemini", "javascript", "nodejs"]
+repository = "https://github.com/darkzOGx/youtube-automation-agent"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

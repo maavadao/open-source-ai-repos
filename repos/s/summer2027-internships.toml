@@ -1,0 +1,9 @@
+name = "Summer2027-Internships"
+description = "Summer 2027 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC."
+category = "learning"
+tags = ["interview-preparation", "internships", "jobs", "university", "fall-2026", "github", "internship", "data-science"]
+repository = "https://github.com/SimplifyJobs/Summer2027-Internships"
+website = "https://swelist.com/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

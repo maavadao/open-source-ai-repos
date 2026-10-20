@@ -1,0 +1,9 @@
+name = "Fabric"
+description = "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere."
+category = "other"
+tags = ["ai", "augmentation", "flourishing", "life", "work"]
+repository = "https://github.com/danielmiessler/Fabric"
+website = "https://danielmiessler.com/p/fabric-origin-story"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

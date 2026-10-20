@@ -1,0 +1,7 @@
+name = "awesome-NeRF-papers"
+description = "All NeRF-related papers @ CVPR/ICCV/ECCV/NIPS/ICML/ICLR"
+category = "learning"
+tags = ["computer-vision", "cvpr", "nerf", "neural-rendering", "nips", "papers", "radiance-field"]
+repository = "https://github.com/lif314/awesome-NeRF-papers"
+license = "NOASSERTION"
+added = 2026-10-20

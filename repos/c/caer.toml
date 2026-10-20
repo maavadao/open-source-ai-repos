@@ -1,0 +1,9 @@
+name = "caer"
+description = "High-performance Vision library in Python. Scale your research, not boilerplate."
+category = "vision"
+tags = ["python", "vision", "artificial-intelligence", "machine-learning", "neural-network", "deep-learning", "gpu", "ai"]
+repository = "https://github.com/jasmcaus/caer"
+website = "https://caer.readthedocs.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "writely"
+description = "A chrome extension as an alternative to Notion AI that goes beyond Notion AI. | 一个替代 Notion AI 的浏览器插件，不止于 Notion AI"
+category = "chat"
+tags = ["chatgpt", "notion-ai", "openai", "writing", "chrome-extension"]
+repository = "https://github.com/anc95/writely"
+website = "https://writely.miao-ya.com/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

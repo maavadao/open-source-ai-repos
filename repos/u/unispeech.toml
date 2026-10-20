@@ -1,0 +1,8 @@
+name = "UniSpeech"
+description = "UniSpeech - Large Scale Self-Supervised Learning for Speech"
+category = "speech"
+tags = ["pytorch", "speech-recognition", "speech-processing", "speech", "diarization", "speech-separation", "speech-diarization", "speaker-verification"]
+repository = "https://github.com/microsoft/UniSpeech"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

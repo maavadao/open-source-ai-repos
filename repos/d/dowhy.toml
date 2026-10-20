@@ -1,0 +1,9 @@
+name = "dowhy"
+description = "DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks."
+category = "data-science"
+tags = ["causal-inference", "machine-learning", "graphical-models", "bayesian-networks", "data-science", "python3", "causality", "causal-models"]
+repository = "https://github.com/py-why/dowhy"
+website = "https://www.pywhy.org/dowhy"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

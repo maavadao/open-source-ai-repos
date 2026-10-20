@@ -1,0 +1,9 @@
+name = "bolt.new"
+description = "Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz"
+category = "chat"
+tags = ["anthropic", "chatbot", "webcontainers-api", "ai-playground"]
+repository = "https://github.com/stackblitz/bolt.new"
+website = "https://bolt.new"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

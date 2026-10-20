@@ -1,0 +1,7 @@
+name = "curated-list-of-awesome-3D-Morphable-Model-software-and-data"
+description = "The idea of this list is to collect shared data and algorithms around 3D Morphable Models. You are invited to contribute to this list by adding a pull request. The original list arised from the Dagstuhl seminar on 3D Morphable Models https://www.dagstuhl.de/19102 in March 2019."
+category = "vision"
+tags = ["morphable-model", "face-recognition", "face-detection", "faces", "shape", "3d", "3d-graphics", "3d-models"]
+repository = "https://github.com/3d-morphable-models/curated-list-of-awesome-3D-Morphable-Model-software-and-data"
+license = "NOASSERTION"
+added = 2026-10-20

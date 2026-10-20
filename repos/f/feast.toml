@@ -1,0 +1,9 @@
+name = "feast"
+description = "The Open Source Feature Store for AI/ML"
+category = "ml-platforms"
+tags = ["machine-learning", "features", "ml", "big-data", "feature-store", "python", "mlops", "data-engineering"]
+repository = "https://github.com/feast-dev/feast"
+website = "https://feast.dev"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "InfiniteYou"
+description = "[ICCV 2025 Highlight] InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity"
+category = "image"
+tags = ["face", "flux", "identity-preserving", "image-editing", "image-generation", "personalization", "text-to-image", "diffusion"]
+repository = "https://github.com/bytedance/InfiniteYou"
+website = "https://bytedance.github.io/InfiniteYou/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

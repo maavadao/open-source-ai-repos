@@ -1,0 +1,8 @@
+name = "drl-zh"
+description = "Deep Reinforcement Learning: Zero to Hero!"
+category = "ml-platforms"
+tags = ["deep-reinforcement-learning", "reinforcement-learning", "deep-learning", "machine-learning"]
+repository = "https://github.com/alessiodm/drl-zh"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "FILTER.js"
+description = "Video and Image Processing and Computer Vision Library similar to OpenCV in pure JavaScript (Browser and Nodejs)"
+category = "vision"
+tags = ["image-processing", "video-processing", "computer-vision", "machine-learning", "node-js", "browser", "glsl", "parallel-processing"]
+repository = "https://github.com/foo123/FILTER.js"
+website = "https://foo123.github.io/examples/filter/"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "TensorFlowTTS"
+description = "TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, French, Korean, Chinese, German and Easy to adapt for other languages)"
+category = "speech"
+tags = ["speech-synthesis", "text-to-speech", "tensorflow2", "melgan", "fastspeech", "real-time", "tts", "vocoder"]
+repository = "https://github.com/TensorSpeech/TensorFlowTTS"
+website = "https://tensorspeech.github.io/TensorFlowTTS/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

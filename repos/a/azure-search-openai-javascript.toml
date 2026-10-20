@@ -1,0 +1,8 @@
+name = "azure-search-openai-javascript"
+description = "A TypeScript sample app for the Retrieval Augmented Generation pattern running on Azure, using Azure AI Search for retrieval and Azure OpenAI and LangChain large language models (LLMs) to power ChatGPT-style and Q&A experiences."
+category = "chat"
+tags = ["azd-templates", "azure", "azureopenai", "javascript", "langchain-js", "langchain-typescript", "openai", "typechat"]
+repository = "https://github.com/Azure-Samples/azure-search-openai-javascript"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

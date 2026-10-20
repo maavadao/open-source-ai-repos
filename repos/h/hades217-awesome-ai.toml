@@ -1,0 +1,8 @@
+name = "awesome-ai"
+description = "A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project)"
+category = "learning"
+tags = ["machine-learning", "deep-learning", "chatbot", "voice-assistant", "data-science", "reinforcement-learning", "artificial-intelligence", "neural-network"]
+repository = "https://github.com/hades217/awesome-ai"
+website = "https://jracademy.ai/"
+license = "MIT"
+added = 2026-10-20

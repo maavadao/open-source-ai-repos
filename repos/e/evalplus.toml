@@ -1,0 +1,9 @@
+name = "evalplus"
+description = "Rigourous evaluation of LLM-synthesized code - NeurIPS 2023 & COLM 2024"
+category = "chat"
+tags = ["benchmark", "chatgpt", "gpt-4", "large-language-models", "program-synthesis", "testing", "efficiency"]
+repository = "https://github.com/evalplus/evalplus"
+website = "https://evalplus.github.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

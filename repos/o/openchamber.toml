@@ -1,0 +1,9 @@
+name = "openchamber"
+description = "Agentic Development Environment based on OpenCode AI agent"
+category = "coding"
+tags = ["ai", "opencode", "agentic-engineering", "agents", "enginering"]
+repository = "https://github.com/openchamber/openchamber"
+website = "https://openchamber.dev/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

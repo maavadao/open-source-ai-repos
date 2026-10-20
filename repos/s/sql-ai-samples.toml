@@ -1,0 +1,9 @@
+name = "SQL-AI-samples"
+description = "Samples using AI and Azure SQL DB"
+category = "models"
+tags = ["ai", "azure", "azure-sql-database", "azure-sql-db", "database", "llm", "openai", "vectors"]
+repository = "https://github.com/Azure-Samples/SQL-AI-samples"
+website = "https://aka.ms/sql-ai"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

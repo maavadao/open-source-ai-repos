@@ -1,0 +1,9 @@
+name = "axon"
+description = "Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers."
+category = "mcp-servers"
+tags = ["claude-code", "code-analysis", "code-intelligence", "dead-code-detection", "knowledge-graph", "mcp", "python", "static-analysis"]
+repository = "https://github.com/harshkedia177/axon"
+website = "https://harshkedia.com/work/axon/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

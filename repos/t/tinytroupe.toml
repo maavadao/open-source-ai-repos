@@ -1,0 +1,7 @@
+name = "TinyTroupe"
+description = "LLM-powered multiagent persona simulation for imagination enhancement and business insights."
+category = "models"
+repository = "https://github.com/microsoft/TinyTroupe"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

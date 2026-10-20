@@ -1,0 +1,8 @@
+name = "payload-ai"
+description = "AI Plugin is a powerful extension for the Payload CMS, integrating advanced AI capabilities to enhance content creation and management."
+category = "speech"
+tags = ["ai", "ai-writing", "payloadcms", "plugin", "text-generation", "text-to-image", "text-to-speech", "ai-translate"]
+repository = "https://github.com/ashbuilds/payload-ai"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

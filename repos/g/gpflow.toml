@@ -1,0 +1,8 @@
+name = "GPflow"
+description = "Gaussian processes in TensorFlow"
+category = "ml-platforms"
+tags = ["gaussian-processes", "tensorflow", "gpflow", "machine-learning", "variational-inference", "bayesian-statistics", "markov-chain-monte-carlo", "stochastic-processes"]
+repository = "https://github.com/GPflow/GPflow"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

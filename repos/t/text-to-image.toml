@@ -1,0 +1,8 @@
+name = "text-to-image"
+description = "Text to image synthesis using thought vectors"
+category = "ml-platforms"
+tags = ["deep-learning", "tensorflow", "generative-adversarial-network", "skip-thought-vectors"]
+repository = "https://github.com/paarthneekhara/text-to-image"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

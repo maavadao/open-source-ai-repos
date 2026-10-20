@@ -1,0 +1,9 @@
+name = "VectorChord"
+description = "Scalable, fast, and disk-friendly vector search in Postgres, the successor of pgvecto.rs."
+category = "vector-databases"
+tags = ["artificial-intelligence", "llmops", "postgresql", "vector-database", "vector-search"]
+repository = "https://github.com/supervc-stack/VectorChord"
+website = "https://docs.vectorchord.ai/vectorchord/getting-started/overview.html"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

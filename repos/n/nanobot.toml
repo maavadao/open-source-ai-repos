@@ -1,0 +1,9 @@
+name = "nanobot"
+description = "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps"
+category = "mcp-servers"
+tags = ["ai-agent", "ai-agents", "openclaw", "agent-framework", "chatbot", "chatops", "discord-bot", "llm-agents"]
+repository = "https://github.com/HKUDS/nanobot"
+website = "https://nanobot.wiki"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

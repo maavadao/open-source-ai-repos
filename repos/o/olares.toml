@@ -1,0 +1,9 @@
+name = "Olares"
+description = "Open-Source Personal Cloud OS for Always-On Agents"
+category = "local-llms"
+tags = ["kubernetes", "self-hosted", "homelab", "edge-ai", "local-ai", "ai-agents", "model-serving", "personal-cloud"]
+repository = "https://github.com/beclab/Olares"
+website = "https://www.olares.com/"
+license = "AGPL-3.0"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "local-dream"
+description = "Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU/GPU inference."
+category = "image"
+tags = ["stable-diffusion", "stable-diffusion-android", "img2img", "inpainting", "txt2img"]
+repository = "https://github.com/xororz/local-dream"
+website = "https://play.google.com/store/apps/details?id=io.github.xororz.localdream"
+license = "NOASSERTION"
+language = "Kotlin"
+added = 2026-10-20

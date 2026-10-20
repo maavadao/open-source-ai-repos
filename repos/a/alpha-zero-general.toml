@@ -1,0 +1,8 @@
+name = "alpha-zero-general"
+description = "A clean implementation based on AlphaZero for any game in any framework + tutorial + Othello/Gobang/TicTacToe/Connect4 and more"
+category = "learning"
+tags = ["tensorflow", "pytorch", "keras", "gobang", "gomoku", "alpha-zero", "alphago-zero", "alphago"]
+repository = "https://github.com/suragnair/alpha-zero-general"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

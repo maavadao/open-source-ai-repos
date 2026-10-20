@@ -1,0 +1,9 @@
+name = "object-detection-opencv"
+description = "YOLO Object detection with OpenCV and Python."
+category = "vision"
+tags = ["object-detection", "opencv", "python", "machine-learning", "deep-learning", "computer-vision", "yolo"]
+repository = "https://github.com/arunponnusamy/object-detection-opencv"
+website = "http://arunponnusamy.com/yolo-object-detection-opencv-python.html"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

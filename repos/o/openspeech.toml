@@ -1,0 +1,9 @@
+name = "openspeech"
+description = "Open-Source Toolkit for End-to-End Speech Recognition leveraging PyTorch-Lightning and Hydra."
+category = "speech"
+tags = ["asr", "speech", "recognition", "speech-recognition", "open", "end-to-end", "e2e"]
+repository = "https://github.com/openspeech-team/openspeech"
+website = "https://openspeech-team.github.io/openspeech/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

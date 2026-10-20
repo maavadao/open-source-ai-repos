@@ -1,0 +1,9 @@
+name = "huggingface_hub"
+description = "The official CLI and Python client for the Hugging Face Hub."
+category = "models"
+tags = ["model-hub", "machine-learning", "models", "natural-language-processing", "deep-learning", "pytorch", "pretrained-models", "hacktoberfest"]
+repository = "https://github.com/huggingface/huggingface_hub"
+website = "https://huggingface.co/docs/huggingface_hub"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

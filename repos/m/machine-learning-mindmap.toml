@@ -1,0 +1,7 @@
+name = "machine-learning-mindmap"
+description = "A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning."
+category = "learning"
+tags = ["machine", "learning", "data", "science", "python", "jupyter", "cheatsheet", "mindmap"]
+repository = "https://github.com/dformoso/machine-learning-mindmap"
+license = "Apache-2.0"
+added = 2026-10-20

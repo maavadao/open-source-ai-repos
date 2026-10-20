@@ -1,0 +1,8 @@
+name = "ImageToolbox"
+description = "Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options"
+category = "documents"
+tags = ["jetpack-compose", "kotlin", "android", "material-you", "exif", "crop", "f-droid", "filter-image"]
+repository = "https://github.com/T8RIN/ImageToolbox"
+license = "Apache-2.0"
+language = "Kotlin"
+added = 2026-10-20

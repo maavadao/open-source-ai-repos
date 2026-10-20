@@ -1,0 +1,9 @@
+name = "ai-for-grant-writing"
+description = "A curated list of resources for using LLMs to develop more competitive grant applications."
+category = "learning"
+tags = ["generative-ai", "grant-proposals", "grants", "llms", "scientific-writing"]
+repository = "https://github.com/eseckel/ai-for-grant-writing"
+website = "https://eseckel.github.io/ai-for-grant-writing/"
+license = "CC-BY-4.0"
+language = "Python"
+added = 2026-10-20

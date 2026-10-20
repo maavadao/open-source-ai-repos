@@ -1,0 +1,9 @@
+name = "openclaw-guide"
+description = "开源OpenClaw中文文档站，OpenClaw中文指南，支持小龙虾 AI 智能体安装部署、消息渠道接入、Agent 架构、Skills 技能配置、模型提供商、CLI 命令参考、网关运维、安全沙箱等全方位文档。覆盖 WhatsApp、Telegram、Discord、飞书、钉钉、企业微信等 20+ 聊天平台，OpenAI、Anthropic、Ollama、通义千问等 30+ LLM 提供商，Docker / 云端部署，macOS / Windows / Linux / iOS / Android…"
+category = "coding"
+tags = ["agents", "ai", "claude", "cursor", "glm", "gpt", "kimi", "openai"]
+repository = "https://github.com/liyupi/openclaw-guide"
+website = "https://clawfather.cn"
+license = "NOASSERTION"
+language = "PowerShell"
+added = 2026-10-20

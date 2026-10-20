@@ -1,0 +1,9 @@
+name = "Machine-Learning-with-Python"
+description = "Practice and tutorial-style notebooks covering wide variety of machine learning techniques"
+category = "learning"
+tags = ["numpy", "statistics", "pandas", "matplotlib", "regression", "scikit-learn", "classification", "clustering"]
+repository = "https://github.com/tirthajyoti/Machine-Learning-with-Python"
+website = "https://machine-learning-with-python.readthedocs.io/en/latest/"
+license = "BSD-2-Clause"
+language = "Jupyter Notebook"
+added = 2026-10-20

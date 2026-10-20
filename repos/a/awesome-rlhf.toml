@@ -1,0 +1,7 @@
+name = "awesome-RLHF"
+description = "A curated list of reinforcement learning with human feedback resources (continually updated)"
+category = "learning"
+tags = ["deep-learning", "deep-reinforcement-learning", "human-feedback", "reinforcement-learning", "rlhf", "large-language-models"]
+repository = "https://github.com/opendilab/awesome-RLHF"
+license = "Apache-2.0"
+added = 2026-10-20

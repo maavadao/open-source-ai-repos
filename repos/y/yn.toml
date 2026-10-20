@@ -1,0 +1,9 @@
+name = "yn"
+description = "A highly extensible Markdown editor featuring version control, AI Copilot, document annotations, mind maps, document encryption, executable code snippets, chart embedding, HTML applets, plugins, and macro replacement. Its integrated sidebar terminal makes working with AI…"
+category = "coding"
+tags = ["vue", "markdown", "monaco-editor", "notebook", "koa2", "vscode", "electron", "markdown-it"]
+repository = "https://github.com/purocean/yn"
+website = "https://yank-note.com"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

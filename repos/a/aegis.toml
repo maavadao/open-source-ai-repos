@@ -1,0 +1,9 @@
+name = "Aegis"
+description = "Make AI coding agents architecture-aware: baseline-first, evidence-verified, drift-checked, and safe across long tasks."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "ai-coding", "architecture-driven-development", "claude-code", "codex", "coding-agents", "evidence-driven"]
+repository = "https://github.com/GanyuanRan/Aegis"
+website = "https://autoloom.codes/aegis/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

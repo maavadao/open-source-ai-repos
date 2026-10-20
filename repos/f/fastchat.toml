@@ -1,0 +1,7 @@
+name = "FastChat"
+description = "An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena."
+category = "local-llms"
+repository = "https://github.com/lm-sys/FastChat"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

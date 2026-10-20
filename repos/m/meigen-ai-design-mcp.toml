@@ -1,0 +1,9 @@
+name = "MeiGen-AI-Design-MCP"
+description = "Discover inspiration and create images and videos with the latest AI models. Works with ChatGPT, Claude, Cursor, and other MCP clients."
+category = "mcp-servers"
+tags = ["ai-image-generation", "claude", "mcp", "mcp-server", "openclaw", "chatgpt", "codex", "seedance"]
+repository = "https://github.com/jau123/MeiGen-AI-Design-MCP"
+website = "https://www.meigen.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

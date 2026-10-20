@@ -1,0 +1,9 @@
+name = "aikit"
+description = "Fine-tune, build, and deploy open-source LLMs easily!"
+category = "local-llms"
+tags = ["buildkit", "large-language-models", "llm", "docker", "inference", "kubernetes", "nvidia", "ai"]
+repository = "https://github.com/kaito-project/aikit"
+website = "https://kaito-project.github.io/aikit/"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

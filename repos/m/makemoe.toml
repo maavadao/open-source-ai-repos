@@ -1,0 +1,9 @@
+name = "makeMoE"
+description = "From scratch implementation of a sparse mixture of experts language model inspired by Andrej Karpathy's makemore :)"
+category = "learning"
+tags = ["large-language-models", "llm", "mixture-of-experts", "deep-learning", "neural-networks", "pytorch", "pytorch-implementation"]
+repository = "https://github.com/AviSoori1x/makeMoE"
+website = "https://avisoori1x.github.io/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

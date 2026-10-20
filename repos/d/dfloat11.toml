@@ -1,0 +1,8 @@
+name = "DFloat11"
+description = "DFloat11 [NeurIPS '25]: Lossless Compression of LLMs and DiTs for Efficient GPU Inference"
+category = "image"
+tags = ["compression", "gpu", "llm", "lossless-compression-algorithm", "diffusion-models"]
+repository = "https://github.com/LeanModels/DFloat11"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

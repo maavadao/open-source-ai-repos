@@ -1,0 +1,9 @@
+name = "interview-guide"
+description = "基于 Spring Boot 4.1、Java 25、Spring AI 2.0、React、PostgreSQL/pgvector、Redis 和 RustFS 构建的开源 AI 面试平台，支持简历智能分析、模拟面试、语音面试和知识库 RAG。"
+category = "learning"
+tags = ["mapstruct", "pgvector", "postgresql", "redis", "redisson", "redisstreams", "rustfs", "springai"]
+repository = "https://github.com/Snailclimb/interview-guide"
+website = "https://javaguide.cn/zhuanlan/interview-guide.html"
+license = "AGPL-3.0"
+language = "Java"
+added = 2026-10-20

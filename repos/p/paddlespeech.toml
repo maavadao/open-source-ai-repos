@@ -1,0 +1,9 @@
+name = "PaddleSpeech"
+description = "Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL2022 Best Demo Award."
+category = "speech"
+tags = ["transformer", "conformer", "speech-translation", "streaming-asr", "speech-alignment", "punctuation-restoration", "streaming-tts", "speech-synthesis"]
+repository = "https://github.com/PaddlePaddle/PaddleSpeech"
+website = "https://paddlespeech.readthedocs.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

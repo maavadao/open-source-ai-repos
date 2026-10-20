@@ -1,0 +1,9 @@
+name = "rhino"
+description = "On-device Speech-to-Intent engine powered by deep learning"
+category = "speech"
+tags = ["natural-language-understanding", "voice-recognition", "nlu", "spoken-language-understanding", "voice-assistant", "voice-ui", "voice-user-interface", "speech-recognition"]
+repository = "https://github.com/Picovoice/rhino"
+website = "https://picovoice.ai/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

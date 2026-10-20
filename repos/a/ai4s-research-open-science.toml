@@ -1,0 +1,9 @@
+name = "open-science"
+description = "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills."
+category = "mcp-servers"
+tags = ["ai-agent", "ai-for-science", "ai-scientist", "ai4s", "claude-science", "desktop-app", "local-first", "mcp"]
+repository = "https://github.com/ai4s-research/open-science"
+website = "https://openedscience.com/"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "DeepCode"
+description = "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\""
+category = "coding"
+tags = ["agentic-coding", "llm-agent", "harness-engineering"]
+repository = "https://github.com/HKUDS/DeepCode"
+website = "http://arxiv.org/abs/2512.07921"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

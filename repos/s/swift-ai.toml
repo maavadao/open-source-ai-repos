@@ -1,0 +1,8 @@
+name = "Swift-AI"
+description = "The Swift machine learning library."
+category = "documents"
+tags = ["swift", "machine-learning", "deep-learning", "artificial-intelligence", "ios", "macos", "ocr"]
+repository = "https://github.com/Swift-AI/Swift-AI"
+license = "MIT"
+language = "Swift"
+added = 2026-10-20

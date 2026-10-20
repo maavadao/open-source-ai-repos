@@ -1,0 +1,9 @@
+name = "SepLLM"
+description = "[ICML 2025] \"SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator\""
+category = "models"
+tags = ["inference-speed", "large-language-models", "llms"]
+repository = "https://github.com/HKUDS/SepLLM"
+website = "https://arxiv.org/abs/2412.12094"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

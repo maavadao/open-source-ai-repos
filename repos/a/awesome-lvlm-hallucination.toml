@@ -1,0 +1,7 @@
+name = "Awesome-LVLM-Hallucination"
+description = "up-to-date curated list of state-of-the-art Large vision language models hallucinations research work, papers & resources"
+category = "learning"
+tags = ["hallucination", "hallucination-detection", "large-vision-language-models", "multimodal-large-language-models", "hallucination-mitigation", "hallucination-survey", "hallucination-evaluation", "large-language-models"]
+repository = "https://github.com/NishilBalar/Awesome-LVLM-Hallucination"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "DeepTutor"
+description = "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/."
+category = "agents"
+tags = ["ai-tutor", "deepresearch", "interactive-learning", "multi-agent-systems", "rag", "ai-agents", "cli-tool", "clawbot"]
+repository = "https://github.com/HKUDS/DeepTutor"
+website = "http://arxiv.org/abs/2604.26962"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

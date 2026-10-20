@@ -1,0 +1,9 @@
+name = "skills"
+description = "Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Coding Agents"
+category = "mcp-servers"
+tags = ["agent-skills", "agents", "azure", "foundry", "mcp", "sdk", "skills"]
+repository = "https://github.com/microsoft/skills"
+website = "https://microsoft.github.io/skills/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

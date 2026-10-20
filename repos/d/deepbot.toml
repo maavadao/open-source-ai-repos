@@ -1,0 +1,9 @@
+name = "deepbot"
+description = "DeepBot is a system-level AI assistant built for both personal productivity and enterprise workflows — one-click setup, seamless experience, and native Feishu integration."
+category = "skills-prompts"
+tags = ["agent-skills", "agentic-workflow", "ai-agents", "openclaw", "agent-tools", "agentos", "harness", "harness-engineering"]
+repository = "https://github.com/kevinluosl/deepbot"
+website = "https://glint-mvt.com/deepbot/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

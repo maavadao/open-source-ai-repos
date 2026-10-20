@@ -1,0 +1,9 @@
+name = "TernausNetV2"
+description = "TernausNetV2: Fully Convolutional Network for Instance Segmentation"
+category = "vision"
+tags = ["satellite-imagery", "computer-vision", "image-segmentation", "deep-learning", "python", "pytorch"]
+repository = "https://github.com/ternaus/TernausNetV2"
+website = "http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w4/Iglovikov_TernausNetV2_Fully_Convolutional_CVPR_2018_paper.pdf"
+license = "BSD-3-Clause"
+language = "Jupyter Notebook"
+added = 2026-10-20

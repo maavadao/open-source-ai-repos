@@ -1,0 +1,8 @@
+name = "q-transformer"
+description = "Implementation of Q-Transformer, Scalable Offline Reinforcement Learning via Autoregressive Q-Functions, out of Google Deepmind"
+category = "robotics"
+tags = ["artificial-intelligence", "attention-mechanisms", "deep-learning", "offline-learning", "q-learning", "robotics", "transformers"]
+repository = "https://github.com/lucidrains/q-transformer"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

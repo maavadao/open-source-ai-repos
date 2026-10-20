@@ -1,0 +1,9 @@
+name = "fondant"
+description = "Production-ready data processing made easy and shareable"
+category = "models"
+tags = ["data-processing", "fine-tuning", "foundation-models", "machine-learning", "pipeline", "python"]
+repository = "https://github.com/ml6team/fondant"
+website = "https://fondant.ai/en/stable/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

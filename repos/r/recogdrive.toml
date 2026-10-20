@@ -1,0 +1,8 @@
+name = "recogdrive"
+description = "[ICLR 2026] ReCogDrive: A Reinforced Cognitive Framework for End-to-End Autonomous Driving"
+category = "robotics"
+tags = ["autonomous-driving", "vision-language-action", "vision-language-models", "end-to-end-a", "diffusion-policy", "navsim", "reinforcement-learning"]
+repository = "https://github.com/xiaomi-research/recogdrive"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

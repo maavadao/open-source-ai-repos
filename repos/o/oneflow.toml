@@ -1,0 +1,9 @@
+name = "oneflow"
+description = "OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient."
+category = "ml-platforms"
+tags = ["deep-learning", "machine-learning", "deep-neural-networks", "ml", "distributed", "neural-network", "cuda"]
+repository = "https://github.com/Oneflow-Inc/oneflow"
+website = "http://www.oneflow.org"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

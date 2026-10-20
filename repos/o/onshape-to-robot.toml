@@ -1,0 +1,9 @@
+name = "onshape-to-robot"
+description = "Converting Onshape assembly to robot definition (URDF, SDF, MuJoCo) through Onshape API"
+category = "robotics"
+tags = ["robotics", "onshape", "cad", "urdf", "mujoco", "sdf"]
+repository = "https://github.com/Rhoban/onshape-to-robot"
+website = "https://onshape-to-robot.readthedocs.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

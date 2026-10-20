@@ -1,0 +1,8 @@
+name = "DevOps-Security-Agent-Skills"
+description = "Agent-ready DevOps, security, infrastructure, and compliance knowledge base with 80+ skills across Kubernetes, Terraform, AWS/Azure/GCP, AI platform operations, container hardening, SOC2/ISO27001, and incident response—plus ready-to-run scripts, templates, and playbooks for…"
+category = "skills-prompts"
+tags = ["agent-skills", "agentic-ai", "ai-agents", "cheatsheets", "devops", "infrastructure-as-code", "kubernetes", "security"]
+repository = "https://github.com/BagelHole/DevOps-Security-Agent-Skills"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

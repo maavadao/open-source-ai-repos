@@ -1,0 +1,8 @@
+name = "piwise"
+description = "Pixel-wise segmentation on VOC2012 dataset using pytorch."
+category = "vision"
+tags = ["pytorch", "semantic-segmentation", "computer-vision", "segnet", "fcn"]
+repository = "https://github.com/bodokaiser/piwise"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

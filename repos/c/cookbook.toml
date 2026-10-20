@@ -1,0 +1,9 @@
+name = "cookbook"
+description = "Examples and guides for using the Gemini API"
+category = "learning"
+tags = ["gemini", "gemini-api"]
+repository = "https://github.com/google-gemini/cookbook"
+website = "https://ai.google.dev/gemini-api/docs"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

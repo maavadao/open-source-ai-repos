@@ -1,0 +1,8 @@
+name = "VQGAN-CLIP"
+description = "Just playing with getting VQGAN+CLIP running locally, rather than having to use colab."
+category = "image"
+tags = ["text2image", "text-to-image"]
+repository = "https://github.com/nerdyrodent/VQGAN-CLIP"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

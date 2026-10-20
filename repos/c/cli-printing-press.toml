@@ -1,0 +1,8 @@
+name = "cli-printing-press"
+description = "Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands."
+category = "agents"
+tags = ["ai-agents", "cli", "cli-generator", "developer-tools", "golang", "openapi"]
+repository = "https://github.com/mvanhorn/cli-printing-press"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

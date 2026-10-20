@@ -1,0 +1,9 @@
+name = "aidevops"
+description = "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. The best AI…"
+category = "coding"
+tags = ["devops", "devops-tools", "agents", "agents-md", "ai", "ai-agents", "ai-assistant", "ai-assistants"]
+repository = "https://github.com/marcusquinn/aidevops"
+website = "https://www.aidevops.sh"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

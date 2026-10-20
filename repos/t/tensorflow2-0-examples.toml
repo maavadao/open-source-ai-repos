@@ -1,0 +1,8 @@
+name = "TensorFlow2.0-Examples"
+description = "Difficult algorithm, Simple code."
+category = "vision"
+tags = ["tensorflow2", "tensorflow-examples", "deep-learning", "deep-neural-networks", "machine-learning", "gan", "linear-regression", "resnet"]
+repository = "https://github.com/YunYang1994/TensorFlow2.0-Examples"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

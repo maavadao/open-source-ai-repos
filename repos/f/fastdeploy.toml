@@ -1,0 +1,9 @@
+name = "FastDeploy"
+description = "High-performance Inference and Deployment Toolkit for LLMs and VLMs based on PaddlePaddle"
+category = "local-llms"
+tags = ["serving", "ernie", "llm", "inference", "llm-serving", "openai", "vllm", "ernie-45"]
+repository = "https://github.com/PaddlePaddle/FastDeploy"
+website = "https://paddlepaddle.github.io/FastDeploy/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

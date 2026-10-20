@@ -1,0 +1,7 @@
+name = "Awesome-RL-for-Video-Generation"
+description = "A curated list of papers on reinforcement learning for video generation"
+category = "learning"
+tags = ["dpo", "grpo", "ppo", "reinforcement-learning", "reward-model", "video-generation"]
+repository = "https://github.com/wendell0218/Awesome-RL-for-Video-Generation"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "SSD"
+description = "High quality, fast, modular reference implementation of SSD in PyTorch"
+category = "vision"
+tags = ["computer-vision", "deep-learning", "object-detection", "pytorch", "ssd"]
+repository = "https://github.com/lufficc/SSD"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

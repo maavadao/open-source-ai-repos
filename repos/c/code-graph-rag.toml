@@ -1,0 +1,9 @@
+name = "code-graph-rag"
+description = "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs"
+category = "mcp-servers"
+tags = ["ai", "ast", "claude-code", "code-analysis", "code-understanding", "codebase-search", "developer-tools", "graph-database"]
+repository = "https://github.com/vitali87/code-graph-rag"
+website = "https://code-graph-rag.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

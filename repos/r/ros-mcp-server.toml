@@ -1,0 +1,9 @@
+name = "ros-mcp-server"
+description = "Connect AI models like Claude & GPT with robots using MCP and ROS."
+category = "mcp-servers"
+tags = ["ros", "ros2", "ros-mcp-server", "ros2-mcp-server", "mcp", "mcp-server", "modelcontextprotocol"]
+repository = "https://github.com/robotmcp/ros-mcp-server"
+website = "https://robotmcp.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

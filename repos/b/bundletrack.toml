@@ -1,0 +1,8 @@
+name = "BundleTrack"
+description = "[IROS 2021] BundleTrack: 6D Pose Tracking for Novel Objects without Instance or Category-Level 3D Models"
+category = "robotics"
+tags = ["6dof", "6d-pose-estimation", "6dof-pose", "6dof-tracking", "pose-estimation", "pose-tracking", "pose-graph-optimization", "tracking"]
+repository = "https://github.com/wenbowen123/BundleTrack"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

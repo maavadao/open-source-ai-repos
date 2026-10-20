@@ -1,0 +1,9 @@
+name = "next-plaid"
+description = "NextPlaid, ColGREP: Multi-vector search, from database to coding agents."
+category = "vector-databases"
+tags = ["agentic-rag", "cli", "grep", "multi-vector", "vector-database"]
+repository = "https://github.com/lightonai/next-plaid"
+website = "https://lightonai.github.io/next-plaid/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

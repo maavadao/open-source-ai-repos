@@ -1,0 +1,9 @@
+name = "skills"
+description = "Codebase harness + loop engineer"
+category = "skills-prompts"
+tags = ["agent-harness", "agent-skills", "ai-agents", "claude", "claude-code", "developer-tools", "loop-engineering"]
+repository = "https://github.com/AI-Builder-Club/skills"
+website = "https://www.aibuilderclub.com/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

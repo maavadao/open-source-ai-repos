@@ -1,0 +1,8 @@
+name = "SPSR"
+description = "Pytorch implementation of Structure-Preserving Super Resolution with Gradient Guidance (CVPR 2020 & TPAMI 2021)"
+category = "image"
+tags = ["structure-preserving", "super-resolution", "image-restoration", "computer-vision", "deep-learning"]
+repository = "https://github.com/Maclory/SPSR"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

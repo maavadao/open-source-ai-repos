@@ -1,0 +1,8 @@
+name = "world-forge-ai"
+description = "AI World Generator 2026: Create Self-Evolving Maps & Stories"
+category = "agents"
+tags = ["agent", "ai", "ai-agents", "ai-characters", "ai-simulation", "ai-world", "emergent-behavior", "game-ai"]
+repository = "https://github.com/gunawan1996/world-forge-ai"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

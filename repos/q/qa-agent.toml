@@ -1,0 +1,9 @@
+name = "qa-agent"
+description = "The open-source Playwright library for AI browser regression testing with intelligent caching, auto-healing, and multi-model verification."
+category = "browser-automation"
+tags = ["ai", "ai-agents", "aigateway", "aisdk", "playwright", "qa", "qa-automation", "vercel"]
+repository = "https://github.com/bug0inc/qa-agent"
+website = "https://ai.bug0.com"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "EVE"
+description = "EVE Series: Encoder-Free Vision-Language Models from BAAI"
+category = "models"
+tags = ["instruction-following", "large-language-models", "mllm", "multimodal-large-language-models", "vlm", "encoder-free-vlm", "llm", "clip"]
+repository = "https://github.com/baaivision/EVE"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

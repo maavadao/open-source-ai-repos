@@ -1,0 +1,8 @@
+name = "AutoCarROS2"
+description = "A virtual simulation platform for autonomous vehicle sensing, mapping, control and behaviour methods using ROS 2 and Gazebo."
+category = "robotics"
+tags = ["ros2", "gazebo", "path-planning", "path-tracking", "occupancy-grid-map", "stanley-controller", "ackermann-vehicle", "bayesian"]
+repository = "https://github.com/winstxnhdw/AutoCarROS2"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

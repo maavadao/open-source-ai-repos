@@ -1,0 +1,8 @@
+name = "PaddleMIX"
+description = "Paddle Multimodal Integration and eXploration, supporting mainstream multi-modal tasks, including end-to-end large-scale multi-modal pretrain models and diffusion model toolbox. Equipped with high performance and flexibility."
+category = "video"
+tags = ["aigc", "stable-diffusion", "clip", "image-to-text", "text-to-image", "ppdiffusers", "controlnet", "multimodal"]
+repository = "https://github.com/PaddlePaddle/PaddleMIX"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

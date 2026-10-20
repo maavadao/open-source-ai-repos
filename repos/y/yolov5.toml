@@ -1,0 +1,9 @@
+name = "yolov5"
+description = "Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export."
+category = "vision"
+tags = ["yolov5", "object-detection", "pytorch", "onnx", "coreml", "tflite", "yolo", "deep-learning"]
+repository = "https://github.com/ultralytics/yolov5"
+website = "https://docs.ultralytics.com/yolov5/"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

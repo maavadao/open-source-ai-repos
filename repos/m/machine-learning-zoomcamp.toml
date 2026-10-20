@@ -1,0 +1,9 @@
+name = "machine-learning-zoomcamp"
+description = "Learn ML engineering for free in 4 months! Register here 🏼"
+category = "learning"
+tags = ["course", "deployment", "docker", "fastapi", "kubernetes", "machine-learning", "pytorch", "tensorflow"]
+repository = "https://github.com/DataTalksClub/machine-learning-zoomcamp"
+website = "https://courses.datatalks.club/register/ml-zoomcamp/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

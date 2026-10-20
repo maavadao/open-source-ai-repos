@@ -1,0 +1,9 @@
+name = "MindSQL"
+description = "MindSQL: A Python Text-to-SQL RAG Library simplifying database interactions. Seamlessly integrates with PostgreSQL, MySQL, SQLite, Snowflake, and BigQuery. Powered by GPT-4 and Llama 2, it enables natural language queries. Supports ChromaDB and Faiss for context-aware responses."
+category = "chat"
+tags = ["chatbot", "gemini", "langchain", "rag", "retrival-augmented", "text-to-sql"]
+repository = "https://github.com/Mindinventory/MindSQL"
+website = "https://www.mindinventory.com/text-to-sql-mindsql.php?utm_source=sampromotiion&utm_medium=Button&utm_campaign=sampromotion&utm_id=sampromotion&utm_term=sampromotiion&utm_content=sampromotiion"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

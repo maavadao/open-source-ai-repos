@@ -1,0 +1,7 @@
+name = "Papers-Literature-ML-DL-RL-AI"
+description = "Highly cited and useful papers related to machine learning, deep learning, AI, game theory, reinforcement learning"
+category = "ml-platforms"
+tags = ["deep-learning", "machine-learning", "machine-learning-algorithms", "artificial-intelligence", "neural-network", "paper", "learning-theory", "reinforcement-learning"]
+repository = "https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI"
+license = "MIT"
+added = 2026-10-20

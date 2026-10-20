@@ -1,0 +1,8 @@
+name = "CogView2"
+description = "official code repo for paper \"CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers\""
+category = "image"
+tags = ["transformer", "pytorch", "pretrained-models", "text-to-image"]
+repository = "https://github.com/zai-org/CogView2"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

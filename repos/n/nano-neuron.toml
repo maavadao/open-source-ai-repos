@@ -1,0 +1,8 @@
+name = "nano-neuron"
+description = "NanoNeuron is 7 simple JavaScript functions that will give you a feeling of how machines can actually \"learn\""
+category = "data-science"
+tags = ["machine-learning", "machine-learning-algorithms", "machinelearning", "javascript", "artificial-intelligence"]
+repository = "https://github.com/trekhleb/nano-neuron"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

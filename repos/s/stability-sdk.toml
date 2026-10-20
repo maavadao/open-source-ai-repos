@@ -1,0 +1,9 @@
+name = "stability-sdk"
+description = "SDK for interacting with stability.ai APIs (e.g. stable diffusion inference)"
+category = "image"
+tags = ["stable-diffusion", "ai-art", "generative-art", "latent-diffusion", "multimodal"]
+repository = "https://github.com/Stability-AI/stability-sdk"
+website = "https://platform.stability.ai/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "IR-BPP"
+description = "Packing irregular objects with deep reinforcement learning."
+category = "ml-platforms"
+tags = ["irregular-packing", "irregular-shape", "packing-algorithms", "reinforcement-learning", "3d-packing"]
+repository = "https://github.com/alexfrom0815/IR-BPP"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

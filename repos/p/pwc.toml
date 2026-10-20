@@ -1,0 +1,7 @@
+name = "pwc"
+description = "This repository is no longer maintained."
+category = "learning"
+tags = ["machine-learning", "paper", "code", "cvpr", "nips", "icml", "iccv", "eccv"]
+repository = "https://github.com/zziz/pwc"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "awesome-hand-pose-estimation"
+description = "Awesome work on hand pose estimation/tracking"
+category = "learning"
+tags = ["computer-vision", "hand-pose-estimation", "deep-learning", "human-computer-interaction", "3d-hand", "hand-pose", "hand-tracking", "keypoints"]
+repository = "https://github.com/xinghaochen/awesome-hand-pose-estimation"
+website = "https://xinghaochen.github.io/awesome-hand-pose-estimation/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

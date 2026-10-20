@@ -1,0 +1,8 @@
+name = "dalle-flow"
+description = "A Human-in-the-Loop workflow for creating HD images from text"
+category = "image"
+tags = ["dalle", "generative-art", "human-in-the-loop", "jina", "neural-search", "openai", "swinir", "dalle-mega"]
+repository = "https://github.com/jina-ai/dalle-flow"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

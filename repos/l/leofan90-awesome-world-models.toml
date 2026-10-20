@@ -1,0 +1,8 @@
+name = "Awesome-World-Models"
+description = "A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites."
+category = "learning"
+tags = ["artificial-intelligence", "autonomous-driving", "awesome", "deep-learning", "embodied-ai", "future-prediction", "video-prediction", "world-model"]
+repository = "https://github.com/leofan90/Awesome-World-Models"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

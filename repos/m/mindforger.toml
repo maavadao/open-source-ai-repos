@@ -1,0 +1,9 @@
+name = "mindforger"
+description = "Thinking notebook and Markdown editor."
+category = "coding"
+tags = ["study", "research", "knowledge", "notebook", "ide", "outliner", "linux", "macos"]
+repository = "https://github.com/dvorka/mindforger"
+website = "https://www.mindforger.com/"
+license = "GPL-2.0"
+language = "C++"
+added = 2026-10-20

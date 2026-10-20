@@ -1,0 +1,8 @@
+name = "Hephaestus"
+description = "Semi-Structured Agentic Framework. Workflows build themselves as agents discover what needs to be done, not what you predicted upfront."
+category = "coding"
+tags = ["ai-agents", "autonomous-agents", "claude-code", "llm"]
+repository = "https://github.com/Ido-Levi/Hephaestus"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

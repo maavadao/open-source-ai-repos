@@ -1,0 +1,9 @@
+name = "quantumbyte"
+description = "Open-source app builder engine — intent to working app"
+category = "coding"
+tags = ["agents", "ai", "app-builder", "code-generation", "llm", "nextjs", "open-source", "python"]
+repository = "https://github.com/QuantumByteOSS/quantumbyte"
+website = "https://quantumbyte.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "minbpe"
+description = "Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization."
+category = "models"
+repository = "https://github.com/karpathy/minbpe"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "trae-agent"
+description = "Trae Agent is an LLM-based agent for general purpose software engineering tasks."
+category = "agents"
+tags = ["agent", "llm", "software-engineering"]
+repository = "https://github.com/bytedance/trae-agent"
+website = "https://www.trae.ai/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

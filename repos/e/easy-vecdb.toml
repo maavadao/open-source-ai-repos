@@ -1,0 +1,9 @@
+name = "easy-vecdb"
+description = "从零开始的向量数据库原理与实践教程，在线阅读地址：https://easy-vecdb.datawhale.cc/"
+category = "vector-databases"
+tags = ["vector-database", "milvus", "faiss", "rag", "annoy", "hnsw", "ivfflat", "lsh"]
+repository = "https://github.com/datawhalechina/easy-vecdb"
+website = "https://datawhalechina.github.io/easy-vecdb/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

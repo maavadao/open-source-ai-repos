@@ -1,0 +1,9 @@
+name = "HiRAG"
+description = "[EMNLP'25 findings] An easy-to-use Graph RAG system using hierarchical knowledge."
+category = "llm-apps"
+tags = ["clustering", "graphrag", "large-language-models", "nlp", "rag", "retrieval-augmented-generation"]
+repository = "https://github.com/hhy-huang/HiRAG"
+website = "https://arxiv.org/pdf/2503.10150"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

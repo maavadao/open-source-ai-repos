@@ -1,0 +1,9 @@
+name = "axonhub"
+description = "Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing."
+category = "coding"
+tags = ["ai", "anthropic", "openai", "agent", "agents", "anthropic-api", "api-gateway", "cost-management"]
+repository = "https://github.com/looplj/axonhub"
+website = "https://axonhub.onrender.com/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

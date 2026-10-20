@@ -1,0 +1,9 @@
+name = "AI-Blocks"
+description = "A powerful and intuitive WYSIWYG interface that allows anyone to create Machine Learning models!"
+category = "ml-platforms"
+tags = ["ai-blocs", "tensorflow", "python", "machine-learning", "wysiwyg", "deep-learning", "artificial-intelligence", "neural-networks"]
+repository = "https://github.com/MrNothing/AI-Blocks"
+website = "https://mrnothing.github.io/AI-Blocks/index.html"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "open-quadruped"
+description = "An open-source 3D-printed quadrupedal robot. Intuitive gait generation through 12-DOF Bezier Curves. Full 6-axis body pose manipulation. Custom 3DOF Leg Inverse Kinematics Model accounting for offsets."
+category = "robotics"
+tags = ["robotics", "quadruped", "quadruped-robots", "quadruped-robot", "gait", "gait-generation", "3d-printing", "trajectory"]
+repository = "https://github.com/adham-elarabawy/open-quadruped"
+website = "https://adhamelarabawy.com"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

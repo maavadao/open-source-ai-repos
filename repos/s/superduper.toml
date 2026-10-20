@@ -1,0 +1,9 @@
+name = "superduper"
+description = "Superduper: End-to-end framework for building custom AI applications and agents."
+category = "vector-databases"
+tags = ["ai", "mlops", "torch", "transformers", "mongodb", "python", "pytorch", "ml"]
+repository = "https://github.com/superduper-io/superduper"
+website = "https://superduper.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "watermark-removal"
+description = "a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image"
+category = "ml-platforms"
+tags = ["tensorflow", "deep-learning", "machine-learning", "python", "watermark-image"]
+repository = "https://github.com/zuruoke/watermark-removal"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

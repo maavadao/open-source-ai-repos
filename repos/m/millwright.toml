@@ -1,0 +1,9 @@
+name = "millwright"
+description = "Self-hosted LLM router. Cost effective, deterministic, and fast. Secure and private by default."
+category = "llm-apps"
+tags = ["ai-gateway", "bedrock", "gateway", "litellm", "llm", "llm-gateway", "llmops", "openai"]
+repository = "https://github.com/Northwood-Systems/millwright"
+website = "https://northwoodsystems.ai/research/projects/millwright/docs"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

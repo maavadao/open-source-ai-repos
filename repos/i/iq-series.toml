@@ -1,0 +1,9 @@
+name = "iq-series"
+description = "The IQ Series is a hands-on learning experience for Microsoft IQ: Microsoft's unified intelligence layer for the enterprise, spanning Foundry IQ, Work IQ, and Fabric IQ. The series includes video episodes, Jupyter notebooks, and Azure deployment templates."
+category = "learning"
+tags = ["ai", "azure", "copilot-api", "foundry-iq", "generative-ai", "github-copilot", "jupyter-notebook", "knowledge-base"]
+repository = "https://github.com/microsoft/iq-series"
+website = "https://aka.ms/iq-series"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "miyagi"
+description = "Sample to envision intelligent apps with Microsoft's Copilot stack for AI-infused product experiences."
+category = "coding"
+tags = ["azure-openai", "langchain", "prompt-engineering", "semantic-kernel", "aks", "gpt-4", "openai", "azureai"]
+repository = "https://github.com/Azure-Samples/miyagi"
+website = "https://agentmiyagi.com"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Janus"
+description = "Janus-Series: Unified Multimodal Understanding and Generation Models"
+category = "models"
+tags = ["any-to-any", "foundation-models", "llm", "multimodal", "vision-language-pretraining", "unified-model"]
+repository = "https://github.com/deepseek-ai/Janus"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

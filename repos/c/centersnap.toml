@@ -1,0 +1,9 @@
+name = "CenterSnap"
+description = "Pytorch code for ICRA'22 paper: \"Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation\""
+category = "robotics"
+tags = ["3d-computer-vision", "3d-reconstruction", "6d-pose-estimation", "artificial-intelligence", "auto-encoder", "deep-learning", "detection", "pytorch"]
+repository = "https://github.com/zubair-irshad/CenterSnap"
+website = "https://zubair-irshad.github.io/projects/CenterSnap.html"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "time-series-transformers-review"
+description = "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series."
+category = "learning"
+tags = ["timeseries", "transformer", "forecasting", "anomalydetection", "classification", "timeseries-analysis", "time-series", "time-series-forecasting"]
+repository = "https://github.com/qingsongedu/time-series-transformers-review"
+license = "MIT"
+added = 2026-10-20

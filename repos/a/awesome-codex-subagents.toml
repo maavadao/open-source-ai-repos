@@ -1,0 +1,8 @@
+name = "awesome-codex-subagents"
+description = "A collection of 130+ specialized Codex subagents covering a wide range of development use cases."
+category = "learning"
+tags = ["awesome-list", "chatgpt", "codex", "codex-skills", "codex-subagents", "subagents", "ai-agents"]
+repository = "https://github.com/VoltAgent/awesome-codex-subagents"
+website = "https://github.com/VoltAgent/voltagent"
+license = "MIT"
+added = 2026-10-20

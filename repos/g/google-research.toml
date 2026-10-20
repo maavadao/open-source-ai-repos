@@ -1,0 +1,9 @@
+name = "google-research"
+description = "Google Research"
+category = "data-science"
+tags = ["machine-learning", "ai", "research"]
+repository = "https://github.com/google-research/google-research"
+website = "https://research.google"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "cutlass"
+description = "CUDA Templates and Python DSLs for High-Performance Linear Algebra"
+category = "ml-platforms"
+tags = ["cuda", "deep-learning", "deep-learning-library", "cpp", "nvidia", "gpu", "python"]
+repository = "https://github.com/NVIDIA/cutlass"
+website = "https://docs.nvidia.com/cutlass/index.html"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

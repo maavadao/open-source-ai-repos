@@ -1,0 +1,8 @@
+name = "UltraChat"
+description = "Large-scale, Informative, and Diverse Multi-round Chat Data (and Models)"
+category = "chat"
+tags = ["large-language-models", "chatbot", "deep-learning", "chatgpt"]
+repository = "https://github.com/thunlp/UltraChat"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

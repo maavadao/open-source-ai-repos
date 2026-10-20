@@ -1,0 +1,9 @@
+name = "aiox-core"
+description = "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0"
+category = "no-code"
+tags = ["agents", "ai", "cli", "development", "fullstack", "orchestration", "typescript", "ai-agents"]
+repository = "https://github.com/SynkraAI/aiox-core"
+website = "https://github.com/allfluence/aios-core"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

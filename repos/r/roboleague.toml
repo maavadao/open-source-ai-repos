@@ -1,0 +1,8 @@
+name = "RoboLeague"
+description = "A car soccer environment inspired by Rocket League for deep reinforcement learning experiments in an adversarial self-play setting."
+category = "ml-platforms"
+tags = ["rocket-league", "unity", "unity3d", "mlagents", "mlagent", "unityml", "unity-ml-agents", "unity-ml"]
+repository = "https://github.com/roboserg/RoboLeague"
+license = "NOASSERTION"
+language = "C#"
+added = 2026-10-20

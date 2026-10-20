@@ -1,0 +1,9 @@
+name = "MachineLearning-DeepLearning-Code-for-my-YouTube-Channel"
+description = "The full collection of all codes for my Youtube Channel segregated as per topic."
+category = "learning"
+tags = ["machine-learning", "machine-learning-algorithms", "deep-learning", "deep-neural-networks", "neural-network", "data-science", "python", "tensorflow"]
+repository = "https://github.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-YouTube-Channel"
+website = "https://www.youtube.com/channel/UC0_a8SNpTFkmVv5SLMs1CIA/videos"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "mentals-ai"
+description = "No code AI agents"
+category = "agents"
+tags = ["ai", "ai-agents", "cli", "gpt", "llama3", "llm", "machine-learning", "openai"]
+repository = "https://github.com/turing-machines/mentals-ai"
+website = "https://x.com/mentals_ai"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

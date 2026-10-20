@@ -1,0 +1,9 @@
+name = "HRM"
+description = "Hierarchical Reasoning Model Official Release"
+category = "models"
+tags = ["brain-inspired-ai", "deep-learning", "large-language-models", "reasoning"]
+repository = "https://github.com/sapientinc/HRM"
+website = "https://sapient.inc"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

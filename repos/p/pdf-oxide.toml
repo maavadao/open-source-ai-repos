@@ -1,0 +1,9 @@
+name = "pdf_oxide"
+description = "The fastest PDF library for Python and Rust. Text extraction, image extraction, markdown conversion, PDF creation & editing. 0.8ms mean, 5× faster than industry leaders, 100% pass rate on 3,830 PDFs. MIT/Apache-2.0."
+category = "documents"
+tags = ["document-processing", "pdf", "pdf-editor", "pdf-generation", "pdf-library", "pdf-parser", "python", "rust"]
+repository = "https://github.com/yfedoseev/pdf_oxide"
+website = "https://oxide.fyi"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "fast-bert"
+description = "Super easy library for BERT based NLP models"
+category = "models"
+tags = ["bert", "fast-bert", "fastai", "transformers"]
+repository = "https://github.com/appvision-ai/fast-bert"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

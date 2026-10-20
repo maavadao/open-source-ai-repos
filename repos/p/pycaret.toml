@@ -1,0 +1,9 @@
+name = "pycaret"
+description = "Open-source, low-code AutoML platform for Python. PyCaret 4.0: sklearn-native engine + React control plane."
+category = "ml-platforms"
+tags = ["data-science", "python", "machine-learning", "pycaret", "ml", "regression", "classification", "anomaly-detection"]
+repository = "https://github.com/pycaret/pycaret"
+website = "https://pycaret.org"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

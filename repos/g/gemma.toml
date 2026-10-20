@@ -1,0 +1,8 @@
+name = "gemma"
+description = "Gemma open-weight LLM library, from Google DeepMind"
+category = "models"
+repository = "https://github.com/google-deepmind/gemma"
+website = "https://gemma-llm.readthedocs.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

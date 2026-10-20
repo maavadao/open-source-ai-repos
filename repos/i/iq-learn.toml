@@ -1,0 +1,9 @@
+name = "IQ-Learn"
+description = "(NeurIPS '21 Spotlight) IQ-Learn: Inverse Q-Learning for Imitation"
+category = "ml-platforms"
+tags = ["imitation-learning", "inverse-reinforcement-learning", "reinforcement-learning"]
+repository = "https://github.com/Div-Infinity/IQ-Learn"
+website = "https://div99.github.io/IQ-Learn/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

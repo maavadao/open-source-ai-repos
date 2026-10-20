@@ -1,0 +1,8 @@
+name = "zhtw-mcp"
+description = "A linguistic linter for Traditional Chinese (zh-TW)"
+category = "mcp-servers"
+tags = ["large-language-models", "localization-tool", "traditional-chinese", "claude-code", "linguistic-analysis"]
+repository = "https://github.com/sysprog21/zhtw-mcp"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

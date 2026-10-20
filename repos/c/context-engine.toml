@@ -1,0 +1,9 @@
+name = "Context-Engine"
+description = "Context-Engine MCP - Agentic Context Compression Suite"
+category = "mcp-servers"
+tags = ["ai", "ai-agents", "codex", "context", "context-engine", "cursor", "decoder", "glm"]
+repository = "https://github.com/Context-Engine-AI/Context-Engine"
+website = "https://context-engine.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

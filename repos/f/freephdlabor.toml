@@ -1,0 +1,9 @@
+name = "freephdlabor"
+description = "freephdlabor: customizing personalized multiagent systems that researchs 24/7 on your own scientific problem"
+category = "agents"
+tags = ["ai-agents", "ai4science", "autonomous-agents", "multiagent-systems", "research-automation"]
+repository = "https://github.com/ltjed/freephdlabor"
+website = "https://freephdlabor.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

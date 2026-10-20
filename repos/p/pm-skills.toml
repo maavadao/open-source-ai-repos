@@ -1,0 +1,8 @@
+name = "pm-skills"
+description = "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth."
+category = "skills-prompts"
+tags = ["agent-skill-repository", "product-management", "agent-skills", "agentic-skills", "claude-code-marketplace", "claude-code-plugins", "claude-cowork-plugin"]
+repository = "https://github.com/phuryn/pm-skills"
+website = "https://www.productcompass.pm/p/pm-skills-2-red-team-ship"
+license = "MIT"
+added = 2026-10-20

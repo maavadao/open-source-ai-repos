@@ -1,0 +1,8 @@
+name = "semantic_slam"
+description = "Real time semantic slam in ROS with a hand held RGB-D camera"
+category = "robotics"
+tags = ["semantic-segmentation", "slam", "semantic-slam", "octomap", "ros", "3d-reconstruction"]
+repository = "https://github.com/floatlazer/semantic_slam"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-10-20

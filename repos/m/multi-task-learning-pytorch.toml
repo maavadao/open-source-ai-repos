@@ -1,0 +1,8 @@
+name = "Multi-Task-Learning-PyTorch"
+description = "PyTorch implementation of multi-task learning architectures, incl. MTI-Net (ECCV2020)."
+category = "vision"
+tags = ["multi-task-learning", "computer-vision", "pytorch", "nyud", "pascal", "segmentation", "scene-understanding", "eccv2020"]
+repository = "https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

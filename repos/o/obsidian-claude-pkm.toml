@@ -1,0 +1,8 @@
+name = "obsidian-claude-pkm"
+description = "A complete starter kit for an Obsidian + Claude Code personal knowledge management system."
+category = "coding"
+tags = ["ai-agents", "claude-code", "goal-tracking", "obsidian", "pkm", "productivity", "second-brain"]
+repository = "https://github.com/ballred/obsidian-claude-pkm"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

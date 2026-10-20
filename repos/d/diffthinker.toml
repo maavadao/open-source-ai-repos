@@ -1,0 +1,8 @@
+name = "DiffThinker"
+description = "[ICML 2026] Official repo for \"DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models\""
+category = "models"
+tags = ["generative", "multimodal", "reasoning"]
+repository = "https://github.com/lcqysl/DiffThinker"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

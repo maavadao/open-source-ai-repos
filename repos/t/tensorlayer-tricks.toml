@@ -1,0 +1,7 @@
+name = "tensorlayer-tricks"
+description = "How to use TensorLayer"
+category = "learning"
+tags = ["tensorlayer", "tensorflow", "deep-learning", "machine-learning", "data-science", "neural-network", "reinforcement-learning", "neural-networks"]
+repository = "https://github.com/wagamamaz/tensorlayer-tricks"
+license = "NOASSERTION"
+added = 2026-10-20

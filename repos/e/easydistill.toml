@@ -1,0 +1,8 @@
+name = "easydistill"
+description = "a toolkit on knowledge distillation for large language models"
+category = "models"
+tags = ["knowledge-distillation", "large-language-models"]
+repository = "https://github.com/modelscope/easydistill"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

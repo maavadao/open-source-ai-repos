@@ -1,0 +1,8 @@
+name = "Awesome-LLM-based-Text2SQL"
+description = "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL."
+category = "learning"
+tags = ["awesome", "awesome-text-to-sql", "awesome-text2sql", "database", "large-language-models", "llms", "natual-language-processing", "natural-language-understanding"]
+repository = "https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL"
+website = "https://arxiv.org/pdf/2406.08426"
+license = "MIT"
+added = 2026-10-20

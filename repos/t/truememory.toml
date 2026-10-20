@@ -1,0 +1,9 @@
+name = "TrueMemory"
+description = "The memory your AI should have had from the start. Automatic capture, automatic recall, 100% local. One SQLite file, zero cloud. Works with Claude Code, Claude CLI, Cursor, Codex CLI, Gemini CLI."
+category = "mcp-servers"
+tags = ["agent-memory", "ai-agents", "ai-memory", "anthropic", "claude-code", "embeddings", "mcp", "model-context-protocol"]
+repository = "https://github.com/buildingjoshbetter/TrueMemory"
+website = "https://truememory.net"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

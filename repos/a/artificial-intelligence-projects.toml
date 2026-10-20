@@ -1,0 +1,9 @@
+name = "Artificial-Intelligence-Projects"
+description = "Collection of Artificial Intelligence projects."
+category = "ml-platforms"
+tags = ["machine-learning", "artificial-intelligence", "recommendation-system", "data-science", "programming", "ai", "deep-learning", "reinforcement-learning"]
+repository = "https://github.com/pierpaolo28/Artificial-Intelligence-Projects"
+website = "https://pierpaolo28.github.io/work.html"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

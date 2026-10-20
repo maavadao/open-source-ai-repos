@@ -1,0 +1,7 @@
+name = "Transformer-in-Computer-Vision"
+description = "A paper list of some recent Transformer-based CV works."
+category = "learning"
+tags = ["transformer", "transformer-cv", "transformer-awesome", "detr", "vit", "awesome", "computer-vision", "deep-learning"]
+repository = "https://github.com/Yangzhangcst/Transformer-in-Computer-Vision"
+license = "NOASSERTION"
+added = 2026-10-20

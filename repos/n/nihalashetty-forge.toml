@@ -1,0 +1,8 @@
+name = "Forge"
+description = "Forge is an open-source, self-hosted alternative for visually building and shipping AI agents and workflows without giving up control of your infrastructure."
+category = "mcp-servers"
+tags = ["ai-agents", "langchain", "langgraph", "mcp", "rag", "llms", "self-hosted", "workflow-automation"]
+repository = "https://github.com/nihalashetty/Forge"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "visual-slam-roadmap"
+description = "Roadmap to become a Visual-SLAM developer in 2026"
+category = "learning"
+tags = ["visual-slam", "slam", "roadmap", "robotics", "computer-vision", "awesome", "awesome-list", "visual-inertial-odometry"]
+repository = "https://github.com/changh95/visual-slam-roadmap"
+website = "https://www.cv-learn.com/visual-slam-roadmap/"
+license = "MIT"
+language = "Astro"
+added = 2026-10-20

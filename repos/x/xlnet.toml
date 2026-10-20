@@ -1,0 +1,8 @@
+name = "xlnet"
+description = "XLNet: Generalized Autoregressive Pretraining for Language Understanding"
+category = "ml-platforms"
+tags = ["tensorflow", "nlp", "deep-learning"]
+repository = "https://github.com/zihangdai/xlnet"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

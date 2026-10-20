@@ -1,0 +1,9 @@
+name = "AISP"
+description = "AI Image Signal Processing and Computational Photography. Official library for NTIRE (CVPR) and AIM (ICCV/ECCV) Challenges. You will find Learned ISPs, RAW Restoration-Upsampling-Reconstruction, Image Enhancement, Bokeh rendering and more!"
+category = "vision"
+tags = ["computational-photography", "computer-vision", "deep-learning", "image-processing", "inverse-problems", "isp", "low-level-vision", "mobile-ai"]
+repository = "https://github.com/mv-lab/AISP"
+website = "https://mv-lab.github.io/model-isp22/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

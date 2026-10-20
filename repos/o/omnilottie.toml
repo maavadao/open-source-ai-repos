@@ -1,0 +1,9 @@
+name = "OmniLottie"
+description = "[CVPR 2026] OmniLottie, an open-sourced multi-modal instructed vector animation generator that produces Lottie JSONs."
+category = "models"
+tags = ["generative-ai", "generative-model", "lottie-animation", "multi-modal", "svg-animations", "vector-graphics", "vlm"]
+repository = "https://github.com/OpenVGLab/OmniLottie"
+website = "https://openvglab.github.io/OmniLottie/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

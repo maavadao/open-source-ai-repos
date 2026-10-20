@@ -1,0 +1,8 @@
+name = "mcp_agent_mail"
+description = "Asynchronous coordination layer for AI coding agents: identities, inboxes, searchable threads, and advisory file leases over FastMCP + Git + SQLite"
+category = "mcp-servers"
+tags = ["ai-agents", "coordination", "fastmcp", "mcp", "python"]
+repository = "https://github.com/Dicklesworthstone/mcp_agent_mail"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

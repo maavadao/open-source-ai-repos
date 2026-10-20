@@ -1,0 +1,9 @@
+name = "kyros-ai"
+description = "Kyros — The Memory OS for AI Agents Give your AI agents secure, self-correcting, persistent memory in 3 lines of code. Three memory types (episodic, semantic, procedural) with built-in forgetting curves, cryptographic integrity, and automatic contradiction resolution.…"
+category = "vector-databases"
+tags = ["agents", "ai", "artificial-intelligence", "docker", "episodic-memory", "fastapi", "langchain", "llamaindex"]
+repository = "https://github.com/Kyros-494/kyros-ai"
+website = "https://kyros-494.github.io/kyros-ai/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

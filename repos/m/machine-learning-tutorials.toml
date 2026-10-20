@@ -1,0 +1,8 @@
+name = "Machine-Learning-Tutorials"
+description = "machine learning and deep learning tutorials, articles and other resources"
+category = "learning"
+tags = ["deep-learning-tutorial", "machine-learning", "machinelearning", "deeplearning", "neural-network", "neural-networks", "deep-neural-networks", "awesome-list"]
+repository = "https://github.com/ujjwalkarn/Machine-Learning-Tutorials"
+website = "http://ujjwalkarn.github.io/Machine-Learning-Tutorials"
+license = "CC0-1.0"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "BYO-LLM-WIKI"
+description = "Build your own LLM-native WIKI (knowledge library). Search, extract, summarize, Q&A with contextual RAG, layered knowledge graph, and reinforced memory. Importantly use selected context to automatically generate skills, empowered by Claude subagents + CodeAct pipeline and…"
+category = "mcp-servers"
+tags = ["agentic-ai", "autonomous-agents", "llm-wiki", "deep-agents", "langchain", "mcp", "karpathy-llm-wiki", "rag"]
+repository = "https://github.com/Lyra-stellAI/BYO-LLM-WIKI"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

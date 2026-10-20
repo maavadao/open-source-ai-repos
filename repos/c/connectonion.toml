@@ -1,0 +1,9 @@
+name = "connectonion"
+description = "CLI is all you need. The agent CLI harness."
+category = "agents"
+tags = ["agent", "agentic-ai", "llm", "openonion"]
+repository = "https://github.com/openonion/connectonion"
+website = "https://docs.connectonion.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

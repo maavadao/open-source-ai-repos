@@ -1,0 +1,8 @@
+name = "open-webui-tools"
+description = "Open‑WebUI Tools is a modular toolkit designed to extend and enrich your Open WebUI instance, turning it into a powerful AI workstation. With a suite of over 15 specialized tools, function pipelines, and filters, this project supports academic research, agentic autonomy…"
+category = "speech"
+tags = ["ai-agents", "comfyui", "letta", "llm", "llm-tools", "llms", "local-ai", "ollama"]
+repository = "https://github.com/Haervwe/open-webui-tools"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

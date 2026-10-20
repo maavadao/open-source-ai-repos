@@ -1,0 +1,9 @@
+name = "design-md-chrome"
+description = "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI"
+category = "coding"
+tags = ["ai", "chrome", "chrome-extension", "design-md", "design-skills", "extension", "open-source", "skills"]
+repository = "https://github.com/bergside/design-md-chrome"
+website = "https://chromewebstore.google.com/detail/designmd-style-extractor/ogpdnchdjiibhobphelbbkemnnemkfma"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

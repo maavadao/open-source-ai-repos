@@ -1,0 +1,8 @@
+name = "Autoformer"
+description = "About Code release for \"Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting\" (NeurIPS 2021), https://arxiv.org/abs/2106.13008"
+category = "ml-platforms"
+tags = ["deep-learning", "time-series"]
+repository = "https://github.com/thuml/Autoformer"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "polyaxon"
+description = "AI Infra / AI Orchestration / AI Control Plane"
+category = "no-code"
+tags = ["deep-learning", "machine-learning", "artificial-intelligence", "data-science", "reinforcement-learning", "kubernetes", "tensorflow", "pytorch"]
+repository = "https://github.com/polyaxon/polyaxon"
+website = "https://polyaxon.com"
+license = "Apache-2.0"
+language = "MDX"
+added = 2026-10-20

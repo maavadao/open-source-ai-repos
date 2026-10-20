@@ -1,0 +1,9 @@
+name = "sandstorm"
+description = "Run Claude agents in secure cloud sandboxes — via API, CLI, or Slack. One call. Full agent. Zero infrastructure."
+category = "agents"
+tags = ["agent-sdk", "ai", "ai-agents", "anthropic", "claude", "e2b", "fastapi", "llm"]
+repository = "https://github.com/tomascupr/sandstorm"
+website = "https://duvo.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

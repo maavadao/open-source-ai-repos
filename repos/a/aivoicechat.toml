@@ -1,0 +1,8 @@
+name = "AIVoiceChat"
+description = "Low latency ai companion voice talk in 60 lines of code using faster_whisper and elevenlabs input streaming"
+category = "chat"
+tags = ["chatbot", "elevenlabs", "elevenlabs-api", "gpt-4", "openai"]
+repository = "https://github.com/KoljaB/AIVoiceChat"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Awesome-Long-Chain-of-Thought-Reasoning"
+description = "Latest Advances on Long Chain-of-Thought Reasoning"
+category = "learning"
+tags = ["agent", "chain-of-thought", "deepseek-r1", "long", "o1", "o3", "openai-o1", "r1"]
+repository = "https://github.com/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning"
+website = "https://long-cot.github.io/"
+license = "NOASSERTION"
+added = 2026-10-20

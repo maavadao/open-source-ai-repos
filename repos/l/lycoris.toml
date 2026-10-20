@@ -1,0 +1,8 @@
+name = "LyCORIS"
+description = "Lora beYond Conventional methods, Other Rank adaptation Implementations for Stable diffusion."
+category = "image"
+tags = ["finetune", "stable-diffusion"]
+repository = "https://github.com/KohakuBlueleaf/LyCORIS"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

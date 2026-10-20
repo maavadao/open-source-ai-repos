@@ -1,0 +1,9 @@
+name = "LimiX"
+description = "LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2609.17488"
+category = "models"
+tags = ["foundation-models", "limix", "machine-learning", "structured-data", "huggingface", "pretrained-models", "tabular-foundation-models"]
+repository = "https://github.com/limix-ldm-ai/LimiX"
+website = "https://www.limix.ai"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

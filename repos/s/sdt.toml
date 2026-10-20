@@ -1,0 +1,8 @@
+name = "SDT"
+description = "This repository is the official implementation of Disentangling Writer and Character Styles for Handwriting Generation (CVPR 2023)"
+category = "vision"
+tags = ["deep-learning", "handwriting-generation", "transformer", "generative-models", "multimodal", "pytorch-implementation", "computer-vision", "contrastive-learning"]
+repository = "https://github.com/dailenson/SDT"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

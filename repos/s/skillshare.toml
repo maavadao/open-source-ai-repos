@@ -1,0 +1,9 @@
+name = "skillshare"
+description = "Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing."
+category = "mcp-servers"
+tags = ["ai", "cli", "codex", "skills", "skillshare", "cross-machine-sync", "claude-code", "openclaw"]
+repository = "https://github.com/runkids/skillshare"
+website = "https://skillshare.runkids.cc"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

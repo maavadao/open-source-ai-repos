@@ -1,0 +1,8 @@
+name = "DeepLearning"
+description = "深度学习入门教程, 优秀文章, Deep Learning Tutorial"
+category = "learning"
+tags = ["deeplearning", "cnn", "rnn", "gan", "machine-learning", "tensorflow", "mxnet", "deep-learning"]
+repository = "https://github.com/Mikoto10032/DeepLearning"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

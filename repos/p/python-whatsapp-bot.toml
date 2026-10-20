@@ -1,0 +1,9 @@
+name = "python-whatsapp-bot"
+description = "Build AI WhatsApp Bots with Pure Python"
+category = "models"
+tags = ["ai", "flask", "llm", "openai", "python", "whatsapp"]
+repository = "https://github.com/daveebbelaar/python-whatsapp-bot"
+website = "https://www.datalumina.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

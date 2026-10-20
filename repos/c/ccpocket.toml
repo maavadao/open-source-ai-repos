@@ -1,0 +1,9 @@
+name = "ccpocket"
+description = "Mobile client for Codex and Claude — control coding agents from your phone via WebSocket bridge"
+category = "coding"
+tags = ["android", "bridge-server", "claude-code", "cli", "flutter", "ios", "mobile", "remote-control"]
+repository = "https://github.com/K9i-0/ccpocket"
+website = "https://k9i-0.github.io/ccpocket/install/"
+license = "MIT"
+language = "Dart"
+added = 2026-10-20

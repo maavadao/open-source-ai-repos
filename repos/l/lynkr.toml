@@ -1,0 +1,9 @@
+name = "Lynkr"
+description = "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude Code CLI."
+category = "mcp-servers"
+tags = ["claude", "claudecode", "databricks", "agents", "ai", "code-assistant", "code-generation", "developer-tools"]
+repository = "https://github.com/Fast-Editor/Lynkr"
+website = "http://lynkrhq.com/"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

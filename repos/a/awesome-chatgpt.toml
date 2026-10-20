@@ -1,0 +1,7 @@
+name = "awesome-chatgpt"
+description = "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3"
+category = "learning"
+tags = ["chatgpt", "gpt-3", "gpt3", "openai"]
+repository = "https://github.com/humanloop/awesome-chatgpt"
+license = "NOASSERTION"
+added = 2026-10-20

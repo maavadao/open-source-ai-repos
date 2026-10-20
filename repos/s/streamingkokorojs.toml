@@ -1,0 +1,9 @@
+name = "StreamingKokoroJS"
+description = "Unlimited text-to-speech in the Browser using Kokoro-JS, 100% local, 100% open source"
+category = "speech"
+tags = ["ai", "kokoro", "kokoro-tts", "text-to-speech", "tts"]
+repository = "https://github.com/rhulha/StreamingKokoroJS"
+website = "https://rhulha.github.io/StreamingKokoroJS/"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-20

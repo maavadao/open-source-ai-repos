@@ -1,0 +1,8 @@
+name = "Time-Series-Library"
+description = "A Library for Advanced Deep Time Series Models for General Time Series Analysis."
+category = "ml-platforms"
+tags = ["deep-learning", "time-series", "time-series-analysis"]
+repository = "https://github.com/thuml/Time-Series-Library"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "daam"
+description = "Diffusion attentive attribution maps for interpreting Stable Diffusion."
+category = "image"
+tags = ["explainable-ai", "huggingface", "pytorch", "stable-diffusion", "generative-ai", "diffusion"]
+repository = "https://github.com/castorini/daam"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

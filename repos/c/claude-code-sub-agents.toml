@@ -1,0 +1,7 @@
+name = "claude-code-sub-agents"
+description = "Collection of specialized AI subagents for Claude Code for personal use (full-stack development)."
+category = "coding"
+tags = ["ai-agents", "claude-code", "sub-agents", "subagents", "claudecode-config", "claudecode-subagents"]
+repository = "https://github.com/lst97/claude-code-sub-agents"
+license = "MIT"
+added = 2026-10-20

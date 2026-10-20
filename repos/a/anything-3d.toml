@@ -1,0 +1,8 @@
+name = "Anything-3D"
+description = "Segment-Anything + 3D. Let's lift anything to 3D."
+category = "vision"
+tags = ["3d", "computer-vision", "reconstruction", "segment", "segment-anything"]
+repository = "https://github.com/Anything-of-anything/Anything-3D"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

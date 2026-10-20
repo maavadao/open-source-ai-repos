@@ -1,0 +1,9 @@
+name = "invariant"
+description = "Guardrails for secure and robust agent development"
+category = "agents"
+tags = ["agents", "ai", "security"]
+repository = "https://github.com/invariantlabs-ai/invariant"
+website = "https://invariantlabs.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

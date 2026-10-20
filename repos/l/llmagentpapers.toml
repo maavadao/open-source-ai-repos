@@ -1,0 +1,7 @@
+name = "LLMAgentPapers"
+description = "Must-read Papers on LLM Agents."
+category = "agents"
+tags = ["agents", "awsome-list", "environment", "interactive", "large-language-models", "llm", "multiagent-systems", "natural-language-processing"]
+repository = "https://github.com/zjunlp/LLMAgentPapers"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "textgen"
+description = "Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private."
+category = "models"
+repository = "https://github.com/oobabooga/textgen"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

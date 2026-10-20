@@ -1,0 +1,9 @@
+name = "GeneticAlgorithmPython"
+description = "Source code of PyGAD, a Python 3 library for building the genetic algorithm and training machine learning algorithms (Keras & PyTorch)."
+category = "ml-platforms"
+tags = ["python", "genetic-algorithm", "optimization", "numpy", "pygad", "pygad-documentation", "neural-networks", "machine-learning"]
+repository = "https://github.com/ahmedfgad/GeneticAlgorithmPython"
+website = "https://pygad.readthedocs.io"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

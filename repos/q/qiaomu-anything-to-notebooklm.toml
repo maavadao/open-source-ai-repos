@@ -1,0 +1,8 @@
+name = "qiaomu-anything-to-notebooklm"
+description = "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc."
+category = "mcp-servers"
+tags = ["automation", "claude", "mcp", "notebooklm", "skill"]
+repository = "https://github.com/joeseesun/qiaomu-anything-to-notebooklm"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

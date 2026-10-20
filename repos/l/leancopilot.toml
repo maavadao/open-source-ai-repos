@@ -1,0 +1,9 @@
+name = "LeanCopilot"
+description = "LLMs as Copilots for Theorem Proving in Lean"
+category = "local-llms"
+tags = ["lean", "llm-inference", "machine-learning", "theorem-proving", "lean4", "formal-mathematics", "llm"]
+repository = "https://github.com/lean-dojo/LeanCopilot"
+website = "https://leandojo.org/leancopilot.html"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

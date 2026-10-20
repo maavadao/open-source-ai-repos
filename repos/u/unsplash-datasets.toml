@@ -1,0 +1,9 @@
+name = "datasets"
+description = "7,400,000+ Unsplash images made available for research and machine learning"
+category = "search"
+tags = ["dataset", "images", "unsplash", "machine-learning", "research", "data", "search-engine", "keywords"]
+repository = "https://github.com/unsplash/datasets"
+website = "https://unsplash.com/data"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

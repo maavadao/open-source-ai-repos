@@ -1,0 +1,9 @@
+name = "RL4LMs"
+description = "A modular RL library to fine-tune language models to human preferences"
+category = "ml-platforms"
+tags = ["language-modeling", "nlp", "reinforcement-learning", "dialogue-generation", "machine-translation", "natural-language-processing", "summarization", "table-to-text"]
+repository = "https://github.com/allenai/RL4LMs"
+website = "https://rl4lms.apps.allenai.org/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

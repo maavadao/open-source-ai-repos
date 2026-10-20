@@ -1,0 +1,8 @@
+name = "high-fidelity-generative-compression"
+description = "Pytorch implementation of High-Fidelity Generative Image Compression + Routines for neural image compression"
+category = "vision"
+tags = ["image-compression", "generative-adversarial-networks", "entropy-coding", "pytorch", "computer-vision", "machine-learning"]
+repository = "https://github.com/Justin-Tan/high-fidelity-generative-compression"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

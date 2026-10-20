@@ -1,0 +1,9 @@
+name = "CraftBot"
+description = "One agent. Every kind of work."
+category = "agents"
+tags = ["agent-architecture", "ai", "ai-agents", "computer-use-agent", "content-engineering", "help-wanted", "llm", "open-source"]
+repository = "https://github.com/CraftOS-dev/CraftBot"
+website = "https://craftbot.live/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

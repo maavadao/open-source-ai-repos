@@ -1,0 +1,9 @@
+name = "Skywork-R1V"
+description = "Skywork-R1V is an advanced multimodal AI model series developed by Skywork AI, specializing in vision-language reasoning."
+category = "models"
+tags = ["deepseek-r1", "llm", "r1v", "reasoning", "skywork-r1v", "multimodal-understanding", "multimodal-r1", "vlm"]
+repository = "https://github.com/SkyworkAI/Skywork-R1V"
+website = "https://arxiv.org/abs/2504.05599"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

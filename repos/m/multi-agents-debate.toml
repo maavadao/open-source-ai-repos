@@ -1,0 +1,9 @@
+name = "Multi-Agents-Debate"
+description = "MAD: The first work to explore Multi-Agent Debate with Large Language Models :D"
+category = "chat"
+tags = ["large-language-models", "llms", "nlp", "chatgpt", "gpt-4"]
+repository = "https://github.com/Skytliang/Multi-Agents-Debate"
+website = "https://arxiv.org/abs/2305.19118"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Awesome-Efficient-LLM"
+description = "A curated list for Efficient Large Language Models"
+category = "learning"
+tags = ["compression", "knowledge-distillation", "language-model", "llm", "model-quantization", "pruning-algorithms", "efficient-llm", "llm-compression"]
+repository = "https://github.com/horseee/Awesome-Efficient-LLM"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

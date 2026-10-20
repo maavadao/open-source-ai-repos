@@ -1,0 +1,9 @@
+name = "awesome-ChatGPT-repositories"
+description = "A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code and Codex skills."
+category = "learning"
+tags = ["awesome", "awesome-list", "chatgpt", "openai", "llm", "agent", "ai", "gpt-5"]
+repository = "https://github.com/taishi-i/awesome-ChatGPT-repositories"
+website = "https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search"
+license = "CC0-1.0"
+language = "Python"
+added = 2026-10-20

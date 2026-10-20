@@ -1,0 +1,8 @@
+name = "FireRed-Image-Edit"
+description = "FireRed-Image-Edit is a powerful image editing foundation model achieving open-source state-of-the-art performance with precise instruction following, high-fidelity generation, superior identity consistency, and seamless multi-element fusion."
+category = "image"
+tags = ["aigc", "deep-learning", "diffusion-models", "image-generation", "image2image", "pytorch"]
+repository = "https://github.com/FireRedTeam/FireRed-Image-Edit"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

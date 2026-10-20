@@ -1,0 +1,9 @@
+name = "DSINE"
+description = "[CVPR 2024 Oral] Rethinking Inductive Biases for Surface Normal Estimation"
+category = "vision"
+tags = ["3d-from-images", "3d-reconstruction", "cvpr2024", "surface-normals-estimation", "computer-vision", "deep-learning", "surface-normal", "surface-normals"]
+repository = "https://github.com/baegwangbin/DSINE"
+website = "https://baegwangbin.github.io/DSINE/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

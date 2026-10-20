@@ -1,0 +1,9 @@
+name = "pgvecto.rs"
+description = "Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database."
+category = "vector-databases"
+tags = ["llm", "vector", "vector-database", "faiss", "nearest-neighbor-search", "gpt", "chatgpt", "hacktoberfest"]
+repository = "https://github.com/tensorchord/pgvecto.rs"
+website = "https://docs.vectorchord.ai/getting-started/overview.html"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

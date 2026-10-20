@@ -1,0 +1,8 @@
+name = "pytorch-fid"
+description = "Compute FID scores with PyTorch."
+category = "ml-platforms"
+tags = ["pytorch", "gan", "generative-adversarial-network", "fid-score", "deep-learning", "frechet-distance", "inception-score", "fid"]
+repository = "https://github.com/mseitzer/pytorch-fid"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

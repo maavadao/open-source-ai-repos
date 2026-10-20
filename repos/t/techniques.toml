@@ -1,0 +1,7 @@
+name = "techniques"
+description = "Techniques for deep learning with satellite & aerial imagery"
+category = "vision"
+tags = ["deep-learning", "deep-neural-networks", "satellite-imagery", "pytorch", "python", "machine-learning", "sentinel", "satellite-images"]
+repository = "https://github.com/satellite-image-deep-learning/techniques"
+license = "Apache-2.0"
+added = 2026-10-20

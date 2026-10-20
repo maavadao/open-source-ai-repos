@@ -1,0 +1,9 @@
+name = "walk-these-ways"
+description = "Sim-to-real RL training and deployment tools for the Unitree Go1 robot."
+category = "robotics"
+tags = ["go1", "sim-to-real", "unitree", "reinforcement-learning", "robotics"]
+repository = "https://github.com/Improbable-AI/walk-these-ways"
+website = "https://gmargo11.github.io/walk-these-ways/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

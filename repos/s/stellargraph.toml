@@ -1,0 +1,9 @@
+name = "stellargraph"
+description = "StellarGraph - Machine Learning on Graphs"
+category = "ml-platforms"
+tags = ["graphs", "machine-learning", "machine-learning-algorithms", "graph-convolutional-networks", "networkx", "geometric-deep-learning", "saliency-map", "interpretability"]
+repository = "https://github.com/stellargraph/stellargraph"
+website = "https://stellargraph.readthedocs.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

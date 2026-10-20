@@ -1,0 +1,9 @@
+name = "AgentLLM"
+description = "AgentLLM is a PoC for browser-native autonomous agents"
+category = "chat"
+tags = ["agents", "autogpt", "babyagi", "browser", "chatgpt", "langchain", "llm", "vicuna"]
+repository = "https://github.com/idosal/AgentLLM"
+website = "https://agentllm.vercel.app"
+license = "GPL-3.0"
+language = "JavaScript"
+added = 2026-10-20

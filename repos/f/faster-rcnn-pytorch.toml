@@ -1,0 +1,8 @@
+name = "faster_rcnn_pytorch"
+description = "Faster RCNN with PyTorch"
+category = "vision"
+tags = ["pytorch", "detection", "faster-rcnn", "computer-vision"]
+repository = "https://github.com/longcw/faster_rcnn_pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

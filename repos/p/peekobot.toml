@@ -1,0 +1,9 @@
+name = "peekobot"
+description = "A simple, choice-driven chatbot framework for your website written in just over 100 lines of vanilla JavaScript (and some CSS)"
+category = "chat"
+tags = ["javascript", "chatbot"]
+repository = "https://github.com/Peekobot/peekobot"
+website = "https://peekobot.github.io/peekobot/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "agentica"
+description = "One person, a team of agents: CLI, Web, Desktop & Python SDK with multi-session collaboration, persistent memory, and self-evolving skills. 一个人，一支 Agent 团队：支持多终端协作、持久记忆与技能自进化的 AI Agent 框架。"
+category = "mcp-servers"
+tags = ["agent", "agents", "langchain", "llm", "multi-agent", "agentica", "agent-framework", "ai-agent"]
+repository = "https://github.com/shibing624/agentica"
+website = "https://shibing624.github.io/agentica/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

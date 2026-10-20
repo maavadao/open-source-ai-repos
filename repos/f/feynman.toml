@@ -1,0 +1,9 @@
+name = "Feynman"
+description = "Read books the way Feynman did — along with a continuously evolving network of agent-simulated great minds"
+category = "education"
+tags = ["agents", "ai", "books", "education", "fastapi", "knowledge-graph", "llm", "python"]
+repository = "https://github.com/steveyeow/Feynman"
+website = "https://feynman.wiki"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

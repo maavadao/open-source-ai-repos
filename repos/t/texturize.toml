@@ -1,0 +1,8 @@
+name = "texturize"
+description = "Generate photo-realistic textures based on source images or (soon) PBR materials. Remix, remake, mashup! Useful if you want to create variations on a theme or elaborate on an existing texture."
+category = "image"
+tags = ["deep-learning", "generative-model", "image-manipulation", "image-processing", "texture-synthesis", "texture-generation", "image-generation", "computational-photography"]
+repository = "https://github.com/texturedesign/texturize"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "yao-open-prompts"
+description = "Practical bilingual AI prompt library for prompt engineering, work, learning, content, marketing, and everyday use."
+category = "skills-prompts"
+tags = ["ai", "chinese-prompts", "geo", "prompt-engineering", "prompts"]
+repository = "https://github.com/yaojingang/yao-open-prompts"
+website = "https://yaojingang.github.io/yao-open-prompts/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

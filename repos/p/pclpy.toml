@@ -1,0 +1,8 @@
+name = "pclpy"
+description = "Python bindings for the Point Cloud Library (PCL)"
+category = "robotics"
+tags = ["python", "point-cloud", "pcl", "lidar", "computer-vision"]
+repository = "https://github.com/davidcaron/pclpy"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

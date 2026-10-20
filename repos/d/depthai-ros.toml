@@ -1,0 +1,8 @@
+name = "depthai-ros"
+description = "Official ROS Driver for DepthAI Sensors."
+category = "robotics"
+tags = ["ros", "camera", "camera-driver", "computer-vision", "cv", "depthai", "robotics"]
+repository = "https://github.com/luxonis/depthai-ros"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

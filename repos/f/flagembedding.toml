@@ -1,0 +1,9 @@
+name = "FlagEmbedding"
+description = "Retrieval and Retrieval-augmented LLMs"
+category = "llm-apps"
+tags = ["embeddings", "information-retrieval", "llm", "sentence-embeddings", "text-semantic-similarity", "retrieval-augmented-generation"]
+repository = "https://github.com/FlagOpen/FlagEmbedding"
+website = "http://www.bge-model.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

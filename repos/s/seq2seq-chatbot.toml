@@ -1,0 +1,9 @@
+name = "seq2seq-chatbot"
+description = "Chatbot in 200 lines of code using TensorLayer"
+category = "chat"
+tags = ["tensorlayer", "tensorflow", "chatbot", "rnn", "lstm", "bot", "nlp", "chat"]
+repository = "https://github.com/tensorlayer/seq2seq-chatbot"
+website = "https://github.com/tensorlayer/tensorlayer"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

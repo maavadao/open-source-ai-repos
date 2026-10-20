@@ -1,0 +1,9 @@
+name = "RankGPT"
+description = "Is ChatGPT Good at Search? LLMs as Re-Ranking Agent [EMNLP 2023 Outstanding Paper Award]"
+category = "chat"
+tags = ["chatgpt", "information-retrieval", "large-language-models", "reranking"]
+repository = "https://github.com/sunnweiwei/RankGPT"
+website = "https://arxiv.org/abs/2304.09542"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

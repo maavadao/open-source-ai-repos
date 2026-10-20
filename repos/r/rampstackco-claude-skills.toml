@@ -1,0 +1,9 @@
+name = "claude-skills"
+description = "Stack-agnostic Claude Skills covering the full website lifecycle: brand, design, content, SEO, dev, ops, growth, and research. Build, ship, audit, optimize."
+category = "mcp-servers"
+tags = ["claude", "claude-skills", "anthropic", "mcp", "seo", "web-development", "agent-skills", "claude-code"]
+repository = "https://github.com/rampstackco/claude-skills"
+website = "https://rampstack.co"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

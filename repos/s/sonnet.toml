@@ -1,0 +1,9 @@
+name = "sonnet"
+description = "TensorFlow-based neural network library"
+category = "ml-platforms"
+tags = ["machine-learning", "artificial-intelligence", "neural-networks", "deep-learning", "tensorflow"]
+repository = "https://github.com/google-deepmind/sonnet"
+website = "https://sonnet.dev/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

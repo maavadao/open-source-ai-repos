@@ -1,0 +1,9 @@
+name = "GoBigger"
+description = "[ICLR 2023] Come & try Decision-Intelligence version of \"Agar\"! Gobigger could also help you with multi-agent decision intelligence study."
+category = "agents"
+tags = ["python", "reinforcement-learning", "multi-agent", "environment", "gym", "league", "game", "rl-environment"]
+repository = "https://github.com/opendilab/GoBigger"
+website = "https://gobigger.readthedocs.io/en/latest/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

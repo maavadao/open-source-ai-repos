@@ -1,0 +1,8 @@
+name = "fbow"
+description = "FBOW (Fast Bag of Words) is an extremmely optimized version of the DBow2/DBow3 libraries."
+category = "vision"
+tags = ["visionprocessing", "bag-of-words", "computer-vision"]
+repository = "https://github.com/rmsalinas/fbow"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

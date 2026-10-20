@@ -1,0 +1,8 @@
+name = "axon"
+description = "Nx-powered Neural Networks"
+category = "ml-platforms"
+tags = ["nx", "elixir", "deep-learning", "neural-networks", "optimizers"]
+repository = "https://github.com/elixir-nx/axon"
+license = "Apache-2.0"
+language = "Elixir"
+added = 2026-10-20

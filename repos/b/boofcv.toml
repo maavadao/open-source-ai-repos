@@ -1,0 +1,9 @@
+name = "BoofCV"
+description = "Fast computer vision library for SFM, calibration, fiducials, tracking, image processing, and more."
+category = "vision"
+tags = ["camera-calibration", "computer-vision", "3d-vision", "structure-from-motion", "android", "stereo-vision", "photogrammetry", "image-processing"]
+repository = "https://github.com/lessthanoptimal/BoofCV"
+website = "http://boofcv.org"
+license = "NOASSERTION"
+language = "Java"
+added = 2026-10-20

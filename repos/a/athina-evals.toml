@@ -1,0 +1,9 @@
+name = "athina-evals"
+description = "Python SDK for running evaluations on LLM generated responses"
+category = "llm-apps"
+tags = ["evaluation", "evaluation-framework", "evaluation-metrics", "llm-eval", "llm-evaluation", "llm-evaluation-toolkit", "llm-ops", "llmops"]
+repository = "https://github.com/athina-ai/athina-evals"
+website = "https://docs.athina.ai"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

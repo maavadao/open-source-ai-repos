@@ -1,0 +1,8 @@
+name = "VRCOSC"
+description = "A modular node-programming language, program creator, animation system, toolkit, router, and debugger made for VRChat"
+category = "speech"
+tags = ["vrchat", "heartrate", "osc", "vrc", "vrchat-osc", "vrchat-tool", "vrchat-avatars", "media"]
+repository = "https://github.com/VolcanicArts/VRCOSC"
+license = "GPL-3.0"
+language = "C#"
+added = 2026-10-20

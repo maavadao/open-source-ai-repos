@@ -1,0 +1,8 @@
+name = "Danus"
+description = "Orchestrating Mathematical Reasoning Agents with Fact-Graph Memory"
+category = "coding"
+tags = ["agents", "ai4math", "automated-reasoning", "claude-code", "codex", "llm", "mathematics", "multi-agent"]
+repository = "https://github.com/frenzymath/Danus"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

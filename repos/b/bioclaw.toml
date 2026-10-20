@@ -1,0 +1,8 @@
+name = "BioClaw"
+description = "AI-Powered Bioinformatics Research Assistant. Built on OpenClaw."
+category = "agents"
+tags = ["ai-agents", "openclaw", "bioinformatics", "pubmed", "pymol"]
+repository = "https://github.com/Runchuan-BU/BioClaw"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

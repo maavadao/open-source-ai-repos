@@ -1,0 +1,9 @@
+name = "mdlm"
+description = "[NeurIPS 2024] Simple and Effective Masked Diffusion Language Model"
+category = "image"
+tags = ["diffusion-models", "language-model", "text", "diffusion-language-models"]
+repository = "https://github.com/kuleshov-group/mdlm"
+website = "https://s-sahoo.com/mdlm/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

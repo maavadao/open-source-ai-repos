@@ -1,0 +1,8 @@
+name = "contoso-creative-writer"
+description = "A creative writing multi-agent solution to help users write articles."
+category = "chat"
+tags = ["ai-azd-templates", "azd-templates", "agents", "azure", "azure-ai-search", "azureopenai", "bing", "chatgpt"]
+repository = "https://github.com/Azure-Samples/contoso-creative-writer"
+license = "MIT"
+language = "Bicep"
+added = 2026-10-20

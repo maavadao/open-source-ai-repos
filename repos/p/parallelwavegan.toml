@@ -1,0 +1,9 @@
+name = "ParallelWaveGAN"
+description = "Unofficial Parallel WaveGAN (+ MelGAN & Multi-band MelGAN & HiFi-GAN & StyleMelGAN) with Pytorch"
+category = "speech"
+tags = ["speech-synthesis", "neural-vocoder", "text-to-speech", "pytorch", "wavenet", "parallel-wavenet", "realtime", "tts"]
+repository = "https://github.com/kan-bayashi/ParallelWaveGAN"
+website = "https://kan-bayashi.github.io/ParallelWaveGAN/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

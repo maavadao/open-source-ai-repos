@@ -1,0 +1,9 @@
+name = "mlops-course"
+description = "Learn how to design, develop, deploy and iterate on production-grade ML applications."
+category = "learning"
+tags = ["machine-learning", "deep-learning", "pytorch", "mlops", "data-engineering", "data-quality", "data-science", "distributed-ml"]
+repository = "https://github.com/GokuMohandas/mlops-course"
+website = "https://madewithml.com"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

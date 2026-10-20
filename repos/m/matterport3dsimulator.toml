@@ -1,0 +1,8 @@
+name = "Matterport3DSimulator"
+description = "AI Research Platform for Reinforcement Learning from Real Panoramic Images."
+category = "ml-platforms"
+tags = ["rl", "simulator", "matterport3d-dataset", "matterport3d-simulator", "reinforcement-learning", "vision-and-language", "natural-language-processing"]
+repository = "https://github.com/peteanderson80/Matterport3DSimulator"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

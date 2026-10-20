@@ -1,0 +1,9 @@
+name = "llmgateway"
+description = "Route, manage, and analyze your LLM requests across multiple providers with a unified API interface."
+category = "security"
+tags = ["ai", "llm", "llms", "typescript", "ai-gateway", "analytics", "anthropic", "api-key-management"]
+repository = "https://github.com/theopenco/llmgateway"
+website = "https://llmgateway.io"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

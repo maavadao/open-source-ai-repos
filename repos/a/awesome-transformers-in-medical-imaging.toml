@@ -1,0 +1,7 @@
+name = "awesome-transformers-in-medical-imaging"
+description = "A collection of resources on applications of Transformers in Medical Imaging."
+category = "learning"
+tags = ["transformers", "vision-transformers", "medical-imaging", "medical-image-analysis", "clinical-report", "medical-report-generate", "deep-neural-networks", "medical-image-segmentation"]
+repository = "https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging"
+license = "NOASSERTION"
+added = 2026-10-20

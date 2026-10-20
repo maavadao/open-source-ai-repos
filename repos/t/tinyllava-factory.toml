@@ -1,0 +1,9 @@
+name = "TinyLLaVA_Factory"
+description = "A Framework of Small-scale Large Multimodal Models"
+category = "models"
+tags = ["large-multimodal-models", "llama", "llava", "nlp", "tinyllama", "transformers", "vision-language"]
+repository = "https://github.com/TinyLLaVA/TinyLLaVA_Factory"
+website = "https://arxiv.org/abs/2402.14289"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

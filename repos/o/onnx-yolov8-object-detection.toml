@@ -1,0 +1,8 @@
+name = "ONNX-YOLOv8-Object-Detection"
+description = "Python scripts performing object detection using the YOLOv8 model in ONNX."
+category = "vision"
+tags = ["yolov8", "onnx", "onnxruntime", "opencv", "python", "computer-vision", "deep-learning", "object-detection"]
+repository = "https://github.com/ibaiGorordo/ONNX-YOLOv8-Object-Detection"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

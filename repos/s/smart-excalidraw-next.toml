@@ -1,0 +1,9 @@
+name = "smart-excalidraw-next"
+description = "A smart, powerful, and beautiful excalidraw drawing tool.Draw Professional Charts with Natural Language"
+category = "data-science"
+tags = ["ai", "chart", "excalidraw"]
+repository = "https://github.com/liujuntao123/smart-excalidraw-next"
+website = "https://ai-draw-nexus.aizhi.site"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "vonage-php-sdk-core"
+description = "Vonage REST API client for PHP. API support for SMS, Voice, Text-to-Speech, Numbers, Verify (2FA) and more."
+category = "speech"
+tags = ["nexmo", "php", "sms", "voice", "two-factor-authentication", "text-to-speech", "phone", "messaging"]
+repository = "https://github.com/Vonage/vonage-php-sdk-core"
+website = "https://developer.vonage.com/"
+license = "Apache-2.0"
+language = "PHP"
+added = 2026-10-20

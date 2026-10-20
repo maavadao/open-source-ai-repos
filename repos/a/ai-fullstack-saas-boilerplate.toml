@@ -1,0 +1,9 @@
+name = "AI-Fullstack-SaaS-Boilerplate"
+description = "Fullstack SaaS Boilerplate built with tRPC, Fastify and React"
+category = "chat"
+tags = ["react", "tailwind", "trpc", "fastify", "typescipt", "drizzle-orm", "better-auth", "postgres"]
+repository = "https://github.com/alan345/AI-Fullstack-SaaS-Boilerplate"
+website = "https://alan345.github.io/AI-Fullstack-SaaS-Boilerplate/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

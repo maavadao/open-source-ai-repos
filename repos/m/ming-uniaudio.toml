@@ -1,0 +1,8 @@
+name = "Ming-UniAudio"
+description = "Ming-UniAudio: Speech LLM for Joint Understanding, Generation and Editing with Unified Representation"
+category = "speech"
+tags = ["speech", "speech-recognition", "speech-synthesis", "unified-model"]
+repository = "https://github.com/inclusionAI/Ming-UniAudio"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

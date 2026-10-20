@@ -1,0 +1,8 @@
+name = "kokoro"
+description = "https://hf.co/hexgrad/Kokoro-82M"
+category = "speech"
+repository = "https://github.com/hexgrad/kokoro"
+license = "Apache-2.0"
+language = "JavaScript"
+skill_level = "beginner"
+added = 2026-10-20

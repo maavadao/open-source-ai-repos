@@ -1,0 +1,8 @@
+name = "hand_dapg"
+description = "Repository to accompany RSS 2018 paper on dexterous hand manipulation"
+category = "robotics"
+tags = ["reinforcement-learning", "robotics", "imitation-learning", "simulation", "mujoco-environments"]
+repository = "https://github.com/aravindr93/hand_dapg"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

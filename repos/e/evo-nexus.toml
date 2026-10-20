@@ -1,0 +1,9 @@
+name = "evo-nexus"
+description = "The open source operating system for AI-powered businesses"
+category = "coding"
+tags = ["ai-agents", "ai-workspace", "anthropic", "automation", "business-automation", "claude", "claude-code", "dashboard"]
+repository = "https://github.com/evolution-foundation/evo-nexus"
+website = "https://openclaude.evolutionfoundation.com.br"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

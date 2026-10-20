@@ -1,0 +1,9 @@
+name = "video2x"
+description = "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018."
+category = "ml-platforms"
+tags = ["machine-learning", "anime4k", "vulkan", "realesrgan", "neural-networks", "super-resoluion", "upscale-video", "rife"]
+repository = "https://github.com/k4yt3x/video2x"
+website = "https://docs.video2x.org"
+license = "AGPL-3.0"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "orb"
+description = "All your AI providers, machines, and agent harnesses in one place. Formerly sandboxed.sh (now the backend to the Orb clients)."
+category = "mcp-servers"
+tags = ["ai-agents", "autonomous-agents", "coding-assistant", "containerization", "developer-tools", "llm", "mcp", "opencode"]
+repository = "https://github.com/Th0rgal/orb"
+website = "https://orb.thomas.md"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

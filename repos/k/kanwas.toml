@@ -1,0 +1,9 @@
+name = "kanwas"
+description = "Kanwas — Shared context board for teams and agents"
+category = "agents"
+tags = ["agents", "canvas", "context-management", "collaboration"]
+repository = "https://github.com/kanwas-ai/kanwas"
+website = "https://kanwas.ai/"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

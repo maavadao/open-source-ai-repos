@@ -1,0 +1,9 @@
+name = "ontogpt"
+description = "LLM-based ontological extraction tools, including SPIRES"
+category = "models"
+tags = ["ai", "gpt-3", "language-models", "linkml", "nlp", "oaklib", "relation-extraction", "monarchinitiative"]
+repository = "https://github.com/monarch-initiative/ontogpt"
+website = "https://monarch-initiative.github.io/ontogpt/"
+license = "BSD-3-Clause"
+language = "Jupyter Notebook"
+added = 2026-10-20

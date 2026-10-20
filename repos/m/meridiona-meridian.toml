@@ -1,0 +1,9 @@
+name = "meridian"
+description = "Stop letting your work go unnoticed. Meridian keeps an automatic work journal of what you worked on and what you finished, summarised daily, and automatically drafts your project tickets for you."
+category = "mcp-servers"
+tags = ["productivity", "developer-tools", "jira", "local-first", "time-tracking", "claude-code", "mcp", "worklog"]
+repository = "https://github.com/Meridiona/meridian"
+website = "https://meridiona.com"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

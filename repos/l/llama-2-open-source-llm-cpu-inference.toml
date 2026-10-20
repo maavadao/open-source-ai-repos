@@ -1,0 +1,9 @@
+name = "Llama-2-Open-Source-LLM-CPU-Inference"
+description = "Running Llama 2 and other Open-Source LLMs on CPU Inference Locally for Document Q&A"
+category = "chat"
+tags = ["cpu", "cpu-inference", "deep-learning", "faiss", "langchain", "large-language-models", "llm", "machine-learning"]
+repository = "https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference"
+website = "https://towardsdatascience.com/running-llama-2-on-cpu-inference-for-document-q-a-3d636037a3d8"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

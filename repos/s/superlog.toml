@@ -1,0 +1,9 @@
+name = "superlog"
+description = "Open-source observability tool that uses AI agents to self-heal your software"
+category = "llm-apps"
+tags = ["observability", "opentelemetry", "ai", "llm", "memory", "skills", "react", "typescript"]
+repository = "https://github.com/superloglabs/superlog"
+website = "https://superlog.sh"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

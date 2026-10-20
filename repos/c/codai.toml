@@ -1,0 +1,8 @@
+name = "codai"
+description = "AI coding agent for your terminal."
+category = "local-llms"
+tags = ["chatgpt", "gpt-4", "gpt-4o", "ollama", "openai", "claude", "agent", "llm"]
+repository = "https://github.com/meysamhadeli/codai"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

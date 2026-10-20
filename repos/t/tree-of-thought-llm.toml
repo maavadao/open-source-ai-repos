@@ -1,0 +1,9 @@
+name = "tree-of-thought-llm"
+description = "[NeurIPS 2023] Tree of Thoughts: Deliberate Problem Solving with Large Language Models"
+category = "models"
+tags = ["large-language-models", "llm", "prompting", "tree-of-thoughts", "tree-search"]
+repository = "https://github.com/princeton-nlp/tree-of-thought-llm"
+website = "https://arxiv.org/abs/2305.10601"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "AutoHarness"
+description = "AutoHarness: Automated Harness Engineering for AI Agents"
+category = "security"
+tags = ["agent-framework", "ai-agents", "audit", "context-management", "governance", "harness-engineering", "llm", "multi-agent"]
+repository = "https://github.com/aiming-lab/AutoHarness"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

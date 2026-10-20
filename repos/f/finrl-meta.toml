@@ -1,0 +1,9 @@
+name = "FinRL-Meta"
+description = "FinRL­-Meta: Dynamic datasets and market environments for FinRL."
+category = "agents"
+tags = ["deep-reinforcement-learning", "fintech", "finance", "drl-trading-agents", "finrl-library", "openai", "openai-gym-environments"]
+repository = "https://github.com/AI4Finance-Foundation/FinRL-Meta"
+website = "https://ai4finance.org"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

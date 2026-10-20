@@ -1,0 +1,9 @@
+name = "jax-am"
+description = "Additive manufacturing simulation with JAX."
+category = "ml-platforms"
+tags = ["additive-manufacturing", "cfd", "jax", "phase-field-method", "crystal-plasticity", "simulation", "finite-element-method"]
+repository = "https://github.com/CMSL-HKUST/jax-am"
+website = "https://jax-am.readthedocs.io/en/latest/"
+license = "GPL-3.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

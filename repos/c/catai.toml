@@ -1,0 +1,9 @@
+name = "catai"
+description = "Run AI assistant locally! with simple API for Node.js"
+category = "local-llms"
+tags = ["chatgpt", "ai", "dalai", "openai", "chatbot", "chatui", "llama-cpp", "ai-assistant"]
+repository = "https://github.com/withcatai/catai"
+website = "https://withcatai.github.io/catai/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

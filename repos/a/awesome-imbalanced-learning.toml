@@ -1,0 +1,7 @@
+name = "awesome-imbalanced-learning"
+description = "Everything about class-imbalanced/long-tail learning: papers, codes, frameworks, and libraries | 有关类别不平衡/长尾学习的一切：论文、代码、框架与库"
+category = "learning"
+tags = ["awesome", "awesome-list", "imbalanced-learning", "imbalanced-classification", "class-imbalance", "machine-learning", "ensemble-learning", "imbalanced-data"]
+repository = "https://github.com/ZhiningLiu1998/awesome-imbalanced-learning"
+license = "CC0-1.0"
+added = 2026-10-20

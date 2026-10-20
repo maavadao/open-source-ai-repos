@@ -1,0 +1,9 @@
+name = "uptrain"
+description = "UpTrain is an open-source unified platform to evaluate and improve Generative AI applications. We provide grades for 20+ preconfigured checks (covering language, code, embedding use-cases), perform root cause analysis on failure cases and give insights on how to resolve them."
+category = "llm-apps"
+tags = ["machine-learning", "experimentation", "llm-prompting", "llm-test", "llmops", "monitoring", "prompt-engineering", "autoevaluation"]
+repository = "https://github.com/uptrain-ai/uptrain"
+website = "https://uptrain.ai/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

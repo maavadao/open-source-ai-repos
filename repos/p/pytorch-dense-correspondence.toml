@@ -1,0 +1,9 @@
+name = "pytorch-dense-correspondence"
+description = "Code for \"Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation\""
+category = "robotics"
+tags = ["pytorch", "robotics", "manipulation", "computer-vision", "deep-learning", "3d", "vision", "artificial-intelligence"]
+repository = "https://github.com/RobotLocomotion/pytorch-dense-correspondence"
+website = "https://arxiv.org/pdf/1806.08756.pdf"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

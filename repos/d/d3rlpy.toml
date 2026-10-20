@@ -1,0 +1,9 @@
+name = "d3rlpy"
+description = "An offline deep reinforcement learning library"
+category = "ml-platforms"
+tags = ["deep-reinforcement-learning", "deep-learning", "pytorch", "offline-rl"]
+repository = "https://github.com/takuseno/d3rlpy"
+website = "https://takuseno.github.io/d3rlpy"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

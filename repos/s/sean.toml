@@ -1,0 +1,9 @@
+name = "SEAN"
+description = "SEAN: Image Synthesis with Semantic Region-Adaptive Normalization (CVPR 2020, Oral)"
+category = "image"
+tags = ["cvpr2020", "image-translation", "image-generation", "gan", "face-editing", "face-manipulation"]
+repository = "https://github.com/ZPdesu/SEAN"
+website = "https://zpdesu.github.io/SEAN/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

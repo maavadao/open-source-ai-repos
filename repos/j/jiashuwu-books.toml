@@ -1,0 +1,7 @@
+name = "Books"
+description = "My book list"
+category = "learning"
+tags = ["reading-list", "reading", "book", "algorithms", "data-structures", "android", "computer-networking", "computer-vision"]
+repository = "https://github.com/JiashuWu/Books"
+license = "MIT"
+added = 2026-10-20

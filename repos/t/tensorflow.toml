@@ -1,0 +1,10 @@
+name = "tensorflow"
+description = "An Open Source Machine Learning Framework for Everyone"
+category = "ml-platforms"
+tags = ["tensorflow", "machine-learning", "python", "deep-learning", "deep-neural-networks", "neural-network", "ml", "distributed"]
+repository = "https://github.com/tensorflow/tensorflow"
+website = "https://tensorflow.org"
+license = "Apache-2.0"
+language = "C++"
+skill_level = "intermediate"
+added = 2026-10-20

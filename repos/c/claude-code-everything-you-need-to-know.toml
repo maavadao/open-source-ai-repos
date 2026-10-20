@@ -1,0 +1,8 @@
+name = "Claude-Code-Everything-You-Need-to-Know"
+description = "Claude Code guide in three levels, Beginner to Advanced: hands-on lessons with checked exercises, every volatile fact cited to its source. Independent community guide."
+category = "mcp-servers"
+tags = ["agent-skills", "agentic-coding", "ai-agents", "anthropic", "anthropic-claude", "best-practices", "claude", "claude-ai"]
+repository = "https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

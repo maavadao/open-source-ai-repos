@@ -1,0 +1,9 @@
+name = "generative-models"
+description = "Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow."
+category = "ml-platforms"
+tags = ["vae", "gan", "pytorch", "tensorflow", "generative-model", "machine-learning", "rbm", "restricted-boltzmann-machine"]
+repository = "https://github.com/wiseodd/generative-models"
+website = "http://wiseodd.github.io"
+license = "Unlicense"
+language = "Python"
+added = 2026-10-20

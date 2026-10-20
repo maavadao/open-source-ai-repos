@@ -1,0 +1,8 @@
+name = "mcp-brasil"
+description = "MCP Server para 70 APIs públicas brasileiras"
+category = "mcp-servers"
+tags = ["ai-agents", "brazil", "claude", "fastmcp", "governo", "llm", "mcp", "mcp-server"]
+repository = "https://github.com/Mcp-Brasil/mcp-brasil"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

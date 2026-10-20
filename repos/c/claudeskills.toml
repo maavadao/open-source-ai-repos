@@ -1,0 +1,9 @@
+name = "ClaudeSkills"
+description = "13 curated Agent Skills for research, product decisions, decks, publishing, audits, and more — portable across skills-compatible agents."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude", "claude-code", "claude-skills", "deep-research"]
+repository = "https://github.com/staruhub/ClaudeSkills"
+website = "https://staruhub.github.io/ClaudeSkills/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

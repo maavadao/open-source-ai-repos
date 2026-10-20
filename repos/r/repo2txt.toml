@@ -1,0 +1,9 @@
+name = "repo2txt"
+description = "Web-based tool converts GitHub repository contents into a single formatted text file"
+category = "chat"
+tags = ["ai", "anthropic", "chatgpt", "developer-tools", "devtools", "llm"]
+repository = "https://github.com/abinthomasonline/repo2txt"
+website = "https://abinthomas.in/repo2txt/"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

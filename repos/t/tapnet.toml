@@ -1,0 +1,9 @@
+name = "tapnet"
+description = "Tracking Any Point (TAP)"
+category = "robotics"
+tags = ["benchmark", "point-tracking", "robotics", "computer-vision", "deep-learning"]
+repository = "https://github.com/google-deepmind/tapnet"
+website = "https://deepmind-tapir.github.io/blogpost.html"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

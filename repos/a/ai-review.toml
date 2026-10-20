@@ -1,0 +1,9 @@
+name = "ai-review"
+description = "AI-powered code review tool for GitHub, GitLab, Bitbucket Cloud, Bitbucket Server, Azure DevOps and Gitea — built with LLMs like OpenAI, Claude, Gemini, Ollama, Bedrock, OpenRouter and Azure OpenAI"
+category = "coding"
+tags = ["ai", "ai-code-review", "ai-code-reviewer", "ai-review", "github", "gitlab", "llm", "prompt"]
+repository = "https://github.com/Nikita-Filonov/ai-review"
+website = "https://boosty.to/ai_review"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

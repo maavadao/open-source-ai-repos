@@ -1,0 +1,8 @@
+name = "domain-transfer-network"
+description = "TensorFlow Implementation of Unsupervised Cross-Domain Image Generation"
+category = "image"
+tags = ["tensorflow", "domain-transfer", "unsupervised-learning", "image-generation"]
+repository = "https://github.com/yunjey/domain-transfer-network"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

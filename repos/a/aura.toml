@@ -1,0 +1,9 @@
+name = "aura"
+description = "AURA is a production-tested SRE agent platform you can deploy in minutes. AURA handles the guardrails, APIs, state management, streaming, and failure handling required to put AI to work safely on production infrastructure."
+category = "mcp-servers"
+tags = ["ai-agent-framework", "ai-agents", "aiops", "devops", "llm", "mcp", "model-context-protocol", "observability"]
+repository = "https://github.com/mezmo/aura"
+website = "https://www.mezmo.com/aura"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

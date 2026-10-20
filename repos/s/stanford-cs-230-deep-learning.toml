@@ -1,0 +1,8 @@
+name = "stanford-cs-230-deep-learning"
+description = "VIP cheatsheets for Stanford's CS 230 Deep Learning"
+category = "ml-platforms"
+tags = ["cheatsheet", "deep-learning", "convolutional-neural-networks", "recurrent-neural-networks", "data-science"]
+repository = "https://github.com/afshinea/stanford-cs-230-deep-learning"
+website = "https://stanford.edu/~shervine/teaching/cs-230/"
+license = "MIT"
+added = 2026-10-20

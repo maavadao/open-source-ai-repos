@@ -1,0 +1,9 @@
+name = "LLaMA-Mesh"
+description = "Unifying 3D Mesh Generation with Language Models"
+category = "models"
+tags = ["3d-generation", "llm", "mesh-generation", "multimodal"]
+repository = "https://github.com/nv-tlabs/LLaMA-Mesh"
+website = "https://research.nvidia.com/labs/toronto-ai/LLaMA-Mesh/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

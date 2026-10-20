@@ -1,0 +1,8 @@
+name = "ctransformers"
+description = "Python bindings for the Transformer models implemented in C/C++ using GGML library."
+category = "models"
+tags = ["ai", "llm", "transformers", "ctransformers"]
+repository = "https://github.com/marella/ctransformers"
+license = "MIT"
+language = "C"
+added = 2026-10-20

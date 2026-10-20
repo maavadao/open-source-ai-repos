@@ -1,0 +1,9 @@
+name = "magic"
+description = "Instant SECURE Full Stack Apps and AI Agents"
+category = "mcp-servers"
+tags = ["ai", "low-code", "no-code", "mcp", "mcp-server", "agentic-ai", "ai-agents", "backend"]
+repository = "https://github.com/polterguy/magic"
+website = "https://hyperlambda.dev"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

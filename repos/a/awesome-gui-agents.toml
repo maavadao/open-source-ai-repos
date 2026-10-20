@@ -1,0 +1,8 @@
+name = "Awesome-GUI-Agents"
+description = "A curated collection of resources, tools, and frameworks for developing GUI Agents."
+category = "learning"
+tags = ["agents", "llm", "mllm", "guiagents"]
+repository = "https://github.com/ZJU-REAL/Awesome-GUI-Agents"
+website = "https://arxiv.org/abs/2504.13865"
+license = "NOASSERTION"
+added = 2026-10-20

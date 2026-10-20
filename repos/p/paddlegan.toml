@@ -1,0 +1,8 @@
+name = "PaddleGAN"
+description = "PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer, Wav2Lip, picture repair, image editing, photo2cartoon, image style transfer, GPEN, and so on."
+category = "image"
+tags = ["gan", "cyclegan", "pix2pix", "super-resolution", "image-generation", "image-editing", "motion-transfer", "photo2cartoon"]
+repository = "https://github.com/PaddlePaddle/PaddleGAN"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

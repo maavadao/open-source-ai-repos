@@ -1,0 +1,9 @@
+name = "dino-vit-features"
+description = "Official implementation for the paper \"Deep ViT Features as Dense Visual Descriptors\"."
+category = "vision"
+tags = ["deep-learning", "computer-vision", "vision-transformers", "co-segmentation", "part-segmentation", "semantic-correspondence", "dino", "pytorch"]
+repository = "https://github.com/ShirAmir/dino-vit-features"
+website = "https://dino-vit-features.github.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "html-anything"
+description = "The agentic HTML editor — your local AI agent writes the HTML, you ship it. 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) Sandboxed preview · 1-click to WeChat / X / Zhihu / HTML / PNG Zero API key — Claude Code /…"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "ai-design", "byok", "claude", "claude-code", "claude-skills", "coding-agents"]
+repository = "https://github.com/nexu-io/html-anything"
+website = "https://open-design.ai/html-anything/"
+license = "Apache-2.0"
+language = "HTML"
+added = 2026-10-20

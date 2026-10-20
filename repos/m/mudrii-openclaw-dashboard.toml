@@ -1,0 +1,8 @@
+name = "openclaw-dashboard"
+description = "A beautiful, zero-dependency command center for OpenClaw AI agents"
+category = "agents"
+tags = ["ai-agents", "cost-tracking", "dashboard", "monitoring", "openclaw", "python", "token-usage", "zero-dependency"]
+repository = "https://github.com/mudrii/openclaw-dashboard"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

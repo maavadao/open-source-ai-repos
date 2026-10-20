@@ -1,0 +1,9 @@
+name = "rag"
+description = "This NVIDIA RAG blueprint serves as a reference solution for a foundational Retrieval Augmented Generation (RAG) pipeline."
+category = "llm-apps"
+tags = ["nim", "rag", "blueprint", "retrieval-augmented-generation"]
+repository = "https://github.com/NVIDIA-AI-Blueprints/rag"
+website = "https://build.nvidia.com/nvidia/build-an-enterprise-rag-pipeline"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

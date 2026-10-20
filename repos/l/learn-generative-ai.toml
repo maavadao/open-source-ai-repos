@@ -1,0 +1,8 @@
+name = "learn-generative-ai"
+description = "Learn Cloud Applied Generative AI Engineering (GenEng) using OpenAI, Gemini, Streamlit, Containers, Serverless, Postgres, LangChain, Pinecone, and Next.js"
+category = "llm-apps"
+tags = ["generative-ai", "langchain", "python", "neondb", "streamlit", "docker", "gemini", "fastapi"]
+repository = "https://github.com/panaverse/learn-generative-ai"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

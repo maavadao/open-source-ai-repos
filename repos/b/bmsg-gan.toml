@@ -1,0 +1,8 @@
+name = "BMSG-GAN"
+description = "[MSG-GAN] Any body can GAN! Highly stable and robust architecture. Requires little to no hyperparameter tuning. Pytorch Implementation"
+category = "vision"
+tags = ["gan", "msg-gan", "image-synthesis", "deep-learning", "computer-vision", "artificial-intelligence"]
+repository = "https://github.com/akanimax/BMSG-GAN"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "DoLa"
+description = "Official implementation for the paper \"DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models\""
+category = "models"
+tags = ["factuality", "hallucinations", "large-language-models"]
+repository = "https://github.com/voidism/DoLa"
+website = "https://arxiv.org/abs/2309.03883"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

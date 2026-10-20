@@ -1,0 +1,8 @@
+name = "gpt-promo-scanner"
+description = "ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off"
+category = "search"
+tags = ["chatgpt", "chatgpt-team", "clash", "cloudflare-bypass", "curl-cffi", "discount", "openai", "promo-code"]
+repository = "https://github.com/JUk1-GH/gpt-promo-scanner"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

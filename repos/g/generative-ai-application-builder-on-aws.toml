@@ -1,0 +1,9 @@
+name = "generative-ai-application-builder-on-aws"
+description = "Generative AI Application Builder on AWS facilitates the development, rapid experimentation, and deployment of generative artificial intelligence (AI) applications without requiring deep experience in AI. The solution includes integrations with Amazon Bedrock and its included…"
+category = "chat"
+tags = ["bedrock", "chatbot", "generative-ai", "llms", "retrieval-augmented-generation"]
+repository = "https://github.com/aws-solutions/generative-ai-application-builder-on-aws"
+website = "https://aws.amazon.com/solutions/implementations/generative-ai-application-builder-on-aws"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

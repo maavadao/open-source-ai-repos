@@ -1,0 +1,9 @@
+name = "lost"
+description = "Label Objects and Save Time (LOST) - Design your own smart Image Annotation process in a web-based environment."
+category = "vision"
+tags = ["annotation-tool", "computer-vision", "annotation-framework", "machine-learning", "machine-vision", "bounding-boxes", "polygon-annotations", "annotation-process"]
+repository = "https://github.com/l3p-cv/lost"
+website = "https://lost.training"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

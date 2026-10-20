@@ -1,0 +1,8 @@
+name = "Make-An-Audio"
+description = "PyTorch Implementation of Make-An-Audio (ICML'23) with a Text-to-Audio Generative Model"
+category = "image"
+tags = ["diffusion-models", "latent-diffusion", "latent-space", "text-to-audio", "video-to-audio"]
+repository = "https://github.com/Text-to-Audio/Make-An-Audio"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

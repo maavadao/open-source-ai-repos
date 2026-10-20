@@ -1,0 +1,9 @@
+name = "skfolio"
+description = "Python library for portfolio optimization built on top of scikit-learn"
+category = "data-science"
+tags = ["asset-allocation", "asset-management", "convex-optimization", "cvar-optimization", "cvxpy", "efficient-frontier", "hierarchical-clustering", "machine-learning"]
+repository = "https://github.com/skfolio/skfolio"
+website = "https://skfolio.org"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

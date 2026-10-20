@@ -1,0 +1,8 @@
+name = "zeroth-bot"
+description = "3D-printed open-source humanoid robot platform for sim-to-real and RL"
+category = "robotics"
+tags = ["humanoid", "robotics", "rl", "simulation"]
+repository = "https://github.com/zeroth-robotics/zeroth-bot"
+website = "https://docs.zeroth.bot"
+license = "MIT"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "e4t-diffusion"
+description = "Implementation of Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models"
+category = "image"
+tags = ["diffusion-models", "stable-diffusion", "text-to-image", "deep-learning"]
+repository = "https://github.com/mkshing/e4t-diffusion"
+website = "https://arxiv.org/abs/2302.12228"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

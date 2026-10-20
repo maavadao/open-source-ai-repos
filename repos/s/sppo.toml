@@ -1,0 +1,9 @@
+name = "SPPO"
+description = "The official implementation of Self-Play Preference Optimization (SPPO)"
+category = "models"
+tags = ["deep-learning", "fine-tuning", "large-language-models", "rlhf", "self-play"]
+repository = "https://github.com/uclaml/SPPO"
+website = "https://uclaml.github.io/SPPO/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

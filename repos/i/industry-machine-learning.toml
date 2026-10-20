@@ -1,0 +1,9 @@
+name = "industry-machine-learning"
+description = "A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)"
+category = "learning"
+tags = ["machine-learning", "jupyter-notebook", "datascience", "example", "python", "practical-machine-learning", "data-science", "firmai"]
+repository = "https://github.com/firmai/industry-machine-learning"
+website = "https://www.sov.ai/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

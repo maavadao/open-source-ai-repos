@@ -1,0 +1,9 @@
+name = "how-to-build-a-coding-agent"
+description = "A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode."
+category = "learning"
+tags = ["agent", "ai", "cursor", "tutorial", "workshop"]
+repository = "https://github.com/ghuntley/how-to-build-a-coding-agent"
+website = "https://ghuntley.com/agent/"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

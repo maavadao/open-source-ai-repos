@@ -1,0 +1,8 @@
+name = "DeepSpotM"
+description = "Multimodal foundation model predicting transcriptome-wide virtual spatial transcriptomics from histology."
+category = "models"
+tags = ["bioinformatics", "cancer", "histology", "multimodal", "pytorch", "spatial-transcriptomics", "computational-pathology", "deep-learning"]
+repository = "https://github.com/ratschlab/DeepSpotM"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

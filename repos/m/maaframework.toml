@@ -1,0 +1,9 @@
+name = "MaaFramework"
+description = "基于图像识别的自动化黑盒测试框架 | An automation black-box testing framework based on image recognition"
+category = "vision"
+tags = ["computer-vision", "black-box-testing"]
+repository = "https://github.com/MaaXYZ/MaaFramework"
+website = "https://maafw.com"
+license = "LGPL-3.0"
+language = "C++"
+added = 2026-10-20

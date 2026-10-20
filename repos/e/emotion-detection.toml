@@ -1,0 +1,8 @@
+name = "Emotion-detection"
+description = "Real-time Facial Emotion Detection using deep learning"
+category = "vision"
+tags = ["emotion-recognition", "tflearn", "haar-cascade", "deep-learning", "emotion-detection", "computer-vision", "opencv", "opencv-python"]
+repository = "https://github.com/atulapra/Emotion-detection"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

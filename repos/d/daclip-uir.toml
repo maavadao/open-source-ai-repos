@@ -1,0 +1,9 @@
+name = "daclip-uir"
+description = "[ICLR 2024] Controlling Vision-Language Models for Universal Image Restoration. 5th place in the NTIRE 2024 Restore Any Image Model in the Wild Challenge."
+category = "image"
+tags = ["diffusion-models", "image-restoration", "prompt", "vision-language", "face-inpainting", "image-deblurring", "image-dehazing", "image-denoising"]
+repository = "https://github.com/Algolzw/daclip-uir"
+website = "https://algolzw.github.io/daclip-uir"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

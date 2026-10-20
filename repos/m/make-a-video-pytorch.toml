@@ -1,0 +1,8 @@
+name = "make-a-video-pytorch"
+description = "Implementation of Make-A-Video, new SOTA text to video generator from Meta AI, in Pytorch"
+category = "video"
+tags = ["artificial-intelligence", "attention-mechanisms", "deep-learning", "text-to-video", "axial-convolutions"]
+repository = "https://github.com/lucidrains/make-a-video-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

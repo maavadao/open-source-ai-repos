@@ -1,0 +1,9 @@
+name = "giskard-oss"
+description = "Open-Source Evaluation & Testing library for LLM Agents"
+category = "security"
+tags = ["mlops", "ml-validation", "ml-testing", "ai-testing", "llmops", "responsible-ai", "fairness-ai", "trustworthy-ai"]
+repository = "https://github.com/Giskard-AI/giskard-oss"
+website = "https://docs.giskard.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

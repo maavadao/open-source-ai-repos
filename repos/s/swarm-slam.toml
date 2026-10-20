@@ -1,0 +1,9 @@
+name = "Swarm-SLAM"
+description = "Sparse Decentralized Collaborative Simultaneous Localization and Mapping Framework for Multi-Robot Systems"
+category = "robotics"
+tags = ["localization", "mapping", "multi-robot-systems", "slam", "swarm-robotics", "c-slam", "multi-robot-slam", "robotics"]
+repository = "https://github.com/MISTLab/Swarm-SLAM"
+website = "https://lajoiepy.github.io/cslam_documentation/html/index.html"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

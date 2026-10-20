@@ -1,0 +1,9 @@
+name = "torchscale"
+description = "Foundation Architecture for (M)LLMs"
+category = "vision"
+tags = ["computer-vision", "machine-learning", "multimodal", "natural-language-processing", "pretrained-language-model", "speech-processing", "transformer", "translation"]
+repository = "https://github.com/microsoft/torchscale"
+website = "https://aka.ms/GeneralAI"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

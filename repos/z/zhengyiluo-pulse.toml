@@ -1,0 +1,9 @@
+name = "PULSE"
+description = "Official Implementation of the ICLR 2024 spotlight paper: Universal Humanoid Motion Representations for Physics-Based Control"
+category = "robotics"
+tags = ["control", "humanoid", "isaac-gym", "reinforcement-learning", "simulation"]
+repository = "https://github.com/ZhengyiLuo/PULSE"
+website = "https://www.zhengyiluo.com/PULSE"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

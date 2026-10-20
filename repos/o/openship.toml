@@ -1,0 +1,9 @@
+name = "openship"
+description = "Self-hosted deployment platform"
+category = "agents"
+tags = ["agents", "ai", "deployments", "self-hosted"]
+repository = "https://github.com/oblien/openship"
+website = "https://openship.io"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

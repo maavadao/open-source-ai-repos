@@ -1,0 +1,9 @@
+name = "awesome-instruction-learning"
+description = "Papers and Datasets on Instruction Tuning and Following."
+category = "learning"
+tags = ["pretrained-language-model", "instruction-learning", "paper-list", "awesome-list", "datasets", "in-context-learning", "large-language-models", "prompt"]
+repository = "https://github.com/RenzeLou/awesome-instruction-learning"
+website = "https://arxiv.org/abs/2303.10475"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

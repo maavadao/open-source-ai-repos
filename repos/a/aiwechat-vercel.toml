@@ -1,0 +1,9 @@
+name = "aiwechat-vercel"
+description = "使用vercel的functions，将ai功能加入微信公众号"
+category = "chat"
+tags = ["ai", "bot", "gpt", "vercel-serverless", "wechat"]
+repository = "https://github.com/pwh-pwh/aiwechat-vercel"
+website = "https://aiwechat-vercel.vercel.app"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

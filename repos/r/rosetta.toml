@@ -1,0 +1,9 @@
+name = "rosetta"
+description = "An instruction layer for AI coding agent"
+category = "mcp-servers"
+tags = ["claude-code", "codex", "copilot", "cursor", "developer-tools", "mcp-server", "plugins", "progressive-disclosure"]
+repository = "https://github.com/griddynamics/rosetta"
+website = "https://griddynamics.github.io/rosetta/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "pmdarima"
+description = "A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function."
+category = "data-science"
+tags = ["arima", "time-series", "forecasting", "forecasting-models", "python", "econometrics", "pmdarima", "machine-learning"]
+repository = "https://github.com/alkaline-ml/pmdarima"
+website = "https://www.alkaline-ml.com/pmdarima"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "xgen"
+description = "Salesforce open-source LLMs with 8k sequence length."
+category = "models"
+tags = ["llm", "language-model", "large-language-models", "nlp"]
+repository = "https://github.com/salesforce/xgen"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

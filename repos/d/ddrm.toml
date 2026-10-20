@@ -1,0 +1,8 @@
+name = "ddrm"
+description = "[NeurIPS 2022] Denoising Diffusion Restoration Models -- Official Code Repository"
+category = "image"
+tags = ["diffusion", "deblurring", "diffusion-models", "inpainting", "inverse-problems", "score-based", "super-resolution", "variational-inference"]
+repository = "https://github.com/bahjat-kawar/ddrm"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

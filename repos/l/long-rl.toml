@@ -1,0 +1,8 @@
+name = "Long-RL"
+description = "Long-RL: Scaling RL to Long Sequences (NeurIPS 2025)"
+category = "models"
+tags = ["efficient-ai", "large-language-models", "long-sequence", "multi-modality", "reinforcement-learning", "sequence-parallelism"]
+repository = "https://github.com/NVlabs/Long-RL"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

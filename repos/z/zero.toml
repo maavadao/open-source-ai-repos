@@ -1,0 +1,9 @@
+name = "Zero"
+description = "Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord"
+category = "security"
+tags = ["ai", "email", "privacy", "security"]
+repository = "https://github.com/Mail-0/Zero"
+website = "https://discord.gg/mzJ227YJR"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

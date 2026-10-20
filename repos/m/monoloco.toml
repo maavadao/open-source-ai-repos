@@ -1,0 +1,9 @@
+name = "monoloco"
+description = "A 3D vision library from 2D keypoints: monocular and stereo 3D detection for humans, social distancing, and body orientation."
+category = "vision"
+tags = ["3d-object-detection", "3d-detection", "3d-deep-learning", "pytorch", "computer-vision", "deep-learning", "machine-learning", "pose-estimation"]
+repository = "https://github.com/vita-epfl/monoloco"
+website = "https://vita.epfl.ch/monoloco"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

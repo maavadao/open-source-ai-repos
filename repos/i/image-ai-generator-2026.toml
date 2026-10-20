@@ -1,0 +1,7 @@
+name = "Image-AI-Generator-2026"
+description = "AI Image Generator is a powerful and user-friendly desktop application designed to help creators produce stunning, high-quality artwork, photorealistic renders, and creative concepts quickly and easily."
+category = "image"
+tags = ["ai-art", "ai-image-generator", "ai-upscaler", "controlnet", "deep-learning", "diffusion-models", "generative-ai", "image-generation"]
+repository = "https://github.com/ebringelvissanchez/Image-AI-Generator-2026"
+license = "MIT"
+added = 2026-10-20

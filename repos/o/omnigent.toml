@@ -1,0 +1,9 @@
+name = "omnigent"
+description = "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device."
+category = "coding"
+tags = ["agents", "ai", "ai-agents", "developer-tools", "llm", "ml", "python", "agent-framework"]
+repository = "https://github.com/omnigent-ai/omnigent"
+website = "https://omnigent.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

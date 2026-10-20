@@ -1,0 +1,8 @@
+name = "embiggen-disk"
+description = "embiggden-disk live-resizes a filesystem after first live-resizing any necessary layers below it: an optional LVM LV and PV, and an MBR or GPT partition table"
+category = "models"
+tags = ["gpt", "mbr", "resize2fs", "btrfs", "resize", "lvm", "qemu", "vms"]
+repository = "https://github.com/bradfitz/embiggen-disk"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

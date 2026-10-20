@@ -1,0 +1,9 @@
+name = "GPTPortal"
+description = "A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files."
+category = "chat"
+tags = ["ai", "api", "generative-ai", "gpt", "gpt-4", "javascript", "openai", "tts-api"]
+repository = "https://github.com/Zaki-1052/GPTPortal"
+website = "http://localhost:3000/portal"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

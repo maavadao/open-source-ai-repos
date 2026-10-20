@@ -1,0 +1,9 @@
+name = "coroot"
+description = "Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and inspections."
+category = "ml-platforms"
+tags = ["dashboard", "database-monitoring", "metrics", "monitoring", "observability", "prometheus", "service-map", "microservice"]
+repository = "https://github.com/coroot/coroot"
+website = "https://coroot.com"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

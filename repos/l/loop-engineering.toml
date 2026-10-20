@@ -1,0 +1,9 @@
+name = "loop-engineering"
+description = "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost."
+category = "mcp-servers"
+tags = ["agentic-ai", "ai-agents", "claude-code", "codex", "devops-automation", "github-actions", "grok", "llm"]
+repository = "https://github.com/cobusgreyling/loop-engineering"
+website = "https://cobusgreyling.github.io/loop-engineering/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

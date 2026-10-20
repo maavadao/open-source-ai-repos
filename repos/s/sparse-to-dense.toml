@@ -1,0 +1,8 @@
+name = "sparse-to-dense"
+description = "ICRA 2018 \"Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single Image\" (Torch Implementation)"
+category = "vision"
+tags = ["depth-estimation", "deep-learning", "computer-vision", "mapping", "depth-prediction", "depth-image", "torch", "depth-completion"]
+repository = "https://github.com/fangchangma/sparse-to-dense"
+license = "NOASSERTION"
+language = "Lua"
+added = 2026-10-20

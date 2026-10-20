@@ -1,0 +1,7 @@
+name = "Awesome-AIGC-Tutorials"
+description = "Curated tutorials and resources for Large Language Models, AI Painting, and more."
+category = "learning"
+tags = ["aigc", "llm", "ai", "midjourney", "stable-diffusion", "deep-learning", "tutorials", "courses-resource"]
+repository = "https://github.com/luban-agi/Awesome-AIGC-Tutorials"
+license = "MIT"
+added = 2026-10-20

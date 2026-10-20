@@ -1,0 +1,9 @@
+name = "axe"
+description = "A lightweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal."
+category = "no-code"
+tags = ["cli", "golang", "ai-agents", "automation", "command-line", "developer-tools", "llm"]
+repository = "https://github.com/jrswab/axe"
+website = "https://docs.getaxe.dev"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

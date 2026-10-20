@@ -1,0 +1,9 @@
+name = "ml-cvnets"
+description = "CVNets: A library for training computer vision networks"
+category = "vision"
+tags = ["ade20k", "classification", "computer-vision", "deep-learning", "detection", "imagenet", "machine-learning", "mscoco"]
+repository = "https://github.com/apple-aiml-research/ml-cvnets"
+website = "https://apple-aiml-research.github.io/ml-cvnets/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

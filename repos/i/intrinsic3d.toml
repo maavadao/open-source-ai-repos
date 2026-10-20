@@ -1,0 +1,9 @@
+name = "intrinsic3d"
+description = "Intrinsic3D - High-Quality 3D Reconstruction by Joint Appearance and Geometry Optimization with Spatially-Varying Lighting (ICCV 2017)"
+category = "vision"
+tags = ["3d-reconstruction", "rgbd", "shape-from-shading", "nvidia", "tum", "iccv", "iccv-2017", "iccv2017"]
+repository = "https://github.com/NVlabs/intrinsic3d"
+website = "https://vision.in.tum.de/_media/spezial/bib/maier2017intrinsic3d.pdf"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

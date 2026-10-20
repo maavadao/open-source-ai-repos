@@ -1,0 +1,9 @@
+name = "GPTCache"
+description = "Semantic cache for LLMs. Fully integrated with LangChain and llama_index."
+category = "vector-databases"
+tags = ["chatbot", "chatgpt", "chatgpt-api", "llm", "milvus", "similarity-search", "vector-search", "aigc"]
+repository = "https://github.com/zilliztech/GPTCache"
+website = "https://gptcache.readthedocs.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

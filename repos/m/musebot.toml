@@ -1,0 +1,8 @@
+name = "MuseBot"
+description = "supports Telegram, Discord, Slack, Lark（飞书），钉钉, 企业微信, QQ, 微信, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generation, video creation, and more. Works seamlessly in both private chats and…"
+category = "chat"
+tags = ["deepseek", "telegram", "ai-bot", "gemini", "openai", "openrouter", "discord", "feishu"]
+repository = "https://github.com/yincongcyincong/MuseBot"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

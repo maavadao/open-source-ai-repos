@@ -1,0 +1,8 @@
+name = "ultralytics-YOLO-DeepSort-ByteTrack-PyQt-GUI"
+description = "a GUI application, which uses YOLOs (YOLOv8, YOLO11, YOLOv13) for Object Detection/Tracking, Human Pose Estimation/Tracking from images, videos or camera"
+category = "vision"
+tags = ["object-detection", "ultralytics", "yolov8", "byte-tracking", "deep-sort", "gui-application", "instance-segmentation", "object-tracking"]
+repository = "https://github.com/jingh-ai/ultralytics-YOLO-DeepSort-ByteTrack-PyQt-GUI"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

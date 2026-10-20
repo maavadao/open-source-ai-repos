@@ -1,0 +1,8 @@
+name = "aster.pytorch"
+description = "ASTER in Pytorch"
+category = "documents"
+tags = ["ocr", "text-recognition", "scene-text", "computer-vision", "text-rectification", "aster", "pytorch"]
+repository = "https://github.com/ayumiymk/aster.pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

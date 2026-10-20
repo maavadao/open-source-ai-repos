@@ -1,0 +1,8 @@
+name = "mader"
+description = "Trajectory Planner in Multi-Agent and Dynamic Environments"
+category = "robotics"
+tags = ["optimization", "path-planning", "trajectory-optimization", "multi-agent", "obstacle-avoidance", "minvo", "mader", "planner"]
+repository = "https://github.com/mit-acl/mader"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-20

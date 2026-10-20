@@ -1,0 +1,8 @@
+name = "Speech-AI-Forge"
+description = "Speech-AI-Forge is a project developed around TTS generation model, implementing an API Server and a Gradio-based WebUI."
+category = "speech"
+tags = ["chattts", "ssml", "tts", "chattts-forge", "agent", "gpt", "llm", "text-to-speech"]
+repository = "https://github.com/lenML/Speech-AI-Forge"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

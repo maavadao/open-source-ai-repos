@@ -1,0 +1,9 @@
+name = "BayLing"
+description = "“百聆”是一个基于LLaMA的语言对齐增强的英语/中文大语言模型，具有优越的英语/中文能力，在多语言和通用任务等多项测试中取得ChatGPT 90%的性能。BayLing is an English/Chinese LLM equipped with advanced language alignment, showing superior capability in English/Chinese generation, instruction following and multi-turn interaction. This project…"
+category = "image"
+tags = ["aigc", "chinese", "cross-lingual", "general-language-model", "human-performance", "instruction-tuning", "interactive", "large-language-models"]
+repository = "https://github.com/BayLing-Models/BayLing"
+website = "http://nlp.ict.ac.cn/bayling"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

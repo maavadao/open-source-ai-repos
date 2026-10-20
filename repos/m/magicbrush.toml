@@ -1,0 +1,9 @@
+name = "MagicBrush"
+description = "[NeurIPS'23] \"MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing\"."
+category = "image"
+tags = ["diffusion-models", "image-editing", "image-generation", "image-synthesis", "instruction-following", "text-to-image", "text-to-image-generation", "text-to-image-synthesis"]
+repository = "https://github.com/OSU-NLP-Group/MagicBrush"
+website = "https://osu-nlp-group.github.io/MagicBrush/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

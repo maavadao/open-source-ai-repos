@@ -1,0 +1,8 @@
+name = "Tengine"
+description = "Tengine is a lite, high performance, modular inference engine for embedded device"
+category = "ml-platforms"
+tags = ["arm", "machine-learning", "artificial-intelligence", "cnn", "tensorflow", "pytorch", "onnx", "x86-64"]
+repository = "https://github.com/OAID/Tengine"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

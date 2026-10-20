@@ -1,0 +1,9 @@
+name = "clip-retrieval"
+description = "Easily compute clip embeddings and build a clip retrieval system with them"
+category = "llm-apps"
+tags = ["semantic-search", "deep-learning", "multimodal", "ai", "clip", "knn"]
+repository = "https://github.com/rom1504/clip-retrieval"
+website = "https://rom1504.github.io/clip-retrieval/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

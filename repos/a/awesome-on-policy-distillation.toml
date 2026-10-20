@@ -1,0 +1,7 @@
+name = "awesome-on-policy-distillation"
+description = "A curated collection of papers, technical reports, frameworks, and tools for on-policy distillation (OPD) of large language models"
+category = "learning"
+tags = ["on-policy-distillation", "awesome", "llm", "rl", "opd", "awesome-list", "distillation", "gkd"]
+repository = "https://github.com/chrisliu298/awesome-on-policy-distillation"
+license = "CC0-1.0"
+added = 2026-10-20

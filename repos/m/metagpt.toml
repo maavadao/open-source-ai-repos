@@ -1,0 +1,9 @@
+name = "MetaGPT"
+description = "The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming"
+category = "agents"
+tags = ["agent", "gpt", "llm", "metagpt", "multi-agent"]
+repository = "https://github.com/FoundationAgents/MetaGPT"
+website = "https://atoms.dev/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

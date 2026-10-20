@@ -1,0 +1,8 @@
+name = "Crossformer"
+description = "Official implementation of our ICLR 2023 paper \"Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting\""
+category = "models"
+tags = ["deep-learning", "time-series-forecasting", "transformers"]
+repository = "https://github.com/Thinklab-SJTU/Crossformer"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

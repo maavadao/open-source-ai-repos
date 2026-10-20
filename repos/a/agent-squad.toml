@@ -1,0 +1,9 @@
+name = "agent-squad"
+description = "Flexible and powerful framework for managing multiple AI agents and handling complex conversations"
+category = "chat"
+tags = ["aws", "aws-bedrock", "anthropic-claude", "aws-cdk", "aws-lambda", "chatbot", "generative-ai", "machine-learning"]
+repository = "https://github.com/2FastLabs/agent-squad"
+website = "https://2fastlabs.github.io/agent-squad/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

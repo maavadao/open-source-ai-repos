@@ -1,0 +1,8 @@
+name = "awesome-llm-agents"
+description = "A curated list of awesome LLM agents frameworks."
+category = "learning"
+tags = ["agents", "langchain", "llm"]
+repository = "https://github.com/kaushikb11/awesome-llm-agents"
+license = "CC0-1.0"
+language = "Python"
+added = 2026-10-20

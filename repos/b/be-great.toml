@@ -1,0 +1,8 @@
+name = "be_great"
+description = "A novel approach for synthesizing tabular data using pretrained large language models"
+category = "models"
+tags = ["data-generation", "deep-learning", "tabular-data", "transformers", "synthetic-data", "synthetic-dataset-generation"]
+repository = "https://github.com/tabularis-ai/be_great"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

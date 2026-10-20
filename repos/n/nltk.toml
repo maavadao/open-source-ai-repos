@@ -1,0 +1,9 @@
+name = "nltk"
+description = "NLTK Source"
+category = "data-science"
+tags = ["nltk", "python", "nlp", "natural-language-processing", "machine-learning"]
+repository = "https://github.com/nltk/nltk"
+website = "https://www.nltk.org"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

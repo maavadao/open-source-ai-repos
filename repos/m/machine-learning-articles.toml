@@ -1,0 +1,7 @@
+name = "machine-learning-articles"
+description = "Articles I wrote about machine learning, archived from MachineCurve.com."
+category = "learning"
+tags = ["machine-learning", "deep-learning", "neural-networks", "tensorflow", "pytorch", "scikit-learn", "convolutional-neural-networks", "gan"]
+repository = "https://github.com/christianversloot/machine-learning-articles"
+license = "NOASSERTION"
+added = 2026-10-20

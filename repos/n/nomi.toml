@@ -1,0 +1,9 @@
+name = "Nomi"
+description = "Open-source AI video workbench. Bring any model or your local ComfyUI, and let Claude Code / Codex / Cursor direct it over MCP — storyboard, references, generation, editable first cut on a real timeline. Local-first: projects, prompts, and keys stay on your machine. No…"
+category = "mcp-servers"
+tags = ["ai-agent", "ai-video", "ai-video-generator", "bring-your-own-key", "creative-tools", "desktop-app", "electron", "image-generation"]
+repository = "https://github.com/aqm857886159/Nomi"
+website = "https://nomiaqm.com"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

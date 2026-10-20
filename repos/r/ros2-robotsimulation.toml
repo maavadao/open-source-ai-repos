@@ -1,0 +1,8 @@
+name = "ros2_RobotSimulation"
+description = "ROS2.0 Foxy and Humble repositories which provide ready-to-use ROS2.0 Gazebo + MoveIt!2 simulation packages for different Industrial and Collaborative Robots."
+category = "no-code"
+tags = ["automation", "collaborative-robots", "flexible-automation", "gazebo", "industrial-robots", "intelligent-automation", "moveit2", "research"]
+repository = "https://github.com/IFRA-Cranfield/ros2_RobotSimulation"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

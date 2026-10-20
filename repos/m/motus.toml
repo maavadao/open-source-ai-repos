@@ -1,0 +1,9 @@
+name = "Motus"
+description = "Official code of Motus: A Unified Latent Action World Model"
+category = "video"
+tags = ["robotics", "world-model", "video-generation", "unidiffuser", "robotic-manipulation", "diffusion-model", "vision-language-action-model"]
+repository = "https://github.com/thu-ml/Motus"
+website = "https://motus-robotics.github.io/motus"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

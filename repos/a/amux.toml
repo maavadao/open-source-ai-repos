@@ -1,0 +1,9 @@
+name = "amux"
+description = "Open-source control plane for AI coding agents. Run an AI engineering team: parallel Claude Code, Codex, and Gemini workers with a shared board, atomic tasks, schedules, loops, origin-stamped messaging, model switching, and self-healing recovery. One dashboard, or your phone.…"
+category = "mcp-servers"
+tags = ["tmux", "agent-orchestration", "ai-agents", "claude", "claude-code", "developer-tools", "llm", "agentic-ai"]
+repository = "https://github.com/mixpeek/amux"
+website = "https://amux.io"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

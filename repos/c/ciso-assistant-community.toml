@@ -1,0 +1,9 @@
+name = "ciso-assistant-community"
+description = "CISO Assistant is a one-stop-shop GRC platform for Risk Management, AppSec, Compliance & Audit, TPRM, BIA, Privacy, and Reporting. It supports 200+ global frameworks with automatic control mapping, including ISO 27001, NIST CSF, SOC 2, CIS, PCI DSS, NIS2, DORA, GDPR, HIPAA…"
+category = "mcp-servers"
+tags = ["compliance", "grc", "soc2", "gdpr", "audit", "iso27001", "cis", "dora"]
+repository = "https://github.com/intuitem/ciso-assistant-community"
+website = "https://intuitem.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

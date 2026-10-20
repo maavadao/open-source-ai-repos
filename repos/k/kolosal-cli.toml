@@ -1,0 +1,9 @@
+name = "kolosal-cli"
+description = "Super lightweight Ollama + Qwen Code alternative to run Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models."
+category = "local-llms"
+tags = ["deepseek", "gemma", "gemma3", "gemma3n", "llama", "llama2", "llama3", "llava"]
+repository = "https://github.com/KolosalAI/kolosal-cli"
+website = "https://kolosal.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

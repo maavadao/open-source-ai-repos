@@ -1,0 +1,8 @@
+name = "chatty"
+description = "ChattyUI - your private AI chat for running LLMs in the browser"
+category = "chat"
+tags = ["ai", "chatbot", "huggingface", "local"]
+repository = "https://github.com/addyosmani/chatty"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

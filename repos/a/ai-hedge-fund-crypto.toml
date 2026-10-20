@@ -1,0 +1,8 @@
+name = "ai-hedge-fund-crypto"
+description = "AI-Hedge-Fund for Crypto AI-powered hedge fund for cryptocurrency trading, leveraging LLM agents for intelligent decision-making."
+category = "agents"
+tags = ["crypto-trading", "langchain", "llm-agent", "quantitative-finance", "ai-trading", "algorithmic-trading", "backtesting", "hedge-fund"]
+repository = "https://github.com/51bitquant/ai-hedge-fund-crypto"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

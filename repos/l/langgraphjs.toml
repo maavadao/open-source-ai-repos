@@ -1,0 +1,9 @@
+name = "langgraphjs"
+description = "Framework to build resilient language agents as graphs."
+category = "agents"
+tags = ["agents", "ai", "typescript", "artificial-intelligence", "generative-ai", "llm", "node"]
+repository = "https://github.com/langchain-ai/langgraphjs"
+website = "https://docs.langchain.com/oss/javascript/langgraph/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

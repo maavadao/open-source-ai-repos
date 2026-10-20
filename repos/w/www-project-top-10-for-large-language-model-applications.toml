@@ -1,0 +1,9 @@
+name = "www-project-top-10-for-large-language-model-applications"
+description = "OWASP Top 10 for Large Language Model Apps (Part of the GenAI Security Project)"
+category = "security"
+tags = ["ai", "appsec", "llm", "llm-security"]
+repository = "https://github.com/OWASP/www-project-top-10-for-large-language-model-applications"
+website = "http://genai.owasp.org"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

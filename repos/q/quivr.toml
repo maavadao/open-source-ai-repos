@@ -1,0 +1,9 @@
+name = "quivr"
+description = "An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules."
+category = "security"
+tags = ["ai", "llm", "api", "chatbot", "chatgpt", "database", "docker", "frontend"]
+repository = "https://github.com/The-Vibe-Company/quivr"
+website = "https://docs.quivr.thevibecompany.co"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

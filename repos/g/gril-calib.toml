@@ -1,0 +1,8 @@
+name = "GRIL-Calib"
+description = "[RA-L 2024] GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints"
+category = "robotics"
+tags = ["calibration", "ground-robot", "imu", "lidar", "ros", "ros2"]
+repository = "https://github.com/Taeyoung96/GRIL-Calib"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

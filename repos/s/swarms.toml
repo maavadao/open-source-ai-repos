@@ -1,0 +1,9 @@
+name = "swarms"
+description = "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai"
+category = "coding"
+tags = ["artificial-intelligence", "langchain", "machine-learning", "swarms", "agents", "prompt-engineering", "prompt-toolkit", "prompting"]
+repository = "https://github.com/kyegomez/swarms"
+website = "https://docs.swarms.world"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

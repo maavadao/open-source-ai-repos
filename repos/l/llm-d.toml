@@ -1,0 +1,9 @@
+name = "llm-d"
+description = "Achieve state of the art inference performance with modern accelerators on Kubernetes"
+category = "local-llms"
+tags = ["ai", "cncf", "distributed-inference", "gpu", "inference", "intelligent-routing", "kubernetes", "llm"]
+repository = "https://github.com/llm-d/llm-d"
+website = "https://www.llm-d.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

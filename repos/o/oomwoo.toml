@@ -1,0 +1,9 @@
+name = "oomwoo"
+description = "Open-source vacuum robot cleaner"
+category = "robotics"
+tags = ["3d-printing", "arduino", "diy-electronics", "diy-project", "esp32", "esp32-arduino", "home-assistant", "lidar"]
+repository = "https://github.com/makerspet/oomwoo"
+website = "https://oomwoo.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

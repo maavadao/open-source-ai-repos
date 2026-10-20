@@ -1,0 +1,8 @@
+name = "ian-xiaohei-scenes"
+description = "Xiaohei 2.0 Codex Skill for Chinese real-object article illustrations and long-scroll story images"
+category = "image"
+tags = ["ai-illustration", "chinese-content", "codex-skill", "prompt-engineering", "xiaohei", "ai-agent", "illustration", "image-generation"]
+repository = "https://github.com/helloianneo/ian-xiaohei-scenes"
+website = "https://www.ianneo.xyz"
+license = "MIT"
+added = 2026-10-20

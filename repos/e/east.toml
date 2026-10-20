@@ -1,0 +1,8 @@
+name = "EAST"
+description = "A tensorflow implementation of EAST text detector"
+category = "documents"
+tags = ["tensorflow", "text-detection", "deep-learning", "ocr"]
+repository = "https://github.com/argman/EAST"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-10-20

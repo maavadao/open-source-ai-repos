@@ -1,0 +1,9 @@
+name = "harness-sdk"
+description = "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud."
+category = "mcp-servers"
+tags = ["agentic", "agentic-ai", "agents", "ai", "autonomous-agents", "llm", "multi-agent-systems", "python"]
+repository = "https://github.com/strands-agents/harness-sdk"
+website = "http://strandsagents.com/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

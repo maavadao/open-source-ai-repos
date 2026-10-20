@@ -1,0 +1,8 @@
+name = "Deep-CFR"
+description = "Scalable Implementation of Deep CFR and Single Deep CFR"
+category = "ml-platforms"
+tags = ["deep-learning", "reinforcement-learning", "reinforcement-learning-algorithms", "neural-networks", "poker", "imperfect-information-games", "research", "cfr"]
+repository = "https://github.com/EricSteinberger/Deep-CFR"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

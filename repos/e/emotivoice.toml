@@ -1,0 +1,8 @@
+name = "EmotiVoice"
+description = "EmotiVoice : a Multi-Voice and Prompt-Controlled TTS Engine"
+category = "speech"
+tags = ["pytorch", "speech", "speech-synthesis", "tts", "multi-speaker", "text-to-speech", "deep-learning", "prompt"]
+repository = "https://github.com/netease-youdao/EmotiVoice"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

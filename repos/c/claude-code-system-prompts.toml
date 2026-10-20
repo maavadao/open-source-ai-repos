@@ -1,0 +1,8 @@
+name = "claude-code-system-prompts"
+description = "All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact, statusline, magic docs, WebFetch, Bash cmd, security review, agent creation). Updated for each Claude Code version."
+category = "skills-prompts"
+tags = ["claude-code", "claude-code-system-prompts", "system-prompts"]
+repository = "https://github.com/Piebald-AI/claude-code-system-prompts"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

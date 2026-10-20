@@ -1,0 +1,8 @@
+name = "Local-NotebookLM"
+description = "Googles NotebookLM but local"
+category = "other"
+tags = ["anthropic-api", "anthropic-claude", "dl", "elevenlabs-api", "gemini-api", "gen", "groq-api", "ml"]
+repository = "https://github.com/Goekdeniz-Guelmez/Local-NotebookLM"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

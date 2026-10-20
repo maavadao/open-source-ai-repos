@@ -1,0 +1,9 @@
+name = "OpenMusic"
+description = "OpenMusic: SOTA Text-to-music (TTM) Generation"
+category = "speech"
+tags = ["ai", "diffusion-models", "music-generation", "text-to-audio", "text-to-music", "ai-music", "ai-music-generation", "ai-music-generator"]
+repository = "https://github.com/ivcylc/OpenMusic"
+website = "https://qa-mdt.github.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "SWE-bench"
+description = "SWE-bench: Can Language Models Resolve Real-world Github Issues?"
+category = "models"
+tags = ["benchmark", "language-model", "software-engineering"]
+repository = "https://github.com/SWE-bench/SWE-bench"
+website = "https://www.swebench.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

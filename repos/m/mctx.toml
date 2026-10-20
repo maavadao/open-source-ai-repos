@@ -1,0 +1,8 @@
+name = "mctx"
+description = "Monte Carlo tree search in JAX"
+category = "ml-platforms"
+tags = ["jax", "reinforcement-learning", "monte-carlo-tree-search"]
+repository = "https://github.com/google-deepmind/mctx"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

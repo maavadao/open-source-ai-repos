@@ -1,0 +1,8 @@
+name = "VLARLKit"
+description = "Elegant VLA-RL library"
+category = "robotics"
+tags = ["embodied-ai", "reinforcement-learning", "vla-rl", "vision-language-action-model", "robotics"]
+repository = "https://github.com/VLARLKit/VLARLKit"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "bingo"
+description = "Bingo，一个让你呼吸顺畅 New Bing。"
+category = "models"
+tags = ["bing", "bingai", "gpt", "gpt4"]
+repository = "https://github.com/weaigc/bingo"
+website = "https://bing.github1s.tk"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

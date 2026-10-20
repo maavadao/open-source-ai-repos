@@ -1,0 +1,9 @@
+name = "RoboDK-API"
+description = "Implementation of the RoboDK API in different programming languages. The RoboDK API allows simulating and programming any industrial robot (offline and online)"
+category = "robotics"
+tags = ["robotics", "robot-programming", "robot-simulator", "offline-programming", "robodk", "industrial-robots", "universal-robots", "post-processor"]
+repository = "https://github.com/RoboDK/RoboDK-API"
+website = "https://robodk.com/doc/en/RoboDK-API.html"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

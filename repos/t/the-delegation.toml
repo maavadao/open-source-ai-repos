@@ -1,0 +1,9 @@
+name = "the-delegation"
+description = "A no-code 3D playground to explore, design, and interact with Agentic AI systems"
+category = "agents"
+tags = ["3d-simulation", "ai", "ai-agents", "autonomous-agents", "gemini-api", "llm-orchestration", "multi-agent-systems", "npc-engine"]
+repository = "https://github.com/arturitu/the-delegation"
+website = "https://arturitu.github.io/the-delegation/"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

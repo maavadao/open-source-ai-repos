@@ -1,0 +1,8 @@
+name = "codex-desktop-linux"
+description = "Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s official macOS app. Includes Chat, Work, and Codex. Packages for Debian/Ubuntu (.deb), Fedora/openSUSE (.rpm), Arch (pacman), Nix/NixOS, and AppImage, with Wayland and X11 support."
+category = "coding"
+tags = ["ai-coding", "appimage", "archlinux", "codex", "codex-desktop", "debian", "desktop-app", "electron"]
+repository = "https://github.com/ilysenko/codex-desktop-linux"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

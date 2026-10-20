@@ -1,0 +1,9 @@
+name = "pixeltable"
+description = "The backend agents build with - Multimodal database, orchestration, and serving in one file"
+category = "vector-databases"
+tags = ["llm", "genai", "computer-vision", "ai", "data-science", "database", "multimodal", "vector-database"]
+repository = "https://github.com/pixeltable/pixeltable"
+website = "https://docs.pixeltable.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

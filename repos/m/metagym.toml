@@ -1,0 +1,8 @@
+name = "MetaGym"
+description = "Collection of Reinforcement Learning / Meta Reinforcement Learning Environments."
+category = "ml-platforms"
+tags = ["reinforcement-learning", "meta-learning", "maze", "lift", "quadrotor", "quadrupedal-robots", "navigator", "gym-environments"]
+repository = "https://github.com/PaddlePaddle/MetaGym"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

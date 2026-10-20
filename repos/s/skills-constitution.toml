@@ -1,0 +1,8 @@
+name = "skills-constitution"
+description = "Skills Constitution — meta-rule governing all skill invocations across agent platforms"
+category = "skills-prompts"
+tags = ["agent-framework", "agent-memory", "agent-orchestration", "agent-skill", "agent-skills", "agentic", "agentic-workflow", "agents"]
+repository = "https://github.com/jiabaobei/skills-constitution"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

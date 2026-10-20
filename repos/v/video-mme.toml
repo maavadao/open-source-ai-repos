@@ -1,0 +1,7 @@
+name = "Video-MME"
+description = "[CVPR 2025] Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis"
+category = "video"
+tags = ["large-language-models", "large-vision-language-models", "mme", "multimodal-large-language-models", "video", "video-mme"]
+repository = "https://github.com/MME-Benchmarks/Video-MME"
+license = "NOASSERTION"
+added = 2026-10-20

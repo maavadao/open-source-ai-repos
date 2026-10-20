@@ -1,0 +1,8 @@
+name = "andino"
+description = "Open-source diff drive robot ROS 2 compatible"
+category = "robotics"
+tags = ["differential-drive-robot", "humble", "robotics", "ros", "ros2", "ros2-control", "gazebo", "gazebo-ros"]
+repository = "https://github.com/Ekumen-OS/andino"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

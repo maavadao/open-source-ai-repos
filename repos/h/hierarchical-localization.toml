@@ -1,0 +1,8 @@
+name = "Hierarchical-Localization"
+description = "Visual localization made easy with hloc"
+category = "vision"
+tags = ["deep-learning", "visual-localization", "feature-matching", "image-retrieval", "structure-from-motion", "pose-estimation", "superglue"]
+repository = "https://github.com/cvg/Hierarchical-Localization"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "godot-steering-ai-framework"
+description = "A complete framework for Godot to create beautiful and complex AI motion. Works both in 2D and in 3D."
+category = "agents"
+tags = ["godot", "ai", "artificial-intelligence", "steering-behaviors", "game-development", "agents", "gdscript", "algorithms"]
+repository = "https://github.com/GDQuest/godot-steering-ai-framework"
+website = "http://gdquest.com/docs/godot-steering-ai-framework"
+license = "MIT"
+language = "GDScript"
+added = 2026-10-20

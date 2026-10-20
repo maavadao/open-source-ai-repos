@@ -1,0 +1,8 @@
+name = "paxml"
+description = "Pax is a Jax-based machine learning framework for training large scale models. Pax allows for advanced and fully configurable experimentation and parallelization, and has demonstrated industry leading model flop utilization rates."
+category = "models"
+tags = ["c4", "jax", "large-language-models", "llm", "model-flops", "parallelism", "gpt"]
+repository = "https://github.com/google/paxml"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

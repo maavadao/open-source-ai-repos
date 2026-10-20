@@ -1,0 +1,8 @@
+name = "RepoAgent"
+description = "An LLM-powered repository agent designed to assist developers and teams in generating documentation and understanding repositories quickly."
+category = "chat"
+tags = ["agent", "chatglm", "gpt", "gpt-4", "langchain", "llama", "llms", "qwen"]
+repository = "https://github.com/OpenBMB/RepoAgent"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

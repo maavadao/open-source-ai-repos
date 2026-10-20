@@ -1,0 +1,9 @@
+name = "python-sdk"
+description = "Official Python SDK for the Pinecone vector database"
+category = "vector-databases"
+tags = ["pinecone", "python", "rag", "sdk", "vector-database", "vector-search"]
+repository = "https://github.com/pinecone-io/python-sdk"
+website = "https://pinecone-io.github.io/python-sdk/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

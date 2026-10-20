@@ -1,0 +1,8 @@
+name = "Speech-Emotion-Analyzer"
+description = "The neural network model is capable of detecting five different male/female emotions from audio speeches. (Deep Learning, NLP, Python)"
+category = "speech"
+tags = ["emotion", "python3", "deep-learning", "neural-network", "data-science", "deep-neural-networks", "speech", "voice"]
+repository = "https://github.com/MiteshPuthran/Speech-Emotion-Analyzer"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

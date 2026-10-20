@@ -1,0 +1,8 @@
+name = "ai-dev-gallery"
+description = "An open-source project for Windows developers to learn how to add AI with local models and APIs to Windows apps."
+category = "speech"
+tags = ["directml", "dotnet", "genai", "npu", "onnx", "phi3", "qnn", "stable-diffusion"]
+repository = "https://github.com/microsoft/ai-dev-gallery"
+license = "MIT"
+language = "C#"
+added = 2026-10-20

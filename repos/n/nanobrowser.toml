@@ -1,0 +1,10 @@
+name = "nanobrowser"
+description = "Open-source AI agent for web automation. Use your real, logged-in browser to automate daily tasks."
+category = "browser-automation"
+tags = ["chrome-extension", "agent", "ai-agents", "ai-tools", "automation", "browser-use", "web-automation", "manus"]
+repository = "https://github.com/nanobrowser/nanobrowser"
+website = "https://nanobrowser.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+skill_level = "beginner"
+added = 2026-10-20

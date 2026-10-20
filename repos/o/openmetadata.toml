@@ -1,0 +1,9 @@
+name = "OpenMetadata"
+description = "The Open Context Layer for Data and AI , OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents."
+category = "mcp-servers"
+tags = ["metadata", "datadiscovery", "dataquality", "data-profiling", "metadata-management", "data-catalog", "data-observability", "data-discovery"]
+repository = "https://github.com/open-metadata/OpenMetadata"
+website = "https://open-metadata.org"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

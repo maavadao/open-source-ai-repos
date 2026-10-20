@@ -1,0 +1,9 @@
+name = "tree-of-thoughts"
+description = "Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%"
+category = "chat"
+tags = ["artificial-intelligence", "chatgpt", "gpt4", "multimodal", "prompt-engineering", "deep-learning", "prompt", "prompt-learning"]
+repository = "https://github.com/kyegomez/tree-of-thoughts"
+website = "https://discord.gg/qUtxnK2NMf"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

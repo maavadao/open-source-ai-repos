@@ -1,0 +1,9 @@
+name = "VidForge"
+description = "Open-source AI pipeline for short-form commerce videos: multimodal analysis, RAG scripts, multi-agent orchestration, FFmpeg composition, and cost tracing."
+category = "video"
+tags = ["ai-video", "aigc", "bullmq", "ecommerce", "ffmpeg", "generative-ai", "langgraph", "multi-agent"]
+repository = "https://github.com/WANGLEVY9/VidForge"
+website = "https://vid-forge-frontend-nu.vercel.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

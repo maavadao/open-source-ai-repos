@@ -1,0 +1,9 @@
+name = "procthor"
+description = "Scaling Embodied AI by Procedurally Generating Interactive 3D Houses"
+category = "robotics"
+tags = ["ai2-thor", "computer-vision", "embodied-ai", "procedural-generation", "robotics"]
+repository = "https://github.com/allenai/procthor"
+website = "https://procthor.allenai.org/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

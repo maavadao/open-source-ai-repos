@@ -1,0 +1,7 @@
+name = "awesome-harness-engineering"
+description = "Awesome tools & guides for harness engineering."
+category = "learning"
+tags = ["agentic", "agentic-ai", "ai", "ai-agents", "harness", "harness-engineering", "harness-framework", "llm"]
+repository = "https://github.com/walkinglabs/awesome-harness-engineering"
+license = "NOASSERTION"
+added = 2026-10-20

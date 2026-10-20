@@ -1,0 +1,8 @@
+name = "BerryNet"
+description = "Deep learning gateway on Raspberry Pi and other edge devices"
+category = "local-llms"
+tags = ["raspberry-pi", "deep-learning", "tensorflow", "iot", "mqtt", "aiot", "edge-devices", "edge-ai"]
+repository = "https://github.com/DT42/BerryNet"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

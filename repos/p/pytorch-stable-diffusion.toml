@@ -1,0 +1,9 @@
+name = "pytorch-stable-diffusion"
+description = "Stable Diffusion implemented from scratch in PyTorch"
+category = "learning"
+tags = ["diffusion-models", "latent-diffusion-models", "paper-implementations", "pytorch", "pytorch-implementation", "stable-diffusion"]
+repository = "https://github.com/hkproj/pytorch-stable-diffusion"
+website = "https://www.youtube.com/watch?v=ZBKpAp_6TGI"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "pig"
+description = "Follow for updates An RBAC permission management system based on Spring Cloud 2025, Spring Boot 4, and OAuth2."
+category = "other"
+tags = ["oauth2", "spring-boot", "spring-cloud", "spring-cloud-alibaba", "docker", "rbac-management", "spring-authorization-server", "spring-security"]
+repository = "https://github.com/pig-mesh/pig"
+website = "https://wiki.pig4cloud.com"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

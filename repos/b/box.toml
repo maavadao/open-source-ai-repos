@@ -1,0 +1,9 @@
+name = "Box"
+description = "The most advanced, fully offline client-side AI suite on Android today."
+category = "mcp-servers"
+tags = ["artificial-intelligence", "box", "gguf", "litert", "llamacpp", "local-ai", "litert-lm", "android-ai-app"]
+repository = "https://github.com/jegly/Box"
+website = "https://jegly.xyz"
+license = "NOASSERTION"
+language = "Kotlin"
+added = 2026-10-20

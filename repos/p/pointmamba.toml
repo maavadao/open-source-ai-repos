@@ -1,0 +1,9 @@
+name = "PointMamba"
+description = "[NeurIPS 2024] PointMamba: A Simple State Space Model for Point Cloud Analysis"
+category = "vision"
+tags = ["3d-point-clouds", "computer-vision", "mamba", "state-space-model"]
+repository = "https://github.com/LMD0311/PointMamba"
+website = "https://arxiv.org/abs/2402.10739"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

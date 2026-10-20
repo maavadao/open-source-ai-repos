@@ -1,0 +1,9 @@
+name = "MONAI"
+description = "AI Toolkit for Healthcare Imaging"
+category = "ml-platforms"
+tags = ["healthcare-imaging", "deep-learning", "medical-image-computing", "medical-image-processing", "pytorch", "python3", "monai"]
+repository = "https://github.com/Project-MONAI/MONAI"
+website = "https://project-monai.github.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

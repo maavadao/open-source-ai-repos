@@ -1,0 +1,9 @@
+name = "geo-optimizer-skill"
+description = "Open-source Answer Engine Optimization (AEO) & Generative Engine Optimization (GEO) toolkit — audit, optimize & track whether ChatGPT, Perplexity, Gemini & Google AI Overviews cite your site. AI SEO / LLM SEO. CLI, Python, MCP, Astro."
+category = "mcp-servers"
+tags = ["claude", "geo", "llms-txt", "perplexity", "seo", "generative-engine-optimization", "python", "cli"]
+repository = "https://github.com/Auriti-Labs/geo-optimizer-skill"
+website = "https://geoready.dev"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

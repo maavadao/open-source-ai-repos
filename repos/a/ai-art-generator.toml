@@ -1,0 +1,8 @@
+name = "ai-art-generator"
+description = "For automating the creation of large batches of AI-generated artwork locally."
+category = "image"
+tags = ["machine-learning", "vqgan-clip", "deep-learning", "image-generation", "clip-guided-diffusion", "generative-art", "stable-diffusion"]
+repository = "https://github.com/rbbrdckybk/ai-art-generator"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "PyTorch-Encoding"
+description = "A CV toolkit for my papers."
+category = "ml-platforms"
+tags = ["deep-learning", "batchnorm", "synchronized-batchnorm", "encoding-layer"]
+repository = "https://github.com/zhanghang1989/PyTorch-Encoding"
+website = "https://hangzhang.org/PyTorch-Encoding/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

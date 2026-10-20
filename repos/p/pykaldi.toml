@@ -1,0 +1,9 @@
+name = "pykaldi"
+description = "A Python wrapper for Kaldi"
+category = "speech"
+tags = ["python", "wrapper", "kaldi", "openfst", "asr", "speech-recognition", "speech", "language-model"]
+repository = "https://github.com/pykaldi/pykaldi"
+website = "https://pykaldi.github.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

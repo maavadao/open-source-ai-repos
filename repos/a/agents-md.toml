@@ -1,0 +1,8 @@
+name = "agents.md"
+description = "AGENTS.md — a simple, open format for guiding coding agents"
+category = "coding"
+repository = "https://github.com/agentsmd/agents.md"
+website = "https://agents.md"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

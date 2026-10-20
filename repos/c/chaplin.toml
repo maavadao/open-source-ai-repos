@@ -1,0 +1,8 @@
+name = "chaplin"
+description = "A real-time silent speech recognition tool."
+category = "speech"
+tags = ["auto-avsr", "avsr", "llm", "ollama", "speech-recognition", "speech-to-text", "vsr"]
+repository = "https://github.com/amanvirparhar/chaplin"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

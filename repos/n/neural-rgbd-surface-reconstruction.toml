@@ -1,0 +1,9 @@
+name = "neural-rgbd-surface-reconstruction"
+description = "Official implementation of the CVPR 2022 Paper \"Neural RGB-D Surface Reconstruction\""
+category = "vision"
+tags = ["3d-reconstruction", "computer-vision", "deep-learning", "computer-graphics"]
+repository = "https://github.com/dazinovic/neural-rgbd-surface-reconstruction"
+website = "https://dazinovic.github.io/neural-rgbd-surface-reconstruction/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

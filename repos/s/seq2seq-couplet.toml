@@ -1,0 +1,9 @@
+name = "seq2seq-couplet"
+description = "Play couplet with seq2seq model. 用深度学习对对联。"
+category = "ml-platforms"
+tags = ["seq2seq", "deep-learning", "machine-learning"]
+repository = "https://github.com/wb14123/seq2seq-couplet"
+website = "https://ai.binwang.me/couplet"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

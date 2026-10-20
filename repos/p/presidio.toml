@@ -1,0 +1,9 @@
+name = "presidio"
+description = "An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines."
+category = "security"
+tags = ["python", "pii", "privacy", "data-anonymization", "de-identification", "data-masking", "transformers", "pii-detection"]
+repository = "https://github.com/data-privacy-stack/presidio"
+website = "https://presidio.dataprivacystack.org"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

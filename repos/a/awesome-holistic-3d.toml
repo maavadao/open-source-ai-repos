@@ -1,0 +1,7 @@
+name = "awesome-holistic-3d"
+description = "A list of papers and resources (data,code,etc) for holistic 3D reconstruction in computer vision"
+category = "learning"
+tags = ["awesome", "3d-reconstruction", "computer-vision", "deep-learning", "machine-learning", "datasets"]
+repository = "https://github.com/holistic-3d/awesome-holistic-3d"
+license = "NOASSERTION"
+added = 2026-10-20

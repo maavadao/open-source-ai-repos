@@ -1,0 +1,9 @@
+name = "StreamSpeech"
+description = "StreamSpeech is an “All in One” seamless model for offline and simultaneous speech recognition, speech translation and speech synthesis."
+category = "speech"
+tags = ["seamless", "simultaneous-translation", "speech", "speech-recognition", "speech-synthesis", "speech-to-text", "speech-translation", "translation"]
+repository = "https://github.com/ictnlp/StreamSpeech"
+website = "https://ictnlp.github.io/StreamSpeech-site/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

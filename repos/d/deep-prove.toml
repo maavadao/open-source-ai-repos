@@ -1,0 +1,9 @@
+name = "deep-prove"
+description = "Framework to prove inference of ML models blazingly fast"
+category = "local-llms"
+tags = ["ai", "ml", "zk", "zk-snarks", "zkml"]
+repository = "https://github.com/Lagrange-Labs/deep-prove"
+website = "https://lagrange.dev"
+license = "NOASSERTION"
+language = "Rust"
+added = 2026-10-20

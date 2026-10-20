@@ -1,0 +1,10 @@
+name = "TTS"
+description = "a deep learning toolkit for Text-to-Speech, battle-tested in research and production"
+category = "speech"
+tags = ["python", "text-to-speech", "deep-learning", "speech", "pytorch", "tts", "vocoder", "tacotron"]
+repository = "https://github.com/coqui-ai/TTS"
+website = "http://coqui.ai"
+license = "MPL-2.0"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

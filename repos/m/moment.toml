@@ -1,0 +1,9 @@
+name = "moment"
+description = "MOMENT: A Family of Open Time-series Foundation Models, ICML'24"
+category = "models"
+tags = ["foundational-models", "time-series", "time-series-anomaly-detection", "time-series-classification", "time-series-forecasting", "anomaly-detection", "classification", "forecasting"]
+repository = "https://github.com/moment-timeseries-foundation-model/moment"
+website = "https://moment-timeseries-foundation-model.github.io/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

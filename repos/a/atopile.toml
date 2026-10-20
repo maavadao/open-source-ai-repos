@@ -1,0 +1,9 @@
+name = "atopile"
+description = "Design circuit boards with code! Get software-like design reuse , validation, version control and collaboration in hardware; starting with electronics"
+category = "agents"
+tags = ["cad", "eda", "electronics", "agent", "ai"]
+repository = "https://github.com/atopile/atopile"
+website = "https://atopile.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

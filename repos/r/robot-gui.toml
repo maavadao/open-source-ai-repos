@@ -1,0 +1,9 @@
+name = "robot-gui"
+description = "A three.js based 3D robot interface."
+category = "robotics"
+tags = ["threejs", "robotics", "inverse-kinematics", "robot", "interface", "3d", "javascript", "es6"]
+repository = "https://github.com/glumb/robot-gui"
+website = "http://robot.glumb.de/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

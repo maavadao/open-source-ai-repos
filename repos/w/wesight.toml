@@ -1,0 +1,9 @@
+name = "wesight"
+description = "Open-source desktop AI agent workspace with one-click Claude Code, Codex, OpenClaw, Hermes Agent setup and custom LLM model routing."
+category = "skills-prompts"
+tags = ["agent-workspace", "ai-agent", "claude-code", "codex", "desktop-app", "electron", "hermes-agent", "llm"]
+repository = "https://github.com/freestylefly/wesight"
+website = "https://wesight.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

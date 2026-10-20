@@ -1,0 +1,9 @@
+name = "opensquilla"
+description = "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density"
+category = "mcp-servers"
+tags = ["agent", "ai", "ai-agents", "deep-learning", "foundation-models", "llm", "mcp", "memory"]
+repository = "https://github.com/TokenRhythm/opensquilla"
+website = "https://opensquilla.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

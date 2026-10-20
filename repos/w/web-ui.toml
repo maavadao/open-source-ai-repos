@@ -1,0 +1,8 @@
+name = "web-ui"
+description = "Run AI Agent in your browser."
+category = "browser-automation"
+tags = ["ai-agent", "browser-automation", "browser-use-box", "cloud-browser"]
+repository = "https://github.com/browser-use/web-ui"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

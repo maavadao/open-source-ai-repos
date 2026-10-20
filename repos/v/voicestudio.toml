@@ -1,0 +1,9 @@
+name = "VoiceStudio"
+description = "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+category = "no-code"
+tags = ["tts", "voice-cloning", "voice-generation", "voice-ai", "ai", "cuda", "mlx", "huggingface"]
+repository = "https://github.com/debpalash/VoiceStudio"
+website = "https://voicestudio.sh"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

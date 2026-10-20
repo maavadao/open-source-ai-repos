@@ -1,0 +1,9 @@
+name = "Sana"
+description = "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer"
+category = "video"
+tags = ["diffusion", "dit", "pytorch", "sana", "text-to-image-generation", "transformers", "video-generation", "linear-transformer"]
+repository = "https://github.com/NVlabs/Sana"
+website = "https://nvlabs.github.io/Sana/docs/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

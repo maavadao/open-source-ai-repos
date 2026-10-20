@@ -1,0 +1,9 @@
+name = "ai-factory"
+description = "You want to build with AI, but setting up the right context, prompts, and workflows takes time. AI Factory handles all of that so you can focus on what matters — shipping quality code."
+category = "agents"
+tags = ["ai", "ai-agents", "ai-skills", "spec-driven-development"]
+repository = "https://github.com/lee-to/ai-factory"
+website = "https://aif.cutcode.dev"
+license = "NOASSERTION"
+language = "Shell"
+added = 2026-10-20

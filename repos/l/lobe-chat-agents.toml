@@ -1,0 +1,9 @@
+name = "lobe-chat-agents"
+description = "/ Agent Index - This is the agent index for LobeChat. It accesses index.json from this repository to display a list of available agents for LobeChat to the agent market."
+category = "chat"
+tags = ["agent", "ai", "chatgpt", "lobehub", "openai", "prompt", "lobe-chat-agent", "awesome"]
+repository = "https://github.com/lobehub/lobe-chat-agents"
+website = "https://lobechat.com/discover/assistants"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

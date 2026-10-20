@@ -1,0 +1,9 @@
+name = "Irodori-TTS"
+description = "A Flow Matching-based Text-to-Speech Model with Emoji-driven Style Control"
+category = "speech"
+tags = ["diffusion-models", "flow-matching", "python", "speech-synthesis", "text-to-speech", "tts", "voice-cloning"]
+repository = "https://github.com/Aratako/Irodori-TTS"
+website = "https://huggingface.co/collections/Aratako/irodori-tts"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

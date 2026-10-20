@@ -1,0 +1,8 @@
+name = "imbox"
+description = "Python IMAP for Agentic Workflows"
+category = "no-code"
+tags = ["imap", "agents", "automation", "python", "workflows"]
+repository = "https://github.com/martinrusev/imbox"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

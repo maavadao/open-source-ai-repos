@@ -1,0 +1,8 @@
+name = "jvector"
+description = "JVector: the most advanced embedded vector search engine"
+category = "vector-databases"
+tags = ["ann", "java", "knn", "machine-learning", "search-engine", "similarity-search", "vector-search"]
+repository = "https://github.com/datastax/jvector"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

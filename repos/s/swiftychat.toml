@@ -1,0 +1,9 @@
+name = "SwiftyChat"
+description = "A lightweight SwiftUI chat UI framework with 11 built-in message types, 8 themes, and cross-platform iOS/macOS support"
+category = "chat"
+tags = ["swiftui", "chat", "chatbot", "chatroom", "chat-bot", "message", "ios", "chat-application"]
+repository = "https://github.com/EnesKaraosman/SwiftyChat"
+website = "https://swiftpackageindex.com/EnesKaraosman/SwiftyChat"
+license = "Apache-2.0"
+language = "Swift"
+added = 2026-10-20

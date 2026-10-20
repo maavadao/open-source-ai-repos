@@ -1,0 +1,9 @@
+name = "Chorus"
+description = "The Agent Harness for AI-Human Collaboration, inspired by the AI-DLC (AI-Driven Development Lifecycle)"
+category = "coding"
+tags = ["ai-agents", "ai-dlc", "claude-code", "kanban", "multi-agent", "task-management", "agent-harness", "harness"]
+repository = "https://github.com/Chorus-AIDLC/Chorus"
+website = "https://chorus-ai.dev/"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

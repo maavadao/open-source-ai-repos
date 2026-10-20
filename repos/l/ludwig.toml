@@ -1,0 +1,9 @@
+name = "ludwig"
+description = "Low-code framework for building custom LLMs, neural networks, and other AI models"
+category = "vision"
+tags = ["deep-learning", "deeplearning", "deep", "learning", "machine-learning", "machinelearning", "natural-language-processing", "natural-language"]
+repository = "https://github.com/ludwig-ai/ludwig"
+website = "http://ludwig.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

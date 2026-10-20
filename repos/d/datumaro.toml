@@ -1,0 +1,9 @@
+name = "datumaro"
+description = "Dataset Management Framework, a Python library and a CLI tool to build, analyze and manage Computer Vision datasets."
+category = "vision"
+tags = ["deep-learning", "neural-networks", "computer-vision", "datasets", "format-converter", "dataset", "coco", "imagenet"]
+repository = "https://github.com/open-edge-platform/datumaro"
+website = "https://open-edge-platform.github.io/datumaro"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

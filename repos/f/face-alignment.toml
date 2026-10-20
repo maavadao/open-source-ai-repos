@@ -1,0 +1,9 @@
+name = "face-alignment"
+description = "2D and 3D Face alignment library build using pytorch"
+category = "vision"
+tags = ["python", "deep-learning", "face-alignment", "face-detector", "pytorch", "face-detection"]
+repository = "https://github.com/1adrianb/face-alignment"
+website = "https://www.adrianbulat.com"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

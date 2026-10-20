@@ -1,0 +1,9 @@
+name = "OuteTTS"
+description = "Interface for OuteTTS models."
+category = "speech"
+tags = ["gguf", "llama", "text-to-speech", "transformers", "tts"]
+repository = "https://github.com/edwko/OuteTTS"
+website = "https://outeai.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

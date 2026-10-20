@@ -1,0 +1,9 @@
+name = "oasis"
+description = "OASIS: Open Agent Social Interaction Simulations with One Million Agents."
+category = "agents"
+tags = ["agent-based-framework", "agent-based-simulation", "large-language-models", "large-scale", "llm-agents", "deep-learning", "natural-language-processing", "ai-societies"]
+repository = "https://github.com/camel-ai/oasis"
+website = "https://docs.oasis.camel-ai.org/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

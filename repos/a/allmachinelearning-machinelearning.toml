@@ -1,0 +1,8 @@
+name = "MachineLearning"
+description = "Machine learning resources"
+category = "learning"
+tags = ["machinelearning", "artificial-intelligence", "datamining", "deep-learning"]
+repository = "https://github.com/allmachinelearning/MachineLearning"
+website = "https://allmachinelearning.github.io/MachineLearning/"
+license = "NOASSERTION"
+added = 2026-10-20

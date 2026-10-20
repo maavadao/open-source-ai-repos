@@ -1,0 +1,9 @@
+name = "openclaw-trading-agent"
+description = "trading agent"
+category = "agents"
+tags = ["agent", "ai-agent", "ai-agents", "trading"]
+repository = "https://github.com/netzpirat/openclaw-trading-agent"
+website = "https://agentvps.io"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

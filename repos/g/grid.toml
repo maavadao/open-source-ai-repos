@@ -1,0 +1,9 @@
+name = "GRID"
+description = "GRID: Generative Recommendation with Semantic IDs"
+category = "models"
+tags = ["generative-recommenders", "recommender-systems", "recsys", "semantic-id", "large-language-models", "sequential-recommendation"]
+repository = "https://github.com/snap-research/GRID"
+website = "https://arxiv.org/abs/2507.22224"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

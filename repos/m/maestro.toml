@@ -1,0 +1,9 @@
+name = "maestro"
+description = "Maestro: Netflix’s Workflow Orchestrator"
+category = "no-code"
+tags = ["analytics", "automation", "batch-processing", "dag", "data-engineering", "data-ops", "data-orchestrator", "data-pipelines"]
+repository = "https://github.com/Netflix/maestro"
+website = "https://maestro-doc.github.io"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

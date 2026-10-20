@@ -1,0 +1,9 @@
+name = "haiku.rag"
+description = "Agentic RAG for local and self-hosted document search: hybrid retrieval, reranking and multimodal RAG on embedded LanceDB, with Docling parsing and an MCP server"
+category = "mcp-servers"
+tags = ["mcp-server", "rag", "lancedb", "pydantic-ai", "docling", "ag-ui", "agentic-rag", "code-execution"]
+repository = "https://github.com/ggozad/haiku.rag"
+website = "https://ggozad.github.io/haiku.rag/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

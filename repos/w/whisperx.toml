@@ -1,0 +1,9 @@
+name = "whisperX"
+description = "WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)"
+category = "speech"
+tags = ["asr", "speech", "speech-recognition", "speech-to-text", "whisper"]
+repository = "https://github.com/m-bain/whisperX"
+license = "BSD-2-Clause"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

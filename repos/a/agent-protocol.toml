@@ -1,0 +1,9 @@
+name = "agent-protocol"
+description = "Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents."
+category = "agents"
+tags = ["agents", "ai", "api", "javascript", "llms", "openapi", "protocol", "python"]
+repository = "https://github.com/agi-inc/agent-protocol"
+website = "https://agentprotocol.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

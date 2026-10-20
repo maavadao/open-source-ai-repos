@@ -1,0 +1,9 @@
+name = "Deuz-SDK"
+description = "TypeScript AI SDK and agent framework with zero dependencies. Build production AI agents and multi-agent swarms: durable execution, long-term memory, hybrid RAG, MCP client/server, A2A, human-in-the-loop approvals, CodeAct sandboxes, realtime voice. One streaming API, 29…"
+category = "mcp-servers"
+tags = ["ai-sdk", "llm", "mcp", "openai", "rag", "typescript", "agent-framework", "ai-agents"]
+repository = "https://github.com/Deuz-AI/Deuz-SDK"
+website = "https://deuz-sdk.tech"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

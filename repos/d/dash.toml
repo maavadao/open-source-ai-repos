@@ -1,0 +1,9 @@
+name = "dash"
+description = "Data Apps & Dashboards for Python. No JavaScript Required."
+category = "data-science"
+tags = ["dash", "plotly", "data-visualization", "data-science", "gui-framework", "flask", "react", "python"]
+repository = "https://github.com/plotly/dash"
+website = "https://plotly.com/dash"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

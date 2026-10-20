@@ -1,0 +1,9 @@
+name = "opik-openclaw"
+description = "Official plugin for OpenClaw that exports agent traces to Opik. See and monitor agent behaviour, cost, tokens, errors and more."
+category = "agents"
+tags = ["clawdbot", "evaluation", "moltbot", "observability", "openclaw", "testing", "ai-agents", "llm-observability"]
+repository = "https://github.com/comet-ml/opik-openclaw"
+website = "https://www.comet.com/site/products/opik/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

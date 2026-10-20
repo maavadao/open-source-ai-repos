@@ -1,0 +1,8 @@
+name = "terraform-aws-devops"
+description = "Info about many of my Terraform, AWS, DevOps, and AI (tada!) projects."
+category = "coding"
+tags = ["terraform", "infrastructure-as-code", "aws", "aws-community", "antonbabenko", "compliance", "serverless", "terraform-aws-modules"]
+repository = "https://github.com/antonbabenko/terraform-aws-devops"
+website = "https://github.com/sponsors/antonbabenko"
+license = "NOASSERTION"
+added = 2026-10-20

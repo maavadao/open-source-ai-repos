@@ -1,0 +1,8 @@
+name = "Bello"
+description = "3x more usage on your coding agent, same quality. Have an multi-agent setup in mind? Bello already supports it. Mix models, run agents in parallel, have them check each other’s work, and reduce unnecessary model calls and noisy tool output. Turn on only what you need."
+category = "security"
+tags = ["agentic-ai", "agentic-workflow", "ai-agents", "ai-coding", "automation", "autonomous-agents", "cli", "codex"]
+repository = "https://github.com/Makson179/Bello"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

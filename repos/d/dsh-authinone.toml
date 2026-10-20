@@ -1,0 +1,8 @@
+name = "dsh-AuthInOne"
+description = "Self-contained DeepSeek Harness (DSH) plugin for Provider/Auth login, model switching, image fallback, token/cost analytics, and same-port Web restart. Useful? A star helps."
+category = "models"
+tags = ["cost-tracking", "deepseek-harness", "dsh", "dsh-plugin", "openai-compatible", "provider-management", "token-usage", "custom-api"]
+repository = "https://github.com/Stormycry-cryp/dsh-AuthInOne"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

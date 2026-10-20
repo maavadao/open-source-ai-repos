@@ -1,0 +1,8 @@
+name = "tribe"
+description = "Low code tool to rapidly build and coordinate multi-agent teams"
+category = "no-code"
+tags = ["ai", "ai-tools", "langchain-python", "langgraph", "low-code", "open-source", "llms", "agent-based-framework"]
+repository = "https://github.com/StreetLamb/tribe"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

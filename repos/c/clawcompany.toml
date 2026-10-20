@@ -1,0 +1,8 @@
+name = "clawcompany"
+description = "Open source AI company OS. 38 roles, 6 templates, 4-layer memory. Your AI company remembers everything — locally. npx clawcompany"
+category = "agents"
+tags = ["agents", "ai", "autonomous", "llm", "memory", "ai-company-os", "multi-agent-flamework", "company-os"]
+repository = "https://github.com/Claw-Company/clawcompany"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

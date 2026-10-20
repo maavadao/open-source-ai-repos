@@ -1,0 +1,9 @@
+name = "kwaak"
+description = "Burn through tech debt with AI agents!"
+category = "agents"
+tags = ["agents", "artificial-intelligence", "developer-tools", "llm", "terminal-app", "rust"]
+repository = "https://github.com/bosun-ai/kwaak"
+website = "https://bosun.ai"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Lora-for-Diffusers"
+description = "The most easy-to-understand tutorial for using LoRA (Low-Rank Adaptation) within diffusers framework for AI Generation Researchers"
+category = "learning"
+tags = ["aigc", "diffusers", "fine-tuning", "guidebook", "lora", "stable-diffusion", "stable-diffusion-webui", "text-to-image"]
+repository = "https://github.com/haofanwang/Lora-for-Diffusers"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

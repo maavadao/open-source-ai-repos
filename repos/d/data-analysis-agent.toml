@@ -1,0 +1,8 @@
+name = "Data-Analysis-Agent"
+description = "你的私人数据分析助手。通过对话式交互，自动生成可视化报表与商业洞察，让数据决策变得像聊天一样简单。 Your personal data analysis assistant. Say goodbye to complex SQL and Excel formulas. An LLM-powered data analysis agent. Chat with your data to instantly generate visualizations and business insights. Making data-driven…"
+category = "agents"
+tags = ["ai", "ai-tools", "analysis", "charts", "datavisualization", "agent"]
+repository = "https://github.com/Zafer-Liu/Data-Analysis-Agent"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

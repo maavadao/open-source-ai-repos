@@ -1,0 +1,9 @@
+name = "tma1"
+description = "Local-first observability your agent reads back. TMA1 records every LLM call, then routes what it sees into the agent's next turn via hooks and MCP."
+category = "mcp-servers"
+tags = ["ai-agents", "claude-code", "codex", "local-first", "observability", "openclaw", "opentelemetry", "self-hosted"]
+repository = "https://github.com/tma1-ai/tma1"
+website = "https://tma1.ai/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

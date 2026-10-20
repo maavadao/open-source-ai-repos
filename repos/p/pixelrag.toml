@@ -1,0 +1,9 @@
+name = "PixelRAG"
+description = "https://arxiv.org/abs/2606.28344. The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/"
+category = "agents"
+tags = ["agent", "ai", "memory", "multimodal", "rag", "search", "searchengine", "vision"]
+repository = "https://github.com/StarTrail-org/PixelRAG"
+website = "https://arxiv.org/pdf/2606.28344"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

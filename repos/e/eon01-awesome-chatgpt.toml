@@ -1,0 +1,7 @@
+name = "awesome-chatgpt"
+description = "A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. Please consider supporting this project by giving it a star."
+category = "learning"
+tags = ["chatgpt", "chatgpt-api", "chatgpt-api-wrapper", "chatgpt-browser-extension", "chatgpt-chrome-extension", "chatgpt-firefox-extension", "chatgpt-go", "chatgpt-sdk"]
+repository = "https://github.com/eon01/awesome-chatgpt"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "LaTeXTrans"
+description = "A tool for translating the content of LaTeX documents into various other natural languages (e.g., translating an arXiv paper from English to Chinese)."
+category = "models"
+tags = ["large-language-models", "machine-translation", "latex"]
+repository = "https://github.com/NiuTrans/LaTeXTrans"
+license = "MIT"
+language = "TeX"
+added = 2026-10-20

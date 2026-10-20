@@ -1,0 +1,9 @@
+name = "zeroclaw"
+description = "Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything"
+category = "agents"
+tags = ["agent", "agentic", "ai", "openclaw", "infra", "ml", "os", "zeroclaw"]
+repository = "https://github.com/zeroclaw-labs/zeroclaw"
+website = "https://www.zeroclaw.com/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-20

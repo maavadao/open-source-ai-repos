@@ -1,0 +1,9 @@
+name = "lingoose"
+description = "LinGoose is a Go framework for building awesome AI/LLM applications."
+category = "chat"
+tags = ["go", "golang", "openai", "embeddings", "index", "llm", "pinecone", "pipeline"]
+repository = "https://github.com/henomis/lingoose"
+website = "https://simonevellei.com/lingoose"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

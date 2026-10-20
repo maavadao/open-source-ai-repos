@@ -1,0 +1,9 @@
+name = "sre"
+description = "The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across local, cloud, and edge environments."
+category = "mcp-servers"
+tags = ["ai", "artificial-intelligence", "agents", "autonomous-agents", "llm", "mcp", "multi-agent", "multi-agent-systems"]
+repository = "https://github.com/SmythOS/sre"
+website = "https://smythos.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

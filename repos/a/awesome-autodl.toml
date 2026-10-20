@@ -1,0 +1,8 @@
+name = "Awesome-AutoDL"
+description = "Automated Deep Learning: Neural Architecture Search Is Not the End (a curated list of AutoDL resources and an in-depth analysis)"
+category = "learning"
+tags = ["neural-architecture-search", "nas", "automl", "deep-learning", "awesome", "autodl", "hyper-parameter-optimization"]
+repository = "https://github.com/D-X-Y/Awesome-AutoDL"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

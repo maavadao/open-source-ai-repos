@@ -1,0 +1,9 @@
+name = "clickclack"
+description = "ClickClackClaw - The chat app with claws."
+category = "chat"
+tags = ["agents", "chat"]
+repository = "https://github.com/openclaw/clickclack"
+website = "https://clickclack.chat"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

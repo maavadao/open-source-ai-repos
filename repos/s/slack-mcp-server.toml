@@ -1,0 +1,8 @@
+name = "slack-mcp-server"
+description = "The most powerful MCP Slack Server with no permission requirements, Apps support, GovSlack, DMs, Group DMs and smart history fetch logic."
+category = "mcp-servers"
+tags = ["assistants", "llm", "mcp", "mcp-server", "slack", "slack-api", "govslack"]
+repository = "https://github.com/korotovsky/slack-mcp-server"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

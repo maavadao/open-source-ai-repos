@@ -1,0 +1,9 @@
+name = "docs"
+description = "TensorFlow documentation"
+category = "learning"
+tags = ["tensorflow", "tensorflow-tutorials", "tensorflow-examples", "documentation", "machine-learning", "deep-learning", "deep-neural-networks"]
+repository = "https://github.com/tensorflow/docs"
+website = "https://www.tensorflow.org"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

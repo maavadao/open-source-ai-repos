@@ -1,0 +1,9 @@
+name = "BioReason"
+description = "BioReason: Incentivizing Multimodal Biological Reasoning within a DNA-LLM Model | NeurIPS '25"
+category = "models"
+tags = ["computational-biology", "dna", "reasoning", "bioinformatics", "grpo", "large-language-models", "foundation-models"]
+repository = "https://github.com/bowang-lab/BioReason"
+website = "https://bowang-lab.github.io/BioReason"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

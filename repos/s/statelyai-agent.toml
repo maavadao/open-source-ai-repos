@@ -1,0 +1,9 @@
+name = "agent"
+description = "Create state-machine-powered LLM agents using XState"
+category = "no-code"
+tags = ["agents", "ai", "llm", "state-machine", "statechart", "workflow"]
+repository = "https://github.com/statelyai/agent"
+website = "https://stately.ai/docs/agents"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

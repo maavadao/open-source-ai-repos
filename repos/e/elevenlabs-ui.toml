@@ -1,0 +1,9 @@
+name = "ui"
+description = "ElevenLabs UI is a component library and custom registry built on top of shadcn/ui to help you build multimodal agents faster."
+category = "speech"
+tags = ["agents", "ai", "audio", "components", "elevenlabs", "shadcn-ui"]
+repository = "https://github.com/elevenlabs/ui"
+website = "https://ui.elevenlabs.io"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

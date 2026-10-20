@@ -1,0 +1,9 @@
+name = "CTCWordBeamSearch"
+description = "Connectionist Temporal Classification (CTC) decoder with dictionary and language model."
+category = "speech"
+tags = ["ctc", "decoder", "text-recognition", "speech-recognition", "handwritten-text-recognition", "recurrent-neural-networks", "language-model"]
+repository = "https://github.com/githubharald/CTCWordBeamSearch"
+website = "https://harald-scheidl.medium.com/b051d28f3d2e"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "ReLeaSE"
+description = "Deep Reinforcement Learning for de-novo Drug Design"
+category = "ml-platforms"
+tags = ["deeplearning", "reinforcement-learning", "cheminformatics", "molecular-modeling", "drug-discovery", "qsar"]
+repository = "https://github.com/isayev/ReLeaSE"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

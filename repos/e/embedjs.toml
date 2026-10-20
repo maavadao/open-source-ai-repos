@@ -1,0 +1,9 @@
+name = "embedJs"
+description = "A NodeJS RAG framework to easily work with LLMs and embeddings"
+category = "vector-databases"
+tags = ["embedding", "embeddings", "gpt", "gpt-4", "llm", "openai", "vector-database", "ai"]
+repository = "https://github.com/llm-tools/embedJs"
+website = "https://llm-tools.mintlify.app/get-started/introduction"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

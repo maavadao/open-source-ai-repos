@@ -1,0 +1,8 @@
+name = "FSL-Mate"
+description = "FSL-Mate: A collection of resources for few-shot learning (FSL)."
+category = "ml-platforms"
+tags = ["few-shot-learning", "one-shot-learning", "meta-learning", "low-shot", "deep-learning", "papers", "few-shot-paper", "few-shot-papers"]
+repository = "https://github.com/tata1661/FSL-Mate"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "proper-pixel-art"
+description = "Fixes AI pixel art images, video, or sprite web uploads"
+category = "vision"
+tags = ["pixel-art", "generative-ai", "image-processing", "generative-art", "sprites", "game-dev", "computer-vision", "python"]
+repository = "https://github.com/KennethJAllen/proper-pixel-art"
+website = "https://www.kennethallenmath.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

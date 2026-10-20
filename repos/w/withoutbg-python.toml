@@ -1,0 +1,9 @@
+name = "withoutbg-python"
+description = "Python SDK for local and cloud background removal (pip install withoutbg)"
+category = "vision"
+tags = ["computer-vision", "image-matting", "image-processing", "ai-background-removal", "image-background-removal", "background-removal-open-source", "background-removal-toolkit", "python-background-removal"]
+repository = "https://github.com/withoutbg/withoutbg-python"
+website = "https://withoutbg.com/docs/open-model/python"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

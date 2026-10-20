@@ -1,0 +1,7 @@
+name = "Engram"
+description = "Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models"
+category = "llm-apps"
+repository = "https://github.com/deepseek-ai/Engram"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

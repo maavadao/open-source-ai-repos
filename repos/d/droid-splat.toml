@@ -1,0 +1,9 @@
+name = "DROID-Splat"
+description = "End-to-End SLAM with camera calibration, monocular prior integration and dense Rendering"
+category = "robotics"
+tags = ["monocular", "rendering", "slam", "3d-reconstruction", "computer-vision", "gaussian-splatting"]
+repository = "https://github.com/ChenHoy/DROID-Splat"
+website = "https://arxiv.org/pdf/2411.17660"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

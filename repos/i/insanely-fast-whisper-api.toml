@@ -1,0 +1,8 @@
+name = "insanely-fast-whisper-api"
+description = "An API to transcribe audio with OpenAI's Whisper Large v3!"
+category = "speech"
+tags = ["ai", "api", "openai", "speech-to-text", "whisper"]
+repository = "https://github.com/InterfazeAI/insanely-fast-whisper-api"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

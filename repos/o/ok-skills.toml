@@ -1,0 +1,8 @@
+name = "ok-skills"
+description = "Curated AI coding agent skills and AGENTS.md playbooks for Codex, Claude Code, Cursor, OpenClaw, and other SKILL.md-compatible tools."
+category = "skills-prompts"
+tags = ["claude-code", "codex", "cursor", "skills", "agent-skills", "agents-md", "ai-agents", "claude-code-skills"]
+repository = "https://github.com/mxyhi/ok-skills"
+license = "Apache-2.0"
+language = "HTML"
+added = 2026-10-20

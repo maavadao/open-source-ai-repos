@@ -1,0 +1,9 @@
+name = "DeepCache"
+description = "[CVPR 2024] DeepCache: Accelerating Diffusion Models for Free"
+category = "image"
+tags = ["diffusion-models", "efficient-inference", "model-compression", "stable-diffusion", "training-free"]
+repository = "https://github.com/horseee/DeepCache"
+website = "https://horseee.github.io/Diffusion_DeepCache/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

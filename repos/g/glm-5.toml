@@ -1,0 +1,8 @@
+name = "GLM-5"
+description = "GLM-5: From Vibe Coding to Agentic Engineering"
+category = "agents"
+tags = ["agentic-ai", "coding", "llm", "long-horizon"]
+repository = "https://github.com/zai-org/GLM-5"
+website = "https://z.ai/blog/glm-5.2"
+license = "Apache-2.0"
+added = 2026-10-20

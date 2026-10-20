@@ -1,0 +1,9 @@
+name = "awesome-agent-skills"
+description = "Tutorials, Guides and Agent Skills Directories"
+category = "mcp-servers"
+tags = ["agent-skills", "ai-agents", "ai-development", "anthropic", "automation", "awesome-list", "claude", "codex"]
+repository = "https://github.com/heilcheng/awesome-agent-skills"
+website = "http://agent-skill.co"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

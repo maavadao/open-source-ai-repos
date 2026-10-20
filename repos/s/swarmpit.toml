@@ -1,0 +1,9 @@
+name = "swarmpit"
+description = "Lightweight AI-friendly Docker Swarm management"
+category = "mcp-servers"
+tags = ["docker", "swarm", "management", "ui", "swarm-mode", "docker-swarm", "docker-containers", "docker-stack"]
+repository = "https://github.com/swarmpit/swarmpit"
+website = "https://swarmpit.io"
+license = "EPL-1.0"
+language = "Clojure"
+added = 2026-10-20

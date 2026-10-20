@@ -1,0 +1,7 @@
+name = "MiniCPM"
+description = "MiniCPM5: SOTA on-device LLMs, small yet powerful."
+category = "local-llms"
+repository = "https://github.com/OpenBMB/MiniCPM"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

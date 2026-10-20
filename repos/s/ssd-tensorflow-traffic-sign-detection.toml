@@ -1,0 +1,8 @@
+name = "ssd_tensorflow_traffic_sign_detection"
+description = "Implementation of Single Shot MultiBox Detector in TensorFlow, to detect and classify traffic signs"
+category = "vision"
+tags = ["tensorflow", "object-detection", "computer-vision", "ssd", "python", "traffic-signs"]
+repository = "https://github.com/georgesung/ssd_tensorflow_traffic_sign_detection"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

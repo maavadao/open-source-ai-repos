@@ -1,0 +1,9 @@
+name = "claude-codex-settings"
+description = "Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi, MiniMax and GLM API support."
+category = "skills-prompts"
+tags = ["claude-code", "github", "commit-message", "pull-requests", "cursor", "gemini-cli", "codex", "codex-cli"]
+repository = "https://github.com/fcakyon/claude-codex-settings"
+website = "https://claudesettings.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

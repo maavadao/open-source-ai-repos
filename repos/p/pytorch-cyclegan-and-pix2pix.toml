@@ -1,0 +1,8 @@
+name = "pytorch-CycleGAN-and-pix2pix"
+description = "Image-to-Image Translation in PyTorch"
+category = "image"
+tags = ["pytorch", "gan", "cyclegan", "pix2pix", "deep-learning", "computer-vision", "computer-graphics", "image-manipulation"]
+repository = "https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

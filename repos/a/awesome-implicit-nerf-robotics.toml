@@ -1,0 +1,7 @@
+name = "Awesome-Implicit-NeRF-Robotics"
+description = "A comprehensive list of Implicit Representations and NeRF papers relating to Robotics/RL domain, including papers, codes, and related websites"
+category = "learning"
+tags = ["computer-vision", "dynamics", "implicit-representations", "manipulation", "navigation", "nerf", "planning", "pose-estimation"]
+repository = "https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics"
+license = "NOASSERTION"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "kronotop"
+description = "Distributed, transactional document database backed by FoundationDB."
+category = "vector-databases"
+tags = ["foundationdb", "document-database", "multi-model-database", "key-value-store", "database", "json", "distributed-database", "transactional-database"]
+repository = "https://github.com/kronotop/kronotop"
+website = "https://kronotop.com"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

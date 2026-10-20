@@ -1,0 +1,8 @@
+name = "simulator"
+description = "A ROS/ROS2 Multi-robot Simulator for Autonomous Vehicles"
+category = "robotics"
+tags = ["simulator", "unity", "game-engine", "autonomous", "self-driving-car", "csharp", "3d", "machine-learning"]
+repository = "https://github.com/lgsvl/simulator"
+license = "NOASSERTION"
+language = "C#"
+added = 2026-10-20

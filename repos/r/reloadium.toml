@@ -1,0 +1,8 @@
+name = "reloadium"
+description = "Hot Reloading and Profiling for Python"
+category = "chat"
+tags = ["hot-reload", "hot-reloading", "python", "python3", "edit-and-continue", "django", "flask", "pandas"]
+repository = "https://github.com/reloadware/reloadium"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "spark-nlp"
+description = "State of the Art Natural Language Processing"
+category = "models"
+tags = ["nlp", "natural-language-processing", "spark", "pyspark", "named-entity-recognition", "sentiment-analysis", "lemmatizer", "spell-checker"]
+repository = "https://github.com/JohnSnowLabs/spark-nlp"
+website = "https://sparknlp.org/"
+license = "Apache-2.0"
+language = "Scala"
+added = 2026-10-20

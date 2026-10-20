@@ -1,0 +1,9 @@
+name = "mvcnn"
+description = "Multi-view CNN (MVCNN) for shape recognition"
+category = "vision"
+tags = ["deep-learning", "computer-vision", "computer-graphics", "convolutional-neural-networks"]
+repository = "https://github.com/suhangpro/mvcnn"
+website = "http://vis-www.cs.umass.edu/mvcnn/"
+license = "MIT"
+language = "MATLAB"
+added = 2026-10-20

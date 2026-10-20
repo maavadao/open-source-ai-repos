@@ -1,0 +1,8 @@
+name = "pytorch_sac"
+description = "PyTorch implementation of Soft Actor-Critic (SAC)"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "dm-control", "soft-actor-critic", "pytorch", "deep-reinforcement-learning", "actor-critic", "mujoco", "gym"]
+repository = "https://github.com/denisyarats/pytorch_sac"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

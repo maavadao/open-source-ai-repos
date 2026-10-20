@@ -1,0 +1,9 @@
+name = "SuperVINS"
+description = "[IEEE Sensors Journal (JSEN) ] SuperVINS: A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions (integrated deep learning features)"
+category = "robotics"
+tags = ["deeplearning", "robotics", "slam"]
+repository = "https://github.com/luohongk/SuperVINS"
+website = "http://luohongkun.top/SuperVINS/"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-10-20

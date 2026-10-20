@@ -1,0 +1,9 @@
+name = "dolt"
+description = "Dolt – Git for Data"
+category = "agents"
+tags = ["database", "data-version-control", "data-versioning", "sql", "git", "git-for-data", "mysql", "database-version-control"]
+repository = "https://github.com/dolthub/dolt"
+website = "https://www.dolthub.com"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

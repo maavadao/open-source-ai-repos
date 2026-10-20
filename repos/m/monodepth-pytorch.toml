@@ -1,0 +1,8 @@
+name = "MonoDepth-PyTorch"
+description = "Unofficial implementation of Unsupervised Monocular Depth Estimation neural network MonoDepth in PyTorch"
+category = "vision"
+tags = ["monodepth", "stereo", "computer-vision", "deep-learning", "pytorch", "depth-estimation"]
+repository = "https://github.com/OniroAI/MonoDepth-PyTorch"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

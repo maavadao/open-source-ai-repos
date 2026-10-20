@@ -1,0 +1,9 @@
+name = "browser-operator-core"
+description = "Browser Operator - The AI browser with built in Multi-Agent platform! Open source alternative to ChatGPT Atlas, Perplexity Comet, Dia and Microsoft CoPilot Edge Browser"
+category = "mcp-servers"
+tags = ["agent-workflow", "agentic-ai", "agents", "langgraph", "llamacpp", "llm", "mcp", "mcp-client"]
+repository = "https://github.com/BrowserOperator/browser-operator-core"
+website = "https://browseroperator.io/"
+license = "BSD-3-Clause"
+language = "TypeScript"
+added = 2026-10-20

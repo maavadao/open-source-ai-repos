@@ -1,0 +1,8 @@
+name = "ML-From-Scratch"
+description = "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning."
+category = "learning"
+tags = ["machine-learning", "deep-learning", "deep-reinforcement-learning", "machine-learning-from-scratch", "data-science", "data-mining", "genetic-algorithm"]
+repository = "https://github.com/eriklindernoren/ML-From-Scratch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

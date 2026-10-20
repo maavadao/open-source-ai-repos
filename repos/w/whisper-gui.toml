@@ -1,0 +1,8 @@
+name = "whisper-gui"
+description = "A simple GUI to use Whisper."
+category = "speech"
+tags = ["gradio", "gui", "whisper", "whisper-ai", "whisperx", "huggingface", "transformers", "interface"]
+repository = "https://github.com/Pikurrot/whisper-gui"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

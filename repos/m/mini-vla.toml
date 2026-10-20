@@ -1,0 +1,8 @@
+name = "mini-vla"
+description = "a minimal, beginner-friendly VLA to show how robot policies can fuse images, text, and states to generate actions"
+category = "image"
+tags = ["robotics", "vision-language-action", "ai", "diffusion-models", "imitation-learning"]
+repository = "https://github.com/keivalya/mini-vla"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

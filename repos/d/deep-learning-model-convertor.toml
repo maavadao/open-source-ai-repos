@@ -1,0 +1,7 @@
+name = "deep-learning-model-convertor"
+description = "The convertor/conversion of deep learning models for different deep learning frameworks/softwares."
+category = "ml-platforms"
+tags = ["deep-learning", "model", "neural-network", "convertor", "model-convertor", "awesome-list", "deep-learning-framework", "tensorflow"]
+repository = "https://github.com/ysh329/deep-learning-model-convertor"
+license = "NOASSERTION"
+added = 2026-10-20

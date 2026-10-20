@@ -1,0 +1,8 @@
+name = "animaworks"
+description = "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model (Claude/Codex/Gemini/Cursor/Ollama)."
+category = "local-llms"
+tags = ["agent-framework", "ai-agents", "autonomous-agents", "brain-inspired", "claude", "forgetting", "llm", "memory"]
+repository = "https://github.com/xuiltul/animaworks"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

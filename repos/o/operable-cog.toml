@@ -1,0 +1,9 @@
+name = "cog"
+description = "Bringing the power of the command line to chat"
+category = "chat"
+tags = ["chatops", "unix-pipes", "slack", "hipchat", "devops", "cog", "elixir-phoenix", "chatbot-framework"]
+repository = "https://github.com/operable/cog"
+website = "https://book.cog.bot/"
+license = "NOASSERTION"
+language = "Elixir"
+added = 2026-10-20

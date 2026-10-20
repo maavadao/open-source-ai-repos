@@ -1,0 +1,9 @@
+name = "lumibot"
+description = "AI agents that actually place the trade. 12 brokers, real backtests, stocks options futures forex crypto and prediction markets."
+category = "agents"
+tags = ["broker", "alpaca", "trading-bot", "finance", "algorithmic-trading", "backtesting", "quantitative-finance", "forex"]
+repository = "https://github.com/Lumiwealth/lumibot"
+website = "https://lumibot.lumiwealth.com"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "humanize"
+description = "From Automated Idea Factory to Realization"
+category = "agents"
+tags = ["agentic-workflow", "ai", "llm", "spec-coding"]
+repository = "https://github.com/PolyArch/humanize"
+license = "NOASSERTION"
+language = "Shell"
+added = 2026-10-20

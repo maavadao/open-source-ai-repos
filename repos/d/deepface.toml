@@ -1,0 +1,9 @@
+name = "deepface"
+description = "A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python"
+category = "vision"
+tags = ["face-recognition", "vgg-face", "facenet", "openface", "facial-expression-recognition", "age-prediction", "gender-prediction", "race-classification"]
+repository = "https://github.com/serengil/deepface"
+website = "https://www.youtube.com/watch?v=WnUVYQP4h44&list=PLsS_1RYmYQQFdWqxQggXHynP1rqaYXv_E"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

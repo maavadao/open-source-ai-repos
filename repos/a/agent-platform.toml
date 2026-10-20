@@ -1,0 +1,8 @@
+name = "agent-platform"
+description = "A curated list of code samples and tutorials for building agents on Gemini Enterprise Agent Platform (previously Vertex AI)."
+category = "learning"
+tags = ["agentic", "agentic-ai", "agents", "enterprise", "gemini", "gemini-enterprise", "gemini-enterprise-agent-platform", "generative-ai"]
+repository = "https://github.com/Google-Cloud-AI/agent-platform"
+website = "https://docs.cloud.google.com/gemini-enterprise-agent-platform"
+license = "Apache-2.0"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "Deep-Learning-for-Recommendation-Systems"
+description = "This repository contains Deep Learning based articles , paper and repositories for Recommender Systems"
+category = "ml-platforms"
+tags = ["recommender-system", "deep-learning", "machine-learning", "python", "tensorflow", "music-recommendation", "hybrid-recommendation", "collaborative-filtering"]
+repository = "https://github.com/robi56/Deep-Learning-for-Recommendation-Systems"
+license = "NOASSERTION"
+added = 2026-10-20

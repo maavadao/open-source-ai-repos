@@ -1,0 +1,9 @@
+name = "medusa"
+description = "The world's most flexible commerce platform for agents and developers"
+category = "coding"
+tags = ["nodejs", "medusa", "commerce", "e-commerce", "react", "ecommerce", "javascript", "typescript"]
+repository = "https://github.com/medusajs/medusa"
+website = "https://medusajs.com"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

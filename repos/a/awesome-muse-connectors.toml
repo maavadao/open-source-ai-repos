@@ -1,0 +1,9 @@
+name = "awesome-muse-connectors"
+description = "A source-backed catalog of Meta Muse integrations and community connector skills, with capability, authentication, and permission notes."
+category = "learning"
+tags = ["agentic-ai", "awesome-list", "ai-agents", "ai-tools", "automation", "awesome", "connectors", "llm"]
+repository = "https://github.com/Anil-matcha/awesome-muse-connectors"
+website = "https://ai.meta.com/muse/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

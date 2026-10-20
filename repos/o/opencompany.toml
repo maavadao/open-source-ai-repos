@@ -1,0 +1,9 @@
+name = "OpenCompany"
+description = "Self-improving AI Employees for everyone"
+category = "chat"
+tags = ["assistant", "own-your-data", "personal", "self-hosted", "co-employees", "autonomous-agents", "loop-agents", "company"]
+repository = "https://github.com/zeenie-ai/OpenCompany"
+website = "https://opencompany.sh/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

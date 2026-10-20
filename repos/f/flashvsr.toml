@@ -1,0 +1,9 @@
+name = "FlashVSR"
+description = "[CVPR 2026] Towards Real-Time Diffusion-Based Streaming Video Super-Resolution — An efficient one-step diffusion framework for streaming VSR with locality-constrained sparse attention and a tiny conditional decoder."
+category = "image"
+tags = ["diffusion-models", "video-super-resolution", "video-restoration"]
+repository = "https://github.com/OpenImagingLab/FlashVSR"
+website = "https://zhuang2002.github.io/FlashVSR/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

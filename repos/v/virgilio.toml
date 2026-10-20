@@ -1,0 +1,10 @@
+name = "Virgilio"
+description = "Your new Mentor for Data Science E-Learning."
+category = "learning"
+tags = ["tensorflow", "machine-learning", "machine-vision", "datascience", "scikit-learn", "python", "guide", "guidelines"]
+repository = "https://github.com/virgili0/Virgilio"
+website = "https://virgili0.github.io/Virgilio/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+skill_level = "beginner"
+added = 2026-10-20

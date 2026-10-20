@@ -1,0 +1,9 @@
+name = "Awesome-GPT4o-Image-Prompts"
+description = "GPT4o Prompts Dictionary | Curated Collection of AI Image Generation Prompts"
+category = "learning"
+tags = ["ai", "ai-image-creator", "ai-image-editing", "ai-image-generator", "ai-logo-maker", "aiimagegenerator", "chatgpt", "image-generation"]
+repository = "https://github.com/ImgEdify/Awesome-GPT4o-Image-Prompts"
+website = "https://imgedify.com/explore"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

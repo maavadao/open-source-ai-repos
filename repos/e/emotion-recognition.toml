@@ -1,0 +1,8 @@
+name = "Emotion-recognition"
+description = "Real time emotion recognition"
+category = "vision"
+tags = ["computer-vision", "deep-learning", "emotion-recognition", "emotion-analysis", "convolutional-neural-networks"]
+repository = "https://github.com/otaha178/Emotion-recognition"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

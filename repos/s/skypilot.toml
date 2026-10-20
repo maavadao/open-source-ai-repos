@@ -1,0 +1,9 @@
+name = "skypilot"
+description = "The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custom intelligence faster."
+category = "local-llms"
+tags = ["cloud-computing", "deep-learning", "gpu", "hyperparameter-tuning", "machine-learning", "tpu", "job-queue", "job-scheduler"]
+repository = "https://github.com/skypilot-org/skypilot"
+website = "https://skypilot.ai/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

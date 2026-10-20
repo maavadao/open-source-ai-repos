@@ -1,0 +1,9 @@
+name = "llm-flashcards"
+description = "211 free visual cards about large language models, from tokenization to deployment. Full collection: 376 cards."
+category = "learning"
+tags = ["ai", "anki", "deep-learning", "flashcards", "interview-preparation", "large-language-models", "llm", "machine-learning"]
+repository = "https://github.com/llmsresearch/llm-flashcards"
+website = "https://llmsresearch.com/cards"
+license = "NOASSERTION"
+language = "MDX"
+added = 2026-10-20

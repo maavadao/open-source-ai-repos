@@ -1,0 +1,9 @@
+name = "GEOFlow"
+description = "Open-source GEO content engineering and multi-site distribution platform with AI quality inspection, illustrated admin help, hosted sites, browser-assisted publishing, and signed updates."
+category = "llm-apps"
+tags = ["ai", "cms", "content-automation", "geo", "openai-compatible", "php", "postgresql", "seo"]
+repository = "https://github.com/yaojingang/GEOFlow"
+website = "https://www.geoflow.me"
+license = "AGPL-3.0"
+language = "PHP"
+added = 2026-10-20

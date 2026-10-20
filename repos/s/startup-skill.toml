@@ -1,0 +1,8 @@
+name = "startup-skill"
+description = "AI agent skills for startup validation, competitive intelligence, and planning"
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "claude-skills", "competitive-analysis", "competitive-intelligence", "market-research", "pricing-analysis", "startup"]
+repository = "https://github.com/ferdinandobons/startup-skill"
+website = "https://startupskill.me"
+license = "MIT"
+added = 2026-10-20

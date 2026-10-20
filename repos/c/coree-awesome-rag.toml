@@ -1,0 +1,7 @@
+name = "awesome-rag"
+description = "A curated list of retrieval-augmented generation (RAG) in large language models"
+category = "learning"
+tags = ["embeddings", "large-language-models", "llm", "rag", "rag-model", "retrieval-augmented", "retrieval-augmented-generation", "retrieval-systems"]
+repository = "https://github.com/coree/awesome-rag"
+license = "CC0-1.0"
+added = 2026-10-20

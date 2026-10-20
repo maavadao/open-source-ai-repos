@@ -1,0 +1,9 @@
+name = "VGen"
+description = "Official repo for VGen: a holistic video generation ecosystem for video generation building on diffusion models"
+category = "image"
+tags = ["diffusion-models", "video-synthesis"]
+repository = "https://github.com/ali-vilab/VGen"
+website = "https://i2vgen-xl.github.io"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

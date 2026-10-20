@@ -1,0 +1,8 @@
+name = "khazix-skills"
+description = "数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude", "claude-code", "codex", "developer-tools", "llm", "skills"]
+repository = "https://github.com/KKKKhazix/khazix-skills"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

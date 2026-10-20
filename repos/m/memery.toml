@@ -1,0 +1,9 @@
+name = "memery"
+description = "Search over large image datasets with natural language and computer vision"
+category = "vision"
+tags = ["natural-language", "computer-vision", "local-search", "image-search", "python"]
+repository = "https://github.com/deepfates/memery"
+website = "https://deepfates.com/memery"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

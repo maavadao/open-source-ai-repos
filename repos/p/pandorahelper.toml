@@ -1,0 +1,9 @@
+name = "PandoraHelper"
+description = "使用 PandoraHelper 轻松和你的小伙伴共享 ChatGPT Plus/Claude Pro 服务！"
+category = "chat"
+tags = ["chatgpt", "openai", "pandora", "pandora-next", "claude"]
+repository = "https://github.com/nianhua99/PandoraHelper"
+website = "https://wiki.oai2b.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

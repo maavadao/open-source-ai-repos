@@ -1,0 +1,9 @@
+name = "projectlearn-project-based-learning"
+description = "A curated list of project tutorials for project-based learning."
+category = "learning"
+tags = ["project-based-learning", "web-development", "game-development", "mobile-development", "artificial-intelligence", "machine-learning", "learning-by-doing", "tutorials"]
+repository = "https://github.com/Xtremilicious/projectlearn-project-based-learning"
+website = "https://projectlearn.io"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

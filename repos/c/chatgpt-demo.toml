@@ -1,0 +1,9 @@
+name = "chatgpt-demo"
+description = "Minimal web UI for ChatGPT."
+category = "chat"
+tags = ["chatgpt", "openai", "openai-api", "gpt-3", "gpt-35", "gpt-35-turbo", "astro", "chatgpt4"]
+repository = "https://github.com/anse-app/chatgpt-demo"
+website = "https://chatgpt.ddiu.me"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

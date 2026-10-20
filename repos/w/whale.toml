@@ -1,0 +1,9 @@
+name = "Whale"
+description = "Whale — blazingly fast, terminal-first AI coding agent for DeepSeek. ~98% prompt cache hit rate, 1M context, MCP tools, dynamic workflows."
+category = "mcp-servers"
+tags = ["deepseek", "deepseek-agent", "deepseek-cli", "llm", "terminal", "coding-agent", "go", "mcp"]
+repository = "https://github.com/usewhale/Whale"
+website = "https://wirebox.sh"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

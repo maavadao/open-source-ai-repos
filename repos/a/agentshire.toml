@@ -1,0 +1,8 @@
+name = "Agentshire"
+description = "OpenClaw / QClaw plugin that visualizes AI agents as 3D NPCs in a game town — with social simulation, a map editor, and a character workshop."
+category = "vision"
+tags = ["3d", "openclaw", "ugc", "multi-agents", "visualizations", "ai-agents", "gamedev", "simulation"]
+repository = "https://github.com/Agentshire/Agentshire"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

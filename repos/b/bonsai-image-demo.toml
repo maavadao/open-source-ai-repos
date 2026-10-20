@@ -1,0 +1,8 @@
+name = "Bonsai-Image-Demo"
+description = "Generate images locally"
+category = "image"
+tags = ["1-bit", "bonsai", "image-generation", "on-device-ai", "small-models", "ternary"]
+repository = "https://github.com/PrismML-Eng/Bonsai-Image-Demo"
+license = "Apache-2.0"
+language = "PowerShell"
+added = 2026-10-20

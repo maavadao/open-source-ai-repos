@@ -1,0 +1,9 @@
+name = "ChatClaw"
+description = "ChatClaw: Get OpenClaw-like knowledge base personal AI agent in 5 mins. Sandbox-secured, ultra-small 30MB installer for macOS & Windows (install in 1 min). Connects to WhatsApp, Telegram, Slack, Discord, Gmail, DingTalk, WeChat Work, QQ, Feishu. Built-in Skill Market…"
+category = "chat"
+tags = ["openclaw", "ima", "rag", "ai-assistant", "open-cowork"]
+repository = "https://github.com/zhimaAi/ChatClaw"
+website = "https://ichatclaw.com"
+license = "GPL-3.0"
+language = "Go"
+added = 2026-10-20

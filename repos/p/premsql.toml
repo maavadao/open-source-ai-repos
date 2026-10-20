@@ -1,0 +1,9 @@
+name = "premsql"
+description = "End-to-End Local-First Text-to-SQL Pipelines"
+category = "llm-apps"
+tags = ["database", "llama", "llm", "opensource", "rag", "text-to-sql"]
+repository = "https://github.com/premAI-io/premsql"
+website = "https://docs.premai.io/premsql/introduction"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "FBA_Matting"
+description = "Official repository for the paper F, B, Alpha Matting"
+category = "vision"
+tags = ["matting", "computer-vision", "deep-learning", "pytorch", "alphamatting", "deep-image-matting", "deep-matting", "fba-matting"]
+repository = "https://github.com/MarcoForte/FBA_Matting"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

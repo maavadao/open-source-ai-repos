@@ -1,0 +1,9 @@
+name = "mediapipe"
+description = "Cross-platform, customizable ML solutions for live and streaming media."
+category = "vision"
+tags = ["mediapipe", "c-plus-plus", "computer-vision", "deep-learning", "android", "video-processing", "audio-processing", "mobile-development"]
+repository = "https://github.com/google-ai-edge/mediapipe"
+website = "https://ai.google.dev/edge/mediapipe"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

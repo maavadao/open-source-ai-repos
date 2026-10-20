@@ -1,0 +1,9 @@
+name = "tensorflow_cookbook"
+description = "Code for Tensorflow Machine Learning Cookbook"
+category = "learning"
+tags = ["tensorflow", "tensorflow-cookbook", "linear-regression", "neural-network", "tensorflow-algorithms", "rnn", "cnn", "svm"]
+repository = "https://github.com/nfmcclure/tensorflow_cookbook"
+website = "https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-machine-learning-cookbook-second-edition"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

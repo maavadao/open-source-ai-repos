@@ -1,0 +1,9 @@
+name = "OpenBiliClaw"
+description = "本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube…"
+category = "agents"
+tags = ["ai-agent", "bilibili", "content-discovery", "llm", "privacy-first", "recommendation-system", "cross-platform", "xiaohongshu"]
+repository = "https://github.com/whiteguo233/OpenBiliClaw"
+website = "https://whiteguo233.github.io/OpenBiliClaw/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

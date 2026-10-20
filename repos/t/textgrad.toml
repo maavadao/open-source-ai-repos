@@ -1,0 +1,9 @@
+name = "textgrad"
+description = "TextGrad: Automatic ''Differentiation'' via Text -- using large language models to backpropagate textual gradients. Published in Nature."
+category = "models"
+tags = ["large-language-models", "prompt-optimization", "compound-systems", "textual-gradients", "ai-optimization"]
+repository = "https://github.com/zou-group/textgrad"
+website = "http://textgrad.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

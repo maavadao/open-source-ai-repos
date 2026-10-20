@@ -1,0 +1,9 @@
+name = "SimpleCV"
+description = "The Open Source Framework for Machine Vision"
+category = "vision"
+tags = ["computer-vision", "python", "cv", "vision", "visionprocessing", "image-processing"]
+repository = "https://github.com/sightmachine/SimpleCV"
+website = "http://simplecv.org"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

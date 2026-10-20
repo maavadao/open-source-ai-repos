@@ -1,0 +1,9 @@
+name = "benchmarking-gnns"
+description = "Repository for benchmarking graph neural networks (JMLR 2023)"
+category = "ml-platforms"
+tags = ["graph-representation-learning", "graph-neural-networks", "benchmark-framework", "graph-deep-learning", "pytorch", "dgl", "deep-learning"]
+repository = "https://github.com/graphdeeplearning/benchmarking-gnns"
+website = "https://arxiv.org/abs/2003.00982"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

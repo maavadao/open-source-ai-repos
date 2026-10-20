@@ -1,0 +1,9 @@
+name = "Mantic.sh"
+description = "A structural code search engine for Al agents."
+category = "mcp-servers"
+tags = ["ai-agent", "claude", "code-search", "context-retrieval", "cursor", "developer-tools", "mcp", "mcp-server"]
+repository = "https://github.com/marcoaapfortes/Mantic.sh"
+website = "https://www.npmjs.com/package/mantic.sh"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "LlamaFactory"
+description = "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)"
+category = "image"
+tags = ["fine-tuning", "llama", "llm", "peft", "transformers", "rlhf", "qlora", "quantization"]
+repository = "https://github.com/hiyouga/LlamaFactory"
+website = "https://llamafactory.readthedocs.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "milady"
+description = "terminally online"
+category = "skills-prompts"
+tags = ["agent", "agent-skills", "agents", "autonomous-agents", "clawd", "clawdbot", "clawdbot-plugin", "eliza"]
+repository = "https://github.com/milady-ai/milady"
+website = "https://milady.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

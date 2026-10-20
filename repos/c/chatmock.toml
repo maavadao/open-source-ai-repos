@@ -1,0 +1,8 @@
+name = "ChatMock"
+description = "OpenAI & Ollama compatible API powered by Codex"
+category = "coding"
+tags = ["ai", "chatgpt", "codex", "gpt-5", "ollama", "openai", "openai-codex-cli", "openai-codex-intergration"]
+repository = "https://github.com/RayBytes/ChatMock"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

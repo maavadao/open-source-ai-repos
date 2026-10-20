@@ -1,0 +1,8 @@
+name = "ebsynth_utility"
+description = "AUTOMATIC1111 UI extension for creating videos using img2img and ebsynth."
+category = "image"
+tags = ["automatic1111", "extension", "stable-diffusion", "stable-diffusion-webui-plugin"]
+repository = "https://github.com/s9roll7/ebsynth_utility"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

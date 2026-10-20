@@ -1,0 +1,8 @@
+name = "annotateai"
+description = "Automatically annotate papers using LLMs"
+category = "vector-databases"
+tags = ["ai", "artificial-intelligence", "large-language-models", "llm", "machine-learning", "medical", "nlp", "python"]
+repository = "https://github.com/neuml/annotateai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

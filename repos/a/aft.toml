@@ -1,0 +1,9 @@
+name = "aft"
+description = "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbol-aware edits, semantic search, code health, fast grep/glob, bash compression, background tasks, PTY."
+category = "coding"
+tags = ["agent-framework", "ai", "ai-agents", "ai-agents-framework", "opencode", "pi", "pi-coding-agent", "rag"]
+repository = "https://github.com/cortexkit/aft"
+website = "https://discord.gg/DSa65w8wuf"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

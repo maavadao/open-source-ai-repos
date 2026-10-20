@@ -1,0 +1,9 @@
+name = "deep-high-resolution-net.pytorch"
+description = "The project is an official implementation of our CVPR2019 paper \"Deep High-Resolution Representation Learning for Human Pose Estimation\""
+category = "ml-platforms"
+tags = ["human-pose-estimation", "deep-learning", "coco-keypoints-detection", "mpii-dataset", "mpii", "mscoco-keypoint", "deep-high-resolution-net", "high-resolution-net"]
+repository = "https://github.com/leoxiaobin/deep-high-resolution-net.pytorch"
+website = "https://jingdongwang2017.github.io/Projects/HRNet/PoseEstimation.html"
+license = "MIT"
+language = "Cuda"
+added = 2026-10-20

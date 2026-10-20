@@ -1,0 +1,9 @@
+name = "PIA"
+description = "[CVPR 2024] PIA, your Personalized Image Animator. Animate your images by text prompt, combing with Dreambooth, achieving stunning videos. PIA，你的个性化图像动画生成器，利用文本提示将图像变为奇妙的动画"
+category = "video"
+tags = ["aigc", "animation", "diffusion-models", "image-to-video", "image-to-video-generation", "personalized-generation", "stable-diffusion"]
+repository = "https://github.com/open-mmlab/PIA"
+website = "https://pi-animator.github.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

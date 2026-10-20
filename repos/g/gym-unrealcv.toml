@@ -1,0 +1,8 @@
+name = "gym-unrealcv"
+description = "Unreal environments for reinforcement learning"
+category = "ml-platforms"
+tags = ["unrealcv", "reinforcement-learning", "unreal-engine", "gym", "visual-reinforcement-learning"]
+repository = "https://github.com/zfw1226/gym-unrealcv"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

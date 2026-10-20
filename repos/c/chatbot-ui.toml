@@ -1,0 +1,9 @@
+name = "chatbot-ui"
+description = "AI chat for any model."
+category = "chat"
+repository = "https://github.com/mckaywrigley/chatbot-ui"
+website = "https://JoinTakeoff.com"
+license = "MIT"
+language = "TypeScript"
+skill_level = "intermediate"
+added = 2026-10-20

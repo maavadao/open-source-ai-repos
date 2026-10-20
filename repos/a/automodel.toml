@@ -1,0 +1,9 @@
+name = "Automodel"
+description = "Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support"
+category = "agents"
+tags = ["llm", "vlm", "finetuning", "gemma3", "llama", "llama3", "mistral", "openai"]
+repository = "https://github.com/NVIDIA-NeMo/Automodel"
+website = "https://docs.nvidia.com/nemo/automodel/nightly"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

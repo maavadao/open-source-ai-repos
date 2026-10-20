@@ -1,0 +1,8 @@
+name = "sandbase-harness"
+description = "Local-first, self-hosted AI agent runtime and MCP bridge with sandboxed sessions, memory, credentials, audit/replay, and a local Console."
+category = "mcp-servers"
+tags = ["agent-observability", "agent-runtime", "ai-agents", "deepseek-harness", "mcp-server", "model-context-protocol", "agent-sandbox", "ai-infrastructure"]
+repository = "https://github.com/sandbaseai/sandbase-harness"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

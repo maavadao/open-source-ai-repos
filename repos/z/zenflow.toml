@@ -1,0 +1,9 @@
+name = "zenflow"
+description = "Multi-agent orchestration & workflow engine. Declarative YAML workflows, LLM coordinator with hub-and-spoke mailboxes, race-safe delivery. One YAML file, one Go binary. Runs on any goai-supported provider."
+category = "mcp-servers"
+tags = ["agent-orchestration", "ai-agent", "ai-agents", "ci-cd", "dag", "declarative", "embedded", "go"]
+repository = "https://github.com/zendev-sh/zenflow"
+website = "https://zenflow.sh"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

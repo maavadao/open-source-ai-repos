@@ -1,0 +1,8 @@
+name = "agent-git-service"
+description = "Reimplement GitHub for Agents."
+category = "agents"
+tags = ["agents", "github"]
+repository = "https://github.com/ngaut/agent-git-service"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-20

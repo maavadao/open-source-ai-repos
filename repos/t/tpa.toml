@@ -1,0 +1,9 @@
+name = "TPA"
+description = "[NeurIPS 2025 Spotlight] TPA: Tensor ProducT ATTenTion Transformer (https://arxiv.org/abs/2501.06425)"
+category = "models"
+tags = ["deep-learning", "foundation-models", "large-language-models", "llms", "model-architectures", "pretraining"]
+repository = "https://github.com/tensorgi/TPA"
+website = "https://tensorgi.github.io/TPA"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

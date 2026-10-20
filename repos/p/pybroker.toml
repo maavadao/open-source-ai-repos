@@ -1,0 +1,9 @@
+name = "pybroker"
+description = "Algorithmic Trading in Python with Machine Learning"
+category = "data-science"
+tags = ["algotrading", "backtesting", "machine-learning", "python", "trading", "quantitative-finance", "stocks", "framework"]
+repository = "https://github.com/edtechre/pybroker"
+website = "https://www.pybroker.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

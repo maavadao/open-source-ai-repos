@@ -1,0 +1,8 @@
+name = "multimodal-garment-designer"
+description = "[ICCV 2023] This is the official repository for the paper \"Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing\""
+category = "image"
+tags = ["diffusion-models", "dresscode", "stable-diffusion", "viton-hd", "multimodal-fashion-image-editing", "computer-vision", "fashionai", "generative-models"]
+repository = "https://github.com/aimagelab/multimodal-garment-designer"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

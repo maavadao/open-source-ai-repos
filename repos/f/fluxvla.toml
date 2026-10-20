@@ -1,0 +1,9 @@
+name = "FluxVLA"
+description = "An all-in-one VLA engineering platform for embodied AI — from data to real-robot deployment."
+category = "robotics"
+tags = ["real-robots", "real-time", "robotics", "vision-language-action-model", "vlm", "world-action-model", "embodiedai"]
+repository = "https://github.com/FluxVLA/FluxVLA"
+website = "https://fluxvla.limxdynamics.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "Awesome-Federated-Learning"
+description = "FedML - The Research and Production Integrated Federated Learning Library: https://fedml.ai"
+category = "learning"
+tags = ["federated-learning", "machine-learning", "distributed-optimization", "non-iid", "vertical-federated-learning", "decentralized-federated-learning", "hierarchical-federated-learning", "neural-architecture-search"]
+repository = "https://github.com/chaoyanghe/Awesome-Federated-Learning"
+license = "NOASSERTION"
+added = 2026-10-20

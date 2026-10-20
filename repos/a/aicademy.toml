@@ -1,0 +1,9 @@
+name = "AIcademy"
+description = "A friendly community offering free AI education."
+category = "education"
+tags = ["deep-learning", "generative-ai", "ai", "data-science", "machine-learning", "prompt-engineering", "language-model", "llm"]
+repository = "https://github.com/aicademyorg/AIcademy"
+website = "https://aicademyorg.netlify.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

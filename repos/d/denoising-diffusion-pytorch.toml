@@ -1,0 +1,8 @@
+name = "denoising-diffusion-pytorch"
+description = "Implementation of Denoising Diffusion Probabilistic Model in Pytorch"
+category = "ml-platforms"
+tags = ["artificial-intelligence", "deep-learning", "generative-model", "score-matching"]
+repository = "https://github.com/lucidrains/denoising-diffusion-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

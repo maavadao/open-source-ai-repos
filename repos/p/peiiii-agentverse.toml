@@ -1,0 +1,9 @@
+name = "AgentVerse"
+description = "Multi-Agent Collaboration Platform"
+category = "chat"
+tags = ["agent", "ai", "chatbot", "multi-agent"]
+repository = "https://github.com/Peiiii/AgentVerse"
+website = "https://agent.dimstack.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

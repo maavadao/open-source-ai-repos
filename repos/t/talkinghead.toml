@@ -1,0 +1,8 @@
+name = "TalkingHead"
+description = "Talking Head (3D): A JavaScript class for real-time lip-sync using full-body 3D avatars."
+category = "speech"
+tags = ["3d-avatar", "lip-sync", "text-to-speech", "talking-head", "talking-avatar"]
+repository = "https://github.com/met4citizen/TalkingHead"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "rushdb"
+description = "RushDB is a graph + vector database and memory layer for AI agents. Push any JSON, get typed, searchable, relationship-aware records back — no schema, no migrations. Built on Neo4j."
+category = "mcp-servers"
+tags = ["app-backend", "database", "docker", "graphs", "instant-apps", "neo4j", "self-hosted", "graph-database"]
+repository = "https://github.com/rush-db/rushdb"
+website = "https://rushdb.com"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

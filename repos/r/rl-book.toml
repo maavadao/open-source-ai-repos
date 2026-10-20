@@ -1,0 +1,9 @@
+name = "rl-book"
+description = "Source codes for the book \"Reinforcement Learning: Theory and Python Implementation\""
+category = "learning"
+tags = ["reinforcement-learning", "gym", "openai-gym", "tensorflow", "tensorflow2", "python", "pytorch", "deep-reinforcement-learning"]
+repository = "https://github.com/ZhiqingXiao/rl-book"
+website = "https://zhiqingxiao.github.io/rl-book"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

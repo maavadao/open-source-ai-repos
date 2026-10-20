@@ -1,0 +1,9 @@
+name = "TuriX-CUA"
+description = "This is the official website for TuriX Computer-use-Agent"
+category = "mcp-servers"
+tags = ["agent", "ai-agents", "computer-use-agent", "cua", "computer-automation", "mcp", "computer-use", "browser-use"]
+repository = "https://github.com/TurixAI/TuriX-CUA"
+website = "https://turix.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

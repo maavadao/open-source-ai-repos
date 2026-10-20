@@ -1,0 +1,9 @@
+name = "stable-diffusion-colab"
+description = "Colab notebook for Stable Diffusion Hyper-SDXL."
+category = "image"
+tags = ["colab", "colab-notebook", "colaboratory", "stable-diffusion", "huggingface-diffusers", "diffusion", "diffusion-models", "text-to-image"]
+repository = "https://github.com/woctezuma/stable-diffusion-colab"
+website = "https://github.com/Stability-AI/generative-models"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

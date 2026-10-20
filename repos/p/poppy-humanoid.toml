@@ -1,0 +1,8 @@
+name = "poppy-humanoid"
+description = "Poppy Humanoid is an open-source and 3D printed humanoid robot. Optimized for research and education purposes, its modularity allows for a wide range of applications and experimentations."
+category = "robotics"
+tags = ["robotics", "poppy", "robot"]
+repository = "https://github.com/poppy-project/poppy-humanoid"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

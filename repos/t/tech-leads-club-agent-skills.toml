@@ -1,0 +1,9 @@
+name = "agent-skills"
+description = "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence."
+category = "coding"
+tags = ["agent", "skills", "ai", "antigravity", "claude-code", "copilot", "cursor"]
+repository = "https://github.com/tech-leads-club/agent-skills"
+website = "https://agent-skills.techleads.club"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "llm_aided_ocr"
+description = "Enhances Tesseract OCR output using LLMs (local or API) for error correction, smart chunking, and markdown formatting of scanned PDFs"
+category = "documents"
+tags = ["ai-assist", "llama2", "llm", "ocr", "tesseract", "ocr-correction"]
+repository = "https://github.com/Dicklesworthstone/llm_aided_ocr"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

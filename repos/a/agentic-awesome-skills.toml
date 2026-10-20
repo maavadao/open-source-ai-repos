@@ -1,0 +1,9 @@
+name = "agentic-awesome-skills"
+description = "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench."
+category = "mcp-servers"
+tags = ["agentic-skills", "ai-agents", "antigravity", "claude-code", "mcp", "ai-workflows", "codex-cli", "developer-tools"]
+repository = "https://github.com/sickn33/agentic-awesome-skills"
+website = "https://aaskills.tech/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

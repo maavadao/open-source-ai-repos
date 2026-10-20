@@ -1,0 +1,8 @@
+name = "claimed"
+description = "The goal of CLAIMED is to enable low-code/no-code rapid prototyping style programming to seamlessly CI/CD into production."
+category = "data-science"
+tags = ["data-science", "machine-learning"]
+repository = "https://github.com/claimed-framework/claimed"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

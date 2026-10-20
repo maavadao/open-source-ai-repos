@@ -1,0 +1,9 @@
+name = "ChineseChess-AlphaZero"
+description = "Implement AlphaZero/AlphaGo Zero methods on Chinese chess."
+category = "ml-platforms"
+tags = ["reinforcement-learning", "alphazero", "deep-learning", "chinese-chess"]
+repository = "https://github.com/NeymarL/ChineseChess-AlphaZero"
+website = "https://cczero.org"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

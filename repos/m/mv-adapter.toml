@@ -1,0 +1,9 @@
+name = "MV-Adapter"
+description = "[ICCV 2025] Official impl. of \"MV-Adapter: Multi-view Consistent Image Generation Made Easy\""
+category = "image"
+tags = ["3d-generation", "image-generation", "multiview", "texture-generation", "multiview-generation"]
+repository = "https://github.com/huanngzh/MV-Adapter"
+website = "https://huanngzh.github.io/MV-Adapter-Page/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "vid2player3d"
+description = "Official implementation for SIGGRAPH 2023 paper \"Learning Physically Simulated Tennis Skills from Broadcast Videos\""
+category = "ml-platforms"
+tags = ["imitation-learning", "reinforcement-learning", "character-animation"]
+repository = "https://github.com/nv-tlabs/vid2player3d"
+website = "https://research.nvidia.com/labs/toronto-ai/vid2player3d/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

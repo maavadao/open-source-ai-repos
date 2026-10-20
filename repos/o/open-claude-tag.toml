@@ -1,0 +1,8 @@
+name = "open-claude-tag"
+description = "Self-hostable channel-native AI teammate for Slack. Open source alternative to Claude Tag. LLM-agnostic."
+category = "mcp-servers"
+tags = ["ai-agent", "ai-memory", "ai-teammate", "ambient-agent", "anthropic", "autonomous-agent", "claude", "claude-sonnet"]
+repository = "https://github.com/Anil-matcha/open-claude-tag"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

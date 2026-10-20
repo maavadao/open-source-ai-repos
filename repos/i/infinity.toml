@@ -1,0 +1,9 @@
+name = "infinity"
+description = "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text."
+category = "vector-databases"
+tags = ["ai-native", "nearest-neighbor-search", "rag", "vector-search", "information-retrival", "bm25", "embedding", "full-text-search"]
+repository = "https://github.com/infiniflow/infinity"
+website = "https://infiniflow.org"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-20

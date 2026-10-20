@@ -1,0 +1,10 @@
+name = "pipelines"
+description = "Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework"
+category = "chat"
+tags = ["open-webui"]
+repository = "https://github.com/open-webui/pipelines"
+website = "https://docs.openwebui.com"
+license = "MIT"
+language = "Python"
+skill_level = "intermediate"
+added = 2026-10-20

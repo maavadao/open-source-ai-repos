@@ -1,0 +1,7 @@
+name = "Awesome-Medical-Large-Language-Models"
+description = "Curated papers on Large Language Models in Healthcare and Medical domain"
+category = "learning"
+tags = ["large-language-models", "multimodal-large-language-models", "large-vision-language-models"]
+repository = "https://github.com/burglarhobbit/Awesome-Medical-Large-Language-Models"
+license = "CC0-1.0"
+added = 2026-10-20

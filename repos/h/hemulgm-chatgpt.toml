@@ -1,0 +1,9 @@
+name = "ChatGPT"
+description = "ChatGPT Native Application (Windows, Mac, Android, iOS, and Linux)"
+category = "chat"
+tags = ["chatgpt", "delphi", "fmx", "openai", "android", "gpt-3", "gpt-4", "ios"]
+repository = "https://github.com/HemulGM/ChatGPT"
+website = "https://hemulgm.github.io/ChatGPT/"
+license = "MIT"
+language = "Pascal"
+added = 2026-10-20

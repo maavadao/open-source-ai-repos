@@ -1,0 +1,9 @@
+name = "private-gpt"
+description = "Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server."
+category = "mcp-servers"
+tags = ["ai", "ai-tools", "on-premise"]
+repository = "https://github.com/zylon-ai/private-gpt"
+website = "https://www.zylon.ai/private-gpt"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

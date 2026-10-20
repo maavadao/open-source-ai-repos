@@ -1,0 +1,9 @@
+name = "colorization"
+description = "Automatic colorization using deep neural networks. \"Colorful Image Colorization.\" In ECCV, 2016."
+category = "vision"
+tags = ["caffe", "colorization", "automatic-colorization", "deep-learning", "deep-learning-algorithms", "computer-vision"]
+repository = "https://github.com/richzhang/colorization"
+website = "http://richzhang.github.io/colorization/"
+license = "BSD-2-Clause"
+language = "Python"
+added = 2026-10-20

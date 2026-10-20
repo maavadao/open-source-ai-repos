@@ -1,0 +1,9 @@
+name = "Chronos"
+description = "Kodezi Chronos is a debugging-first language model that achieves state-of-the-art results on SWE-bench Lite (80.33%) and 67% real-world fix accuracy, over six times better than GPT-4. Built with Adaptive Graph-Guided Retrieval and Persistent Debug Memory. Model available Q1…"
+category = "models"
+tags = ["artificial-intelligence", "benchmark", "benchmark-report", "bug-fixing", "chronos", "code", "code-analysis", "code-analysis-tool"]
+repository = "https://github.com/Kodezi/Chronos"
+website = "https://chronos.so/"
+license = "NOASSERTION"
+language = "Java"
+added = 2026-10-20

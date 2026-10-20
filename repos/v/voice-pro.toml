@@ -1,0 +1,9 @@
+name = "voice-pro"
+description = "Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation."
+category = "speech"
+tags = ["faster-whisper", "tts", "whisper", "gradio", "subtitles", "transcription", "translator", "webui"]
+repository = "https://github.com/abus-aikorea/voice-pro"
+website = "https://www.wctokyoseoul.com"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

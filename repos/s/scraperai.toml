@@ -1,0 +1,9 @@
+name = "scraperai"
+description = "ScraperAI is an open-source, AI-powered tool designed to simplify web scraping for users of all skill levels."
+category = "browser-automation"
+tags = ["crawler", "langchain", "linkedin", "openai", "parser", "parsing", "python", "requests"]
+repository = "https://github.com/scraperai/scraperai"
+website = "https://docs.scraper-ai.com"
+license = "GPL-3.0"
+language = "HTML"
+added = 2026-10-20

@@ -1,0 +1,10 @@
+name = "activepieces"
+description = "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents"
+category = "no-code"
+tags = ["workflow-automation", "mcp", "ai-agents", "mcp-tools", "mcps", "workflows", "no-code-automation", "workflow"]
+repository = "https://github.com/activepieces/activepieces"
+website = "https://www.activepieces.com"
+license = "NOASSERTION"
+language = "TypeScript"
+skill_level = "beginner"
+added = 2026-10-20

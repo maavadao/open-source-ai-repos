@@ -1,0 +1,9 @@
+name = "tablesaw"
+description = "Java dataframe and visualization library"
+category = "data-science"
+tags = ["dataframe", "data-frame", "java", "java-dataframe", "visualization", "plotting", "statistics", "chart"]
+repository = "https://github.com/jtablesaw/tablesaw"
+website = "https://jtablesaw.github.io/tablesaw/"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

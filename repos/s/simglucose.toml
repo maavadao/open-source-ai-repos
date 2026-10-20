@@ -1,0 +1,8 @@
+name = "simglucose"
+description = "A Type-1 Diabetes simulator implemented in Python for Reinforcement Learning purpose"
+category = "ml-platforms"
+tags = ["simulator-controls", "reinforcement-learning", "diabetes", "simulator", "artificial-pancreas", "glucose-monitoring", "rllab", "simulation"]
+repository = "https://github.com/jxx123/simglucose"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

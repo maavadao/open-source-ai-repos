@@ -1,0 +1,9 @@
+name = "UniRL"
+description = "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning"
+category = "local-llms"
+tags = ["reinforcement-learning", "ai-infrastructure", "sglang", "vllm"]
+repository = "https://github.com/Tencent-Hunyuan/UniRL"
+website = "https://unirl-project.github.io/unirl/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

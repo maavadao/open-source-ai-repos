@@ -1,0 +1,8 @@
+name = "AlphaPy"
+description = "Python AutoML for Trading Systems and Sports Betting"
+category = "ml-platforms"
+tags = ["machine-learning", "predictive-analytics", "classification", "regression", "scikit-learn", "pandas", "trading", "stocks"]
+repository = "https://github.com/ScottfreeLLC/AlphaPy"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

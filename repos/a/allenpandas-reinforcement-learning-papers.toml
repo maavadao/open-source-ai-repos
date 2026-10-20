@@ -1,0 +1,7 @@
+name = "Reinforcement-Learning-Papers"
+description = "List of Top-tier Conference Papers on Reinforcement Learning (RL)，including: NeurIPS, ICML, AAAI, IJCAI, AAMAS, ICLR, ICRA, etc."
+category = "ml-platforms"
+tags = ["deep-reinforcement-learning", "reinforcement-learning", "dqn", "imitation-learning", "multi-agent-reinforcement-learning", "policy-gradient", "q-learning", "artificial-intelligence"]
+repository = "https://github.com/Allenpandas/Reinforcement-Learning-Papers"
+license = "MIT"
+added = 2026-10-20

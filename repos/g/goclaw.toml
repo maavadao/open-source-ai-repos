@@ -1,0 +1,9 @@
+name = "goclaw"
+description = "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety."
+category = "mcp-servers"
+tags = ["agent-orchestration", "ai-agent", "ai-gateway", "anthropic", "chatbot", "discord-bot", "golang", "llm"]
+repository = "https://github.com/nextlevelbuilder/goclaw"
+website = "https://goclaw.sh"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

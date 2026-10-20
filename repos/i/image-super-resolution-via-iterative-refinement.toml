@@ -1,0 +1,8 @@
+name = "Image-Super-Resolution-via-Iterative-Refinement"
+description = "Unofficial implementation of Image Super-Resolution via Iterative Refinement by Pytorch"
+category = "image"
+tags = ["pytorch", "diffusion-probabilistic", "super-resolution", "ddpm", "image-generation"]
+repository = "https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

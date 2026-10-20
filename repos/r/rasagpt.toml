@@ -1,0 +1,9 @@
+name = "RasaGPT"
+description = "RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram"
+category = "chat"
+tags = ["ai", "chatbot", "fastapi", "gpt-3", "gpt-4", "langchain", "llama-index", "llm"]
+repository = "https://github.com/paulpierre/RasaGPT"
+website = "https://rasagpt.dev"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

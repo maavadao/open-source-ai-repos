@@ -1,0 +1,9 @@
+name = "MaiBot"
+description = "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style of a real human. She does not pursue perfection, nor does she seek efficiency; instead, she values warmth, authenticity, and genuine connection."
+category = "chat"
+tags = ["chat", "llm", "python", "qq-bot", "qqbot", "agent", "chatbot", "llm-agent"]
+repository = "https://github.com/Mai-with-u/MaiBot"
+website = "https://docs.mai-mai.org/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

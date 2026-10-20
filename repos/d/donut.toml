@@ -1,0 +1,9 @@
+name = "donut"
+description = "Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022"
+category = "documents"
+tags = ["document-ai", "eccv-2022", "multimodal-pre-trained-model", "ocr", "nlp", "computer-vision"]
+repository = "https://github.com/clovaai/donut"
+website = "https://arxiv.org/abs/2111.15664"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

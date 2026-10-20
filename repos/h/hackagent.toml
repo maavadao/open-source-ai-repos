@@ -1,0 +1,9 @@
+name = "hackagent"
+description = "HackAgent is an open-source security toolkit to detect vulnerabilities of your AI Agents"
+category = "security"
+tags = ["ai-agents", "jailbreak", "red-team", "hacking", "pentesting"]
+repository = "https://github.com/AISecurityLab/hackagent"
+website = "https://docs.hackagent.dev"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

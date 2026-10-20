@@ -1,0 +1,9 @@
+name = "sobjectizer"
+description = "An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. With performance, quality, and stability proved by years in the production."
+category = "agents"
+tags = ["cpp", "cplusplus", "cplusplus-17", "actor-model", "actors", "actor-framework", "actor-library", "multithreading"]
+repository = "https://github.com/Stiffstream/sobjectizer"
+website = "https://stiffstream.com/en/products/sobjectizer.html"
+license = "NOASSERTION"
+language = "C++"
+added = 2026-10-20

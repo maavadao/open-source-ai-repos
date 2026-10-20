@@ -1,0 +1,8 @@
+name = "angel"
+description = "A Flexible and Powerful Parameter Server for large-scale machine learning"
+category = "data-science"
+tags = ["machine-learning", "parameter-server", "spark", "scala", "model", "high-dimensional", "online-learning", "spark-streaming"]
+repository = "https://github.com/Angel-ML/angel"
+license = "NOASSERTION"
+language = "Java"
+added = 2026-10-20

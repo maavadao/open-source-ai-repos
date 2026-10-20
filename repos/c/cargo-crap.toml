@@ -1,0 +1,9 @@
+name = "cargo-crap"
+description = "Change Risk Anti-Patterns (CRAP) metric for Rust projects"
+category = "agents"
+tags = ["agents", "rust", "anti-patterns", "risk-analysis", "cargo-plugin", "code-quality", "complexity", "metrics"]
+repository = "https://github.com/minikin/cargo-crap"
+website = "https://crates.io/crates/cargo-crap"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

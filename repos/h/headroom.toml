@@ -1,0 +1,9 @@
+name = "headroom"
+description = "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server."
+category = "mcp-servers"
+tags = ["agent", "ai", "anthropic", "compression", "context-engineering", "context-window", "fastapi", "langchain"]
+repository = "https://github.com/headroomlabs-ai/headroom"
+website = "https://docs.headroomlabs.ai/docs"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

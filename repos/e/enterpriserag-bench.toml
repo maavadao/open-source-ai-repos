@@ -1,0 +1,8 @@
+name = "EnterpriseRAG-Bench"
+description = "Dataset and benchmark for RAG on company internal documents."
+category = "llm-apps"
+tags = ["dataset", "llm", "rag", "benchmark", "enterprise", "enterprise-search", "evaluation", "generative-ai"]
+repository = "https://github.com/onyx-dot-app/EnterpriseRAG-Bench"
+website = "https://www.onyx.app/"
+license = "MIT"
+added = 2026-10-20

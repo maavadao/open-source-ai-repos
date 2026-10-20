@@ -1,0 +1,9 @@
+name = "mickey"
+description = "[CVPR 2024 - Oral] Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences"
+category = "vision"
+tags = ["computer-vision", "cvpr2024", "dsac", "mickey", "pose-estimation", "ransac", "ransac-algorithm", "metric-correspondences"]
+repository = "https://github.com/nianticlabs/mickey"
+website = "https://nianticlabs.github.io/mickey/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

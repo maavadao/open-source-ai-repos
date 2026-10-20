@@ -1,0 +1,9 @@
+name = "nuwax"
+description = "Nuwax Agent OS - An enterprise-grade AI Agent Development and Operation Platform - Providing a complete solution for agent creation and distribution, knowledge base management, model proxy, memory system, and plugin ecosystem."
+category = "mcp-servers"
+tags = ["agent", "agentic", "agentic-rag", "application", "rag", "a2a", "chatbot", "mcp"]
+repository = "https://github.com/nuwax-ai/nuwax"
+website = "https://nuwax.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

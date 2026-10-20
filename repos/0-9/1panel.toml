@@ -1,0 +1,9 @@
+name = "1Panel"
+description = "1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform."
+category = "local-llms"
+tags = ["docker", "lnmp", "docker-ui", "webmin", "linux", "ollama", "agent", "openclaw"]
+repository = "https://github.com/1Panel-dev/1Panel"
+website = "https://1panel.pro"
+license = "GPL-3.0"
+language = "Go"
+added = 2026-10-20

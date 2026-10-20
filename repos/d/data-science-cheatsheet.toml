@@ -1,0 +1,8 @@
+name = "Data-Science-Cheatsheet"
+description = "A helpful 5-page machine learning cheatsheet to assist with exam reviews, interview prep, and anything in-between."
+category = "learning"
+tags = ["cheatsheet", "data-science", "machine-learning"]
+repository = "https://github.com/aaronwangy/Data-Science-Cheatsheet"
+license = "NOASSERTION"
+language = "TeX"
+added = 2026-10-20

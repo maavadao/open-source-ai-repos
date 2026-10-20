@@ -1,0 +1,8 @@
+name = "AlphaEdit"
+description = "AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models, ICLR 2025 (Outstanding Paper)"
+category = "models"
+tags = ["large-language-models", "model-editing", "null-space-projection", "locate-then-edit"]
+repository = "https://github.com/jianghoucheng/AlphaEdit"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

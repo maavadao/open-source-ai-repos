@@ -1,0 +1,9 @@
+name = "tiptour-macos"
+description = "Open-Source fast local computer use"
+category = "browser-automation"
+tags = ["macos-app", "computer-use", "ai-pointer", "jev"]
+repository = "https://github.com/milind-soni/tiptour-macos"
+website = "https://www.supamaus.com/"
+license = "NOASSERTION"
+language = "Swift"
+added = 2026-10-20

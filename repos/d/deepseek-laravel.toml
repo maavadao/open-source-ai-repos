@@ -1,0 +1,8 @@
+name = "deepseek-laravel"
+description = "Laravel wrapper for Deepseek PHP client, to seamless deepseek API integration with laravel applications."
+category = "chat"
+tags = ["chatgpt", "deepseek-chat", "deepseek-coder", "deepseek-integration", "deepseek-math", "deepseek-php-client", "deepseek-php-library", "openai"]
+repository = "https://github.com/deepseek-php/deepseek-laravel"
+license = "MIT"
+language = "PHP"
+added = 2026-10-20

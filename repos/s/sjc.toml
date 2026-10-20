@@ -1,0 +1,9 @@
+name = "sjc"
+description = "Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation (CVPR 2023)"
+category = "image"
+tags = ["3d-generation", "diffusion-models"]
+repository = "https://github.com/pals-ttic/sjc"
+website = "https://pals.ttic.edu/p/score-jacobian-chaining"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

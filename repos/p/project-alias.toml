@@ -1,0 +1,8 @@
+name = "project_alias"
+description = "Alias is a teachable “parasite” that is designed to give users more control over their smart assistants, both when it comes to customisation and privacy. Through a simple app the user can train Alias to react on a custom wake-word/sound, and once trained, Alias can take…"
+category = "speech"
+tags = ["machine-learning", "classification", "sound-synthesis", "speech-recognition", "hack", "smarthome", "alias", "wakeword"]
+repository = "https://github.com/bjoernkarmann/project_alias"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

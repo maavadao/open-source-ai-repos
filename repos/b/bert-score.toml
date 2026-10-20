@@ -1,0 +1,8 @@
+name = "bert_score"
+description = "BERT score for text generation"
+category = "data-science"
+tags = ["natural-language-processing", "machine-learning"]
+repository = "https://github.com/Tiiiger/bert_score"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "YC-Killer"
+description = "A library of enterprise-grade AI agents designed to democratize artificial intelligence and provide free, open-source alternatives to overvalued Y Combinator startups."
+category = "mcp-servers"
+tags = ["physics", "lean", "proof-assistant", "wolfram-alpha", "bayesian-inference", "quantum", "cosmology", "astrophysics"]
+repository = "https://github.com/sahibzada-allahyar/YC-Killer"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

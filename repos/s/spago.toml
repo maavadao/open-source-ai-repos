@@ -1,0 +1,8 @@
+name = "spago"
+description = "Self-contained Machine Learning and Natural Language Processing library in Go"
+category = "models"
+tags = ["deep-learning", "machine-learning", "natural-language-processing", "neural-network", "computation-graph", "automatic-differentiation", "artificial-intelligence", "deeplearning"]
+repository = "https://github.com/nlpodyssey/spago"
+license = "BSD-2-Clause"
+language = "Go"
+added = 2026-10-20

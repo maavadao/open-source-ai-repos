@@ -1,0 +1,8 @@
+name = "gector"
+description = "Official implementation of the papers \"GECToR – Grammatical Error Correction: Tag, Not Rewrite\" (BEA-20) and \"Text Simplification by Tagging\" (BEA-21)"
+category = "models"
+tags = ["grammatical-error-correction", "natural-language-processing", "sequence-labeling", "transformers", "roberta", "bert", "xlnet", "nlp"]
+repository = "https://github.com/grammarly/gector"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

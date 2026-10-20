@@ -1,0 +1,8 @@
+name = "rclip"
+description = "grep for images – local, offline image search for the terminal"
+category = "vision"
+tags = ["artificial-intelligence", "photography", "computer-vision", "python", "hacktoberfest", "image-search", "semantic-image-search", "photo-search"]
+repository = "https://github.com/yurijmikhalevich/rclip"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

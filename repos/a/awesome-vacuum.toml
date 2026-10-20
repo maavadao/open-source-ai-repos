@@ -1,0 +1,7 @@
+name = "awesome-vacuum"
+description = "A curated list of free and open source software and hardware to build and control a robot vacuum."
+category = "learning"
+tags = ["vacuum", "vacuum-cleaner", "robot", "robots", "robotics", "robot-vacuum", "robot-vacuums", "awesome-list"]
+repository = "https://github.com/awesome-vacuum/awesome-vacuum"
+license = "CC0-1.0"
+added = 2026-10-20

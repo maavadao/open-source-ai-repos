@@ -1,0 +1,8 @@
+name = "pigo"
+description = "Fast face detection, pupil/eyes localization and facial landmark points detection library in pure Go."
+category = "vision"
+tags = ["face-detection", "computer-vision", "machine-learning", "golang", "opencv", "pixel-intensity-comparison", "pupil-detection", "eye-detection"]
+repository = "https://github.com/esimov/pigo"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

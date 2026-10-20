@@ -1,0 +1,9 @@
+name = "nimbalyst"
+description = "Nimbalyst - The open-source visual workspace for Claude Code, Codex, and OpenCode. Run multiple coding agents in parallel, edit their work visually in markdown, mockups, and diagrams, and track tasks. Free, MIT-licensed desktop app for macOS, Windows, Linux, with mobile…"
+category = "mcp-servers"
+tags = ["ide", "wysiwyg-editor", "agentic-ai", "ai-agents", "claude-code", "codex", "coding-agent", "developer-tools"]
+repository = "https://github.com/nimbalyst/nimbalyst"
+website = "https://nimbalyst.com/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

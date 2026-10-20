@@ -1,0 +1,9 @@
+name = "sphere-sdk"
+description = "The SDK for autonomous economic agents. Give an agent an identity, a wallet, and the ability to find, negotiate with, and settle with other agents - peer-to-peer, with perfect privacy and ultra-fast finality"
+category = "agents"
+tags = ["ai-agents", "artificial-intelligence", "blockchain", "commerce"]
+repository = "https://github.com/unicity-sphere/sphere-sdk"
+website = "https://unicity.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

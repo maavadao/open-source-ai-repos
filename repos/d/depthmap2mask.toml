@@ -1,0 +1,8 @@
+name = "depthmap2mask"
+description = "Create masks out of depthmaps in img2img"
+category = "image"
+tags = ["automatic1111", "stable-diffusion", "stable-diffusion-webui", "stable-diffusion-webui-plugin"]
+repository = "https://github.com/Extraltodeus/depthmap2mask"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

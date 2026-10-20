@@ -1,0 +1,8 @@
+name = "LLM-Interview-Questions-and-Answers-Hub"
+description = "100+ LLM interview questions with answers."
+category = "learning"
+tags = ["ai-interview-questions", "large-language-models", "ai-engineer-interview", "ml-engineer-interview"]
+repository = "https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub"
+website = "https://www.linkedin.com/in/kalyanksnlp/"
+license = "Apache-2.0"
+added = 2026-10-20

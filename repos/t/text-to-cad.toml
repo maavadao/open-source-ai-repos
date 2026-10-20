@@ -1,0 +1,9 @@
+name = "text-to-cad"
+description = "Give your agent CAD superpowers."
+category = "robotics"
+tags = ["agents", "ai-agents", "cad", "text-to-cad", "mechanical-engineering", "robotics", "step", "stl"]
+repository = "https://github.com/earthtojake/text-to-cad"
+website = "https://www.texttocad.dev"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

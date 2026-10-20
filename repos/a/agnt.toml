@@ -1,0 +1,9 @@
+name = "agnt"
+description = "The local-first operating system for building, running, and improving AI agents, workflows, and autonomous goals."
+category = "no-code"
+tags = ["agent-orchestration", "agentic-ai", "ai-agents", "ai-harness", "ai-operations-management", "ai-workflows", "artificial-intelligence", "autonomous-agents"]
+repository = "https://github.com/agnt-gg/agnt"
+website = "https://agnt.gg/"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

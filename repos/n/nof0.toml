@@ -1,0 +1,9 @@
+name = "nof0"
+description = "Open-source AI trading arena. A full reproduction of NOF1 Alpha Arena for running and comparing LLM agents."
+category = "agents"
+tags = ["agentic-ai", "ai", "ai-agents", "crypto", "golang", "hyperliquid", "llm", "llm-trading"]
+repository = "https://github.com/wquguru/nof0"
+website = "https://nof0.wqu.guru"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

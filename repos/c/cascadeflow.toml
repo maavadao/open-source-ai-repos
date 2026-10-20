@@ -1,0 +1,9 @@
+name = "cascadeflow"
+description = "Cascading runtime for AI agents. Optimize cost, latency, quality, and policy decisions inside the agent loop."
+category = "no-code"
+tags = ["agent", "ai", "anthropic", "api", "budgets", "claude", "cost-optimization", "gpt"]
+repository = "https://github.com/lemony-ai/cascadeflow"
+website = "https://cascadeflow.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

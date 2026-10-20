@@ -1,0 +1,8 @@
+name = "advanced_lane_detection"
+description = "Advanced lane detection using computer vision"
+category = "vision"
+tags = ["lane-detection", "lane-boundaries", "lane-lines", "lane-curvature", "camera-calibration", "computer-vision", "lane-finding", "lane-detector"]
+repository = "https://github.com/georgesung/advanced_lane_detection"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

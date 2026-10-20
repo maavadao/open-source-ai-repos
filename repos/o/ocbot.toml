@@ -1,0 +1,8 @@
+name = "ocbot"
+description = "Your Web4 Agent"
+category = "agents"
+tags = ["agent", "ai", "openclaw", "ocbot", "ai-agents", "browser", "web4"]
+repository = "https://github.com/instry/ocbot"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

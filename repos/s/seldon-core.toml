@@ -1,0 +1,9 @@
+name = "seldon-core"
+description = "An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models"
+category = "local-llms"
+tags = ["kubernetes", "machine-learning", "deployment", "serving", "mlops", "aiops", "machine-learning-operations", "production-machine-learning"]
+repository = "https://github.com/SeldonIO/seldon-core"
+website = "https://www.seldon.io/solutions/core/"
+license = "NOASSERTION"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "open-scouts"
+description = "AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for."
+category = "no-code"
+tags = ["ai-agents", "alerts", "automation", "email-notifications", "firecrawl", "nextjs", "open-source", "openai"]
+repository = "https://github.com/firecrawl/open-scouts"
+website = "https://openscouts.firecrawl.dev"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

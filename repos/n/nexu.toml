@@ -1,0 +1,9 @@
+name = "nexu"
+description = "The simplest desktop client for OpenClaw — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7."
+category = "coding"
+tags = ["ai-agent", "byok", "discord", "feishu", "open-source", "openclaw", "slack", "claude"]
+repository = "https://github.com/nexu-io/nexu"
+website = "https://nexu.io"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

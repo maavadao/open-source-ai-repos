@@ -1,0 +1,8 @@
+name = "taskade"
+description = "The AI-native workspace platform. Projects remember. Agents think. Automations execute. One prompt to production — bug reports & feature requests welcome."
+category = "mcp-servers"
+tags = ["ai", "ai-agents", "automation", "chatbot", "collaboration", "generative-ai", "llm", "low-code"]
+repository = "https://github.com/taskade/taskade"
+website = "https://taskade.com"
+license = "NOASSERTION"
+added = 2026-10-20

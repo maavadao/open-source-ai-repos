@@ -1,0 +1,9 @@
+name = "mlx-omni-server"
+description = "MLX Omni Server is a local inference server powered by Apple's MLX framework, specifically designed for Apple Silicon (M-series) chips. It implements OpenAI-compatible API endpoints, enabling seamless integration with existing OpenAI SDK clients while leveraging the power of…"
+category = "speech"
+tags = ["mlx", "openai", "openai-api", "stt", "tts", "function-calling", "structured-output", "tools"]
+repository = "https://github.com/madroidmaq/mlx-omni-server"
+website = "https://deepwiki.com/madroidmaq/mlx-omni-server/1-overview"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

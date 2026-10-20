@@ -1,0 +1,9 @@
+name = "WebAI2API"
+description = "WebAI2API: 基于 Camoufox 的网页 AI 转 API 工具，支持 LMArena/Gemini等，多窗口并发与账号隔离。 | Web AI to OpenAI API via Camoufox. Supports LMArena/Gemini and more, multi-window concurrency & account isolation."
+category = "browser-automation"
+tags = ["ai-tools", "browser-automation", "generative-ai", "image-generation", "openai-api", "text-to-image", "web-scraping", "text-generation"]
+repository = "https://github.com/foxhui/WebAI2API"
+website = "https://foxhui.github.io/WebAI2API/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

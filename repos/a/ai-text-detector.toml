@@ -1,0 +1,9 @@
+name = "ai-text-detector"
+description = "A cautious, explainable AI text detector for local workflows and coding agents. Need production detection in your app? Try the Lynote AI Detector API → lynote.ai/ai-detector-api"
+category = "coding"
+tags = ["ai-text-detector", "ai-content-detection", "agent-tools", "codex-skill", "explainable-ai", "python", "responsible-ai", "ai-content-detector"]
+repository = "https://github.com/lynote-ai/ai-text-detector"
+website = "https://lynote.ai/ai-detector-api"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

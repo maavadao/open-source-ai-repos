@@ -1,0 +1,9 @@
+name = "semantica"
+description = "Graph-Native Infrastructure for Context and Accountable AI Systems"
+category = "agents"
+tags = ["ai", "ai-governance", "artificial-intelligence", "context-engineering", "context-graphs", "decision-intelligence", "explainable-ai", "generative-ai"]
+repository = "https://github.com/semantica-agi/semantica"
+website = "https://getsemantica.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

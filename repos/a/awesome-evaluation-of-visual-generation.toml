@@ -1,0 +1,7 @@
+name = "Awesome-Evaluation-of-Visual-Generation"
+description = "A list of works on evaluation of visual generation models, including evaluation metrics, models, and systems"
+category = "learning"
+tags = ["awesome", "benchmark", "evaluation", "evaluation-metrics", "evaluation-system", "generative-models", "image-generation", "video-generation"]
+repository = "https://github.com/ziqihuangg/Awesome-Evaluation-of-Visual-Generation"
+license = "NOASSERTION"
+added = 2026-10-20

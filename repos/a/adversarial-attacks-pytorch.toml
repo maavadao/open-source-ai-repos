@@ -1,0 +1,9 @@
+name = "adversarial-attacks-pytorch"
+description = "PyTorch implementation of adversarial attacks [torchattacks]"
+category = "security"
+tags = ["deep-learning", "pytorch", "adversarial-attacks"]
+repository = "https://github.com/Harry24k/adversarial-attacks-pytorch"
+website = "https://adversarial-attacks-pytorch.readthedocs.io/en/latest/index.html"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

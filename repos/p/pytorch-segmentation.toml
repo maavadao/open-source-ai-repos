@@ -1,0 +1,8 @@
+name = "pytorch-segmentation"
+description = "Semantic segmentation models, datasets and losses implemented in PyTorch."
+category = "vision"
+tags = ["semantic-segmentation", "computer-vision", "deep-learning"]
+repository = "https://github.com/yassouali/pytorch-segmentation"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

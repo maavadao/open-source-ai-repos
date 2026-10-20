@@ -1,0 +1,9 @@
+name = "costrict"
+description = "Costrict - strict AI coder for enterprises, quality first, including AI Agent, AI CodeReview, AI Completion."
+category = "coding"
+tags = ["ai", "aicoding", "coding", "agent", "cline", "roocode", "skills", "vibecoding"]
+repository = "https://github.com/zgsm-ai/costrict"
+website = "https://costrict.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

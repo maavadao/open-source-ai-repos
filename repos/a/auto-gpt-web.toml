@@ -1,0 +1,8 @@
+name = "auto-gpt-web"
+description = "Set Your Goals, AI Achieves Them."
+category = "agents"
+tags = ["ai", "gpt-3", "gpt-4", "javascript", "autogpt", "openai", "electron"]
+repository = "https://github.com/jina-ai/auto-gpt-web"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

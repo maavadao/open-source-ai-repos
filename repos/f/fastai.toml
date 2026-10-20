@@ -1,0 +1,9 @@
+name = "fastai"
+description = "The fastai deep learning library"
+category = "learning"
+tags = ["deep-learning", "machine-learning", "pytorch", "python", "gpu", "fastai", "notebooks", "colab"]
+repository = "https://github.com/fastai/fastai"
+website = "http://docs.fast.ai"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

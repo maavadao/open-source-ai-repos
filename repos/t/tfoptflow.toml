@@ -1,0 +1,8 @@
+name = "tfoptflow"
+description = "Optical Flow Prediction with TensorFlow. Implements \"PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume,\" by Deqing Sun et al. (CVPR 2018)"
+category = "vision"
+tags = ["optical-flow", "computer-vision", "cvpr2018", "pwc-net", "tensorflow", "deep-learning", "motion-estimation", "mpi-sintel"]
+repository = "https://github.com/philferriere/tfoptflow"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

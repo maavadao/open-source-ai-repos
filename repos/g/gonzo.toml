@@ -1,0 +1,9 @@
+name = "gonzo"
+description = "Gonzo! The Go based TUI log analysis tool"
+category = "local-llms"
+tags = ["ai", "golang", "logs", "ollama", "openai", "opentelemetry", "otel", "otlp"]
+repository = "https://github.com/control-theory/gonzo"
+website = "https://www.controltheory.com/gonzo/"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "innoshop"
+description = "InnoShop is an AI-powered open source e-commerce system built on Laravel 13. It supports multiple AI models and native MCP (Model Context Protocol) for intelligent automation, with multi-language and multi-currency out of the box. Modular architecture and flexible…"
+category = "mcp-servers"
+tags = ["ecommerce", "innoshop", "laravel", "b2c", "ecommerce-platform", "laravel-ecommerce", "open-source", "opensource-ecommerce"]
+repository = "https://github.com/innocommerce/innoshop"
+website = "https://www.innoshop.com"
+license = "NOASSERTION"
+language = "PHP"
+added = 2026-10-20

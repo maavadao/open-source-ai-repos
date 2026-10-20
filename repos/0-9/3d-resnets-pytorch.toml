@@ -1,0 +1,8 @@
+name = "3D-ResNets-PyTorch"
+description = "3D ResNets for Action Recognition (CVPR 2018)"
+category = "vision"
+tags = ["deep-learning", "computer-vision", "pytorch", "python", "action-recognition", "video-recognition"]
+repository = "https://github.com/kenshohara/3D-ResNets-PyTorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

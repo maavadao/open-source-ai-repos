@@ -1,0 +1,9 @@
+name = "nostics"
+description = "Errors that are worth reading"
+category = "agents"
+tags = ["agents", "dev", "errors"]
+repository = "https://github.com/vercel-labs/nostics"
+website = "https://nostics.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

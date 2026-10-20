@@ -1,0 +1,9 @@
+name = "orama"
+description = "A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb."
+category = "vector-databases"
+tags = ["data-structures", "full-text", "search", "typo-tolerance", "algiorithm", "search-engine", "search-algorithm", "javascript"]
+repository = "https://github.com/oramasearch/orama"
+website = "https://docs.orama.com/docs/orama-js"
+license = "NOASSERTION"
+language = "TypeScript"
+added = 2026-10-20

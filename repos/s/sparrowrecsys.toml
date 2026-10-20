@@ -1,0 +1,9 @@
+name = "SparrowRecSys"
+description = "A Deep Learning Recommender System"
+category = "ml-platforms"
+tags = ["recommender-system", "deep-learning", "machine-learning"]
+repository = "https://github.com/wzhe06/SparrowRecSys"
+website = "http://wzhe.me/SparrowRecSys/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

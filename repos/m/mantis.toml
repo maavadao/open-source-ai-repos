@@ -1,0 +1,9 @@
+name = "mantis"
+description = "A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities."
+category = "coding"
+tags = ["ai-agents", "llm", "security", "vulnerability-detection", "antigravity", "antigravity-cli", "application-security", "application-security-tools"]
+repository = "https://github.com/google/mantis"
+website = "https://cloud.google.com/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

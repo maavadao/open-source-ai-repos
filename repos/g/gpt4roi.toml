@@ -1,0 +1,8 @@
+name = "GPT4RoI"
+description = "(ECCVW 2025)GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest"
+category = "vision"
+tags = ["gpt", "llm", "multimodality", "roi", "computer-vision"]
+repository = "https://github.com/jshilong/GPT4RoI"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

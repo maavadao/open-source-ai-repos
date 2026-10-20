@@ -1,0 +1,8 @@
+name = "unblink"
+description = "Camera monitoring with VLM"
+category = "vision"
+tags = ["camera", "computer-vision", "monitoring", "nvr", "vlm"]
+repository = "https://github.com/zapdos-labs/unblink"
+license = "AGPL-3.0"
+language = "Go"
+added = 2026-10-20

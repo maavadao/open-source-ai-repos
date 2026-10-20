@@ -1,0 +1,8 @@
+name = "superpowers"
+description = "An agentic skills framework & software development methodology that works."
+category = "agents"
+tags = ["ai", "brainstorming", "coding", "obra", "sdlc", "skills", "superpowers", "subagent-driven-development"]
+repository = "https://github.com/obra/superpowers"
+license = "MIT"
+language = "Shell"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "Ariadne"
+description = "一个优雅且完备的 Python QQ 自动化框架，基于 Mirai API HTTP v2。 Powered by Graia Project."
+category = "no-code"
+tags = ["python", "asyncio", "graia", "framework", "qq", "qqbot", "bot", "ariadne"]
+repository = "https://github.com/GraiaProject/Ariadne"
+website = "https://graia.cn/ariadne"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

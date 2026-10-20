@@ -1,0 +1,9 @@
+name = "Thinking-with-Visual-Primitives"
+description = "Archived snapshot of Thinking-with-Visual-Primitives"
+category = "models"
+tags = ["deepseek", "grounding", "multimodal", "spatial-reasoning", "vision-language-model"]
+repository = "https://github.com/ailuntx/Thinking-with-Visual-Primitives"
+website = "https://www.deepseek.com"
+license = "MIT"
+language = "Makefile"
+added = 2026-10-20

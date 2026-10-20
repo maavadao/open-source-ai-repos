@@ -1,0 +1,8 @@
+name = "simpleaichat"
+description = "Python package for easily interfacing with chat apps, with robust features and minimal code complexity."
+category = "chat"
+tags = ["ai", "chatgpt"]
+repository = "https://github.com/minimaxir/simpleaichat"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

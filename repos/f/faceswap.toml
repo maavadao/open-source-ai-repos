@@ -1,0 +1,9 @@
+name = "faceswap"
+description = "Deepfakes Software For All"
+category = "ml-platforms"
+tags = ["faceswap", "face-swap", "deep-learning", "deeplearning", "deep-neural-networks", "deepfakes", "deepface", "deep-face-swap"]
+repository = "https://github.com/deepfakes/faceswap"
+website = "https://www.faceswap.dev"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

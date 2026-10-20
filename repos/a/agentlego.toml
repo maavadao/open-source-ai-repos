@@ -1,0 +1,8 @@
+name = "agentlego"
+description = "Enhance LLM agents with rich tool APIs"
+category = "agents"
+tags = ["large-language-models", "llm", "llm-agents"]
+repository = "https://github.com/InternLM/agentlego"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

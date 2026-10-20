@@ -1,0 +1,9 @@
+name = "DepthFlow"
+description = "Images to 3D parallax videos"
+category = "video"
+tags = ["depth-prediction", "image-to-video", "monocular-depth", "monocular-depth-estimation", "parallax", "image-parallax", "parallax-effect", "depth-map"]
+repository = "https://github.com/BrokenSource/DepthFlow"
+website = "https://depth.tremeschin.com/"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-20

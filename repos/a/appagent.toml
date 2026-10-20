@@ -1,0 +1,9 @@
+name = "AppAgent"
+description = "AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps."
+category = "chat"
+tags = ["agent", "chatgpt", "generative-ai", "gpt4", "gpt4v", "llm"]
+repository = "https://github.com/TencentQQGYLab/AppAgent"
+website = "https://appagent-official.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "guaardvark"
+description = "Self-hosted AI studio on your own GPU: chat with your files (RAG), screen and browser agents, coding swarms, LoRA training, an MCP server for Claude Code and Cursor, and local video, image, music and voice generation. No telemetry."
+category = "mcp-servers"
+tags = ["ai-agents", "local-ai", "ollama", "self-hosted", "video-generation", "comfyui", "multi-agent", "rag"]
+repository = "https://github.com/guaardvark/guaardvark"
+website = "https://guaardvark.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

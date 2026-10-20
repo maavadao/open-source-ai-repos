@@ -1,0 +1,9 @@
+name = "MeshAnythingV2"
+description = "[ICCV 2025] From anything to mesh like human artists. Official impl. of \"MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization\""
+category = "vision"
+tags = ["3d", "3d-generation", "generative-model", "mesh", "transformers", "iccv2025"]
+repository = "https://github.com/buaacyw/MeshAnythingV2"
+website = "https://buaacyw.github.io/meshanything-v2/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

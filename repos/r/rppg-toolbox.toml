@@ -1,0 +1,9 @@
+name = "rPPG-Toolbox"
+description = "rPPG-Toolbox: Deep Remote PPG Toolbox (NeurIPS 2023)"
+category = "vision"
+tags = ["camera", "health", "mobile-health", "physiological-computing", "ppg", "remote-ppg", "rppg", "health-sensing"]
+repository = "https://github.com/ubicomplab/rPPG-Toolbox"
+website = "https://arxiv.org/abs/2210.00716"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

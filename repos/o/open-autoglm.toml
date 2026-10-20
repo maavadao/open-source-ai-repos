@@ -1,0 +1,9 @@
+name = "Open-AutoGLM"
+description = "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone"
+category = "agents"
+tags = ["agent", "phone-use-agent"]
+repository = "https://github.com/zai-org/Open-AutoGLM"
+website = "https://autoglm.z.ai/blog"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

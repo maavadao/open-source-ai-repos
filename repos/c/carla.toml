@@ -1,0 +1,9 @@
+name = "carla"
+description = "Open-source simulator for autonomous driving research."
+category = "robotics"
+tags = ["simulator", "autonomous-vehicles", "autonomous-driving", "research", "ai", "artificial-intelligence", "computer-vision", "deep-learning"]
+repository = "https://github.com/carla-simulator/carla"
+website = "http://carla.org"
+license = "MIT"
+language = "C++"
+added = 2026-10-20

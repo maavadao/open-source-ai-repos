@@ -1,0 +1,7 @@
+name = "WizardLM"
+description = "LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath"
+category = "models"
+repository = "https://github.com/nlpxucan/WizardLM"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

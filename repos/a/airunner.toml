@@ -1,0 +1,9 @@
+name = "airunner"
+description = "Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automated workflows"
+category = "security"
+tags = ["ai", "ai-art", "art", "asset-generator", "python", "stable-diffusion", "deep-learning", "image-generation"]
+repository = "https://github.com/Capsize-Games/airunner"
+website = "https://airunner.art"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

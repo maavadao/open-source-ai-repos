@@ -1,0 +1,8 @@
+name = "Open-Interface"
+description = "Control Any Computer Using LLMs."
+category = "no-code"
+tags = ["gpt", "llm", "machine-learning", "macos", "openai", "python", "automation", "assistant"]
+repository = "https://github.com/AmberSahdev/Open-Interface"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ragbits"
+description = "Building blocks for rapid development of GenAI applications"
+category = "security"
+tags = ["rag", "document-search", "evaluation", "guardrails", "agents", "llms", "optimization", "prompts"]
+repository = "https://github.com/deepsense-ai/ragbits"
+website = "https://ragbits.deepsense.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

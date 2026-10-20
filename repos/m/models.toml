@@ -1,0 +1,8 @@
+name = "models"
+description = "A collection of pre-trained, state-of-the-art models in the ONNX format"
+category = "ml-platforms"
+tags = ["onnx", "models", "download", "pretrained", "deep-learning"]
+repository = "https://github.com/onnx/models"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-20

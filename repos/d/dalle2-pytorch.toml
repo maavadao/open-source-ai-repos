@@ -1,0 +1,8 @@
+name = "DALLE2-pytorch"
+description = "Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch"
+category = "image"
+tags = ["artificial-intelligence", "deep-learning", "text-to-image"]
+repository = "https://github.com/lucidrains/DALLE2-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

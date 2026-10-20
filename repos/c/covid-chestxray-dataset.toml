@@ -1,0 +1,8 @@
+name = "covid-chestxray-dataset"
+description = "We are building an open database of COVID-19 cases with chest X-ray or CT images."
+category = "vision"
+tags = ["covid-19", "deep-learning", "computer-vision", "dataset", "xray", "computed-tomography"]
+repository = "https://github.com/ieee8023/covid-chestxray-dataset"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

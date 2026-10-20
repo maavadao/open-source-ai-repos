@@ -1,0 +1,9 @@
+name = "openocta"
+description = "OpenOcta is an open-source AIOps Agent installed on Windows & macOS."
+category = "agents"
+tags = ["itops", "aiops", "aiops-agent", "chatops", "dba", "devops", "sftp-client", "sreagent"]
+repository = "https://github.com/openocta/openocta"
+website = "http://www.openocta.com"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "KoELECTRA"
+description = "Pretrained ELECTRA Model for Korean"
+category = "models"
+tags = ["electra", "korean-nlp", "pytorch", "transformers", "tensorflow2", "tensorflow", "nlp", "language-model"]
+repository = "https://github.com/monologg/KoELECTRA"
+website = "https://huggingface.co/monologg/koelectra-base-v3-discriminator"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

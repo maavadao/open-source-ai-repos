@@ -1,0 +1,8 @@
+name = "deep-learning-keras-tensorflow"
+description = "Introduction to Deep Neural Networks with Keras and Tensorflow"
+category = "learning"
+tags = ["tensorflow", "python", "tutorial", "deep-learning", "keras", "keras-tutorials", "keras-tensorflow", "cudnn"]
+repository = "https://github.com/leriomaggio/deep-learning-keras-tensorflow"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

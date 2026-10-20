@@ -1,0 +1,8 @@
+name = "sd-webui-segment-anything"
+description = "Segment Anything for Stable Diffusion WebUI"
+category = "image"
+tags = ["stable-diffusion", "stable-diffusion-webui", "stable-diffusion-webui-plugin", "segment-anything"]
+repository = "https://github.com/continue-revolution/sd-webui-segment-anything"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

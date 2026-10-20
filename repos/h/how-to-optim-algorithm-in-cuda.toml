@@ -1,0 +1,8 @@
+name = "how-to-optim-algorithm-in-cuda"
+description = "how to optimize some algorithm in cuda."
+category = "models"
+tags = ["cuda", "llm"]
+repository = "https://github.com/BBuf/how-to-optim-algorithm-in-cuda"
+license = "NOASSERTION"
+language = "Cuda"
+added = 2026-10-20

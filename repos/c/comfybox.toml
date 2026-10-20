@@ -1,0 +1,8 @@
+name = "ComfyBox"
+description = "Customizable Stable Diffusion frontend for ComfyUI"
+category = "image"
+tags = ["stable-diffusion"]
+repository = "https://github.com/space-nuko/ComfyBox"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

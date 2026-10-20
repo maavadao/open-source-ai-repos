@@ -1,0 +1,10 @@
+name = "kestra"
+description = "Event Driven Orchestration & Scheduling Platform for Mission Critical Applications"
+category = "no-code"
+tags = ["orchestration", "data-orchestration", "high-availability", "infrastructure-as-code", "automation", "devops", "java", "low-code"]
+repository = "https://github.com/kestra-io/kestra"
+website = "https://kestra.io"
+license = "Apache-2.0"
+language = "Java"
+skill_level = "intermediate"
+added = 2026-10-20

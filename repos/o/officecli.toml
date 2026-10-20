@@ -1,0 +1,9 @@
+name = "OfficeCLI"
+description = "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required."
+category = "coding"
+tags = ["agent", "ai", "cli", "office", "skills", "openclaw", "claude-code", "codex"]
+repository = "https://github.com/iOfficeAI/OfficeCLI"
+website = "https://officecli.ai"
+license = "Apache-2.0"
+language = "C#"
+added = 2026-10-20

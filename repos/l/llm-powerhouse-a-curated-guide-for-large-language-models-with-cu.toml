@@ -1,0 +1,8 @@
+name = "LLM"
+description = "LLM-PowerHouse: Unleash LLMs' potential through curated tutorials, best practices, and ready-to-use code for custom training and inferencing."
+category = "learning"
+tags = ["bert", "huggingface", "large-language-models", "llm-inference", "llm-training", "open-source", "open-source-llm", "transformers"]
+repository = "https://github.com/ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

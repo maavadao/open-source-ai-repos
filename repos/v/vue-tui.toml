@@ -1,0 +1,8 @@
+name = "vue-tui"
+description = "The Vue framework for terminal UIs. SFC & JSX, Yoga flexbox, HMR, and testing out of the box."
+category = "agents"
+tags = ["ai-agent", "ai-agents", "cli", "command-line", "flexbox", "llm", "renderer", "terminal"]
+repository = "https://github.com/vuejs-ai/vue-tui"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

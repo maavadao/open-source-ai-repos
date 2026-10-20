@@ -1,0 +1,9 @@
+name = "pytorch-forecasting"
+description = "Time series forecasting with PyTorch"
+category = "ml-platforms"
+tags = ["pytorch", "forecasting", "gpu", "uncertainty", "timeseries-forecasting", "pytorch-lightning", "deep-learning", "neural-networks"]
+repository = "https://github.com/sktime/pytorch-forecasting"
+website = "https://pytorch-forecasting.readthedocs.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

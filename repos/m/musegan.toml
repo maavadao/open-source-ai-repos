@@ -1,0 +1,9 @@
+name = "musegan"
+description = "An AI for Music Generation"
+category = "speech"
+tags = ["music", "music-generation", "machine-learning", "tensorflow", "generative-adversarial-network", "gan"]
+repository = "https://github.com/salu133445/musegan"
+website = "https://salu133445.github.io/musegan/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

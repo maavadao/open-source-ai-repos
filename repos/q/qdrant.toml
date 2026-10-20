@@ -1,0 +1,10 @@
+name = "qdrant"
+description = "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/"
+category = "vector-databases"
+tags = ["neural-network", "search-engine", "knn-algorithm", "hnsw", "vector-search", "nearest-neighbor-search", "image-search", "embeddings-similarity"]
+repository = "https://github.com/qdrant/qdrant"
+website = "https://qdrant.tech"
+license = "Apache-2.0"
+language = "Rust"
+skill_level = "beginner"
+added = 2026-10-20

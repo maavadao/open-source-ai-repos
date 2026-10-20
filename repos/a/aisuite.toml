@@ -1,0 +1,7 @@
+name = "aisuite"
+description = "Simple, unified interface to multiple Generative AI providers"
+category = "other"
+repository = "https://github.com/andrewyng/aisuite"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

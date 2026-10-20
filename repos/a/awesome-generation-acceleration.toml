@@ -1,0 +1,7 @@
+name = "Awesome-Generation-Acceleration"
+description = "Collection of awesome generation acceleration resources."
+category = "learning"
+tags = ["diffusion-models", "efficient-deep-learning", "efficient-inference", "model-acceleration", "text-to-image", "text-to-video", "image-generation", "video-generation"]
+repository = "https://github.com/xuyang-liu16/Awesome-Generation-Acceleration"
+license = "NOASSERTION"
+added = 2026-10-20

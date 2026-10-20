@@ -1,0 +1,9 @@
+name = "skeleton-tracing"
+description = "A new algorithm for retrieving topological skeleton as a set of polylines from binary images"
+category = "vision"
+tags = ["skeletonization", "computer-vision", "algorithm", "computational-geometry", "polylines"]
+repository = "https://github.com/LingDong-/skeleton-tracing"
+website = "https://skeleton-tracing.netlify.app"
+license = "MIT"
+language = "C"
+added = 2026-10-20

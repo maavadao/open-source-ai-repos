@@ -1,0 +1,10 @@
+name = "gpt4all"
+description = "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use."
+category = "local-llms"
+tags = ["llm-inference", "ai-chat"]
+repository = "https://github.com/nomic-ai/gpt4all"
+website = "https://gpt4all.io"
+license = "MIT"
+language = "C++"
+skill_level = "beginner"
+added = 2026-10-20

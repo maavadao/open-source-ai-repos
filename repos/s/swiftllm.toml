@@ -1,0 +1,8 @@
+name = "swiftLLM"
+description = "A tiny yet powerful LLM inference system tailored for researching purpose. vLLM-equivalent performance with only 2k lines of code (2% of vLLM)."
+category = "local-llms"
+tags = ["transformer", "transformers", "cuda", "inference", "inference-engine", "pytorch", "gpt", "llama"]
+repository = "https://github.com/interestingLSY/swiftLLM"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

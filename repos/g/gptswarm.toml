@@ -1,0 +1,9 @@
+name = "GPTSwarm"
+description = "The First Self-Improving agents with RL / Prompting Optimization"
+category = "agents"
+tags = ["agent", "ai", "gpt", "python", "reinforcement-learning", "self-improvement", "swarm-intelligence", "multi-agent"]
+repository = "https://github.com/metauto-ai/GPTSwarm"
+website = "https://gptswarm.org"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

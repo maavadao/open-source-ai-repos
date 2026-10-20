@@ -1,0 +1,9 @@
+name = "alchemylake-databricks"
+description = "Governed, provenance-sealed creative rendering for Databricks — a Streamlit App + Unity Catalog ai_render() function that turns any governed source (Sample Lakehouse, UC, Genie, or BYO data) into infographics, reports, decks, video briefings, music, and podcasts."
+category = "mcp-servers"
+tags = ["ai-agents", "data-storytelling", "data-visualization", "databricks", "generative-ai", "lakehouse", "llm", "mcp-server"]
+repository = "https://github.com/zorost/alchemylake-databricks"
+website = "https://app.alchemylake.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

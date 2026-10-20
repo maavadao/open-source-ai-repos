@@ -1,0 +1,9 @@
+name = "mobilerun-portal"
+description = "Automate your mobile devices with natural language commands - the counterpart android app for the mobilerun framework"
+category = "browser-automation"
+tags = ["ai", "ai-agents", "android-automation", "mobile-automation"]
+repository = "https://github.com/droidrun/mobilerun-portal"
+website = "https://mobilerun.ai/framework"
+license = "NOASSERTION"
+language = "Kotlin"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "CCTag"
+description = "Detection of CCTag markers made up of concentric circles."
+category = "vision"
+tags = ["computer-vision", "image-processing", "fiducial-markers", "markers", "detection", "concentric-circles"]
+repository = "https://github.com/alicevision/CCTag"
+website = "https://cctag.readthedocs.io"
+license = "MPL-2.0"
+language = "C++"
+added = 2026-10-20

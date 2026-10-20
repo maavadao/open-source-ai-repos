@@ -1,0 +1,9 @@
+name = "zi2zi"
+description = "Learning Chinese Character style with conditional GAN"
+category = "ml-platforms"
+tags = ["deeplearning", "generative-adversarial-networks", "pix2pix", "tensorflow", "machine-learning", "chinese-characters", "style-transfer", "deep-learning"]
+repository = "https://github.com/kaonashi-tyc/zi2zi"
+website = "https://kaonashi-tyc.github.io/2017/04/06/zi2zi.html"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

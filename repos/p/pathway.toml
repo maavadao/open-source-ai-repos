@@ -1,0 +1,9 @@
+name = "pathway"
+description = "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
+category = "llm-apps"
+tags = ["batch-processing", "kafka", "pathway", "python", "streaming", "machine-learning-algorithms", "real-time", "data-analytics"]
+repository = "https://github.com/pathwaycom/pathway"
+website = "https://pathway.com"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "arcjet-js"
+description = "Runtime security for AI apps and agents: prompt injection detection, tool-call authorization, sensitive-data redaction, bot protection, and rate limiting. Drop it into your JS/TS code."
+category = "mcp-servers"
+tags = ["agent-security", "ai-agents", "ai-security", "application-security", "bot-detection", "llm-security", "mcp", "pii-detection"]
+repository = "https://github.com/arcjet/arcjet-js"
+website = "https://arcjet.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

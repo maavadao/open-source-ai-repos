@@ -1,0 +1,8 @@
+name = "SynergyNet"
+description = "3DV 2021: Synergy between 3DMM and 3D Landmarks for Accurate 3D Facial Geometry"
+category = "vision"
+tags = ["3d", "pytorch", "facial-landmarks", "head-pose-estimation", "3d-face-reconstruction", "facial-keypoints", "3d-face-alignment", "3dv2021"]
+repository = "https://github.com/choyingw/SynergyNet"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

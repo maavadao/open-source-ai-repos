@@ -1,0 +1,9 @@
+name = "all-in-rag"
+description = "大模型应用开发实战一：RAG 技术全栈指南，在线阅读地址：https://datawhalechina.github.io/all-in-rag/"
+category = "llm-apps"
+tags = ["embedding", "kimi-k2", "langchain", "llama-index", "llm", "milvus", "multimodal", "rag"]
+repository = "https://github.com/datawhalechina/all-in-rag"
+website = "https://datawhalechina.github.io/all-in-rag/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "robot-learning-tutorial"
+description = "All the source code for \"Robot Learning: A Tutorial\". Get involved to be featured in the next iteration!"
+category = "learning"
+tags = ["lerobot", "machine-learning", "open-source", "robot-learning", "robotics"]
+repository = "https://github.com/fracapuano/robot-learning-tutorial"
+website = "http://arxiv.org/abs/2510.12403"
+license = "NOASSERTION"
+language = "TeX"
+added = 2026-10-20

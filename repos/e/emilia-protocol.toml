@@ -1,0 +1,9 @@
+name = "emilia-protocol"
+description = "Authority control plane for autonomous work. EMILIA Gate enforces finite customer-owned mandates at protected executor boundaries; the open protocol keeps evidence verifiable."
+category = "mcp-servers"
+tags = ["agent-security", "agentic-ai", "ai-agents", "authorization", "cryptography", "formal-verification", "ietf", "mcp"]
+repository = "https://github.com/emiliaprotocol/emilia-protocol"
+website = "https://www.emiliaprotocol.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

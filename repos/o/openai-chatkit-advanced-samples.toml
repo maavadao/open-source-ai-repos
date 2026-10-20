@@ -1,0 +1,8 @@
+name = "openai-chatkit-advanced-samples"
+description = "Starter app to build with OpenAI ChatKit SDK"
+category = "other"
+tags = ["chatkit", "openai", "openai-api", "python", "typescript"]
+repository = "https://github.com/openai/openai-chatkit-advanced-samples"
+website = "https://platform.openai.com/docs/guides/chatkit"
+license = "NOASSERTION"
+added = 2026-10-20

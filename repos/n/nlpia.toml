@@ -1,0 +1,9 @@
+name = "nlpia"
+description = "Examples and libraries for \"Natural Language Processing in Action\" book"
+category = "learning"
+tags = ["nlp", "bot", "chatbot", "book", "natural-language-processing", "deep-learning", "ai", "virtual-assistant"]
+repository = "https://github.com/totalgood/nlpia"
+website = "http://bit.ly/gh-nlpia-book"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

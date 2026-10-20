@@ -1,0 +1,7 @@
+name = "Awesome-LLM-Prompt-Optimization"
+description = "Awesome-LLM-Prompt-Optimization: a curated list of advanced prompt optimization and tuning methods in Large Language Models"
+category = "learning"
+tags = ["evolution-strategies", "large-language-models", "llms", "optimization", "prompt", "prompt-learning", "prompt-tuning", "llm-optimization"]
+repository = "https://github.com/jxzhangjhu/Awesome-LLM-Prompt-Optimization"
+license = "NOASSERTION"
+added = 2026-10-20

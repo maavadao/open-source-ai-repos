@@ -1,0 +1,9 @@
+name = "pixtuoid"
+description = "Terminal pixel-art office for AI coding agents"
+category = "coding"
+tags = ["ai-agents", "claude-code", "cli", "pixel-art", "ratatui", "rust", "terminal", "tui"]
+repository = "https://github.com/pixtuoid/pixtuoid"
+website = "https://pixtuoid.dev"
+license = "MIT"
+language = "Rust"
+added = 2026-10-20

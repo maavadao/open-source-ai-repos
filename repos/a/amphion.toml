@@ -1,0 +1,9 @@
+name = "Amphion"
+description = "Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development."
+category = "speech"
+tags = ["audio-generation", "audio-synthesis", "audioldm", "music-generation", "naturalspeech2", "singing-voice-conversion", "speech-synthesis", "text-to-audio"]
+repository = "https://github.com/open-mmlab/Amphion"
+website = "https://openhlt.github.io/amphion/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

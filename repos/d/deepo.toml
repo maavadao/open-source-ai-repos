@@ -1,0 +1,9 @@
+name = "deepo"
+description = "Setup and customize deep learning environment in seconds."
+category = "ml-platforms"
+tags = ["deep-learning", "jupyter", "lasagne", "caffe", "tensorflow", "sonnet", "keras", "theano"]
+repository = "https://github.com/ufoym/deepo"
+website = "http://ufoym.com/deepo"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

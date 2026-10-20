@@ -1,0 +1,9 @@
+name = "seatunnel"
+description = "SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool."
+category = "models"
+tags = ["data-integration", "high-performance", "offline", "real-time", "apache", "batch", "cdc", "change-data-capture"]
+repository = "https://github.com/apache/seatunnel"
+website = "https://seatunnel.apache.org/"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

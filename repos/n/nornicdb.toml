@@ -1,0 +1,8 @@
+name = "NornicDB"
+description = "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and writes. Using Neo4j Bolt/Cypher and qdrant's gRPC means you can switch with no changes while adding intelligent features like schemas, managed embeddings…"
+category = "mcp-servers"
+tags = ["bolt", "cypher", "database", "enterprise-solutions", "graph-rag", "graphql", "local-llm", "memoryos"]
+repository = "https://github.com/orneryd/NornicDB"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "halofy"
+description = "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure."
+category = "mcp-servers"
+tags = ["access-control", "agent-governance", "agent-memory", "ai-agents", "audit-log", "context-engineering", "data-governance", "data-provenance"]
+repository = "https://github.com/halofyai/halofy"
+website = "https://halofy.ai"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

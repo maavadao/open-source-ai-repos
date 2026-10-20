@@ -1,0 +1,10 @@
+name = "deep-learning-drizzle"
+description = "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!"
+category = "learning"
+tags = ["machine-learning", "deep-learning", "deep-neural-networks", "pattern-recognition", "computer-vision", "optimization", "visual-recognition", "reinforcement-learning"]
+repository = "https://github.com/kmario23/deep-learning-drizzle"
+website = "https://deep-learning-drizzle.github.io"
+license = "NOASSERTION"
+language = "HTML"
+skill_level = "advanced"
+added = 2026-10-20

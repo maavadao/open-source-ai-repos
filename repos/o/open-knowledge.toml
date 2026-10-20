@@ -1,0 +1,9 @@
+name = "open-knowledge"
+description = "Beautiful, AI-native markdown IDE and LLM wiki"
+category = "skills-prompts"
+tags = ["2nd-brain", "agent-skills", "claude", "codex", "docs", "knowledge-base", "knowledge-management", "llm"]
+repository = "https://github.com/inkeep/open-knowledge"
+website = "https://openknowledge.ai"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

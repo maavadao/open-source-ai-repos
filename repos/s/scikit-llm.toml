@@ -1,0 +1,9 @@
+name = "scikit-llm"
+description = "Seamlessly integrate LLMs into scikit-learn."
+category = "chat"
+tags = ["chatgpt", "deep-learning", "llm", "machine-learning", "scikit-learn", "transformers"]
+repository = "https://github.com/fnnx-ai/scikit-llm"
+website = "https://beastbyte.ai/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

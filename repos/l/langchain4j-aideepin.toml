@@ -1,0 +1,9 @@
+name = "langchain4j-aideepin"
+description = "AI 应用平台（聊天、绘画、知识库、工作流、 MCP服务市场、语音输入输出、长期记忆） | AI application platform (Chat,Draw,RAG,Workflow,MCP marketplace, ASR,TTS, Long-term memory etc)"
+category = "mcp-servers"
+tags = ["knowlege-base", "langchain4j", "rag", "graphrag", "ai-agent", "ai-workflow", "mcp", "langgraph4j"]
+repository = "https://github.com/moyangzhan/langchain4j-aideepin"
+website = "http://www.aideepin.com"
+license = "MIT"
+language = "Java"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "TravelPlanner"
+description = "[ICML'24 Spotlight] \"TravelPlanner: A Benchmark for Real-World Planning with Language Agents\""
+category = "agents"
+tags = ["autonomous-agents", "language-agent", "large-language-models", "planning"]
+repository = "https://github.com/OSU-NLP-Group/TravelPlanner"
+website = "https://osu-nlp-group.github.io/TravelPlanner/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

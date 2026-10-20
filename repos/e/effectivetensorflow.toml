@@ -1,0 +1,8 @@
+name = "EffectiveTensorflow"
+description = "TensorFlow tutorials and best practices."
+category = "learning"
+tags = ["tensorflow", "neural-network", "deep-learning", "machine-learning", "ebook"]
+repository = "https://github.com/vahidk/EffectiveTensorflow"
+website = "https://twitter.com/VahidK"
+license = "NOASSERTION"
+added = 2026-10-20

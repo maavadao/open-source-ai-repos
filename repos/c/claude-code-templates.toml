@@ -1,0 +1,9 @@
+name = "claude-code-templates"
+description = "CLI tool for configuring and monitoring Claude Code"
+category = "coding"
+tags = ["anthropic", "anthropic-claude", "claude", "claude-code"]
+repository = "https://github.com/davila7/claude-code-templates"
+website = "https://aitmpl.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "CodeGPT"
+description = "A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4.1, gpt-4o model) and automatically installs a git prepare-commit-msg hook."
+category = "chat"
+tags = ["chatgpt", "chatgpt-api", "golang", "openai", "openai-api", "git", "git-hook"]
+repository = "https://github.com/appleboy/CodeGPT"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "CalypsoBot"
+description = "A fully customizable bot built with discord.js"
+category = "chat"
+tags = ["bot", "discord-bot", "chat-bot", "administration", "discord-js", "discord-js-v14", "discordjs", "djs-v14"]
+repository = "https://github.com/nettlesh/CalypsoBot"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

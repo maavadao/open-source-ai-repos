@@ -1,0 +1,8 @@
+name = "self-rewarding-lm-pytorch"
+description = "Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI"
+category = "models"
+tags = ["artificial-intelligence", "deep-learning", "transformers", "beyond-human-data", "self-rewarding"]
+repository = "https://github.com/lucidrains/self-rewarding-lm-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

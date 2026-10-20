@@ -1,0 +1,9 @@
+name = "OpenSandbox"
+description = "Secure, Fast, and Extensible Sandbox runtime for AI agents."
+category = "agents"
+tags = ["ai", "ai-infra", "kubernetes", "sandbox", "ai-agent"]
+repository = "https://github.com/opensandbox-group/OpenSandbox"
+website = "https://open-sandbox.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

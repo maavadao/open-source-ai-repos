@@ -1,0 +1,8 @@
+name = "jaxrl"
+description = "JAX (Flax) implementation of algorithms for Deep Reinforcement Learning with continuous action spaces."
+category = "ml-platforms"
+tags = ["deep-learning", "deep-reinforcement-learning", "continuous-control", "reinforcement-learning", "soft-actor-critic", "sac", "deep-deterministic-policy-gradient", "jax"]
+repository = "https://github.com/ikostrikov/jaxrl"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

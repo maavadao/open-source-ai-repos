@@ -1,0 +1,9 @@
+name = "metavoice-src"
+description = "Foundational model for human-like, expressive TTS"
+category = "speech"
+tags = ["text-to-speech", "ai", "deep-learning", "pytorch", "speech", "speech-synthesis", "tts", "voice-clone"]
+repository = "https://github.com/metavoiceio/metavoice-src"
+website = "https://themetavoice.xyz/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

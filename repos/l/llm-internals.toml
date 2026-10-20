@@ -1,0 +1,8 @@
+name = "llm-internals"
+description = "Learn LLM internals step by step - from tokenization to attention to inference optimization."
+category = "models"
+tags = ["attention-is-all-you-need", "attention-mechanism", "large-language-models", "learn-llm", "llm", "llm-internals"]
+repository = "https://github.com/amitshekhariitbhu/llm-internals"
+website = "https://outcomeschool.com/program/ai-and-machine-learning"
+license = "Apache-2.0"
+added = 2026-10-20

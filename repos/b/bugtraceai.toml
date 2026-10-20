@@ -1,0 +1,9 @@
+name = "BugTraceAI"
+description = "Open-source, self-hosted web pentesting suite with agentic scanning, analyst tools, API testing, model checkpoints and MCP integrations."
+category = "mcp-servers"
+tags = ["ai-agents", "bug-bounty", "penetration-testing", "model-context-protocol", "security-testing", "self-hosted", "web-security", "api-security"]
+repository = "https://github.com/BugTraceAI/BugTraceAI"
+website = "https://bugtraceai.com"
+license = "Apache-2.0"
+language = "Shell"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "taste-skill"
+description = "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages"
+category = "skills-prompts"
+tags = ["claude-code", "codex", "frontend", "agent-skills", "ai-agents", "anti-slop", "cursor", "design-system"]
+repository = "https://github.com/Leonxlnx/taste-skill"
+website = "https://tasteskill.dev"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

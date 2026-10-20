@@ -1,0 +1,9 @@
+name = "OmniChar"
+description = "The open .char format for consistent characters. Face, body, wardrobe & voice in one file, consistent across every model."
+category = "image"
+tags = ["ai-video", "filmmaking", "generative-ai", "ai-film", "ai-filmmaking", "creative-tools", "generative-video", "open-source"]
+repository = "https://github.com/omnichar/OmniChar"
+website = "https://omnichar.org"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

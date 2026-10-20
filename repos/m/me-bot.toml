@@ -1,0 +1,8 @@
+name = "Me_Bot"
+description = "Build a bot that speaks like you!"
+category = "chat"
+tags = ["chatbot", "chatbots-framework", "natural-language-processing", "tensorflow", "bot", "whatsapp"]
+repository = "https://github.com/Spandan-Madan/Me_Bot"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

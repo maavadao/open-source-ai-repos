@@ -1,0 +1,10 @@
+name = "stagehand"
+description = "The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more."
+category = "browser-automation"
+tags = ["agents", "ai", "playwright", "ai-agents", "browser-agent", "browser-automation", "cdp", "cloud-browser"]
+repository = "https://github.com/browserbase/stagehand"
+website = "https://www.stagehand.dev"
+license = "MIT"
+language = "TypeScript"
+skill_level = "intermediate"
+added = 2026-10-20

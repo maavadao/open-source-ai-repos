@@ -1,0 +1,8 @@
+name = "fuji-web"
+description = "Fuji is an AI agent that lives in your browser's sidepanel. You can now get tasks done online with a single command!"
+category = "agents"
+tags = ["browser-extension", "llm", "react", "web-agent", "ai", "ai-agent", "gpt"]
+repository = "https://github.com/normal-computing-oss/fuji-web"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

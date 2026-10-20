@@ -1,0 +1,9 @@
+name = "License-super-resolution"
+description = "A License Plate Image Reconstruction Project in Tensorflow2"
+category = "image"
+tags = ["computer-vision", "tensorflow2", "super-resolution", "deep-learning"]
+repository = "https://github.com/zzxvictor/License-super-resolution"
+website = "https://towardsdatascience.com/license-plate-image-enhancement-5a170475bec1"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

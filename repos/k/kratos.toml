@@ -1,0 +1,9 @@
+name = "kratos"
+description = "Your ultimate Go microservices framework for the cloud-native era."
+category = "mcp-servers"
+tags = ["golang", "framework", "kratos", "go", "microservices", "architecture", "protobuf", "http"]
+repository = "https://github.com/go-kratos/kratos"
+website = "https://go-kratos.dev"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

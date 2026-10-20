@@ -1,0 +1,9 @@
+name = "openclaw-plugin-wecom"
+description = "企业微信 AI 机器人插件 - Enterprise WeChat (WeCom) AI Bot plugin for OpenClaw. 支持流式输出、动态 Agent 管理、群聊集成、指令白名单等功能。"
+category = "chat"
+tags = ["ai-bot", "chatbot", "enterprise-wechat", "nodejs", "openclaw", "plugin", "streaming", "typescript"]
+repository = "https://github.com/sunnoy/openclaw-plugin-wecom"
+website = "https://www.npmjs.com/package/@sunnoy/wecom"
+license = "ISC"
+language = "JavaScript"
+added = 2026-10-20

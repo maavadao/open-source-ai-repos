@@ -1,0 +1,9 @@
+name = "GRID-playground"
+description = "Platform for General Robot Intelligence Development"
+category = "robotics"
+tags = ["computer-vision", "foundation-models", "llm", "machine-learning", "navigation", "perception", "robotics"]
+repository = "https://github.com/GenRobo/GRID-playground"
+website = "https://generalrobotics.company"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

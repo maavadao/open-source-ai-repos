@@ -1,0 +1,8 @@
+name = "Odyssey"
+description = "Odyssey: Empowering Minecraft Agents with Open-World Skills"
+category = "agents"
+tags = ["agent", "large-language-models", "llm", "minecraft", "embodied-agent", "llm-agent", "fine-tuning", "large-language-model"]
+repository = "https://github.com/zju-vipa/Odyssey"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

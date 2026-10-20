@@ -1,0 +1,8 @@
+name = "reasoning-gym"
+description = "[NeurIPS 2025 Spotlight] Reasoning Environments for Reinforcement Learning with Verifiable Rewards"
+category = "models"
+tags = ["gym", "reinforcement-learning", "large-language-models"]
+repository = "https://github.com/open-thought/reasoning-gym"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

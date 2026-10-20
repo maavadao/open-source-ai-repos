@@ -1,0 +1,8 @@
+name = "mAP"
+description = "mean Average Precision - This code evaluates the performance of your neural net for object recognition."
+category = "vision"
+tags = ["machine-learning", "pascal-voc", "average-precision", "ground-truth", "object-detection", "computer-vision", "metrics", "detection"]
+repository = "https://github.com/Cartucho/mAP"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

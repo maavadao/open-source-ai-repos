@@ -1,0 +1,9 @@
+name = "opendraft"
+description = "Write research paper and literature review drafts with an open-source Python engine that checks citation DOIs against scholarly databases. Export PDF, Word, or LaTeX."
+category = "search"
+tags = ["academic-writing", "ai-agents", "python", "research", "thesis", "dissertation", "literature-review", "llm"]
+repository = "https://github.com/federicodeponte/opendraft"
+website = "https://openpaper.dev/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

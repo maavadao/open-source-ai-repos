@@ -1,0 +1,9 @@
+name = "mukh"
+description = "A comprehensive face analysis library that provides unified APIs for various face-related tasks"
+category = "vision"
+tags = ["deepfake-detection", "face-analysis", "face-detection", "face-reenactment", "ai", "computer-vision", "facial-landmarks", "machine-learning"]
+repository = "https://github.com/ishandutta0098/mukh"
+website = "https://ishandutta0098.github.io/mukh/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

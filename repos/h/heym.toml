@@ -1,0 +1,9 @@
+name = "heym"
+description = "Build agentic systems. Run them with confidence. Orchestrate agents, automate business processes, inspect every execution, and keep humans in control. Deploy Heym on your own infrastructure."
+category = "mcp-servers"
+tags = ["ai-agents", "ai-assistant", "automation", "automation-tool", "workflow-automation", "workflows", "mcp", "rag"]
+repository = "https://github.com/heymrun/heym"
+website = "https://heym.run"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

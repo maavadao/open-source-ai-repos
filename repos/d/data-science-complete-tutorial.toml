@@ -1,0 +1,9 @@
+name = "data-science-complete-tutorial"
+description = "For extensive instructor led learning"
+category = "learning"
+tags = ["machine-learning", "scikit-learn", "linear-regression", "nearest-neighbors", "feature-selection", "decision-trees", "numpy", "pandas"]
+repository = "https://github.com/edyoda/data-science-complete-tutorial"
+website = "https://www.edyoda.com/micro-degree/generative-ai-and-ai-agent-career-track-micro-degree"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

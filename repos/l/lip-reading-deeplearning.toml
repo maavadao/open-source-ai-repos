@@ -1,0 +1,8 @@
+name = "lip-reading-deeplearning"
+description = "Lip Reading - Cross Audio-Visual Recognition using 3D Architectures"
+category = "speech"
+tags = ["deep-learning", "computer-vision", "speech-recognition", "3d-convolutional-network", "tensorflow"]
+repository = "https://github.com/astorfi/lip-reading-deeplearning"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

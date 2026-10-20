@@ -1,0 +1,9 @@
+name = "gqcnn"
+description = "Python module for GQ-CNN training and deployment with ROS integration."
+category = "robotics"
+tags = ["gqcnn", "grasping", "robotics", "deep-learning", "ros", "machine-learning", "python"]
+repository = "https://github.com/BerkeleyAutomation/gqcnn"
+website = "https://berkeleyautomation.github.io/gqcnn"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

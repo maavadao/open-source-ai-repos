@@ -1,0 +1,8 @@
+name = "pytorch-trpo"
+description = "PyTorch implementation of Trust Region Policy Optimization"
+category = "ml-platforms"
+tags = ["reinforcement-learning", "continuous-control", "deep-learning", "trust-region-policy-optimization", "trpo", "mujoco", "pytorch", "deep-reinforcement-learning"]
+repository = "https://github.com/ikostrikov/pytorch-trpo"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

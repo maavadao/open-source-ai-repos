@@ -1,0 +1,9 @@
+name = "cambrian-s"
+description = "Cambrian-S: Towards Spatial Supersensing in Video"
+category = "vision"
+tags = ["computer-vision", "llm", "multimodal-large-language-models", "spatial-understanding", "vision-language-model"]
+repository = "https://github.com/cambrian-mllm/cambrian-s"
+website = "https://cambrian-mllm.github.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

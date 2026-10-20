@@ -1,0 +1,9 @@
+name = "texar"
+description = "Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow. This is part of the CASL project: http://casl-project.ai/"
+category = "models"
+tags = ["machine-learning", "natural-language-processing", "tensorflow", "deep-learning", "text-generation", "python", "machine-translation", "dialog-systems"]
+repository = "https://github.com/asyml/texar"
+website = "https://asyml.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

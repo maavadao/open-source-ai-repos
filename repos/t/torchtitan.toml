@@ -1,0 +1,7 @@
+name = "torchtitan"
+description = "A PyTorch native platform for training generative AI models"
+category = "ml-platforms"
+repository = "https://github.com/pytorch/torchtitan"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-20

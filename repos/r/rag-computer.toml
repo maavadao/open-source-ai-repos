@@ -1,0 +1,9 @@
+name = "rag.computer"
+description = "Self-hostable RAG platform - document ingestion, embedding, and vector search behind a simple REST API"
+category = "vector-databases"
+tags = ["ai", "embeddings", "rag", "rag-pipeline", "vector-database"]
+repository = "https://github.com/bigint/rag.computer"
+website = "https://rag.computer"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

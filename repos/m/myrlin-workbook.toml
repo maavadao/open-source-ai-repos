@@ -1,0 +1,9 @@
+name = "myrlin-workbook"
+description = "Open-source workspace manager for AI coding CLIs: Claude Code and ChatGPT Codex in one browser app. Discovers every session on disk, embedded terminals, phone-ready, cost tracking, kanban, docs. Windows, macOS, Linux."
+category = "coding"
+tags = ["agent-orchestration", "ai-agents", "chatgpt", "claude-code", "codex", "coding-agents", "developer-tools", "multi-provider"]
+repository = "https://github.com/therealarthur/myrlin-workbook"
+website = "https://therealarthur.github.io/myrlin-workbook/"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-10-20

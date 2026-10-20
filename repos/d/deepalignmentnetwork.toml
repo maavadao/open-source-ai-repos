@@ -1,0 +1,8 @@
+name = "DeepAlignmentNetwork"
+description = "A deep neural network for face alignment"
+category = "vision"
+tags = ["face-alignment", "computer-vision", "cvpr-2017", "cvpr", "theano", "lasagne", "deep-learning"]
+repository = "https://github.com/MarekKowalski/DeepAlignmentNetwork"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

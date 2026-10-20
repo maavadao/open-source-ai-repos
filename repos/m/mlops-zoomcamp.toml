@@ -1,0 +1,9 @@
+name = "mlops-zoomcamp"
+description = "Free MLOps course from DataTalks.Club. Register here 🏼 to get notified about the next cohort"
+category = "learning"
+tags = ["machine-learning", "mlops", "model-deployment", "model-monitoring", "workflow-orchestration"]
+repository = "https://github.com/DataTalksClub/mlops-zoomcamp"
+website = "https://courses.datatalks.club/register/mlops-zoomcamp/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "ToolOrchestra"
+description = "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows."
+category = "agents"
+tags = ["agent", "agentic-ai", "deep-learning", "large-language-models"]
+repository = "https://github.com/NVlabs/ToolOrchestra"
+website = "https://research.nvidia.com/labs/lpr/ToolOrchestra/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

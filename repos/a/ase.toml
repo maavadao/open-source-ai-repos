@@ -1,0 +1,9 @@
+name = "ASE"
+description = "Adversarial skill embeddings for training reusable controllers for physically simulated characters."
+category = "video"
+tags = ["animation", "physics-simulation", "reinforcement-learning"]
+repository = "https://github.com/nv-tlabs/ASE"
+website = "https://research.nvidia.com/labs/toronto-ai/ASE/"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

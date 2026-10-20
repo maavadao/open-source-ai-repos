@@ -1,0 +1,9 @@
+name = "talk2arxiv"
+description = "Talk to any ArXiv paper using ChatGPT"
+category = "llm-apps"
+tags = ["arxiv", "gpt", "llm", "open-source", "rag", "research"]
+repository = "https://github.com/evanhu1/talk2arxiv"
+website = "https://talk2arxiv.org"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-20

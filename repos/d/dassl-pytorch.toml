@@ -1,0 +1,8 @@
+name = "Dassl.pytorch"
+description = "A PyTorch toolbox for domain generalization, domain adaptation and semi-supervised learning."
+category = "vision"
+tags = ["pytorch", "benchmark-datasets", "semi-supervised-learning", "domain-adaptation", "domain-generalization", "deep-learning", "machine-learning", "computer-vision"]
+repository = "https://github.com/KaiyangZhou/Dassl.pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "SelectionGAN"
+description = "[CVPR 2019 Oral] Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation"
+category = "image"
+tags = ["computer-vision", "computer-graphics", "gans", "generative-adversarial-network", "deep-learning", "image-generation", "image-translation", "image-manipulation"]
+repository = "https://github.com/Ha0Tang/SelectionGAN"
+website = "http://disi.unitn.it/~hao.tang/project/SelectionGAN.html"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

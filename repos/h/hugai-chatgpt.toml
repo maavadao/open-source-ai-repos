@@ -1,0 +1,9 @@
+name = "Hugai-chatgpt"
+description = "HugAi是由Springboot Vue2 elementUI集成各大AI大模型平台开发的智能问答助手，文本对话模型支持流式响应，现已接入OpenAi、chatGpt、讯飞星火、文心一言、Ollama，以及主流AI绘图Midjourney、Stable Diffusion，完全开源搭建属于自己的AI聊天室"
+category = "image"
+tags = ["chatgpt-api", "chatgpt3", "java", "openai", "redission", "minio", "deque", "element-ui"]
+repository = "https://github.com/TouShang6015/Hugai-chatgpt"
+website = "http://chat.hootin19.fun"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-20

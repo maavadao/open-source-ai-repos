@@ -1,0 +1,9 @@
+name = "Reinforcement_Learning"
+description = "Reinforcement learning tutorials"
+category = "learning"
+tags = ["dqn", "ddqn", "dueling-dqn", "d3qn", "reinforcement-learning", "a2c", "policy-gradient", "a3c"]
+repository = "https://github.com/pythonlessons/Reinforcement_Learning"
+website = "https://pylessons.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

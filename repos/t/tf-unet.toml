@@ -1,0 +1,8 @@
+name = "tf_unet"
+description = "Generic U-Net Tensorflow implementation for image segmentation"
+category = "vision"
+tags = ["image-segmentation", "neural-network", "deep-learning", "tensorflow"]
+repository = "https://github.com/jakeret/tf_unet"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

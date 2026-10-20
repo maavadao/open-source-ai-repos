@@ -1,0 +1,9 @@
+name = "openhuman"
+description = "The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS."
+category = "mcp-servers"
+tags = ["ai-agents", "llm", "local-first", "rust", "agent-orchestration", "ai-assistant", "desktop", "mcp"]
+repository = "https://github.com/tinyhumansai/openhuman"
+website = "https://tinyhumans.ai/openhuman"
+license = "GPL-3.0"
+language = "Rust"
+added = 2026-10-20

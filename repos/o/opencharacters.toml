@@ -1,0 +1,9 @@
+name = "OpenCharacters"
+description = "Simple little web interface for creating characters and chatting with them. It's basically a single HTML file - no server. Share characters using a link (character data is stored within the URL itself). All chat data is stored in your browser using IndexedDB. Currently…"
+category = "chat"
+tags = ["chatbot", "chatgpt", "openai"]
+repository = "https://github.com/josephrocca/OpenCharacters"
+website = "https://josephrocca.github.io/OpenCharacters"
+license = "MIT"
+language = "HTML"
+added = 2026-10-20

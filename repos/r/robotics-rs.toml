@@ -1,0 +1,8 @@
+name = "robotics.rs"
+description = "web site of robotics.rs. See index.md."
+category = "robotics"
+tags = ["robotics", "rust", "rust-lang", "awsome"]
+repository = "https://github.com/robotics-rs/robotics.rs"
+website = "http://robotics.rs"
+license = "NOASSERTION"
+added = 2026-10-20

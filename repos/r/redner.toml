@@ -1,0 +1,9 @@
+name = "redner"
+description = "Differentiable rendering without approximation."
+category = "vision"
+tags = ["rendering", "monte-carlo-ray-tracing", "computer-vision", "computer-graphics", "differentiable-rendering", "pytorch", "tensorflow"]
+repository = "https://github.com/BachiLi/redner"
+website = "https://people.csail.mit.edu/tzumao/diffrt/"
+license = "MIT"
+language = "NASL"
+added = 2026-10-20

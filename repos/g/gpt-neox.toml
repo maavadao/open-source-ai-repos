@@ -1,0 +1,9 @@
+name = "gpt-neox"
+description = "An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries"
+category = "models"
+tags = ["deepspeed-library", "gpt-3", "transformers", "language-model"]
+repository = "https://github.com/EleutherAI/gpt-neox"
+website = "https://www.eleuther.ai/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

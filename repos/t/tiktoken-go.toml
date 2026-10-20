@@ -1,0 +1,8 @@
+name = "tiktoken-go"
+description = "go version of tiktoken"
+category = "chat"
+tags = ["gpt-35-turbo", "openai", "tiktoken", "chatgpt", "go", "golang", "gpt-4"]
+repository = "https://github.com/pkoukk/tiktoken-go"
+license = "MIT"
+language = "Go"
+added = 2026-10-20

@@ -1,0 +1,7 @@
+name = "awesome-robot-descriptions"
+description = "A curated list of awesome robot descriptions (URDF, MJCF)"
+category = "learning"
+tags = ["awesome", "awesome-list", "urdf-descriptions", "urdf-models", "biped", "humanoid", "quadruped", "robot"]
+repository = "https://github.com/robot-descriptions/awesome-robot-descriptions"
+license = "CC0-1.0"
+added = 2026-10-20

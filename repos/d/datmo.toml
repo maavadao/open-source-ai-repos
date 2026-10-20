@@ -1,0 +1,8 @@
+name = "datmo"
+description = "Detection and Tracking of Moving Objects (DATMO) using sensor_msgs/Lidar."
+category = "robotics"
+tags = ["lidar", "ros", "autonomous-vehicles", "clustering", "data-association", "detection", "obstacle-avoidance", "datmo"]
+repository = "https://github.com/kostaskonkk/datmo"
+license = "BSD-2-Clause"
+language = "C++"
+added = 2026-10-20

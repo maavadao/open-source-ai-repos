@@ -1,0 +1,10 @@
+name = "InvokeAI"
+description = "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for…"
+category = "image"
+tags = ["ai-art", "artificial-intelligence", "generative-art", "image-generation", "img2img", "inpainting", "latent-diffusion", "linux"]
+repository = "https://github.com/invoke-ai/InvokeAI"
+website = "https://invoke.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+skill_level = "intermediate"
+added = 2026-10-20

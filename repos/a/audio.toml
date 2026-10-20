@@ -1,0 +1,9 @@
+name = "audio"
+description = "Data manipulation and transformation for audio signal processing, powered by PyTorch"
+category = "speech"
+tags = ["audio", "python", "io", "speech", "machine-learning", "pytorch", "audio-processing"]
+repository = "https://github.com/pytorch/audio"
+website = "https://pytorch.org/audio"
+license = "BSD-2-Clause"
+language = "Python"
+added = 2026-10-20

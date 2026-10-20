@@ -1,0 +1,9 @@
+name = "Ask-Anything"
+description = "[CVPR2024 Highlight][VideoChatGPT] ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS."
+category = "video"
+tags = ["captioning-videos", "chatgpt", "gradio", "langchain", "video-question-answering", "video-understanding", "stablelm", "chat"]
+repository = "https://github.com/OpenGVLab/Ask-Anything"
+website = "https://vchat.opengvlab.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

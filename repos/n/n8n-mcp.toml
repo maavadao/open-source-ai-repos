@@ -1,0 +1,9 @@
+name = "n8n-mcp"
+description = "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you"
+category = "mcp-servers"
+tags = ["mcp", "mcp-server", "n8n", "workflows"]
+repository = "https://github.com/czlonkowski/n8n-mcp"
+website = "https://www.n8n-mcp.com/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

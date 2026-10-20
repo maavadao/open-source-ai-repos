@@ -1,0 +1,9 @@
+name = "SyncDreamer"
+description = "[ICLR 2024 Spotlight] SyncDreamer: Generating Multiview-consistent Images from a Single-view Image"
+category = "image"
+tags = ["3d-reconstruction", "diffusion-models", "generative-model", "single-view-reconstruction"]
+repository = "https://github.com/liuyuan-pal/SyncDreamer"
+website = "https://liuyuan-pal.github.io/SyncDreamer/"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

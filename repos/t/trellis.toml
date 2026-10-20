@@ -1,0 +1,9 @@
+name = "Trellis"
+description = "The best agent harness."
+category = "coding"
+tags = ["agentic-coding", "ai-workflow", "codex", "harness", "claudecode"]
+repository = "https://github.com/mindfold-ai/Trellis"
+website = "https://docs.trytrellis.app"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-20

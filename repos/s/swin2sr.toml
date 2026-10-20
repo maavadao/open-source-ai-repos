@@ -1,0 +1,9 @@
+name = "swin2sr"
+description = "[ECCV] Swin2SR: SwinV2 Transformer for Compressed Image Super-Resolution and Restoration. Advances in Image Manipulation (AIM) workshop ECCV 2022. Try it out! over 3.3M runs https://replicate.com/mv-lab/swin2sr"
+category = "image"
+tags = ["compression", "compression-artifact-reduction", "computer-vision", "deblocking", "denoising", "eccv2022", "image-denoising", "image-processing"]
+repository = "https://github.com/mv-lab/swin2sr"
+website = "https://arxiv.org/abs/2209.11345"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

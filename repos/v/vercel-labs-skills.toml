@@ -1,0 +1,8 @@
+name = "skills"
+description = "The open agent skills tool - npx skills"
+category = "skills-prompts"
+repository = "https://github.com/vercel-labs/skills"
+website = "https://skills.sh"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "FISSURE"
+description = "The RF and reverse engineering framework for everyone. Follow and to show your support!"
+category = "data-science"
+tags = ["gnuradio", "protocols", "reverse-engineering", "rf", "sdr", "signals", "tools", "bladerf"]
+repository = "https://github.com/ainfosec/FISSURE"
+website = "https://twitter.com/FissureRF"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "LEGENT"
+description = "Open Platform for Embodied Agents"
+category = "robotics"
+tags = ["embodied-ai", "language-grounding", "large-multimodal-models", "physics-engine", "robot-simulator"]
+repository = "https://github.com/thunlp/LEGENT"
+website = "https://docs.legent.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

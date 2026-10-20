@@ -1,0 +1,8 @@
+name = "comfy_mtb"
+description = "Animation oriented nodes pack for ComfyUI"
+category = "video"
+tags = ["animation", "comfyui", "faceswap", "interpolation", "nodes", "stable-diffusion"]
+repository = "https://github.com/melMass/comfy_mtb"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

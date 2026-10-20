@@ -1,0 +1,9 @@
+name = "wechatbot"
+description = "微信 iLink Bot SDK for OpenClaw/AI Agent"
+category = "agents"
+tags = ["ai-agents", "weixin"]
+repository = "https://github.com/corespeed-io/wechatbot"
+website = "https://wechatbot.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

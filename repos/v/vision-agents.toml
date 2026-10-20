@@ -1,0 +1,9 @@
+name = "Vision-Agents"
+description = "Open Vision Agents by Stream. Build voice and vision agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency."
+category = "speech"
+tags = ["ai", "ai-agents", "vision-ai", "voice-ai", "video-agents", "agentic-ai", "agents", "realtime"]
+repository = "https://github.com/GetStream/Vision-Agents"
+website = "https://visionagents.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

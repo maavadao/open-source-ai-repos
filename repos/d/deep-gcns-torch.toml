@@ -1,0 +1,8 @@
+name = "deep_gcns_torch"
+description = "Pytorch Repo for DeepGCNs (ICCV'2019 Oral, TPAMI'2021), DeeperGCN (arXiv'2020) and GNN1000(ICML'2021): https://www.deepgcns.org"
+category = "vision"
+tags = ["graph-neural-networks", "geometric-deep-learning", "3d-point-clouds", "deep-gcns", "data-mining", "pytorch", "computer-vision", "bioinformatics"]
+repository = "https://github.com/lightaime/deep_gcns_torch"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

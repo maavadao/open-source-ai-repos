@@ -1,0 +1,8 @@
+name = "ComfyJS"
+description = "Comfiest Twitch Chat Library for JavaScript | NodeJS + Browser Support"
+category = "chat"
+tags = ["hacktob", "twitch", "javascript", "chat", "chatbot", "nodejs", "browser", "library"]
+repository = "https://github.com/instafluff/ComfyJS"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

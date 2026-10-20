@@ -1,0 +1,9 @@
+name = "MSDNet"
+description = "Multi-Scale Dense Networks for Resource Efficient Image Classification （ICLR 2018 Oral）"
+category = "vision"
+tags = ["deep-learning", "imagenet", "cifar", "computer-vision"]
+repository = "https://github.com/gaohuang/MSDNet"
+website = "https://arxiv.org/abs/1703.09844"
+license = "MIT"
+language = "Lua"
+added = 2026-10-20

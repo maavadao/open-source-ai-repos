@@ -1,0 +1,8 @@
+name = "DeblurGAN"
+description = "Image Deblurring using Generative Adversarial Networks"
+category = "vision"
+tags = ["deep-learning", "gan", "deblurring", "image-processing", "image-manipulation", "neural-network", "convolutional-neural-networks", "convolutional-networks"]
+repository = "https://github.com/KupynOrest/DeblurGAN"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

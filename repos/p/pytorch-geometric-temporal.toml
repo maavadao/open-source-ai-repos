@@ -1,0 +1,8 @@
+name = "pytorch_geometric_temporal"
+description = "PyTorch Geometric Temporal: Spatiotemporal Signal Processing with Neural Machine Learning Models (CIKM 2021)"
+category = "ml-platforms"
+tags = ["pytorch", "graph-neural-networks", "temporal-networks", "temporal-graphs", "gcn", "graph-convolutional-networks", "deep-learning", "network-science"]
+repository = "https://github.com/benedekrozemberczki/pytorch_geometric_temporal"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

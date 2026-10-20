@@ -1,0 +1,7 @@
+name = "Awesome-Multimodal-LLM-Autonomous-Driving"
+description = "[WACV 2024 Survey Paper] Multimodal Large Language Models for Autonomous Driving"
+category = "learning"
+tags = ["autonomous-car", "autonomous-driving", "autonomous-vehicles", "foundation-models", "large-language-models", "multimodal", "multimodal-large-language-models", "self-driving"]
+repository = "https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving"
+license = "MIT"
+added = 2026-10-20

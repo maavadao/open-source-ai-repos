@@ -1,0 +1,8 @@
+name = "MATLAB-Simulink-Challenge-Project-Hub"
+description = "This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and industry directions."
+category = "education"
+tags = ["capstone-project", "senior-design", "senior-project", "thesis", "students", "student-project", "final-project", "final-year-project"]
+repository = "https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub"
+license = "NOASSERTION"
+language = "HTML"
+added = 2026-10-20

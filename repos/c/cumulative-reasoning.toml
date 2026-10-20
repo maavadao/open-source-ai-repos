@@ -1,0 +1,9 @@
+name = "cumulative-reasoning"
+description = "[TMLR] Cumulative Reasoning With Large Language Models (https://arxiv.org/abs/2308.04371)"
+category = "models"
+tags = ["llm", "reasoning", "large-language-models", "prompting", "math"]
+repository = "https://github.com/iiis-ai/cumulative-reasoning"
+website = "https://cumulative-reasoning.github.io"
+license = "NOASSERTION"
+language = "Python"
+added = 2026-10-20

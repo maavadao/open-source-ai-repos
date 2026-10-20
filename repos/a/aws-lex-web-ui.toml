@@ -1,0 +1,8 @@
+name = "aws-lex-web-ui"
+description = "Sample Amazon Lex chat bot web interface"
+category = "chat"
+tags = ["aws-lex", "lex", "ai", "bot", "chatbot", "chat", "web", "interface"]
+repository = "https://github.com/aws-samples/aws-lex-web-ui"
+license = "NOASSERTION"
+language = "JavaScript"
+added = 2026-10-20

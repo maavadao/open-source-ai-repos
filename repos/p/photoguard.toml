@@ -1,0 +1,9 @@
+name = "photoguard"
+description = "Raising the Cost of Malicious AI-Powered Image Editing"
+category = "security"
+tags = ["adversarial-attacks", "adversarial-examples", "deep-learning", "deepfakes", "robustness", "stable-diffusion", "computer-vision"]
+repository = "https://github.com/MadryLab/photoguard"
+website = "https://gradientscience.org/photoguard/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "Multimodal-RAG-Survey"
+description = "A Survey on Multimodal Retrieval-Augmented Generation"
+category = "llm-apps"
+tags = ["multimodal-learning", "rag", "retrieval-augmented-generation"]
+repository = "https://github.com/llm-lab-org/Multimodal-RAG-Survey"
+website = "https://arxiv.org/abs/2502.08826"
+license = "NOASSERTION"
+added = 2026-10-20

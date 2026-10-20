@@ -1,0 +1,9 @@
+name = "agent-skills"
+description = "Agent Skills to help developers using AI agents with Supabase"
+category = "agents"
+tags = ["ai", "ai-agents", "skills", "supabase"]
+repository = "https://github.com/supabase/agent-skills"
+website = "https://supabase.com/docs/guides/getting-started/ai-skills"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-20

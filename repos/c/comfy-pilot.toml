@@ -1,0 +1,8 @@
+name = "comfy-pilot"
+description = "MCP server + embedded terminal that lets Claude Code see and edit your ComfyUI workflows"
+category = "mcp-servers"
+tags = ["ai", "claude", "claude-code", "comfyui", "comfyui-custom-node", "generative-ai", "image-generation", "mcp"]
+repository = "https://github.com/ConstantineB6/comfy-pilot"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,9 @@
+name = "spektral"
+description = "Graph Neural Networks with Keras and Tensorflow 2."
+category = "ml-platforms"
+tags = ["graph-neural-networks", "keras", "python", "tensorflow", "tensorflow2", "graph-deep-learning", "deep-learning"]
+repository = "https://github.com/danielegrattarola/spektral"
+website = "https://graphneural.network"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

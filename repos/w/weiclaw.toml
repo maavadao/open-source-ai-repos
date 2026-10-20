@@ -1,0 +1,8 @@
+name = "WeiClaw"
+description = "一条命令，把微信变成任何 AI Agent 的入口 | Connect WeChat to any AI Agent with one command"
+category = "coding"
+tags = ["acp", "agent-protocol", "ai-agent", "chatbot", "claude", "gemini", "multi-agent", "nodejs"]
+repository = "https://github.com/kellyvv/WeiClaw"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-20

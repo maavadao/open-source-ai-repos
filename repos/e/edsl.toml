@@ -1,0 +1,9 @@
+name = "edsl"
+description = "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research with large numbers of AI agents and LLMs."
+category = "local-llms"
+tags = ["anthropic", "data-labeling", "deepinfra", "domain-specific-language", "experiments", "llama2", "llm", "llm-agent"]
+repository = "https://github.com/expectedparrot/edsl"
+website = "https://docs.expectedparrot.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

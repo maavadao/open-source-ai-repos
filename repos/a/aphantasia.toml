@@ -1,0 +1,8 @@
+name = "aphantasia"
+description = "CLIP + FFT/DWT/RGB = text to image/video"
+category = "video"
+tags = ["text-to-image", "clip", "text-to-video"]
+repository = "https://github.com/eps696/aphantasia"
+license = "MIT"
+language = "Python"
+added = 2026-10-20

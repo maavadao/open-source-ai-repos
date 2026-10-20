@@ -1,0 +1,8 @@
+name = "ONE-PEACE"
+description = "A general representation model across vision, audio, language modalities. Paper: ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities"
+category = "models"
+tags = ["foundation-models", "multimodal", "representation-learning", "vision-language", "audio-language", "vision-and-language", "vision-transformer", "contrastive-loss"]
+repository = "https://github.com/OFA-Sys/ONE-PEACE"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-20

@@ -1,0 +1,8 @@
+name = "OPERA"
+description = "[CVPR 2024 Highlight] OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation"
+category = "chat"
+tags = ["large-multimodal-models", "llama", "multimodal", "vision-language-learning", "vision-language-model", "chatbot", "chatgpt", "gpt-4"]
+repository = "https://github.com/shikiw/OPERA"
+license = "MIT"
+language = "Python"
+added = 2026-10-20
