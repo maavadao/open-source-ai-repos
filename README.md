@@ -40,6 +40,14 @@ Every day, and on every merge, GitHub Actions publishes these files on GitHub Pa
 
 All are free to use in your own projects.
 
+## New repos find their way in
+
+Every day at 04:00 UTC `scripts/discover.py` searches GitHub for AI repos (by topic) that aren't
+listed yet: at least 300 stars and active in the last year, or at least 100 stars and created in
+the last 90 days. It adds up to 150 a day, most-starred first, using the repo's own GitHub
+description and topics and a category guessed from them. If the category is wrong, fix it with a
+normal pull request.
+
 ## Add a repo
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md). In short: copy

@@ -1,0 +1,42 @@
+name: Discover new repos
+
+on:
+  schedule:
+    - cron: "0 4 * * *"  # an hour before the daily publish, which then lists what this adds
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: discover
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Find new repos
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # At most 150 a day, most-starred first, so a backlog clears over a few days.
+        run: python scripts/discover.py --max-new 150
+      - name: Check them
+        run: python scripts/validate.py
+      - name: Commit
+        run: |
+          git add repos
+          if git diff --cached --quiet; then
+            echo "no new repos"
+            exit 0
+          fi
+          n=$(git diff --cached --name-only | wc -l)
+          git config user.name "maavadao-bot"
+          git config user.email "maavadao-bot@users.noreply.github.com"
+          git commit -m "Add $n new open-source AI repos found on GitHub"
+          git push
