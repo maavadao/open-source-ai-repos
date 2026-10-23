@@ -91,9 +91,9 @@ not edit it yourself, [open an issue](../../issues/new/choose).
 
 ## The developer pages
 
-[maavadao.com/developers](https://maavadao.com/developers) shows who contributes to the most-starred
-repos here. Once a day, `scripts/build_contributors.py` asks GitHub for the top contributors of
-the 500 most-starred repos and publishes `contributors.json`: each person's GitHub login, their
+[maavadao.com/developers](https://maavadao.com/developers) shows who contributes to the repos listed
+here. Once a day, `scripts/build_contributors.py` asks GitHub for the top contributors of a slice
+of the repos (about 900 a day, so every repo is refreshed every couple of weeks) and publishes `contributors.json`: each person's GitHub login, their
 user id (for the avatar) and their commit count per repo. That's all. No names, emails,
 locations or bios are collected.
 

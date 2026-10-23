@@ -6,6 +6,10 @@ on:
   schedule:
     - cron: "0 5 * * *"  # daily, so stars and last activity stay fresh
   workflow_dispatch:
+    inputs:
+      seed_url:
+        description: "Contributors file to start from instead of the published one (for a first full build)"
+        required: false
 
 permissions:
   contents: read
@@ -35,13 +39,17 @@ jobs:
         continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SEED_URL: ${{ inputs.seed_url }}
         run: |
-          # Only the daily run asks GitHub for contributors; merges reuse the last published
-          # file, with opt-outs applied straight away.
-          if [ "${{ github.event_name }}" = "schedule" ]; then
-            python scripts/build_contributors.py
+          # Only the daily run asks GitHub for contributors, and only for a slice of the repos
+          # (the Actions token allows about 1,000 calls an hour); the rest comes from the last
+          # published file. Merges reuse that file, with opt-outs applied straight away.
+          PUBLISHED=https://maavadao.github.io/open-source-ai-repos/contributors.json
+          if [ "${{ github.event_name }}" = "push" ]; then
+            python scripts/build_contributors.py --reuse "$PUBLISHED"
           else
-            python scripts/build_contributors.py --reuse https://maavadao.github.io/open-source-ai-repos/contributors.json
+            python scripts/build_contributors.py --top 100000 --refresh 900 \
+              --previous "${SEED_URL:-$PUBLISHED}"
           fi
       - name: Build star history
         # Adds today's stars to every repo's history, keeping what's already published.

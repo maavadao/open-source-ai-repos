@@ -35,7 +35,7 @@ Every day, and on every merge, GitHub Actions publishes these files on GitHub Pa
 | File | What |
 | --- | --- |
 | [`index.json`](https://maavadao.github.io/open-source-ai-repos/index.json) | Every repo, with live stars, forks, open issues, watchers, latest release, last activity and archived status from GitHub |
-| [`contributors.json`](https://maavadao.github.io/open-source-ai-repos/contributors.json) | The top contributors of the 500 most-starred repos: GitHub login, user id and commits per repo, nothing else |
+| [`contributors.json`](https://maavadao.github.io/open-source-ai-repos/contributors.json) | The top 30 contributors of every repo in the directory (~87,000 developers): GitHub login, user id and commits per repo, nothing else |
 | `history/<first character>.json` | Star history: every repo's star count, recorded daily since 20 October 2026 (GitHub no longer lists when each star was given, so there's no earlier history) |
 
 All are free to use in your own projects.
