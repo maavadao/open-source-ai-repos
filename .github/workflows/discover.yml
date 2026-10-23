@@ -23,7 +23,7 @@ jobs:
       - run: pip install -r requirements.txt
       - name: Find new repos
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SCRAPE_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
         # At most 150 a day, most-starred first, so a backlog clears over a few days.
         run: python scripts/discover.py --max-new 150
       - name: Check them
