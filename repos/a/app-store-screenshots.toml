@@ -1,0 +1,9 @@
+name = "app-store-screenshots"
+description = "end to end app store screenshot creation using AI"
+category = "coding"
+tags = ["agentic-ai", "apple", "appstore", "automate", "claude", "cursor", "design", "generate"]
+repository = "https://github.com/ParthJadhav/app-store-screenshots"
+website = "https://www.parthjadhav.com/products/app-store-screenshots"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-24

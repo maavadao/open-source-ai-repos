@@ -1,0 +1,9 @@
+name = "NarratoAI"
+description = "利用 AI 大模型，一键解说并剪辑视频"
+category = "llm-apps"
+tags = ["aiagent", "aiops", "gemini-api", "llm", "moviepy", "python"]
+repository = "https://github.com/linyqh/NarratoAI"
+website = "https://www.narratoai.cn"
+license = "MIT"
+language = "Python"
+added = 2026-10-24

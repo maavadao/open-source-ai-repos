@@ -1,0 +1,8 @@
+name = "awesome-chatgpt-prompts-zh"
+description = "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。"
+category = "chat"
+tags = ["chat-gpt", "chatgpt", "chatgpt3", "chatgpt4", "gpt"]
+repository = "https://github.com/PlexPt/awesome-chatgpt-prompts-zh"
+website = "https://chat.aimakex.com/"
+license = "MIT"
+added = 2026-10-24

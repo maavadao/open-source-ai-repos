@@ -1,0 +1,7 @@
+name = "docker-android"
+description = "Android in docker solution with noVNC supported, video recording, mcp server and AI-agent"
+category = "mcp-servers"
+tags = ["ai-agent", "android", "android-emulator", "aws", "azure", "cloud", "docker", "docker-android"]
+repository = "https://github.com/budtmo/docker-android"
+language = "Python"
+added = 2026-10-24

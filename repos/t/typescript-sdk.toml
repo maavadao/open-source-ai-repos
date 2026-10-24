@@ -1,0 +1,8 @@
+name = "typescript-sdk"
+description = "The official TypeScript SDK for Model Context Protocol servers and clients"
+category = "mcp-servers"
+tags = ["mcp", "mcp-client", "mcp-server", "typescript"]
+repository = "https://github.com/modelcontextprotocol/typescript-sdk"
+website = "https://ts.sdk.modelcontextprotocol.io/v2"
+language = "TypeScript"
+added = 2026-10-24

@@ -1,0 +1,7 @@
+name = "Awesome-MCP-ZH"
+description = "MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients"
+category = "mcp-servers"
+tags = ["claude", "claude-mcp", "deepseek", "deepseek-mcp", "mcp", "mcp-clients", "mcp-host", "mcp-server"]
+repository = "https://github.com/yzfly/Awesome-MCP-ZH"
+license = "MIT"
+added = 2026-10-24

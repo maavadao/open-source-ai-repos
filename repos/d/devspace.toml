@@ -1,0 +1,8 @@
+name = "devspace"
+description = "Minimal Coding Agent Harness on MCP for ChatGPT, Claude, Hermes, Grok Bot, OpenClaw"
+category = "skills-prompts"
+tags = ["agent-orchestration", "chatgpt", "claude", "claude-code", "codex", "dyanmic-workflow", "pi-coding-agent"]
+repository = "https://github.com/Waishnav/devspace"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-24

@@ -1,0 +1,7 @@
+name = "nlp_chinese_corpus"
+description = "大规模中文自然语言处理语料 Large Scale Chinese Corpus for NLP"
+category = "models"
+tags = ["bert", "chinese", "chinese-corpus", "chinese-dataset", "chinese-nlp", "corpus", "dataset", "language-model"]
+repository = "https://github.com/brightmart/nlp_chinese_corpus"
+license = "MIT"
+added = 2026-10-24

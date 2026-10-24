@@ -1,0 +1,9 @@
+name = "Concat"
+description = "The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP."
+category = "mcp-servers"
+tags = ["ffmpeg", "free-video-editor", "model-context-protocol", "non-linear-editor", "offline-first", "open-source-video-editor", "self-hosted", "video-editing"]
+repository = "https://github.com/jub0t/Concat"
+website = "https://concat.standalones.org"
+license = "AGPL-3.0"
+language = "Rust"
+added = 2026-10-24

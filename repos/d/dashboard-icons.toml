@@ -1,0 +1,9 @@
+name = "dashboard-icons"
+description = "3,400+ curated icons and logos for dashboards and AI agents. SVG, PNG and WEBP on a free CDN, plus an MCP server for Claude Code, Codex, ChatGPT, Cursor, Hermes and OpenClaw."
+category = "mcp-servers"
+tags = ["ai-agents", "claude-code", "codex", "dashboard", "dashboard-icons", "dashy", "docker", "heimdall"]
+repository = "https://github.com/homarr-labs/dashboard-icons"
+website = "https://dashboardicons.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-24

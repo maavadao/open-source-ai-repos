@@ -1,0 +1,7 @@
+name = "fresh-start"
+description = "The original nirholas/claude-code before DMCA and take down. Once everything is cleared, it will return. Working with Anthropic and Github to get everything back."
+category = "agents"
+tags = ["agents-md", "ai-agents", "llms-txt", "open-source", "three-ws", "web3"]
+repository = "https://github.com/nirholas/fresh-start"
+website = "https://three.ws"
+added = 2026-10-24

@@ -1,0 +1,8 @@
+name = "kaolin"
+description = "A PyTorch Library for Accelerating 3D Deep Learning Research"
+category = "ml-platforms"
+tags = ["3d-deep-learning", "artificial-intelligence", "camera-api", "cuda", "differentiable-lighting", "differentiable-rendering", "gaussian-splatting", "interactive-visualizations"]
+repository = "https://github.com/NVIDIAGameWorks/kaolin"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-24

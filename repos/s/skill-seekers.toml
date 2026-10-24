@@ -1,0 +1,9 @@
+name = "Skill_Seekers"
+description = "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection"
+category = "browser-automation"
+tags = ["ai-tools", "ast-parser", "automation", "claude-ai", "claude-skills", "code-analysis", "conflict-detection", "documentation"]
+repository = "https://github.com/yusufkaraaslan/Skill_Seekers"
+website = "https://skillseekersweb.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-24

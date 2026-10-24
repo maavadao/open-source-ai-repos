@@ -1,0 +1,8 @@
+name = "spring-ai"
+description = "An Application Framework for AI Engineering"
+category = "other"
+tags = ["artificial-intelligence", "java", "spring-ai"]
+repository = "https://github.com/spring-projects/spring-ai"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-24

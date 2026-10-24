@@ -1,0 +1,9 @@
+name = "ai-infra-book"
+description = "《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验"
+category = "llm-apps"
+tags = ["accelerator", "ai-infra", "ai-infrastructure", "book", "datacenter-network", "deepseek", "distributed-systems", "gpu"]
+repository = "https://github.com/bojieli/ai-infra-book"
+website = "https://bojieli.github.io/ai-infra-book/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-24

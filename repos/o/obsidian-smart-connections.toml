@@ -1,0 +1,8 @@
+name = "obsidian-smart-connections"
+description = "Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model powers semantic search. Zero setup. No API key."
+category = "vector-databases"
+tags = ["chatgpt", "claude", "embeddings", "gemini", "obsidian", "obsidian-md", "obsidian-plugin", "related-items"]
+repository = "https://github.com/brianpetro/obsidian-smart-connections"
+website = "https://smartconnections.app"
+language = "JavaScript"
+added = 2026-10-24

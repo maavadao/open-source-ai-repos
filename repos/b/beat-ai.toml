@@ -1,0 +1,8 @@
+name = "beat-ai"
+description = "不玩晦涩不搞少数派的 AI 入门圣经，从学生到工程师都能轻松掌握。涵盖神经网络到大模型、顶层设计到微观原理、工程实现到算法基础。 学完后，大家能彻底看懂为什么下一 token 预测这个看似不起眼的能力可以改变世界，也能发现原来 AI 并没有想象中那么神秘、那么高不可攀。 Let's just beat it !"
+category = "llm-apps"
+tags = ["ai", "ai-learning", "engineering", "llm", "neural-network", "transformer"]
+repository = "https://github.com/origin-brain/beat-ai"
+website = "https://beatai.org"
+language = "JavaScript"
+added = 2026-10-24

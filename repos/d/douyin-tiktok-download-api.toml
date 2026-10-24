@@ -1,0 +1,9 @@
+name = "Douyin_TikTok_Download_API"
+description = "🚀 自托管的抖音、TikTok、B 站数据采集与无水印视频下载 API，支持 AI agent 通过 MCP 调用与离线语音转文字，Docker 一键部署。| Self-hosted TikTok, Douyin & Bilibili scraper and no-watermark video downloader — async REST API, MCP server for AI agents, CLI and web console, plus offline speech-to-text for downloaded videos. Self-healing identity p…"
+category = "mcp-servers"
+tags = ["bilibili", "crawler", "data-collection", "douyin", "douyin-api", "downloader", "fastapi", "mcp-server"]
+repository = "https://github.com/Evil0ctal/Douyin_TikTok_Download_API"
+website = "https://douyin.wtf"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-24

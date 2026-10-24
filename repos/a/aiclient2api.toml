@@ -1,0 +1,9 @@
+name = "AIClient2API"
+description = "Self-hosted multi-protocol AI API proxy for Antigravity, Codex, Grok, Kiro, OpenAI, Claude, and custom providers. Supports OpenAI-compatible API, Claude API, Gemini protocol conversion, GPT, Grok Build, Claude Opus, Gemini Pro, Kimi, MiniMax, provider pools, smart routing, and automatic failover."
+category = "other"
+tags = ["aicoding", "antigravity", "claude", "codex", "free", "grok", "kiro", "openai"]
+repository = "https://github.com/justlovemaki/AIClient2API"
+website = "https://aiproxy.justlikemaki.vip"
+license = "GPL-3.0"
+language = "JavaScript"
+added = 2026-10-24

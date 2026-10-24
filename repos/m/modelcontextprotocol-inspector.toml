@@ -1,0 +1,8 @@
+name = "inspector"
+description = "Visual testing tool for MCP servers"
+category = "mcp-servers"
+tags = ["cli", "debug", "mcp", "tool", "tui", "web"]
+repository = "https://github.com/modelcontextprotocol/inspector"
+website = "https://modelcontextprotocol.io/docs/2026-07-28/tools/inspector"
+language = "TypeScript"
+added = 2026-10-24

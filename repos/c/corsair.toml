@@ -1,0 +1,8 @@
+name = "corsair"
+description = "Connect your users to their apps"
+category = "agents"
+tags = ["agentic-ai", "agents", "ai", "ai-agents", "aiagents", "api-integration", "corsair", "developer-tools"]
+repository = "https://github.com/corsairdev/corsair"
+website = "https://corsair.dev"
+language = "TypeScript"
+added = 2026-10-24

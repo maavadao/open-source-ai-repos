@@ -1,0 +1,9 @@
+name = "mcp-atlassian"
+description = "MCP server for Atlassian tools (Confluence, Jira)"
+category = "mcp-servers"
+tags = ["atlassian", "confluence", "jira", "mcp"]
+repository = "https://github.com/sooperset/mcp-atlassian"
+website = "https://mcp-atlassian.soomiles.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-24

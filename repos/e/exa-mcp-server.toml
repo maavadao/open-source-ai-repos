@@ -1,0 +1,9 @@
+name = "exa-mcp-server"
+description = "Exa MCP for web search and web crawling!"
+category = "mcp-servers"
+tags = ["code-search", "codesearch", "crawling", "mcp", "mcp-server", "model-context-protocol", "web-search", "websearch"]
+repository = "https://github.com/exa-labs/exa-mcp-server"
+website = "https://exa.ai/docs/reference/exa-mcp"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-24

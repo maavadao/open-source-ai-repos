@@ -1,0 +1,9 @@
+name = "tuios"
+description = "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account."
+category = "skills-prompts"
+tags = ["ai-agents", "bubbletea", "charm", "claude-code", "codex", "coding-agents", "developer-tools", "go"]
+repository = "https://github.com/Gaurav-Gosain/tuios"
+website = "https://tuios.dev"
+license = "MIT"
+language = "Go"
+added = 2026-10-24

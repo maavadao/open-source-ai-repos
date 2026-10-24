@@ -1,0 +1,8 @@
+name = "hello-agents"
+description = "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
+category = "agents"
+tags = ["agent", "llm", "rag", "tutorial"]
+repository = "https://github.com/datawhalechina/hello-agents"
+website = "https://hello-agents.datawhale.cc"
+language = "Python"
+added = 2026-10-24

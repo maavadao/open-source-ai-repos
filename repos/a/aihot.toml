@@ -1,0 +1,9 @@
+name = "AIHOT"
+description = "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。"
+category = "llm-apps"
+tags = ["ai", "chinese", "content-curation", "daily-digest", "docker-compose", "llm", "mcp", "news-aggregator"]
+repository = "https://github.com/KKKKhazix/AIHOT"
+website = "https://aihot.news"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-24

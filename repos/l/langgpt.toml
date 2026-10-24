@@ -1,0 +1,9 @@
+name = "LangGPT"
+description = "LangGPT: Empowering everyone to become a prompt expert! 🚀 📌 结构化提示词（Structured Prompt）提出者 📌 元提示词（Meta-Prompt）发起者 📌 最流行的提示词落地范式 | Language of GPT The pioneering framework for structured & meta-prompt design 10,000+ ⭐ | Battle-tested by thousands of users worldwide Created by 云中江树"
+category = "skills-prompts"
+tags = ["chatgpt", "claude", "deeplearning", "doubao", "framework", "gemini", "gpt-4", "gpt3-prompts"]
+repository = "https://github.com/langgptai/LangGPT"
+website = "https://github.com/langgptai"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-24

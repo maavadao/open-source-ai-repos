@@ -1,0 +1,8 @@
+name = "awesome-opus5-5-videos"
+description = "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly."
+category = "skills-prompts"
+tags = ["ai-video", "awesome", "awesome-list", "claude", "claude-opus", "creative-coding", "motion-graphics", "prompts"]
+repository = "https://github.com/yihui-dev/awesome-opus5-5-videos"
+website = "https://skillry.dev/ai-videos/opus-5-5"
+license = "MIT"
+added = 2026-10-24

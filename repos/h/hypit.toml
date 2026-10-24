@@ -1,0 +1,8 @@
+name = "hypit"
+description = "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views."
+category = "agents"
+tags = ["agentic-ai", "ai", "ai-agents", "ai-video", "compiler", "dsl", "ffmpeg", "generative-ai"]
+repository = "https://github.com/hypit-ai/hypit"
+website = "https://hypit.ai"
+language = "TypeScript"
+added = 2026-10-24

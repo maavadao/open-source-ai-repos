@@ -1,0 +1,7 @@
+name = "awesome-ai-engineering"
+description = "🚀 A curated collection of AI engineering resources, roadmaps, tools, and projects covering LLMs, RAG, AI Agents, MCP, fine-tuning, evaluations, and production AI systems."
+category = "mcp-servers"
+tags = ["agentic-ai", "ai-agents", "ai-engineering", "ai-projects", "ai-resources", "ai-tools", "artificial-intelligence", "awesome-lists"]
+repository = "https://github.com/dipakkr/awesome-ai-engineering"
+license = "MIT"
+added = 2026-10-24

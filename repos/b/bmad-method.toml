@@ -1,0 +1,7 @@
+name = "BMAD-METHOD"
+description = "Breakthrough Method for Agile Ai Driven Development"
+category = "other"
+tags = ["agile", "ai", "context-engineering", "sdlc", "spec-driven-development"]
+repository = "https://github.com/bmad-code-org/BMAD-METHOD"
+language = "Python"
+added = 2026-10-24

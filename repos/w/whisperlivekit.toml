@@ -1,0 +1,8 @@
+name = "WhisperLiveKit"
+description = "Real-time, local speech-to-text with streaming ASR, speaker diarization, translation, and OpenAI/Deepgram-compatible APIs."
+category = "speech"
+tags = ["automatic-speech-recognition", "fastapi", "python", "pytorch", "real-time", "speaker-diarization", "speech-recognition", "speech-to-text"]
+repository = "https://github.com/QuentinFuxa/WhisperLiveKit"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-24

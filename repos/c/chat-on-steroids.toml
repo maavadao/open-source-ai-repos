@@ -1,0 +1,8 @@
+name = "chat-on-steroids"
+description = "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows."
+category = "mcp-servers"
+tags = ["automation", "chatgpt", "chrome-extension", "electron", "linux", "local-first", "macos", "mcp"]
+repository = "https://github.com/totec448-spec/chat-on-steroids"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-24

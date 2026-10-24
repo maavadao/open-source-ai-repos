@@ -1,0 +1,9 @@
+name = "xiaohongshu-mcp"
+description = "MCP for xiaohongshu.com"
+category = "mcp-servers"
+tags = ["mcp", "mcp-server", "xiaohongshu-mcp"]
+repository = "https://github.com/xpzouying/xiaohongshu-mcp"
+website = "https://www.haha.ai/xiaohongshu-mcp"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-24

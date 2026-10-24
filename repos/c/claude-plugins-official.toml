@@ -1,0 +1,9 @@
+name = "claude-plugins-official"
+description = "Official, Anthropic-managed directory of high quality Claude Code Plugins."
+category = "skills-prompts"
+tags = ["claude-code", "mcp", "skills"]
+repository = "https://github.com/anthropics/claude-plugins-official"
+website = "https://code.claude.com/docs/en/plugins"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-24

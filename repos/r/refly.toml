@@ -1,0 +1,8 @@
+name = "refly"
+description = "The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more. Build Clawdbot 🦞· APIs for Lovable · Bots for Slack & Lark/Feishu · Skills are infrastructure, not prompts."
+category = "coding"
+tags = ["agent", "agent-skills", "automation", "claude", "clawdbot", "codex", "cursor", "lark-bot"]
+repository = "https://github.com/refly-ai/refly"
+website = "https://refly.ai"
+language = "TypeScript"
+added = 2026-10-24

@@ -1,0 +1,9 @@
+name = "ai-agents-from-zero"
+description = "🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径 + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG / 提示词 · 企业级部署与微调 · 从0到企业级落地 + 从学习到上线项目 + 面试准备一体化"
+category = "mcp-servers"
+tags = ["agent", "agent-framework", "agentic-ai", "ai-agent", "aigc", "coze", "cursor", "deepagents"]
+repository = "https://github.com/didilili/ai-agents-from-zero"
+website = "https://didilili.github.io/ai-agents-from-zero/"
+license = "MIT"
+language = "Python"
+added = 2026-10-24

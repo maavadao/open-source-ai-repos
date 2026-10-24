@@ -1,0 +1,8 @@
+name = "modelcontextprotocol"
+description = "Specification and documentation for the Model Context Protocol"
+category = "mcp-servers"
+tags = ["docs", "mcp", "specification", "standard"]
+repository = "https://github.com/modelcontextprotocol/modelcontextprotocol"
+website = "https://modelcontextprotocol.io"
+language = "TypeScript"
+added = 2026-10-24

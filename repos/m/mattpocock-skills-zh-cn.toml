@@ -1,0 +1,9 @@
+name = "mattpocock-skills-zh-CN"
+description = "Matt Pocock skills 的简体中文本地化：人工审核每一次更新，定期同步上游，支持 Claude、Codex 和 DSH 插件。"
+category = "skills-prompts"
+tags = ["ai-agent", "chinese", "developer-skills", "productivity", "prompt-engineering", "skills", "translation", "vibe-coding"]
+repository = "https://github.com/vinvcn/mattpocock-skills-zh-CN"
+website = "https://skills.sh/vinvcn/mattpocock-skills-zh-CN"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-24

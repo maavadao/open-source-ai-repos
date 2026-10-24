@@ -1,0 +1,8 @@
+name = "Waza"
+description = "🥷 Engineering habits you already know, turned into skills AI assistants like Claude Code, Codex and Cursor can run."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude", "claude-code", "codex", "cursor", "design", "engineer"]
+repository = "https://github.com/tw93/Waza"
+license = "MIT"
+language = "Python"
+added = 2026-10-24

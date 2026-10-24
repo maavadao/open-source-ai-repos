@@ -1,0 +1,9 @@
+name = "coucou"
+description = "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen."
+category = "skills-prompts"
+tags = ["ai-agents", "anthropic", "antigravity", "claude", "claude-code", "codex", "cursor", "dynamic-island"]
+repository = "https://github.com/Louis-CFM/coucou"
+website = "https://louis-cfm.github.io/coucou/"
+license = "MIT"
+language = "Swift"
+added = 2026-10-24

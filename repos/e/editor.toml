@@ -1,0 +1,9 @@
+name = "editor"
+description = "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents."
+category = "mcp-servers"
+tags = ["3d", "agent-skills", "ai-agents", "architecture", "bim", "cad", "editor", "floorplan"]
+repository = "https://github.com/pascalorg/editor"
+website = "https://editor.pascal.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-24

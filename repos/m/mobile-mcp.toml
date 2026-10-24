@@ -1,0 +1,9 @@
+name = "mobile-mcp"
+description = "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)"
+category = "mcp-servers"
+tags = ["agent", "android", "emulator", "ios", "mcp", "mobile", "physical", "real"]
+repository = "https://github.com/mobile-next/mobile-mcp"
+website = "https://mobilenext.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-24

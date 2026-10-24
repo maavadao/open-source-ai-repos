@@ -1,0 +1,9 @@
+name = "awesome-gpt-image-2"
+description = "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。"
+category = "skills-prompts"
+tags = ["agents", "ai-image-generation", "chatgpt", "dsh-plugin", "gpt-image-2", "image-prompts", "prompt-as-code", "prompt-engineering"]
+repository = "https://github.com/freestylefly/awesome-gpt-image-2"
+website = "https://gpt-image2.canghe.ai"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-24

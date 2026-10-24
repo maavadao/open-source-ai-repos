@@ -1,0 +1,8 @@
+name = "GPT_API_free"
+description = "免费大模型API，支持免费调用GPT、DeepSeek等主流模型，免费额度10000点，每日刷新！另付费价格最低官方1-2折！"
+category = "chat"
+tags = ["api", "chatgpt", "claude", "deepseek", "gemini", "gpt", "grok", "llm-agents"]
+repository = "https://github.com/chatanywhere/GPT_API_free"
+website = "https://api.chatanywhere.tech"
+license = "MIT"
+added = 2026-10-24

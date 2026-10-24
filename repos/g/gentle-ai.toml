@@ -1,0 +1,9 @@
+name = "gentle-ai"
+description = "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in."
+category = "mcp-servers"
+tags = ["agent-skills", "ai-agents", "ai-coding", "claude-code", "code-review", "codex", "coding-agents", "copilot"]
+repository = "https://github.com/Gentleman-Programming/gentle-ai"
+website = "https://gentlemanprogramming.com/"
+license = "MIT"
+language = "Go"
+added = 2026-10-24

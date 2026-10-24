@@ -1,0 +1,9 @@
+name = "JavaGuide"
+description = "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发"
+category = "agents"
+tags = ["agent", "ai", "context-engineering", "deepseek", "interview", "java", "mcp", "mysql"]
+repository = "https://github.com/Snailclimb/JavaGuide"
+website = "https://javaguide.cn"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-24

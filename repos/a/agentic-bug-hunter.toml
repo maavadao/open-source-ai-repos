@@ -1,0 +1,9 @@
+name = "Agentic-Bug-Hunter"
+description = "AI-powered bug bounty hunting toolkit that works with or without subscription."
+category = "skills-prompts"
+tags = ["agentic-ai", "ai-security", "appsec", "bug-bounty", "bugcrowd", "claude-ai", "claude-code", "ethical-hacking"]
+repository = "https://github.com/awarexone/Agentic-Bug-Hunter"
+website = "https://awarexone.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-24

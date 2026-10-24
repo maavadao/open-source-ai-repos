@@ -1,0 +1,8 @@
+name = "academic-research-skills"
+description = "Academic Research Skills for Claude Code: research → write → review → revise → finalize"
+category = "skills-prompts"
+tags = ["academic-pipeline", "academic-writing", "ai-research", "claude", "claude-code", "literature-review", "peer-review", "prompt-engineering"]
+repository = "https://github.com/Imbad0202/academic-research-skills"
+website = "https://buymeacoffee.com/crucify020v"
+language = "Python"
+added = 2026-10-24

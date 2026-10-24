@@ -1,0 +1,9 @@
+name = "faraday"
+description = "Open-source and AI-powered cybersecurity tools for offensive security, vulnerability management, and autonomous pentesting. Built by hackers in Latin America, used worldwide."
+category = "agents"
+tags = ["appsec", "autonomous-agents", "autonomous-pentest", "collaboration", "continuous-scanning", "cve", "cybersecurity", "devops"]
+repository = "https://github.com/infobyte/faraday"
+website = "https://www.faradaysec.com"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-24

@@ -1,0 +1,8 @@
+name = "solace-agent-mesh"
+description = "Platform for building and running AI agents across the full lifecycle — build, test, deploy, monitor, improve. Hosts your agents, runs their tools, and coordinates them over an event mesh, with sessions, artifacts, auth, evaluators, and observability built in."
+category = "agents"
+tags = ["a2a", "a2a-protocol", "agent-mesh", "agentic-ai", "agents", "ai-agents", "event-driven", "framework"]
+repository = "https://github.com/SolaceProducts/solace-agent-mesh"
+website = "https://docs.solace.com/Agent-Mesh/agent-mesh.htm"
+language = "Shell"
+added = 2026-10-24

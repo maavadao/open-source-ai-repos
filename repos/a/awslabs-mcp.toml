@@ -1,0 +1,9 @@
+name = "mcp"
+description = "Open source MCP Servers for AWS"
+category = "mcp-servers"
+tags = ["aws", "mcp", "mcp-client", "mcp-clients", "mcp-host", "mcp-server", "mcp-servers", "mcp-tools"]
+repository = "https://github.com/awslabs/mcp"
+website = "https://awslabs.github.io/mcp/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-24

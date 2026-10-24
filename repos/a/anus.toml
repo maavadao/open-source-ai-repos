@@ -1,0 +1,9 @@
+name = "ANUS"
+description = "A free coding agent in your terminal. It runs on the smartest free model that is up today."
+category = "llm-apps"
+tags = ["ai-agent", "claude-code-alternative", "cli", "coding-agent", "free-models", "llm", "openrouter", "spec-driven-company"]
+repository = "https://github.com/anus-dev/ANUS"
+website = "https://anus.dev"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-24

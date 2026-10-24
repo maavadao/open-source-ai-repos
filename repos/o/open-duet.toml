@@ -1,0 +1,8 @@
+name = "open-duet"
+description = "Open-source, self-hosted alternative to Claude Duet: AI coworkers (named agents) with instructions, memory, routines, their own isolated computer, and your approval before they act. Also an alternative to OpenAI Dots, Meta Muse, Grok Bot, Manus Cue and ChatGPT agent."
+category = "agents"
+tags = ["agentic-ai", "ai-agent", "ai-assistant", "ai-coworker", "ai-employees", "ai-workspace", "chatgpt-agent", "claude-cowork"]
+repository = "https://github.com/Anil-matcha/open-duet"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-24

@@ -1,0 +1,7 @@
+name = "CV"
+description = "✅（已完结）超级全面的 深度学习 笔记【土堆 Pytorch】【李沐 动手学深度学习】【吴恩达 深度学习】【大飞 大模型Agent】"
+category = "agents"
+tags = ["agent", "agents", "book", "chinese", "computer-vision", "cv", "deep-learning", "jupyter-notebook"]
+repository = "https://github.com/AccumulateMore/CV"
+language = "Jupyter Notebook"
+added = 2026-10-24

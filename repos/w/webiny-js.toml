@@ -1,0 +1,8 @@
+name = "webiny-js"
+description = "Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built for developers at large organizations."
+category = "mcp-servers"
+tags = ["ai-assisted-development", "aws", "aws-lambda", "cms", "graphql", "headless-cms", "lambda", "lambda-functions"]
+repository = "https://github.com/webiny/webiny-js"
+website = "https://www.webiny.com"
+language = "TypeScript"
+added = 2026-10-24

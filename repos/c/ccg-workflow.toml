@@ -1,0 +1,9 @@
+name = "ccg-workflow"
+description = "多模型协作工作流引擎 — /ccg:go 一个命令，AI 自动分析意图、选择策略、编排 Codex + Gemini + Claude 协作执行"
+category = "skills-prompts"
+tags = ["agent-teams", "ai", "ccg", "claude-code", "cli", "codex", "gemini", "llm"]
+repository = "https://github.com/fengshao1227/ccg-workflow"
+website = "https://ccg.fengshao1227.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-24

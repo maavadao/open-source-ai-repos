@@ -1,0 +1,9 @@
+name = "claude-relay-service"
+description = "CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。"
+category = "skills-prompts"
+tags = ["claude", "claude-api", "claude-code", "claude-proxy", "codex-cli", "crs", "droid", "droid-cli"]
+repository = "https://github.com/Wei-Shaw/claude-relay-service"
+website = "https://pincc.ai"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-24

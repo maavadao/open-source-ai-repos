@@ -1,0 +1,9 @@
+name = "magpie"
+description = "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
+category = "skills-prompts"
+tags = ["claude-code", "codex", "deepseek", "gemini-cli", "llm", "macos"]
+repository = "https://github.com/yetone/magpie"
+website = "https://usemagpie.ai"
+license = "MIT"
+language = "Go"
+added = 2026-10-24

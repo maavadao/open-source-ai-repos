@@ -1,0 +1,8 @@
+name = "happy-llm"
+description = "📚 从零开始构建大模型"
+category = "agents"
+tags = ["agent", "llm", "rag"]
+repository = "https://github.com/datawhalechina/happy-llm"
+website = "https://datawhalechina.github.io/happy-llm/"
+language = "Jupyter Notebook"
+added = 2026-10-24

@@ -1,0 +1,9 @@
+name = "spring-ai-alibaba"
+description = "Agentic AI Framework for Java Developers"
+category = "agents"
+tags = ["agentic", "artificial-intelligence", "context-engineering", "graph", "java", "multi-agent", "reactagent", "spring-ai"]
+repository = "https://github.com/alibaba/spring-ai-alibaba"
+website = "https://java2ai.com"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-24

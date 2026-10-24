@@ -1,0 +1,9 @@
+name = "AIGC-Interview-Book"
+description = "【三年面试五年模拟】AIGC/LLM/AI Agent算法工程师面试资源平台。涵盖AIGC、LLM大模型、AI Agent、具身智能、传统深度学习、计算机视觉、自然语言处理、自动驾驶、机器学习、强化学习、大数据挖掘、世界模型、元宇宙、AGI等AI行业面试笔试干货经验与核心跨周期知识。"
+category = "image"
+tags = ["ai-agent", "aigc", "computer-vision", "deep-learning", "interview", "interview-preparation", "interview-questions", "interviews-solutions"]
+repository = "https://github.com/WeThinkIn/AIGC-Interview-Book"
+website = "https://wethinkin.github.io/AIGC-Interview-Book/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-24

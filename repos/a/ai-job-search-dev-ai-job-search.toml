@@ -1,0 +1,8 @@
+name = "ai-job-search"
+description = "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it."
+category = "skills-prompts"
+tags = ["ai", "ai-agents", "career", "claude-code", "cover-letter", "cv", "interview-preparation", "job-application"]
+repository = "https://github.com/ai-job-search-dev/ai-job-search"
+license = "MIT"
+language = "Python"
+added = 2026-10-24

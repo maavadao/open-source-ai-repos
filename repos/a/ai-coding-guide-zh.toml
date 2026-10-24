@@ -1,0 +1,8 @@
+name = "AI-Coding-Guide-Zh"
+description = "Claude Code + OpenClaw + Codex + WorkBuddy 中文教程 | 50篇完整教程 + 1张速查卡 | 80万+内容量 | 1500+实操示例 | AI Coding / Agent 四线学习路径（编程+助手+Agent+办公）"
+category = "skills-prompts"
+tags = ["ai-agent", "ai-assistant", "ai-tutorial", "anthropic", "chinese", "claude", "claude-code", "openclaw"]
+repository = "https://github.com/KimYx0207/AI-Coding-Guide-Zh"
+license = "MIT"
+language = "Python"
+added = 2026-10-24

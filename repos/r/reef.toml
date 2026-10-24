@@ -1,0 +1,9 @@
+name = "reef"
+description = "Infrastructure for continually self‑improving agents"
+category = "local-llms"
+tags = ["agent-infrastructure", "ai-agents", "continual-learning", "inference", "llm", "llm-training", "reinforcement-learning", "self-improving-agents"]
+repository = "https://github.com/Human-Agent-Society/reef"
+website = "https://reefinfra.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-24

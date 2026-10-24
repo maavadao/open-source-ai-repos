@@ -1,0 +1,6 @@
+name = "CVPR2026-Papers-with-Code"
+description = "CVPR 2026 论文和开源项目合集"
+category = "vision"
+tags = ["computer-vision", "cvpr", "cvpr2020", "cvpr2021", "cvpr2022", "cvpr2023", "cvpr2024", "cvpr2025"]
+repository = "https://github.com/amusi/CVPR2026-Papers-with-Code"
+added = 2026-10-24

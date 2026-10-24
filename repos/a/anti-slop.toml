@@ -1,0 +1,9 @@
+name = "anti-slop"
+description = "Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code."
+category = "skills-prompts"
+tags = ["accessibility", "agent-skills", "ai-agents", "ai-coding-agent", "ai-slop", "anti-slop", "claude-code", "copywriting"]
+repository = "https://github.com/miqdadbadjuber/anti-slop"
+website = "https://antislop.ai.id"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-24

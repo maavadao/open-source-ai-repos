@@ -1,0 +1,9 @@
+name = "nightingale"
+description = "Open-source, self-hosted alerting for metrics, logs, and databases. Includes a built-in AI agent and MCP server."
+category = "mcp-servers"
+tags = ["alerting", "alertmanager", "clickhouse", "golang", "logs", "loki", "mcp-server", "metrics"]
+repository = "https://github.com/ccfos/nightingale"
+website = "https://n9e.github.io"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-24

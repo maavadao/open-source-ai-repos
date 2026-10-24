@@ -1,0 +1,9 @@
+name = "smolvm"
+description = "An embeddable, portable, branchable virtual machine to safely run Agents locally."
+category = "agents"
+tags = ["agent-sandbox", "ai-agents", "code-execution", "containers", "crun", "libkrun", "llm", "microvm"]
+repository = "https://github.com/smol-machines/smolvm"
+website = "https://smolmachines.com"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-24

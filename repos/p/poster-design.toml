@@ -1,0 +1,9 @@
+name = "poster-design"
+description = "迅排设计 - 图片编辑器、AI 在线海报设计，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!"
+category = "other"
+tags = ["ai", "ai-tools", "canvas", "design", "image", "moveable", "nodejs", "poster"]
+repository = "https://github.com/palxiao/poster-design"
+website = "https://design.palxp.cn"
+license = "AGPL-3.0"
+language = "Vue"
+added = 2026-10-24

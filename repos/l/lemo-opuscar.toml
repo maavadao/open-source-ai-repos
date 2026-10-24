@@ -1,0 +1,9 @@
+name = "lemo-opuscar"
+description = "A toolbox of film styles made in code for Claude Code: 59 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Lemomo. · 一套用代码做片的风格工具箱：59 种现成风格，也能做出你自己的"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "ai-short-film", "ai-video", "animation", "canvas", "claude", "claude-code"]
+repository = "https://github.com/lemomo-ai/lemo-opuscar"
+website = "https://lemomo-ai.github.io/lemo-opuscar/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-24

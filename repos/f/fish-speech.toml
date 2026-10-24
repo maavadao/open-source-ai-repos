@@ -1,0 +1,8 @@
+name = "fish-speech"
+description = "SOTA Open Source TTS"
+category = "speech"
+tags = ["llama", "transformer", "tts", "valle", "vits", "vqgan", "vqvae"]
+repository = "https://github.com/fishaudio/fish-speech"
+website = "https://speech.fish.audio"
+language = "Python"
+added = 2026-10-24

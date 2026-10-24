@@ -1,0 +1,8 @@
+name = "registry"
+description = "A community driven registry service for Model Context Protocol (MCP) servers."
+category = "mcp-servers"
+tags = ["mcp", "mcp-servers"]
+repository = "https://github.com/modelcontextprotocol/registry"
+website = "https://github.com/modelcontextprotocol/registry/tree/main/docs"
+language = "Go"
+added = 2026-10-24

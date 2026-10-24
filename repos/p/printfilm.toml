@@ -1,0 +1,9 @@
+name = "printfilm"
+description = "PRINTFILM: AI short-video marketing and AI short-drama creation platform"
+category = "other"
+tags = ["ai", "ai-video", "short-drama", "short-video"]
+repository = "https://github.com/yi1108/printfilm"
+website = "https://www.printfilm.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-24

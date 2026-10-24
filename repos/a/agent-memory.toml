@@ -1,0 +1,8 @@
+name = "agent-memory"
+description = "Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key."
+category = "skills-prompts"
+tags = ["agent-memory", "ai-agents", "claude-code", "codex", "llm", "local-first", "long-term-memory", "markdown"]
+repository = "https://github.com/tigerless-labs/agent-memory"
+license = "MIT"
+language = "Python"
+added = 2026-10-24

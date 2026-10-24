@@ -1,0 +1,9 @@
+name = "jumpserver"
+description = "JumpServer is an Open-source Privileged Access Management (PAM) platform with AI-powered capabilities, providing DevOps and IT teams a unified workspace to securely access SSH, RDP, Kubernetes, databases, websites, RemoteApp, VirtualApp, and more."
+category = "other"
+tags = ["ai", "bastion-host", "codex", "cyberark", "django", "jumpserver", "pam", "python"]
+repository = "https://github.com/jumpserver/jumpserver"
+website = "https://jumpserver.com"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-24

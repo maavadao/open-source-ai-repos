@@ -1,0 +1,8 @@
+name = "llm_interview_note"
+description = "主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题"
+category = "llm-apps"
+tags = ["interview", "llm", "llm-interview", "llms"]
+repository = "https://github.com/wdndev/llm_interview_note"
+website = "https://wdndev.github.io/llm_interview_note"
+language = "HTML"
+added = 2026-10-24

@@ -1,0 +1,9 @@
+name = "vibe-coding-cn"
+description = "Vibe Coding 非严肃开发的从入门到门入的工具箱"
+category = "skills-prompts"
+tags = ["ai", "ai-agent", "ai-agents", "ai-coding", "ai-programming", "chinese", "claude-code", "codex"]
+repository = "https://github.com/tradecatlabs/vibe-coding-cn"
+website = "https://tradecatlabs.com/"
+license = "MIT"
+language = "Makefile"
+added = 2026-10-24

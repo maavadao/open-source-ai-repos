@@ -1,0 +1,9 @@
+name = "tradingview-mcp"
+description = "MCP server for market analysis in AI assistants: screeners, multi-timeframe technical analysis, backtests and sentiment for crypto, stocks, forex and futures. 39 tools. Self-host free, or use the hosted version, TradingMCP."
+category = "mcp-servers"
+tags = ["claude-desktop", "cryptocurrency", "futures", "market-data", "mcp-server", "mcp-tools", "model-context-protocol", "openclaw"]
+repository = "https://github.com/atilaahmettaner/tradingview-mcp"
+website = "https://tradingmcp.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-24

@@ -1,0 +1,9 @@
+name = "monid"
+description = "Monid - OpenRouter for agent tools. Join our community at https://discord.gg/rQzztcgJV8"
+category = "agents"
+tags = ["ai-agents", "developer-tools"]
+repository = "https://github.com/monid-ai/monid"
+website = "https://monid.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-24

@@ -1,0 +1,7 @@
+name = "Scanners-Box"
+description = "The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agents——面向极客、企业与 AI 智能体的全域开源网络安全工具矩阵"
+category = "security"
+tags = ["agent-security-audit", "agent-security-benchmark", "agent-security-red-teaming", "agent-security-tools", "ai", "ai-security", "apk-analysis", "binary-analysis"]
+repository = "https://github.com/We5ter/Scanners-Box"
+website = "https://we5ter.github.io/ai-tools/"
+added = 2026-10-24

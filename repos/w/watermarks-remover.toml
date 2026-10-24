@@ -1,0 +1,9 @@
+name = "watermarks-remover"
+description = "A privacy-first app that strips AI watermarks from content you own."
+category = "chat"
+tags = ["agent-skill", "ai", "anthropic", "c2pa", "chatgpt", "claude", "gemini", "openai"]
+repository = "https://github.com/guillaumemeyer/watermarks-remover"
+website = "https://github.com/guillaumemeyer/watermarks-remover"
+license = "MIT"
+language = "Python"
+added = 2026-10-24

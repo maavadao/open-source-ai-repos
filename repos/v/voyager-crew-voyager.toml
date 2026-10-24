@@ -1,0 +1,9 @@
+name = "voyager"
+description = "Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。"
+category = "chat"
+tags = ["ai-studio", "browser-extension", "bun", "chat-management", "chatgpt", "chrome-extension", "claude-ai", "deepseek"]
+repository = "https://github.com/voyager-crew/voyager"
+website = "https://voyager.nagi.fun/en"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-24

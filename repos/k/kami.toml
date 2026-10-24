@@ -1,0 +1,9 @@
+name = "Kami"
+description = "👩‍🚒 Good content deserves good paper. Layout rules and templates that let AI agents export PDF, PNG and editable PowerPoint."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude-code", "codex", "document-design", "pdf", "pptx", "typesetting"]
+repository = "https://github.com/tw93/Kami"
+website = "https://kami.tw93.fun"
+license = "MIT"
+language = "HTML"
+added = 2026-10-24

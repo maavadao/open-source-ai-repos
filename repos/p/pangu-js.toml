@@ -1,0 +1,9 @@
+name = "pangu.js"
+description = "Opinionated paranoid text spacing in JavaScript, with on-device AI semantic judgment"
+category = "local-llms"
+tags = ["ai", "chrome-extension", "gemini-nano", "javascript", "local-llm", "nodejs", "pangu", "pangu-spacing"]
+repository = "https://github.com/vinta/pangu.js"
+website = "https://chrome.google.com/webstore/detail/paphcfdffjnbcgkokihcdjliihicmbpd"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-24

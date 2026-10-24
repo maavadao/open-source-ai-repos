@@ -1,0 +1,9 @@
+name = "claurst"
+description = "Agentic Coding for Builders who Ship"
+category = "skills-prompts"
+tags = ["claude", "claude-code", "claurst", "cli", "codex", "gemini", "rust", "tui"]
+repository = "https://github.com/Kuberwastaken/claurst"
+website = "https://claurst.kuber.studio/"
+license = "GPL-3.0"
+language = "Rust"
+added = 2026-10-24

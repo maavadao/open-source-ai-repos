@@ -1,0 +1,8 @@
+name = "sub2api"
+description = "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。"
+category = "skills-prompts"
+tags = ["2api", "antigravity2api", "cc2api", "claude", "claude-code", "codex", "crs", "crs2"]
+repository = "https://github.com/Wei-Shaw/sub2api"
+license = "LGPL-3.0"
+language = "Go"
+added = 2026-10-24

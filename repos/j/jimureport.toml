@@ -1,0 +1,9 @@
+name = "jimureport"
+description = "一款真正的 AI 报表诞生了！JimuChatBI —— 首款免费开源对话式智能数据分析产品（Chat2BI）。 一句话生成报表和数据大屏，支持对话式 AI 修改优化；类 Excel 在线报表设计，兼容国产信创数据源。 对着 AI 说句话，报表就出来了——表格、图表、分组汇总自动生成，复杂报表场景轻松应对。想做数据大屏？同样一句话搞定，让数据分析进入 AI 时代。"
+category = "data-science"
+tags = ["ai", "bi", "bigscreen", "birt", "data-analysis", "data-visualization", "dataease", "datav"]
+repository = "https://github.com/jeecgboot/jimureport"
+website = "http://jimureport.com"
+license = "GPL-3.0"
+language = "Java"
+added = 2026-10-24

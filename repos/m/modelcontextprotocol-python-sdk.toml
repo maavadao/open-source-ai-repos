@@ -1,0 +1,9 @@
+name = "python-sdk"
+description = "The official Python SDK for Model Context Protocol servers and clients"
+category = "mcp-servers"
+tags = ["mcp", "mcp-client", "mcp-server", "python"]
+repository = "https://github.com/modelcontextprotocol/python-sdk"
+website = "https://py.sdk.modelcontextprotocol.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-24

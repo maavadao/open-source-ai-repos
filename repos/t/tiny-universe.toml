@@ -1,0 +1,7 @@
+name = "tiny-universe"
+description = "《大模型白盒子构建指南》：一个全手搓的Tiny-Universe"
+category = "agents"
+tags = ["agent", "diffusion", "evaluation-metrics", "llama", "qwen", "rag", "transformers"]
+repository = "https://github.com/datawhalechina/tiny-universe"
+language = "Jupyter Notebook"
+added = 2026-10-24

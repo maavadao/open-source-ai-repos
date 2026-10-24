@@ -1,0 +1,9 @@
+name = "fallow"
+description = "Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI, GitHub Action, LSP, MCP, and VS Code. Rust, MIT licensed."
+category = "mcp-servers"
+tags = ["architecture", "circular-dependencies", "cli", "code-duplication", "code-health", "code-quality", "codebase-intelligence", "complexity"]
+repository = "https://github.com/fallow-rs/fallow"
+website = "https://docs.fallow.tools"
+license = "MIT"
+language = "Rust"
+added = 2026-10-24

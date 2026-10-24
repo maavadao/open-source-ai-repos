@@ -1,0 +1,9 @@
+name = "happy"
+description = "Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you already pay for."
+category = "skills-prompts"
+tags = ["agent-orchestration", "ai-agents", "claude-code", "claude-desktop", "codex", "codex-cli", "coding-agents", "grok"]
+repository = "https://github.com/slopus/happy"
+website = "https://happy.engineering/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-24

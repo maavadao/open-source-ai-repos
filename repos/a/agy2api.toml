@@ -1,0 +1,7 @@
+name = "agy2api"
+description = "将 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口"
+category = "skills-prompts"
+tags = ["antigravity-ide", "antigravity2api", "claude", "claude-api", "claude-code", "gemini", "gemini-ai", "gemini-api"]
+repository = "https://github.com/su-kaka/agy2api"
+language = "Python"
+added = 2026-10-24

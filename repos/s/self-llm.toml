@@ -1,0 +1,8 @@
+name = "self-llm"
+description = "《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程"
+category = "llm-apps"
+tags = ["chatglm", "chatglm3", "gemma-2b-it", "glm-4", "internlm2", "llama3", "llm", "lora"]
+repository = "https://github.com/datawhalechina/self-llm"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-24

@@ -1,0 +1,9 @@
+name = "eigent"
+description = "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex"
+category = "agents"
+tags = ["agent-framework", "agent-skills", "agentic-ai", "agentic-workflow", "claude-cowork", "claude-cowork-alternative", "claude-cowork-free", "desktop-agent"]
+repository = "https://github.com/eigent-ai/eigent"
+website = "https://www.eigent.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-24
