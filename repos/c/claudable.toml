@@ -1,0 +1,8 @@
+name = "Claudable"
+description = "Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly."
+category = "skills-prompts"
+tags = ["agent", "claude", "claude-code", "codex", "codingagent", "free", "gemini", "local"]
+repository = "https://github.com/anymorph-ai/Claudable"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-25

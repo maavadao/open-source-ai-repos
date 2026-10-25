@@ -1,0 +1,9 @@
+name = "LLMs-Zero-to-Hero"
+description = "从无名小卒到大模型（LLM）大英雄~ 欢迎关注后续！！！"
+category = "llm-apps"
+tags = ["llm", "llm-from-zero-to-hero", "llm-zero-to-hero", "llm101"]
+repository = "https://github.com/bbruceyuan/LLMs-Zero-to-Hero"
+website = "https://yuanchaofa.com/llms-zero-to-hero/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-25

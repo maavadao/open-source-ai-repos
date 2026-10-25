@@ -1,0 +1,9 @@
+name = "my-claude-code-setup"
+description = "Shared starter template configuration and CLAUDE.md memory bank system for Claude Code"
+category = "skills-prompts"
+tags = ["claude", "claude-ai", "claude-code", "claudecode-config", "claudecode-hooks", "claudecode-subagents", "subagents"]
+repository = "https://github.com/centminmod/my-claude-code-setup"
+website = "https://www.threads.com/@george_sl_liu"
+license = "MIT"
+language = "Python"
+added = 2026-10-25

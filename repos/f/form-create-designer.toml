@@ -1,0 +1,9 @@
+name = "form-create-designer"
+description = "好用的Vue低代码可视化 AI 表单设计器，可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率。支持PC端和移动端，目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。"
+category = "other"
+tags = ["ai", "ant-design-vue", "designer", "element-ui", "fc-designer", "form-create", "form-designer", "lowcode"]
+repository = "https://github.com/xaboy/form-create-designer"
+website = "https://view.form-create.com/"
+license = "MIT"
+language = "Vue"
+added = 2026-10-25

@@ -1,0 +1,8 @@
+name = "lint"
+description = "An agent-first linter for Tailwind design systems. Write design system rules that agents can verify."
+category = "agents"
+tags = ["agents", "ai", "design", "design-system", "design-tools", "shadcn", "shadcn-ui", "tailwindcss"]
+repository = "https://github.com/shadcn-ui/lint"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-25

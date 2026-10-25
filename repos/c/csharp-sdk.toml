@@ -1,0 +1,8 @@
+name = "csharp-sdk"
+description = "The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration with Microsoft."
+category = "mcp-servers"
+tags = ["csharp", "dotnet", "mcp", "mcp-client", "mcp-server", "modelcontextprotocol"]
+repository = "https://github.com/modelcontextprotocol/csharp-sdk"
+website = "https://csharp.sdk.modelcontextprotocol.io/"
+language = "C#"
+added = 2026-10-25

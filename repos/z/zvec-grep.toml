@@ -1,0 +1,8 @@
+name = "zvec-grep"
+description = "Local-first search across your workspace, built for humans and AI agents."
+category = "vector-databases"
+tags = ["ai-agents", "bm25", "cli", "code-search", "full-text-search", "local-first", "mcp", "ripgrep"]
+repository = "https://github.com/zvec-ai/zvec-grep"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-25

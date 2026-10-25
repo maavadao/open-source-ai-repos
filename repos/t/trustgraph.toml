@@ -1,0 +1,9 @@
+name = "trustgraph"
+description = "The Semantic Agent Governance Platform"
+category = "agents"
+tags = ["agent", "agent-governance", "agent-runtime", "context-graph", "determinism", "governance", "graph", "graphrag"]
+repository = "https://github.com/trustgraph-ai/trustgraph"
+website = "https://TrustGraph.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-25

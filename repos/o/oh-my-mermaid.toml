@@ -1,0 +1,8 @@
+name = "oh-my-mermaid"
+description = "Turn complex codebases into clear, navigable architecture diagrams with Claude Code."
+category = "skills-prompts"
+tags = ["ai", "architecture", "claude-code", "claude-code-skill", "cli", "codebase-visualization", "developer-tools", "diagrams"]
+repository = "https://github.com/oh-my-mermaid/oh-my-mermaid"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-25

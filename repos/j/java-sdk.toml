@@ -1,0 +1,9 @@
+name = "java-sdk"
+description = "The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI"
+category = "mcp-servers"
+tags = ["java", "mcp", "mcp-client", "mcp-server"]
+repository = "https://github.com/modelcontextprotocol/java-sdk"
+website = "https://java.sdk.modelcontextprotocol.io/latest/"
+license = "MIT"
+language = "Java"
+added = 2026-10-25

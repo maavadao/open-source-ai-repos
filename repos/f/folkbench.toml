@@ -1,0 +1,8 @@
+name = "folkbench"
+description = "AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 · Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex"
+category = "skills-prompts"
+tags = ["ai", "api-relay", "api-relay-pricing", "benchmark", "benchmarks", "claude", "claude-code", "codex"]
+repository = "https://github.com/Folkbench/folkbench"
+website = "https://folkbench.com"
+language = "Rust"
+added = 2026-10-25

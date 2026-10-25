@@ -1,0 +1,9 @@
+name = "fli"
+description = "Google Flights MCP, CLI and Python Library"
+category = "mcp-servers"
+tags = ["api", "flights-api", "google-flights", "google-flights-api", "mcp", "mcp-server"]
+repository = "https://github.com/punitarani/fli"
+website = "https://deepwiki.com/punitarani/fli"
+license = "MIT"
+language = "Python"
+added = 2026-10-25

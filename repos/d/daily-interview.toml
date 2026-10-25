@@ -1,0 +1,8 @@
+name = "daily-interview"
+description = "Datawhale成员整理的面经，内容包括机器学习，CV，NLP，推荐，开发等，欢迎大家star"
+category = "llm-apps"
+tags = ["cv", "interview-questions", "llm", "nlp"]
+repository = "https://github.com/datawhalechina/daily-interview"
+website = "https://datawhalechina.github.io/daily-interview/"
+license = "GPL-3.0"
+added = 2026-10-25

@@ -1,0 +1,8 @@
+name = "AssetOpsBench"
+description = "AssetOpsBench - Industry 4.0: A unified benchmark and framework for building, orchestrating, and evaluating domain-specific AI agents for Industry 4.0 asset operations and maintenance, with 460+ scenarios, 5 specialist agents (IoT, FMSR, TSFM, Work Order,...), and multi-agent orchestration blueprin…"
+category = "mcp-servers"
+tags = ["ai-for-physical-assets", "condition-based-maintenance", "hvac-maintenance", "iot", "llm-agents", "model-context-protocol", "predictive-maintenance", "time-series-forecasting"]
+repository = "https://github.com/IBM/AssetOpsBench"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-25

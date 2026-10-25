@@ -1,0 +1,9 @@
+name = "deepdoctection"
+description = "A Repo For Document AI"
+category = "vision"
+tags = ["document-ai", "document-image-analysis", "document-layout-analysis", "document-parser", "document-understanding", "layoutlm", "nlp", "ocr"]
+repository = "https://github.com/deepdoctection/deepdoctection"
+website = "https://deepdoctection.readthedocs.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-25

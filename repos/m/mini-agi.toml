@@ -1,0 +1,8 @@
+name = "mini-agi"
+description = "MiniAGI is a simple general-purpose AI agent based on the OpenAI API."
+category = "agents"
+tags = ["agent", "agi", "artificial-intelligence", "gpt-3", "gpt-4"]
+repository = "https://github.com/muellerberndt/mini-agi"
+license = "MIT"
+language = "Python"
+added = 2026-10-25

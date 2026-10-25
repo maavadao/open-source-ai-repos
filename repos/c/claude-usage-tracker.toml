@@ -1,0 +1,9 @@
+name = "Claude-Usage-Tracker"
+description = "Native macOS menu bar app for tracking Claude AI usage limits in real-time. Built with Swift/SwiftUI."
+category = "skills-prompts"
+tags = ["claude", "claude-ai", "claude-code", "claudecode", "macos", "usage-application"]
+repository = "https://github.com/hamed-elfayome/Claude-Usage-Tracker"
+website = "https://claudetracker.com"
+license = "MIT"
+language = "Swift"
+added = 2026-10-25

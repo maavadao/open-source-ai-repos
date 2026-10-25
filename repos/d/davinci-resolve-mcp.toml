@@ -1,0 +1,8 @@
+name = "davinci-resolve-mcp"
+description = "MCP server integration for DaVinci Resolve Studio"
+category = "mcp-servers"
+tags = ["blackmagic", "blackmagic-design", "blackmagicdesign", "davinci-resolve", "davinciresolve", "mcp", "mcp-server"]
+repository = "https://github.com/samuelgursky/davinci-resolve-mcp"
+license = "MIT"
+language = "Python"
+added = 2026-10-25

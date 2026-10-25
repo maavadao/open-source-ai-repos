@@ -1,0 +1,9 @@
+name = "FlyEnv"
+description = "Native local development environment for Windows, macOS & Linux. A modern alternative to XAMPP, MAMP, Laragon and Laravel Herd, with runtimes, databases, web servers, local sites, HTTPS, AI coding tools and MCP."
+category = "mcp-servers"
+tags = ["dev-environment", "developer-tools", "development-environment", "docker-alternative", "docker-alternatives", "laragon-alternative", "laravel-herd-alternative", "linux"]
+repository = "https://github.com/xpf0000/FlyEnv"
+website = "https://flyenv.com"
+license = "BSD-3-Clause"
+language = "TypeScript"
+added = 2026-10-25

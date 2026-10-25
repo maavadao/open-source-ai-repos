@@ -1,0 +1,8 @@
+name = "sepia"
+description = "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136)."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-writing", "antigravity", "claude-code", "codex", "developer-tools", "fiction", "grok"]
+repository = "https://github.com/Nanako0129/sepia"
+license = "MIT"
+language = "Python"
+added = 2026-10-25

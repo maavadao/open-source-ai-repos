@@ -1,0 +1,8 @@
+name = "earshot"
+description = "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source."
+category = "skills-prompts"
+tags = ["ai-agents", "audio", "claude-code", "mcp", "sound-design"]
+repository = "https://github.com/Leonxlnx/earshot"
+license = "MIT"
+language = "Python"
+added = 2026-10-25

@@ -1,0 +1,9 @@
+name = "live-api-web-console"
+description = "A react-based starter app for using the Live API over websockets with Gemini"
+category = "other"
+tags = ["gemini", "gemini-api"]
+repository = "https://github.com/google-gemini/live-api-web-console"
+website = "https://ai.google.dev/api/live"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-25

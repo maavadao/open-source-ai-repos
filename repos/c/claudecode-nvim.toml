@@ -1,0 +1,8 @@
+name = "claudecode.nvim"
+description = "🧩 Claude Code Neovim IDE Extension"
+category = "skills-prompts"
+tags = ["claude", "claude-code", "neovim"]
+repository = "https://github.com/coder/claudecode.nvim"
+license = "MIT"
+language = "Lua"
+added = 2026-10-25

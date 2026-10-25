@@ -1,0 +1,9 @@
+name = "gemini-skills"
+description = "Skills for the Gemini API, SDK and model/agent interactions"
+category = "other"
+tags = ["gemini", "gemini-api", "skills"]
+repository = "https://github.com/google-gemini/gemini-skills"
+website = "https://ai.google.dev/gemini-api/docs"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-25

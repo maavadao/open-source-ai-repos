@@ -1,0 +1,9 @@
+name = "Formal-Verification-RSI"
+description = "Formal verification for AI: a Lean 4 + Dafny proof checker that catches fake AI proofs (reward hacking), and verified recursive self-improvement (RSI) for coding agents. AI for math, physics and software engineering."
+category = "agents"
+tags = ["ai-agents", "ai-for-math", "ai-for-science", "ai-safety", "autoformalization", "automated-theorem-proving", "coding-agents", "dafny"]
+repository = "https://github.com/sahibzada-allahyar/Formal-Verification-RSI"
+website = "https://sahibzada-allahyar.github.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-25

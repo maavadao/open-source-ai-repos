@@ -1,0 +1,9 @@
+name = "fastmcp"
+description = "A TypeScript framework for building MCP servers."
+category = "mcp-servers"
+tags = ["mcp", "sse"]
+repository = "https://github.com/punkpeye/fastmcp"
+website = "https://glama.ai/mcp/servers"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-25

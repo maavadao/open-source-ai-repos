@@ -1,0 +1,9 @@
+name = "penecho"
+description = "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning."
+category = "education"
+tags = ["ai", "canvas", "claude", "codex", "education", "handwriting", "nodejs", "visual-thinking"]
+repository = "https://github.com/penecho/penecho"
+website = "https://penecho.ai"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-10-25

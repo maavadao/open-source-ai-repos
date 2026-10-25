@@ -1,0 +1,9 @@
+name = "crosspaste-desktop"
+description = "Cross-device clipboard sync for macOS, Windows & Linux — end-to-end encrypted, LAN-only, no cloud. OCR, CLI and MCP server built in."
+category = "mcp-servers"
+tags = ["cli", "clipboard", "clipboard-history", "clipboard-manager", "clips", "compose-desktop", "copy-paste", "cross-platform"]
+repository = "https://github.com/CrossPaste/crosspaste-desktop"
+website = "https://crosspaste.com"
+license = "AGPL-3.0"
+language = "Kotlin"
+added = 2026-10-25

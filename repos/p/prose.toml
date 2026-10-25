@@ -1,0 +1,7 @@
+name = "prose"
+description = "A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction."
+category = "other"
+tags = ["natural-language-processing", "nlp", "prose"]
+repository = "https://github.com/jdkato/prose"
+language = "Go"
+added = 2026-10-25

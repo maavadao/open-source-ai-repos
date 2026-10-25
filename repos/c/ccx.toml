@@ -1,0 +1,9 @@
+name = "ccx"
+description = "Claude / Codex / Gemini API Proxy - CCX"
+category = "other"
+tags = ["claude", "codex", "gemini"]
+repository = "https://github.com/BenedictKing/ccx"
+website = "https://benedictking.github.io/ccx/"
+license = "MIT"
+language = "Go"
+added = 2026-10-25

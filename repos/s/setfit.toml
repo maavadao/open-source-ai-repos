@@ -1,0 +1,9 @@
+name = "setfit"
+description = "Efficient few-shot learning with Sentence Transformers"
+category = "other"
+tags = ["few-shot-learning", "nlp", "sentence-transformers"]
+repository = "https://github.com/huggingface/setfit"
+website = "https://hf.co/docs/setfit"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-25

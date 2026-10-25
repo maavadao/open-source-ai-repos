@@ -1,0 +1,8 @@
+name = "BrowserKitten"
+description = "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server."
+category = "llm-apps"
+tags = ["ai-agent", "browser-agent", "byok", "chrome-extension", "llm", "pptx", "tldraw", "univer"]
+repository = "https://github.com/Player-YN/BrowserKitten"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-25

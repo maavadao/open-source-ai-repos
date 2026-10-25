@@ -1,0 +1,8 @@
+name = "phone-harness"
+description = "let your agent control your phone"
+category = "agents"
+tags = ["agent", "ai", "automation", "developer-tools", "mobile-ai", "mobile-development"]
+repository = "https://github.com/ShawnPana/phone-harness"
+license = "MIT"
+language = "Python"
+added = 2026-10-25

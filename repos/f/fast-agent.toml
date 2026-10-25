@@ -1,0 +1,9 @@
+name = "fast-agent"
+description = "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support"
+category = "mcp-servers"
+tags = ["a2a", "acp", "agent", "agent-framework", "agent-skills", "cli", "mcp", "mcp-client"]
+repository = "https://github.com/evalstate/fast-agent"
+website = "https://fast-agent.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-25

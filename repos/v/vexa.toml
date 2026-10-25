@@ -1,0 +1,9 @@
+name = "vexa"
+description = "Open-source meeting transcription API for Google Meet, Microsoft Teams & Zoom. Auto-join bots, real-time WebSocket transcripts, MCP server for AI agents. Self-host or use hosted SaaS."
+category = "mcp-servers"
+tags = ["api", "claude-code", "codex", "google-meet", "mcp", "mcp-server", "meeting-assistant", "meeting-minutes"]
+repository = "https://github.com/Vexa-ai/vexa"
+website = "https://vexa.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-25

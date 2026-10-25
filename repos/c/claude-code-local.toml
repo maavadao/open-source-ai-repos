@@ -1,0 +1,9 @@
+name = "claude-code-local"
+description = "Run Claude Code 100% on-device with local AI on Apple Silicon. MLX-native Anthropic-API server. 6 fighters incl. Muse-Glimmer 30B (now multimodal — reads images, abliterated), Gemma 4 31B, Qwen 3.5 122B (65 tok/s), DeepSeek V4 Flash (1M ctx). Private, offline, airgap-ready. Built for NDA / legal /…"
+category = "local-llms"
+tags = ["abliterated", "ai-privacy", "airgap", "ambient-computing", "anthropic", "apple-silicon", "browser-agent", "claude-code"]
+repository = "https://github.com/nicedreamzapp/claude-code-local"
+website = "https://www.youtube.com/@nicedreamzapps"
+license = "MIT"
+language = "Python"
+added = 2026-10-25

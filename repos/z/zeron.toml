@@ -1,0 +1,9 @@
+name = "zeron"
+description = "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents."
+category = "skills-prompts"
+tags = ["ai", "claude-code", "codex", "coding-agent", "cursor", "developer-tools", "gpui", "local-first"]
+repository = "https://github.com/zeronsh/zeron"
+website = "https://zeron.sh"
+license = "MIT"
+language = "Rust"
+added = 2026-10-25

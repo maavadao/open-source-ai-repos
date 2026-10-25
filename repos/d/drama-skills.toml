@@ -1,0 +1,9 @@
+name = "drama-skills"
+description = "开源 AI 短剧/漫剧创作 skill 合集：剧本、角色资产、分镜 storyboard、图片/视频提示词、审查，适配 Claude Code 与 Codex | Open-source AI short drama / micro-drama skills for Claude Code & Codex: script, assets, storyboard, image & video prompts, review. MIT."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-short-drama", "ai-video", "aigc", "claude-code", "claude-code-skills", "claude-skills", "codex"]
+repository = "https://github.com/zenstory-ai/drama-skills"
+website = "https://zenstory.ai/drama-skills"
+license = "MIT"
+language = "Python"
+added = 2026-10-25

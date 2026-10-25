@@ -1,0 +1,9 @@
+name = "chatgpt-java"
+description = "ChatGPT Java SDK。支持 GPT-4o、 GPT-5 API。开箱即用。An unofficial Java SDK for seamless integration with ChatGPT's GPT-5 and GPT-4 APIs. Ready-to-use, simple setup, and efficient for building AI-powered applications."
+category = "chat"
+tags = ["chatgpt", "chatgpt-api", "chatgpt-api-wrapper", "chatgpt-bot", "chatgpt-sdk", "chatgpt3", "chatgpt4", "gpt4"]
+repository = "https://github.com/PlexPt/chatgpt-java"
+website = "https://chat.plexpt.com/"
+license = "GPL-3.0"
+language = "Java"
+added = 2026-10-25

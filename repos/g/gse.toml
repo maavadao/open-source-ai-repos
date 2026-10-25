@@ -1,0 +1,8 @@
+name = "gse"
+description = "Go efficient multilingual NLP and text segmentation; support English, Chinese, Japanese and others."
+category = "other"
+tags = ["chinese", "english", "go", "gse", "hmm", "hmm-viterbi-algorithm", "japanese", "jieba"]
+repository = "https://github.com/go-ego/gse"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-25

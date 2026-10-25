@@ -1,0 +1,8 @@
+name = "pstack-claude"
+description = "Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses."
+category = "skills-prompts"
+tags = ["agent-plugin", "agent-skills", "agentic-ai", "anthropic", "chatgpt", "claude", "claude-code", "claude-code-skills"]
+repository = "https://github.com/michael-denyer/pstack-claude"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-25

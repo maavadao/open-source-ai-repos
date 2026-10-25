@@ -1,0 +1,8 @@
+name = "claude-swap"
+description = "Switch between multiple Claude Code accounts, with automatic rate-limit rotation, usage dashboard, and parallel sessions"
+category = "skills-prompts"
+tags = ["account-manager", "account-switcher", "anthropic", "claude", "claude-code", "cli", "multi-account", "tui"]
+repository = "https://github.com/realiti4/claude-swap"
+license = "MIT"
+language = "Python"
+added = 2026-10-25

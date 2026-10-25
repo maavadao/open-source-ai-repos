@@ -1,0 +1,8 @@
+name = "awesome-claude-code-toolkit"
+description = "The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, and more."
+category = "skills-prompts"
+tags = ["claude", "claude-code", "claudecode", "claudecode-hooks", "plugins", "skills"]
+repository = "https://github.com/rohitg00/awesome-claude-code-toolkit"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-25

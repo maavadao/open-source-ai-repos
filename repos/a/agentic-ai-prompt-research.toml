@@ -1,0 +1,6 @@
+name = "agentic-ai-prompt-research"
+description = "Research into how agentic AI coding assistants work. Reconstructed prompt patterns, agent coordination, and security classification"
+category = "skills-prompts"
+tags = ["agentic-ai", "ai-research", "claude", "prompt-engineering", "system-prompts"]
+repository = "https://github.com/Leonxlnx/agentic-ai-prompt-research"
+added = 2026-10-25

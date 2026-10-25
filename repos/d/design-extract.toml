@@ -1,0 +1,9 @@
+name = "design-extract"
+description = "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediati…"
+category = "mcp-servers"
+tags = ["accessibility", "agent-skill", "ai", "chrome-extension", "claude-code-plugin", "cli", "css", "cursor"]
+repository = "https://github.com/Manavarya09/design-extract"
+website = "https://www.designlang.app"
+license = "MIT"
+language = "HTML"
+added = 2026-10-25

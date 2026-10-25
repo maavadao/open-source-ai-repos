@@ -1,0 +1,9 @@
+name = "MOSS-TTS-Nano"
+description = "A 100M-parameter multilingual TTS model for real-time CPU inference, voice cloning, and 48 kHz stereo generation"
+category = "speech"
+tags = ["audio-tokenizer", "chinese", "cpu-inference", "english", "multi-modality", "multilingual", "onnx", "realtime"]
+repository = "https://github.com/OpenMOSS/MOSS-TTS-Nano"
+website = "https://openmoss.ai/MOSS-TTS-Nano-Demo/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-25

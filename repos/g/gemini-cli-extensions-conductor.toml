@@ -1,0 +1,8 @@
+name = "conductor"
+description = "A plugin for AI coding agents (Antigravity, Claude Code) enabling Spec-Driven Development to specify, plan, and implement software features."
+category = "other"
+tags = ["antigravity", "antigravity-cli", "antigravity-cli-plugins", "gemini", "google", "spec-driven-development"]
+repository = "https://github.com/gemini-cli-extensions/conductor"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-25

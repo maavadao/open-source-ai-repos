@@ -1,0 +1,8 @@
+name = "clawpanel"
+description = "🦞 OpenClaw & Hermes Agent 多引擎 AI 管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装 | Tauri v2 跨平台桌面应用 | 11 种语言"
+category = "chat"
+tags = ["admin-panel", "ai-agent", "ai-assistant", "ai-chat", "ai-tools", "chatgpt", "cross-platform", "deepseek"]
+repository = "https://github.com/qingchencloud/clawpanel"
+website = "https://claw.qt.cool"
+language = "JavaScript"
+added = 2026-10-25

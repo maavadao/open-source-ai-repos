@@ -1,0 +1,9 @@
+name = "banana-prompt-quicker"
+description = "🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly 数据打标请联系wx glidea123 (数万并发随时狂飙)"
+category = "skills-prompts"
+tags = ["banana", "gemini", "prompt"]
+repository = "https://github.com/glidea/banana-prompt-quicker"
+website = "https://glidea.github.io/banana-prompt-quicker/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-25

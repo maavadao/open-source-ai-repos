@@ -1,0 +1,8 @@
+name = "chatgpt-scraper"
+description = "Easily collect responses from ChatGPT scraper by providing a prompt along with valid Web Scraper API credentials."
+category = "chat"
+tags = ["chatgpt", "chatgpt-api", "chatgpt-free", "chatgpt-scraper", "llm-scraper", "openai-chatgpt", "proxy-scraper"]
+repository = "https://github.com/oxylabs/chatgpt-scraper"
+website = "https://oxylabs.io/products/scraper-api/serp/chatgpt"
+language = "Java"
+added = 2026-10-25

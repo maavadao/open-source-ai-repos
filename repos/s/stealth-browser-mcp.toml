@@ -1,0 +1,8 @@
+name = "stealth-browser-mcp"
+description = "Stealth browser automation for AI agents over MCP and the Chrome DevTools Protocol: navigation, network hooks, DOM extraction, and pixel-accurate UI cloning."
+category = "mcp-servers"
+tags = ["ai-agent-tools", "ai-tools", "anthropic", "anti-bot-bypass", "automation-tools", "browser-automation", "chrome-devtools", "claude-mcp"]
+repository = "https://github.com/vibheksoni/stealth-browser-mcp"
+license = "MIT"
+language = "Python"
+added = 2026-10-25

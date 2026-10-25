@@ -1,0 +1,8 @@
+name = "geo-sleuth"
+description = "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CLI, OpenCode and GitHub Copilot."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude-code", "codex", "computer-vision", "cursor", "gemini-cli", "geoguessr"]
+repository = "https://github.com/Oldcircle/geo-sleuth"
+license = "MIT"
+language = "Python"
+added = 2026-10-25

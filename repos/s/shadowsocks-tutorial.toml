@@ -1,0 +1,8 @@
+name = "Shadowsocks-Tutorial"
+description = "🐱给小白的Shadowsocks翻墙教程-Easy-to-follow tutorials for beginners on using Shadowsocks to bypass internet restrictions."
+category = "chat"
+tags = ["chatgpt", "clash", "claude", "digitalocean", "fanqiang", "gemini", "gfw", "iptables"]
+repository = "https://github.com/zhaoweih/Shadowsocks-Tutorial"
+website = "https://github.com/zhaoweih/Shadowsocks-Tutorial/issues"
+language = "Shell"
+added = 2026-10-25

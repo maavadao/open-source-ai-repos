@@ -1,0 +1,7 @@
+name = "anything2explainer"
+description = "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "ai-video", "claude-code", "claude-code-skill", "codex", "edge-tts", "educational-video"]
+repository = "https://github.com/Vincentwei1021/anything2explainer"
+language = "TypeScript"
+added = 2026-10-25

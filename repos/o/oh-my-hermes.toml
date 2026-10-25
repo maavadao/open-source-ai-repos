@@ -1,0 +1,9 @@
+name = "oh-my-hermes"
+description = "The coding intelligence and skills for Hermes Agent ⚚ just install once. then type 'dag-ulw' to be graph engineering master."
+category = "skills-prompts"
+tags = ["agent", "ai", "ai-agent", "ai-tools", "claude-code", "codex", "hermes-agent", "hermes-skill"]
+repository = "https://github.com/rlaope/oh-my-hermes"
+website = "https://rlaope.github.io/oh-my-hermes/"
+license = "MIT"
+language = "Python"
+added = 2026-10-25

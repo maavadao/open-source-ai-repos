@@ -1,0 +1,9 @@
+name = "mcpo"
+description = "A simple, secure MCP-to-OpenAPI proxy server"
+category = "mcp-servers"
+tags = ["mcp", "mcp-server", "mcp-to-openapi", "open-webui", "openapi"]
+repository = "https://github.com/open-webui/mcpo"
+website = "https://docs.openwebui.com/features/plugin/tools/openapi-servers/mcp"
+license = "MIT"
+language = "Python"
+added = 2026-10-25

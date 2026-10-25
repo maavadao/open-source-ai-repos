@@ -1,0 +1,9 @@
+name = "MCP-SuperAssistant"
+description = "Brings MCP to ChatGPT, DeepSeek, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter, DeepSeek, T3 Chat and more..."
+category = "mcp-servers"
+tags = ["aistudio", "assistant", "chatgpt", "deepseek", "gemini", "google", "grok", "kagi"]
+repository = "https://github.com/srbhptl39/MCP-SuperAssistant"
+website = "https://mcpsuperassistant.ai/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-25

@@ -1,0 +1,8 @@
+name = "VoiceMem"
+description = "Infrastructure for the next generation of voice agents, designed to provide universal memory. It is divided into a left brain and a right brain, storing information and emotions respectively, while a fully streaming architecture eliminates latency at the fundamental level."
+category = "agents"
+tags = ["ai", "ai-agents", "ai-tools", "application", "audio-streaming", "genai", "llm", "long-term-memory"]
+repository = "https://github.com/xzf-thu/VoiceMem"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-25

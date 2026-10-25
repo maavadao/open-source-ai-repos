@@ -1,0 +1,8 @@
+name = "baoyu-design"
+description = "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus or Claude."
+category = "skills-prompts"
+tags = ["agent-skills", "claude", "claude-code", "claude-design", "cursor", "design", "prototyping", "ui-design"]
+repository = "https://github.com/JimLiu/baoyu-design"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-25

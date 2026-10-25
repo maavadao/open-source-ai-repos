@@ -1,0 +1,8 @@
+name = "what-to-eat"
+description = "一饭封神：一个基于 AI 的智能菜谱生成平台，支持中华八大菜系 + 国际料理，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。"
+category = "other"
+tags = ["ai", "gpt", "vibe-coding"]
+repository = "https://github.com/liu-ziting/what-to-eat"
+website = "http://eat.lz-t.top"
+language = "Vue"
+added = 2026-10-25

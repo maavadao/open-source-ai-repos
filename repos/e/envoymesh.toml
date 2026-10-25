@@ -1,0 +1,8 @@
+name = "EnvoyMesh"
+description = "Decentralized P2P mesh for autonomous AI agents — self-sovereign identity, peer-to-peer chat, and on-device AI that negotiates tasks on your behalf. No central server."
+category = "agents"
+tags = ["ai-agents", "decentralized-ai", "decentralized-exchange", "decentralized-identity", "decentralized-storage"]
+repository = "https://github.com/allenpeng0705/EnvoyMesh"
+website = "https://www.homeclaw.cn/envoy/"
+language = "TypeScript"
+added = 2026-10-25

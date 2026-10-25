@@ -1,0 +1,9 @@
+name = "docmd"
+description = "Documentation compiler for humans and machines. One Markdown source to website, search, AI context, and knowledge formats together."
+category = "search"
+tags = ["ai-skills", "api", "context-api", "docker", "docmd", "documentation", "i18n", "javascript"]
+repository = "https://github.com/docmd-io/docmd"
+website = "https://docmd.io"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-25

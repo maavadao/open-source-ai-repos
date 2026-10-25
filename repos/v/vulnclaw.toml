@@ -1,0 +1,9 @@
+name = "VulnClaw"
+description = "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。"
+category = "other"
+tags = ["ai", "ai-agent", "ai-tools", "ctf", "cybersecurity", "openclaw", "penetration-testing", "penetration-testing-tools"]
+repository = "https://github.com/Netw0rkNoob/VulnClaw"
+website = "https://unclecheng-li.github.io/vulnclaw.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-25

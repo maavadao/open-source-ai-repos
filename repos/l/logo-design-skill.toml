@@ -1,0 +1,8 @@
+name = "logo-design-skill"
+description = "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library."
+category = "skills-prompts"
+tags = ["agent-skills", "branding", "claude", "claude-skills", "codex", "gemini-cli", "logo-design", "svg"]
+repository = "https://github.com/kaankiziltug/logo-design-skill"
+license = "MIT"
+language = "HTML"
+added = 2026-10-25

@@ -1,0 +1,9 @@
+name = "twinny"
+description = "Open-source AI coding assistant for VS Code. Coding agent, code completion, chat, edits and reviews with local or hosted models. Your models, your infrastructure."
+category = "vector-databases"
+tags = ["ai-coding-assistant", "artificial-intelligence", "code-chat", "code-completion", "code-generation", "code-review", "code-review-assistant", "developer-tools"]
+repository = "https://github.com/twinnydotdev/twinny"
+website = "https://twinny.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-25

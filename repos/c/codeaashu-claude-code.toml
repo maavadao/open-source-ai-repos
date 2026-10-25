@@ -1,0 +1,7 @@
+name = "claude-code"
+description = "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+category = "skills-prompts"
+tags = ["aashuu", "claude", "claude-ai", "claude-code", "claude-code-leaked", "claude-code-skill", "claude-desktop", "claude-leak"]
+repository = "https://github.com/codeaashu/claude-code"
+language = "TypeScript"
+added = 2026-10-25

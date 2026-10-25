@@ -1,0 +1,9 @@
+name = "OpenBidKit_Yibiao"
+description = "开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用"
+category = "documents"
+tags = ["ai", "ai-writing", "bid", "bidding", "document-ai", "electron", "llm", "office-automation"]
+repository = "https://github.com/FB208/OpenBidKit_Yibiao"
+website = "https://yibiao.pro"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-10-25

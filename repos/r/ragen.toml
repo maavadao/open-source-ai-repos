@@ -1,0 +1,9 @@
+name = "RAGEN"
+description = "Agent RL framework for LLM agents: multi-turn reinforcement learning with StarPO and reasoning-collapse diagnostics"
+category = "agents"
+tags = ["agent-rl", "agentic-ai", "llm-agents", "multi-turn-rl", "reinforcement-learning", "rl-framework"]
+repository = "https://github.com/mll-lab-nu/RAGEN"
+website = "https://ragen-ai.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-25

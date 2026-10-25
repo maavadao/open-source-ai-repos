@@ -1,0 +1,9 @@
+name = "playwriter"
+description = "Chrome extension & CLI to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP"
+category = "mcp-servers"
+tags = ["mcp", "playwright"]
+repository = "https://github.com/remorses/playwriter"
+website = "https://playwriter.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-25

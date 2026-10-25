@@ -1,0 +1,8 @@
+name = "AutoPrompt"
+description = "A framework for prompt tuning using Intent-based Prompt Calibration"
+category = "skills-prompts"
+tags = ["prompt-engineering", "prompt-tuning", "synthetic-dataset-generation"]
+repository = "https://github.com/Eladlev/AutoPrompt"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-25

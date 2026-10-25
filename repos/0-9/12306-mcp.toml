@@ -1,0 +1,8 @@
+name = "12306-mcp"
+description = "This is a 12306 ticket search server based on the Model Context Protocol (MCP)."
+category = "mcp-servers"
+tags = ["12306", "mcp", "mcp-server", "train-tickets"]
+repository = "https://github.com/Joooook/12306-mcp"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-25

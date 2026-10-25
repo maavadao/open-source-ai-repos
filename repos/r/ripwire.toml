@@ -1,0 +1,8 @@
+name = "ripwire"
+description = "The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Find what you want without reading the repo, then check you built what you meant — blast radius, tests-to-run, quality deltas. Signatures at 74.7% fewer bytes than bodies; every guess labelled, every loss publish…"
+category = "mcp-servers"
+tags = ["agent-tools", "call-graph", "claude-code", "code-analysis", "code-intelligence", "code-review", "code-search", "codex"]
+repository = "https://github.com/redhat-et/ripwire"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-25

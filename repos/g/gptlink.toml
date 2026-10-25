@@ -1,0 +1,7 @@
+name = "gptlink"
+description = "10分钟搭建可免费商用的AI对话环境，搭建简单，包含用户，订单，任务，付费等功能"
+category = "chat"
+tags = ["ai", "chatgpt", "docker", "hyperf"]
+repository = "https://github.com/gptlink/gptlink"
+language = "PHP"
+added = 2026-10-25

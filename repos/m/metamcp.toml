@@ -1,0 +1,9 @@
+name = "metamcp"
+description = "MCP Aggregator, Orchestrator, Middleware, Gateway in one docker"
+category = "mcp-servers"
+tags = ["mcp", "mcp-gateway", "mcp-host", "mcp-middleware", "mcp-server", "mcp-servers", "mcp-to-openapi", "mcp-tools"]
+repository = "https://github.com/metatool-ai/metamcp"
+website = "https://docs.metamcp.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-25

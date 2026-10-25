@@ -1,0 +1,9 @@
+name = "ccs"
+description = "Switch between Claude accounts, Gemini, Copilot, OpenRouter (300+ models) via CLIProxyAPI OAuth proxy. Visual dashboard, remote proxy support, WebSearch fallback. Zero-config to production-ready."
+category = "skills-prompts"
+tags = ["ai-gateway", "anthropic-api", "claude", "claude-code", "cli-tool", "cliproxyapi", "developer-productivity", "gemini"]
+repository = "https://github.com/kaitranntt/ccs"
+website = "https://ccs.kaitran.ca/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-25

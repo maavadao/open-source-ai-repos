@@ -1,0 +1,9 @@
+name = "Echo-Loop"
+description = "Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过精听、跟读、盲听、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。"
+category = "education"
+tags = ["ai", "education", "english-learning", "flutter", "language-learning", "listening-practice", "spaced-repetition", "speaking-practice"]
+repository = "https://github.com/echo-loop/Echo-Loop"
+website = "https://www.echo-loop.top"
+license = "AGPL-3.0"
+language = "Dart"
+added = 2026-10-25

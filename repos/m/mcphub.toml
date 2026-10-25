@@ -1,0 +1,9 @@
+name = "mcphub"
+description = "Self-hosted MCP gateway and control plane for connecting, controlling, and operating MCP servers."
+category = "mcp-servers"
+tags = ["mcp", "mcp-gateway", "mcp-hub", "mcp-router", "mcp-server"]
+repository = "https://github.com/samanhappy/mcphub"
+website = "https://mcphub.app"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-25

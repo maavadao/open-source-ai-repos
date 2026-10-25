@@ -1,0 +1,8 @@
+name = "B"
+description = "An autonomous, context-aware AI desktop companion. Built with Python, featuring real-time screen vision, custom ONNX voice synthesis, active window tracking, and a dynamic floating UI with reactive facial expressions."
+category = "speech"
+tags = ["ai", "ai-agent", "ai-companion", "artificial-intelligence", "autonomous-agent", "computer-vision", "desktop-assistant", "llm"]
+repository = "https://github.com/AhmadHassan-BTed/B"
+license = "MIT"
+language = "Python"
+added = 2026-10-25

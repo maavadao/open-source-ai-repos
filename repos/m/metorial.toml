@@ -1,0 +1,8 @@
+name = "metorial"
+description = "Connect any AI model to 1200+ integrations (MCP, CLI, API)"
+category = "mcp-servers"
+tags = ["agent", "agentic-ai", "agentic-workflow", "container", "docker", "mcp", "modelcontextprotocol", "security"]
+repository = "https://github.com/metorial/metorial"
+website = "https://metorial.com"
+language = "TypeScript"
+added = 2026-10-25

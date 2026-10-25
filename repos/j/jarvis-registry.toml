@@ -1,0 +1,9 @@
+name = "jarvis-registry"
+description = "Connect any AI copilot or autonomous agent to your enterprise tools — through a single, secure MCP/Agent gateway with built-in identity, access control, and full observability."
+category = "mcp-servers"
+tags = ["agent", "agent-gateway", "agent-orchestration", "mcp", "mcp-gateway", "orchestration"]
+repository = "https://github.com/ascending-llc/jarvis-registry"
+website = "https://jarvisregistry.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-25

@@ -1,0 +1,9 @@
+name = "AiSOC"
+description = "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue."
+category = "mcp-servers"
+tags = ["agentic-ai", "ai-security", "alert-triage", "blue-team", "cybersecurity", "detection-engineering", "incident-response", "langgraph"]
+repository = "https://github.com/beenuar/AiSOC"
+website = "https://beenuar.github.io/AiSOC/"
+license = "MIT"
+language = "Python"
+added = 2026-10-25

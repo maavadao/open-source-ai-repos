@@ -1,0 +1,7 @@
+name = "AI_Tutorial"
+description = "大厂发布的AI落地实践、顶尖实验室的最新论文、工业界的真实踩坑记录"
+category = "llm-apps"
+tags = ["ai-agent", "artificial-intelligence", "artificial-intelligence-algorithms", "llm", "machine-learning", "recommender-systems", "search-system"]
+repository = "https://github.com/cbamls/AI_Tutorial"
+website = "https://www.6aiq.com"
+added = 2026-10-25

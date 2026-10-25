@@ -1,0 +1,9 @@
+name = "paperasse"
+description = "🇫🇷 Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ..."
+category = "skills-prompts"
+tags = ["agent-skills", "agentic-workflow", "bureaucratie", "claude", "claude-code", "claude-skills", "comptabilite", "comptable"]
+repository = "https://github.com/romainsimon/paperasse"
+website = "https://agentskill.sh/skillsets/paperasse"
+license = "MIT"
+language = "Python"
+added = 2026-10-25

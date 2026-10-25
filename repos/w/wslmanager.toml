@@ -1,0 +1,8 @@
+name = "wslmanager"
+description = "GUI for the Windows Subsystem for Linux — and native Linux/macOS VMs on Mac. Install, back up, move and configure distros without CLI flags; AI assistant with tools, MCP server for agents, remote WSL over SSH."
+category = "mcp-servers"
+tags = ["ai", "developer-tools", "docker", "flutter", "gui", "llm", "macos", "mcp"]
+repository = "https://github.com/bostrot/wslmanager"
+website = "https://wslmanager.com"
+language = "Dart"
+added = 2026-10-25

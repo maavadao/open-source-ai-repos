@@ -1,0 +1,9 @@
+name = "GeminiWatermarkTool"
+description = "Offline Gemini image watermark restoration with reverse alpha blending. Native C++ GUI/CLI, batch processing, and optional GPU denoise."
+category = "other"
+tags = ["cli-app", "gemini", "gui-application", "veo3", "watermark"]
+repository = "https://github.com/allenk/GeminiWatermarkTool"
+website = "https://allenkuo.medium.com/removing-gemini-ai-watermarks-a-deep-dive-into-reverse-alpha-blending-bbbd83af2a3f"
+license = "MIT"
+language = "C++"
+added = 2026-10-25

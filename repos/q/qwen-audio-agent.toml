@@ -1,0 +1,9 @@
+name = "qwen-audio-agent"
+description = "A realtime voice runtime that keeps Agents talking, working, and present. Real-time Voice Runtime for AI Agents"
+category = "skills-prompts"
+tags = ["acp", "agent", "agentic-ai", "ai-coding", "claude-code", "codex", "developer-tools", "opencode"]
+repository = "https://github.com/QwenAudio/qwen-audio-agent"
+website = "https://qwenaudio.github.io/qwen-audio-agent/"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-25

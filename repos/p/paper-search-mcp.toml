@@ -1,0 +1,8 @@
+name = "paper-search-mcp"
+description = "MCP, CLI, Skills for searching and downloading academic papers from multiple sources like arXiv, PubMed, bioRxiv, etc."
+category = "mcp-servers"
+tags = ["ai-scientist", "arxiv-papers", "mcp-server", "paper-search"]
+repository = "https://github.com/openags/paper-search-mcp"
+license = "MIT"
+language = "Python"
+added = 2026-10-25

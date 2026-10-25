@@ -1,0 +1,9 @@
+name = "thesvg"
+description = "The open SVG brand library: 7,600+ brand logos and cloud icons (AWS, Azure, GCP) as official SVG. Search, copy, ship via npm, CDN, CLI, React, Vue, Svelte, Figma, VS Code, Raycast and MCP. Free, MIT, no gatekeeping."
+category = "mcp-servers"
+tags = ["aws", "brand-assets", "brand-logos", "cdn", "cloud-icons", "icon-library", "icon-pack", "icons"]
+repository = "https://github.com/glincker/thesvg"
+website = "https://thesvg.org/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-25

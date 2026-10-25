@@ -1,0 +1,8 @@
+name = "awesome-openclaw-tutorial"
+description = "OpenClaw 中文教程（4500+ Star · 已出版纸质书）：安装、配置、Skills、飞书接入与避坑｜作者的 GPT-6 / Codex / Claude Code 新项目见 README 顶部"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agent", "ai-assistant", "ai-tools", "automation", "awesome", "awesome-list", "chinese"]
+repository = "https://github.com/xianyu110/awesome-openclaw-tutorial"
+website = "https://awesome.tryopenclaw.asia/"
+language = "Shell"
+added = 2026-10-25

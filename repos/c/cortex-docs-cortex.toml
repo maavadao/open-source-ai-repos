@@ -1,0 +1,9 @@
+name = "cortex"
+description = "Cortex - Generates interactive API documentation, typed SDKs, and MCP servers from OpenAPI, AsyncAPI, GraphQL, gRPC, OpenRPC, and Markdown."
+category = "mcp-servers"
+tags = ["api-client", "api-documentation", "api-reference", "asyncapi", "code-generation", "docs", "documentation-generator", "graphql"]
+repository = "https://github.com/cortex-docs/cortex"
+website = "https://cortexdocs.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-25

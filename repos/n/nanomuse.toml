@@ -1,0 +1,9 @@
+name = "nanoMuse"
+description = "nanoMuse: an open-source personal agent for every device you own. One agent with a name and a look of its own that does things, keeps working while the app is closed, remembers you, and asks before anything you cannot undo. On Android, iPhone and iPad, Windows / macOS / Linux and in the browser; yo…"
+category = "llm-apps"
+tags = ["agent-skills", "ai-agent", "android", "computer-use", "cross-device", "desktop-app", "gui-agent", "ios"]
+repository = "https://github.com/nano-muse/nanoMuse"
+website = "https://nanomuse.cn/"
+license = "GPL-3.0"
+language = "Swift"
+added = 2026-10-25

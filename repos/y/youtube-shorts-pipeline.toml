@@ -1,0 +1,9 @@
+name = "youtube-shorts-pipeline"
+description = "Automated YouTube Shorts pipeline: news → script → AI visuals → voiceover → captions → upload"
+category = "speech"
+tags = ["ai-video", "automation", "claude", "content-creation", "elevenlabs", "ffmpeg", "python", "whisper"]
+repository = "https://github.com/rushindrasinha/youtube-shorts-pipeline"
+website = "https://verticals.gg"
+license = "MIT"
+language = "Python"
+added = 2026-10-25

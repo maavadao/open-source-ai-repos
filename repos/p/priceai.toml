@@ -1,0 +1,8 @@
+name = "PriceAI"
+description = "AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。"
+category = "chat"
+tags = ["ai", "ai-subscription", "chatgpt", "claude", "gemini", "grok", "nextjs", "price-comparison"]
+repository = "https://github.com/dimthink/PriceAI"
+website = "https://priceai.cc"
+language = "TypeScript"
+added = 2026-10-25

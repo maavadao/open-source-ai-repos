@@ -1,0 +1,8 @@
+name = "ai-tech-interview"
+description = "👩‍💻👨‍💻 AI 엔지니어 기술 면접 스터디 (⭐️ 2k+)"
+category = "other"
+tags = ["artificial-intelligence", "computer-science", "python", "study", "tech-interview"]
+repository = "https://github.com/boost-devs/ai-tech-interview"
+website = "https://boostdevs.gitbook.io/ai-tech-interview/"
+license = "MIT"
+added = 2026-10-25

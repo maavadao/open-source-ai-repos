@@ -1,0 +1,8 @@
+name = "freecad-mcp"
+description = "FreeCAD MCP(Model Context Protocol) server"
+category = "mcp-servers"
+tags = ["claude", "freecad", "mcp"]
+repository = "https://github.com/neka-nat/freecad-mcp"
+license = "MIT"
+language = "Python"
+added = 2026-10-25

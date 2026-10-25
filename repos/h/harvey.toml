@@ -1,0 +1,8 @@
+name = "harvey"
+description = "Autonomous AI sales agent powered by Claude Code or Codex. Finds prospects, writes cold emails, sends campaigns, handles replies, books meetings. No API keys needed — runs on your Claude or Codex subscriptions."
+category = "other"
+tags = ["ai-agent", "autonomous-agent", "claude", "cold-email", "prospecting", "python", "sales-automation"]
+repository = "https://github.com/ethanplusai/harvey"
+license = "MIT"
+language = "Python"
+added = 2026-10-25

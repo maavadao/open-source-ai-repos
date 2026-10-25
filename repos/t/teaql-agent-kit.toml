@@ -1,0 +1,9 @@
+name = "teaql-agent-kit"
+description = "A model-driven harness for AI coding agents: semantic modeling, app generation, progressive API Assist and evidence-based verification."
+category = "coding"
+tags = ["agentic-coding", "ai-agents", "ai-coding", "ai-native", "code-generation", "coding-agent", "context-management", "ddd"]
+repository = "https://github.com/teaql/teaql-agent-kit"
+website = "https://teaql.io"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-25

@@ -1,0 +1,9 @@
+name = "answer-me-with-html"
+description = "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。"
+category = "skills-prompts"
+tags = ["agent-skill", "ai-agent", "claude-code", "claude-code-skill", "claude-skill", "claude-skills", "cli", "diagram"]
+repository = "https://github.com/QingYunA/answer-me-with-html"
+website = "https://answer-me-with-html.com/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-25

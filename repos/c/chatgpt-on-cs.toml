@@ -1,0 +1,9 @@
+name = "ChatGPT-On-CS"
+description = "拼多多、千牛、抖店 AI 客服机器人：自动回复客户咨询、商品答疑、售后申诉处理，支持微信、小红书、京东、抖音、B站、微博等多平台统一接待；可接入 DeepSeek / 通义千问 等大模型，支持自有知识库定制。"
+category = "chat"
+tags = ["ai", "autohotkey", "automation", "bilibili", "bot", "chatgpt", "chatgpt4", "customer"]
+repository = "https://github.com/cs-lazy-tools/ChatGPT-On-CS"
+website = "https://jinxiaoai.com/"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-25

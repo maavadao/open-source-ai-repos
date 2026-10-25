@@ -1,0 +1,8 @@
+name = "carbon"
+description = "Open-source manufacturing ERP, MES and QMS. Quoting, MRP, inventory, shop floor, quality and lot/serial traceability on one Postgres schema, with a REST API and MCP server. Self-host or use Carbon Cloud."
+category = "mcp-servers"
+tags = ["ai-agents", "bill-of-materials", "erp", "inventory-management", "lean", "manufacturing", "manufacturing-execution-system", "mcp-server"]
+repository = "https://github.com/crbnos/carbon"
+website = "https://carbon.ms"
+language = "TypeScript"
+added = 2026-10-25

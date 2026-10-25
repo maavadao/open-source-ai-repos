@@ -1,0 +1,7 @@
+name = "FreeTodo"
+description = "Auto-Manage Your Personal Task Context with AI."
+category = "agents"
+tags = ["agentic-ai", "context-engineering", "lifelog", "todolist"]
+repository = "https://github.com/FreeU-group/FreeTodo"
+language = "TypeScript"
+added = 2026-10-25

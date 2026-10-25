@@ -1,0 +1,9 @@
+name = "basic"
+description = "⭐⭐⭐⭐⭐ 面向 AI 编程的管理系统框架，兼容PC、移动端。AI-oriented management system framework, compatible with PC and mobile device."
+category = "agents"
+tags = ["admin", "agents", "ant-design", "arco-design", "awesome", "awesome-admin", "element", "element-plus"]
+repository = "https://github.com/fantastic-admin/basic"
+website = "https://fantastic-admin.hurui.me"
+license = "MIT"
+language = "Vue"
+added = 2026-10-25

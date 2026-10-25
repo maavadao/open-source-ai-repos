@@ -1,0 +1,7 @@
+name = "birdnet-go"
+description = "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi."
+category = "ml-platforms"
+tags = ["artificial-intelligence", "audio", "bats", "bioacoustics", "birdnet", "birdnet-pi", "birds", "birdweather"]
+repository = "https://github.com/tphakala/birdnet-go"
+language = "Go"
+added = 2026-10-25

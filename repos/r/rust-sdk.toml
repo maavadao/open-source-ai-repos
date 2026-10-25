@@ -1,0 +1,8 @@
+name = "rust-sdk"
+description = "The official Rust SDK for the Model Context Protocol"
+category = "mcp-servers"
+tags = ["mcp", "mcp-client", "mcp-server", "rust"]
+repository = "https://github.com/modelcontextprotocol/rust-sdk"
+website = "https://docs.rs/rmcp"
+language = "Rust"
+added = 2026-10-25

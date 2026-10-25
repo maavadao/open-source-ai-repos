@@ -1,0 +1,7 @@
+name = "AntigravityManager"
+description = "Antigravity Manager is a desktop application for managing the Google accounts used by Antigravity clients (including Classic, Antigravity IDE and agy CLI). View model quota in real time, switch client accounts seamlessly, and connect AI coding tools like Claude Code, Codex and OpenCode through a hi…"
+category = "other"
+tags = ["account-manager", "antigravity", "antigravity-ai", "antigravity-ide", "antigravity-tools", "antigravity2api", "electron", "gemini"]
+repository = "https://github.com/Draculabo/AntigravityManager"
+language = "TypeScript"
+added = 2026-10-25

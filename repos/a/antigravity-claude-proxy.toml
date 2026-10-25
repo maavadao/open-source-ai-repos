@@ -1,0 +1,8 @@
+name = "antigravity-claude-proxy"
+description = "Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code and OpenClaw (Clawdbot)"
+category = "skills-prompts"
+tags = ["antigravity", "claude", "claude-ai", "claude-code", "clawdbot", "gemini", "gemini-cli", "openclaw"]
+repository = "https://github.com/badrisnarayanan/antigravity-claude-proxy"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-25

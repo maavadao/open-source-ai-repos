@@ -1,0 +1,9 @@
+name = "ctf-skills"
+description = "Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more"
+category = "skills-prompts"
+tags = ["agent-skills", "claude-code", "claude-code-skills", "codex", "codex-cli", "ctf", "ctf-challenges", "ctf-tools"]
+repository = "https://github.com/ljagiello/ctf-skills"
+website = "https://ljagiello.github.io/ctf-skills"
+license = "MIT"
+language = "Python"
+added = 2026-10-25

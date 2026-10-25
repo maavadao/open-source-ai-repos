@@ -1,0 +1,8 @@
+name = "ASC"
+description = "ASC is a super FAST and lightweight Android decompiler designed for Agents/Mobile Researchers."
+category = "agents"
+tags = ["agent", "agentic-ai", "android", "decompilation", "decompile", "decompiler", "dex", "java"]
+repository = "https://github.com/MG1937/ASC"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-25

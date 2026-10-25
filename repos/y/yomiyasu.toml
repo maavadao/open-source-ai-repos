@@ -1,0 +1,8 @@
+name = "yomiyasu"
+description = "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-writing", "antigravity", "claude-code", "codex", "cursor", "gemini", "japanese"]
+repository = "https://github.com/nanaism/yomiyasu"
+license = "MIT"
+language = "Python"
+added = 2026-10-25

@@ -1,0 +1,8 @@
+name = "AiLearning-Theory-Applying"
+description = "快速上手AI理论及应用实战：基础知识、Transformer、NLP、ML、DL、竞赛。含大量注释及数据集，力求每一位能看懂并复现。"
+category = "ml-platforms"
+tags = ["ai", "bert", "dataming", "deep-learning", "kaggle-competition", "learning-by-doing", "machine-learning", "nlp"]
+repository = "https://github.com/ben1234560/AiLearning-Theory-Applying"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-25

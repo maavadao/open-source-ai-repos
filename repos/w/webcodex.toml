@@ -1,0 +1,8 @@
+name = "webcodex"
+description = "Give cloud AI agents a real development environment on your own machines."
+category = "skills-prompts"
+tags = ["agent", "chatgpt", "claude", "claude-code", "codex", "developer-tools", "gemini", "gpt-actions"]
+repository = "https://github.com/yyjeqhc/webcodex"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-25

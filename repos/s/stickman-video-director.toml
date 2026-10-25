@@ -1,0 +1,9 @@
+name = "stickman-video-director"
+description = "Open-source AI stickman video generator for faceless YouTube channels. Automate visuals, voiceover, captions, and sound effects—or direct each scene with video prompts."
+category = "other"
+tags = ["agent-skills", "ai-animation", "ai-video", "animation-prompts", "codex-skill", "content-creation", "gemini", "google-flow"]
+repository = "https://github.com/kaomei/stickman-video-director"
+website = "https://x.com/CrazyKaomei/status/2102311241046008268"
+license = "MIT"
+language = "Python"
+added = 2026-10-25

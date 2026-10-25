@@ -1,0 +1,9 @@
+name = "humanize-text"
+description = "Open-source AI humanizer: rewrite AI-generated text into natural, human-sounding prose. LLM rewriting + multi-engine translation, with step-by-step traces. Python CLI, n8n & Docker."
+category = "llm-apps"
+tags = ["ai-humanizer", "ai-humanizer-api", "ai-rewriter", "ai-text-humanizer", "ai-tools", "ai-writing", "ai-writing-assistant", "deepseek"]
+repository = "https://github.com/lynote-ai/humanize-text"
+website = "https://lynote.ai/ai-humanizer"
+license = "MIT"
+language = "Python"
+added = 2026-10-25

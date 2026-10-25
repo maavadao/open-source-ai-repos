@@ -1,0 +1,9 @@
+name = "esp32-iphone-agent"
+description = "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak."
+category = "llm-apps"
+tags = ["ai-agent", "airplay", "automation", "computer-use", "esp32", "esp32-s3", "iphone", "llm"]
+repository = "https://github.com/onehumanbeing/esp32-iphone-agent"
+website = "https://handsy.tech?ref=github"
+license = "MIT"
+language = "C"
+added = 2026-10-25

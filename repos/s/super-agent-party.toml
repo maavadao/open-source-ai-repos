@@ -1,0 +1,9 @@
+name = "super-agent-party"
+description = "⭐ All-in-one AI companion! Super Agent Party = Self hosted neuro sama + openclaw! ⭐ 全能AI伴侣！超级智能体派对 = 自托管neuro sama + openclaw!"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-companion", "ai-vtuber", "claude-code", "comfyui", "cowork", "discord-bot", "home-assistant"]
+repository = "https://github.com/heshengtao/super-agent-party"
+website = "https://www.agentparty.top"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-10-25

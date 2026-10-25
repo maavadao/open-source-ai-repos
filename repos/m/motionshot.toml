@@ -1,0 +1,7 @@
+name = "MotionShot"
+description = "Camera app that freezes fast motion sequences into a single stroboscopic photo; powered by on-device computer vision, 2D stabilization, and manual exposure controls"
+category = "vision"
+tags = ["action-camera", "android", "camerax", "computer-vision", "image-processing", "jetpack-compose", "kotlin", "motion-overlay"]
+repository = "https://github.com/AhmadHassan-BTed/MotionShot"
+language = "Kotlin"
+added = 2026-10-25

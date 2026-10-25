@@ -1,0 +1,8 @@
+name = "gptel"
+description = "A simple, extensible LLM client for Emacs"
+category = "chat"
+tags = ["chatgpt", "emacs", "llms", "org-mode"]
+repository = "https://github.com/karthink/gptel"
+license = "GPL-3.0"
+language = "Emacs Lisp"
+added = 2026-10-25
