@@ -1,0 +1,8 @@
+name = "Unla"
+description = "🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no infrastructure modifications."
+category = "mcp-servers"
+tags = ["awesome", "mcp", "mcp-adapter", "mcp-gateway", "mcp-server", "rest-to-mcp", "restful-to-mcp"]
+repository = "https://github.com/AmoyLab/Unla"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-26

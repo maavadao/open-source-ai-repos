@@ -1,0 +1,8 @@
+name = "opencode-mem"
+description = "OpenCode plugin that gives coding agents persistent memory using local vector database"
+category = "vector-databases"
+tags = ["ai", "libsql", "memory", "opencode", "opencode-plugin", "turso", "vector-database"]
+repository = "https://github.com/tickernelz/opencode-mem"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-26

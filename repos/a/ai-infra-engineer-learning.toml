@@ -1,0 +1,8 @@
+name = "ai-infra-engineer-learning"
+description = "AI Infrastructure Engineer Learning Track - Production ML infrastructure curriculum (2-4 years experience)"
+category = "education"
+tags = ["ai", "ai-infrastructure", "career-development", "curriculum", "devops", "education", "engineer", "kubernetes"]
+repository = "https://github.com/ai-infra-curriculum/ai-infra-engineer-learning"
+license = "MIT"
+language = "Python"
+added = 2026-10-26

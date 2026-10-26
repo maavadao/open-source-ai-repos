@@ -1,0 +1,7 @@
+name = "ai_story"
+description = "AI视频, AI动漫,AI 短剧,AI漫剧自动化生成工具"
+category = "other"
+tags = ["ai", "ai-short-drama", "ai-video-generator"]
+repository = "https://github.com/xhongc/ai_story"
+language = "Python"
+added = 2026-10-26

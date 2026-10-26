@@ -1,0 +1,8 @@
+name = "bumblebee"
+description = "Pre-trained Neural Network models in Axon (+ 🤗 Models integration)"
+category = "ml-platforms"
+tags = ["axon", "elixir", "hugging-face", "machine-learning", "nx", "pre-trained", "transformer"]
+repository = "https://github.com/elixir-nx/bumblebee"
+license = "Apache-2.0"
+language = "Elixir"
+added = 2026-10-26

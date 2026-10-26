@@ -1,0 +1,9 @@
+name = "stock-api"
+description = "查询 A 股、美股、港股与场内基金行情，并通过 Node.js、浏览器、CLI 或 MCP 快速接入。"
+category = "mcp-servers"
+tags = ["browser", "mcp", "nodejs", "stocks"]
+repository = "https://github.com/zhangxiangliang/stock-api"
+website = "https://zhangxiangliang.github.io/stock-api/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-26

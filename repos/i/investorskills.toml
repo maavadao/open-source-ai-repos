@@ -1,0 +1,9 @@
+name = "investorskills"
+description = "Investor Skills is an open-source library that turns durable investing judgment into portable, structured formats. It collects how great investors think, filter opportunities, size risk, and act under uncertainty — then structures those patterns so humans can study them and AI finance agents can ap…"
+category = "other"
+tags = ["ai", "investing", "investment", "skills"]
+repository = "https://github.com/questflowai/investorskills"
+website = "https://questflow.ai"
+license = "MIT"
+language = "Swift"
+added = 2026-10-26

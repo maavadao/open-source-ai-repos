@@ -1,0 +1,8 @@
+name = "ai-hero"
+description = "AI Hero's open-source examples and course material. Learn AI Engineering with a single repo."
+category = "other"
+tags = ["ai", "typescript"]
+repository = "https://github.com/ai-hero-dev/ai-hero"
+website = "https://www.aihero.dev/"
+language = "TypeScript"
+added = 2026-10-26

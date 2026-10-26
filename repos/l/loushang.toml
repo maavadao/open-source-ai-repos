@@ -1,0 +1,8 @@
+name = "loushang"
+description = "AI-native agent harness for coding workflows by python: multi-model LLM orchestration, stateful sessions, tool governance, traceable delivery, and provider routing for GPT, Claude, DeepSeek, Qwen, Kimi, GLM, and MiniMax."
+category = "skills-prompts"
+tags = ["agent", "agent-harness", "agentic", "ai", "chatgpt", "claude", "claude-code", "codex"]
+repository = "https://github.com/zhnt/loushang"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-26

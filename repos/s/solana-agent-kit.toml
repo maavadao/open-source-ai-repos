@@ -1,0 +1,9 @@
+name = "solana-agent-kit"
+description = "connect any ai agents to solana protocols"
+category = "llm-apps"
+tags = ["ai", "langchain", "langchain-js", "solana", "solana-langchain", "web3js"]
+repository = "https://github.com/sendaifun/solana-agent-kit"
+website = "https://kit.sendai.fun"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-26

@@ -1,0 +1,8 @@
+name = "AI-Anywhere"
+description = "Your agents. Any browser. Anywhere"
+category = "coding"
+tags = ["bing", "claude", "codex", "copilot"]
+repository = "https://github.com/AI-Anywhere/AI-Anywhere"
+website = "https://tmux.online"
+language = "TypeScript"
+added = 2026-10-26

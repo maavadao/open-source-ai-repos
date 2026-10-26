@@ -1,0 +1,8 @@
+name = "jarvis"
+description = "Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or OpenAI-compatible servers on macOS, Windows and Linux."
+category = "mcp-servers"
+tags = ["ai", "ai-assistant", "assistant", "health", "local-ai", "machine-learning", "mcp", "nutrition"]
+repository = "https://github.com/isair/jarvis"
+website = "https://barissencan.com/jarvis/"
+language = "Python"
+added = 2026-10-26

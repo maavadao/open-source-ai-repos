@@ -1,0 +1,9 @@
+name = "OpenLore"
+description = "A minimal, extensible, agent-native knowledge repository that keeps shared context current and inspectable"
+category = "agents"
+tags = ["agent", "agent-memory", "agents", "knowledge", "knowledge-base", "knowledge-management", "knowledgebase", "memory"]
+repository = "https://github.com/aakarim/OpenLore"
+website = "https://openlore.sh"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-26

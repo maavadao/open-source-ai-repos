@@ -1,0 +1,8 @@
+name = "ai-coding-guide"
+description = "「可能是全网最全的」📘 面向小白的 AI 编程 CLI 中文教程：Claude Code + Codex 92 篇精修"
+category = "skills-prompts"
+tags = ["agent", "ai-coding", "anthropic", "chinese-tutorial", "claude-code", "cli", "codex", "llm"]
+repository = "https://github.com/stormzhang/ai-coding-guide"
+website = "https://coding.stormzhang.ai"
+license = "MIT"
+added = 2026-10-26

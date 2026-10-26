@@ -1,0 +1,7 @@
+name = "Clawdmeter"
+description = "ESP32 display that shows you your Claude Code usage"
+category = "other"
+tags = ["claude", "esp32", "freenove", "hardware", "lilygo", "m5stack", "seeedstudio", "spotpear"]
+repository = "https://github.com/HermannBjorgvin/Clawdmeter"
+language = "C"
+added = 2026-10-26

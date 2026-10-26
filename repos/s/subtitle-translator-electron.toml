@@ -1,0 +1,8 @@
+name = "subtitle-translator-electron"
+description = "↔️ Translate subtitle using LLM"
+category = "chat"
+tags = ["chatgpt", "electron", "gpt-3", "gpt-4", "open-ai", "subtitle", "translation"]
+repository = "https://github.com/gnehs/subtitle-translator-electron"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-26

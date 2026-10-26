@@ -1,0 +1,9 @@
+name = "timefold-solver"
+description = "The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems."
+category = "other"
+tags = ["ai", "artificial-intelligence", "constraint-programming", "constraint-solver", "cvrp", "employee-scheduling", "java", "kotlin"]
+repository = "https://github.com/TimefoldAI/timefold-solver"
+website = "http://solver.timefold.ai"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-26

@@ -1,0 +1,9 @@
+name = "skrub"
+description = "Machine learning with dataframes"
+category = "data-science"
+tags = ["data", "data-analysis", "data-cleaning", "data-preparation", "data-preprocessing", "data-science", "data-wrangling", "dataframe"]
+repository = "https://github.com/skrub-data/skrub"
+website = "https://skrub-data.org/"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-26

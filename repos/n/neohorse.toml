@@ -1,0 +1,8 @@
+name = "NeoHorse"
+description = "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness."
+category = "agents"
+tags = ["agent", "large-language-models", "llm", "post-training", "recursive-self-improvement", "rsi"]
+repository = "https://github.com/TokenRhythm/NeoHorse"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-26

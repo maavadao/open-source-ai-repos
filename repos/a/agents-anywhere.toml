@@ -1,0 +1,8 @@
+name = "Agents-Anywhere"
+description = "跨设备的开源Agent工作台"
+category = "agents"
+tags = ["acp", "agentclientprotocol", "agents", "claudecode", "codex", "codex-app", "dsh", "dsh-plugin"]
+repository = "https://github.com/anywhere-labs/Agents-Anywhere"
+website = "https://agents-anywhere.com"
+language = "TypeScript"
+added = 2026-10-26

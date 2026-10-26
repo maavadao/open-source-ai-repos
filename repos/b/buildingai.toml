@@ -1,0 +1,9 @@
+name = "BuildingAI"
+description = "AI时代的WordPress，东半球首个积木式AI应用搭建系统，人人都可免费搭建自己的AI应用系统，例如企业智能体系统、AI漫剧系统、AI论文学术系统、AI客服系统..."
+category = "llm-apps"
+tags = ["ai", "coze", "dify", "fastgpt", "llm", "rag"]
+repository = "https://github.com/BidingCC/BuildingAI"
+website = "https://www.buildingai.cc"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-26

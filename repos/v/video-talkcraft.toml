@@ -1,0 +1,8 @@
+name = "video-talkcraft"
+description = "Agent skill that turns Claude Code / Codex into a motion-design studio for voiceover-driven explainer videos — word-level voiceover sync, 109 motion recipe cards, an anti-slideshow camera system, Remotion rendering."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agent", "claude", "claude-code", "explainer-video", "kinetic-typography", "motion-design", "motion-graphics"]
+repository = "https://github.com/Vincentwei1021/video-talkcraft"
+website = "https://vincentwei1021.github.io/video-talkcraft/"
+language = "HTML"
+added = 2026-10-26

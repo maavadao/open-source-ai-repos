@@ -1,0 +1,9 @@
+name = "intelligent-terminal"
+description = "A fork of Windows Terminal with native agent integration, right in your command line."
+category = "coding"
+tags = ["acp", "agent", "agent-client-protocol", "agentic-ai", "ai", "cli", "command-line", "console"]
+repository = "https://github.com/microsoft/intelligent-terminal"
+website = "https://devblogs.microsoft.com/commandline/announcing-intelligent-terminal-version-0-1/"
+license = "MIT"
+language = "C++"
+added = 2026-10-26

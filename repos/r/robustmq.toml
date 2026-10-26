@@ -1,0 +1,9 @@
+name = "robustmq"
+description = "Communication infrastructure for the AI era — one binary, one broker, one storage layer, any protocol"
+category = "other"
+tags = ["agent-communication", "ai", "ai-agnet", "amqp", "data", "infra", "kafka", "message"]
+repository = "https://github.com/robustmq/robustmq"
+website = "http://robustmq.com/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-26

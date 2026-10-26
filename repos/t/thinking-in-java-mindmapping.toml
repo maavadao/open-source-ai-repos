@@ -1,0 +1,8 @@
+name = "Thinking_in_Java_MindMapping"
+description = "编程笔记、 AI 学习、观影指南、读书笔记、生活感悟、游戏记录"
+category = "chat"
+tags = ["ai", "ai-agent", "chatgpt", "claude", "interview", "java", "jvm", "kotlin"]
+repository = "https://github.com/LjyYano/Thinking_in_Java_MindMapping"
+website = "https://yano-nankai.notion.site/Yano-Space-ff42bde7acd1467eb3ae63dc0d4a9f8c"
+language = "Python"
+added = 2026-10-26

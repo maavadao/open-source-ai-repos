@@ -1,0 +1,9 @@
+name = "awesome-gpt-image"
+description = "A curated collection of the best GPT Image 2 and GPT Image 2.5 prompts and examples. The prompts come from top creators on X."
+category = "skills-prompts"
+tags = ["gpt-image", "gpt-image-2", "gpt-image-2-5", "gpt-image-2-5-api", "gpt-image-2-5-prompts", "image-generator", "prompt-engineering"]
+repository = "https://github.com/ZeroLu/awesome-gpt-image"
+website = "https://cyberbara.com/seedance2.0?utm_source=awesome-gpt-image"
+license = "MIT"
+language = "Python"
+added = 2026-10-26

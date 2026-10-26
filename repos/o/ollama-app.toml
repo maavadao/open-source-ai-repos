@@ -1,0 +1,8 @@
+name = "ollama-app"
+description = "A modern and easy-to-use client for Ollama"
+category = "local-llms"
+tags = ["ai", "android", "app", "linux", "llama", "localai", "ollama", "ollama-client"]
+repository = "https://github.com/JHubi1/ollama-app"
+license = "Apache-2.0"
+language = "Dart"
+added = 2026-10-26

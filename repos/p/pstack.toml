@@ -1,0 +1,8 @@
+name = "pstack"
+description = "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
+category = "skills-prompts"
+tags = ["agent-skills", "agentskills", "ai-agents", "backnotprop", "claude-code", "claude-skills", "codex", "cursor"]
+repository = "https://github.com/backnotprop/pstack"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-26

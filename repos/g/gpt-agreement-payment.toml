@@ -1,0 +1,8 @@
+name = "Gpt-Agreement-Payment"
+description = "ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research"
+category = "chat"
+tags = ["adversarial-ml", "anti-fraud", "bug-bounty", "captcha-solver", "chatgpt", "ctf-tools", "hcaptcha-solver", "mitmproxy"]
+repository = "https://github.com/DanOps-1/Gpt-Agreement-Payment"
+license = "MIT"
+language = "Python"
+added = 2026-10-26

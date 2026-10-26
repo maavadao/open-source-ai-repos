@@ -1,0 +1,7 @@
+name = "esp32_nat_router"
+description = "An AI-enabled NAT Router/Firewall for the ESP32"
+category = "other"
+tags = ["dhcp-server", "esp-idf", "esp32", "firewall", "home-assistant-integration", "mcp-server", "nat", "pcap"]
+repository = "https://github.com/martin-ger/esp32_nat_router"
+language = "C"
+added = 2026-10-26

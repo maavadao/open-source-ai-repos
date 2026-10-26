@@ -1,0 +1,9 @@
+name = "nobodywho"
+description = "NobodyWho is an inference engine that lets you run LLMs locally and efficiently on any device."
+category = "local-llms"
+tags = ["ai", "expo", "flutter", "gguf", "godot", "godot-engine", "godot-plugin", "godot4"]
+repository = "https://github.com/nobodywho-ooo/nobodywho"
+website = "https://nobodywho.ai"
+license = "EUPL-1.2"
+language = "Rust"
+added = 2026-10-26

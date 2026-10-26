@@ -1,0 +1,9 @@
+name = "claude-code-history-viewer"
+description = "Desktop app and web server to browse, search and analyze your AI coding assistant history — Claude Code, Codex CLI, GitHub Copilot, Gemini CLI, Cursor, OpenCode and more. 100% offline."
+category = "skills-prompts"
+tags = ["ai-coding-assistant", "chat-history", "claude", "claude-code", "codex", "conversation-history", "copilot-cli", "cursor"]
+repository = "https://github.com/jhlee0409/claude-code-history-viewer"
+website = "https://jhlee0409.github.io/claude-code-history-viewer"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-26

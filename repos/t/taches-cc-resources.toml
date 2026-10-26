@@ -1,0 +1,9 @@
+name = "taches-cc-resources"
+description = "A collection of my favorite custom Claude Code resources to make life easier."
+category = "skills-prompts"
+tags = ["anthropic", "claude", "claudecode", "commands", "prompts", "skills", "subagents"]
+repository = "https://github.com/glittercowboy/taches-cc-resources"
+website = "https://youtube.com/tachesteaches"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-26

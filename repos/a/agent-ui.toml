@@ -1,0 +1,9 @@
+name = "agent-ui"
+description = "A modern chat interface for AI agents built with Next.js, Tailwind CSS, and TypeScript."
+category = "agents"
+tags = ["agent", "agno", "ai", "chat", "self-hosted"]
+repository = "https://github.com/agno-agi/agent-ui"
+website = "https://agno-agent-ui.vercel.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-26

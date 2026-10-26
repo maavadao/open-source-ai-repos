@@ -1,0 +1,8 @@
+name = "Paper-Notes"
+description = "📚 数千篇 AI、LLM、NLP、CV 顶会论文解读，每篇 5 分钟读懂核心思想。"
+category = "llm-apps"
+tags = ["acl", "acl2026", "ai", "cv", "cvpr", "cvpr2026", "iclr", "icml-2026"]
+repository = "https://github.com/zhaoyang97/Paper-Notes"
+website = "https://papernotes.org"
+language = "Python"
+added = 2026-10-26

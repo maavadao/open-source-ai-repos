@@ -1,0 +1,8 @@
+name = "agentic_coding_flywheel_setup"
+description = "Bootstraps a fresh Ubuntu VPS into a complete multi-agent AI development environment in 30 minutes: coding agents, session management, safety tools, and coordination infrastructure"
+category = "agents"
+tags = ["agentic-ai", "agentic-workflow", "agentmail", "beads", "bv"]
+repository = "https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup"
+website = "https://agent-flywheel.com/"
+language = "Shell"
+added = 2026-10-26

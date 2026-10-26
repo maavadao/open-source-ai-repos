@@ -1,0 +1,8 @@
+name = "key-book"
+description = "《机器学习理论导引》（宝箱书）的证明、案例、概念补充与参考文献讲解。"
+category = "learning"
+tags = ["artificial-intelligence", "course", "deep-learning", "machine-learning", "theoretical-machine-learning", "tutorial"]
+repository = "https://github.com/datawhalechina/key-book"
+website = "https://datawhalechina.github.io/key-book/"
+language = "Jupyter Notebook"
+added = 2026-10-26

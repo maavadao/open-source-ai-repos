@@ -1,0 +1,9 @@
+name = "spectrum-ts"
+description = "Bring agents to any interfaces"
+category = "agents"
+tags = ["agent", "ai", "photon", "typescript"]
+repository = "https://github.com/photon-hq/spectrum-ts"
+website = "https://photon.codes/spectrum"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-26

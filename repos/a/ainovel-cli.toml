@@ -1,0 +1,8 @@
+name = "ainovel-cli"
+description = "✨多agent实现全自动AI小说生成"
+category = "agents"
+tags = ["agents", "ai", "ai-agents", "go", "llm", "novel", "openai"]
+repository = "https://github.com/voocel/ainovel-cli"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-26

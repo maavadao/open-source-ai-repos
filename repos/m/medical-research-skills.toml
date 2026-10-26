@@ -1,0 +1,9 @@
+name = "medical-research-skills"
+description = "Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing."
+category = "data-science"
+tags = ["ai", "bioinformatics", "biology", "cancer-genomics", "computational-biology", "data-analysis", "data-visualization", "differential-expression"]
+repository = "https://github.com/aipoch/medical-research-skills"
+website = "https://aipoch.com/agent-skills"
+license = "MIT"
+language = "Python"
+added = 2026-10-26

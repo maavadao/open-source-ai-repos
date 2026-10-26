@@ -1,0 +1,8 @@
+name = "new-term-radar"
+description = "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them."
+category = "skills-prompts"
+tags = ["agent-skills", "ai", "aisa", "claude-code", "claude-skills", "google-trends", "keyword-research", "mcp"]
+repository = "https://github.com/zhuyansen/new-term-radar"
+license = "MIT"
+language = "Python"
+added = 2026-10-26

@@ -1,0 +1,8 @@
+name = "loonflow"
+description = "A Intelligent and Visual Process Automation System, ticket, workflow, MCP"
+category = "mcp-servers"
+tags = ["devops", "django", "mcp", "python", "ticket", "workflow", "workflow-engine"]
+repository = "https://github.com/blackholll/loonflow"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-26

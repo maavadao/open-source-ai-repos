@@ -1,0 +1,8 @@
+name = "core"
+description = "Your Personal AI OS"
+category = "local-llms"
+tags = ["ai-agent", "ai-memory", "automation", "automations", "claude-code", "codex", "developer-tools", "mcp"]
+repository = "https://github.com/RedPlanetHQ/core"
+website = "https://getcore.me"
+language = "TypeScript"
+added = 2026-10-26

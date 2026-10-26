@@ -1,0 +1,8 @@
+name = "huashu-skills"
+description = "花叔全部开源 Agent Skills 总目录：16 旗舰 + 14 人物视角 + 22 内置共 52 个 skill，分层分类 + AI Agent 安装协议 + 机器可读 skills.json + 更新检查机制"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude", "claude-code", "skills"]
+repository = "https://github.com/alchaincyf/huashu-skills"
+license = "MIT"
+language = "Python"
+added = 2026-10-26

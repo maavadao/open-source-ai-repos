@@ -1,0 +1,9 @@
+name = "Observer"
+description = "Local Micro-Agents that monitor your screen, so you don't have to."
+category = "local-llms"
+tags = ["agent", "agent-framework", "agentic-ai", "agents", "ai-agent", "ai-agents", "llama-cpp", "local-llm"]
+repository = "https://github.com/Roy3838/Observer"
+website = "https://observer-ai.com/"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-26

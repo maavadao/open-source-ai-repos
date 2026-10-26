@@ -1,0 +1,8 @@
+name = "AI-Codereview-Gitlab"
+description = "基于大模型(DeepSeek,OpenAI等)的 GitLab 自动代码审查工具；支持钉钉/企业微信/飞书推送消息和生成日报；支持Docker部署；可视化 Dashboard。"
+category = "llm-apps"
+tags = ["ai", "codereview", "deepseek", "gitlab", "gpt", "llm"]
+repository = "https://github.com/sunmh207/AI-Codereview-Gitlab"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-26

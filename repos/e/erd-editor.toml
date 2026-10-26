@@ -1,0 +1,9 @@
+name = "erd-editor"
+description = "Design database schemas as ERDs in your browser, VS Code, JetBrains IDEs or Obsidian. Import SQL, DBML and GraphQL, export DDL and code, and let coding agents edit live over MCP."
+category = "mcp-servers"
+tags = ["code-generation", "data-modeling", "database", "database-design", "database-schema", "dbml", "ddl", "diagram"]
+repository = "https://github.com/dineug/erd-editor"
+website = "https://erd-editor.io"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-26

@@ -1,0 +1,7 @@
+name = "Eta"
+description = "System-level Android AI Agent with direct OS access. | Android 系统级 AI Agent——越过沙盒，让模型访问底层API、屏幕、终端与你的数据"
+category = "agents"
+tags = ["agent", "android-ai-assistant", "circle-to-search", "coloros", "gemini", "hyperos", "lsposed-module", "oneplus"]
+repository = "https://github.com/Mangi-11/Eta"
+language = "Kotlin"
+added = 2026-10-26

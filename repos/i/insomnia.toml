@@ -1,0 +1,9 @@
+name = "Insomnia"
+description = "A macOS menu bar app that safely keeps your MacBook awake with the lid closed, for timed agent sessions."
+category = "skills-prompts"
+tags = ["ai-agents", "amphetamine-alternative", "caffeinate", "clamshell-mode", "claude-code", "codex", "keep-awake", "macos"]
+repository = "https://github.com/krishhgg/Insomnia"
+website = "https://getinsomnia.app"
+license = "MIT"
+language = "Swift"
+added = 2026-10-26

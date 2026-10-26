@@ -1,0 +1,9 @@
+name = "cosmo-edge"
+description = "Production-grade C++ edge AI engine for video analytics and on-device VLM across Sophon, Rockchip RKNN, and x86, with visual orchestration, real-time OSD, events, and reproducible benchmarks."
+category = "vision"
+tags = ["bm1688", "computer-vision", "cpp17", "cv186x", "edge-ai", "grounding-dino", "on-device-ai", "rk3576"]
+repository = "https://github.com/cosmo-wander-ai/cosmo-edge"
+website = "https://www.cosmowander.ai/"
+license = "Apache-2.0"
+language = "C"
+added = 2026-10-26

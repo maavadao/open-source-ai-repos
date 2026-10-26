@@ -1,0 +1,9 @@
+name = "comp"
+description = "AI Native platform to get companies compliant - Vanta & Drata Alternative"
+category = "other"
+tags = ["ai", "audit", "authjs", "compliance", "drata", "gdpr", "iso27001", "nextjs"]
+repository = "https://github.com/trycompai/comp"
+website = "https://trycomp.ai"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-26

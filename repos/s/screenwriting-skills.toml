@@ -1,0 +1,8 @@
+name = "screenwriting-skills"
+description = "Professional agent skills for screenwriting, television writing and dramaturgy"
+category = "other"
+tags = ["ai", "skills"]
+repository = "https://github.com/jtydhr88/screenwriting-skills"
+license = "MIT"
+language = "Python"
+added = 2026-10-26

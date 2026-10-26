@@ -1,0 +1,7 @@
+name = "GardenPulse"
+description = "Method-agnostic smart garden companion built with React Native, Expo, and TypeScript. Adapts to soil, hydro, container, or indoor setups with location-aware intelligence, OpenWeather integration, and privacy-first, on-device Gemini AI plant diagnostics."
+category = "vision"
+tags = ["admob-integration", "computer-vision", "cross-platform", "expo", "firebase", "gardening-app", "gemini-ai", "google-ai-studio"]
+repository = "https://github.com/AhmadHassan-BTed/GardenPulse"
+language = "TypeScript"
+added = 2026-10-26

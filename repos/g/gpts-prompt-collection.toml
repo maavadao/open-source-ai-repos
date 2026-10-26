@@ -1,0 +1,7 @@
+name = "GPTS-Prompt-Collection"
+description = "收集GPTS的prompt / Collect the prompt of GPTS"
+category = "skills-prompts"
+tags = ["chatgpt", "chatgpt-api", "gpts", "gptslist", "prompt", "prompt-engineering"]
+repository = "https://github.com/B3o/GPTS-Prompt-Collection"
+license = "MIT"
+added = 2026-10-26

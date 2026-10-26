@@ -1,0 +1,9 @@
+name = "gitlab-mcp"
+description = "MCP server for GitLab: 277 tools for projects, MRs, issues, pipelines, wikis and more via the GitLab REST/GraphQL API"
+category = "mcp-servers"
+tags = ["ai", "claude", "cursor", "devtools", "gitlab", "gitlab-api", "llm", "mcp"]
+repository = "https://github.com/zereight/gitlab-mcp"
+website = "https://zereight.github.io/gitlab-mcp/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-26

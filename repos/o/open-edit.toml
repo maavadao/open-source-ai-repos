@@ -1,0 +1,8 @@
+name = "open-edit"
+description = "Open-source, agent-driven editing pipeline: create subtitles, motion graphics, slides, edit and render videos."
+category = "skills-prompts"
+tags = ["ai-agents", "captions", "claude-code", "ffmpeg", "macos", "subtitles", "transcription", "video"]
+repository = "https://github.com/veedstudio/open-edit"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-26

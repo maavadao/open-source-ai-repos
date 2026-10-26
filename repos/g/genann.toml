@@ -1,0 +1,9 @@
+name = "genann"
+description = "simple neural network library in C99"
+category = "ml-platforms"
+tags = ["ann", "backpropagation", "c", "feedforward-neural-network", "genetic-algorithm", "machine-learning", "neural-network", "single-file"]
+repository = "https://github.com/codeplea/genann"
+website = "https://codeplea.com/genann"
+license = "Zlib"
+language = "C"
+added = 2026-10-26

@@ -1,0 +1,9 @@
+name = "supermemory-mcp"
+description = "Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up."
+category = "mcp-servers"
+tags = ["cloudflare", "mcp"]
+repository = "https://github.com/supermemoryai/supermemory-mcp"
+website = "https://mcp.supermemory.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-26

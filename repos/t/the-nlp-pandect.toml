@@ -1,0 +1,8 @@
+name = "The-NLP-Pandect"
+description = "A comprehensive reference for all topics related to Natural Language Processing"
+category = "learning"
+tags = ["awesome-list", "deeplearning", "natural-language-processing", "naturallanguageprocessing", "nlp", "pandect"]
+repository = "https://github.com/ivan-bilan/The-NLP-Pandect"
+license = "CC0-1.0"
+language = "Python"
+added = 2026-10-26

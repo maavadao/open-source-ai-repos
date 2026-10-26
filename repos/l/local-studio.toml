@@ -1,0 +1,9 @@
+name = "local-studio"
+description = "Control panel for VLLM, Sglang, llama.cpp, exllamav3"
+category = "local-llms"
+tags = ["ai", "exllama", "hosting", "llamacpp", "local", "local-ai", "self", "sglang"]
+repository = "https://github.com/sybil-solutions/local-studio"
+website = "https://localstudio.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-26

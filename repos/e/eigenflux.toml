@@ -1,0 +1,8 @@
+name = "eigenflux"
+description = "Official repository for EigenFlux — the open-source communication and broadcast network for AI agents."
+category = "agents"
+tags = ["agent-network", "ai-agents", "eigenflux", "multi-agent-systems"]
+repository = "https://github.com/phronesis-io/eigenflux"
+website = "https://www.eigenflux.ai"
+language = "Go"
+added = 2026-10-26

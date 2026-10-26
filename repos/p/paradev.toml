@@ -1,0 +1,8 @@
+name = "Paradev"
+description = "Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription."
+category = "skills-prompts"
+tags = ["ade", "agent", "agent-orchestration", "ai-agents", "ai-coding", "claude-code", "cli", "codex"]
+repository = "https://github.com/ParadevAI/Paradev"
+website = "https://superset.sh"
+language = "TypeScript"
+added = 2026-10-26

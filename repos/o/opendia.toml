@@ -1,0 +1,9 @@
+name = "opendia"
+description = "Connect your browser to AI models. Just use Dia on Chrome, Arc or Firefox."
+category = "other"
+tags = ["automation", "chrome-extension", "dia", "mcp", "npm", "npm-package"]
+repository = "https://github.com/aeonfun/opendia"
+website = "https://www.aeon.fun"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-26

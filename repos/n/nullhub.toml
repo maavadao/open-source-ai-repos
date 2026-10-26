@@ -1,0 +1,9 @@
+name = "nullhub"
+description = "Management console for the Null ecosystem — install, configure, and monitor AI agents, orchestration workflows, task pipelines, and system health"
+category = "other"
+tags = ["ai", "assistant", "nullclaw", "personal", "zig"]
+repository = "https://github.com/nullclaw/nullhub"
+website = "https://nullhub.io"
+license = "MIT"
+language = "Zig"
+added = 2026-10-26

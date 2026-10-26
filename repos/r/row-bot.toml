@@ -1,0 +1,9 @@
+name = "row-bot"
+description = "Row-Bot - Personal AI Sovereignty. A local-first AI assistant with integrated tools, a personal knowledge graph, voice, vision, shell, browser automation, scheduled tasks, health tracking, and messaging channels. Run locally via Ollama or add opt-in cloud models. Your data stays on your machine."
+category = "local-llms"
+tags = ["ai-assistant", "langchain", "langchain-python", "local-llm", "ollama", "privacy", "react-agent", "sovereign-ai"]
+repository = "https://github.com/siddsachar/row-bot"
+website = "https://row-bot.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-26

@@ -1,0 +1,9 @@
+name = "Unity-Skills"
+description = "AI automation skills specifically designed for Unity"
+category = "coding"
+tags = ["ai", "antygravity-ai", "chatgpt", "claude", "claudecode", "codex", "cursor", "gemini-cli"]
+repository = "https://github.com/Besty0728/Unity-Skills"
+website = "https://www.micostar.cc"
+license = "MIT"
+language = "C#"
+added = 2026-10-26

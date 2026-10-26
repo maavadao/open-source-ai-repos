@@ -1,0 +1,9 @@
+name = "mcp-remote"
+description = "Connect an MCP Client that only supports local (stdio) servers to a Remote MCP Server."
+category = "mcp-servers"
+tags = ["mcp"]
+repository = "https://github.com/punkpeye/mcp-remote"
+website = "https://glama.ai/mcp/servers"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-26

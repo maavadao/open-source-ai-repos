@@ -1,0 +1,9 @@
+name = "solid-glass"
+description = "A design system for AI applications. Material, physical, tactile, technical."
+category = "agents"
+tags = ["agent-ui", "ai", "ai-agents", "chat-ui", "design-system", "llm", "react", "shadcn"]
+repository = "https://github.com/deeplethe/solid-glass"
+website = "https://deeplethe.github.io/solid-glass"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-26

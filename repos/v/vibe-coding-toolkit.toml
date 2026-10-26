@@ -1,0 +1,8 @@
+name = "vibe-coding-toolkit"
+description = "A curated, battle-tested AI-coding toolkit: Claude Code plugins, subagent orchestration, quality gates, and ready-to-copy prompts, extracted from real production use."
+category = "skills-prompts"
+tags = ["ai-agents", "ai-coding", "claude-code", "developer-tools", "llm-agents", "prompts"]
+repository = "https://github.com/soumatheusgomes/vibe-coding-toolkit"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-26

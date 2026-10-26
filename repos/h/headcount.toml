@@ -1,0 +1,9 @@
+name = "headcount"
+description = "An agent organization structured as a company — 15+ departments, 125+ skills, each independently installable, citing the standards and regulators that settle the question. Runs in Claude Code and ChatGPT."
+category = "skills-prompts"
+tags = ["agent-marketplace", "chatgpt-plugin", "chatgpt-skills", "claude-code", "claude-code-plugin", "claude-plugin", "claude-skills", "mcp"]
+repository = "https://github.com/cbrock84/headcount"
+website = "https://cbrock84.github.io/headcount/"
+license = "MIT"
+language = "Markdown"
+added = 2026-10-26

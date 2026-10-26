@@ -1,0 +1,9 @@
+name = "mcpso"
+description = "directory for Awesome MCP Servers"
+category = "mcp-servers"
+tags = ["awesome-mcp-servers", "mcp", "mcp-server-store", "mcp-servers", "mcp-servers-directory"]
+repository = "https://github.com/chatmcp/mcpso"
+website = "https://mcp.so"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-26

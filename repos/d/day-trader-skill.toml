@@ -1,0 +1,8 @@
+name = "day-trader-skill"
+description = "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar."
+category = "skills-prompts"
+tags = ["backtesting", "claude", "claude-skills", "day-trading", "stock-market"]
+repository = "https://github.com/Jakeschincariol/day-trader-skill"
+license = "MIT"
+language = "Python"
+added = 2026-10-26

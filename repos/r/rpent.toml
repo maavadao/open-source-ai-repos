@@ -1,0 +1,9 @@
+name = "RPent"
+description = "RPent: Agentic Infrastructure for the Physical World"
+category = "agents"
+tags = ["agentic-ai", "embodied"]
+repository = "https://github.com/RLinf/RPent"
+website = "https://rpent.readthedocs.io/en/latest/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-26

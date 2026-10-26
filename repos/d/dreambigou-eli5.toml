@@ -1,0 +1,9 @@
+name = "ELI5"
+description = "ELI5 — A Claude Code skill that explains anything to anyone: kids, managers, engineers, parents. Adapts tone, vocabulary, and analogies to match the audience."
+category = "skills-prompts"
+tags = ["ai-skill", "anthropic", "claude", "claude-code", "claude-skill", "education", "eli5", "explain-like-im-5"]
+repository = "https://github.com/DreambigOu/ELI5"
+website = "https://andrewou.pages.dev/posts/building-an-eli5-skill-for-claude/"
+license = "MIT"
+language = "Python"
+added = 2026-10-26

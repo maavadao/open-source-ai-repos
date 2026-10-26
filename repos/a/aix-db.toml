@@ -1,0 +1,8 @@
+name = "Aix-DB"
+description = "Aix-DB 基于 LangChain/LangGraph 框架，结合 MCP Skills 多智能体协作架构，实现自然语言到数据洞察的端到端转换。"
+category = "mcp-servers"
+tags = ["bigdata", "cli", "deepseek-r1", "dify", "echarts", "hermes", "lamaindex", "langchain"]
+repository = "https://github.com/apconw/Aix-DB"
+website = "https://db.aixhub.top/"
+language = "JavaScript"
+added = 2026-10-26

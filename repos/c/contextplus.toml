@@ -1,0 +1,9 @@
+name = "contextplus"
+description = "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining RAG, Tree-sitter AST, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph."
+category = "mcp-servers"
+tags = ["mcp-server"]
+repository = "https://github.com/forloopcodes/contextplus"
+website = "https://contextplus.vercel.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-26

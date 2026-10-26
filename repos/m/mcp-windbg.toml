@@ -1,0 +1,9 @@
+name = "mcp-windbg"
+description = "Model Context Protocol for WinDbg."
+category = "mcp-servers"
+tags = ["copilot", "copilot-chat", "crash-dump", "crash-reports", "mcp", "mcp-server", "windbg", "windbg-extension"]
+repository = "https://github.com/svnscha/mcp-windbg"
+website = "https://svnscha.de/mcp-windbg/"
+license = "MIT"
+language = "Python"
+added = 2026-10-26

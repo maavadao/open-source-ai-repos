@@ -1,0 +1,9 @@
+name = "opencode-gemini-auth"
+description = "Gemini auth plugin for opencode"
+category = "other"
+tags = ["gemini", "opencode", "opencode-plugins"]
+repository = "https://github.com/jenslys/opencode-gemini-auth"
+website = "https://npmjs.com/opencode-gemini-auth"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-26

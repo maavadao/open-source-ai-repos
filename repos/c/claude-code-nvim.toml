@@ -1,0 +1,8 @@
+name = "claude-code.nvim"
+description = "Seamless integration between Claude Code AI assistant and Neovim"
+category = "skills-prompts"
+tags = ["ai-assistant", "anthropic", "claude", "claude-code", "neovim", "nvim", "plugin", "terminal"]
+repository = "https://github.com/greggh/claude-code.nvim"
+license = "MIT"
+language = "Lua"
+added = 2026-10-26

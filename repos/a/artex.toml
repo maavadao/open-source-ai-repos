@@ -1,0 +1,9 @@
+name = "ARTEX"
+description = "ARTEX · AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) · AI 自主渗透测试系统 · 百度 agent+ 攻防挑战赛冠军"
+category = "agents"
+tags = ["ai-agent", "ai-security", "artex", "autonomous-agents", "cybersecurity", "go", "hacking", "llm"]
+repository = "https://github.com/trhhubsd/ARTEX"
+website = "https://artex-demo.vercel.app/"
+license = "AGPL-3.0"
+language = "Go"
+added = 2026-10-26

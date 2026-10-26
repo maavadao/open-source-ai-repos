@@ -1,0 +1,7 @@
+name = "AIStudioToAPI"
+description = "A wrapper that exposes Google AI Studio Build as OpenAI, Gemini, and Anthropic compatible APIs.（一个将 Google AI Studio Build 封装为兼容 OpenAI / Gemini / Anthropic 风格 API 的工具）"
+category = "other"
+tags = ["aistudio", "api", "gemini"]
+repository = "https://github.com/iBUHub/AIStudioToAPI"
+language = "JavaScript"
+added = 2026-10-26

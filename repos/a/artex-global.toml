@@ -1,0 +1,8 @@
+name = "artex-global"
+description = "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0)"
+category = "agents"
+tags = ["ai-agent", "autonomous-agents", "blue-team", "cybersecurity", "detection-engineering", "i18n", "korean", "llm"]
+repository = "https://github.com/jiwoochris/artex-global"
+license = "AGPL-3.0"
+language = "Go"
+added = 2026-10-26

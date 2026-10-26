@@ -1,0 +1,9 @@
+name = "botmux"
+description = "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or topic spawns its own live-streaming CLI session"
+category = "skills-prompts"
+tags = ["claude", "claude-code", "codex", "feishu", "gemini", "lark", "opencode"]
+repository = "https://github.com/deepcoldy/botmux"
+website = "https://deepcoldy.github.io/botmux/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-26

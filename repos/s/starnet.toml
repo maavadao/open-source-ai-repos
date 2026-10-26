@@ -1,0 +1,9 @@
+name = "starnet"
+description = "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run."
+category = "agents"
+tags = ["agent-harness", "ai", "ai-agents", "byok", "desktop-app", "game-ui", "llm", "local-first"]
+repository = "https://github.com/androoAGI/starnet"
+website = "https://github.com/androoAGI/starnet-releases/releases/latest"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-26

@@ -1,0 +1,8 @@
+name = "zero-to-sglang"
+description = "Official SGLang x Datawhale course on LLM inference: understand inference, build a mini-sglang from scratch, then read the real SGLang source and land your first PR. Available in English and Chinese."
+category = "llm-apps"
+tags = ["cuda", "datawhale", "inference-engine", "infra", "kv-cache", "llm", "llm-inference", "sglang"]
+repository = "https://github.com/datawhalechina/zero-to-sglang"
+website = "https://datawhalechina.github.io/zero-to-sglang/"
+language = "Python"
+added = 2026-10-26

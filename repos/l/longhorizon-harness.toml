@@ -1,0 +1,9 @@
+name = "LongHorizon-Harness"
+description = "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native C…"
+category = "skills-prompts"
+tags = ["agent", "claude", "claude-code", "claude-plugin", "cli", "codex", "codex-desktop", "codex-plugin"]
+repository = "https://github.com/AMAP-ML/LongHorizon-Harness"
+website = "https://lh-harness.pages.dev"
+license = "MIT"
+language = "Python"
+added = 2026-10-26

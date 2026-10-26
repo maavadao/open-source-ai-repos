@@ -1,0 +1,8 @@
+name = "kotlin-footguns"
+description = "Battle-tested agent skills mapping the footguns of Kotlin, Compose Multiplatform and the desktop JVM — mined from a production music app, not from documentation."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "android", "claude-code", "compose-multiplatform", "jetpack-compose", "kotlin", "kotlin-multiplatform"]
+repository = "https://github.com/maxrave-dev/kotlin-footguns"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-26

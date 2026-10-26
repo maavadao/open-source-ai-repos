@@ -1,0 +1,8 @@
+name = "php-sdk"
+description = "The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation."
+category = "mcp-servers"
+tags = ["mcp", "mcp-client", "mcp-server", "php"]
+repository = "https://github.com/modelcontextprotocol/php-sdk"
+website = "https://php.sdk.modelcontextprotocol.io"
+language = "PHP"
+added = 2026-10-26

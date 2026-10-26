@@ -1,0 +1,8 @@
+name = "inkloom"
+description = "Specialised AI models for logo design — a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open."
+category = "other"
+tags = ["brand-identity", "cloudflare-workers", "design-systems", "generative-ai", "logo-design", "typography"]
+repository = "https://github.com/Inkloom-art/inkloom"
+website = "https://inkloom.art"
+language = "TypeScript"
+added = 2026-10-26

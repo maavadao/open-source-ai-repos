@@ -1,0 +1,8 @@
+name = "gobang"
+description = "javascript gobang AI，JS五子棋AI，源码+教程，基于Alpha-Beta剪枝算法（不是神经网络）"
+category = "other"
+tags = ["ai", "gobang", "gomoku", "javascript"]
+repository = "https://github.com/lihongxun945/gobang"
+website = "https://gobang2.light7.cn/"
+language = "JavaScript"
+added = 2026-10-26

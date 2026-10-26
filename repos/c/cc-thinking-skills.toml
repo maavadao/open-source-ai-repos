@@ -1,0 +1,8 @@
+name = "cc-thinking-skills"
+description = "28 eval-informed mental models and critical-thinking skills for Claude Code, GitHub Copilot, Codex, Cursor, and other Agent Skills-compatible tools"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-tools", "anthropic", "claude", "claude-code", "critical-thinking", "decision-making", "first-principles"]
+repository = "https://github.com/tjboudreaux/cc-thinking-skills"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-26

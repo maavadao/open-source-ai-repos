@@ -1,0 +1,8 @@
+name = "AI_Animation"
+description = "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。"
+category = "skills-prompts"
+tags = ["ai", "ai-agents", "css", "dsh-plugin", "dsh-plugins", "front-end", "html5", "javascript"]
+repository = "https://github.com/Unclecheng-li/AI_Animation"
+license = "MIT"
+language = "HTML"
+added = 2026-10-26

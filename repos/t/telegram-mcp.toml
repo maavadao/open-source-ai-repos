@@ -1,0 +1,8 @@
+name = "telegram-mcp"
+description = "Telegram MCP server powered by Telethon to let MCP clients read chats, manage groups, and send/modify messages, media, contacts, and settings."
+category = "mcp-servers"
+tags = ["admin", "api", "chat-management", "contacts", "groups", "mcp", "media", "messaging"]
+repository = "https://github.com/chigwell/telegram-mcp"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-26

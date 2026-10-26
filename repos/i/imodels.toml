@@ -1,0 +1,9 @@
+name = "imodels"
+description = "Interpretable ML package 🔍 for concise, transparent, and accurate predictive modeling (sklearn-compatible)."
+category = "data-science"
+tags = ["ai", "artificial-intelligence", "bayesian-rule-list", "data-science", "explainable-ai", "explainable-ml", "imodels", "interpretability"]
+repository = "https://github.com/csinva/imodels"
+website = "https://csinva.io/imodels"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-26

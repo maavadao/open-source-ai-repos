@@ -1,0 +1,8 @@
+name = "claude-code-cheat-sheet"
+description = "Ultimate collection of Claude Code tips, tricks, hacks, and workflows that you can use to master Claude Code in minutes"
+category = "skills-prompts"
+tags = ["claude", "claude-3", "claude-3-opus", "claude-ai", "claude-api", "claude-code", "claude-desktop", "claudecode"]
+repository = "https://github.com/Njengah/claude-code-cheat-sheet"
+website = "https://medium.com/@joe.njenga"
+license = "MIT"
+added = 2026-10-26

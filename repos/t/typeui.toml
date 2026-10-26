@@ -1,0 +1,8 @@
+name = "typeui"
+description = "Build better UI with AI"
+category = "other"
+tags = ["agent-skills", "ai", "ai-tools", "claude-design", "cli", "codex", "design", "design-md"]
+repository = "https://github.com/bergside/typeui"
+website = "https://www.typeui.sh"
+language = "TypeScript"
+added = 2026-10-26

@@ -1,0 +1,9 @@
+name = "yovoice"
+description = "Open-source local AI audio & music studio for macOS & Windows. TTS, voice cloning, songs with lyrics, and multi-track scores — 100% offline, zero API fees."
+category = "speech"
+tags = ["ai-music", "audio", "desktop-app", "local-ai", "macos", "mcp", "midi", "music-generation"]
+repository = "https://github.com/leemysw/yovoice"
+website = "https://yovoice.leemysw.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-26

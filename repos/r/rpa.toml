@@ -1,0 +1,8 @@
+name = "RPA"
+description = "Browser and desktop automation with an MCP server for AI assistants. Record macros or write JavaScript to automate websites, extract data, and control desktop apps with OCR and image recognition."
+category = "mcp-servers"
+tags = ["ai-agents", "browser-automation", "browser-automation-ai-api", "browser-extension", "computer-use", "desktop-automation", "image-recognition", "macro-recorder"]
+repository = "https://github.com/A9T9/RPA"
+website = "https://ui.vision/"
+language = "TypeScript"
+added = 2026-10-26

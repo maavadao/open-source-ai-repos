@@ -1,0 +1,8 @@
+name = "awesome-remote-mcp-servers"
+description = "A collection of remote MCP servers."
+category = "mcp-servers"
+tags = ["mcp"]
+repository = "https://github.com/punkpeye/awesome-remote-mcp-servers"
+website = "https://glama.ai/mcp/connectors"
+license = "MIT"
+added = 2026-10-26

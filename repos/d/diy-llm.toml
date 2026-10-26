@@ -1,0 +1,8 @@
+name = "diy-llm"
+description = "Covers pre-training data, Tokenizer, Transformer, MoE,distributed training, Scaling Laws, inference & alignment .6 progressive code assignments for full-stack LLM learning | 涵盖预训练数据、分词器、Transformer、MoE、分布式训练、缩放定律、推理与对齐，6 项渐进代码作业，掌握 LLM 全栈知识"
+category = "llm-apps"
+tags = ["cs336", "datawhale", "gpu-programming", "grpo", "llm", "nlp", "rl", "scaling-laws"]
+repository = "https://github.com/datawhalechina/diy-llm"
+website = "https://datawhalechina.github.io/diy-llm/"
+language = "Jupyter Notebook"
+added = 2026-10-26

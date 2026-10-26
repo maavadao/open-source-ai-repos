@@ -1,0 +1,9 @@
+name = "layerfs"
+description = "Ephemeral Workspaces, durable shared history. LayerFS gives every agent a complete, writable filesystem Workspace over shared committed history, without copying the base. Agents work in parallel, commit what changed as deduplicated checkpoints, then branch, rewind or merge. Try it with LayerFS × DS…"
+category = "agents"
+tags = ["agent-infrastructure", "ai-agents", "checkpoint", "content-addressable-storage", "copy-on-write", "deduplication", "deepseek", "filesystem"]
+repository = "https://github.com/Ephemeral-AI-Lab/layerfs"
+website = "https://layerfs.ai/"
+license = "MIT"
+language = "Rust"
+added = 2026-10-26

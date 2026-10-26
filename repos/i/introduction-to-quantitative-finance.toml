@@ -1,0 +1,9 @@
+name = "Introduction-to-Quantitative-Finance"
+description = "AI+金融（量化）：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc."
+category = "agents"
+tags = ["agent", "ai4fin", "finance", "investment", "llm", "llm4fin", "quant", "quantitative-finance"]
+repository = "https://github.com/Barca0412/Introduction-to-Quantitative-Finance"
+website = "https://barca0412.github.io/Introduction-to-Quantitative-Finance/"
+license = "MIT"
+language = "Python"
+added = 2026-10-26

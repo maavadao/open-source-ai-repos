@@ -1,0 +1,8 @@
+name = "NLP-Knowledge-Graph"
+description = "自然语言处理、知识图谱、大语言模型，Agent等技术的前沿追踪、研究与应用。"
+category = "agents"
+tags = ["agent", "agentic-ai", "bert", "deep-learning", "ernie", "event-driven", "kbqa", "knowledge-graph"]
+repository = "https://github.com/lihanghang/NLP-Knowledge-Graph"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-26

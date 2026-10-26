@@ -1,0 +1,9 @@
+name = "sglang-omni"
+description = "High Performance Serving Runtime For Interactive Super Intelligence System"
+category = "local-llms"
+tags = ["asr", "audio-generation", "cuda", "distributed-inference", "inference", "interactive", "model-serving", "multimodal"]
+repository = "https://github.com/sgl-project/sglang-omni"
+website = "https://sgl-project.github.io/sglang-omni/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-26

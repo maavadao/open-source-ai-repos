@@ -1,0 +1,9 @@
+name = "document"
+description = "Local-first browser editor for Word, Excel, PowerPoint and PDF, with an experimental AI assistant. No Office installation or account required."
+category = "other"
+tags = ["ai", "ai-assistant", "client-side", "document", "docx", "editor", "excel", "local-first"]
+repository = "https://github.com/ranuts/document"
+website = "https://edit.chaxus.com/"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-26

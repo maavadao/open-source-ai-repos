@@ -1,0 +1,9 @@
+name = "deepagentsjs"
+description = "The batteries included agent harness."
+category = "llm-apps"
+tags = ["ai", "deepagents", "langchain", "langgraph"]
+repository = "https://github.com/langchain-ai/deepagentsjs"
+website = "https://docs.langchain.com/oss/javascript/deepagents/overview"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-26

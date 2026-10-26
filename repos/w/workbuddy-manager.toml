@@ -1,0 +1,7 @@
+name = "workbuddy-manager"
+description = "腾讯 CodeBuddy 账号池管理控制台，内置 OpenAI 兼容反代网关：扫码批量纳管账号、定时签到与保活、密钥分组分发、IP 与模型白名单、调用日志与用量统计；支持带签名校验的一键更新。"
+category = "other"
+tags = ["account-manager", "api-gateway", "codebuddy", "fastapi", "nextjs", "openai", "reverse-proxy", "tailwindcss"]
+repository = "https://github.com/ithtelab/workbuddy-manager"
+language = "Python"
+added = 2026-10-26

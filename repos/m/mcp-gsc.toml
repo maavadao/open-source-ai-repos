@@ -1,0 +1,8 @@
+name = "mcp-gsc"
+description = "Google Search Console Insights with Claude AI for SEOs"
+category = "mcp-servers"
+tags = ["claude", "google-search-console", "mcp-server", "seo"]
+repository = "https://github.com/AminForou/mcp-gsc"
+license = "MIT"
+language = "Python"
+added = 2026-10-26

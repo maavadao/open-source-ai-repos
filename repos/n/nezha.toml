@@ -1,0 +1,9 @@
+name = "nezha"
+description = "Code Editor for the AI Agents Era. Run multiple Claude Code and Codex agents across projects on your machine."
+category = "skills-prompts"
+tags = ["ai", "claude-code", "codex", "cursor", "ide", "vibe-coding", "vibecoding"]
+repository = "https://github.com/hanshuaikang/nezha"
+website = "https://nezha.hanshutx.com/"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-26

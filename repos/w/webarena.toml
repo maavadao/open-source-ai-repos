@@ -1,0 +1,9 @@
+name = "webarena"
+description = "Code repo for \"WebArena: A Realistic Web Environment for Building Autonomous Agents\""
+category = "agents"
+tags = ["agent", "nlp"]
+repository = "https://github.com/web-arena-x/webarena"
+website = "https://webarena.dev"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-26
