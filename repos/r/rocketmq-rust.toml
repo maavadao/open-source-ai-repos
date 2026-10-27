@@ -1,0 +1,9 @@
+name = "rocketmq-rust"
+description = "🚀 Apache RocketMQ built in Rust 🦀 — faster, safer, and more memory-efficient. Powering high-performance messaging for the AI era, with AI Agent, MCP, and AI-SRE capabilities."
+category = "mcp-servers"
+tags = ["ai-sre", "cloud-native", "mcp", "mcp-server", "mcp-tools", "messaging", "rocketmq", "rocketmq-rust"]
+repository = "https://github.com/mxsm/rocketmq-rust"
+website = "https://rocketmqrust.com"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-27

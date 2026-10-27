@@ -1,0 +1,9 @@
+name = "OrcaRouter-Lite"
+description = "Self-hosted LLM router with a managed safety net. OpenAI-compatible. BYOK. Single-workspace. Streaming. For more advanced routing choose hosted OrcaRouter"
+category = "other"
+tags = ["ai-gateway", "ai-gateways", "ai-model-gateway", "anthropic-api", "byok", "gemini-api", "litellm", "llm-router"]
+repository = "https://github.com/Continuum-AI-Corp/OrcaRouter-Lite"
+website = "https://www.orcarouter.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-27

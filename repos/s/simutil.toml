@@ -1,0 +1,8 @@
+name = "simutil"
+description = "Utilities for Android emulators, iOS simulators and real devices: launch, stream, control, record and automate them from a desktop app, TUI and CLI"
+category = "agents"
+tags = ["adb", "ai-agents", "android", "android-emulator", "cli", "dart", "desktop-app", "developer-tools"]
+repository = "https://github.com/dungngminh/simutil"
+license = "MIT"
+language = "Dart"
+added = 2026-10-27

@@ -1,0 +1,8 @@
+name = "reticle"
+description = "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native runtime perception to web & desktop applications."
+category = "skills-prompts"
+tags = ["agent-skill", "agent-skills", "agent-testing", "agent-verification", "ai-testing-tool", "automated-testing", "claude-code", "claude-skills"]
+repository = "https://github.com/reticlehq/reticle"
+website = "https://app.reticle.sh"
+language = "TypeScript"
+added = 2026-10-27

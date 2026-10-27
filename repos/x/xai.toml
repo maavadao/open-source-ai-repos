@@ -1,0 +1,9 @@
+name = "xai"
+description = "XAI - An eXplainability toolbox for machine learning"
+category = "ml-platforms"
+tags = ["ai", "artificial-intelligence", "bias", "bias-evaluation", "downsampling", "evaluation", "explainability", "explainable-ai"]
+repository = "https://github.com/EthicalML/xai"
+website = "https://ethical.institute/principles.html#commitment-3"
+license = "MIT"
+language = "Python"
+added = 2026-10-27

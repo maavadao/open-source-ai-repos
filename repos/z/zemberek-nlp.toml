@@ -1,0 +1,7 @@
+name = "zemberek-nlp"
+description = "NLP tools for Turkish."
+category = "other"
+tags = ["language", "morphology", "nlp", "turkish", "zemberek-nlp"]
+repository = "https://github.com/ahmetaa/zemberek-nlp"
+language = "Java"
+added = 2026-10-27

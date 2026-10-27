@@ -1,0 +1,8 @@
+name = "LitterBox"
+description = "A self-hosted sandbox for red teams to test payloads against modern detection before deployment. MCP integration lets an LLM agent drive analysis end to end."
+category = "mcp-servers"
+tags = ["ai", "docker-compose", "malware-analysis", "malware-development", "mcp", "mcp-server", "offensive-security", "redteam"]
+repository = "https://github.com/BlackSnufkin/LitterBox"
+license = "GPL-3.0"
+language = "YARA"
+added = 2026-10-27

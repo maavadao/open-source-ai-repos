@@ -1,0 +1,9 @@
+name = "claude-code-viewer"
+description = "A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects"
+category = "skills-prompts"
+tags = ["claude", "claude-code"]
+repository = "https://github.com/d-kimuson/claude-code-viewer"
+website = "https://www.npmjs.com/package/@kimuson/claude-code-viewer"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-27

@@ -1,0 +1,9 @@
+name = "saiku"
+description = "Open-source semantic layer: one cube for Excel (MDX/XMLA), dashboards, and AI agents (MCP). Mondrian + Apache Calcite."
+category = "mcp-servers"
+tags = ["analytics", "apache-calcite", "business-intelligence", "mcp", "mdx", "mondrian", "olap", "semantic-layer"]
+repository = "https://github.com/spiculedata/saiku"
+website = "https://saiku.bi"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-27

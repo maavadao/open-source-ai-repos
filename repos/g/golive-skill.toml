@@ -1,0 +1,9 @@
+name = "golive-skill"
+description = "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry."
+category = "skills-prompts"
+tags = ["agent-skill", "agent-skills", "ai-agents", "claude-code", "cloudflare", "codex", "database", "deployment"]
+repository = "https://github.com/mikehasa/golive-skill"
+website = "https://trytofu.ai/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-27

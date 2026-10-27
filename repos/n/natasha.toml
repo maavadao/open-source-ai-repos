@@ -1,0 +1,8 @@
+name = "natasha"
+description = "Solves basic Russian NLP tasks, API for lower level Natasha projects"
+category = "vector-databases"
+tags = ["embeddings", "morphology", "ner", "nlp", "python", "russian", "sentence-segmentation", "syntax"]
+repository = "https://github.com/natasha/natasha"
+license = "MIT"
+language = "Python"
+added = 2026-10-27

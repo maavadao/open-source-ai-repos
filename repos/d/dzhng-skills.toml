@@ -1,0 +1,8 @@
+name = "skills"
+description = "Reusable AI agent skills for software factories: explore ideas, write specs, implement, review, and run autonomous research. Works with Claude Code, Codex, and other skill-compatible agents."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "autonomous-agents", "autoresearch", "claude-code", "code-review", "codex", "developer-tools"]
+repository = "https://github.com/dzhng/skills"
+license = "MIT"
+language = "HTML"
+added = 2026-10-27

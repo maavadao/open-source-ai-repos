@@ -1,0 +1,8 @@
+name = "Review-Gate"
+description = "Review-Gate V2 is a powerful rule for the Cursor IDE that helps you get up to 5x more value from your monthly requests. It creates an interactive loop where the AI waits for your follow-up commands—via text, voice, or image upload—allowing you to perform deep, iterative work all within a single req…"
+category = "coding"
+tags = ["ai", "claude", "cursor", "ide"]
+repository = "https://github.com/LakshmanTurlapati/Review-Gate"
+website = "https://www.youtube.com/watch?v=mZmNM-AIf4M"
+language = "JavaScript"
+added = 2026-10-27

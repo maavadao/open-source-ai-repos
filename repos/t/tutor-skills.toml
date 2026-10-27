@@ -1,0 +1,8 @@
+name = "tutor-skills"
+description = "A Claude Code skill that turns PDFs, docs, and codebases into Obsidian study vaults"
+category = "skills-prompts"
+tags = ["agent-skills", "claude", "claude-code", "claude-skills", "skill", "skills", "skillsmp"]
+repository = "https://github.com/bevibing/tutor-skills"
+license = "MIT"
+language = "Shell"
+added = 2026-10-27

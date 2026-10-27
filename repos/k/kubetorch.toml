@@ -1,0 +1,9 @@
+name = "kubetorch"
+description = "Distribute and run AI workloads on Kubernetes magically in Python, like PyTorch for ML infra."
+category = "local-llms"
+tags = ["artificial-intelligence", "aws", "data-processing", "data-science", "distributed", "evaluation", "gcp", "inference"]
+repository = "https://github.com/run-house/kubetorch"
+website = "https://run.house"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-27

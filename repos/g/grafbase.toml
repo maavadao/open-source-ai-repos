@@ -1,0 +1,9 @@
+name = "grafbase"
+description = "[Acquired by The Guild] The Grafbase GraphQL Federation Gateway"
+category = "other"
+tags = ["ai", "api", "enterprise-graphql", "federation", "graphql", "graphql-federation", "mcp", "model-context-protocol"]
+repository = "https://github.com/grafbase/grafbase"
+website = "https://the-guild.dev/graphql/hive/blog/acquired-grafbase"
+license = "MPL-2.0"
+language = "Rust"
+added = 2026-10-27

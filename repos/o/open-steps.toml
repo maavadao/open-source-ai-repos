@@ -1,0 +1,9 @@
+name = "open-steps"
+description = "Plain-language agent skills for Claude Code, Codex, Cursor and Gemini CLI: honest session reports, straight verdicts, steps you can follow. MIT."
+category = "skills-prompts"
+tags = ["agent-skill", "agent-skills", "ai-agents", "claude-code", "claude-code-plugin", "claude-code-skills", "claude-skill", "codex"]
+repository = "https://github.com/kharmanskyi/open-steps"
+website = "https://opensteps.ai"
+license = "MIT"
+language = "Shell"
+added = 2026-10-27

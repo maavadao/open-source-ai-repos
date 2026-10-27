@@ -1,0 +1,9 @@
+name = "pycm"
+description = "Multi-class confusion matrix library in Python"
+category = "data-science"
+tags = ["accuracy", "ai", "artificial-intelligence", "classification", "confusion-matrix", "data", "data-analysis", "data-mining"]
+repository = "https://github.com/sepandhaghighi/pycm"
+website = "http://pycm.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-27

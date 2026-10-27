@@ -1,0 +1,8 @@
+name = "agentic-soc-platform"
+description = "Agentic SOC Platform: A powerful, flexible, open-source, and agent-centric automated security operations platform (AI SOC)"
+category = "llm-apps"
+tags = ["agentic-soc", "ai", "blueteam", "cybersecurity", "dify", "langchain", "langgraph", "llm"]
+repository = "https://github.com/FunnyWolf/agentic-soc-platform"
+website = "https://asp.viperrtp.com"
+language = "Python"
+added = 2026-10-27

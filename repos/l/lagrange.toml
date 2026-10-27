@@ -1,0 +1,9 @@
+name = "lagrange"
+description = "A Beautiful Gemini Client"
+category = "other"
+tags = ["c11", "client", "desktop", "gemini", "gui", "linux", "macos", "network"]
+repository = "https://github.com/skyjake/lagrange"
+website = "https://gmi.skyjake.fi/lagrange/"
+license = "BSD-2-Clause"
+language = "C"
+added = 2026-10-27

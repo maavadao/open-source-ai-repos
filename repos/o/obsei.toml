@@ -1,0 +1,9 @@
+name = "obsei"
+description = "Open source, privacy-first Voice of Customer analytics. A self-hosted alternative to Enterpret and Unwrap that strips PII from feedback before any LLM sees it."
+category = "local-llms"
+tags = ["app-reviews", "customer-experience", "customer-feedback", "customer-intelligence", "feedback-analysis", "gemini-cli-extension", "llm", "local-llm"]
+repository = "https://github.com/obsei/obsei"
+website = "https://obsei.com/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-27

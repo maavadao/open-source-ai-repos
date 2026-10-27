@@ -1,0 +1,7 @@
+name = "skill-codex"
+description = "A claude code skill to delegate prompts to codex"
+category = "skills-prompts"
+tags = ["claude", "claude-code", "codex"]
+repository = "https://github.com/skills-directory/skill-codex"
+license = "MIT"
+added = 2026-10-27

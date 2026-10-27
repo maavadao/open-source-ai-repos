@@ -1,0 +1,9 @@
+name = "ai-engineering-from-scratch-zh"
+description = "Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 542 课 · 中文全量翻译 + 配套站点 + 动画讲解视频 · 如何成为 AI Agent 工程师的修成指南"
+category = "agents"
+tags = ["agents", "ai", "ai-agents", "ai-engineering", "chinese", "chinese-translation", "computer-vision", "course"]
+repository = "https://github.com/fancyboi999/ai-engineering-from-scratch-zh"
+website = "https://aieng-zh.cn"
+license = "MIT"
+language = "Python"
+added = 2026-10-27

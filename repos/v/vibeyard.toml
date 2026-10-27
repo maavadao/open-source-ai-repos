@@ -1,0 +1,8 @@
+name = "vibeyard"
+description = "The IDE built for AI coding agents."
+category = "skills-prompts"
+tags = ["ai", "cc", "claude", "claude-code", "cli", "developer-tools", "electron", "ide"]
+repository = "https://github.com/elirantutia/vibeyard"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-27

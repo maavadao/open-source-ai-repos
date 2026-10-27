@@ -1,0 +1,9 @@
+name = "Gearboy"
+description = "Game Boy / Game Boy Color / Super Game Boy emulator and debugger with embedded MCP server for macOS, Windows, Linux, BSD and RetroArch."
+category = "mcp-servers"
+tags = ["bsd", "emulation", "emulator", "game-boy", "gameboy", "gameboy-color-emulator", "gameboy-emulator", "libretro"]
+repository = "https://github.com/drhelius/Gearboy"
+website = "https://x.com/drhelius"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-10-27

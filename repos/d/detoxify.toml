@@ -1,0 +1,9 @@
+name = "detoxify"
+description = "Trained models & code to predict toxic comments on all 3 Jigsaw Toxic Comment Challenges. Built using ⚡ Pytorch Lightning and 🤗 Transformers."
+category = "other"
+tags = ["bert", "bert-model", "hate-speech", "hate-speech-detection", "hatespeech", "huggingface", "huggingface-transformers", "kaggle-competition"]
+repository = "https://github.com/unitaryai/detoxify"
+website = "https://www.unitary.ai/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-27

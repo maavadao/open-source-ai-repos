@@ -1,0 +1,9 @@
+name = "openpets"
+description = "Local first, desktop companion platform with animated pets, plugin SDK and coding-agent integrations."
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "coding-agents", "desktop-companion", "desktop-pet", "dsh-plugin", "electron", "mcp"]
+repository = "https://github.com/OpenPetsHQ/openpets"
+website = "https://openpets.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-27

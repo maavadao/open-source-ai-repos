@@ -1,0 +1,9 @@
+name = "open-claude-ui"
+description = "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。"
+category = "other"
+tags = ["anthropic", "audioworklet", "claude", "design-system", "framer-motion", "motion-physics", "react", "reverse-engineering"]
+repository = "https://github.com/Caho1/open-claude-ui"
+website = "https://openclaudeui.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-27

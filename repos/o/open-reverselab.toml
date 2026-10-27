@@ -1,0 +1,8 @@
+name = "open-reverselab"
+description = "Open-source AI reverse-engineering agent platform and MCP server for Ghidra, Frida, x64dbg and Rizin — automated PE/APK/binary analysis, CTF and malware research, with 100+ MCP tools and a 194-article runnable knowledge base."
+category = "mcp-servers"
+tags = ["ai-agent", "ai-reverse-engineering", "android-reverse-engineering", "binary-analysis", "binary-reverse-engineering", "claude-code", "codex", "ctf"]
+repository = "https://github.com/LING71671/open-reverselab"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-27

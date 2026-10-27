@@ -1,0 +1,9 @@
+name = "goose-skills"
+description = "Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead gen, seo and data scraping"
+category = "skills-prompts"
+tags = ["claude", "claude-skills", "claudecode", "claudecode-skills", "codex", "cursor", "gtm", "skills"]
+repository = "https://github.com/gooseworks-ai/goose-skills"
+website = "https://gooseworks.ai/cli"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-27

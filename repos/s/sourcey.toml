@@ -1,0 +1,9 @@
+name = "sourcey"
+description = "Precision documentation from OpenAPI, MCP, Doxygen, and Markdown guides. Static HTML you own."
+category = "mcp-servers"
+tags = ["api-documentation", "developer-tools", "docs", "documentation", "documentation-generator", "doxygen", "godoc", "llms-txt"]
+repository = "https://github.com/sourcey/sourcey"
+website = "https://sourcey.com/docs"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-27

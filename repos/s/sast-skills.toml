@@ -1,0 +1,7 @@
+name = "sast-skills"
+description = "Collection of agent skills to find vulnerabilities inside your web/mobile apps."
+category = "skills-prompts"
+tags = ["ai-security", "claude", "claude-code", "sast"]
+repository = "https://github.com/utkusen/sast-skills"
+license = "MIT"
+added = 2026-10-27

@@ -1,0 +1,8 @@
+name = "synthadoc"
+description = "Synthadoc: An open-source LLM knowledge compilation engine that turns raw documents into structured, local-first wikis. A transparent, human-readable alternative to traditional RAG, which can be self-managed and self-improved without the use of any tools."
+category = "local-llms"
+tags = ["agent-skills", "agentic-ai", "cli-tool", "domain-adaptation", "enterprise", "enterprise-solutions", "knowledge-graph", "local-llm"]
+repository = "https://github.com/axoviq-ai/synthadoc"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-27

@@ -1,0 +1,8 @@
+name = "torch-audiomentations"
+description = "Fast audio data augmentation in PyTorch. Inspired by audiomentations. Useful for deep learning."
+category = "ml-platforms"
+tags = ["audio", "audio-data-augmentation", "audio-effects", "augmentation", "data-augmentation", "deep-learning", "differentiable-data-augmentation", "dsp"]
+repository = "https://github.com/iver56/torch-audiomentations"
+license = "MIT"
+language = "Python"
+added = 2026-10-27

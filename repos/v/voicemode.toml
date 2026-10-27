@@ -1,0 +1,9 @@
+name = "voicemode"
+description = "Natural voice conversations with Claude Code"
+category = "speech"
+tags = ["anthropic", "asr", "claude", "claudecode", "kokoro", "livekit", "mcp", "mcp-server"]
+repository = "https://github.com/mbailey/voicemode"
+website = "https://voicemode.dev"
+license = "MIT"
+language = "Python"
+added = 2026-10-27

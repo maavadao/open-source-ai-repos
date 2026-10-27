@@ -1,0 +1,9 @@
+name = "Browser4"
+description = "Browser4 — an AI-native browser engine for autonomous agents, intelligent extraction, and large-scale web automation."
+category = "agents"
+tags = ["agentic-ai", "agentic-browser", "ai-browser", "browser-agent", "browser-infra", "browser-use-agent", "chrome-browser", "chrome-devtools-protocol"]
+repository = "https://github.com/platonai/Browser4"
+website = "https://browser4.io"
+license = "Apache-2.0"
+language = "Kotlin"
+added = 2026-10-27

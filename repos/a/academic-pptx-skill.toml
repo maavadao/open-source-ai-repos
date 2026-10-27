@@ -1,0 +1,7 @@
+name = "academic-pptx-skill"
+description = "A Claude Skill for creating academic presentations (conference talks, seminar slides, thesis defenses, grant briefings). Enforces action titles, structured argument, exhibit discipline, citation standards, and communication-first design. Works alongside Anthropic's built-in PPTX skill."
+category = "skills-prompts"
+tags = ["academic", "academic-presentations", "agent-skills", "anthropic", "claude", "claude-ai", "claude-skills", "data-visualization"]
+repository = "https://github.com/Gabberflast/academic-pptx-skill"
+license = "MIT"
+added = 2026-10-27

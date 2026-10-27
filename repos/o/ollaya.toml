@@ -1,0 +1,9 @@
+name = "ollaya"
+description = "Jev-compatible API server for open decision models. Ollama for decision models: pull and serve 29 model families (Laya, pplx-decider, Clef, Winnow, coba...) locally or self-hosted behind /v1/systemone. The TypeSafe SDK works unchanged: set its base URL and pick an open model. CLI, desktop app, Dock…"
+category = "mcp-servers"
+tags = ["calibration", "decision-model", "decision-models", "inference-server", "jev", "jev-alternative", "jev-compatible", "laya"]
+repository = "https://github.com/ollaya-dev/ollaya"
+website = "https://ollaya.dev"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-27

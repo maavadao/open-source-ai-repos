@@ -1,0 +1,9 @@
+name = "StartLux-Decision"
+description = "Open decision models from 0.8B to 27B: a calibrated probability for every option in one pass, and a short thought only when unsure. Engine for vLLM, llama.cpp and MLX."
+category = "local-llms"
+tags = ["agents", "calibration", "classification", "decision-making", "gguf", "inference", "llama-cpp", "llm"]
+repository = "https://github.com/StartLuxLabs/StartLux-Decision"
+website = "https://decision.startlux.com/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-27

@@ -1,0 +1,9 @@
+name = "puppyone-cloud"
+description = "Context drive for your AI agents"
+category = "agents"
+tags = ["agent", "agentic-ai", "ai", "ai-agents", "context", "context-engineering", "harness", "harness-engineering"]
+repository = "https://github.com/puppyone-ai/puppyone-cloud"
+website = "https://www.puppyone.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-27

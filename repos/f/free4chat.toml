@@ -1,0 +1,9 @@
+name = "free4chat"
+description = "Temporary rooms for Humans and AI Agents — run, supervise and steer Agent Tasks without a permanent workspace."
+category = "agents"
+tags = ["acp", "agent-collaboration", "agent-runtime", "agent-supervision", "agentic-ai", "ai-agent", "ai-agents", "cloudflare-workers"]
+repository = "https://github.com/i365dev/free4chat"
+website = "https://www.free4.chat"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-27

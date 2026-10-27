@@ -1,0 +1,9 @@
+name = "llama2.mojo"
+description = "Inference Llama 2 in one file of pure 🔥"
+category = "local-llms"
+tags = ["inference", "llama", "llama2", "modular", "mojo", "parallelize", "performance", "simd"]
+repository = "https://github.com/tairov/llama2.mojo"
+website = "https://www.modular.com/blog/community-spotlight-how-i-built-llama2-by-aydyn-tairov"
+license = "MIT"
+language = "Mojo"
+added = 2026-10-27

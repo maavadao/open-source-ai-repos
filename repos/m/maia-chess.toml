@@ -1,0 +1,9 @@
+name = "maia-chess"
+description = "Maia is a human-like neural network chess engine trained on millions of human games."
+category = "ml-platforms"
+tags = ["chess", "chess-engine", "computational-social-science", "deep-learning", "machine-learning"]
+repository = "https://github.com/CSSLab/maia-chess"
+website = "https://maiachess.com"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-27

@@ -1,0 +1,8 @@
+name = "website-rebuild-skill"
+description = "复刻网站的 Agent Skill：抓只读镜像、从压缩代码逐行还原、自动比对验收。An agent skill that mirrors a website, rebuilds it from the minified code, and verifies the result with automated diffs."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude", "claude-code", "codex", "reverse-engineering", "wayback-machine", "web-archiving"]
+repository = "https://github.com/boyang-hu/website-rebuild-skill"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-27

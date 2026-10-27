@@ -1,0 +1,7 @@
+name = "claude-code-prompts"
+description = "Independently authored prompt templates for AI coding agents — system prompts, tool prompts, agent delegation, memory management, and multi-agent coordination. Informed by studying Claude Code."
+category = "skills-prompts"
+tags = ["ai-coding-agent", "ai-tools", "anthropic-claude", "claude-code", "claude-code-prompts", "claude-code-system-prompt", "claude-prompts", "coding-assistant"]
+repository = "https://github.com/repowise-dev/claude-code-prompts"
+license = "MIT"
+added = 2026-10-27

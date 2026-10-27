@@ -1,0 +1,8 @@
+name = "aws-agent-skills"
+description = "AWS Skills for Agents"
+category = "skills-prompts"
+tags = ["agent-skills", "agentic-ai", "aws", "claude-code", "claude-skills", "codex", "coding-agents"]
+repository = "https://github.com/itsmostafa/aws-agent-skills"
+license = "MIT"
+language = "Python"
+added = 2026-10-27

@@ -1,0 +1,7 @@
+name = "rstack"
+description = "Agent skills and an AGENTS.md workflow template — isolate in worktrees, build to a service layer, prove with evidence, ship with before/after proof and Greptile review loops. For Claude Code, Cursor, and Codex."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude-code", "code-review", "codex", "cursor", "developer-workflow", "greptile"]
+repository = "https://github.com/michaelshimeles/rstack"
+language = "Python"
+added = 2026-10-27

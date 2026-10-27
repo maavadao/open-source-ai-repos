@@ -1,0 +1,8 @@
+name = "mcd-budget-meal"
+description = "麦麦预算餐：基于麦当劳 MCP 的真实核价、预算比较与餐品替换 Skill"
+category = "mcp-servers"
+tags = ["mcdonalds", "mcp", "python", "skill", "workbuddy"]
+repository = "https://github.com/Sam-Hui-dot/mcd-budget-meal"
+website = "https://sam-hui-dot.github.io/mcd-budget-meal/"
+language = "HTML"
+added = 2026-10-27

@@ -1,0 +1,9 @@
+name = "reason-network"
+description = "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`."
+category = "other"
+tags = ["coding-agents", "iroh", "mcp", "peer-to-peer", "reason"]
+repository = "https://github.com/reason-machines/reason-network"
+website = "https://reasonmachines.com"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-27

@@ -1,0 +1,9 @@
+name = "LlamaChat"
+description = "Chat with your favourite LLaMA models in a native macOS app"
+category = "local-llms"
+tags = ["ai", "llama", "llamacpp", "machine-learning", "macos", "swift", "swiftui"]
+repository = "https://github.com/alexrozanski/LlamaChat"
+website = "https://llamachat.app"
+license = "MIT"
+language = "Swift"
+added = 2026-10-27

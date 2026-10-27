@@ -1,0 +1,7 @@
+name = "awesome-gemini"
+description = "A collection of awesome things regarding the gemini protocol ecosystem."
+category = "learning"
+tags = ["awesome", "awesome-list", "awesome-lists", "gemini", "gemini-protocol"]
+repository = "https://github.com/kr1sp1n/awesome-gemini"
+license = "CC0-1.0"
+added = 2026-10-27

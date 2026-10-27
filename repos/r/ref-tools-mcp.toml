@@ -1,0 +1,9 @@
+name = "ref-tools-mcp"
+description = "Helping coding agents never make mistakes working with public or private libraries without wasting the context window."
+category = "mcp-servers"
+tags = ["coding-agent", "documentation-tool", "mcp", "mcp-server"]
+repository = "https://github.com/ref-tools/ref-tools-mcp"
+website = "http://ref.tools"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-27

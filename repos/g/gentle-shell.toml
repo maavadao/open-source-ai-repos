@@ -1,0 +1,9 @@
+name = "gentle-shell"
+description = "Gentle Shell is a Pi-native workspace for AI-assisted development, bringing parallel coding agents, live tasks, Git diffs, persistent memory, and permission controls into one terminal interface. Powered by Gentle AI and Organic Driven Development (ODD)."
+category = "coding"
+tags = ["agent-harness", "agent-skills", "ai-agents", "ai-coding", "ai-coding-agent", "code-review", "coding-agents", "developer-tools"]
+repository = "https://github.com/Gentleman-Programming/gentle-shell"
+website = "https://gentle-ai.gentlemanprogramming.com/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-27

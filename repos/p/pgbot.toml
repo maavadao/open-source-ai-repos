@@ -1,0 +1,8 @@
+name = "pgbot"
+description = "Postgres intelligence for ai agents"
+category = "data-science"
+tags = ["ai", "data-analysis", "database", "postgres", "postgresql", "postgresql-database"]
+repository = "https://github.com/pgrundev/pgbot"
+website = "https://pgbot.dev"
+language = "Go"
+added = 2026-10-27

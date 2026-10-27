@@ -1,0 +1,9 @@
+name = "PyTorchStepByStep"
+description = "Official repository of my book: \"Deep Learning with PyTorch Step-by-Step: A Beginner's Guide\""
+category = "ml-platforms"
+tags = ["cnn-pytorch", "deep-learning", "python", "pytorch", "pytorch-tutorial", "rnn-pytorch"]
+repository = "https://github.com/dvgodoy/PyTorchStepByStep"
+website = "https://pytorchstepbystep.com"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-27

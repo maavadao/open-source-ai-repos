@@ -1,0 +1,9 @@
+name = "hazm"
+description = "Persian NLP Toolkit"
+category = "vector-databases"
+tags = ["dependency-parser", "embeddings", "farsi", "lemmatization", "natural-language-processing", "nlp", "normalization", "persian"]
+repository = "https://github.com/roshan-research/hazm"
+website = "https://www.roshan-ai.ir/hazm/"
+license = "MIT"
+language = "Python"
+added = 2026-10-27

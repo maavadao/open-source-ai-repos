@@ -1,0 +1,9 @@
+name = "getspecstory"
+description = "Install our local first extensions for your favorite AI IDE or Terminal Agent. Process your histories into reusable skills with Lore. Sync your conversations to the cloud. File issues and requests."
+category = "skills-prompts"
+tags = ["agent-skills", "ai", "chat-history", "claude", "claude-code", "claude-code-skills", "codex", "codex-cli"]
+repository = "https://github.com/specstoryai/getspecstory"
+website = "https://specstory.com/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-27

@@ -1,0 +1,8 @@
+name = "rtdl"
+description = "Research on Tabular Deep Learning: Papers & Packages"
+category = "ml-platforms"
+tags = ["ai", "artificial-intelligence", "deep-learning", "machine-learning", "neural-network", "papers", "python", "pytorch"]
+repository = "https://github.com/yandex-research/rtdl"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-27

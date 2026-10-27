@@ -1,0 +1,9 @@
+name = "agents"
+description = "A durable process per agent, with memory that survives restarts"
+category = "agents"
+tags = ["actor-model", "agent-sdk", "ai-agents", "coding-agents", "daytona", "durable-execution", "e2b", "llm"]
+repository = "https://github.com/rivet-dev/agents"
+website = "https://rivet.dev/agents/docs"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-27

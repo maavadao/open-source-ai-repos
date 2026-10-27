@@ -1,0 +1,8 @@
+name = "Deep-Learning-Experiments"
+description = "Videos, notes and experiments to understand deep learning"
+category = "ml-platforms"
+tags = ["artificial-intelligence", "deep-learning", "deep-learning-tutorial", "nlp", "pytorch", "speech", "vision"]
+repository = "https://github.com/roatienza/Deep-Learning-Experiments"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-27

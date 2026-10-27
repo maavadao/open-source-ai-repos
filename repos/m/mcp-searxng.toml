@@ -1,0 +1,9 @@
+name = "mcp-searxng"
+description = "Private web search for AI assistants via SearXNG — supports Claude, Cursor, and any MCP client"
+category = "mcp-servers"
+tags = ["ai", "claude", "cursor", "llm", "mcp", "mcp-server", "mcp-servers", "privacy"]
+repository = "https://github.com/ihor-sokoliuk/mcp-searxng"
+website = "https://www.npmjs.com/package/mcp-searxng"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-27

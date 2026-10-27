@@ -1,0 +1,9 @@
+name = "Arraymancer"
+description = "A fast, ergonomic and portable tensor library in Nim with a deep learning focus for CPU, GPU and embedded devices via OpenMP, Cuda and OpenCL backends"
+category = "ml-platforms"
+tags = ["autograd", "automatic-differentiation", "cuda", "cudnn", "deep-learning", "gpgpu", "gpu-computing", "high-performance-computing"]
+repository = "https://github.com/mratsim/Arraymancer"
+website = "https://mratsim.github.io/Arraymancer/"
+license = "Apache-2.0"
+language = "Nim"
+added = 2026-10-27

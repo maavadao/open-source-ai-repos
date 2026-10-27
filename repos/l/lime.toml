@@ -1,0 +1,8 @@
+name = "lime"
+description = "Full-stack AI agent for coding, files, terminals, tools, research, content, multimodal work, and multi-agent workflows."
+category = "agents"
+tags = ["agent", "agent-collaboration", "agent-harness", "agentic-ai", "ai", "claw", "content-creation", "creators"]
+repository = "https://github.com/limecloud/lime"
+website = "https://limeai.run"
+language = "TypeScript"
+added = 2026-10-27

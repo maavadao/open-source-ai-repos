@@ -1,0 +1,8 @@
+name = "figwright"
+description = "Free, two-way Figma MCP server. Turn designs into framework-aware code, and push code back to the canvas. Works with Claude Code, Cursor, Codex, and any MCP client."
+category = "mcp-servers"
+tags = ["ai", "claude-code", "codegen", "codex", "cursor", "design-to-code", "figma", "figma-mcp"]
+repository = "https://github.com/awdr74100/figwright"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-27

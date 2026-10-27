@@ -1,0 +1,8 @@
+name = "amfora"
+description = "A fancy terminal browser for the Gemini protocol."
+category = "other"
+tags = ["browser", "gemini", "gemini-protocol", "go", "golang", "terminal", "tui"]
+repository = "https://github.com/makew0rld/amfora"
+license = "GPL-3.0"
+language = "Go"
+added = 2026-10-27

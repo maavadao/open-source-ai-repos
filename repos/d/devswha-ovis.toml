@@ -1,0 +1,9 @@
+name = "ovis"
+description = "Ovis (formerly herdr web UI): free, open-source browser and phone client for herdr. Chat and live terminal for Claude Code, Codex and every agent pane, remote PCs over SSH, web push alerts"
+category = "skills-prompts"
+tags = ["agentic-coding", "ai-agents", "bun", "claude-code", "codex", "coding-agents", "herdr", "herdr-plugin"]
+repository = "https://github.com/devswha/ovis"
+website = "https://ovis.sh"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-27

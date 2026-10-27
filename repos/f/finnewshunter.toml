@@ -1,0 +1,8 @@
+name = "FinnewsHunter"
+description = "FinnewsHunter: Multi-agent financial intelligence platform powered by AgenticX. Real-time news analysis, sentiment fusion, and alpha factor mining."
+category = "agents"
+tags = ["agentic-ai", "alpha-signals", "fintech", "multi-agent", "quant-finance", "sentiment-analysis"]
+repository = "https://github.com/DemonDamon/FinnewsHunter"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-27

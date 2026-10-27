@@ -1,0 +1,9 @@
+name = "aegra"
+description = "Open source alternative to LangGraph Platform (now LangSmith Deployments) - Self-hosted AI agent backend with FastAPI and PostgreSQL. Zero vendor lock-in, full control over your agent infrastructure."
+category = "llm-apps"
+tags = ["fastapi", "langchain", "langggraph", "langgraph-agents", "langgraph-platform-alternative", "opensource-langgraph-platform", "postgres", "python"]
+repository = "https://github.com/aegra/aegra"
+website = "https://aegra.dev"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-27

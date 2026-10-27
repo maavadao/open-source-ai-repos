@@ -1,0 +1,8 @@
+name = "kotlin-sdk"
+description = "The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains"
+category = "mcp-servers"
+tags = ["kotlin-multiplatform", "mcp"]
+repository = "https://github.com/modelcontextprotocol/kotlin-sdk"
+website = "https://modelcontextprotocol.github.io/kotlin-sdk/"
+language = "Kotlin"
+added = 2026-10-27

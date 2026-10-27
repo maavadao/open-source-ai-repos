@@ -1,0 +1,8 @@
+name = "deepsvg"
+description = "[NeurIPS 2020] Official code for the paper \"DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation\". Includes a PyTorch library for deep learning with SVG data."
+category = "ml-platforms"
+tags = ["autoencoder", "deep-learning", "deep-svg", "library", "machine-learning", "python", "pytorch", "sketch-rnn"]
+repository = "https://github.com/alexandre01/deepsvg"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-27

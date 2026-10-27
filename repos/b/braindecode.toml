@@ -1,0 +1,9 @@
+name = "braindecode"
+description = "Deep learning software to decode EEG, ECG or MEG signals"
+category = "ml-platforms"
+tags = ["deep-learning", "ecog", "eeg", "electrocorticography", "electroencephalogram", "electroencephalography", "magnetoencephalography", "meg"]
+repository = "https://github.com/braindecode/braindecode"
+website = "https://braindecode.org/"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-27

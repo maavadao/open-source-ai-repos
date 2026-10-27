@@ -1,0 +1,9 @@
+name = "taranis-ai"
+description = "Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis."
+category = "other"
+tags = ["artificial-intelligence", "cybersecurity", "nlp", "osint", "secops"]
+repository = "https://github.com/taranis-ai/taranis-ai"
+website = "https://taranis.ai/"
+license = "EUPL-1.2"
+language = "Python"
+added = 2026-10-27

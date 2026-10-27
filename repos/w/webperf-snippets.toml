@@ -1,0 +1,9 @@
+name = "webperf-snippets"
+description = "Tested JavaScript snippets that measure and debug web performance. Your AI agent runs them for you, or you run them yourself in DevTools: the same code every time."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "chrome-devtools", "claude-code", "cli", "cls", "core-web-vitals", "inp"]
+repository = "https://github.com/nucliweb/webperf-snippets"
+website = "https://webperf-snippets.net"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-27

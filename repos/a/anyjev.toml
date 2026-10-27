@@ -1,0 +1,9 @@
+name = "AnyJev"
+description = "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)"
+category = "local-llms"
+tags = ["calibration", "decision-model", "jev", "jev-model", "llm", "system-one", "transformers", "vllm"]
+repository = "https://github.com/nokia-applied-research/AnyJev"
+website = "https://pypi.org/project/anyjev/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-27

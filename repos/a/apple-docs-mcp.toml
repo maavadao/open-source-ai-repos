@@ -1,0 +1,9 @@
+name = "apple-docs-mcp"
+description = "MCP server for Apple Developer Documentation - Search iOS/macOS/SwiftUI/UIKit docs, WWDC videos, Swift/Objective-C APIs & code examples in Claude, Cursor & AI assistants"
+category = "mcp-servers"
+tags = ["ai-assistant", "api-documentation", "apple", "apple-developer-docs-mcp", "apple-developer-documentation", "apple-docs-mcp", "apple-documentation", "claude"]
+repository = "https://github.com/kimsungwhee/apple-docs-mcp"
+website = "https://www.npmjs.com/package/@kimsungwhee/apple-docs-mcp"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-27

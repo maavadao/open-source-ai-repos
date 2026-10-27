@@ -1,0 +1,8 @@
+name = "awesome-seedance-2-prompts"
+description = "🎬 2000+ curated Seedance 2.0 video generation prompts — cinematic, anime, UGC, ads, meme styles. Includes Seedance API guides, character consistency tips, and advanced video workflows."
+category = "skills-prompts"
+tags = ["ai-video", "awesome", "awesome-list", "prompt-engineering", "seedance", "seedance-2", "seedance-api", "seedance2"]
+repository = "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+website = "https://youmind.com/seedance-2-0-prompts"
+language = "TypeScript"
+added = 2026-10-27

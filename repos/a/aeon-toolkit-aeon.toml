@@ -1,0 +1,9 @@
+name = "aeon"
+description = "A toolkit for time series machine learning and deep learning"
+category = "data-science"
+tags = ["aeon", "ai", "artificial-intelligence", "data-mining", "data-science", "deep-learning", "forecasting", "machine-learning"]
+repository = "https://github.com/aeon-toolkit/aeon"
+website = "https://aeon-toolkit.org/"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-27

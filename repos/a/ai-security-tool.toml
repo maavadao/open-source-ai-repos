@@ -1,0 +1,9 @@
+name = "ai-security-tool"
+description = "🛡️ Free open-source AI-powered security terminal & vulnerability scanner (CVE, SBOM). Supports SSH, SFTP, RDP, VNC, Serial, and 12+ autonomous AI agents (DeepSeek, OpenAI) for automated security workflows, CTF & DevSecOps. Cross-platform & Web UI."
+category = "security"
+tags = ["ai-hacking", "ai-security-tool", "cve-scanner", "cybersecurity", "hacking-tool", "llm-security", "mcp-server", "mcp-tools"]
+repository = "https://github.com/ZeroDayEvil/ai-security-tool"
+website = "https://zerodayevil.cloud"
+license = "MIT"
+language = "HTML"
+added = 2026-10-27

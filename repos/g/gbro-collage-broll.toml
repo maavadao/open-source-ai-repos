@@ -1,0 +1,8 @@
+name = "gbro-collage-broll"
+description = "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill"
+category = "video"
+tags = ["agent-skill", "broll", "gemini", "paper-collage", "video-generation"]
+repository = "https://github.com/pyang5166/gbro-collage-broll"
+license = "MIT"
+language = "Python"
+added = 2026-10-27

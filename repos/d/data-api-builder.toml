@@ -1,0 +1,9 @@
+name = "data-api-builder"
+description = "Data API builder provides modern REST, GraphQL endpoints and MCP tools to your Azure Databases and on-prem stores."
+category = "mcp-servers"
+tags = ["api", "azure", "database", "graphql", "hacktoberfest", "mcp", "mcp-server", "microsoft"]
+repository = "https://github.com/Azure/data-api-builder"
+website = "https://aka.ms/dab/docs"
+license = "MIT"
+language = "C#"
+added = 2026-10-27

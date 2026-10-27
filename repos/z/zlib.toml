@@ -1,0 +1,9 @@
+name = "zlib"
+description = "A command-line tool for Z-Library. Search, download, send to Kindle, and integrate with AI agents."
+category = "chat"
+tags = ["annas-archive", "book", "calibre", "calibre-plugin", "calibre-web", "chatgpt", "claude", "cli"]
+repository = "https://github.com/heartleo/zlib"
+website = "https://zlib.heartleo.dev/"
+license = "MIT"
+language = "Go"
+added = 2026-10-27

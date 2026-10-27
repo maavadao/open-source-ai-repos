@@ -1,0 +1,9 @@
+name = "notebooks"
+description = "code for deep learning courses"
+category = "ml-platforms"
+tags = ["deep-learning", "pytorch", "tutorials"]
+repository = "https://github.com/dataflowr/notebooks"
+website = "https://dataflowr.github.io/website/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-27

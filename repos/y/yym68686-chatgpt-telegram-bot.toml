@@ -1,0 +1,8 @@
+name = "ChatGPT-Telegram-Bot"
+description = "TeleChat: 🤖️ an AI chat Telegram bot can Web Search Powered by GPT-5, DALL·E , Groq, Gemini 2.5 Pro/Flash and the official Claude4.1 API using Python on Zeabur, fly.io and Replit."
+category = "agents"
+tags = ["agent", "chatgpt", "claude", "claude-3-opus", "claude-api", "docker", "fly-io", "gemini"]
+repository = "https://github.com/yym68686/ChatGPT-Telegram-Bot"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-27

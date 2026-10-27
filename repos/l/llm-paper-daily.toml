@@ -1,0 +1,7 @@
+name = "llm-paper-daily"
+description = "Daily updated LLM papers. 每日更新 LLM 相关的论文，欢迎订阅 👏 喜欢的话动动你的小手 🌟 一个"
+category = "agents"
+tags = ["agent", "chatgpt", "large-language-models", "llm", "rag"]
+repository = "https://github.com/xianshang33/llm-paper-daily"
+language = "Python"
+added = 2026-10-27

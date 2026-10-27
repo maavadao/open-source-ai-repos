@@ -1,0 +1,7 @@
+name = "female-portrait-director"
+description = "A modular Codex Skill for directing and expanding detailed AI female portrait prompts."
+category = "skills-prompts"
+tags = ["ai-image-generation", "codex", "codex-skill", "open-source", "prompt-engineering"]
+repository = "https://github.com/liyue-aigc/female-portrait-director"
+license = "MIT"
+added = 2026-10-27

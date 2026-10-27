@@ -1,0 +1,9 @@
+name = "skillkit"
+description = "Supercharge AI coding agents with portable skills. Install, translate & share skills across Claude Code, Cursor, Codex, Copilot & 40 more"
+category = "coding"
+tags = ["agent-skills", "agentskills", "ai", "cli", "codex", "cursor", "gemini", "opencode"]
+repository = "https://github.com/rohitg00/skillkit"
+website = "https://skillkit.sh"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-27

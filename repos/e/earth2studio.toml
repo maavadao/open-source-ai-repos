@@ -1,0 +1,9 @@
+name = "earth2studio"
+description = "Open-source deep-learning framework for exploring, building and deploying AI weather/climate workflows."
+category = "ml-platforms"
+tags = ["ai", "climate-science", "deep-learning", "weather"]
+repository = "https://github.com/NVIDIA/earth2studio"
+website = "https://nvidia.github.io/earth2studio/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-27

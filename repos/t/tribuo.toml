@@ -1,0 +1,9 @@
+name = "tribuo"
+description = "Tribuo - A Java machine learning library"
+category = "ml-platforms"
+tags = ["classification", "clustering", "deep-learning", "java", "machine-learning", "ml", "nlp", "regression"]
+repository = "https://github.com/oracle/tribuo"
+website = "https://tribuo.org"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-27

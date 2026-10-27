@@ -1,0 +1,9 @@
+name = "skillpack"
+description = "Pack and deploy local AI agents for your team in minutes"
+category = "agents"
+tags = ["agent", "agent-skills", "agentic", "agentic-ai", "agentic-workflow", "ai-skills"]
+repository = "https://github.com/CreminiAI/skillpack"
+website = "https://skillpack.sh"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-27

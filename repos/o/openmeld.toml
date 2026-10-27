@@ -1,0 +1,9 @@
+name = "openmeld"
+description = "The open-source collaboration system for people and AI agents. Share context, coordinate tasks, and work in parallel with your team, cloud agents, Codex, Claude Code, Grok, Grok Bot, OpenCode, Antigravity, and Cursor."
+category = "skills-prompts"
+tags = ["agent-client-protocol", "agent-orchestration", "agent-skills", "ai-agents", "claude-code", "codex", "cursor", "grok"]
+repository = "https://github.com/amplifthq/openmeld"
+website = "https://openmeld.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-27

@@ -1,0 +1,9 @@
+name = "shortcuts-playground-plugin"
+description = "Shortcuts Playground: A Claude Code and Codex plugin for building, validating, signing, and remixing macOS/iOS Shortcuts with natural language."
+category = "other"
+tags = ["apple", "automation", "claude", "codex", "ios", "ipados", "macos", "shortcuts"]
+repository = "https://github.com/viticci/shortcuts-playground-plugin"
+website = "https://www.macstories.net/shortcuts/"
+license = "MIT"
+language = "Python"
+added = 2026-10-27

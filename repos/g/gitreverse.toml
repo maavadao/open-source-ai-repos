@@ -1,0 +1,9 @@
+name = "gitreverse"
+description = "Reverse engineer any repo into it's original prompt"
+category = "skills-prompts"
+tags = ["prompt-engineering", "reverse-engineering", "vibe-coding"]
+repository = "https://github.com/filiksyos/gitreverse"
+website = "https://gitreverse.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-27

@@ -1,0 +1,9 @@
+name = "rizzo-pii"
+description = "Local-first privacy guard: anonymize your documents before sharing with LLMs."
+category = "llm-apps"
+tags = ["anonymization", "gdpr", "italian", "legal-tech", "llm", "local-first", "mmbert", "named-entity-recognition"]
+repository = "https://github.com/Rizzo-AI-Academy/rizzo-pii"
+website = "https://rizzo-ai-academy.github.io/rizzo-pii/"
+license = "MIT"
+language = "Python"
+added = 2026-10-27

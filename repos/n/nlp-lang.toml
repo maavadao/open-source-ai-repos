@@ -1,0 +1,8 @@
+name = "nlp-lang"
+description = "这个项目是一个基本包.封装了大多数nlp项目中常用工具"
+category = "other"
+tags = ["java", "nlp", "nlp-lang", "tire"]
+repository = "https://github.com/NLPchina/nlp-lang"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-27

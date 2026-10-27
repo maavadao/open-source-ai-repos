@@ -1,0 +1,8 @@
+name = "AMD-SHARK-Studio"
+description = "AMD-SHARK Studio -- Web UI for SHARK+IREE High Performance Machine Learning Distribution"
+category = "ml-platforms"
+tags = ["amd", "apple-silicon", "deep-learning", "machine-learning", "mlir", "nvidia", "pytorch"]
+repository = "https://github.com/nod-ai/AMD-SHARK-Studio"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-27

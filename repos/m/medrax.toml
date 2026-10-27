@@ -1,0 +1,9 @@
+name = "MedRAX"
+description = "MedRAX: Medical Reasoning Agent for Chest X-ray - ICML 2025"
+category = "agents"
+tags = ["agent", "agentic-ai", "agentic-framework", "chest-xray", "chest-xrays", "healthcare", "langchain", "medical"]
+repository = "https://github.com/bowang-lab/MedRAX"
+website = "https://bowang-lab.github.io/MedRAX/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-27

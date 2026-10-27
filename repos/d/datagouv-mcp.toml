@@ -1,0 +1,9 @@
+name = "datagouv-mcp"
+description = "Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation."
+category = "mcp-servers"
+tags = ["mcp", "mcp-server", "open-data", "opendata"]
+repository = "https://github.com/datagouv/datagouv-mcp"
+website = "https://mcp.data.gouv.fr"
+license = "MIT"
+language = "Python"
+added = 2026-10-27

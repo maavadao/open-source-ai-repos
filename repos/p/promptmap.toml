@@ -1,0 +1,8 @@
+name = "promptmap"
+description = "a security scanner for custom LLM applications"
+category = "local-llms"
+tags = ["ai-security", "chatgpt", "claude", "llm", "ollama", "prompt-engineering", "prompt-injection"]
+repository = "https://github.com/utkusen/promptmap"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-27

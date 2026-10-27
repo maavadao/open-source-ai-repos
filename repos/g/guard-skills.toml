@@ -1,0 +1,8 @@
+name = "guard-skills"
+description = "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs"
+category = "skills-prompts"
+tags = ["agent-skills", "ai", "claude", "claude-code", "code-review", "codex", "skills-sh", "woocommerce"]
+repository = "https://github.com/amElnagdy/guard-skills"
+website = "https://skills.sh/amElnagdy/guard-skills"
+license = "MIT"
+added = 2026-10-27

@@ -1,0 +1,8 @@
+name = "gpt-codex"
+description = "这是一个关于 OpenAI CodeX 的完整教程网站，专为国内开发者打造。"
+category = "other"
+tags = ["claude", "claudecode", "codex", "gemin", "gpt", "grok"]
+repository = "https://github.com/xianyu110/gpt-codex"
+website = "https://codex.maynorai.top/"
+language = "HTML"
+added = 2026-10-27

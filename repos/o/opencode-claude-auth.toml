@@ -1,0 +1,8 @@
+name = "opencode-claude-auth"
+description = "OpenCode 2 plugin that uses your existing Claude Code credentials — no separate login needed."
+category = "skills-prompts"
+tags = ["ai", "anthropic", "authentication", "claude", "claude-code", "homebrew", "nodejs", "oauth"]
+repository = "https://github.com/griffinmartin/opencode-claude-auth"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-27

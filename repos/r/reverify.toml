@@ -1,0 +1,8 @@
+name = "reverify"
+description = "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI."
+category = "mcp-servers"
+tags = ["ai", "ai-agents", "ai-coding", "anti-hallucination", "binary-analysis", "context-engineering", "ctf", "developer-tools"]
+repository = "https://github.com/2akouwu/reverify"
+license = "MIT"
+language = "Python"
+added = 2026-10-27

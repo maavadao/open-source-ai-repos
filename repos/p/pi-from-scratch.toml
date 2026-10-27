@@ -1,0 +1,9 @@
+name = "pi-from-scratch"
+description = "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent"
+category = "llm-apps"
+tags = ["agent-loop", "ai-agent", "coding-agent", "llm", "llm-agent", "pi", "pi-agent", "tool-calling"]
+repository = "https://github.com/SaladDay/pi-from-scratch"
+website = "https://pi-from-scratch.vercel.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-27

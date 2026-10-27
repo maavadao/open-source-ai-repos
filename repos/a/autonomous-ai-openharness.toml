@@ -1,0 +1,9 @@
+name = "openharness"
+description = "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with code, then follow your curiosity and build across disciplines: CAD, circuits, robots, games and music."
+category = "skills-prompts"
+tags = ["3d-modeling", "agent-framework", "agent-harness", "ai-agents", "cad", "claude-code", "codex", "coding-agents"]
+repository = "https://github.com/autonomous-ai/openharness"
+website = "https://www.autonomous.ai/harness"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-27

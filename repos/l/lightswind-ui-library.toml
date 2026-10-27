@@ -1,0 +1,9 @@
+name = "Lightswind-UI-Library"
+description = "The AI-native CLI-first React component library. 160+ animated, accessible, production-ready components with MCP Server support for Cursor, Claude & GitHub Copilot. Copy-paste architecture — you own the code."
+category = "mcp-servers"
+tags = ["ai-native", "animated-components", "component-library", "design-system", "framer-motion", "frontend", "gsap", "lightswind-ui"]
+repository = "https://github.com/codewithMUHILAN/Lightswind-UI-Library"
+website = "https://lightswind.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-27

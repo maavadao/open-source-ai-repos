@@ -1,0 +1,9 @@
+name = "moai-adk"
+description = "Agentic development harness for Claude Code — SPEC-driven plan/run/sync, TRUST 5 quality gates, model+effort routing, and Claude×GLM multi-LLM cost control. Single Go binary, 16 languages, zero deps."
+category = "skills-prompts"
+tags = ["agentic-ai", "agentic-coding", "agentic-workflow", "ai-agent", "ai-coding", "anthropic", "claude", "claude-code"]
+repository = "https://github.com/modu-ai/moai-adk"
+website = "https://adk.mo.ai.kr"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-27

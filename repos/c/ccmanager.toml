@@ -1,0 +1,8 @@
+name = "ccmanager"
+description = "Coding Agent Session Manager for Claude Code / Gemini CLI / Codex CLI / Cursor Agent / Copilot CLI / Cline CLI / OpenCode / Kimi CLI"
+category = "skills-prompts"
+tags = ["claude", "claude-code", "cli", "cline", "codex", "copilot", "copilot-cli", "cursor"]
+repository = "https://github.com/kbwo/ccmanager"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-27

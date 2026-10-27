@@ -1,0 +1,9 @@
+name = "jupyter-mcp-server"
+description = "🪐 🔧 Model Context Protocol (MCP) Server for Jupyter."
+category = "mcp-servers"
+tags = ["ai", "jupyter", "mcp", "mcp-server", "tools"]
+repository = "https://github.com/datalayer/jupyter-mcp-server"
+website = "https://jupyter-mcp-server.datalayer.tech"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-27

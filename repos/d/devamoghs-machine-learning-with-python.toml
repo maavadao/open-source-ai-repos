@@ -1,0 +1,8 @@
+name = "Machine-Learning-with-Python"
+description = "Small scale machine learning projects to understand the core concepts . Give a Star 🌟If it helps you. BONUS: Interview Bank coming up..!"
+category = "data-science"
+tags = ["beginner-friendly", "data-science", "deep-learning", "exercises", "machine-learning", "practice-project", "python", "python-3"]
+repository = "https://github.com/devAmoghS/Machine-Learning-with-Python"
+license = "MIT"
+language = "Python"
+added = 2026-10-27

@@ -1,0 +1,8 @@
+name = "gpt6-Astra"
+description = "gpt6 Astra-claude-grok4.7-deepseekv4.1flash-glm5.3-gemini破甲越狱 · 冷咖啡 BREAK//OPEN 工作台"
+category = "skills-prompts"
+tags = ["claude", "coldbrew", "deepseek", "gpt-5-6", "grok", "jailbreak", "prompt-engineering", "security-research"]
+repository = "https://github.com/3641397194-wq/gpt6-Astra"
+website = "https://github.com/3641397194-wq/gpt6-Astra"
+language = "JavaScript"
+added = 2026-10-27

@@ -1,0 +1,9 @@
+name = "wllama"
+description = "WebAssembly binding for llama.cpp - Enabling on-browser LLM inference"
+category = "local-llms"
+tags = ["llama", "llamacpp", "llm", "wasm", "webassembly"]
+repository = "https://github.com/ngxson/wllama"
+website = "https://huggingface.co/spaces/ngxson/wllama"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-27

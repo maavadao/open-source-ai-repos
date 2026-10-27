@@ -1,0 +1,9 @@
+name = "Tracely-ai"
+description = "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable."
+category = "agents"
+tags = ["agent-evaluation", "ai-agents", "ai-testing", "ci-cd", "clickhouse", "developer-tools", "llm-evaluation", "llm-observability"]
+repository = "https://github.com/jwuthri-cloud/Tracely-ai"
+website = "https://tracely-ai.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-27

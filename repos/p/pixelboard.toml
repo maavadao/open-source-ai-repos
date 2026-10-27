@@ -1,0 +1,8 @@
+name = "PixelBoard"
+description = "Unlock Google 11's Gemini \"Rambler\" Natural Voice Dictation & AI Writing Tools on ANY Android phone. No root required."
+category = "other"
+tags = ["ai-writing-tools", "android", "apk", "gboard", "gboard-ai", "gboard-mod", "gboards", "gemini"]
+repository = "https://github.com/Akshayykadam/PixelBoard"
+license = "GPL-3.0"
+language = "Java"
+added = 2026-10-27

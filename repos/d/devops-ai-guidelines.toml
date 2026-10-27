@@ -1,0 +1,9 @@
+name = "devops-ai-guidelines"
+description = "First AI Journey for DevOps - with comprehensive learning paths, practical tips, and enterprise guidelines"
+category = "skills-prompts"
+tags = ["agentic-ai", "ai", "ai-agent", "amazon-web-services", "artificial-intelligence", "aws", "cloud", "copilot"]
+repository = "https://github.com/VersusControl/devops-ai-guidelines"
+website = "https://versusincident.com"
+license = "MIT"
+language = "Python"
+added = 2026-10-27

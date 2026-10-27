@@ -1,0 +1,9 @@
+name = "arkflow"
+description = "High performance Rust stream processing engine seamlessly integrates AI capabilities, providing powerful real-time data processing and intelligent analysis."
+category = "ml-platforms"
+tags = ["ai", "arkflow", "datafusion", "deep-learning", "duckdb", "flow", "kafka", "machine-learning"]
+repository = "https://github.com/arkflow-rs/arkflow"
+website = "https://arkflow-rs.com/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-27

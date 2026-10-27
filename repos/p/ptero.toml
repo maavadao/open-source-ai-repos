@@ -1,0 +1,9 @@
+name = "Ptero"
+description = "AI Chat with powerful models for free"
+category = "other"
+tags = ["ai", "ai-chat", "ai-platform", "developer-tools", "free-ai", "javascript", "multi-model-ai", "open-source-ai"]
+repository = "https://github.com/Ptero-ai/Ptero"
+website = "https://ptero.pro/"
+license = "Apache-2.0"
+language = "PHP"
+added = 2026-10-27

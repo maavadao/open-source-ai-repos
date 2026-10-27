@@ -1,0 +1,8 @@
+name = "claudecode"
+description = "Open Source ClaudeCode Leaked. Same functionalities as Claude Code by Anthropic. Written in Rust, Ready to use immediately for free."
+category = "skills-prompts"
+tags = ["agentic-ai", "anthropic", "claude-code", "coding", "free", "functionality", "max-subscription", "open-source"]
+repository = "https://github.com/soongenwong/claudecode"
+website = "https://github.com/soongenwong/claudecode"
+language = "Rust"
+added = 2026-10-27

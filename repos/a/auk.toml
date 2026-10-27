@@ -1,0 +1,8 @@
+name = "AuK"
+description = "AuK: An Open-Source Foundational Model for Speech Generation and Editing"
+category = "speech"
+tags = ["deep-learning", "foundation-models", "python", "pytorch", "separation", "speaker-extraction", "speech", "speech-editing"]
+repository = "https://github.com/Tencent-Hunyuan/AuK"
+website = "https://auk-project.github.io/"
+language = "Python"
+added = 2026-10-27

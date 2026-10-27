@@ -1,0 +1,8 @@
+name = "langchain"
+description = "Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs."
+category = "chat"
+tags = ["ai", "anthropic", "bumblebee", "chatgpt", "claude-ai", "elixir", "langchain", "llm"]
+repository = "https://github.com/brainlid/langchain"
+website = "https://hexdocs.pm/langchain/"
+language = "Elixir"
+added = 2026-10-27
