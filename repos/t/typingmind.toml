@@ -1,0 +1,8 @@
+name = "typingmind"
+description = "The most advanced Web UI for AI chat"
+category = "chat"
+tags = ["chatgpt", "chatgpt-ui", "claude", "claude2", "gemini", "gemini-pro", "gpt-4", "gpt-4-turbo"]
+repository = "https://github.com/TypingMind/typingmind"
+website = "https://www.typingmind.com"
+language = "HTML"
+added = 2026-10-28

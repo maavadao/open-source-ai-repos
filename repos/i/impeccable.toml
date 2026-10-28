@@ -1,0 +1,9 @@
+name = "impeccable"
+description = "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
+category = "other"
+tags = ["agent-skills", "ai", "anti-slop", "design", "slop"]
+repository = "https://github.com/pbakaus/impeccable"
+website = "https://impeccable.style"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-28

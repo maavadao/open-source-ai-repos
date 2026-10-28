@@ -1,0 +1,9 @@
+name = "reggaetonBeGone"
+description = "Detects reggaeton genre with Machine Learning and sends packets to disable BT speakers (hopefully)"
+category = "ml-platforms"
+tags = ["bluetooth", "ddos", "machine-learning", "music", "python", "reggaeton"]
+repository = "https://github.com/ronibandini/reggaetonBeGone"
+website = "https://bandini.medium.com/reggaeton-be-gone-6fa55f46a9d7"
+license = "MIT"
+language = "Python"
+added = 2026-10-28

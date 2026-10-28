@@ -1,0 +1,9 @@
+name = "easyread"
+description = "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese."
+category = "skills-prompts"
+tags = ["academic", "arxiv", "chinese", "claude-code", "codex", "electron", "llm", "paper-reading"]
+repository = "https://github.com/Edwardxlai/easyread"
+website = "https://edwardxlai.github.io/easyread/"
+license = "MIT"
+language = "Python"
+added = 2026-10-28

@@ -1,0 +1,8 @@
+name = "fast-mcp"
+description = "A Ruby Implementation of the Model Context Protocol"
+category = "mcp-servers"
+tags = ["ai", "llm", "mcp", "rack", "ruby"]
+repository = "https://github.com/yjacquin/fast-mcp"
+license = "MIT"
+language = "Ruby"
+added = 2026-10-28

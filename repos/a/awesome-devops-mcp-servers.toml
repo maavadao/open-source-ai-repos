@@ -1,0 +1,8 @@
+name = "awesome-devops-mcp-servers"
+description = "A curated list of awesome MCP servers focused on DevOps tools and capabilities."
+category = "mcp-servers"
+tags = ["ai", "cloudnative", "devops", "genai", "llm", "mcp"]
+repository = "https://github.com/rohitg00/awesome-devops-mcp-servers"
+website = "https://createmvps.app/mcp-rules"
+license = "MIT"
+added = 2026-10-28

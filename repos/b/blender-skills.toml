@@ -1,0 +1,9 @@
+name = "blender-skills"
+description = "94 specialist Blender skills for Cursor, Claude Code, Kiro & Codex -> MCP-powered production pipeline from blockout to engine export."
+category = "mcp-servers"
+tags = ["3d-models", "agent", "agent-skills", "blender", "blender-addon", "blender-mcp", "claude-code", "claude-skills"]
+repository = "https://github.com/arjun988/blender-skills"
+website = "https://blender-skills.vercel.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-28

@@ -1,0 +1,8 @@
+name = "efficient-dl-systems"
+description = "Efficient Deep Learning Systems course materials"
+category = "ml-platforms"
+tags = ["cuda", "deep-learning", "distributed-training", "efficient-deep-learning", "inference-optimization", "machine-learning", "ml-infrastructure", "ml-systems"]
+repository = "https://github.com/mryab/efficient-dl-systems"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-28

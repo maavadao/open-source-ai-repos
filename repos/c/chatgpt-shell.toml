@@ -1,0 +1,9 @@
+name = "chatgpt-shell"
+description = "A multi-llm Emacs shell (ChatGPT, Claude, DeepSeek, Gemini, Kagi, Ollama, Perplexity) + editing integrations"
+category = "chat"
+tags = ["chatgpt", "dall-e", "emacs", "org-mode"]
+repository = "https://github.com/xenodium/chatgpt-shell"
+website = "https://lmno.lol/alvaro"
+license = "GPL-3.0"
+language = "Emacs Lisp"
+added = 2026-10-28

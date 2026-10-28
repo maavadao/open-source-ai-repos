@@ -1,0 +1,8 @@
+name = "AI-Prompt-Genius"
+description = "Curate a custom library of AI Prompts"
+category = "chat"
+tags = ["ai", "browser-extension", "chatgpt", "chrome-extension"]
+repository = "https://github.com/AI-Prompt-Genius/AI-Prompt-Genius"
+website = "https://aipromptgenius.app/"
+language = "TypeScript"
+added = 2026-10-28

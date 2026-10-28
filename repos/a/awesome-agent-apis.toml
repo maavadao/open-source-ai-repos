@@ -1,0 +1,9 @@
+name = "awesome-agent-apis"
+description = "660+ muapi-hosted generative-media models plus community-submitted third-party API tools (SEO, enrichment, social, scraping) — one YAML file per entry, browsable by capability."
+category = "browser-automation"
+tags = ["agent-apis", "agent-tools", "agentic-ai", "ai", "ai-agent", "ai-models", "api-catalog", "api-directory"]
+repository = "https://github.com/Anil-matcha/awesome-agent-apis"
+website = "https://muapi.ai/agent-skills"
+license = "MIT"
+language = "Python"
+added = 2026-10-28

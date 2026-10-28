@@ -1,0 +1,9 @@
+name = "codealmanac"
+description = "A codebase wiki for AI coding agents. Captures what the code can't say: decisions, flows, invariants, gotchas."
+category = "other"
+tags = ["ai", "claude", "cli", "codebase", "codex", "coding-agents", "developer-tools", "documentation"]
+repository = "https://github.com/AlmanacCode/codealmanac"
+website = "https://codealmanac.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-28

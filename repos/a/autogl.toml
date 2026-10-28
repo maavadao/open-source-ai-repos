@@ -1,0 +1,9 @@
+name = "AutoGL"
+description = "An autoML framework & toolkit for machine learning on graphs."
+category = "ml-platforms"
+tags = ["automl", "deep-learning", "graph-neural-networks", "hyper-parameter-optimization", "machine-learning", "neural-architecture-search", "pytorch", "pytorch-geometric"]
+repository = "https://github.com/THUMNLab/AutoGL"
+website = "http://mn.cs.tsinghua.edu.cn/AutoGL/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-28

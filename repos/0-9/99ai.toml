@@ -1,0 +1,9 @@
+name = "99AI"
+description = "开源、可私有化部署的 Web Agent 底座，支持多用户、隔离沙箱，以及 Skills 和 MCP 扩展。Open-source, self-hostable Web Agent foundation with multi-user support, isolated sandboxes, and extensibility through Skills and MCP."
+category = "agents"
+tags = ["99ai", "agent", "ai", "all-in-chat", "chatgpt", "dalle", "luma", "luma-video"]
+repository = "https://github.com/vastxie/99AI"
+website = "https://agent.lightai.cloud"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-28

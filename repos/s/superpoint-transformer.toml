@@ -1,0 +1,8 @@
+name = "superpoint_transformer"
+description = "Official PyTorch implementation of Superpoint Transformer [ICCV'23], SuperCluster [3DV'24 Oral], and EZ-SP [ICRA'26]"
+category = "ml-platforms"
+tags = ["3d", "3dv2024", "deep-learning", "efficient", "fast", "graph-clustering", "hierarchical", "iccv2023"]
+repository = "https://github.com/drprojects/superpoint_transformer"
+license = "MIT"
+language = "Python"
+added = 2026-10-28

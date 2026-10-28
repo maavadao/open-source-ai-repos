@@ -1,0 +1,9 @@
+name = "antenna-forge"
+description = "AI-driven inverse antenna design with real NEC2 + openEMS in the loop. Try the live in-browser playground."
+category = "ml-platforms"
+tags = ["antenna", "antenna-design", "electromagnetics", "fdtd", "inverse-design", "machine-learning", "nec2", "openems"]
+repository = "https://github.com/1ove9/antenna-forge"
+website = "https://1ove9.github.io/antenna-forge/frontend/playground.html"
+license = "MIT"
+language = "Python"
+added = 2026-10-28

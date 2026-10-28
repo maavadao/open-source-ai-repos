@@ -1,0 +1,9 @@
+name = "image-to-3dlab"
+description = "AssetFurnace: the most complete open-source image-to-3D pipeline (Oct 2026). Prompt or picture → textured, rigged, animated game character, locally on Apple Silicon or NVIDIA. Pixal3D, TRELLIS.2, Hunyuan3D, SF3D, auto-rig and 21 moves. For indie game devs and 3D artists. Free, Apache-2.0."
+category = "other"
+tags = ["3d-generation", "3d-models", "animation", "apple-silicon", "auto-rigging", "blender", "game-assets", "gamedev"]
+repository = "https://github.com/Bingeljell/image-to-3dlab"
+website = "https://assetfurnace.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-28

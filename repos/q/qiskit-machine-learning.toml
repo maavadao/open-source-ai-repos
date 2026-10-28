@@ -1,0 +1,9 @@
+name = "qiskit-machine-learning"
+description = "An open-source library built on Qiskit for quantum machine learning tasks at scale on quantum hardware and classical simulators"
+category = "ml-platforms"
+tags = ["machine-learning", "qiskit", "quantum-computing"]
+repository = "https://github.com/qiskit-community/qiskit-machine-learning"
+website = "https://qiskit-community.github.io/qiskit-machine-learning/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-28

@@ -1,0 +1,8 @@
+name = "annas-mcp"
+description = "MCP server and CLI tool for searching and downloading documents from Anna's Archive"
+category = "mcp-servers"
+tags = ["annas-archive", "cli", "mcp-server"]
+repository = "https://github.com/iosifache/annas-mcp"
+website = "https://annas-archive.gl"
+language = "Go"
+added = 2026-10-28

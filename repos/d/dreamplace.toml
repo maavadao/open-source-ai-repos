@@ -1,0 +1,8 @@
+name = "DREAMPlace"
+description = "Deep learning toolkit-enabled VLSI placement"
+category = "ml-platforms"
+tags = ["deep-learning", "gpu-acceleration", "pytorch", "vlsi", "vlsi-physical-design", "vlsi-placement"]
+repository = "https://github.com/limbo018/DREAMPlace"
+license = "BSD-3-Clause"
+language = "C++"
+added = 2026-10-28

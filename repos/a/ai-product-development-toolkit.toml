@@ -1,0 +1,8 @@
+name = "AI-Product-Development-Toolkit"
+description = "Plan, build and launch products with AI: guided planning prompts, an AI App Starter for Next.js, Supabase and Vercel, and agent configurations."
+category = "skills-prompts"
+tags = ["agent", "agent-skills", "agentic-ai", "agentic-workflow", "agents", "ai", "claude-code", "claude-desktop"]
+repository = "https://github.com/TechNomadCode/AI-Product-Development-Toolkit"
+website = "https://promptquick.ai"
+license = "MIT"
+added = 2026-10-28

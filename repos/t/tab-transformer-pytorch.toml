@@ -1,0 +1,8 @@
+name = "tab-transformer-pytorch"
+description = "Implementation of TabTransformer, attention network for tabular data, in Pytorch"
+category = "ml-platforms"
+tags = ["artificial-intelligence", "attention-mechanism", "deep-learning", "tabular-data", "transformer"]
+repository = "https://github.com/lucidrains/tab-transformer-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-10-28

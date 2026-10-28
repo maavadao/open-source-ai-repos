@@ -1,0 +1,8 @@
+name = "Prompt-Engineering-Guide-zh-CN"
+description = "🐙 关于提示词工程（prompt）的指南、论文、讲座、笔记本和资源大全（自动持续更新）"
+category = "skills-prompts"
+tags = ["chatgpt", "gpt", "gpt4", "openai", "prompt", "prompt-engineering"]
+repository = "https://github.com/yunwei37/Prompt-Engineering-Guide-zh-CN"
+website = "https://github.com/dair-ai/Prompt-Engineering-Guide"
+language = "MDX"
+added = 2026-10-28

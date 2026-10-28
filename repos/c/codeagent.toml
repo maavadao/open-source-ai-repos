@@ -1,0 +1,8 @@
+name = "codeAgent"
+description = "CodeAgent is an open-source coding agent that lives in your terminal. It understands your repository, plans multi-step changes, writes and edits files, runs commands and tests, and iterates until the task is done — all with a transparent, extensible tool loop."
+category = "agents"
+tags = ["agent", "ai-agent", "cli", "coding-agent", "context-engineering", "deepseek", "llm", "mcp"]
+repository = "https://github.com/Harvil1/codeAgent"
+license = "MIT"
+language = "Python"
+added = 2026-10-28

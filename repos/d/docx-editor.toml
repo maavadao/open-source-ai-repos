@@ -1,0 +1,9 @@
+name = "docx-editor"
+description = "SuperDoc - DOCX Editor and Agent SDK for reviewing, filling, and editing documents"
+category = "agents"
+tags = ["agent", "agentic-ai", "collaborative", "docx", "docx-agent", "docx-editor", "editor", "harbour"]
+repository = "https://github.com/superdoc/docx-editor"
+website = "https://superdoc.dev"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-28

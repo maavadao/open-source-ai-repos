@@ -1,0 +1,8 @@
+name = "PythonNumericalDemos"
+description = "Well-documented Python demonstrations for spatial data analytics, geostatistical and machine learning to support my courses."
+category = "ml-platforms"
+tags = ["datanalytics", "geostatistics", "machine-learning", "python"]
+repository = "https://github.com/GeostatsGuy/PythonNumericalDemos"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-28

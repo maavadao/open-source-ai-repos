@@ -1,0 +1,8 @@
+name = "NeuralPDE.jl"
+description = "Physics-Informed Neural Networks (PINN) Solvers of (Partial) Differential Equations for Scientific Machine Learning (SciML) accelerated simulation"
+category = "ml-platforms"
+tags = ["differential-equations", "differentialequations", "machine-learning", "neural-differential-equations", "neural-network", "neural-networks", "ode", "ordinary-differential-equations"]
+repository = "https://github.com/SciML/NeuralPDE.jl"
+website = "https://docs.sciml.ai/NeuralPDE/stable/"
+language = "Julia"
+added = 2026-10-28

@@ -1,0 +1,9 @@
+name = "framework"
+description = "A machine learning library with a TypeScript API and Rust backend. CUDA and WebGPU compatibility. Built to understand how ML frameworks and models work internally."
+category = "ml-platforms"
+tags = ["cuda", "cuda-kernels", "machine-learning", "pytorch-implementation", "rust", "webgpu"]
+repository = "https://github.com/mni-ml/framework"
+website = "http://mni.ml"
+license = "MIT"
+language = "Rust"
+added = 2026-10-28

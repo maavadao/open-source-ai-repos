@@ -1,0 +1,9 @@
+name = "cuga-agent"
+description = "CUGA is an open-source generalist agent harness for the enterprise, supporting complex task execution on web and APIs, OpenAPI/MCP integrations, composable architecture, reasoning modes, and policy-aware features."
+category = "mcp-servers"
+tags = ["agentic-ai", "agents", "ai-agents", "coding-agent", "computer-use", "enterprise", "generalist-agent", "guardrails"]
+repository = "https://github.com/cuga-project/cuga-agent"
+website = "https://cuga.dev"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-28

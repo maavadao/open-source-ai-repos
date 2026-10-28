@@ -1,0 +1,8 @@
+name = "mlhub123"
+description = "机器学习&深度学习网站资源汇总（Machine Learning Resources）"
+category = "ml-platforms"
+tags = ["deep-learning", "machine-learning"]
+repository = "https://github.com/howie6879/mlhub123"
+website = "https://www.mlhub123.com/"
+license = "MIT"
+added = 2026-10-28

@@ -1,0 +1,9 @@
+name = "scikit-learn-mooc"
+description = "Machine learning in Python with scikit-learn MOOC"
+category = "ml-platforms"
+tags = ["machine-learning", "mooc", "python", "scikit-learn"]
+repository = "https://github.com/INRIA/scikit-learn-mooc"
+website = "https://inria.github.io/scikit-learn-mooc"
+license = "CC-BY-4.0"
+language = "Jupyter Notebook"
+added = 2026-10-28

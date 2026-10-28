@@ -1,0 +1,9 @@
+name = "tuui"
+description = "A desktop MCP client designed as a tool unitary utility integration, accelerating AI adoption through the Model Context Protocol (MCP) and enabling cross-vendor LLM API orchestration."
+category = "mcp-servers"
+tags = ["agent", "agentic-ai", "ai", "ai-playground", "anthropic", "claude", "deepseek", "dxt"]
+repository = "https://github.com/AI-QL/tuui"
+website = "https://www.tuui.com/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-28

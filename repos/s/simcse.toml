@@ -1,0 +1,8 @@
+name = "SimCSE"
+description = "[EMNLP 2021] SimCSE: Simple Contrastive Learning of Sentence Embeddings https://arxiv.org/abs/2104.08821"
+category = "other"
+tags = ["nlp", "sentence-embeddings"]
+repository = "https://github.com/princeton-nlp/SimCSE"
+license = "MIT"
+language = "Python"
+added = 2026-10-28

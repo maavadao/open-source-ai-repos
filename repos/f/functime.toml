@@ -1,0 +1,9 @@
+name = "functime"
+description = "Time-series machine learning at scale. Built with Polars for embarrassingly parallel feature extraction and forecasts on panel data."
+category = "ml-platforms"
+tags = ["feature-engineering", "forecasting", "machine-learning", "panel-data", "polars", "python", "time-series"]
+repository = "https://github.com/functime-org/functime"
+website = "https://functime-org.github.io/functime/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-28

@@ -1,0 +1,8 @@
+name = "awesome-japanese-nlp-resources"
+description = "A curated list of resources for Japanese natural language processing (NLP): Python libraries, LLMs, dictionaries, corpora, and datasets. Includes Claude Code and Codex skills to search resources."
+category = "llm-apps"
+tags = ["agent-skills", "awesome", "awesome-list", "cc0", "japanese", "japanese-language", "llm", "natural-language-processing"]
+repository = "https://github.com/taishi-i/awesome-japanese-nlp-resources"
+website = "https://taishi-i.github.io/awesome-japanese-nlp-resources/"
+license = "CC0-1.0"
+added = 2026-10-28

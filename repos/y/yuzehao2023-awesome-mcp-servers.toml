@@ -1,0 +1,7 @@
+name = "Awesome-MCP-Servers"
+description = "A curated list of Model Context Protocol (MCP) servers"
+category = "mcp-servers"
+tags = ["awesome", "awesome-list", "llm", "mcp", "mcp-server"]
+repository = "https://github.com/YuzeHao2023/Awesome-MCP-Servers"
+license = "Apache-2.0"
+added = 2026-10-28

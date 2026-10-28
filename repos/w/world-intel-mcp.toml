@@ -1,0 +1,8 @@
+name = "world-intel-mcp"
+description = "160-tool MCP server for real-time global intelligence from free public APIs: markets, liquidity, prediction markets, SEC filings, conflict, military, aircraft-cohort early warning, migration and border flows, cyber, climate, news and more. Dated observation history, 29 research prompts, cited brief…"
+category = "mcp-servers"
+tags = ["ai-tools", "ai-watch", "anthropic", "claude", "cybersecurity", "dashboard", "geofencing", "geopolitical"]
+repository = "https://github.com/marc-shade/world-intel-mcp"
+license = "MIT"
+language = "Python"
+added = 2026-10-28

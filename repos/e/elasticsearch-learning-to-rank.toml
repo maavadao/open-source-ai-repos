@@ -1,0 +1,9 @@
+name = "elasticsearch-learning-to-rank"
+description = "Plugin to integrate Learning to Rank (aka machine learning for better relevance) with Elasticsearch"
+category = "ml-platforms"
+tags = ["elasticsearch", "elasticsearch-plugin", "elasticsearch-plugins", "machine-learning", "relevant-search", "search-relevance"]
+repository = "https://github.com/o19s/elasticsearch-learning-to-rank"
+website = "http://opensourceconnections.com/blog/2017/02/14/elasticsearch-learning-to-rank/"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-28

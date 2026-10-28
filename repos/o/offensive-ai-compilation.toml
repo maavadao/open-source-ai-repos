@@ -1,0 +1,9 @@
+name = "offensive-ai-compilation"
+description = "A curated list of useful resources that cover Offensive AI."
+category = "security"
+tags = ["adversarial-machine-learning", "ai-security", "artificial-intelligence", "compilation", "offensive-ai"]
+repository = "https://github.com/jiep/offensive-ai-compilation"
+website = "https://jiep.github.io/offensive-ai-compilation/"
+license = "CC-BY-SA-4.0"
+language = "HTML"
+added = 2026-10-28

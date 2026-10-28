@@ -1,0 +1,9 @@
+name = "cotabby"
+description = "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type."
+category = "local-llms"
+tags = ["ai", "autocomplete", "cotabby", "cotypist", "llama", "llama-cpp", "local-ai", "macos"]
+repository = "https://github.com/FuJacob/cotabby"
+website = "https://cotabby.app"
+license = "AGPL-3.0"
+language = "Swift"
+added = 2026-10-28

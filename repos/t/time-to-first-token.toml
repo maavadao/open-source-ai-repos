@@ -1,0 +1,8 @@
+name = "time-to-first-token"
+description = "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking."
+category = "local-llms"
+tags = ["learning-resources", "llm", "llm-inference", "mlops", "roadmap", "sglang", "vllm"]
+repository = "https://github.com/patchy631/time-to-first-token"
+license = "Apache-2.0"
+language = "HTML"
+added = 2026-10-28

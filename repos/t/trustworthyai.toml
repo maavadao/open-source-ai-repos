@@ -1,0 +1,8 @@
+name = "trustworthyAI"
+description = "Trustworthy AI related projects"
+category = "ml-platforms"
+tags = ["causal-discovery", "causal-inference", "causality", "graph", "independence-tests", "machine-learning", "python", "statistics"]
+repository = "https://github.com/huawei-noah/trustworthyAI"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-28

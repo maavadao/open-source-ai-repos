@@ -1,0 +1,9 @@
+name = "mcpm.sh"
+description = "CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers. Advanced Router & Profile features."
+category = "mcp-servers"
+tags = ["ai", "claude-desktop", "cli", "cline", "continue", "cursor", "goose", "homebrew"]
+repository = "https://github.com/pathintegral-institute/mcpm.sh"
+website = "https://mcpm.sh/"
+license = "MIT"
+language = "Python"
+added = 2026-10-28

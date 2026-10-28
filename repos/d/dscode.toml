@@ -1,0 +1,9 @@
+name = "dscode"
+description = "A DeepSeek coding agent harness: persistent shell, Ultra subagents, auto approval, Chrome MCP and session telemetry"
+category = "mcp-servers"
+tags = ["agentic", "ai-agent", "cli", "code-review", "coding-agent", "deepseek", "deepseek-harness", "developer-tools"]
+repository = "https://github.com/qiz029/dscode"
+website = "https://www.npmjs.com/package/@toddzheng024/dscode"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-28

@@ -1,0 +1,9 @@
+name = "fairseq2"
+description = "FAIR Sequence Modeling Toolkit 2"
+category = "ml-platforms"
+tags = ["artificial-intelligence", "deep-learning", "machine-learning", "python", "pytorch"]
+repository = "https://github.com/facebookresearch/fairseq2"
+website = "https://facebookresearch.github.io/fairseq2/"
+license = "MIT"
+language = "Python"
+added = 2026-10-28

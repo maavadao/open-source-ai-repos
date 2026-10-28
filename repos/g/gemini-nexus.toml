@@ -1,0 +1,8 @@
+name = "Gemini-Nexus"
+description = "Gemini Nexus 是一款面向浏览器场景的 AI 助手扩展，集成 Gemini Web、Gemini API 与 OpenAI 兼容接口，支持网页上下文、图像处理、工具调用和 MCP 浏览器控制。"
+category = "browser-automation"
+tags = ["browser-automation", "chrome-extension", "gemini", "google-gemini", "llm", "manifest-v3", "side-panel"]
+repository = "https://github.com/yeahhe365/Gemini-Nexus"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-28

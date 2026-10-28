@@ -1,0 +1,7 @@
+name = "chatgpt-scraper-api"
+description = "Collect structured responses from a ChatGPT scraper by sending a prompt with valid ChatGPT scraping API credentials. Enable live search, inject HTML context, and automate intelligent scraper ChatGPT workflows in just a few parameters."
+category = "browser-automation"
+tags = ["ai-scraper", "api", "chat-gpt", "chatgpt", "chatgpt-api", "chatgpt-scraper", "llm", "llm-scraper"]
+repository = "https://github.com/ScrapingBee/chatgpt-scraper-api"
+website = "https://www.scrapingbee.com/features/chatgpt/"
+added = 2026-10-28

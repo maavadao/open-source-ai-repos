@@ -1,0 +1,9 @@
+name = "raft"
+description = "RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications."
+category = "vector-databases"
+tags = ["anns", "building-blocks", "clustering", "cuda", "distance", "gpu", "information-retrieval", "linear-algebra"]
+repository = "https://github.com/NVIDIA/raft"
+website = "https://docs.nvidia.com/raft/"
+license = "Apache-2.0"
+language = "Cuda"
+added = 2026-10-28

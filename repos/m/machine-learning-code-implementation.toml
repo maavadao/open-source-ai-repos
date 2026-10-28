@@ -1,0 +1,7 @@
+name = "Machine_Learning_Code_Implementation"
+description = "Mathematical derivation and pure Python code implementation of machine learning algorithms."
+category = "data-science"
+tags = ["jupyter-notebook", "machine-learning", "python"]
+repository = "https://github.com/luwill/Machine_Learning_Code_Implementation"
+language = "Jupyter Notebook"
+added = 2026-10-28

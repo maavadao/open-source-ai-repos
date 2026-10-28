@@ -1,0 +1,8 @@
+name = "halogen-flash-server"
+description = "Local inference that behaves like a frontier API: Qwen3.8-Flash-Next on AMD Strix Halo plus small NPU models, over the OpenAI and Anthropic APIs on one port."
+category = "local-llms"
+tags = ["amd", "gfx1151", "gpu-inference", "hip", "inference-engine", "llm", "llm-serving", "local-llm"]
+repository = "https://github.com/peonist-ai/halogen-flash-server"
+website = "https://peonist.ai/halogen/"
+language = "Shell"
+added = 2026-10-28

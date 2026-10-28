@@ -1,0 +1,8 @@
+name = "fklearn"
+description = "fklearn: Functional Machine Learning"
+category = "data-science"
+tags = ["data-analysis", "data-science", "machine-learning", "ml", "python"]
+repository = "https://github.com/nubank/fklearn"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-28

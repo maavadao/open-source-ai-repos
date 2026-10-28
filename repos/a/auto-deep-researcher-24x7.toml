@@ -1,0 +1,9 @@
+name = "auto-deep-researcher-24x7"
+description = "🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory."
+category = "skills-prompts"
+tags = ["ai-agent", "autonomous-agent", "claude-code", "deep-learning", "experiment-automation", "gpu", "hyperparameter-tuning", "llm-agent"]
+repository = "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7"
+website = "https://arxiv.org/abs/2604.05854"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-28

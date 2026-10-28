@@ -1,0 +1,9 @@
+name = "myosuite"
+description = "MyoSuite is a collection of environments/tasks to be solved by musculoskeletal models simulated with the MuJoCo physics engine and wrapped in the OpenAI gym API."
+category = "ml-platforms"
+tags = ["machine-learning", "motor-control", "mujoco", "musculoskeletal"]
+repository = "https://github.com/MyoHub/myosuite"
+website = "https://www.myosuite.org"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-28

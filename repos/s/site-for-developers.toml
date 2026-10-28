@@ -1,0 +1,9 @@
+name = "site-for-developers"
+description = "🌎💎 개발자들의 첫 번째 북마크"
+category = "coding"
+tags = ["ai", "ai-developer-tools", "ai-tools", "artificial-intelligence", "awesome-list", "bookmark", "chatgpt", "curated-list"]
+repository = "https://github.com/currenjin/site-for-developers"
+website = "https://currenjin.github.io/site-for-developers/"
+license = "MIT"
+language = "Python"
+added = 2026-10-28

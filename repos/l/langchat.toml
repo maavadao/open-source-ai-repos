@@ -1,0 +1,9 @@
+name = "langchat"
+description = "LangChat 是Java&LangChain4j生态的开源 AI Agent 应用平台，支持多模型、Agent、知识库 RAG、Skills、MCP 与智能问数。"
+category = "mcp-servers"
+tags = ["agent", "ai-agent", "java", "knowledge-base", "langchain4j", "llm", "mcp", "rag"]
+repository = "https://github.com/LangChat/langchat"
+website = "https://langchat.cn"
+license = "Apache-2.0"
+language = "Vue"
+added = 2026-10-28

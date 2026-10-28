@@ -1,0 +1,9 @@
+name = "steedos-platform"
+description = "The AI-Native Infrastructure for Enterprise Apps. Powered by ObjectStack (ObjectQL, ObjectOS, Object UI). Turn Prompts into Enterprise Software."
+category = "chat"
+tags = ["airtable", "amis", "appsmith", "bpm", "budibase", "chatgpt", "clickpaas", "erp"]
+repository = "https://github.com/steedos/steedos-platform"
+website = "https://www.objectstack.ai"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-28

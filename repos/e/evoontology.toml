@@ -1,0 +1,8 @@
+name = "EvoOntology"
+description = "EvoOntology: A Self-Evolving Ontology Layer for Data Agents ⚙️ EvoOntology插件为Claude Code/Codex 建立&进化本体层"
+category = "skills-prompts"
+tags = ["agent", "agentic-ai", "claude-code", "codex", "data-analysis", "data-science", "harness", "llm"]
+repository = "https://github.com/ruc-datalab/EvoOntology"
+license = "MIT"
+language = "Python"
+added = 2026-10-28

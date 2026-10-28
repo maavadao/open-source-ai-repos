@@ -1,0 +1,9 @@
+name = "ai-hub-models"
+description = "Qualcomm® AI Hub Models is our collection of state-of-the-art machine learning models optimized for performance (latency, memory etc.) and ready to deploy on Qualcomm® devices."
+category = "local-llms"
+tags = ["deeplearning", "demos", "inference", "inference-api", "inference-engine", "machine-learning", "machinelearning", "onnx"]
+repository = "https://github.com/qualcomm/ai-hub-models"
+website = "https://aihub.qualcomm.com/models"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-28

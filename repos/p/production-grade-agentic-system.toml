@@ -1,0 +1,9 @@
+name = "production-grade-agentic-system"
+description = "Core 7 layers of production grade agentic system"
+category = "agents"
+tags = ["agentic-ai", "langchain", "langgraph", "production"]
+repository = "https://github.com/FareedKhan-dev/production-grade-agentic-system"
+website = "https://medium.com/@fareedkhandev/building-a-critical-infrastructure-for-production-ready-ai-agentic-system-building-a-production-37ee5d941f1c"
+license = "MIT"
+language = "Python"
+added = 2026-10-28

@@ -1,0 +1,9 @@
+name = "awesome-image-video-prompts"
+description = "Copy-ready prompts for the leading AI video and image models, each with its real output and source. Plus agent recipes for editing video."
+category = "skills-prompts"
+tags = ["agents", "ai-video", "ai-video-editing", "awesome", "awesome-list", "ffmpeg", "gemini-omni", "gpt-image"]
+repository = "https://github.com/ai-boost/awesome-image-video-prompts"
+website = "https://agentcraft.dev/en/prompts/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-28

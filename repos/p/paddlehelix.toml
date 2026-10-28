@@ -1,0 +1,7 @@
+name = "PaddleHelix"
+description = "Bio-Computing Platform Featuring Large-Scale Representation Learning and Multi-Task Deep Learning “螺旋桨”生物计算工具集"
+category = "ml-platforms"
+tags = ["biocomputing", "ddi", "deeplearning", "dti", "graph-networks", "machine-learning", "molecule-design", "ppi"]
+repository = "https://github.com/PaddlePaddle/PaddleHelix"
+language = "Python"
+added = 2026-10-28

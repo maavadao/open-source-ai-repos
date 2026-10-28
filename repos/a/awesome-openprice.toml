@@ -1,0 +1,8 @@
+name = "awesome-OpenPrice"
+description = "开源的 AI 订阅价格聚合与比价平台，收录 ChatGPT、Claude、Gemini、Grok、Cursor 等产品的官方订阅价格和卡网渠道报价，帮助用户快速查询并比较不同购买渠道。"
+category = "coding"
+tags = ["ai", "ai-subscription", "chatgpt", "claude", "codex", "cursor", "gemini", "grok"]
+repository = "https://github.com/bytedoger/awesome-OpenPrice"
+website = "https://www.openprice.cc"
+language = "TypeScript"
+added = 2026-10-28

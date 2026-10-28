@@ -1,0 +1,9 @@
+name = "nostr-vpn"
+description = "Private mesh VPN for humans and agents. Local keys, signed enrollment, no provider account. Native apps and CLI."
+category = "agents"
+tags = ["agent-skills", "ai-agents", "mesh-network", "nostr", "vpn"]
+repository = "https://github.com/mmalmi/nostr-vpn"
+website = "https://nostrvpn.org/"
+license = "MIT"
+language = "Rust"
+added = 2026-10-28

@@ -1,0 +1,9 @@
+name = "Unreal_mcp"
+description = "A comprehensive Model Context Protocol (MCP) server that enables AI assistants to control Unreal Engine through the native C++ Automation Bridge plugin. Built with TypeScript and C++."
+category = "mcp-servers"
+tags = ["mcp", "mcp-server", "unreal-engine", "unreal-engine-5"]
+repository = "https://github.com/ChiR24/Unreal_mcp"
+website = "https://enginewire.dev"
+license = "MIT"
+language = "C++"
+added = 2026-10-28

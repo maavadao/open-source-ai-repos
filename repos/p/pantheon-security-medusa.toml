@@ -1,0 +1,9 @@
+name = "medusa"
+description = "AI-first security scanner. NEW in v2026.7: Claude Code compromise detection — vet .claude/ hooks, permissions & skills before you clone — plus an always-on AI attack-signature scanner and native Rust & PHP rules. Also: medusa scan --git to vet any repo, medusa secrets scan for leaked API keys. 40,0…"
+category = "security"
+tags = ["agent-security", "ai-security", "code-analysis", "cve-detection", "devsecops", "llm-security", "mcp", "nextjs"]
+repository = "https://github.com/Pantheon-Security/medusa"
+website = "https://pantheonsecurity.io"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-28

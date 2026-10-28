@@ -1,0 +1,7 @@
+name = "Category_Theory_Machine_Learning"
+description = "List of papers studying machine learning through the lens of category theory"
+category = "ml-platforms"
+tags = ["category-theory", "lenses", "machine-learning", "neural-networks"]
+repository = "https://github.com/bgavran/Category_Theory_Machine_Learning"
+language = "Python"
+added = 2026-10-28

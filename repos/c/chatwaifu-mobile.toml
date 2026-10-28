@@ -1,0 +1,8 @@
+name = "ChatWaifu_Mobile"
+description = "移动版二次元 AI 老婆聊天器"
+category = "chat"
+tags = ["android", "chatgpt", "compose", "lipsync", "live2d", "sherpa", "vits"]
+repository = "https://github.com/Voine/ChatWaifu_Mobile"
+license = "MIT"
+language = "C++"
+added = 2026-10-28

@@ -1,0 +1,9 @@
+name = "obot"
+description = "Complete AI Governance Platform from Obot AI"
+category = "other"
+tags = ["ai", "chat", "mcp", "modelcontextprotocol"]
+repository = "https://github.com/obot-platform/obot"
+website = "https://obot.ai"
+license = "MIT"
+language = "Go"
+added = 2026-10-28

@@ -1,0 +1,8 @@
+name = "llama.rn"
+description = "React Native binding of llama.cpp"
+category = "local-llms"
+tags = ["android", "ios", "llama", "llama-cpp", "llm", "react-native"]
+repository = "https://github.com/mybigday/llama.rn"
+license = "MIT"
+language = "C"
+added = 2026-10-28

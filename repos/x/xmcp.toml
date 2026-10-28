@@ -1,0 +1,9 @@
+name = "xmcp"
+description = "The TypeScript MCP framework"
+category = "mcp-servers"
+tags = ["framework", "mcp", "modelcontextprotocol", "typescript"]
+repository = "https://github.com/basementstudio/xmcp"
+website = "https://xmcp.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-28

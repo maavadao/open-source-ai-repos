@@ -1,0 +1,8 @@
+name = "xiaoyaosearch"
+description = "小遥搜索，听懂你的话、看懂你的图，用AI找到本地任何文件。让搜索像聊天一样简单。XiaoyaoSearch: Understands your words, reads your images, finds any local file with AI. Making search as easy as chatting."
+category = "search"
+tags = ["agent-skills", "ai-search", "document-search", "file-search", "local-search", "mcp", "multimodal-ai", "natural-language"]
+repository = "https://github.com/dtsola/xiaoyaosearch"
+website = "https://www.xiaoyaosai.com/"
+language = "Python"
+added = 2026-10-28

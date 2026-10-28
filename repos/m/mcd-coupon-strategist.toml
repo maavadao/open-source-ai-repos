@@ -1,0 +1,9 @@
+name = "mcd-coupon-strategist"
+description = "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。"
+category = "mcp-servers"
+tags = ["agent", "cost-optimization", "coupon", "llm", "mcd-mcp", "mcdonalds", "mcp", "python"]
+repository = "https://github.com/Syenzzz/mcd-coupon-strategist"
+website = "https://github.com/Ayzzz123/mcd-coupon-strategist/blob/main/MCP_INTEGRATION.md"
+license = "MIT"
+language = "Python"
+added = 2026-10-28

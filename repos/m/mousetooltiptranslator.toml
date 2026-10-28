@@ -1,0 +1,8 @@
+name = "MouseTooltipTranslator"
+description = "Mouseover Translate Any Language At Once - Chrome Extension: PDF Translator, EBOOK, EPUB, OCR, TTS, NETFLIX, YOUTUBE DUAL SUBTITLES, GOOGLE DOCS, AI, VIEWER, GMAIL, WRITING, IMAGE, DUAL SUBS, MANGA, HOVER, DICTIONARY, WEBTOON, EDGE, JAPANESE, ENGLISH"
+category = "speech"
+tags = ["browser-extension", "chatgpt", "chrome", "chrome-extension", "dictionaries", "dictionary", "dual", "ebook"]
+repository = "https://github.com/ttop32/MouseTooltipTranslator"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-28

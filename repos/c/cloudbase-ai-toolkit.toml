@@ -1,0 +1,9 @@
+name = "CloudBase-AI-Toolkit"
+description = "Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP."
+category = "mcp-servers"
+tags = ["agent-skills", "ai", "aicoding", "claude-code", "cloudbase", "cursor", "database", "dsh-plugin"]
+repository = "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
+website = "https://docs.cloudbase.net/ai/cloudbase-ai-toolkit/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-28

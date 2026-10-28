@@ -1,0 +1,9 @@
+name = "power-pwn"
+description = "An offensive/defense security toolset for discovery, recon and ethical assessment of AI Agents"
+category = "chat"
+tags = ["agentforce", "agentkit", "agentspace", "ai-red-team", "blackhat", "chatgpt", "copilotstudio", "defcon"]
+repository = "https://github.com/mbrg/power-pwn"
+website = "https://zenity.io/zenity-security-assessment-hub"
+license = "MIT"
+language = "Python"
+added = 2026-10-28

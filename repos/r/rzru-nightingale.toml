@@ -1,0 +1,9 @@
+name = "nightingale"
+description = "Machine learning powered Karaoke app (with scores!)"
+category = "speech"
+tags = ["ai", "demucs", "karaoke", "karaoke-application", "karaoke-game", "machine-learning", "machine-learning-algorithms", "ml"]
+repository = "https://github.com/rzru/nightingale"
+website = "https://nightingale.cafe"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-28

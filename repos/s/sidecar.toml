@@ -1,0 +1,8 @@
+name = "sidecar"
+description = "Use sidecar next to CLI agents for diffs, file trees, conversation history, and task management with td"
+category = "skills-prompts"
+tags = ["agentic-ai", "agentic-workflows", "claude-code", "tui"]
+repository = "https://github.com/marcus/sidecar"
+license = "MIT"
+language = "Go"
+added = 2026-10-28

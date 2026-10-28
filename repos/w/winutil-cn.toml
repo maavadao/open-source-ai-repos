@@ -1,0 +1,9 @@
+name = "winutil-cn"
+description = "面向 Windows 11 的中文软件管理与系统维护工具，支持 Windows 10 / 11 x64 镜像制作与默认只读的 MCP 接口。基于 Chris Titus Tech Windows Utility。"
+category = "mcp-servers"
+tags = ["chinese", "chinese-localization", "debloat", "i18n", "localization", "mcp", "mcp-server", "model-context-protocol"]
+repository = "https://github.com/yasewang1337-svg/winutil-cn"
+website = "https://yasewang1337-svg.github.io/winutil-cn/"
+license = "MIT"
+language = "PowerShell"
+added = 2026-10-28

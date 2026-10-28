@@ -1,0 +1,9 @@
+name = "helix-foundry"
+description = "Connect your company's data, let an agent draft an ontology over it, and load it into HelixDB as one graph you can explore and ask questions of. Hosted at foundry.helix-db.com, or run it on your own machine."
+category = "agents"
+tags = ["ai-agents", "data-integration", "golang", "graph-database", "helixdb", "knowledge-graph", "nextjs", "ontology"]
+repository = "https://github.com/HelixDB/helix-foundry"
+website = "https://foundry.helix-db.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-28

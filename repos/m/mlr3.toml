@@ -1,0 +1,9 @@
+name = "mlr3"
+description = "mlr3: Machine Learning in R - next generation"
+category = "data-science"
+tags = ["classification", "data-science", "machine-learning", "mlr3", "r", "r-package", "regression"]
+repository = "https://github.com/mlr-org/mlr3"
+website = "https://mlr3.mlr-org.com"
+license = "LGPL-3.0"
+language = "R"
+added = 2026-10-28

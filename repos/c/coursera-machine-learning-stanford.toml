@@ -1,0 +1,7 @@
+name = "Coursera-Machine-Learning-Stanford"
+description = "Machine learning-Stanford University"
+category = "ml-platforms"
+tags = ["coursera", "machine-learning", "stanford-university"]
+repository = "https://github.com/atinesh/Coursera-Machine-Learning-Stanford"
+language = "MATLAB"
+added = 2026-10-28

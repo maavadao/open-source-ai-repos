@@ -1,0 +1,9 @@
+name = "sceneview"
+description = "3D & AR SDK for Android (Jetpack Compose + Filament), Apple (SwiftUI + RealityKit), Web, Flutter and React Native. Opens glTF/GLB, 3MF, STL, OBJ and PLY on Android and USDZ on Apple, at real size in AR. Assistant-ready: in-repo MCP server, AGENTS.md and llms.txt — no assistant-specific setup."
+category = "mcp-servers"
+tags = ["3d", "3mf", "android", "arcore", "arkit", "augmented-reality", "compose", "filament"]
+repository = "https://github.com/sceneview/sceneview"
+website = "https://sceneview.github.io"
+license = "Apache-2.0"
+language = "Kotlin"
+added = 2026-10-28

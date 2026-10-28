@@ -1,0 +1,8 @@
+name = "claudish"
+description = "Claude Code. Any Model. The most powerful AI coding agent now speaks every language."
+category = "other"
+tags = ["ai", "claude", "claudecode"]
+repository = "https://github.com/MadAppGang/claudish"
+website = "https://claudish.com"
+language = "TypeScript"
+added = 2026-10-28

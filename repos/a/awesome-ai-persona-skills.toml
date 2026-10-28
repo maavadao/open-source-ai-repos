@@ -1,0 +1,8 @@
+name = "awesome-ai-persona-skills"
+description = "全网最全的、持续更新的、最火爆的 100+ 人格 蒸馏skills 合集｜ 多agent系统 ｜名人/导演/天涯大神/古籍/二次元/职场/情感全品类"
+category = "agents"
+tags = ["agent", "agent-skills", "agentic", "agents", "ai", "ai-agents", "ai-model", "ai-tools"]
+repository = "https://github.com/momozi1996/awesome-ai-persona-skills"
+license = "MIT"
+language = "Shell"
+added = 2026-10-28

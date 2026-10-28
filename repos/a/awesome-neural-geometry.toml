@@ -1,0 +1,7 @@
+name = "awesome-neural-geometry"
+description = "A curated collection of resources and research related to the geometry of representations in the brain, deep networks, and beyond"
+category = "learning"
+tags = ["awesome-list", "deep-learning", "differential-geometry", "equivariance", "group-theory", "neural-computation", "neural-networks", "neuroscience"]
+repository = "https://github.com/neurreps/awesome-neural-geometry"
+website = "https://neurreps.org"
+added = 2026-10-28

@@ -1,0 +1,8 @@
+name = "minima"
+description = "On-premises conversational RAG with configurable containers"
+category = "local-llms"
+tags = ["ai", "claude", "custom-gpts", "docker", "docker-compose", "huggingface", "langchain", "mcp"]
+repository = "https://github.com/Minima-AI-Inc/minima"
+license = "MPL-2.0"
+language = "Python"
+added = 2026-10-28

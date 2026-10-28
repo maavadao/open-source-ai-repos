@@ -1,0 +1,9 @@
+name = "jobsync"
+description = "Job application tracker and AI-powered job search assistant. Helps job seekers manage their search journey with AI resume review, job matching, task logging, and application analytics, all while keeping your data private."
+category = "local-llms"
+tags = ["ai-agent", "ai-resume-analyzer", "application-tracker", "application-tracking-system", "ats", "career", "job-application", "job-automation"]
+repository = "https://github.com/Gsync/jobsync"
+website = "https://jobsync.ca"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-28

@@ -1,0 +1,9 @@
+name = "chatgpt-vscode"
+description = "Your best AI pair programmer in VS Code"
+category = "chat"
+tags = ["chatgpt", "gpt-3", "gpt-4", "vscode"]
+repository = "https://github.com/ai-genie/chatgpt-vscode"
+website = "https://marketplace.visualstudio.com/items?itemName=genieai.chatgpt-vscode"
+license = "ISC"
+language = "HTML"
+added = 2026-10-28

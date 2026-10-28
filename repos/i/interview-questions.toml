@@ -1,0 +1,8 @@
+name = "interview-questions"
+description = "机器学习/深度学习/Python/Go语言面试题笔试题(Machine learning Deep Learning Python and Golang Interview Questions)"
+category = "ml-platforms"
+tags = ["deep-learning", "golang", "interview-questions", "machine-learning", "python"]
+repository = "https://github.com/geektutu/interview-questions"
+website = "https://geektutu.com/post/qa-ml.html"
+language = "Jupyter Notebook"
+added = 2026-10-28

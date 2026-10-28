@@ -1,0 +1,8 @@
+name = "what_are_embeddings"
+description = "A deep dive into embeddings starting from fundamentals"
+category = "vector-databases"
+tags = ["embeddings", "machine-learning", "machine-learning-algorithms", "nlp-machine-learning"]
+repository = "https://github.com/veekaybee/what_are_embeddings"
+website = "http://vickiboykis.com/what_are_embeddings/"
+language = "Jupyter Notebook"
+added = 2026-10-28

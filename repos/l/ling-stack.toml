@@ -1,0 +1,8 @@
+name = "ling-stack"
+description = "Local-first AI teammate workspace. Bring your own models and keep project conversations, tool approvals, and results together."
+category = "agents"
+tags = ["agent", "agent-orchestration", "agent-skills", "agentic-ai", "ai", "ai-agents", "ai-teammates", "ai-workspace"]
+repository = "https://github.com/ling-stack-org/ling-stack"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-28

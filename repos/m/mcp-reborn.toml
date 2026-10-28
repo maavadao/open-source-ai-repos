@@ -1,0 +1,6 @@
+name = "MCP-Reborn"
+description = "MCP-Reborn is an MCP (Mod Coder Pack) for Minecraft for making modded clients and researching its code. (1.13-26.3)"
+category = "mcp-servers"
+tags = ["1-13", "1-14", "1-15", "1-16", "1-17", "1-18", "1-19", "1-20"]
+repository = "https://github.com/Hexeption/MCP-Reborn"
+added = 2026-10-28

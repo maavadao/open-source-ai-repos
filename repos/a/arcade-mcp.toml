@@ -1,0 +1,9 @@
+name = "arcade-mcp"
+description = "MCP Server Framework and Tool Development library for building custom capabilities into agents."
+category = "mcp-servers"
+tags = ["ai", "arcade", "arcade-ai", "claude", "claude-code", "claude-mcp", "mcp", "mcp-framework"]
+repository = "https://github.com/ArcadeAI/arcade-mcp"
+website = "https://docs.arcade.dev"
+license = "MIT"
+language = "Python"
+added = 2026-10-28

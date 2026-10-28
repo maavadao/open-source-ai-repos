@@ -1,0 +1,8 @@
+name = "motionmaxxing"
+description = "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer."
+category = "skills-prompts"
+tags = ["agent-skills", "ai", "claude-code", "gsap", "hyperframes", "motion-graphics", "motionmaxxing", "video"]
+repository = "https://github.com/Tejashmakwana/motionmaxxing"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-28

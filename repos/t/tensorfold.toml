@@ -1,0 +1,9 @@
+name = "TensorFold"
+description = "LLM Inference Engine for Metal, CUDA and Vulkan."
+category = "llm-apps"
+tags = ["ai", "ai-tools", "llm", "llm-inference", "llm-tools"]
+repository = "https://github.com/ashhart/TensorFold"
+website = "https://tensorfold.dev"
+license = "Apache-2.0"
+language = "Zig"
+added = 2026-10-28

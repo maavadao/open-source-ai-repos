@@ -1,0 +1,9 @@
+name = "dgl-ke"
+description = "High performance, easy-to-use, and scalable package for learning large-scale knowledge graph embeddings."
+category = "ml-platforms"
+tags = ["dgl", "graph-learning", "knowledge-graph", "knowledge-graphs-embeddings", "machine-learning"]
+repository = "https://github.com/awslabs/dgl-ke"
+website = "https://dglke.dgl.ai/doc/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-28

@@ -1,0 +1,8 @@
+name = "cc-use-exp"
+description = "⛔ No longer maintained → dev-agent-kit/recipes 让 Claude Code、Antigravity、Gemini CLI、Codex、Cursor 开箱即用的分层配置模板，总结十多年的日常开发经验"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agent", "ai-coding", "antigravity", "antigravity-cli", "claude-code", "codex", "codex-cli"]
+repository = "https://github.com/doccker/cc-use-exp"
+website = "https://github.com/dev-agent-kit/recipes.git"
+language = "Python"
+added = 2026-10-28

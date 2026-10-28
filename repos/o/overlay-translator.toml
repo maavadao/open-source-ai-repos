@@ -1,0 +1,8 @@
+name = "overlay-translator"
+description = "无需 ROOT 的开源 Android 屏幕实时翻译工具，适合游戏、视觉小说和漫画。支持端侧与云端 OCR、离线 LLM、多种翻译服务和文字朗读（TTS），译文可直接显示在画面上。Open-source no-root Android real-time screen translator for games, visual novels, and manga. Supports on-device and cloud OCR, offline LLMs, multiple translation services, on-screen translations, and text-to-s…"
+category = "local-llms"
+tags = ["android", "android-app", "game-translation", "gguf", "kotlin", "llama-cpp", "llm", "manga"]
+repository = "https://github.com/ciddwd/overlay-translator"
+license = "Apache-2.0"
+language = "Kotlin"
+added = 2026-10-28

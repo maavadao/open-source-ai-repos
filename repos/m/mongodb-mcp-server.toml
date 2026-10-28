@@ -1,0 +1,8 @@
+name = "mongodb-mcp-server"
+description = "A Model Context Protocol server to connect to MongoDB databases and MongoDB Atlas Clusters."
+category = "mcp-servers"
+tags = ["mcp", "mcp-server", "mongodb", "mongodb-atlas", "mongodb-database"]
+repository = "https://github.com/mongodb-js/mongodb-mcp-server"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-28

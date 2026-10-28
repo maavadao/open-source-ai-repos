@@ -1,0 +1,9 @@
+name = "fetcher-mcp"
+description = "MCP server for fetch web page content using Playwright headless browser."
+category = "mcp-servers"
+tags = ["ai", "mcp", "playwright"]
+repository = "https://github.com/jae-jae/fetcher-mcp"
+website = "https://1team.top"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-28

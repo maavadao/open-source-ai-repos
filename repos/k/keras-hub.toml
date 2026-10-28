@@ -1,0 +1,9 @@
+name = "keras-hub"
+description = "Pretrained model hub for Keras 3."
+category = "llm-apps"
+tags = ["cv", "deep-learning", "jax", "keras", "llm", "machine-learning", "natural-language-processing", "nlp"]
+repository = "https://github.com/keras-team/keras-hub"
+website = "https://keras.io/keras_hub/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-28

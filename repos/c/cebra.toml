@@ -1,0 +1,8 @@
+name = "CEBRA"
+description = "Learnable latent embeddings for joint behavioral and neural analysis - Official implementation of CEBRA"
+category = "ml-platforms"
+tags = ["contrastive-learning", "machine-learning", "neuroscience-methods", "pytorch"]
+repository = "https://github.com/AdaptiveMotorControlLab/CEBRA"
+website = "https://cebra.ai"
+language = "Python"
+added = 2026-10-28

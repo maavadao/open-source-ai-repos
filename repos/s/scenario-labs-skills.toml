@@ -1,0 +1,9 @@
+name = "skills"
+description = "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity."
+category = "mcp-servers"
+tags = ["3d-models", "agent-skills", "ai-agents", "ai-art", "blender", "claude-code", "claude-skills", "codex"]
+repository = "https://github.com/scenario-labs/skills"
+website = "https://www.skills.sh/scenario-labs/skills"
+license = "MIT"
+language = "Python"
+added = 2026-10-28

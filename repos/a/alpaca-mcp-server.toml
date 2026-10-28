@@ -1,0 +1,9 @@
+name = "alpaca-mcp-server"
+description = "Alpaca’s official MCP Server lets you trade stocks, ETFs, crypto, and options, run data analysis, and build strategies in plain English directly from your favorite LLM tools and IDEs"
+category = "mcp-servers"
+tags = ["ai-trading", "algorithmic-trading", "crypto", "etfs", "mcp", "mcp-server", "options", "stocks"]
+repository = "https://github.com/alpacahq/alpaca-mcp-server"
+website = "https://alpaca.markets/algotrading"
+license = "MIT"
+language = "Python"
+added = 2026-10-28

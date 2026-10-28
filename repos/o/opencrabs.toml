@@ -1,0 +1,9 @@
+name = "opencrabs"
+description = "The all-in-one AI agent. Build mobile apps, frontend, backend, manages files, deep research, schedule tasks and events. Self-improving, self-healing, fully autonomous. TUI, CLI and Daemon. Connect to your favorite channels. Zero Telemetry."
+category = "agents"
+tags = ["agent-orchestration", "agentic-ai", "agentic-framework", "autonomous-agents", "harness", "harness-framework", "open-source", "opencrabs"]
+repository = "https://github.com/opencrabs/opencrabs"
+website = "https://opencrabs.com"
+license = "MIT"
+language = "Rust"
+added = 2026-10-28

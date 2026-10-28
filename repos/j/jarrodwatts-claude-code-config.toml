@@ -1,0 +1,7 @@
+name = "claude-code-config"
+description = "My personal Claude Code configuration - rules, hooks, agents, skills, and commands"
+category = "skills-prompts"
+tags = ["ai", "claude", "claude-code", "developer-tools", "dotfiles"]
+repository = "https://github.com/jarrodwatts/claude-code-config"
+language = "JavaScript"
+added = 2026-10-28

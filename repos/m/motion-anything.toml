@@ -1,0 +1,8 @@
+name = "motion-anything"
+description = "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation."
+category = "other"
+tags = ["ai-agent", "animation", "claude", "design-tools", "figma-motion-alternative", "motion-design", "motion-graphics", "webgl"]
+repository = "https://github.com/nexu-io/motion-anything"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-28

@@ -1,0 +1,9 @@
+name = "nilearn"
+description = "Machine learning for NeuroImaging in Python"
+category = "ml-platforms"
+tags = ["brain-connectivity", "brain-imaging", "brain-mri", "decoding", "fmri", "machine-learning", "mvpa", "neuroimaging"]
+repository = "https://github.com/nilearn/nilearn"
+website = "http://nilearn.github.io"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-28

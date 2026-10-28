@@ -1,0 +1,9 @@
+name = "genmedia-creative-studio"
+description = "GenMedia Creative Studio is a generative media user experience highlighting the use of Gemini, Gemini Omni, Veo, Gemini Image 🍌, Gemini TTS, Chirp 3, Lyria and other generative media APIs on Google Cloud."
+category = "other"
+tags = ["chirp", "gemini", "gemini-omni", "gemini-tts", "google-cloud", "lyria", "nano-banana", "veo"]
+repository = "https://github.com/GoogleCloudPlatform/genmedia-creative-studio"
+website = "https://googlecloudplatform.github.io/genmedia-creative-studio/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-28

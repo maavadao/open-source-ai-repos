@@ -1,0 +1,7 @@
+name = "swift-sdk"
+description = "The official Swift SDK for Model Context Protocol servers and clients. Maintained in collaboration with Apple"
+category = "mcp-servers"
+tags = ["mcp", "swift"]
+repository = "https://github.com/modelcontextprotocol/swift-sdk"
+language = "Swift"
+added = 2026-10-28

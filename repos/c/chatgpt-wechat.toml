@@ -1,0 +1,8 @@
+name = "chatgpt-wechat"
+description = "企业微信/微信 安全使用的 LLM 个人助手/客服, 也支持 dify 工作流"
+category = "other"
+tags = ["deepseek", "dify", "dify-services", "gemini", "gpt-4", "gpt-4o", "gpt4o-mini", "wechat"]
+repository = "https://github.com/whyiyhw/chatgpt-wechat"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-28

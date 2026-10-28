@@ -1,0 +1,9 @@
+name = "cloudroom-core"
+description = "Open-source, self-hostable Rust runtime that runs Claude Code, Codex, and Pi in the cloud."
+category = "skills-prompts"
+tags = ["ai-agents", "background-agents", "claude-code", "cloud-agents", "codex", "coding-agents", "rust", "self-hosted"]
+repository = "https://github.com/davidondrej/cloudroom-core"
+website = "https://www.cloudroom.dev"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-28

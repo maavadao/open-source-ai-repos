@@ -1,0 +1,9 @@
+name = "prompt-poet"
+description = "Streamlines and simplifies prompt design for both developers and non-technical users with a low code approach."
+category = "skills-prompts"
+tags = ["llm", "llm-inference", "prompt", "prompt-design", "prompt-engineering", "prompt-tuning", "prompting"]
+repository = "https://github.com/character-ai/prompt-poet"
+website = "https://pypi.org/project/prompt-poet/"
+license = "MIT"
+language = "Python"
+added = 2026-10-28

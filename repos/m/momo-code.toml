@@ -1,0 +1,8 @@
+name = "momo-code"
+description = "MOMO CODE — RSI *JEV*Pi --AI coding agent that evolves with you"
+category = "skills-prompts"
+tags = ["agent", "agents", "ai", "claude-code", "cli", "code-agent", "codex", "coding"]
+repository = "https://github.com/momozi1996/momo-code"
+website = "https://momozi.cc"
+language = "TypeScript"
+added = 2026-10-28

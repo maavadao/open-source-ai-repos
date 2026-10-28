@@ -1,0 +1,8 @@
+name = "jonex"
+description = "All-in-One Multimodal Parsing Engine + Ontology-Powered, LLM Wiki-Driven AI-Ready Knowledge Engine"
+category = "agents"
+tags = ["agent", "agent-context", "agent-skills", "ai-context", "asr", "enterprise-context", "fde", "graph-rag"]
+repository = "https://github.com/yuezhiai/jonex"
+website = "https://jonex.ai"
+language = "Python"
+added = 2026-10-28

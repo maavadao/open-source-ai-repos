@@ -1,0 +1,9 @@
+name = "eo-learn"
+description = "Earth observation processing framework for machine learning in Python"
+category = "ml-platforms"
+tags = ["eo-data", "eo-research", "machine-learning", "python-package"]
+repository = "https://github.com/sentinel-hub/eo-learn"
+website = "https://eo-learn.readthedocs.io/en/latest/"
+license = "MIT"
+language = "Python"
+added = 2026-10-28

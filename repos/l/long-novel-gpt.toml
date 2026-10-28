@@ -1,0 +1,7 @@
+name = "Long-Novel-GPT"
+description = "该项目包括一个基于 GPT 等大语言模型的长篇小说生成器，同时还有各类小说生成 Prompt 以及教程。我们欢迎社区贡献，持续更新以提供最佳的小说创作体验。"
+category = "chat"
+tags = ["ai", "chatgpt", "gpt", "llm", "novel"]
+repository = "https://github.com/MaoXiaoYuZ/Long-Novel-GPT"
+language = "Python"
+added = 2026-10-28

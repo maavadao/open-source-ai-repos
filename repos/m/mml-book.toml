@@ -1,0 +1,7 @@
+name = "MML-Book"
+description = "Code / solutions for Mathematics for Machine Learning (MML Book)"
+category = "ml-platforms"
+tags = ["machine-learning", "math-for-machine-learning", "mml-book", "self-study"]
+repository = "https://github.com/ilmoi/MML-Book"
+language = "Jupyter Notebook"
+added = 2026-10-28
