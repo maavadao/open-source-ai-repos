@@ -1,0 +1,8 @@
+name = "langfun"
+description = "OO for LLMs"
+category = "other"
+tags = ["framework", "llms", "nlp"]
+repository = "https://github.com/google/langfun"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-29

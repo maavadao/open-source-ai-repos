@@ -1,0 +1,8 @@
+name = "ai_projects"
+description = "AI projects"
+category = "data-science"
+tags = ["analytics", "artificial-intelligence", "big-data", "code-examples", "data-science", "deep-learning", "examples", "machine-learning"]
+repository = "https://github.com/miguelgfierro/ai_projects"
+website = "https://miguelgfierro.com/"
+language = "Jupyter Notebook"
+added = 2026-10-29

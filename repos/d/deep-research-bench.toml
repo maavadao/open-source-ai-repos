@@ -1,0 +1,9 @@
+name = "deep_research_bench"
+description = "DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents"
+category = "agents"
+tags = ["agent", "benchmark", "deepresearch", "nlp"]
+repository = "https://github.com/Ayanami0730/deep_research_bench"
+website = "https://arxiv.org/pdf/2506.11763"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-29

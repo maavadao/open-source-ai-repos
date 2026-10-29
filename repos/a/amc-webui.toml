@@ -1,0 +1,9 @@
+name = "AMC-WebUI"
+description = "面向 Gemini 的 Local-First AI 工作流 WebUI，集成多模态聊天、Canvas、文件处理、实时搜索、代码执行与高级推理。"
+category = "image"
+tags = ["ai", "chatbot", "gemini", "gemini-api", "google", "image-generation", "local-first", "pwa"]
+repository = "https://github.com/yeahhe365/AMC-WebUI"
+website = "https://all-model-chat.pages.dev/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-29

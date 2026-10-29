@@ -1,0 +1,9 @@
+name = "croissant"
+description = "Croissant is a high-level format for machine learning datasets that brings together four rich layers."
+category = "ml-platforms"
+tags = ["datasets", "json-ld", "machine-learning", "schema-org"]
+repository = "https://github.com/mlcommons/croissant"
+website = "https://mlcommons.org/croissant"
+license = "Apache-2.0"
+language = "HTML"
+added = 2026-10-29

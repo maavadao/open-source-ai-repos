@@ -1,0 +1,7 @@
+name = "Misceo"
+description = "Local Anthropic-compatible AI gateway with cheap-first routing, quality gates, safe model handoffs, and an embedded cost dashboard."
+category = "skills-prompts"
+tags = ["ai-agents", "ai-gateway", "anthropic-api", "claude-code", "cost-optimization", "llm-router", "local-first", "model-routing"]
+repository = "https://github.com/MaySudo/Misceo"
+website = "https://www.npmjs.com/package/@misceo/cli"
+added = 2026-10-29

@@ -1,0 +1,7 @@
+name = "schnetpack"
+description = "SchNetPack - Deep Neural Networks for Atomistic Systems"
+category = "ml-platforms"
+tags = ["condensed-matter", "machine-learning", "molecular-dynamics", "neural-network", "quantum-chemistry"]
+repository = "https://github.com/atomistic-machine-learning/schnetpack"
+language = "Python"
+added = 2026-10-29

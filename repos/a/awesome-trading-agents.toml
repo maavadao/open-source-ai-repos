@@ -1,0 +1,7 @@
+name = "awesome-trading-agents"
+description = "Curated list of LLM-driven trading agents, MCP servers, and agent skills for market research, strategy, and execution."
+category = "mcp-servers"
+tags = ["agent-skills", "agentic-ai", "ai-trading", "awesome", "awesome-list", "claude-skills", "financial-ai", "fintech"]
+repository = "https://github.com/LLMQuant/awesome-trading-agents"
+license = "CC0-1.0"
+added = 2026-10-29

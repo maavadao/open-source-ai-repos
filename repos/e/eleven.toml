@@ -1,0 +1,9 @@
+name = "eleven"
+description = "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you."
+category = "agents"
+tags = ["acp", "ai-agents", "android", "decompiler", "disassembler", "ghidra", "hopper", "macos"]
+repository = "https://github.com/Zfinix/eleven"
+website = "https://eleven.chizi.app"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-29

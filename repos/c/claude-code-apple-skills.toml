@@ -1,0 +1,8 @@
+name = "claude-code-apple-skills"
+description = "Claude Code skills for Apple platform development (iOS, macOS, iPadOS) — product validation, code generation, App Store optimization, and more"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-tools", "anthropic", "app-store", "apple", "aso", "claude", "claude-code"]
+repository = "https://github.com/rshankras/claude-code-apple-skills"
+license = "MIT"
+language = "Swift"
+added = 2026-10-29

@@ -1,0 +1,9 @@
+name = "luvus"
+description = "Mission control for your AI agents"
+category = "skills-prompts"
+tags = ["agent", "agent-orchestration", "ai", "claude", "claude-code", "codex", "codex-skill", "coding-agents"]
+repository = "https://github.com/RizRiyz/luvus"
+website = "https://luvus.dev"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-29

@@ -1,0 +1,9 @@
+name = "mcp-jetbrains"
+description = "A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc. Also, works with Android Studio"
+category = "mcp-servers"
+tags = ["ide", "intellij", "jetbrains", "mcp", "mcp-server", "pycharm"]
+repository = "https://github.com/JetBrains/mcp-jetbrains"
+website = "https://plugins.jetbrains.com/plugin/26071-mcp-server"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-29

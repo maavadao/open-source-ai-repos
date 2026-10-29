@@ -1,0 +1,9 @@
+name = "WellAlly-health"
+description = "Ally-Health is an intelligent healthcare assistant that harnesses advanced AI technology and medical expertise to transform personal health management. Through natural language interaction, it helps users record symptoms, manage medications, organize medical records, and access multidisciplinary he…"
+category = "skills-prompts"
+tags = ["claude", "claude-code", "health", "health-data"]
+repository = "https://github.com/huifer/WellAlly-health"
+website = "https://www.wellally.tech/"
+license = "MIT"
+language = "Shell"
+added = 2026-10-29

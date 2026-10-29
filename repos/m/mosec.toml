@@ -1,0 +1,9 @@
+name = "mosec"
+description = "A high-performance ML model serving framework, offers dynamic batching and CPU/GPU pipelines to fully exploit your compute machine"
+category = "speech"
+tags = ["cv", "deep-learning", "gpu", "hacktoberfest", "jax", "llm", "llm-serving", "machine-learning"]
+repository = "https://github.com/mosecorg/mosec"
+website = "https://mosecorg.github.io/mosec/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-29

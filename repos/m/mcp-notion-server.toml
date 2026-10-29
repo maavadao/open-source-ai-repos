@@ -1,0 +1,9 @@
+name = "mcp-notion-server"
+description = "A Model Context Protocol server for connecting Notion to MCP-compatible clients"
+category = "mcp-servers"
+tags = ["mcp", "model-context-protocol", "notion", "notion-api", "npm", "typescript"]
+repository = "https://github.com/suekou/mcp-notion-server"
+website = "https://www.npmjs.com/package/@suekou/mcp-notion-server"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-29

@@ -1,0 +1,9 @@
+name = "mcp-gateway"
+description = "MCP Gateway is a reverse proxy and management layer for MCP servers, enabling scalable, session-aware stateful routing and lifecycle management of MCP servers in Kubernetes environments."
+category = "mcp-servers"
+tags = ["ai", "api-gateway", "arm-deployments", "asp-net-core", "azure", "bicep", "cloud-computing", "cloud-computing-service"]
+repository = "https://github.com/microsoft/mcp-gateway"
+website = "https://microsoft.github.io/mcp-gateway/"
+license = "MIT"
+language = "C#"
+added = 2026-10-29

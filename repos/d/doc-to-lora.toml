@@ -1,0 +1,9 @@
+name = "doc-to-lora"
+description = "Hypernetworks that update LLMs to remember factual information"
+category = "llm-apps"
+tags = ["ai", "ai-agent", "hypernetworks", "llm", "llm-agent", "lora", "machine-learning", "memory"]
+repository = "https://github.com/SakanaAI/doc-to-lora"
+website = "https://arxiv.org/abs/2602.15902"
+license = "MIT"
+language = "Python"
+added = 2026-10-29

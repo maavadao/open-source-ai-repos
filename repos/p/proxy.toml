@@ -1,0 +1,9 @@
+name = "proxy"
+description = "route Claude Code requests through multiple upstream providers (OpenCode Go, OpenCode Zen, and AWS Bedrock) with automatic model selection and format transformation."
+category = "skills-prompts"
+tags = ["aws-bedrock", "claude", "claude-code", "claude-code-cli", "opencode", "opencode-ai", "opencode-go", "opencode-zen"]
+repository = "https://github.com/routatic/proxy"
+website = "https://deepwiki.com/routatic/proxy/1-overview"
+license = "AGPL-3.0"
+language = "Go"
+added = 2026-10-29

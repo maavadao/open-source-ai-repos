@@ -1,0 +1,9 @@
+name = "smartcore"
+description = "A comprehensive library for machine learning and numerical computing. Apply Machine Learning with Rust leveraging first principles."
+category = "ml-platforms"
+tags = ["classification", "clustering", "machine-learning", "machine-learning-algorithms", "model-selection", "regression", "rust", "rust-lang"]
+repository = "https://github.com/smartcorelib/smartcore"
+website = "https://smartcorelib.github.io"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-29

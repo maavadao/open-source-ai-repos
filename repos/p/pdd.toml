@@ -1,0 +1,9 @@
+name = "pdd"
+description = "Prompt Driven Development (PDD): The Last Programming Language™. Prompt files are source; code is generated output."
+category = "skills-prompts"
+tags = ["ai", "cli", "code", "developer-tools", "development", "methodology", "prompt", "prompt-engineering"]
+repository = "https://github.com/promptdriven/pdd"
+website = "https://promptdriven.ai"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-29

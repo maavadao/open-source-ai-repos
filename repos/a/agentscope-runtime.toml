@@ -1,0 +1,9 @@
+name = "agentscope-runtime"
+description = "A production-ready runtime framework for agent apps with secure tool sandboxing, Agent-as-a-Service APIs, scalable deployment, full-stack observability, and broad framework compatibility."
+category = "agents"
+tags = ["a2a", "agent", "agentscope", "agno", "deployment", "docker", "kubernetes", "langgraph"]
+repository = "https://github.com/agentscope-ai/agentscope-runtime"
+website = "https://runtime.agentscope.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-29

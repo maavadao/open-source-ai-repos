@@ -1,0 +1,8 @@
+name = "gptstudio"
+description = "GPT RStudio addins that enable GPT assisted coding, writing & analysis"
+category = "chat"
+tags = ["chatgpt", "gpt-3", "r", "rstats", "rstats-package", "rstudio", "rstudio-addin"]
+repository = "https://github.com/MichelNivard/gptstudio"
+website = "https://michelnivard.github.io/gptstudio/"
+language = "R"
+added = 2026-10-29

@@ -1,0 +1,9 @@
+name = "mineru-tianshu"
+description = "天枢 - 企业级 AI 一站式数据预处理平台 | PDF/Office转Markdown | 支持MCP协议AI助手集成 | Vue3+FastAPI全栈方案 | 文档解析 | 多模态信息提取"
+category = "mcp-servers"
+tags = ["deepseek-ocr", "markitdown", "mcp-server", "mineru", "paddleocr-vl", "pdf-converter"]
+repository = "https://github.com/magicyuan876/mineru-tianshu"
+website = "https://mineru-tianshu.vercel.app"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-29

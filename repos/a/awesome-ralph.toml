@@ -1,0 +1,7 @@
+name = "awesome-ralph"
+description = "A curated list of resources about Ralph, the AI coding technique that runs AI coding agents in automated loops until specifications are fulfilled."
+category = "skills-prompts"
+tags = ["ai-coding", "claude", "claude-code", "ralph", "ralph-loop", "ralph-wiggum", "vibe-coding"]
+repository = "https://github.com/snwfdhmp/awesome-ralph"
+website = "https://reddit.com/r/RalphCoding"
+added = 2026-10-29

@@ -1,0 +1,8 @@
+name = "codespaces-jupyter"
+description = "Explore machine learning and data science with Codespaces"
+category = "data-science"
+tags = ["codespaces", "data-science", "jupyter-notebook", "machine-learning"]
+repository = "https://github.com/github/codespaces-jupyter"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-29

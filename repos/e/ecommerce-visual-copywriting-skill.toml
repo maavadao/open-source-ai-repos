@@ -1,0 +1,8 @@
+name = "ecommerce-visual-copywriting-skill"
+description = "电商视觉文案设计SOP Skill - 让电商设计小白也能一键做出5年资深设计经验的商品图片.兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent. AI-powered e-commerce visual strategy skill for main images, PDP/A+, copywriting, localization, evidence-aware compliance and image prompts."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-image-generation-api", "amazon", "copywriting", "ecommerce", "prompt-engineering", "shopify", "tiktok-shop-affiliate"]
+repository = "https://github.com/feichanggege/ecommerce-visual-copywriting-skill"
+license = "MIT"
+language = "Python"
+added = 2026-10-29

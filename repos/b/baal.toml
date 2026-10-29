@@ -1,0 +1,9 @@
+name = "baal"
+description = "Bayesian active learning library for research and industrial usecases."
+category = "ml-platforms"
+tags = ["active-learning", "ai", "bayesian-active-learning", "deep-learning", "machine-learning", "python", "pytorch"]
+repository = "https://github.com/baal-org/baal"
+website = "https://baal.readthedocs.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-29

@@ -1,0 +1,8 @@
+name = "metatrader-mcp-server"
+description = "Model Context Protocol (MCP) to enable AI LLMs to trade using MetaTrader platform"
+category = "mcp-servers"
+tags = ["ai", "finance", "investment", "llm", "mcp", "metatrader", "quantitative-finance", "trading"]
+repository = "https://github.com/ariadng/metatrader-mcp-server"
+license = "MIT"
+language = "Python"
+added = 2026-10-29

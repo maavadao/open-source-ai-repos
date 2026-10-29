@@ -1,0 +1,8 @@
+name = "hyper-mcp"
+description = "📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins."
+category = "mcp-servers"
+tags = ["ai", "extism", "llm", "mcp", "mcp-server", "oci"]
+repository = "https://github.com/hyper-mcp-rs/hyper-mcp"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-29

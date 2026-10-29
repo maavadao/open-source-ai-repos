@@ -1,0 +1,9 @@
+name = "macai"
+description = "All-in-one native macOS AI chat application for virtually any AI provider"
+category = "local-llms"
+tags = ["ai", "api-client", "bot", "chat", "chatgpt", "chatgpt-api", "claude", "deepseek"]
+repository = "https://github.com/Renset/macai"
+website = "https://macai.chat"
+license = "Apache-2.0"
+language = "Swift"
+added = 2026-10-29

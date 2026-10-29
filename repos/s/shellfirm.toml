@@ -1,0 +1,9 @@
+name = "shellfirm"
+description = "Safety guardrails for ai coding agents and human terminal commands"
+category = "skills-prompts"
+tags = ["agent", "ai", "captcha", "devops", "devops-tools", "mcp", "prompt", "rust"]
+repository = "https://github.com/kaplanelad/shellfirm"
+website = "https://shellfirm.vercel.app/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-29

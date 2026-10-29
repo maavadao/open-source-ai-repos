@@ -1,0 +1,9 @@
+name = "TypeLLM"
+description = "TypeLLM: LLMs with type-safe generation"
+category = "other"
+tags = ["ai", "jev", "llms", "types"]
+repository = "https://github.com/TypeLLM/TypeLLM"
+website = "https://typellm.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-29

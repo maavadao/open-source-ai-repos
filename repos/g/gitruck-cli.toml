@@ -1,0 +1,9 @@
+name = "cli"
+description = "一条命令，把口播毛片变成可二次精修的剪辑工程。"
+category = "skills-prompts"
+tags = ["agent-skills", "agentic-ai", "ai", "ai-agents", "ai-video", "ai-video-editing", "ai-video-editor", "claude-code"]
+repository = "https://github.com/Gitruck/cli"
+website = "https://ai-mcn.tv/gtrk"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-29

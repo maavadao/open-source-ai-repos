@@ -1,0 +1,8 @@
+name = "dipy"
+description = "DIPY is the paragon 3D/4D+ medical imaging library in Python. Contains generic methods for spatial normalization, signal processing, machine learning, statistical analysis and visualization of medical images. Additionally, it contains specialized methods for computational anatomy including diffusio…"
+category = "ml-platforms"
+tags = ["bundles", "contextual-enhancement", "denoising", "diffusion-mri", "dki", "dti", "machine-learning", "medical-imaging"]
+repository = "https://github.com/dipy/dipy"
+website = "https://dipy.org"
+language = "Python"
+added = 2026-10-29

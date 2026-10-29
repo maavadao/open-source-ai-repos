@@ -1,0 +1,9 @@
+name = "unifi-mcp"
+description = "MCP servers & Graph API for the UniFi suite of applications, Network, Protect, and Access"
+category = "mcp-servers"
+tags = ["agentic-ai", "home-automation", "mcp-server", "unifi", "unifi-access", "unifi-controller", "unifi-network", "unifi-protect"]
+repository = "https://github.com/sirkirby/unifi-mcp"
+website = "http://unifimcp.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-29

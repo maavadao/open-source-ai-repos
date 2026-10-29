@@ -1,0 +1,9 @@
+name = "MidiTok"
+description = "MIDI / symbolic music tokenizers for Deep Learning models 🎶"
+category = "ml-platforms"
+tags = ["deep-learning", "generative-model", "machine-learning", "midi", "music", "music-generation", "music-information-retrieval"]
+repository = "https://github.com/Natooz/MidiTok"
+website = "https://miditok.readthedocs.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-29

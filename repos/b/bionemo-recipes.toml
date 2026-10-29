@@ -1,0 +1,8 @@
+name = "bionemo-recipes"
+description = "BioNeMo Recipes: For building and adapting AI models in drug discovery at scale"
+category = "ml-platforms"
+tags = ["drug-discovery", "gpu", "machine-learning", "pytorch"]
+repository = "https://github.com/NVIDIA-BioNeMo/bionemo-recipes"
+website = "https://nvidia-bionemo.github.io/bionemo-recipes/"
+language = "Python"
+added = 2026-10-29

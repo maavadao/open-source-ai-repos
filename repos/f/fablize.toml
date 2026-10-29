@@ -1,0 +1,8 @@
+name = "fablize"
+description = "A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable."
+category = "skills-prompts"
+tags = ["agentic", "anthropic", "claude", "claude-code", "fable", "harness", "opus"]
+repository = "https://github.com/fivetaku/fablize"
+license = "MIT"
+language = "Python"
+added = 2026-10-29

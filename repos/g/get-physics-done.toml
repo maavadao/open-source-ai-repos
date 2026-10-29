@@ -1,0 +1,8 @@
+name = "get-physics-done"
+description = "The first open-source agentic AI physicist, by Physical Superintelligence PBC (PSI)."
+category = "agents"
+tags = ["agentic-ai", "claude", "codex", "gemini", "meta-prompting", "open-source", "opencode", "physics"]
+repository = "https://github.com/psi-oss/get-physics-done"
+website = "https://www.psi.inc"
+language = "Python"
+added = 2026-10-29

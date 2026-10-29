@@ -1,0 +1,9 @@
+name = "dev-proxy"
+description = "Simulate API failures, throttling, and chaos — all from your command line."
+category = "llm-apps"
+tags = ["api-mocking", "api-testing", "chaos-engineering", "dev-proxy", "developer-tools", "fault-injection", "http", "llm"]
+repository = "https://github.com/dotnet/dev-proxy"
+website = "https://aka.ms/devproxy"
+license = "MIT"
+language = "C#"
+added = 2026-10-29

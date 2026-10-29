@@ -1,0 +1,9 @@
+name = "claude-code-skills-zh"
+description = "面向中文开发者的 Claude Code Skills / Agents / Plugins 精选与原创技能库｜按场景分类｜复制即装｜持续更新"
+category = "skills-prompts"
+tags = ["ai-agent", "awesome-list", "claude-code", "claude-skills", "developer-tools", "prompt-engineering", "skills"]
+repository = "https://github.com/laolaoshiren/claude-code-skills-zh"
+website = "https://claude-skills.bt199.com/"
+license = "MIT"
+language = "Python"
+added = 2026-10-29

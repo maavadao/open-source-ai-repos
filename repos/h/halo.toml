@@ -1,0 +1,8 @@
+name = "halo"
+description = "Halo is an open-source framework built by White Circle for training large language and multimodal models"
+category = "local-llms"
+tags = ["agent", "async-rl", "distributed-training", "fine-tuning", "grpo", "large-language-models", "llm", "lora"]
+repository = "https://github.com/whitecircle/halo"
+website = "https://whitecircle.com/halo"
+language = "Python"
+added = 2026-10-29

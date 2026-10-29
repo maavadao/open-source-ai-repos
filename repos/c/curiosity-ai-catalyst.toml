@@ -1,0 +1,8 @@
+name = "catalyst"
+description = "🚀 Catalyst is a C# Natural Language Processing library built for speed. Inspired by spaCy's design, it brings pre-trained models, out-of-the box support for training word and document embeddings, and flexible entity recognition models."
+category = "vector-databases"
+tags = ["ai", "artificial-intelligence", "csharp", "embeddings", "machine-learning", "natural-language-processing", "natural-language-understanding", "nlp"]
+repository = "https://github.com/curiosity-ai/catalyst"
+license = "MIT"
+language = "C#"
+added = 2026-10-29

@@ -1,0 +1,8 @@
+name = "education-agent-skills"
+description = "165 evidence-grounded AI skills for teachers, school leaders and EdTech builders—pedagogy, learning science, curriculum, assessment and regeneration. Claude, Codex and Hermes."
+category = "skills-prompts"
+tags = ["adaptive-learning", "agentic-workflow", "ai-education", "ai-literacy", "competency-based-education", "curriculum-design", "edtech", "education"]
+repository = "https://github.com/GarethManning/education-agent-skills"
+website = "https://www.garethmanning.com/work/agent-skills"
+language = "TypeScript"
+added = 2026-10-29

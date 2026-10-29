@@ -1,0 +1,7 @@
+name = "awesome-rsi"
+description = "A curated research map of Recursive Self-Improvement (RSI): models, agents, harnesses, embodied systems, automated AI R&D, benchmarks, and safety."
+category = "agents"
+tags = ["agi", "ai", "ai-agents", "ai-model", "ai-safety", "artificial-intelligence", "automated-ai", "awesome"]
+repository = "https://github.com/lobehub/awesome-rsi"
+license = "CC0-1.0"
+added = 2026-10-29

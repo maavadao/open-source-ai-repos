@@ -1,0 +1,9 @@
+name = "awesome-mcp-servers"
+description = "A comprehensive collection of Model Context Protocol (MCP) servers"
+category = "mcp-servers"
+tags = ["anthropic", "awesome", "genai", "mcp", "mcp-server", "mcp-server-discovery", "mcp-servers", "model-context-protocol"]
+repository = "https://github.com/TensorBlock/awesome-mcp-servers"
+website = "https://tensorblock.co"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-29

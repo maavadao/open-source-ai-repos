@@ -1,0 +1,8 @@
+name = "task-state-guard"
+description = "Reconcile stuck AI-agent tasks after restarts and timeouts. Preview SQLite changes, close stale delivery states, and never guess success."
+category = "agents"
+tags = ["agent-runtime", "ai-agents", "delivery-state", "idempotency", "job-recovery", "python", "restart-reconciliation", "sqlite"]
+repository = "https://github.com/MaxHu-xuan/task-state-guard"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-29

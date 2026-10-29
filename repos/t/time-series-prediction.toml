@@ -1,0 +1,9 @@
+name = "Time-series-prediction"
+description = "tfts: Time Series Deep Learning Models in TensorFlow"
+category = "ml-platforms"
+tags = ["deep-learning", "forecasting", "keras-forecasting", "keras-prediction", "keras-time-series", "machine-learning", "neural-network", "prediction"]
+repository = "https://github.com/LongxingTan/Time-series-prediction"
+website = "https://time-series-prediction.readthedocs.io/en/latest/"
+license = "MIT"
+language = "Python"
+added = 2026-10-29

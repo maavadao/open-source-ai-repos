@@ -1,0 +1,8 @@
+name = "nuxt-mcp-dev"
+description = "MCP server helping models to understand your Vite/Nuxt app better."
+category = "mcp-servers"
+tags = ["mcp", "nuxt", "vite"]
+repository = "https://github.com/antfu/nuxt-mcp-dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-29

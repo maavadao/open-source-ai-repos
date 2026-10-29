@@ -1,0 +1,9 @@
+name = "MCP"
+description = "Official Jina AI Remote MCP Server"
+category = "mcp-servers"
+tags = ["mcp", "mcp-server"]
+repository = "https://github.com/jina-ai/MCP"
+website = "https://mcp.jina.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-29

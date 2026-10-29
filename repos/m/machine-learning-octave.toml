@@ -1,0 +1,8 @@
+name = "machine-learning-octave"
+description = "🤖 MatLab/Octave examples of popular machine learning algorithms with code examples and mathematics being explained"
+category = "ml-platforms"
+tags = ["clustering", "linear-regression", "machine-learning", "matlab", "neural-network", "neural-networks", "octave", "prediction"]
+repository = "https://github.com/trekhleb/machine-learning-octave"
+license = "MIT"
+language = "MATLAB"
+added = 2026-10-29

@@ -1,0 +1,8 @@
+name = "supabase-mcp-server"
+description = "Query MCP enables end-to-end management of Supabase via chat interface: read & write query executions, management API support, automatic migration versioning, access to logs and much more."
+category = "mcp-servers"
+tags = ["cursor", "model-context-protocol", "supabase", "windsurf"]
+repository = "https://github.com/alexander-zuev/supabase-mcp-server"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-29

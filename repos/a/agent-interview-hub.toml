@@ -1,0 +1,8 @@
+name = "agent-interview-hub"
+description = "AI Agent 工程师面试资料库 - 国内大厂面经、岗位要求、高频面试题"
+category = "skills-prompts"
+tags = ["ai-agent", "chinese", "claude", "interview", "langchain", "llm", "machine-learning", "mcp"]
+repository = "https://github.com/Zchary1106/agent-interview-hub"
+license = "MIT"
+language = "HTML"
+added = 2026-10-29

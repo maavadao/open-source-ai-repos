@@ -1,0 +1,9 @@
+name = "engineering-handbook"
+description = "Open-source High-Level System Design, DSA, and AI Engineering handbooks. CC BY-SA 4.0, Free Forever."
+category = "agents"
+tags = ["ai-agents", "ai-engineering", "algorithms", "architecture", "data-structures", "hld", "interview-preparation", "llm"]
+repository = "https://github.com/handbook-academy/engineering-handbook"
+website = "https://handbook.academy"
+license = "CC-BY-SA-4.0"
+language = "JavaScript"
+added = 2026-10-29

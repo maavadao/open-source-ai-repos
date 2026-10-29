@@ -1,0 +1,9 @@
+name = "kubectl-mcp-server"
+description = "Published in CNCF Landscape: A MCP server for Kubernetes."
+category = "mcp-servers"
+tags = ["ai", "deployment", "devops", "genai", "kubernetes", "kubernetes-cluster", "kubernetes-tools", "llms"]
+repository = "https://github.com/rohitg00/kubectl-mcp-server"
+website = "https://hub.docker.com/mcp/server/kubectl-mcp-server/overview"
+license = "MIT"
+language = "Python"
+added = 2026-10-29

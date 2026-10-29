@@ -1,0 +1,7 @@
+name = "AI-Search-Hub"
+description = "One Query. All Search Skill. 聚合 Gemini、Grok、豆包、元宝等平台原生 AI 搜索能力，免费获取科技趋势、行业舆情、热点追踪、旅行规划、日常问题统一接进自己的 Agent 与工作流，指定链接免费爬取"
+category = "skills-prompts"
+tags = ["ai", "claude-skills", "deep-search", "knowledge-graph", "llm", "multi-agent-systems", "openclaw", "python3"]
+repository = "https://github.com/minsight-ai-info/AI-Search-Hub"
+language = "Python"
+added = 2026-10-29

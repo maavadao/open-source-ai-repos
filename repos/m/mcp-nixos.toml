@@ -1,0 +1,9 @@
+name = "mcp-nixos"
+description = "MCP-NixOS - Model Context Protocol Server for NixOS resources"
+category = "mcp-servers"
+tags = ["ai-assistant", "ai-integration", "ai-tools", "anthropic", "claude", "developer-tools", "devops-tools", "fastmcp"]
+repository = "https://github.com/utensils/mcp-nixos"
+website = "https://mcp-nixos.io/"
+license = "MIT"
+language = "Python"
+added = 2026-10-29

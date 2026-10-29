@@ -1,0 +1,8 @@
+name = "swapper-toolkit"
+description = "DeFi toolkit for AI agents and coding assistants — deposit funds, execute trades, and manage crypto wallets. Works with Claude Code, Cursor, Windsurf, OpenClaw, CrewAI, AutoGPT, and other AI agent frameworks."
+category = "skills-prompts"
+tags = ["ai-agent", "ai-agent-tools", "ai-coding-assistant", "autogpt", "autonomous-agents", "blockchain", "claude-code", "copilot"]
+repository = "https://github.com/swapperfinance/swapper-toolkit"
+website = "https://swapper.finance"
+license = "MIT"
+added = 2026-10-29

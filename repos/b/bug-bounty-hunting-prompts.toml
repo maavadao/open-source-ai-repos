@@ -1,0 +1,8 @@
+name = "bug-bounty-hunting-prompts"
+description = "Reusable prompts for a structured, evidence-first bug bounty hunting workflow"
+category = "skills-prompts"
+tags = ["application-security", "bug-bounty", "bug-bounty-hunting", "cybersecurity", "llm-prompts", "open-source", "penetration-testing", "prompt-engineering"]
+repository = "https://github.com/mdpsec/bug-bounty-hunting-prompts"
+website = "https://mdpsec.com"
+license = "MIT"
+added = 2026-10-29

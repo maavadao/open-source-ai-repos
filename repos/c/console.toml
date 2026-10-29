@@ -1,0 +1,8 @@
+name = "console"
+description = "Secrets management for teams and AI agents."
+category = "skills-prompts"
+tags = ["claude", "claude-code", "codex", "codex-cli", "devops", "django", "docker", "dotenv"]
+repository = "https://github.com/phasehq/console"
+website = "https://phase.dev"
+language = "TypeScript"
+added = 2026-10-29

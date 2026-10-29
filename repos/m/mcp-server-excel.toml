@@ -1,0 +1,9 @@
+name = "mcp-server-excel"
+description = "Automate real Microsoft Excel with AI via MCP Server or CLI — Power Query, DAX, VBA, PivotTables, and charts."
+category = "mcp-servers"
+tags = ["ai-automation", "claude-ai", "com-automation", "conditional-formatting", "data-connections", "dax", "dotnet", "excel"]
+repository = "https://github.com/sbroenne/mcp-server-excel"
+website = "https://excelmcpserver.dev/"
+license = "MIT"
+language = "C#"
+added = 2026-10-29

@@ -1,0 +1,8 @@
+name = "toolkit"
+description = "Agentic tooling for Sentry"
+category = "other"
+tags = ["agentic-workflow", "cli", "mcp-server", "tag-production"]
+repository = "https://github.com/getsentry/toolkit"
+website = "https://mcp.sentry.dev"
+language = "TypeScript"
+added = 2026-10-29

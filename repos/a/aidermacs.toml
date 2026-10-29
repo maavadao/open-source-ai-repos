@@ -1,0 +1,8 @@
+name = "aidermacs"
+description = "AI Pair Programming in Emacs with Aider"
+category = "chat"
+tags = ["ai", "ai-programming", "aider", "chatgpt", "claude", "deepseek", "emacs", "llm"]
+repository = "https://github.com/MatthewZMD/aidermacs"
+license = "Apache-2.0"
+language = "Emacs Lisp"
+added = 2026-10-29

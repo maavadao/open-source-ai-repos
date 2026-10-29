@@ -1,0 +1,6 @@
+name = "claude-code-ios-dev-guide"
+description = "A comprehensive guide for setting up Claude Code CLI with PRD-driven workflows, extended thinking (ultrathink), and planning modes optimized for Swift/SwiftUI iOS development."
+category = "skills-prompts"
+tags = ["claude", "claude-ai", "claude-code", "claude-code-hooks", "claude-code-plugin", "claude-code-skills", "claude-code-subagents", "ios-development"]
+repository = "https://github.com/keskinonur/claude-code-ios-dev-guide"
+added = 2026-10-29

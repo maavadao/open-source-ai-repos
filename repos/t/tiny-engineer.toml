@@ -1,0 +1,7 @@
+name = "tiny-engineer"
+description = "A small desktop robot that brings an AI coding assistant to life, physically acting out when it reads files, thinks, writes code, and finishes work."
+category = "skills-prompts"
+tags = ["ai-agents", "antigravity", "claude-code", "cursor", "esp32"]
+repository = "https://github.com/jamro/tiny-engineer"
+language = "C++"
+added = 2026-10-29

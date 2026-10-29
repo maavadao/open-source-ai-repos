@@ -1,0 +1,9 @@
+name = "rome"
+description = "A compounding agent OS for recursive agents. Also an open source alternative to Grok Bot and Meta's Muse."
+category = "skills-prompts"
+tags = ["agent", "agent-os", "ai-agent", "ai-assistant", "claude-code", "codex", "grok-bot-alternative", "llm"]
+repository = "https://github.com/rome-os/rome"
+website = "https://romeos.cc"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-29

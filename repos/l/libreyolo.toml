@@ -1,0 +1,8 @@
+name = "libreyolo"
+description = "LibreYOLO is a MIT licensed open source computer vision library"
+category = "vision"
+tags = ["computer-vision", "deep-learning", "edge-ai", "instance-segmentation", "mit-license", "object-detection", "onnx", "pose-estimation"]
+repository = "https://github.com/LibreYOLO/libreyolo"
+website = "https://www.libreyolo.com/"
+language = "Python"
+added = 2026-10-29

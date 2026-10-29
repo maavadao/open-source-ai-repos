@@ -1,0 +1,8 @@
+name = "jarvis"
+description = "JARVIS — a voice assistant for Claude Code. Talk to your Mac and he brainstorms a project with you, builds it, and tells you out loud when a Claude Code session needs you. macOS, on your Claude subscription, no API key."
+category = "skills-prompts"
+tags = ["agent", "ai", "ai-assistant", "anthropic", "claude", "claude-code", "developer-tools", "jarvis"]
+repository = "https://github.com/ethanplusai/jarvis"
+website = "https://github.com/ethanplusai/jarvis/releases/tag/v2.0.0"
+language = "Python"
+added = 2026-10-29

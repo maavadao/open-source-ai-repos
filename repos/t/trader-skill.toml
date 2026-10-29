@@ -1,0 +1,8 @@
+name = "trader-skill"
+description = "11 Claude skills that copy the investors you trust, watch the news and Congress, size every trade to your budget, and never place an order without your yes."
+category = "skills-prompts"
+tags = ["13f", "claude", "claude-skills", "investing", "stock-market"]
+repository = "https://github.com/Jakeschincariol/trader-skill"
+license = "MIT"
+language = "Python"
+added = 2026-10-29

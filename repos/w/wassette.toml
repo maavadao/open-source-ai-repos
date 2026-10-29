@@ -1,0 +1,9 @@
+name = "wassette"
+description = "Wassette: A security-oriented runtime that runs WebAssembly Components via MCP"
+category = "mcp-servers"
+tags = ["capabilities", "mcp", "mcp-server", "oci", "oci-artifacts", "permissions", "wasm", "wasm-component"]
+repository = "https://github.com/microsoft/wassette"
+website = "https://microsoft.github.io/wassette/"
+license = "MIT"
+language = "Rust"
+added = 2026-10-29

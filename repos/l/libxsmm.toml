@@ -1,0 +1,9 @@
+name = "libxsmm"
+description = "Library for specialized dense and sparse matrix operations, and deep learning primitives."
+category = "ml-platforms"
+tags = ["aarch", "ace", "amx", "avx", "avx512", "bfloat16", "blas", "fortran"]
+repository = "https://github.com/libxsmm/libxsmm"
+website = "https://libxsmm.readthedocs.io/"
+license = "BSD-3-Clause"
+language = "C"
+added = 2026-10-29

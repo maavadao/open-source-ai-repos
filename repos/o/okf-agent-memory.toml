@@ -1,0 +1,9 @@
+name = "okf-agent-memory"
+description = "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go."
+category = "mcp-servers"
+tags = ["agent-memory", "ai-agents", "bm25", "coding-agents", "developer-tools", "git-native", "go", "golang"]
+repository = "https://github.com/okf-memory/okf-agent-memory"
+website = "https://okf-memory.dev"
+license = "MIT"
+language = "Go"
+added = 2026-10-29

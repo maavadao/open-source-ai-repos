@@ -1,0 +1,8 @@
+name = "OmniXAI"
+description = "OmniXAI: A Library for eXplainable AI"
+category = "ml-platforms"
+tags = ["explainable-ai", "explainable-ml", "explanation", "interpretable-machine-learning", "machine-learning"]
+repository = "https://github.com/salesforce/OmniXAI"
+license = "BSD-3-Clause"
+language = "Jupyter Notebook"
+added = 2026-10-29

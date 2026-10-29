@@ -1,0 +1,9 @@
+name = "MLServer"
+description = "An inference server for your machine learning models, including support for multiple frameworks, multi-model serving and more"
+category = "ml-platforms"
+tags = ["kfserving", "lightgbm", "machine-learning", "mlflow", "scikit-learn", "seldon-core", "xgboost"]
+repository = "https://github.com/SeldonIO/MLServer"
+website = "https://mlserver.readthedocs.io/en/latest/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-29

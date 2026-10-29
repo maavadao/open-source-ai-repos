@@ -1,0 +1,9 @@
+name = "room"
+description = "Open-source earning-focused swarm intelligence engine. Self-governing AI collectives (queen, workers, quorum voting) running locally via MCP. Works with Claude Code, Codex, or pay-per-use APIs."
+category = "llm-apps"
+tags = ["ai", "automaton", "claude", "claudecode", "giminiapi", "linux", "llm", "macos"]
+repository = "https://github.com/quoroom-ai/room"
+website = "https://quoroom.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-29

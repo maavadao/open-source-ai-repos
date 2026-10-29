@@ -1,0 +1,9 @@
+name = "ChattyPlay-Agent"
+description = "🚀 告别多个App！本项目主要基于Python+React+TypeScript+Hono+SQLite3+Redis，打造“All in One”智能工具集。免会员播放爱奇艺、腾讯视频、优酷、抖音、B站、小红书等20+平台视频，支持4K在线解析与无水印高速下载。集成Cloudflare Turnstile防机器人和爬虫、Google、GitHub授权登录及OpenAI SDK、埋点SDK、MCP服务和Agent等，支持ChatGPT对话、AI绘画、论文降重、Hugging Face论文爬取、在线Latex编写；更有实时黄金K线、AI思维导图、闲鱼助手等效率黑科技。内置海量动漫漫画资源，畅享…"
+category = "mcp-servers"
+tags = ["agent", "ai-drawing", "aigc", "chatgpt", "docker", "eventstream", "hono", "huggingface"]
+repository = "https://github.com/P1kaj1uu/ChattyPlay-Agent"
+website = "https://chatty-play-agent.vercel.app"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-29

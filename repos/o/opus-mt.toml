@@ -1,0 +1,8 @@
+name = "Opus-MT"
+description = "Open neural machine translation models and web services"
+category = "ml-platforms"
+tags = ["language-technology", "language-translation-service", "machine-learning", "machine-translation", "natural-language-processing", "neural-machine-translation", "translation-interface", "translation-service"]
+repository = "https://github.com/Helsinki-NLP/Opus-MT"
+license = "MIT"
+language = "Python"
+added = 2026-10-29

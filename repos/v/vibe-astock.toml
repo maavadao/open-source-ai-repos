@@ -1,0 +1,8 @@
+name = "vibe-astock"
+description = "Vibe AStock：A 股短线复盘与跟踪工作台 · 盯盘异动、情绪复盘（连板天梯、题材轮动、明日验证）、AI 复盘与周报、交易日志、盘前提醒，182 个数据端点。支持 Claude Code、Codex、WorkBuddy 订阅或任意模型 API。 | A short-term trading review and tracking workbench for China A-shares."
+category = "skills-prompts"
+tags = ["a-share", "a-stock", "ai-agent", "china-stock-market", "claude-code", "codex", "dashboard", "fintech"]
+repository = "https://github.com/simonlin1212/vibe-astock"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-29

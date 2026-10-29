@@ -1,0 +1,9 @@
+name = "mcp-sequential-thinking"
+description = "Local MCP work notes with persistent sessions, decisions, evidence and resumable tasks."
+category = "mcp-servers"
+tags = ["mcp", "model-context-protocol", "python", "sqlite", "working-notes"]
+repository = "https://github.com/arben-adm/mcp-sequential-thinking"
+website = "https://github.com/arben-adm/mcp-sequential-thinking#readme"
+license = "MIT"
+language = "Python"
+added = 2026-10-29

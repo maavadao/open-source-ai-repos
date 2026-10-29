@@ -1,0 +1,9 @@
+name = "cezar"
+description = "Open-source orchestrator and ADE for running Claude Code, Codex, OpenCode, Pi and other AI coding agents in parallel — locally or 24/7 on your own server."
+category = "skills-prompts"
+tags = ["agent-orchestration", "ai-agents", "autonomous-agents", "claude-code", "codex", "coding-agents", "developer-tools", "git-worktrees"]
+repository = "https://github.com/open-mercato/cezar"
+website = "https://cezar.run"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-29

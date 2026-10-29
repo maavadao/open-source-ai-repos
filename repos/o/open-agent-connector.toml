@@ -1,0 +1,8 @@
+name = "open-agent-connector"
+description = "Open-source, self-hosted alternative to Composio, Nango, Merge.dev, and Arcade.dev for AI agent integrations. Run GitHub, Slack, Hacker News, and custom HTTP actions over MCP or REST."
+category = "mcp-servers"
+tags = ["agent-tools", "ai-agents", "api-gateway", "api-integrations", "arcade-dev", "composio", "connector-gateway", "fastapi"]
+repository = "https://github.com/Anil-matcha/open-agent-connector"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-29

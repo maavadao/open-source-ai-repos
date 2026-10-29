@@ -1,0 +1,8 @@
+name = "herdr-reviewr"
+description = "Review your agent's diff in a terminal pane and send comments back to Claude Code, Codex, OpenCode or Pi. A herdr plugin."
+category = "skills-prompts"
+tags = ["agentic-coding", "ai-agents", "claude-code", "cli", "code-review", "code-review-tool", "codex", "coding-agents"]
+repository = "https://github.com/persiyanov/herdr-reviewr"
+license = "MIT"
+language = "Rust"
+added = 2026-10-29

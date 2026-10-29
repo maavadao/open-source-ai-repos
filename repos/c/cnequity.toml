@@ -1,0 +1,9 @@
+name = "CNEquity"
+description = "开源中国股市（A股）本地数据湖，面向量化研究与回测：股票行情、财务数据、期货、资金流向、公告、指数行业、宏观，55 个日更数据集，复权与历史成分内置，行级溯源、PIT 语义，MCP 原生，让 AI 直接查 A 股。免注册、免 Token，自托管。Open-source China A-share stock data lake for quant research, backtesting and AI agents."
+category = "mcp-servers"
+tags = ["a-share", "a-shares", "a-stock", "ai-agent", "akshare", "ashare", "astock", "backtesting"]
+repository = "https://github.com/rootSunc/CNEquity"
+website = "https://rootsunc.github.io/CNEquity/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-29

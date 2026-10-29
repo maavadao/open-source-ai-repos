@@ -1,0 +1,8 @@
+name = "reverse-engineering-assistant"
+description = "MCP server for reverse engineering tasks in Ghidra 👩‍💻"
+category = "mcp-servers"
+tags = ["assistant", "binaryninja", "ghidra", "llm", "mcp", "mcp-server", "reverse-engineering"]
+repository = "https://github.com/cyberkaida/reverse-engineering-assistant"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-29

@@ -1,0 +1,9 @@
+name = "clawcodex"
+description = "Token efficient Claude Code full Python rebuild. AI Coding Agent in 310K LoC Python."
+category = "skills-prompts"
+tags = ["agent", "ai", "ai-agent", "ai-coding", "claude", "claude-code", "cli", "code"]
+repository = "https://github.com/agentforce314/clawcodex"
+website = "https://clawcodex.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-29

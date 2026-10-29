@@ -1,0 +1,6 @@
+name = "generative-ui"
+description = "Generative UI examples for: AG-UI, A2UI/Open-JSON-UI, and MCP Apps."
+category = "agents"
+tags = ["a2ui", "ag-ui", "agentic-ai", "generative-ui", "mcp-apps"]
+repository = "https://github.com/CopilotKit/generative-ui"
+added = 2026-10-29

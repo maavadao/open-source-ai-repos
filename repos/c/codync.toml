@@ -1,0 +1,9 @@
+name = "Codync"
+description = "Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust."
+category = "skills-prompts"
+tags = ["acp", "agent-client-protocol", "ai-agents", "ai-assistant", "claude", "claude-code", "codex", "coding-agents"]
+repository = "https://github.com/leepokai/Codync"
+website = "https://www.codync.dev"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-29

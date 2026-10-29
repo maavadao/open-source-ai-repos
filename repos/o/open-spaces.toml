@@ -1,0 +1,9 @@
+name = "open-spaces"
+description = "Free, open-source alternative to ChatGPT Spaces: a self-hostable AI workspace for shared pages and conversations."
+category = "other"
+tags = ["ai-assistant", "ai-chat", "ai-workspace", "artificial-intelligence", "chatgpt-spaces-alternative", "collaboration", "document-editor", "fastapi"]
+repository = "https://github.com/Anil-matcha/open-spaces"
+website = "https://github.com/Anil-matcha/open-spaces"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-29

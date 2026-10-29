@@ -1,0 +1,8 @@
+name = "easyeda-agent"
+description = "嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP."
+category = "mcp-servers"
+tags = ["agent-skill", "ai-agent", "claude-code", "dsh-plugin", "easyeda", "eda", "electronics", "golang"]
+repository = "https://github.com/zhoushoujianwork/easyeda-agent"
+website = "https://jlc-ext.com/item/zhoushoujian/easyeda-agent-connector"
+language = "Go"
+added = 2026-10-29

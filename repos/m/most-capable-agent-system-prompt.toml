@@ -1,0 +1,7 @@
+name = "most-capable-agent-system-prompt"
+description = "A copy-paste system prompt that has your coding agent (Claude Code, Codex, Cursor) build a self-improving agent system for any computer work."
+category = "skills-prompts"
+tags = ["agentic-ai", "ai-agents", "autonomous-agents", "claude-code", "codex", "cursor", "llm", "prompt-engineering"]
+repository = "https://github.com/fainir/most-capable-agent-system-prompt"
+license = "MIT"
+added = 2026-10-29

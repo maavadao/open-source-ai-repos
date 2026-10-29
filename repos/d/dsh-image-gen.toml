@@ -1,0 +1,9 @@
+name = "dsh-image-gen"
+description = "可在对话内生成、编辑、对比图像；内置 500 + 提示词、图库、多模型工作流，支持 ComfyUI。AI image studio for DeepSeek Harness — generate, edit & compare images in chat, with 500+ prompts, gallery, multi-model workflows and ComfyUI."
+category = "image"
+tags = ["ai-agent", "ai-image-generation-api", "comfyui", "deepseek", "deepseek-harness", "dsh-plugin", "gemini", "image-generation"]
+repository = "https://github.com/shanliuling/dsh-image-gen"
+website = "https://github.com/shanliuling/dsh-image-gen#readme"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-29

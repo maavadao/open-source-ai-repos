@@ -1,0 +1,8 @@
+name = "free-claude-code"
+description = "Use Claude Code for free in the terminal, VSCode extension, or via Discord"
+category = "other"
+tags = ["ai", "anthropic", "claude", "cli", "developer-tools", "open-source", "vscode"]
+repository = "https://github.com/Rishurajgautam24/free-claude-code"
+license = "MIT"
+language = "Python"
+added = 2026-10-29

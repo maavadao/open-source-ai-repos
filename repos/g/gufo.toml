@@ -1,0 +1,9 @@
+name = "gufo"
+description = "The Open Source Strix Halo AI engine. Qwen 3.8 Flash Next Q4_K_XL: 1,801.01 pp, 73.17 tg single user, 194.37 tok/s 8 users; Qwen 3.8 27B Q4_K_XL: 656.33pp, 70.56tg tok/s single user with DFlash2"
+category = "llm-apps"
+tags = ["amd", "gfx1151", "llm", "ryzen-ai", "strix-halo"]
+repository = "https://github.com/gufo-org/gufo"
+website = "https://gufo.blog"
+license = "MIT"
+language = "C++"
+added = 2026-10-29

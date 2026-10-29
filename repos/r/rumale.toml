@@ -1,0 +1,9 @@
+name = "rumale"
+description = "Rumale is a machine learning library in Ruby"
+category = "data-science"
+tags = ["artificial-intelligence", "data-analysis", "data-science", "machine-learning", "ml", "ruby", "rubyml"]
+repository = "https://github.com/yoshoku/rumale"
+website = "https://rubygems.org/gems/rumale"
+license = "BSD-3-Clause"
+language = "Ruby"
+added = 2026-10-29

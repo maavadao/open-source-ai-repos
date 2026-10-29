@@ -1,0 +1,9 @@
+name = "agentic-data-scientist"
+description = "An end-to-end Data Scientist"
+category = "agents"
+tags = ["agentic-ai", "data-science", "machine-learning"]
+repository = "https://github.com/K-Dense-AI/agentic-data-scientist"
+website = "https://k-dense.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-29

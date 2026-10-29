@@ -1,0 +1,9 @@
+name = "open-intelligent-ui"
+description = "An open-source take on ChatGPT's Intelligent UI: answers stream as interactive UI (maps, photos, charts, drawings and working tools). Built with OpenUI."
+category = "agents"
+tags = ["agents", "ai", "ai-agents", "ai-ui", "chat-ui", "chatgpt", "generative-ui", "intelligent-ui"]
+repository = "https://github.com/thesysdev/open-intelligent-ui"
+website = "https://www.openui.com/demo/intelligent-ui"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-29

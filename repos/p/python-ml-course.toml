@@ -1,0 +1,9 @@
+name = "python-ml-course"
+description = "Curso de Introducción a Machine Learning con Python"
+category = "data-science"
+tags = ["artificial-neural-networks", "data-science", "machine-learning", "python", "regression-models", "svm"]
+repository = "https://github.com/joanby/python-ml-course"
+website = "https://www.udemy.com/course/machinelearningpython/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-29

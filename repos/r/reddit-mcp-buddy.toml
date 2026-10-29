@@ -1,0 +1,9 @@
+name = "reddit-mcp-buddy"
+description = "Clean, LLM-optimized Reddit MCP server. Browse posts, search content, analyze users. No fluff, just Reddit data."
+category = "mcp-servers"
+tags = ["ai-assistant", "claude", "mcp", "mcp-server", "model-context-protocol", "reddit", "reddit-api", "typescript"]
+repository = "https://github.com/karanb192/reddit-mcp-buddy"
+website = "https://www.npmjs.com/package/reddit-mcp-buddy"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-29

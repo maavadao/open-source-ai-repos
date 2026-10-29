@@ -1,0 +1,9 @@
+name = "VTCode"
+description = "VT Code is an open-source Rust terminal coding agent."
+category = "agents"
+tags = ["agent", "agentclientprotocol", "agentplugins", "agentskills", "ai", "artificial-intelligence", "cargo", "cli"]
+repository = "https://github.com/vinhnx/VTCode"
+website = "https://vtcode.vinhnx.chatgpt.site/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-29

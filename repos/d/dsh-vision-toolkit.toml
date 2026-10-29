@@ -1,0 +1,9 @@
+name = "dsh-vision-toolkit"
+description = "[dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI."
+category = "vision"
+tags = ["agent-skills", "agent-vision-toolkit", "computer-vision", "deepseek", "deepseek-harness", "dsh", "dsh-plugin", "gui-automation"]
+repository = "https://github.com/Anionex/dsh-vision-toolkit"
+website = "https://agent-vision.anionex.me"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-29

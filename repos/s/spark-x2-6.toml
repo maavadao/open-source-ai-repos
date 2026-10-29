@@ -1,0 +1,8 @@
+name = "Spark-X2.6"
+description = "Spark-x2.6 open model series. Pushing the Limits of Agentic Capabilities in On-Device Models"
+category = "local-llms"
+tags = ["agent", "ai", "ai-agent", "ai-coding", "ai-model", "huggingface", "llamacpp", "llm"]
+repository = "https://github.com/XHToken/Spark-X2.6"
+website = "https://xhtoken.ai/"
+license = "Apache-2.0"
+added = 2026-10-29

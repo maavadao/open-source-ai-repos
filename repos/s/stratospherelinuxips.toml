@@ -1,0 +1,8 @@
+name = "StratosphereLinuxIPS"
+description = "Slips, a free software behavioral Python intrusion prevention system (IDS/IPS) that uses machine learning to detect malicious behaviors in the network traffic. Stratosphere Laboratory, AIC, FEL, CVUT in Prague."
+category = "ml-platforms"
+tags = ["ai", "docker", "endpoint-protection", "gsoc-2023", "gsoc-2024", "ids", "intrusion-detection-system", "intrusion-prevention-system"]
+repository = "https://github.com/stratosphereips/StratosphereLinuxIPS"
+license = "GPL-2.0"
+language = "Python"
+added = 2026-10-29

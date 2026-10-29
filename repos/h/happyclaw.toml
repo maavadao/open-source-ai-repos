@@ -1,0 +1,9 @@
+name = "happyclaw"
+description = "自托管、多用户、智能体优先的 Agent 工作台"
+category = "agents"
+tags = ["agent", "ai", "claude", "harness"]
+repository = "https://github.com/riba2534/happyclaw"
+website = "https://happyclaw.cc/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-29

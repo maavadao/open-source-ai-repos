@@ -1,0 +1,6 @@
+name = "awesome-llm"
+description = "A curated list of awesome LLM frameworks, libraries and software."
+category = "llm-apps"
+tags = ["ai", "awesome", "awesome-list", "curated-list", "large-language-models", "list", "llm", "resources"]
+repository = "https://github.com/uhub/awesome-llm"
+added = 2026-10-29

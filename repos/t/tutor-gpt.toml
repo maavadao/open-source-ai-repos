@@ -1,0 +1,9 @@
+name = "tutor-gpt"
+description = "AI tutor powered by Theory-of-Mind reasoning"
+category = "skills-prompts"
+tags = ["ai", "education", "hacktoberfest", "literacy", "machine-learning", "o1", "prompt-engineering", "reasoning"]
+repository = "https://github.com/plastic-labs/tutor-gpt"
+website = "https://discord.gg/plasticlabs"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-10-29

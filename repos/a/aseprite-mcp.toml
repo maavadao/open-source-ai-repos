@@ -1,0 +1,8 @@
+name = "aseprite-mcp"
+description = "MCP server for interacting with the Aseprite API"
+category = "mcp-servers"
+tags = ["animation", "art", "artificial-intelligence", "aseprite", "game-development", "mcp-server"]
+repository = "https://github.com/diivi/aseprite-mcp"
+license = "MIT"
+language = "Python"
+added = 2026-10-29

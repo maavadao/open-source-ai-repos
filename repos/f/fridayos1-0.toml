@@ -1,0 +1,9 @@
+name = "FridayOS1.0"
+description = "Local-first AI second brain & personal knowledge management: Six-Brain Markdown blueprint, Obsidian example vault, offline deployment and bilingual guides. 六脑方法 · 本地知识管理"
+category = "agents"
+tags = ["ai", "ai-agents", "fridayos", "human-ai-collaboration", "knowledge-management", "local-first", "markdown", "obsidian"]
+repository = "https://github.com/Robinson-AI-Lab/FridayOS1.0"
+website = "https://github.com/Robinson-AI-Lab/FridayOS1.0/blob/main/docs/DEPLOYMENT.md"
+license = "MIT"
+language = "Python"
+added = 2026-10-29

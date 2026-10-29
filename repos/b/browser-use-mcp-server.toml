@@ -1,0 +1,9 @@
+name = "browser-use-mcp-server"
+description = "Browse the web, directly from Cursor etc."
+category = "mcp-servers"
+tags = ["browser", "browser-use", "cursor", "mcp", "mcp-server", "playwright"]
+repository = "https://github.com/kontext-security/browser-use-mcp-server"
+website = "https://kontext.security"
+license = "MIT"
+language = "Python"
+added = 2026-10-29

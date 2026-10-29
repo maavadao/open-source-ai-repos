@@ -1,0 +1,9 @@
+name = "cloudroom"
+description = "cloudroom is the open-source platform to run 1,000+ agents productively"
+category = "skills-prompts"
+tags = ["ai-agents", "background-agents", "claude", "claude-code", "claude-code-cli", "cloud-agents", "cloudroom", "codex"]
+repository = "https://github.com/davidondrej/cloudroom"
+website = "https://www.cloudroom.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-29

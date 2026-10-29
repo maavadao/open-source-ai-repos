@@ -1,0 +1,9 @@
+name = "openflowkit"
+description = "Free, open-source diagram canvas. Draw it, write it as code (Mermaid, D2, Structurizr in), ask any AI model or a local one, let Claude Code edit it live over MCP, or map a GitHub repo with every arrow cited to a file and line. MIT, local-first, no account."
+category = "mcp-servers"
+tags = ["ai", "ai-agents", "architecture-diagrams", "cli", "code-to-diagram", "developer-tools", "diagramming", "diagrams-as-code"]
+repository = "https://github.com/openflowkit/openflowkit"
+website = "https://openflowkit.com/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-29

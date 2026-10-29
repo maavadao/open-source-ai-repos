@@ -1,0 +1,9 @@
+name = "copilot-prompts"
+description = "Examples of prompts for Microsoft Copilot"
+category = "skills-prompts"
+tags = ["github-copilot", "microsoft-copilot", "prompt-engineering", "prompt-toolkit", "prompts"]
+repository = "https://github.com/pnp/copilot-prompts"
+website = "https://pnp.github.io/copilot-prompts/"
+license = "MIT"
+language = "Astro"
+added = 2026-10-29

@@ -1,0 +1,8 @@
+name = "mcp-client-for-ollama"
+description = "Harness the power of local LLMs with this TUI MCP Client for Ollama. Featuring all core MCP primitives (tools, prompts, resources), agent mode, multi-server, model switching, streaming responses, human-in-the-loop, thinking mode, model params config, system prompts, and saved preferences."
+category = "mcp-servers"
+tags = ["agentic-ai", "ai", "command-line-tool", "harness", "linux", "local-llm", "macos", "mcp"]
+repository = "https://github.com/jonigl/mcp-client-for-ollama"
+license = "MIT"
+language = "Python"
+added = 2026-10-29

@@ -1,0 +1,9 @@
+name = "mcp-framework"
+description = "The Typescript MCP Framework"
+category = "mcp-servers"
+tags = ["anthropic", "claude", "framework", "genai", "llm", "llms", "mcp", "modelcontextprotocol"]
+repository = "https://github.com/QuantGeekDev/mcp-framework"
+website = "https://mcp-framework.com/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-29

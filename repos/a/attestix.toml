@@ -1,0 +1,9 @@
+name = "attestix"
+description = "AI agent identity, signed credentials, delegated authority and portable governance evidence. Python core and offline verifier SDKs."
+category = "agents"
+tags = ["agent-identity", "ai-agents", "attestation", "blockchain", "compliance", "delegation", "did", "ed25519"]
+repository = "https://github.com/VibeTensor/attestix"
+website = "https://attestix.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-29

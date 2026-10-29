@@ -1,0 +1,8 @@
+name = "next-devtools-mcp"
+description = "Next.js Development for Coding Agent"
+category = "mcp-servers"
+tags = ["coding-agents", "mcp", "mcp-server", "next-devtools", "nextjs"]
+repository = "https://github.com/vercel/next-devtools-mcp"
+website = "https://www.npmjs.com/package/next-devtools-mcp"
+language = "TypeScript"
+added = 2026-10-29

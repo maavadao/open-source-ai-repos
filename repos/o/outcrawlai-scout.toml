@@ -1,0 +1,9 @@
+name = "scout"
+description = "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository."
+category = "browser-automation"
+tags = ["ai-agent", "browser-agent", "browser-automation", "cdp", "llm", "typescript", "web-automation"]
+repository = "https://github.com/outcrawlai/scout"
+website = "https://outcrawl.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-29

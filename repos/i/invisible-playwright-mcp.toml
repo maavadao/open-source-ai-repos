@@ -1,0 +1,9 @@
+name = "invisible_playwright_mcp"
+description = "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use."
+category = "mcp-servers"
+tags = ["ai-tools", "antidetect-browser", "autonomous-agents", "browser-agent", "browser-automation", "claude-code-plugin", "computer-use", "gemini-cli"]
+repository = "https://github.com/feder-cr/invisible_playwright_mcp"
+website = "https://github.com/feder-cr/invisible_playwright_mcp/wiki"
+license = "MIT"
+language = "Python"
+added = 2026-10-29

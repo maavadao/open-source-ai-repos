@@ -1,0 +1,8 @@
+name = "Awesome-AI-Security"
+description = "Curated resources, research, and tools for securing AI systems"
+category = "other"
+tags = ["artificial-intelligence", "cybersecurity"]
+repository = "https://github.com/TalEliyahu/Awesome-AI-Security"
+website = "https://www.awesomeaisecurity.com/"
+license = "MIT"
+added = 2026-10-29

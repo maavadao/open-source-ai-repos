@@ -1,0 +1,8 @@
+name = "Merlin"
+description = "NVIDIA Merlin is an open source library providing end-to-end GPU-accelerated recommender systems, from feature engineering and preprocessing to training deep learning models and running inference in production."
+category = "ml-platforms"
+tags = ["deep-learning", "end-to-end", "gpu-acceleration", "machine-learning", "recommendation-system", "recommender-system"]
+repository = "https://github.com/NVIDIA-Merlin/Merlin"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-29

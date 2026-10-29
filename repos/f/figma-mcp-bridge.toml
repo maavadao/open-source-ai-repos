@@ -1,0 +1,8 @@
+name = "figma-mcp-bridge"
+description = "Figma Plugin & MCP server to bypass API limits"
+category = "mcp-servers"
+tags = ["design-to-code", "figma", "mcp", "mcp-server"]
+repository = "https://github.com/gethopp/figma-mcp-bridge"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-29

@@ -1,0 +1,9 @@
+name = "model_server"
+description = "A scalable inference server for models optimized with OpenVINO™"
+category = "local-llms"
+tags = ["ai", "cloud", "dag", "deep-learning", "edge", "genai", "inference", "kubernetes"]
+repository = "https://github.com/openvinotoolkit/model_server"
+website = "https://docs.openvino.ai/2026/model-server/ovms_what_is_openvino_model_server.html"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-29

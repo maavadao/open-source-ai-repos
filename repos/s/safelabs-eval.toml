@@ -1,0 +1,9 @@
+name = "safelabs-eval"
+description = "Red-teaming and evaluation framework for AI agents, built around an OWASP-inspired ASI01–ASI10 taxonomy"
+category = "llm-apps"
+tags = ["agent-security", "ai-safety", "crewai", "evaluation", "jailbreak", "langchain", "llm-security", "owasp"]
+repository = "https://github.com/AgentSafeLabs/safelabs-eval"
+website = "https://agentsafelabs.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-29

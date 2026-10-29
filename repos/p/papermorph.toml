@@ -1,0 +1,9 @@
+name = "Papermorph"
+description = "An AI skill that turns books into animated, narrated, interactive web experiences"
+category = "skills-prompts"
+tags = ["ai-agents", "ai-education", "animation", "claude", "claude-code", "claude-skills", "edtech", "education"]
+repository = "https://github.com/DozenTwelve/Papermorph"
+website = "https://papermorph.diamonddoge.org/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-29

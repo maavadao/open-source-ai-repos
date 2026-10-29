@@ -1,0 +1,9 @@
+name = "blender-plugin"
+description = "Scenario for Blender: AI images, video, 3D and PBR materials in the viewport, plus a local MCP server for agents. Blender 5.0+ extension, GPL-3.0-or-later."
+category = "mcp-servers"
+tags = ["3d-models", "agentic-ai", "ai-agents", "ai-art", "blender", "blender-addon", "blender-extension", "game-assets"]
+repository = "https://github.com/scenario-labs/blender-plugin"
+website = "https://blender.scenario.com/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-29

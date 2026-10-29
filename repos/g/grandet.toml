@@ -1,0 +1,8 @@
+name = "Grandet"
+description = "Find the cheapest API for any model and connect it from your AI agent: Grandet Skill and an anonymous MCP server, backed by listed prices from 1,800+ official, inference and relay providers on grandet.ai."
+category = "mcp-servers"
+tags = ["agent-skills", "ai", "ai-agents", "api-credits", "api-pricing", "api-relay", "claude-code", "codex"]
+repository = "https://github.com/hanzohanzhe/Grandet"
+website = "https://grandet.ai"
+language = "JavaScript"
+added = 2026-10-29
