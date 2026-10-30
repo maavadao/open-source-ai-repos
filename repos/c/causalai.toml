@@ -1,0 +1,9 @@
+name = "causalAI"
+description = "The open source repository for the Causal Modeling in Machine Learning Workshop at Altdeep.ai @ www.altdeep.ai/courses/causalAI"
+category = "ml-platforms"
+tags = ["causality", "machine-learning"]
+repository = "https://github.com/altdeep/causalAI"
+website = "https://www.altdeep.ai/courses/causalAI"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-30

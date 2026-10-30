@@ -1,0 +1,8 @@
+name = "GhidrAssistMCP"
+description = "An native MCP server extension for Ghidra"
+category = "mcp-servers"
+tags = ["ghidra", "ghidra-extension", "ghidra-plugin", "llm", "mcp", "mcp-server", "reverse-engineering"]
+repository = "https://github.com/symgraph/GhidrAssistMCP"
+license = "MIT"
+language = "Java"
+added = 2026-10-30

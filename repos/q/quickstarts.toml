@@ -1,0 +1,9 @@
+name = "quickstarts"
+description = "Dapr quickstarts and tutorials: runnable C#, Go, Java, JavaScript and Python code for Dapr Workflow (durable execution), durable AI agents, pub/sub, state, actors, service invocation, jobs, bindings and more."
+category = "agents"
+tags = ["ai-agents", "cloud-native", "cncf", "dapr", "dapr-workflow", "dotnet", "durable-agents", "durable-execution"]
+repository = "https://github.com/dapr/quickstarts"
+website = "https://docs.dapr.io/getting-started/quickstarts/"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-10-30

@@ -1,0 +1,9 @@
+name = "MASCOT"
+description = "EMNLP 2026 Main Conference Paper: MASCOT: Towards Multi-Agent Socio-Collaborative Companion Systems (https://aclanthology.org/2026.emnlp-main.878/))"
+category = "agents"
+tags = ["ai", "chatbot", "companion-ai", "llm", "llm-agents", "llms", "ml", "multi-agent"]
+repository = "https://github.com/hello-diana/MASCOT"
+website = "https://hello-diana.github.io/MASCOT/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-30

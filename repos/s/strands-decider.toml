@@ -1,0 +1,9 @@
+name = "strands-decider"
+description = "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision."
+category = "ml-platforms"
+tags = ["ai", "machine-learning", "natural-language-understanding", "python", "strands-agents", "strands-labs", "system-one", "system-one-models"]
+repository = "https://github.com/strands-labs/strands-decider"
+website = "https://strandsagents.com/docs/labs/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-30

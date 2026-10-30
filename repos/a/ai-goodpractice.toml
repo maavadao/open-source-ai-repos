@@ -1,0 +1,6 @@
+name = "ai_goodpractice"
+description = "full guide to help you integrate AI in your workflow, for both beginners and experienced users"
+category = "coding"
+tags = ["ai", "ai-agent", "ai-agents", "ai-coding", "ai-model", "ai-safety", "ai-tools", "guide"]
+repository = "https://github.com/xop01/ai_goodpractice"
+added = 2026-10-30

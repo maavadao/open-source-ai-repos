@@ -1,0 +1,8 @@
+name = "awesome-chatgpt-dataset"
+description = "Unlock the Power of LLM: Explore These Datasets to Train Your Own ChatGPT!"
+category = "chat"
+tags = ["awesome", "chatgpt", "dataset", "gpt4", "instructions"]
+repository = "https://github.com/voidful/awesome-chatgpt-dataset"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-30

@@ -1,0 +1,6 @@
+name = "awesome-ai-summerschool"
+description = "An awesome list of summer schools on Artificial Intelligence, Machine Learning, and Healthcare"
+category = "ml-platforms"
+tags = ["artificial-intelligence", "courses", "deep-learning", "machine-learning", "summer-school"]
+repository = "https://github.com/hazratali/awesome-ai-summerschool"
+added = 2026-10-30

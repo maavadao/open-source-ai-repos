@@ -1,0 +1,8 @@
+name = "ai-shortVideo-pipeline"
+description = "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue."
+category = "skills-prompts"
+tags = ["ai", "ai-pipeline", "circuit-breaker", "clip-model", "deepseek", "docker-compose", "failover", "fastapi"]
+repository = "https://github.com/myccarl/ai-shortVideo-pipeline"
+license = "MIT"
+language = "Python"
+added = 2026-10-30

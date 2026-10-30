@@ -1,0 +1,8 @@
+name = "numasec"
+description = "The AI Agent for Cyber Security."
+category = "llm-apps"
+tags = ["ai-agent", "ai-security", "appsec", "bug-bounty", "cli", "cybersecurity", "dast", "devsecops"]
+repository = "https://github.com/FrancescoStabile/numasec"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-30

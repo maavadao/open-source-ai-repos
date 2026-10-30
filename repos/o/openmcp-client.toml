@@ -1,0 +1,9 @@
+name = "openmcp-client"
+description = "All in one vscode plugin for mcp developer"
+category = "mcp-servers"
+tags = ["ai-agent", "llm", "mcp"]
+repository = "https://github.com/LSTM-Kirigaya/openmcp-client"
+website = "https://kirigaya.cn/openmcp"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-30

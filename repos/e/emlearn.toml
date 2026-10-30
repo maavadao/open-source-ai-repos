@@ -1,0 +1,8 @@
+name = "emlearn"
+description = "Machine Learning inference engine for Microcontrollers and Embedded devices"
+category = "local-llms"
+tags = ["c", "classifier", "embedded-systems", "inference", "keras", "machine-learning", "microcontroller", "neural-networks"]
+repository = "https://github.com/emlearn/emlearn"
+license = "MIT"
+language = "Python"
+added = 2026-10-30

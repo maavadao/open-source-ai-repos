@@ -1,0 +1,9 @@
+name = "doubleml-for-py"
+description = "DoubleML - Double Machine Learning in Python"
+category = "data-science"
+tags = ["causal-inference", "data-science", "double-machine-learning", "econometrics", "machine-learning", "python", "scikit-learn", "statistics"]
+repository = "https://github.com/DoubleML/doubleml-for-py"
+website = "https://docs.doubleml.org"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-30

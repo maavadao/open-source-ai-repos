@@ -1,0 +1,9 @@
+name = "AgenticX"
+description = "AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical memory, avatar & group chat, skill ecosystem, safety sandbox, and IM gateway (Feishu/WeChat)."
+category = "mcp-servers"
+tags = ["agent-framework", "agentic-workflows", "ai-agent", "ai-orchestration", "chatbot", "desktop-app", "electron", "fastapi"]
+repository = "https://github.com/DemonDamon/AgenticX"
+website = "https://www.agxbuilder.com/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-30

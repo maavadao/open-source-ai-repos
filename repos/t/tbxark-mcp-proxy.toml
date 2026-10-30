@@ -1,0 +1,9 @@
+name = "mcp-proxy"
+description = "An MCP proxy server that aggregates and serves multiple MCP resource servers through a single HTTP server."
+category = "mcp-servers"
+tags = ["claude", "mcp", "mcp-client", "mcp-server", "modelcontextprotocol"]
+repository = "https://github.com/tbxark/mcp-proxy"
+website = "https://tbxark.github.io/mcp-proxy/"
+license = "MIT"
+language = "Go"
+added = 2026-10-30

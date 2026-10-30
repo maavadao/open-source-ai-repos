@@ -1,0 +1,9 @@
+name = "pytorch-frame"
+description = "Tabular Deep Learning Library for PyTorch"
+category = "ml-platforms"
+tags = ["data-frame", "deep-learning", "pytorch", "tabular-learning"]
+repository = "https://github.com/pyg-team/pytorch-frame"
+website = "https://pytorch-frame.readthedocs.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-30

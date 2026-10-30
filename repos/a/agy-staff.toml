@@ -1,0 +1,8 @@
+name = "agy-staff"
+description = "Hire Google's Antigravity CLI (agy) as a fast Gemini staffer for Claude Code and OpenAI Codex."
+category = "skills-prompts"
+tags = ["agent-evaluation", "agentic-ai", "ai-agents", "antigravity", "antigravity-cli", "benchmark", "claude-code", "claude-code-plugin"]
+repository = "https://github.com/keli-wen/agy-staff"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-30

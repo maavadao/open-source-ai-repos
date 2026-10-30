@@ -1,0 +1,8 @@
+name = "big-arrow-on-the-screen"
+description = "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT."
+category = "skills-prompts"
+tags = ["accessibility", "ai-agents", "claude-code", "cli", "codex", "macos", "swift"]
+repository = "https://github.com/franzenzenhofer/big-arrow-on-the-screen"
+license = "MIT"
+language = "Swift"
+added = 2026-10-30

@@ -1,0 +1,8 @@
+name = "langgraph-course"
+description = "Hands-on LangGraph course repo for building production-grade LLM agents with Agentic RAG, ReAct, and reflection workflows."
+category = "llm-apps"
+tags = ["agentic-rag", "langchain", "langgraph", "reflection"]
+repository = "https://github.com/emarco177/langgraph-course"
+website = "https://www.udemy.com/course/langchain/"
+license = "Apache-2.0"
+added = 2026-10-30

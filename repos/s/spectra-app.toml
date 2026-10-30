@@ -1,0 +1,7 @@
+name = "spectra-app"
+description = "Spec-driven development for coding agents — a desktop app, a CLI, and skills for Codex, Claude Code, Cursor, Copilot, Antigravity and Junie"
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "cli", "codex", "coding-agents", "developer-tools", "sdd", "spec-driven-development"]
+repository = "https://github.com/kaochenlong/spectra-app"
+language = "TypeScript"
+added = 2026-10-30

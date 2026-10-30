@@ -1,0 +1,9 @@
+name = "FofaMap"
+description = "一款证据驱动的 FOFA 资产测绘智能体：支持自然语言侦察、AI 反思、CLI / MCP / Skill / REST API，以及经人工审批的 Nuclei 扫描。"
+category = "mcp-servers"
+tags = ["ai-agent", "asset-discovery", "asset-mapping", "attack-surface-management", "cybersecurity", "fastapi", "fofa", "fofa-api"]
+repository = "https://github.com/asaotomo/FofaMap"
+website = "https://www.hx0.store/products/fofamap"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-30

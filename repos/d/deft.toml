@@ -1,0 +1,9 @@
+name = "Deft"
+description = "Self-hostable AGPL workspace where humans and AI agents share chat, tasks, knowledge, approvals, and MCP context."
+category = "mcp-servers"
+tags = ["agent-platform", "agpl", "ai-agents", "ai-workspace", "byoa", "chat", "claude", "drizzle-orm"]
+repository = "https://github.com/Maneek21/Deft"
+website = "https://deft.ing"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-30

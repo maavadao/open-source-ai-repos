@@ -1,0 +1,9 @@
+name = "academic-commercialization-agent"
+description = "AI multi-agent tool that turns research papers into cited commercialization and tech-transfer assessments: TRL, patent landscape, market and risks. CrewAI + FastAPI, with a reproducible benchmark."
+category = "agents"
+tags = ["academic-research", "ai-agent", "ai-agents", "checkpointing", "commercialization", "crewai", "docker", "fastapi"]
+repository = "https://github.com/shuxiachai/academic-commercialization-agent"
+website = "https://academic-commercialization-agent.up.railway.app"
+license = "MIT"
+language = "Python"
+added = 2026-10-30

@@ -1,0 +1,9 @@
+name = "bla"
+description = "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate."
+category = "skills-prompts"
+tags = ["adversarial-ai", "claude-code", "cursor", "electron-security", "llm-security", "mcp", "mcp-server", "obfuscation"]
+repository = "https://github.com/qybaihe/bla"
+website = "https://bla.tools"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-30

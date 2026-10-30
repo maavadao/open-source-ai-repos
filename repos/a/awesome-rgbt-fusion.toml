@@ -1,0 +1,6 @@
+name = "Awesome-RGBT-Fusion"
+description = "A collection of deep learning based RGB-T-Fusion methods, codes, and datasets. The main directions involved are Multispectral Pedestrian Detection, RGB-T Aerial Object Detection, RGB-T Semantic Segmentation, RGB-T Crowd Counting, RGB-T Fusion Tracking."
+category = "ml-platforms"
+tags = ["deep-learning", "feature-fusion", "multispectral-pedestrian-detection", "papers", "rgb-t", "rgb-t-aerial-object-detection", "rgbt-crowd-counting", "rgbt-pedestrian-detection"]
+repository = "https://github.com/yuanmaoxun/Awesome-RGBT-Fusion"
+added = 2026-10-30

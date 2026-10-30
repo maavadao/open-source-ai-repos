@@ -1,0 +1,9 @@
+name = "Orbital"
+description = "Context is yours. Agents are replaceable."
+category = "agents"
+tags = ["agent", "agent-framework", "agent-management", "agent-memory", "agent-orchestration", "agents", "ai-agent", "autonomous-agents"]
+repository = "https://github.com/zqiren/Orbital"
+website = "https://orbital.top/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-10-30

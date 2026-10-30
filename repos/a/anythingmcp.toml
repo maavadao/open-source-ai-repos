@@ -1,0 +1,9 @@
+name = "anythingmcp"
+description = "MCP gateway for AI agents: turn any REST/OpenAPI, GraphQL, SOAP or SQL API into MCP tools. 564 ready-made connectors (SAP, ERP, e-commerce) with RBAC, SSO, audit logs and a knowledge graph."
+category = "mcp-servers"
+tags = ["agents", "ai-agents", "ai-gateway", "api-gateway", "chatgpt", "claude", "ecommerce", "erp"]
+repository = "https://github.com/HelpCode-ai/anythingmcp"
+website = "https://anythingmcp.com"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-30

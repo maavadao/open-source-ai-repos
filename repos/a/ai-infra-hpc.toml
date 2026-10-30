@@ -1,0 +1,9 @@
+name = "ai-infra-hpc"
+description = "hpc 教程，包含集合通信(mpi、nccl)、cuda 编程、向量化 SIMD、RDMA 通信等"
+category = "llm-apps"
+tags = ["ai", "ai-infra", "deep-learning", "hpc", "llm"]
+repository = "https://github.com/jinbooooom/ai-infra-hpc"
+website = "https://github.com/jinbooooom/ai-infra-hpc"
+license = "MIT"
+language = "Cuda"
+added = 2026-10-30

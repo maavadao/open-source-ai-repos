@@ -1,0 +1,9 @@
+name = "TREK"
+description = "The most complete open-source travel planner: real-time collaboration, bookings, budgets, packing lists, journals, offline PWA, SSO and an AI-ready MCP server, with planet-wide place search and routing built in."
+category = "mcp-servers"
+tags = ["budget-tracker", "collaborative", "docker", "itinerary", "mcp-server", "offline-first", "open-source", "openstreetmap"]
+repository = "https://github.com/liketrek/TREK"
+website = "https://demo.liketrek.com"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-30

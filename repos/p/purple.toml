@@ -1,0 +1,9 @@
+name = "purple"
+description = "Free, open-source terminal SSH manager and SSH config editor in Rust for macOS and Linux that keeps ~/.ssh/config in sync with 18 cloud providers, monitors live SSH tunnels and manages Docker and Podman containers fleet-wide. Plus scp, Vault SSH certs and an MCP server for AI agents."
+category = "mcp-servers"
+tags = ["cli", "cloud-sync", "devops", "docker", "hashicorp-vault", "homelab", "mcp", "podman"]
+repository = "https://github.com/erickochen/purple"
+website = "https://getpurple.sh"
+license = "MIT"
+language = "Rust"
+added = 2026-10-30

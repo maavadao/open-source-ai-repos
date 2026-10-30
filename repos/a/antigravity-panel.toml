@@ -1,0 +1,9 @@
+name = "antigravity-panel"
+description = "Quota monitor & cache manager for Google Antigravity IDE: Gemini/Claude/GPT quota and weekly limits, usage trends with runway prediction, conversation context window monitor, Brain/Code Tracker cache cleanup, auto-accept mode, AI commit message generator. 15 languages."
+category = "other"
+tags = ["ai-coding-tools", "antigravity", "antigravity-ide", "antigravity-quota", "antigravity-tools", "cache-manager", "claude", "commit-message-generator"]
+repository = "https://github.com/n2ns/antigravity-panel"
+website = "https://n2ns.com/projects/antigravity-panel"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-30

@@ -1,0 +1,9 @@
+name = "cartcut"
+description = "Video Editor for AI agents, built on the belief that open source can beat commercial tools"
+category = "other"
+tags = ["electron", "ffmpeg", "lit", "macos-app", "mcp", "typescript", "video-editor"]
+repository = "https://github.com/cartesiancs/cartcut"
+website = "https://cartesiancs.com/cartcut"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-30

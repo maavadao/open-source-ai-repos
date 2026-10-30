@@ -1,0 +1,9 @@
+name = "yahoo-finance2"
+description = "Unofficial API for Yahoo Finance with CLI, MCP and Agent Skill"
+category = "mcp-servers"
+tags = ["agent-skill", "finance", "mcp-server", "yahoo", "yahoo-finance"]
+repository = "https://github.com/gadicc/yahoo-finance2"
+website = "https://www.npmjs.com/package/yahoo-finance2"
+license = "MIT"
+language = "HTML"
+added = 2026-10-30

@@ -1,0 +1,9 @@
+name = "agent-desktop"
+description = "Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels."
+category = "agents"
+tags = ["accessibility", "accessibility-api", "ai-agents", "automation", "cli", "computer-use", "computer-use-agent", "computer-use-agents"]
+repository = "https://github.com/vercel-labs/agent-desktop"
+website = "https://agent-desktop-ten.labs.vercel.dev"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-30

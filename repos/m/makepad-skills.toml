@@ -1,0 +1,6 @@
+name = "makepad-skills"
+description = "Build App with Makepad and AI skills"
+category = "skills-prompts"
+tags = ["app", "claude", "claude-code", "cross-platform", "makepad", "rust", "skills"]
+repository = "https://github.com/ZhangHanDong/makepad-skills"
+added = 2026-10-30

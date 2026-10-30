@@ -1,0 +1,8 @@
+name = "stringsifter"
+description = "A machine learning tool that ranks strings based on their relevance for malware analysis."
+category = "ml-platforms"
+tags = ["fireeye-data-science", "fireeye-flare", "learning-to-rank", "machine-learning", "malware-analysis", "reverse-engineering", "strings"]
+repository = "https://github.com/mandiant/stringsifter"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-30

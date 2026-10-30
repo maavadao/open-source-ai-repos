@@ -1,0 +1,9 @@
+name = "textfold"
+description = "Fold papers, web pages, files, and AI replies into five levels of detail. Zoom from an overview to the original text."
+category = "llm-apps"
+tags = ["arxiv", "llm", "local-first", "open-source", "paper-reader", "research-papers", "semantic-zoom", "translation"]
+repository = "https://github.com/chenxiachan/textfold"
+website = "https://chenxiachan.github.io/textfold/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-30

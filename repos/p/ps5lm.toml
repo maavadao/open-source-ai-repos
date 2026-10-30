@@ -1,0 +1,9 @@
+name = "PS5LM"
+description = "llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8"
+category = "local-llms"
+tags = ["homebrew", "llama-cpp", "llm", "playstation-5", "ps5", "qwen"]
+repository = "https://github.com/cobanov/PS5LM"
+website = "https://ps5lm.cobanov.dev"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-10-30

@@ -1,0 +1,8 @@
+name = "ok-script"
+description = "Python Automation Framework for MCP development"
+category = "mcp-servers"
+tags = ["ai", "automation", "computervision", "game", "mcp", "python"]
+repository = "https://github.com/ok-oldking/ok-script"
+website = "https://ok-script.com/"
+language = "Python"
+added = 2026-10-30

@@ -1,0 +1,8 @@
+name = "dmol-book"
+description = "Deep learning for molecules and materials book"
+category = "ml-platforms"
+tags = ["chemistry", "deep-learning", "materials-informatics"]
+repository = "https://github.com/whitead/dmol-book"
+website = "https://dmol.pub"
+language = "Jupyter Notebook"
+added = 2026-10-30

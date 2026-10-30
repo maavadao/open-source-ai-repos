@@ -1,0 +1,9 @@
+name = "PINA"
+description = "Physics-Informed Neural networks for Advanced modeling"
+category = "ml-platforms"
+tags = ["deep-learning", "differential-equations", "equation-learning", "hacktoberfest", "lightining", "machine-learning", "modeling", "neural-networks"]
+repository = "https://github.com/PINA-org/PINA"
+website = "https://pina-org.github.io/PINA/"
+license = "MIT"
+language = "Python"
+added = 2026-10-30

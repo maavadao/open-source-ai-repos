@@ -1,0 +1,8 @@
+name = "formae"
+description = "Open-source Infrastructure As Code that starts from what already runs. formae discovers your estate, versions drift and hands back current code. A Terraform and Pulumi alternative built on Pkl, with an MCP server for AI agents."
+category = "mcp-servers"
+tags = ["aws", "azure", "devops", "drift-detection", "gcp", "gitops", "golang", "iac"]
+repository = "https://github.com/platform-engineering-labs/formae"
+website = "https://formae.ai/formae-iac"
+language = "Go"
+added = 2026-10-30

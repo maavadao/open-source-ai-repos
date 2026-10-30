@@ -1,0 +1,8 @@
+name = "agent-notifications"
+description = "🔔 Cross-platform smart notifications for Claude/Codex/OpenCode/Cursor/Gemini/Qoder. Desktop alerts, sounds, click-to-focus, and webhooks. macOS, Linux, and Windows."
+category = "skills-prompts"
+tags = ["agent-notifications", "claude", "claude-code", "codex", "codex-cli", "cross-platform", "cursor", "developer-tools"]
+repository = "https://github.com/777genius/agent-notifications"
+website = "https://agent-notifications.com"
+language = "Go"
+added = 2026-10-30

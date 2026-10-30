@@ -1,0 +1,7 @@
+name = "Time-Series-Forecasting-and-Deep-Learning"
+description = "Resources about time series forecasting and deep learning."
+category = "data-science"
+tags = ["data-science", "deep-learning", "forecasting", "machine-learning", "series-data", "series-forecasting", "time-series", "time-series-forecasting"]
+repository = "https://github.com/DaoSword/Time-Series-Forecasting-and-Deep-Learning"
+language = "Python"
+added = 2026-10-30

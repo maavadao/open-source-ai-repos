@@ -1,0 +1,9 @@
+name = "hex"
+description = "Local-first voice dictation for macOS. Hold a shortcut, speak, and paste into any app. Native Rust, on-device speech recognition, and a Linux beta."
+category = "speech"
+tags = ["dictation", "linux", "local-first", "macos", "rust", "speech-recognition", "speech-to-text", "voice-control"]
+repository = "https://github.com/anomalyco/hex"
+website = "https://anoma.ly/hex"
+license = "MIT"
+language = "Rust"
+added = 2026-10-30

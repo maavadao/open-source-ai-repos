@@ -1,0 +1,8 @@
+name = "TrenTorch"
+description = "Don't memorize ML. Understand it from first principles including Inference, Cuda, Deep Learning, Data Science and Reinforcement Learning"
+category = "local-llms"
+tags = ["cli", "cuda", "deep-learning", "education", "engineering", "from-scratch", "inference", "leetcode-alternative"]
+repository = "https://github.com/TrenTorch/TrenTorch"
+website = "https://trentorch.com"
+language = "Python"
+added = 2026-10-30

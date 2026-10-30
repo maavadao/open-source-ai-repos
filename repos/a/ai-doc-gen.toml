@@ -1,0 +1,8 @@
+name = "ai-doc-gen"
+description = "AI-powered multi-agent system that automatically analyzes codebases and generates comprehensive documentation. Features GitLab integration, concurrent processing, and multiple LLM support for better code understanding and developer onboarding."
+category = "agents"
+tags = ["agent", "ai", "ai-documentation", "claude", "claude-code-plugin", "claude-code-skill", "code-analysis", "documentation"]
+repository = "https://github.com/divar-ir/ai-doc-gen"
+license = "MIT"
+language = "Python"
+added = 2026-10-30

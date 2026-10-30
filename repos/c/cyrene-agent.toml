@@ -1,0 +1,9 @@
+name = "Cyrene-Agent"
+description = "一款开源、基于昔涟开发的桌面 AI 智能体/An open-source desktop AI agent based on Cyrene."
+category = "agents"
+tags = ["agent", "ai-agent", "ai-assistants", "ai-companion", "ai-memory", "cyrene", "desktop-app", "desktop-assistant"]
+repository = "https://github.com/Playa-Cyrene/Cyrene-Agent"
+website = "https://playaagentcyrene.online/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-30

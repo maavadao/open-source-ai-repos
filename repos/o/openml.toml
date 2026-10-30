@@ -1,0 +1,9 @@
+name = "OpenML"
+description = "Open Machine Learning"
+category = "ml-platforms"
+tags = ["citizen-scientists", "collaboration", "datasets", "hacktoberfest", "machine-learning", "open-science", "opendata", "science"]
+repository = "https://github.com/openml/OpenML"
+website = "https://openml.org"
+license = "BSD-3-Clause"
+language = "PHP"
+added = 2026-10-30

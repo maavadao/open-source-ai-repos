@@ -1,0 +1,9 @@
+name = "ai-system-design"
+description = "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step."
+category = "agents"
+tags = ["ai", "ai-agents", "ai-engineering", "ai-system", "ai-system-design", "ai-systems", "ai-systems-design", "llm"]
+repository = "https://github.com/amitshekhariitbhu/ai-system-design"
+website = "https://outcomeschool.com/program/ai-and-machine-learning"
+license = "Apache-2.0"
+language = "Markdown"
+added = 2026-10-30

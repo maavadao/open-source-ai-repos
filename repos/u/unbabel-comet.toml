@@ -1,0 +1,9 @@
+name = "COMET"
+description = "A Neural Framework for MT Evaluation"
+category = "ml-platforms"
+tags = ["artificial-intelligence", "evaluation-metrics", "machine-learning", "machine-translation", "natural-language-processing", "nlp"]
+repository = "https://github.com/Unbabel/COMET"
+website = "https://unbabel.github.io/COMET/html/index.html"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-30

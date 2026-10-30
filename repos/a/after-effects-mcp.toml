@@ -1,0 +1,8 @@
+name = "after-effects-mcp"
+description = "MCP Server for Adobe After Effects. Enables remote control (compositions, text, shapes, solids, properties) via the Model Context Protocol using ExtendScript."
+category = "mcp-servers"
+tags = ["after-effects", "ai", "automation", "javascript", "mcp", "model-context-protocol", "motion-graphics", "nodejs"]
+repository = "https://github.com/Dakkshin/after-effects-mcp"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-30

@@ -1,0 +1,9 @@
+name = "EchoBird"
+description = "All-in-one AI desktop app: one-click install for Claude Code, Codex CLI, DeepSeek and more, manage AI accounts and quotas, smart model routing with auto-failover, voice input, and run local LLMs. Bonus: a Token Pet that grows as you use AI."
+category = "skills-prompts"
+tags = ["ai-assistants", "ai-tools", "all-in-one", "chatgpt", "claude-code", "codex-cli", "deepseek", "deepseek-harness"]
+repository = "https://github.com/edison7009/EchoBird"
+website = "https://EchoBird.ai"
+license = "MIT"
+language = "Rust"
+added = 2026-10-30

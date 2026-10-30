@@ -1,0 +1,9 @@
+name = "neoml"
+description = "Machine learning framework for both deep learning and traditional algorithms"
+category = "ml-platforms"
+tags = ["cpp", "deep-learning", "machine-learning", "ml", "neural-network", "onnx"]
+repository = "https://github.com/neoml-lib/neoml"
+website = "https://www.abbyy.com/neoml/"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-30

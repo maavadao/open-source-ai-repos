@@ -1,0 +1,8 @@
+name = "trump-code"
+description = "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source"
+category = "ml-platforms"
+tags = ["ai", "brute-force", "machine-learning", "open-data", "polymarket", "prediction", "signal-analysis", "stock-market"]
+repository = "https://github.com/sstklen/trump-code"
+license = "MIT"
+language = "Python"
+added = 2026-10-30

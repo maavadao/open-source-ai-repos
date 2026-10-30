@@ -1,0 +1,9 @@
+name = "MasterAgent"
+description = "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency."
+category = "llm-apps"
+tags = ["agent-framework", "ai-agent", "automotive", "edge-ai", "embedded", "iot", "llm", "npu"]
+repository = "https://github.com/OpenSparX/MasterAgent"
+website = "https://www.opensparx.ai"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-10-30

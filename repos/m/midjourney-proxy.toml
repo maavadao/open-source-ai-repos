@@ -1,0 +1,9 @@
+name = "midjourney-proxy"
+description = "🦄 The world's most complete open-source Midjourney API — Discord, YouChuan and the official site behind one HTTP interface, 1M+ images per day."
+category = "chat"
+tags = ["chatgpt", "face-swap", "gemini", "insightface", "mcp", "midjourney", "midjourney-api", "midjourney-api-bot"]
+repository = "https://github.com/trueai-org/midjourney-proxy"
+website = "https://ai.trueai.org"
+license = "GPL-3.0"
+language = "C#"
+added = 2026-10-30

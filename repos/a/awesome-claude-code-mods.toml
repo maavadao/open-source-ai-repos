@@ -1,0 +1,9 @@
+name = "awesome-claude-code-mods"
+description = "6,000+ Claude Code mods, with what each one can access before you install it. Context and usage meters, prompt cache warmers, status lines, guards and more, with install hints."
+category = "skills-prompts"
+tags = ["anthropic", "awesome", "awesome-list", "claude", "claude-code", "claude-code-hooks", "claude-code-mod", "claude-code-mods"]
+repository = "https://github.com/karanb192/awesome-claude-code-mods"
+website = "https://mods.aidojo.si/"
+license = "CC0-1.0"
+language = "JavaScript"
+added = 2026-10-30

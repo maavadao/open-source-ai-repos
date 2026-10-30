@@ -1,0 +1,9 @@
+name = "laya"
+description = "Laya is an open-source, local-first AI notification command center that aggregates Slack, Gmail, GitHub, Jira, Notion, Outlook, Calendar (and more) notifications using local LLMs via Ollama and LM Studio. Supports cloud models via BYOK."
+category = "local-llms"
+tags = ["ai", "ai-agents", "automation", "byok", "lmstudio", "local-first", "local-first-ai", "localai"]
+repository = "https://github.com/aayushch/laya"
+website = "https://laya.aay.sh"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-30

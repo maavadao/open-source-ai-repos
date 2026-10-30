@@ -1,0 +1,7 @@
+name = "android-remote-control-mcp"
+description = "An MCP Server for Android running on the phone, optmized for token usage, supports also files downloads and cloudflare and ngrok automated tunnelling."
+category = "mcp-servers"
+tags = ["android", "android-phone", "mcp", "mcp-server", "mobile", "mobile-control", "mobile-mcp", "mobile-remote"]
+repository = "https://github.com/danielealbano/android-remote-control-mcp"
+language = "Kotlin"
+added = 2026-10-30

@@ -1,0 +1,9 @@
+name = "elementor-mcp"
+description = "WordPress MCP server with 234 Free tools and 547 total with Pro for building pages, managing content, and operating your site. Availability depends on installed integrations and enabled tools."
+category = "mcp-servers"
+tags = ["elementor", "mcp-server", "wordpress", "wordpress-plugin"]
+repository = "https://github.com/msrbuilds/elementor-mcp"
+website = "https://emcptools.com"
+license = "GPL-2.0"
+language = "PHP"
+added = 2026-10-30

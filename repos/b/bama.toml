@@ -1,0 +1,8 @@
+name = "bama"
+description = "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "app-clone", "claude-code", "claude-code-plugin", "codex", "computer-use", "liquid-glass"]
+repository = "https://github.com/daveebbelaar/bama"
+license = "MIT"
+language = "Swift"
+added = 2026-10-30

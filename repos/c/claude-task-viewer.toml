@@ -1,0 +1,8 @@
+name = "claude-task-viewer"
+description = "A web-based Kanban board for viewing Claude Code tasks"
+category = "skills-prompts"
+tags = ["anthropic", "claude", "claude-code", "cli", "developer-tools", "kanban", "nodejs", "task-management"]
+repository = "https://github.com/L1AD/claude-task-viewer"
+license = "MIT"
+language = "HTML"
+added = 2026-10-30

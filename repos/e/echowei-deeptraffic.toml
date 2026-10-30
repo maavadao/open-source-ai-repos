@@ -1,0 +1,8 @@
+name = "DeepTraffic"
+description = "Deep Learning models for network traffic classification"
+category = "ml-platforms"
+tags = ["cnn-model", "deep-learning", "encrypted-traffic", "lstm-model", "malware-analysis", "traffic-analysis", "traffic-classification"]
+repository = "https://github.com/echowei/DeepTraffic"
+license = "MPL-2.0"
+language = "Python"
+added = 2026-10-30

@@ -1,0 +1,9 @@
+name = "dapr-agents"
+description = "Build durable, autonomous, resilient and observable AI agents with built-in workflow orchestration, security, statefulness and telemetry."
+category = "agents"
+tags = ["agentic-workflows", "agents", "agents-as-tools", "agents-llm", "ai-agents", "dapr", "dapr-pubsub", "dapr-state-store"]
+repository = "https://github.com/dapr/dapr-agents"
+website = "https://docs.dapr.io/developing-applications/dapr-agents/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-30

@@ -1,0 +1,8 @@
+name = "jadx-mcp-server"
+description = "MCP server for JADX-AI Plugin"
+category = "mcp-servers"
+tags = ["ai", "android-hacking", "android-reverse-engineering", "application-security", "llm", "mcp", "mcp-server", "mcp-servers"]
+repository = "https://github.com/zinja-coder/jadx-mcp-server"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-30

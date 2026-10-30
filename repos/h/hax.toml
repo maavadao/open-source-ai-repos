@@ -1,0 +1,9 @@
+name = "hax"
+description = "A minimalist, terminal-native coding agent written in C."
+category = "local-llms"
+tags = ["ai-agent", "anthropic", "c", "cli", "coding-agent", "coding-assistant", "llama-cpp", "llm"]
+repository = "https://github.com/OleksandrChekhovskyi/hax"
+website = "https://usehax.dev"
+license = "MIT"
+language = "C"
+added = 2026-10-30

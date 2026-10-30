@@ -1,0 +1,9 @@
+name = "trypost"
+description = "Open-source social media scheduler built for AI agents and the teams behind them. Create, schedule and publish posts to every network through MCP or the REST API, or write them yourself in a composer your team will love."
+category = "mcp-servers"
+tags = ["ai-agents", "bluesky", "facebook", "instagram", "laravel", "linkedin", "mastodon", "mcp"]
+repository = "https://github.com/trypostit/trypost"
+website = "https://trypost.it"
+license = "AGPL-3.0"
+language = "PHP"
+added = 2026-10-30

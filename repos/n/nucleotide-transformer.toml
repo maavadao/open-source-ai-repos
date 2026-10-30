@@ -1,0 +1,7 @@
+name = "nucleotide-transformer"
+description = "Foundation Models for Genomics & Transcriptomics"
+category = "models"
+tags = ["biology", "deep-learning", "dna", "foundation-models", "genomics", "transcriptomics", "transformer"]
+repository = "https://github.com/instadeepai/nucleotide-transformer"
+language = "Jupyter Notebook"
+added = 2026-10-30

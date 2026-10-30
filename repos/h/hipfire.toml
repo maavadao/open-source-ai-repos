@@ -1,0 +1,7 @@
+name = "hipfire"
+description = "RDNA-native LLM inference engine in Rust."
+category = "local-llms"
+tags = ["amd-gpu", "gpu-computing", "hip", "llm-inference", "machine-learning", "quantization", "rdna", "rocm"]
+repository = "https://github.com/warpfront/hipfire"
+language = "Rust"
+added = 2026-10-30

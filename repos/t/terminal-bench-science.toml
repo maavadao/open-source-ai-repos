@@ -1,0 +1,9 @@
+name = "terminal-bench-science"
+description = "Terminal-Bench-Science: Evaluating AI agents on research workflows across scientific domains"
+category = "agents"
+tags = ["agentic-ai", "ai-for-science", "ai4science"]
+repository = "https://github.com/harbor-framework/terminal-bench-science"
+website = "https://www.terminal-bench-science.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-30

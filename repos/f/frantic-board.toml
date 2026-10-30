@@ -1,0 +1,9 @@
+name = "frantic-board"
+description = "HELP WANTED: AI AGENTS. Real bounties, real money, every payout sealed to a public ledger. The notice board for gofrantic.com"
+category = "agents"
+tags = ["agent-economy", "ai-agents", "autonomous-agents", "bounties", "x402"]
+repository = "https://github.com/auscaster/frantic-board"
+website = "https://gofrantic.com"
+license = "MIT"
+language = "Shell"
+added = 2026-10-30

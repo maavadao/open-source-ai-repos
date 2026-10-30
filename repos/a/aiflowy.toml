@@ -1,0 +1,8 @@
+name = "aiflowy"
+description = "AIFlowy is an enterprise-grade AI application development platform based on Java, comparable to products like Dify and Coze."
+category = "agents"
+tags = ["agentic-ai", "ai-agent", "aiflowy", "coze", "dify", "langchain4j", "n8n", "n8n-workflow"]
+repository = "https://github.com/aiflowy/aiflowy"
+website = "https://aiflowy.tech"
+language = "Vue"
+added = 2026-10-30

@@ -1,0 +1,8 @@
+name = "sklearn-porter"
+description = "Transpile trained scikit-learn estimators and transformers to C, C#, Go, Java, JavaScript, PHP and Ruby."
+category = "data-science"
+tags = ["data-science", "machine-learning", "scikit-learn", "sklearn"]
+repository = "https://github.com/nok/sklearn-porter"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-30

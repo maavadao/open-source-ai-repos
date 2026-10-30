@@ -1,0 +1,8 @@
+name = "latex-document-skill"
+description = "Universal LaTeX document skill for Claude Code: 27 templates, 27 scripts, 26 reference guides. Made with Claude Code on ✦ HappyCapy AI ✦ platform"
+category = "skills-prompts"
+tags = ["academic", "ai", "claude", "claude-code", "document-generation", "latex", "latex-document", "latex-package"]
+repository = "https://github.com/ndpvt-web/latex-document-skill"
+website = "https://happycapy.ai/?via=gh"
+language = "TeX"
+added = 2026-10-30

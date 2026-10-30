@@ -1,0 +1,8 @@
+name = "SeeCode"
+description = "Animated, explorable diagrams for Claude and other coding agents, from a short JSON spec."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "architecture-diagram", "claude-code", "claude-skills", "codex", "coding-agents", "data-visualization"]
+repository = "https://github.com/Aryanutkarsh/SeeCode"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-30

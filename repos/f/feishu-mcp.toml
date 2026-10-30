@@ -1,0 +1,8 @@
+name = "Feishu-MCP"
+description = "Feishu / Lark 飞书文档与任务管理工具，支持 MCP 服务器和 CLI + Skill 两种使用方式，可无缝集成 Cursor、Claude Code、Cline 等 AI 编码工具"
+category = "mcp-servers"
+tags = ["feishu", "lark", "mcp", "skills"]
+repository = "https://github.com/cso1z/Feishu-MCP"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-30

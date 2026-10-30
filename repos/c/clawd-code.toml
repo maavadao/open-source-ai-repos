@@ -1,0 +1,8 @@
+name = "Clawd-Code"
+description = "Claude-Code-Python: Reconstructing Claude Code in Python"
+category = "skills-prompts"
+tags = ["claude", "claude-code", "openclaw", "python"]
+repository = "https://github.com/GPT-AGI/Clawd-Code"
+license = "MIT"
+language = "Python"
+added = 2026-10-30

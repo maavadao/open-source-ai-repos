@@ -1,0 +1,9 @@
+name = "sports-betting"
+description = "Collection of sports betting AI tools."
+category = "ml-platforms"
+tags = ["machine-learning", "python", "scikit-learn", "sports-analytics", "sports-betting"]
+repository = "https://github.com/georgedouzas/sports-betting"
+website = "https://georgedouzas.github.io/sports-betting"
+license = "MIT"
+language = "Python"
+added = 2026-10-30

@@ -1,0 +1,7 @@
+name = "awesome-uncertainty-deeplearning"
+description = "This repository contains a collection of surveys, datasets, papers, and codes, for predictive uncertainty estimation in deep learning models."
+category = "learning"
+tags = ["awesome", "awesome-resources", "deep-learning", "deep-learning-tutorials", "deep-neural-networks", "machine-learning", "uncertainty-analysis", "uncertainty-estimation"]
+repository = "https://github.com/ENSTA-U2IS-AI/awesome-uncertainty-deeplearning"
+license = "MIT"
+added = 2026-10-30

@@ -1,0 +1,8 @@
+name = "security"
+description = "Google's Security extension for the Gemini CLI that finds vulnerabilities in your code changes and pull requests."
+category = "other"
+tags = ["gemini", "gemini-cli", "gemini-cli-extensions", "google", "security"]
+repository = "https://github.com/gemini-cli-extensions/security"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-30

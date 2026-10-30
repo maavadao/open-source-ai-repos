@@ -1,0 +1,8 @@
+name = "pearai-master"
+description = "Master Repo For PearAI"
+category = "chat"
+tags = ["ai", "ai-code-editor", "chatgpt", "claude", "code-editor", "llm", "vscode"]
+repository = "https://github.com/trypear/pearai-master"
+website = "https://trypear.ai"
+language = "Shell"
+added = 2026-10-30

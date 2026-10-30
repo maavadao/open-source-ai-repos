@@ -1,0 +1,8 @@
+name = "open-genjutsu"
+description = "Local-first AI video recasting with draft review, explicit HD approval, and source-audio restoration."
+category = "video"
+tags = ["ai-media", "ai-video", "character-replacement", "character-swap", "creative-tools", "fastapi", "ffmpeg", "generative-ai"]
+repository = "https://github.com/Anil-matcha/open-genjutsu"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-30

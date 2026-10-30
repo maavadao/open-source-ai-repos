@@ -1,0 +1,9 @@
+name = "goraven"
+description = "Open-source AI Agent platform for teams. Your agents don't just chat — they read files, run code, call APIs, and deliver results."
+category = "agents"
+tags = ["agent", "ai-agent", "deepseek", "golang", "harness", "langchain", "openclaw"]
+repository = "https://github.com/8treenet/goraven"
+website = "https://goraven.dev"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-30

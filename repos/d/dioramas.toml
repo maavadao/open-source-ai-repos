@@ -1,0 +1,8 @@
+name = "dioramas"
+description = "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites."
+category = "other"
+tags = ["3d", "creative-coding", "fal", "generative-ai", "landing-page", "meshy", "threejs", "webgl"]
+repository = "https://github.com/blendi-remade/dioramas"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-30

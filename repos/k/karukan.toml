@@ -1,0 +1,8 @@
+name = "karukan"
+description = "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine"
+category = "other"
+tags = ["fcitx5", "ime", "input-method", "inputmethod", "japanese", "linux", "macos", "natural-language-processing"]
+repository = "https://github.com/togatoga/karukan"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-30

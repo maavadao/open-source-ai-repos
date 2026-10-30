@@ -1,0 +1,9 @@
+name = "coi"
+description = "Give the agent a machine. Just not yours. Each AI coding agent gets its own isolated machine with root, Docker, and systemd - active defense detects and stops threats automatically."
+category = "skills-prompts"
+tags = ["agentic-ai", "ai-tools", "anthropic", "claude", "claude-code", "code-sandbox", "codex", "coding-assistant"]
+repository = "https://github.com/coipond/coi"
+website = "https://coipond.ai"
+license = "MIT"
+language = "Go"
+added = 2026-10-30

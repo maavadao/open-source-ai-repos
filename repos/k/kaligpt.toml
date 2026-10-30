@@ -1,0 +1,8 @@
+name = "KaliGPT"
+description = "KaliGPT: an Agentic AI (built with Gemini, ChatGPT, Ollama, OpenRouter Models) fine tuned for ethical hackers & students in offensive security making workflows smarter, faster, and more accessible."
+category = "agents"
+tags = ["agentic-ai", "ethical-hacking-ai-tool", "kali", "kali-linux-tools", "kali-scripts", "kali-tools", "kaligpt", "kaligpt-installer"]
+repository = "https://github.com/SudoHopeX/KaliGPT"
+website = "https://hope.is-a.dev/?path=kaligpt_doc"
+language = "Python"
+added = 2026-10-30

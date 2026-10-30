@@ -1,0 +1,9 @@
+name = "pandaprobe"
+description = "open source agent engineering platform: traces, evals, and metrics to debug and improve your AI agents. Integrates with LangGraph, CrewAI, Claude Agent SDK, and more."
+category = "agents"
+tags = ["agent-engineering", "agent-evaluation", "agent-observability", "agentic-ai", "claude-agent-sdk", "crewai", "langgraph", "monitoring"]
+repository = "https://github.com/chirpz-ai/pandaprobe"
+website = "https://pandaprobe.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-30

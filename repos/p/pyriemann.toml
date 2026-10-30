@@ -1,0 +1,9 @@
+name = "pyRiemann"
+description = "Machine learning for multivariate data through the Riemannian geometry of positive definite matrices in Python"
+category = "ml-platforms"
+tags = ["brain-computer-interface", "covariance-estimation", "covariance-matrix", "eeg", "hermitian-matrices", "image-processing", "machine-learning", "positive-definite-matrices"]
+repository = "https://github.com/pyRiemann/pyRiemann"
+website = "https://pyriemann.readthedocs.io"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-30

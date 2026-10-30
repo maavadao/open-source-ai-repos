@@ -1,0 +1,8 @@
+name = "claude-desktop-multiple-windows-different-api"
+description = "Multiple windows for Claude Desktop with different APIs at the same time: keep your official Claude subscription in one window and run other windows on custom / third-party APIs (cc-switch). Windows. 多开 Claude Desktop,多个窗口同时使用不同 API(官方订阅 + 第三方 API 同时工作)。"
+category = "skills-prompts"
+tags = ["anthropic", "api-switcher", "cc-switch", "claude", "claude-code", "claude-desktop", "custom-api", "different-api"]
+repository = "https://github.com/TonF1917/claude-desktop-multiple-windows-different-api"
+license = "MIT"
+language = "Python"
+added = 2026-10-30

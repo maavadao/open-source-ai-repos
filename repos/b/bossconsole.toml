@@ -1,0 +1,9 @@
+name = "BossConsole"
+description = "Open-source, multi-platform harness for AI agents - a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 200+ MCP tools. Built for enterprises, science & research."
+category = "mcp-servers"
+tags = ["agent-harness", "ai-agents", "browser", "claude-code", "codex", "compose-multiplatform", "desktop-app", "gemini"]
+repository = "https://github.com/risa-labs-inc/BossConsole"
+website = "https://bossconsole.ai"
+license = "Apache-2.0"
+language = "Kotlin"
+added = 2026-10-30

@@ -1,0 +1,9 @@
+name = "cheetahclaws"
+description = "CheetahClaws, From Model Scaling to System Scaling: Scaling the Harness in Agentic AI"
+category = "skills-prompts"
+tags = ["agentic-ai", "claude", "claude-code", "memory", "openclaw", "python", "skills"]
+repository = "https://github.com/SAIL-Research-Lab/cheetahclaws"
+website = "https://cheetahclaws.github.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-30

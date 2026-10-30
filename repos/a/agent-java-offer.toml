@@ -1,0 +1,6 @@
+name = "agent_java_offer"
+description = "公开的 Java 后端 / AI Agent / 系统设计 / 算法面试复习资料库"
+category = "llm-apps"
+tags = ["ai-agent", "algorithms", "backend", "interview-prep", "java", "langgraph", "rag", "system-design"]
+repository = "https://github.com/guoguo-tju/agent_java_offer"
+added = 2026-10-30

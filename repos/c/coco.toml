@@ -1,0 +1,8 @@
+name = "coco"
+description = "Coco Super Intelligence: agent skills, slash commands and subagents for Claude Code, Cursor and Codex. One command installs them into the tool you already use."
+category = "skills-prompts"
+tags = ["agent-skills", "agents-md", "ai", "ai-agents", "claude-code", "codex", "cursor", "developer-tools"]
+repository = "https://github.com/coco-research/coco"
+website = "https://cocoresearch.org/coco/"
+language = "Python"
+added = 2026-10-30

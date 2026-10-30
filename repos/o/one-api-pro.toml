@@ -1,0 +1,8 @@
+name = "one-api-pro"
+description = "oneapi-pro is an enterprise-grade AI API Gateway built on oneapi（one-api）. It has undergone a full architectural redesign, adding support for subscription plans, active-active clusters, precise billing. 本项目与new-api | sub2api不同之处是oneapi-pro是面向企业AI网关的应用场景，并不适用于中转站"
+category = "other"
+tags = ["one-api", "one-api-pro", "oneapi", "openai"]
+repository = "https://github.com/modelbus/one-api-pro"
+website = "http://one-api.pro"
+language = "Go"
+added = 2026-10-30

@@ -1,0 +1,9 @@
+name = "hippo-memory"
+description = "Stop re-teaching your agent. Make your agent's memory work like a brain. Hippo is long-term memory for coding agents. It's a critical layer for your AI harness that connects across your different tools (Cursor, Claude Code, Codex). It keeps your proprietary data completely local, and it actually le…"
+category = "skills-prompts"
+tags = ["agent-memory", "ai-agents", "ai-memory", "claude-code", "claude-code-plugin", "codex", "coding-agent", "cursor"]
+repository = "https://github.com/kitfunso/hippo-memory"
+website = "https://hippo-memory.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-30

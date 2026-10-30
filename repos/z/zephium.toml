@@ -1,0 +1,9 @@
+name = "Zephium"
+description = "A fast, fully-featured browser and work environment reimagined for you and your agents"
+category = "agents"
+tags = ["adblock", "agents", "ai", "browser", "canvas", "rust", "svelte", "tauri"]
+repository = "https://github.com/zephium-browser/Zephium"
+website = "https://zephium.app"
+license = "MPL-2.0"
+language = "Rust"
+added = 2026-10-30

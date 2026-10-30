@@ -1,0 +1,7 @@
+name = "bible"
+description = "Bible text in JSON and XML — 141 versions across 85 languages, ready for apps, verse search, and NLP/AI datasets"
+category = "other"
+tags = ["bible", "bible-api", "bible-json", "bible-verses", "bible-xml", "christian", "dataset", "i18n"]
+repository = "https://github.com/thiagobodruk/bible"
+license = "MIT"
+added = 2026-10-30

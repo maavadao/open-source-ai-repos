@@ -1,0 +1,9 @@
+name = "concord-mcp"
+description = "Live messaging for coding agents"
+category = "mcp-servers"
+tags = ["agentic-coding", "ai-agents", "claude-code", "code-review", "codex", "coding-agents", "cursor", "developer-tools"]
+repository = "https://github.com/Get-Concord-AI/concord-mcp"
+website = "https://getconcord.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-30

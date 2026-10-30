@@ -1,0 +1,9 @@
+name = "shapiq"
+description = "Shapley Values and Shapley Interactions for Machine Learning"
+category = "ml-platforms"
+tags = ["banzhaf-index", "explainability", "explainable-ai", "feature-attribution", "feature-importance", "feature-interactions", "game-theory", "interpretability"]
+repository = "https://github.com/mmschlk/shapiq"
+website = "https://shapiq.readthedocs.io"
+license = "MIT"
+language = "Python"
+added = 2026-10-30

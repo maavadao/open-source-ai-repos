@@ -1,0 +1,9 @@
+name = "scrawl"
+description = "Show an agent a problem: mark up, record, send"
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "coding-agents", "developer-tools", "gpui", "macos", "opencode", "rust"]
+repository = "https://github.com/kitlangton/scrawl"
+website = "https://scrawl.kitlangton.com"
+license = "MIT"
+language = "Rust"
+added = 2026-10-30

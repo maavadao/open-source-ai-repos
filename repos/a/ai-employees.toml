@@ -1,0 +1,8 @@
+name = "ai-employees"
+description = "Open source AI Employees. 8 scheduled business roles, 60 routines, on Claude Code and 10 other harnesses. They drive your browser the way you do and improve every run. You own the files."
+category = "skills-prompts"
+tags = ["ai-agents", "ai-employee", "ai-employees", "antigravity", "automation", "claude-code", "claude-skill", "codex"]
+repository = "https://github.com/markfulton/ai-employees"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-30

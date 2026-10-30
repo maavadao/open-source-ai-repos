@@ -1,0 +1,8 @@
+name = "AI-Cross-Border-Ecommerce-Agent-Toolkit"
+description = "AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例"
+category = "skills-prompts"
+tags = ["ai-agents", "cross-border-ecommerce", "ecommerce", "llm", "mercado-livre", "prompt-engineering", "shopee", "sop"]
+repository = "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit"
+license = "MIT"
+language = "Python"
+added = 2026-10-30

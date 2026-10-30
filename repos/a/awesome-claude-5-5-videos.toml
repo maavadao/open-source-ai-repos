@@ -1,0 +1,8 @@
+name = "awesome-claude-5-5-videos"
+description = "Source-linked Claude 5.5 video workflows: Opus and Sonnet demos, separately labeled next-Fable testing reports, prompts, tools and production evidence."
+category = "learning"
+tags = ["ai-video", "awesome", "awesome-list", "claude", "claude-opus-5-5", "video-workflows"]
+repository = "https://github.com/athemeroy/awesome-claude-5-5-videos"
+license = "CC-BY-4.0"
+language = "Python"
+added = 2026-10-30

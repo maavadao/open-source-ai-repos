@@ -1,0 +1,7 @@
+name = "AIGC_Interview"
+description = "📚 AIGC 求职面经、必备基础知识、提示词工程、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintune 等 AIGC 求职你所需要知道的一切~"
+category = "skills-prompts"
+tags = ["aigc", "chatgpt", "gpt4", "interviews", "prompt", "promptengineering", "stablediffusion"]
+repository = "https://github.com/EmbraceAGI/AIGC_Interview"
+website = "https://www.embraceagi.com"
+added = 2026-10-30

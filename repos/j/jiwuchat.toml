@@ -1,0 +1,9 @@
+name = "JiwuChat"
+description = "JiwuChat 🍂 - A lightweight cross-platform instant messaging app with integrated AI assistants (DeepSeek/Gemini/Kimi). Features real-time messaging, audio/video calls, multi-device sync, and customizable themes. Built with Vue3 & Tauri2 🍒"
+category = "other"
+tags = ["ai", "android-app", "chat-application", "desktop-app", "instant-messaging", "linux-app", "macos-app", "mcp"]
+repository = "https://github.com/KiWi233333/JiwuChat"
+website = "https://blog.jiwuchat.top"
+license = "AGPL-3.0"
+language = "Vue"
+added = 2026-10-30

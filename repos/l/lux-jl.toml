@@ -1,0 +1,9 @@
+name = "Lux.jl"
+description = "Elegant and Performant Deep Learning"
+category = "ml-platforms"
+tags = ["deep-learning", "gpu", "machine-learning", "neural-networks", "scientific-machine-learning", "tpu", "xla"]
+repository = "https://github.com/LuxDL/Lux.jl"
+website = "https://lux.csail.mit.edu/"
+license = "MIT"
+language = "Julia"
+added = 2026-10-30

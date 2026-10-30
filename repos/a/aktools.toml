@@ -1,0 +1,9 @@
+name = "aktools"
+description = "HTTP API and MCP server for AKShare: fetch financial data from any programming language or AI assistant (Claude, Cursor)"
+category = "mcp-servers"
+tags = ["ai-agent", "akshare", "claude", "data-science", "fastapi", "financial-data", "http-api", "mcp"]
+repository = "https://github.com/akfamily/aktools"
+website = "https://aktools.akfamily.xyz/"
+license = "MIT"
+language = "Python"
+added = 2026-10-30

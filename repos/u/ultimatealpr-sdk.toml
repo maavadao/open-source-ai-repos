@@ -1,0 +1,8 @@
+name = "ultimateALPR-SDK"
+description = "World's fastest ANPR / ALPR implementation for CPUs, GPUs, VPUs and NPUs using Transformers (ONNX, Tensorflow lite, TensorRT, Hailo, OpenVINO, RKNN2). Multi-Charset (Latin, Korean, Chinese) & Multi-OS (Jetson, Android, Raspberry Pi, Linux, Windows) & Multi-Arch (ARM, x86)."
+category = "ml-platforms"
+tags = ["alpr", "amlogic-npu", "android", "anpr", "anpr-sdk", "artificial-intelligence", "deep-learning", "jetson"]
+repository = "https://github.com/DoubangoTelecom/ultimateALPR-SDK"
+website = "https://www.doubango.org/webapps/alpr/"
+language = "C++"
+added = 2026-10-30

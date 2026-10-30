@@ -1,0 +1,9 @@
+name = "xyne-spaces"
+description = "The AI Org-OS — a collaborative platform for humans and agents. Explore: https://spaces.xyne.ai"
+category = "agents"
+tags = ["ai", "ai-agents", "ai-tools", "automation", "collaboration"]
+repository = "https://github.com/juspay/xyne-spaces"
+website = "https://xyne.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-30

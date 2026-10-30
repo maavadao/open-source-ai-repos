@@ -1,0 +1,9 @@
+name = "VibeUE"
+description = "Unreal Engine Vibe Coding tool"
+category = "coding"
+tags = ["ai", "ai-tools", "automation", "blueprint", "claude", "copilot", "cursor", "game-development"]
+repository = "https://github.com/kevinpbuckley/VibeUE"
+website = "https://www.vibeue.com"
+license = "MIT"
+language = "C++"
+added = 2026-10-30

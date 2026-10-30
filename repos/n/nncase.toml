@@ -1,0 +1,8 @@
+name = "nncase"
+description = "Open deep learning compiler stack for Kendryte AI accelerators ✨"
+category = "llm-apps"
+tags = ["ai-compiler", "compiler", "deep-learning", "k210", "k230", "k510", "kendryte", "llm"]
+repository = "https://github.com/kendryte/nncase"
+license = "Apache-2.0"
+language = "C#"
+added = 2026-10-30

@@ -1,0 +1,9 @@
+name = "os"
+description = "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time chat, voice, document training, analytics, user management, SSO authentication, and embeddable widgets. Built with React 19, Redux Toolkit, Radix UI, and Tailwind CSS."
+category = "agents"
+tags = ["agentic-ai", "ai", "ai-agents", "ai-platform", "chatbot", "conversational-ai", "generative-ai", "llm"]
+repository = "https://github.com/iblai/os"
+website = "https://ibl.ai/join"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-30

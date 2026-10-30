@@ -1,0 +1,8 @@
+name = "line-bot-mcp-server"
+description = "MCP server that integrates the LINE Messaging API to connect an AI Agent to the LINE Official Account."
+category = "mcp-servers"
+tags = ["line", "linebot", "mcp", "mcp-server"]
+repository = "https://github.com/line/line-bot-mcp-server"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-30

@@ -1,0 +1,8 @@
+name = "rotary-embedding-torch"
+description = "Implementation of Rotary Embeddings, from the Roformer paper, in Pytorch"
+category = "ml-platforms"
+tags = ["artificial-intelligence", "deep-learning", "positional-encoding"]
+repository = "https://github.com/lucidrains/rotary-embedding-torch"
+license = "MIT"
+language = "Python"
+added = 2026-10-30

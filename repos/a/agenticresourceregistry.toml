@@ -1,0 +1,9 @@
+name = "AgenticResourceRegistry"
+description = "Share and discover coding agent resources across your team. Self-hosted, Apache 2.0, works with Claude Code, Kiro, Cursor, Codex, Pi and more."
+category = "skills-prompts"
+tags = ["agents", "analytics", "antigravity", "claude-code", "cli-tool", "codex", "cursor", "cursor-ai"]
+repository = "https://github.com/AgenticResourceRegistry/AgenticResourceRegistry"
+website = "https://observal.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-30

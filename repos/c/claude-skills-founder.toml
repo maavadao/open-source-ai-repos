@@ -1,0 +1,8 @@
+name = "claude-skills-founder"
+description = "Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal"
+category = "skills-prompts"
+tags = ["ai", "claude", "claude-code", "claude-code-plugin", "competitor-analysis", "founder", "go-to-market", "pitch-deck"]
+repository = "https://github.com/emotixco/claude-skills-founder"
+license = "MIT"
+language = "Markdown"
+added = 2026-10-30
