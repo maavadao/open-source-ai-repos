@@ -1,0 +1,7 @@
+name = "vecstack"
+description = "Python package for stacking (machine learning technique)"
+category = "ml-platforms"
+tags = ["bagging", "blending", "ensemble", "ensemble-learning", "ensembling", "explain-stacking", "machine-learning", "stacked-generalization"]
+repository = "https://github.com/vecxoz/vecstack"
+language = "Python"
+added = 2026-10-31

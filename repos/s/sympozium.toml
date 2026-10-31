@@ -1,0 +1,9 @@
+name = "sympozium"
+description = "The Coordination Layer for Multi-Agent AI"
+category = "agents"
+tags = ["agentic", "agentic-ai"]
+repository = "https://github.com/sympozium-ai/sympozium"
+website = "https://sympozium.ai/"
+license = "MIT"
+language = "Go"
+added = 2026-10-31

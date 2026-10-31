@@ -1,0 +1,8 @@
+name = "Fast-SRGAN"
+description = "A Fast Deep Learning Model to Upsample Low Resolution Videos to High Resolution at 30fps"
+category = "ml-platforms"
+tags = ["artificial-intelligence", "cnn", "fastsrgan", "gans", "generative-adversarial-network", "neural-network", "realtime-super-resolution", "residual-blocks"]
+repository = "https://github.com/HasnainRaz/Fast-SRGAN"
+license = "MIT"
+language = "Python"
+added = 2026-10-31

@@ -1,0 +1,8 @@
+name = "timber"
+description = "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference."
+category = "local-llms"
+tags = ["c99", "catboost", "compiler", "decision-trees", "gradient-boosting", "inference", "lightgbm", "machine-learning"]
+repository = "https://github.com/kossisoroyce/timber"
+website = "https://kossisoroyce.github.io/timber/"
+language = "Python"
+added = 2026-10-31

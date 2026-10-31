@@ -1,0 +1,9 @@
+name = "probe"
+description = "AI-friendly semantic code search engine for large codebases. Combines ripgrep speed with tree-sitter AST parsing. Powers AI coding assistants with precise, context-aware code understanding."
+category = "search"
+tags = ["ai", "ai-coder", "ast", "cli", "code-search", "mcp", "nodejs-sdk", "ripgrep"]
+repository = "https://github.com/probelabs/probe"
+website = "https://probelabs.com/probe"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-31

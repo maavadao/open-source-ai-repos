@@ -1,0 +1,8 @@
+name = "libonnx"
+description = "A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support."
+category = "local-llms"
+tags = ["ai", "baremetal", "c", "dedeep-neural-networks", "deep-learning", "embedded", "embedded-systems", "hardware-acceleration"]
+repository = "https://github.com/xboot/libonnx"
+license = "MIT"
+language = "C"
+added = 2026-10-31

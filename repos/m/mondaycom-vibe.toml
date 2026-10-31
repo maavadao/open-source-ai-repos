@@ -1,0 +1,8 @@
+name = "vibe"
+description = "🎨 Vibe Design System - Official monday.com UI resources for application development in React.js"
+category = "llm-apps"
+tags = ["codemod", "component-library", "design-system", "hacktoberfest", "icons", "javascript", "js", "llm"]
+repository = "https://github.com/mondaycom/vibe"
+website = "https://vibe.monday.com/"
+language = "TypeScript"
+added = 2026-10-31

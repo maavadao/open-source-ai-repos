@@ -1,0 +1,9 @@
+name = "Lexora"
+description = "A self-evolved, sovereign desktop AI agent built for real-world action — beyond model wrappers and coding copilots. / 真实实践中自我演化的独立桌面 AI Agent。"
+category = "agents"
+tags = ["agent-loop", "ai-agent", "archlinux", "autonomous-agents", "desktop-agent", "desktop-pet", "linux-desktop", "local-ai"]
+repository = "https://github.com/useLexora/Lexora"
+website = "https://uselexora.app/"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-31

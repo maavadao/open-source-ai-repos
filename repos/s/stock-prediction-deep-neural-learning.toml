@@ -1,0 +1,9 @@
+name = "stock-prediction-deep-neural-learning"
+description = "Predicting stock prices using a TensorFlow LSTM (long short-term memory) neural network for times series forecasting"
+category = "data-science"
+tags = ["crypto", "cryptocurrency", "deep-learning", "deep-neural-networks", "finance", "jupyter-notebook", "lstm", "lstm-model"]
+repository = "https://github.com/JordiCorbilla/stock-prediction-deep-neural-learning"
+website = "https://jordicorbilla.github.io/stock-prediction-deep-neural-learning/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-31

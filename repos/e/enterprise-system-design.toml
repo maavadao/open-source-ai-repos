@@ -1,0 +1,6 @@
+name = "enterprise-system-design"
+description = "A source-grounded course and architectural reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mis…"
+category = "security"
+tags = ["ai", "ai-governance", "ai-security", "ai-systems", "cloud-architecture", "cloud-infrastructure", "cybersecurity", "distributed-computing"]
+repository = "https://github.com/DrHazemAli/enterprise-system-design"
+added = 2026-10-31

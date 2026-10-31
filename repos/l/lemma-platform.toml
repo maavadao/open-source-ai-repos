@@ -1,0 +1,9 @@
+name = "lemma-platform"
+description = "Multiplayer harness that shapes around your work. Agents, apps and workflows your team shares, used from Slack, Telegram, WhatsApp, Teams, Email, Web or your own AI agent."
+category = "skills-prompts"
+tags = ["agent-harness", "agentic-ai", "ai-agents", "claude-code", "codex", "internal-tools", "mcp", "mcp-apps"]
+repository = "https://github.com/lemma-work/lemma-platform"
+website = "https://lemma.work"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-31

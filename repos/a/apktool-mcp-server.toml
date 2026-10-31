@@ -1,0 +1,8 @@
+name = "apktool-mcp-server"
+description = "A MCP Server for APK Tool (Part of Android Reverse Engineering MCP Suites)"
+category = "mcp-servers"
+tags = ["ai", "android", "apktool", "llm", "mcp", "mcp-server", "mobile", "reverse-engineering"]
+repository = "https://github.com/zinja-coder/apktool-mcp-server"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-31

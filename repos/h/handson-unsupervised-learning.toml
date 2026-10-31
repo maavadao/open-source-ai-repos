@@ -1,0 +1,7 @@
+name = "handson-unsupervised-learning"
+description = "Code for Hands-on Unsupervised Learning Using Python (O'Reilly Media)"
+category = "ml-platforms"
+tags = ["anomaly-detection", "artificial-intelligence", "autoencoders", "clustering", "deep-learning", "generative-adversarial-network", "machine-learning", "unsupervised-learning"]
+repository = "https://github.com/aapatel09/handson-unsupervised-learning"
+language = "Jupyter Notebook"
+added = 2026-10-31

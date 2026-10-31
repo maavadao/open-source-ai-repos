@@ -1,0 +1,7 @@
+name = "seo-skills"
+description = "SEO skills for Claude Code, Cursor and Codex: SEO autopilot, title tags, blog refreshes, backlinks, customer journeys, video transcripts and copywriting."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "ai-seo", "claude-code", "claude-skills", "codex", "content-marketing", "copywriting"]
+repository = "https://github.com/Illyism/seo-skills"
+website = "https://il.ly/skills"
+added = 2026-10-31

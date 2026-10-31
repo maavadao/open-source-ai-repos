@@ -1,0 +1,8 @@
+name = "Machine-Learning-for-Asset-Managers"
+description = "Implementation of code snippets, exercises and application to live data from Machine Learning for Asset Managers (Elements in Quantitative Finance) written by Prof. Marcos López de Prado."
+category = "ml-platforms"
+tags = ["clusters", "correlation", "density", "eigenvalue", "machine-learning"]
+repository = "https://github.com/emoen/Machine-Learning-for-Asset-Managers"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-31

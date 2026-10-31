@@ -1,0 +1,9 @@
+name = "tura"
+description = "Build agent that uses 80% less token and delivers better results."
+category = "agents"
+tags = ["agent", "agentic-ai", "coding-agent", "context-engineering", "developer-tools", "developer-tools-ai-agent", "harness-engineering", "llm"]
+repository = "https://github.com/Tura-AI/tura"
+website = "https://turaai.net/"
+license = "AGPL-3.0"
+language = "Rust"
+added = 2026-10-31

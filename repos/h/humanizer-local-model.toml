@@ -1,0 +1,9 @@
+name = "humanizer-local-model"
+description = "Rewrites AI drafts so they read like a person wrote them — runs locally, keeps the facts"
+category = "local-llms"
+tags = ["gguf", "humanizer", "llama-cpp", "llm", "local-llm", "rewriting"]
+repository = "https://github.com/sgaofen/humanizer-local-model"
+website = "https://huggingface.co/jialinyyzz/humanizer"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-31

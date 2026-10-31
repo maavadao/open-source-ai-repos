@@ -1,0 +1,8 @@
+name = "cli"
+description = "Firecrawl CLI and agent skills: search, scrape, and interact with the web from your terminal or any coding agent, plus parse, crawl, map, Agent and Monitor. Firecrawl is the context API for AI agents."
+category = "browser-automation"
+tags = ["agent-skills", "cli", "firecrawl", "mcp", "web-scraping", "web-search"]
+repository = "https://github.com/firecrawl/cli"
+website = "http://docs.firecrawl.dev/cli"
+language = "TypeScript"
+added = 2026-10-31

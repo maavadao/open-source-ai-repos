@@ -1,0 +1,9 @@
+name = "explainroo"
+description = "Explainer videos and product demos made by your AI agent. Free and open source: a local voice (Kokoro), word timing (Whisper) and a canvas renderer turn a script into a narrated MP4."
+category = "skills-prompts"
+tags = ["ai-agents", "animation", "canvas", "claude-code", "codex", "explainer-video", "ffmpeg", "javascript"]
+repository = "https://github.com/vincentsch/explainroo"
+website = "https://www.explainroo.com"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-31

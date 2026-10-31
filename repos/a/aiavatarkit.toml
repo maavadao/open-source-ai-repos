@@ -1,0 +1,8 @@
+name = "aiavatarkit"
+description = "🥰 Building AI-based conversational avatars lightning fast ⚡️💬"
+category = "chat"
+tags = ["chatgpt", "metaverse", "voicevox", "vr", "vrchat", "waifu"]
+repository = "https://github.com/uezo/aiavatarkit"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-31

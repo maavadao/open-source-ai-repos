@@ -1,0 +1,8 @@
+name = "Mika"
+description = "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you."
+category = "llm-apps"
+tags = ["accessibility", "ai-agent", "android", "automation", "jetpack-compose", "kotlin", "llm", "mobile-agent"]
+repository = "https://github.com/wangzan101/Mika"
+license = "Apache-2.0"
+language = "Kotlin"
+added = 2026-10-31

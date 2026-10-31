@@ -1,0 +1,8 @@
+name = "Awesome-Story-Generation"
+description = "This repository collects an extensive list of awesome papers about Story Generation / Storytelling, exclusively focusing on the era of Large Language Models (LLMs)."
+category = "other"
+tags = ["language-generation", "large-language-model", "narrative", "natural-language-processing", "nlp", "novel", "open-ended", "story"]
+repository = "https://github.com/yingpengma/Awesome-Story-Generation"
+license = "CC-BY-4.0"
+language = "Python"
+added = 2026-10-31

@@ -1,0 +1,8 @@
+name = "awesome-a2a"
+description = "Agent2Agent (A2A) – awesome A2A agents, tools, servers & clients, all in one place."
+category = "agents"
+tags = ["a2a", "a2a-cli", "a2a-mcp", "a2a-protocol", "a2a-server", "agent", "agent2agent", "mcp"]
+repository = "https://github.com/ai-boost/awesome-a2a"
+website = "http://agent2agent.ren/"
+license = "MIT"
+added = 2026-10-31

@@ -1,0 +1,8 @@
+name = "gcp-mlops"
+description = "Google Cloud Platform Vertex AI end-to-end workflows for machine learning operations"
+category = "ml-platforms"
+tags = ["deep-learning", "gcp", "gcp-vertex-ai", "machine-learning", "mlops", "mlops-template", "mlops-workflow"]
+repository = "https://github.com/statmike/gcp-mlops"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-10-31

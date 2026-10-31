@@ -1,0 +1,9 @@
+name = "trinity"
+description = "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0."
+category = "skills-prompts"
+tags = ["agent-orchestration", "agent-runtime", "agentic-ai", "ai-agent", "ai-agents", "ai-governance", "ai-observability", "anthropic"]
+repository = "https://github.com/Abilityai/trinity"
+website = "https://www.ability.ai/trinity"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-31

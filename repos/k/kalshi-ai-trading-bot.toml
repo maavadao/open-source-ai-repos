@@ -1,0 +1,9 @@
+name = "kalshi-ai-trading-bot"
+description = "The honest edge layer for Kalshi prediction markets - an agent-native toolkit (CLI, MCP server, Claude skill) that measures whether you actually beat the book instead of claiming it."
+category = "mcp-servers"
+tags = ["agentic-ai", "ai-agents", "ai-trading", "automated-trading", "edge-measurement", "kalshi", "kalshi-api", "llm"]
+repository = "https://github.com/ryanfrigo/kalshi-ai-trading-bot"
+website = "https://kalshi-community.vercel.app"
+license = "MIT"
+language = "Python"
+added = 2026-10-31

@@ -1,0 +1,9 @@
+name = "claude-chat-exporter"
+description = "One-click, privacy-first exporter for Claude.ai chats — clean Markdown with artifacts and attachments, ready for Obsidian and RAG."
+category = "llm-apps"
+tags = ["ai-chat", "anthropic", "backup", "bookmarklet", "chat", "chat-exporter", "claude", "claude-ai"]
+repository = "https://github.com/agarwalvishal/claude-chat-exporter"
+website = "https://agarwalvishal.github.io/claude-chat-exporter/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-31

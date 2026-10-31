@@ -1,0 +1,9 @@
+name = "openanalytics"
+description = "Open-source, privacy-first and cookieless web analytics with revenue attribution and an MCP server."
+category = "mcp-servers"
+tags = ["agpl", "analytics", "clickhouse", "cookieless", "google-analytics-alternative", "mcp-server", "nextjs", "open-source"]
+repository = "https://github.com/OpenLabs-so/openanalytics"
+website = "https://getopen.so"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-31

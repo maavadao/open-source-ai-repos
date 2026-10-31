@@ -1,0 +1,7 @@
+name = "ml4se"
+description = "A curated list of papers, theses, datasets, and tools related to the application of Machine Learning for Software Engineering"
+category = "ml-platforms"
+tags = ["ai4code", "ai4se", "code", "datasets", "deep-learning", "llm4code", "machine-learning", "ml4code"]
+repository = "https://github.com/saltudelft/ml4se"
+website = "https://ml4se.dev"
+added = 2026-10-31

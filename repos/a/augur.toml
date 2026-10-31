@@ -1,0 +1,9 @@
+name = "augur"
+description = "🦉 Augur — 本地优先的投资研究记忆系统：18 位投资大师独立分析 + 加权共识，证据带时间语义、每次运行可复查，CLI / Dashboard / MCP。A local-first research memory system with 18 investor personas."
+category = "agents"
+tags = ["ai-agents", "investment-analysis", "multi-agent", "stock-analysis", "value-investing"]
+repository = "https://github.com/BruceLanLan/augur"
+website = "https://github.com/BruceLanLan/augur"
+license = "MIT"
+language = "Python"
+added = 2026-10-31

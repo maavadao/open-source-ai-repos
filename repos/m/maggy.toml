@@ -1,0 +1,9 @@
+name = "maggy"
+description = "What started as an opinionated Claude Code setup kit is now an autonomous AI engineering command center"
+category = "skills-prompts"
+tags = ["ai-coding", "claude", "claude-code", "developer-tools", "project-initialization", "python", "react", "security"]
+repository = "https://github.com/alinaqi/maggy"
+website = "https://www.palgu.ai/maggy"
+license = "MIT"
+language = "Python"
+added = 2026-10-31

@@ -1,0 +1,9 @@
+name = "Heeler"
+description = "Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH, with a real libghostty terminal, QR pairing, and push notifications when an agent needs you"
+category = "agents"
+tags = ["ai-agents", "apns", "coding-agents", "herdr", "herdr-plugin", "ios", "libghostty", "push-notifications"]
+repository = "https://github.com/ZingerLittleBee/Heeler"
+website = "https://heeler.bybee.dev"
+license = "Apache-2.0"
+language = "Swift"
+added = 2026-10-31

@@ -1,0 +1,9 @@
+name = "slides_maker"
+description = "Turn papers, code, and docs into presentation-ready, natively editable PPTX in Codex / Claude Code. Native charts and equations, speaker notes, click-build animations, and an independent critic review before delivery. Comes with a visual-language template library, updated continuously."
+category = "skills-prompts"
+tags = ["agent", "ai", "ai-agent", "claude", "claude-code", "codex", "powerpoint", "ppt"]
+repository = "https://github.com/addsumtech/slides_maker"
+website = "https://slides.addsum.top"
+license = "MIT"
+language = "Python"
+added = 2026-10-31

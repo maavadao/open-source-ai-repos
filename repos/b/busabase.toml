@@ -1,0 +1,9 @@
+name = "busabase"
+description = "Open-source database & workspace for AI agents — structured data, durable knowledge, reusable skills, runnable apps, and human review on the writes that matter. Local-first and self-hostable."
+category = "agents"
+tags = ["agent-workspace", "agentic-ai", "ai-agents", "airtable-alternative", "audit-trail", "claude", "codex", "database"]
+repository = "https://github.com/busabase/busabase"
+website = "https://busabase.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-31

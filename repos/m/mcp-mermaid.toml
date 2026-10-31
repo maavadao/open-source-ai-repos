@@ -1,0 +1,9 @@
+name = "mcp-mermaid"
+description = "❤️ Generate mermaid diagram and chart with AI MCP dynamically."
+category = "mcp-servers"
+tags = ["mcp", "mcp-server", "mermaid", "mermaidjs"]
+repository = "https://github.com/hustcc/mcp-mermaid"
+website = "https://github.com/hustcc/mcp-mermaid"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-31

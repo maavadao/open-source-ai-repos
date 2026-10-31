@@ -1,0 +1,8 @@
+name = "mcp-client-cli"
+description = "A simple CLI to run LLM prompt and implement MCP client."
+category = "mcp-servers"
+tags = ["langchain", "llm", "mcp", "model-context-protocol"]
+repository = "https://github.com/adhikasp/mcp-client-cli"
+license = "MIT"
+language = "Python"
+added = 2026-10-31

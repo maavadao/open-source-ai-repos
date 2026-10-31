@@ -1,0 +1,7 @@
+name = "Cambium"
+description = "Governance standard and reference toolset for LLM-maintained knowledge corpora"
+category = "agents"
+tags = ["agentic-workflows", "ai-agents", "auditability", "claude-code-plugin", "deepseek-harness", "deepseek-harness-plugin", "deterministic-validation", "human-in-the-loop"]
+repository = "https://github.com/KimGLee/Cambium"
+language = "Python"
+added = 2026-10-31

@@ -1,0 +1,9 @@
+name = "prompt-lens"
+description = "反推出AI视频的提示词，并配有音频分析功能，可提取视频中的台词文案，并且一句话就可剪辑出你要的视频"
+category = "skills-prompts"
+tags = ["ai-script-rewriting", "ai-video", "automatic-shot-detection", "ffmpeg", "prompt-engineering", "shot-detection", "video-analysis", "video-generation"]
+repository = "https://github.com/raojiacui/prompt-lens"
+website = "https://prompt-lens.cc.cd"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-31

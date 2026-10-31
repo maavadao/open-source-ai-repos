@@ -1,0 +1,8 @@
+name = "seq2seq"
+description = "Minimal Seq2Seq model with Attention for Neural Machine Translation in PyTorch"
+category = "ml-platforms"
+tags = ["deep-learning", "machine-translation", "seq2seq"]
+repository = "https://github.com/keon/seq2seq"
+license = "MIT"
+language = "Python"
+added = 2026-10-31

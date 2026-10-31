@@ -1,0 +1,9 @@
+name = "ctxport"
+description = "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source."
+category = "skills-prompts"
+tags = ["ai", "ai-chat", "ai-tools", "browser-extension", "chatgpt", "chatgpt-export", "chrome-extension", "claude"]
+repository = "https://github.com/nicepkg/ctxport"
+website = "https://ctxport.xiaominglab.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-31

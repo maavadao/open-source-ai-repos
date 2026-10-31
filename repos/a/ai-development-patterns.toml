@@ -1,0 +1,9 @@
+name = "ai-development-patterns"
+description = "A comprehensive collection of AI development patterns for building software with AI assistance, organized by implementation maturity and development lifecycle phases. Includes Foundation, Development, and Operations patterns with practical examples and anti-patterns."
+category = "other"
+tags = ["ai-assisted-coding", "ai-development", "ai-tools", "artificial-intelligence", "automation", "best-practices", "ci-cd", "coding-standards"]
+repository = "https://github.com/PaulDuvall/ai-development-patterns"
+website = "https://paulduvall.github.io/ai-development-patterns/"
+license = "MIT"
+language = "Python"
+added = 2026-10-31

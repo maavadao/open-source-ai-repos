@@ -1,0 +1,9 @@
+name = "hyperfide"
+description = "The ai agent workflow tool that scales from small, simple projects to large, complex codebases."
+category = "agents"
+tags = ["agent", "agent-memory", "agent-orchestration", "agentic-workflow", "ai", "codify", "workflow", "workflow-automation"]
+repository = "https://github.com/Sidiora-Labs/hyperfide"
+website = "https://www.hyperfide.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-31

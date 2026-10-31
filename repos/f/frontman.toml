@@ -1,0 +1,8 @@
+name = "frontman"
+description = "The AI agent that lives in your framework/browser"
+category = "coding"
+tags = ["agent", "ai", "ai-agent", "ai-coding", "artificial-intelligence", "astro", "browser", "copilot"]
+repository = "https://github.com/frontman-ai/frontman"
+website = "https://frontman.sh"
+language = "ReScript"
+added = 2026-10-31

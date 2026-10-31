@@ -1,0 +1,9 @@
+name = "moa"
+description = "MOA is an open source framework for Big Data stream mining. It includes a collection of machine learning algorithms (classification, regression, clustering, outlier detection, concept drift detection and recommender systems) and tools for evaluation."
+category = "ml-platforms"
+tags = ["clustering", "data-stream-mining", "java", "machine-learning", "machine-learning-algorithms", "moa", "streaming-algorithms"]
+repository = "https://github.com/Waikato/moa"
+website = "http://moa.cms.waikato.ac.nz/"
+license = "GPL-3.0"
+language = "Java"
+added = 2026-10-31

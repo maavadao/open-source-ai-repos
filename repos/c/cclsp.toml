@@ -1,0 +1,9 @@
+name = "cclsp"
+description = "Claude Code LSP: enhance your Claude Code experience with non-IDE dependent LSP integration."
+category = "skills-prompts"
+tags = ["claude", "claude-code", "lsp", "mcp", "mcp-server"]
+repository = "https://github.com/ktnyt/cclsp"
+website = "https://www.npmjs.com/package/cclsp"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-31

@@ -1,0 +1,9 @@
+name = "eland"
+description = "Python Client and Toolkit for DataFrames, Big Data, Machine Learning and ETL in Elasticsearch"
+category = "data-science"
+tags = ["big-data", "data-analysis", "dataframe", "dataframes", "eland", "elasticsearch", "etl", "lightgbm"]
+repository = "https://github.com/elastic/eland"
+website = "https://eland.readthedocs.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-31

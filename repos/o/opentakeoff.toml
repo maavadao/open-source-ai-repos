@@ -1,0 +1,9 @@
+name = "opentakeoff"
+description = "Open-source (AGPL-3.0) PDF takeoff for construction & flooring — the first engine an AI agent drives natively over MCP, not bolted on. Rooms measured on the wall faces, symbol sweeps, materials + quantities with full provenance, built for preconstruction. Runs entirely in your browser."
+category = "mcp-servers"
+tags = ["aec", "ai-agent", "blueprint", "construction", "construction-estimating", "construction-tech", "cost-estimation", "estimating"]
+repository = "https://github.com/Kentucky-ai/opentakeoff"
+website = "https://opentakeoff.kentucky-ai.com"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-10-31

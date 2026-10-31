@@ -1,0 +1,8 @@
+name = "claude-nexus"
+description = "An all-in-one enhancement suite for Claude.ai - folder management, timeline navigation, and chat export in one powerful extension."
+category = "other"
+tags = ["claude"]
+repository = "https://github.com/Qiuner/claude-nexus"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-31

@@ -1,0 +1,9 @@
+name = "netket"
+description = "Machine learning algorithms for many-body quantum systems"
+category = "ml-platforms"
+tags = ["deep-learning", "hamiltonian", "jax", "machine-learning", "markov-chain-monte-carlo", "monte-carlo-methods", "neural-networks", "neural-quantum-states"]
+repository = "https://github.com/netket/netket"
+website = "https://www.netket.org"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-31

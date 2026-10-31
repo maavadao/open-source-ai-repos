@@ -1,0 +1,8 @@
+name = "Agent"
+description = "Agent! now supports macOS 14.6 or later, Apple Silicon and Intel, latest release. The Best AI agent for Mac: drives any app via Accessibility, codes/builds in Xcode, automates AppleScript, JXA, Swift and SMAppService shell (user/root). 23 LLM providers, local/cloud, plus on-device Apple Intelligenc…"
+category = "mcp-servers"
+tags = ["accessibility", "agent-scripts", "agentic-coding", "agentic-workflow", "agentiloop-agent", "apple-intelligence", "applescript", "auto-pilot"]
+repository = "https://github.com/AgentiLoop/Agent"
+website = "https://agentiloop.ai"
+language = "Swift"
+added = 2026-10-31

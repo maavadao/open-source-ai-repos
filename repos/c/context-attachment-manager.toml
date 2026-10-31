@@ -1,0 +1,8 @@
+name = "context-attachment-manager"
+description = "Turn Codex and Claude Code into your AI assistant director. Pair them with your favorite image-generation tools, keep image-heavy chats lightweight, and find the right image from a rough description—even after repeated context compaction."
+category = "skills-prompts"
+tags = ["ai-art", "ai-image", "anthropic", "chatgpt", "claude", "claude-code", "claude-code-plugin", "claude-desktop"]
+repository = "https://github.com/chipfighter/context-attachment-manager"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-31

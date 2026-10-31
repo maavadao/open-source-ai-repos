@@ -1,0 +1,8 @@
+name = "PolyStrata"
+description = "Run large AI models on your own PC: Qwen3.8-Flash-Next on Strata's engine, and GLM 5.3 Flash, DeepSeek V4 Flash, LFM2.5, Qwen3.6, Ornith 1.5, Gemma 4, Tiel Coder and MiniCPM-V on a second engine written for PolyStrata. One-click install for Windows and Linux, OpenAI/Anthropic API on localhost."
+category = "local-llms"
+tags = ["anthropic-api", "cuda", "gemma", "gguf", "glm", "inference-engine", "llm", "local-llm"]
+repository = "https://github.com/VecSzn/PolyStrata"
+license = "MIT"
+language = "C++"
+added = 2026-10-31

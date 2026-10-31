@@ -1,0 +1,9 @@
+name = "trading-momentum-transformer"
+description = "This code accompanies the the paper Trading with the Momentum Transformer: An Intelligent and Interpretable Architecture (https://arxiv.org/pdf/2112.08534.pdf)."
+category = "ml-platforms"
+tags = ["deep-learning", "machine-learning", "momentum-trading-strategy", "quantitative-finance", "trading-strategies", "transformer"]
+repository = "https://github.com/kieranjwood/trading-momentum-transformer"
+website = "https://kieranjwood.github.io/publication/momentum-transformer/"
+license = "MIT"
+language = "Python"
+added = 2026-10-31

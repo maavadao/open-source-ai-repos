@@ -1,0 +1,9 @@
+name = "ChatGPT-Telegram-Bot"
+description = "A Telegram bot with a silky smooth AI experience. UI enabled."
+category = "chat"
+tags = ["chatgpt", "python", "telegram"]
+repository = "https://github.com/V-know/ChatGPT-Telegram-Bot"
+website = "https://t.me/RoboAceBot"
+license = "MIT"
+language = "Python"
+added = 2026-10-31

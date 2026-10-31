@@ -1,0 +1,7 @@
+name = "NABLA-SciML"
+description = "Physics Informed Machine Learning Tutorials (Pytorch and Jax)"
+category = "learning"
+tags = ["cpikans", "deep-learning", "deeponet", "inverse-pinns", "inverse-problems", "jax", "kolmogorov-arnold-networks", "machine-learning"]
+repository = "https://github.com/jdtoscano94/NABLA-SciML"
+language = "Jupyter Notebook"
+added = 2026-10-31

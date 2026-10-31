@@ -1,0 +1,9 @@
+name = "ChatLLM-Web"
+description = "Private local model studio, AI chat, and agent workspace powered by WebGPU and WebLLM."
+category = "agents"
+tags = ["ai-agents", "browser-ai", "cloudflare-pages", "llama", "llm", "local-ai", "local-models", "pwa"]
+repository = "https://github.com/krisyangdev/ChatLLM-Web"
+website = "https://chatllm-web.pages.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-31

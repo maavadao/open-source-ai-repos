@@ -1,0 +1,9 @@
+name = "overmind"
+description = "The platform for continuously improving AI agents."
+category = "agents"
+tags = ["ai-agents", "evals", "fine-tuning", "llm", "llm-evaluation", "llmops", "lora", "mcp"]
+repository = "https://github.com/overmind-core/overmind"
+website = "https://overmindlab.ai"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-31

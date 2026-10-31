@@ -1,0 +1,8 @@
+name = "ML-CaPsule"
+description = "ML-capsule is a Project for beginners and experienced data science Enthusiasts who don't have a mentor or guidance and wish to learn Machine learning. Using our repo they can learn ML, DL, and many related technologies with different real-world projects and become Interview ready."
+category = "data-science"
+tags = ["analytics", "data-analysis", "data-science", "data-visualization", "datascience", "deep-learning", "deep-neural-networks", "deployment"]
+repository = "https://github.com/Niketkumardheeryan/ML-CaPsule"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-31

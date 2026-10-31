@@ -1,0 +1,9 @@
+name = "home-assistant-vibecode-agent"
+description = "Home Assistant MCP server agent. Enable Claude Code, Cursor, VS Code or any MCP-enabled IDE to help you vibe-code and manage Home Assistant: create and debug automations, design dashboards, tweak themes, modify configs, and deploy changes using natural language"
+category = "mcp-servers"
+tags = ["claude", "claudecode", "cursor-ai", "home-assistant", "home-assistant-addons", "home-automation", "homeassistant", "mcp-server"]
+repository = "https://github.com/Coolver/home-assistant-vibecode-agent"
+website = "https://coolver.github.io/home-assistant-vibecode-agent/"
+license = "MIT"
+language = "Python"
+added = 2026-10-31

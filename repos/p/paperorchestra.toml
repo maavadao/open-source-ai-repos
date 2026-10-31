@@ -1,0 +1,8 @@
+name = "PaperOrchestra"
+description = "An automated AI research-paper writer based off Google's PaperOrchestra paper's implementation through a skills - benchmark + autoraters using any coding agent (Claude Code, Cursor, Antigravity, Cline, Aider). No API keys, no LLM SDKs."
+category = "skills-prompts"
+tags = ["agentic-ai", "ai-research", "anthropic", "antigravity", "arxiv", "automated-paper-writing", "claude-code", "claude-skills"]
+repository = "https://github.com/Ar9av/PaperOrchestra"
+website = "https://arxiv.org/pdf/2604.05018"
+language = "Python"
+added = 2026-10-31

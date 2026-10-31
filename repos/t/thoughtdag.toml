@@ -1,0 +1,9 @@
+name = "thoughtdag"
+description = "Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context."
+category = "local-llms"
+tags = ["agentic-search", "ai-tools", "context-engineering", "cordis-plugin", "dag", "deepseek-harness-plugin", "dsh-plugin", "human-in-the-loop"]
+repository = "https://github.com/chenxiachan/thoughtdag"
+website = "https://chenxiachan.github.io/thoughtdag/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-31

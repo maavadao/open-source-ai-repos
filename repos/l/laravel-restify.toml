@@ -1,0 +1,9 @@
+name = "laravel-restify"
+description = "Laravel API for Ai Agents and humans."
+category = "other"
+tags = ["ai", "laravel", "mcp", "mcp-cli", "mcp-client", "mcp-servers", "rest-api", "restful-api"]
+repository = "https://github.com/BinarCode/laravel-restify"
+website = "https://laravel-restify.com"
+license = "MIT"
+language = "PHP"
+added = 2026-10-31

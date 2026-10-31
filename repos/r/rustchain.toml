@@ -1,0 +1,9 @@
+name = "Rustchain"
+description = "Sybil-resistant AI agent network with hardware-attested identity. Proof-of-Antiquity blockchain: physical machines across 15+ CPU architectures prove they are real silicon, not VM farms. Agent economy, micropayments, Solana bridge (wRTC). $0 VC."
+category = "agents"
+tags = ["agent-authentication", "agent-economy", "ai", "ai-agents", "blockchain", "cryptocurrency", "decentralized", "depin"]
+repository = "https://github.com/Scottcjn/Rustchain"
+website = "https://rustchain.org"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-31

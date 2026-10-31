@@ -1,0 +1,7 @@
+name = "agents-office"
+description = "Agents Office v3 (Beta) — a headless office where AI agents do real work"
+category = "skills-prompts"
+tags = ["agents", "claude", "claude-code", "isometric", "threejs"]
+repository = "https://github.com/ajsahni/agents-office"
+language = "JavaScript"
+added = 2026-10-31

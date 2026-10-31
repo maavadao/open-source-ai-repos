@@ -1,0 +1,8 @@
+name = "gpt-macro"
+description = "ChatGPT powered Rust proc macro that generates code at compile-time."
+category = "chat"
+tags = ["chatgpt", "rust", "test"]
+repository = "https://github.com/retrage/gpt-macro"
+license = "MIT"
+language = "Rust"
+added = 2026-10-31

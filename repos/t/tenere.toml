@@ -1,0 +1,9 @@
+name = "tenere"
+description = "🤖 TUI for LLMs"
+category = "local-llms"
+tags = ["chatgpt", "cli", "llamacpp", "llm", "ollama", "ratatui", "rust", "tui"]
+repository = "https://github.com/pythops/tenere"
+website = "https://crates.io/crates/tenere"
+license = "GPL-3.0"
+language = "Rust"
+added = 2026-10-31

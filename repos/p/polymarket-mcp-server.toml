@@ -1,0 +1,8 @@
+name = "polymarket-mcp-server"
+description = "🤖 AI-Powered MCP Server for Polymarket - Enable Claude to trade prediction markets with 45 tools, real-time monitoring, and enterprise-grade safety features"
+category = "mcp-servers"
+tags = ["ai-trading", "anthropic", "autonomous-trading", "blockchain", "claude", "defi", "market-analysis", "mcp"]
+repository = "https://github.com/caiovicentino/polymarket-mcp-server"
+license = "MIT"
+language = "Python"
+added = 2026-10-31

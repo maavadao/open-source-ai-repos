@@ -1,0 +1,9 @@
+name = "Pi-Bolt"
+description = "⚡ Pi, the coding agent, compiled ahead of time to one native executable. 10× faster to start, 7× less CPU and 4.5× less memory than Pi on Node. Linux, macOS, Windows, ARM64 and Android (Termux)."
+category = "llm-apps"
+tags = ["ahead-of-time", "ai-agent", "ai-coding-assistant", "android", "arm64", "bun", "cli", "coding-agent"]
+repository = "https://github.com/opensec-git/Pi-Bolt"
+website = "https://pi-bolt.opensec.in"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-31

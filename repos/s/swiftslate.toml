@@ -1,0 +1,8 @@
+name = "SwiftSlate"
+description = "Android accessibility service for AI-powered text transformation"
+category = "other"
+tags = ["accessibility", "ai", "android", "gemini", "groq", "jetpack-compose", "kotlin", "material3"]
+repository = "https://github.com/Musheer360/SwiftSlate"
+license = "MIT"
+language = "Kotlin"
+added = 2026-10-31

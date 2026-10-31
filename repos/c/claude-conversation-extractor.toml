@@ -1,0 +1,9 @@
+name = "claude-conversation-extractor"
+description = "Extract clean conversation logs from Claude Code's internal storage"
+category = "skills-prompts"
+tags = ["anthropic", "claude", "claude-code", "cli", "conversation-export", "markdown"]
+repository = "https://github.com/ZeroSumQuant/claude-conversation-extractor"
+website = "https://github.com/ZeroSumQuant/claude-conversation-extractor#readme"
+license = "MIT"
+language = "Python"
+added = 2026-10-31

@@ -1,0 +1,9 @@
+name = "sqz"
+description = "Context compression for AI coding agents: compresses tool output before it enters the model, dedups repeats to 13-token refs. Claude Code, Cursor, Codex, Kiro, Zed, any MCP client. Rust, zero LLM calls."
+category = "mcp-servers"
+tags = ["agentic-ai", "ai-agents", "claude-code", "cli", "codex", "coding-agents", "context-compression", "context-window"]
+repository = "https://github.com/ojuschugh1/sqz"
+website = "https://ojuschugh1.github.io/sqz/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-10-31

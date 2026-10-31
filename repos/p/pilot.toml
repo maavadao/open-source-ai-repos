@@ -1,0 +1,8 @@
+name = "pilot"
+description = "AI that ships your tickets."
+category = "skills-prompts"
+tags = ["agentic", "agentic-workflow", "ai-agent", "ai-bots", "ai-tools", "autonomous-coding", "claude", "claude-code"]
+repository = "https://github.com/qf-studio/pilot"
+website = "https://pilot.quantflow.studio/"
+language = "Go"
+added = 2026-10-31

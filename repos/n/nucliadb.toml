@@ -1,0 +1,8 @@
+name = "nucliadb"
+description = "NucliaDB, The AI Search database for RAG"
+category = "vector-databases"
+tags = ["ai-powered-search", "database", "language-model", "machine-learning", "mlops", "nuclia", "python", "rust"]
+repository = "https://github.com/nuclia/nucliadb"
+website = "https://docs.nuclia.dev/docs/management/nucliadb/intro"
+language = "Python"
+added = 2026-10-31

@@ -1,0 +1,8 @@
+name = "UniEmployee"
+description = "面向企业的数字员工构建与运行平台：把专业员工的经验、流程与判断标准，固化为可随时上岗、可配置、可审批、可观测的 AI 数字员工。"
+category = "no-code"
+tags = ["agent-orchestration", "ai-agent", "ai-employee", "ai-platform", "business-process", "digital-employee", "digital-workforce", "enterprise-agents"]
+repository = "https://github.com/zj-unicom-ai/UniEmployee"
+license = "MIT"
+language = "Python"
+added = 2026-10-31

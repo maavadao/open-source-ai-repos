@@ -1,0 +1,8 @@
+name = "OpenCodex"
+description = "OpenCodex is a middleware layer for Codex/ChatGPT Desktop. It lets you use a phone, tablet, or another computer to access and operate Codex on a target machine through a browser, making it suitable for continuous AI Coding in LAN or remote LAN environments."
+category = "chat"
+tags = ["chatgpt", "codex", "codex-desktop"]
+repository = "https://github.com/RyensX/OpenCodex"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-10-31

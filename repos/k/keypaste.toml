@@ -1,0 +1,9 @@
+name = "keypaste"
+description = "A KeePass-compatible password and secrets manager for people who work with AI agents."
+category = "other"
+tags = ["dotenv", "keepass", "mcp-server", "password-manager", "secrets-management"]
+repository = "https://github.com/notinferred/keypaste"
+website = "https://keypaste.com"
+license = "AGPL-3.0"
+language = "C#"
+added = 2026-10-31

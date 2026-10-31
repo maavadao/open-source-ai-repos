@@ -1,0 +1,9 @@
+name = "self-host"
+description = "Replace the SaaS you pay for. One binary installs and runs self-hosted apps at home, no Docker knowledge needed. Terminal dashboard for you, plain commands for your agent."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude-code", "cli", "docker-compose", "golang", "homarr", "home-assistant"]
+repository = "https://github.com/ajnart/self-host"
+website = "https://self-host.fyi"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-31

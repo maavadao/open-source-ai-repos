@@ -1,0 +1,9 @@
+name = "awesome-agent-skills"
+description = "🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具"
+category = "coding"
+tags = ["agent-skills", "ai", "awesome", "awesome-list", "claude", "copilot", "cursor"]
+repository = "https://github.com/JackyST0/awesome-agent-skills"
+website = "https://jackyst0.github.io/awesome-agent-skills/"
+license = "CC0-1.0"
+language = "JavaScript"
+added = 2026-10-31

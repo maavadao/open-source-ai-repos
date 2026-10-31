@@ -1,0 +1,9 @@
+name = "veridrop"
+description = "在线检测：veridrop.app｜AI API 中转站检测工具：Claude 中转站检测、OpenAI 中转站检测、Gemini 中转站检测，中转站真伪检测、长上下文验证、思维签名验证、中转站红黑榜，自托管开源。"
+category = "other"
+tags = ["ai-tools", "anthropic", "api-relay", "api-security", "api-verification", "claude", "claude-api", "developer-tools"]
+repository = "https://github.com/canarybyte/veridrop"
+website = "https://veridrop.app"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-31

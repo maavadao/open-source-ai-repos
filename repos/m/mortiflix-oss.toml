@@ -1,0 +1,8 @@
+name = "mortiflix-oss"
+description = "A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key."
+category = "skills-prompts"
+tags = ["ai-agents", "claude", "claude-code", "harness", "motion-design", "remotion", "video", "video-production"]
+repository = "https://github.com/GTKottman/mortiflix-oss"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-10-31

@@ -1,0 +1,9 @@
+name = "yutu"
+description = "CLI, MCP server, and AI agent to automate YouTube workflows"
+category = "mcp-servers"
+tags = ["agent", "ai", "automation", "bot", "chatgpt", "claude", "cli", "docker"]
+repository = "https://github.com/eat-pray-ai/yutu"
+website = "https://yutu.ifor.dev"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-31

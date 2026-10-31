@@ -1,0 +1,9 @@
+name = "claude-token-optimizer"
+description = "Cut the tokens Claude Code loads at session start. CLI that sets up a small CLAUDE.md with on-demand docs, measures startup tokens, and keeps them small."
+category = "skills-prompts"
+tags = ["agents-md", "ai-assistant", "automation", "claude", "claude-code", "claude-md", "cli", "context-engineering"]
+repository = "https://github.com/nadimtuhin/claude-token-optimizer"
+website = "https://www.npmjs.com/package/claude-token-optimizer"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-31

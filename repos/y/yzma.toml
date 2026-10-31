@@ -1,0 +1,8 @@
+name = "yzma"
+description = "Go with your own intelligence - Write Go applications that directly integrate llama.cpp for local inference using hardware acceleration on Linux, macOS, Windows, & WebAssembly."
+category = "local-llms"
+tags = ["arduino-uno-q", "cuda", "gguf", "golang", "jetson-orin-nano", "llama", "llamacpp", "llm"]
+repository = "https://github.com/hybridgroup/yzma"
+website = "https://yzma.ai"
+language = "Go"
+added = 2026-10-31

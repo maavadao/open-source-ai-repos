@@ -1,0 +1,7 @@
+name = "learning-papers"
+description = "Landmark Papers in Machine Learning"
+category = "ml-platforms"
+tags = ["machine-learning", "papers"]
+repository = "https://github.com/daturkel/learning-papers"
+license = "MIT"
+added = 2026-10-31

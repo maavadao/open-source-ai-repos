@@ -1,0 +1,9 @@
+name = "Aletheore"
+description = "Open source (AGPL-3.0) evidence-grounded repository audit CLI - deterministic scanner, MCP server, live dashboard, and a GitHub Action that posts PR diffs."
+category = "mcp-servers"
+tags = ["agpl-3", "code-review", "dependency-vulnerabilities", "github-actions", "mcp-server", "open-source", "secrets-detection", "static-analysis"]
+repository = "https://github.com/Aletheore/Aletheore"
+website = "https://www.aletheore.com"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-10-31

@@ -1,0 +1,9 @@
+name = "Chisle"
+description = "Cut your AI coding agent's token bill on three axes: terse prose, YAGNI-first code, and tool-output compression. Claude Code, Pi, Cursor, Codex, Gemini + 4 more. Zero deps, published benchmarks including the runs it loses."
+category = "skills-prompts"
+tags = ["agent-skills", "anthropic", "caveman", "caveman-alternative", "claude", "claude-ai", "claude-code", "claude-code-skill"]
+repository = "https://github.com/JayPokale/Chisle"
+website = "https://chisle.jaypokale.me"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-31

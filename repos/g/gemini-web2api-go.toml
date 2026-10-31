@@ -1,0 +1,8 @@
+name = "gemini-web2api-go"
+description = "Gemini web → OpenAI-compatible + native Gemini API, self-hosted, no API key. Reverse-proxies gemini.google.com into /v1/chat/completions + /v1beta generateContent: single Go binary, Chrome TLS fingerprint, cookie pool, auto-renewal, proxy pool, admin dashboard, SQLite/MySQL/PG, image & video genera…"
+category = "other"
+tags = ["api-proxy", "chrome-fingerprint", "free-gemini-api", "gemini", "gemini-api", "gemini-pro", "gemini-proxy", "gemini-web-api"]
+repository = "https://github.com/zexadev/gemini-web2api-go"
+license = "MIT"
+language = "Go"
+added = 2026-10-31

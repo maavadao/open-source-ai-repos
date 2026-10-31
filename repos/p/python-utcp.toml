@@ -1,0 +1,9 @@
+name = "python-utcp"
+description = "Official python implementation of UTCP. UTCP is an open standard that lets AI agents call any API directly, without extra middleware."
+category = "llm-apps"
+tags = ["ai", "ai-agent", "ai-agent-tools", "developer-tools", "llm", "mcp", "model-context-protocol", "python"]
+repository = "https://github.com/universal-tool-calling-protocol/python-utcp"
+website = "https://www.utcp.io/"
+license = "MPL-2.0"
+language = "Python"
+added = 2026-10-31

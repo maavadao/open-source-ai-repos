@@ -1,0 +1,8 @@
+name = "autoprompt"
+description = "AutoPrompt: Automatic Prompt Construction for Masked Language Models."
+category = "models"
+tags = ["evaluation", "language-model", "nlp"]
+repository = "https://github.com/ucinlp/autoprompt"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-31

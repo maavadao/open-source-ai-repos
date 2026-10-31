@@ -1,0 +1,9 @@
+name = "flutter_edge_ai"
+description = "On-device AI for Flutter — Gemma and other LLMs, multimodal, function calling, embeddings, RAG and speech on Android, iOS, Web, macOS, Windows and Linux."
+category = "vector-databases"
+tags = ["dart", "edge-ai", "embeddings", "flutter", "function-calling", "gemma", "litert", "llm"]
+repository = "https://github.com/DenisovAV/flutter_edge_ai"
+website = "https://flutteredge.ai"
+license = "MIT"
+language = "Dart"
+added = 2026-10-31

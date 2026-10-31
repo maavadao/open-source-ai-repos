@@ -1,0 +1,8 @@
+name = "open-ptc-agent"
+description = "An open source implementation of code execution with MCP (Programatic Tool Calling)"
+category = "mcp-servers"
+tags = ["agent", "daytona", "langchain", "langraph", "llm", "mcp"]
+repository = "https://github.com/Chen-zexi/open-ptc-agent"
+license = "MIT"
+language = "Python"
+added = 2026-10-31

@@ -1,0 +1,8 @@
+name = "axuse"
+description = "Accessibility-first browser & computer use for AI agents — one MCP server for every harness (Codex, Claude Code, OpenCode, Antigravity). Instruments the DOM/accessibility tree via CDP instead of screenshot loops: diffed snapshots, stable element refs, trusted input, typed errors. Zero dependencies"
+category = "mcp-servers"
+tags = ["agentic-automation", "ai-agents", "browser-automation", "browser-use", "cdp", "chrome-devtools-protocol", "computer-use", "cua"]
+repository = "https://github.com/ctoldigital/axuse"
+website = "https://ax-use.com"
+language = "JavaScript"
+added = 2026-10-31

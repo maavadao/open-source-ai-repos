@@ -1,0 +1,9 @@
+name = "mlops-v2"
+description = "Azure MLOps (v2) solution accelerators. Enterprise ready templates to deploy your machine learning models on the Azure Platform."
+category = "ml-platforms"
+tags = ["azure", "azuremachinelearning", "azureml", "deep-learning", "devops", "machine-learning", "microsoft", "mlops"]
+repository = "https://github.com/Azure/mlops-v2"
+website = "https://learn.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment"
+license = "MIT"
+language = "Shell"
+added = 2026-10-31

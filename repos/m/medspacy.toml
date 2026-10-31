@@ -1,0 +1,8 @@
+name = "medspacy"
+description = "Library for clinical NLP with spaCy."
+category = "other"
+tags = ["clinical-nlp", "medspacy", "nlp", "nlp-library", "pipeline", "spacy"]
+repository = "https://github.com/medspacy/medspacy"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-10-31

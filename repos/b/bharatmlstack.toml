@@ -1,0 +1,7 @@
+name = "BharatMLStack"
+description = "BharatMLStack is an open-source, end-to-end machine learning infrastructure stack built at Meesho to support real-time and batch ML workloads at Bharat scale"
+category = "ml-platforms"
+tags = ["ai", "feature-engineering", "feature-store-online", "machine-learning", "ml", "mlops"]
+repository = "https://github.com/Meesho/BharatMLStack"
+language = "Go"
+added = 2026-10-31

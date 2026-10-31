@@ -1,0 +1,9 @@
+name = "obsidian-mcp-server"
+description = "Read, write, search, and surgically edit Obsidian vault notes, tags, and frontmatter via MCP. STDIO or Streamable HTTP."
+category = "mcp-servers"
+tags = ["ai-agents", "ai-tools", "bun", "cyanheads", "knowledge-base", "mcp", "mcp-server", "model-context-protocol"]
+repository = "https://github.com/cyanheads/obsidian-mcp-server"
+website = "https://www.npmjs.com/package/obsidian-mcp-server"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-10-31

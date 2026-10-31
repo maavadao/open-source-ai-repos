@@ -1,0 +1,9 @@
+name = "casbin-gateway"
+description = "See what every AI coding agent on your machine is doing, and whether the API behind it is the one you paid for. Claude Code, Codex, Cursor, Gemini CLI and more: one endpoint for 44 model vendors, A–F API authenticity grading, per-agent permissions, usage and prompt records."
+category = "skills-prompts"
+tags = ["access-control", "agent-monitoring", "ai-agent", "ai-gateway", "anthropic", "api-proxy", "casbin", "claude-code"]
+repository = "https://github.com/apache/casbin-gateway"
+website = "https://gateway.casbin.org"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-10-31

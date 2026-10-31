@@ -1,0 +1,8 @@
+name = "terrashark"
+description = "Terraform Skill for Claude Code and Codex. LLMs hallucinate a lot with Terraform - TerraShark fixes this. It eliminates hallucinations, is designed for modular and secure code and grounds your IaC in the official Hashicorp Terraform best practices."
+category = "skills-prompts"
+tags = ["aws", "azure", "claude", "claude-code", "claude-code-skills", "claude-skills", "codex", "codex-skills"]
+repository = "https://github.com/LukasNiessen/terrashark"
+website = "https://terraformskill.com/"
+license = "MIT"
+added = 2026-10-31

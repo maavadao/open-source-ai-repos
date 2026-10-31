@@ -1,0 +1,9 @@
+name = "termio"
+description = "A terminal-first agentic development environment for agentic coding. Build for CLI/TUI agent. Runtime for Coding Agent, Tmux alternative"
+category = "skills-prompts"
+tags = ["ade", "agentic", "ai-agents", "claude-code", "cli", "codex", "coding-agents", "devtools"]
+repository = "https://github.com/termio-sh/termio"
+website = "https://termio.sh"
+license = "MIT"
+language = "Swift"
+added = 2026-10-31

@@ -1,0 +1,8 @@
+name = "godot-mcp-pro"
+description = "162 MCP tools for AI-powered Godot 4 development. Scene, animation, 3D, physics, particles, audio, shader, input simulation, runtime analysis, navigation, testing & more. $15 one-time."
+category = "mcp-servers"
+tags = ["ai", "ai-tools", "claude", "cursor", "game-development", "gamedev", "gdscript", "godot"]
+repository = "https://github.com/youichi-uda/godot-mcp-pro"
+website = "https://godot-mcp.abyo.net/"
+language = "GDScript"
+added = 2026-10-31

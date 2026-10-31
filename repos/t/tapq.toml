@@ -1,0 +1,9 @@
+name = "tapq"
+description = "Multi-modal voice agent for your AI agents. Talk with Claude Code, Codex, and others by voice: answer their prompts, give instructions, ask what they did. Or just nod."
+category = "skills-prompts"
+tags = ["accessibility", "ai-agents", "airpods", "claude-code", "cli", "codex", "coremotion", "cursor"]
+repository = "https://github.com/spaceamoeba-t/tapq"
+website = "https://tapq.ai"
+license = "Apache-2.0"
+language = "Swift"
+added = 2026-10-31

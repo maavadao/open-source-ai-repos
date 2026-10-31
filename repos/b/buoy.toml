@@ -1,0 +1,7 @@
+name = "buoy"
+description = "Devtools that live in your React Native app. And answer to your agent. 25+ tools · desktop dashboard · MCP server for AI agents"
+category = "mcp-servers"
+tags = ["android", "debugging", "developer-tools", "devtools", "expo", "ios", "mcp", "react"]
+repository = "https://github.com/Buoy-gg/buoy"
+website = "https://buoy.gg"
+added = 2026-10-31

@@ -1,0 +1,8 @@
+name = "arbigent"
+description = "AI Agent for testing Android, iOS, and Web apps. Get Started in 5 Minutes. Arbigent's intuitive UI and powerful code interface make it accessible to everyone, while its scenario breakdown feature ensures scalability for even the most complex tasks."
+category = "agents"
+tags = ["agentic", "ai", "aiagent", "android", "gemini", "ios", "openai-api", "testing"]
+repository = "https://github.com/takahirom/arbigent"
+license = "Apache-2.0"
+language = "Kotlin"
+added = 2026-10-31

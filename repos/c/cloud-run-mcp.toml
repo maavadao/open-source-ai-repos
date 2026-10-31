@@ -1,0 +1,8 @@
+name = "cloud-run-mcp"
+description = "MCP server to deploy apps to Cloud Run"
+category = "mcp-servers"
+tags = ["google-cloud", "google-cloud-run", "mcp", "mcp-server"]
+repository = "https://github.com/GoogleCloudPlatform/cloud-run-mcp"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-31

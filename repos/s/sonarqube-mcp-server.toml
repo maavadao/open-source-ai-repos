@@ -1,0 +1,8 @@
+name = "sonarqube-mcp-server"
+description = "Official SonarQube MCP Server for code quality and security in AI agents"
+category = "mcp-servers"
+tags = ["agent", "ai", "code-quality", "mcp", "mcp-server", "security", "sonarqube", "static-analysis"]
+repository = "https://github.com/SonarSource/sonarqube-mcp-server"
+website = "https://www.sonarsource.com/products/sonarqube/mcp-server/"
+language = "Java"
+added = 2026-10-31

@@ -1,0 +1,8 @@
+name = "clearai-dsh"
+description = "ClearAI：以本体为纲的原生 DSH 插件 —— 经证据核验的研究长成可浏览的领域本体。 · ClearAI: an ontology-first DSH agent preset — evidence-checked research that grows into a domain ontology."
+category = "agents"
+tags = ["agent-preset", "ai-agents", "deepseek-harness", "dsh", "dsh-plugin", "dsh-plugins", "epistemic-loop", "scientific-discovery"]
+repository = "https://github.com/Clearailhc/clearai-dsh"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-10-31

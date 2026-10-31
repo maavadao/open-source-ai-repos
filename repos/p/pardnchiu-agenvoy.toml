@@ -1,0 +1,9 @@
+name = "Agenvoy"
+description = "A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ollama"
+category = "mcp-servers"
+tags = ["agentic-ai", "ai", "ai-agent", "ai-agents", "ai-assistant", "claude-code", "go", "golang"]
+repository = "https://github.com/pardnchiu/Agenvoy"
+website = "https://agenvoy.com/"
+license = "AGPL-3.0"
+language = "Go"
+added = 2026-10-31

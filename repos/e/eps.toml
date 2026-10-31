@@ -1,0 +1,8 @@
+name = "eps"
+description = "Machine learning for Ruby"
+category = "ml-platforms"
+tags = ["automl", "machine-learning", "rubyml"]
+repository = "https://github.com/ankane/eps"
+license = "MIT"
+language = "Ruby"
+added = 2026-10-31

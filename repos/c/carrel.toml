@@ -1,0 +1,8 @@
+name = "carrel"
+description = "Ontology-Augmented Generation for AI agents."
+category = "agents"
+tags = ["agent-skills", "ai-agents", "dgx-spark", "document-parsing", "icloud-sync", "knowledge-graph", "mineru", "neo4j"]
+repository = "https://github.com/FengZhenfei/carrel"
+license = "MIT"
+language = "Python"
+added = 2026-10-31

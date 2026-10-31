@@ -1,0 +1,8 @@
+name = "flutter-ai-rules"
+description = "Flutter AI Skills and Rules for Claude, Codex, Cursor, and Other AI-Powered IDEs"
+category = "skills-prompts"
+tags = ["ai", "ai-rules", "ai-skills", "antigravity", "claude", "claude-ai", "claude-code", "claude-skills"]
+repository = "https://github.com/evanca/flutter-ai-rules"
+license = "MIT"
+language = "Shell"
+added = 2026-10-31

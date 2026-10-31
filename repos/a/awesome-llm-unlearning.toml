@@ -1,0 +1,7 @@
+name = "awesome-llm-unlearning"
+description = "A resource repository for machine unlearning in large language models"
+category = "llm-apps"
+tags = ["ai-safety", "alignment", "awesome", "awesome-list", "evaluation", "knowledge-erasure", "large-language-model", "llm"]
+repository = "https://github.com/chrisliu298/awesome-llm-unlearning"
+license = "Apache-2.0"
+added = 2026-10-31

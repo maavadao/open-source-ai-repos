@@ -1,0 +1,9 @@
+name = "FEDOT"
+description = "Automated modeling and machine learning framework FEDOT"
+category = "ml-platforms"
+tags = ["automated-machine-learning", "automation", "automl", "evolutionary-algorithms", "fedot", "genetic-programming", "hyperparameter-optimization", "machine-learning"]
+repository = "https://github.com/aimclub/FEDOT"
+website = "https://fedot.readthedocs.io"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-10-31

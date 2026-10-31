@@ -1,0 +1,9 @@
+name = "claude-desktop-extra"
+description = "Unofficial Linux packages for Claude Desktop AI assistant with automated updates."
+category = "other"
+tags = ["anthropic", "appimage", "arch-linux", "aur", "claude", "claude-desktop", "deb", "electron"]
+repository = "https://github.com/patrickjaja/claude-desktop-extra"
+website = "https://patrickjaja.github.io/claude-desktop-bin/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-10-31

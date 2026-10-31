@@ -1,0 +1,8 @@
+name = "CAD-MCP"
+description = "CAD MCP Server"
+category = "mcp-servers"
+tags = ["ai", "cad", "cadmcp", "mcp", "model-context-protocol"]
+repository = "https://github.com/daobataotie/CAD-MCP"
+license = "MIT"
+language = "Python"
+added = 2026-10-31

@@ -1,0 +1,9 @@
+name = "boardui"
+description = "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage."
+category = "agents"
+tags = ["agentic-ai", "ai-agent", "ai-chat", "boardui", "design-system", "nextjs", "react", "react-components"]
+repository = "https://github.com/BoardUI/boardui"
+website = "https://www.boardui.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-31

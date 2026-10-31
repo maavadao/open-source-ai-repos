@@ -1,0 +1,8 @@
+name = "Claude-Code-Usage-Monitor"
+description = "Windows taskbar widget for Claude Code, Codex, Cursor and more. Track usage limits and reset times. Free and open source."
+category = "skills-prompts"
+tags = ["claude", "claude-code", "codex", "cursor", "open-source", "openai", "rust", "usage-monitor"]
+repository = "https://github.com/CodeZeno/Claude-Code-Usage-Monitor"
+license = "MIT"
+language = "Rust"
+added = 2026-10-31

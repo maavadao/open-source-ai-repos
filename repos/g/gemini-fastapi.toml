@@ -1,0 +1,8 @@
+name = "Gemini-FastAPI"
+description = "Web-based Gemini models wrapped into an OpenAI-compatible API."
+category = "other"
+tags = ["fastapi", "gemini", "openai-api"]
+repository = "https://github.com/Nativu5/Gemini-FastAPI"
+license = "MIT"
+language = "Python"
+added = 2026-10-31

@@ -1,0 +1,8 @@
+name = "MOSS-Audio"
+description = "An open-source model for understanding speech, environmental sounds, and music through captioning, question answering, and reasoning"
+category = "models"
+tags = ["audio-captioning", "audio-question-answering", "audio-understanding", "multimodal", "music", "speech"]
+repository = "https://github.com/OpenMOSS/MOSS-Audio"
+website = "https://openmoss.ai/MOSS-Audio/"
+language = "Python"
+added = 2026-10-31

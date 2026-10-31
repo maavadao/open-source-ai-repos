@@ -1,0 +1,8 @@
+name = "ai-draw"
+description = "Create and edit drawings through conversation."
+category = "other"
+tags = ["ai-agent", "ai-drawing", "diagramming", "drawing-tools", "excalidraw", "flowchart", "generative-ai", "natural-language"]
+repository = "https://github.com/bugkeep/ai-draw"
+license = "MIT"
+language = "Python"
+added = 2026-10-31

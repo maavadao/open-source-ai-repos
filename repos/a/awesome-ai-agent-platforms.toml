@@ -1,0 +1,9 @@
+name = "awesome-ai-agent-platforms"
+description = "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses."
+category = "agents"
+tags = ["agent-frameworks", "ai-agent-platforms", "ai-agents", "ai-coworker", "awesome", "awesome-list", "browser-agents", "coding-agents"]
+repository = "https://github.com/Agenta-AI/awesome-ai-agent-platforms"
+website = "https://aiagentplatforms.dev"
+license = "CC0-1.0"
+language = "Astro"
+added = 2026-10-31

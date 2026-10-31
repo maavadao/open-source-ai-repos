@@ -1,0 +1,9 @@
+name = "FLUJO"
+description = "Multi-Agent + Automation Harness: Graph-based Workflows, MCP, Self-Improving Agents. NextJs+React"
+category = "mcp-servers"
+tags = ["agentic-ai", "agentic-framework", "agentic-workflow", "ai-chat", "automation", "autonomous-agents", "claude", "claude-code"]
+repository = "https://github.com/mario-andreschak/FLUJO"
+website = "https://try.flujo.com.co"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-31

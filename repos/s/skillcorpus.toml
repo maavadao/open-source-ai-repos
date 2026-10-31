@@ -1,0 +1,9 @@
+name = "SkillCorpus"
+description = "Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included."
+category = "vector-databases"
+tags = ["agent-memory", "agent-skills", "ai-agents", "benchmark", "dataset", "deepseek-harness", "dsh", "dsh-plugin"]
+repository = "https://github.com/EverMind-AI/SkillCorpus"
+website = "https://evermind.ai/skillhub"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-10-31

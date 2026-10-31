@@ -1,0 +1,8 @@
+name = "recap"
+description = "Recap AI for YouTube summaries, a searchable transcript and chat about the video"
+category = "chat"
+tags = ["chatgpt", "chrome-extension", "openai", "plasmo", "reactjs", "shadcn-ui", "tailwindcss", "youtube-extension"]
+repository = "https://github.com/PaoloJN/recap"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-31

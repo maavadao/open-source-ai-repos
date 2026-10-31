@@ -1,0 +1,9 @@
+name = "instagram-skills"
+description = "Instagram marketing skills for Claude Code and Codex: captions, carousels, hooks, hashtag strategy, and a weekly plan. Draft, humanize, and publish via Publora. MIT. Content engineering by Creative Content Crafts."
+category = "skills-prompts"
+tags = ["agent-skill", "ai-agents", "ai-marketing", "captions", "claude-code", "claude-skills", "codex", "content-creation"]
+repository = "https://github.com/sergebulaev/instagram-skills"
+website = "https://cccrafts.ai"
+license = "MIT"
+language = "Python"
+added = 2026-10-31

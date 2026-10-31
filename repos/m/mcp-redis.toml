@@ -1,0 +1,9 @@
+name = "mcp-redis"
+description = "The official Redis MCP Server is a natural language interface designed for agentic applications to manage and search data in Redis efficiently"
+category = "mcp-servers"
+tags = ["database", "genai", "llm", "mcp", "mcp-server", "redis"]
+repository = "https://github.com/redis/mcp-redis"
+website = "https://redis.io/docs/latest/integrate/redis-mcp/"
+license = "MIT"
+language = "Python"
+added = 2026-10-31

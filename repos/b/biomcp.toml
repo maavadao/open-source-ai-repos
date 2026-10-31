@@ -1,0 +1,9 @@
+name = "biomcp"
+description = "BioMCP: Biomedical Model Context Protocol"
+category = "mcp-servers"
+tags = ["ai", "bioinformatics", "clinical-trials", "genomics", "llm", "mcp", "mcp-server", "medical"]
+repository = "https://github.com/genomoncology/biomcp"
+website = "https://biomcp.org/"
+license = "MIT"
+language = "Rust"
+added = 2026-10-31

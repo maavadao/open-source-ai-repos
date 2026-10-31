@@ -1,0 +1,8 @@
+name = "Quantus"
+description = "[JMLR 2023] Quantus is an eXplainable AI toolkit for responsible evaluation of neural network explanations"
+category = "ml-platforms"
+tags = ["deep-learning", "explainable-ai", "interpretability", "machine-learning", "pytorch", "quantification-evaluation-methods", "reproducibility", "tensorflow"]
+repository = "https://github.com/understandable-machine-intelligence-lab/Quantus"
+website = "https://quantus.readthedocs.io/"
+language = "Jupyter Notebook"
+added = 2026-10-31

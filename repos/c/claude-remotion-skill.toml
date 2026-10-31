@@ -1,0 +1,9 @@
+name = "claude-remotion-skill"
+description = "Open-source Claude agent skill that teaches Claude Code, Claude Desktop & Claude AI to create and edit professional motion graphics videos with Remotion. AI video editing, B-roll, captions, sound design — from one prompt."
+category = "skills-prompts"
+tags = ["ai-agents", "ai-video", "ai-video-editor", "ai-video-generation", "anthropic", "claude", "claude-agent-skills", "claude-ai"]
+repository = "https://github.com/haidrrrry/claude-remotion-skill"
+website = "https://instagram.com/haidercodes"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-31

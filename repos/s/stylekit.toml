@@ -1,0 +1,9 @@
+name = "stylekit"
+description = "149 curated web & UI design styles, each with copy-ready AI prompts, design tokens and component recipes. | StyleKit（stylekit.top）：149 种网页与 UI 设计风格，每种附可直接复制的 AI 提示词、设计 tokens 与组件配方。"
+category = "skills-prompts"
+tags = ["ai-frontend", "ai-prompts", "claude", "cursor", "design-system", "design-tokens", "mcp", "prompt-engineering"]
+repository = "https://github.com/AnxForever/stylekit"
+website = "https://www.stylekit.top"
+license = "MIT"
+language = "TypeScript"
+added = 2026-10-31

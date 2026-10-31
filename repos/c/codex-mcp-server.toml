@@ -1,0 +1,8 @@
+name = "codex-mcp-server"
+description = "MCP server wrapper for OpenAI Codex CLI that enables Claude Code to leverage Codex's AI capabilities directly."
+category = "mcp-servers"
+tags = ["claude-code", "codex", "cursor", "mcp"]
+repository = "https://github.com/tuannvm/codex-mcp-server"
+website = "https://docs.tuannvm.com/codex-mcp-server"
+language = "TypeScript"
+added = 2026-10-31
