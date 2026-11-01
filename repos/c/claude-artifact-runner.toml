@@ -1,0 +1,8 @@
+name = "claude-artifact-runner"
+description = "From Claude Artifact to deployable React app — in seconds!"
+category = "other"
+tags = ["ai", "artifacts", "boilerplate", "canvas", "claude", "react", "recharts", "shadcn-ui"]
+repository = "https://github.com/claudio-silva/claude-artifact-runner"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-01

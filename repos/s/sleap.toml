@@ -1,0 +1,9 @@
+name = "sleap"
+description = "A deep learning framework for multi-animal pose tracking."
+category = "ml-platforms"
+tags = ["animal-pose-estimation", "animal-tracking", "behavior-analysis", "deep-learning", "leap", "pose-estimation", "sleap"]
+repository = "https://github.com/talmolab/sleap"
+website = "https://sleap.ai"
+license = "BSD-3-Clause-Clear"
+language = "Python"
+added = 2026-11-01

@@ -1,0 +1,9 @@
+name = "mycoder"
+description = "Simple to install, powerful command-line based AI agent system for coding."
+category = "agents"
+tags = ["agent", "agentic", "ai", "claude", "coder", "coding", "software", "swe"]
+repository = "https://github.com/bhouston/mycoder"
+website = "https://mycoder.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-01

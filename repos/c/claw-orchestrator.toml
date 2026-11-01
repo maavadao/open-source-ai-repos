@@ -1,0 +1,9 @@
+name = "claw-orchestrator"
+description = "Run Claude Code, Codex, Antigravity, Grok Build and OpenCode behind one runtime, and a run only counts as done when checks it didn't write pass. Cross-engine fan-out, councils, session handoff, spend caps, MCP server, ACP agent."
+category = "mcp-servers"
+tags = ["acp", "agent-client-protocol", "agent-orchestration", "agentic-workflow", "ai-agent", "ai-code-verification", "antigravity", "claude-code"]
+repository = "https://github.com/Enderfga/claw-orchestrator"
+website = "https://github.com/Enderfga/claw-orchestrator#readme"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-01

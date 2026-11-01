@@ -1,0 +1,8 @@
+name = "janas"
+description = "37 tok/s from Qwen3-Next-80B (48 GB) on a 32 GB laptop, 24 without drafts vs 2.8 for llama.cpp; reading 62 vs 16 tok/s. Faster than llama.cpp on all 13 models compared in Q4_K_M. LLMs bigger than your RAM, pure C, CPU or GPU."
+category = "local-llms"
+tags = ["avx2", "c", "cpu-inference", "gguf", "inference-engine", "linux", "llm", "local-llm"]
+repository = "https://github.com/prabanta-dev/janas"
+license = "GPL-3.0"
+language = "C"
+added = 2026-11-01

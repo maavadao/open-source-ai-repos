@@ -1,0 +1,8 @@
+name = "HermesPet"
+description = "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）"
+category = "chat"
+tags = ["ai", "chatgpt", "chinese", "claude", "deepseek", "desktop-app", "dynamic-island", "llm"]
+repository = "https://github.com/basionwang-bot/HermesPet"
+website = "https://hermespet.cc"
+language = "TypeScript"
+added = 2026-11-01

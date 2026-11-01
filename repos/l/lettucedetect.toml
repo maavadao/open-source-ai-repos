@@ -1,0 +1,9 @@
+name = "LettuceDetect"
+description = "Span-level grounding verification for RAG, code, and tool-grounded AI outputs."
+category = "ml-platforms"
+tags = ["bert", "hallucination-detection", "hallucination-evaluation", "information-extraction", "nlp", "python", "pytorch", "token-classification"]
+repository = "https://github.com/KRLabsOrg/LettuceDetect"
+website = "https://krlabsorg.github.io/LettuceDetect"
+license = "MIT"
+language = "Python"
+added = 2026-11-01

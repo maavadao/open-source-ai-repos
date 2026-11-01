@@ -1,0 +1,9 @@
+name = "crater"
+description = "Crater is a cloud-native AI training & inference platform."
+category = "local-llms"
+tags = ["buildkit", "deep-learning", "envd", "fumadocs", "helm-charts", "jupyter-notebook", "kubernetes", "llama-factory"]
+repository = "https://github.com/raids-lab/crater"
+website = "https://raids-lab.github.io/crater/en/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-11-01

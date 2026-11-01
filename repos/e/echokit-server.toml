@@ -1,0 +1,9 @@
+name = "echokit_server"
+description = "Open Source Voice Agent Platform"
+category = "agents"
+tags = ["agentic-ai", "ai", "asr", "esp32", "llm", "mcp", "mcp-client", "tts"]
+repository = "https://github.com/second-state/echokit_server"
+website = "https://echokit.dev/"
+license = "GPL-3.0"
+language = "Rust"
+added = 2026-11-01

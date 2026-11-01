@@ -1,0 +1,9 @@
+name = "ironcurtain"
+description = "A secure* runtime for autonomous AI agents. Policy from plain-English constitutions. (*https://ironcurtain.dev)"
+category = "agents"
+tags = ["agent", "mcp", "model-context-protocol", "policy", "sandbox", "security", "trusted-process"]
+repository = "https://github.com/provos/ironcurtain"
+website = "https://ironcurtain.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-01

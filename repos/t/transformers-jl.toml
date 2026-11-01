@@ -1,0 +1,8 @@
+name = "Transformers.jl"
+description = "Julia Implementation of Transformer models"
+category = "ml-platforms"
+tags = ["attention", "deep-learning", "flux", "machine-learning", "natural-language-processing", "nlp", "transformer"]
+repository = "https://github.com/chengchingwen/Transformers.jl"
+license = "MIT"
+language = "Julia"
+added = 2026-11-01

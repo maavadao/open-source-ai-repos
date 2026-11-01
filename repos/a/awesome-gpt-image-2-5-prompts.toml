@@ -1,0 +1,8 @@
+name = "awesome-gpt-image-2-5-prompts"
+description = "GPT Image 2.5 prompts, verbatim and credited: 150 community prompts across 9 use cases, each with the author who wrote it and their post. Free to run."
+category = "skills-prompts"
+tags = ["ai-prompts", "awesome-list", "chatgpt-image-2-5-prompts", "gpt-image", "gpt-image-2", "gpt-image-2-5", "gpt-image-2-5-prompts", "image-generation"]
+repository = "https://github.com/youart-open-source/awesome-gpt-image-2-5-prompts"
+website = "https://youart.ai/gpt-image-2-5-prompts?utm_source=github&utm_medium=about&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=homepage"
+language = "JavaScript"
+added = 2026-11-01

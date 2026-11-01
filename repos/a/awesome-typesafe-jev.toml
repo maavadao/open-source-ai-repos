@@ -1,0 +1,9 @@
+name = "awesome-typesafe-jev"
+description = "Awesome Jev: a source-backed field guide to TypeSafe's System One model, with SDKs, live demos, agent tools, and independent evaluations."
+category = "agents"
+tags = ["agent-skills", "ai-agents", "awesome", "awesome-jev", "awesome-list", "awesome-lists", "curated-list", "developer-tools"]
+repository = "https://github.com/AbdelStark/awesome-typesafe-jev"
+website = "https://abdelstark.github.io/awesome-typesafe-jev/"
+license = "MIT"
+language = "HTML"
+added = 2026-11-01

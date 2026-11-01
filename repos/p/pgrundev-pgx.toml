@@ -1,0 +1,9 @@
+name = "pgx"
+description = "PGX — Lightweight Postgres for AI agents. Written in Rust. Thousands of isolated databases in one runtime🐘"
+category = "agents"
+tags = ["agents", "ai-infrastructure", "ai-infrastructure-development", "ai-infrastructure-software", "database", "open-source", "postgres", "postgresql"]
+repository = "https://github.com/pgrundev/pgx"
+website = "https://pgx.dev"
+license = "AGPL-3.0"
+language = "Rust"
+added = 2026-11-01

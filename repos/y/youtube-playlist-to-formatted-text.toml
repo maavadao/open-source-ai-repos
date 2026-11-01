@@ -1,0 +1,8 @@
+name = "Youtube-playlist-to-formatted-text"
+description = "A desktop application that extracts YouTube playlist transcripts and enhances them using Google's Gemini AI models. The output is a book in any language you want."
+category = "llm-apps"
+tags = ["datahoarder", "deep-learning", "gemini", "gemini-api", "gemini-flash", "llm", "productivity", "pyqt5"]
+repository = "https://github.com/Ebrizzzz/Youtube-playlist-to-formatted-text"
+license = "MIT"
+language = "Python"
+added = 2026-11-01

@@ -1,0 +1,9 @@
+name = "SpringNote"
+description = "SpringNote is a note-taking tool for the lazy. Just jot things down, and AI tidies up the scattered pieces for you, making recording effortless."
+category = "chat"
+tags = ["chatgpt", "claude", "deepseek", "flutter", "gemini", "macos", "markdown", "rust"]
+repository = "https://github.com/Radiant303/SpringNote"
+website = "https://radiant303.github.io/SpringNote/"
+license = "AGPL-3.0"
+language = "Dart"
+added = 2026-11-01

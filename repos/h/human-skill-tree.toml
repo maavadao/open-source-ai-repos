@@ -1,0 +1,7 @@
+name = "human-skill-tree"
+description = "🌳 AI-Powered Skill Tree for Lifelong Human Learning. 30+ skills from K-12 to career & social intelligence, built on cognitive science. | 人类养成记：AI 驱动的终身学习技能树"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-education", "ai-learning", "ai-tutor", "chatgpt", "claude-code", "claude-skills", "cognitive-science"]
+repository = "https://github.com/24kchengYe/human-skill-tree"
+language = "TypeScript"
+added = 2026-11-01

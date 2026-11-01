@@ -1,0 +1,9 @@
+name = "CodeNomad"
+description = "CodeNomad: The command center that puts AI coding on steroids."
+category = "coding"
+tags = ["agentic-coding", "ai", "ai-coding", "coding-agent", "desktop-app", "developer-tools", "electron", "llm"]
+repository = "https://github.com/NeuralNomadsAI/CodeNomad"
+website = "https://neuralnomadsai.github.io/CodeNomad/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-01

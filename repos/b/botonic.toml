@@ -1,0 +1,9 @@
+name = "botonic"
+description = "Build chatbots and conversational experiences using React"
+category = "agents"
+tags = ["ai-agents", "bot-framework", "bots", "chatbots", "cms", "conversational-apps", "conversational-interfaces", "conversational-ui"]
+repository = "https://github.com/hubtype/botonic"
+website = "https://botonic.io"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-01

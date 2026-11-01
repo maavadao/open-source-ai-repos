@@ -1,0 +1,8 @@
+name = "aora-bot"
+description = "Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。"
+category = "chat"
+tags = ["ai", "ai-agent", "animation", "bot", "chatbot", "desktop-pet", "emotion", "grok"]
+repository = "https://github.com/sam70361/aora-bot"
+website = "https://emotion-balls.vercel.app/"
+language = "JavaScript"
+added = 2026-11-01

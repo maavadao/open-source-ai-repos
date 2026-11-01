@@ -1,0 +1,9 @@
+name = "pi-llm-wiki"
+description = "Self-maintaining, Obsidian-compatible knowledge base for pi — turn raw sources into an interlinked wiki that compounds. Native Open Knowledge Format (OKF) v0.2."
+category = "other"
+tags = ["ai-memory", "interoperability", "karpathy", "knowledge-base", "knowledge-management", "llm-wiki", "markdown", "mcp"]
+repository = "https://github.com/zosmaai/pi-llm-wiki"
+website = "https://zosmaai.github.io/pi-llm-wiki/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-01

@@ -1,0 +1,9 @@
+name = "Fast_Sentence_Embeddings"
+description = "Compute Sentence Embeddings Fast!"
+category = "vector-databases"
+tags = ["cython", "document-similarity", "embeddings", "fasttext", "fse", "gensim", "gensim-model", "nlp"]
+repository = "https://github.com/oborchers/Fast_Sentence_Embeddings"
+website = "https://www.drborchers.com"
+license = "MIT"
+language = "Python"
+added = 2026-11-01

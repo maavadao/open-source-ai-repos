@@ -1,0 +1,8 @@
+name = "dbt-mcp"
+description = "A MCP (Model Context Protocol) server for interacting with dbt."
+category = "mcp-servers"
+tags = ["data-analytics", "data-engineering", "dbt", "llm", "mcp", "mcp-server", "model-context-protocol"]
+repository = "https://github.com/dbt-labs/dbt-mcp"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-01

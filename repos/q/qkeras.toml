@@ -1,0 +1,8 @@
+name = "qkeras"
+description = "QKeras: a quantization deep learning library for Tensorflow Keras"
+category = "local-llms"
+tags = ["accelerator", "asic-design", "deep-learning", "fpga", "fpga-accelerator", "hardware-acceleration", "keras", "machine-learning"]
+repository = "https://github.com/google/qkeras"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-01

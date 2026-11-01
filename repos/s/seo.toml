@@ -1,0 +1,9 @@
+name = "seo"
+description = "SEO for agent-native teams. Your agent gets your real Search Console, Google Analytics, Bing and crawl data through an MCP server and CLI, so it stops guessing."
+category = "mcp-servers"
+tags = ["ai-agents", "cli", "google-analytics", "google-search-console", "mcp", "search-console", "seo", "technical-seo"]
+repository = "https://github.com/iannuttall/seo"
+website = "https://seoskill.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-01

@@ -1,0 +1,9 @@
+name = "seo-monster"
+description = "SEOMonster: a local, user-credential-driven MCP server for SEO workflows over Google Search Console, GA4, PageSpeed Insights, and Cloudflare. Read-first, open source."
+category = "mcp-servers"
+tags = ["ai", "anthropic", "claude", "cloudflare", "core-web-vitals", "crux", "ga4", "indexnow"]
+repository = "https://github.com/avansaber/seo-monster"
+website = "https://seomonster.avansaber.com/"
+license = "MIT"
+language = "Python"
+added = 2026-11-01

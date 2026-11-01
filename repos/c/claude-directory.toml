@@ -1,0 +1,9 @@
+name = "claude-directory"
+description = "Open-source AI interfaces built with Claude (Fable 5) including hero sections, GLSL shaders, design systems, animations, 3D components and and landing pages, in React, Tailwind, and Three.js. Plug them into your AI agent and ship faster."
+category = "other"
+tags = ["ai-generated", "anthropic", "claude", "claude-ai", "design-system", "frontend", "generative-ui", "glsl-shaders"]
+repository = "https://github.com/pulkitxm/claude-directory"
+website = "https://pulkit.page/claude-directory"
+license = "MIT"
+language = "HTML"
+added = 2026-11-01

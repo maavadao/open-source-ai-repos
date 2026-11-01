@@ -1,0 +1,8 @@
+name = "HERO-Anti-OverDefense"
+description = "HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI."
+category = "skills-prompts"
+tags = ["agents-md", "ai-agents", "antigravity", "claude-code", "claude-md", "codex", "coding-agent", "cursor"]
+repository = "https://github.com/wanshuiyin/HERO-Anti-OverDefense"
+license = "MIT"
+language = "Python"
+added = 2026-11-01

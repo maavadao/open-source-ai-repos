@@ -1,0 +1,9 @@
+name = "desktop"
+description = "Agentify Desktop lets Codex/Claude/OpenCode control your logged-in ChatGPT, Claude, AiStudio, Gemini, Grok, Perplexity web sessions via MCP, parallel hidden/visible tabs, file upload + image download"
+category = "mcp-servers"
+tags = ["aistudio", "chatgpt", "codex", "electron", "gemini", "grok", "mcp", "model-context-protocol"]
+repository = "https://github.com/agentify-sh/desktop"
+website = "https://agentify.sh"
+license = "MPL-2.0"
+language = "JavaScript"
+added = 2026-11-01

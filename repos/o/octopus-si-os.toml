@@ -1,0 +1,8 @@
+name = "Octopus-SI-OS"
+description = "A self-evolving agentic OS. A new architecture for agent execution, built on operating-system principles, with the harness as a path toward superintelligence."
+category = "agents"
+tags = ["agent-framework", "agentic-os", "ai-agents", "chatgpt", "codex", "computer-use", "llm", "macos"]
+repository = "https://github.com/miuuyy/Octopus-SI-OS"
+license = "MIT"
+language = "Rust"
+added = 2026-11-01

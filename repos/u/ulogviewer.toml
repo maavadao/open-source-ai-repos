@@ -1,0 +1,9 @@
+name = "ULogViewer"
+description = "Cross-Platform, Agent-Native Universal Log Viewer."
+category = "other"
+tags = ["agent-native", "android-development", "cross-platform", "customizable", "dotnet", "filter", "git-log", "linux"]
+repository = "https://github.com/carina-studio/ULogViewer"
+website = "https://carinastudio.net/ULogViewer/"
+license = "MIT"
+language = "C#"
+added = 2026-11-01

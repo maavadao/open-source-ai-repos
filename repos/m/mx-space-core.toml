@@ -1,0 +1,7 @@
+name = "core"
+description = "AI-powered CMS core for personal blogs and creator websites, with AI summaries, translation, moderation, and writing workflows."
+category = "speech"
+tags = ["ai", "ai-cms", "ai-summary", "ai-translation", "blog-cms", "claude", "content-workflow", "creator-tools"]
+repository = "https://github.com/mx-space/core"
+language = "TypeScript"
+added = 2026-11-01

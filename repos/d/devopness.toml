@@ -1,0 +1,9 @@
+name = "devopness"
+description = "Devopness: AI DevOps on your cloud. Deploy apps, infra and CI/CD. Any cloud and any stack, one MCP. Deterministic API, opinionated and fully configurable. No cloud credentials in AI chats. Free plan."
+category = "mcp-servers"
+tags = ["aws", "azure", "ci-cd", "cloud-infrastructure", "deployment", "deployment-automation", "devops", "devops-tools"]
+repository = "https://github.com/devopness/devopness"
+website = "https://www.devopness.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-01

@@ -1,0 +1,8 @@
+name = "mcp-sequentialthinking-tools"
+description = "🧠 An adaptation of the MCP Sequential Thinking Server to guide tool usage. This server provides recommendations for which MCP tools would be most effective at each stage."
+category = "mcp-servers"
+tags = ["mcp", "model-context-protocol", "modelcontextprotocol", "tool"]
+repository = "https://github.com/spences10/mcp-sequentialthinking-tools"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-01

@@ -1,0 +1,7 @@
+name = "awesome-gemini-cli"
+description = "A curated list of awesome tools, extensions, and resources for Gemini CLI."
+category = "learning"
+tags = ["awesome", "awesome-gemini-cli", "awesome-list", "awesome-lists", "gemini", "gemini-api", "gemini-cli", "llxprt"]
+repository = "https://github.com/Piebald-AI/awesome-gemini-cli"
+license = "CC0-1.0"
+added = 2026-11-01

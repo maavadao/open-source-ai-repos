@@ -1,0 +1,8 @@
+name = "hands-on-nltk-tutorial"
+description = "The hands-on NLTK tutorial for NLP in Python"
+category = "learning"
+tags = ["binder", "didactic", "jupyter", "jupyter-notebook", "jupyter-notebooks", "nlp", "nlp-machine-learning", "nlp-resources"]
+repository = "https://github.com/hb20007/hands-on-nltk-tutorial"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-11-01

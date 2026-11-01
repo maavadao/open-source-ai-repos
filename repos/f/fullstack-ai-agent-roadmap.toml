@@ -1,0 +1,6 @@
+name = "fullstack-ai-agent-roadmap"
+description = "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文"
+category = "llm-apps"
+tags = ["ai", "ai-agent", "chinese", "claude", "fastapi", "fullstack", "javascript", "langgraph"]
+repository = "https://github.com/Karovia/fullstack-ai-agent-roadmap"
+added = 2026-11-01

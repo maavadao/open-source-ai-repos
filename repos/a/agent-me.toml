@@ -1,0 +1,9 @@
+name = "agent-me"
+description = "Distill your knowledge, memories, and decisions into an open-source, inspectable AI Agent Twin."
+category = "agents"
+tags = ["agentic-ai", "ai", "ai-agent", "ai-agents", "digital-twin", "knowledge-graph", "llm", "memory"]
+repository = "https://github.com/jzjzzzzzzz/agent-me"
+website = "https://jz-ai-chat.com"
+license = "MIT"
+language = "Python"
+added = 2026-11-01

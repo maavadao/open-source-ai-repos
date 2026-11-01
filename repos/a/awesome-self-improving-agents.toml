@@ -1,0 +1,9 @@
+name = "Awesome-Self-Improving-Agents"
+description = "A curated list for Self-Improvement in Foundation Model Based Agentic Systems."
+category = "agents"
+tags = ["agent", "agent-survey", "agentic-ai", "awesome-list", "llm", "recursive-self-improvement", "self-evolving", "self-improving-agents"]
+repository = "https://github.com/selfimproving-agent/Awesome-Self-Improving-Agents"
+website = "https://selfimproving-agent.github.io/"
+license = "MIT"
+language = "TeX"
+added = 2026-11-01

@@ -1,0 +1,8 @@
+name = "ccmate"
+description = "Configure your Claude Code without pain"
+category = "other"
+tags = ["claude", "claudecode", "tauri"]
+repository = "https://github.com/djyde/ccmate"
+website = "https://randynamic.org/ccmate"
+language = "TypeScript"
+added = 2026-11-01

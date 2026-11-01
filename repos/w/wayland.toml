@@ -1,0 +1,9 @@
+name = "wayland"
+description = "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves."
+category = "skills-prompts"
+tags = ["acp", "agent-orchestration", "ai-agent", "claude-code", "desktop-app", "electron", "llm", "local-first"]
+repository = "https://github.com/FerroxLabs/wayland"
+website = "https://getwayland.com"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-11-01

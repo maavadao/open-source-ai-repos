@@ -1,0 +1,8 @@
+name = "MATLAB-Deep-Learning-Model-Hub"
+description = "Discover pretrained models for deep learning in MATLAB"
+category = "learning"
+tags = ["awesome", "awesome-list", "deep-learning", "matlab", "matlab-deep-learning", "model-zoo", "pretrained-models"]
+repository = "https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub"
+website = "https://www.mathworks.com/solutions/deep-learning.html"
+language = "MATLAB"
+added = 2026-11-01

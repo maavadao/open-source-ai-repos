@@ -1,0 +1,9 @@
+name = "open-design-agent-kit"
+description = "Pro-grade UI design built into the coding agent you already use — GitHub Copilot Chat, Claude Code, Codex, Cursor. 270+ design skills, 150+ brand design systems, 160+ remixable examples. No desktop app, no daemon, no API keys — just files in your repo."
+category = "skills-prompts"
+tags = ["ai-agent", "claude-code", "claude-design", "claude-desktop", "codex", "copilot-chat", "cursor", "dashboard"]
+repository = "https://github.com/feimacode/open-design-agent-kit"
+website = "https://marketplace.visualstudio.com/items?itemName=feima.open-design-agent-kit"
+license = "MIT"
+language = "HTML"
+added = 2026-11-01

@@ -1,0 +1,8 @@
+name = "apple-health-mcp"
+description = "Local-first Apple Health MCP server. Lets AI assistants answer questions about your sleep, workouts, activity and heart data from a local export."
+category = "mcp-servers"
+tags = ["apple-health", "claude", "duckdb", "health-data", "mcp", "mcp-server", "model-context-protocol", "quantified-self"]
+repository = "https://github.com/neiltron/apple-health-mcp"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-01

@@ -1,0 +1,9 @@
+name = "dontbemichael"
+description = "A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents"
+category = "agents"
+tags = ["agentic", "ai"]
+repository = "https://github.com/agentvivekkumar/dontbemichael"
+website = "https://dontbemichael.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-01

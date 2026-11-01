@@ -1,0 +1,9 @@
+name = "Tavotto"
+description = "AI drew your research figure. Tavotto makes it publication-ready: edit matplotlib and AI-generated figures on a canvas, lay out multi-panel pages in mm, check journal rules before export. Scripts stay untouched."
+category = "skills-prompts"
+tags = ["academic-publishing", "ai-tools", "claude-code", "codex", "data-visualization", "desktop-app", "figure-editor", "matplotlib"]
+repository = "https://github.com/Tavotto/Tavotto"
+website = "https://www.tavotto.com/"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-11-01

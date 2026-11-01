@@ -1,0 +1,8 @@
+name = "ai-startup-skills"
+description = "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。"
+category = "skills-prompts"
+tags = ["agent-skills", "ai", "business-plan", "claude-code", "codex", "cursor", "entrepreneurship", "growth"]
+repository = "https://github.com/huaxialucaicaizi/ai-startup-skills"
+license = "MIT"
+language = "Python"
+added = 2026-11-01

@@ -1,0 +1,9 @@
+name = "dbt-charts"
+description = "Declarative YAML around SQL for dbt-native dashboards: easy for agents to write, easy for humans to audit."
+category = "agents"
+tags = ["ai-agents", "analytics", "analytics-engineering", "business-intelligence", "charts", "dashboards", "dashboards-as-code", "data-visualization"]
+repository = "https://github.com/dbt-labs/dbt-charts"
+website = "https://www.getdbt.com/product/dbtcharts"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-01

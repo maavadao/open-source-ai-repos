@@ -1,0 +1,9 @@
+name = "hermes-official-plugins"
+description = "☤ The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spotify, Claude Subscription DirectSDK and more, one install away from the Hermes plugin catalog."
+category = "agents"
+tags = ["agent-plugins", "ai-agents", "claude", "hermes", "hermes-agent", "home-assistant", "llm", "model-provider"]
+repository = "https://github.com/NousResearch/hermes-official-plugins"
+website = "https://hermes-agent.nousresearch.com/docs/plugins"
+license = "MIT"
+language = "Python"
+added = 2026-11-01

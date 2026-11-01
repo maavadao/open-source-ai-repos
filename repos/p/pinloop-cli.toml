@@ -1,0 +1,9 @@
+name = "pinloop-cli"
+description = "Job board CLI for coding agents. Search and judge millions of worldwide postings from all white-collar sectors, refreshed hourly."
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "cli", "coding-agents", "internships", "job-search", "jobs", "nodejs"]
+repository = "https://github.com/pinloop-ai/pinloop-cli"
+website = "https://pinloop.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-01

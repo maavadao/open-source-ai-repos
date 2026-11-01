@@ -1,0 +1,9 @@
+name = "Pulse"
+description = "Know how much Claude Code, Codex, Cursor, Copilot and 70+ other AI coding tools you have left — a free, open-source macOS monitor on the edge of your screen."
+category = "skills-prompts"
+tags = ["ai-tools", "antigravity", "claude", "claude-code", "codex", "cursor", "gemini", "github-copilot"]
+repository = "https://github.com/qunqin24/Pulse"
+website = "https://github.com/qunqin24/Pulse/releases/latest"
+license = "Apache-2.0"
+language = "Swift"
+added = 2026-11-01

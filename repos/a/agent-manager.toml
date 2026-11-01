@@ -1,0 +1,9 @@
+name = "agent-manager"
+description = "The fastest developer workflow for every AI coding agent. Live status, quick prompts, worktrees, and diff review from one tmux TUI. Discord: discord.gg/ecS88An7pF"
+category = "skills-prompts"
+tags = ["ai-agents", "bubbletea", "claude-code", "cli", "code-review", "codex", "command-code", "developer-tools"]
+repository = "https://github.com/YoanWai/agent-manager"
+website = "https://agent-manager.dev"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-11-01

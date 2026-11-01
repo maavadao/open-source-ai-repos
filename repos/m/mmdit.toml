@@ -1,0 +1,8 @@
+name = "mmdit"
+description = "Implementation of a single layer of the MMDiT, proposed in Stable Diffusion 3, in Pytorch"
+category = "ml-platforms"
+tags = ["artificial-intelligence", "attention-mechanisms", "deep-learning", "multi-modal-attention"]
+repository = "https://github.com/lucidrains/mmdit"
+license = "MIT"
+language = "Python"
+added = 2026-11-01

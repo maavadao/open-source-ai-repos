@@ -1,0 +1,9 @@
+name = "skills"
+description = "A collection of Docker skills for AI coding agents to help them build, test, debug, and optimize containerized apps with consistent, reusable workflows."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "antigravity", "claude-code", "codex", "copilot", "cursor", "docker"]
+repository = "https://github.com/docker/skills"
+website = "https://docs.docker.com/ai/skills/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-01

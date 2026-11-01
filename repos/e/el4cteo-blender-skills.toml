@@ -1,0 +1,8 @@
+name = "blender-skills"
+description = "Professional Blender 5.2 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA."
+category = "skills-prompts"
+tags = ["3d", "agent-skills", "ai-agents", "blender", "blender-python", "bpy", "claude-code", "claude-skills"]
+repository = "https://github.com/EL4CTEO/blender-skills"
+license = "MIT"
+language = "Python"
+added = 2026-11-01

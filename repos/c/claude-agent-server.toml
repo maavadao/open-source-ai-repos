@@ -1,0 +1,8 @@
+name = "claude-agent-server"
+description = "Run Claude Agent (Claude Code) in a sandbox, control it via websocket"
+category = "skills-prompts"
+tags = ["agent", "ai", "claude", "claude-agent-sdk", "claude-agents", "claude-code"]
+repository = "https://github.com/dzhng/claude-agent-server"
+website = "https://x.com/dzhng/status/1991154972558581889?s=20"
+language = "TypeScript"
+added = 2026-11-01

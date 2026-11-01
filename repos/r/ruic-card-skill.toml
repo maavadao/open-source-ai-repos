@@ -1,0 +1,7 @@
+name = "RuiC-card-skill"
+description = "全息闪卡通用 Agent Skill，不挑宿主、多模态模型都能用：一句话生成可拖转、会流光、带层次景深的 3D 闪卡网页，附可编辑 Blender 工程 · A host-agnostic Agent Skill: turn one sentence into an interactive 3D holographic card page with layered parallax, plus an editable Blender project."
+category = "models"
+tags = ["agent-skill", "agent-skills", "blender", "collectible-card", "holographic", "multimodal", "skills", "threejs"]
+repository = "https://github.com/HRuiCcc/RuiC-card-skill"
+language = "JavaScript"
+added = 2026-11-01

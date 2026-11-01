@@ -1,0 +1,8 @@
+name = "modeltime"
+description = "Modeltime unlocks time series forecast models and machine learning in one framework"
+category = "data-science"
+tags = ["arima", "data-science", "deep-learning", "ets", "forecasting", "machine-learning", "machine-learning-algorithms", "modeltime"]
+repository = "https://github.com/business-science/modeltime"
+website = "https://business-science.github.io/modeltime/"
+language = "R"
+added = 2026-11-01

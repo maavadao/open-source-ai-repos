@@ -1,0 +1,9 @@
+name = "mcp-for-argocd"
+description = "An implementation of Model Context Protocol (MCP) server for Argo CD."
+category = "mcp-servers"
+tags = ["ai", "argocd", "argocd-mcp", "continuous-delivery", "continuous-deployment", "devops", "gitops", "kubernetes"]
+repository = "https://github.com/argoproj-labs/mcp-for-argocd"
+website = "https://www.npmjs.com/package/argocd-mcp"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-01

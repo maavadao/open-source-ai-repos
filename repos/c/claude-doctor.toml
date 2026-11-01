@@ -1,0 +1,7 @@
+name = "claude-doctor"
+description = "Diagnose your Claude Code sessions"
+category = "other"
+tags = ["claude", "code", "doctor"]
+repository = "https://github.com/millionco/claude-doctor"
+language = "TypeScript"
+added = 2026-11-01

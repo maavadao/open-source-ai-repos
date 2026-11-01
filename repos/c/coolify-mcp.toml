@@ -1,0 +1,9 @@
+name = "coolify-mcp"
+description = "MCP server for Coolify — 42 optimized tools for managing self-hosted PaaS through AI assistants"
+category = "mcp-servers"
+tags = ["ai", "claude", "coolify", "deployment", "devops", "infrastructure", "mcp", "model-context-protocol"]
+repository = "https://github.com/StuMason/coolify-mcp"
+website = "https://coolify-mcp.stumason.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-01

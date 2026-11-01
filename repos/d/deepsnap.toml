@@ -1,0 +1,9 @@
+name = "deepsnap"
+description = "Python library assists deep learning on graphs"
+category = "ml-platforms"
+tags = ["deep-learning", "graph-neural-networks", "pytorch"]
+repository = "https://github.com/snap-stanford/deepsnap"
+website = "https://snap.stanford.edu/deepsnap/"
+license = "MIT"
+language = "Python"
+added = 2026-11-01

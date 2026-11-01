@@ -1,0 +1,9 @@
+name = "SkillEvaluator"
+description = "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior."
+category = "skills-prompts"
+tags = ["agent-evaluation", "agent-plugins", "agent-security", "agent-skills", "agentic-ai", "benchmark", "claude-code", "codex"]
+repository = "https://github.com/NVIDIA/SkillEvaluator"
+website = "https://docs.nvidia.com/skills/skillevaluator/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-01

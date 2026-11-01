@@ -1,0 +1,9 @@
+name = "claude-code-hooks"
+description = "🪝 Claude Code hooks + an installable plugin marketplace: safety, cost, observability, productivity."
+category = "skills-prompts"
+tags = ["ai-tools", "anthropic", "automation", "claude", "claude-code", "claude-code-hooks", "claude-code-plugin", "cli"]
+repository = "https://github.com/karanb192/claude-code-hooks"
+website = "https://hooks.karanbansal.in"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-01

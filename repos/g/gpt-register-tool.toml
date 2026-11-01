@@ -1,0 +1,8 @@
+name = "GPT-Register-Tool"
+description = "面向 Windows 的 ChatGPT 账号注册、邮箱 OTP、账号管理与支付工作台"
+category = "chat"
+tags = ["account-management", "automation", "chatgpt", "chatgpt-register", "dotnet", "email-otp", "openai", "otp"]
+repository = "https://github.com/2951461586/GPT-Register-Tool"
+license = "MIT"
+language = "Python"
+added = 2026-11-01

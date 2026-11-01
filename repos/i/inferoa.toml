@@ -1,0 +1,9 @@
+name = "inferoa"
+description = "Inference-native Tokenmaxxing Agent Harness for Loop Engineering"
+category = "local-llms"
+tags = ["agent", "agent-harness", "agentic-ai", "harness-engineering", "inference", "kvcache", "llm", "loop-engineering"]
+repository = "https://github.com/agentic-in/inferoa"
+website = "https://inferoa.agentic-in.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-01

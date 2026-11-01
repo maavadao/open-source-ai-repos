@@ -1,0 +1,9 @@
+name = "ProxmoxMCP-Plus"
+description = "Use MCP and OpenAPI to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents."
+category = "mcp-servers"
+tags = ["ai-agent", "automation", "claude-desktop", "homelab", "llm", "lxc", "mcp", "model-context-protocol"]
+repository = "https://github.com/RekklesNA/ProxmoxMCP-Plus"
+website = "https://github.com/RekklesNA/ProxmoxMCP-Plus#readme"
+license = "MIT"
+language = "Python"
+added = 2026-11-01

@@ -1,0 +1,9 @@
+name = "ai-engineering-course"
+description = "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents, LLM Inference, Evaluation, AI Safety, and AI System Design."
+category = "llm-apps"
+tags = ["ai-course", "ai-engineering", "ai-engineering-course", "ai-engineering-curriculum", "large-language-models"]
+repository = "https://github.com/amitshekhariitbhu/ai-engineering-course"
+website = "https://outcomeschool.com/program/ai-and-machine-learning"
+license = "Apache-2.0"
+language = "Markdown"
+added = 2026-11-01

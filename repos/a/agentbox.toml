@@ -1,0 +1,9 @@
+name = "agentbox"
+description = "Run multiple agents in parallel sandboxed VMs, with a single command, on your PC or in the cloud"
+category = "skills-prompts"
+tags = ["claude", "claude-code", "cli", "cmux", "codex", "codex-cli", "coding-agents", "developer-tools"]
+repository = "https://github.com/madarco/agentbox"
+website = "https://agent-box.sh"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-01

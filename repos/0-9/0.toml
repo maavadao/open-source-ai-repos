@@ -1,0 +1,8 @@
+name = "0"
+description = "Open-source AI security harness. Includes a web UI for code analysis, pentesting, vulnerability research, reverse engineering, verification, and fixing + CLI and MCP for agents."
+category = "mcp-servers"
+tags = ["ai-agents", "application-security", "binary-analysis", "code-review", "cybersecurity", "llm-agents", "mcp", "penetration-testing"]
+repository = "https://github.com/0sec-labs/0"
+website = "https://0.security"
+language = "TypeScript"
+added = 2026-11-01

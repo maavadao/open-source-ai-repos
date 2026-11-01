@@ -1,0 +1,9 @@
+name = "HermesOffice"
+description = "Free, open-source AI Office suite (Word, Excel, PowerPoint, PDF, Markdown) — macOS build, one-click install"
+category = "agents"
+tags = ["agent", "ai-native", "docx", "electron", "hermes", "local-first", "mcp", "office-suite"]
+repository = "https://github.com/criptogus/HermesOffice"
+website = "https://github.com/criptogus/HermesOffice/releases/latest"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-01

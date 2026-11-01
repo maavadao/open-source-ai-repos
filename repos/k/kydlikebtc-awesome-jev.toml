@@ -1,0 +1,8 @@
+name = "awesome-jev"
+description = "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility."
+category = "agents"
+tags = ["agent-tools", "ai-agents", "awesome", "awesome-list", "calibration", "catalog", "classification", "context-compaction"]
+repository = "https://github.com/kydlikebtc/awesome-jev"
+website = "https://kydlikebtc.github.io/awesome-jev/"
+language = "Python"
+added = 2026-11-01

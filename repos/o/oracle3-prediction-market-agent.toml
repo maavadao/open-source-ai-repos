@@ -1,0 +1,9 @@
+name = "oracle3-prediction-market-agent"
+description = "Oracle3: open-source trading engine and MCP server for prediction markets. Finds fee-adjusted no-arbitrage violations across related event contracts and trades them live on Kalshi, Polymarket and Solana, or on paper, under pre-trade risk limits. 13 MCP tools, JSON CLI, agent skills, 600+ tests."
+category = "mcp-servers"
+tags = ["agentic-ai", "ai-agents", "algorithmic-trading", "arbitrage", "backtesting", "event-contracts", "kalshi", "kelly-criterion"]
+repository = "https://github.com/YichengYang-Ethan/oracle3-prediction-market-agent"
+website = "https://yichengyang-ethan.github.io/oracle3-prediction-market-agent/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-01

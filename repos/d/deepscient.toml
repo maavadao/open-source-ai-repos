@@ -1,0 +1,8 @@
+name = "Deepscient"
+description = "让 AI 与人类一起攻克真正的科学难题 —— 12 阶段 55 门 · 36 工具 · 98 条技能 · 证据链与可复现"
+category = "other"
+tags = ["agent-skills", "cordis", "deepseek-harness", "literature-review", "mcp", "nodejs", "reproducibility", "research"]
+repository = "https://github.com/yzlin286-wq/Deepscient"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-01

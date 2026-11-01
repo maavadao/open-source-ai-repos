@@ -1,0 +1,8 @@
+name = "AI-Coding"
+description = "AI 编程福利导航：汇总 Claude Code、Codex、Cursor 中转站与公益站，整理免费额度、注册福利、签到活动和评测记录，提供可视化看板与 Python 数据采集工具。"
+category = "browser-automation"
+tags = ["ai-coding", "api-relay", "claude-code", "codex", "cursor", "dashboard", "deepseek", "deepseek-harness"]
+repository = "https://github.com/liuda30201/AI-Coding"
+website = "https://liuda30201.github.io/AI-Coding/"
+language = "HTML"
+added = 2026-11-01

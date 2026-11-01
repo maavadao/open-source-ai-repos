@@ -1,0 +1,9 @@
+name = "nWave"
+description = "AI agents that guide you from idea to working code, with you in control at every step."
+category = "skills-prompts"
+tags = ["agentic-ai", "agentic-coding", "agentic-framework", "agentic-workflow", "ai", "atdd", "bdd", "claude-code"]
+repository = "https://github.com/nWave-ai/nWave"
+website = "https://nwave.ai"
+license = "MIT"
+language = "Python"
+added = 2026-11-01

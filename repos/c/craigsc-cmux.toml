@@ -1,0 +1,8 @@
+name = "cmux"
+description = "cmux: tmux for Claude Code"
+category = "skills-prompts"
+tags = ["claude", "claude-code", "git", "terminal"]
+repository = "https://github.com/craigsc/cmux"
+license = "MIT"
+language = "Shell"
+added = 2026-11-01

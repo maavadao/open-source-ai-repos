@@ -1,0 +1,9 @@
+name = "blockbench-mcp-plugin"
+description = "Adds MCP server to Blockbench"
+category = "mcp-servers"
+tags = ["blockbench", "blockbench-plugin", "mcp-server"]
+repository = "https://github.com/jasonjgardner/blockbench-mcp-plugin"
+website = "https://jasonjgardner.github.io/blockbench-mcp-plugin/"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-11-01

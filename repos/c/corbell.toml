@@ -1,0 +1,8 @@
+name = "Corbell"
+description = "AI-powered spec generation and review using multi-repo code graph intelligence for backend teams that ship to production."
+category = "other"
+tags = ["code-analysis", "code-embedding", "code-intelligence-mcp", "knowledge-graph", "mcp-server", "python", "static-analysis-plugin", "tree-sitter"]
+repository = "https://github.com/Corbell-AI/Corbell"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-01

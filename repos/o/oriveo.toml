@@ -1,0 +1,9 @@
+name = "oriveo"
+description = "Open-source, bring-your-own-key (BYOK) multi-model AI chat client for iOS, Android and the web. One LLM client for OpenAI, Anthropic, Google Gemini, OpenRouter, DeepSeek and ten more providers, plus any OpenAI-, Anthropic- or Gemini-compatible endpoint — Ollama, LM Studio, llama.cpp, vLLM. Local-fi…"
+category = "local-llms"
+tags = ["ai-chat", "ai-chat-client", "ai-client", "android", "anthropic", "bring-your-own-key", "byok", "chatgpt-alternative"]
+repository = "https://github.com/oriveo/oriveo"
+website = "https://oriveoai.com"
+license = "AGPL-3.0"
+language = "Swift"
+added = 2026-11-01

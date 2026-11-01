@@ -1,0 +1,9 @@
+name = "line-harness-oss"
+description = "L Harness — self-hosted LINE Official Account CRM: step messaging, broadcasts, forms and reservations, with MCP and TypeScript SDK. By Shudesu (野田修一)."
+category = "mcp-servers"
+tags = ["cloudflare-workers", "crm", "l-harness", "line-official-account", "marketing-automation", "mcp", "mcp-server", "self-hosted"]
+repository = "https://github.com/Shudesu/line-harness-oss"
+website = "https://the-harness.com/line-harness/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-01

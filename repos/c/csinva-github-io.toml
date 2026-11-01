@@ -1,0 +1,9 @@
+name = "csinva.github.io"
+description = "AI slides, paper notes, class notes, blog posts, and research overviews."
+category = "learning"
+tags = ["ai", "artificial-intelligence", "awesome", "blog", "computational-neuroscience", "data-science", "deep-learning", "jekyll-themes"]
+repository = "https://github.com/csinva/csinva.github.io"
+website = "https://csinva.io"
+license = "MIT"
+language = "HTML"
+added = 2026-11-01

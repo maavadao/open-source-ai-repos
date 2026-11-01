@@ -1,0 +1,8 @@
+name = "ghostwriter"
+description = "Use the reMarkable2 as an interface to vision-LLMs (ChatGPT, Claude, Gemini). Ghost in the machine!"
+category = "agents"
+tags = ["agentic-ai", "eink", "llm", "remarkable-2", "vlm"]
+repository = "https://github.com/awwaiid/ghostwriter"
+license = "MIT"
+language = "Rust"
+added = 2026-11-01

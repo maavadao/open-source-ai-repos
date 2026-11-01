@@ -1,0 +1,8 @@
+name = "claude-plugins"
+description = "Lightweight registry to discover, install, and manage all public Claude plugins and agent skills for your favourite AI coding agent."
+category = "skills-prompts"
+tags = ["claude", "claude-code", "plugins"]
+repository = "https://github.com/Kamalnrf/claude-plugins"
+website = "https://claude-plugins.dev"
+language = "TypeScript"
+added = 2026-11-01

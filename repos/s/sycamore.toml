@@ -1,0 +1,9 @@
+name = "sycamore"
+description = "🍁 Sycamore is an LLM-powered search and analytics platform for unstructured data."
+category = "search"
+tags = ["ai", "dataprep", "etl", "information-retrieval", "llm", "ml", "nlp", "opensearch"]
+repository = "https://github.com/aryn-ai/sycamore"
+website = "https://sycamore.readthedocs.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-01

@@ -1,0 +1,7 @@
+name = "gpt-with-taste"
+description = "Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex."
+category = "skills-prompts"
+tags = ["ai-agents", "codex", "gpt", "prompt-engineering", "system-prompt"]
+repository = "https://github.com/NB-Corp/gpt-with-taste"
+language = "JavaScript"
+added = 2026-11-01

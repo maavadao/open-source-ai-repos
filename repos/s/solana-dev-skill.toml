@@ -1,0 +1,9 @@
+name = "solana-dev-skill"
+description = "Skills for agentic development on Solana"
+category = "other"
+tags = ["claude", "codex", "skills-sh", "solana"]
+repository = "https://github.com/solana-foundation/solana-dev-skill"
+website = "https://skills.sh/solana-foundation"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-01

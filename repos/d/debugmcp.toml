@@ -1,0 +1,8 @@
+name = "DebugMCP"
+description = "Gift your VS Code agent a real debugger: breakpoints, stepping, inspection."
+category = "mcp-servers"
+tags = ["ai-agent", "ai-debugging", "breakpoints", "copilot", "cursor", "debugger", "llm", "mcp"]
+repository = "https://github.com/microsoft/DebugMCP"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-01

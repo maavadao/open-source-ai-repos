@@ -1,0 +1,9 @@
+name = "agent-master-skills"
+description = "🧠 Curated collection of 2700+ best agent skills — AI, coding, marketing, design, finance and more. Harness-agnostic: works with Claude Code, Codex, Cursor, Gemini CLI, OpenClaw, Hermes and any Agent Skills runtime. Refreshed daily by MyClaw.ai — Powered by MyClaw.ai"
+category = "skills-prompts"
+tags = ["agent-skills", "agentskills", "ai-agent", "ai-agents", "anthropic-skills", "claude-code", "codex", "curated"]
+repository = "https://github.com/LeoYeAI/agent-master-skills"
+website = "https://myclaw.ai"
+license = "MIT"
+language = "Python"
+added = 2026-11-01

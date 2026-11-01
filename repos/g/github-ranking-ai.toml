@@ -1,0 +1,9 @@
+name = "Github-Ranking-AI"
+description = "A list of the most popular AI Topic repositories on GitHub based on the number of stars they have received.| AI相关主题Github仓库排名，每日自动更新。"
+category = "chat"
+tags = ["ai", "chatgpt", "github-stars", "llm", "python", "ranking", "stars"]
+repository = "https://github.com/yuxiaopeng/Github-Ranking-AI"
+website = "https://yuxiaopeng.com/Github-Ranking-AI/"
+license = "MIT"
+language = "Python"
+added = 2026-11-01

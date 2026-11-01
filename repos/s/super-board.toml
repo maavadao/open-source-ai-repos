@@ -1,0 +1,9 @@
+name = "super-board"
+description = "Autonomous GitHub Project build → QA → review loop for Claude Code. One-line install."
+category = "skills-prompts"
+tags = ["agentic-coding", "ai", "ai-agents", "automation", "claude", "claude-code", "claude-skills", "coding-assistant"]
+repository = "https://github.com/EricTechPro/super-board"
+website = "https://erictechpro.github.io/super-board/"
+license = "MIT"
+language = "HTML"
+added = 2026-11-01

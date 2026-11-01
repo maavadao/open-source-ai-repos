@@ -1,0 +1,7 @@
+name = "awesome-jev"
+description = "A curated, source-backed list of projects built with Jev, TypeSafe AI's System One model for typed decisions."
+category = "agents"
+tags = ["ai-agents", "awesome", "awesome-list", "confidence-aware-ai", "decision-intelligence", "jev", "llm-guardrails", "model-routing"]
+repository = "https://github.com/cobanov/awesome-jev"
+license = "CC0-1.0"
+added = 2026-11-01

@@ -1,0 +1,8 @@
+name = "agentic-ai-landscape"
+description = "Data driven agentic landscapes and insights. Produced by Ant Open Source and inclusionAI."
+category = "agents"
+tags = ["agent", "agentic-ai", "agi", "collections", "ecosystem", "inclusionai", "landscape", "llm"]
+repository = "https://github.com/antgroup/agentic-ai-landscape"
+website = "https://insights.inclusion-ai.org/"
+language = "HTML"
+added = 2026-11-01

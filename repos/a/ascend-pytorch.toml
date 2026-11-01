@@ -1,0 +1,8 @@
+name = "pytorch"
+description = "As the core component of the Ascend for PyTorch community, TorchNPU is a deep learning adapter plugin built by Ascend for PyTorch, enabling the PyTorch framework to directly invoke Ascend NPU and providing developers with the powerful compute capabilities of Ascend AI processors. (About Ascend NPU:…"
+category = "ml-platforms"
+tags = ["ascend", "deep-learning", "pytorch"]
+repository = "https://github.com/Ascend/pytorch"
+website = "https://www.hiascend.com/eng/developer/software/ai-frameworks/pytorch"
+language = "Python"
+added = 2026-11-01

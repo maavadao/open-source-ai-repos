@@ -1,0 +1,8 @@
+name = "phillip"
+description = "The SSBM \"Phillip\" AI."
+category = "ml-platforms"
+tags = ["artificial-intelligence", "deep-reinforcement-learning", "dolphin", "python", "ssbm", "tensorflow"]
+repository = "https://github.com/vladfi1/phillip"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-11-01

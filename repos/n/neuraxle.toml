@@ -1,0 +1,9 @@
+name = "Neuraxle"
+description = "The world's cleanest AutoML library ✨ - Do hyperparameter tuning with the right pipeline abstractions to write clean deep learning production pipelines. Let your pipeline steps have hyperparameter spaces. Design steps in your pipeline like components. Compatible with Scikit-Learn, TensorFlow, and m…"
+category = "ml-platforms"
+tags = ["deep-learning", "framework", "hyperparameter-optimization", "hyperparameter-search", "hyperparameter-tuning", "hyperparameters", "machine-learning", "neuraxle"]
+repository = "https://github.com/Neuraxio/Neuraxle"
+website = "https://www.neuraxle.org/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-01

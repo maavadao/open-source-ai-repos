@@ -1,0 +1,7 @@
+name = "EventExtractionPapers"
+description = "A list of NLP resources focused on event extraction task"
+category = "other"
+tags = ["event-coreference", "event-detection", "event-extraction", "information-extraction", "nlp", "papers"]
+repository = "https://github.com/BaptisteBlouin/EventExtractionPapers"
+license = "MIT"
+added = 2026-11-01

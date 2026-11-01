@@ -1,0 +1,8 @@
+name = "envkit-releases"
+description = "EnvKit — free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB, PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control. A Laragon/XAMPP/Herd alternative."
+category = "mcp-servers"
+tags = ["apache", "development-environment", "herd-alternative", "laragon-alternative", "laravel", "local-development", "mailpit", "mariadb"]
+repository = "https://github.com/Env-Kit/envkit-releases"
+website = "https://envkit.net"
+language = "Python"
+added = 2026-11-01

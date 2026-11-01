@@ -1,0 +1,7 @@
+name = "MachineLearning_notes"
+description = "Machine learning and deep learning resources"
+category = "ml-platforms"
+tags = ["deep-learning", "machine-learning"]
+repository = "https://github.com/mdozmorov/MachineLearning_notes"
+license = "MIT"
+added = 2026-11-01

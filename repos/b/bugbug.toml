@@ -1,0 +1,8 @@
+name = "bugbug"
+description = "Platform for Machine Learning projects on Software Engineering"
+category = "agents"
+tags = ["agentic-ai", "ai", "developer-tools", "llm", "machine-learning", "ml", "python", "software-engineering"]
+repository = "https://github.com/mozilla/bugbug"
+license = "MPL-2.0"
+language = "Python"
+added = 2026-11-01

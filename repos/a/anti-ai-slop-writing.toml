@@ -1,0 +1,6 @@
+name = "anti-ai-slop-writing"
+description = "AI writing skill that eliminates detectable AI patterns. Works with Claude Code, Codex, Cursor, Gemini CLI, and 8+ other agents."
+category = "skills-prompts"
+tags = ["ai-writing", "anti-slop", "claude-code", "prompt-engineering", "skill", "skillmd"]
+repository = "https://github.com/jalaalrd/anti-ai-slop-writing"
+added = 2026-11-01

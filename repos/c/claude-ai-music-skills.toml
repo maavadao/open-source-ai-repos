@@ -1,0 +1,9 @@
+name = "claude-ai-music-skills"
+description = "Human + AI music production workflow for Suno - skills, templates, and tools"
+category = "skills-prompts"
+tags = ["ai-music", "ai-music-tools", "audio-mastering", "claude", "claude-code", "claude-code-plugin", "claude-code-plugin-marketplace", "claude-code-plugins"]
+repository = "https://github.com/bitwize-music-studio/claude-ai-music-skills"
+website = "https://www.bitwizemusic.com"
+license = "CC0-1.0"
+language = "Python"
+added = 2026-11-01

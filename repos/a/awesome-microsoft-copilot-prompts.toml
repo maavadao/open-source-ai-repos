@@ -1,0 +1,8 @@
+name = "awesome-microsoft-copilot-prompts"
+description = "The definitive Microsoft 365 Copilot prompt library for business teams. 573 prompts for Office apps, Copilot Studio, security operations, and enterprise deployment."
+category = "skills-prompts"
+tags = ["ai-productivity", "ai-prompts", "automation", "awesome-list", "copilot-studio", "enterprise-ai", "m365", "microsoft-copilot"]
+repository = "https://github.com/kesslernity/awesome-microsoft-copilot-prompts"
+website = "https://www.kesslernity.com/?utm_source=github&utm_medium=repo&utm_campaign=awesome-microsoft-copilot-prompts"
+license = "CC-BY-SA-4.0"
+added = 2026-11-01

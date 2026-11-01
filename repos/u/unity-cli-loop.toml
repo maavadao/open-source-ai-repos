@@ -1,0 +1,8 @@
+name = "unity-cli-loop"
+description = "Let AI Drive Unity, from Editor to Play Mode."
+category = "other"
+tags = ["ai", "automation", "cli", "mcp", "unity", "unity3d"]
+repository = "https://github.com/hatayama/unity-cli-loop"
+license = "MIT"
+language = "C#"
+added = 2026-11-01

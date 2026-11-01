@@ -1,0 +1,8 @@
+name = "the-architect"
+description = "A Claude Code plugin that interviews you, designs the whole architecture, and writes a self-contained blueprint another Claude Code instance builds from with zero context — EARS acceptance criteria and a runnable verify command on every build step. 14 project shapes, greenfield and brownfield. EN/E…"
+category = "skills-prompts"
+tags = ["agentic-coding", "ai-agent", "ai-coding-assistant", "anthropic", "automation", "blueprint", "claude", "claude-code"]
+repository = "https://github.com/Hainrixz/the-architect"
+website = "https://tododeia.com"
+license = "MIT"
+added = 2026-11-01

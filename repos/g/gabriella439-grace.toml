@@ -1,0 +1,9 @@
+name = "grace"
+description = "A prompt engineering functional programming language"
+category = "skills-prompts"
+tags = ["ai", "functional-programming", "interpreter", "llm", "programming-language", "prompt-engineering"]
+repository = "https://github.com/Gabriella439/grace"
+website = "https://trygrace.dev/"
+license = "BSD-3-Clause"
+language = "Haskell"
+added = 2026-11-01

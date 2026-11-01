@@ -1,0 +1,9 @@
+name = "opencode-with-claude"
+description = "OpenCode plugin to use your Claude Max/Pro subscription with OpenCode via Meridian"
+category = "skills-prompts"
+tags = ["ai-coding", "anthropic", "bun", "claude", "claude-agent-sdk", "claude-code", "claude-max", "opencode"]
+repository = "https://github.com/ianjwhite99/opencode-with-claude"
+website = "http://www.npmjs.com/package/opencode-with-claude"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-01

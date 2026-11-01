@@ -1,0 +1,8 @@
+name = "chat"
+description = "chat web app for teams, sass with user management and ratelimit, support chatgpt(openai & azure), claude, gemini and ollama model"
+category = "local-llms"
+tags = ["chatgpt", "claude-ai", "ollama", "sass", "teams"]
+repository = "https://github.com/swuecho/chat"
+license = "MIT"
+language = "Go"
+added = 2026-11-01

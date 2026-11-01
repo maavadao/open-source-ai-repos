@@ -1,0 +1,8 @@
+name = "qqqa"
+description = "Fast, stateless LLM for your shell: qq answers; qa runs commands"
+category = "local-llms"
+tags = ["ai", "claude", "cli", "codex", "gpt-oss-120b", "groq", "llm", "ollama"]
+repository = "https://github.com/iagooar/qqqa"
+license = "MIT"
+language = "Rust"
+added = 2026-11-01

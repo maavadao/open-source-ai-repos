@@ -1,0 +1,9 @@
+name = "torchani"
+description = "TorchANI 2.0 is an open-source library that supports training, development, and research of ANI-style neural network interatomic potentials. It was originally developed and is currently maintained by the Roitberg group."
+category = "ml-platforms"
+tags = ["deep-learning", "force-field", "molecular-simulation", "neural-network", "pytorch", "quantum-chemistry", "quantum-mechanics"]
+repository = "https://github.com/aiqm/torchani"
+website = "https://aiqm.github.io/torchani/"
+license = "MIT"
+language = "Python"
+added = 2026-11-01

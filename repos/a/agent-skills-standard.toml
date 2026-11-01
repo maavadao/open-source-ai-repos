@@ -1,0 +1,9 @@
+name = "agent-skills-standard"
+description = "A collection of Agent Skills Standard and Best Practice for Programming Languages, Frameworks that help our AI Agent follow best practies on frameworks and programming laguages"
+category = "agents"
+tags = ["agent-", "agentic-ai", "android", "angular", "best-practices", "coding-standards", "cursor-rules", "flutter"]
+repository = "https://github.com/HoangNguyen0403/agent-skills-standard"
+website = "https://www.npmjs.com/package/agent-skills-standard"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-01

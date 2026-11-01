@@ -1,0 +1,8 @@
+name = "discord-mcp"
+description = "A MCP server for the Discord integration. Enable your AI assistants to seamlessly interact with Discord. Enhance your Discord experience with powerful automation capabilities."
+category = "mcp-servers"
+tags = ["ai", "claude", "discord", "discord-bot", "java", "mcp", "mcp-server", "n8n"]
+repository = "https://github.com/SaseQ/discord-mcp"
+license = "MIT"
+language = "Java"
+added = 2026-11-01

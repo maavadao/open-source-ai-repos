@@ -1,0 +1,8 @@
+name = "TokenEconomizer"
+description = "Experience-Driven Black-Box Cost Control for Coding Agents"
+category = "skills-prompts"
+tags = ["agentic-ai", "agentic-coding", "ai-coding", "ai-coding-assistant", "anthropic", "artificial-intelligence", "claude-code", "codex"]
+repository = "https://github.com/microsoft/TokenEconomizer"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-01

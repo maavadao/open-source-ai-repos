@@ -1,0 +1,9 @@
+name = "joinly"
+description = "Make your meetings accessible to AI Agents"
+category = "agents"
+tags = ["agentic-ai", "ai-agent", "ai-tool", "conversational-ai", "llm", "mcp", "meeting-agent", "meeting-assistant"]
+repository = "https://github.com/joinly-ai/joinly"
+website = "https://joinly.ai"
+license = "MIT"
+language = "Python"
+added = 2026-11-01

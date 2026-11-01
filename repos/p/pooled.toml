@@ -1,0 +1,9 @@
+name = "pooled"
+description = "Peer-to-peer LLM inference in the browser: pool your devices to run big open models, for chat and coding agents."
+category = "local-llms"
+tags = ["browser", "distributed-inference", "inference", "llm", "local-llm", "peer-to-peer", "speculative-decoding", "webgpu"]
+repository = "https://github.com/Nehanth/pooled"
+website = "https://pooled.run"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-01

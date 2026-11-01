@@ -1,0 +1,9 @@
+name = "dotclaude"
+description = "A comprehensive development environment with specialized AI agents for code review, security analysis, and technical leadership."
+category = "other"
+tags = ["claude"]
+repository = "https://github.com/FradSer/dotclaude"
+website = "https://dotclaude.frad.me"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-01

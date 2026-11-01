@@ -1,0 +1,9 @@
+name = "DL-Simplified"
+description = "Deep Learning Simplified is an Open-source repository, containing beginner to advance level deep learning projects for the contributors, who are willing to start their journey in Deep Learning. Devfolio URL, https://devfolio.co/projects/deep-learning-simplified-f013"
+category = "vision"
+tags = ["codepeak23", "contributions-welcome", "deep-learning", "gssoc", "gssoc-ext", "hacktoberfest", "hacktoberfest-accepted", "ieee-igdtuw"]
+repository = "https://github.com/abhisheks008/DL-Simplified"
+website = "https://quine.sh/repo/abhisheks008-DL-Simplified-499023976"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-11-01

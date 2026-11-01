@@ -1,0 +1,9 @@
+name = "openreality"
+description = "Open Reality: phone video to AI-queryable 3D scenes. MCP tools for Claude/Codex/Cursor (npm openreality-mcp), the self-hostable broker, and the VGGT-SLAM library, in one repo. BSD-2-Clause."
+category = "mcp-servers"
+tags = ["3d", "3d-reconstruction", "claude", "claude-code", "codex", "cordis", "cursor", "gaussian-splatting"]
+repository = "https://github.com/reality-opened/openreality"
+website = "https://open-reality.io/mcp"
+license = "BSD-2-Clause"
+language = "Python"
+added = 2026-11-01

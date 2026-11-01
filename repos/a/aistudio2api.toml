@@ -1,0 +1,8 @@
+name = "AIStudio2API"
+description = "将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API"
+category = "speech"
+tags = ["ai-studio", "aistudio", "api", "api-proxy", "camoufox", "gemini", "golang", "google"]
+repository = "https://github.com/Mag1cFall/AIStudio2API"
+license = "MIT"
+language = "Go"
+added = 2026-11-01

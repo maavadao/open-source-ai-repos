@@ -1,0 +1,9 @@
+name = "floorplan"
+description = "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex."
+category = "skills-prompts"
+tags = ["ai-coding", "architecture-diagram", "claude", "claude-code", "claude-code-plugin", "codebase-visualization", "codex", "codex-plugin"]
+repository = "https://github.com/haydenschmitty/floorplan"
+website = "https://haydenschmitty.github.io/floorplan-demo/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-01

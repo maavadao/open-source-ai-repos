@@ -1,0 +1,7 @@
+name = "compose-skill"
+description = "Jetpack Compose Agent Skill — AI-powered coding guidance with actual androidx/androidx source code receipts. Works with Claude Code, Codex CLI, Gemini CLI, Cursor, Copilot, Windsurf, and more."
+category = "skills-prompts"
+tags = ["agent-skill", "ai-agent", "ai-coding", "android", "androidx", "claude-code", "claude-skill", "codex"]
+repository = "https://github.com/aldefy/compose-skill"
+language = "Kotlin"
+added = 2026-11-01

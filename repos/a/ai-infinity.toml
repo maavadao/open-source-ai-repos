@@ -1,0 +1,8 @@
+name = "AI-Infinity"
+description = "A set of AI tools that will help you explore the infinite possibilities of AI."
+category = "chat"
+tags = ["ai", "ai-tools", "chat-gpt", "chatgpt", "tools"]
+repository = "https://github.com/meetpateltech/AI-Infinity"
+website = "https://ai-infinity.vercel.app/"
+license = "CC0-1.0"
+added = 2026-11-01

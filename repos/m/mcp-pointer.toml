@@ -1,0 +1,8 @@
+name = "mcp-pointer"
+description = "MCP tool: let you point at DOM elements for your favorite agentic coding tool. Let AI see what you see."
+category = "mcp-servers"
+tags = ["agentic-coding", "browser", "claude-code", "cursor", "dom", "dom-element", "mcp", "mcp-server"]
+repository = "https://github.com/etsd-tech/mcp-pointer"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-01

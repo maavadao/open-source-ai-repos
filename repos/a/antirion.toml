@@ -1,0 +1,9 @@
+name = "antirion"
+description = "🕷️ The fastest open-source AI Gateway and LLM Gateway — one binary with built-in console to route, secure, budget and observe every LLM call across OpenAI, Anthropic, Gemini, Bedrock and more."
+category = "llm-apps"
+tags = ["a2a", "ai-gateway", "anthropic", "api-gateway", "bifrost-alternative", "guardrails", "litellm-alternative", "llm"]
+repository = "https://github.com/eliasbiondo/antirion"
+website = "https://antirion.ai"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-01

@@ -1,0 +1,8 @@
+name = "elephant-agent"
+description = "Personal-Model First Self Evolving AI Agent 🐘"
+category = "agents"
+tags = ["agent", "agentic", "agentic-ai", "context", "llm", "memory", "models", "personal-ai"]
+repository = "https://github.com/agentic-in/elephant-agent"
+website = "https://elephant.agentic-in.ai"
+language = "Python"
+added = 2026-11-01

@@ -1,0 +1,9 @@
+name = "chainloop"
+description = "Agentic SDLC infrastructure. Define guardrails. Collect signals. Enforce continuously. Signed records of what your AI coding agents and CI/CD pipelines did, checked against policies as code, with the loop closed in CI/CD. AI sessions, SBOMs, VEX, SARIF and SLSA provenance, built on Sigstore and in-…"
+category = "agents"
+tags = ["agentic-sdlc", "ai-agents", "ai-governance", "ai-sessions", "attestation", "autonomous-agents", "coding-agents", "compliance"]
+repository = "https://github.com/chainloop-dev/chainloop"
+website = "https://docs.chainloop.dev"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-11-01

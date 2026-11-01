@@ -1,0 +1,7 @@
+name = "awesome-claude-skills"
+description = "🎯 The definitive collection of 50+ verified Awesome Claude Skills for Claude Code, Claude.ai, and API. Boost productivity with TDD, debugging, git workflows, document processing, and more. Community-driven, actively maintained."
+category = "skills-prompts"
+tags = ["agent-skills", "ai", "anthropic", "anthropic-claude", "artifical-intelligence", "automation", "awesome", "awesome-list"]
+repository = "https://github.com/karanb192/awesome-claude-skills"
+license = "MIT"
+added = 2026-11-01

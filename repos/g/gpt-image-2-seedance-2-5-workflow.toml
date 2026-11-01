@@ -1,0 +1,8 @@
+name = "GPT-Image-2-Seedance-2.5-Workflow"
+description = "GPT Image 2 to Seedance 2.5 Early Access workflow guide."
+category = "skills-prompts"
+tags = ["ai-video", "creative-workflow", "doubao", "gpt-image-2", "gpt-image-2-api", "gpt-image-2-prompts", "image-to-video", "prompt-engineering"]
+repository = "https://github.com/Evolink-AI/GPT-Image-2-Seedance-2.5-Workflow"
+website = "https://evolink.ai/seedance-2-5"
+language = "Python"
+added = 2026-11-01

@@ -1,0 +1,8 @@
+name = "skill.color-expert"
+description = "Agent skill for color science expertise. Many references covering color spaces, accessibility (APCA, WCAG), palette generation, pigment mixing, and historical color theory. Works with Claude Code, Codex, Cursor, Copilot & others."
+category = "skills-prompts"
+tags = ["chatgpt", "claude", "claude-code", "codex", "copilot", "cursor", "skill"]
+repository = "https://github.com/meodai/skill.color-expert"
+license = "CC-BY-4.0"
+language = "Shell"
+added = 2026-11-01

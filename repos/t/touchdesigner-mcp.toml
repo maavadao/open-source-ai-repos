@@ -1,0 +1,9 @@
+name = "touchdesigner-mcp"
+description = "MCP server for TouchDesigner"
+category = "mcp-servers"
+tags = ["mcp", "mcp-server", "touchdesigner"]
+repository = "https://github.com/8beeeaaat/touchdesigner-mcp"
+website = "https://www.npmjs.com/package/touchdesigner-mcp-server"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-01

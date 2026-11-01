@@ -1,0 +1,9 @@
+name = "fullstack-solution-template-for-agentcore"
+description = "Flexible Fullstack solution template for production-ready deployments of any use case on Amazon Bedrock AgentCore."
+category = "agents"
+tags = ["agent", "agentcore", "agentic-ai", "ai", "artificial-intelligence", "aws", "cdk", "full-stack"]
+repository = "https://github.com/awslabs/fullstack-solution-template-for-agentcore"
+website = "https://aws.amazon.com/bedrock/agentcore/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-01

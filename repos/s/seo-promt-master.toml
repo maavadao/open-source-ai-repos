@@ -1,0 +1,8 @@
+name = "Seo-Promt-Master"
+description = "🔍 Google SEO's full docs as an AI prompt machine — drop it into your AI assistant to map every public route, audit each page against Google's rules, and fix the gaps step by step."
+category = "skills-prompts"
+tags = ["ai-tools", "chatgpt", "claude", "core-web-vitals", "cursor", "developer-tools", "documentation", "gemini"]
+repository = "https://github.com/umutxyp/Seo-Promt-Master"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-01

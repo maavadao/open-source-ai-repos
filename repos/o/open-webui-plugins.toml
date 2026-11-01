@@ -1,0 +1,8 @@
+name = "open-webui-plugins"
+description = "A curated collection of Open WebUI plugins - tools, skills, filters, pipes, actions and events that extend your AI chat experience."
+category = "chat"
+tags = ["action", "anthropic-skills", "cusomization", "event", "events", "filter", "function", "mcp"]
+repository = "https://github.com/Classic298/open-webui-plugins"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-11-01

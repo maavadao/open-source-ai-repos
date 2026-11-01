@@ -1,0 +1,9 @@
+name = "claude-receipts"
+description = "Bring receipts from your Claude Code sessions"
+category = "skills-prompts"
+tags = ["claude", "claude-code", "receipt-printer", "vibe-coding"]
+repository = "https://github.com/chrishutchinson/claude-receipts"
+website = "https://www.npmjs.com/package/claude-receipts"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-01

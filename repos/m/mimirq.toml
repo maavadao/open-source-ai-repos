@@ -1,0 +1,9 @@
+name = "MimirQ"
+description = "中文优先的企业 RAG 知识库：可控解析、治理、切块、混合检索、重排、引用、图谱、评测与 Dify 接入。"
+category = "documents"
+tags = ["dify", "document-parsing", "enterprise-rag", "fastapi", "graphrag", "hybrid-search", "knowledge-base", "knowledge-graph"]
+repository = "https://github.com/skygazer42/MimirQ"
+website = "https://skygazer42.github.io/MimirQ/handbook/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-01
