@@ -1,0 +1,7 @@
+name = "awesome-osint-mcp-servers"
+description = "🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!"
+category = "mcp-servers"
+tags = ["awesome", "awesome-ai", "awesome-list", "awesome-lists", "awesome-mcp", "awesome-mcp-servers", "awesome-osint", "claude-mcp"]
+repository = "https://github.com/soxoj/awesome-osint-mcp-servers"
+license = "MIT"
+added = 2026-11-02

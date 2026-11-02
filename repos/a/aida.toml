@@ -1,0 +1,8 @@
+name = "AIDA"
+description = "Turn any LLM into an autonomous pentester. You define the scope, the agent does the work, you review the findings."
+category = "llm-apps"
+tags = ["ai", "ai-powered", "claude", "docker", "exegol", "hacking", "llm", "mcp"]
+repository = "https://github.com/Vasco0x4/AIDA"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-11-02

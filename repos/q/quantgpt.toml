@@ -1,0 +1,8 @@
+name = "QuantGPT"
+description = "Agent-driven alpha factory — LLM autonomously designs, backtests, and submits factors to WorldQuant BRAIN"
+category = "other"
+tags = ["a-shares", "ai-agent", "alpha", "backtesting", "claude", "factor-investing", "mcp", "quantitative-finance"]
+repository = "https://github.com/Miasyster/QuantGPT"
+license = "MIT"
+language = "Python"
+added = 2026-11-02

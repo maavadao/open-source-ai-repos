@@ -1,0 +1,9 @@
+name = "vicoa"
+description = "Vicoa is the agentic IDE for running a team of coding agents from desktop, mobile, VPS. Open-source, self-hostable."
+category = "skills-prompts"
+tags = ["ade", "ai-agents", "ai-orchestrator", "android", "claude-code", "codex", "coding-agent", "developer-tools"]
+repository = "https://github.com/vicoa-ai/vicoa"
+website = "https://vicoa.ai"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-11-02

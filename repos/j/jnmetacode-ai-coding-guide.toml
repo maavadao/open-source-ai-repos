@@ -1,0 +1,8 @@
+name = "ai-coding-guide"
+description = "AI 编程工具实战指南 — 66 个 Claude Code 技巧 + 10 款工具最佳实践 + 可复制配置模板 | AI Coding Tools Guide with 66 Claude Code tips"
+category = "skills-prompts"
+tags = ["ai-coding", "ai-programming", "ai-tools", "aider", "best-practices", "chinese", "claude-code", "copilot"]
+repository = "https://github.com/jnMetaCode/ai-coding-guide"
+license = "Apache-2.0"
+language = "CSS"
+added = 2026-11-02

@@ -1,0 +1,9 @@
+name = "paxeer-monorepo"
+description = "Paxeer X is a Distributed HyperState Machine for payments, code execution and intent routing. Designed for Machines and the Users operating them."
+category = "agents"
+tags = ["agent", "agent-client-protocol", "ai", "ai-agents", "blockchain", "machine-learning", "model-context-protocol", "monorepo"]
+repository = "https://github.com/Sidiora-Labs/paxeer-monorepo"
+website = "https://paxeer.network"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-11-02

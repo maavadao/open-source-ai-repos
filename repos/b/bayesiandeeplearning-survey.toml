@@ -1,0 +1,6 @@
+name = "BayesianDeepLearning-Survey"
+description = "Bayesian Deep Learning: A Survey"
+category = "ml-platforms"
+tags = ["arxiv", "bayesian", "bayesian-deep-learning", "bdl", "deep-learning", "machine-learning", "neural-networks", "survey"]
+repository = "https://github.com/js05212/BayesianDeepLearning-Survey"
+added = 2026-11-02

@@ -1,0 +1,8 @@
+name = "sagemaker-training-toolkit"
+description = "Train machine learning models within a 🐳 Docker container using 🧠 Amazon SageMaker."
+category = "ml-platforms"
+tags = ["aws", "deep-learning", "docker", "machine-learning", "python", "sagemaker", "training"]
+repository = "https://github.com/aws/sagemaker-training-toolkit"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-02

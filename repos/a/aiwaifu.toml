@@ -1,0 +1,8 @@
+name = "AIwaifu"
+description = "Open-Waifu open-sourced finetunable customizable simpable AI waifu inspired by neuro-sama"
+category = "other"
+tags = ["ai-waifu", "anime", "artificial-intelligence", "hacktoberfest", "vtuber", "waifu"]
+repository = "https://github.com/HRNPH/AIwaifu"
+license = "GPL-2.0"
+language = "Python"
+added = 2026-11-02

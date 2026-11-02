@@ -1,0 +1,8 @@
+name = "jarvis-assistant-vocal"
+description = "Assistant vocal local en francais : Claude ou Ollama (offline), domotique Hue, OBS, agenda, navigateur, appels Twilio, serveur MCP. Python."
+category = "mcp-servers"
+tags = ["anthropic-claude", "browser-automation", "home-automation", "jarvis", "local-ai", "mcp", "mcp-server", "obs"]
+repository = "https://github.com/sosoj92/jarvis-assistant-vocal"
+license = "MIT"
+language = "Python"
+added = 2026-11-02

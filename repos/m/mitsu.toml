@@ -1,0 +1,8 @@
+name = "Mitsu"
+description = "Meet Mitsu, your chibi red-team operator. Connect your AI provider, set the scope, and she can take an authorized pentest from recon and attack-surface mapping through vulnerability discovery, > exploitation, and post-exploitation, armored with 165+ MCP-connected tools and live session intel. Guide…"
+category = "mcp-servers"
+tags = ["agentic-workflow", "ai", "cybersecurity", "enumeration", "ethical-hacking", "hacking-tools", "infosec", "llm"]
+repository = "https://github.com/ARCANGEL0/Mitsu"
+license = "MIT"
+language = "Python"
+added = 2026-11-02

@@ -1,0 +1,6 @@
+name = "ai-jailbreaks"
+description = "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing."
+category = "security"
+tags = ["ai", "ai-safety", "jailbreak", "jailbreaking", "privacy", "safety", "security"]
+repository = "https://github.com/Alejandros17487/ai-jailbreaks"
+added = 2026-11-02

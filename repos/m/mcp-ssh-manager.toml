@@ -1,0 +1,9 @@
+name = "mcp-ssh-manager"
+description = "MCP server for SSH: let Claude Code, Codex and any MCP client run commands, transfer files and manage servers over SSH, with human approval, an encrypted vault and a live audit trail. Desktop app and CLI included."
+category = "mcp-servers"
+tags = ["agentic-ai", "ai-agents", "anthropic", "audit-log", "claude-code", "claude-desktop", "devops", "human-in-the-loop"]
+repository = "https://github.com/bvisible/mcp-ssh-manager"
+website = "https://www.npmjs.com/package/mcp-ssh-manager"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-02

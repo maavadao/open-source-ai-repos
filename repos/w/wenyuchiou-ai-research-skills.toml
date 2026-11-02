@@ -1,0 +1,9 @@
+name = "ai-research-skills"
+description = "Universal SKILL.md catalog for research workflows: literature review, research design, project memory, manuscript writing, and cross-agent delegation for Claude Code, Codex, Gemini, Cursor, OpenClaw, and generic AI clients."
+category = "skills-prompts"
+tags = ["academic-writing", "agentic-ai", "agentskills", "ai-research", "ai-skills", "claude-code", "claude-skills", "codex"]
+repository = "https://github.com/WenyuChiou/ai-research-skills"
+website = "https://github.com/WenyuChiou/ai-research-skills/blob/main/README.md"
+license = "MIT"
+language = "Python"
+added = 2026-11-02

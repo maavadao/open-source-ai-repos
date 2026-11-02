@@ -1,0 +1,9 @@
+name = "FineEnvs"
+description = "FineEnvs — RL Environments 101: building and scaling RL environments in the age of LLMs"
+category = "agents"
+tags = ["agents", "grpo", "huggingface", "llm", "openenv", "reinforcement-learning", "rl-environments", "rlhf"]
+repository = "https://github.com/adithya-s-k/FineEnvs"
+website = "https://huggingface.co/FineEnvs"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-02

@@ -1,0 +1,9 @@
+name = "CircuitNet"
+description = "CircuitNet: An Open-Source Dataset for Machine Learning Applications in Electronic Design Automation (EDA)"
+category = "ml-platforms"
+tags = ["congestion-prediction", "dataset", "deep-learning", "drc-violation", "eda", "ir-drop", "machine-learning"]
+repository = "https://github.com/circuitnet/CircuitNet"
+website = "https://circuitnet.github.io/"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-11-02

@@ -1,0 +1,9 @@
+name = "TokenEater"
+description = "Native macOS app to monitor AI usage limits and watch your coding sessions live"
+category = "skills-prompts"
+tags = ["anthropic", "claude", "claude-code", "codex", "codex-cli", "macos", "menu-bar", "openai"]
+repository = "https://github.com/AThevon/TokenEater"
+website = "https://tokeneater.athevon.dev"
+license = "MIT"
+language = "Swift"
+added = 2026-11-02

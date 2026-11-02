@@ -1,0 +1,6 @@
+name = "German-NLP"
+description = "Curated list of open-access/open-source/off-the-shelf resources and tools developed with a particular focus on German"
+category = "other"
+tags = ["computational-linguistics", "corpus-linguistics", "german-language", "natural-language-processing", "nlp", "text-mining"]
+repository = "https://github.com/adbar/German-NLP"
+added = 2026-11-02

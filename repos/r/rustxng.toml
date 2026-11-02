@@ -1,0 +1,8 @@
+name = "RustXNG"
+description = "Self-hosted metasearch and grounding engine for AI agents, based on SearXNG. Rust, JSON API, optional page text."
+category = "agents"
+tags = ["agpl", "ai-agents", "grounding", "llm", "mcp", "metasearch", "privacy", "rag"]
+repository = "https://github.com/sahenjp/RustXNG"
+license = "AGPL-3.0"
+language = "Rust"
+added = 2026-11-02

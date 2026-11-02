@@ -1,0 +1,8 @@
+name = "twick"
+description = "AI-powered video editor SDK built with React. Features canvas timeline, drag-and-drop editing, AI captions, and serverless MP4 export. Perfect for building custom video apps."
+category = "other"
+tags = ["advertisement", "ai", "ai-caption-generation", "ai-subtitles", "artificial-intelligence", "cloud-functions", "mp4-export", "open-source"]
+repository = "https://github.com/ncounterspecialist/twick"
+website = "https://ncounterspecialist.github.io/twick/"
+language = "TypeScript"
+added = 2026-11-02

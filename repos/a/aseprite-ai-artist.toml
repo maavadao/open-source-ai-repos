@@ -1,0 +1,9 @@
+name = "aseprite-ai-artist"
+description = "Your coding agent paints pixel art in the Aseprite window you already have open. MCP server + skills for Claude Code, omp, Codex, Gemini CLI and Cursor — draws, looks at its work, animates and exports. Gallery and benchmark: pixeli.pebbly.space"
+category = "mcp-servers"
+tags = ["ai-agents", "aseprite", "benchmark", "claude-code", "gamedev", "lua", "mcp", "model-context-protocol"]
+repository = "https://github.com/with-pebbly/aseprite-ai-artist"
+website = "https://pixeli.pebbly.space"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-02

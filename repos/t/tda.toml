@@ -1,0 +1,9 @@
+name = "tda"
+description = "TDA - Thread Dump Analyzer (for Java). Analyze your Thread Dumps with a GUI or use it as MCP Server."
+category = "mcp-servers"
+tags = ["java", "jvm", "jvm-monitor", "mcp", "mcp-server", "performance-tuning", "thread-dump", "virtual-threads"]
+repository = "https://github.com/irockel/tda"
+website = "https://irockel.github.io/tda/"
+license = "LGPL-2.1"
+language = "Java"
+added = 2026-11-02

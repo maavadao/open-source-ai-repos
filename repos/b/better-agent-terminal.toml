@@ -1,0 +1,8 @@
+name = "better-agent-terminal"
+description = "Multi-workspace terminal aggregator with Claude Code AI integration"
+category = "skills-prompts"
+tags = ["ai-agent", "anthropic", "claude", "claude-code", "developer-tools", "electron", "multi-terminal", "terminal"]
+repository = "https://github.com/tony1223/better-agent-terminal"
+license = "MIT"
+language = "Rust"
+added = 2026-11-02

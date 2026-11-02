@@ -1,0 +1,7 @@
+name = "oral-paper-skill"
+description = "向顶会优秀论文学科研｜Oral Paper Skill — 从 883 篇 Oral 论文摘要中“蒸馏”共通做法，用于论文对照改进与学习复盘 · Skill + prompt pack (CN/EN). Learn from 883 Oral paper abstracts to improve your research and writing."
+category = "skills-prompts"
+tags = ["academic-writing", "claude-code", "codex-skills", "iclr", "icml", "machine-learning", "neurips", "research"]
+repository = "https://github.com/Adkid-Zephyr/oral-paper-skill"
+language = "Python"
+added = 2026-11-02

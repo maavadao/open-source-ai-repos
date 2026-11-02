@@ -1,0 +1,9 @@
+name = "mingyu"
+description = "八字、紫微、星盘、六爻、梅花、奇门、大六壬、小六壬、塔罗、雷诺曼、灵签、择日一站式玄学算命占卜工具包，输出结构化提示词与数据。提供公开 API、MCP Server 与 skill。"
+category = "mcp-servers"
+tags = ["ai", "bazi", "da-liuren", "divination", "fortune-telling", "lenormand", "lingqian", "liuyao"]
+repository = "https://github.com/Brhiza/mingyu"
+website = "https://aov.cc"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-11-02

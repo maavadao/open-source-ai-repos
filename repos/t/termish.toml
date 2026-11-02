@@ -1,0 +1,9 @@
+name = "termish"
+description = "Open-source mobile SSH/Mosh terminal and native AI workspace for Android and iOS."
+category = "skills-prompts"
+tags = ["ai-agents", "android", "claude-code", "codex", "compose-multiplatform", "ios", "kotlin-multiplatform", "mosh"]
+repository = "https://github.com/farlume/termish"
+website = "https://termish.dev"
+license = "MIT"
+language = "Kotlin"
+added = 2026-11-02

@@ -1,0 +1,9 @@
+name = "claude-debugs-for-you"
+description = "Enable any LLM (e.g. Claude) to interactively debug any language for you via MCP and a VS Code Extension"
+category = "mcp-servers"
+tags = ["anthropic", "autodebug", "automation", "claude", "context", "debug", "debugging", "debugging-tool"]
+repository = "https://github.com/jasonjmcghee/claude-debugs-for-you"
+website = "https://marketplace.visualstudio.com/items?itemName=JasonMcGhee.claude-debugs-for-you"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-02

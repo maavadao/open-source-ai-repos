@@ -1,0 +1,9 @@
+name = "PerformanceMonitor"
+description = "Free, open-source SQL Server and Postgres performance monitoring. Collectors, real-time alerts, graphical plan viewer, MCP server for AI analysis. Supports SQL 2016-2025, Azure SQL, AWS RDS, Postgres, Aurora Postgres."
+category = "mcp-servers"
+tags = ["aws-rds", "azure-sql", "database-monitoring", "dba-tools", "deadlock", "deadlocks", "duckdb", "mcp"]
+repository = "https://github.com/erikdarlingdata/PerformanceMonitor"
+website = "https://erikdarling.com/free-sql-server-performance-monitoring/"
+license = "MIT"
+language = "C#"
+added = 2026-11-02

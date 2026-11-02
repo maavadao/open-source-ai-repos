@@ -1,0 +1,9 @@
+name = "Semantic-Anchors"
+description = "A curated catalog of 230+ semantic anchors: well-defined terms like arc42, TDD London School or tracer bullet that activate deep, consistent knowledge in LLMs. Use them in prompts, skills and agent instructions instead of spelling out methods yourself."
+category = "skills-prompts"
+tags = ["agentic-coding", "ai-agents", "claude-code", "llm", "prompt-engineering"]
+repository = "https://github.com/LLM-Coding/Semantic-Anchors"
+website = "https://llm-coding.github.io/Semantic-Anchors/"
+license = "Apache-2.0"
+language = "HTML"
+added = 2026-11-02

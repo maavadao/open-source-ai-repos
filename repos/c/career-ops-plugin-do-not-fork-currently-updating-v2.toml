@@ -1,0 +1,8 @@
+name = "career-ops-plugin-do-not-fork-currently-updating-v2-"
+description = "Claude Cowork plugin for job seekers. 9 AI skills: evaluate job postings, generate ATS-optimized resumes, scan company career portals, track applications, draft outreach. Works in any industry."
+category = "other"
+tags = ["ai-agent", "anthropic", "ats", "career-tools", "claude", "claude-cowork", "claude-cowork-plugin", "claude-cowork-skills"]
+repository = "https://github.com/andrew-shwetzer/career-ops-plugin-do-not-fork-currently-updating-v2-"
+license = "MIT"
+language = "HTML"
+added = 2026-11-02

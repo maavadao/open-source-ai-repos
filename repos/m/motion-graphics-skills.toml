@@ -1,0 +1,9 @@
+name = "motion-graphics-skills"
+description = "13 Claude Code skills for launch-grade motion graphics. Every frame is code. No After Effects, no video generator."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-marketing", "animation", "claude", "claude-code", "claude-skills", "codex", "hyperframes"]
+repository = "https://github.com/charlie947/motion-graphics-skills"
+website = "https://charliehills.substack.com"
+license = "MIT"
+language = "Shell"
+added = 2026-11-02

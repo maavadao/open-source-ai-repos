@@ -1,0 +1,8 @@
+name = "research-writing-skill"
+description = "🎓 AI 科研论文写作助手 - 30 个 Prompt 模板覆盖论文写作全流程。支持中英文翻译、润色、文献综述、投稿回复、基金申请等。"
+category = "skills-prompts"
+tags = ["academic-writing", "ai-writing", "openclaw", "paper-writing", "productivity", "prompt-engineering", "research", "research-tools"]
+repository = "https://github.com/alfonso0512/research-writing-skill"
+license = "MIT"
+language = "Python"
+added = 2026-11-02

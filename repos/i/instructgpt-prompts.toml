@@ -1,0 +1,8 @@
+name = "Instructgpt-prompts"
+description = "Instruction-based prompts for generating and classifying text."
+category = "skills-prompts"
+tags = ["chatgpt", "chatgpt-prompts", "gpt-3", "gpt-3-prompt", "gpt-3-prompts", "gpt-35", "gpt-35-prompts", "gpt-4"]
+repository = "https://github.com/kevinamiri/Instructgpt-prompts"
+website = "https://prompts.maila.ai/"
+license = "MIT"
+added = 2026-11-02

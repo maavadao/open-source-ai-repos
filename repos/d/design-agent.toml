@@ -1,0 +1,8 @@
+name = "design-agent"
+description = "Open-source design agent: on-brand stills, decks, diagrams, charts and motion graphics from a chat thread, built on Deep Agents."
+category = "agents"
+tags = ["agent", "agents", "ai-agent", "deepagents", "design", "hyperframes", "langgraph", "managed-agents"]
+repository = "https://github.com/langchain-ai/design-agent"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-11-02

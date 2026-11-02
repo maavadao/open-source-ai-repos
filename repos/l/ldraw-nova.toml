@@ -1,0 +1,8 @@
+name = "ldraw-nova"
+description = "Agent tooling for generative LEGO models building, built with Astra and Opus 5.5, powered by Jev"
+category = "agents"
+tags = ["ai-3d-model-generator", "ai-agents", "ai-cad", "blender", "ldraw", "ldraw-model", "lego", "meta-quest"]
+repository = "https://github.com/anteloc/ldraw-nova"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-11-02

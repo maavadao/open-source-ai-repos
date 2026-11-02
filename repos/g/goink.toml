@@ -1,0 +1,8 @@
+name = "goink"
+description = "Goink 桌面 AI 小说创作助手，对话式写作 + 自动状态追踪 + 本地语义搜索。跨平台开箱即用。AI Agent Novel Generator."
+category = "agents"
+tags = ["agent", "ai", "ai-agent", "golang", "novel", "novel-writing", "novelai", "onnxruntime"]
+repository = "https://github.com/sigpanic/goink"
+license = "AGPL-3.0"
+language = "Go"
+added = 2026-11-02

@@ -1,0 +1,7 @@
+name = "ai-math-roadmap"
+description = "Your no-nonsense guide to the Math used in Artificial Intelligence"
+category = "learning"
+tags = ["ai", "ai-roadmap", "artificial-intelligence", "caer", "data-science", "deep-learning", "machine-learning", "mathematics"]
+repository = "https://github.com/jasmcaus/ai-math-roadmap"
+license = "MIT"
+added = 2026-11-02

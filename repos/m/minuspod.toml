@@ -1,0 +1,8 @@
+name = "MinusPod"
+description = "MinusPod is a self-hosted server that removes ads before you ever hit play"
+category = "local-llms"
+tags = ["ad-remover", "ai", "claude", "jev", "llm", "media", "nvidia", "ollama"]
+repository = "https://github.com/ttlequals0/MinusPod"
+license = "MIT"
+language = "Python"
+added = 2026-11-02

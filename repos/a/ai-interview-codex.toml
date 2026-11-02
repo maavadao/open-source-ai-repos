@@ -1,0 +1,7 @@
+name = "ai-interview-codex"
+description = "Comprehensive ML/AI interview codex with iterative system design, production-ready code, and 2026 standards. Includes LLM/GenAI, RAG systems, agentic AI, and algorithms from scratch."
+category = "agents"
+tags = ["agentic-ai", "deep-learning", "interview-preparation", "langgraph", "machine-learning", "system-design"]
+repository = "https://github.com/girijesh-ai/ai-interview-codex"
+language = "Python"
+added = 2026-11-02

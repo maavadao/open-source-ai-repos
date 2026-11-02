@@ -1,0 +1,8 @@
+name = "coralline"
+description = "🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it"
+category = "skills-prompts"
+tags = ["bash", "claude", "claude-code", "nerd-fonts", "powerlevel10k", "statusline", "terminal", "vibe-coding"]
+repository = "https://github.com/Nanako0129/coralline"
+license = "MIT"
+language = "PowerShell"
+added = 2026-11-02

@@ -1,0 +1,9 @@
+name = "copilot-mcp"
+description = "A VSCode extension that lets you find and install Agent Skills and MCP Apps to use with GitHub Copilot, Claude Code, and Codex CLI."
+category = "mcp-servers"
+tags = ["agent-skills", "claude-code-skills", "claude-skills", "codex-skills", "copilot", "copilot-chat", "mcp", "mcp-apps"]
+repository = "https://github.com/VikashLoomba/copilot-mcp"
+website = "https://discord.gg/cloudmcp"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-11-02

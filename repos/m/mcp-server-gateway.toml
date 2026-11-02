@@ -1,0 +1,7 @@
+name = "mcp-server-gateway"
+description = "MCP gateway & OAuth MCP servers. LangGraph agent: memory, eval/tracking, PII guard, context trimming. Docker quick start for enterprise agents."
+category = "mcp-servers"
+tags = ["agentic-ai", "ai-agents", "context-engineering", "enterprise-ai", "langgraph", "llm-evaluation", "mcp", "mcp-gateway"]
+repository = "https://github.com/harish-gaggar/mcp-server-gateway"
+language = "Python"
+added = 2026-11-02

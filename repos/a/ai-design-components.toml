@@ -1,0 +1,8 @@
+name = "ai-design-components"
+description = "Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude"
+category = "skills-prompts"
+tags = ["ai-design", "anthropic", "claude", "claude-code", "claude-skills", "design-system", "full-stack", "react"]
+repository = "https://github.com/ancoleman/ai-design-components"
+license = "MIT"
+language = "Python"
+added = 2026-11-02

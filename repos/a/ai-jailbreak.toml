@@ -1,0 +1,9 @@
+name = "Ai-jailbreak"
+description = "A collection of jailbreak prompts and exploit techniques for local and frontier AI models, with modern methods for Qwen3.5, Gemma 4, Llama 4, Kimi K3, GPT-OSS, GPT-5.x, Gemini 3.x and Grok 4.x. For red-teaming and AI safety research only."
+category = "chat"
+tags = ["ai-jailbreak", "ai-jailbreak-prompts", "ai-jailbreak-universal", "ai-prompt", "chatgpt", "claude", "deepseek", "gemini"]
+repository = "https://github.com/Quincunx33/Ai-jailbreak"
+website = "https://quincunx33.github.io/Ai-jailbreak/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-02

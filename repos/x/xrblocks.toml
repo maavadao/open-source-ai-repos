@@ -1,0 +1,9 @@
+name = "xrblocks"
+description = "XR Blocks is a lightweight WebXR + AI library for rapidly prototyping advanced AI + XR experiences."
+category = "ml-platforms"
+tags = ["androidxr", "gemini", "gestures", "litert", "tensorflow", "webai", "webxr", "xrblocks"]
+repository = "https://github.com/google/xrblocks"
+website = "https://xrblocks.github.io"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-02

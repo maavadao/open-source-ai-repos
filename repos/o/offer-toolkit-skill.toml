@@ -1,0 +1,8 @@
+name = "offer-toolkit-skill"
+description = "Full job-hunt Claude skill bundle — Job Description decoder + Resume builder (11 templates) + Behavioral Interview / story bank. Three self-contained sub-skills with a top-level router."
+category = "skills-prompts"
+tags = ["agent-skill", "ai-agent", "aijob", "behavioral-interview", "bilingual", "career", "career-tools", "claude"]
+repository = "https://github.com/yanliudesign/offer-toolkit-skill"
+license = "MIT"
+language = "HTML"
+added = 2026-11-02

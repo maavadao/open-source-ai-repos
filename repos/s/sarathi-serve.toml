@@ -1,0 +1,8 @@
+name = "sarathi-serve"
+description = "A low-latency & high-throughput serving engine for LLMs"
+category = "models"
+tags = ["llama", "llm-inference", "pytorch", "transformer"]
+repository = "https://github.com/microsoft/sarathi-serve"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-02

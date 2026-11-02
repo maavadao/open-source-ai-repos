@@ -1,0 +1,9 @@
+name = "humanizer-ru"
+description = "humanizer-ru: редактура русского текста для AI-агентов. Убирает канцелярит и шаблонные обороты, сверяет смысл и факты. 67 признаков, 21 жёсткий запрет, сканер, CLI, MCP и расширение Chrome. | Russian text editing for AI agents: removes bureaucratese and template phrasing, checks facts."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-detection", "anthropic", "anti-ai-detector", "claude", "claude-code", "claude-code-skills", "claude-cowork"]
+repository = "https://github.com/ilyautov/humanizer-ru"
+website = "https://humanizer-ru.aifrontier.tech/"
+license = "MIT"
+language = "Python"
+added = 2026-11-02

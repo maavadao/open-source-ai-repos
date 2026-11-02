@@ -1,0 +1,9 @@
+name = "pizza-bot"
+description = "A local-first inbox for long-running AI agents, built with DeepAgents and LangGraph."
+category = "agents"
+tags = ["agentic-ai", "ai-agents", "amazon-bedrock", "deepagents", "electron", "human-in-the-loop", "langgraph", "local-first"]
+repository = "https://github.com/pizza-bot-app/pizza-bot"
+website = "https://github.com/pizza-bot-app/pizza-bot/releases"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-02

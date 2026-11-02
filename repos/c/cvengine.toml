@@ -1,0 +1,8 @@
+name = "CVEngine"
+description = "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration."
+category = "mcp-servers"
+tags = ["ai", "attack-surface-management", "bbot", "cybersecurity", "mcp", "nmap", "nuclei", "vulnerability-scanner"]
+repository = "https://github.com/hevnsnt/CVEngine"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-11-02

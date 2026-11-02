@@ -1,0 +1,8 @@
+name = "ai-companion-kit"
+description = "给你的 AI 一副身体，和一点人味 —— 会记事、会看场合的 QQ 陪聊 + 能控制安卓手机的 MCP"
+category = "mcp-servers"
+tags = ["adb", "agent", "ai-companion", "android", "chatbot", "deepseek", "human-like", "llm"]
+repository = "https://github.com/pinganbbOvO/ai-companion-kit"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-02

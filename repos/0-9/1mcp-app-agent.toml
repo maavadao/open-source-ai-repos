@@ -1,0 +1,9 @@
+name = "agent"
+description = "A unified Model Context Protocol server implementation that aggregates multiple MCP servers into one."
+category = "mcp-servers"
+tags = ["mcp", "mcp-client", "mcp-gateway", "mcp-proxy", "mcp-server", "unified-mcp-server"]
+repository = "https://github.com/1mcp-app/agent"
+website = "https://docs.1mcp.app"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-02

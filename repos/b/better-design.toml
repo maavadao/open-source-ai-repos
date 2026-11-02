@@ -1,0 +1,9 @@
+name = "better-design"
+description = "🎨 Open-source design MCP server + shadcn/ui registry — AI design systems for Claude Code, Cursor, Codex, GitHub Copilot & any MCP client. 31 brand-grade themes (Linear, Stripe, Vercel, Notion, Apple, Supabase, Figma…) + design tokens, UI principles & WCAG rules. Install any component with one comma…"
+category = "mcp-servers"
+tags = ["ai-design", "claude-code", "claude-code-for-design", "claude-design", "codex-design", "coding-agents", "component-library", "cursor"]
+repository = "https://github.com/marvkr/better-design"
+website = "https://better-design.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-02

@@ -1,0 +1,7 @@
+name = "pgmcp"
+description = "An MCP server to query any Postgres database in natural language."
+category = "mcp-servers"
+tags = ["agent", "agentic-ai", "ai", "analytics", "artificial-intelligence", "data-analysis", "database", "kong"]
+repository = "https://github.com/subnetmarco/pgmcp"
+language = "Go"
+added = 2026-11-02

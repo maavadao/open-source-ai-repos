@@ -1,0 +1,7 @@
+name = "Awesome-Traffic-Agent-Trajectory-Prediction"
+description = "This is a list of papers related to traffic agent trajectory prediction."
+category = "learning"
+tags = ["awesome", "dataset", "deep-learning", "papers", "source-code", "traffic-agent", "trajectory-prediction"]
+repository = "https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction"
+license = "MIT"
+added = 2026-11-02

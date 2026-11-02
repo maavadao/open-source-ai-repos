@@ -1,0 +1,7 @@
+name = "cordum"
+description = "The action firewall for AI agents. Enforce policy and human approval before risky tool calls, shell commands, workflows, and production changes, with auditable evidence."
+category = "agents"
+tags = ["agent-framework", "agentic-ai", "ai-agent", "ai-governance", "ai-orchestration", "ai-safety", "audit-trail", "autonomous-agents"]
+repository = "https://github.com/cordum-io/cordum"
+language = "Go"
+added = 2026-11-02

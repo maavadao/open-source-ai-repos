@@ -1,0 +1,9 @@
+name = "askimo"
+description = "AI desktop app for chat, RAG, Skills, MCP tools, and agents. Support multiple LLMs (Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM, Gemini, OpenRouter)"
+category = "skills-prompts"
+tags = ["ai", "ai-assistant", "chat-client", "chatgpt", "claude-code", "gemini", "gemini-client", "gpt"]
+repository = "https://github.com/askimo-ai/askimo"
+website = "https://askimo.chat"
+license = "AGPL-3.0"
+language = "Kotlin"
+added = 2026-11-02

@@ -1,0 +1,8 @@
+name = "iam-policy-autopilot"
+description = "IAM Policy Autopilot is an open source static code analysis tool that helps you quickly create baseline AWS IAM policies that you can refine as your application evolves. This tool is available as a command-line utility and MCP server for use within AI coding assistants for quickly building IAM poli…"
+category = "mcp-servers"
+tags = ["aws", "aws-iam", "aws-iam-policies", "aws-security", "cli", "cloud-security", "code-analysis", "iam"]
+repository = "https://github.com/awslabs/iam-policy-autopilot"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-02

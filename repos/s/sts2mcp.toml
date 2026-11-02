@@ -1,0 +1,8 @@
+name = "STS2MCP"
+description = "Full agentic runs for Slay the Spire 2. A mod that exposes in-game state, and the MCP server for the mod."
+category = "mcp-servers"
+tags = ["agentic-ai", "mcp-server", "research-and-development", "slay-the-spire-2"]
+repository = "https://github.com/Gennadiyev/STS2MCP"
+license = "MIT"
+language = "C#"
+added = 2026-11-02

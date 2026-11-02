@@ -1,0 +1,8 @@
+name = "pullmd"
+description = "Self-hosted URL- and file-to-Markdown service for humans and AI agents - web pages, documents, images, audio, YouTube. PWA + REST + MCP + Claude Code skill, Reddit-aware, refreshable share links."
+category = "mcp-servers"
+tags = ["claude", "claude-code", "docker", "document-conversion", "html-to-markdown", "markdown", "markitdown", "mcp"]
+repository = "https://github.com/AeternaLabsHQ/pullmd"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-11-02

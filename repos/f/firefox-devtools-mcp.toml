@@ -1,0 +1,7 @@
+name = "firefox-devtools-mcp"
+description = "Model Context Protocol server for Firefox DevTools - enables AI assistants to inspect and control Firefox browser through WebDriver BiDi"
+category = "mcp-servers"
+tags = ["claude-code", "firefox", "mcp", "mcp-server"]
+repository = "https://github.com/mozilla/firefox-devtools-mcp"
+language = "TypeScript"
+added = 2026-11-02

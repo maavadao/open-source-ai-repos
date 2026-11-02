@@ -1,0 +1,9 @@
+name = "warren"
+description = "Run coding agents like infrastructure, not terminal sessions. Warren manages isolation, lifecycle, spend, recovery, and Git delivery on compute you control."
+category = "agents"
+tags = ["agent-orchestration", "ai-agents", "autonomous-agents", "bun", "claude", "control-plane", "developer-tools", "devops"]
+repository = "https://github.com/jayminwest/warren"
+website = "https://app.warren.run"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-02

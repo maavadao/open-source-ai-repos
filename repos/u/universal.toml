@@ -1,0 +1,9 @@
+name = "universal"
+description = "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization, estimation, and approximation."
+category = "other"
+tags = ["arbitrary-precision", "arbitrary-precision-arithmetic", "arbitrary-precision-floats", "arbitrary-precision-integers", "arithmetic", "artificial-intelligence", "c-plus-plus", "digital-signal-processing"]
+repository = "https://github.com/stillwater-sc/universal"
+website = "https://stillwater-sc.github.io/universal/"
+license = "MIT"
+language = "C++"
+added = 2026-11-02

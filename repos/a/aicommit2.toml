@@ -1,0 +1,9 @@
+name = "aicommit2"
+description = "A Reactive CLI that generates commit messages for Git and Jujutsu with Ollama, ChatGPT, Gemini, Claude, Mistral and other AI"
+category = "local-llms"
+tags = ["ai-commits", "aicommit", "aicommits", "anthropic", "chatgpt", "claude", "cli", "codestral"]
+repository = "https://github.com/tak-bro/aicommit2"
+website = "https://www.npmjs.com/package/aicommit2"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-02

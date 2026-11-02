@@ -1,0 +1,9 @@
+name = "Laplace"
+description = "Laplace approximations for Deep Learning."
+category = "ml-platforms"
+tags = ["approximate-bayesian-inference", "deep-learning", "laplace-approximation", "neural-network"]
+repository = "https://github.com/aleximmer/Laplace"
+website = "https://aleximmer.github.io/Laplace"
+license = "MIT"
+language = "Python"
+added = 2026-11-02

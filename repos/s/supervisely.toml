@@ -1,0 +1,9 @@
+name = "supervisely"
+description = "Supervisely SDK for Python - convenient way to automate, customize and extend Supervisely Platform for your computer vision task"
+category = "ml-platforms"
+tags = ["ai", "deep-learning", "neural-networks", "python"]
+repository = "https://github.com/supervisely/supervisely"
+website = "https://supervisely.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-02

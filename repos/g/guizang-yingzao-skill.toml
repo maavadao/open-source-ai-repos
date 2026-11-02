@@ -1,0 +1,7 @@
+name = "guizang-yingzao-skill"
+description = "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报"
+category = "skills-prompts"
+tags = ["agent-skill", "ai-agent", "anthropic", "chinese-architecture", "chinese-culture", "claude-code", "claude-skill", "codex"]
+repository = "https://github.com/op7418/guizang-yingzao-skill"
+language = "Python"
+added = 2026-11-02

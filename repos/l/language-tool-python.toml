@@ -1,0 +1,8 @@
+name = "language_tool_python"
+description = "a free, non-AI python grammar checker 📝✅"
+category = "other"
+tags = ["grammar", "grammar-checker", "grammar-parser", "languagetool", "nlp", "python", "spellchecker"]
+repository = "https://github.com/jxmorris12/language_tool_python"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-11-02

@@ -1,0 +1,8 @@
+name = "lampOS"
+description = "The open-source operating system for physical AI."
+category = "skills-prompts"
+tags = ["agentic-ai", "ai-agents", "claude-code", "embedded", "llm", "open-source-robotics", "openclaw", "operating-system"]
+repository = "https://github.com/autonomous-ai/lampOS"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-02

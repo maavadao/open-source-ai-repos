@@ -1,0 +1,9 @@
+name = "FAST"
+description = "A framework for high-performance medical image processing, neural network inference and visualization"
+category = "data-science"
+tags = ["deep-learning", "digital-pathology", "gpu-computing", "image-processing", "medical-imaging", "opencl", "parallel-computing", "python"]
+repository = "https://github.com/FAST-Imaging/FAST"
+website = "https://fast-imaging.github.io"
+license = "BSD-2-Clause"
+language = "C++"
+added = 2026-11-02

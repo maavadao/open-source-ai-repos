@@ -1,0 +1,9 @@
+name = "whirl"
+description = "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools."
+category = "llm-apps"
+tags = ["ai", "ai-chat", "chat", "convex", "llm", "nextjs", "openrouter", "react"]
+repository = "https://github.com/whirlchat/whirl"
+website = "https://whirl.chat"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-02

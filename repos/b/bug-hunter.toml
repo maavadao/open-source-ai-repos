@@ -1,0 +1,8 @@
+name = "bug-hunter"
+description = "Adversarial AI bug hunter with auto-fix skill for Claude Code, Cursor, Codex CLI, GitHub Copilot CLI, Kiro CLI, Opencode, Pi Coding Agent, and more. Multi-agent pipeline finds security vulnerabilities, logic errors, and runtime bugs — then fixes them autonomously on a safe branch."
+category = "skills-prompts"
+tags = ["adversarial-ai", "ai-code-review", "auto-fix", "bug-detection", "claude", "claude-code", "code-quality", "codex-cli"]
+repository = "https://github.com/codexstar69/bug-hunter"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-02

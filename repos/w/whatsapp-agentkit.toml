@@ -1,0 +1,9 @@
+name = "whatsapp-agentkit"
+description = "Construye tu agente de WhatsApp con IA en menos de 30 minutos. Claude Code te entrevista y escribe todo el código. Zernio o Meta Cloud API. Sin saber programar."
+category = "skills-prompts"
+tags = ["ai-agent", "anthropic", "chatbot", "claude", "claude-code", "fastapi", "meta-cloud-api", "python"]
+repository = "https://github.com/Hainrixz/whatsapp-agentkit"
+website = "https://hainrixz.github.io/whatsapp-agentkit/"
+license = "MIT"
+language = "Python"
+added = 2026-11-02

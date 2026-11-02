@@ -1,0 +1,6 @@
+name = "Journals-of-Prognostics-and-Health-Management"
+description = "智能故障诊断和寿命预测期刊（Journals of Intelligent Fault Diagnosis and Remaining Useful Life）"
+category = "ml-platforms"
+tags = ["artificial-intelligence", "deep-learning", "fault-diagnosis", "intelligent-fault-diagnosis", "machine-learning", "phm", "prognostics-and-health-management"]
+repository = "https://github.com/liguge/Journals-of-Prognostics-and-Health-Management"
+added = 2026-11-02

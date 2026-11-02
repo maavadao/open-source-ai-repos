@@ -1,0 +1,8 @@
+name = "godot-mcp"
+description = "MCP server for full Godot 4.x engine control: 157 tools for AI-driven game development (GDScript and C#/.NET). Tested with Godot 4.7."
+category = "mcp-servers"
+tags = ["ai", "automation", "csharp", "dotnet", "game-development", "gdscript", "godot", "godot-engine"]
+repository = "https://github.com/tugcantopaloglu/godot-mcp"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-02

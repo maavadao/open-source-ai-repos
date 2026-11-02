@@ -1,0 +1,9 @@
+name = "opensre"
+description = "The open-source agent for CI/CD reliability."
+category = "local-llms"
+tags = ["alerting", "ci-cd", "cli", "datadog", "devops", "gitlab-ci", "grafana", "incident-management"]
+repository = "https://github.com/Tracer-Cloud/opensre"
+website = "https://discord.com/invite/opensre"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-02

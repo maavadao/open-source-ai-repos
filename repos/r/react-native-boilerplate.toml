@@ -1,0 +1,8 @@
+name = "react-native-boilerplate"
+description = "Production-ready React Native boilerplate for iOS, Android, and Web with Expo SDK 58, React 19.3, Expo Router, Redux Toolkit, TypeScript, Maestro E2E tests, and AGENTS.md rules and skills for AI coding agents (Claude Code, Codex, Cursor)."
+category = "coding"
+tags = ["agents-md", "ai-coding", "android", "boilerplate", "claude", "cross-platform", "cursor", "eas-build"]
+repository = "https://github.com/wataru-maeda/react-native-boilerplate"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-02

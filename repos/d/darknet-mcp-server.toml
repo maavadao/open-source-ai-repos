@@ -1,0 +1,9 @@
+name = "darknet-mcp-server"
+description = "66-tool MCP server for dark web intelligence — breach data, ransomware tracking, Tor .onion access, malware analysis, blockchain intel, exploit search, stealer logs"
+category = "mcp-servers"
+tags = ["ai-agent", "breach", "claude", "cybersecurity", "dark-web", "darknet", "exploit", "malware"]
+repository = "https://github.com/badchars/darknet-mcp-server"
+website = "https://www.npmjs.com/package/darknet-mcp-server"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-02

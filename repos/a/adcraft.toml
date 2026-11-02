@@ -1,0 +1,7 @@
+name = "AdCraft"
+description = "AdCraft — 首个面向营销广告的 Agentic 视频制作平台。无限画布 · 拉片复刻 · 全流程自动化，从创意到成片一站直达。AdCraft — The first agentic video production platform for marketing and advertising. Infinite canvas · shot-by-shot replication · fully automated, from idea to final cut."
+category = "agents"
+tags = ["agent", "agentic-ai", "canvas", "open-source", "openai", "openmontage", "seeddance", "video-generation"]
+repository = "https://github.com/GML-MMGroup/AdCraft"
+language = "Python"
+added = 2026-11-02

@@ -1,0 +1,9 @@
+name = "lunar"
+description = "lunar.dev: Agent native MCP Gateway for governance and security"
+category = "mcp-servers"
+tags = ["agent-skills", "api-proxy", "mcp", "mcp-client", "mcp-gateway", "mcp-security", "mcp-server", "mcp-servers"]
+repository = "https://github.com/TheLunarCompany/lunar"
+website = "https://lunar.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-02

@@ -1,0 +1,7 @@
+name = "TensorLayerX"
+description = "TensorLayerX: A Unified Deep Learning and Reinforcement Learning Framework for All Hardwares, Backends and OS."
+category = "ml-platforms"
+tags = ["deep-learning", "jittor", "machine-learning", "mindspore", "neural-network", "oneflow", "paddlepaddle", "python"]
+repository = "https://github.com/tensorlayer/TensorLayerX"
+language = "Python"
+added = 2026-11-02

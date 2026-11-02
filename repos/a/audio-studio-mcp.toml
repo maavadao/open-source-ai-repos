@@ -1,0 +1,9 @@
+name = "audio-studio-mcp"
+description = "Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key."
+category = "mcp-servers"
+tags = ["apple-silicon", "audio-generation", "claude-code", "cuda", "game-audio", "mcp", "mcp-server", "mlx"]
+repository = "https://github.com/kanaworksai-hue/audio-studio-mcp"
+website = "https://kanaworksai-hue.github.io/audio-studio-mcp/"
+license = "MIT"
+language = "Python"
+added = 2026-11-02

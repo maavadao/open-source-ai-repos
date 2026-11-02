@@ -1,0 +1,9 @@
+name = "hevy-mcp"
+description = "Manage your Hevy workouts, routines, folders, and exercise templates. Create and update sessions faster, organize plans, and search exercises to build workouts quickly. Stay synced with changes so your training log is always up to date."
+category = "mcp-servers"
+tags = ["claude", "codex", "fitness", "hevy", "mcp", "mcp-server", "model-context-protocol", "workout-planner"]
+repository = "https://github.com/chrisdoc/hevy-mcp"
+website = "https://hevy-mcp.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-02

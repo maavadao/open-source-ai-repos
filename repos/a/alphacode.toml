@@ -1,0 +1,9 @@
+name = "alphacode"
+description = "Free MIT AI coding agent — no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 more. Swarm mode, 40+ tools, browser & desktop automation, built in Rust."
+category = "local-llms"
+tags = ["agentic-ai", "ai", "ai-agent", "ai-agents", "ai-coding", "ai-coding-assistant", "ai-tools", "autonomous-agents"]
+repository = "https://github.com/dragonked2/alphacode"
+website = "https://alphacli.github.io/"
+license = "MIT"
+language = "Rust"
+added = 2026-11-02

@@ -1,0 +1,8 @@
+name = "deepseek-whalechan"
+description = "Keep Whale-chan consistently vivid in every generation: High-consistency character design specification, visual asset library, and agent creation suite."
+category = "skills-prompts"
+tags = ["claude-code", "codex", "comics", "gemini", "graphics", "skills"]
+repository = "https://github.com/Neko3000/deepseek-whalechan"
+license = "MIT"
+language = "Python"
+added = 2026-11-02

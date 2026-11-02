@@ -1,0 +1,9 @@
+name = "foremerge"
+description = "Catch intent conflicts before code conflicts. The open-source coordination protocol for coding agents, built above Git."
+category = "agents"
+tags = ["ai-agents", "cli", "coding-agents", "developer-tools", "git", "mcp", "model-context-protocol", "multi-agent"]
+repository = "https://github.com/naw103/foremerge"
+website = "https://foremerge.com"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-02

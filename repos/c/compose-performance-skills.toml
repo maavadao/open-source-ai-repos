@@ -1,0 +1,8 @@
+name = "compose-performance-skills"
+description = "⚡️ A curated library of Agent Skills focused on Jetpack Compose performance."
+category = "skills-prompts"
+tags = ["agent-skills", "android", "claude", "claude-code", "compose", "compose-performance", "jetpack-compose", "kotlin"]
+repository = "https://github.com/skydoves/compose-performance-skills"
+license = "Apache-2.0"
+language = "Shell"
+added = 2026-11-02

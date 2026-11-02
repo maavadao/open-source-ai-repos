@@ -1,0 +1,7 @@
+name = "CoexistAI"
+description = "CoexistAI is a modular, developer-friendly research assistant framework . It enables you to build, search, summarize, and automate research workflows using LLMs, web search, Reddit, YouTube, and mapping tools—all with simple MCP tool calls or API calls or Python functions."
+category = "mcp-servers"
+tags = ["agentic-ai", "fastapi", "github", "langchain", "langgraph", "map", "mcp-server", "reddit"]
+repository = "https://github.com/SPThole/CoexistAI"
+language = "Jupyter Notebook"
+added = 2026-11-02

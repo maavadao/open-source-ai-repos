@@ -1,0 +1,9 @@
+name = "ratel"
+description = "Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 and semantic retrieval. Progressive Disclosure. No vector DB."
+category = "skills-prompts"
+tags = ["accuracy", "agents", "claude-skills", "context", "harness", "llm", "llm-routing", "mcp"]
+repository = "https://github.com/ratel-ai/ratel"
+website = "https://www.ratel.sh/"
+license = "MIT"
+language = "Rust"
+added = 2026-11-02

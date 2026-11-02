@@ -1,0 +1,9 @@
+name = "atticus-mac"
+description = "Fast, free voice assistant for your Mac. No API key: runs on your Claude Pro or Max plan. Sends background agents for big jobs, remembers you and learns your shortcuts. Hold ⌃⌥Space and talk."
+category = "skills-prompts"
+tags = ["claude", "claude-code", "macos", "menubar-app", "open-source", "productivity", "speech-recognition", "swift"]
+repository = "https://github.com/SaarthurR/atticus-mac"
+website = "https://saarthurr.github.io/atticus-mac/"
+license = "MIT"
+language = "Python"
+added = 2026-11-02

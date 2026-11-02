@@ -1,0 +1,9 @@
+name = "truecourse"
+description = "Turns the documentation you already write into tests that run. A failing test means your product and your docs disagree, and names the section."
+category = "agents"
+tags = ["agents", "ai", "developer-tools", "documentation", "end-to-end-testing", "llm", "test-automation", "testing"]
+repository = "https://github.com/truecourse-ai/truecourse"
+website = "https://truecourse.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-02

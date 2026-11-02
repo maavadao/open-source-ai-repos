@@ -1,0 +1,9 @@
+name = "tangle"
+description = "Tangle is a web app that allows the users to build and run Machine Learning pipelines without having to set up development environment."
+category = "ml-platforms"
+tags = ["artificial-intelligence", "cloud-pipelines", "data-processing", "machine-learning", "pipelines"]
+repository = "https://github.com/TangleML/tangle"
+website = "https://tangleml.com/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-02

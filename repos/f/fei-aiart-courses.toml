@@ -1,0 +1,8 @@
+name = "courses"
+description = "课件：数字图像处理，深度学习，计算机视觉，机器学习"
+category = "vision"
+tags = ["artificial-intelligence", "computer-vision", "courses", "deep-learning", "digital-image-processing", "machine-learning", "slides"]
+repository = "https://github.com/fei-aiart/courses"
+website = "https://github.com/fei-aiart/courses"
+language = "HTML"
+added = 2026-11-02

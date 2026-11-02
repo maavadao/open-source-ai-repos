@@ -1,0 +1,9 @@
+name = "vvv"
+description = "一次构建视频模板，多次复用：给 Claude Code、Codex 等 25+ 个 Agent 的开源可编辑婚礼视频模板与 Agent Skill。Build a video template once, reuse it across coding agents."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude-code", "codex", "mcp", "video", "video-templates", "wedding-video"]
+repository = "https://github.com/actionow-ai/vvv"
+website = "https://vibevision.video"
+license = "MIT"
+language = "Python"
+added = 2026-11-02

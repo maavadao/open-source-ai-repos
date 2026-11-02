@@ -1,0 +1,8 @@
+name = "sapper-v2"
+description = "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow."
+category = "skills-prompts"
+tags = ["ai-agents", "autonomous-agents", "claude-code", "ctf", "llm", "multi-agent", "pentest"]
+repository = "https://github.com/N1nEmAn/sapper-v2"
+license = "MIT"
+language = "Python"
+added = 2026-11-02

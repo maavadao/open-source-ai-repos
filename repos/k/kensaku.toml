@@ -1,0 +1,8 @@
+name = "kensaku"
+description = "Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access."
+category = "mcp-servers"
+tags = ["ai-agents", "desktop", "desktop-search", "file-search", "full-text-search", "launcher", "local-first", "mcp"]
+repository = "https://github.com/yjid/kensaku"
+license = "MIT"
+language = "Rust"
+added = 2026-11-02

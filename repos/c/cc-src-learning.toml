@@ -1,0 +1,7 @@
+name = "cc-src-learning"
+description = "透过 Claude Code 的源码，我们学到了什么？"
+category = "skills-prompts"
+tags = ["claude", "claude-code"]
+repository = "https://github.com/mylxsw/cc-src-learning"
+license = "MIT"
+added = 2026-11-02

@@ -1,0 +1,7 @@
+name = "awesome-ai-extensions"
+description = "A curated list of AI-powered browser extensions, plugins, and add-ons."
+category = "learning"
+tags = ["ai", "ai-extensions", "ai-tools", "artificial-intelligence", "awesome", "awesome-list", "browser-extensions", "chrome-extensions"]
+repository = "https://github.com/kklt92/awesome-ai-extensions"
+license = "CC0-1.0"
+added = 2026-11-02

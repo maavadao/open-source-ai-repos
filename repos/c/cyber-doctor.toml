@@ -1,0 +1,8 @@
+name = "cyber-doctor"
+description = "赛博医生项目——”赛博华佗“，基于多模态大模型的多功能智能体，一键搭建本地多模态大模型。接入医疗健康相关的知识图谱和知识库后可以进行疾病初诊，病历分析，专业知识问答等功能，成为你的私人医生。赛博华佗项目能帮助实现医疗资源的跨地域传播，让更多人借助大模型改善健康水平。\"Cyber ​​Huatuo\" - Easy to build a personal doctor agent based on LLM and Knowledge Graph/Knowledge Database."
+category = "agents"
+tags = ["ai", "ai-agents", "chatbot", "kag", "llm", "medicine", "openai", "rag"]
+repository = "https://github.com/ZeroTang05/cyber-doctor"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-11-02

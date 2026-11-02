@@ -1,0 +1,9 @@
+name = "OpenGeometry"
+description = "Cad Kernel for Humans and AI Agents"
+category = "agents"
+tags = ["agents", "architecture", "cad", "computer-graphics", "draft", "draw", "engineering", "graphics"]
+repository = "https://github.com/OpenGeometry-io/OpenGeometry"
+website = "https://opengeometry.io"
+license = "MPL-2.0"
+language = "Rust"
+added = 2026-11-02

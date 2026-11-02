@@ -1,0 +1,9 @@
+name = "gemini-image-editing-nextjs-quickstart"
+description = "Get started with native image generation and editing using Gemini 2.0 and Next.js"
+category = "other"
+tags = ["gemini", "gemini-api"]
+repository = "https://github.com/google-gemini/gemini-image-editing-nextjs-quickstart"
+website = "https://ai.google.dev/gemini-api/docs/image-generation"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-02

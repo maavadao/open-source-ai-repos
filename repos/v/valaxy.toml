@@ -1,0 +1,9 @@
+name = "valaxy"
+description = "🌌 为表达而生的静态博客框架 · A static blog framework for your voice. Vue 3 + Vite, AI-ready (Skills / MCP / llms.txt)"
+category = "mcp-servers"
+tags = ["agent-skills", "blog", "blog-framework", "hexo-alternative", "llms-txt", "mcp", "site", "ssg"]
+repository = "https://github.com/YunYouJun/valaxy"
+website = "https://valaxy.site"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-02

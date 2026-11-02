@@ -1,0 +1,8 @@
+name = "Lampline"
+description = "Build AI phone agents on your own computer and test every change with an AI caller. Open source, runs free with no API keys, cents per call with your own keys. Imports Dialogflow CX."
+category = "speech"
+tags = ["agents-as-code", "contact-center", "conversational-ai", "cx-agent-studio", "dialogflow-cx", "ivr", "llm", "pipecat"]
+repository = "https://github.com/C4rohan/Lampline"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-02

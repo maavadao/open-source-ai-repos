@@ -1,0 +1,9 @@
+name = "immersive-language-learning-with-live-api"
+description = "Immergo is an immersive language learning application powered by the Google Gemini Live SDK. It simulates real-world roleplay scenarios (e.g., buying a bus ticket, ordering coffee) to help users practice speaking in various languages with an AI that acts as a native speaker."
+category = "other"
+tags = ["bigqu", "gemini", "gemini-live-api", "google-cloud", "language-learning", "recapcha", "redis", "valk"]
+repository = "https://github.com/ZackAkil/immersive-language-learning-with-live-api"
+website = "https://immersive-language-learning.app"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-11-02

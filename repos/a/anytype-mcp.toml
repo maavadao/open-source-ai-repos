@@ -1,0 +1,9 @@
+name = "anytype-mcp"
+description = "An MCP server enabling AI assistants to interact with Anytype - your encrypted, local and collaborative wiki - to organize objects, lists, and more through natural language."
+category = "mcp-servers"
+tags = ["anytype", "api", "mcp", "mcp-server", "modelcontextprotocol"]
+repository = "https://github.com/anyproto/anytype-mcp"
+website = "https://npmjs.com/package/@anyproto/anytype-mcp"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-02

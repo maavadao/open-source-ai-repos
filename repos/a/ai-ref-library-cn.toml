@@ -1,0 +1,8 @@
+name = "ai-ref-library-cn"
+description = "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）"
+category = "other"
+tags = ["ai", "gpt"]
+repository = "https://github.com/sleepy-zone/ai-ref-library-cn"
+website = "https://sleepyzone.online/ai-ref-library-cn/"
+language = "JavaScript"
+added = 2026-11-02

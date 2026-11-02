@@ -1,0 +1,9 @@
+name = "ome"
+description = "Open Model Engine (OME) — Kubernetes operator for LLM serving, GPU scheduling, and model lifecycle management. Works with SGLang, vLLM, TensorRT-LLM, and Triton"
+category = "local-llms"
+tags = ["deepseek", "k8s", "kimi-k2", "llama", "llm", "llm-inference", "model-as-a-service", "model-serving"]
+repository = "https://github.com/ome-projects/ome"
+website = "http://ome-projects.github.io/ome/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-11-02

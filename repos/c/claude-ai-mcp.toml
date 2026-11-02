@@ -1,0 +1,6 @@
+name = "claude-ai-mcp"
+description = "Report issues related to MCP integration with Claude here."
+category = "mcp-servers"
+tags = ["anthropic", "claude", "claude-ai", "mcp", "model-context-protocol"]
+repository = "https://github.com/anthropics/claude-ai-mcp"
+added = 2026-11-02

@@ -1,0 +1,9 @@
+name = "blitzstrike"
+description = "Blitz Strike — a universal MCP security-audit toolbelt. Reconnaissance at speed. Analysis in depth. Validation before report."
+category = "mcp-servers"
+tags = ["active-directory", "blue-team", "bug-bounty", "cve", "defensive-security", "exploit", "llm", "mcp-server"]
+repository = "https://github.com/shinthink/blitzstrike"
+website = "https://github.com/shinthink/blitzstrike"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-02

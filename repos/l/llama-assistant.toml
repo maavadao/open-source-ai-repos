@@ -1,0 +1,9 @@
+name = "llama-assistant"
+description = "AI-powered assistant to help you with your daily tasks, powered by Llama 3, DeepSeek R1, and many more models on HuggingFace."
+category = "models"
+tags = ["deepseek-r1", "llama", "llama-3-2", "llama3", "llava", "moondream", "owen", "personal-assistant"]
+repository = "https://github.com/nrl-ai/llama-assistant"
+website = "https://llama-assistant.nrl.ai/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-11-02

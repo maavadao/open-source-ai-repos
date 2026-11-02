@@ -1,0 +1,9 @@
+name = "agent-craft"
+description = "AI Agent 教学仓库 | 系统化 LangChain、RAG、LangGraph、MCP 全栈实战代码 | 万字博客详解 | 开源可运行示例 | 从零构建智能体"
+category = "mcp-servers"
+tags = ["ai-agent", "artificial-intelligence", "beginner-guide", "chatbot", "deepseek", "langchain", "langgraph", "mcp"]
+repository = "https://github.com/Annyfee/agent-craft"
+website = "https://blog.csdn.net/2401_87328929/category_13070342.html"
+license = "MIT"
+language = "Python"
+added = 2026-11-02

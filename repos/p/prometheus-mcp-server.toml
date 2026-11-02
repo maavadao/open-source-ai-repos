@@ -1,0 +1,8 @@
+name = "prometheus-mcp-server"
+description = "A Model Context Protocol (MCP) server that enables AI agents and LLMs to query and analyze Prometheus metrics through standardized interfaces."
+category = "mcp-servers"
+tags = ["ai", "devops", "llm", "mcp", "model-context-protocol", "prometheus"]
+repository = "https://github.com/pab1it0/prometheus-mcp-server"
+license = "MIT"
+language = "Python"
+added = 2026-11-02

@@ -1,0 +1,9 @@
+name = "ai-shortfilm-prompts"
+description = "Claude Code Skill that turns any idea into a cinematic, model-ready video prompt — Sora · Kling · Veo · Seedance. 21 genre templates, 5-stage structure, eval-tested. Distilled from the AI short Hollywood director PJ Ace called \"one of the best short films I've seen in years.\""
+category = "skills-prompts"
+tags = ["ai-video", "chinese", "cinematic", "cinematic-prompts", "claude-code", "claude-skill", "claude-skills", "jimeng"]
+repository = "https://github.com/jnMetaCode/ai-shortfilm-prompts"
+website = "https://prompts.aiolaola.com"
+license = "MIT"
+language = "Python"
+added = 2026-11-02

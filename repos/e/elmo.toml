@@ -1,0 +1,9 @@
+name = "elmo"
+description = "Open-source Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO) platform. Track how ChatGPT, Claude, Perplexity, Gemini, Copilot, Grok, and Google AI Overviews mention and cite your brand in AI search. MIT-licensed, self-hostable, every metric auditable in code."
+category = "coding"
+tags = ["aeo", "ai-engine-optimization", "ai-seo", "ai-visibility", "ai-visibility-tracker", "aio", "answer-engine-optimization", "chatgpt"]
+repository = "https://github.com/elmohq/elmo"
+website = "https://www.elmohq.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-02

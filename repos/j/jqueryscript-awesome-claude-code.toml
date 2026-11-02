@@ -1,0 +1,8 @@
+name = "awesome-claude-code"
+description = "A curated list of awesome tools, IDE integrations, frameworks, and other resources for developers working with Anthropic's Claude Code."
+category = "skills-prompts"
+tags = ["awesome-list", "awesome-lists", "claude", "claude-code", "claude-code-plugin", "claude-skills", "cli", "code-generation"]
+repository = "https://github.com/jqueryscript/awesome-claude-code"
+website = "https://www.scriptbyai.com/claude-code-resource-list/"
+license = "CC0-1.0"
+added = 2026-11-02

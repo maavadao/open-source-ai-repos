@@ -1,0 +1,9 @@
+name = "KVarN"
+description = "KVarN is a native vLLM KV-cache quantization backend for your agents: 3-5x more context, throughput above FP16, and FP16-level accuracy. Calibration-free, one flag."
+category = "local-llms"
+tags = ["agentic-ai", "kv-cache", "llm", "llm-inference", "long-context", "quantization", "vllm"]
+repository = "https://github.com/huawei-csl/KVarN"
+website = "https://arxiv.org/abs/2606.03458"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-02
