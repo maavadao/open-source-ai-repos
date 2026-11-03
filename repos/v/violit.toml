@@ -1,0 +1,9 @@
+name = "violit"
+description = "Pure Python Web Framework. Streamlit simplicity, no reruns."
+category = "data-science"
+tags = ["ai", "data-application", "data-science", "data-visualization", "deep-learning", "developer-tools", "fastapi", "framework"]
+repository = "https://github.com/violit-dev/violit"
+website = "https://violit.cloud"
+license = "MIT"
+language = "Python"
+added = 2026-11-03

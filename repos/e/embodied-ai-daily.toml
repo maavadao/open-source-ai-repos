@@ -1,0 +1,8 @@
+name = "Embodied-AI-Daily"
+description = "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文"
+category = "ml-platforms"
+tags = ["deep-learning", "gaussian-splatting", "lio", "slam", "vio", "vla", "vln"]
+repository = "https://github.com/luohongk/Embodied-AI-Daily"
+website = "http://luohongkun.top/Embodied-AI-Daily/"
+language = "HTML"
+added = 2026-11-03

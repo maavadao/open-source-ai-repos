@@ -1,0 +1,7 @@
+name = "claude-code-bmad-skills"
+description = "BMAD Method skills for Claude Code - Auto-detection, Memory integration, Slash commands. Transform Claude Code into a BMAD-powered development environment."
+category = "skills-prompts"
+tags = ["agentic-ai", "agile", "ai-development", "bmad", "bmad-method", "claude-code", "development-tools", "llm"]
+repository = "https://github.com/aj-geddes/claude-code-bmad-skills"
+language = "Shell"
+added = 2026-11-03

@@ -1,0 +1,9 @@
+name = "snip"
+description = "CLI proxy that reduces LLM token usage by 60-90%. Declarative YAML filters for Claude Code, Cursor, Copilot, Gemini. rtk alternative in Go."
+category = "skills-prompts"
+tags = ["ai-coding", "ai-tools", "aider", "claude-code", "cli", "cline", "codex", "context-window"]
+repository = "https://github.com/edouard-claude/snip"
+website = "https://edouard-claude.github.io/snip/"
+license = "MIT"
+language = "Go"
+added = 2026-11-03

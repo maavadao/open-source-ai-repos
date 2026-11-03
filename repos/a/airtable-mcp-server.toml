@@ -1,0 +1,9 @@
+name = "airtable-mcp-server"
+description = "🗂️🤖 Airtable Model Context Protocol Server, for allowing AI systems to interact with your Airtable bases"
+category = "mcp-servers"
+tags = ["airtable", "mcp-server", "model-context-protocol"]
+repository = "https://github.com/domdomegg/airtable-mcp-server"
+website = "https://www.npmjs.com/package/airtable-mcp-server"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-03

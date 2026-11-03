@@ -1,0 +1,9 @@
+name = "agent-manager"
+description = "Terminal multiplexer for AI coding agents. Run Claude Code, Codex, OpenCode, Gemini CLI and more side by side in one tmux TUI, with live status, worktrees and diff review. Discord: discord.gg/ecS88An7pF"
+category = "skills-prompts"
+tags = ["ai-agents", "ai-coding-agents", "bubbletea", "claude-code", "code-review", "codex", "command-code", "developer-tools"]
+repository = "https://github.com/wainmann/agent-manager"
+website = "https://agent-manager.dev"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-11-03

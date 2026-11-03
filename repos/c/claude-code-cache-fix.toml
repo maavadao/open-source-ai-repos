@@ -1,0 +1,8 @@
+name = "claude-code-cache-fix"
+description = "Fixes prompt cache regression in Claude Code that causes up to 20x cost increase on resumed sessions"
+category = "skills-prompts"
+tags = ["anthropic", "api-proxy", "cache", "claude", "claude-code", "claude-code-tools", "cli", "cost-optimization"]
+repository = "https://github.com/cnighswonger/claude-code-cache-fix"
+website = "https://github.com/cnighswonger/claude-code-cache-fix"
+language = "JavaScript"
+added = 2026-11-03

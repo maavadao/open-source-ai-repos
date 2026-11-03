@@ -1,0 +1,7 @@
+name = "hayamimi"
+description = "早耳 - Real-time multilingual speech-to-text on CPU only. Live subtitles, browser dashboard, speaker labels, translation. No GPU, no cloud."
+category = "speech"
+tags = ["asr", "japanese", "multilingual", "real-time", "sherpa-onnx", "speech-recognition", "subtitles"]
+repository = "https://github.com/oboroge0/hayamimi"
+language = "Python"
+added = 2026-11-03

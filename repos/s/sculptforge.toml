@@ -1,0 +1,9 @@
+name = "SculptForge"
+description = "The free, open-source alternative to ZBrush. Sculpting for Linux, macOS and Windows with free built-in AI (image/text to 3D), Send to Unreal, game-ready LODs, Gaussian splats and OpenUSD."
+category = "other"
+tags = ["3d", "cpp", "dear-imgui", "digital-sculpting", "fbx", "game-development", "gaussian-splatting", "gltf"]
+repository = "https://github.com/islandmed/SculptForge"
+website = "https://islandmed.github.io/SculptForge/"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-11-03

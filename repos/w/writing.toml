@@ -1,0 +1,6 @@
+name = "writing"
+description = "This benchmark tests how well LLMs incorporate a set of 10 mandatory story elements (characters, objects, core concepts, attributes, motivations, etc.) in a short creative story"
+category = "llm-apps"
+tags = ["claude", "claude-3-7-sonnet", "deepseek", "deepseek-r1", "gemini", "gpt-4-5", "llama", "llm"]
+repository = "https://github.com/lechmazur/writing"
+added = 2026-11-03

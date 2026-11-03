@@ -1,0 +1,8 @@
+name = "antigravity-for-claude-code"
+description = "Claude Code plugin: run the Antigravity CLI (Gemini) as a collaborating sub-agent with intelligent model routing across the SDLC. Community project; not affiliated with Google/Anthropic."
+category = "skills-prompts"
+tags = ["agy-cli", "antigravity-cli", "claude-code", "claude-code-plugin", "delegate", "gemini", "gemini-cli", "orchestration"]
+repository = "https://github.com/yuting0624/antigravity-for-claude-code"
+license = "MIT"
+language = "Shell"
+added = 2026-11-03

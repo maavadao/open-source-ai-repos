@@ -1,0 +1,8 @@
+name = "maml"
+description = "Python for Materials Machine Learning, Materials Descriptors, Machine Learning Force Fields, Deep Learning, etc."
+category = "ml-platforms"
+tags = ["deep-learning", "machine-learning", "machine-learning-force-field", "materials-discovery", "materials-science", "spectroscopy"]
+repository = "https://github.com/materialyzeai/maml"
+license = "BSD-3-Clause"
+language = "Jupyter Notebook"
+added = 2026-11-03

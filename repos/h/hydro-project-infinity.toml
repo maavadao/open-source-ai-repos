@@ -1,0 +1,9 @@
+name = "infinity"
+description = "An agent runtime and tool protocol for principled agent concurrency"
+category = "agents"
+tags = ["agents", "concurrency", "distributed-systems", "rust"]
+repository = "https://github.com/hydro-project/infinity"
+website = "https://infinity.hydro.run"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-03

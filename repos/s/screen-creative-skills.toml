@@ -1,0 +1,8 @@
+name = "screen-creative-skills"
+description = "Skills for Film and Television Creation Agents|31 个影视创作评估策划Agent Skills｜AI影视自动化工作流｜竖屏短剧长剧IP改编｜情节题材提炼｜剧本小说IP创作策划评估｜人物小传｜拉片人物剧集故事五元素分析｜大纲生成｜"
+category = "agents"
+tags = ["agents", "ai", "skills"]
+repository = "https://github.com/VanGong1999/screen-creative-skills"
+license = "MIT"
+language = "Python"
+added = 2026-11-03

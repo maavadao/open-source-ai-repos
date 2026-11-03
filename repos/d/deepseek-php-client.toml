@@ -1,0 +1,8 @@
+name = "deepseek-php-client"
+description = "⚡️ A community driven PHP client for DeepSeek AI, designed to bring clean API access, fluent developer experience, and framework-friendly integration to PHP applications."
+category = "other"
+tags = ["ai", "api-client", "deepseek", "deepseek-api", "deepseek-chat", "deepseek-coder", "deepseek-integration", "deepseek-learning"]
+repository = "https://github.com/deepseek-php/deepseek-php-client"
+license = "MIT"
+language = "PHP"
+added = 2026-11-03

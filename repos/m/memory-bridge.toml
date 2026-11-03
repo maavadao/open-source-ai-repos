@@ -1,0 +1,8 @@
+name = "memory-bridge"
+description = "记忆桥 MemoryBridge — 跨设备、跨平台的 AI 共享记忆层 | Cross-device and cross-platform shared memory for AI (CDSMP implementation)"
+category = "agents"
+tags = ["agent", "ai", "cdsmp", "cross-device", "cross-platform", "llm", "mcp", "memory"]
+repository = "https://github.com/jiabaobei/memory-bridge"
+license = "MIT"
+language = "Python"
+added = 2026-11-03

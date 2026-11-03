@@ -1,0 +1,9 @@
+name = "yap"
+description = "Free, open source voice dictation for macOS. On-device transcription with Apple's Speech framework. No cloud/no API keys/no account."
+category = "speech"
+tags = ["accessibility", "apple-speech", "dictation", "macos", "macos-app", "menubar", "offline", "on-device"]
+repository = "https://github.com/FrigadeHQ/yap"
+website = "https://frigade.com/yap"
+license = "MIT"
+language = "Swift"
+added = 2026-11-03

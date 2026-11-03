@@ -1,0 +1,9 @@
+name = "mcp-google-map"
+description = "18 Google Maps tools and 3 Agent Skills for place search, routes, travel planning, and local SEO—via MCP or standalone CLI."
+category = "mcp-servers"
+tags = ["agent-skill", "agent-tools", "ai", "ai-agent", "codex-plugin", "geocoding", "geospatial", "google-maps"]
+repository = "https://github.com/cablate/mcp-google-map"
+website = "https://www.npmjs.com/package/@cablate/mcp-google-map"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-03

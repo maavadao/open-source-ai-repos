@@ -1,0 +1,8 @@
+name = "pickle-rick-extension"
+description = "This extension transforms the Gemini CLI into \"Pickle Rick,\" a hyper-intelligent, arrogant, yet extremely competent engineering persona. It enforces a rigid, iterative software development lifecycle through continuous AI agent loops. Emphasizing \"God Mode\" coding practices and a disdain for"
+category = "other"
+tags = ["ai", "gemini", "gemini-cli", "gemini-cli-extensions"]
+repository = "https://github.com/galdawave/pickle-rick-extension"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-03

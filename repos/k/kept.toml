@@ -1,0 +1,9 @@
+name = "kept"
+description = "Self-hosted, open-source inventory of everything you own and where it is. AI assistant and MCP server built in."
+category = "mcp-servers"
+tags = ["3d", "home-inventory", "homelab", "inventory", "inventory-management", "mcp", "react", "self-hosted"]
+repository = "https://github.com/keptinventory/kept"
+website = "https://keptinventory.info/"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-11-03

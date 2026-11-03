@@ -1,0 +1,9 @@
+name = "ductor"
+description = "Control Claude Code, Codex CLI and Gemini CLI from Telegram. Live streaming, persistent memory, cron jobs, webhooks, Docker sandboxing."
+category = "skills-prompts"
+tags = ["ai-assistant", "automation", "claude-code", "cli", "codex", "docker", "gemini", "gemini-cli"]
+repository = "https://github.com/PleasePrompto/ductor"
+website = "https://ductor.dev"
+license = "MIT"
+language = "Python"
+added = 2026-11-03

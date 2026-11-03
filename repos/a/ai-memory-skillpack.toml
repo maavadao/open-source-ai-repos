@@ -1,0 +1,8 @@
+name = "ai-memory-skillpack"
+description = "Bounded project-memory skills for Codex CLI and Claude Code."
+category = "skills-prompts"
+tags = ["agent-memory", "claude-code", "codex", "llm", "skills"]
+repository = "https://github.com/tudoumashu/ai-memory-skillpack"
+license = "MIT"
+language = "Python"
+added = 2026-11-03

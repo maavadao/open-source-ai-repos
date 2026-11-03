@@ -1,0 +1,9 @@
+name = "Locals"
+description = "Run many AI agents at once on your Mac, up to 3x faster."
+category = "agents"
+tags = ["agents", "apple-silicon", "artificial-intelligence", "coding-agents", "inference-acceleration", "inference-engine", "macos", "mlx-lm"]
+repository = "https://github.com/Generated-Computers/Locals"
+website = "https://generatedcomputers.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-03

@@ -1,0 +1,8 @@
+name = "mcp-teams-server"
+description = "An MCP (Model Context Protocol) server implementation for Microsoft Teams integration, providing capabilities to read messages, create messages, reply to messages, mention members."
+category = "mcp-servers"
+tags = ["inditex", "mcp", "mcp-server", "msteams"]
+repository = "https://github.com/InditexTech/mcp-teams-server"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-03

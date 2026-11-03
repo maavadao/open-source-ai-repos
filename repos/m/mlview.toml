@@ -1,0 +1,9 @@
+name = "MLView"
+description = "Interactive, source-linked ML workflow diagrams written by your coding assistant (Copilot, Codex or Claude Code) and opened in VS Code."
+category = "skills-prompts"
+tags = ["agent-skills", "claude-code", "codex", "developer-tools", "github-copilot", "machine-learning", "visualization", "vscode-extension"]
+repository = "https://github.com/realmyang/MLView"
+website = "https://github.com/realmyang/MLView#readme"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-03

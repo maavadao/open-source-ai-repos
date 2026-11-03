@@ -1,0 +1,9 @@
+name = "pullboard"
+description = "Autonomous development for real products. Governed agents build from specs you approve, follow the rules you set, and nothing merges until another agent proves it. Your decisions, judgement and taste are the bar that work must clear. Declare your vision and let agents build it."
+category = "skills-prompts"
+tags = ["agentic-coding", "ai-agents", "ai-governance", "autonomous-agents", "claude-code", "cli", "code-review", "codex"]
+repository = "https://github.com/pullboard-dev/pullboard"
+website = "https://pullboard.dev"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-03

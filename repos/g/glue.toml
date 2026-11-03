@@ -1,0 +1,8 @@
+name = "GLUE"
+description = "Graph-linked unified embedding for single-cell multi-omics data integration"
+category = "ml-platforms"
+tags = ["bioinformatics", "deep-learning", "single-cell", "single-cell-multiomics"]
+repository = "https://github.com/gao-lab/GLUE"
+license = "MIT"
+language = "Python"
+added = 2026-11-03

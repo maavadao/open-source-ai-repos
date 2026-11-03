@@ -1,0 +1,6 @@
+name = "senior-software-engineer"
+description = "Collection of articles, books, and recommendations for senior-level interviews and assessments"
+category = "chat"
+tags = ["ai", "architecture", "cd", "chatgpt", "ci", "claude", "codequality", "interview"]
+repository = "https://github.com/bmadone/senior-software-engineer"
+added = 2026-11-03

@@ -1,0 +1,9 @@
+name = "cntext"
+description = "cntext is a Python library for social science text analysis, offering word frequency, sentiment, word embeddings, and semantic projection to measure constructs like attitudes and psychological states from Chinese text."
+category = "documents"
+tags = ["attitude", "chinese", "content-analysis", "csv", "discourse-analysis", "docx", "glove-embeddings", "llm"]
+repository = "https://github.com/hiDaDeng/cntext"
+website = "https://textdata.cn/"
+license = "MIT"
+language = "Python"
+added = 2026-11-03

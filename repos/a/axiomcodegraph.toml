@@ -1,0 +1,8 @@
+name = "axiomcodegraph"
+description = "Turn any codebase into a knowledge graph grounded in formal methods. Your AI agents get exact answers for any code-related task, ensure correctness, and optimize time and token usage."
+category = "skills-prompts"
+tags = ["ai-agents", "ai-skills", "antigravity", "ast", "change-impact-analysis", "claude-code", "code-analysis", "code-search"]
+repository = "https://github.com/AxiomCodeAI/axiomcodegraph"
+website = "https://www.axiomcode.ai"
+language = "TypeScript"
+added = 2026-11-03

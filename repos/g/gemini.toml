@@ -1,0 +1,9 @@
+name = "Gemini"
+description = "The open source implementation of Gemini, the model that will \"eclipse ChatGPT\" by Google"
+category = "ml-platforms"
+tags = ["ai", "artificial-intelligence", "gemini", "gpt4", "machine-learning", "ml", "multi-modality", "multimodla"]
+repository = "https://github.com/kyegomez/Gemini"
+website = "https://discord.gg/GYbXvDGevY"
+license = "MIT"
+language = "Python"
+added = 2026-11-03

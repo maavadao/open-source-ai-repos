@@ -1,0 +1,9 @@
+name = "Movie_Data_Capture"
+description = "The AI local media metadata crawler"
+category = "llm-apps"
+tags = ["ai", "crawler", "emby", "jellyfin", "kodi", "llm", "movie", "nas"]
+repository = "https://github.com/mvdctop/Movie_Data_Capture"
+website = "https://www.mvdc.top"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-11-03

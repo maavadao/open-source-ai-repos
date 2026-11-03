@@ -1,0 +1,8 @@
+name = "awesome-gemini-prompts"
+description = "Gemini Prompts, Gemini 3 Prompts, jailbreak, LLM Prompts, LangGPT —— by 云中江树"
+category = "skills-prompts"
+tags = ["awesome-llm-prompts", "chatgpt", "gemini", "gemini-prompts", "gemini3", "gemini3pro", "llm", "prompt-engineering"]
+repository = "https://github.com/langgptai/awesome-gemini-prompts"
+website = "https://www.langgpt.ai"
+license = "CC0-1.0"
+added = 2026-11-03

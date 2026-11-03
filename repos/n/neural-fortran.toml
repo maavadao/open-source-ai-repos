@@ -1,0 +1,8 @@
+name = "neural-fortran"
+description = "A parallel framework for deep learning"
+category = "ml-platforms"
+tags = ["cnn", "deep-learning", "fortran", "machine-learning", "neural-network", "parallel"]
+repository = "https://github.com/modern-fortran/neural-fortran"
+license = "MIT"
+language = "Fortran"
+added = 2026-11-03

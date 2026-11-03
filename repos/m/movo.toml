@@ -1,0 +1,8 @@
+name = "movo"
+description = "Turn DeepSeek Harness into a self-hosted enterprise Agent platform with knowledge, deep research, content generation, vibe coding, browser automation, governance, and admin controls."
+category = "agents"
+tags = ["agent", "ai-agents", "brower-automation", "dsh-plugin", "enterprise-agents", "mcp", "movo", "rag"]
+repository = "https://github.com/himovo/movo"
+website = "https://www.himovo.com"
+language = "Python"
+added = 2026-11-03

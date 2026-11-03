@@ -1,0 +1,9 @@
+name = "synaplan"
+description = "Open-source, self-hosted AI platform (PHP/Symfony): chat with any model, RAG over your docs, embeddable widget, MCP — see the cost of every answer. Apache-2.0."
+category = "mcp-servers"
+tags = ["ai", "ai-agents", "anthropic", "chat", "chatbot-widget", "chatgpt-alternative", "docker", "gdpr"]
+repository = "https://github.com/metadist/synaplan"
+website = "https://www.synaplan.com"
+license = "Apache-2.0"
+language = "PHP"
+added = 2026-11-03

@@ -1,0 +1,9 @@
+name = "dotnet-skills"
+description = "One of the largest .NET-focused skill collections for AI coding assistants, with a catalog, CLI, and orchestration agents for Codex, Claude Code, GitHub Copilot, Gemini, and Junie."
+category = "skills-prompts"
+tags = ["claude-code", "codex", "copilot", "dotnet", "dotnet-skills", "gemini", "skills"]
+repository = "https://github.com/managedcode/dotnet-skills"
+website = "https://skills.managed-code.com"
+license = "MIT"
+language = "C#"
+added = 2026-11-03

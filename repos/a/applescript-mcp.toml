@@ -1,0 +1,8 @@
+name = "applescript-mcp"
+description = "MCP server that execute applescript giving you full control of your Mac"
+category = "mcp-servers"
+tags = ["applescript", "macos", "mcp", "mcp-server"]
+repository = "https://github.com/peakmojo/applescript-mcp"
+license = "MIT"
+language = "Python"
+added = 2026-11-03

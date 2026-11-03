@@ -1,0 +1,8 @@
+name = "marketplace"
+description = "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified."
+category = "skills-prompts"
+tags = ["ai-skills", "claude", "claude-code", "claude-skills", "codex", "codex-skills", "skills"]
+repository = "https://github.com/aiskillstore/marketplace"
+website = "https://skillstore.io"
+language = "Python"
+added = 2026-11-03

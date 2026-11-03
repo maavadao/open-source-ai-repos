@@ -1,0 +1,8 @@
+name = "awesome-agent-native-services"
+description = "A curated list of agent-native services and infrastructure for AI agents: email, browsers, memory, sandboxes, payments, and MCP tools. Includes selection criteria and onboarding guides."
+category = "mcp-servers"
+tags = ["agent-infrastructure", "agent-native", "ai-agents", "awesome", "awesome-list", "mcp", "model-context-protocol"]
+repository = "https://github.com/haoruilee/awesome-agent-native-services"
+website = "https://lihaorui.com/awesome-agent-native-services/"
+language = "Python"
+added = 2026-11-03

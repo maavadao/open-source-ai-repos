@@ -1,0 +1,8 @@
+name = "Deepseek-Harness-Local-Android"
+description = "Run the DeepSeek Harness AI agent natively on Android — no root, no Termux, extension center included | 手机本地运行 DeepSeek Agent，免 Root 免 Termux"
+category = "agents"
+tags = ["agent-framework", "agent-runtime", "ai-agent", "ai-agents", "android", "android-app", "apk", "bionic"]
+repository = "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+license = "MIT"
+language = "Kotlin"
+added = 2026-11-03

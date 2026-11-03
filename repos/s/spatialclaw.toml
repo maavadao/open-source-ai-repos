@@ -1,0 +1,8 @@
+name = "SpatialClaw"
+description = "[NeurIPS 2026] SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning"
+category = "agents"
+tags = ["4d-understanding", "agent", "agentic-ai", "mllm-reasoning", "spatial-reasoning", "spatial-understanding"]
+repository = "https://github.com/NVlabs/SpatialClaw"
+website = "https://spatialclaw.github.io/"
+language = "Python"
+added = 2026-11-03

@@ -1,0 +1,9 @@
+name = "dashAI"
+description = "dashAI: an interactive platform for training, evaluating and deploying AI models"
+category = "ml-platforms"
+tags = ["artificial-intelligence", "deep-learning", "machine-learning", "workbench"]
+repository = "https://github.com/DashAISoftware/dashAI"
+website = "http://dash-ai.com/"
+license = "MIT"
+language = "Python"
+added = 2026-11-03

@@ -1,0 +1,8 @@
+name = "awesome-python"
+description = "🐍 Hand-picked awesome Python libraries and frameworks, organised by category"
+category = "chat"
+tags = ["awesome", "awesome-list", "awesome-python", "chatgpt", "data", "data-science", "deep-learning", "jupyter"]
+repository = "https://github.com/dylanhogg/awesome-python"
+website = "https://www.awesomepython.org"
+license = "MIT"
+added = 2026-11-03

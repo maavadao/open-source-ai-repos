@@ -1,0 +1,8 @@
+name = "cs329z-chinese"
+description = "斯坦福 Stanford CS329Z Engineering AI Agents 中文教程：面向 Python 开发者的 AI 智能体课程，19 讲与 4 项实践，涵盖 LLM、RAG、工具调用、记忆、多智能体、评测与安全。完整 Markdown、在线与离线 HTML。Chinese course notes."
+category = "agents"
+tags = ["agent-memory", "agentic-ai", "ai-agents", "chinese", "chinese-tutorial", "course-notes", "cs329z", "engineering-ai-agents"]
+repository = "https://github.com/wanghao-SunSky/cs329z-chinese"
+website = "https://cs329z-course-review-20261029.wanghao162263.chatgpt.site"
+language = "HTML"
+added = 2026-11-03

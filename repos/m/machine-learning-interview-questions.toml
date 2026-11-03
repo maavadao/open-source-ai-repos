@@ -1,0 +1,9 @@
+name = "machine-learning-interview-questions"
+description = "Your Cheat Sheet for Machine Learning Interview – Questions and Answers."
+category = "llm-apps"
+tags = ["ai", "artificial-intelligence", "deep-learning", "deep-learning-interview", "deep-learning-interview-questions", "interview", "interview-questions", "llm"]
+repository = "https://github.com/amitshekhariitbhu/machine-learning-interview-questions"
+website = "https://outcomeschool.com/program/ai-and-machine-learning"
+license = "Apache-2.0"
+language = "Markdown"
+added = 2026-11-03

@@ -1,0 +1,8 @@
+name = "clearml-server"
+description = "ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution"
+category = "ml-platforms"
+tags = ["ai", "clearml-agent", "control", "deep-learning", "deeplearning", "experiment", "experiment-manager", "k8s"]
+repository = "https://github.com/clearml/clearml-server"
+website = "https://clear.ml/docs"
+language = "Python"
+added = 2026-11-03

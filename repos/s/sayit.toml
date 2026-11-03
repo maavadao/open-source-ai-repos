@@ -1,0 +1,9 @@
+name = "SayIt"
+description = "Open-source voice typing for Windows and macOS — a Wispr Flow / Superwhisper alternative. Press a shortcut, speak, and AI-polished text lands at your cursor. Local models, your own API keys, or a self-hosted backend."
+category = "local-llms"
+tags = ["asr", "dictation", "gguf", "local-first", "parakeet", "privacy", "qwen3-asr", "rust"]
+repository = "https://github.com/crosswk/SayIt"
+website = "https://sayitapp.site"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-11-03

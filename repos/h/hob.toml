@@ -1,0 +1,9 @@
+name = "hob"
+description = "An easier way to use AI on your own computer. A free, open-source alternative to Claude and ChatGPT that runs open-weight models like Gemma and gpt-oss locally on Mac, Windows and Linux. Private, and works offline."
+category = "local-llms"
+tags = ["ai-agent", "ai-assistant", "chatgpt-alternative", "claude-alternative", "desktop-app", "electron", "gemma", "gpt-oss"]
+repository = "https://github.com/FrigadeHQ/hob"
+website = "https://hob.chat"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-03

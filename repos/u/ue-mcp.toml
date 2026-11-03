@@ -1,0 +1,9 @@
+name = "ue-mcp"
+description = "Complete Unreal Engine development toolkit exposed as MCP tools."
+category = "mcp-servers"
+tags = ["ai", "blueprint", "game-development", "mcp-server", "model-context-protocol", "ue5", "ue5-plugin", "unreal-engine"]
+repository = "https://github.com/db-lyon/ue-mcp"
+website = "https://ue-mcp.com/"
+license = "MIT"
+language = "C++"
+added = 2026-11-03

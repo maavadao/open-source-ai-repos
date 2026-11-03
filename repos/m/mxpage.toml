@@ -1,0 +1,9 @@
+name = "MxPage"
+description = "开源 AI 电商图片工作台：商品主图与详情页、批量图片翻译、小红书图文、LangGraph Agent。支持 Windows / macOS 和本地部署，使用自己的模型 API。Open-source e-commerce image generator, translation & agent workspace."
+category = "agents"
+tags = ["ai-agents", "batch-processing", "deterministic-workflow", "e-commerce", "electron", "image-editing", "image-generation", "image-translation"]
+repository = "https://github.com/ziguishian/MxPage"
+website = "https://github.com/ziguishian/MxPage/releases/latest"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-03

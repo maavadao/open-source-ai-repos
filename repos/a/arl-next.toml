@@ -1,0 +1,9 @@
+name = "ARL-Next"
+description = "Modern attack-surface reconnaissance & asset monitoring platform — rebuilt from classic ARL with async decoupled scheduling, enterprise asset correlation and native MCP support. Docker-ready."
+category = "mcp-servers"
+tags = ["arl", "asm", "attack-surface-management", "bugbounty", "cve", "docker", "fofa", "infosec"]
+repository = "https://github.com/owl234/ARL-Next"
+website = "https://github.com/owl234/ARL-Next/releases"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-11-03

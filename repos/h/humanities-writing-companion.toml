@@ -1,0 +1,8 @@
+name = "humanities-writing-companion"
+description = "End-to-end humanities writing assistant — an Agent Skill (open SKILL.md format). 11 modes from Socratic research-question sharpening through AI-use disclosure. Bilingual (EN/中文), discipline-aware (literature/history/philosophy/art/religion/linguistics + cross-disciplinary). Four-layer critique, cal…"
+category = "skills-prompts"
+tags = ["academic-writing", "bilingual", "claude-code", "claude-skill", "claude-skills", "devil-advocate", "dissertation-writing", "history"]
+repository = "https://github.com/tizzy916/humanities-writing-companion"
+website = "https://doi.org/10.5281/zenodo.20280773"
+language = "Python"
+added = 2026-11-03

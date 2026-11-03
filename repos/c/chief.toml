@@ -1,0 +1,9 @@
+name = "chief"
+description = "Build big projects with Claude. Chief breaks your work into tasks and runs Claude Code in a loop until they're done."
+category = "skills-prompts"
+tags = ["ai", "automation", "claude", "claude-code", "cli", "developer-tools", "go", "ralph-loop"]
+repository = "https://github.com/MiniCodeMonkey/chief"
+website = "https://chiefloop.com"
+license = "MIT"
+language = "Go"
+added = 2026-11-03

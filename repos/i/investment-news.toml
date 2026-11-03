@@ -1,0 +1,8 @@
+name = "investment-news"
+description = "为 A股投资者打造的全球产业链资讯看板 · 12 大赛道一一对应 A股板块(半导体/AI/机器人/新能源车…)，覆盖 100+ 权威源，用你自己的大模型每日提炼中文「今日要点」+ 翻译 · 本地运行、零 API key · Local AI news dashboard tracking the global industry signals behind China A-share sectors"
+category = "llm-apps"
+tags = ["a-share", "ai-agent", "astock", "china-stocks", "claude", "investment", "llm", "news-dashboard"]
+repository = "https://github.com/simonlin1212/investment-news"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-03

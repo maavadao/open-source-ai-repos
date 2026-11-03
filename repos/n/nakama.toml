@@ -1,0 +1,9 @@
+name = "nakama"
+description = "The AI workspace where teams share agents, skills and automations that the whole company builds on."
+category = "agents"
+tags = ["agents", "ai", "ai-agents", "automation", "openai"]
+repository = "https://github.com/ahmadrosid/nakama"
+website = "https://ahmadrosid.github.io/nakama"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-03

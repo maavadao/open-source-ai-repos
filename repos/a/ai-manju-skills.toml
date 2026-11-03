@@ -1,0 +1,7 @@
+name = "ai-manju-skills"
+description = "21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek"
+category = "skills-prompts"
+tags = ["ai-skills", "ai-video", "chinese", "claude-code", "prompt-engineering"]
+repository = "https://github.com/zhanghao123vip/ai-manju-skills"
+license = "MIT"
+added = 2026-11-03

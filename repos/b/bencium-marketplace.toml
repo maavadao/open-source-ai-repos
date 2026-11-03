@@ -1,0 +1,9 @@
+name = "bencium-marketplace"
+description = "comprehensive skills based on the Anthropic Skills guide and our design and development philosophy"
+category = "other"
+tags = ["claude", "claudecode", "codex", "skills"]
+repository = "https://github.com/bencium/bencium-marketplace"
+website = "https://www.bencium.io"
+license = "MIT"
+language = "Shell"
+added = 2026-11-03

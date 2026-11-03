@@ -1,0 +1,9 @@
+name = "candy"
+description = "Minimalist ML framework for Go."
+category = "llm-apps"
+tags = ["deep-learning", "golang", "llm", "machine-learning", "tensor"]
+repository = "https://github.com/gocnn/candy"
+website = "https://gocnn.org"
+license = "BSD-3-Clause"
+language = "Go"
+added = 2026-11-03

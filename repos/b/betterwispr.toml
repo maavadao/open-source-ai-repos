@@ -1,0 +1,9 @@
+name = "betterwispr"
+description = "Free, open-source, local-first dictation app for macOS. Hold a shortcut, speak, and text is typed into any app. On-device speech-to-text with Whisper, Parakeet and Apple speech. Private, offline, open-source Wispr Flow alternative."
+category = "speech"
+tags = ["apple-silicon", "dictation", "local-first", "macos", "meeting-notes", "offline", "open-source", "parakeet"]
+repository = "https://github.com/opennookorg/betterwispr"
+website = "https://betterwispr.com"
+license = "Apache-2.0"
+language = "Swift"
+added = 2026-11-03

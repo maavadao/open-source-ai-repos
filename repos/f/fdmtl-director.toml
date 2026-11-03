@@ -1,0 +1,9 @@
+name = "director"
+description = "MCP Playbooks for AI agents"
+category = "mcp-servers"
+tags = ["mcp", "mcp-client", "mcp-gateway", "mcp-host", "mcp-middleware", "mcp-server", "mcp-tools"]
+repository = "https://github.com/fdmtl/director"
+website = "https://director.run"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-11-03

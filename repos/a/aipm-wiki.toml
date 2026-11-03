@@ -1,0 +1,6 @@
+name = "AIPM-Wiki"
+description = "🧱 AI 产品经理入门知识库:面试题库 · AI 基础 · 案例拆解 · 学习路线 | 无论是零基础转行还是持续进步,一个仓库就够了"
+category = "skills-prompts"
+tags = ["ai", "ai-product-manager", "aipm", "chinese", "interview", "interview-questions", "knowledge-base", "llm"]
+repository = "https://github.com/archlizheng/AIPM-Wiki"
+added = 2026-11-03

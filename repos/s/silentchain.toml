@@ -1,0 +1,8 @@
+name = "SILENTCHAIN"
+description = "AI-powered vulnerability scanner extension for Burp Suite with multi-provider support (Ollama, OpenAI, Claude, Gemini)"
+category = "other"
+tags = ["ai", "appsec", "artificial-intelligence", "bug-bounty", "burp-extension", "burp-suite", "owasp", "penetration-testing"]
+repository = "https://github.com/silentchainai/SILENTCHAIN"
+website = "https://silentchain.ai"
+language = "Java"
+added = 2026-11-03

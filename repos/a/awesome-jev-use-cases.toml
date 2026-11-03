@@ -1,0 +1,8 @@
+name = "awesome-jev-use-cases"
+description = "Awesome list of TypeSafe AI Jev use cases: 74 demos ranked by likes, 150+ GitHub repos, limits, cost and API examples. CC0"
+category = "skills-prompts"
+tags = ["ai-guardrails", "ai-router", "awesome", "awesome-list", "classification", "claude-code", "decision-model", "examples"]
+repository = "https://github.com/walidboulanouar/awesome-jev-use-cases"
+website = "https://ayautomate.com/jev-builds"
+license = "CC0-1.0"
+added = 2026-11-03

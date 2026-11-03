@@ -1,0 +1,9 @@
+name = "world-execute-me-lyric-mv"
+description = "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。"
+category = "skills-prompts"
+tags = ["ai-generated", "canvas", "claude", "claude-code", "creative-coding", "fan-work", "generative-art", "lyric-video"]
+repository = "https://github.com/Nyankomintsu/world-execute-me-lyric-mv"
+website = "https://www.bilibili.com/video/BV186pc65E68"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-03

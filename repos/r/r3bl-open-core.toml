@@ -1,0 +1,9 @@
+name = "r3bl-open-core"
+description = "Fully async Rust TUI engine 🦀. For powering AI/LLM coding agents, Cloud/SSH workflows & interactive CLIs: non-blocking readline, inline dialogs, React/Elm-style full-screen TUI, Markdown editor, PTY multiplexing & rust-analyzer MCP server."
+category = "mcp-servers"
+tags = ["ai-agents", "ansi", "async", "cli", "command-line", "editor", "git", "markdown-editor"]
+repository = "https://github.com/r3bl-org/r3bl-open-core"
+website = "https://r3bl.com"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-03

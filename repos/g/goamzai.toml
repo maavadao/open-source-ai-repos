@@ -1,0 +1,7 @@
+name = "GoAmzAI"
+description = "🤖️ 基于 Golang + Vue3 + NaiveUI 的全新的个人、团队、企业私有化AIGC平台 ｜ 支持AI对话、AI绘画、AI视频、AI音乐、AI无限画布工作流、AI PPT、思维导图、应用广场、同时支持多用户多模型聚合平台管理使用等等，具有非常强大的运营能力以及企业内部使用能力，欢迎体验～"
+category = "image"
+tags = ["aigc", "chatgpt", "dalle-3", "gpt", "openai", "stable-diffusion"]
+repository = "https://github.com/Licoy/GoAmzAI"
+website = "https://d.goamzai.com"
+added = 2026-11-03

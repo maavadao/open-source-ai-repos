@@ -1,0 +1,9 @@
+name = "live-resume"
+description = "简历模版 Create a professional website & resume that highlights your skills and experience, with a built-in AI assistant that lets visitors ask questions about your background, certifications, and articles."
+category = "other"
+tags = ["ai", "ai-assistants", "angular", "artificial-intelligence", "cross-platform-compatibility", "css3", "curriculum", "html5"]
+repository = "https://github.com/guilhermeborgesbastos/live-resume"
+website = "https://guilhermeborgesbastos.com/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-03

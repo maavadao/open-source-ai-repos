@@ -1,0 +1,8 @@
+name = "labrat"
+description = "PhD Research Skills for Claude Code: paper reproduction, experiment design, paper review, result comparison and more."
+category = "skills-prompts"
+tags = ["academic", "agents", "ai", "claude", "claude-code", "claude-code-plugin", "claude-skills", "conference"]
+repository = "https://github.com/fcakyon/labrat"
+license = "MIT"
+language = "Shell"
+added = 2026-11-03

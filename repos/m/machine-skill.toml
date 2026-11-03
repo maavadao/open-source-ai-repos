@@ -1,0 +1,9 @@
+name = "machine-skill"
+description = "Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML file, plus the film to post it. An open source Claude Code skill."
+category = "skills-prompts"
+tags = ["agent-skills", "claude", "claude-code", "claude-skill", "cutaway", "engineering", "physics", "simulation"]
+repository = "https://github.com/AirsupHQ/machine-skill"
+website = "https://airsup.ai/lab/skill"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-03

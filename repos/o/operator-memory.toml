@@ -1,0 +1,8 @@
+name = "operator-memory"
+description = "The self-improving context engine for coding agents."
+category = "skills-prompts"
+tags = ["agent", "agent-memory", "ai", "chatgpt", "claude", "claude-code", "claude-code-plugin", "claude-skills"]
+repository = "https://github.com/aerovato/operator-memory"
+license = "BSD-3-Clause"
+language = "TypeScript"
+added = 2026-11-03

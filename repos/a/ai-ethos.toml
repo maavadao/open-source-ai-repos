@@ -1,0 +1,8 @@
+name = "ai-ethos"
+description = "501(c)(3) nonprofit delivering ethical, inclusive, multilingual AI tutoring for underserved learners — low-income, rural, multilingual & neurodiverse students. 1,500+ students reached across 7 languages. Source code for aiethos.org."
+category = "education"
+tags = ["501c3", "accessibility", "ai-education", "ai-ethics", "ai-tutoring", "artificial-intelligence", "edtech", "education-technology"]
+repository = "https://github.com/aaryansamanta/ai-ethos"
+website = "https://www.aiethos.org"
+language = "PHP"
+added = 2026-11-03

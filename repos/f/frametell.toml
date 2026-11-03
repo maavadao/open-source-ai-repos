@@ -1,0 +1,9 @@
+name = "frametell"
+description = "Frametell: turn your ideas and material into vivid explainer videos with an AI director agent. Local-first, any model."
+category = "video"
+tags = ["ai-agent", "ai-video", "edtech", "education", "electron", "explainer-video", "llm", "local-first"]
+repository = "https://github.com/sitor-ai/frametell"
+website = "https://frametell.ai"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-11-03

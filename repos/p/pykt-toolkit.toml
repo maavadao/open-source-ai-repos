@@ -1,0 +1,9 @@
+name = "pykt-toolkit"
+description = "pyKT: A Python Library to Benchmark Deep Learning based Knowledge Tracing Models"
+category = "ml-platforms"
+tags = ["deep-learning", "dkt", "gkt", "knowledge-tracing", "knowledge-tracing-models"]
+repository = "https://github.com/pykt-team/pykt-toolkit"
+website = "https://pykt.org"
+license = "MIT"
+language = "Python"
+added = 2026-11-03

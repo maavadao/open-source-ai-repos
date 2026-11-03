@@ -1,0 +1,9 @@
+name = "life-kline"
+description = "🌟 人生K线 - 基于 AI 大模型 + 传统八字命理的人生运势可视化工具。将命运绘制成 K 线图，像看股票一样看人生！支持自托管部署。"
+category = "data-science"
+tags = ["ai", "bazi", "chinese-astrology", "fortune-telling", "k-line", "nodejs", "openai", "react"]
+repository = "https://github.com/miounet11/life-kline"
+website = "https://www.life-kline.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-03

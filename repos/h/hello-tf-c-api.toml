@@ -1,0 +1,8 @@
+name = "hello_tf_c_api"
+description = "Neural Network TensorFlow C API"
+category = "ml-platforms"
+tags = ["api", "c", "cpp", "deep-learning", "deep-neural-networks", "machine-learning", "neural-network", "tensorflow"]
+repository = "https://github.com/Neargye/hello_tf_c_api"
+license = "MIT"
+language = "C++"
+added = 2026-11-03

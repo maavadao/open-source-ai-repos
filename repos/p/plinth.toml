@@ -1,0 +1,9 @@
+name = "plinth"
+description = "Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skills, and MCP Servers."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-skills", "claude", "claude-agents", "claude-code", "claude-code-skills", "claude-commands", "claude-skills"]
+repository = "https://github.com/jabrena/plinth"
+website = "https://jabrena.github.io/plinth/"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-11-03

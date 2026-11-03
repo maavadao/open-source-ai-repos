@@ -1,0 +1,8 @@
+name = "aifw"
+description = "AI Agent Identity and Access Management and Inference Firewall"
+category = "security"
+tags = ["agent-identity", "ai-audit", "ai-firewall", "ai-gateway", "ai-governance", "ai-security", "llm-security", "mcp"]
+repository = "https://github.com/securetron-gh/aifw"
+website = "https://aifw.io"
+language = "Python"
+added = 2026-11-03

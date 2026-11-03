@@ -1,0 +1,8 @@
+name = "db-mcp-server"
+description = "A powerful multi-database server implementing the Model Context Protocol (MCP) to provide AI assistants with structured access to databases."
+category = "mcp-servers"
+tags = ["database-mcp-server", "mcp-server"]
+repository = "https://github.com/FreePeak/db-mcp-server"
+license = "MIT"
+language = "Go"
+added = 2026-11-03

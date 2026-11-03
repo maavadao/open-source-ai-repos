@@ -1,0 +1,9 @@
+name = "anymove"
+description = "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out."
+category = "other"
+tags = ["agent-skills", "animation", "blender", "claude-code-plugin", "dinov2", "gamedev", "generative-ai", "motion-capture"]
+repository = "https://github.com/patch-gg/anymove"
+website = "https://patch.gg"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-03

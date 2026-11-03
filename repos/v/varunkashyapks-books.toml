@@ -1,0 +1,6 @@
+name = "Books"
+description = "Books related to AI/ML/DL/GENAI"
+category = "data-science"
+tags = ["aws", "data-analysis", "data-mining", "data-science", "data-structures", "data-visualization", "database", "deep-learning"]
+repository = "https://github.com/varunkashyapks/Books"
+added = 2026-11-03

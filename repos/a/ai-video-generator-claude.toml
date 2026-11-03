@@ -1,0 +1,8 @@
+name = "ai-video-generator-claude"
+description = "10 Claude skills that generate studio-quality AI video prompts for Seedance 2.0 on Higgsfield. Viral hooks, SaaS demos, personal brand, faceless content, luxury aesthetic & more."
+category = "skills-prompts"
+tags = ["ai-content", "ai-video", "ai-video-generator", "anthropic", "claude", "claude-code", "claude-skill", "content-creator"]
+repository = "https://github.com/rediumvex/ai-video-generator-claude"
+license = "MIT"
+language = "Python"
+added = 2026-11-03

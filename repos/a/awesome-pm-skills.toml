@@ -1,0 +1,8 @@
+name = "awesome-pm-skills"
+description = "Product management workflows grounded in Lenny's Podcast, for Claude Code, Codex, and Cursor."
+category = "coding"
+tags = ["ai", "awesome-list", "claude", "cursor", "lenny-rachitsky", "pm-skills", "product-management"]
+repository = "https://github.com/menkesu/awesome-pm-skills"
+website = "https://genaipm.com"
+language = "Python"
+added = 2026-11-03

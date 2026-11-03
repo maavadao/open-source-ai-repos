@@ -1,0 +1,9 @@
+name = "machine-learning-research"
+description = "✨ AI/ML Research"
+category = "data-science"
+tags = ["data-science", "deep-learning", "machine-learning", "python", "science"]
+repository = "https://github.com/imteekay/machine-learning-research"
+website = "https://www.iamtk.co/ml-ai-learning-path"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-11-03

@@ -1,0 +1,9 @@
+name = "uncut"
+description = "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts."
+category = "llm-apps"
+tags = ["agent-harness", "cli", "coding-agent", "go", "headless", "llm", "local-models"]
+repository = "https://github.com/Balanov/uncut"
+website = "https://balanov.pro/uncut/"
+license = "MIT"
+language = "Go"
+added = 2026-11-03

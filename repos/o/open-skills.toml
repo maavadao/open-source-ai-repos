@@ -1,0 +1,8 @@
+name = "open-skills"
+description = "OpenSkills: Run Claude Skills Locally using any LLM"
+category = "local-llms"
+tags = ["ai", "claude", "gemini-cli", "mcp", "ollama", "opencode", "privacy", "qwen-cli"]
+repository = "https://github.com/instavm/open-skills"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-03

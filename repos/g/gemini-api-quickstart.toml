@@ -1,0 +1,9 @@
+name = "gemini-api-quickstart"
+description = "Get up and running with the Gemini API in under 5 minutes (with Python)"
+category = "other"
+tags = ["gemini", "gemini-api"]
+repository = "https://github.com/google-gemini/gemini-api-quickstart"
+website = "https://ai.google.dev/gemini-api/docs/quickstart"
+license = "Apache-2.0"
+language = "CSS"
+added = 2026-11-03

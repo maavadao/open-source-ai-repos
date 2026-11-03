@@ -1,0 +1,9 @@
+name = "DataMind"
+description = "All-in-one intelligent assistant powered by LlamaIndex — RAG, GraphRAG, NL2SQL, Skills & Memory with multimodal support."
+category = "llm-apps"
+tags = ["data", "data-preparation", "database", "graphrag", "memory", "rag", "skills"]
+repository = "https://github.com/OpenDCAI/DataMind"
+website = "https://opendcai.github.io/DataMind-Doc"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-03

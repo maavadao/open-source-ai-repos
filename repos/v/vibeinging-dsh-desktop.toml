@@ -1,0 +1,8 @@
+name = "dsh-desktop"
+description = "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts."
+category = "data-science"
+tags = ["agentic-workflows", "ai-agent", "ai-workbench", "data-analysis", "deepseek-harness", "desktop-app", "dsh", "dsh-plugin"]
+repository = "https://github.com/vibeinging/dsh-desktop"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-03

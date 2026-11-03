@@ -1,0 +1,7 @@
+name = "flow-mcp"
+description = "Drive Google Flow from Claude, Codex or a local control panel, on Mac or Windows — using your Google AI subscription credits instead of the pay-per-use video API. No browser extension."
+category = "mcp-servers"
+tags = ["ai-video", "claude", "codex", "google-flow", "mcp", "model-context-protocol"]
+repository = "https://github.com/GTAI-1/flow-mcp"
+language = "TypeScript"
+added = 2026-11-03

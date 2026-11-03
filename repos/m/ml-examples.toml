@@ -1,0 +1,9 @@
+name = "ML-examples"
+description = "Arm Machine Learning tutorials and examples"
+category = "ml-platforms"
+tags = ["arm", "deep-learning", "deep-neural-networks", "machine-learning", "ml", "neural-network", "python", "raspberry-pi"]
+repository = "https://github.com/Arm-Examples/ML-examples"
+website = "https://developer.arm.com/technologies/machine-learning-on-arm"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-03

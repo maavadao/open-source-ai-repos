@@ -1,0 +1,8 @@
+name = "transformers-the-definitive-guide"
+description = "This is the official repository for the book Transformers - The Definitive Guide"
+category = "robotics"
+tags = ["audio-analysis", "image-classification", "llms", "optimization-methods", "reinforcement-learning", "reinforcement-learning-agent", "time-series", "transformers"]
+repository = "https://github.com/Nicolepcx/transformers-the-definitive-guide"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-11-03

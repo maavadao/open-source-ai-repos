@@ -1,0 +1,7 @@
+name = "neverclick"
+description = "Keyboard-driven mouse control using local computer vision."
+category = "vision"
+tags = ["accessibility", "assistive-technology", "computer-vision", "cpp", "desktop-app", "ergonomics", "keyboard", "keyboard-driven"]
+repository = "https://github.com/LazoVelko/neverclick"
+website = "https://www.neverclick.com/"
+added = 2026-11-03

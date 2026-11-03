@@ -1,0 +1,9 @@
+name = "kibitz"
+description = "Real-time decoded feed of AI agent actions — monitor multiple Claude Code & Codex sessions, see exactly what each agent is doing, and coordinate swarms efficiently"
+category = "other"
+tags = ["claude", "claudecode", "cli", "codex", "macos", "vscode-extension", "windows"]
+repository = "https://github.com/kibitzsh/kibitz"
+website = "https://kibitz.sh"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-03

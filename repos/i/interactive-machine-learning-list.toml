@@ -1,0 +1,9 @@
+name = "interactive-machine-learning-list"
+description = "A collaborative list of interactive Machine Learning, Deep Learning and Statistics websites"
+category = "ml-platforms"
+tags = ["deep-learning", "explorable-explanations", "javascript", "machine-learning", "statistics", "vue"]
+repository = "https://github.com/stared/interactive-machine-learning-list"
+website = "https://p.migdal.pl/interactive-machine-learning-list/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-03

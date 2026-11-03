@@ -1,0 +1,9 @@
+name = "rsc-harness"
+description = "Your agent invents things because it has no memory, and can't touch your database because it has no arms. rsc is the meta-harness that gives it both, plus the trade to know the job and the reflexes to not break your repo. For Claude Code, Codex and 15 more."
+category = "skills-prompts"
+tags = ["agent-skills", "agentic-ai", "ai-agents", "ai-coding", "claude-code", "cli", "cline", "codex"]
+repository = "https://github.com/ericrisco/rsc-harness"
+website = "https://ericrisco.github.io/rsc-harness/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-03

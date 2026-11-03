@@ -1,0 +1,9 @@
+name = "cortexdb"
+description = "Local-first AI agent memory with a knowledge graph, ontology constraints, and traceable reasoning—all in one SQLite file."
+category = "vector-databases"
+tags = ["agent-memory", "ai-memory", "claude-code", "codex", "embeddings", "full-text-search", "go", "golang"]
+repository = "https://github.com/liliang-cn/cortexdb"
+website = "https://liliang-cn.github.io/cortexdb/"
+license = "MIT"
+language = "Go"
+added = 2026-11-03

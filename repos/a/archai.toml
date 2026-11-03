@@ -1,0 +1,9 @@
+name = "archai"
+description = "Accelerate your Neural Architecture Search (NAS) through fast, reproducible and modular research."
+category = "ml-platforms"
+tags = ["automated-machine-learning", "automl", "darts", "deep-learning", "hyperparameter-optimization", "machine-learning", "model-compression", "nas"]
+repository = "https://github.com/microsoft/archai"
+website = "https://microsoft.github.io/archai"
+license = "MIT"
+language = "Python"
+added = 2026-11-03

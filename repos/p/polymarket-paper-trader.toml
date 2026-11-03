@@ -1,0 +1,9 @@
+name = "polymarket-paper-trader"
+description = "Paper trading simulator for Polymarket"
+category = "llm-apps"
+tags = ["ai-agent", "algorithmic-trading", "backtesting", "benchmark", "clawhub", "forecasting", "leaderboard", "llm"]
+repository = "https://github.com/agent-next/polymarket-paper-trader"
+website = "https://polymarket-leaderboard.com"
+license = "MIT"
+language = "Python"
+added = 2026-11-03

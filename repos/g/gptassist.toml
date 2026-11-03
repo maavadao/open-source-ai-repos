@@ -1,0 +1,8 @@
+name = "gptAssist"
+description = "gptAssist is a simple WebView wrapper for ChatGPT"
+category = "chat"
+tags = ["android", "artificial-intelligence", "chatgpt"]
+repository = "https://github.com/woheller69/gptAssist"
+license = "GPL-3.0"
+language = "Java"
+added = 2026-11-03

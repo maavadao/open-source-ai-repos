@@ -1,0 +1,9 @@
+name = "sap-skills"
+description = "Production-ready plugins for SAP development with AI coding assistants — BTP, CAP, Fiori, ABAP, HANA, Analytics Cloud, Datasphere, and more"
+category = "skills-prompts"
+tags = ["abap", "ai-development", "ai-skills", "cds", "claude", "claude-code", "developer-tools", "joule"]
+repository = "https://github.com/secondsky/sap-skills"
+website = "https://sap-ai-skills.com"
+license = "GPL-3.0"
+language = "JavaScript"
+added = 2026-11-03

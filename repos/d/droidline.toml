@@ -1,0 +1,9 @@
+name = "Droidline"
+description = "Android automation from code. Test your apps on real phones, script the tasks you repeat, run a shelf of phones, or let an AI agent use one, from Python, Node.js, the CLI, HTTP or Appium clients. No ADB, no USB cable, no root."
+category = "agents"
+tags = ["accessibility-service", "adb-alternative", "ai-agents", "android", "android-automation", "android-testing", "appium", "device-farm"]
+repository = "https://github.com/KnifeLemon/Droidline"
+website = "https://droidline.dev"
+license = "MIT"
+language = "Go"
+added = 2026-11-03

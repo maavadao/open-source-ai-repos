@@ -1,0 +1,9 @@
+name = "box"
+description = "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon, with Linux support pl…"
+category = "agents"
+tags = ["agentic-ai", "agents", "ai", "ai-agents", "ai-safety", "containment", "egress", "harness"]
+repository = "https://github.com/strands-agents/box"
+website = "https://strandsagents.com"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-03

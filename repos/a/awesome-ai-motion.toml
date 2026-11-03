@@ -1,0 +1,8 @@
+name = "awesome-ai-motion"
+description = "发现惊艳动效、创意视频与交互艺术，探索背后的源码、提示词与制作过程。Curated motion design, creative video & interactive art — with source code, prompts & making-of resources."
+category = "skills-prompts"
+tags = ["ai-video", "animation", "awesome", "awesome-list", "claude", "motion-design", "opus", "prompts"]
+repository = "https://github.com/guanmo-ai/awesome-ai-motion"
+website = "https://guanmo-ai.github.io/awesome-ai-motion/"
+language = "JavaScript"
+added = 2026-11-03

@@ -1,0 +1,8 @@
+name = "claude-legal-skill"
+description = "AI-powered contract review skill with CUAD risk detection, market benchmarks, and lawyer-ready redlines. Works with Claude Code, Codex, Cursor, and 26+ tools."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-tools", "anthropic", "claude", "claude-code", "claude-skills", "codex", "contract-analysis"]
+repository = "https://github.com/evolsb/claude-legal-skill"
+website = "https://ctsheehan.com"
+license = "MIT"
+added = 2026-11-03

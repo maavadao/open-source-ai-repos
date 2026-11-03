@@ -1,0 +1,9 @@
+name = "deepcell-tf"
+description = "Deep Learning Library for Single Cell Analysis"
+category = "ml-platforms"
+tags = ["cell-biology", "deep-learning", "instance-segmentation", "tensorflow"]
+repository = "https://github.com/vanvalenlab/deepcell-tf"
+website = "https://deepcell.readthedocs.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-03

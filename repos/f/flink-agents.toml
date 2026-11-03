@@ -1,0 +1,9 @@
+name = "flink-agents"
+description = "Flink Agents is an Agentic AI framework based on Apache Flink"
+category = "agents"
+tags = ["agent", "agentic-ai", "agentic-framework", "ai", "distributed", "event-driven", "flink", "framework"]
+repository = "https://github.com/apache/flink-agents"
+website = "https://nightlies.apache.org/flink/flink-agents-docs-main/"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-11-03

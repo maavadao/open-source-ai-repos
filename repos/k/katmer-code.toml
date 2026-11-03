@@ -1,0 +1,8 @@
+name = "katmer-code"
+description = "Multi-provider AI sidebar for Obsidian — Claude, Gemini, Codex, Antigravity. Per-tab routing, same-tab consult, inline diff, CLAUDE.md auto-mirror, academic research skills."
+category = "chat"
+tags = ["academic-research", "ai", "antigravity", "chatgpt", "claude", "codex", "gemini", "multi-provider"]
+repository = "https://github.com/hkcanan/katmer-code"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-03

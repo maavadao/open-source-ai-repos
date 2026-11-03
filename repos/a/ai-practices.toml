@@ -1,0 +1,9 @@
+name = "AI-Practices"
+description = "🎓 机器学习与深度学习实战教程 | Comprehensive ML & DL Tutorial with Jupyter Notebooks | 包含线性回归、神经网络、CNN、RNN等完整教程"
+category = "learning"
+tags = ["ai", "artificial-intelligence", "cnn", "data-science", "deep-learning", "jupyter-notebook", "keras", "machine-learning"]
+repository = "https://github.com/zimingttkx/AI-Practices"
+website = "https://zimingttkx.github.io/AI-Practices/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-11-03

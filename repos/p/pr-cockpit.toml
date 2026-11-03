@@ -1,0 +1,8 @@
+name = "pr-cockpit"
+description = "Local AI PR workbench — Claude/Codex review in isolated git worktrees, human-gated GitHub comments"
+category = "coding"
+tags = ["ai", "ai-agents", "claude", "code-review", "codex", "developer-tools", "electron", "github"]
+repository = "https://github.com/taovc/pr-cockpit"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-03

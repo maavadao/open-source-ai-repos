@@ -1,0 +1,9 @@
+name = "deep-diamond"
+description = "A fast Clojure Tensor & Deep Learning library"
+category = "ml-platforms"
+tags = ["clojure", "cuda", "deep-learning", "deep-neural-networks", "dnnl", "gpu", "java", "nvidia"]
+repository = "https://github.com/uncomplicate/deep-diamond"
+website = "https://aiprobook.com"
+license = "EPL-1.0"
+language = "Clojure"
+added = 2026-11-03

@@ -1,0 +1,8 @@
+name = "CSSwitch"
+description = "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点"
+category = "llm-apps"
+tags = ["anthropic", "claude", "claude-science", "dashscope", "deepseek", "llm", "macos", "mcp"]
+repository = "https://github.com/SuperJJ007/CSSwitch"
+license = "MIT"
+language = "Rust"
+added = 2026-11-03

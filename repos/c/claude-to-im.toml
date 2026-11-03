@@ -1,0 +1,8 @@
+name = "Claude-to-IM"
+description = "Host-agnostic bridge connecting Claude Code SDK to IM platforms (Telegram, Discord, Feishu)"
+category = "skills-prompts"
+tags = ["claude", "claude-code", "discord-bot", "feishu", "im-bridge", "llm", "telegram-bot", "typescript"]
+repository = "https://github.com/op7418/Claude-to-IM"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-03

@@ -1,0 +1,8 @@
+name = "RuiC-oc-ferry"
+description = "把 OpenCode 的免费模型摆渡给 WorkBuddy —— 隔离运行时、并发检测、判定缓存、一键导入、本机 OpenAI 兼容转发口"
+category = "llm-apps"
+tags = ["electron", "free-models", "llm", "macos", "openai-compatible", "opencode", "tray-app", "windows"]
+repository = "https://github.com/HRuiCcc/RuiC-oc-ferry"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-03

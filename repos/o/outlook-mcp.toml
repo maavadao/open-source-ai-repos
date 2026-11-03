@@ -1,0 +1,7 @@
+name = "outlook-mcp"
+description = "MCP server for Claude to access Outlook data via Microsoft Graph API"
+category = "mcp-servers"
+tags = ["claude", "claude-ai", "claude-code", "mcp", "mcp-server", "mcp-servers", "mcp-tools", "model-context-protocol"]
+repository = "https://github.com/ryaker/outlook-mcp"
+language = "JavaScript"
+added = 2026-11-03

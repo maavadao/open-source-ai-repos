@@ -1,0 +1,9 @@
+name = "notebooklm-skill"
+description = "NotebookLM does the research, Claude writes the content. Research → Synthesis → Content Creation → Publishing. Claude Code Skill + MCP Server."
+category = "mcp-servers"
+tags = ["ai-research", "claude-code", "claude-code-skill", "content-pipeline", "mcp-server", "notebooklm", "notebooklm-py", "podcast-generator"]
+repository = "https://github.com/claude-world/notebooklm-skill"
+website = "https://youtu.be/6M3K4sxahdE"
+license = "MIT"
+language = "Python"
+added = 2026-11-03

@@ -1,0 +1,8 @@
+name = "awesome-grokbot-playbooks"
+description = "中文 Grok Bot 玩法与可抄配方清单：作战室、雷达 Routine、额度体检… 由 Grok Bot + Claude 协作维护 | Chinese-first Grok Bot playbooks"
+category = "skills-prompts"
+tags = ["ai-agents", "awesome", "awesome-list", "chinese", "grok", "grok-bot", "multi-agent", "playbooks"]
+repository = "https://github.com/sit-in/awesome-grokbot-playbooks"
+license = "MIT"
+language = "HTML"
+added = 2026-11-03

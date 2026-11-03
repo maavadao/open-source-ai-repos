@@ -1,0 +1,8 @@
+name = "ai-agent-team"
+description = "AI Agent Team-拥有24/7专业AI开发团队：产品经理、前端开发、后端开发、测试工程师、DevOps工程师、技术负责人。一键安装，支持中英文命令，大幅提升开发效率！"
+category = "skills-prompts"
+tags = ["24886", "ai", "ai-agents", "claude-code", "claude-code-skill", "drawnotes", "ide", "mcp-server"]
+repository = "https://github.com/peterfei/ai-agent-team"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-03

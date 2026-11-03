@@ -1,0 +1,9 @@
+name = "graphicle"
+description = "Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client."
+category = "mcp-servers"
+tags = ["agent-memory", "ai-agents", "claude-code", "code-analysis", "code-graph", "code-intelligence", "code-search", "codex"]
+repository = "https://github.com/Graphicle-AI/graphicle"
+website = "https://www.karlex.ai/graphicle"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-03

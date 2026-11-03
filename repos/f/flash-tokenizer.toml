@@ -1,0 +1,8 @@
+name = "flash-tokenizer"
+description = "EFFICIENT AND OPTIMIZED TOKENIZER ENGINE FOR LLM INFERENCE SERVING"
+category = "ml-platforms"
+tags = ["bert", "berttokenizer", "cpp", "cpp17", "deep-learning", "flash", "huggingface", "nlp"]
+repository = "https://github.com/NLPOptimize/flash-tokenizer"
+website = "https://github.com/NLPOptimize/flash-tokenizer"
+language = "C++"
+added = 2026-11-03

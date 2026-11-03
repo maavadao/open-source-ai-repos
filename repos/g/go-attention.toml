@@ -1,0 +1,8 @@
+name = "go-attention"
+description = "A full attention mechanism and transformer in pure go."
+category = "ml-platforms"
+tags = ["artificial-intelligence", "golang", "machine-learning", "serverless"]
+repository = "https://github.com/takara-ai/go-attention"
+license = "MIT"
+language = "Go"
+added = 2026-11-03

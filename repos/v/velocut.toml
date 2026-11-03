@@ -1,0 +1,9 @@
+name = "velocut"
+description = "AI-native, local-first video editor by Ribbi — runs entirely in the browser. Rust/WASM engine, WebGPU compositing, WebCodecs export; humans and LLM agents edit through the same JSON command protocol."
+category = "video"
+tags = ["ai", "ai-agent", "browser", "claude", "llm", "local-first", "rust", "typescript"]
+repository = "https://github.com/open-ribbi/velocut"
+website = "https://ribbi.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-03

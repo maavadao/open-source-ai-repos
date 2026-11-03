@@ -1,0 +1,8 @@
+name = "framekeeper"
+description = "Stop paying the multimodal tax. Your AI agent keeps every image it has seen but only sends the ones it needs: lighter chats, no endless reconnecting, no starting over. Works with Codex, Claude Code, Cline, Gemini CLI, OpenCode, WorkBuddy and more. Install once, forget it."
+category = "skills-prompts"
+tags = ["ai-agents", "ai-image", "claude-code", "claude-code-plugin", "cline", "codex", "codex-plugin", "computer-use"]
+repository = "https://github.com/chipfighter/framekeeper"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-03

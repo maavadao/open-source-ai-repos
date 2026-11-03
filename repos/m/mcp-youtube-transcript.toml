@@ -1,0 +1,8 @@
+name = "mcp-youtube-transcript"
+description = "MCP server retrieving transcripts of YouTube videos"
+category = "mcp-servers"
+tags = ["mcp-server", "python", "youtube"]
+repository = "https://github.com/jkawamoto/mcp-youtube-transcript"
+license = "MIT"
+language = "Python"
+added = 2026-11-03

@@ -1,0 +1,8 @@
+name = "awesome-grokbot"
+description = "1894 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site."
+category = "skills-prompts"
+tags = ["agents", "ai-agents", "ai-tools", "awesome", "awesome-list", "bot-templates", "catalog", "cursor"]
+repository = "https://github.com/kydlikebtc/awesome-grokbot"
+website = "https://kydlikebtc.github.io/awesome-grokbot/"
+language = "Python"
+added = 2026-11-03

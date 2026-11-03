@@ -1,0 +1,9 @@
+name = "loominary"
+description = "Conversations shouldn't just live in a scroll bar. Loominary gives your Claude and SillyTavern conversations a home — a local archive of every conversation, yours to keep. Coming soon..."
+category = "chat"
+tags = ["chat-export", "chat-manager", "chatgpt", "claude", "conversation-export", "gemini", "grok", "notebooklm"]
+repository = "https://github.com/Laumss/loominary"
+website = "https://laumss.github.io/loominary/welcome"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-03

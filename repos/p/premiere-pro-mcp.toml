@@ -1,0 +1,9 @@
+name = "premiere-pro-mcp"
+description = "Adobe Premiere Pro MCP — independent, local-first server for supported workflows. Connect Claude, Codex, or Cursor through a local CEP bridge."
+category = "mcp-servers"
+tags = ["adobe", "adobe-premiere-pro", "ai-video-editing", "cep", "claude", "claude-desktop", "codex", "creative-cloud"]
+repository = "https://github.com/leancoderkavy/premiere-pro-mcp"
+website = "https://premiere-pro-mcp.com/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-03

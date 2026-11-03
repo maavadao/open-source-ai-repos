@@ -1,0 +1,9 @@
+name = "PaddleScience"
+description = "PaddleScience is SDK and library for developing AI-driven scientific computing applications based on PaddlePaddle."
+category = "ml-platforms"
+tags = ["ai4science", "deep-learning", "machine-learning", "operator-learning", "paddlepaddle", "self-supervised-learning", "supervised-learning"]
+repository = "https://github.com/PaddlePaddle/PaddleScience"
+website = "http://paddlescience-docs.rtfd.io/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-03

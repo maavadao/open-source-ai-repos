@@ -1,0 +1,9 @@
+name = "openaccountants"
+description = "Open tax skills for AI: 2,250 skills across 266 jurisdictions, every figure cited to the law. Works in ChatGPT, Claude, Cursor and any MCP client."
+category = "mcp-servers"
+tags = ["accountant", "accounting", "agent-skills", "ai", "ai-agents", "chatgpt", "claude", "compliance"]
+repository = "https://github.com/openaccountants/openaccountants"
+website = "https://www.openaccountants.com/connect"
+license = "AGPL-3.0"
+language = "HTML"
+added = 2026-11-03

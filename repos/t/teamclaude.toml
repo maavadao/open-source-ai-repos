@@ -1,0 +1,8 @@
+name = "teamclaude"
+description = "Multi-account proxy for Claude Code and Codex: pools Claude Max, ChatGPT/Codex, API-key and third-party backend accounts, and rotates on quota"
+category = "skills-prompts"
+tags = ["anthropic", "chatgpt", "claude", "claude-code", "cli", "codex", "deepseek", "load-balancer"]
+repository = "https://github.com/KarpelesLab/teamclaude"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-03

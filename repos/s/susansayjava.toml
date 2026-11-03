@@ -1,0 +1,7 @@
+name = "susanSayJava"
+description = "Java 面试八股文 + 企业级项目实战：Spring、Spring Boot、Spring Cloud、JVM、Redis、MySQL、分布式、微服务、AI Agent，附详细答案与学习路线。"
+category = "agents"
+tags = ["agent", "ai", "backend", "distributed-systems", "high-concurrency", "interview-questions", "java", "java-interview"]
+repository = "https://github.com/dvsusan/susanSayJava"
+website = "https://susan.net.cn"
+added = 2026-11-03

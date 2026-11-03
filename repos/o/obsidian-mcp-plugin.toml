@@ -1,0 +1,8 @@
+name = "obsidian-mcp-plugin"
+description = "High-performance Model Context Protocol (MCP) server for Obsidian that provides AI tools with direct vault access through semantic operations and HTTP transport."
+category = "mcp-servers"
+tags = ["ai", "claude", "knowledge-graph", "mcp", "model-context-protocol", "obsidian", "obsidian-plugin", "semantic-search"]
+repository = "https://github.com/aaronsb/obsidian-mcp-plugin"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-03

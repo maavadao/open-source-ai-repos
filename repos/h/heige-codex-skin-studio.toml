@@ -1,0 +1,9 @@
+name = "heige-codex-skin-studio"
+description = "给 Codex Desktop 一键换肤：OpenAI Codex / ChatGPT 桌面端主题工具，CDP 注入零修改应用，13 套内置预设（Miku / 原神 / 鸣潮 / 火影 / 恋与深空 / 龙珠 / 财神）+ 自定义图片取色，支持 macOS 与 Windows | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)"
+category = "chat"
+tags = ["agent-skill", "anime", "chatgpt", "codex", "codex-desktop", "customization", "devtools-protocol", "electron"]
+repository = "https://github.com/HeiGeAi/heige-codex-skin-studio"
+website = "https://www.heigeai.com/codexskin/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-03
