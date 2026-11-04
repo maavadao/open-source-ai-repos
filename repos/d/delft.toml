@@ -1,0 +1,8 @@
+name = "delft"
+description = "a Deep Learning Framework for Text https://delft.readthedocs.io/"
+category = "ml-platforms"
+tags = ["deep-learning", "keras", "ner", "nlp", "sequence-labeling", "text-classification"]
+repository = "https://github.com/kermitt2/delft"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-04

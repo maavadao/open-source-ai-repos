@@ -1,0 +1,8 @@
+name = "skillport"
+description = "Bring Agent Skills to Any AI Agent and Coding Agent — via CLI or MCP. Manage once, serve anywhere."
+category = "mcp-servers"
+tags = ["agent-skills", "ai-agent", "claude", "codex", "context-engineering", "cursor", "github-copilot", "mcp"]
+repository = "https://github.com/gotalab/skillport"
+license = "MIT"
+language = "Python"
+added = 2026-11-04

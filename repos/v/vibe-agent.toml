@@ -1,0 +1,7 @@
+name = "Vibe-Agent"
+description = "手搓Agent系列，香蕉Pro邪修应用和gemini本地化部署"
+category = "other"
+tags = ["gemini", "nanobananapro", "vibe-coding"]
+repository = "https://github.com/yuyou-dev/Vibe-Agent"
+language = "HTML"
+added = 2026-11-04

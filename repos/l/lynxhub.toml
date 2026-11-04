@@ -1,0 +1,9 @@
+name = "LynxHub"
+description = "Cross-platform, extensible terminal/browser for AI management"
+category = "other"
+tags = ["ai", "ai-management", "all-in-one", "artificial-intelligence", "electronjs", "lynx", "react", "typescript"]
+repository = "https://github.com/TheLynxHub/LynxHub"
+website = "https://LynxHub.app"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-11-04

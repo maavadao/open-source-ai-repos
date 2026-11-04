@@ -1,0 +1,8 @@
+name = "Awesome_Imputation"
+description = "Awesome Deep Learning for Time-Series Imputation, including an unmissable paper and tool list about applying neural networks to impute incomplete time series containing NaN missing values/data"
+category = "ml-platforms"
+tags = ["benchmark", "data-mining", "deep-learning", "imputation", "incomplete-time-series", "interpolation", "irregular-time-series", "machine-learning"]
+repository = "https://github.com/WenjieDu/Awesome_Imputation"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-11-04

@@ -1,0 +1,9 @@
+name = "AI-Competition-Collections"
+description = "AI比赛经验帖子 & 训练和测试技巧帖子 集锦（收集整理各种人工智能比赛经验帖）"
+category = "other"
+tags = ["competition", "cv", "data-discovery", "graph-neural-networks", "knowledge-graph", "nlp", "recommender-system", "speech"]
+repository = "https://github.com/SWHL/AI-Competition-Collections"
+website = "https://swhl.github.io/AI-Competition-Collections/"
+license = "Apache-2.0"
+language = "HTML"
+added = 2026-11-04

@@ -1,0 +1,9 @@
+name = "prompt-cache"
+description = "Cut LLM costs by up to 80% and unlock sub-millisecond responses with intelligent semantic caching.A drop-in, provider-agnostic LLM proxy written in Go with sub-millisecond response"
+category = "vector-databases"
+tags = ["ai", "badgerdb", "cache", "claude", "cost-optimization", "go", "langchain", "llm"]
+repository = "https://github.com/messkan/prompt-cache"
+website = "https://messkan.github.io/prompt-cache"
+license = "MIT"
+language = "Go"
+added = 2026-11-04

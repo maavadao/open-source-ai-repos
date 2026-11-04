@@ -1,0 +1,9 @@
+name = "vigil"
+description = "Vigil SOC: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, local or remote."
+category = "agents"
+tags = ["agentic-ai", "ai-agents", "ai-soc", "cybersecurity-tools", "detection-engineering", "incident-response", "llm-agents", "model-context-protocol"]
+repository = "https://github.com/Vigil-SOC/vigil"
+website = "https://vigilsoc.org"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-04

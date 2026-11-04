@@ -1,0 +1,9 @@
+name = "affectui"
+description = "UI for AI agents. React components for what agents do – agent trees, tool calls, traces, handoffs and approvals – and for the rest of your app. One file each, install with shadcn or via MCP. Free and open source."
+category = "mcp-servers"
+tags = ["agent-ui", "ai", "ai-agents", "ai-ui", "animation", "components", "dark-mode", "illustrations"]
+repository = "https://github.com/flohoeller/affectui"
+website = "https://www.affectui.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-04

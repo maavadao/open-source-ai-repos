@@ -1,0 +1,9 @@
+name = "OSWorld-V2"
+description = "OSWorld 2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks"
+category = "agents"
+tags = ["agent", "artificial-intelligence", "benchmark", "computer-use-agent", "cua", "gui", "language-model", "large-action-model"]
+repository = "https://github.com/xlang-ai/OSWorld-V2"
+website = "https://osworld-v2.xlang.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-04

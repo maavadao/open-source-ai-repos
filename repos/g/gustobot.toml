@@ -1,0 +1,8 @@
+name = "GustoBot"
+description = "五星大厨:全面Multi-Agent 的客服机器人，基于langraph实现，txt2sql ,txt2cypher, lightrag, 多模态 等"
+category = "agents"
+tags = ["agent", "graphrag", "langchain", "langgraph", "lightrag", "multi-agent", "neo4j", "text2cypher"]
+repository = "https://github.com/skygazer42/GustoBot"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-04

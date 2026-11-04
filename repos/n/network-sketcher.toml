@@ -1,0 +1,9 @@
+name = "network-sketcher"
+description = "Network Sketcher is an AI-ready network design tool with Local MCP, Online, and Offline editions for creating network designs and exporting PowerPoint diagrams and Excel-based configuration data."
+category = "mcp-servers"
+tags = ["ai-agent", "cisco", "claude-code", "cursor", "mcp-server", "model-context-protocol", "network-automation", "network-diagram"]
+repository = "https://github.com/cisco-open/network-sketcher"
+website = "https://github.com/cisco-open/network-sketcher"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-04

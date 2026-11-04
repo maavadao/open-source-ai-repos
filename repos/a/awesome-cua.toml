@@ -1,0 +1,8 @@
+name = "Awesome-CUA"
+description = "Open, source-backed catalog of computer-use agents: reviewed papers, GUI models, datasets, benchmarks, tools, and reusable JSONL/SQLite data."
+category = "agents"
+tags = ["agent-evaluation", "agentic-ai", "ai-agents", "awesome", "awesome-list", "benchmarks", "browser-agents", "computer-use"]
+repository = "https://github.com/reacher-z/Awesome-CUA"
+website = "https://awesomecua.github.io/"
+language = "Python"
+added = 2026-11-04

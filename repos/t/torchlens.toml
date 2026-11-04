@@ -1,0 +1,8 @@
+name = "torchlens"
+description = "Inspect, visualize and intervene on any operation in any neural network. Capture every activation and gradient, the full computational graph and 800+ metadata fields without changing model code. Supports PyTorch, JAX, TensorFlow, MLX, PaddlePaddle and tinygrad. Validated on 6,400+ models. Built for…"
+category = "data-science"
+tags = ["activations", "computational-graph", "deep-learning", "explainable-ai", "gradients", "interpretability", "jax", "mechanistic-interpretability"]
+repository = "https://github.com/johnmarktaylor91/torchlens"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-04

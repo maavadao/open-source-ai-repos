@@ -1,0 +1,7 @@
+name = "awesome-deepseek-harness"
+description = "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh"
+category = "mcp-servers"
+tags = ["agent", "awesome-list", "deepseek", "dsh", "llm", "mcp", "plugins", "typescript"]
+repository = "https://github.com/Dominic789654/awesome-deepseek-harness"
+language = "TypeScript"
+added = 2026-11-04

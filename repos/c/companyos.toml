@@ -1,0 +1,8 @@
+name = "CompanyOS"
+description = "Kortix CompanyOS – the open-source operating system for your company. Multiplayer AI agents, your company as code, sovereign on your infrastructure or ours."
+category = "agents"
+tags = ["ai", "ai-agents", "company-as-code", "company-operating-system", "company-os", "companyos", "llm", "open-source"]
+repository = "https://github.com/kortix-ai/CompanyOS"
+website = "https://kortix.com"
+language = "TypeScript"
+added = 2026-11-04

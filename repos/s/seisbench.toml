@@ -1,0 +1,8 @@
+name = "seisbench"
+description = "SeisBench - A toolbox for machine learning in seismology"
+category = "ml-platforms"
+tags = ["deep-learning", "machine-learning", "python", "science", "seismology"]
+repository = "https://github.com/seisbench/seisbench"
+license = "GPL-3.0"
+language = "Jupyter Notebook"
+added = 2026-11-04

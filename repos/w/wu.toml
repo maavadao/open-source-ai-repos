@@ -1,0 +1,8 @@
+name = "wu"
+description = "The fast, native code editor and agent workspace."
+category = "other"
+tags = ["ai", "code-editor", "coding-agent", "developer-tools", "gpui", "native", "rust"]
+repository = "https://github.com/dstrml/wu"
+website = "https://wu.dstrml.org"
+language = "Rust"
+added = 2026-11-04

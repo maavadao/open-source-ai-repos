@@ -1,0 +1,9 @@
+name = "LocalText2Voice"
+description = "Free open-source AI desktop app for audiobooks, podcasts, documentaries, films and animated videos with local models, cloud APIs and editable storyboards."
+category = "image"
+tags = ["ai-voice", "animated-video", "audiobook", "chatterbox", "comfyui", "documentary", "faster-whisper", "kokoro"]
+repository = "https://github.com/estebanstifli/LocalText2Voice"
+website = "https://andromedanova.com/localtext2voice.html"
+license = "MIT"
+language = "Python"
+added = 2026-11-04

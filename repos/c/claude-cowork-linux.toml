@@ -1,0 +1,9 @@
+name = "claude-cowork-linux"
+description = "Run Claude Desktop’s Cowork mode natively on Linux — no macOS or VM required"
+category = "other"
+tags = ["anthropic", "arch", "claude", "code", "cowork", "debian", "desktop", "linux"]
+repository = "https://github.com/johnzfitch/claude-cowork-linux"
+website = "https://github.com/johnzfitch/claude-cowork-linux/releases"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-04

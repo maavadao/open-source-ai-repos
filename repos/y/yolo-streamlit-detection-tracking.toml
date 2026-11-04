@@ -1,0 +1,9 @@
+name = "yolo-streamlit-detection-tracking"
+description = "YOLO Vision Studio: a free, open-source Streamlit app for detection, segmentation, pose, text prompts (YOLO World, YOLOE) and tracking with honest counts. Built on Ultralytics YOLO26."
+category = "vision"
+tags = ["bytetrack", "computer-vision", "instance-segmentation", "machine-learning", "object-detection", "object-tracker", "people-counting", "pose-estimation"]
+repository = "https://github.com/aparsoft/yolo-streamlit-detection-tracking"
+website = "https://aparsoft.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-04

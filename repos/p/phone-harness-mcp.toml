@@ -1,0 +1,9 @@
+name = "mcp"
+description = "Connect AI agents to real iPhones and Androids"
+category = "mcp-servers"
+tags = ["ai-agents", "android", "iphone", "mcp", "mcp-server", "mobile-automation", "model-context-protocol", "phone-automation"]
+repository = "https://github.com/phone-harness/mcp"
+website = "https://phone-harness.com"
+license = "MIT"
+language = "Python"
+added = 2026-11-04

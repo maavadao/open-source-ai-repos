@@ -1,0 +1,8 @@
+name = "dsh-claude-style"
+description = "Claude Code Desktop theme for DeepSeek Harness｜ 为 DeepSeek Harness 复刻 Claude Code Desktop 风格与交互体验的主题插件"
+category = "skills-prompts"
+tags = ["anthropic", "claude", "claude-code", "claude-desktop", "cordis", "dark-mode", "deepseek-harness", "desktop-theme"]
+repository = "https://github.com/Nwflower/dsh-claude-style"
+website = "https://www.npmjs.com/package/dsh-claude-style"
+language = "TypeScript"
+added = 2026-11-04

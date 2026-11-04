@@ -1,0 +1,8 @@
+name = "sloptrim"
+description = "A local detector for AI-writing patterns. Scores every prose file your agent saves. Python standard library only, no network, no model."
+category = "skills-prompts"
+tags = ["ai-agents", "ai-slop", "claude-code", "claude-code-plugin", "claude-code-plugins-marketplace", "claude-code-skills", "de-slop", "developer-tools"]
+repository = "https://github.com/seyedehsanhadi/sloptrim"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-04

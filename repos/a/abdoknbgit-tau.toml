@@ -1,0 +1,7 @@
+name = "tau"
+description = "Your adaptive AI agent for your work."
+category = "local-llms"
+tags = ["agent", "anthropic", "antigravity", "api", "claudecode", "cli", "cline-ai", "copilot"]
+repository = "https://github.com/AbdoKnbGit/tau"
+language = "TypeScript"
+added = 2026-11-04

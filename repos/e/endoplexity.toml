@@ -1,0 +1,8 @@
+name = "Endoplexity"
+description = "Agentic browser control driven by your own Claude / Cursor subscriptions"
+category = "browser-automation"
+tags = ["ai-agent", "browser-automation", "cdp", "chrome-extension", "claude", "cursor", "mcp"]
+repository = "https://github.com/Endokelp/Endoplexity"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-04

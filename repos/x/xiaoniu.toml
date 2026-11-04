@@ -1,0 +1,6 @@
+name = "xiaoniu"
+description = "小牛视频翻译 是一款支持本地视频翻译、字幕翻译和 YouTube 视频翻译下载的 AI 工具，集成自动语音识别与多语言翻译功能，助力创作者高效完成视频翻译，应用于视频本地化与视频出海场景。"
+category = "speech"
+tags = ["ai-subtitles", "asr", "multilingual", "speech-recognition", "speech-to-text", "subtitle-translation", "text-to-speech", "video-localization"]
+repository = "https://github.com/agan-j/xiaoniu"
+added = 2026-11-04

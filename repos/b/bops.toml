@@ -1,0 +1,8 @@
+name = "bops"
+description = "Bops: a team of AI bots that run your business ops, each with its own computer, email and phone number. bops.bot"
+category = "agents"
+tags = ["ai-agents", "business-automation", "computer-use", "electron", "mac-app", "nextjs", "open-source"]
+repository = "https://github.com/OrgoAI/bops"
+website = "https://bops.bot"
+language = "TypeScript"
+added = 2026-11-04

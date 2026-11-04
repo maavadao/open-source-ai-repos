@@ -1,0 +1,8 @@
+name = "openmozi"
+description = "A custom Agent OS built to be hackable, heavily inspired by OpenClaw."
+category = "agents"
+tags = ["agent", "ai-agent", "anthropic", "claude", "llm", "personal-assistant", "typescript"]
+repository = "https://github.com/spytensor/openmozi"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-04

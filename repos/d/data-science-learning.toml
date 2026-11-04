@@ -1,0 +1,8 @@
+name = "data-science-learning"
+description = "Repository of code and resources related to different data science and machine learning topics. For learning, practice and teaching purposes."
+category = "data-science"
+tags = ["data-science", "deep-learning", "jupyter-notebook", "learning-by-doing", "machine-learning", "statistics"]
+repository = "https://github.com/5agado/data-science-learning"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-11-04

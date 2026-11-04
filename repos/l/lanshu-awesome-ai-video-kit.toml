@@ -1,0 +1,9 @@
+name = "lanshu-awesome-ai-video-kit"
+description = "做企业 AI 视频项目逼出来的工具包 · 411 prompt · 15 模型 · 7 Claude Skill · 14 篇方法论"
+category = "skills-prompts"
+tags = ["ai-video", "awesome", "awesome-list", "claude", "claude-code", "claude-skills", "cogvideox", "higgsfield"]
+repository = "https://github.com/cclank/lanshu-awesome-ai-video-kit"
+website = "https://lanshu-awesome-ai-video-kit.lank.workers.dev"
+license = "MIT"
+language = "HTML"
+added = 2026-11-04

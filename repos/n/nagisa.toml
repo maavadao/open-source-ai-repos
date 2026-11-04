@@ -1,0 +1,9 @@
+name = "nagisa"
+description = "A Japanese tokenizer based on recurrent neural networks"
+category = "other"
+tags = ["japanese", "natural-language-processing", "nlp", "pos-tagging", "sequence-labeling", "tokenizer", "word-segmentation"]
+repository = "https://github.com/taishi-i/nagisa"
+website = "https://huggingface.co/spaces/taishi-i/nagisa-demo"
+license = "MIT"
+language = "Python"
+added = 2026-11-04

@@ -1,0 +1,9 @@
+name = "mcp-fiscal-brasil"
+description = "Servidor MCP fiscal brasileiro: CNPJ, NF-e, NFS-e, CT-e, SPED, eSocial, Simples Nacional, Reforma 2026. 44 tools, zero-cadastro, tabelas offline. Python."
+category = "mcp-servers"
+tags = ["accounting", "ai", "brasil", "brazil", "claude", "cnpj", "esocial", "fiscal"]
+repository = "https://github.com/DeHor-Labs/mcp-fiscal-brasil"
+website = "https://fiscal.dehor.dev"
+license = "MIT"
+language = "Python"
+added = 2026-11-04

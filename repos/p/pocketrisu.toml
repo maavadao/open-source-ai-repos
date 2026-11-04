@@ -1,0 +1,9 @@
+name = "PocketRisu"
+description = "Self-hosted AI roleplay chat platform you run on your PC or personal server, forked from Risuai"
+category = "chat"
+tags = ["ai", "ai-roleplay", "character", "chat", "chatbot", "claude", "gemini", "gpt"]
+repository = "https://github.com/PocketRisu/PocketRisu"
+website = "https://pocketrisu.com/"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-11-04

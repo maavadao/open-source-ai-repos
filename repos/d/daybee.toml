@@ -1,0 +1,8 @@
+name = "DayBee"
+description = "Desktop microphone recorder with real-time, on-device transcription, automatic audio segmentation, voice activity detection, and an MCP server for searching saved transcripts."
+category = "mcp-servers"
+tags = ["audio-recorder", "cross-platform", "desktop-app", "golang", "macos", "mcp", "mcp-server", "microphone"]
+repository = "https://github.com/nexmoe/DayBee"
+website = "https://daybee.co"
+language = "Go"
+added = 2026-11-04

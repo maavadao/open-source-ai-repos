@@ -1,0 +1,8 @@
+name = "GenerativeAI-Prompt-Sample-Japanese"
+description = "ChatGPTやCopilotなど各種生成AI用の「日本語]の Prompt のサンプル"
+category = "skills-prompts"
+tags = ["chatgpt", "prompt"]
+repository = "https://github.com/dahatake/GenerativeAI-Prompt-Sample-Japanese"
+license = "MIT"
+language = "HTML"
+added = 2026-11-04

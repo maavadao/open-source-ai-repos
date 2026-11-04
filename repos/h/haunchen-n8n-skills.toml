@@ -1,0 +1,8 @@
+name = "n8n-skills"
+description = "Designed specifically for AI assistants, the n8n Workflow Automation Skills Suite."
+category = "other"
+tags = ["automation", "claude", "n8n", "n8n-skills", "n8n-workflow", "skills"]
+repository = "https://github.com/haunchen/n8n-skills"
+website = "https://n8n-skills.frankchen.tw"
+language = "TypeScript"
+added = 2026-11-04

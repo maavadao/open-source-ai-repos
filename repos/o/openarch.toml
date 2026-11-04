@@ -1,0 +1,8 @@
+name = "OpenArch"
+description = "PyTorch implementations of modern open-source LLM architectures (Llama, Qwen, DeepSeek, Gemma, GPT-OSS, Kimi, and more) — written from scratch for readability and learning, based on Sebastian Raschka's LLM Architecture Gallery."
+category = "models"
+tags = ["architecture", "attention-mechanism", "deep-learning", "deepseek", "gemma", "language-models", "llama3", "llms"]
+repository = "https://github.com/anuj0456/OpenArch"
+license = "MIT"
+language = "Python"
+added = 2026-11-04

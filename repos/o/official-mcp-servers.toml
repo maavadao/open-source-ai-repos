@@ -1,0 +1,7 @@
+name = "official-mcp-servers"
+description = "A curated directory of 390+ official MCP servers from the companies behind the products. No unofficial forks, no abandoned projects."
+category = "mcp-servers"
+tags = ["ai-tools", "awesome-list", "claude", "claude-code", "codex", "cursor", "mcp", "mcp-server"]
+repository = "https://github.com/VoltAgent/official-mcp-servers"
+license = "MIT"
+added = 2026-11-04

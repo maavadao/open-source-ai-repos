@@ -1,0 +1,8 @@
+name = "ordinary-claude-skills"
+description = "An unappealing collection of Claude Skills and resources."
+category = "skills-prompts"
+tags = ["claude", "claude-code", "claude-skills", "collection", "list"]
+repository = "https://github.com/Microck/ordinary-claude-skills"
+website = "https://microck.github.io/ordinary-claude-skills/"
+language = "Python"
+added = 2026-11-04

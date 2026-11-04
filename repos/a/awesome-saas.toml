@@ -1,0 +1,9 @@
+name = "awesome-saas"
+description = "Collection of templates using the Alchemyst AI Platform for your next big AI app."
+category = "agents"
+tags = ["agentic-ai", "ai-agent", "ai-saas", "alchemyst-ai", "hacktoberfest", "hacktoberfest2025"]
+repository = "https://github.com/Alchemyst-ai/awesome-saas"
+website = "https://alchemyst-ai.github.io/awesome-saas/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-04

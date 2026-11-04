@@ -1,0 +1,9 @@
+name = "anubis"
+description = "🛡️ Free Open-Source AI-Powered Security Terminal & Vulnerability Scanner (CVE, SBOM). Multi-Protocol Access: SSH, SFTP, RDP, VNC, Serial. 12+ AI Agents (OpenAI, DeepSeek) for Pentesting, CTF, DevSecOps & Security Automation. Cross-Platform & Web UI."
+category = "other"
+tags = ["anubis", "anubis-security-tool", "developer-tools", "electron", "ftp", "linux", "macos", "mcp"]
+repository = "https://github.com/Anubis-Security-Tool/anubis"
+website = "https://anubis.locker"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-04

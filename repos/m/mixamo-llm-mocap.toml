@@ -1,0 +1,7 @@
+name = "mixamo-llm-mocap"
+description = "Turn any video into a Mixamo-rig animation - GVHMR estimator, spec-driven retarget, FK apply in Blender via MCP. Works with any Mixamo character; built to be operated end-to-end by an AI agent."
+category = "llm-apps"
+tags = ["ai-agent", "animation", "blender", "gvhmr", "llm", "mixamo", "mocap", "motion-capture"]
+repository = "https://github.com/squall01337/mixamo-llm-mocap"
+language = "Python"
+added = 2026-11-04

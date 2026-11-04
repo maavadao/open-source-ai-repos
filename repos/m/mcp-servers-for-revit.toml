@@ -1,0 +1,9 @@
+name = "mcp-servers-for-revit"
+description = "🔥💧🤖 Sparx fork of the mcp-servers-for-revit/revit-mcp project"
+category = "mcp-servers"
+tags = ["claude", "mcp", "revit"]
+repository = "https://github.com/mcp-servers-for-revit/mcp-servers-for-revit"
+website = "https://sparx-fire.com"
+license = "MIT"
+language = "C#"
+added = 2026-11-04

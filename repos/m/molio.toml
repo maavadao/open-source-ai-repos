@@ -1,0 +1,8 @@
+name = "Molio"
+description = "A local-first personal knowledge layer for AI agents. Build evolving knowledge spaces with LLM Wiki, knowledge graphs, and agent workflows."
+category = "skills-prompts"
+tags = ["claude-code", "deepseek-harness", "dsh-plugin", "knowledge-management", "llmwiki", "local-first", "mcp", "mcp-server"]
+repository = "https://github.com/zhuzhaoyun/Molio"
+website = "https://zhuzhaoyun.github.io/Molio/"
+language = "TypeScript"
+added = 2026-11-04

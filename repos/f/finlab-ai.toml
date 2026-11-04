@@ -1,0 +1,8 @@
+name = "finlab-ai"
+description = "Official FinLab skill: backtest Taiwan and U.S. stocks with Claude Code or Codex on real market data."
+category = "skills-prompts"
+tags = ["backtesting", "claude-code", "codex", "finlab", "mcp-server", "quantitative-trading", "taiwan-stocks"]
+repository = "https://github.com/koreal6803/finlab-ai"
+website = "https://finlab.finance/agents"
+language = "Python"
+added = 2026-11-04

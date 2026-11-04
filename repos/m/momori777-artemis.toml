@@ -1,0 +1,7 @@
+name = "Artemis"
+description = "破限本地AI女友后宫，Agent+画图语音向量数据库+live2D+桌宠+酒馆角色卡导入+webchat，QQ+Telegram双通道，8G显存可跑 uncensored Fully offline AI girlfriends harem Openclaw/Claude code+Local LLM+GPT-SoVITS+ComfyUI image+Live2D+desktop pet+SilllyTavern Character card import+frontend | QQ & Telegram | Dynamic 8G VRAM scheduling+mem0 qdrant, c…"
+category = "image"
+tags = ["ai-girlfriend", "comfyui", "desktop-pet", "gpt-sovits", "image-generation", "live2d", "llm", "offline-ai"]
+repository = "https://github.com/momori777/Artemis"
+language = "Python"
+added = 2026-11-04

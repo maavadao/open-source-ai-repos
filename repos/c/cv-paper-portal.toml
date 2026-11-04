@@ -1,0 +1,7 @@
+name = "CV_Paper_Portal"
+description = "Paper Portal for Top Conferences in the Field of Computer Vision and Artificial intelligence"
+category = "vision"
+tags = ["artificial-intelligence", "computer-vision", "cvpaper-portal"]
+repository = "https://github.com/hongsong-wang/CV_Paper_Portal"
+website = "https://hongsong-wang.github.io/CV_Paper_Portal/"
+added = 2026-11-04

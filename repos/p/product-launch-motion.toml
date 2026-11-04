@@ -1,0 +1,9 @@
+name = "product-launch-motion"
+description = "Claude Code skill for Dribbble-level product launch videos from code. One shape that never cuts, springs, a cursor that drives every change, beat-synced SFX, 60 fps motion blur. v2: use with Claude Opus 5.5."
+category = "skills-prompts"
+tags = ["agent-skill", "agent-skills", "ai-agents", "anthropic", "claude", "claude-code", "claude-skill", "ffmpeg"]
+repository = "https://github.com/AbubakrChan/product-launch-motion"
+website = "https://launchvideos.app"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-04

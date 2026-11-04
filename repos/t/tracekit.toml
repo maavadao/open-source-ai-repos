@@ -1,0 +1,9 @@
+name = "Tracekit"
+description = "Tamper-evident tracing, policy gates and cross-checks for AI agents: see what the agent did, and why."
+category = "skills-prompts"
+tags = ["agent-security", "ai-agents", "ai-safety", "audit-log", "audit-trail", "certificate-transparency", "claude-code", "guardrails"]
+repository = "https://github.com/Cygnux-Labs/Tracekit"
+website = "https://cygnuxlabs.com/tracekit"
+license = "MIT"
+language = "Python"
+added = 2026-11-04

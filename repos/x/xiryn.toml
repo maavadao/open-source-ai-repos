@@ -1,0 +1,9 @@
+name = "xiryn"
+description = "Xiryn — the open-source personal agent. Does everything Muse, Grok Bot and Dots do, on your own computer: each agent gets its own Linux desktop in Docker, any model with your keys, an encrypted vault, and control from Telegram."
+category = "local-llms"
+tags = ["ai-agents", "ai-sdk", "anthropic", "byok", "computer-use", "docker", "firecrawl", "llm"]
+repository = "https://github.com/SouravBeraAkaSpeed/xiryn"
+website = "https://xiryn.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-04

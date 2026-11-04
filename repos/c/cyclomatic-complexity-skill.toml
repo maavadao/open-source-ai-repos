@@ -1,0 +1,7 @@
+name = "cyclomatic-complexity-skill"
+description = "Claude skill: refactor code to reduce cyclomatic complexity"
+category = "other"
+tags = ["agent-skills", "claude", "code-quality", "refactoring"]
+repository = "https://github.com/saurabhkumar8112/cyclomatic-complexity-skill"
+license = "Apache-2.0"
+added = 2026-11-04

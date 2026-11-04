@@ -1,0 +1,9 @@
+name = "apm-studio"
+description = "Local editor for importing, managing, running, and injecting APM-backed assistant packages."
+category = "agents"
+tags = ["agentic-ai", "ai", "apm", "apm-studio", "claude", "codex", "coding-agents", "gemini"]
+repository = "https://github.com/apm-studio/apm-studio"
+website = "https://discord.gg/amEHpsqwZP"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-04

@@ -1,0 +1,8 @@
+name = "Claude-anti-ban"
+description = "2026 最新 Claude 防封号深度指南：6 大封号原因解析 + 实战防封方案对比 + Claude Code 国内安全使用全攻略 · 持续更新"
+category = "skills-prompts"
+tags = ["anthropic", "anti-ban", "claude", "claude-ai", "claude-china", "claude-cn", "claude-code", "claude-code-chinese"]
+repository = "https://github.com/Fishason/Claude-anti-ban"
+website = "https://claude-noban.online/docs/claude-fangbao"
+license = "MIT"
+added = 2026-11-04

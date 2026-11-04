@@ -1,0 +1,9 @@
+name = "droidmind"
+description = "Control your Android devices with AI using Model Context Protocol"
+category = "mcp-servers"
+tags = ["adb", "ai", "android", "claude", "context", "llm", "mcp", "model"]
+repository = "https://github.com/hyperb1iss/droidmind"
+website = "https://hyperb1iss.github.io/droidmind/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-04

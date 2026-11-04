@@ -1,0 +1,8 @@
+name = "monarch-mcp-server"
+description = "MCP Server for use with Monarch Money"
+category = "mcp-servers"
+tags = ["finance", "mcp-server", "monarch", "monarch-money"]
+repository = "https://github.com/robcerda/monarch-mcp-server"
+license = "MIT"
+language = "Python"
+added = 2026-11-04

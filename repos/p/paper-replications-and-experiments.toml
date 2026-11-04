@@ -1,0 +1,9 @@
+name = "Paper-Replications-and-Experiments"
+description = "From-scratch PyTorch replications of classic and SOTA AI/ML papers: transformers, attention, GANs, diffusion, CLIP, LoRA, MoE, plus SFT/GRPO post-training experiments."
+category = "image"
+tags = ["attention-mechanism", "computer-vision", "deep-learning", "diffusion-models", "fine-tuning", "from-scratch", "gans", "grpo"]
+repository = "https://github.com/YuvrajSingh-mist/Paper-Replications-and-Experiments"
+website = "https://www.smolhub.com/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-11-04

@@ -1,0 +1,8 @@
+name = "pi-book"
+description = "Source-backed architecture notes on building an agent"
+category = "llm-apps"
+tags = ["agent-loop", "ai-agent", "book", "chinese", "code-reading", "llm", "pi-agent", "pi-agent-core"]
+repository = "https://github.com/antinomie-lab/pi-book"
+website = "https://books.antinomie.org/pi"
+language = "Vue"
+added = 2026-11-04

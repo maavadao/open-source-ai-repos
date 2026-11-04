@@ -1,0 +1,8 @@
+name = "comfyui-mcp-server"
+description = "lightweight Python-based MCP (Model Context Protocol) server for local ComfyUI"
+category = "mcp-servers"
+tags = ["comfyui", "comfyui-api", "image-mcp", "local-data", "local-mcp", "mcp-server"]
+repository = "https://github.com/joenorton/comfyui-mcp-server"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-04

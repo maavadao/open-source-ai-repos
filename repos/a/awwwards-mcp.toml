@@ -1,0 +1,9 @@
+name = "Awwwards-mcp"
+description = "Free, open-source MCP server that gives AI coding agents (Claude Code, Codex, Cursor, OpenCode, ZCode…) design inspiration from award-winning websites — search with real screenshots, pull design DNA, capture and record live sites. A Mobbin alternative. No API key."
+category = "mcp-servers"
+tags = ["ai-agents", "awwwards", "claude-code", "codex", "coding-agent", "cursor", "design-inspiration", "mcp"]
+repository = "https://github.com/INSANE0777/Awwwards-mcp"
+website = "https://www.npmjs.com/package/awwwards-mcp"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-04

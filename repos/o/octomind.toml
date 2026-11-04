@@ -1,0 +1,9 @@
+name = "octomind"
+description = "Open-source AI coding agent and agent runtime: one binary, any model, MCP-native. Runs in terminal, CI, or as a daemon."
+category = "mcp-servers"
+tags = ["agent-client-protocol", "agentic-ai", "ai", "ai-agents", "ai-assistant", "ai-coding-agent", "autonomous-agents", "claude-code"]
+repository = "https://github.com/Muvon/octomind"
+website = "https://octomind.run"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-04

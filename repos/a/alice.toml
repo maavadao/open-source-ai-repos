@@ -1,0 +1,7 @@
+name = "alice"
+description = "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit"
+category = "vision"
+tags = ["ai", "ai-tools", "annotation", "computer-vision", "dataset", "frigate", "nvidia-cuda", "nvidia-smi"]
+repository = "https://github.com/simoncirstoiu/alice"
+language = "JavaScript"
+added = 2026-11-04

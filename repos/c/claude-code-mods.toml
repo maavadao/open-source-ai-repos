@@ -1,0 +1,9 @@
+name = "claude-code-mods"
+description = "Claude Code mods: plugins built on hooks that add live lines above the prompt, guards, panes and games. Context bar, usage meter, Codex review watch, Markdown preview, Spotify now playing and more."
+category = "skills-prompts"
+tags = ["ai-agents", "anthropic", "claude", "claude-code", "claude-code-mod", "claude-code-mods", "claude-code-plugins", "developer-tools"]
+repository = "https://github.com/hamzafer/claude-code-mods"
+website = "https://hamzafer.github.io/claude-code-mods/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-04

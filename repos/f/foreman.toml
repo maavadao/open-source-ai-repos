@@ -1,0 +1,7 @@
+name = "foreman"
+description = "A Boris-style agentic orchestrator TUI that supervises headless Claude Code agents through a gated software-delivery pipeline — pointed at any repository."
+category = "skills-prompts"
+tags = ["agent", "agent-loop", "agent-skills", "agentic-workflow", "ai", "automation", "claude", "claude-code"]
+repository = "https://github.com/VisionForge-OU/foreman"
+language = "Python"
+added = 2026-11-04

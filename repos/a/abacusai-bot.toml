@@ -1,0 +1,9 @@
+name = "abacusai-bot"
+description = "100% free, open-source personal agents for your messaging apps, tools, and services"
+category = "local-llms"
+tags = ["agent", "ai", "ai-agents", "android", "cli", "coding-agent", "developer-tools", "electron"]
+repository = "https://github.com/abacusai/abacusai-bot"
+website = "https://bot.abacus.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-04

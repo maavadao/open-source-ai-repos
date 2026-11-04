@@ -1,0 +1,9 @@
+name = "pycantonese"
+description = "Cantonese Linguistics and NLP"
+category = "other"
+tags = ["cantonese", "computational-linguistics", "jyutping", "linguistics", "natural-language-processing", "nlp", "part-of-speech-tagging", "pycantonese"]
+repository = "https://github.com/jacksonllee/pycantonese"
+website = "https://pycantonese.org"
+license = "MIT"
+language = "Python"
+added = 2026-11-04

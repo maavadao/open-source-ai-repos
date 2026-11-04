@@ -1,0 +1,9 @@
+name = "open-browser-use"
+description = "🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple."
+category = "browser-automation"
+tags = ["ai-agent", "ai-agents", "browser-automation", "browser-use", "browser-use-agent", "cdp", "chrome-automation", "chrome-devtools-protocol"]
+repository = "https://github.com/iFurySt/open-browser-use"
+website = "https://www.ifuryst.com/en/blog/2026/open-browser-use/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-04

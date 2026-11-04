@@ -1,0 +1,8 @@
+name = "Hycli"
+description = "Websites, ready for AI. Turn website tasks into verified CLI and MCP actions, with a local dashboard and 20 languages."
+category = "mcp-servers"
+tags = ["ai-agents", "automation", "cli", "developer-tools", "local-first", "mcp", "rust", "websites"]
+repository = "https://github.com/Hybirdss/Hycli"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-04

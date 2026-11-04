@@ -1,0 +1,8 @@
+name = "claude-code-owasp"
+description = "Claude Code skill for OWASP security best practices (2025-2026). Includes Top 10:2025, ASVS 5.0, Agentic AI security, and 20+ language-specific security quirks."
+category = "skills-prompts"
+tags = ["ai-security", "appsec", "asvs", "claude", "claude-code", "claude-skills", "owasp", "secure-coding"]
+repository = "https://github.com/agamm/claude-code-owasp"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-04

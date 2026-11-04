@@ -1,0 +1,8 @@
+name = "iphone-use"
+description = "响应快 省Token， Let AI agents (Claude Code, Codex, any MCP client) drive a real iPhone · 让 AI agent 操作真实 iPhone：读屏、点击、输入、滑动，USB 或 Wi-Fi，自有 XCTest runner，可回放的 App flow。Open source, self-hosted on macOS."
+category = "mcp-servers"
+tags = ["ai-agent", "automation", "claude-code", "codex", "computer-use", "h264", "ios", "ios-automation"]
+repository = "https://github.com/leeguooooo/iphone-use"
+website = "https://iphone-use.leeguoo.com/en/"
+language = "Rust"
+added = 2026-11-04

@@ -1,0 +1,9 @@
+name = "shisei"
+description = "💃 Free CC0 mannequin pose reference library for AI image tools (Nano Banana, ChatGPT, ComfyUI, Midjourney) — 250+ poses × 5 angles in line art, names in ja/zh/en/ko"
+category = "image"
+tags = ["ai-art", "ai-image-generation", "art-reference", "cc0", "comfyui", "controlnet", "dataset", "drawing-reference"]
+repository = "https://github.com/wquguru/shisei"
+website = "https://shisei.indaloop.app"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-04

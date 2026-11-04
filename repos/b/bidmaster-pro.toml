@@ -1,0 +1,8 @@
+name = "BidMaster-Pro"
+description = "全流程 智能招投标 Agent：标书生成 · 招投标解读 · 标书检查 · 标书文档ai排版 · 商机发现 一键完成。 21 项合规检查 · 多模型切换 · RAG 知识库 · OCR 抽取。 从招标公告到可交付 docx 文档，全流程 AI 自动化。"
+category = "llm-apps"
+tags = ["agent-skills", "agentic-workflow", "ai-agent", "bid-management", "bidding", "deepseek", "mineru", "procurement"]
+repository = "https://github.com/guangshu100/BidMaster-Pro"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-11-04

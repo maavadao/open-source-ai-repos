@@ -1,0 +1,9 @@
+name = "skillz"
+description = "An MCP server for loading skills (shim for non-claude clients)."
+category = "mcp-servers"
+tags = ["agent", "ai", "mcp", "mcp-server", "skills"]
+repository = "https://github.com/intellectronica/skillz"
+website = "https://okigu.com/skillz"
+license = "MIT"
+language = "Python"
+added = 2026-11-04

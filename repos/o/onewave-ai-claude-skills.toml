@@ -1,0 +1,9 @@
+name = "claude-skills"
+description = "200+ production-ready Claude Code skills for sales, marketing, design, engineering, and AI agent architecture. Built and maintained by OneWave AI."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "anthropic", "claude", "claude-code", "claude-skills", "developer-tools", "llm"]
+repository = "https://github.com/OneWave-AI/claude-skills"
+website = "https://www.onewave-ai.com"
+license = "MIT"
+language = "Python"
+added = 2026-11-04

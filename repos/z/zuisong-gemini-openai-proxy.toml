@@ -1,0 +1,9 @@
+name = "gemini-openai-proxy"
+description = "OpenAI to Google Gemini https://gemini-openai-proxy.deno.dev"
+category = "other"
+tags = ["ai", "bun", "chatgpt-api", "deno", "deno-deploy", "gemini", "gemini-ai", "gemini-pro"]
+repository = "https://github.com/zuisong/gemini-openai-proxy"
+website = "https://gemini-openai-proxy.zuisong.workers.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-04

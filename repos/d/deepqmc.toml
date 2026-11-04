@@ -1,0 +1,8 @@
+name = "deepqmc"
+description = "Deep learning quantum Monte Carlo for electrons in real space"
+category = "ml-platforms"
+tags = ["deep-learning", "electrons", "quantum-chemistry", "quantum-monte-carlo"]
+repository = "https://github.com/deepqmc/deepqmc"
+license = "MIT"
+language = "Python"
+added = 2026-11-04

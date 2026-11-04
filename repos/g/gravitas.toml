@@ -1,0 +1,8 @@
+name = "Gravitas"
+description = "Make Gemini code like Claude Models. Forces it to inspect files before editing, plan changes, test its work, and back up every “done” with actual evidence."
+category = "skills-prompts"
+tags = ["agent-skills", "antigravity-skills", "gemini", "prompt-engineering", "skills"]
+repository = "https://github.com/udaysharmadev/Gravitas"
+license = "MIT"
+language = "Python"
+added = 2026-11-04

@@ -1,0 +1,8 @@
+name = "open-instinct"
+description = "Open Instinct: an open-source Instinct. A personal agent you text on iMessage, with its own computer and a trusted network of other agents. Built on Pi, Inkbox, Maritime and Composio."
+category = "agents"
+tags = ["agents", "ai-agents", "composio", "imessage", "inkbox", "instinct", "maritime", "open-source"]
+repository = "https://github.com/mariagorskikh/open-instinct"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-04

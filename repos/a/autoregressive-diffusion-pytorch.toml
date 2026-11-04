@@ -1,0 +1,8 @@
+name = "autoregressive-diffusion-pytorch"
+description = "Implementation of Autoregressive Diffusion in Pytorch"
+category = "ml-platforms"
+tags = ["artificial-intelligence", "autoregressive-diffusion", "deep-learning"]
+repository = "https://github.com/lucidrains/autoregressive-diffusion-pytorch"
+license = "MIT"
+language = "Python"
+added = 2026-11-04

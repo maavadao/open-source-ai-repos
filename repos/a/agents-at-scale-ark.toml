@@ -1,0 +1,9 @@
+name = "agents-at-scale-ark"
+description = "Provider-agnostic operations for agentic resources. ARK codifies patterns and practices developed across dozens of agentic application projects."
+category = "agents"
+tags = ["agentic-ai", "ai", "cloud", "devops", "kubernetes", "productid-20863"]
+repository = "https://github.com/mckinsey/agents-at-scale-ark"
+website = "https://mckinsey.github.io/agents-at-scale-ark/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-04

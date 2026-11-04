@@ -1,0 +1,9 @@
+name = "EQTransformer"
+description = "EQTransformer, a python package for earthquake signal detection and phase picking using AI."
+category = "ml-platforms"
+tags = ["attention-mechanism", "deep-learning", "detection", "earthquakes", "global", "lstm-neural-networks", "multi-task-learning", "neural-network"]
+repository = "https://github.com/smousavi05/EQTransformer"
+website = "https://rebrand.ly/EQT-documentations"
+license = "MIT"
+language = "Python"
+added = 2026-11-04

@@ -1,0 +1,8 @@
+name = "greenbubbles"
+description = "Enable your AI agents to access your WeChat history in real time"
+category = "other"
+tags = ["ai", "digital-memory", "macos", "personal-data", "skill", "sqlcipher", "swift", "wechat"]
+repository = "https://github.com/bojieli/greenbubbles"
+license = "MIT"
+language = "Rust"
+added = 2026-11-04

@@ -1,0 +1,9 @@
+name = "rllm"
+description = "Pytorch Library for Relational Table Learning with LLMs."
+category = "llm-apps"
+tags = ["deep-learning", "graph-neural-networks", "llm", "pytorch", "relational-table-learning", "tabular-learning"]
+repository = "https://github.com/rllm-team/rllm"
+website = "https://relationllm.readthedocs.io/"
+license = "MIT"
+language = "Python"
+added = 2026-11-04

@@ -1,0 +1,8 @@
+name = "ModelAssistant"
+description = "Seeed SenseCraft Model Assistant is an open-source project focused on embedded AI. 🔥🔥🔥"
+category = "vision"
+tags = ["arduino", "deep-learning", "esp32", "image-classification", "jetson", "ncnn", "object-detection", "onnx"]
+repository = "https://github.com/Seeed-Studio/ModelAssistant"
+website = "https://sensecraftma.seeed.cc/"
+language = "Python"
+added = 2026-11-04

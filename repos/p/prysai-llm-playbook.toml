@@ -1,0 +1,8 @@
+name = "Prysai-LLM-Playbook"
+description = "An evidence-led, eight-locale LLM playbook: a transferable core, the Codex flagship track, and adapters for ChatGPT, Claude Code, Gemini, DeepSeek, and Grok."
+category = "skills-prompts"
+tags = ["agent-workflows", "ai", "ai-agents", "ai-safety", "codex", "learning-resources", "llm", "prompt-engineering"]
+repository = "https://github.com/Prysai/Prysai-LLM-Playbook"
+website = "https://docs.prysai.com/llm-playbook/"
+language = "Python"
+added = 2026-11-04

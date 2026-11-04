@@ -1,0 +1,8 @@
+name = "mcp-server-odoo"
+description = "Model Context Protocol (MCP) server that enables AI assistants to securely interact with Odoo ERP systems through standardized resources and tools for data retrieval and manipulation."
+category = "mcp-servers"
+tags = ["ai", "erp", "llm", "mcp", "mcp-server", "mcp-servers", "model-context-protocol", "odoo"]
+repository = "https://github.com/ivnvxd/mcp-server-odoo"
+license = "MPL-2.0"
+language = "Python"
+added = 2026-11-04

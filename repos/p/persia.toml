@@ -1,0 +1,8 @@
+name = "PERSIA"
+description = "High performance distributed framework for training deep learning recommendation models based on PyTorch."
+category = "ml-platforms"
+tags = ["bagua", "deep-learning", "distributed-computing", "machine-learning", "persia", "pytorch", "recommender-system", "rust-lang"]
+repository = "https://github.com/PersiaML/PERSIA"
+license = "MIT"
+language = "Rust"
+added = 2026-11-04

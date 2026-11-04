@@ -1,0 +1,8 @@
+name = "reelmimic"
+description = "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you."
+category = "skills-prompts"
+tags = ["2d-animation", "ai-agents", "ai-video", "animation", "claude-code", "codex", "multi-agent", "style-transfer"]
+repository = "https://github.com/edenfunf/reelmimic"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-04

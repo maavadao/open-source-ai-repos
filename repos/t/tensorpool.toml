@@ -1,0 +1,9 @@
+name = "tensorpool"
+description = "The CLI for GPUs"
+category = "ml-platforms"
+tags = ["artificial-intelligence", "deep-learning", "gpu", "machine-learning"]
+repository = "https://github.com/tensorpool/tensorpool"
+website = "https://tensorpool.dev/"
+license = "MIT"
+language = "Python"
+added = 2026-11-04

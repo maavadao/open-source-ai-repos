@@ -1,0 +1,9 @@
+name = "Usage4Claude"
+description = "Monitor all your Claude/Codex usage limits in real-time from your macOS menu bar - supports 5-hour, 7-day, extra usage, 7-day Opus and 7-day Sonnet quotas."
+category = "skills-prompts"
+tags = ["claude", "claude-ai", "claude-code", "claude-desktop", "macos", "macos-app", "menubar-app", "monitoring"]
+repository = "https://github.com/f-is-h/Usage4Claude"
+website = "https://github.com/f-is-h/Usage4Claude"
+license = "MIT"
+language = "Swift"
+added = 2026-11-04

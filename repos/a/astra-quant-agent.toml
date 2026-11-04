@@ -1,0 +1,8 @@
+name = "astra-quant-agent"
+description = "结合多大模型分析与确定性代码风控的自主量化交易系统 ｜ Autonomous crypto trading system with multi-LLM analysis, deterministic Python risk control & OKX execution."
+category = "skills-prompts"
+tags = ["ai", "ai-agents", "ai-trading", "algorithmic-trading", "binance", "crypto-trading", "llm", "llm-agent"]
+repository = "https://github.com/0xethanq/astra-quant-agent"
+website = "https://www.astraquant.tech"
+language = "Python"
+added = 2026-11-04

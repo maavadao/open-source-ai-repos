@@ -1,0 +1,9 @@
+name = "grip"
+description = "A git hook that won't let you push code you can't explain. Quizzes you on your own diff. Works with Claude Code, Codex, Cursor."
+category = "skills-prompts"
+tags = ["ai", "claude-code", "cli", "code-review", "codex", "cursor", "developer-tools", "git-hooks"]
+repository = "https://github.com/guilyx/grip"
+website = "https://guilyx.github.io/grip/"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-11-04

@@ -1,0 +1,8 @@
+name = "registry"
+description = "Registry of agents implementing the Agent Client Protocol (ACP)"
+category = "agents"
+tags = ["acp", "agentclientprotocol", "agents", "ai", "registry"]
+repository = "https://github.com/agentclientprotocol/registry"
+website = "https://agentclientprotocol.com/registry"
+license = "Apache-2.0"
+added = 2026-11-04

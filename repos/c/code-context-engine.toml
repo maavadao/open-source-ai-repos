@@ -1,0 +1,9 @@
+name = "code-context-engine"
+description = "Save 94% on AI coding tokens. Index your codebase, agents search instead of reading files. Works with Claude Code, Codex, Copilot, Cursor, Gemini CLI. Local MCP server, free, open source."
+category = "mcp-servers"
+tags = ["ai-coding", "claude", "claude-code", "code-indexing", "codex", "copilot", "cursor", "gemini-cli"]
+repository = "https://github.com/elara-labs/code-context-engine"
+website = "https://elara-labs.github.io/code-context-engine/"
+license = "MIT"
+language = "Python"
+added = 2026-11-04

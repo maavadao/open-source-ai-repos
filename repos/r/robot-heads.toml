@@ -1,0 +1,9 @@
+name = "robot-heads"
+description = "Animated 3D robot heads for React: TV-headed bots with LED faces that show what your agent is doing."
+category = "agents"
+tags = ["ai-agents", "animation", "avatar", "canvas", "react", "robot"]
+repository = "https://github.com/fayazara/robot-heads"
+website = "https://robot-heads.fayaz.workers.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-04

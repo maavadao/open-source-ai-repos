@@ -1,0 +1,9 @@
+name = "classifier-dev"
+description = "Zero-shot text classification over plain HTTP — no API key, no account. One Cloudflare Worker, a CLI, and an MCP server. https://classifier.dev"
+category = "mcp-servers"
+tags = ["api", "classification", "cli", "cloudflare-workers", "llm", "mcp", "text-classification", "zero-shot"]
+repository = "https://github.com/mrmps/classifier-dev"
+website = "https://classifier.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-04

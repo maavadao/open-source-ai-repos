@@ -1,0 +1,9 @@
+name = "AIJack"
+description = "Security and Privacy Risk Simulator for Machine Learning (arXiv:2312.17667)"
+category = "security"
+tags = ["adversarial-attacks", "adversarial-examples", "adversarial-machine-learning", "dbms", "deep-learning", "differential-privacy", "evasion-attack", "federated-learning"]
+repository = "https://github.com/Koukyosyumei/AIJack"
+website = "https://koukyosyumei.github.io/AIJack/"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-11-04

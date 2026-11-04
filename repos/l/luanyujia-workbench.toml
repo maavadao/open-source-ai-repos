@@ -1,0 +1,9 @@
+name = "luanyujia-workbench"
+description = "多场景 AI 工作台：六层总纲 + 拓扑连线图 + 公开版工作台模板（四场景可跑，源码照搬即用）+ 记忆机制。配套集市：https://www.mydsh.xyz 。作者：https://linyujia.me 。注意：不是装完就能用，场景要按自己的内容调试。"
+category = "other"
+tags = ["ai-agent", "deepseek", "electron", "mcp", "memory", "multi-scene", "topology", "workbench"]
+repository = "https://github.com/mashanglinyu/luanyujia-workbench"
+website = "https://luanyujia.pages.dev"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-04

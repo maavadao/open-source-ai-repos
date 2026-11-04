@@ -1,0 +1,9 @@
+name = "lamindb"
+description = "Open-source data management for multimodal AI. Query, trace, and govern with a lineage-native, format-agnostic lakehouse for agents and teams. Supports biological formats and registries - by the creators of Scanpy. 🍊YC S22"
+category = "models"
+tags = ["comp-bio-ops", "context-engineering", "data-lakehouse", "data-lineage", "data-versioning", "eln", "feature-store", "lims"]
+repository = "https://github.com/laminlabs/lamindb"
+website = "https://docs.lamin.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-04

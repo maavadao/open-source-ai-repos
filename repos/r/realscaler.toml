@@ -1,0 +1,8 @@
+name = "RealScaler"
+description = "RealScaler - image/video AI upscaler app (Real-ESRGAN)"
+category = "vision"
+tags = ["amd", "anime", "compression-artifact-reduction", "deep-learning", "directx-12", "gpu", "gui-application", "intel"]
+repository = "https://github.com/Djdefrag/RealScaler"
+license = "MIT"
+language = "Python"
+added = 2026-11-04

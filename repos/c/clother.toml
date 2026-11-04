@@ -1,0 +1,8 @@
+name = "clother"
+description = "Use multiple Claude Code–compatible LLM providers from one CLI, switching profiles instantly with simple clother-* commands."
+category = "other"
+tags = ["claude", "claudecode", "cli", "vibecoding"]
+repository = "https://github.com/jolehuit/clother"
+license = "MIT"
+language = "Go"
+added = 2026-11-04

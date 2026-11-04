@@ -1,0 +1,8 @@
+name = "GigaTIME"
+description = "GigaTIME: Multimodal AI generates virtual population for tumor microenvironment modeling (Cell)"
+category = "ml-platforms"
+tags = ["deep-learning", "multiplex-immunofluorescence", "oncology", "pathology", "real-world-evidence", "spatial-proteomics"]
+repository = "https://github.com/prov-gigatime/GigaTIME"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-11-04

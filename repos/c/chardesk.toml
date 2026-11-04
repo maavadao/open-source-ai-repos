@@ -1,0 +1,9 @@
+name = "CharDesk"
+description = "A Unicode canvas for humans and AI. Draw diagrams, interfaces, and slides as editable text."
+category = "agents"
+tags = ["agent-tools", "ai-agents", "ascii-art", "canvas", "developer-tools", "diagrams", "infinite-canvas", "mcp"]
+repository = "https://github.com/Sayhi-bzb/CharDesk"
+website = "https://chardesk.com/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-04

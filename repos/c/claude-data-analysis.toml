@@ -1,0 +1,8 @@
+name = "claude-data-analysis"
+description = "Create a data analysis AI agent with Claude Code. Make data analysis as simple as having a chat!​​ 别忘了！claude code也是agent框架，类似langgraph,crewAI，autogen等等agent框架。我改造claude code搞一个数据分析智能体AI。 让数据分析变得像聊天一样简单！"
+category = "agents"
+tags = ["agent", "agentic-ai"]
+repository = "https://github.com/liangdabiao/claude-data-analysis"
+website = "https://claude-data-analysis-agent.liangdabiao.com/"
+language = "Python"
+added = 2026-11-04

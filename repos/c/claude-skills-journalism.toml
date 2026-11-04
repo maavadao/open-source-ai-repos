@@ -1,0 +1,9 @@
+name = "claude-skills-journalism"
+description = "Claude Code skills for journalism, media, and academia - verification, FOIA, data journalism, academic writing, and more"
+category = "skills-prompts"
+tags = ["academic-writing", "claude", "claude-code", "claude-skills", "data-journalism", "fact-checking", "foia", "journalism"]
+repository = "https://github.com/jamditis/claude-skills-journalism"
+website = "https://skills.amditis.tech/"
+license = "MIT"
+language = "Python"
+added = 2026-11-04

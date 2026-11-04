@@ -1,0 +1,9 @@
+name = "ai-llm-comparison"
+description = "A website where you can compare every AI Model ✨"
+category = "coding"
+tags = ["ai", "chatgpt", "collaborate", "cursor", "github", "learn", "litellm", "llm"]
+repository = "https://github.com/Ahmet-Dedeler/ai-llm-comparison"
+website = "https://llmarena.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-04

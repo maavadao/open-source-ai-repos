@@ -1,0 +1,9 @@
+name = "eleeye"
+description = "ElephantEye - a XiangQi (Chinese Chess) Engine for XQWizard with Strong AI"
+category = "other"
+tags = ["artificial-intelligence", "board-game", "chinese-chess", "xiangqi"]
+repository = "https://github.com/xqbase/eleeye"
+website = "http://www.xqbase.com/"
+license = "LGPL-2.1"
+language = "C++"
+added = 2026-11-04

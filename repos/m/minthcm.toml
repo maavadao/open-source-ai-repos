@@ -1,0 +1,9 @@
+name = "minthcm"
+description = "Open-source HCM system for managing HR processes with AI agents. Full data ownership, MCP/A2A-native, no vendor lock-in."
+category = "mcp-servers"
+tags = ["ai-agent", "hcm", "hr", "hrm", "human-capital", "human-capital-management", "human-capital-project", "human-resources"]
+repository = "https://github.com/minthcm/minthcm"
+website = "https://minthcm.org/"
+license = "AGPL-3.0"
+language = "PHP"
+added = 2026-11-04

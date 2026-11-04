@@ -1,0 +1,8 @@
+name = "cicada"
+description = "知了 Cicada · 任意会议与直播的实时字幕、同声传译、AI 会议纪要（macOS）。Live subtitles, interpreting and meeting notes for any call or stream on your Mac."
+category = "speech"
+tags = ["live-captions", "macos", "meeting-notes", "menubar-app", "simultaneous-interpretation", "speech-recognition", "subtitles", "swift"]
+repository = "https://github.com/wquguru/cicada"
+license = "Apache-2.0"
+language = "Swift"
+added = 2026-11-04

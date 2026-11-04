@@ -1,0 +1,9 @@
+name = "RMDL"
+description = "RMDL: Random Multimodel Deep Learning for Classification"
+category = "ml-platforms"
+tags = ["classification", "cnn", "convolutional-neural-networks", "data-mining", "deep-learning", "deep-neural-networks", "dnn", "ensemble-learning"]
+repository = "https://github.com/kk7nc/RMDL"
+website = "https://rmdl.readthedocs.io/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-11-04

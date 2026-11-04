@@ -1,0 +1,9 @@
+name = "Code-as-World"
+description = "Code as World: Agentic Discovery of Executable World Representations for Physical Reasoning"
+category = "coding"
+tags = ["agentic-ai", "code-generation", "discovery-loop", "physical-reasoning", "physics-simulation", "video-understanding", "vision-language-models", "world-models"]
+repository = "https://github.com/MirroS-Lab/Code-as-World"
+website = "https://mirros-lab.github.io/code-as-world/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-04

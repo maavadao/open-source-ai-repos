@@ -1,0 +1,8 @@
+name = "client"
+description = "⚡️ Gemini PHP is a community-maintained PHP API client that allows you to interact with the Gemini AI API."
+category = "other"
+tags = ["gemini", "gemini-api", "google-ai", "google-ai-client-sdk", "google-ai-studio"]
+repository = "https://github.com/google-gemini-php/client"
+license = "MIT"
+language = "PHP"
+added = 2026-11-04

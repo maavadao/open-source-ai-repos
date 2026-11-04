@@ -1,0 +1,8 @@
+name = "lab2d"
+description = "A customisable 2D platform for agent-based AI research"
+category = "ml-platforms"
+tags = ["artificial-intelligence", "deep-learning", "machine-learning"]
+repository = "https://github.com/google-deepmind/lab2d"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-11-04

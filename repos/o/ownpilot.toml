@@ -1,0 +1,9 @@
+name = "OwnPilot"
+description = "Privacy-first personal AI assistant platform with autonomous agents, tool orchestration, and multi-provider support."
+category = "agents"
+tags = ["ai", "artificial-intelligence", "assistant", "automation", "autonomous", "autonomous-agents", "personal-assistant", "workflows"]
+repository = "https://github.com/ownpilot/OwnPilot"
+website = "http://ownpilot.dev/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-04

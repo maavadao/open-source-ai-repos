@@ -1,0 +1,9 @@
+name = "cship"
+description = "⚡ A beautiful, fully customizable statusline for Claude Code - Starship-style TOML config, themeable colours, Nerd Font glyphs, and tunable cost/context/usage thresholds."
+category = "skills-prompts"
+tags = ["agentic-ai", "claude", "claude-ai", "claude-code", "claude-code-statusline"]
+repository = "https://github.com/stephenleo/cship"
+website = "https://cship.dev"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-04

@@ -1,0 +1,9 @@
+name = "floe-agent"
+description = "iPad-first, open-source iOS AI Agent with native on-device 3D/CAD editing, iPhone support and Android alpha. On-device Linux, terminal, Python/Node.js, Git and web previews; BYOK AI, Notes, Office, Canvas, voice, Skill Hub and supported local models on iOS. 开源设备端 AI 智能体工作台。"
+category = "llm-apps"
+tags = ["ai-agent", "ai-assistant", "android", "byok", "ios", "ios-ai-agent", "ipad", "ipados"]
+repository = "https://github.com/JiangNanGenius/floe-agent"
+website = "https://www.floe-agent.com/?utm_source=github&utm_medium=referral&utm_campaign=repository"
+license = "MPL-2.0"
+language = "Swift"
+added = 2026-11-04

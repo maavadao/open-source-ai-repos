@@ -1,0 +1,9 @@
+name = "metis"
+description = "Metis is a coding agent that boosts AI/LLM coding performance by 50% QQ群: 801193315"
+category = "skills-prompts"
+tags = ["agent-orchestration", "agent-skills", "agentic-workflow", "ai-agents", "ai-coding", "automated-testing", "autonomous-agents", "claude-code"]
+repository = "https://github.com/Wholiver/metis"
+website = "https://metisagent.tech/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-04

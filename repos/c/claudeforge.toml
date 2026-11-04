@@ -1,0 +1,8 @@
+name = "ClaudeForge"
+description = "A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code."
+category = "skills-prompts"
+tags = ["agentic-ai", "agentic-workflow", "claude-code", "claude-skill", "claude-subagents"]
+repository = "https://github.com/alirezarezvani/ClaudeForge"
+license = "MIT"
+language = "Python"
+added = 2026-11-04

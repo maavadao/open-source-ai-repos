@@ -1,0 +1,9 @@
+name = "Jobs_Applier_AI_Agent_AIHawk"
+description = "Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems."
+category = "browser-automation"
+tags = ["agent-skills", "agentic-ai", "ai-agent", "ai-agents", "ai-assistant", "antidetect-browser", "automation", "autonomous-agents"]
+repository = "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk"
+website = "https://github.com/feder-cr/invisible_dots/blob/main/docs/guide.md"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-04

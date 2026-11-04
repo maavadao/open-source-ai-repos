@@ -1,0 +1,9 @@
+name = "sheprd"
+description = "Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon."
+category = "agents"
+tags = ["ai-agents", "desktop-app", "developer-tools", "git-worktrees", "gpui", "herdr", "macos", "rust"]
+repository = "https://github.com/sheprd-labs/sheprd"
+website = "https://sheprd-labs.github.io/sheprd/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-04

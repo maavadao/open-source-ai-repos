@@ -1,0 +1,9 @@
+name = "talisman"
+description = "Straightforward fuzzy matching, information retrieval and NLP building blocks for JavaScript."
+category = "ml-platforms"
+tags = ["clustering", "deduplication", "fuzzy-matching", "information-retrieval", "machine-learning", "natural-language-processing", "record-linkage"]
+repository = "https://github.com/Yomguithereal/talisman"
+website = "https://yomguithereal.github.io/talisman/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-04

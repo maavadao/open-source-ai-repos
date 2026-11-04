@@ -1,0 +1,8 @@
+name = "kinetograph"
+description = "A blazingly fast programmatic video engine, made for agents."
+category = "agents"
+tags = ["agents", "ai-agents", "ffmpeg", "gpu", "hyperframes", "mcp", "motion-graphics", "programmatic-video"]
+repository = "https://github.com/0xS4N4TG/kinetograph"
+website = "https://kinetograph.dev"
+language = "TypeScript"
+added = 2026-11-04

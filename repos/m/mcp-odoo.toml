@@ -1,0 +1,9 @@
+name = "mcp-odoo"
+description = "Odoo MCP for AI agents — gated writes, multi-instance. Hosted product: https://erpipe.com"
+category = "mcp-servers"
+tags = ["agent-skills", "chatgpt", "claude-code", "erpipe", "mcp", "mcp-server", "mcp-servers", "odoo"]
+repository = "https://github.com/erpipe-org/mcp-odoo"
+website = "https://erpipe.com/"
+license = "MIT"
+language = "Python"
+added = 2026-11-04

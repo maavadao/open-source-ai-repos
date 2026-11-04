@@ -1,0 +1,8 @@
+name = "FableCodex"
+description = "🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable."
+category = "skills-prompts"
+tags = ["codex", "context-engineering", "fable-5", "prompt-engineering", "skills", "workflow"]
+repository = "https://github.com/baskduf/FableCodex"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-11-04

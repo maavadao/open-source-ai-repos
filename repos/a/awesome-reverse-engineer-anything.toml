@@ -1,0 +1,9 @@
+name = "awesome-reverse-engineer-anything"
+description = "Awesome list of AI reverse engineering and rebuilds: what AI agents took apart and recreated, and which ones really used REA (Reverse Engineer Anything)."
+category = "skills-prompts"
+tags = ["ai-agents", "ai-reverse-engineering", "awesome", "awesome-list", "case-studies", "claude-code", "clean-room", "codex"]
+repository = "https://github.com/AIshihzong/awesome-reverse-engineer-anything"
+website = "https://github.com/AIshihzong/awesome-reverse-engineer-anything/blob/main/docs/by-app.md"
+license = "CC0-1.0"
+language = "Python"
+added = 2026-11-04

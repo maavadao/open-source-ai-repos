@@ -1,0 +1,9 @@
+name = "SOMA"
+description = "Desktop app for designing parametric 3D models in CadQuery together with the coding agent of your choice"
+category = "skills-prompts"
+tags = ["3d-modeling", "3d-printing", "3d-printing-tools", "agent", "agentic-ai", "ai-cad", "cad", "cadquery"]
+repository = "https://github.com/Kai-Jungsthoefel/SOMA"
+website = "https://somacad.app/"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-11-04

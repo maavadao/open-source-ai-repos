@@ -1,0 +1,8 @@
+name = "crosspet"
+description = "跨 AI 桌宠：跟着你用的 AI 换形象、跟着 AI 的工作状态做动作"
+category = "skills-prompts"
+tags = ["ai", "anime", "antigravity", "chatgpt", "claude", "claude-code", "codex", "deepseek"]
+repository = "https://github.com/lokicorvus/crosspet"
+website = "https://github.com/lokicorvus/crosspet/releases/latest"
+language = "C#"
+added = 2026-11-04

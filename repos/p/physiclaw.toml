@@ -1,0 +1,9 @@
+name = "PhysiClaw"
+description = "The AI agent that physically operates a phone — the way you do."
+category = "agents"
+tags = ["agentic-ai", "ai-agent", "embodied-agent", "embodied-ai", "gui-agent", "gui-agents", "phone-automation", "phone-use"]
+repository = "https://github.com/physiclaw/PhysiClaw"
+website = "https://physiclaw.ai"
+license = "MIT"
+language = "Python"
+added = 2026-11-04

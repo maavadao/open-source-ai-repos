@@ -1,0 +1,9 @@
+name = "nativ"
+description = "Nativ is an open-source local AI app for Mac. It runs open AI models on Apple Silicon, and nothing leaves your Mac."
+category = "llm-apps"
+tags = ["apple-silicon", "llm", "local-ai", "macos", "mlx", "offline-ai", "on-device-ai", "swiftui"]
+repository = "https://github.com/Neywa-Labs/nativ"
+website = "https://neywa-labs.github.io/nativ/"
+license = "MIT"
+language = "Swift"
+added = 2026-11-04

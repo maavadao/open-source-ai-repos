@@ -1,0 +1,7 @@
+name = "mcd-1024-skill"
+description = "McDonald's China MCP innovation skill - entry for MCD Developer Innovation Challenge 2026 (1024 Programmers' Day)"
+category = "mcp-servers"
+tags = ["ai-agent", "mcdonalds", "mcp", "skill", "workbuddy"]
+repository = "https://github.com/zhuxian518/mcd-1024-skill"
+license = "MIT"
+added = 2026-11-04
