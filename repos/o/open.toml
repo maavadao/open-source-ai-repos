@@ -1,0 +1,9 @@
+name = "open"
+description = "Self-hosted AI visibility tracking (AEO / GEO / LLMO). Track how ChatGPT, Claude, Perplexity, Gemini and Google AI Overviews mention and cite your brand. One Go binary, SQLite, MCP-first, bring your own keys."
+category = "mcp-servers"
+tags = ["aeo", "ai-search-optimization", "ai-seo", "ai-visibility", "ai-visibility-tracker", "answer-engine-optimization", "brand-monitoring", "chatgpt"]
+repository = "https://github.com/limelit-co/open"
+website = "https://limelit.co"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-11-05

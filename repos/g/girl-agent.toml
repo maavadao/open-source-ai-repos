@@ -1,0 +1,8 @@
+name = "girl-agent"
+description = "ИИ-девушка с человеческим поведением: сон, настроение, расписание, память, стадии отношений и конфликты. Userbot mode через MTProto — реагирует, печатает, ставит реакции. Anti-AI промпт убирает ChatGPT-повадки. Не чат-бот — персонаж с состоянием."
+category = "agents"
+tags = ["agents", "ai", "ai-agents", "aigirl", "aigirlfriend", "anti-ai-slop", "chatbot", "chatgpt"]
+repository = "https://github.com/AnnenkovLabs/girl-agent"
+website = "https://oss.girl-agent.com/"
+language = "TypeScript"
+added = 2026-11-05

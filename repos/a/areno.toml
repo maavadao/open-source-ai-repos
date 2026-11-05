@@ -1,0 +1,8 @@
+name = "AReno"
+description = "An easy-to-use, fast toolkit to scale up RL post-training on a single node."
+category = "local-llms"
+tags = ["agent", "agentic-ai", "grpo", "llm", "local-ai", "local-llm", "machine-learning", "post-training"]
+repository = "https://github.com/inclusionAI/AReno"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-05

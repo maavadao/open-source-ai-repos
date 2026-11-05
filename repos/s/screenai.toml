@@ -1,0 +1,9 @@
+name = "ScreenAI"
+description = "Implementation of the ScreenAI model from the paper: \"A Vision-Language Model for UI and Infographics Understanding\""
+category = "ml-platforms"
+tags = ["ai", "artificial-intelligence", "attention", "attention-is-all-you-need", "gpt-4", "machine-learning", "ml", "pytorch"]
+repository = "https://github.com/kyegomez/ScreenAI"
+website = "https://discord.gg/GYbXvDGevY"
+license = "MIT"
+language = "Python"
+added = 2026-11-05

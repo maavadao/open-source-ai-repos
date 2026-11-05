@@ -1,0 +1,8 @@
+name = "nlp"
+description = "[UNMANTEINED] Extract values from strings and fill your structs with nlp."
+category = "other"
+tags = ["go", "golang", "natural-language-processing", "nlp", "parse", "text", "text-extraction"]
+repository = "https://github.com/shixzie/nlp"
+license = "MIT"
+language = "Go"
+added = 2026-11-05

@@ -1,0 +1,9 @@
+name = "slideflow"
+description = "Powerful, open-source AI tools for digital pathology."
+category = "ml-platforms"
+tags = ["computational-pathology", "deep-learning", "histology", "histopathology", "machine-learning", "pathology", "python", "whole-slide-imaging"]
+repository = "https://github.com/slideflow/slideflow"
+website = "https://slideflow.dev"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-05

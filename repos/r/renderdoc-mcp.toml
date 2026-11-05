@@ -1,0 +1,8 @@
+name = "renderdoc-mcp"
+description = "An MCP server for RenderDoc: Empowering AI assistants to analyze GPU frame captures and debug graphics pipelines."
+category = "mcp-servers"
+tags = ["claude", "codex", "graphics-debugging", "mcp", "opengl", "renderdoc", "vulkan"]
+repository = "https://github.com/JiaboLi-GitHub/renderdoc-mcp"
+license = "MIT"
+language = "C++"
+added = 2026-11-05

@@ -1,0 +1,9 @@
+name = "sec-edgar-mcp"
+description = "A SEC EDGAR MCP (Model Context Protocol) Server"
+category = "mcp-servers"
+tags = ["ai", "artificial-intelligence", "edgar", "edgar-database", "finance", "genai", "llm", "mcp"]
+repository = "https://github.com/stefanoamorelli/sec-edgar-mcp"
+website = "https://sec-edgar-mcp.amorelli.tech/"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-11-05

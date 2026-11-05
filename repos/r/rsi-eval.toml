@@ -1,0 +1,8 @@
+name = "rsi_eval"
+description = "A lightweight Python SDK and CLI for evaluating recursive self-improvement (RSI) methods across agent benchmarks."
+category = "agents"
+tags = ["ai-agents", "benchmarking", "llm-evaluation", "python", "recursive-self-improvement", "rsi"]
+repository = "https://github.com/Danielxu0208/rsi_eval"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-05

@@ -1,0 +1,8 @@
+name = "rea-video"
+description = "Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, cuts and audio were made, and how to remake it. 逆向一切视频，逐镜拆出制作方式并给出复刻方案。"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-video", "aigc-detection", "claude-code", "codex", "douyin", "ffmpeg", "prompt-engineering"]
+repository = "https://github.com/JuneYaooo/rea-video"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-05

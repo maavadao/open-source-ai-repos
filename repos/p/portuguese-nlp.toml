@@ -1,0 +1,6 @@
+name = "Portuguese-NLP"
+description = "List of resources and tools developed with focus on Portuguese."
+category = "other"
+tags = ["nlp", "portuguese", "portuguese-language"]
+repository = "https://github.com/ajdavidl/Portuguese-NLP"
+added = 2026-11-05

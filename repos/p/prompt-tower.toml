@@ -1,0 +1,9 @@
+name = "prompt-tower"
+description = "Context management for long-context LLMs, agents, and vibe coding. Instantly build context for an entire repo, selected files, folders, and GitHub issues to generate structured AI-XML context with real-time token counting."
+category = "skills-prompts"
+tags = ["ai-context-management", "code-assistant", "llm-context", "llm-prompting", "prompt-context", "prompt-engineering", "prompt-generator", "vibe-coding"]
+repository = "https://github.com/backnotprop/prompt-tower"
+website = "https://prompttower.com"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-11-05

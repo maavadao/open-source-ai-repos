@@ -1,0 +1,9 @@
+name = "MARS"
+description = "REST framework for Delphi: JAX-RS style resources and routes, servers and clients, JWT, OpenAPI 3, FireDAC and Devart UniDAC/MyDAC/IBDAC, SSE, MCP servers for AI agents. Windows, Linux, Docker."
+category = "mcp-servers"
+tags = ["delphi", "devart", "docker", "firedac", "http-server", "ibdac", "jwt", "linux"]
+repository = "https://github.com/andrea-magni/MARS"
+website = "https://andrea-magni.github.io/MARS/"
+license = "MPL-2.0"
+language = "Pascal"
+added = 2026-11-05

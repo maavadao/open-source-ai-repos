@@ -1,0 +1,9 @@
+name = "Tracely-ai"
+description = "Trace-native CI/CD for AI agents — production failures become regression tests that block the PR. Auto-detect, cluster, freeze into hermetic cases, replay in CI for $0."
+category = "agents"
+tags = ["agent", "agent-observability", "ai-agents", "ci-cd", "clickhouse", "evals", "evaluation", "llm"]
+repository = "https://github.com/Jwuthri/Tracely-ai"
+website = "https://tracely-ai.com"
+license = "MIT"
+language = "Python"
+added = 2026-11-05

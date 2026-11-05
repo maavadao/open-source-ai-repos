@@ -1,0 +1,9 @@
+name = "ai"
+description = "AI features and experiments for WordPress. Modular framework for testing AI capabilities."
+category = "other"
+tags = ["abilities", "ai", "artificial-intelligence", "experiments", "mcp", "plugin", "wordpress", "wordpress-plugin"]
+repository = "https://github.com/WordPress/ai"
+website = "https://wordpress.org/plugins/ai/"
+license = "GPL-2.0"
+language = "PHP"
+added = 2026-11-05

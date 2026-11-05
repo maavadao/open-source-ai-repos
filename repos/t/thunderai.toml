@@ -1,0 +1,9 @@
+name = "ThunderAI"
+description = "ThunderAI is a Thunderbird Addon that uses the capabilities of ChatGPT, Gemini, Claude or Ollama to enhance email management."
+category = "local-llms"
+tags = ["anthropic", "anthropic-api", "chatgpt", "chatgpt-app", "gemini", "gemini-ai", "gemini-api", "javascript"]
+repository = "https://github.com/micz/ThunderAI"
+website = "https://micz.it/thunderbird-addon-thunderai/"
+license = "GPL-3.0"
+language = "JavaScript"
+added = 2026-11-05

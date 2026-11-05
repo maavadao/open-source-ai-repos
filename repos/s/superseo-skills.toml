@@ -1,0 +1,8 @@
+name = "superseo-skills"
+description = "11 Claude skills for SEO: page audits, linkbuilding, article writing, E-E-A-T audits, semantic gap analysis, link building. Methodology from Koray Tuğberk, Kyle Roof, and Lily Ray, plus a generation-time anti-AI-slop ruleset. Production-tested at InhouseSEO"
+category = "skills-prompts"
+tags = ["ai-agents", "ai-seo", "claude", "claude-ai", "claude-code", "claude-skills", "content-marketing", "google-search-console"]
+repository = "https://github.com/inhouseseo/superseo-skills"
+website = "https://inhouseseo.ai"
+license = "Apache-2.0"
+added = 2026-11-05

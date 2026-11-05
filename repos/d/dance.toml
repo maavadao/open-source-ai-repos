@@ -1,0 +1,9 @@
+name = "dance"
+description = "DANCE: a deep learning library and benchmark platform for single-cell analysis"
+category = "data-science"
+tags = ["benchmark", "bioinformatics", "computational-biology", "dance", "data-science", "deep-learning", "graph-neural-networks", "machine-learning"]
+repository = "https://github.com/OmicsML/dance"
+website = "https://pydance.readthedocs.io"
+license = "BSD-2-Clause"
+language = "Python"
+added = 2026-11-05

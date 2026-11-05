@@ -1,0 +1,9 @@
+name = "claude-code-usage-bar"
+description = "Lightweight Claude Code statusLine: 5h/7d rate-limit usage, reset countdowns, model + context window, prompt-cache age — one line, 3 styles × 9 themes, daemon fast-mode"
+category = "skills-prompts"
+tags = ["ai-tools", "anthropic", "claude", "claude-ai", "claude-code", "cli-tool", "developer-tools", "monitoring"]
+repository = "https://github.com/leeguooooo/claude-code-usage-bar"
+website = "https://pypi.org/project/claude-statusbar/"
+license = "MIT"
+language = "Python"
+added = 2026-11-05

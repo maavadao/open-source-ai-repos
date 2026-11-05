@@ -1,0 +1,8 @@
+name = "genai-code-review"
+description = "GitHub Action that reviews pull request diffs with an LLM and posts the comments on the PR"
+category = "coding"
+tags = ["code-review", "genai", "github-actions", "llm", "openai"]
+repository = "https://github.com/cirolini/genai-code-review"
+license = "MIT"
+language = "Python"
+added = 2026-11-05

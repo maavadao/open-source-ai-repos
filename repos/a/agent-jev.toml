@@ -1,0 +1,8 @@
+name = "agent-jev"
+description = "AgentJev-0.6B - a fast 'System One' decision model for AI Agents: feed it any unstructured state (diffs, traces, logs) and structured questions, get calibrated probability distributions back in one ~50ms forward pass. Zero output-token decoding."
+category = "agents"
+tags = ["ai", "ai-agents", "ai-tools", "jev", "jev-model"]
+repository = "https://github.com/malevrigns/agent-jev"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-05

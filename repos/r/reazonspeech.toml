@@ -1,0 +1,9 @@
+name = "ReazonSpeech"
+description = "Massive open Japanese speech corpus"
+category = "speech"
+tags = ["asr", "nlp"]
+repository = "https://github.com/reazon-research/ReazonSpeech"
+website = "https://research.reazon.jp/projects/ReazonSpeech/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-05

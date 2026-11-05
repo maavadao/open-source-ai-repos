@@ -1,0 +1,9 @@
+name = "dsh-codex-subscription"
+description = "Use your ChatGPT Plus / Pro (Codex) subscription in DeepSeek Harness (DSH): GPT-6 & Codex models, images, web search and quota via ChatGPT sign-in — no OpenAI API key. Beta: control DSH from the ChatGPT mobile app. 在 DSH 中使用 ChatGPT 订阅，并可用 ChatGPT 手机 App 远程控制。"
+category = "image"
+tags = ["ai-agent", "chatgpt", "chatgpt-plus", "chatgpt-pro", "chatgpt-subscription", "codex", "codex-cli-alternative", "codex-subscription"]
+repository = "https://github.com/WSL043/dsh-codex-subscription"
+website = "https://www.npmjs.com/package/dsh-codex-subscription"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-05

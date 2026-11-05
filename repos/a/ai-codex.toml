@@ -1,0 +1,8 @@
+name = "ai-codex"
+description = "Generate a compact codebase index for AI assistants — saves 50K+ tokens per conversation"
+category = "skills-prompts"
+tags = ["ai-coding", "claude", "claude-code", "codebase-index", "cursor", "developer-tools", "llm-tools", "nextjs"]
+repository = "https://github.com/skibidiskib/ai-codex"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-05

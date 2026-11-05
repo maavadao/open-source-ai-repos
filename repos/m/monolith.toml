@@ -1,0 +1,9 @@
+name = "monolith"
+description = "MCP plugin for Unreal Engine 5.7 & 5.8 — gives AI assistants full read/write access to Blueprints, Materials, Niagara, Animation, Mesh, AI, GAS, Logic Driver, ComboGraph, UI, Audio, plus Reflection Intelligence (decision / risk / C++ reflection / replication queries). 1,400+ actions across 25+ name…"
+category = "mcp-servers"
+tags = ["ai", "ai-tools", "animation", "audio", "blueprint", "claude", "claude-code", "cursor"]
+repository = "https://github.com/tumourlove/monolith"
+website = "https://github.com/tumourlove/monolith/wiki"
+license = "MIT"
+language = "C++"
+added = 2026-11-05

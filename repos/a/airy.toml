@@ -1,0 +1,9 @@
+name = "airy"
+description = "💬 Open Source App Framework to build streaming apps with real-time data - 💎 Build real-time data pipelines and make real-time data universally accessible - 🤖 Join historical and real-time data in the stream to create smarter ML and AI applications. - ⚡ Standardize complex data ingestion and stream…"
+category = "other"
+tags = ["airy", "bot", "bots", "cloud", "conversational-ai", "conversational-bots", "ingestion-platform", "kafka"]
+repository = "https://github.com/airyhq/airy"
+website = "https://airy.co/docs/core"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-11-05

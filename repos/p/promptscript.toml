@@ -1,0 +1,9 @@
+name = "promptscript"
+description = "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant."
+category = "skills-prompts"
+tags = ["ai-tools", "antigravity", "claude", "cli", "cursor", "developer-experience", "devtools", "enterprise"]
+repository = "https://github.com/mrwogu/promptscript"
+website = "https://getpromptscript.dev/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-05

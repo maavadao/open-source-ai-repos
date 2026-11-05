@@ -1,0 +1,9 @@
+name = "tableau-mcp"
+description = "Tableau's official MCP Server. Helping agents see and understand data."
+category = "mcp-servers"
+tags = ["mcp", "mcp-server", "modelcontextprotocol", "tableau"]
+repository = "https://github.com/tableau/tableau-mcp"
+website = "https://tableau.github.io/tableau-mcp/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-05

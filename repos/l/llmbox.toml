@@ -1,0 +1,8 @@
+name = "llmbox"
+description = "GPTBox - a third-party client for OpenAI API."
+category = "chat"
+tags = ["app", "chat", "chatgpt", "flutter", "gpt", "openai"]
+repository = "https://github.com/lollipopkit/llmbox"
+license = "GPL-3.0"
+language = "Dart"
+added = 2026-11-05

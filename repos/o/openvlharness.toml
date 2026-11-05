@@ -1,0 +1,9 @@
+name = "OpenVLHarness"
+description = "Official Code for OpenVLHarness: Real-World Visual Agentic Tool‑Use with Multimodal Memory"
+category = "agents"
+tags = ["agent-harness", "agent-skills", "agentic-ai", "ai-agents", "coding-agent", "deep-research", "efficiency", "grounded-reasoning"]
+repository = "https://github.com/uclanlp/OpenVLHarness"
+website = "https://openvlharness.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-11-05

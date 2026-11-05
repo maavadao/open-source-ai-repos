@@ -1,0 +1,9 @@
+name = "sopify"
+description = "Resumable, traceable AI coding — plans, handoffs, and evidence stay with the repo across hosts."
+category = "coding"
+tags = ["adaptive-workflow", "ai-coding", "claude", "codex", "config-driven", "resumable", "skills"]
+repository = "https://github.com/evidentloop/sopify"
+website = "https://evidentloop.github.io/sopify/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-05

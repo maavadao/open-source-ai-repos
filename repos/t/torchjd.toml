@@ -1,0 +1,8 @@
+name = "TorchJD"
+description = "Library for Jacobian descent with PyTorch. It enables the optimization of neural networks with multiple losses (e.g. multi-task learning)."
+category = "ml-platforms"
+tags = ["deep-learning", "jacobian-descent", "multi-objective-optimization", "multi-task-learning", "multiobjective-optimization", "multitask-learning", "optimization", "python"]
+repository = "https://github.com/SimplexLab/TorchJD"
+website = "https://torchjd.org"
+language = "Python"
+added = 2026-11-05

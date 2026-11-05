@@ -1,0 +1,9 @@
+name = "KIKUmap"
+description = "A mind map for your Claude/ChatGPT chats — macOS menu-bar app"
+category = "other"
+tags = ["claude", "gpt", "mac", "menu-bar-app", "mind-map", "open-source", "swift"]
+repository = "https://github.com/tang1693/KIKUmap"
+website = "https://tang1693.github.io/KIKUmap/"
+license = "MIT"
+language = "Swift"
+added = 2026-11-05

@@ -1,0 +1,8 @@
+name = "mcpsnoop"
+description = "Wireshark for MCP. A transparent proxy between your AI client and MCP server. Watch every call live in your terminal, fail CI on what it finds, export OpenTelemetry spans."
+category = "mcp-servers"
+tags = ["bubbletea", "ci", "claude", "cli", "codex", "cursor", "debugging", "devtools"]
+repository = "https://github.com/kerlenton/mcpsnoop"
+license = "MIT"
+language = "Go"
+added = 2026-11-05

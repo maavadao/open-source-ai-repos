@@ -1,0 +1,9 @@
+name = "llm-inference-engineering"
+description = "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs."
+category = "llm-apps"
+tags = ["inference-engineering", "inference-optimization", "large-language-models", "llm", "llm-engineering", "llm-inference", "llms"]
+repository = "https://github.com/amitshekhariitbhu/llm-inference-engineering"
+website = "https://outcomeschool.com/program/ai-and-machine-learning"
+license = "Apache-2.0"
+language = "Markdown"
+added = 2026-11-05

@@ -1,0 +1,9 @@
+name = "AgentKit"
+description = "Ready to Deploy Fullstack OpenSource Agentic Apps"
+category = "agents"
+tags = ["agents", "ai", "good-first-issue", "hacktoberfest", "nocode", "nocode4prod"]
+repository = "https://github.com/Lamatic/AgentKit"
+website = "https://git.new/agentkit"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-05

@@ -1,0 +1,9 @@
+name = "flutter-skill"
+description = "AI-powered E2E testing for 10 platforms. 253 MCP tools. Zero config. Works with Claude, Cursor, Windsurf, Copilot. Test Flutter, React Native, iOS, Android, Web, Electron, Tauri, KMP, .NET MAUI — all from natural language."
+category = "mcp-servers"
+tags = ["ai", "ai-testing", "android", "automation", "claude", "cross-platform", "cursor", "e2e-testing"]
+repository = "https://github.com/ai-dashboad/flutter-skill"
+website = "https://ai-dashboad.github.io/flutter-skill/"
+license = "MIT"
+language = "Dart"
+added = 2026-11-05

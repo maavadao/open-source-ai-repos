@@ -1,0 +1,9 @@
+name = "useagent"
+description = "The open-source Devin alternative. Run Claude Code, Codex or OpenCode in isolated cloud workspaces you can self-host."
+category = "skills-prompts"
+tags = ["agents", "ai", "ai-agents", "automation", "autonomous-agents", "claude", "claude-code", "codex"]
+repository = "https://github.com/useagenthq/useagent"
+website = "https://app.useagent.org"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-11-05

@@ -1,0 +1,8 @@
+name = "LastChat"
+description = "A Fork of Rikkahub with an overhauled UI and feature additions"
+category = "chat"
+tags = ["ai", "ai-assistant", "ai-roleplay", "android", "android-app", "android-application", "api-client", "byok"]
+repository = "https://github.com/Cocolalilal/LastChat"
+license = "AGPL-3.0"
+language = "Kotlin"
+added = 2026-11-05

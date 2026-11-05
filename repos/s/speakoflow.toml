@@ -1,0 +1,9 @@
+name = "SpeakoFlow"
+description = "Free, open-source offline voice dictation for Windows, macOS, and Linux. A Wispr Flow alternative with an AI assistant that can read your screen on request and answer questions."
+category = "speech"
+tags = ["ai-assistant", "cross-platform", "dictation", "local-first", "offline-speech-recognition", "privacy-focused", "rust", "speech-to-text"]
+repository = "https://github.com/AbhishekBarali/SpeakoFlow"
+website = "https://www.speakoflow.com"
+license = "MIT"
+language = "Rust"
+added = 2026-11-05

@@ -1,0 +1,7 @@
+name = "awesome-ai-leaderboard"
+description = "A curated list of awesome leaderboard-oriented resources for AI domain"
+category = "learning"
+tags = ["ai-agent", "artificial-intelligence", "awesome-list", "benchmark", "deep-learning", "evaluation", "foundation-model", "large-ai-model"]
+repository = "https://github.com/SAILResearch/awesome-ai-leaderboard"
+website = "https://sailresearch.github.io/awesome-ai-leaderboard/"
+added = 2026-11-05

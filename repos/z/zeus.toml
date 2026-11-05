@@ -1,0 +1,9 @@
+name = "zeus"
+description = "Measure and optimize the energy consumption of your AI applications!"
+category = "ml-platforms"
+tags = ["deep-learning", "energy", "mlsys"]
+repository = "https://github.com/ml-energy/zeus"
+website = "https://ml.energy/zeus"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-05

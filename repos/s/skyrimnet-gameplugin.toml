@@ -1,0 +1,8 @@
+name = "SkyrimNet-GamePlugin"
+description = "AI NPCs for Skyrim that talk, remember, react and act, voiced in real time. By Fateless."
+category = "speech"
+tags = ["ai-npc", "llm", "skse", "skyrim", "skyrim-mod", "text-to-speech"]
+repository = "https://github.com/MinLL/SkyrimNet-GamePlugin"
+website = "https://fateless.ai"
+language = "Papyrus"
+added = 2026-11-05

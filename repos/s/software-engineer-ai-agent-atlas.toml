@@ -1,0 +1,8 @@
+name = "Software-Engineer-AI-Agent-Atlas"
+description = "SWE-ATLAS turns Claude Code into a senior AI software engineer agent: multi-project workspaces with memory, wireframe & prototype first planning, secrets kept out of chat, psql, browser QA runners, and CI/CD-aware deploys. One command: npx swe-atlas new-project"
+category = "skills-prompts"
+tags = ["ai-agent", "ai-coding-agent", "ai-coding-assistant", "ai-software-engineer", "anthropic", "claude", "claude-code", "claude-code-agents"]
+repository = "https://github.com/syahiidkamil/Software-Engineer-AI-Agent-Atlas"
+website = "https://www.npmjs.com/package/swe-atlas"
+language = "JavaScript"
+added = 2026-11-05

@@ -1,0 +1,8 @@
+name = "awesome-jev-live"
+description = "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours."
+category = "mcp-servers"
+tags = ["ai-agents", "artificial-intelligence", "awesome", "awesome-jev", "awesome-list", "calibration", "curated-list", "decision-making"]
+repository = "https://github.com/wh000wh000/awesome-jev-live"
+website = "https://wh000wh000.github.io/awesome-jev-live/"
+language = "Python"
+added = 2026-11-05

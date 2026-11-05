@@ -1,0 +1,8 @@
+name = "computer-use-mcp"
+description = "💻 Give AI models complete control of your computer (probably a bad idea)"
+category = "mcp-servers"
+tags = ["mcp-server", "model-context-protocol"]
+repository = "https://github.com/domdomegg/computer-use-mcp"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-05

@@ -1,0 +1,9 @@
+name = "yoagent"
+description = "The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker."
+category = "agents"
+tags = ["agent", "agent-framework", "ai", "ai-agents", "anthropic", "aws-bedrock", "claude", "cloudflare-workers"]
+repository = "https://github.com/yologdev/yoagent"
+website = "https://yologdev.github.io/yoagent/"
+license = "MIT"
+language = "Rust"
+added = 2026-11-05

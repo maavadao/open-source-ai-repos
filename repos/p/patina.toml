@@ -1,0 +1,9 @@
+name = "patina"
+description = "AI-writing humanizer for KO/EN/ZH/JA"
+category = "skills-prompts"
+tags = ["ai-detection", "ai-humanizer", "ai-writing", "claude", "claude-code", "codex", "cursor", "humanizer"]
+repository = "https://github.com/devswha/patina"
+website = "https://patina.vibetip.help/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-05

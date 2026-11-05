@@ -1,0 +1,7 @@
+name = "MultiMed"
+description = "[LREC-COLING 2024 (Oral), Interspeech 2024 (Oral), NAACL 2025, ACL 2025, EMNLP 2025] A Series of Multilingual Multitask Medical Speech Processing"
+category = "ml-platforms"
+tags = ["artificial-intelligence", "automatic-speech-recognition", "deep-learning", "machine-learning", "named-entity-recognition", "natural-language-processing", "speech-summarization"]
+repository = "https://github.com/leduckhai/MultiMed"
+language = "Python"
+added = 2026-11-05

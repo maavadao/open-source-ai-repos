@@ -1,0 +1,8 @@
+name = "mcp-aktools"
+description = "📈 提供股票、加密货币的数据查询和分析功能MCP服务器"
+category = "mcp-servers"
+tags = ["akshare", "aktools", "btc", "crypto", "llm", "mcp", "mcp-server", "stock"]
+repository = "https://github.com/aahl/mcp-aktools"
+license = "MIT"
+language = "Python"
+added = 2026-11-05

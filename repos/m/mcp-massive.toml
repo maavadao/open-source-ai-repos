@@ -1,0 +1,8 @@
+name = "mcp_massive"
+description = "An MCP server for Massive.com Financial Market Data"
+category = "mcp-servers"
+tags = ["cryptocurrency", "fintech", "llm", "market-data", "mcp", "mcp-server", "options", "stocks"]
+repository = "https://github.com/massive-com/mcp_massive"
+license = "MIT"
+language = "Python"
+added = 2026-11-05

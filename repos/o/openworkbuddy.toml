@@ -1,0 +1,8 @@
+name = "openworkbuddy"
+description = "本机优先的 AI 办公工作台 · A local-first AI office workbench. Turn requests and source material into editable PPTX, DOCX, XLSX and HTML files. Choose your own models, Skills and MCP tools; inspect execution and results."
+category = "mcp-servers"
+tags = ["agent-harness", "ai-agent", "ai-office-agent", "byok", "claude-code", "claude-cowork-alternative", "codex-alternative", "deepseek"]
+repository = "https://github.com/CatCatUncle/openworkbuddy"
+website = "https://openworkbuddy.work"
+language = "JavaScript"
+added = 2026-11-05

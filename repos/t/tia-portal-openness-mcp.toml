@@ -1,0 +1,9 @@
+name = "TIA_Portal_Openness_MCP"
+description = "Drive Siemens TIA Portal V20/V21 (STEP 7, WinCC Unified) from any MCP client — create projects, generate PLC & HMI, compile & diagnose. Prebuilt runtime, no Openness coding required."
+category = "mcp-servers"
+tags = ["ai-agent", "claude-code", "cursor", "industrial-automation", "ladder-logic", "llm", "mcp", "model-context-protocol"]
+repository = "https://github.com/bulaofen0036-coder/TIA_Portal_Openness_MCP"
+website = "https://aeenhance.com"
+license = "MIT"
+language = "C#"
+added = 2026-11-05

@@ -1,0 +1,8 @@
+name = "agent-config"
+description = "My coding agent config"
+category = "other"
+tags = ["claude", "claudecode"]
+repository = "https://github.com/brianlovin/agent-config"
+website = "https://brianlovin.com"
+language = "Shell"
+added = 2026-11-05

@@ -1,0 +1,8 @@
+name = "lc-studylab"
+description = "LC-StudyLab 是一个完整演示 LangChain v1.0 全家桶能力的开源项目，整合了 LangGraph、DeepAgents、RAG 检索增强生成、Guardrails 安全校验与流式输出智能体等核心特性，帮助开发者系统掌握 LangChain v1 的所有关键组件"
+category = "llm-apps"
+tags = ["langchain", "langgraph"]
+repository = "https://github.com/leonyangdev/lc-studylab"
+license = "MIT"
+language = "Python"
+added = 2026-11-05

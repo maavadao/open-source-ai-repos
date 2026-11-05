@@ -1,0 +1,9 @@
+name = "container"
+description = "Persistent Linux workspaces for agentic development."
+category = "skills-prompts"
+tags = ["anthropic", "anthropic-claude", "chatgpt", "claude", "claude-ai", "claude-code", "claude-code-plugin", "claude-skills"]
+repository = "https://github.com/aerovato/container"
+website = "https://container.aerovato.com"
+license = "BSD-3-Clause"
+language = "TypeScript"
+added = 2026-11-05

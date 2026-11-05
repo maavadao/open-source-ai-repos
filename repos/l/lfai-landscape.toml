@@ -1,0 +1,8 @@
+name = "lfai-landscape"
+description = "🌄 Open Source AI & Data Landscape - provides overview of top tier projects in the open source AI and Data ecosystem, shows projects through GitHub data, funding or market cap, first and last commits, contributor count and much other information."
+category = "ml-platforms"
+tags = ["artificial-intelligence", "crunchbase", "data", "deep-learning", "landscape", "lfdl-landscape", "logo", "machine-learning"]
+repository = "https://github.com/lfai/lfai-landscape"
+website = "https://l.lfai.foundation/"
+license = "Apache-2.0"
+added = 2026-11-05

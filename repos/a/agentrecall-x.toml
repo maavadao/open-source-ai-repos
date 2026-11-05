@@ -1,0 +1,8 @@
+name = "AgentRecall-X"
+description = "Correction-first persistent memory for AI agents. MCP server + SDK + CLI. Compounds across sessions."
+category = "mcp-servers"
+tags = ["agent-learning", "agent-memory", "ai-memory-systems", "claude-code", "claude-mcp", "correction-tracking", "mcp-server", "memory-palace"]
+repository = "https://github.com/Goldentrii/AgentRecall-X"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-05

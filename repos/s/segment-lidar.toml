@@ -1,0 +1,9 @@
+name = "segment-lidar"
+description = "Python package for segmenting LiDAR data using Segment-Anything Model (SAM) from Meta AI."
+category = "ml-platforms"
+tags = ["artificial-intelligence", "deep-learning", "lidar", "machine-learning", "python", "segmentation"]
+repository = "https://github.com/Yarroudh/segment-lidar"
+website = "https://yarroudh.github.io/segment-lidar/"
+license = "BSD-3-Clause"
+language = "Python"
+added = 2026-11-05

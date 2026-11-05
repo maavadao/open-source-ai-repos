@@ -1,0 +1,9 @@
+name = "LucaOne"
+description = "The resources of LucaOne, including: the model code, training scripts, embedding inference code, and trained checkpoints."
+category = "llm-apps"
+tags = ["ai4biology", "ai4science", "deep-learning", "embedding", "generalized-biological-foundation-model", "llm", "llm-for-biology", "nucleic-acid-and-protein-language"]
+repository = "https://github.com/LucaOne/LucaOne"
+website = "https://doi.org/10.5281/zenodo.15171943"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-05

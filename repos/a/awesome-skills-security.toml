@@ -1,0 +1,7 @@
+name = "awesome-skills-security"
+description = "Security testing toolkit for AI Agent: curated SecLists wordlists, injection payloads, and expert agents for authorized pentesting, CTFs, and bug bounties"
+category = "agents"
+tags = ["agent-skills", "agentic-ai", "appsec", "ctfs", "hacking-tool", "pentest-tool", "pentesting", "seclists"]
+repository = "https://github.com/Eyadkelleh/awesome-skills-security"
+language = "PHP"
+added = 2026-11-05

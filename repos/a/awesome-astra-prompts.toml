@@ -1,0 +1,8 @@
+name = "awesome-astra-prompts"
+description = "200+ Curated GPT-6 Astra prompts and 3D examples for games, Blender scenes and interactive worlds. 14 languages, previews and source links. Updated twice daily. Curated by Tripo."
+category = "skills-prompts"
+tags = ["3d", "ai-prompts", "astra-prompts", "awesome-list", "blender", "game-development", "gpt-6-astra", "multilingual"]
+repository = "https://github.com/TripoGrowthLab/awesome-astra-prompts"
+website = "https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra"
+language = "JavaScript"
+added = 2026-11-05

@@ -1,0 +1,9 @@
+name = "physical_ai_av"
+description = "Devkit and documentation for the NVIDIA Physical AI Autonomous Vehicles Dataset"
+category = "vision"
+tags = ["autonomous-driving", "autonomous-driving-dataset", "autonomous-vehicles", "computer-vision", "dataset", "devkit", "lidar", "multi-sensor"]
+repository = "https://github.com/NVlabs/physical_ai_av"
+website = "https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles"
+license = "MIT"
+language = "Python"
+added = 2026-11-05

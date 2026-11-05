@@ -1,0 +1,9 @@
+name = "muxin"
+description = "All your machines, one app. For you and your AI agents: agent sessions, desktops, files, logs and GitHub across your Macs, Linux and Windows machines, with an MCP server."
+category = "mcp-servers"
+tags = ["ai-agents", "claude-code", "devtools", "gpui", "mcp", "remote-desktop", "rust", "self-hosted-runners"]
+repository = "https://github.com/LumaryLabsLLC/muxin"
+website = "https://muxin.dev"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-05

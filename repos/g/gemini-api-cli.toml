@@ -1,0 +1,9 @@
+name = "gemini-api-cli"
+description = "An (experimental) CLI for the Gemini API"
+category = "other"
+tags = ["gemini", "gemini-api"]
+repository = "https://github.com/google-gemini/gemini-api-cli"
+website = "https://ai.google.dev/gemini-api/docs"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-11-05

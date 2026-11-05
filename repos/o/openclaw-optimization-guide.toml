@@ -1,0 +1,9 @@
+name = "openclaw-optimization-guide"
+description = "Make your OpenClaw AI agent faster, smarter, and cheaper. Speed optimization, memory architecture, context management, model selection, and one-shot development guide."
+category = "local-llms"
+tags = ["ai-agent", "ai-assistant", "best-practices", "claude", "context-engineering", "context-window", "gemini", "guide"]
+repository = "https://github.com/OnlyTerp/openclaw-optimization-guide"
+website = "https://x.com/OnlyTerp"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-05

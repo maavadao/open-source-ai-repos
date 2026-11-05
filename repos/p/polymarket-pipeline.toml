@@ -1,0 +1,7 @@
+name = "polymarket-pipeline"
+description = "Event-driven AI pipeline that monitors breaking news in real time, classifies market impact with Claude, and trades niche Polymarket markets automatically."
+category = "other"
+tags = ["ai-trading", "algorithmic-trading", "automation", "claude", "polymarket", "prediction-markets", "python", "twitter-api"]
+repository = "https://github.com/brodyautomates/polymarket-pipeline"
+language = "Python"
+added = 2026-11-05

@@ -1,0 +1,9 @@
+name = "spacecake"
+description = "the best interface for Claude Code"
+category = "skills-prompts"
+tags = ["ai-coding", "ai-tools", "claude", "claude-code", "developer-tools", "ghostty", "markdown-editor", "terminal"]
+repository = "https://github.com/spacecake-labs/spacecake"
+website = "https://spacecake.ai"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-11-05

@@ -1,0 +1,8 @@
+name = "django-mcp-server"
+description = "Django MCP Server is a Django extensions to easily enable AI Agents to interact with Django Apps through the Model Context Protocol it works equally well on WSGI and ASGI"
+category = "agents"
+tags = ["agentic-ai", "ai", "django", "modelcontextprotocol"]
+repository = "https://github.com/gts360/django-mcp-server"
+license = "MIT"
+language = "Python"
+added = 2026-11-05

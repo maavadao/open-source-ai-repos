@@ -1,0 +1,9 @@
+name = "mulmoclaude"
+description = "Nurture your own AI assistant on your own computer. Local-first and MIT: memories, data and apps stay as plain files in your workspace. Chat summons the right GUI — wiki, spreadsheet, chart, form, 3D. Build small apps for an audience of one, no programming required."
+category = "skills-prompts"
+tags = ["ai-agents", "ai-assistant", "ai-native", "chat-ui", "claude", "claude-code", "knowledge-management", "local-first"]
+repository = "https://github.com/receptron/mulmoclaude"
+website = "https://www.npmjs.com/package/mulmoclaude"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-05

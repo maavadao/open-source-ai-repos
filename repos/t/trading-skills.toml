@@ -1,0 +1,8 @@
+name = "trading_skills"
+description = "Claude powered advisor system for option traders"
+category = "skills-prompts"
+tags = ["ai-trading", "claude", "claude-skills", "mcp-server", "option-trading", "options-trading"]
+repository = "https://github.com/staskh/trading_skills"
+license = "MIT"
+language = "Python"
+added = 2026-11-05

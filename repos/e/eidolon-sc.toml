@@ -1,0 +1,9 @@
+name = "eidolon-sc"
+description = "和《偶像大师 闪耀色彩》偶像实时语音/文字对话的 AI 分身：日语原声 + 中文字幕、回忆原作剧情、跨角色共享记忆；支持 Google/GitHub 登录与自带密钥，Docker Compose 一键部署（参考 LAPLACE Eidolon）"
+category = "speech"
+tags = ["ai-companion", "character-ai", "docker-compose", "fastapi", "idolmaster", "llm", "nextjs", "pipecat"]
+repository = "https://github.com/Sallyn0225/eidolon-sc"
+website = "http://283ai.hmhnk.top"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-11-05

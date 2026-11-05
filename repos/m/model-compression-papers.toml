@@ -1,0 +1,6 @@
+name = "Model-Compression-Papers"
+description = "Papers for deep neural network compression and acceleration"
+category = "ml-platforms"
+tags = ["deep-learning", "deep-neural-networks", "model-acceleration", "model-compression", "papers"]
+repository = "https://github.com/chester256/Model-Compression-Papers"
+added = 2026-11-05

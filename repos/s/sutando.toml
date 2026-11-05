@@ -1,0 +1,9 @@
+name = "sutando"
+description = "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower."
+category = "agents"
+tags = ["ai-agent", "automation", "claude", "gemini", "macos", "multi-agent", "open-source", "personal-ai"]
+repository = "https://github.com/sonichi/sutando"
+website = "https://sutando.ai"
+license = "MIT"
+language = "Python"
+added = 2026-11-05

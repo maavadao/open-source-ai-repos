@@ -1,0 +1,9 @@
+name = "opencode2dsh"
+description = "DSH plugin — free OpenCode Zen models for DeepSeek Harness (DSH). Free LLM API, no API key needed. 在 DSH 中使用 OpenCode Zen 免费模型，无需 API key"
+category = "llm-apps"
+tags = ["cordis", "cordis-plugin", "deepseek", "deepseek-harness", "dsh", "dsh-plugin", "free-api", "free-llm"]
+repository = "https://github.com/FishBottle7/opencode2dsh"
+website = "https://www.npmjs.com/package/@opencode2dsh/dsh-plugin"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-05

@@ -1,0 +1,9 @@
+name = "WrongStack"
+description = "An AI coding agent that reads your code, edits files, runs commands, and reasons through bugs — across a terminal REPL, a full-screen TUI, and a browser UI, while you keep your hand on every permission."
+category = "coding"
+tags = ["agentic-ai", "ai-agents", "ai-tools", "code", "code-generation", "coding"]
+repository = "https://github.com/WrongStack/WrongStack"
+website = "https://wrongstack.com/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-05

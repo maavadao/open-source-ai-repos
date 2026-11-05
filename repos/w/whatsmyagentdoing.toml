@@ -1,0 +1,9 @@
+name = "whatsmyagentdoing"
+description = "See what every Claude Code and Codex agent on your machine is doing — live, in a little office."
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "codex", "dashboard", "threejs"]
+repository = "https://github.com/Charonyuu/whatsmyagentdoing"
+website = "https://charonyuu.github.io/whatsmyagentdoing/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-05

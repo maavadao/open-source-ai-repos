@@ -1,0 +1,9 @@
+name = "deepdive"
+description = "Deepdive skill for Claude Code — 12-phase research pipeline: plan-review gate, parallel sub-agent search, claims-ledger triangulation with dissent protection, relevance × authority evidence filter, multi-angle red team, four-layer citation verification. 105 blocks, 29 channels, 460+ stat sources, 4…"
+category = "skills-prompts"
+tags = ["agent-skills", "agentic-workflow", "ai-research-assistant", "anthropic", "citation-verification", "claude", "claude-code", "deep-research"]
+repository = "https://github.com/Socialpranker/deepdive"
+website = "https://socialpranker.github.io/deepdive/"
+license = "MIT"
+language = "Python"
+added = 2026-11-05

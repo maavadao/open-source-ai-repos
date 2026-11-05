@@ -1,0 +1,9 @@
+name = "memdoor"
+description = "AI coding agent that makes a small model beat a frontier one"
+category = "no-code"
+tags = ["agentic-workflows", "ai-agent", "coding-agent", "developer-tools", "golang", "llm", "openrouter", "terminal"]
+repository = "https://github.com/guregodevo/memdoor"
+website = "https://memdoor.ai"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-11-05

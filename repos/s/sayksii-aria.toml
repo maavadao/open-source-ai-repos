@@ -1,0 +1,8 @@
+name = "Aria"
+description = "ARIA - AI Realtime Intelligent Audio | Universal real-time AI subtitles for Windows"
+category = "speech"
+tags = ["accessibility", "ai", "python", "real-time", "speech-recognition", "speech-to-text", "subtitles", "transcription"]
+repository = "https://github.com/sayksii/Aria"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-11-05

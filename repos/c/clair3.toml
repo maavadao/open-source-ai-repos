@@ -1,0 +1,7 @@
+name = "Clair3"
+description = "Clair3 - Symphonizing pileup and full-alignment for deep learning-based long-read variant calling"
+category = "ml-platforms"
+tags = ["computational-biology", "deep-learning", "genomics", "illumina", "long-reads", "nanopore", "ont-data", "ont-models"]
+repository = "https://github.com/HKU-BAL/Clair3"
+language = "Python"
+added = 2026-11-05

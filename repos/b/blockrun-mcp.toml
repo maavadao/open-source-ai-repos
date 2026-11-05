@@ -1,0 +1,9 @@
+name = "blockrun-mcp"
+description = "Live data for AI agents — search, research, markets, crypto, X/Twitter. Pay-per-call via x402 micropayments."
+category = "mcp-servers"
+tags = ["ai", "claude-code", "llm", "mcp", "mcp-server", "x402"]
+repository = "https://github.com/BlockRunAI/blockrun-mcp"
+website = "https://www.npmjs.com/package/@blockrun/mcp"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-05

@@ -1,0 +1,9 @@
+name = "gptr-mcp"
+description = "MCP server for enabling LLM applications to perform deep research via the MCP protocol"
+category = "mcp-servers"
+tags = ["deep-research", "deepresearch", "gpt-researcher", "mcp", "mcp-server", "websearch"]
+repository = "https://github.com/assafelovic/gptr-mcp"
+website = "https://gptr.dev"
+license = "MIT"
+language = "Python"
+added = 2026-11-05

@@ -1,0 +1,9 @@
+name = "home-generative-agent"
+description = "AI agent for Home Assistant — talk to your home, create automations in plain language, analyze cameras with face recognition, and get proactive anomaly alerts. Cloud LLMs or fully local."
+category = "local-llms"
+tags = ["ai-agent", "anomaly-detection", "anthropic", "computer-vision", "gemini", "generative-ai", "hacs", "hacs-integration"]
+repository = "https://github.com/goruck/home-generative-agent"
+website = "https://community.home-assistant.io/t/a-generative-agent-integration-based-on-langchain-and-langgraph/864923"
+license = "MIT"
+language = "Python"
+added = 2026-11-05

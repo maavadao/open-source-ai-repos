@@ -1,0 +1,8 @@
+name = "claude-code-trace"
+description = "Claude Code session log viewer for JSONL files in ~/.claude/projects. Browse conversations, tool calls, tokens, and live tail sessions on desktop, web, and TUI."
+category = "skills-prompts"
+tags = ["ai-tools", "anthropic", "claude", "claude-code", "desktop-app", "developer-tools", "jsonl", "llm-tools"]
+repository = "https://github.com/delexw/claude-code-trace"
+license = "MIT"
+language = "Rust"
+added = 2026-11-05

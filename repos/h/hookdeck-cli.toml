@@ -1,0 +1,9 @@
+name = "hookdeck-cli"
+description = "CLI for Hookdeck: forward webhooks to localhost (ngrok alternative), manage and query Event Gateway resources (sources, connections, destinations, events), run the MCP server for AI agents. Free for dev."
+category = "mcp-servers"
+tags = ["cli", "hookdeck", "localtunnel", "mcp", "mcp-server", "ngrok-alternative", "webhooks"]
+repository = "https://github.com/hookdeck/hookdeck-cli"
+website = "https://hookdeck.com?ref=github-hookdeck-cli"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-11-05

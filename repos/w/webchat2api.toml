@@ -1,0 +1,8 @@
+name = "webchat2api"
+description = "OpenAI-compatible Web Chat API proxy with GPT, Grok, Gemini account management and Docker self-hosting"
+category = "image"
+tags = ["api-proxy", "chatgpt", "docker", "fastapi", "gemini", "grok", "image-generation", "nextjs"]
+repository = "https://github.com/zqbxdev/webchat2api"
+license = "MIT"
+language = "Python"
+added = 2026-11-05

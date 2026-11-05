@@ -1,0 +1,9 @@
+name = "HiRoute"
+description = "Make Codex and Claude Code subscriptions go further: a local model router that gives routine agent work to economical models and keeps your strongest model for the hard parts."
+category = "skills-prompts"
+tags = ["ai-agents", "ai-gateway", "claude-code", "codex", "coding-agent", "cost-optimization", "deepseek", "llm-gateway"]
+repository = "https://github.com/higress-group/HiRoute"
+website = "https://hiroute.ai"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-05

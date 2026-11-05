@@ -1,0 +1,8 @@
+name = "500"
+description = "Quantumult X, Loon, Stash 预配置文件: Apple News 解锁, 去广告, 分流规则, Bing AI, TikTok 解锁 Rewrite, VIP 视频解析"
+category = "chat"
+tags = ["adblock", "bing", "bing-chat", "chatgpt", "covid-19", "geoip", "gfw", "naiveproxy"]
+repository = "https://github.com/smxl/500"
+website = "https://cnn.vercel.app/"
+language = "JavaScript"
+added = 2026-11-05

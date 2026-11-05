@@ -1,0 +1,9 @@
+name = "langchain-google"
+description = "🦜🔗 LangChain interfaces to Google's suite of AI products (e.g. Gemini & Vertex AI)"
+category = "llm-apps"
+tags = ["ai", "gemini", "gemini-api", "langchain", "langchain-python", "llm", "vertex-ai"]
+repository = "https://github.com/langchain-ai/langchain-google"
+website = "https://docs.langchain.com/oss/python/integrations/providers/google"
+license = "MIT"
+language = "Python"
+added = 2026-11-05

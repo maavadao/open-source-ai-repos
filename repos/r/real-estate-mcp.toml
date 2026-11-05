@@ -1,0 +1,8 @@
+name = "real-estate-mcp"
+description = "🏠 Ask Claude about Korean apartment prices — powered by 국토교통부 open API"
+category = "mcp-servers"
+tags = ["claude", "korea", "mcp", "openapi", "real-estate"]
+repository = "https://github.com/tae0y/real-estate-mcp"
+license = "MIT"
+language = "Python"
+added = 2026-11-05

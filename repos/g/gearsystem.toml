@@ -1,0 +1,9 @@
+name = "Gearsystem"
+description = "Sega Master System / Game Gear / SG-1000 emulator and debugger with embedded MCP server for macOS, Windows, Linux, BSD and RetroArch."
+category = "mcp-servers"
+tags = ["bsd", "emulation", "emulator", "game-gear", "gamegear", "libretro", "linux", "macos"]
+repository = "https://github.com/drhelius/Gearsystem"
+website = "https://x.com/drhelius"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-11-05

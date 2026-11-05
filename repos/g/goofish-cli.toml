@@ -1,0 +1,8 @@
+name = "goofish-cli"
+description = "闲鱼 CLI · 原生支持 MCP · 为 AI Agent 而生 | Goofish (Xianyu) automation CLI · MCP-ready · Built for AI Agents"
+category = "mcp-servers"
+tags = ["ai-agent", "automation", "claude", "cli", "goofish", "mcp", "mcp-server", "python"]
+repository = "https://github.com/fancyboi999/goofish-cli"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-05

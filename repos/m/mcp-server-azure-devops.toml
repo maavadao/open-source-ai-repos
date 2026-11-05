@@ -1,0 +1,8 @@
+name = "mcp-server-azure-devops"
+description = "An MCP server for Azure DevOps"
+category = "mcp-servers"
+tags = ["ai", "azure-devops", "claude", "copilot", "cursor", "mcp", "mcp-server", "vscode"]
+repository = "https://github.com/Tiberriver256/mcp-server-azure-devops"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-05

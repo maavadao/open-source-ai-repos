@@ -1,0 +1,8 @@
+name = "Claude-Code-Quest"
+description = "Claude Code guide in three levels, Beginner to Advanced: hands-on lessons with checked exercises, every volatile fact cited to its source. Independent community guide."
+category = "skills-prompts"
+tags = ["agent-skills", "agentic-coding", "ai-agents", "anthropic", "anthropic-claude", "best-practices", "claude", "claude-ai"]
+repository = "https://github.com/wesammustafa/Claude-Code-Quest"
+website = "https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/blob/main/docs/beginner/README.md"
+language = "TypeScript"
+added = 2026-11-05

@@ -1,0 +1,9 @@
+name = "agent-plugin"
+description = "AI video editor for agents. ChatCut plugin and MCP server for Codex, ChatGPT, Claude Code, Cursor, Grok, Gemini CLI, WorkBuddy, Doubao Work and Qwen Work: edit your own footage by chatting, add captions and subtitles, remove silences and filler words, create motion graphics, and export an editable…"
+category = "mcp-servers"
+tags = ["agent-skills", "ai-video-editor", "captions", "chatgpt", "claude-code", "codex", "codex-plugin", "cursor"]
+repository = "https://github.com/ChatCut-Inc/agent-plugin"
+website = "https://chatcut.io"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-11-05

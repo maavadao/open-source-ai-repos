@@ -1,0 +1,8 @@
+name = "ebook-mcp"
+description = "A MCP server that supports mainstream eBook formats including EPUB, PDF and more. Simplify your eBook user experience with LLM."
+category = "mcp-servers"
+tags = ["ebook", "epub", "examples", "mcp", "mcp-client", "mcp-examples", "mcp-server", "pdf"]
+repository = "https://github.com/onebirdrocks/ebook-mcp"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-05

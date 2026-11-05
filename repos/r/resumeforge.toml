@@ -1,0 +1,9 @@
+name = "ResumeForge"
+description = "简历通 ResumeForge —— 本地优先的 AI 简历工作台：岗位管理、事实台账防虚构、AI 定制/手写简历、多格式导出、模拟面试与面试深挖、自动投递台、求职进度与数据看板。FastAPI + React + SQLite，单机运行、数据不出本机。 | AI resume builder, job tracker & interview prep workspace (local-first, self-hosted, Chinese-first)."
+category = "llm-apps"
+tags = ["ai", "anthropic", "ats-resume", "chinese", "cv-builder", "fastapi", "interview-preparation", "job-application-tracker"]
+repository = "https://github.com/magicapple123/ResumeForge"
+website = "https://github.com/magicapple123/ResumeForge#readme"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-05

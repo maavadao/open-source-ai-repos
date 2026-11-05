@@ -1,0 +1,7 @@
+name = "NextBoard"
+description = "面向硬件产品PCB方案设计的AI Agent，Agent会自动帮你进行需求确认，实时分析国内外各类芯片技术方案，进行器件选型，下载datasheet，输出BOM表，计算价格，输出模块原理图，最终整合成可落地技术方案。"
+category = "agents"
+tags = ["agent-skills", "agentic-ai", "autonomous-agents", "bom", "chip", "component", "hardware", "hardware-designs"]
+repository = "https://github.com/LeoKemp223/NextBoard"
+language = "Python"
+added = 2026-11-05

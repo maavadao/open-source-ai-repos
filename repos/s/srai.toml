@@ -1,0 +1,9 @@
+name = "srai"
+description = "Spatial Representations for Artificial Intelligence - a Python library toolkit for geospatial machine learning focused on creating embeddings for downstream tasks"
+category = "data-science"
+tags = ["artificial-intelligence", "data-science", "geo", "geospatial", "machine-learning", "python", "spatial", "spatial-analysis"]
+repository = "https://github.com/kraina-ai/srai"
+website = "https://kraina-ai.github.io/srai/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-05

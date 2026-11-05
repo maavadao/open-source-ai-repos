@@ -1,0 +1,8 @@
+name = "GitHubSentinel"
+description = "GitHub Sentinel 是专为大模型（LLMs）时代打造的智能信息检索和高价值内容挖掘 AI Agent。它面向那些需要高频次、大量信息获取的用户，特别是开源爱好者、个人开发者和投资人等。GitHub Sentinel 不仅能帮助用户自动跟踪和分析 GitHub 开源项目 的最新动态，还能快速扩展到其他信息渠道，如 Hacker News 的热门话题，提供更全面的信息挖掘与分析能力。"
+category = "local-llms"
+tags = ["agent", "llm", "ollama", "openai"]
+repository = "https://github.com/DjangoPeng/GitHubSentinel"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-11-05

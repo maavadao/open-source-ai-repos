@@ -1,0 +1,9 @@
+name = "TalkifyTTS"
+description = "云端大模型驱动的 Android 语音合成应用（TTS引擎）。支持ChatGPT、Gemini、豆包、腾讯、微软、千问等模型。Cloud LLM-driven Android TTS engine supporting ChatGPT, Gemini, Doubao, Tencent, Microsoft, Qwen, and more."
+category = "speech"
+tags = ["ai", "aliyun", "android", "book", "chatgpt", "dashscope", "doubao", "edge"]
+repository = "https://github.com/LonePheasantWarrior/TalkifyTTS"
+website = "https://gitee.com/LonePheasantWarrior/talkify"
+license = "MIT"
+language = "Kotlin"
+added = 2026-11-05

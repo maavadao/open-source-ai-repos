@@ -1,0 +1,9 @@
+name = "chat-gpt"
+description = "ChatGPT conversation saving bookmark"
+category = "chat"
+tags = ["bookmarklet", "chatgpt", "hacktoberfest"]
+repository = "https://github.com/jcubic/chat-gpt"
+website = "https://jcubic.github.io/chat-gpt/"
+license = "GPL-3.0"
+language = "JavaScript"
+added = 2026-11-05

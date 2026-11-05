@@ -1,0 +1,8 @@
+name = "awesome-REA-cases"
+description = "A curated collection of REA and AI-assisted reverse engineering cases, projects, and ideas. Updated every four hours."
+category = "learning"
+tags = ["ai", "awesome-list", "rea", "reverse-engineering"]
+repository = "https://github.com/songshikang0111/awesome-REA-cases"
+license = "MIT"
+language = "Python"
+added = 2026-11-05

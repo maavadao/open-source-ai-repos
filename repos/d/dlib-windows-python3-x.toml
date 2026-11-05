@@ -1,0 +1,8 @@
+name = "Dlib_Windows_Python3.x"
+description = "Dlib compiled binaries (.whl) for Python 3.7-3.14 and Windows x64"
+category = "vision"
+tags = ["compiled", "computer-vision", "deep-learning", "dlib", "dlib-library", "machine-learning", "python", "python3"]
+repository = "https://github.com/z-mahmud22/Dlib_Windows_Python3.x"
+website = "http://dlib.net/"
+license = "BSL-1.0"
+added = 2026-11-05

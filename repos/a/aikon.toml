@@ -1,0 +1,9 @@
+name = "AIKON"
+description = "A 2007 Nokia can't search Google anymore, so I gave it Claude, ChatGPT, Gemini and Grok. J2ME app for Nokia S40/S60 + tiny Go server."
+category = "chat"
+tags = ["ai-chat", "chatbot", "claude", "cldc", "dumbphone", "feature-phone", "gemini", "golang"]
+repository = "https://github.com/emir/AIKON"
+website = "https://aikonchat.com/"
+license = "MIT"
+language = "Java"
+added = 2026-11-05

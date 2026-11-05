@@ -1,0 +1,8 @@
+name = "openchatx-mcp"
+description = "Turn ChatGPT into a local agent runtime. Operate your computer, use local tools, discover MCP servers, and delegate work to your own models through one MCP connection."
+category = "mcp-servers"
+tags = ["agent-runtime", "ai-agents", "chatgpt", "local-agent", "macos", "mcp", "model-context-protocol", "windows"]
+repository = "https://github.com/XiaoPuOuO/openchatx-mcp"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-05

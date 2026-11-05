@@ -1,0 +1,9 @@
+name = "pinot"
+description = "Apache Pinot: a real-time analytics database for low-latency SQL and vector search, serving user-facing and agent-facing applications"
+category = "vector-databases"
+tags = ["ai-agents", "analytics", "database", "distributed-database", "java", "kafka", "olap", "real-time-analytics"]
+repository = "https://github.com/apache/pinot"
+website = "https://pinot.apache.org/"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-11-05

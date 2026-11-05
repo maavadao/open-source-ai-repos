@@ -1,0 +1,9 @@
+name = "awesome-ai-for-games"
+description = "A curated, searchable collection of research on AI and foundation models across the game lifecycle."
+category = "models"
+tags = ["awesome-list", "foundation-models", "game-agents", "game-ai", "game-development", "generative-ai", "llm-agents", "multimodal-models"]
+repository = "https://github.com/Eurekaleo/awesome-ai-for-games"
+website = "https://eurekaleo.github.io/awesome-ai-for-games/"
+license = "MIT"
+language = "TeX"
+added = 2026-11-05

@@ -1,0 +1,8 @@
+name = "vision_tutorial"
+description = "An introduction to computer vision and RoboMaster algorithm group"
+category = "vision"
+tags = ["computer-vision", "deep-learning", "image-processing", "robomaster", "tutorials"]
+repository = "https://github.com/NeoZng/vision_tutorial"
+license = "MIT"
+language = "Shell"
+added = 2026-11-05

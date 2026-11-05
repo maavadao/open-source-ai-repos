@@ -1,0 +1,9 @@
+name = "groma.md"
+description = "groma.md - Your architecture as OKF Markdown in Git, and one C4 map you can walk. Scanned from source, curated by you and your agents."
+category = "agents"
+tags = ["agents", "architecture", "backlog", "backlog-md", "c4", "c4-model", "cli", "coding-agents"]
+repository = "https://github.com/MrLesk/groma.md"
+website = "https://groma.md"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-05

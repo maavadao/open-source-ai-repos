@@ -1,0 +1,8 @@
+name = "WRITING.md"
+description = "\"Humanizer\" rules that make AI text sharper, genre-aware, with concrete anchors and self-auditing workflow"
+category = "skills-prompts"
+tags = ["ai-writing", "content-design", "llm-instructions", "llm-writing", "prompt-engineering", "technical-writing"]
+repository = "https://github.com/Anbeeld/WRITING.md"
+website = "https://anbeeld.com/projects/writing-md"
+license = "MIT"
+added = 2026-11-05

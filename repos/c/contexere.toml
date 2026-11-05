@@ -1,0 +1,9 @@
+name = "contexere"
+description = "The one place for the skills, keys and memory of every agent you use. Formerly OMNI."
+category = "skills-prompts"
+tags = ["agentic-ai", "ai-agents", "claude-code", "cli", "contexere", "context-compression", "context-distillation", "context-engineering"]
+repository = "https://github.com/fajarhide/contexere"
+website = "https://omni.weekndlabs.com/docs"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-05

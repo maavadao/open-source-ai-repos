@@ -1,0 +1,8 @@
+name = "zenith"
+description = "Zenith: a continuous-improvement harness for long-running agent tasks. Turns Claude Code, Codex, or Hermes into a multi-agent mission orchestrator via MCP/ACP."
+category = "mcp-servers"
+tags = ["agent-client-protocol", "agent-harness", "ai-agents", "claude-code", "codex", "llm", "long-horizon-tasks", "mcp"]
+repository = "https://github.com/Intelligent-Internet/zenith"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-05

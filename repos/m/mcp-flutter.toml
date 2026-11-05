@@ -1,0 +1,9 @@
+name = "mcp_flutter"
+description = "MCP Toolkit for Flutter AI Agent Driven Development (MCP/CLI + custom client side tools) - via closed feedback loop (visual & semantic snapshot) and high client side customization adaptable for any Flutter app. Nowadays it is often called as agentic harness."
+category = "mcp-servers"
+tags = ["ai", "ai-tools", "cli-tools", "dart", "declarative-testing", "dynamic-tools", "flutter", "flutter-harness"]
+repository = "https://github.com/Arenukvern/mcp_flutter"
+website = "https://docs.page/arenukvern/mcp_flutter"
+license = "MIT"
+language = "Dart"
+added = 2026-11-05

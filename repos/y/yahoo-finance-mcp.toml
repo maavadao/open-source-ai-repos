@@ -1,0 +1,8 @@
+name = "yahoo-finance-mcp"
+description = "This is a Model Context Protocol (MCP) server that provides comprehensive financial data from Yahoo Finance. It allows you to retrieve detailed information about stocks, including historical prices, company information, financial statements, options data, and market news."
+category = "mcp-servers"
+tags = ["mcp", "mcp-server", "yahoo-finance", "yfinance", "yfinance-mcp"]
+repository = "https://github.com/Alex2Yang97/yahoo-finance-mcp"
+license = "MIT"
+language = "Python"
+added = 2026-11-05

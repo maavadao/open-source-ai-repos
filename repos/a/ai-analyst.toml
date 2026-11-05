@@ -1,0 +1,9 @@
+name = "ai-analyst"
+description = "Open source AI analyst powered by E2B. Analyze your CSV files with Llama 3.1 and create interactive charts."
+category = "llm-apps"
+tags = ["ai", "ai-analysis", "analysis", "e2b", "llama", "llm", "sandbox"]
+repository = "https://github.com/e2b-dev/ai-analyst"
+website = "https://ai-analyst.e2b.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-05

@@ -1,0 +1,9 @@
+name = "sealeap-amazon-skills"
+description = "Reusable Agent Skills for Amazon product research, listings, advertising, inventory, and operations."
+category = "agents"
+tags = ["advertising", "agent-skills", "ai-agents", "amazon-ads", "amazon-seller", "codex", "ecommerce", "marketing-automation"]
+repository = "https://github.com/xjli360/sealeap-amazon-skills"
+website = "https://sealeap.cn/"
+license = "MIT"
+language = "Python"
+added = 2026-11-05

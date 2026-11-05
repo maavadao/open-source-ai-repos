@@ -1,0 +1,9 @@
+name = "claude-conductor"
+description = "Claude Conductor - a simple Claude Code framework"
+category = "skills-prompts"
+tags = ["aiframework", "automation", "claude", "claude-code", "claudecode", "framework", "vibecoding"]
+repository = "https://github.com/superbasicstudio/claude-conductor"
+website = "https://www.npmjs.com/package/claude-conductor"
+license = "BSD-2-Clause"
+language = "JavaScript"
+added = 2026-11-05

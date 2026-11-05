@@ -1,0 +1,9 @@
+name = "jarvis-ai-assistant"
+description = "Voice-controlled AI desktop assistant in Python. Speech recognition, text to speech, real-time web search, image generation, computer vision and WhatsApp automation, inspired by Iron Man's JARVIS."
+category = "speech"
+tags = ["ai", "ai-assistant", "automation", "chatbot", "computer-vision", "desktop-app", "jarvis", "machine-learning"]
+repository = "https://github.com/AnubhavChaturvedi-GitHub/jarvis-ai-assistant"
+website = "https://www.youtube.com/@NetHyTech"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-11-05

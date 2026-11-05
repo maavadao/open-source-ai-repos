@@ -1,0 +1,8 @@
+name = "claude-code-filetree"
+description = "IDE-style file tree for Claude Code: a live pane that shows which files Claude reads and edits, with git status, diffs, content search, file previews and guarded paths, in the terminal and the Claude Desktop app."
+category = "skills-prompts"
+tags = ["agentic-coding", "ai-agents", "ai-coding", "anthropic", "claude", "claude-code", "claude-code-plugin", "claude-desktop"]
+repository = "https://github.com/data-goblin/claude-code-filetree"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-05

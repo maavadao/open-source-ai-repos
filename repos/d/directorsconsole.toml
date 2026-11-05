@@ -1,0 +1,8 @@
+name = "DirectorsConsole"
+description = "A web application for prompt generation and multiple ComfyUI remote and local connections for image and video generation in parallel in an infinite canvas"
+category = "skills-prompts"
+tags = ["cinematography", "comfyui", "image-generation-and-inpainting", "prompt-engineering", "prompt-toolkit", "video-generation"]
+repository = "https://github.com/NickPittas/DirectorsConsole"
+license = "MIT"
+language = "Python"
+added = 2026-11-05

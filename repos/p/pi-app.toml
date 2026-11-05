@@ -1,0 +1,8 @@
+name = "pi-app"
+description = "Desktop app for the pi coding agent: streaming timeline, Git review with hunk staging, session tree, native UI for pi extensions. Windows · macOS · Linux. pi 编程 Agent 桌面客户端"
+category = "coding"
+tags = ["agentic-coding", "ai-agent", "ai-coding", "ai-coding-assistant", "claude", "code-review", "coding-agent", "desktop-app"]
+repository = "https://github.com/justhil/pi-app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-05

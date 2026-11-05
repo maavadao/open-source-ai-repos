@@ -1,0 +1,9 @@
+name = "Bodo"
+description = "High Performance Scalable Data Processing in Python and SQL"
+category = "data-science"
+tags = ["ai", "artificial-intelligence", "big-data", "data-science", "distributed", "machine-learning", "numpy", "optimization"]
+repository = "https://github.com/bodo-ai/Bodo"
+website = "https://docs.bodo.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-05

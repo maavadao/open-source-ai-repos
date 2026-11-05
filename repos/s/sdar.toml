@@ -1,0 +1,9 @@
+name = "SDAR"
+description = "Official code for \"Self-Distilled Agentic Reinforcement Learning\""
+category = "agents"
+tags = ["agentic-ai", "agentic-skill", "opsd", "rl", "skill"]
+repository = "https://github.com/ZJU-REAL/SDAR"
+website = "https://arxiv.org/abs/2605.15155"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-05

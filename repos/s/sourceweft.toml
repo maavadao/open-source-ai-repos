@@ -1,0 +1,8 @@
+name = "SourceWeft"
+description = "Open-source, self-hostable alternative to ChatGPT and NotebookLM — agents, skills, MCP, and cited knowledge in one AI workstation. Your models, your infrastructure. Free to use GPT 6: https://SourceWeft.com/"
+category = "mcp-servers"
+tags = ["agentic-ai", "agentic-rag", "agents", "ai", "ai-agents", "chatbot", "generative-ai", "knowledge-base"]
+repository = "https://github.com/SourceWeft/SourceWeft"
+website = "https://SourceWeft.com/"
+language = "TypeScript"
+added = 2026-11-05

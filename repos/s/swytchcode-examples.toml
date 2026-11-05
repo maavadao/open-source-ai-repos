@@ -1,0 +1,9 @@
+name = "swytchcode-examples"
+description = "Swytchcode demo projects with different agents"
+category = "llm-apps"
+tags = ["claude", "gpt", "hermes", "langchain", "langgraph", "openclaw", "swytchcode"]
+repository = "https://github.com/swytchcodehq/swytchcode-examples"
+website = "https://swytchcode.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-05

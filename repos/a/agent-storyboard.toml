@@ -1,0 +1,8 @@
+name = "agent-storyboard"
+description = "本地优先的 Agent 视频分镜工作台：让 Codex、Claude Code 通过 MCP 写分镜、生成图片/视频素材和配音，并自动回填。Local-first storyboard workbench for AI agents (Codex, Claude Code)."
+category = "mcp-servers"
+tags = ["agent", "ai-video", "claude-code", "codex", "mcp", "openai", "storyboard", "video-storyboard"]
+repository = "https://github.com/Yuuhann1999/agent-storyboard"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-05

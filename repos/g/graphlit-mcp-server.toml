@@ -1,0 +1,9 @@
+name = "graphlit-mcp-server"
+description = "Model Context Protocol (MCP) Server for Graphlit Platform"
+category = "mcp-servers"
+tags = ["claude", "content-extraction", "content-ingestion", "data-collection", "llm-tools", "mcp-server", "model-context-protocol", "search-api"]
+repository = "https://github.com/graphlit/graphlit-mcp-server"
+website = "https://www.graphlit.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-05

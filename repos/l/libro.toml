@@ -1,0 +1,9 @@
+name = "libro"
+description = "A Notebook with Flexible Customization and Easy Integration."
+category = "agents"
+tags = ["agent", "ai", "artificial-intelligence", "data-science", "jupyter", "jupyter-notebook", "jupyter-notebooks", "libro"]
+repository = "https://github.com/apt-oss/libro"
+website = "https://apt-oss.github.io/libro"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-11-05

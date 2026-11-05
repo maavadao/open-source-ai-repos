@@ -1,0 +1,8 @@
+name = "coursera-natural-language-processing-specialization"
+description = "Programming assignments from all courses in the Coursera Natural Language Processing Specialization offered by deeplearning.ai."
+category = "learning"
+tags = ["artificial-intelligence", "assignments", "course", "coursera", "coursera-assignment", "coursera-specialization", "deep-learning", "deeplearning"]
+repository = "https://github.com/amanchadha/coursera-natural-language-processing-specialization"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-11-05

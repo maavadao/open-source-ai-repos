@@ -1,0 +1,7 @@
+name = "awesome-trustworthy-deep-learning"
+description = "A curated list of trustworthy deep learning papers. Continually updating..."
+category = "ml-platforms"
+tags = ["adversarial-machine-learning", "ai-alignment", "backdoor", "causality", "deep-learning", "fairness", "gradient-leakage", "green-ai"]
+repository = "https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning"
+license = "MIT"
+added = 2026-11-05

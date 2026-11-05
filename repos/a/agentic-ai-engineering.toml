@@ -1,0 +1,9 @@
+name = "agentic-ai-engineering"
+description = "Hands-on tutorials for building AI agents from scratch. Learn LLM APIs, prompt engineering, tool calling, and the agent loop through practical examples."
+category = "skills-prompts"
+tags = ["agentic", "agentic-ai", "agentic-loop", "agentic-patterns", "agentic-rag", "agentic-workflow", "ai-agent-frameworks", "ai-agent-tools"]
+repository = "https://github.com/agenticloops-ai/agentic-ai-engineering"
+website = "http://agenticloops.ai"
+license = "MIT"
+language = "Python"
+added = 2026-11-05

@@ -1,0 +1,9 @@
+name = "Cotal"
+description = "The open standard for agent coordination"
+category = "skills-prompts"
+tags = ["a2a", "agent-communication", "agent-mesh", "agent-orchestration", "agent-skills", "ai", "ai-agents", "claude-code"]
+repository = "https://github.com/Cotal-AI/Cotal"
+website = "https://cotal.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-05
