@@ -1,0 +1,7 @@
+name = "xiaomo-starter-kit"
+description = "🐈‍⬛ OpenClaw 中文 AI 助手模板 | 5分钟拥有你的 AI 私人助手"
+category = "other"
+tags = ["ai-agent", "ai-assistant", "automation", "chinese", "claude", "clawdbot", "openai", "openclaw"]
+repository = "https://github.com/mengjian-github/xiaomo-starter-kit"
+website = "https://xiaomo.dev"
+added = 2026-11-06

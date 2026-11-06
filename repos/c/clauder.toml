@@ -1,0 +1,7 @@
+name = "ClaudeR"
+description = "Connect RStudio to Claude Code, Codex, Gemini, and other LLM agents via MCP. Multi-agent orchestration, automated manuscript auditing, and zero-config setup with uvx"
+category = "mcp-servers"
+tags = ["agent", "ai", "claude", "cli", "codex", "data-science", "gemini", "mcp"]
+repository = "https://github.com/IMNMV/ClaudeR"
+language = "Python"
+added = 2026-11-06

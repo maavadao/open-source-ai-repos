@@ -1,0 +1,9 @@
+name = "agent-standup"
+description = "Your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, who waits on whom, who needs you. VS Code extension, terminal command, desktop app. Runs locally, zero tokens."
+category = "skills-prompts"
+tags = ["ai-agents", "claude", "claude-code", "claude-code-mod", "codex", "developer-tools", "mistral", "mistral-vibe"]
+repository = "https://github.com/Atoll92/agent-standup"
+website = "https://agent-standup.com"
+license = "MIT"
+language = "HTML"
+added = 2026-11-06

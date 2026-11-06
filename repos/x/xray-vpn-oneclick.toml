@@ -1,0 +1,9 @@
+name = "Xray-VPN-OneClick"
+description = "🚀 5分钟部署 VLESS+Reality VPN | 访问 ChatGPT/Claude/Google | npm CLI 管理工具 | One-Click Xray Server with Traffic Stats | 科学上网 翻墙 梯子 魔法"
+category = "chat"
+tags = ["anti-censorship", "censorship-circumvention", "chatgpt", "cli", "firewall-bypass", "gfw", "linux", "proxy"]
+repository = "https://github.com/DanOps-1/Xray-VPN-OneClick"
+website = "https://www.npmjs.com/package/xray-manager"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-06

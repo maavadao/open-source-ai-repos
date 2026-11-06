@@ -1,0 +1,7 @@
+name = "lora-dataset-studio"
+description = "Free local LoRA training studio: build character, style and concept datasets from one photo or a big image folder, caption them (JoyCaption, prose or booru tags), train LoRAs with ai-toolkit for Krea 2, FLUX.1, FLUX.2 Klein, Qwen-Image 2.1, Z-Image, SDXL and Anima, then compare checkpoints side by…"
+category = "image"
+tags = ["ai-toolkit", "character-consistency", "comfyui", "dataset-preparation", "diffusion-models", "fine-tuning", "flux", "generative-ai"]
+repository = "https://github.com/perfectgf/lora-dataset-studio"
+language = "Python"
+added = 2026-11-06

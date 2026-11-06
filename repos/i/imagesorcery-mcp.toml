@@ -1,0 +1,9 @@
+name = "imagesorcery-mcp"
+description = "An MCP server providing tools for image processing operations"
+category = "mcp-servers"
+tags = ["computer-vision", "image-editing", "image-manipulation", "image-processing", "mcp", "mcp-server", "ocr", "opencv"]
+repository = "https://github.com/sunriseapps/imagesorcery-mcp"
+website = "https://imagesorcery.net"
+license = "MIT"
+language = "Python"
+added = 2026-11-06

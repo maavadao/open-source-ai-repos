@@ -1,0 +1,8 @@
+name = "advisingapp"
+description = "Advising App® by Canyon GBS® is an AI-powered conversational assistant for staff, student success platform, and recruitment CRM designed specifically for colleges and universities to enhance student engagement and drive institutional success."
+category = "education"
+tags = ["artificial-intelligence", "conversational-ai", "crm", "edtech", "higher-education", "recruitment-crm", "retention-crm", "student-success"]
+repository = "https://github.com/canyongbs/advisingapp"
+website = "https://advising.app"
+language = "PHP"
+added = 2026-11-06

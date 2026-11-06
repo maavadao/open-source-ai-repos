@@ -1,0 +1,9 @@
+name = "Frappe_Assistant_Core"
+description = "Infrastructure that connects LLMs to ERPNext. Frappe Assistant Core works with the Model Context Protocol (MCP) to expose ERPNext functionality to any compatible Language Model"
+category = "mcp-servers"
+tags = ["ai-assistant", "analytics", "automation", "business-intelligence", "data-analytics", "enterprise", "erpnext", "frappe"]
+repository = "https://github.com/buildswithpaul/Frappe_Assistant_Core"
+website = "https://docs.assistantcore.cloud"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-11-06

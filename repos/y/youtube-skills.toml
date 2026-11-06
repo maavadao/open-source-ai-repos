@@ -1,0 +1,8 @@
+name = "youtube-skills"
+description = "YouTube transcript skills for Claude Code, Cursor and Codex. Agent Skills to get transcripts, search YouTube, read channels and playlists, and bulk export."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "captions", "claude-code", "claude-skills", "codex", "cursor", "hermes"]
+repository = "https://github.com/artemchuikin/youtube-skills"
+website = "https://transcriptout.com/"
+license = "MIT"
+added = 2026-11-06

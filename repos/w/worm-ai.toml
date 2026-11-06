@@ -1,0 +1,7 @@
+name = "worm-ai"
+description = "Worm-AI — blackAI"
+category = "other"
+tags = ["artifical-intelligence", "asistant", "claude-ai", "cybersecurity", "deepseek", "exploitation", "grok", "grok-api"]
+repository = "https://github.com/kafyx-3/worm-ai"
+language = "Python"
+added = 2026-11-06

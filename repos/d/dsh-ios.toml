@@ -1,0 +1,8 @@
+name = "dsh-ios"
+description = "DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on."
+category = "agents"
+tags = ["accessibility", "ai-agents", "coding-agent", "deepseek-harness", "dsh", "dsh-plugin", "ios", "ios-simulator"]
+repository = "https://github.com/ZSeven-W/dsh-ios"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-06

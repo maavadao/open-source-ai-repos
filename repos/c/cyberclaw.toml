@@ -1,0 +1,8 @@
+name = "CyberClaw"
+description = "👾 下一代透明智能体架构 | Next-Gen Transparent Agent Architecture 🔍 全行为审计 | 🛡️ 两段式安全调用 | 🧠 双水位记忆 | ⏰ 心跳任务 📊 P0 级事故率降低 80% | 兼容 OpenClaw + Claude Code 技能生态"
+category = "skills-prompts"
+tags = ["agent", "agent-framework", "ai-agent", "ai-safety", "claude-code", "cross-platform", "enterprise-ai", "langchain"]
+repository = "https://github.com/ttguy0707/CyberClaw"
+license = "MIT"
+language = "Python"
+added = 2026-11-06

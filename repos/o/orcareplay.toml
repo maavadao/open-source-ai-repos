@@ -1,0 +1,9 @@
+name = "OrcaReplay"
+description = "OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team."
+category = "agents"
+tags = ["agent-debugging", "agent-tracing", "ai-agent", "ai-agents", "ai-debugger", "ai-debugging", "anthropic", "llm"]
+repository = "https://github.com/Continuum-AI-Corp/OrcaReplay"
+website = "http://www.orcarouter.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-06

@@ -1,0 +1,9 @@
+name = "a2ui"
+description = "Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose."
+category = "agents"
+tags = ["a2a", "a2ui", "agent", "angular", "flutter", "generative-ui", "jetpack-compose", "lit"]
+repository = "https://github.com/a2ui-project/a2ui"
+website = "https://a2ui.org/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-06

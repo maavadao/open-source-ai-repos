@@ -1,0 +1,7 @@
+name = "sdd-riper"
+description = "Lightweight AI Agent Harness for agentic coding: let strong models explore while humans steer with minimal specs, checkpoints, approval, validation, and reverse sync."
+category = "coding"
+tags = ["agentic-coding", "ai-agent", "ai-agent-harness", "ai-coding", "ai-programming", "checkpoint-driven", "claude", "cursor"]
+repository = "https://github.com/huisezhiyin/sdd-riper"
+language = "Python"
+added = 2026-11-06

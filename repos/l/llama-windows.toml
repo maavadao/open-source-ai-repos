@@ -1,0 +1,9 @@
+name = "Llama-Windows"
+description = "Windows Llama App Companion"
+category = "local-llms"
+tags = ["artificial-intelligence", "llama", "llama-cpp", "llama-server", "local-ai", "local-llm", "windows"]
+repository = "https://github.com/ggml-org/Llama-Windows"
+website = "https://llama.app"
+license = "MIT"
+language = "C#"
+added = 2026-11-06

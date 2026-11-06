@@ -1,0 +1,7 @@
+name = "ollamafreeapi"
+description = "OllamaFreeAPI: Free Distributed API for Ollama LLMs Public gateway to our managed Ollama servers with: - Zero-configuration access to 50+ models - Auto load-balanced across global nodes - Free tier with no API keys required - Built on ollama-python"
+category = "local-llms"
+tags = ["ai-api", "deepseek", "free-ai", "free-ai-api", "free-api", "llama", "llm", "mistral"]
+repository = "https://github.com/mfoud444/ollamafreeapi"
+language = "Python"
+added = 2026-11-06

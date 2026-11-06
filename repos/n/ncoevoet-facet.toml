@@ -1,0 +1,8 @@
+name = "facet"
+description = "Local AI photo scoring, culling, and gallery — score, organise, and explore your library with face recognition and semantic search. No cloud, no subscriptions."
+category = "vision"
+tags = ["aesthetic-quality", "angular", "clip", "computer-vision", "deep-learning", "face-recognition", "fastapi", "image-analysis"]
+repository = "https://github.com/ncoevoet/facet"
+website = "https://ncoevoet.github.io/facet/"
+language = "Python"
+added = 2026-11-06

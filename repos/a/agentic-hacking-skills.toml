@@ -1,0 +1,7 @@
+name = "agentic-hacking-skills"
+description = "AI-Powered Web Security & Automation - Official bonus skills, agents & MCP configs for the 'Agentic Hacking' ebook (28 SKILL.md templates)"
+category = "mcp-servers"
+tags = ["agents", "ai", "automation", "hacking", "mcp", "opencode", "pentesting", "security"]
+repository = "https://github.com/mrhlaingbwardev/agentic-hacking-skills"
+language = "JavaScript"
+added = 2026-11-06

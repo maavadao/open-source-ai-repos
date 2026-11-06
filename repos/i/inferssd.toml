@@ -1,0 +1,9 @@
+name = "inferssd"
+description = "Run models larger than your RAM or VRAM by streaming MoE experts from SSD. Built on llama.cpp."
+category = "local-llms"
+tags = ["apple-silicon", "cuda", "gguf", "inference", "llama-cpp", "llm", "metal", "mixture-of-experts"]
+repository = "https://github.com/wici-ai/inferssd"
+website = "https://wici.ai/inferssd"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-11-06

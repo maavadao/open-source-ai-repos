@@ -1,0 +1,8 @@
+name = "RSIHub"
+description = "A research framework for principled agent self-improvement under frozen evaluators and declared mutation boundaries, recording verifiable lineage to make it reproducible and auditable."
+category = "agents"
+tags = ["agent", "agent-evolution", "agentic-ai", "ai", "ai4ai", "framework", "gepa", "llm-agents"]
+repository = "https://github.com/simple-agent-lab/RSIHub"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-06

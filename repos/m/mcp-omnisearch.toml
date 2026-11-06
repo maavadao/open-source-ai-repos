@@ -1,0 +1,8 @@
+name = "mcp-omnisearch"
+description = "🔍 A Model Context Protocol (MCP) server providing unified access to multiple search engines (Tavily, Brave, Kagi, Exa), AI tools (Kagi FastGPT, Exa, Linkup), and content extraction services (Firecrawl, Tavily, Kagi). Includes GitHub search. All through a single interface."
+category = "mcp-servers"
+tags = ["brave", "exa", "firecrawl", "github-search", "kagi", "linkup", "mcp", "model-context-protocol"]
+repository = "https://github.com/spences10/mcp-omnisearch"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-06

@@ -1,0 +1,8 @@
+name = "swarm-learning"
+description = "A simplified library for decentralized, privacy preserving machine learning"
+category = "ml-platforms"
+tags = ["deep-learning", "distributed-computing", "distributed-control", "distributed-ledger", "machine-learning", "privacy-by-design", "privacy-enhancing-technologies"]
+repository = "https://github.com/HewlettPackard/swarm-learning"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-06

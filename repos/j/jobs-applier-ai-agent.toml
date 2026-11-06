@@ -1,0 +1,8 @@
+name = "Jobs_Applier_AI_Agent"
+description = "An AI web agent that applies to jobs for you while you sleep."
+category = "browser-automation"
+tags = ["ai-agent", "ai-agents", "automation", "browser-automation", "job-application", "job-board", "job-search", "mcp"]
+repository = "https://github.com/feder-cr/Jobs_Applier_AI_Agent"
+license = "MIT"
+language = "Python"
+added = 2026-11-06

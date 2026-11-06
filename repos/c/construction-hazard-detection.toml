@@ -1,0 +1,9 @@
+name = "Construction-Hazard-Detection"
+description = "Enhances construction site safety using YOLO for object detection, identifying hazards like workers without helmets or safety vests, and proximity to machinery or vehicles. HDBSCAN clusters safety cone coordinates to create monitored zones. Post-processing algorithms improve detection accuracy."
+category = "vision"
+tags = ["alert-system", "apis", "artificial-intelligence", "clustering", "computer-vision", "data-annotation", "deep-learning", "fastapi"]
+repository = "https://github.com/yihong1120/Construction-Hazard-Detection"
+website = "https://visionnaire-cda17.web.app/"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-11-06

@@ -1,0 +1,8 @@
+name = "kelos"
+description = "Kelos - The Kubernetes-native framework for orchestrating autonomous AI coding agents."
+category = "skills-prompts"
+tags = ["agentic-ai", "agentic-coding", "ai", "ai-agents", "ci-cd", "claude", "claude-code", "codex"]
+repository = "https://github.com/kelos-dev/kelos"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-11-06

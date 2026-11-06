@@ -1,0 +1,9 @@
+name = "claude-unlimited"
+description = "Rotate Claude and GPT subscriptions and API keys seamlessly inside the Claude Code CLI — switch on usage limits without interrupting your session, all from a local dashboard. 100% local."
+category = "skills-prompts"
+tags = ["ai-tools", "anthropic", "chatgpt", "claude", "claude-code", "codex", "dashboard", "developer-tools"]
+repository = "https://github.com/DevDock-AI/claude-unlimited"
+website = "https://github.com/DevDock-AI/claude-unlimited#readme"
+license = "MIT"
+language = "Python"
+added = 2026-11-06

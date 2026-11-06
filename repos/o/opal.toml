@@ -1,0 +1,9 @@
+name = "opal"
+description = "OPAL: a reactive optimizer. A coding agent rewrites the optimizer while your model trains."
+category = "ml-platforms"
+tags = ["deep-learning", "llm-agents", "optimizer", "pytorch"]
+repository = "https://github.com/xingjian-bai/opal"
+website = "https://xingjianbai.com/reactive-optimizers/"
+license = "MIT"
+language = "Python"
+added = 2026-11-06

@@ -1,0 +1,8 @@
+name = "refero_skill"
+description = "Research-first design skill for AI agents. 150K+ real app screens and flows via Refero MCP."
+category = "mcp-servers"
+tags = ["agent", "agent-skills", "claude", "claude-code-plugin", "codex-plugin", "cursor", "cursor-plugin", "design"]
+repository = "https://github.com/referodesign/refero_skill"
+license = "MIT"
+language = "Python"
+added = 2026-11-06

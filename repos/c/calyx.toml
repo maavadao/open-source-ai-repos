@@ -1,0 +1,9 @@
+name = "Calyx"
+description = "A native macOS terminal app built on Ghostty for running and supervising coding agents"
+category = "skills-prompts"
+tags = ["agent-orchestration", "agentic-ai", "ai-agents", "claude-code", "codex", "developer-tools", "ghostty", "macos"]
+repository = "https://github.com/yuuichieguchi/Calyx"
+website = "https://getcalyx.app/"
+license = "MIT"
+language = "Swift"
+added = 2026-11-06

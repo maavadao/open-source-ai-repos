@@ -1,0 +1,7 @@
+name = "grim-prompter"
+description = "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT."
+category = "skills-prompts"
+tags = ["ai-agents", "appsec", "claude-code", "codex", "linddun", "llm", "pasta", "prompt-engineering"]
+repository = "https://github.com/jmanico/grim-prompter"
+license = "MIT"
+added = 2026-11-06

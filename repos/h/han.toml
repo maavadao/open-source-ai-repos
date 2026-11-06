@@ -1,0 +1,8 @@
+name = "han"
+description = "Han: AI skills and agents for \"Solo\" product engineers and small teams"
+category = "skills-prompts"
+tags = ["claude", "claude-code", "claude-code-plugin", "claude-skills", "code-review", "documentation", "investigation", "planning"]
+repository = "https://github.com/testdouble/han"
+license = "MIT"
+language = "Shell"
+added = 2026-11-06

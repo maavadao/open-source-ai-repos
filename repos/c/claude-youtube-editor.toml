@@ -1,0 +1,9 @@
+name = "claude-youtube-editor"
+description = "Record the talking head, Claude Code does the rest: the cut, the visuals, the voice, the sound effects, the thumbnail, and the YouTube upload. Every screen moment is built as Remotion TSX code, never screen-recorded."
+category = "skills-prompts"
+tags = ["agent-skills", "assemblyai", "claude", "claude-code", "elevenlabs", "remotion", "video-editing", "video-production"]
+repository = "https://github.com/hassancs91/claude-youtube-editor"
+website = "https://learnwithhasan.com/guide/how-to-edit-videos-with-claude-code/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-06

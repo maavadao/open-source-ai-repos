@@ -1,0 +1,8 @@
+name = "OpenAmika"
+description = "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain."
+category = "local-llms"
+tags = ["ai-companion", "live2d", "long-term-memory", "mekahime", "ollama", "openrouter", "speech-recognition", "text-to-speech"]
+repository = "https://github.com/zeekk0/OpenAmika"
+website = "https://www.mekahime.com/openamika"
+language = "Python"
+added = 2026-11-06

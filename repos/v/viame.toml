@@ -1,0 +1,8 @@
+name = "VIAME"
+description = "Video and Image Analytics for Multiple Environments"
+category = "vision"
+tags = ["annotation-framework", "artificial-intelligence", "computer-vision", "conservation", "deep-learning", "ecology", "image-annotation", "image-processing"]
+repository = "https://github.com/VIAME/VIAME"
+website = "http://www.viametoolkit.org/"
+language = "Python"
+added = 2026-11-06

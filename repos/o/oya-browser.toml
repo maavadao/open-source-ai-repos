@@ -1,0 +1,8 @@
+name = "oya-browser"
+description = "The browser control plane for AI agents. One API over Oya Cloud, Browserbase, Steel, Anchor, Browser Use and your own Chrome, with persistent personas, CAPTCHA and MFA handling, and live human takeover."
+category = "browser-automation"
+tags = ["agent-skills", "ai-agents", "ai-browser", "anti-detect", "browser-agent", "browser-automation", "browser-infrastructure", "browser-use"]
+repository = "https://github.com/OyadotAI/oya-browser"
+website = "https://oyabrowser.com"
+language = "Rust"
+added = 2026-11-06

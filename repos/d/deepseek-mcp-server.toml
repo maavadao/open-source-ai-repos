@@ -1,0 +1,9 @@
+name = "deepseek-mcp-server"
+description = "Model Context Protocol server for DeepSeek's advanced language models"
+category = "mcp-servers"
+tags = ["deepseek-api", "deepseek-chat", "deepseek-r1", "deepseek-v3", "mcp", "model-context-protocol", "r1"]
+repository = "https://github.com/DMontgomery40/deepseek-mcp-server"
+website = "https://buymeacoffee.com/dmontg"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-06

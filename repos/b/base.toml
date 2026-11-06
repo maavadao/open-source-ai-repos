@@ -1,0 +1,8 @@
+name = "base"
+description = "AI builder operating system. Turn Claude Code from a per-session tool into a workspace that remembers, maintains itself, and never goes stale. BASE = Builder's Automated State Engine."
+category = "skills-prompts"
+tags = ["agent-memory", "agentic-ai", "ai-agents", "ast", "claude-code", "cli", "code-intelligence", "codebase-analysis"]
+repository = "https://github.com/ChristopherKahler/base"
+website = "https://docs.basemode.ai"
+language = "Rust"
+added = 2026-11-06

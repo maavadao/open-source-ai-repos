@@ -1,0 +1,9 @@
+name = "stable-pretraining"
+description = "Reliable, minimal and scalable library for pretraining foundation and world models"
+category = "vision"
+tags = ["computer-vision", "computer-vision-algorithms", "contrastive-learning", "deep-learning", "distributed", "foundation-models", "joint-embedding", "joint-embedding-predictive-architecture"]
+repository = "https://github.com/galilai-group/stable-pretraining"
+website = "https://galilai-group.github.io/stable-pretraining/"
+license = "MIT"
+language = "Python"
+added = 2026-11-06

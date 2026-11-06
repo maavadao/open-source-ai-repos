@@ -1,0 +1,9 @@
+name = "focoos"
+description = "🚀 Lightning-fast computer vision models. Fine-tune SOTA models with just a few lines of code. Ready for cloud ☁️ and edge 📱 deployment."
+category = "local-llms"
+tags = ["computer-vision", "deep-learning", "frugal-ai", "image-segmentation", "inference", "model-as-a-service", "object-detection", "python"]
+repository = "https://github.com/FocoosAI/focoos"
+website = "https://focoosai.github.io/focoos/"
+license = "MIT"
+language = "Python"
+added = 2026-11-06

@@ -1,0 +1,8 @@
+name = "MAGiC-SLAM"
+description = "[CVPR 2025]MAGiC-SLAM: Multi-Agent Gaussian Globally Consistent SLAM"
+category = "vision"
+tags = ["computer-vision", "cvpr2025", "gaussian-splatting", "slam"]
+repository = "https://github.com/VladimirYugay/MAGiC-SLAM"
+website = "https://vladimiryugay.github.io/magic_slam"
+language = "Python"
+added = 2026-11-06

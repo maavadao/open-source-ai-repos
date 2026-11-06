@@ -1,0 +1,9 @@
+name = "builder"
+description = "📦✨ AI Builder For Creating Sites and Apps! An open-source alternative to Lovable, Replit, v0, and similar platforms."
+category = "skills-prompts"
+tags = ["ai-agents", "ai-builder", "app-builder", "base44", "bolt", "claude-code", "codex", "lovable"]
+repository = "https://github.com/HeyPuter/builder"
+website = "https://builder.puter.com"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-11-06

@@ -1,0 +1,9 @@
+name = "codex-island"
+description = "CodexIsland - AI usage limits in your MacBook notch"
+category = "skills-prompts"
+tags = ["claude", "claude-code", "codex", "macos", "notch"]
+repository = "https://github.com/ericjypark/codex-island"
+website = "https://codexisland.com"
+license = "MIT"
+language = "Swift"
+added = 2026-11-06

@@ -1,0 +1,8 @@
+name = "OverleafMCP"
+description = "Model Context Protocol (MCP) server that lets AI assistants read Overleaf projects, parse LaTeX document structure, and push section-level edits back via Git. Compatible with Claude Desktop, Cursor, Windsurf, and any MCP client."
+category = "mcp-servers"
+tags = ["ai-tools", "chatgpt", "claude", "latex", "mcp", "mcp-server", "overleaf"]
+repository = "https://github.com/mjyoo2/OverleafMCP"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-06

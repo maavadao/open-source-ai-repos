@@ -1,0 +1,8 @@
+name = "awesome-data-centric-ai"
+description = "Open-Source Software, Tutorials, and Research on Data-Centric AI 🤖"
+category = "learning"
+tags = ["ai", "artificial-intelligence", "awesome", "awesome-list", "data", "data-labelling", "data-quality", "data-science"]
+repository = "https://github.com/Data-Centric-AI-Community/awesome-data-centric-ai"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-11-06

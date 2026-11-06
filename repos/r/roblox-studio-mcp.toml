@@ -1,0 +1,8 @@
+name = "roblox-studio-mcp"
+description = "Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude, Cursor) to read object trees, edit scripts, and run playtests safely. Open-source and lightweight"
+category = "mcp-servers"
+tags = ["ai-tools", "automation", "claude", "cursor", "developer-tools", "game-development", "mcp", "model-context-protocol"]
+repository = "https://github.com/HerdBuilderEstimate/roblox-studio-mcp"
+license = "MIT"
+language = "Python"
+added = 2026-11-06

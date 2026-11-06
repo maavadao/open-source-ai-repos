@@ -1,0 +1,8 @@
+name = "mcp-server-simulator-ios-idb"
+description = "A Model Context Protocol (MCP) server that enables LLMs to interact with iOS simulators through natural language commands."
+category = "mcp-servers"
+tags = ["claude", "cline", "ios", "macos", "mcp", "typescript"]
+repository = "https://github.com/InditexTech/mcp-server-simulator-ios-idb"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-06

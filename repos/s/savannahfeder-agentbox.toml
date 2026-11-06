@@ -1,0 +1,9 @@
+name = "agentbox"
+description = "A desktop GUI for running dozens of Claude Code and Codex agents in parallel, each in its own git worktree. Answer them like email, or use the board view. Free, open source, on the plan you already pay for."
+category = "skills-prompts"
+tags = ["agent-dashboard", "agent-manager", "agent-orchestration", "ai-agents", "claude", "claude-code", "claude-code-desktop", "claude-code-gui"]
+repository = "https://github.com/savannahfeder/agentbox"
+website = "https://agentbox.ac"
+license = "GPL-3.0"
+language = "JavaScript"
+added = 2026-11-06

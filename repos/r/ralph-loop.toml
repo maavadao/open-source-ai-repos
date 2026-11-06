@@ -1,0 +1,9 @@
+name = "ralph-loop"
+description = "A long-running AI agent loop. Ralph automates software development tasks by iteratively working through a task list until completion."
+category = "skills-prompts"
+tags = ["agentic-ai", "ai", "claude-code", "codex", "prd", "ralph", "ralph-loop", "ralph-wiggum"]
+repository = "https://github.com/PageAI-Pro/ralph-loop"
+website = "https://ralphloop.sh"
+license = "MIT"
+language = "Shell"
+added = 2026-11-06

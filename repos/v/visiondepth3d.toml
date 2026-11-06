@@ -1,0 +1,7 @@
+name = "VisionDepth3D"
+description = "Generates 3D from 2D videos in multiple output formats using AI-powered depth mapping."
+category = "vision"
+tags = ["2d-3d", "3d-conversion", "3d-rendering", "3d-video", "computer-vision", "cuda", "depth-estimation", "fps-inference"]
+repository = "https://github.com/VisionDepth/VisionDepth3D"
+website = "https://visiondepth.github.io/VisionDepth3D/"
+added = 2026-11-06

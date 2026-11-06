@@ -1,0 +1,8 @@
+name = "akanjs"
+description = "The TypeScript framework, agents included. Web, iOS, Android, macOS, Windows and Linux. Your server and database. And the AI agents your users already talk to."
+category = "agents"
+tags = ["agentic-ai", "bun", "clientside-rendering", "framework", "full-stack", "hybrid-apps", "monorepo", "server"]
+repository = "https://github.com/akan-team/akanjs"
+website = "https://akanjs.com"
+language = "TypeScript"
+added = 2026-11-06

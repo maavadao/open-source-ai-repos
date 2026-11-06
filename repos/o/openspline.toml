@@ -1,0 +1,9 @@
+name = "openspline"
+description = "Give a face to your voice AI in 5 lines of code. Generate realtime avatar video connected to your voice AI locally"
+category = "other"
+tags = ["ai", "ai-avatar", "avatar", "elevenlabs", "gemini", "lip-sync", "livekit", "local-first"]
+repository = "https://github.com/openspline/openspline"
+website = "https://www.openspline.dev/"
+license = "MIT"
+language = "Python"
+added = 2026-11-06

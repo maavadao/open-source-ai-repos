@@ -1,0 +1,9 @@
+name = "hypergrok-trading-desk"
+description = "Hyperliquid trading desk for AI agents: 7 roles, 17 skills and keyless market tools. Research first; execution requires your API wallet and approved tickets. Grok Bot, Claude Code, Cursor, Codex, Gemini CLI and Grok Build."
+category = "skills-prompts"
+tags = ["agent-plugins", "agent-skills", "ai-agents", "ai-trading", "claude-code", "claude-code-plugin", "claude-code-skill", "claude-plugin"]
+repository = "https://github.com/galleonlabs/hypergrok-trading-desk"
+website = "https://x.ai/bot/2GeaOwIsmTEOD_WGzmghC"
+license = "MIT"
+language = "Python"
+added = 2026-11-06

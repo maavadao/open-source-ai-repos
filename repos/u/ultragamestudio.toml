@@ -1,0 +1,8 @@
+name = "UltraGameStudio"
+description = "UltraGameStudio - AI coding agent for game development: engine workflows, gameplay code, and asset generation."
+category = "skills-prompts"
+tags = ["ai-agent", "ai-coding", "asset-generation", "claude-code", "codex", "coding-assistant", "game-assets", "game-dev"]
+repository = "https://github.com/wellingfeng/UltraGameStudio"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-06

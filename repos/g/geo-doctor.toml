@@ -1,0 +1,8 @@
+name = "geo-doctor"
+description = "GEO 医生：一句话装进 AI 助手，查清豆包、DeepSeek、ChatGPT、Claude 为什么不推荐你，改资料、写内容、再复查。开源中英双语 GEO（生成式引擎优化）skill。"
+category = "search"
+tags = ["agent-skills", "ai-overviews", "ai-search", "chatgpt", "chinese", "deepseek", "doubao", "generative-engine-optimization"]
+repository = "https://github.com/Fangx-AI/geo-doctor"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-06

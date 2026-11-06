@@ -1,0 +1,9 @@
+name = "walkerOS"
+description = "Open-source tag manager for developers and agents"
+category = "agents"
+tags = ["ai-agents", "analytics", "as-code", "data-sovereignty", "data-warehouse", "declarative", "javascript", "llm"]
+repository = "https://github.com/elbwalker/walkerOS"
+website = "https://www.walkeros.io/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-06

@@ -1,0 +1,7 @@
+name = "Ace-Mcp-Node"
+description = "面向 AI 助手的代码库索引与语义搜索 MCP Server"
+category = "mcp-servers"
+tags = ["ai-agent", "code-search", "mcp", "model-context-protocol", "semantic-search"]
+repository = "https://github.com/yeuxuan/Ace-Mcp-Node"
+language = "TypeScript"
+added = 2026-11-06

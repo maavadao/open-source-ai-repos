@@ -1,0 +1,9 @@
+name = "shipwords"
+description = "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。"
+category = "other"
+tags = ["ai", "cloudflare", "cloudflare-workers", "d1", "react", "saas-boilerplate", "saas-starter", "seo"]
+repository = "https://github.com/shipwords-dev/shipwords"
+website = "https://shipwords.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-06

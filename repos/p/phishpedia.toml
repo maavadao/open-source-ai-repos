@@ -1,0 +1,8 @@
+name = "Phishpedia"
+description = "Official Implementation of \"Phishpedia: A Hybrid Deep Learning Based Approach to Visually Identify Phishing Webpages\" USENIX'21"
+category = "vision"
+tags = ["computer-vision", "cybersecurity", "phishing-detection"]
+repository = "https://github.com/lindsey98/Phishpedia"
+license = "CC0-1.0"
+language = "Python"
+added = 2026-11-06

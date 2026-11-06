@@ -1,0 +1,9 @@
+name = "3dsmax-mcp"
+description = "3ds Max MCP server"
+category = "mcp-servers"
+tags = ["3dsmax", "claude", "codex", "mcp"]
+repository = "https://github.com/cl0nazepamm/3dsmax-mcp"
+website = "https://clone.llc"
+license = "MIT"
+language = "Python"
+added = 2026-11-06

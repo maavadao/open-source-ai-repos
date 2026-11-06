@@ -1,0 +1,9 @@
+name = "X-AnyLabeling-Server"
+description = "A Simple, Lightweight, and Extensible Serving Framework for X-AnyLabeling"
+category = "vision"
+tags = ["annotation-tool", "clip", "computer-vision", "deep-learning", "grounding-dino", "image-classification", "image-labeling-tool", "instance-segmentation"]
+repository = "https://github.com/CVHub520/X-AnyLabeling-Server"
+website = "https://xanylabeling.com"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-11-06

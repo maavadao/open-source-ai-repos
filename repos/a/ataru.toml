@@ -1,0 +1,9 @@
+name = "Ataru"
+description = "High-performance AI memory retrieval for local agent history — a Rust search core (SDK / API / JSON CLI) plus a desktop GUI. Tantivy + Jieba keyword search, optional semantic recall, stable Turn/Run/Session/Project IDs."
+category = "vector-databases"
+tags = ["agent-memory", "ai-memory", "ai-tools", "claude-code", "desktop-app", "full-text-search", "local-first", "memory-retrieval"]
+repository = "https://github.com/lovstudio/Ataru"
+website = "https://lovstudio.ai/app/ataru"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-06

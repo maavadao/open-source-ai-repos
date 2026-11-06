@@ -1,0 +1,9 @@
+name = "Dual-AI-Chat"
+description = "一个先进的聊天应用，演示了一种独特的对话范式：用户的查询首先由两个不同的人工智能角色进行辩论和提炼，然后才提供最终的综合答案。该项目利用 Google Gemini API 驱动一个逻辑型 AI (Cognito) 和一个怀疑型 AI (Muse)，它们协作生成更健壮、准确和经过严格审查的响应。"
+category = "chat"
+tags = ["ai", "chatbot", "debate", "dual-model", "gemini", "gemini-api", "react", "thinking"]
+repository = "https://github.com/yeahhe365/Dual-AI-Chat"
+website = "https://c3d98006.dual-ai-chat-dvb.pages.dev/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-06

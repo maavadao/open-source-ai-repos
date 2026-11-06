@@ -1,0 +1,8 @@
+name = "ThinkRAG"
+description = "A LLM RAG system runs on your laptop. 大模型检索增强生成系统，可以轻松部署在笔记本电脑上，实现本地知识库智能问答。"
+category = "local-llms"
+tags = ["baai", "chatbot", "chromadb", "deepseek", "elasticsearch", "embedding", "hybrid-search", "knowledgebase"]
+repository = "https://github.com/wzdavid/ThinkRAG"
+license = "MIT"
+language = "Python"
+added = 2026-11-06

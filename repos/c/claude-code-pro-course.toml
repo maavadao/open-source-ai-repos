@@ -1,0 +1,9 @@
+name = "claude-code-pro-course"
+description = "Claude Code PRO — полный курс и гайд на русском: CLAUDE.md, settings, skills, subagents, hooks, MCP, плагины, CI. 8 лабораторных, библиотека промптов и готовый starter-kit. Здесь бесплатные курсы по chatgpt -"
+category = "mcp-servers"
+tags = ["ai-agents", "ai-coding", "anthropic", "best-practices", "claude", "claude-code", "claude-code-hooks", "claude-code-skills"]
+repository = "https://github.com/justxor/claude-code-pro-course"
+website = "https://t.me/ai_machinelearning_big_data/10997"
+license = "MIT"
+language = "Shell"
+added = 2026-11-06

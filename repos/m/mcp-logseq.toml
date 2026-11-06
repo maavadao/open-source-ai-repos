@@ -1,0 +1,8 @@
+name = "mcp-logseq"
+description = "MCP server to interact with LogSeq via its Local HTTP API - enabling AI assistants like Claude to seamlessly read, write, and manage your LogSeq graph."
+category = "mcp-servers"
+tags = ["knowledge-base", "knowledge-management", "logseq", "mcp", "mcp-server", "second-brain"]
+repository = "https://github.com/ergut/mcp-logseq"
+license = "MIT"
+language = "Python"
+added = 2026-11-06

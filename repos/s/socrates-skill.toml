@@ -1,0 +1,7 @@
+name = "socrates-skill"
+description = "Socratic method teaching skill for Claude Code — guides users to discover answers through questioning"
+category = "skills-prompts"
+tags = ["agent-skills", "claude", "claude-code", "claude-skills", "skill", "skills", "skillsmp"]
+repository = "https://github.com/bevibing/socrates-skill"
+license = "MIT"
+added = 2026-11-06

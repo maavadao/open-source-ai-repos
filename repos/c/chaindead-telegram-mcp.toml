@@ -1,0 +1,8 @@
+name = "telegram-mcp"
+description = "Telegram MCP for managing dialogs, messages, drafts, read statuses, and more."
+category = "mcp-servers"
+tags = ["mcp", "mcp-server", "mtproto", "telegram", "telegram-api"]
+repository = "https://github.com/chaindead/telegram-mcp"
+license = "MIT"
+language = "Go"
+added = 2026-11-06

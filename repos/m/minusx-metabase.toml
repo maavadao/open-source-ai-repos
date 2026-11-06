@@ -1,0 +1,9 @@
+name = "minusx-metabase"
+description = "MinusX is an AI Data Analyst that you can add to your Metabase. It helps you ask business questions to your dashboards and dig deeper through followups."
+category = "data-science"
+tags = ["artificial-intelligence", "data-analytics", "data-science", "jupyter", "metabase"]
+repository = "https://github.com/minusxai/minusx-metabase"
+website = "https://minusx.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-06

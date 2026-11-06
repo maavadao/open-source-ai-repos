@@ -1,0 +1,9 @@
+name = "ai-image-detector"
+description = "Open-source CLI, API, web UI, and reproducible benchmarks for probabilistic AI-generated image detection."
+category = "vision"
+tags = ["ai-content-detection", "ai-image-detector", "benchmark", "computer-vision", "huggingface", "image-classification", "open-source", "pytorch"]
+repository = "https://github.com/lynote-ai/ai-image-detector"
+website = "https://lynote.ai/ai-image-detector"
+license = "MIT"
+language = "Python"
+added = 2026-11-06

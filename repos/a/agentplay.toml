@@ -1,0 +1,9 @@
+name = "agentplay"
+description = "Replay your coding agent sessions as a map and a timeline"
+category = "skills-prompts"
+tags = ["agent-observability", "ai-agents", "claude", "claude-code", "codex", "coding-agents", "cursor", "developer-tools"]
+repository = "https://github.com/Entelligence-AI/agentplay"
+website = "https://entelligence.ai/agentplay"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-06

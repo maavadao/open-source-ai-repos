@@ -1,0 +1,8 @@
+name = "agent-vibes"
+description = "Unified Agent Gateway — Enables Claude Code CLI and Cursor IDE to use free AI backends (Antigravity, Codex) through protocol translation"
+category = "coding"
+tags = ["agent", "antigravity", "chatgpt", "claude", "codex", "cursor", "openclaw", "vibe-coding"]
+repository = "https://github.com/funny-vibes/agent-vibes"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-06

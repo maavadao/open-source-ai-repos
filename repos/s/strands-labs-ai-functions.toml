@@ -1,0 +1,9 @@
+name = "ai-functions"
+description = "Python functions powered by AI agents - with runtime post-conditions for reliable agentic workflows."
+category = "agents"
+tags = ["agentic", "agentic-ai", "ai", "genai", "llm", "machine-learning", "python", "strands-agents"]
+repository = "https://github.com/strands-labs/ai-functions"
+website = "https://strandsagents.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-06

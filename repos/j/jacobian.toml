@@ -1,0 +1,8 @@
+name = "jacobian"
+description = "Composable mathematics tools for agents"
+category = "agents"
+tags = ["ai-agents", "automated-theorem-proving", "computer-algebra", "cordis", "dsh", "dsh-plugin", "erdos", "erdos-problem"]
+repository = "https://github.com/morluto/jacobian"
+license = "MIT"
+language = "Python"
+added = 2026-11-06

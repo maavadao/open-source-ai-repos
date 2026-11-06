@@ -1,0 +1,9 @@
+name = "usage"
+description = "macOS menu bar & Windows tray app pinning Claude Code, Codex, Antigravity & Grok CLI quota, burn rate, and cost to your screen. Local-first, no telemetry. HTML reports, 16 themes."
+category = "skills-prompts"
+tags = ["ai-tools", "anthropic", "catppuccin", "claude", "claude-code", "codex", "cost-tracking", "developer-tools"]
+repository = "https://github.com/aqua5230/usage"
+website = "https://aqua5230.github.io/usage/"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-11-06

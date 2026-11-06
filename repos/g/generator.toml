@@ -1,0 +1,9 @@
+name = "generator"
+description = "CTX: a tool that solves the context management gap when working with LLMs like ChatGPT or Claude. It helps developers organize and automatically collect information from their codebase into structured documents that can be easily shared with AI assistants."
+category = "skills-prompts"
+tags = ["context", "context-aware-ai", "context-engineering", "context-extractor", "hacktoberfest", "instructions", "llm", "mcp"]
+repository = "https://github.com/context-hub/generator"
+website = "https://docs.ctxllm.com"
+license = "MIT"
+language = "PHP"
+added = 2026-11-06

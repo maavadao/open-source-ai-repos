@@ -1,0 +1,8 @@
+name = "h1-brain"
+description = "MCP server that connects AI assistants to HackerOne for bug bounty hunting"
+category = "mcp-servers"
+tags = ["ai", "bug-bounty", "bug-bounty-tools", "claude", "hackerone", "hacking", "mcp", "mcp-server"]
+repository = "https://github.com/PatrikFehrenbach/h1-brain"
+license = "MIT"
+language = "Python"
+added = 2026-11-06

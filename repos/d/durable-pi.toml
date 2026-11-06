@@ -1,0 +1,9 @@
+name = "durable-pi"
+description = "Durable Pi playground and agent network: persistent, multi-device durable agents with web and terminal clients"
+category = "agents"
+tags = ["agentic-engineering", "ai-agents", "durable-agents", "pi", "sqlite"]
+repository = "https://github.com/disler/durable-pi"
+website = "https://youtu.be/DNDYYHsypZg"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-06

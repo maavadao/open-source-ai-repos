@@ -1,0 +1,9 @@
+name = "matrixhub"
+description = "An Open-source, self-hosted AI model hub with Hugging Face compatibility, accelerating vLLM/SGLang performance."
+category = "local-llms"
+tags = ["artificial-intelligence", "dynamo", "huggingface", "kubernetes", "llm", "llm-inference", "model-registry", "self-hosted"]
+repository = "https://github.com/matrixhub-ai/matrixhub"
+website = "https://matrixhub.ai"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-11-06

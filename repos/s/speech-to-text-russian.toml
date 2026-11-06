@@ -1,0 +1,9 @@
+name = "Speech-to-Text-Russian"
+description = "Распознавание русской речи: библиотека Python, CLI stt-ru, веб-интерфейс с REST API и Docker-образ на модели GigaAM-v3."
+category = "speech"
+tags = ["asr", "gigaam", "onnx", "russian-specific", "speaker-diarization", "speech-recognition", "speech-to-text", "subtitles"]
+repository = "https://github.com/SergeyShk/Speech-to-Text-Russian"
+website = "https://sergeyshk.github.io/Speech-to-Text-Russian/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-11-06

@@ -1,0 +1,8 @@
+name = "agentsdroid"
+description = "AgentsDroid 🤖📱 — Sovereign Multi-Agent AI Operating System for Android. Autonomous DAG task planning, native UI automation & mobile intelligence."
+category = "agents"
+tags = ["agentic-ai", "ai", "ai-agents", "android", "android-os", "autonomous-agents", "dag-scheduler", "kotlin"]
+repository = "https://github.com/agentsdroid/agentsdroid"
+website = "https://agentsdroid.github.io/agentsdroid"
+language = "Kotlin"
+added = 2026-11-06

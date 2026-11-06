@@ -1,0 +1,8 @@
+name = "finding-unknowns-skills"
+description = "14 installable skills for Claude Code, OpenAI Codex, and Hermes: find unknowns, clarify requirements, manage context, test assumptions, and verify bug fixes with regression evidence."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude", "claude-code", "codex", "cursor", "hermes-agent", "kimi-k3"]
+repository = "https://github.com/Neeeophytee/finding-unknowns-skills"
+license = "MIT"
+language = "Python"
+added = 2026-11-06

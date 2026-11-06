@@ -1,0 +1,8 @@
+name = "ai-iso-skill"
+description = "Claude skill that draws interactive isometric figures in a single HTML file"
+category = "skills-prompts"
+tags = ["claude", "claude-code", "claude-skills", "isometric", "svg"]
+repository = "https://github.com/MrBongoC/ai-iso-skill"
+website = "https://mrbongoc.github.io/ai-iso-skill/examples/desk-synth.html"
+license = "MIT"
+added = 2026-11-06

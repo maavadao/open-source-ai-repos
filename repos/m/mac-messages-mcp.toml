@@ -1,0 +1,9 @@
+name = "mac_messages_mcp"
+description = "An MCP server that securely interfaces with your iMessage database via the Model Context Protocol (MCP), allowing LLMs to query and analyze iMessage conversations. It includes robust phone number validation, attachment processing, contact management, group chat handling, and full support for sendin…"
+category = "mcp-servers"
+tags = ["applescript", "claude", "contacts", "cursor", "imessage", "mac", "macos", "mcp"]
+repository = "https://github.com/carterlasalle/mac_messages_mcp"
+website = "https://pypi.org/project/mac-messages-mcp/"
+license = "MIT"
+language = "Python"
+added = 2026-11-06

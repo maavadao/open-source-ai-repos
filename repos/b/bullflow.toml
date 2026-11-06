@@ -1,0 +1,8 @@
+name = "BullFlow"
+description = "推量牛 BullFlow — 开源企业级 RAG 解决方案：从企业知识库、营销内容自动化生产到全域内容分发 | Open-source enterprise RAG solution: knowledge base → automated marketing content → omnichannel publishing. 知识库全链路本地开源模型，无需付费模型；AI Agent 创作图文 / 图片 / 视频，一键发布抖音、小红书、公众号、LinkedIn、YouTube 等 17 个平台。Commercial-grade, multi-tenant, billing & admin bu…"
+category = "agents"
+tags = ["ai-agents", "bge-m3", "content-generation", "elasticsearch", "knowledge-base", "langgraph", "milvus", "multi-tenant"]
+repository = "https://github.com/jaikydota/BullFlow"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-06

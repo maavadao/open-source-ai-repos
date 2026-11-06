@@ -1,0 +1,8 @@
+name = "emperorclaw"
+description = "Introduce AI to your company workspace."
+category = "agents"
+tags = ["ai-agents", "hermes-agent", "jose-zuma", "mission-control", "openclaw"]
+repository = "https://github.com/emperorclaw/emperorclaw"
+website = "https://emperorclaw.com"
+language = "TypeScript"
+added = 2026-11-06

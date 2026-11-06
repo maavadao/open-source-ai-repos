@@ -1,0 +1,9 @@
+name = "nami"
+description = "Put the world's best AI agents to work. One workspace for all of them -- Claude Code, Codex, Gemini, Grok and more, running side by side on your Desktop."
+category = "skills-prompts"
+tags = ["agent-workbench", "ai", "ai-agents", "claude-code", "codex", "developer-tools", "electron", "macos"]
+repository = "https://github.com/mrdainami/nami"
+website = "https://nami.dainami.ai"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-11-06

@@ -1,0 +1,8 @@
+name = "MCPControl"
+description = "MCP server for Windows OS automation"
+category = "mcp-servers"
+tags = ["ai", "claude", "computer-control", "computer-vision", "mcp", "os-automation", "windows"]
+repository = "https://github.com/claude-did-this/MCPControl"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-06

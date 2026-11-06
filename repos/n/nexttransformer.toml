@@ -1,0 +1,9 @@
+name = "NextTransformer"
+description = "A comprehensive, cutting-edge open-source framework for next-generation Transformers/LLM, with compute-matched benchmarking and a platform for autonomous architecture research."
+category = "llm-apps"
+tags = ["auto-research", "benchmark", "deep-learning", "language-models", "linear-attention", "llm", "looped-transformer", "nexttransformer"]
+repository = "https://github.com/Interactive-Active-AI/NextTransformer"
+website = "https://interactive-active-ai.github.io/NextTransformer/"
+license = "MIT"
+language = "Python"
+added = 2026-11-06

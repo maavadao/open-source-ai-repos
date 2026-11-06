@@ -1,0 +1,9 @@
+name = "AgML"
+description = "AgML is a centralized framework for agricultural machine learning. AgML provides access to public agricultural datasets for common agricultural deep learning tasks, with standard benchmarks and pretrained models, as well the ability to generate synthetic data and annotations."
+category = "vision"
+tags = ["agriculture", "computer-vision", "dataset", "deep-learning", "image-classification", "object-detection", "pytorch", "semantic-segmentation"]
+repository = "https://github.com/Project-AgML/AgML"
+website = "https://project-agml.github.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-06

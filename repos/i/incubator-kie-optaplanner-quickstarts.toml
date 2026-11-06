@@ -1,0 +1,9 @@
+name = "incubator-kie-optaplanner-quickstarts"
+description = "OptaPlanner quick starts for AI optimization: many use cases shown in many different technologies."
+category = "other"
+tags = ["artificial-intelligence", "constraint-solver", "gradle", "java", "kotlin", "mathematical-optimization", "maven", "operations-research"]
+repository = "https://github.com/apache/incubator-kie-optaplanner-quickstarts"
+website = "https://www.optaplanner.org/"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-11-06

@@ -1,0 +1,9 @@
+name = "Pagekin"
+description = "Pagekin，免费 AI 小说写作软件，从设定、蓝图到正文、审稿、定稿；支持拆解仿写、续写、改写，可导入写作 Skill（如去 AI 味）。模型需自行配置，作品在本地。Pagekin (formerly AI Novel Writer): free, open-source AI novel writing app for long novels and web fiction. Imitate, continue, rewrite; import writing skills. Local-first, no model bundled. Windows & macOS."
+category = "local-llms"
+tags = ["ai-novel", "ai-writing", "ai-writing-assistant", "chinese", "creative-writing", "deepseek", "desktop-app", "electron"]
+repository = "https://github.com/EthanYoQ/Pagekin"
+website = "https://www.orz.md/ai-novel-writer/"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-11-06

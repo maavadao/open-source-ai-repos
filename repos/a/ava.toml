@@ -1,0 +1,9 @@
+name = "AVA"
+description = "👾 AI-native Visual Analytics framework build for agents."
+category = "agents"
+tags = ["agent-skills", "ai-agents", "augmented-analytics", "data-analysis", "data-exploration", "data-visualizations", "duckdb", "javascript"]
+repository = "https://github.com/antvis/AVA"
+website = "https://ava.antv.vision"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-06

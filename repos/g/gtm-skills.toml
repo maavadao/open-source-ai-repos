@@ -1,0 +1,9 @@
+name = "gtm-skills"
+description = "GTM Skills for Claude & Codex"
+category = "skills-prompts"
+tags = ["abm", "account-research", "ai-agents", "b2b-sales", "claude", "claude-code", "codex", "cold-email"]
+repository = "https://github.com/explorium-ai/gtm-skills"
+website = "https://explorium-ai.github.io/gtm-skills/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-06

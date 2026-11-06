@@ -1,0 +1,9 @@
+name = "navigator"
+description = "Finish What You Start — Context engineering for Claude Code. Sessions last 20+ exchanges instead of crashing at 7."
+category = "skills-prompts"
+tags = ["ai-assistant", "ai-tools", "anthropic", "claude", "claude-code", "context-engineering", "developer-tools", "llm"]
+repository = "https://github.com/qf-studio/navigator"
+website = "https://quantflow.studio"
+license = "MIT"
+language = "Python"
+added = 2026-11-06

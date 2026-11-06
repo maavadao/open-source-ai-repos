@@ -1,0 +1,9 @@
+name = "water"
+description = "The production-ready agent harness framework for Python"
+category = "agents"
+tags = ["agent-harness", "agents", "framework", "harness", "llm", "multi-agent", "multi-agent-systems", "workflow"]
+repository = "https://github.com/manthanguptaa/water"
+website = "https://manthanguptaa.in/posts/water/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-06

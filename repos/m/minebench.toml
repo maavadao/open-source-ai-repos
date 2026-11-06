@@ -1,0 +1,9 @@
+name = "minebench"
+description = "Minecraft-style voxel benchmark for comparing AI models (Arena + Sandbox)"
+category = "llm-apps"
+tags = ["ai", "arena", "benchmark", "comparison-benchmarks", "llm", "lmarena", "minecraft", "nlp"]
+repository = "https://github.com/Ammaar-Alam/minebench"
+website = "https://minebench.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-06

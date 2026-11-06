@@ -1,0 +1,8 @@
+name = "react-native-apple-llm"
+description = "React Native Apple LLM plugin using Foundation Models"
+category = "local-llms"
+tags = ["apple-foundation-models", "apple-intelligence", "apple-llm", "apple-llm-integration", "foundation-models", "local-llm", "nlp", "offline-ai"]
+repository = "https://github.com/deveix/react-native-apple-llm"
+license = "MIT"
+language = "Swift"
+added = 2026-11-06

@@ -1,0 +1,8 @@
+name = "Mind-Map-Wizard"
+description = "Simple AI mind mapping for research, right in your browser"
+category = "other"
+tags = ["ai", "artificial-intelligence", "local-first", "mind-mapping", "mind-maps", "mindmap", "productivity", "research-tool"]
+repository = "https://github.com/linus-sch/Mind-Map-Wizard"
+website = "https://mindmapwizard.com"
+language = "JavaScript"
+added = 2026-11-06

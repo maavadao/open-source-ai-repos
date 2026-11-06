@@ -1,0 +1,6 @@
+name = "mineral-exploration-machine-learning"
+description = "List of resources for mineral exploration and machine learning, generally with useful code and examples."
+category = "data-science"
+tags = ["artificial-intelligence", "copper", "data", "data-science", "deep-learning", "geochemistry", "geology", "geophysics"]
+repository = "https://github.com/RichardScottOZ/mineral-exploration-machine-learning"
+added = 2026-11-06

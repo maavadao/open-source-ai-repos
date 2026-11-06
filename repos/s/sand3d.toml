@@ -1,0 +1,9 @@
+name = "sand3d"
+description = "3D modeling in Python, built for LLMs."
+category = "llm-apps"
+tags = ["3d", "blender", "cad", "llm", "procedural-modeling", "python", "usd"]
+repository = "https://github.com/Sandflow-ai/sand3d"
+website = "https://sandflow.ai/sand3d/"
+license = "Apache-2.0"
+language = "HTML"
+added = 2026-11-06

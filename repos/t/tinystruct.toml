@@ -1,0 +1,9 @@
+name = "tinystruct"
+description = "A lightweight, modular Java application framework for web and CLI development, designed for AI integration and plugin-based architecture. Enabling developers to create robust solutions with ease for building efficient and scalable applications."
+category = "agents"
+tags = ["agent", "ai-agent", "ai-development", "java", "java-agent", "java-ai", "java-cli", "java-frameworks"]
+repository = "https://github.com/tinystruct/tinystruct"
+website = "https://tinystruct.org"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-11-06

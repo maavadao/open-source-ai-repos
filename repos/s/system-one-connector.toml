@@ -1,0 +1,8 @@
+name = "system-one-connector"
+description = "System One MCP connector to evaluate anything fast and cheap. Give your AI agent direct access to models like: Jev, D1, CLM and Laya"
+category = "mcp-servers"
+tags = ["mcp", "mcp-tools"]
+repository = "https://github.com/itsmostafa/system-one-connector"
+license = "MIT"
+language = "Go"
+added = 2026-11-06

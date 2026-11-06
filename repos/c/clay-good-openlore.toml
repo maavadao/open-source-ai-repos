@@ -1,0 +1,8 @@
+name = "OpenLore"
+description = "Deterministic, local-first memory and guardrails for AI coding agents with no LLM in the hot path."
+category = "agents"
+tags = ["adr", "agentic-workflows", "ai-agents", "call-graph", "code-navigation", "codebase-analysis", "coding-agents", "dead-code-detection"]
+repository = "https://github.com/clay-good/OpenLore"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-06

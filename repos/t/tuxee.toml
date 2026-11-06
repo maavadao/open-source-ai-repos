@@ -1,0 +1,8 @@
+name = "tuxee"
+description = "Tuxee - the most convenient Linux for servers and agents."
+category = "agents"
+tags = ["admin-dashboard", "agents", "linux"]
+repository = "https://github.com/agent0ai/tuxee"
+website = "https://agent-zero.ai"
+language = "JavaScript"
+added = 2026-11-06

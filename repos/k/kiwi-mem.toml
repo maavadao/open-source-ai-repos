@@ -1,0 +1,7 @@
+name = "kiwi-mem"
+description = "🥝 Self-hosted memory gateway for AI companions — OpenAI-compatible proxy with vector search, memory heat, Dream consolidation and calendar-level summaries · AI 伴侣记忆网关：向量搜索、记忆热度、Dream 睡眠整合、日历层级摘要，任何客户端都能接"
+category = "vector-databases"
+tags = ["ai-companion", "ai-companion-systems", "ai-memory", "ai-memory-system", "chatbot", "docker", "fastapi", "llm-gateway"]
+repository = "https://github.com/LucieEveille/kiwi-mem"
+language = "Python"
+added = 2026-11-06

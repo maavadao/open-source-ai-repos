@@ -1,0 +1,9 @@
+name = "visualtorch"
+description = "VisualTorch aims to help visualize Torch-based neural network architectures."
+category = "data-science"
+tags = ["architecture-diagram", "architecture-visualization", "artificial-intelligence", "deep-learning", "machine-learning", "neural-network", "pytorch", "torch"]
+repository = "https://github.com/hiddenstateresearch/visualtorch"
+website = "https://visualtorch.readthedocs.io/en"
+license = "MIT"
+language = "Python"
+added = 2026-11-06

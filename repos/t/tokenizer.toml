@@ -1,0 +1,8 @@
+name = "tokenizer"
+description = "NLP tokenizers written in Go language"
+category = "ml-platforms"
+tags = ["deep-learning", "golang-tokenizer", "nlp", "tokenizer"]
+repository = "https://github.com/sugarme/tokenizer"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-11-06

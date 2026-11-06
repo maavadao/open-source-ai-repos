@@ -1,0 +1,9 @@
+name = "vibe-log-cli"
+description = "A CLI tool for logging and analyzing Claude Code and Cursor ai-driven coding session."
+category = "skills-prompts"
+tags = ["ai-assisted-development", "ai-coding", "ai-coding-assistant", "analysis", "claude", "claude-code", "cursor", "dev-analytics"]
+repository = "https://github.com/vibe-log/vibe-log-cli"
+website = "https://vibe-log.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-06

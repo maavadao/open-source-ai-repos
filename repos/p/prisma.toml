@@ -1,0 +1,9 @@
+name = "Prisma"
+description = "基于 Gemini 的可视化多智能体深度推理引擎 | A visual multi-agent deep reasoning engine powered by Gemini, featuring dynamic planning, chain-of-thought visualization, and multi-session management. Built with React 19 + TypeScript + Vite 6."
+category = "agents"
+tags = ["ai", "chain-of-thought", "gemini", "gemini-api", "multi-agent", "react", "reasoning", "typescript"]
+repository = "https://github.com/yeahhe365/Prisma"
+website = "https://prisma-8yz.pages.dev/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-06

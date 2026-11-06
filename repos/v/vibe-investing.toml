@@ -1,0 +1,8 @@
+name = "vibe-investing"
+description = "AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi-agent backtesting, and data-driven market columns (mNAV arbitrage, BTC-Nasdaq coupling, Alpha Arena). 미국 주식·가상화폐 AI 투자 큐레이션·칼럼·트레이딩 봇."
+category = "agents"
+tags = ["agentic-ai", "ai-search", "algorithmic-trading-dotnet", "backtesting", "bitcoin", "claude", "cryptocurrency", "cryptocurrency-analyser"]
+repository = "https://github.com/gameworkerkim/vibe-investing"
+website = "https://vibequant.cc/"
+language = "HTML"
+added = 2026-11-06

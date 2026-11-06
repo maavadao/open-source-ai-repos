@@ -1,0 +1,8 @@
+name = "Mck-ppt-design-skill"
+description = "Consulting firm-style PowerPoint design system for AI agents. 70 layout patterns, flat design, python-pptx. 麦麸风格PPT设计系统。"
+category = "skills-prompts"
+tags = ["agent-skill", "ai-skill", "ai-skills", "ba", "business", "claude", "claude-code", "claude-skill"]
+repository = "https://github.com/likaku/Mck-ppt-design-skill"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-06

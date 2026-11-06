@@ -1,0 +1,8 @@
+name = "Metalhead.jl"
+description = "AI models in Julia on top of Flux.jl"
+category = "vision"
+tags = ["computer-vision", "deep-learning", "flux", "julia", "machine-learning"]
+repository = "https://github.com/FluxML/Metalhead.jl"
+website = "https://fluxml.ai/Metalhead.jl"
+language = "Julia"
+added = 2026-11-06

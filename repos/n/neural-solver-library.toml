@@ -1,0 +1,8 @@
+name = "Neural-Solver-Library"
+description = "A Library for Advanced Neural PDE Solvers."
+category = "ml-platforms"
+tags = ["deep-learning", "neural-operators", "pde-solver"]
+repository = "https://github.com/thuml/Neural-Solver-Library"
+license = "MIT"
+language = "Python"
+added = 2026-11-06

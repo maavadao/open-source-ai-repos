@@ -1,0 +1,8 @@
+name = "mcp-documentation-server"
+description = "MCP Documentation Server - Bridge the AI Knowledge Gap. ✨ Features: Document management • Gemini integration • AI-powered semantic search • File uploads • Smart chunking • Multilingual support • Zero-setup 🎯 Perfect for: New frameworks • API docs • Internal guides"
+category = "mcp-servers"
+tags = ["documents", "gemini", "knowledge-base", "mcp-server", "model-context-protocol"]
+repository = "https://github.com/andrea9293/mcp-documentation-server"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-06

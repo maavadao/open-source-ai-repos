@@ -1,0 +1,9 @@
+name = "VelaTerm"
+description = "VelaTerm = Codex + iTerm2, The Best ADE for AI Coding"
+category = "skills-prompts"
+tags = ["ai", "ai-agent", "claude", "claude-code", "codex", "coding", "developer-tools", "react"]
+repository = "https://github.com/vlinx-io/VelaTerm"
+website = "https://velaterm.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-06

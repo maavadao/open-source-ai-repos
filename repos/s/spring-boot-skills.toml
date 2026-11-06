@@ -1,0 +1,8 @@
+name = "spring-boot-skills"
+description = "Production-grade Claude Code and Codex skills for Spring Boot developers"
+category = "skills-prompts"
+tags = ["ai-coding-agent", "claude", "claude-ai", "claude-code", "claude-plugin", "claude-skill", "claude-skills", "codex"]
+repository = "https://github.com/rrezartprebreza/spring-boot-skills"
+license = "MIT"
+language = "Java"
+added = 2026-11-06

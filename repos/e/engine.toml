@@ -1,0 +1,8 @@
+name = "engine"
+description = "2bit quants, kernels and runtime for consumer devices."
+category = "local-llms"
+tags = ["ai", "android", "arm", "edge", "edge-ai", "framework", "ios", "llamacpp"]
+repository = "https://github.com/cactus-compute/engine"
+website = "https://cactuscompute.com"
+language = "C++"
+added = 2026-11-06

@@ -1,0 +1,8 @@
+name = "hass-mcp"
+description = "Control and query Home Assistant from Claude and other LLMs — a Model Context Protocol (MCP) server."
+category = "mcp-servers"
+tags = ["ai", "anthropic", "claude", "home-assistant", "home-automation", "homeassistant", "llm", "mcp"]
+repository = "https://github.com/voska/hass-mcp"
+license = "MIT"
+language = "Python"
+added = 2026-11-06

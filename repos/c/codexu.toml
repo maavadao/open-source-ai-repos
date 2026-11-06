@@ -1,0 +1,9 @@
+name = "codexU"
+description = "macOS desktop widget for OpenAI Codex usage, quota tracking, token usage, and today task board"
+category = "chat"
+tags = ["chatgpt", "codex", "codex-cli", "dashboard", "desktop-widget", "developer-tools", "local-first", "macos"]
+repository = "https://github.com/shanggqm/codexU"
+website = "https://shanggqm.github.io/codexU-site/"
+license = "MIT"
+language = "Swift"
+added = 2026-11-06

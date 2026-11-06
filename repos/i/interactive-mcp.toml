@@ -1,0 +1,8 @@
+name = "interactive-mcp"
+description = "Vibe coding should have human in the loop! interactive-mcp: Local, cross-platform MCP server for interact with your AI Agent"
+category = "mcp-servers"
+tags = ["mcp", "mcp-server", "vibe-coding", "vibecoding"]
+repository = "https://github.com/ttommyth/interactive-mcp"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-06

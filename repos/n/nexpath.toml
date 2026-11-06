@@ -1,0 +1,8 @@
+name = "nexpath"
+description = "Local-first AI coding workflow for vibe coders, indie hackers, technical founders and product managers — catch missing tests and safety checks across Claude Code, Cursor, Windsurf, Replit, Lovable and Bolt.new."
+category = "skills-prompts"
+tags = ["ai-code-tools", "ai-coding-assistants", "ai-developer-tools", "ai-pair-programming", "bolt-new", "claude-code-plugin", "code-quality", "code-review"]
+repository = "https://github.com/hi0001234d/nexpath"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-06

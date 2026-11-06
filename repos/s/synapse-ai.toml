@@ -1,0 +1,9 @@
+name = "synapse-ai"
+description = "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating AI agents powered by any LLM — local, cloud or CLIs."
+category = "agents"
+tags = ["custom-agents", "custom-tools", "directed-acyclic-graph", "llm-agent", "mcp-client", "mcp-server", "mcp-servers", "mcp-tools"]
+repository = "https://github.com/synapseorch-ai/synapse-ai"
+website = "https://synapseorch.com"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-11-06

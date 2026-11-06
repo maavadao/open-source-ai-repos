@@ -1,0 +1,7 @@
+name = "MoneyPrinterAICreate"
+description = "基于MoneyPrinterTurbo，AI生成分镜大纲与视频（动态，不是念ppt），接入万相通义wan2.1 ai文生视频、图生视频功能，灵活把控视频生成。Based on MoneyPrinterTurbo, AI generates image outline and video (dynamic, not ppt), and integrates wan2.1 text-to-video and image-to-video functions to flexibly control video generation."
+category = "chat"
+tags = ["aigc", "chatgpt", "deepseek", "kimi", "python", "shortvideo", "video", "wan21"]
+repository = "https://github.com/q1uki/MoneyPrinterAICreate"
+language = "Python"
+added = 2026-11-06

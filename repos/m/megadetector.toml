@@ -1,0 +1,8 @@
+name = "MegaDetector"
+description = "MegaDetector is an AI model that helps conservation folks spend less time doing boring things with camera trap images."
+category = "vision"
+tags = ["camera-traps", "cameratrap", "cameratraps", "computer-vision", "conservation", "ecology", "machine-learning", "megadetector"]
+repository = "https://github.com/agentmorris/MegaDetector"
+license = "MIT"
+language = "Python"
+added = 2026-11-06

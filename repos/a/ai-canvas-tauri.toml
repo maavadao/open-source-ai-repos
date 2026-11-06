@@ -1,0 +1,8 @@
+name = "AI-Canvas-tauri"
+description = "AI画布、AI短剧创作工具：免费、轻量的无限画布，支持短剧剧本、角色管理、分镜、图像/视频生成和短剧剪辑，集成 ComfyUI、Agent、MCP。Free AI canvas and short drama maker."
+category = "mcp-servers"
+tags = ["ai-agent", "ai-canvas", "ai-short-drama", "ai-workflow", "asset-management", "blender", "comfyui", "creative-tools"]
+repository = "https://github.com/Tenney95/AI-Canvas-tauri"
+website = "https://tenney95.github.io/AI-Canvas-tauri/"
+language = "TypeScript"
+added = 2026-11-06

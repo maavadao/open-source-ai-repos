@@ -1,0 +1,8 @@
+name = "forest"
+description = "FOREST is a research agent for long-horizon science, where evidence gets lost, errors compound, and goals drift. It explores ideas, reads literature, forms hypotheses, runs real experiments, analyzes results, revises paths, and builds a full paper—all in an editable graph you can inspect, branch, r…"
+category = "agents"
+tags = ["ai-agents", "ai-scientist", "automated-research", "autoresearch", "llm-agents", "research"]
+repository = "https://github.com/mikamikasuki/forest"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-06

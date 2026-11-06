@@ -1,0 +1,8 @@
+name = "bili-cli"
+description = "为 AI Agent 设计的哔哩哔哩命令行工具：扫码登录、看视频、评论、私信、发动态、投稿，全部 JSON 输出"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agent", "automation", "bilibili", "claude-code", "cli", "codex", "deepseek"]
+repository = "https://github.com/kukemc/bili-cli"
+license = "MIT"
+language = "Python"
+added = 2026-11-06

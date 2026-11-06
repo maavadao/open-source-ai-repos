@@ -1,0 +1,9 @@
+name = "knowledge-intelligence"
+description = "Knowledge Intelligence: a multi-tenant, permission-aware enterprise RAG platform. Grounded answers with citations over documents, databases and SaaS sources, plus Text-to-SQL, agents and a live connections map. FastAPI, PostgreSQL/pgvector, Next.js."
+category = "chat"
+tags = ["ai", "chatbot", "csv-files", "langchain", "openai", "streamlit"]
+repository = "https://github.com/Safiullah-Rahu/knowledge-intelligence"
+website = "https://csv-ai.streamlit.app/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-06

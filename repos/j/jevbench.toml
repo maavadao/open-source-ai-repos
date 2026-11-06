@@ -1,0 +1,9 @@
+name = "jevbench"
+description = "JevBench by Benchmark Heaven: benchmark and leaderboard for AI decision models, measuring typed decision accuracy, calibration, latency and cost."
+category = "ml-platforms"
+tags = ["ai-benchmark", "benchmark-heaven", "calibration", "decision-models", "decisionmodels", "jev", "jev-compatible", "jevbench"]
+repository = "https://github.com/fstandhartinger/jevbench"
+website = "https://benchmarkheaven.com/jev-models"
+license = "MIT"
+language = "Python"
+added = 2026-11-06

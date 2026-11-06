@@ -1,0 +1,8 @@
+name = "ryugi"
+description = "流儀 — a skills collection for coding agents and the artifacts workbench they design in: live artboards, commentable documents, HTML test benches, TDD builds"
+category = "skills-prompts"
+tags = ["ai", "ai-agents", "artboard", "artifacts", "brainstorming", "claude-code", "codex", "coding-agents"]
+repository = "https://github.com/Innei/ryugi"
+website = "https://ryugi.innei.dev"
+language = "Shell"
+added = 2026-11-06

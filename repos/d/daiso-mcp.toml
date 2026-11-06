@@ -1,0 +1,9 @@
+name = "daiso-mcp"
+description = "다이소·편의점 재고와 생활 정보를 AI에서 바로 조회하세요. 설치·API 키 없는 공개 MCP, 웹 링크 조회, CLI·Skill을 지원합니다."
+category = "mcp-servers"
+tags = ["cgv", "clawhub", "cli", "codex-skill", "daiso", "gs25", "inventory", "korea"]
+repository = "https://github.com/hmmhmmhm/daiso-mcp"
+website = "https://daiso-mcp.aka.page"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-06

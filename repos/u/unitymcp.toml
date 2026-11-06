@@ -1,0 +1,9 @@
+name = "UnityMCP"
+description = "Drive the Unity Editor from an AI agent or the terminal. The Editor serves MCP itself over HTTP, so there is no second process to run, and the isuzu-unity-cli command needs no Node or .NET runtime."
+category = "mcp-servers"
+tags = ["ai-agent", "automation", "claude", "cli", "csharp", "mcp", "model-context-protocol", "unity"]
+repository = "https://github.com/isuzu-shiranui/UnityMCP"
+website = "https://unity-mcp.shiranui-isuzu.dev/en/"
+license = "MIT"
+language = "C#"
+added = 2026-11-06

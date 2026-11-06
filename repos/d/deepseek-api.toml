@@ -1,0 +1,8 @@
+name = "Deepseek-API"
+description = "Reverse engineered Deepseek chat into an OpenAI compatible API. Access V4 and R1 models through a simple REST interface without API keys or billing."
+category = "coding"
+tags = ["ai", "ai-agents", "ai-tools", "copilot", "deepseek", "deepseek-api", "deepseek-r1", "deepseek-v4"]
+repository = "https://github.com/sums001/Deepseek-API"
+license = "MIT"
+language = "Python"
+added = 2026-11-06

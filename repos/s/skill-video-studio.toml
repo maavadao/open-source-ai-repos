@@ -1,0 +1,8 @@
+name = "skill-video-studio"
+description = "Claude Code skill for product videos: real browser capture, branded composition, and local mastering."
+category = "skills-prompts"
+tags = ["agent-skills", "agents", "claude-code", "devrel", "ffmpeg", "harness", "playwright", "video"]
+repository = "https://github.com/aaitor/skill-video-studio"
+license = "MIT"
+language = "HTML"
+added = 2026-11-06
