@@ -1,0 +1,8 @@
+name = "gtm-cofounder"
+description = "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tools and AI products, for founders, GTM hires, and founding AEs: positioning, first users, launch, pricing. Sharpened by Frankl & Czakon. MIT."
+category = "skills-prompts"
+tags = ["agent-skills", "ai", "ai-founders", "claude", "claude-code", "claude-skills", "dev-tools", "developer-marketing"]
+repository = "https://github.com/AIDevGTM/gtm-cofounder"
+website = "https://gtmcofounder.com"
+license = "MIT"
+added = 2026-11-07

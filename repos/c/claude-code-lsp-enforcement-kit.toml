@@ -1,0 +1,9 @@
+name = "claude-code-lsp-enforcement-kit"
+description = "Hooks that force Claude Code to use LSP instead of Grep for code navigation. Saves ~80% tokens"
+category = "skills-prompts"
+tags = ["claude", "claude-ai", "claude-code", "claude-hook", "claude-hooks"]
+repository = "https://github.com/nesaminua/claude-code-lsp-enforcement-kit"
+website = "https://madsalt.tech/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-07

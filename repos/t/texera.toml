@@ -1,0 +1,9 @@
+name = "texera"
+description = "Human-AI Collaborative Data Science Using Visual Workflows"
+category = "agents"
+tags = ["ai-agents", "artificial-intelligence", "cloud-native", "data-science", "human-ai-collaboration", "interactive-engine", "machine-learning", "runtime-debugging"]
+repository = "https://github.com/apache/texera"
+website = "https://texera.apache.org/"
+license = "Apache-2.0"
+language = "Scala"
+added = 2026-11-07

@@ -1,0 +1,9 @@
+name = "oh-my-cpa"
+description = "Self-hosted control plane & usage observability console for CLIProxyAPI (CPA) — AI providers, client keys, streaming telemetry, and model cost snapshots."
+category = "llm-apps"
+tags = ["ai-gateway", "cliproxyapi", "cpa", "dashboard", "golang", "llm", "observability", "proxy"]
+repository = "https://github.com/WizisCool/oh-my-cpa"
+website = "https://omc-demo.junze.dev"
+license = "MIT"
+language = "Go"
+added = 2026-11-07

@@ -1,0 +1,9 @@
+name = "pi-fabric"
+description = "A programmable tool and agent runtime for Pi"
+category = "agents"
+tags = ["agents", "coding-agent", "mcp", "multi-agent", "orchestration", "pi", "pi-extension", "pi-package"]
+repository = "https://github.com/fabric-runtime/pi-fabric"
+website = "https://www.npmjs.com/package/pi-fabric"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-07

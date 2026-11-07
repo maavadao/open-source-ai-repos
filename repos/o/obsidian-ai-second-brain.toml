@@ -1,0 +1,7 @@
+name = "obsidian-ai-second-brain"
+description = "Obsidian + Claude AI 个人知识库完整搭建指南 | 基于 Karpathy LLM Wiki 方法论 | 4 阶段 12 步 | 不用写代码"
+category = "other"
+tags = ["ai", "claude", "claudian", "karpathy", "knowledge-base", "llm-wiki", "obsidian", "obsidian-plugin"]
+repository = "https://github.com/helloianneo/obsidian-ai-second-brain"
+license = "MIT"
+added = 2026-11-07

@@ -1,0 +1,9 @@
+name = "Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero"
+description = "This repository provides a comprehensive step-by-step guide to building AI projects using the Raspberry Pi AI Kit."
+category = "local-llms"
+tags = ["clip", "computer-vision", "hailo8", "instance-segmentation", "object-detection", "ollama", "pose-estimation", "raspberry-pi"]
+repository = "https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero"
+website = "https://seeed-projects.github.io/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-11-07

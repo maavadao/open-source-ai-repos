@@ -1,0 +1,9 @@
+name = "presidio-research"
+description = "This package features data-science related tasks for developing new recognizers for Presidio. It is used for the evaluation of the entire system, as well as for evaluating specific PII recognizers or PII detection models."
+category = "models"
+tags = ["deep-learning", "flair", "machine-learning", "named-entity-recognition", "natural-language-processing", "ner", "nlp", "pii"]
+repository = "https://github.com/data-privacy-stack/presidio-research"
+website = "https://data-privacy-stack.github.io/presidio-research/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-11-07

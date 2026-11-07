@@ -1,0 +1,8 @@
+name = "FractalWorkspace"
+description = "A unified ecosystem and workspace for large-scale federated learning of Large Models & LLMS. Store compute as Wifi"
+category = "ml-platforms"
+tags = ["compute-orchestration", "distributed-systems", "edge-computing", "edge-intelligence", "edge-training", "federated-learning", "iot", "machine-learning"]
+repository = "https://github.com/Fractal-Compute-Orchestrations/FractalWorkspace"
+website = "https://play.google.com/store/apps/details?id=org.fractal.app&hl=en"
+language = "Python"
+added = 2026-11-07

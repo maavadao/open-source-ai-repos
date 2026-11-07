@@ -1,0 +1,9 @@
+name = "agent-security"
+description = "Local-first, open-source security gateway for AI coding agents. Enforce tool-call policies, detect secrets, and audit actions on-device."
+category = "skills-prompts"
+tags = ["ai-agent-security", "ai-agents", "claude-code", "codex", "dlp", "local-first", "policy-enforcement", "security-gateway"]
+repository = "https://github.com/solongate/agent-security"
+website = "https://solongate.com"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-11-07

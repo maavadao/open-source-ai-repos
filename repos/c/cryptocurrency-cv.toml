@@ -1,0 +1,8 @@
+name = "cryptocurrency.cv"
+description = "Free crypto news API - real-time aggregator for Bitcoin, Ethereum, DeFi, Solana & altcoins. No API key required. RSS/Atom feeds, JSON REST API, historical archive with market context, embeddable widgets, ChatGPT plugin, Claude MCP server, SDKs (Python, TypeScript, Go, React, PHP). AI/LLM ready. Vib…"
+category = "mcp-servers"
+tags = ["ai-agent", "api", "bitcoin", "chatgpt", "claude", "crypto", "cryptocurrency", "defi"]
+repository = "https://github.com/nirholas/cryptocurrency.cv"
+website = "https://cryptocurrency.cv"
+language = "TypeScript"
+added = 2026-11-07

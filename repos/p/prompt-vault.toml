@@ -1,0 +1,8 @@
+name = "prompt-vault"
+description = "本地优先的 Prompt 收藏桌面工具 · Tauri 2 + React 19 + TypeScript · Local-first prompt vault for Windows"
+category = "skills-prompts"
+tags = ["desktop-app", "local-first", "prompt-engineering", "prompt-management", "react", "rust", "tauri", "tauri-app"]
+repository = "https://github.com/zklmiao/prompt-vault"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-07

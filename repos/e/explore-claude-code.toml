@@ -1,0 +1,9 @@
+name = "explore-claude-code"
+description = "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more."
+category = "skills-prompts"
+tags = ["claude", "claude-code", "claude-skills"]
+repository = "https://github.com/LukeRenton/explore-claude-code"
+website = "https://www.exploreclaudecode.com/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-07

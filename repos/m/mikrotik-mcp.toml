@@ -1,0 +1,9 @@
+name = "mikrotik-mcp"
+description = "MCP server for Mikrotik"
+category = "mcp-servers"
+tags = ["ai", "ai-agents", "ai-assistant", "ai-tools", "llms", "mcp", "mcp-server", "mikrotik"]
+repository = "https://github.com/wiresage/mikrotik-mcp"
+website = "https://mikrotik-mcp.com"
+license = "MIT"
+language = "Python"
+added = 2026-11-07

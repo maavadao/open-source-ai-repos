@@ -1,0 +1,9 @@
+name = "ai-real-estate-assistant"
+description = "Open-source AI real estate search with RAG, vector search, multi-provider LLMs, FastAPI, Next.js, ChromaDB, and a live demo."
+category = "vector-databases"
+tags = ["artificial-intelligence", "chatbot", "chromadb", "fastapi", "llm", "nextjs", "open-source", "property-search"]
+repository = "https://github.com/AleksNeStu/ai-real-estate-assistant"
+website = "https://ai-real-estate-demo.devs-scaler.workers.dev"
+license = "MIT"
+language = "Python"
+added = 2026-11-07

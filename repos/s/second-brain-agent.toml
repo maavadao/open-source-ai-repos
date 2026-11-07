@@ -1,0 +1,8 @@
+name = "second-brain-agent"
+description = "🧠 Second Brain AI agent"
+category = "chat"
+tags = ["artificial-intelligence", "chatgpt", "chatgpt-api", "chatgpt-bot", "langchain", "langchain-python", "personal-knowledge-management", "pkm"]
+repository = "https://github.com/flepied/second-brain-agent"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-11-07

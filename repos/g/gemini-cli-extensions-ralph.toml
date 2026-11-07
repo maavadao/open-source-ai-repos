@@ -1,0 +1,8 @@
+name = "ralph"
+description = "Gemini CLI extension for Ralph loops"
+category = "other"
+tags = ["cli", "gemini", "gemini-cli", "ralph", "ralph-loop", "ralph-wiggum"]
+repository = "https://github.com/gemini-cli-extensions/ralph"
+license = "Apache-2.0"
+language = "Shell"
+added = 2026-11-07

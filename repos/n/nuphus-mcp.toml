@@ -1,0 +1,9 @@
+name = "nuphus-mcp"
+description = "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio). Not a DSH plugin — DSH users install dsh-nuphus-mcp."
+category = "mcp-servers"
+tags = ["ai-agent", "browser-automation", "chrome-automation", "computer-use", "computer-vision", "desktop-automation", "mcp", "mcp-server"]
+repository = "https://github.com/mrpulor-gh/nuphus-mcp"
+website = "https://github.com/mrpulor-gh/nuphus-mcp"
+license = "MIT"
+language = "Rust"
+added = 2026-11-07

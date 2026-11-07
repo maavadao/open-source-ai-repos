@@ -1,0 +1,7 @@
+name = "reacTIVision"
+description = "computer vision framework for tangible interactive surfaces"
+category = "vision"
+tags = ["blob-tracking", "camera", "computer-vision", "cross-platform", "fiducial-markers", "fiducial-symbols", "multi-touch", "open-sound-control"]
+repository = "https://github.com/mkalten/reacTIVision"
+language = "C"
+added = 2026-11-07

@@ -1,0 +1,9 @@
+name = "SeleniumBase"
+description = "Browser automation, web scraping, and testing. CDP Mode provides a Stealthy Chromium instance that bypasses bot-detection systems. Includes an MCP server."
+category = "mcp-servers"
+tags = ["bot-detection", "cdp", "chrome-devtools-protocol", "chromedriver", "cloudflare-bypass", "e2e-testing", "end-to-end-testing", "mcp"]
+repository = "https://github.com/seleniumbase/SeleniumBase"
+website = "https://seleniumbase.io"
+license = "MIT"
+language = "Python"
+added = 2026-11-07

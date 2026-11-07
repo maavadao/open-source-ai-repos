@@ -1,0 +1,9 @@
+name = "llm-context.py"
+description = "Share code with LLMs via Model Context Protocol or clipboard. Rule-based customization enables easy switching between different tasks (like code review and documentation). Includes smart code outlining."
+category = "mcp-servers"
+tags = ["claude-desktop", "cli", "coding", "model-context-protocol", "tools"]
+repository = "https://github.com/cyberchitta/llm-context.py"
+website = "https://www.cyberchitta.cc/articles/llm-ctx-why.html"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-07

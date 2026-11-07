@@ -1,0 +1,8 @@
+name = "phonon"
+description = "Phonon: open speech recognition models (Phonon-2, Phonon-1) — CLI, CPU and CUDA images"
+category = "local-llms"
+tags = ["asr", "cuda", "docker", "low-bit", "mlx", "pytorch", "quantization", "speech-recognition"]
+repository = "https://github.com/fermionresearch/phonon"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-07

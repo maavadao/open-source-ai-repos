@@ -1,0 +1,8 @@
+name = "deepdoc"
+description = "Deep research tool for local knowledge base."
+category = "local-llms"
+tags = ["agentic-ai", "deepresearch", "jev", "jev-ai", "jev-api", "jev-model", "langchain", "langgraph"]
+repository = "https://github.com/Oqura-ai/deepdoc"
+license = "MIT"
+language = "Python"
+added = 2026-11-07

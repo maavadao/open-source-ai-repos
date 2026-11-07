@@ -1,0 +1,8 @@
+name = "test-model-thing"
+description = "A small proof-of-concept language model (not an LLM) that aims to incorporate latent-space prediction, internal state using recurrent trace units, and byte-by-byte output, built with MLX."
+category = "models"
+tags = ["ai", "apple-silicon", "artificial-intelligence", "bytes", "continual-learning", "jepa", "language-model", "language-models"]
+repository = "https://github.com/jrz97619761/test-model-thing"
+license = "MIT"
+language = "Python"
+added = 2026-11-07

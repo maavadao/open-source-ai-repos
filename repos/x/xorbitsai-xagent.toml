@@ -1,0 +1,8 @@
+name = "xagent"
+description = "Build personal agents and enterprise AI workforces that plan, delegate, use tools, and deliver real work — without brittle workflows."
+category = "agents"
+tags = ["agent", "agentic-ai", "claude", "gemini", "llm", "no-code", "openai", "orchestration"]
+repository = "https://github.com/xorbitsai/xagent"
+website = "https://docs.xagent.co"
+language = "Python"
+added = 2026-11-07

@@ -1,0 +1,9 @@
+name = "pi-desktop"
+description = "A local-first, cross-platform Electron desktop workspace for Pi Coding Agent, with sessions, project files, browser tools, skills, plugins, and messaging integrations."
+category = "browser-automation"
+tags = ["agentic-ai", "ai-agent", "ai-coding-assistant", "browser-automation", "coding-agent", "cross-platform", "desktop-app", "developer-tools"]
+repository = "https://github.com/DLYZZT/pi-desktop"
+website = "https://pi-desktop.app"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-07

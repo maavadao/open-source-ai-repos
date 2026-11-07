@@ -1,0 +1,8 @@
+name = "agentsre"
+description = "SRE reliability instrumentation for agentic AI — DQR, TIE, HER, AQD"
+category = "agents"
+tags = ["agentic-ai", "ai-agents", "observability", "python", "reliability", "sli", "slo", "sre"]
+repository = "https://github.com/Ajay150313/agentsre"
+license = "MIT"
+language = "Python"
+added = 2026-11-07

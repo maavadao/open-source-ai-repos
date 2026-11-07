@@ -1,0 +1,9 @@
+name = "Cortico"
+description = "Event-stream AI Agent framework for building your persona bot 🍊"
+category = "chat"
+tags = ["agent-framework", "ai-agent", "chatbot", "llm", "persona", "typescript", "vtuber"]
+repository = "https://github.com/Pal-AI-Lab/Cortico"
+website = "https://palailab.org"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-07

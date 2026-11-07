@@ -1,0 +1,9 @@
+name = "cheap-ag"
+description = "50x your usage with cheap-ag. Opus/Astra plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP server for Claude Code & Codex."
+category = "mcp-servers"
+tags = ["agentic-coding", "ai-agents", "anthropic", "cheap-llm", "claude", "claude-code", "claude-code-hooks", "claude-code-plugin"]
+repository = "https://github.com/muaaz9329/cheap-ag"
+website = "https://cheapag.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-07

@@ -1,0 +1,8 @@
+name = "usage-monitor-for-claude"
+description = "Lightweight Windows tray app that monitors your Claude rate limits in real time - portable single EXE, zero configuration, fully auditable"
+category = "skills-prompts"
+tags = ["anthropic", "claude", "claude-code", "desktop-app", "developer-tools", "python", "quota", "rate-limit"]
+repository = "https://github.com/jens-duttke/usage-monitor-for-claude"
+license = "MIT"
+language = "Python"
+added = 2026-11-07

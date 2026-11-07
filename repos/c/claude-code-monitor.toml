@@ -1,0 +1,8 @@
+name = "claude-code-monitor"
+description = "Real-time dashboard for monitoring multiple Claude Code sessions. CLI + Mobile Web UI with QR code access, terminal focus switching (iTerm2, Terminal.app, Ghostty). macOS only."
+category = "skills-prompts"
+tags = ["claude", "claude-code"]
+repository = "https://github.com/onikan27/claude-code-monitor"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-07

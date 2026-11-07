@@ -1,0 +1,8 @@
+name = "ai-research-publications"
+description = "High-school research portfolio: 2 peer-reviewed publications (IEEE, IJHSR) + 3 active projects spanning quantum-inspired ML, computational biology, biomedical imaging, wildfire RL, and science-education research. Stanford Medicine, UCLA COSMOS & UCSB SRA affiliated."
+category = "robotics"
+tags = ["bioinformatics", "biomedical-imaging", "c-elegans", "computational-biology", "genetic-algorithm", "graph-neural-networks", "high-school-research", "machine-learning"]
+repository = "https://github.com/aaryansamanta/ai-research-publications"
+website = "https://aaryansamanta.github.io/"
+language = "HTML"
+added = 2026-11-07

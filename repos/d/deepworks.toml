@@ -1,0 +1,8 @@
+name = "DeepWorks"
+description = "A collection of Deep Learning projects and resources"
+category = "llm-apps"
+tags = ["artificial-intelligence", "deep-learning", "generative-models", "llm", "machine-learning", "pytorch", "tensorflow"]
+repository = "https://github.com/avkash/DeepWorks"
+website = "https://youtube.com/@prodramp"
+language = "Jupyter Notebook"
+added = 2026-11-07

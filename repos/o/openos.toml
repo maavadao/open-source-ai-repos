@@ -1,0 +1,9 @@
+name = "openos"
+description = "🧠 OpenOS — A Debian-based operating system where AI is the interface. Talk to your computer. It understands."
+category = "local-llms"
+tags = ["agentic-ai", "ai", "artificial-intelligence", "autonomous-agents", "debian", "linux", "ollama", "open-source"]
+repository = "https://github.com/openos07/openos"
+website = "https://openos07.github.io/openos/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-11-07

@@ -1,0 +1,8 @@
+name = "reddit-mcp-server"
+description = "⚙️ A Model Context Protocol (MCP) that provides tools for fetching and creating Reddit content"
+category = "mcp-servers"
+tags = ["claude", "llm-tools", "mcp", "mcp-server", "model-context-protocol", "reddit", "reddit-api", "typescript"]
+repository = "https://github.com/jordanburke/reddit-mcp-server"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-07

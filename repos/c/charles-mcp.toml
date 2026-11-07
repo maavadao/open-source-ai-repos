@@ -1,0 +1,9 @@
+name = "Charles-mcp"
+description = "Charles Proxy MCP server for AI agents with live capture, structured traffic analysis, and agent-friendly tool contracts"
+category = "mcp-servers"
+tags = ["ai-agent", "charles-proxy", "codex", "developer-tools", "mcp", "mcp-server", "network-debugging", "openai"]
+repository = "https://github.com/heizaheiza/Charles-mcp"
+website = "https://pypi.org/project/charles-mcp/"
+license = "MIT"
+language = "Python"
+added = 2026-11-07

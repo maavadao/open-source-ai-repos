@@ -1,0 +1,8 @@
+name = "nuphos"
+description = "The agent workspace for your team — run, manage and collaborate on coding agents across people, machines and tools."
+category = "skills-prompts"
+tags = ["agent-workspace", "ai-agents", "claude-code", "codex", "grok-bot-alternative", "multiplayer", "personal-agent", "self-hosted"]
+repository = "https://github.com/nuphos/nuphos"
+website = "https://nuphos.ai"
+language = "TypeScript"
+added = 2026-11-07

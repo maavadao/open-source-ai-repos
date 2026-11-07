@@ -1,0 +1,8 @@
+name = "godot-ai-assistant-hub"
+description = "Embed AI assistants in Godot with the ability to read and write code in Godot's Code Editor."
+category = "local-llms"
+tags = ["ai", "assistant", "gemini", "godot", "jan", "llm", "ollama", "ollama-turbo"]
+repository = "https://github.com/FlamxGames/godot-ai-assistant-hub"
+license = "MIT"
+language = "GDScript"
+added = 2026-11-07

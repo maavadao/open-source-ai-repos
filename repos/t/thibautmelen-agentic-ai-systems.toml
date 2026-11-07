@@ -1,0 +1,7 @@
+name = "agentic-ai-systems"
+description = "Agentic AI explained with chickens 🐔 every pattern a runnable, CI-checked file."
+category = "skills-prompts"
+tags = ["agent-sdk", "agent-skills", "agentic", "agentic-frameworks", "agentic-patterns", "agentic-systems", "ai-agents", "anthropic"]
+repository = "https://github.com/ThibautMelen/agentic-ai-systems"
+license = "MIT"
+added = 2026-11-07

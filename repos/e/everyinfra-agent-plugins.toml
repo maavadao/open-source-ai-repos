@@ -1,0 +1,9 @@
+name = "everyinfra-agent-plugins"
+description = "EveryInfra MCP server & agent plugin: scraper API for TikTok, Instagram, Amazon, YouTube, Xiaohongshu & Douyin. 573 data APIs across 106 platforms, from $0.56/1K calls. For Claude Code, Cursor, Codex."
+category = "mcp-servers"
+tags = ["ai-agents", "amazon-scraper", "captcha-solver", "claude-code", "cursor", "douyin", "everyinfra", "instagram-api"]
+repository = "https://github.com/everyinfra/everyinfra-agent-plugins"
+website = "https://everyinfra.com/en/mcp-server?utm_source=github&utm_medium=repo&utm_campaign=listing_2026q4&utm_content=everyinfra-agent-plugins"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-07

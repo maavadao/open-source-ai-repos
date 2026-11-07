@@ -1,0 +1,8 @@
+name = "codex-app-transfer"
+description = "Local desktop gateway that translates OpenAI Codex CLI's Responses API into Chat Completions for Kimi / DeepSeek / Zhipu GLM / Bailian and other OpenAI-compatible providers."
+category = "other"
+tags = ["api-proxy", "chat-completions", "claude", "codex", "deepseek", "kimi", "llm-tools", "openai"]
+repository = "https://github.com/Cmochance/codex-app-transfer"
+license = "MIT"
+language = "Rust"
+added = 2026-11-07

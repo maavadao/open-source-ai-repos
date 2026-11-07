@@ -1,0 +1,9 @@
+name = "postman-mcp-server"
+description = "Postman MCP Server — connect AI agents (Claude Code, Cursor, VS Code Copilot, Gemini CLI) to your Postman collections, OpenAPI specs, and environments via Model Context Protocol (MCP)"
+category = "mcp-servers"
+tags = ["agent", "ai", "ai-agents", "api-testing", "claude", "claude-code", "copilot", "cursor"]
+repository = "https://github.com/postmanlabs/postman-mcp-server"
+website = "https://www.postman.com/product/mcp-server/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-07

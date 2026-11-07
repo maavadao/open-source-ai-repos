@@ -1,0 +1,9 @@
+name = "OpenAgentCore"
+description = "The OpenAI Agents API, open source and self-hosted. Run Codex, Claude Code or MiniMax Code on your own machines with your own models, through the official OpenAI SDK."
+category = "skills-prompts"
+tags = ["agent-runtime", "ai-agents", "claude-code", "codex", "coding-agent", "llm", "mcp", "openai"]
+repository = "https://github.com/MiniMax-AI/OpenAgentCore"
+website = "https://openagentcore.dev/"
+license = "MIT"
+language = "Go"
+added = 2026-11-07

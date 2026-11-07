@@ -1,0 +1,9 @@
+name = "sellbird"
+description = "Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT plan. Finds companies and decision makers, verifies emails, writes personal cold email, sends it and handles the replies."
+category = "skills-prompts"
+tags = ["ai-agent", "autonomous-agent", "claude", "claude-code", "codex", "cold-email", "email-verification", "harvey"]
+repository = "https://github.com/ethanplusai/sellbird"
+website = "https://sellbird.ai"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-11-07

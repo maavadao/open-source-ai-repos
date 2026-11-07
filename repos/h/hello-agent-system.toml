@@ -1,0 +1,8 @@
+name = "hello-agent-system"
+description = "👋 Hello Agent System — learn enterprise AI agent system design by building every production layer from scratch. 17 bilingual lessons (EN/中文) with tested exercises: tools, architectures, reliability, security, evals, distributed execution, cost, RAG, release ops. 企业级 Agent 系统设计训练营"
+category = "agents"
+tags = ["agent", "ai-agents", "bilingual", "chinese", "course", "distributed-systems", "enterprise", "evals"]
+repository = "https://github.com/heaven999b/hello-agent-system"
+license = "MIT"
+language = "Python"
+added = 2026-11-07

@@ -1,0 +1,9 @@
+name = "bdpan-storage"
+description = "Agent Skill for Baidu Netdisk (百度网盘) — upload, download, transfer, share, search files via natural language. Works with Claude Code, Cursor, Codex, Gemini CLI, OpenClaw."
+category = "skills-prompts"
+tags = ["agent-skills", "agentic-ai", "ai-agents", "baidu", "baidu-netdisk", "claude-code", "claude-code-plugin", "claude-code-skills"]
+repository = "https://github.com/baidu-netdisk/bdpan-storage"
+website = "https://pan.baidu.com/apaastobui/developer#/developer/skill"
+license = "Apache-2.0"
+language = "Shell"
+added = 2026-11-07

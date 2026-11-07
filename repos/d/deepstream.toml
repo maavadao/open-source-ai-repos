@@ -1,0 +1,8 @@
+name = "DeepStream"
+description = "NVIDIA DeepStream Monorepo: DeepStream SDK and reference apps for building GPU‑accelerated, real-time video and multi‑sensor analytics pipelines with GStreamer, TensorRT, and vision AI models across edge, on‑prem, and cloud deployments."
+category = "vision"
+tags = ["computer-vision", "cuda", "deepstream-sdk", "edge-ai", "embedded-systems", "gpu-accelerated", "gstreamer", "jetson"]
+repository = "https://github.com/NVIDIA/DeepStream"
+website = "https://docs.nvidia.com/metropolis/deepstream/dev-guide/"
+language = "C++"
+added = 2026-11-07

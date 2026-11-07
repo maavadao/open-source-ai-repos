@@ -1,0 +1,9 @@
+name = "claude-cmd"
+description = "Claude Code Commands Manager"
+category = "skills-prompts"
+tags = ["claude", "claude-code", "commands"]
+repository = "https://github.com/kiliczsh/claude-cmd"
+website = "https://kiliczsh.github.io/claude-cmd/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-07

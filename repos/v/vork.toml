@@ -1,0 +1,8 @@
+name = "vork"
+description = "Headless 3D and VFX engine for agents. Research preview."
+category = "agents"
+tags = ["3d", "ai-agents", "gpu", "metal", "ray-tracing", "rendering", "rust", "slang"]
+repository = "https://github.com/voyager-so/vork"
+website = "https://voyager.so/vork"
+language = "Rust"
+added = 2026-11-07

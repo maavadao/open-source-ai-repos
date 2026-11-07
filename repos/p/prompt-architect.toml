@@ -1,0 +1,9 @@
+name = "prompt-architect"
+description = "Agent skill for analyzing and improving prompts using 31 frameworks across 7 intent categories. Works with Claude Code, Gemini CLI, Cursor, Copilot, and 30+ Agent Skills compatible tools."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-coding-agents", "ai-tools", "chain-of-thought", "chatgpt", "claude-code", "claude-skill", "cursor"]
+repository = "https://github.com/ckelsoe/prompt-architect"
+website = "https://github.com/ckelsoe/prompt-architect"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-07

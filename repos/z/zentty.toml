@@ -1,0 +1,9 @@
+name = "zentty"
+description = "A native macOS terminal for agent-driven development, built on Ghostty."
+category = "skills-prompts"
+tags = ["agentic-ai", "amp", "claude-code", "codex", "coding-agents", "developer-tools", "droid", "gemini"]
+repository = "https://github.com/dedene/zentty"
+website = "https://zentty.org"
+license = "GPL-3.0"
+language = "Swift"
+added = 2026-11-07

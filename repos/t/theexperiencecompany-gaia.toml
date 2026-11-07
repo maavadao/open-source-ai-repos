@@ -1,0 +1,8 @@
+name = "gaia"
+description = "Your proactive personal AI assistant for daily life"
+category = "agents"
+tags = ["ai-agents", "artificial-intelligence", "assistant-chat-bots", "chatbots", "context-aware", "digital-assistant", "personal-ai", "personal-assistant"]
+repository = "https://github.com/theexperiencecompany/gaia"
+website = "https://heygaia.io"
+language = "Python"
+added = 2026-11-07

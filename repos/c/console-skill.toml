@@ -1,0 +1,8 @@
+name = "console-skill"
+description = "11 Claude skills that port PlayStation 2 games you own to PC: reverse engineer the code, rebuild the graphics and backend, any controller, play it anywhere, then mod it however you want."
+category = "skills-prompts"
+tags = ["claude", "claude-skills", "game-dev", "gamepad", "modding", "ps2", "reverse-engineering", "static-recompilation"]
+repository = "https://github.com/Jakeschincariol/console-skill"
+license = "MIT"
+language = "Python"
+added = 2026-11-07

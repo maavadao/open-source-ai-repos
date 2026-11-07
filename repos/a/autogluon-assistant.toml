@@ -1,0 +1,8 @@
+name = "autogluon-assistant"
+description = "Multi-Agent System Powered by LLMs for End-to-end Multimodal ML Automation"
+category = "agents"
+tags = ["automl", "data-science", "llm", "machine-learning", "mlzero", "multi-agent", "multimodal"]
+repository = "https://github.com/autogluon/autogluon-assistant"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-07

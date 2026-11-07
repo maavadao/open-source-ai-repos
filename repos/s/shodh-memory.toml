@@ -1,0 +1,9 @@
+name = "shodh-memory"
+description = "Local, LLM-free memory for AI agents. A single offline Rust binary — deterministic and auditable — that learns from use, forgets the irrelevant, and strengthens what matters. No cloud, no API keys."
+category = "vector-databases"
+tags = ["agent-memory", "agentic-ai", "ai-agents", "ai-memory", "claude", "cognitive-memory", "edge-ai", "graphrag"]
+repository = "https://github.com/varun29ankuS/shodh-memory"
+website = "https://www.shodh-memory.com"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-07

@@ -1,0 +1,9 @@
+name = "code"
+description = "Companion code for Machine Learning From Scratch — 10 core ML algorithms built from scratch with NumPy, compared with Scikit-learn and PyTorch."
+category = "education"
+tags = ["artificial-intelligence", "data-science", "deep-learning", "education", "from-scratch-implementation", "from-scratch-in-python", "from-scratch-ml", "machine-learning"]
+repository = "https://github.com/ml-from-scratch-book/code"
+website = "https://ml-from-scratch-book.github.io/code/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-11-07

@@ -1,0 +1,9 @@
+name = "DSHBox"
+description = "DSHBox — 移动端本地运行 DeepSeek Harness。自带终端、文件管理器、浏览器、手机操控等工具，致力打造一站式随身 AI 工作台，免 ROOT 和 Termux。"
+category = "llm-apps"
+tags = ["ai-agent", "android", "android-agent", "android-app", "deepseek-harness", "deepseek-harness-android", "deepseek-harness-mobile", "dsh"]
+repository = "https://github.com/WSK-build/DSHBox"
+website = "https://wsk-build.github.io/DSHBox/"
+license = "GPL-3.0"
+language = "Kotlin"
+added = 2026-11-07

@@ -1,0 +1,8 @@
+name = "Libra"
+description = "Libra: Efficient Resource Management for Agentic RL Post-Training"
+category = "agents"
+tags = ["agent-framework", "agents", "orchestration", "post-training", "rl"]
+repository = "https://github.com/NetX-lab/Libra"
+license = "MIT"
+language = "Python"
+added = 2026-11-07

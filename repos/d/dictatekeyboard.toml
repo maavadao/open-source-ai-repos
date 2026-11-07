@@ -1,0 +1,9 @@
+name = "DictateKeyboard"
+description = "A powerful AI keyboard for reliable speech transcription"
+category = "speech"
+tags = ["ai", "android", "claude", "dictation", "gpt", "keyboard", "keyboards", "openai"]
+repository = "https://github.com/DevEmperor/DictateKeyboard"
+website = "https://dictatekeyboard.com"
+license = "Apache-2.0"
+language = "Kotlin"
+added = 2026-11-07

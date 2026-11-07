@@ -1,0 +1,8 @@
+name = "BadUSB-GPT"
+description = "This repo houses Rubber Ducky scripts integrated with OpenAI's GPT. Designed for ethical hackers and researchers, it merges quick Ducky executions with GPT's intelligence. Always use responsibly and with proper permissions."
+category = "other"
+tags = ["ai-powered-scripts", "ducky-ai-integration", "ducky-scripts", "openai", "pentesting-tools", "rubber-ducky", "security"]
+repository = "https://github.com/ooovenenoso/BadUSB-GPT"
+license = "MIT"
+language = "Python"
+added = 2026-11-07

@@ -1,0 +1,9 @@
+name = "lavern"
+description = "An agentic law firm. Yours. 67 specialist AI agents that review documents through evidence-backed debate, with mandatory human gates and a 10-pass verification loop. Apache 2.0."
+category = "agents"
+tags = ["agentic-ai", "ai-agents", "anthropic", "claude", "contract-review", "law-firm", "legal-ai", "legal-tech"]
+repository = "https://github.com/AnttiHero/lavern"
+website = "https://lavern.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-07

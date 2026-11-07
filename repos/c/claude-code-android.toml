@@ -1,0 +1,9 @@
+name = "claude-code-android"
+description = "Run Claude Code natively on Android via Termux or AVF (Android Virtualization Framework) -- no desktop, no SSH, no root required."
+category = "skills-prompts"
+tags = ["aarch64", "ai-agent", "ai-coding", "android", "android-development", "anthropic", "arm64", "avf"]
+repository = "https://github.com/ferrumclaudepilgrim/claude-code-android"
+website = "https://ferrumclaudepilgrim.com"
+license = "MIT"
+language = "Shell"
+added = 2026-11-07

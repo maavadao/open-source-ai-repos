@@ -1,0 +1,9 @@
+name = "UGround"
+description = "[ICLR'25 Oral] UGround: Universal GUI Visual Grounding for GUI Agents"
+category = "other"
+tags = ["artificial-intelligence", "gui-agents", "web-agents"]
+repository = "https://github.com/OSU-NLP-Group/UGround"
+website = "https://osu-nlp-group.github.io/UGround/"
+license = "MIT"
+language = "Python"
+added = 2026-11-07

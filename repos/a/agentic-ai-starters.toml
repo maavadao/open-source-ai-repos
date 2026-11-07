@@ -1,0 +1,7 @@
+name = "agentic-ai-starters"
+description = "A practical collection of plug-and-play starter blueprints for building autonomous AI apps with real APIs. Discover ready-to-build agent workflows, API stacks, architecture patterns, prompts, and monetization ideas for research agents, lead gen systems, SEO automations, MCP toolchains, and more."
+category = "mcp-servers"
+tags = ["agentic-ai", "ai-agents", "api-workflows", "autonomous-workflows", "customer-support-ai", "lead-generation", "mcp", "multi-agent-systems"]
+repository = "https://github.com/cporter202/agentic-ai-starters"
+license = "MIT"
+added = 2026-11-07

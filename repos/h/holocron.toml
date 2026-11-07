@@ -1,0 +1,9 @@
+name = "holocron"
+description = "PyTorch implementations of recent Computer Vision tricks (ReXNet, RepVGG, Unet3p, YOLOv4, CIoU loss, AdaBelief, PolyLoss, MobileOne). Other additions: AdEMAMix"
+category = "vision"
+tags = ["ademamix", "computer-vision", "cspdarknet53", "darknet", "deep-learning", "object-detection", "pytorch", "resnet"]
+repository = "https://github.com/frgfm/holocron"
+website = "https://frgfm.github.io/holocron"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-07

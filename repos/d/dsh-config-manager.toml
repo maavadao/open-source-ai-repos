@@ -1,0 +1,8 @@
+name = "dsh-config-manager"
+description = "DeepSeek Harness (DSH) backup & restore plugin — export, import, migrate and sync your complete DSH configuration, plugins, MCP servers, skills and workspace. One-click migration to another machine."
+category = "mcp-servers"
+tags = ["backup", "cli", "config-manager", "configuration", "cordis", "deepseek", "deepseek-harness", "dsh"]
+repository = "https://github.com/xiajiajun516/dsh-config-manager"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-07

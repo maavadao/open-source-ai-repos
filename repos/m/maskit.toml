@@ -1,0 +1,8 @@
+name = "maskit"
+description = "数据面具 Data Maskit — 专为大模型打造的本地隐私脱敏网关（请求自动打码，回复流式还原；支持 Cursor / Claude Code / Codex / Pi 等任意可配 Base URL 工具）"
+category = "skills-prompts"
+tags = ["anthropic", "claude-code", "cursor", "data-masking", "llm", "mitmproxy", "openai", "pii"]
+repository = "https://github.com/xiaYuTian11/maskit"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-11-07

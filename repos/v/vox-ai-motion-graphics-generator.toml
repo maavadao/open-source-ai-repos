@@ -1,0 +1,7 @@
+name = "vox-ai-motion-graphics-generator"
+description = "🎬 Turn any topic into a finished Vox-style paper-collage explainer / motion graphics video — script, collage keyframes, animation, voice-over, music & captions, all automated. An agent skill for Claude Code, Codex & other coding agents."
+category = "skills-prompts"
+tags = ["agent-skill", "ai-motion-graphics", "ai-video", "claude-code", "collage", "explainer-video", "ffmpeg", "flux"]
+repository = "https://github.com/Anil-matcha/vox-ai-motion-graphics-generator"
+language = "Python"
+added = 2026-11-07

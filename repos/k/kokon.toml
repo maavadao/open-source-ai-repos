@@ -1,0 +1,9 @@
+name = "kokon"
+description = "Edit photos by describing the change, on your own GPU. A free, open-source alternative to Nano Banana and ChatGPT image editing: photos stay on your computer, no daily limit. One installer for Windows, Mac and Linux sets up the best open model (Qwen-Image 2.1). MCP server for AI agents."
+category = "mcp-servers"
+tags = ["ai-photo-editor", "comfyui-alternative", "generative-fill", "image-editing", "image-generation", "inpainting", "linux", "local-ai"]
+repository = "https://github.com/GabrieleLozupone/kokon"
+website = "https://kokon.app"
+license = "AGPL-3.0"
+language = "Rust"
+added = 2026-11-07

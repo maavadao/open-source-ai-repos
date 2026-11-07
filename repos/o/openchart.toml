@@ -1,0 +1,9 @@
+name = "openchart"
+description = "OSS trading workspace with your favorite agents"
+category = "agents"
+tags = ["agent", "agentic-trader", "ai", "charting", "charts", "charts-js", "harness", "llm"]
+repository = "https://github.com/longsurf-ai/openchart"
+website = "https://chart.chat"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-07

@@ -1,0 +1,9 @@
+name = "Quosparr"
+description = "🐦 Native menu bar & tray app for macOS, Windows and Linux: track Codex, Claude Code and Grok quotas, resets, API-equivalent cost and local sessions, with multi-account and API relay switching | 原生 macOS、Windows、Linux 菜单栏与托盘应用，统一查看 Codex、Claude Code、Grok 额度、重置动态、API 等价成本与本机会话，支持多账号与中转 API 切换"
+category = "skills-prompts"
+tags = ["anthropic", "chatgpt", "claude-code", "codex-reset", "developer-tools", "grok", "grok-build", "linux"]
+repository = "https://github.com/Licoy/Quosparr"
+website = "https://quosparr.com"
+license = "AGPL-3.0"
+language = "Go"
+added = 2026-11-07

@@ -1,0 +1,9 @@
+name = "effortless"
+description = "Mods for Claude Code. effortless picks the reasoning effort for every prompt and shows the cache countdown. textless (desktop app) shows art, quotes and chess instead of the wall of text while Claude works."
+category = "skills-prompts"
+tags = ["ai-tools", "anthropic", "chess", "claude", "claude-code", "claude-code-mod", "claude-code-plugin", "developer-tools"]
+repository = "https://github.com/HeyCubit/effortless"
+website = "https://heycubit.github.io/effortless/"
+license = "MIT"
+language = "HTML"
+added = 2026-11-07

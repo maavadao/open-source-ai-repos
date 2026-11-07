@@ -1,0 +1,8 @@
+name = "CatGPT-Gateway"
+description = "Turn your ChatGPT or Claude account into a fully working OpenAI-compatible API. No API keys needed. Supports tool calling, vision, file attachments, and image generation."
+category = "browser-automation"
+tags = ["ai", "anthropic", "api-gateway", "browser-automation", "chatbot", "chatgpt", "claude", "dall-e"]
+repository = "https://github.com/GautamVhavle/CatGPT-Gateway"
+license = "MIT"
+language = "Python"
+added = 2026-11-07

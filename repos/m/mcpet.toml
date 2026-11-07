@@ -1,0 +1,8 @@
+name = "mcpet"
+description = "MCP desktop companion for AI agent status, usage tracking, and everyday tools. Anything Universe · 桌面伙伴与日常工具入口。"
+category = "mcp-servers"
+tags = ["ai-agent", "anything-universe", "desktop-pet", "developer-tools", "llm", "mcdonalds", "mcdonalds-mcp", "mcp"]
+repository = "https://github.com/songconmaisaix31-design/mcpet"
+website = "https://github.com/songconmaisaix31-design/mcpet/releases"
+language = "Python"
+added = 2026-11-07

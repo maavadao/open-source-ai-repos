@@ -1,0 +1,9 @@
+name = "gepa"
+description = "Optimize prompts, code, and more with AI-powered Reflective Optimization"
+category = "skills-prompts"
+tags = ["agent-skills", "coding-agent", "discovery", "distributed-evolutionary-algorithms", "evolutionary-algorithms", "genetic-algorithm", "harness", "harness-ai"]
+repository = "https://github.com/gepa-ai/gepa"
+website = "https://gepa-ai.github.io/gepa/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-11-07

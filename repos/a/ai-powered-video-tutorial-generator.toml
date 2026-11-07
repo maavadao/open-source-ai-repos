@@ -1,0 +1,9 @@
+name = "AI-Powered-Video-Tutorial-Generator"
+description = "Create and edit AI video tutorials with illustrated lessons, expressive presenters, distinct voices, and a native timeline. Windows desktop app with local models and cloud providers."
+category = "video"
+tags = ["ai", "animated-presenters", "education", "generative-ai", "lip-sync", "local-ai", "python", "react"]
+repository = "https://github.com/AkshitIreddy/AI-Powered-Video-Tutorial-Generator"
+website = "https://www.linkedin.com/company/alystria-ai"
+license = "MIT"
+language = "Python"
+added = 2026-11-07

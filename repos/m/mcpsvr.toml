@@ -1,0 +1,8 @@
+name = "mcpsvr"
+description = "Discover Exceptional MCP Servers"
+category = "mcp-servers"
+tags = ["mcp-server", "modelcontextprotocol"]
+repository = "https://github.com/nanbingxyz/mcpsvr"
+website = "https://mcpsvr.com"
+language = "TypeScript"
+added = 2026-11-07

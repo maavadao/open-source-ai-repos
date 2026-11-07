@@ -1,0 +1,7 @@
+name = "comfy-mcp"
+description = "Local MCP server for ComfyUI — run your local ComfyUI from AI agents"
+category = "mcp-servers"
+tags = ["ai-agents", "comfy-cli", "comfyui", "mcp", "model-context-protocol"]
+repository = "https://github.com/Comfy-Org/comfy-mcp"
+language = "Python"
+added = 2026-11-07

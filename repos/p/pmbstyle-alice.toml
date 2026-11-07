@@ -1,0 +1,8 @@
+name = "Alice"
+description = "Alice is a voice-first desktop AI assistant application built with Vue.js, Vite, and Electron. Advanced memory system, function calling, MCP support, optional fully local use, and more."
+category = "vector-databases"
+tags = ["ai", "ai-assistant", "chatgpt", "electron", "groq-api", "hnswlib", "javascript", "mcp-client"]
+repository = "https://github.com/pmbstyle/Alice"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-07

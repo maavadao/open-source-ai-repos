@@ -1,0 +1,8 @@
+name = "DirectorSKILL"
+description = "Claude Code skill for AI filmmaking — shot lists, keyframe & video prompts, with 10 director-style overlays (Spielberg, Kubrick, Wong Kar-wai, Nolan...)."
+category = "skills-prompts"
+tags = ["ai-filmmaking", "cinematic", "claude-code", "claude-skill", "director", "kling", "prompt-engineering", "runway"]
+repository = "https://github.com/wuwangzhang1216/DirectorSKILL"
+website = "https://github.com/wuwangzhang1216/DirectorSKILL"
+license = "MIT"
+added = 2026-11-07

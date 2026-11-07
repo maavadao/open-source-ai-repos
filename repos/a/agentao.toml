@@ -1,0 +1,9 @@
+name = "agentao"
+description = "Local-first, governed AI agent runtime for Python — embed it in your app, or run it as a CLI or ACP server. Permissions, MCP, memory and audit replay built in."
+category = "mcp-servers"
+tags = ["acp", "agent-framework", "ai-agent", "cli", "llm", "local-first", "mcp", "model-context-protocol"]
+repository = "https://github.com/jin-bo/agentao"
+website = "https://agentao.cn"
+license = "MIT"
+language = "Python"
+added = 2026-11-07

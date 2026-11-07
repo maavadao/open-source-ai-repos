@@ -1,0 +1,9 @@
+name = "token.js"
+description = "Integrate 200+ LLMs with one TypeScript SDK using OpenAI's format."
+category = "llm-apps"
+tags = ["llm", "openai", "typescript"]
+repository = "https://github.com/token-js/token.js"
+website = "https://docs.tokenjs.ai/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-07

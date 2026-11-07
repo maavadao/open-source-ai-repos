@@ -1,0 +1,7 @@
+name = "acip"
+description = "The Advanced Cognitive Inoculation Prompt"
+category = "skills-prompts"
+tags = ["ai", "llm", "prompt-engineering", "security"]
+repository = "https://github.com/Dicklesworthstone/acip"
+language = "Shell"
+added = 2026-11-07

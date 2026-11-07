@@ -1,0 +1,9 @@
+name = "genshijin"
+description = "genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。"
+category = "skills-prompts"
+tags = ["caveman", "claude", "claude-code", "claude-code-plugin", "claude-skills", "genshijin"]
+repository = "https://github.com/InterfaceX-co-jp/genshijin"
+website = "https://interfacex-co-jp.github.io/genshijin"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-07

@@ -1,0 +1,9 @@
+name = "aizen"
+description = "Bring order to your projects, environments, and day-to-day work."
+category = "skills-prompts"
+tags = ["agents", "ai", "claude", "claude-code", "codex", "gemini", "git", "kimi"]
+repository = "https://github.com/vivy-company/aizen"
+website = "https://aizen.win"
+license = "GPL-3.0"
+language = "Swift"
+added = 2026-11-07

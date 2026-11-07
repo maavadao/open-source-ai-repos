@@ -1,0 +1,9 @@
+name = "claude-faceless-shorts-creator"
+description = "A faceless YouTube-Shorts factory driven by Claude Code: pure-TSX Remotion visuals, ElevenLabs voice with word-exact captions, library-first sound design. 12 complete example shorts included."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-video", "claude", "claude-code", "content-automation", "elevenlabs", "faceless-video", "remotion"]
+repository = "https://github.com/hassancs91/claude-faceless-shorts-creator"
+website = "https://learnwithhasan.com/guide/how-to-make-faceless-youtube-shorts-with-claude-code/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-07

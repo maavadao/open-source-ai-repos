@@ -1,0 +1,9 @@
+name = "research-toolkit"
+description = "Research methods, workflow tools, and independent review for AI agents, packaged as a Skill, plugin, and local MCP server."
+category = "mcp-servers"
+tags = ["agent-plugins", "agent-skill", "ai-research", "deep-research", "industry-analysis", "industry-research", "industry-research-framework", "longform-research"]
+repository = "https://github.com/rrrrrredy/research-toolkit"
+website = "https://rrrrrredy.github.io/research-toolkit/"
+license = "MIT"
+language = "Python"
+added = 2026-11-07

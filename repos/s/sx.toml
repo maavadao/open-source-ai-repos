@@ -1,0 +1,9 @@
+name = "sx"
+description = "Skill sharing made easy"
+category = "skills-prompts"
+tags = ["agents", "ai", "anthropic", "claude", "cli", "developer-tools", "golang", "llm"]
+repository = "https://github.com/sleuth-io/sx"
+website = "https://sleuth-io.github.io/sx/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-11-07

@@ -1,0 +1,9 @@
+name = "eda-agent"
+description = "Open-source MCP server that lets an AI drive a live session of Altium Designer, and optionally KiCad or EasyEDA Pro, editing the open design in place while you watch. 560+ tools: schematic, PCB, library and project automation, design review, audits, rendering, auto-placement, panelization, autonomo…"
+category = "mcp-servers"
+tags = ["ai", "ai-agent", "altium", "altium-designer", "claude", "claude-code", "delphiscript", "design-review"]
+repository = "https://github.com/salitronic/eda-agent"
+website = "https://salitronic.com/eda-agent"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-07

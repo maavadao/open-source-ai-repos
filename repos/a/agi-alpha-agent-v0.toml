@@ -1,0 +1,9 @@
+name = "AGI-Alpha-Agent-v0"
+description = "♾️ TRANSFORMATIONAL META‑AGENTIC α‑AGI 👁️✨ — Mission 🎯 End‑to‑end: Identify 🔍 → Out‑Learn 📚 → Out‑Think 🧠 → Out‑Design 🎨 → Out‑Strategise ♟️ → Out‑Execute ⚡ → Out-Evolve ♾️"
+category = "agents"
+tags = ["agentic", "agentic-ai", "agentic-framework", "ai", "aiagent", "aiagents", "llm", "meta-agentic"]
+repository = "https://github.com/MontrealAI/AGI-Alpha-Agent-v0"
+website = "https://montrealai.github.io/AGI-Alpha-Agent-v0/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-07

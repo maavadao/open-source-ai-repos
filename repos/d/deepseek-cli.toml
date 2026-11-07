@@ -1,0 +1,9 @@
+name = "deepseek-cli"
+description = "DeepSeek CLI, a command-line AI coding assistant that leverages the powerful DeepSeek Coder models"
+category = "skills-prompts"
+tags = ["artificial-intelligence", "claude", "claude-ai", "claude-code", "cursor", "cursor-ai", "deep-learning", "deep-neural-networks"]
+repository = "https://github.com/holasoymalva/deepseek-cli"
+website = "https://deepseek-cli.vercel.app/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-07

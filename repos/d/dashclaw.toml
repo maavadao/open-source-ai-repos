@@ -1,0 +1,9 @@
+name = "DashClaw"
+description = "Remote approvals, policy checks, and execution evidence for unattended AI agents."
+category = "skills-prompts"
+tags = ["agent-framework", "agent-governance", "agent-runtime", "ai-agents", "ai-governance", "ai-infrastructure", "ai-ops", "autogen"]
+repository = "https://github.com/ucsandman/DashClaw"
+website = "https://www.dashclaw.io/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-07

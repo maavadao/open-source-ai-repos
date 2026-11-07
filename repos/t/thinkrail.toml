@@ -1,0 +1,9 @@
+name = "thinkrail"
+description = "ThinkRail is the agentic IDE that gets better every time you use it"
+category = "coding"
+tags = ["agent", "agent-skills", "agentic-ai", "agentic-workflow", "ai-coding", "ai-tools", "pi-agent", "pi-agent-extension"]
+repository = "https://github.com/JetBrains/thinkrail"
+website = "https://thinkrail.ai/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-07

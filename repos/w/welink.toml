@@ -1,0 +1,9 @@
+name = "welink"
+description = "🔍微信聊天数据分析的本地化AI-agent(Docker/Windows/MacOS) · AI分身 / 大模型分析 / 好友排行 / 词云 / 情感趋势 / 群聊画像"
+category = "llm-apps"
+tags = ["chat-analysis", "chat-history", "chat-mcp", "llm", "macos", "mcp-server", "skill", "skills"]
+repository = "https://github.com/runzhliu/welink"
+website = "https://welink.click"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-11-07

@@ -1,0 +1,9 @@
+name = "AIPass"
+description = "Persistent Agent Workspace — AI agents that remember, collaborate, and never start from zero."
+category = "skills-prompts"
+tags = ["agent-memory", "ai-agents", "autonomous-agents", "claude", "claude-code", "llm-orchestration", "multi-agent", "python"]
+repository = "https://github.com/AIOSAI/AIPass"
+website = "https://aipass.ai"
+license = "MIT"
+language = "Python"
+added = 2026-11-07

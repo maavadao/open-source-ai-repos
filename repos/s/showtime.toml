@@ -1,0 +1,9 @@
+name = "showtime"
+description = "A local video studio for your coding agent. Describe a video in one sentence: your agent directs, your machine renders. Claude Code, Codex, Cursor, Devin and more. No API keys, no uploads."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "captions", "claude-code", "claude-code-plugin", "claude-skills", "codex", "cursor"]
+repository = "https://github.com/FavioVazquez/showtime"
+website = "https://faviovazquez.github.io/showtime/"
+license = "MIT"
+language = "Python"
+added = 2026-11-07

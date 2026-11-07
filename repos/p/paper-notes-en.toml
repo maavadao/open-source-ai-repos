@@ -1,0 +1,8 @@
+name = "Paper-Notes-en"
+description = "📚 Read a top-tier AI paper in 5 minutes."
+category = "llm-apps"
+tags = ["acl", "acl2026", "ai", "cv", "cvpr", "cvpr2026", "llm", "neurips"]
+repository = "https://github.com/zhaoyang97/Paper-Notes-en"
+website = "https://en.papernotes.org"
+language = "Python"
+added = 2026-11-07

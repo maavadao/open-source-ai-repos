@@ -1,0 +1,8 @@
+name = "ai-architecture"
+description = "Design notes for MyInvestPilot — an agent-friendly investment workflow system built with strategy primitives, DAG engines, validation loops, and observable decision infrastructure."
+category = "agents"
+tags = ["agent-driven-development", "agentic-ai", "ai-native", "cloud-native", "dsl", "fintech", "indie-hacker", "investment"]
+repository = "https://github.com/myinvestpilot/ai-architecture"
+website = "https://www.myinvestpilot.com/"
+license = "MIT"
+added = 2026-11-07

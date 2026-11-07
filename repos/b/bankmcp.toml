@@ -1,0 +1,9 @@
+name = "bankmcp"
+description = "BankMCP™: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama."
+category = "mcp-servers"
+tags = ["chatgpt", "claude", "enable-banking", "mcp", "mcp-server", "ollama", "open-banking", "personal-finance"]
+repository = "https://github.com/noskillish/bankmcp"
+website = "https://bankmcp.dk/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-07

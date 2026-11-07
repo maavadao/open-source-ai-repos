@@ -1,0 +1,8 @@
+name = "EDT-MCP"
+description = "MCP for 1C:EDT"
+category = "mcp-servers"
+tags = ["1c-enterprise", "edt", "mcp", "mcp-server"]
+repository = "https://github.com/DitriXNew/EDT-MCP"
+license = "AGPL-3.0"
+language = "Java"
+added = 2026-11-07

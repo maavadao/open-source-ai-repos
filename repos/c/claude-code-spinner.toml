@@ -1,0 +1,6 @@
+name = "claude-code-spinner"
+description = "Замена фраз спиннера клод-кода для уважаемых вайбкодеров."
+category = "skills-prompts"
+tags = ["ai", "anthropic", "claude", "claude-code", "claude-code-settings", "claude-code-ui", "cli", "customization"]
+repository = "https://github.com/i1kazantsev/claude-code-spinner"
+added = 2026-11-07

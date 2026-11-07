@@ -1,0 +1,9 @@
+name = "apex"
+description = "AI-powered offensive security testing using autonomous agents, directly in your terminal."
+category = "local-llms"
+tags = ["agents", "ai", "ai-sdk", "anthropic", "cybersecurity", "offensive-security", "pentesting", "tui"]
+repository = "https://github.com/pensarai/apex"
+website = "https://pensar.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-07

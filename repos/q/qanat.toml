@@ -1,0 +1,8 @@
+name = "qanat"
+description = "A data platform for investment research. Ingests financial data sources and computes point-in-time financial metrics for valuation and screening. Delivered as an MCP server."
+category = "mcp-servers"
+tags = ["alpha-research", "backtesting", "duckdb", "mcp", "mcp-server", "model-context-protocol", "quant", "quantitative-finance"]
+repository = "https://github.com/fidetolabs/qanat"
+license = "MIT"
+language = "Python"
+added = 2026-11-07

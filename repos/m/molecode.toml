@@ -1,0 +1,9 @@
+name = "MoleCode"
+description = "Molecode presents molecules as code and enables LLMs to operate and reason on chemistry directly."
+category = "llm-apps"
+tags = ["ai-agent", "ai-for-science", "chemistry", "coding-agent", "language-model", "large-language-models", "llm", "molecode"]
+repository = "https://github.com/AtomFlow-AI/MoleCode"
+website = "https://arxiv.org/pdf/2605.16480"
+license = "MIT"
+language = "Python"
+added = 2026-11-07

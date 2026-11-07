@@ -1,0 +1,9 @@
+name = "scenario-lab"
+description = "Experimental scenario analysis for real-life events forecasting with Codex or Claude"
+category = "other"
+tags = ["agent-tools", "claude", "codex", "decision-support", "forecasting", "geopolitical-risk", "local-first", "market-forecasting"]
+repository = "https://github.com/YSLAB-ai/scenario-lab"
+website = "https://github.com/YSLAB-ai/scenario-lab"
+license = "MIT"
+language = "Python"
+added = 2026-11-07

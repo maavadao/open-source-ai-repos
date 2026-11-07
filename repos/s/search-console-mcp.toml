@@ -1,0 +1,9 @@
+name = "search-console-mcp"
+description = "Search & analytics data as infrastructure — MCP server for Google Search Console, Bing Webmaster Tools, Google Adsense and GA4, designed for AI agents and automation."
+category = "mcp-servers"
+tags = ["adsense", "bing-webmaster", "ga4", "googleanalytics", "googlesearch", "googlesearchconsole", "mcp-server", "seo"]
+repository = "https://github.com/saurabhsharma2u/search-console-mcp"
+website = "https://searchconsolemcp.saurabh.app/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-07

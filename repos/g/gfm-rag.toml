@@ -1,0 +1,9 @@
+name = "gfm-rag"
+description = "[NeurIPS'25, ICLR'26] Graph Foundation Model for Retrieval Augmented Generation"
+category = "llm-apps"
+tags = ["gpt", "graphrag", "knowledge-graph", "large-language-models", "llm", "rag", "retrieval-augmented-generation"]
+repository = "https://github.com/RManLuo/gfm-rag"
+website = "https://rmanluo.github.io/gfm-rag/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-07

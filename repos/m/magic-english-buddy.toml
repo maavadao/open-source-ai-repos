@@ -1,0 +1,8 @@
+name = "magic-english-buddy"
+description = "专为儿童设计的 AI 英语阅读学习助手"
+category = "other"
+tags = ["ai", "english-learning", "gemini", "react"]
+repository = "https://github.com/xckevin/magic-english-buddy"
+website = "https://xckevin.github.io/magic-english-buddy/"
+language = "TypeScript"
+added = 2026-11-07

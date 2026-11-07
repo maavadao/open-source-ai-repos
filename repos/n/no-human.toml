@@ -1,0 +1,9 @@
+name = "no_human"
+description = "From ticket to reviewed pull request. Free and open-source, on your machine."
+category = "skills-prompts"
+tags = ["agent-harness", "agent-orchestration", "agentic-ai", "ai-agent", "ai-code-review", "ai-coding", "claude-code", "code-review"]
+repository = "https://github.com/no-human-ai/no_human"
+website = "https://getnohuman.com"
+license = "MIT"
+language = "Python"
+added = 2026-11-07

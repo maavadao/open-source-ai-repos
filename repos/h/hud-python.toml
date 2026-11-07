@@ -1,0 +1,9 @@
+name = "hud-python"
+description = "RL environments + evals for AI agents. Define once, train anything."
+category = "agents"
+tags = ["agents", "evals", "grpo", "llm", "qwen", "qwen3", "reinforcement-learning", "reinforcement-learning-environments"]
+repository = "https://github.com/hud-evals/hud-python"
+website = "https://www.hud.ai"
+license = "MIT"
+language = "Python"
+added = 2026-11-07

@@ -1,0 +1,9 @@
+name = "geo-aeo-tracker"
+description = "Open-source AI visibility tracker. Track how ChatGPT, Perplexity, Gemini, Copilot and Google AI Mode mention and cite your brand. Self-hosted, MIT, bring your own keys."
+category = "browser-automation"
+tags = ["aeo", "ai-search", "ai-visibility", "answer-engine-optimization", "brand-monitoring", "chatgpt", "copilot", "gemini"]
+repository = "https://github.com/danishashko/geo-aeo-tracker"
+website = "https://geo-aeo-tracker-wine.vercel.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-07

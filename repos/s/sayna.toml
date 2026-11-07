@@ -1,0 +1,9 @@
+name = "sayna"
+description = "Sayna is a unified Voice Layer for AI Agents with a seemless integration to an existing agentic frameworks"
+category = "agents"
+tags = ["ai-agents", "speech-to-text", "text-to-speech", "voice-agents", "voice-ai", "voice-ai-agents", "voice-synthesis"]
+repository = "https://github.com/SaynaAI/sayna"
+website = "https://sayna.ai"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-07

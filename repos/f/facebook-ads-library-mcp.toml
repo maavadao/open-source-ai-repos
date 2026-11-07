@@ -1,0 +1,9 @@
+name = "facebook-ads-library-mcp"
+description = "MCP Server for Facebook ADs Library - Get instant answers from FB's ad library"
+category = "mcp-servers"
+tags = ["ad-library", "ai", "analytics", "api", "chatgpt", "claude", "competitor-analysis", "cursor"]
+repository = "https://github.com/proxy-intell/facebook-ads-library-mcp"
+website = "https://useproxy.dev/"
+license = "MIT"
+language = "Python"
+added = 2026-11-07

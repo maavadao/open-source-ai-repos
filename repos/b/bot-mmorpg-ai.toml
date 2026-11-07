@@ -1,0 +1,9 @@
+name = "BOT-MMORPG-AI"
+description = "BOT-MMORPG-AI is your personal gaming assistant that uses artificial intelligence to play your favorite MMORPG and RPG games automatically. It watches how YOU play, learns from your gameplay, and then takes over the boring, repetitive tasks while you relax, work, or sleep."
+category = "vision"
+tags = ["ai", "automation", "bot", "computer-vision", "machine-learning", "mmorpg", "reinforcement-learning"]
+repository = "https://github.com/ruslanmv/BOT-MMORPG-AI"
+website = "https://ruslanmv.com/BOT-MMORPG-AI/"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-11-07

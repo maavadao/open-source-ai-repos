@@ -1,0 +1,9 @@
+name = "ai-prd-workflow"
+description = "RFC-driven development for AI coding agents: idea or existing codebase → verified PRD → features → rules → sequenced RFCs → reviewed code. Agent Skills for Claude Code, Codex, Copilot, Cursor, Gemini CLI, OpenCode, Devin."
+category = "skills-prompts"
+tags = ["agent-skills", "agentic-coding", "ai-tools", "ai-workflow", "claude", "claude-code", "claude-code-plugin", "codex"]
+repository = "https://github.com/nurettincoban/ai-prd-workflow"
+website = "https://nurettincoban.github.io/ai-prd-workflow/"
+license = "MIT"
+language = "Python"
+added = 2026-11-07

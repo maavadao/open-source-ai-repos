@@ -1,0 +1,8 @@
+name = "brand-identity-skill"
+description = "A Claude Code skill that designs a brand identity as one system: logo, typography and colour palette built together from one brief, measured, compared as identity cards, and delivered as a brand guidelines kit."
+category = "skills-prompts"
+tags = ["accessibility", "agent-skills", "agy", "brand", "brand-identity", "branding", "claude", "claude-code"]
+repository = "https://github.com/fatihaydost/brand-identity-skill"
+license = "MIT"
+language = "Python"
+added = 2026-11-07

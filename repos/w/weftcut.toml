@@ -1,0 +1,9 @@
+name = "WeftCut"
+description = "Free, open-source AI video editor for macOS, Windows and Linux — drive the whole timeline from any MCP client."
+category = "mcp-servers"
+tags = ["ai-agent", "ai-video-editor", "claude", "cross-platform", "desktop-app", "electron", "ffmpeg", "llm"]
+repository = "https://github.com/WeftCut/WeftCut"
+website = "https://weftcut.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-07

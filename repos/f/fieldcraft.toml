@@ -1,0 +1,9 @@
+name = "fieldcraft"
+description = "One open-source modeler for structures, heat and fluids, built from scratch in pure Rust: parametric part in, verified results out. Automatic all-hex and tet meshing, our own nonlinear implicit and explicit FEA, heat transfer and lattice Boltzmann CFD — every result checked against theory. For engi…"
+category = "agents"
+tags = ["ai-agents", "cae", "cfd", "computational-mechanics", "engineering", "explicit-dynamics", "fea", "fem"]
+repository = "https://github.com/tangency-labs/fieldcraft"
+website = "https://tangency-labs.github.io/fieldcraft/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-07

@@ -1,0 +1,8 @@
+name = "minimax-h3-prompt-skill-T8"
+description = "Creative DNA video prompt cases and installable Skills for MiniMax H3 and Seedance 2.0, with an Electron video viewer."
+category = "skills-prompts"
+tags = ["ai-video", "codex-skills", "creative-dna", "electron", "minimax-h3", "prompt-engineering", "seedance-2-0", "video-generation"]
+repository = "https://github.com/T8mars/minimax-h3-prompt-skill-T8"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-07

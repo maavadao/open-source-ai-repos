@@ -1,0 +1,9 @@
+name = "Miffan"
+description = "RikkaHub fork，Android AI 客户端。支持 IM（类 Grok-Bot）模式，ChatGPT 订阅登录使用、跨应用划词悬浮翻译、高性能低延迟远程云电脑控制。"
+category = "chat"
+tags = ["android", "chatbot", "cloud-computer", "dsh-plugin", "gemini", "grok-bot", "jetpack-compose", "kotlin"]
+repository = "https://github.com/Ayuilos/Miffan"
+website = "https://miffan.ayuilos.me"
+license = "AGPL-3.0"
+language = "Kotlin"
+added = 2026-11-07

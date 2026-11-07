@@ -1,0 +1,9 @@
+name = "squirrelscan"
+description = "The website QA tool for your coding agent. 310+ audit rules across SEO, performance, security, accessibility and agent experience."
+category = "skills-prompts"
+tags = ["accessibility", "agent", "agent-skills", "ai-agents", "audit", "claude-code", "cli", "codex"]
+repository = "https://github.com/squirrelscan/squirrelscan"
+website = "https://squirrelscan.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-07

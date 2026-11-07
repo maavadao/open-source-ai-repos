@@ -1,0 +1,9 @@
+name = "kiln"
+description = "Build and revise procedural 3D assets with your coding agent. Local MCP server, CLI and TypeScript engine with rendered review, editable source and GLB export."
+category = "mcp-servers"
+tags = ["3d", "3d-assets", "3d-modeling", "agent-skills", "agent-tools", "ai-agents", "asset-pipeline", "cli"]
+repository = "https://github.com/instruktlabs/kiln"
+website = "https://kilnstudio.tools/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-07

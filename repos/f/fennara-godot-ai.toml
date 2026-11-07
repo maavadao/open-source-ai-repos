@@ -1,0 +1,9 @@
+name = "fennara-godot-ai"
+description = "AI chat and agent tooling for Godot, with both MCP support and in-built native chat window."
+category = "mcp-servers"
+tags = ["ai-agent", "ai-coding", "ai-game-development", "claude-code", "codex", "cursor", "gamedev", "gdscript"]
+repository = "https://github.com/fennaraOfficial/fennara-godot-ai"
+website = "https://www.fennara.io"
+license = "MIT"
+language = "Rust"
+added = 2026-11-07

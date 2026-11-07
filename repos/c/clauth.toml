@@ -1,0 +1,8 @@
+name = "clauth"
+description = "Claude Code multi-account manager, usage monitor (CLI, TUI & cross-account delegation via MCP)"
+category = "skills-prompts"
+tags = ["account-manager", "account-switcher", "anthropic", "claude", "claude-code", "claude-code-multi-accounts", "cli", "herdr-plugin"]
+repository = "https://github.com/uwuclxdy/clauth"
+license = "MIT"
+language = "Rust"
+added = 2026-11-07

@@ -1,0 +1,8 @@
+name = "napi"
+description = "Software architecture tooling for the AI age"
+category = "other"
+tags = ["ai", "apis", "cli", "code-analysis", "code-visualization", "csharp", "devtools", "java"]
+repository = "https://github.com/nanoapi-io/napi"
+website = "https://nanoapi.io"
+language = "TypeScript"
+added = 2026-11-07

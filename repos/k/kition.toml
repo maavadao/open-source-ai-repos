@@ -1,0 +1,9 @@
+name = "kition"
+description = "Kition brings Markdown, DataTable, WhiteBoard, a tool-using AI agent, browser research, and visual workflows into one desktop workspace."
+category = "agents"
+tags = ["agent", "ai", "ai-agent", "desktop-app", "electron", "kition", "knowledge-base", "local-first"]
+repository = "https://github.com/KitionAI/kition"
+website = "https://kition.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-07

@@ -1,0 +1,9 @@
+name = "BeatDesign"
+description = "Local-first AI canvas and timeline. Any MCP agent. Open-source alternative to Higgsfield."
+category = "mcp-servers"
+tags = ["ai-canvas", "ai-image-generation", "ai-video-generation", "beatapi", "canvas", "generative-ai", "image-generation", "local-first"]
+repository = "https://github.com/BeatAPI/BeatDesign"
+website = "https://beatapi.io/design"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-07

@@ -1,0 +1,9 @@
+name = "SpotifyScraper"
+description = "Extract public Spotify data — tracks, albums, artists, playlists, podcasts & lyrics — without the official API. Sync + async, typed models, one dependency."
+category = "browser-automation"
+tags = ["async", "claude", "httpx", "llm", "lyrics", "mcp", "mcp-server", "metadata"]
+repository = "https://github.com/AliAkhtari78/SpotifyScraper"
+website = "https://spotifyscraper.readthedocs.io/en/latest"
+license = "MIT"
+language = "Python"
+added = 2026-11-07

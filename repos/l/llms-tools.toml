@@ -1,0 +1,7 @@
+name = "llms-tools"
+description = "A list of LLMs Tools & Projects"
+category = "chat"
+tags = ["ai", "chat-bot", "chatbots", "chatgpt", "data-science", "llm", "llm-evaluation", "machine-learning"]
+repository = "https://github.com/PetroIvaniuk/llms-tools"
+license = "Apache-2.0"
+added = 2026-11-07

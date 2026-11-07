@@ -1,0 +1,8 @@
+name = "llmio"
+description = "Unified LLM gateway with weighted load balancing, observability & cost tracking. 统一的 LLM 网关，提供权重负载均衡、可观测性与费用追踪。"
+category = "skills-prompts"
+tags = ["ai", "ai-gateway", "claude", "claude-ai", "claude-code", "codex", "deepseek", "doubao"]
+repository = "https://github.com/atopos31/llmio"
+license = "MIT"
+language = "Go"
+added = 2026-11-07

@@ -1,0 +1,9 @@
+name = "Porda-AI"
+description = "The World's First Realtime onDevice AI Project to maintian Modestey and Religious values. Everyday AI companion designed for Muslim community to empower them maintain modesty, decency in the digital realm by blurring and covering Non-Mahram and Haram objects (NSFW), directly on screen on anywhere(o…"
+category = "vision"
+tags = ["artificial-intelligence", "darknet", "desktop-app", "image-processing", "machine-learning", "machine-learning-models", "object-detection", "pyinstaller"]
+repository = "https://github.com/hijam-git/Porda-AI"
+website = "https://pordaai.com/"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-11-07

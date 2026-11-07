@@ -1,0 +1,8 @@
+name = "lumen"
+description = "Save 30% token costs when using Claude Code, Codex, OpenCode for free - with open source, local semantic search. Works for small and large codebases and monorepos! Enterprise-ready and fully compliant via Ollama and SQLite-vec."
+category = "skills-prompts"
+tags = ["agentic-coding", "claude", "claude-ai", "claude-code", "claude-pl", "codex", "context", "gemini"]
+repository = "https://github.com/ory/lumen"
+website = "https://www.ory.com/blog/ory-lumen-semantic-search-claude-code"
+language = "Go"
+added = 2026-11-07

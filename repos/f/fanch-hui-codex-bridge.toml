@@ -1,0 +1,8 @@
+name = "codex-bridge"
+description = "ChatGPT的MCP 桥接工具，赋予网页版ChatGPT本地读写能力，并将ChatGPT连接至本机codex、agy、dsh、opencode，作为大脑调用本机agent。Connect ChatGPT to local projects and coding agents via MCP. Run Codex, OpenCode, DeepSeek Harness & Antigravity with approvals, live output and session control."
+category = "mcp-servers"
+tags = ["antigravity", "chatgpt", "codex", "deepseek", "deepseek-harness", "deepseek-harness-plugin", "developer-tools", "mcp"]
+repository = "https://github.com/Fanch-hui/codex-bridge"
+license = "Apache-2.0"
+language = "Swift"
+added = 2026-11-07

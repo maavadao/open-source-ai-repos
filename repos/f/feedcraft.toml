@@ -1,0 +1,9 @@
+name = "FeedCraft"
+description = "craft your feed at ease! 轻量级rss中间件, 提取全文, 翻译、摘要一站式服务"
+category = "llm-apps"
+tags = ["ai", "awesome-selfhost", "docker", "feed", "gpt", "llm", "openai", "rss"]
+repository = "https://github.com/Colin-XKL/FeedCraft"
+website = "https://feed-craft.colinx.one/start.html"
+license = "GPL-3.0"
+language = "Go"
+added = 2026-11-07

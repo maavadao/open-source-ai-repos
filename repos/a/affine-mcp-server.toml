@@ -1,0 +1,9 @@
+name = "affine-mcp-server"
+description = "Model Context Protocol server for AFFiNE. Connect AI assistants to AFFiNE workspaces, documents, databases, and collaboration APIs over stdio or HTTP."
+category = "mcp-servers"
+tags = ["affine", "ai-assistants", "claude", "codex", "cursor", "knowledge-base", "mcp", "model-context-protocol"]
+repository = "https://github.com/DAWNCR0W/affine-mcp-server"
+website = "https://glama.ai/mcp/servers/@DAWNCR0W/affine-mcp-server"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-07

@@ -1,0 +1,9 @@
+name = "termly-cli"
+description = "Mobile companion for Claude Code, Gemini CLI & OpenCode. Encrypted, remote"
+category = "skills-prompts"
+tags = ["ai", "claude", "claude-code", "cli", "coding-assistant", "copilot", "e2ee", "encryption"]
+repository = "https://github.com/termly-dev/termly-cli"
+website = "https://termly.dev"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-07

@@ -1,0 +1,9 @@
+name = "Godot-MCP"
+description = "Godot-MCP — Model Context Protocol (MCP) integration for the Godot Engine. AI tools for the Godot Editor in C#, with cloud connection to ai-game.dev. Apache-2.0."
+category = "mcp-servers"
+tags = ["ai", "ai-integration", "ai-tools", "anthropic", "claude", "claude-code", "claude-desktop", "cli"]
+repository = "https://github.com/IvanMurzak/Godot-MCP"
+website = "https://ai-game.dev"
+license = "Apache-2.0"
+language = "C#"
+added = 2026-11-07
