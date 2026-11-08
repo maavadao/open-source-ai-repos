@@ -1,0 +1,7 @@
+name = "best-agent-memory-mcp"
+description = "Best Agent Memory MCP servers, ranked and compared: long-term memory for Claude Code, Codex, Cursor and any MCP client. Glen, Mem0, Supermemory, Zep, Hindsight, Basic Memory, claude-mem, Graphiti, Cognee, the official memory server and more, with storage, capture model, team sharing, license and li…"
+category = "mcp-servers"
+tags = ["agent-memory", "ai-agents", "ai-memory", "awesome", "awesome-list", "claude-code", "codex", "coding-agents"]
+repository = "https://github.com/Glen-Web-App/best-agent-memory-mcp"
+license = "CC0-1.0"
+added = 2026-11-08

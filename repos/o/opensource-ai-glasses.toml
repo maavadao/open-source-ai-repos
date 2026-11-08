@@ -1,0 +1,8 @@
+name = "OpenSource-Ai-Glasses"
+description = "Open-source standalone AI glasses platform built on embedded Linux, with system-level customization, C/C++ SDK, RTSP video streaming, BLE, audio, camera, and optional display support."
+category = "vision"
+tags = ["ai-glasses", "bluetooth", "computer-vision", "cpp-sdk", "edge-ai", "embedded-linux", "open-source-hardware", "rtsp"]
+repository = "https://github.com/Iam5tillLearning/OpenSource-Ai-Glasses"
+license = "Apache-2.0"
+language = "C"
+added = 2026-11-08

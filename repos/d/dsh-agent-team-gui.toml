@@ -1,0 +1,9 @@
+name = "dsh-agent-team-gui"
+description = "Persistent multi-model workflow teams for DeepSeek Harness — dynamic lead planning, bounded DAGs, per-agent model/tools, Run Center and Token insights."
+category = "agents"
+tags = ["agent", "agent-orchestration", "ai-agents", "dag", "deepseek-harness", "deepseek-harness-plugin", "dsh", "dsh-plugin"]
+repository = "https://github.com/toolclub/dsh-agent-team-gui"
+website = "https://github.com/toolclub/dsh-agent-team-gui#readme"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-08

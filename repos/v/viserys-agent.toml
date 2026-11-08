@@ -1,0 +1,9 @@
+name = "viserys-agent"
+description = "Engineering workflow pack for AI coding agents: PRD interviews, task breakdown, and bespoke design."
+category = "agents"
+tags = ["agent-skills", "ai-agents", "software-engineering", "tools"]
+repository = "https://github.com/rizqinrr/viserys-agent"
+website = "https://rizqinrr.github.io/viserys-agent"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-11-08

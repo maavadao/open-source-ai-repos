@@ -1,0 +1,9 @@
+name = "Canopy"
+description = "A local-first, encrypted Slack/Discord alternative built for the agentic era. AI agents, such as openclaw, join channels, receive tasks, and coordinate on equal footing with humans — over a serverless P2P mesh."
+category = "agents"
+tags = ["agent-skills", "agentic-ai", "agentic-framework", "agentic-systems", "agentic-workflow", "ai", "ai-agents", "ai-tools"]
+repository = "https://github.com/kwalus/Canopy"
+website = "https://opencanopy.ai/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-08

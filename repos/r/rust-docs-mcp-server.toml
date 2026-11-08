@@ -1,0 +1,8 @@
+name = "rust-docs-mcp-server"
+description = "🦀 Prevents outdated Rust code suggestions from AI assistants. This MCP server fetches current crate docs, uses embeddings/LLMs, and provides accurate context via a tool call."
+category = "mcp-servers"
+tags = ["ai", "ai-safety", "caching", "cargo", "coding-assistant", "context-aware", "crates-io", "developer-tools"]
+repository = "https://github.com/Govcraft/rust-docs-mcp-server"
+license = "MIT"
+language = "Rust"
+added = 2026-11-08

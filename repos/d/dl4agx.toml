@@ -1,0 +1,7 @@
+name = "DL4AGX"
+description = "Deep Learning tools and applications for NVIDIA AGX platforms."
+category = "vision"
+tags = ["autonomous-driving", "computer-vision", "cuda", "deep-learning", "drive-agx", "embedded"]
+repository = "https://github.com/NVIDIA/DL4AGX"
+language = "Shell"
+added = 2026-11-08

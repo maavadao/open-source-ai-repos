@@ -1,0 +1,9 @@
+name = "wikipedia-mcp"
+description = "A Model Context Protocol (MCP) server that retrieves information from Wikipedia to provide context to LLMs."
+category = "mcp-servers"
+tags = ["anthropic", "llm", "mcp-server", "open-source", "wikipedia", "wikipedia-api", "wikipedia-mcp", "wikipedia-mcp-server"]
+repository = "https://github.com/Rudra-ravi/wikipedia-mcp"
+website = "https://pypi.org/project/wikipedia-mcp/"
+license = "MIT"
+language = "Python"
+added = 2026-11-08

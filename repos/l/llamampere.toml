@@ -1,0 +1,8 @@
+name = "llamAmpere"
+description = "llama.cpp fork for significantly improved performance on Ampere generation Nvidia cards (especially RTX 3090 / 3090 Ti): example: 110+ tok/s over a 100K-token generation at temperature 1 for qwen3.8, supporting full 262K ctx. Supports low memory (12gb) configs for 200k+ ctx. 120+ TPS, 3300+ prefill…"
+category = "local-llms"
+tags = ["ampere", "consumer-gpu", "cuda", "ggml", "gguf", "kv-cache-quantization", "llama-cpp", "llm"]
+repository = "https://github.com/JakeATX/llamAmpere"
+license = "MIT"
+language = "C++"
+added = 2026-11-08

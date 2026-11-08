@@ -1,0 +1,8 @@
+name = "dsh-skill-mcp-panel"
+description = "DSH plugin: skill and MCP management（skill/MCP管理工具）"
+category = "mcp-servers"
+tags = ["deepseek", "dsh", "dsh-plugin", "mcp", "plugin", "skills"]
+repository = "https://github.com/Fishquito7/dsh-skill-mcp-panel"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-08

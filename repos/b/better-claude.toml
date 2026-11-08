@@ -1,0 +1,9 @@
+name = "better-claude"
+description = "Small plugins and mods that make your life (and Claude Code) better"
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "claude-code-mod", "claude-code-plugin", "prompt-queue"]
+repository = "https://github.com/midudev/better-claude"
+website = "https://betterclaude.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-08

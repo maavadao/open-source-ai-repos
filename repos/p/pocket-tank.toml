@@ -1,0 +1,8 @@
+name = "pocket-tank"
+description = "A 14M-parameter LLM keeps a virtual fish tank alive on an $8 ESP32-S3 — distilled from a 26B teacher into 7.56 MB, no network."
+category = "llm-apps"
+tags = ["distillation", "embedded", "esp32", "llama2c", "llm", "lvgl", "virtual-pet"]
+repository = "https://github.com/mediacutlet/pocket-tank"
+website = "https://pocketank.com"
+language = "C"
+added = 2026-11-08

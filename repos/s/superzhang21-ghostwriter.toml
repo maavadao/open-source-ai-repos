@@ -1,0 +1,7 @@
+name = "ghostwriter"
+description = "影子作家 · 为角色建立可复用的写作与语言特征模型，让 AI 稳定地「像某个人」说话。Python / Agent Skill 双形态。"
+category = "skills-prompts"
+tags = ["agent-skill", "ai-writing", "character-modeling", "ghostwriting", "persona", "prompt-engineering", "python", "style-transfer"]
+repository = "https://github.com/superzhang21/ghostwriter"
+language = "Python"
+added = 2026-11-08

@@ -1,0 +1,9 @@
+name = "eido"
+description = "AI coding agent workspace for macOS, built on Zed and pi. Native code editing and review, browser use, computer use, and global agent access controls."
+category = "browser-automation"
+tags = ["ai", "ai-assistant", "browser-use", "code-editor", "code-review", "coding-agent", "computer-use", "developer-tools"]
+repository = "https://github.com/tony3liu/eido"
+website = "https://cairno.cn/eido/"
+license = "GPL-3.0"
+language = "Rust"
+added = 2026-11-08

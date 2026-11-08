@@ -1,0 +1,9 @@
+name = "open-bot-avatar"
+description = "A JSON spec and renderer for interactive agent avatars"
+category = "agents"
+tags = ["agents", "animation", "avatar", "bot", "json", "svg"]
+repository = "https://github.com/DominikScholz/open-bot-avatar"
+website = "https://dominikscholz.github.io/open-bot-avatar/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-08

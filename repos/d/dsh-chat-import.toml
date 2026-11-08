@@ -1,0 +1,9 @@
+name = "dsh-chat-import"
+description = "Import conversation history from 25+ AI coding agents into DeepSeek Harness as resumable sessions — tool calls, reasoning and results kept intact, with reverse export and sync. | 把 25+ AI 编程 Agent 的聊天记录导入 DeepSeek Harness 继续对话，保留工具调用、推理与结果，支持反向导出与同步。"
+category = "skills-prompts"
+tags = ["agent", "ai-agents", "automation", "chatgpt", "claude-code", "codex", "cursor", "deepseek"]
+repository = "https://github.com/Nwflower/dsh-chat-import"
+website = "https://www.npmjs.com/package/dsh-chat-import"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-08

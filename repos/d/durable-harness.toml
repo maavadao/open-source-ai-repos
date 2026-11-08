@@ -1,0 +1,9 @@
+name = "durable-harness"
+description = "Durable coding-agent harnesses (Claude Code, Codex, OpenCode, Pi, fx) on a Workflow SDK World"
+category = "skills-prompts"
+tags = ["agents", "claude-code", "codex", "durable", "opencode", "pi", "vercel", "workflow"]
+repository = "https://github.com/vercel-labs/durable-harness"
+website = "https://vercel.com/docs/agent-harnesses"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-08

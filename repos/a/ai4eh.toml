@@ -1,0 +1,9 @@
+name = "ai4eh"
+description = "AI for Ethical Hacking - Workshop"
+category = "llm-apps"
+tags = ["hackbot", "hacking", "llm", "mcp", "nlp", "recon", "security"]
+repository = "https://github.com/ethiack/ai4eh"
+website = "https://ethiack.com"
+license = "MIT"
+language = "Python"
+added = 2026-11-08

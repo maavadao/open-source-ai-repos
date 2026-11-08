@@ -1,0 +1,9 @@
+name = "court-skill"
+description = "Put your idea on trial in front of a jury of 12 Claudes. A free Claude Code skill."
+category = "skills-prompts"
+tags = ["ai-agents", "claude", "claude-code", "claude-code-plugin", "claude-code-skill", "claude-skills", "critical-thinking", "decision-making"]
+repository = "https://github.com/alexyc9381/court-skill"
+website = "https://chen.media/guides/put-your-idea-on-trial-in-front-of-a-jury-of-12-claudes-how-to-install-the-free-skill"
+license = "MIT"
+language = "Python"
+added = 2026-11-08

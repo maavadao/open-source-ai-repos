@@ -1,0 +1,8 @@
+name = "IntentRoute-AI"
+description = "Open-source AI-assisted per-application routing for Windows with OpenAI/Ollama drafts and a sing-box TUN data plane."
+category = "local-llms"
+tags = ["ai", "dotnet", "network-routing", "ollama", "open-source", "openai", "proxy", "sing-box"]
+repository = "https://github.com/Vincent-Xi08/IntentRoute-AI"
+license = "MIT"
+language = "C#"
+added = 2026-11-08

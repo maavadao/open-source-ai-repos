@@ -1,0 +1,9 @@
+name = "alzeo"
+description = "dgx-spark-qwen38 is an open-source installer that turns an NVIDIA DGX Spark, or any GB10 machine (ASUS, Dell, HP, Lenovo, MSI, GIGABYTE, Acer), into a private AI server in one command: measured model lanes, OpenAI and Anthropic APIs, and a local cockpit."
+category = "local-llms"
+tags = ["ai-agents", "asus-ascent-gx10", "dgx-spark", "gb10", "image-generation", "llm-inference", "local-ai", "local-llm"]
+repository = "https://github.com/hasso5703/alzeo"
+website = "https://hasso5703.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-11-08

@@ -1,0 +1,9 @@
+name = "vibestart"
+description = "Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in. | 自由组合全栈 TypeScript 技术栈，得到一个前沿、经过验证、为 AI 编码智能体打造的项目，内置类型安全、lint 与测试。"
+category = "coding"
+tags = ["ai", "ai-coding", "cli", "fullstack", "lint", "react", "shadcn-ui", "skills"]
+repository = "https://github.com/VinkyDev/vibestart"
+website = "https://vibestart.net"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-08

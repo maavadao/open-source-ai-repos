@@ -1,0 +1,8 @@
+name = "bloks"
+description = "A local-first desktop app for running a team of AI agents on Claude Code, Codex, Cursor, Cline and more, on your own computer."
+category = "skills-prompts"
+tags = ["agent-client-protocol", "agent-orchestration", "agent-team", "ai-agent", "ai-agents", "claude-code", "cline", "codex"]
+repository = "https://github.com/hamedgitty/bloks"
+website = "https://bloks.dev"
+language = "TypeScript"
+added = 2026-11-08

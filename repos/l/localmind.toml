@@ -1,0 +1,8 @@
+name = "localmind"
+description = "A mobile application designed to provide a beautiful, fast, and privacy-respecting interface for on device LLM and local LLM servers and cloud providers"
+category = "local-llms"
+tags = ["ai-chat", "android", "chatgpt-alternative", "dart", "flutter", "gemma", "gguf", "ios"]
+repository = "https://github.com/abdulmominsakib/localmind"
+license = "MIT"
+language = "Dart"
+added = 2026-11-08

@@ -1,0 +1,9 @@
+name = "reddit-mcp"
+description = "Model Context Protocol server implementation for Reddit"
+category = "mcp-servers"
+tags = ["mcp", "mcp-server", "reddit", "reddit-api"]
+repository = "https://github.com/Arindam200/reddit-mcp"
+website = "https://arindammajumder.com/youtube"
+license = "MIT"
+language = "Python"
+added = 2026-11-08

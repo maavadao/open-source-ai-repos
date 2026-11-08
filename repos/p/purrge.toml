@@ -1,0 +1,8 @@
+name = "purrge"
+description = "🐾 Purrge — macOS AI 磁盘清理工具，支持 Claude Code 和 Codex：空间不足时提醒，AI 逐项判断能清什么，你勾选确认后才清理"
+category = "skills-prompts"
+tags = ["ai", "claude-code", "codex", "disk-cleanup", "macos"]
+repository = "https://github.com/RabbittuX/purrge"
+website = "https://static.yellowrabbit.online/purrge/index.html"
+language = "Python"
+added = 2026-11-08

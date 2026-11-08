@@ -1,0 +1,8 @@
+name = "FriesTrader"
+description = "Robinhood Agentic Trading agent — a fully automated AI trading bot placing real orders through Robinhood's Agentic Trading MCP, under mechanical, auditable risk rules the model cannot override. Able to run unattended on Claude Pro, no metered API spend. Not financial advice."
+category = "mcp-servers"
+tags = ["agentic-ai", "algorithmic-trading", "automation", "claude", "claude-code", "llm-agents", "mcp", "risk-management"]
+repository = "https://github.com/YizhiSong/FriesTrader"
+license = "MIT"
+language = "Python"
+added = 2026-11-08

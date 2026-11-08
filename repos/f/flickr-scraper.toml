@@ -1,0 +1,9 @@
+name = "flickr_scraper"
+description = "Python Flickr image scraper for building keyword-based computer vision datasets with pagination and deduplication."
+category = "vision"
+tags = ["computer-vision", "dataset-creation", "flickr", "flickr-api", "image-downloader", "image-scraper", "pagination", "python"]
+repository = "https://github.com/ultralytics/flickr_scraper"
+website = "https://ultralytics.com"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-11-08

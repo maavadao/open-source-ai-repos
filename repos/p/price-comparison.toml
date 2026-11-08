@@ -1,0 +1,9 @@
+name = "price-comparison"
+description = "AI 订阅与卡网比价平台，说出需求，让 AI 帮你选。聚合 ChatGPT / Codex、Claude、Gemini 等代充或账号报价，对比价格走势、充值渠道与质保。AI-powered shopping and price comparison for subscriptions and accounts, with cross-shop offers, price history and purchase details."
+category = "browser-automation"
+tags = ["ai", "ai-assistants", "chatgpt", "claude", "gemini", "grok", "price-comparison", "price-tracker"]
+repository = "https://github.com/hhtower/price-comparison"
+website = "https://price.yufu.pub"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-11-08

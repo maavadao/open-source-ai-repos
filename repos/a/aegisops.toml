@@ -1,0 +1,7 @@
+name = "AegisOps"
+description = "AegisOps企业信息系统智能运维平台：自动巡检、Agent 故障排查、证据工单与审批处置。LangGraph · Deep Agents · MCP；附可复现实测记录。"
+category = "mcp-servers"
+tags = ["ai-agent", "aiops", "deepagents", "langgraph", "mcp", "observability", "pgvector", "spring-boot"]
+repository = "https://github.com/emma-sue/AegisOps"
+language = "Python"
+added = 2026-11-08

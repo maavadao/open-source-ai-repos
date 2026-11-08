@@ -1,0 +1,9 @@
+name = "TOMC"
+description = "TOMC Memory: CPU context compression and task memory for Codex, Claude Code, Cursor, TRAE, WorkBuddy and other MCP clients."
+category = "mcp-servers"
+tags = ["agent-memory", "claude-code", "codex", "context-compression", "dsh-plugin", "llm", "long-context", "mcp"]
+repository = "https://github.com/ZipengWu365/TOMC"
+website = "https://github.com/ZipengWu365/TOMC"
+license = "MIT"
+language = "Python"
+added = 2026-11-08

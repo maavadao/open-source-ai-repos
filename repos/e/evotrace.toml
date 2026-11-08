@@ -1,0 +1,8 @@
+name = "EvoTrace"
+description = "Compile real-world Claude Code and Codex trajectories into verified, tradable post-training assets."
+category = "skills-prompts"
+tags = ["agents", "benchmark", "claude-code", "codex-cli", "coding-agents", "developer-tools", "evaluation", "llm-evaluation"]
+repository = "https://github.com/jinzijian/EvoTrace"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-08

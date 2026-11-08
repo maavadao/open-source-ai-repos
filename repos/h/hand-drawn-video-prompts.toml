@@ -1,0 +1,7 @@
+name = "hand-drawn-video-prompts"
+description = "Open-source AI skill for hand-drawn video prompts. Turn Chinese scripts into consistent 9:16 chibi storyboards, image prompts, and animation prompts for Flow and Nano Banana—ideal for YouTube Shorts, TikTok, and Reels."
+category = "skills-prompts"
+tags = ["ai-video", "b-roll", "flow", "nano-banana", "prompt-engineering", "storyboard"]
+repository = "https://github.com/kaomei/hand-drawn-video-prompts"
+license = "MIT"
+added = 2026-11-08

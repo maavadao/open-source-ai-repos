@@ -1,0 +1,7 @@
+name = "bc250"
+description = "AMD BC-250 (PS5 APU) setup guide — Ollama + Vulkan inference, poor man's AI assistant via Signal, stable-diffusion.cpp image generation"
+category = "local-llms"
+tags = ["amd", "bc250", "edge-ai", "fedora", "gguf", "llama-cpp", "local-llm", "ollama"]
+repository = "https://github.com/akandr/bc250"
+language = "Python"
+added = 2026-11-08

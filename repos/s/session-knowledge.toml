@@ -1,0 +1,8 @@
+name = "session-knowledge"
+description = "Turn your Claude Code session history into a searchable local knowledge base — 13 MCP tools, pure stdlib, nothing leaves your machine"
+category = "mcp-servers"
+tags = ["ai-agents", "anthropic", "claude-code", "developer-tools", "full-text-search", "knowledge-base", "llm", "local-first"]
+repository = "https://github.com/nameforjt-afk/session-knowledge"
+license = "MIT"
+language = "Python"
+added = 2026-11-08

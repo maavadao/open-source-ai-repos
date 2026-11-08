@@ -1,0 +1,9 @@
+name = "Simreal-MLBench"
+description = "[Public preview] Externally scored agentic ML research benchmark: 60 tasks, real competition ground truth. Open protocol, operated evaluation."
+category = "agents"
+tags = ["agentic", "ai-evaluation", "benchmark", "benchmarking", "calibration", "llm", "llm-agents", "llms"]
+repository = "https://github.com/Simreal-AI/Simreal-MLBench"
+website = "https://simreal.co"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-08

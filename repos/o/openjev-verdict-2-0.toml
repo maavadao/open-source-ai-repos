@@ -1,0 +1,8 @@
+name = "openJev-verdict-2.0"
+description = "Calibrated 151M Non-Autoregressive Decision Engine beating TypeSafe Jev & Laya on LocalLLaMA/typed-decisions (77.10% acc, 0.0636 Brier, 0.0144 ECE)"
+category = "agents"
+tags = ["agentic-ai", "brier-score", "calibration", "decision-engine", "deep-learning", "encoder", "jev", "machine-learning"]
+repository = "https://github.com/Heman10x-NGU/openJev-verdict-2.0"
+website = "https://heman10x-ngu.github.io/openJev-verdict-2.0/"
+language = "Python"
+added = 2026-11-08

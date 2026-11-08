@@ -1,0 +1,7 @@
+name = "ChaosIntelligence"
+description = "把智能体当函数，把想法写成程序。Agent-native functional language with a CLI, Web IDE, goal-driven bots and live UI. Source-available; no AI training."
+category = "agents"
+tags = ["agentic-ai", "ai-agents", "cli", "developer-tools", "functional-programming", "generative-ui", "llm", "multi-agent"]
+repository = "https://github.com/Cattmonkey/ChaosIntelligence"
+language = "Python"
+added = 2026-11-08

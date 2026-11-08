@@ -1,0 +1,9 @@
+name = "thinkwithblack-skill"
+description = "365 free AI marketing skills (zh-TW/en) for ChatGPT, Claude, Gemini, Claude Code & Cursor — copywriting, ads budget, margin, CRM, email. 365 個免費 AI 行銷 Skills"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-marketing", "chatgpt", "claude", "claude-code", "claude-skills", "copywriting", "cursor"]
+repository = "https://github.com/backtrue/thinkwithblack-skill"
+website = "https://thinkwithblack.com/marketing-skills/"
+license = "MIT"
+language = "Python"
+added = 2026-11-08

@@ -1,0 +1,9 @@
+name = "embodied-agents"
+description = "Seamlessly integrate state-of-the-art transformer models into robotics stacks"
+category = "agents"
+tags = ["agents", "artificial-intelligence", "diffusion", "embodied", "embodied-agent", "embodied-agents", "generative-ai", "large-language-models"]
+repository = "https://github.com/mbodiai/embodied-agents"
+website = "https://mbodi.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-08

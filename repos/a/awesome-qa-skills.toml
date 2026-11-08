@@ -1,0 +1,8 @@
+name = "awesome-qa-skills"
+description = "Bilingual Agent Skills for software testing and QA workflows from requirements through release. Independently installable for Codex, Claude Code, Cursor, and compatible coding agents. Licensed under PolyForm Noncommercial 1.0.0."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-testing", "claude-code", "cursor", "openai-codex", "prompt-engineering", "qa", "qa-skills"]
+repository = "https://github.com/naodeng/awesome-qa-skills"
+website = "https://inaodeng.com/qaskills/"
+language = "Python"
+added = 2026-11-08

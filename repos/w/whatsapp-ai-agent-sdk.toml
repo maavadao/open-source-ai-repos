@@ -1,0 +1,9 @@
+name = "whatsapp-ai-agent-sdk"
+description = "The open-source AI agent SDK for WhatsApp. Bring your own model, your own number, your own data. Local-first, no forced cloud, no vendor lock-in."
+category = "chat"
+tags = ["agent-framework", "ai-agent", "chatbot", "instinct", "llm", "local-first", "muse", "opensource"]
+repository = "https://github.com/csr1010/whatsapp-ai-agent-sdk"
+website = "https://www.wappy.ai/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-08

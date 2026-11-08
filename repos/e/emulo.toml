@@ -1,0 +1,9 @@
+name = "emulo"
+description = "Mine your Claude Code and Codex logs into a local you.md agent profile."
+category = "skills-prompts"
+tags = ["agent-memory", "agent-skills", "ai", "ai-agents", "ai-coding", "ai-memory", "claude", "claude-code"]
+repository = "https://github.com/ohad6k/emulo"
+website = "https://emulo.vercel.app"
+license = "MIT"
+language = "HTML"
+added = 2026-11-08

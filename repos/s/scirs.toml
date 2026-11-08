@@ -1,0 +1,9 @@
+name = "scirs"
+description = "SciRS2 - Scientific Computing and AI in Rust., providing SciPy-compatible APIs while leveraging Rust's performance, safety, and concurrency features. Unlike traditional scientific libraries"
+category = "data-science"
+tags = ["ai", "artificial-intelligence", "data-analysis", "data-science", "fft", "linalg", "machine-learning", "ml"]
+repository = "https://github.com/cool-japan/scirs"
+website = "https://github.com/cool-japan/scirs"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-08

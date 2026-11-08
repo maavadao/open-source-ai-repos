@@ -1,0 +1,9 @@
+name = "pi-harness"
+description = "The operational superset of Pi Coding Agent — everything Pi, plus observability, governance, recovery, evaluation and multi-agent orchestration. Pi Coding Agent 的运维超集——完整继承 Pi 的核心能力，并进一步扩展可观测性、治理、故障恢复、评估和多 Agent 编排。"
+category = "agents"
+tags = ["agent-harness", "agent-observability", "agent-orchestration", "ai-agent", "coding-agent", "desktop-app", "developer-tools", "electron"]
+repository = "https://github.com/wangmiaozero/pi-harness"
+website = "https://wangmiaozero.github.io/pi-harness-website/"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-11-08

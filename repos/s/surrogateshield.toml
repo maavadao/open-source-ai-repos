@@ -1,0 +1,9 @@
+name = "SurrogateShield"
+description = "A privacy-first guardrail for LLMs and RAG pipelines. SurrogateShield detects, redacts, and reconstructs sensitive PII data on the fly while defending against adversarial attacks."
+category = "chat"
+tags = ["chatbot", "chatgpt", "claude", "data-protection", "gemini", "generative-ai", "guardrails", "llm"]
+repository = "https://github.com/sherwinvishesh/SurrogateShield"
+website = "https://sherwinvishesh.github.io/SurrogateShield/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-08

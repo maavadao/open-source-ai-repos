@@ -1,0 +1,9 @@
+name = "Mix-Studio"
+description = "The cleanest, responsive AI workspace. Run highly tuned image and video workflows flawlessly from your desktop or your phone. Built on ComfyUI."
+category = "image"
+tags = ["ai-art", "comfyui", "image-generation", "lora", "mixstudio", "mobile-first", "self-hosted", "stable-diffusion"]
+repository = "https://github.com/BlackMixture/Mix-Studio"
+website = "https://blackmixture.com"
+license = "GPL-3.0"
+language = "JavaScript"
+added = 2026-11-08

@@ -1,0 +1,6 @@
+name = "Awesome-AI"
+description = "收集分享 AI 大型语言模型 (LLM)、AI 辅助编程、AI 绘画等领域的常用资料，探索生成式人工智能的应用与开发。"
+category = "chat"
+tags = ["chatgpt", "github-copilot", "gpts", "llm"]
+repository = "https://github.com/cssmagic/Awesome-AI"
+added = 2026-11-08

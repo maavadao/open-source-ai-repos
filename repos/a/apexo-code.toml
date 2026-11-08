@@ -1,0 +1,8 @@
+name = "apexo-code"
+description = "Apexo: An open-source, general-purpose coding agent for terminal (TUI), web, and desktop with autonomous goals, workflows, persistent memory, command sandboxing, and first-class support for Gemini, Grok, and OpenAI-compatible models."
+category = "llm-apps"
+tags = ["ai-agent", "cli", "coding-agent", "electron", "gemini", "grok", "llm", "mcp"]
+repository = "https://github.com/cluster1900/apexo-code"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-08

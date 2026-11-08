@@ -1,0 +1,9 @@
+name = "AIGlasses_for_navigation"
+description = "Open-source AI navigation glasses under $35 — they say what they see, and say 'uncertain' instead of guessing. Safety-first, printable enclosure, community build kit."
+category = "vision"
+tags = ["3d-printing", "a11y", "accessibility", "ai-for-good", "assistive-technology", "blind", "computer-vision", "fastapi"]
+repository = "https://github.com/DresdenGman/AIGlasses_for_navigation"
+website = "https://oercommons.org/courses/low-cost-ai-navigation-glasses-bilingual-build-guide-for-assistive-makers"
+license = "MIT"
+language = "Python"
+added = 2026-11-08

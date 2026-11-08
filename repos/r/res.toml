@@ -1,0 +1,9 @@
+name = "res"
+description = "Agent skill to reverse engineer a SaaS product through the browser into a knowledge base for rebuilding it: screens, rules, data model, design tokens and production barriers, without touching production data."
+category = "browser-automation"
+tags = ["agent-skills", "ai-agents", "browser-automation", "claude-code", "knowledge-base", "reverse-engineering", "saas"]
+repository = "https://github.com/alextnetto/res"
+website = "https://alextnetto.github.io/res/examples/pipedrive/REPORT.html"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-08

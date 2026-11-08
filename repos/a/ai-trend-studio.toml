@@ -1,0 +1,8 @@
+name = "ai-trend-studio"
+description = "Local-first AI trend radar and live-session distillation"
+category = "other"
+tags = ["ai", "bilibili", "douyin", "knowledge-management", "local-first", "summarization", "trends"]
+repository = "https://github.com/developeryj1992/ai-trend-studio"
+license = "MIT"
+language = "Python"
+added = 2026-11-08

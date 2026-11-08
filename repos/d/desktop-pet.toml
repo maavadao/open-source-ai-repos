@@ -1,0 +1,9 @@
+name = "desktop-pet"
+description = "Comi (可米) — a tiny 3D plush desktop companion for macOS and Windows: hops around, waves, claps her clapperboard and keeps you company while you work. Optional local status bridge for DSH / ZCode / Claude Code / Cursor / OpenCode / Codex. Zero dependencies."
+category = "other"
+tags = ["ai", "appkit", "coding-agent", "deepseek-harness", "desktop-companion", "desktop-pet", "dsh", "macos"]
+repository = "https://github.com/IvenKooLab/desktop-pet"
+website = "https://github.com/IvenKooLab/desktop-pet/releases/latest"
+license = "MIT"
+language = "Python"
+added = 2026-11-08

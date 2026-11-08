@@ -1,0 +1,7 @@
+name = "stock-agent-ops"
+description = "Designing end-to-end weekly stock report generation using LSTM and Agentic AI. Deploying on AWS with MLOps practices."
+category = "agents"
+tags = ["agentic-ai", "aws", "devops", "machine-learning", "mlops", "neural-network", "python"]
+repository = "https://github.com/kmeanskaran/stock-agent-ops"
+language = "Python"
+added = 2026-11-08

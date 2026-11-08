@@ -1,0 +1,7 @@
+name = "spec-harness"
+description = "面向 AI 编程智能体的任务包工作流工具，用可验证的范围、证据和 Git 门禁管理长期改动。(Task-package workflow for AI coding agents with verifiable scope, evidence, and Git gates.)"
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "cli", "codex", "developer-tools", "gemini-cli", "llm", "python"]
+repository = "https://github.com/MicTx/spec-harness"
+language = "Python"
+added = 2026-11-08

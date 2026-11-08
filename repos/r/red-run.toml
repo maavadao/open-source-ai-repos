@@ -1,0 +1,8 @@
+name = "red-run"
+description = "Offensive security toolkit for Claude Code"
+category = "skills-prompts"
+tags = ["claude", "claude-code", "ctf", "offensive-security", "penetration-testing", "red-team", "security"]
+repository = "https://github.com/blacklanternsecurity/red-run"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-11-08

@@ -1,0 +1,9 @@
+name = "casecite"
+description = "CaseCite is an open-source, self-hosted legal RAG caselaw research & document analysis platform."
+category = "agents"
+tags = ["ai-agent", "ai-agents", "ai-tools", "case-law", "caselaw", "harvey", "law", "lawtech"]
+repository = "https://github.com/thomasunise/casecite"
+website = "https://thomasunise.com/casecite"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-08

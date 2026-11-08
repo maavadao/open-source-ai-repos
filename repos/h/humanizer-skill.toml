@@ -1,0 +1,9 @@
+name = "humanizer-skill"
+description = "Free, open-source AI writing humanizer and detector. 55 patterns, 5 voices, a 0-100 AI-tell score, and nothing leaves your machine."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-detection", "ai-humanizer", "ai-writing", "anti-ai-detection", "awesome-claude-code", "burstiness", "claude"]
+repository = "https://github.com/Aboudjem/humanizer-skill"
+website = "https://humanizer-skill.vercel.app"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-08

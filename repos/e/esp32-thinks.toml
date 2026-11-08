@@ -1,0 +1,8 @@
+name = "esp32-thinks"
+description = "A multi-model Muse: personal AI voice assistant on ESP32 - wake word or knob, any OpenAI-compatible brain (STT/chat/TTS mix-and-match), streaming replies, out of the box. Built on muse-gadget-sdk."
+category = "speech"
+tags = ["ai-assistant", "deepseek", "edge-ai", "esp-sr", "esp32", "esp32-s3", "llm", "muse"]
+repository = "https://github.com/raullenchai/esp32-thinks"
+license = "MIT"
+language = "Shell"
+added = 2026-11-08

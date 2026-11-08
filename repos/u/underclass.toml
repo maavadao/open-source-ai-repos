@@ -1,0 +1,9 @@
+name = "underclass"
+description = "underclass: an OpenAI-compatible pooling proxy that pins sessions to one account (prompt cache stays warm), cools quota-exhausted subscriptions until their window resets, and fails fast with the earliest Retry-After when the whole pool is dry."
+category = "other"
+tags = ["openai", "openai-proxy-load-balancer"]
+repository = "https://github.com/ghuntley/underclass"
+website = "https://ghuntley.com"
+license = "MIT"
+language = "Rust"
+added = 2026-11-08

@@ -1,0 +1,8 @@
+name = "lemo-wake"
+description = "Claude Code plugin: turn one still image into a ~5 s seamless looping animation (MP4, GIF, WebP, Live Photo). · 把一张图做成约 5 秒的无缝循环动图。"
+category = "skills-prompts"
+tags = ["agent-skills", "claude", "claude-code", "claude-code-plugin", "gif", "image-animation", "motion-design", "webp"]
+repository = "https://github.com/lemomo-ai/lemo-wake"
+website = "https://lemomo-ai.github.io/lemo-wake/"
+language = "Python"
+added = 2026-11-08

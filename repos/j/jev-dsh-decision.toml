@@ -1,0 +1,7 @@
+name = "jev-dsh-decision"
+description = "Jev DSH 决策引擎｜面向 Agent Harness 的结构化决策插件。原生支持 DeepSeek Harness，通过 iPolloWork 支持 OpenCode、Codex Harness。"
+category = "agents"
+tags = ["agent-harness", "ai-agents", "apollo-plugin", "codex", "codex-harness-plugin", "codex-plugin", "decision-engine", "deepseek-harness"]
+repository = "https://github.com/Devin-AXIS/jev-dsh-decision"
+language = "JavaScript"
+added = 2026-11-08

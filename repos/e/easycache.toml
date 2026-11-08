@@ -1,0 +1,9 @@
+name = "EasyCache"
+description = "Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching"
+category = "image"
+tags = ["diffusion-models", "hunyuan-video", "inference-acceleration", "video-generation"]
+repository = "https://github.com/H-EmbodVis/EasyCache"
+website = "https://arxiv.org/abs/2507.02860"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-08

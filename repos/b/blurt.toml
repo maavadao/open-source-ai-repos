@@ -1,0 +1,9 @@
+name = "blurt"
+description = "The keyboard for the agent era: dictation, copy text from screen, translation, snaps and screen recordings for Claude Code, Codex and your other agents. Free, open source, Mac. 口喷鸡：Agent 时代的输入法。"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude-code", "codex", "dictation", "feedback", "macos", "ocr"]
+repository = "https://github.com/AGIHunt/blurt"
+website = "https://blurt.work"
+license = "MIT"
+language = "Swift"
+added = 2026-11-08

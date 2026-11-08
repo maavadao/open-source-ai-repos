@@ -1,0 +1,8 @@
+name = "dsh-codex-effort-slider"
+description = "Codex 风格的推理等级滑条（DeepSeek Harness 插件）：可拖动连续滑条 + 高档位渐变星尘特效"
+category = "agents"
+tags = ["ai", "ai-agents", "codex", "deepseek", "deepseek-ai", "deepseek-harness", "deepseek-plugin", "deepseek-v4"]
+repository = "https://github.com/Microqian2th/dsh-codex-effort-slider"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-08

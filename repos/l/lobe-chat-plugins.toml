@@ -1,0 +1,8 @@
+name = "lobe-chat-plugins"
+description = "🧩 / 🏪 Plugin Index - This is the plugin index for LobeChat. It accesses index.json from this repository to display a list of available plugins for LobeChat to the user."
+category = "chat"
+tags = ["ai", "awesome", "chatgpt", "function-calling", "lobe-chat", "lobe-chat-plugin", "lobehub", "openai"]
+repository = "https://github.com/lobehub/lobe-chat-plugins"
+website = "https://lobechat.com/discover/plugin"
+language = "TypeScript"
+added = 2026-11-08

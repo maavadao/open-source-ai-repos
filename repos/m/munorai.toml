@@ -1,0 +1,7 @@
+name = "munorai"
+description = "Supercharge the AI you already use. Greener. Better. Faster. Cheaper."
+category = "agents"
+tags = ["ai", "ai-agents", "developer-tools"]
+repository = "https://github.com/rtora/munorai"
+website = "https://munorai.com"
+added = 2026-11-08

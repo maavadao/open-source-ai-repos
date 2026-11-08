@@ -1,0 +1,9 @@
+name = "engrim"
+description = "The Universal Cross-Model Episodic Memory Standard. Local-first, project-scoped SQLite engine for Google Antigravity, Claude Code, Cursor, Codex CLI, GitHub Copilot CLI, and OpenCode. Zero cloud lock-in."
+category = "skills-prompts"
+tags = ["ai-agents", "antigravity", "claude-code", "codex", "context-management", "copilot", "copilot-cli", "cursor"]
+repository = "https://github.com/timgordontg/engrim"
+website = "https://engrim.dev"
+license = "MIT"
+language = "Python"
+added = 2026-11-08

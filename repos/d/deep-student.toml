@@ -1,0 +1,9 @@
+name = "deep-student"
+description = "An open-source, local-first AI learning workbench"
+category = "llm-apps"
+tags = ["ai-agent", "anki", "education", "flashcards", "fsrs", "learning", "llm", "local-first"]
+repository = "https://github.com/helixnow/deep-student"
+website = "https://www.deepstudent.cn"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-11-08

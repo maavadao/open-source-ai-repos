@@ -1,0 +1,9 @@
+name = "ray-finance"
+description = "An open-source AI financial advisor that learns your situation and gets smarter every conversation."
+category = "llm-apps"
+tags = ["ai", "budgeting", "claude", "cli", "finance", "financial-advisor", "fintech", "llm"]
+repository = "https://github.com/cdinnison/ray-finance"
+website = "https://rayfinance.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-08

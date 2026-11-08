@@ -1,0 +1,8 @@
+name = "papergraph-mcp"
+description = "PaperGraph MCP turns math papers into evidence-grounded reading maps for AI agents: extract results, trace proof evidence, plan reading order, and review external dependencies without guessing."
+category = "mcp-servers"
+tags = ["ai-agents", "arxiv", "knowledge-graph", "latex", "mathematics", "mcp", "model-context-protocol", "python"]
+repository = "https://github.com/lotchuazzz-crypto/papergraph-mcp"
+license = "MIT"
+language = "Python"
+added = 2026-11-08

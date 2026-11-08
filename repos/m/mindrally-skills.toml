@@ -1,0 +1,8 @@
+name = "skills"
+description = "265+ Claude Code skills for every major framework and language. Install with: npx skills add Mindrally/skills"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-coding", "anthropic", "claude", "claude-code", "claude-skills", "coding-assistant", "cursor-rules"]
+repository = "https://github.com/Mindrally/skills"
+website = "https://mindrally.com"
+license = "Apache-2.0"
+added = 2026-11-08

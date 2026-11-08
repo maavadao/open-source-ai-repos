@@ -1,0 +1,9 @@
+name = "ALH-Pro"
+description = "本地运行的开源 AI 图片/视频/音频增强工具:图片超分、AI 抠图、视频超分、视频补帧、去重、音频分离与增强(全部在本机完成)。官网与下载//alhpro.cn"
+category = "other"
+tags = ["ai", "anime-upscaler", "audio-enhancement", "background-removal", "ffmpeg", "frame-interpolation", "image-upscaler", "local-first"]
+repository = "https://github.com/AlLHHH/ALH-Pro"
+website = "https://alhpro.cn/"
+license = "MIT"
+language = "C#"
+added = 2026-11-08

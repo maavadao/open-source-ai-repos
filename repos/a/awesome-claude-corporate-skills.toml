@@ -1,0 +1,8 @@
+name = "awesome-claude-corporate-skills"
+description = "166 production-ready Claude AI skills organized by corporate role — executive leadership, finance, HR, marketing, sales, legal, operations, engineering, product, data, customer success, procurement & document processing"
+category = "skills-prompts"
+tags = ["ai-agents", "ai-skills", "anthropic", "awesome-list", "business", "claude", "claude-code", "claude-skills"]
+repository = "https://github.com/w95/awesome-claude-corporate-skills"
+license = "MIT"
+language = "Python"
+added = 2026-11-08

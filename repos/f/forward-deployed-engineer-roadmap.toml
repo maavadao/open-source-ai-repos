@@ -1,0 +1,9 @@
+name = "forward-deployed-engineer-roadmap"
+description = "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic."
+category = "learning"
+tags = ["ai", "fde", "fde-interview", "forward-deployed-engineer", "forward-deployed-engineering", "roadmap"]
+repository = "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap"
+website = "https://outcomeschool.com/program/ai-and-machine-learning"
+license = "Apache-2.0"
+language = "Markdown"
+added = 2026-11-08

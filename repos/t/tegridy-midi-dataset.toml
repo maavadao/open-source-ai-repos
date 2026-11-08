@@ -1,0 +1,9 @@
+name = "Tegridy-MIDI-Dataset"
+description = "Tegridy MIDI Dataset for precise and effective Music AI models creation."
+category = "other"
+tags = ["artificial-intelligence", "dataset", "datasets", "karaoke", "midi", "midi-converter", "midi-files", "midi-parser"]
+repository = "https://github.com/asigalov61/Tegridy-MIDI-Dataset"
+website = "https://soundcloud.com/aleksandr-sigalov-61/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-08

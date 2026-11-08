@@ -1,0 +1,8 @@
+name = "vulnerator-ai"
+description = "Autonomous OODA-loop pentesting agent. Hermes brain, Kali + Playwright tools over MCP, ATT&CK as the Orient language."
+category = "agents"
+tags = ["ai-agents", "autonomous-agents", "kali-linux", "llm-agents", "offensive-security", "ooda-loop", "pentesting", "playwright"]
+repository = "https://github.com/irraz/vulnerator-ai"
+license = "MIT"
+language = "Python"
+added = 2026-11-08

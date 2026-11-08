@@ -1,0 +1,9 @@
+name = "ai-hardware-engineer-roadmap"
+description = "Master AI inference, AI agent harness systems, and hardware engineering — then design a physical AI chip. That is the goal."
+category = "agents"
+tags = ["ai-accelerators", "ai-agents", "ai-hardware", "autonomous-vehicles", "computer-architecture", "computer-vision", "cuda", "deep-learning"]
+repository = "https://github.com/ai-hpc/ai-hardware-engineer-roadmap"
+website = "https://ai-hpc.github.io/ai-hardware-engineer-roadmap/"
+license = "MIT"
+language = "Python"
+added = 2026-11-08

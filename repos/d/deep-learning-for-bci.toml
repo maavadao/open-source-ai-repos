@@ -1,0 +1,7 @@
+name = "Deep-Learning-for-BCI"
+description = "Resources for Book: Deep Learning for EEG-based Brain-Computer Interface: Representations, Algorithms and Applications"
+category = "ml-platforms"
+tags = ["artificial-intelligence", "bci", "datamining", "deep-learning", "eeg", "machine-learning"]
+repository = "https://github.com/xiangzhang1015/Deep-Learning-for-BCI"
+language = "Jupyter Notebook"
+added = 2026-11-08

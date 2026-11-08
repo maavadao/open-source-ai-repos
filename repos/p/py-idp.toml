@@ -1,0 +1,8 @@
+name = "py-idp"
+description = "AI-enabled Intelligent Document Processing for Python: 12+ LLM backends, Pydantic schemas, self-hosted OCR (Nanonets-OCR2-3B), auto-schema discovery, HITL review, prod FastAPI server. AGPL-3.0 + commercial."
+category = "vision"
+tags = ["anthropic", "deepseek", "document-ai", "extraction", "intelligent-document-processing", "invoice", "llm", "multimodal"]
+repository = "https://github.com/rollroyces/py-idp"
+website = "https://pypi.org/project/py-idp/"
+language = "Python"
+added = 2026-11-08

@@ -1,0 +1,9 @@
+name = "recurse"
+description = "AI Native IDE for reverse engineering"
+category = "agents"
+tags = ["agentic-ai", "ctf", "ctf-tools", "ide", "pwn", "pwntools", "reverse-engineering", "rust"]
+repository = "https://github.com/Recurse-Labs/recurse"
+website = "https://recurse-labs.github.io/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-08

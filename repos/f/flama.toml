@@ -1,0 +1,9 @@
+name = "flama"
+description = "The production framework for Predictive and Generative AI. Serve any model as an API in one line, with OpenAI/Anthropic/Ollama-compatible endpoints, a built-in chat UI, and native MCP."
+category = "mcp-servers"
+tags = ["anthropic", "asgi", "chatbot", "domain-driven-design", "generative-ai", "inference", "llm", "llm-serving"]
+repository = "https://github.com/vortico/flama"
+website = "https://flama.dev"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-08

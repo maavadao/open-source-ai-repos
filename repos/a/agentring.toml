@@ -1,0 +1,9 @@
+name = "agentring"
+description = "Let your AI agents call your phone over VoIP, and call them back. Your phone rings like a real call, even locked; a voice AI talks it through and returns the transcript. Self-hosted, open source, no phone numbers or Twilio."
+category = "skills-prompts"
+tags = ["ai-agents", "android", "claude-code", "gemini-live", "livekit", "mcp", "mcp-server", "phone-calls"]
+repository = "https://github.com/mutonby/agentring"
+website = "https://agentring.io"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-08

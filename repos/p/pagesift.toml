@@ -1,0 +1,8 @@
+name = "pagesift"
+description = "Self-hosted web scraper, crawler and document parser for AI agents: URLs, PDFs with OCR and Office files to clean Markdown/JSON. Firecrawl- and Jina-compatible API, MCP server, agent endpoint, Python/Node SDKs. Single Rust binary."
+category = "mcp-servers"
+tags = ["ai-agents", "browser-automation", "crawl4ai-alternative", "data-extraction", "document-parsing", "firecrawl", "firecrawl-alternative", "html-to-markdown"]
+repository = "https://github.com/YOLOW92/pagesift"
+license = "AGPL-3.0"
+language = "Rust"
+added = 2026-11-08

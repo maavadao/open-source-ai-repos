@@ -1,0 +1,9 @@
+name = "sketchy"
+description = "A layout engine for AI diagrams: the model says what to draw, Sketchy figures out where. Hand-drawn, interactive, in Claude, Cursor and VS Code."
+category = "skills-prompts"
+tags = ["claude", "claude-code", "claude-skill", "claude-skills", "cursor", "diagrams", "elkjs", "layout-engine"]
+repository = "https://github.com/ddkbs/sketchy"
+website = "https://sketchy.davidkubus.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-08

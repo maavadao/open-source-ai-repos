@@ -1,0 +1,9 @@
+name = "kwant"
+description = "Your own team of AI bots in one self-hosted binary: spaces, every account you have, handoffs, approvals and routines. Open-source, self-hosted alternative to Grok Bot, Claude Duet and OpenAI dots. Rust + React."
+category = "agents"
+tags = ["ai-agents", "ai-assistant", "ai-bot", "automation", "bot", "bots-team", "chatbot", "claude-duet"]
+repository = "https://github.com/alexsergivan/kwant"
+website = "https://kwant.si"
+license = "AGPL-3.0"
+language = "Rust"
+added = 2026-11-08

@@ -1,0 +1,8 @@
+name = "resimind"
+description = "Neuro-symbolic agents with verified memory. MCP math tools, an algebra repair Skill, and an open challenge. Verify solutions, learn checked rules, and reuse."
+category = "mcp-servers"
+tags = ["agent-memory", "agent-skills", "ai-agents", "customer-support", "knowledge-growth", "knowledge-reuse", "lean4", "llm-agents"]
+repository = "https://github.com/1105216375-alt/resimind"
+license = "MIT"
+language = "Python"
+added = 2026-11-08

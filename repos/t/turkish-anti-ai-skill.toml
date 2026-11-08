@@ -1,0 +1,8 @@
+name = "turkish-anti-ai-skill"
+description = "Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-skills", "ai-writing", "claude-code", "codex", "cursor-rules", "de-slop", "gemini-cli"]
+repository = "https://github.com/yucezerey/turkish-anti-ai-skill"
+license = "MIT"
+language = "Python"
+added = 2026-11-08

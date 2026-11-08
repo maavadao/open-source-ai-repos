@@ -1,0 +1,9 @@
+name = "botdirectory.ai"
+description = "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent — botdirectory.ai"
+category = "skills-prompts"
+tags = ["agents", "ai-agents", "astro", "automation", "bots", "directory", "grok", "grokbot"]
+repository = "https://github.com/elie222/botdirectory.ai"
+website = "https://botdirectory.ai"
+license = "MIT"
+language = "Astro"
+added = 2026-11-08

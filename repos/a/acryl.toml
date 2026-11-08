@@ -1,0 +1,9 @@
+name = "acryl"
+description = "ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent."
+category = "coding"
+tags = ["acryl", "agent-context-relay", "agentic", "agentic-ai", "agentic-coding", "agentic-development-environment", "agentic-workflow", "agentic-workflows"]
+repository = "https://github.com/acryldev/acryl"
+website = "https://acryl.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-08

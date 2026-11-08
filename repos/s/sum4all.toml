@@ -1,0 +1,8 @@
+name = "sum4all"
+description = "网页、视频、图片大模型总结"
+category = "chat"
+tags = ["chatgpt", "chatgptonwechat", "gemini", "openai", "shortcuts"]
+repository = "https://github.com/fatwang2/sum4all"
+license = "MIT"
+language = "Python"
+added = 2026-11-08

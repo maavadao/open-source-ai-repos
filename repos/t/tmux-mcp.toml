@@ -1,0 +1,8 @@
+name = "tmux-mcp"
+description = "A MCP server for our beloved terminal multiplexer tmux."
+category = "mcp-servers"
+tags = ["mcp", "mcp-server", "tmux"]
+repository = "https://github.com/nickgnd/tmux-mcp"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-08

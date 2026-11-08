@@ -1,0 +1,9 @@
+name = "swttch"
+description = "Claude Code GUI plugin for JetBrains IDEs. (ex - Claude Code with GUI)"
+category = "skills-prompts"
+tags = ["ai-coding-assistant", "claude", "claude-code", "claude-code-gui", "claude-code-gui-jetbrains", "intellij-plugin", "jetbrains-plugin", "swttch"]
+repository = "https://github.com/Swttch/swttch"
+website = "https://plugins.jetbrains.com/plugin/30313-claude-code-with-gui"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-11-08

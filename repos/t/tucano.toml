@@ -1,0 +1,9 @@
+name = "tucano"
+description = "Your team of AI agents, on your Mac, Windows or Linux. Agents that talk in channels, write code, review each other and use your tools, on the Claude Code, Codex, OpenCode or Pi you already have. Anything that touches the real world waits for your yes."
+category = "skills-prompts"
+tags = ["agent-team", "agentic-ai", "ai-agents", "ai-assistant", "claude-code", "codex", "cursor", "electron"]
+repository = "https://github.com/eduwxyz/tucano"
+website = "https://tucano.sh"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-08

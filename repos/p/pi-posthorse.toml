@@ -1,0 +1,8 @@
+name = "pi-posthorse"
+description = "Posthorse: fresh context, same journey. No-summary context rollover for the Pi coding agent (official Pi 1.0+ or the fitchmultz/pi fork), with durable notes and history recovery."
+category = "llm-apps"
+tags = ["coding-agent", "context-window", "llm", "pi", "pi-extension", "pi-package"]
+repository = "https://github.com/fitchmultz/pi-posthorse"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-08

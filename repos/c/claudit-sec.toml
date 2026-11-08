@@ -1,0 +1,8 @@
+name = "claudit-sec"
+description = "Security audit tool for Claude Desktop and Claude Code on macOS — single-command visibility into MCP servers, extensions, plugins, connectors, scheduled tasks, and permissions."
+category = "mcp-servers"
+tags = ["ai-security", "audit-tool", "claude", "claude-ai", "claude-code", "claude-cowork", "claude-desktop", "cowork"]
+repository = "https://github.com/HarmonicSecurity/claudit-sec"
+license = "Apache-2.0"
+language = "PowerShell"
+added = 2026-11-08

@@ -1,0 +1,9 @@
+name = "infinite-creation"
+description = "infinite-creation 是一个通过提交小说/剧本，本地ComfyUI-MiniMaxH3+Agent+Skill技能全自动无限生产视频，不限时长。"
+category = "agents"
+tags = ["agent", "agent-skills", "agents", "deepseek", "minimax-h3"]
+repository = "https://github.com/SwotAtmk/infinite-creation"
+website = "https://tx3247.t.taoxiangyoushu.com/?f=0zv5vo2"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-08

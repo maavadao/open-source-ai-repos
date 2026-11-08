@@ -1,0 +1,9 @@
+name = "wikiskill"
+description = "WikiSkill (arXiv:2608.27454) for Hermes Agent — self-evolving agent skills via a persistent knowledge wiki. Faithful Algorithm 1 implementation with real agent runs, isolated skill gating, and a documented live run log."
+category = "agents"
+tags = ["agent-skills", "agents", "ai-agents", "arxiv", "hermes-agent", "llm", "llm-agents", "persistent-knowledge"]
+repository = "https://github.com/ashutoshsinghpr7/wikiskill"
+website = "https://ashutoshsinghpr7.github.io/wikiskill/"
+license = "MIT"
+language = "Python"
+added = 2026-11-08

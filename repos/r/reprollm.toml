@@ -1,0 +1,8 @@
+name = "ReproLLM"
+description = "LLM experiment reproducibility toolkit"
+category = "llm-apps"
+tags = ["llm", "reproducibility", "research-tools"]
+repository = "https://github.com/EnumaElish123/ReproLLM"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-08

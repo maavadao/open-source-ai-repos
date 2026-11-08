@@ -1,0 +1,7 @@
+name = "iphone-duo-skills"
+description = "Agent skills for building iOS apps on iPhone Duo, Apple's first foldable iPhone — adaptive layout, vertical bars, hinge & scenes, camera, and design review."
+category = "skills-prompts"
+tags = ["adaptive-layout", "agent-skills", "ai-agents", "apple", "avfoundation", "claude", "claude-code", "foldable"]
+repository = "https://github.com/mirzaaghazadeh/iphone-duo-skills"
+language = "Python"
+added = 2026-11-08

@@ -1,0 +1,8 @@
+name = "TeachingDataScience"
+description = "Open-sourced course notes for Artificial Intelligence and Data Science related topics, prepared in LaTeX"
+category = "llm-apps"
+tags = ["course-materials", "data-science", "data-science-education", "deep-learning", "genai", "jupyter-notebooks", "latex", "latex-beamer"]
+repository = "https://github.com/yogeshhk/TeachingDataScience"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-11-08

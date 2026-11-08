@@ -1,0 +1,9 @@
+name = "beyondseo"
+description = "Your AI SEO house. Audit your website, write useful content, compare competitors and plan backlinks inside your AI assistant. Free and open source."
+category = "skills-prompts"
+tags = ["aeo", "agent-skills", "ai-agents", "ai-seo", "answer-engine-optimization", "backlinks", "chatgpt", "claude-code"]
+repository = "https://github.com/beyondtahir/beyondseo"
+website = "https://beyondtahir.com"
+license = "MIT"
+language = "Python"
+added = 2026-11-08

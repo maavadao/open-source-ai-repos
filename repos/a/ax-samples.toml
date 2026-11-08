@@ -1,0 +1,8 @@
+name = "ax-samples"
+description = "Samples code for world class Artificial Intelligence SoCs for computer vision applications."
+category = "other"
+tags = ["arm", "artificial-intelligence", "axera", "neural-network", "npu", "onnx", "yolo-world-v2", "yolo11"]
+repository = "https://github.com/AXERA-TECH/ax-samples"
+license = "BSD-3-Clause"
+language = "CMake"
+added = 2026-11-08

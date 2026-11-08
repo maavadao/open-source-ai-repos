@@ -1,0 +1,8 @@
+name = "guild.xyz"
+description = "Guild.xyz interface (earlier version). Token-gate Discord and Telegram, run points and quests, and manage a community from an AI agent: https://guild.xyz"
+category = "other"
+tags = ["community", "discord", "mcp", "points", "quests", "telegram", "token-gating", "web3"]
+repository = "https://github.com/guildxyz/guild.xyz"
+website = "https://guild.xyz"
+language = "TypeScript"
+added = 2026-11-08

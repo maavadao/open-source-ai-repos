@@ -1,0 +1,8 @@
+name = "FQGate-agent"
+description = "大 A免费开源AI插件FQGate-agent（原插件名 tonghuasun-agent）：为 Codex、Claude Code、DeepSeek 等 AI 工具提供本机 A 股实时行情、K 线、Level2、资讯、账户查询与可选交易能力。"
+category = "skills-prompts"
+tags = ["a-share", "ai-agent", "ai-plugin", "china-stock", "claude-code", "codex", "deepseek", "fqgate"]
+repository = "https://github.com/fqgate/FQGate-agent"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-11-08

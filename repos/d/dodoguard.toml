@@ -1,0 +1,9 @@
+name = "dodoguard"
+description = "DodoGuard: Take AI Agents to Production. Test, validate, and operate AI Agents before and after deployment.for Dify, Coze, FastGPT, n8n, Tencent ADP, ByteDance HiAgent, and more."
+category = "agents"
+tags = ["agent-security", "ai-agents", "ai-security", "dify", "fastgpt", "guardrails", "llm-evaluation", "llm-security"]
+repository = "https://github.com/dodoguardai/dodoguard"
+website = "http://www.dodoguard.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-08

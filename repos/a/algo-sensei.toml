@@ -1,0 +1,8 @@
+name = "algo-sensei"
+description = "Your AI-powered LeetCode & DSA mentor for Claude Code and Claude.ai. Master algorithms through intelligent guidance, progressive hints, and pattern recognition training—not just copy-pasting solutions. Features: Mock interviews, code review, multi-language support (Python, Java, C++, JS, Go). Learn…"
+category = "skills-prompts"
+tags = ["ai-tutor", "algorithms", "claude", "claude-ai", "claude-code", "claude-skills", "coding-interview", "coding-interviews"]
+repository = "https://github.com/karanb192/algo-sensei"
+license = "MIT"
+language = "Python"
+added = 2026-11-08

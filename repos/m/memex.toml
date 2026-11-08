@@ -1,0 +1,8 @@
+name = "memex"
+description = "Search Claude Code, Codex, Pi, OpenCode, Github Copilot & Cursor transcripts. Resume sessions. Track tokens."
+category = "skills-prompts"
+tags = ["bm25", "claude-code", "codex-cli", "copilot", "herdr-plugin", "hermes-agent", "hybrid-search", "openclaw"]
+repository = "https://github.com/nicosuave/memex"
+license = "MIT"
+language = "Rust"
+added = 2026-11-08

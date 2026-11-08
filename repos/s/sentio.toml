@@ -1,0 +1,8 @@
+name = "sentio"
+description = "Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam."
+category = "agents"
+tags = ["ai-agents", "ai-tools", "dkim", "dmarc", "email", "email-automation", "mailserver", "rust"]
+repository = "https://github.com/truespar/sentio"
+website = "https://truespar.com/sentio"
+language = "Rust"
+added = 2026-11-08

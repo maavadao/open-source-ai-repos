@@ -1,0 +1,8 @@
+name = "Jev-Mem"
+description = "Jev-Mem: System-One Controlled Agentic Memory"
+category = "agents"
+tags = ["agent", "agent-memory", "agentic-ai", "agentic-memory", "agents", "jev", "jev-ai", "llm"]
+repository = "https://github.com/libingzheren/Jev-Mem"
+license = "MIT"
+language = "Python"
+added = 2026-11-08

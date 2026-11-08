@@ -1,0 +1,9 @@
+name = "MinerU-HTML"
+description = "MinerU-HTML: An SLM-powered HTML main content extractor that outputs clean HTML bodies. Perfect for Deep Research Agents, RAG applications, and training data generation."
+category = "browser-automation"
+tags = ["article-extractor", "corpus-tools", "nlp", "rag", "scraping", "text-extraction", "trafilatura", "web-scraping"]
+repository = "https://github.com/opendatalab/MinerU-HTML"
+website = "https://opendatalab.com/ai-ready/AICC#playground"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-08

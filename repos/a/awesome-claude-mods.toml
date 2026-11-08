@@ -1,0 +1,8 @@
+name = "awesome-claude-mods"
+description = "Awesome Claude Mods — evidence-graded index of Claude Code mods, plugins and hooks. 20 languages, rebuilt every 2 hours."
+category = "skills-prompts"
+tags = ["anthropic", "awesome", "awesome-list", "claude", "claude-code", "claude-code-plugin", "claude-mods", "cordis"]
+repository = "https://github.com/wh000wh000/awesome-claude-mods"
+website = "https://wh000wh000.github.io/awesome-claude-mods/"
+language = "Python"
+added = 2026-11-08

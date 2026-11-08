@@ -1,0 +1,9 @@
+name = "llm-wiki-v2"
+description = "Turn your documents into a Markdown wiki you can read, that answers with citations. Works with any LLM provider, Ollama included. CROW classifier routing: 89% right note vs 62%, 2.1× faster ingest, 68% fewer tokens."
+category = "local-llms"
+tags = ["citations", "knowledge-base", "llm", "llm-wiki", "local-llm", "markdown", "ollama", "openrouter"]
+repository = "https://github.com/crow-hq/llm-wiki-v2"
+website = "https://pypi.org/project/llmwiki2/"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-11-08

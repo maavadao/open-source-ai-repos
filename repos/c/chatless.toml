@@ -1,0 +1,9 @@
+name = "chatless"
+description = "💻一款简洁实用轻量级的本地AI对话客户端，采用Tauri2.0和Next.js编写 A simple, practical, and lightweight local AI chat client, written in Tauri 2.0 & Next.js."
+category = "local-llms"
+tags = ["ai", "chatbot", "desktop-app", "knowledge-base", "llm", "local-llm", "nextjs", "offline-first"]
+repository = "https://github.com/kamjin3086/chatless"
+website = "https://kamjin3086.github.io/chatless"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-08

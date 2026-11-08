@@ -1,0 +1,9 @@
+name = "brig"
+description = "Brig: run coding agents in a microVM sandbox - the Go cli (brig) and session daemon (brigd)"
+category = "agents"
+tags = ["agentic-ai", "microvm", "sandboxing"]
+repository = "https://github.com/brig-sh/brig"
+website = "https://brig.sh"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-11-08

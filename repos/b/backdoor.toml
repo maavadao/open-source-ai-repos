@@ -1,0 +1,8 @@
+name = "backdoor"
+description = "Run Claude Code against any AI provider. DeepSeek, Groq, Ollama, OpenRouter — your call."
+category = "local-llms"
+tags = ["ai", "anthropic", "claude", "claude-code", "deepseek", "llm", "ollama", "openai-compatible"]
+repository = "https://github.com/ajsai47/backdoor"
+license = "MIT"
+language = "Python"
+added = 2026-11-08

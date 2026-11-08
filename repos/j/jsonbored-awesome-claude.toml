@@ -1,0 +1,9 @@
+name = "awesome-claude"
+description = "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP package."
+category = "mcp-servers"
+tags = ["agent-skills", "ai-agents", "ai-directory", "ai-tools", "anthropic", "artificial-intelligence", "awesome-list", "claude"]
+repository = "https://github.com/JSONbored/awesome-claude"
+website = "https://heyclau.de"
+license = "MIT"
+language = "MDX"
+added = 2026-11-08

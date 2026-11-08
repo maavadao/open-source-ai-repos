@@ -1,0 +1,6 @@
+name = "claude-code-orange-book"
+description = "Claude Code: The Complete Guide · 橙皮书系列 · AI编程实战指南"
+category = "skills-prompts"
+tags = ["agentic-coding", "ai-coding", "anthropic", "claude", "claude-code", "ebook", "guide", "orange-book"]
+repository = "https://github.com/alchaincyf/claude-code-orange-book"
+added = 2026-11-08

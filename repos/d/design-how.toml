@@ -1,0 +1,9 @@
+name = "design.how"
+description = "Design systems, skills and visuals for coding agents"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "canvas", "claude-code", "codex", "coding-agents", "creative-coding", "cursor"]
+repository = "https://github.com/arla6ka/design.how"
+website = "https://design.how"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-08

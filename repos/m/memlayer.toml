@@ -1,0 +1,9 @@
+name = "memlayer"
+description = "Plug-and-play memory for LLMs in 3 lines of code. Add persistent, intelligent, human-like memory and recall to any model in minutes."
+category = "vector-databases"
+tags = ["agent", "ai", "ai-infrastructure", "context-management", "developer-tools", "embedded", "graph-database", "knowledge-graph"]
+repository = "https://github.com/divagr18/memlayer"
+website = "https://divagr18.github.io/memlayer/"
+license = "MIT"
+language = "Python"
+added = 2026-11-08

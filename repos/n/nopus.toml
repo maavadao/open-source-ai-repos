@@ -1,0 +1,8 @@
+name = "nopus"
+description = "Deterministic prose checks for clearer coding-agent responses"
+category = "skills-prompts"
+tags = ["agent-skills", "claude-code", "coding-agents", "developer-tools", "llm", "openai-codex", "pi-coding-agent", "readability"]
+repository = "https://github.com/Vistyy/nopus"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-08

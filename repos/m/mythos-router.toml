@@ -1,0 +1,9 @@
+name = "mythos-router"
+description = "The leaked Anthropic reasoning protocol. Running locally. Zero-drift coding with Strict Write Discipline and adaptive Claude Opus 5 thinking. Mythos"
+category = "skills-prompts"
+tags = ["agentic-workflows", "anthropic", "claude", "claude-code", "claude-fable", "claude-fable-5", "claude-mythos", "claude-opus"]
+repository = "https://github.com/thewaltero/mythos-router"
+website = "https://mythosrouter.com/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-08

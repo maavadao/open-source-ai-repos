@@ -1,0 +1,8 @@
+name = "agentic-playwright"
+description = "Production-grade Playwright + TypeScript Scaffold for Agentic Testing. Harness for all major AI coding agents baked in."
+category = "skills-prompts"
+tags = ["agentic", "ai", "api-testing", "claude-code", "cursor", "e2e", "github-copilot", "playwright"]
+repository = "https://github.com/idavidov13/agentic-playwright"
+license = "MIT"
+language = "Python"
+added = 2026-11-08

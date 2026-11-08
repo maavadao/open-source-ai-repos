@@ -1,0 +1,8 @@
+name = "is-gpt-nerfed"
+description = "Shrinkflation detector for Codex"
+category = "llm-apps"
+tags = ["codex", "degradation", "gpt", "llm", "nerf", "openai"]
+repository = "https://github.com/kiyoakii/is-gpt-nerfed"
+license = "MIT"
+language = "Python"
+added = 2026-11-08

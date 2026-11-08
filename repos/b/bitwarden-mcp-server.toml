@@ -1,0 +1,9 @@
+name = "mcp-server"
+description = "MCP server for interaction with Bitwarden."
+category = "mcp-servers"
+tags = ["bitwarden", "mcp", "mcp-server", "typescript"]
+repository = "https://github.com/bitwarden/mcp-server"
+website = "https://bitwarden.com"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-11-08

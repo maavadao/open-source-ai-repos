@@ -1,0 +1,8 @@
+name = "kubai-icons"
+description = "A Claude skill that draws dynamic icons in one consistent style, with hover motion or as static SVG."
+category = "other"
+tags = ["agent-skills", "animation", "claude", "claude-skill", "design-system", "hover-effects", "icon-set", "icons"]
+repository = "https://github.com/kubai087/kubai-icons"
+website = "https://www.kubai.design/kubai-icons/"
+language = "HTML"
+added = 2026-11-08

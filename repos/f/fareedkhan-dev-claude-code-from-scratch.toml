@@ -1,0 +1,9 @@
+name = "claude-code-from-scratch"
+description = "23 Components of the Claude Code Architecture"
+category = "skills-prompts"
+tags = ["claude", "claude-code", "codex", "openai"]
+repository = "https://github.com/FareedKhan-dev/claude-code-from-scratch"
+website = "https://medium.com/@fareedkhandev/building-claude-code-using-harness-engineering-d2e8c0da85f0"
+license = "MIT"
+language = "Python"
+added = 2026-11-08

@@ -1,0 +1,9 @@
+name = "OpenGhost"
+description = "Open desktop AI agent for Windows, macOS and Linux, written from scratch: its own agent engine, its own browser tooling and its own drawing engine that shows what it explains."
+category = "local-llms"
+tags = ["ai-agent", "ai-assistant", "anthropic", "claude", "deepseek", "desktop-app", "electron", "linux"]
+repository = "https://github.com/ANDRETRIPOL/OpenGhost"
+website = "https://andretripol.github.io/OpenGhost/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-08

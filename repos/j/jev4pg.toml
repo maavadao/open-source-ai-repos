@@ -1,0 +1,9 @@
+name = "jev4pg"
+description = "Established strong JEV based natural language to SQL performance and well-covered semantic operators for PostgreSQL with optimized cost and latency. Reusable evidence, with native execution, parallel plans and explainable embeddings in development preview."
+category = "vector-databases"
+tags = ["database", "embeddings", "jev", "jev-ai", "llm", "natural-language-query", "nl2sql", "pg"]
+repository = "https://github.com/Sheltercosmo/jev4pg"
+website = "https://jev4pg.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-08
