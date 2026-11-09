@@ -1,0 +1,8 @@
+name = "Glyd"
+description = "Lossless AI compression: 33% less GPU memory, bit for bit."
+category = "llm-apps"
+tags = ["benchmark", "c-abi", "cli", "compression", "cuda", "data-compression", "deduplication", "delta-compression"]
+repository = "https://github.com/surya-koritala/Glyd"
+website = "https://github.com/surya-koritala/Glyd#readme"
+language = "Rust"
+added = 2026-11-09

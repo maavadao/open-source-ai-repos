@@ -1,0 +1,8 @@
+name = "renderlint"
+description = "Lint the rendered UI: catches overflowing text, low contrast, overlaps, broken responsive layouts, emoji icons and more in any web framework. Built for AI coding agents."
+category = "skills-prompts"
+tags = ["accessibility", "ai-agents", "claude-code", "contrast", "frontend", "linter", "playwright", "responsive-design"]
+repository = "https://github.com/ngocanhnckh/renderlint"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-09

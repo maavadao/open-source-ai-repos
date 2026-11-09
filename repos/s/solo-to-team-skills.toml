@@ -1,0 +1,7 @@
+name = "solo-to-team-skills"
+description = "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。"
+category = "agents"
+tags = ["agent-skills", "ai-agents", "collaboration", "human-in-the-loop", "workflow"]
+repository = "https://github.com/dabingfy-dot/solo-to-team-skills"
+license = "MIT"
+added = 2026-11-09

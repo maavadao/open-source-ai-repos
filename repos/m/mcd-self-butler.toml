@@ -1,0 +1,9 @@
+name = "mcd-self-butler"
+description = "麦当劳自助管家 McButler — 基于麦当劳 MCP 的点单参谋：每日推荐 / 套餐健康体检 / 门店全成本比价 / 团餐智能配餐 / 麦险分信用评级 / 麦门小剧场。麦当劳 1024 程序员节参赛作品。"
+category = "mcp-servers"
+tags = ["credit-scoring", "mcdonalds", "mcp", "nutrition", "python", "skill", "workbuddy"]
+repository = "https://github.com/jouaaaaaa/mcd-self-butler"
+website = "https://jouaaaaaa.github.io/mcd-self-butler/"
+license = "MIT"
+language = "Python"
+added = 2026-11-09

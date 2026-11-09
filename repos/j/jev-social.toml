@@ -1,0 +1,9 @@
+name = "jev-social"
+description = "Open-source, local-first social media research agent for Instagram, TikTok, and LinkedIn. Jev routes read-only steps; socai CLI captures cited browser evidence."
+category = "browser-automation"
+tags = ["agent-skills", "ai-agents", "browser-agent", "browser-automation", "decision-model", "deep-research", "instagram", "jev"]
+repository = "https://github.com/socai-io/jev-social"
+website = "https://socai-io.github.io/jev-social/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-09

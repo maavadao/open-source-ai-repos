@@ -1,0 +1,7 @@
+name = "RunTheRepo"
+description = "An AI agent for running, testing, and hardening GitHub Docker Compose apps.一个用于运行、测试和加固 GitHub Docker Compose 应用的 AI Agent。"
+category = "agents"
+tags = ["agentic-ai", "ai-agents", "automated-testing", "container-security", "developer-tools", "devops", "docker", "docker-compose"]
+repository = "https://github.com/Taiquan-Zhou/RunTheRepo"
+language = "Python"
+added = 2026-11-09

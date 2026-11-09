@@ -1,0 +1,7 @@
+name = "youtube-ai-video-editing-system"
+description = "Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workflow"
+category = "agents"
+tags = ["ai-agents", "ai-video-editing", "animation", "claude-design", "design", "motion-graphics", "open-source", "teleprompter"]
+repository = "https://github.com/dhruvthakur11/youtube-ai-video-editing-system"
+language = "HTML"
+added = 2026-11-09

@@ -1,0 +1,9 @@
+name = "OnCo"
+description = "OnCo: total information dominance on cancer. A public, cited knowledge graph of oncology with a website, JSON API, MCP server and CLI: one page per cancer, treatment, target, trial, institution, person and idea."
+category = "mcp-servers"
+tags = ["cancer", "cli", "clinical-trials", "knowledge-graph", "mcp", "nextjs", "oncology", "open-data"]
+repository = "https://github.com/judegomila/OnCo"
+website = "https://onco.cc"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-09

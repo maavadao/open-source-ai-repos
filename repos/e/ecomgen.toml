@@ -1,0 +1,8 @@
+name = "EcomGen"
+description = "Local-first AI e-commerce image suite generator for individual sellers. Pi Agent storyboards, 25 templates + reusable suites, product-truth pixel protection, OpenAI-compatible & Gemini image providers, AI layering (PNG/PSD), review, edit, and ZIP export. Self-hosted."
+category = "other"
+tags = ["ai-agent", "ai-image-generation", "bullmq", "ecommerce", "fastify", "gemini", "image-editing", "local-first"]
+repository = "https://github.com/linbei0/EcomGen"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-09

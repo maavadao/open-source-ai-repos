@@ -1,0 +1,8 @@
+name = "BetterGravity"
+description = "The extensible power-user platform for Google Antigravity. Adds a native In-App Browser, animated Desktop Pets, revamped Gemini UI, and custom BYOK Gemini Pro keys."
+category = "coding"
+tags = ["ai-agent", "ai-coding", "antigravity", "byok", "desktop-pet", "developer-tools", "electron", "gemini"]
+repository = "https://github.com/YashjitPal/BetterGravity"
+website = "https://github.com/YashjitPal/BetterGravity/releases"
+language = "JavaScript"
+added = 2026-11-09

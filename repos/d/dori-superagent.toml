@@ -1,0 +1,7 @@
+name = "dori-superagent"
+description = "A proactive multi-session coding-agent harness on herdr + omo: one lead, a duty loop, many lanes, a gated merge. Plus Dori mode, the messenger-facing skill."
+category = "agents"
+tags = ["agents", "automation", "bun", "coding-agent", "dori", "herdr", "messenger-bot", "omo"]
+repository = "https://github.com/sisyphuslabs/dori-superagent"
+language = "TypeScript"
+added = 2026-11-09

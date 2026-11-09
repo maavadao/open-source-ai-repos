@@ -1,0 +1,7 @@
+name = "sill"
+description = "Native Windows Bash for AI coding agents. Run Claude Code, Codex, opencode & Gemini CLI without Git Bash, MSYS2 or WSL. Built in Rust, with MCP support."
+category = "mcp-servers"
+tags = ["ai-agents", "bash", "bash-interpreter", "claude-code", "codex", "coding-agents", "command-line", "developer-tools"]
+repository = "https://github.com/lemonadesaltbagel/sill"
+language = "Rust"
+added = 2026-11-09

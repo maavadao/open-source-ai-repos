@@ -1,0 +1,9 @@
+name = "claude-db"
+description = "Free, open-source memory for Claude Code. Your own database, no cloud, no subscription."
+category = "skills-prompts"
+tags = ["claude", "claude-ai", "claude-api", "claude-code", "claude-code-plugin", "claude-code-plugins", "claude-code-skill", "claude-code-skills"]
+repository = "https://github.com/Avijit07x/claude-db"
+website = "https://claude-db.vercel.app"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-09

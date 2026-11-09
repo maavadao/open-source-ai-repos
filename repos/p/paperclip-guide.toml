@@ -1,0 +1,9 @@
+name = "paperclip-guide"
+description = "Companion guide for the NetworkChuck Paperclip video: install Paperclip and build an AI IT department. Every step tested on Paperclip 2026.916.1."
+category = "skills-prompts"
+tags = ["ai-agents", "ai-company", "claude-code", "codex", "flare", "hermes", "homelab", "networkchuck"]
+repository = "https://github.com/theNetworkChuck/paperclip-guide"
+website = "https://youtu.be/7RVf25Rg0Mc"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-09

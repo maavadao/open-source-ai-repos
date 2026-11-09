@@ -1,0 +1,9 @@
+name = "OpenCinema"
+description = "The open-source video studio for AI agents. Plan, generate, and edit films on a local-first canvas with your own models and short drama video."
+category = "image"
+tags = ["ai", "ai-drama", "ai-drama-generator", "ai-video", "ai-video-editing", "open-source", "opencinema", "text-to-image"]
+repository = "https://github.com/junjamrk/OpenCinema"
+website = "https://opencinema.site/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-09

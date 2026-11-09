@@ -1,0 +1,9 @@
+name = "DiffusionART"
+description = "Official Implementation of \"DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusion Models\""
+category = "image"
+tags = ["diffusion-models", "diffusionart", "flow-matching", "image-to-video", "post-training", "reinforcement-learning", "text-to-image", "text-to-video"]
+repository = "https://github.com/vanzll/DiffusionART"
+website = "https://arxiv.org/abs/2610.12572"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-09

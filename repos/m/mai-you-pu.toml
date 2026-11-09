@@ -1,0 +1,8 @@
+name = "mai-you-pu"
+description = "麦有谱：同样的麦当劳，不同的吃法。基于麦当劳 MCP 的组合吃法 Skill 与交互演示。"
+category = "mcp-servers"
+tags = ["mcdonalds", "mcp", "recipes", "skill"]
+repository = "https://github.com/suikv000/mai-you-pu"
+website = "https://suikv000.github.io/mai-you-pu/"
+license = "MIT"
+added = 2026-11-09

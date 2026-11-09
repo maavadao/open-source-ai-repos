@@ -1,0 +1,8 @@
+name = "rembrandt"
+description = "A free photo editor. No account, no subscription, no tracking. RAW, masks and on-device AI for macOS, Windows and Linux. Self-hostable."
+category = "other"
+tags = ["ai", "alternative", "free", "lightroom", "linux", "macos", "omarchy", "ondevice-ai"]
+repository = "https://github.com/thesnarkitecht/rembrandt"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-11-09

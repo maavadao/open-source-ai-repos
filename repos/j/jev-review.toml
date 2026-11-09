@@ -1,0 +1,8 @@
+name = "jev-review"
+description = "Local-first MCP plugin for continuous software-quality review by AI coding agents, powered by Jev."
+category = "mcp-servers"
+tags = ["agent-plugin", "ai-agents", "claude-code", "code-review", "codex", "coding-agents", "cursor", "developer-tools"]
+repository = "https://github.com/NiazMorshed2007/jev-review"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-09

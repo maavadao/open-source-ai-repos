@@ -1,0 +1,7 @@
+name = "TaoSheng"
+description = "涛声 TaoSheng：用一部安卓手机全天收音 → 转写 → 认人 → AI 整理成待办与记忆。无需硬件、无需账号，数据只在你手机里。"
+category = "llm-apps"
+tags = ["ai", "android", "jetpack-compose", "kotlin", "lifelog", "llm", "omi", "on-device-ai"]
+repository = "https://github.com/0xCoach/TaoSheng"
+language = "Kotlin"
+added = 2026-11-09

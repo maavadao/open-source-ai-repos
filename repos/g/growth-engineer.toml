@@ -1,0 +1,9 @@
+name = "growth-engineer"
+description = "Open-source catalog of go-to-market tools and workflows, written as markdown files any agent can run. Includes a read-only MCP server."
+category = "mcp-servers"
+tags = ["ai-agents", "go-to-market", "growth-engineering", "gtm", "llms-txt", "markdown", "marketing-automation", "mcp"]
+repository = "https://github.com/GetBrew/growth-engineer"
+website = "https://www.growth.engineer"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-09

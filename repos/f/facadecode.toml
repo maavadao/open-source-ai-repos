@@ -1,0 +1,9 @@
+name = "facadecode"
+description = "The multi-agent orchestrator for VS Code. Run Claude Code, Codex, and other agent CLIs that start, message, and operate each other across windows and machines."
+category = "skills-prompts"
+tags = ["agent-orchestration", "agentic-coding", "ai-agents", "antigravity", "claude-code", "claude-code-extension", "codex", "codex-cli"]
+repository = "https://github.com/y5ez3g/facadecode"
+website = "https://facadecode.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-09

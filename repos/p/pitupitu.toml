@@ -1,0 +1,9 @@
+name = "pitupitu"
+description = "Talk to Claude Code and Codex by voice, from your phone, on any of your machines. The open-source box agent for pitupitu.chat; your agents run in herdr."
+category = "skills-prompts"
+tags = ["agent-orchestration", "ai-agents", "ai-coding-assistant", "claude-code", "cli", "codex", "coding-agents", "developer-tools"]
+repository = "https://github.com/klarluft/pitupitu"
+website = "https://pitupitu.chat"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-09

@@ -1,0 +1,7 @@
+name = "skills"
+description = "Skills for explaining and summarising AI output: eli5-succinct, simple-summary, summary"
+category = "other"
+tags = ["ai", "aisummarizer", "summarization", "summarizer", "summary", "summary-generator", "summarytools"]
+repository = "https://github.com/isas1/skills"
+license = "MIT"
+added = 2026-11-09

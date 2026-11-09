@@ -1,0 +1,8 @@
+name = "AI-Video-Factory"
+description = "AI video factory: from one topic to a finished, multilingual YouTube video. Claude agents write, plan, draw and review; a Studio keeps the human in charge."
+category = "video"
+tags = ["ai-video", "animation", "claude", "remotion", "typescript", "video-generation", "youtube"]
+repository = "https://github.com/ersinkoc/AI-Video-Factory"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-09

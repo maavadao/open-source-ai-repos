@@ -1,0 +1,8 @@
+name = "whistle-esp32"
+description = "Whistle speech-to-text running fully on an ESP32-S3: hold a button, say a colour in one of 7 languages, the LED does it. No network."
+category = "speech"
+tags = ["edge-ai", "esp32", "esp32-s3", "inmp441", "speech-recognition", "speech-to-text", "tinyml", "whistle"]
+repository = "https://github.com/andrisgauracs/whistle-esp32"
+license = "Apache-2.0"
+language = "C"
+added = 2026-11-09

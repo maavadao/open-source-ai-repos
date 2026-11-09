@@ -1,0 +1,9 @@
+name = "superCMO-skills"
+description = "Open-source skills that empower any AI agent (Claude, Cursor, Hermes, etc.) to generate end-to-end marketing campaigns - UGC videos, ad videos, product photography and more."
+category = "skills-prompts"
+tags = ["ad-creative", "adcreative-alternative", "agent-skills", "ai-agents", "ai-marketing", "ai-video-ads", "arcads-alternative", "claude-code"]
+repository = "https://github.com/SupercmoHQ/superCMO-skills"
+website = "https://getsupercmo.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-09

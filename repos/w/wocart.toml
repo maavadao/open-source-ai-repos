@@ -1,0 +1,9 @@
+name = "Wocart"
+description = "The open-source, COD-first e-commerce + delivery platform for Algeria built agentic-ready."
+category = "other"
+tags = ["algeria", "algerian-developpers", "astro", "cashondelivery", "cloudflare", "cloudflare-workers", "drizzle", "dz"]
+repository = "https://github.com/bighadj22/Wocart"
+website = "https://wocart.store"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-09

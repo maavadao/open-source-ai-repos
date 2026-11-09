@@ -1,0 +1,9 @@
+name = "agenticSTAR"
+description = "AgentSTAR: Agentic Shape Tracking and Reconstruction from Monocular Videos"
+category = "agents"
+tags = ["3d", "4d", "agentic-ai", "harness"]
+repository = "https://github.com/makezur/agenticSTAR"
+website = "https://agenticstar.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-11-09

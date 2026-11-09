@@ -1,0 +1,8 @@
+name = "wx-bot"
+description = "把微信接入你的 AI Agent（Grok / Muse / Claude 等）· Connect WeChat to your personal AI agent via official iLink"
+category = "skills-prompts"
+tags = ["ai-agent", "bun", "claude-code", "llm", "typescript", "wechat", "wechat-bot"]
+repository = "https://github.com/lawrencewzen/wx-bot"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-09

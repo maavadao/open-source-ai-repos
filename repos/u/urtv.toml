@@ -1,0 +1,8 @@
+name = "UrTV"
+description = "Arabic home screen and Saudi screensaver for Android TV / Google TV, plus a safe speed-up. Your AI agent sets it all up. واجهة عربية وشاشة توقف سعودية لتلفزيونات أندرويد، يركّبها لك مساعد الذكاء الاصطناعي."
+category = "agents"
+tags = ["ai-agents", "android-tv", "arabic", "debloat", "google-tv", "launcher", "saudi-arabia", "screensaver"]
+repository = "https://github.com/tshi-dev/UrTV"
+website = "https://github.com/tshi-dev/UrTV/releases/tag/apk-latest"
+language = "Java"
+added = 2026-11-09

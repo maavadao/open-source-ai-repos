@@ -1,0 +1,9 @@
+name = "NamiGPT"
+description = "零基础入门大模型（LLM）的基础教程：从零手写 GPT-2，一行行看懂大模型是怎么工作的 | Build GPT-2 from scratch in PyTorch, step by step"
+category = "llm-apps"
+tags = ["attention", "chinese", "deep-learning", "from-scratch", "gpt-2", "large-language-models", "llm", "pytorch"]
+repository = "https://github.com/aa1143/NamiGPT"
+website = "https://namiai.tech/articles/"
+license = "MIT"
+language = "Python"
+added = 2026-11-09

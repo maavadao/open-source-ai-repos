@@ -1,0 +1,8 @@
+name = "Moodle-MCP"
+description = "Zero-dependency MCP server for the Moodle Web Service API — read-only course, assignment, quiz, deadline and file tools for Claude, Cursor and any MCP client. Actively maintained · v1.4.0 · 10 tools · docs in 10 languages."
+category = "mcp-servers"
+tags = ["claude", "education", "llm", "mcp", "model-context-protocol", "moodle", "python"]
+repository = "https://github.com/Faixiang/Moodle-MCP"
+license = "MIT"
+language = "Python"
+added = 2026-11-09

@@ -1,0 +1,9 @@
+name = "WeWorker"
+description = "Open-source desktop AI agent that takes real actions on websites — 33 adapters for mail, shopping, social, and more."
+category = "browser-automation"
+tags = ["adapter", "ai-agent", "ai-automation", "browser-agent", "browser-automation", "browser-extension", "browsercli", "chrome-extension"]
+repository = "https://github.com/WeWorker/WeWorker"
+website = "https://www.weworker.cc"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-11-09

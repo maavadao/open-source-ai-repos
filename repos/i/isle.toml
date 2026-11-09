@@ -1,0 +1,9 @@
+name = "isle"
+description = "A notch-style island for GNOME that keeps your day one glance away: music with synced lyrics, notifications, calendar, focus timer, tasks, screen time, a clipboard shelf and an AI assistant that installs and fixes things. In black or glass, and light on your system"
+category = "skills-prompts"
+tags = ["ai-agents", "ai-assistant", "claude-code", "clipboard-manager", "codex", "gnome", "gnome-shell-extension", "linux"]
+repository = "https://github.com/zickrian/isle"
+website = "https://zickrian.me/isle-site/"
+license = "GPL-3.0"
+language = "Rust"
+added = 2026-11-09

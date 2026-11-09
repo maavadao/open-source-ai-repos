@@ -1,0 +1,8 @@
+name = "chatgpt-youtube-agent-skill"
+description = "Eleven ChatGPT skills that run a YouTube channel. Free, MIT, no signup, no API key."
+category = "agents"
+tags = ["agent", "chatgpt", "chatgpt-skills", "codex", "youtube"]
+repository = "https://github.com/Jakeschincariol/chatgpt-youtube-agent-skill"
+license = "MIT"
+language = "Python"
+added = 2026-11-09

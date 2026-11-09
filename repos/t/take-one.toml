@@ -1,0 +1,8 @@
+name = "take-one"
+description = "Claude Code skill that makes launch videos, ads and music videos from one line: idea, script, visuals, voice, music, edit and review, then a review room where your notes make the next take"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "ai-skill", "ai-video", "claude", "claude-code", "claude-skills", "launch-video"]
+repository = "https://github.com/talsiach/take-one"
+license = "MIT"
+language = "HTML"
+added = 2026-11-09

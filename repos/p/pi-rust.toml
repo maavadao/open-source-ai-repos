@@ -1,0 +1,9 @@
+name = "pi-rust"
+description = "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, sessions, and plugin ABI"
+category = "coding"
+tags = ["agent", "agent-framework", "ai", "ai-agent", "ai-coding", "anthropic", "cli", "coding-agent"]
+repository = "https://github.com/bigfish1913/pi-rust"
+website = "https://rpi.bigfisharc.cn/"
+license = "MIT"
+language = "Rust"
+added = 2026-11-09

@@ -1,0 +1,9 @@
+name = "mailschema"
+description = "Working-draft Mail Action Protocol for agent actions through email, with type contracts, a registry, and a validation CLI."
+category = "agents"
+tags = ["agents", "astro", "email", "json-schema", "open-standard", "structured-email"]
+repository = "https://github.com/mailschema/mailschema"
+website = "https://mailschema.org"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-09

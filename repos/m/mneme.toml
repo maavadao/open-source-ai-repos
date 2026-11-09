@@ -1,0 +1,9 @@
+name = "mneme"
+description = "🧠 The memory that dreams — cross-session memory for DeepSeek Harness. Local SQLite + Markdown mirrors, autoDream consolidation, 4-way recall (keyword/vector/BM25/entity), and a memory panel. 10 model tools, MCP server, CLI."
+category = "mcp-servers"
+tags = ["agent-memory", "agent-memory-system", "agentic-ai", "autodream", "claude", "codex", "deepseek-harness", "dsh-plugin"]
+repository = "https://github.com/slow-stack/mneme"
+website = "https://www.npmjs.com/package/@modusensus/dsh-mneme"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-09

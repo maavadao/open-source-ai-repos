@@ -1,0 +1,9 @@
+name = "AgentGarten"
+description = "AgentGarten: Code Worlds for Evolving Agents"
+category = "agents"
+tags = ["agent", "diffusion", "multimodal", "self-evolving"]
+repository = "https://github.com/MirroS-Lab/AgentGarten"
+website = "https://mirros-lab.github.io/agent-garten"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-09

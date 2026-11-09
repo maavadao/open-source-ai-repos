@@ -1,0 +1,9 @@
+name = "pi-herdsman"
+description = "Asynchronous Pi subagents and agent fleet orchestration for parallel coding agents with nested delegation, background work, and supervision in herdr."
+category = "agents"
+tags = ["agent-fleet", "agent-orchestration", "ai-agents", "background-agents", "coding-agent-orchestration", "coding-agents", "delegation", "herdr"]
+repository = "https://github.com/boadij/pi-herdsman"
+website = "https://pi.dev/packages/pi-herdsman"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-09

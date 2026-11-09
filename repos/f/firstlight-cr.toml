@@ -1,0 +1,8 @@
+name = "FirstLight_CR"
+description = "Offline Clash Royale AI agent research: native simulation, imitation learning, PPO, and interactive evaluation. 离线对局模拟、模仿学习、强化学习与交互评测。"
+category = "robotics"
+tags = ["artificial-intelligence", "clash-royale", "deep-learning", "game-ai", "imitation-learning", "ppo", "reinforcement-learning", "self-play"]
+repository = "https://github.com/Jaasssoooonnnnn/FirstLight_CR"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-09

@@ -1,0 +1,9 @@
+name = "agent-hud-open"
+description = "A HUD for Claude Code, Codex and 25 more coding agents. Know your quotas, tokens and sessions at a glance, answer requests and jump back in one click. On Mac, Windows and Linux, your phone and your watch."
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "codex", "coding-agents", "cursor", "deepseek", "developer-tools", "github-copilot"]
+repository = "https://github.com/jazzenchen/agent-hud-open"
+website = "https://agenthud.app"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-09

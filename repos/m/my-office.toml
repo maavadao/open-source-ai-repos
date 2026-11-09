@@ -1,0 +1,9 @@
+name = "my-office"
+description = "Văn phòng 3D cho các phiên Claude Code · A 3D office for your Claude Code sessions"
+category = "skills-prompts"
+tags = ["3d", "ai-agents", "claude", "claude-code", "dashboard", "developer-tools", "threejs", "vietnam"]
+repository = "https://github.com/khanh020905/my-office"
+website = "https://khanh020905.github.io/my-office/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-09

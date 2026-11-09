@@ -1,0 +1,9 @@
+name = "llama-modchip"
+description = "🐋 Run 284B DeepSeek-V4-Flash (<59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B MoEs (25-111 tok/s) on a pure 64GB CPU at 256K ctx (0 GPUs). SwiGLU-H2, Stockfish-PVS L3 & 13ms Claude Code restore."
+category = "local-llms"
+tags = ["ai-agents", "apple-silicon", "avx512", "claude-code", "cpu-inference", "deepseek", "deepseek-v4", "gguf"]
+repository = "https://github.com/synchopate/llama-modchip"
+website = "https://github.com/synchopate/llama-modchip#readme"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-09

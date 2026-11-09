@@ -1,0 +1,8 @@
+name = "yowes"
+description = "Generate realistic teacher documents (ID cards, licenses, letters) for 13 countries via MCP."
+category = "mcp-servers"
+tags = ["agent", "document-generator", "mcp", "model-context-protocol", "pillow", "python"]
+repository = "https://github.com/hirotomasato/yowes"
+license = "MIT"
+language = "Python"
+added = 2026-11-09

@@ -1,0 +1,8 @@
+name = "vllm-rlt"
+description = "A vLLM-inspired inference engine for looped transformers, with loop-level scheduling and execution across composable stages"
+category = "llm-apps"
+tags = ["inference-engine", "llm", "transformer"]
+repository = "https://github.com/InferMatrixLab/vllm-rlt"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-09

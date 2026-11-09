@@ -1,0 +1,9 @@
+name = "openasr"
+description = "Local-first speech-to-text: no cloud, no telemetry, fail-closed by design. One CLI, seven model families, signed model catalog, OpenAI-compatible local API."
+category = "speech"
+tags = ["asr", "ggml", "local-first", "rust", "speech-recognition", "speech-to-text", "transcription", "whisper"]
+repository = "https://github.com/QuintinShaw/openasr"
+website = "https://openasr.org"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-09

@@ -1,0 +1,8 @@
+name = "otopilot"
+description = "Turn a topic into a finished YouTube Short/video: script, free & CC0 images, voice-over, subtitles, thumbnail. Runs locally, no key needed. Use with Claude Code / Codex. 15-language UI. MIT"
+category = "skills-prompts"
+tags = ["ai-agents", "ai-video", "claude-code", "codex", "content-creation", "faceless-youtube", "ffmpeg", "nodejs"]
+repository = "https://github.com/wj-sidiss/otopilot"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-09

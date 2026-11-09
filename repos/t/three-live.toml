@@ -1,0 +1,9 @@
+name = "three-live"
+description = "AI-first Native 3D, CAD & spatial computing. Runtime and JIT compiler for Android (Filament & Jetpack XR), iOS/visionOS (RealityKit), and WebGL2/WebXR."
+category = "other"
+tags = ["android-xr", "cad", "csg", "gltf", "mcp", "spatial-computing", "threejs", "usdz"]
+repository = "https://github.com/google/three-live"
+website = "https://google.github.io/three-live/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-09

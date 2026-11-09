@@ -1,0 +1,9 @@
+name = "vibepulse"
+description = "ESP32-S3 AMOLED for Claude Code & Codex usage, live agent activity, and answerable NEEDS YOU alerts. Local-first macOS/Windows host; optional encrypted relays."
+category = "skills-prompts"
+tags = ["amoled", "claude", "claude-code", "codex", "esp32-s3", "lvgl", "quota-tracker"]
+repository = "https://github.com/niclasvestlund-YT/vibepulse"
+website = "https://vibeonchip.com"
+license = "MIT"
+language = "C"
+added = 2026-11-09

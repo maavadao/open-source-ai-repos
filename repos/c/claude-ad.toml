@@ -1,0 +1,8 @@
+name = "Claude-AD"
+description = "Active Directory pentest methodology for Claude Code: skills, agents and slash commands for internal AD red-team work (Kerberoasting, ADCS ESC1-17, DCSync, ACL abuse, NTLM relay, delegation), with per-technique OPSEC/telemetry notes. Drives netexec, impacket, certipy, bloodyAD, BloodHound CE."
+category = "skills-prompts"
+tags = ["active-directory", "active-directory-security", "adcs", "bloodhound", "claude", "claude-code", "claude-code-plugin", "claude-skills"]
+repository = "https://github.com/ADScanPro/Claude-AD"
+website = "https://adscanpro.com"
+license = "MIT"
+added = 2026-11-09

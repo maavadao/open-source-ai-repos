@@ -1,0 +1,9 @@
+name = "open-claude-code"
+description = "Nightly Claude Code CLI Decompile — Reverse Engineered & Rebuilt"
+category = "skills-prompts"
+tags = ["agentic-ai", "ai", "claude", "claude-code", "clean-room", "cli", "decompiler"]
+repository = "https://github.com/ruvnet/open-claude-code"
+website = "https://ruv.io"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-09

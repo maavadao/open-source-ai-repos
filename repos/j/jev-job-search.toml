@@ -1,0 +1,8 @@
+name = "jev-job-search"
+description = "Find software internships and new-grad jobs, fill the application forms, check every answer on the page, and send the ones you approve. JEV decides, code acts, Claude writes. Runs on your machine with Claude Code."
+category = "browser-automation"
+tags = ["browser-automation", "claude", "claude-code", "claude-skills", "cover-letter", "internships", "jev", "job-application"]
+repository = "https://github.com/qbeka/jev-job-search"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-09

@@ -1,0 +1,8 @@
+name = "JobFlow"
+description = "Local-first, AI-centered, evidence-gated job application workflow"
+category = "other"
+tags = ["ai", "job-search", "local-first", "privacy", "windows"]
+repository = "https://github.com/ValerianXXX/JobFlow"
+license = "MIT"
+language = "Python"
+added = 2026-11-09

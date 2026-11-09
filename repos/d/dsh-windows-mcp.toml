@@ -1,0 +1,8 @@
+name = "dsh-windows-mcp"
+description = "Windows desktop automation for DeepSeek Harness: the in-box MCP client bridge mounted against CursorTouch/Windows-MCP, with an off-by-default Computer Use switch and an in-app dependency installer."
+category = "mcp-servers"
+tags = ["computer-use", "deepseek-harness", "desktop-automation", "dsh", "dsh-plugin", "mcp", "windows", "windows-mcp"]
+repository = "https://github.com/helloHub1212/dsh-windows-mcp"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-09

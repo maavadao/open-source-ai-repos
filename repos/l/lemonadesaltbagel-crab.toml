@@ -1,0 +1,9 @@
+name = "crab"
+description = "CRAB (Clean Rebuild of Anything's Behavior): rebuild software from behavior, not source code. An MCP-powered toolkit for black-box observation, clean-room reimplementation, and behavioral verification."
+category = "mcp-servers"
+tags = ["ai-agents", "behavioral-testing", "black-box-testing", "clean-room-reimplementation", "model-context-protocol", "playwright", "reverse-enginnering", "sandboxing"]
+repository = "https://github.com/lemonadesaltbagel/crab"
+website = "https://pypi.org/project/crab-cleanroom/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-09

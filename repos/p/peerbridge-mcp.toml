@@ -1,0 +1,8 @@
+name = "peerbridge-mcp"
+description = "Local-first, auditable multi-agent control room for coding, review, evidence, and private remote work."
+category = "mcp-servers"
+tags = ["ai-agents", "audit-trail", "claude-code", "code-review", "codex", "developer-tools", "local-first", "mcp"]
+repository = "https://github.com/Hoylon/peerbridge-mcp"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-09

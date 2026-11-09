@@ -1,0 +1,9 @@
+name = "dsh-evolve-modes"
+description = "让 Agent 的工作方式可组合、可审查、可持续改进，最终实现 Agent Self Evoling。 DeepSeek Harness Web plugin with composable task controls and isolated, human-reviewed self-evolution."
+category = "skills-prompts"
+tags = ["acceptance-review", "agent-review", "ai-agents", "deepseek-harness", "dsh", "dsh-plugin", "plan-mode", "prompt-engineering"]
+repository = "https://github.com/GraySilver/dsh-evolve-modes"
+website = "https://www.npmjs.com/package/@graysilver/dsh-evolve-modes"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-09

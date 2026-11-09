@@ -1,0 +1,9 @@
+name = "AudioSmith"
+description = "Speech, voices, stories, audiobooks, dubbing and transcription, made on your Mac. Free and open source."
+category = "speech"
+tags = ["speaker-diarization", "speech-synthesis", "speech-to-text", "text-to-speech", "transcription", "tts", "voice-cloning", "voice-design"]
+repository = "https://github.com/hehehai/AudioSmith"
+website = "https://actnow.dev/audiosmith"
+license = "AGPL-3.0"
+language = "Go"
+added = 2026-11-09

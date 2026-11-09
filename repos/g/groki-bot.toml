@@ -1,0 +1,9 @@
+name = "groki-bot"
+description = "Groki Bot desktop robot (M5Stack CoreS3): firmware, a voice and MCP gateway for your computer, and a hand-off to Grok Bot agents"
+category = "mcp-servers"
+tags = ["esp32", "firmware", "m5stack", "mcp", "robot", "stack-chan"]
+repository = "https://github.com/JosssphZhou/groki-bot"
+website = "https://josssphzhou.github.io/groki-bot/"
+license = "BSL-1.0"
+language = "C++"
+added = 2026-11-09

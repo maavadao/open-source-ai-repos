@@ -1,0 +1,8 @@
+name = "swe-sweep"
+description = "How many bugs can LMs find & fix in large codebases?"
+category = "agents"
+tags = ["ai", "ai-agents", "benchmark", "benchmarking", "harbor", "harbor-framework", "llm", "llm-benchmark"]
+repository = "https://github.com/facebookresearch/swe-sweep"
+website = "https://swesweep.com"
+language = "Python"
+added = 2026-11-09

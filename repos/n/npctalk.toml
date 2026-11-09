@@ -1,0 +1,8 @@
+name = "NPCTalk"
+description = "Make any NPC in any game talk back with Fish Audio: skills, a self-hosted voice server and tools for AI coding agents, with a full GTA V example."
+category = "skills-prompts"
+tags = ["agent-skills", "claude-code", "fish-audio", "game-modding", "gta5", "llm", "npc", "text-to-speech"]
+repository = "https://github.com/christos-antono/NPCTalk"
+license = "MIT"
+language = "Python"
+added = 2026-11-09

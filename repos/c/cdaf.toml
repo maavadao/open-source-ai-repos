@@ -1,0 +1,9 @@
+name = "cdaf"
+description = "CDAF (Cached Descriptive Asset Files) - open sidecar format for video so AI agents stop re-analyzing the same footage. Spec, CLI, agent skill, reproducible benchmark."
+category = "agents"
+tags = ["agentic-ai", "ai-agents", "file-format", "gemini", "llm", "remotion", "sidecar", "token-optimization"]
+repository = "https://github.com/UditAkhourii/cdaf"
+website = "https://zenodo.org/records/22110594"
+license = "MIT"
+language = "Python"
+added = 2026-11-09

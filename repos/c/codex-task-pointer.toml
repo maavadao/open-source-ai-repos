@@ -1,0 +1,8 @@
+name = "codex-task-pointer"
+description = "Pre-compaction hooks + a CAS-guarded task pointer that keep Codex agents on-goal across context auto-compaction — no mainline drift, no duplicate work, no conflicting progress in long runs."
+category = "agents"
+tags = ["agent-hooks", "agents", "codex", "codex-cli", "codex-desktop", "context-compaction", "session-continuity"]
+repository = "https://github.com/big0lives/codex-task-pointer"
+license = "MIT"
+language = "PowerShell"
+added = 2026-11-09

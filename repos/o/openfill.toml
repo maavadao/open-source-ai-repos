@@ -1,0 +1,9 @@
+name = "openfill"
+description = "Generative Fill, Remove object, Generative Expand and Text to Image for PhotoCraft and GIMP 3. Free, local, on your own GPU through ComfyUI."
+category = "image"
+tags = ["comfyui", "flux", "generative-ai", "generative-fill", "gimp", "gimp-3", "gimp-plugin", "gimp3"]
+repository = "https://github.com/beckettharriman/openfill"
+website = "https://github.com/beckettharriman/openfill/releases"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-09

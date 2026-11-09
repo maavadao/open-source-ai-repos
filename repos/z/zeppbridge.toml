@@ -1,0 +1,9 @@
+name = "ZeppBridge"
+description = "Keep your Zepp / Amazfit health records on your own computer. Explore every trend, hand them to the AI you already use, and send training plans back to your watch. Local-first, free and open source, for Windows, macOS and Linux."
+category = "other"
+tags = ["amazfit", "desktop-app", "health-data", "linux", "local-first", "macos", "mcp", "rust"]
+repository = "https://github.com/lingcang728/ZeppBridge"
+website = "https://zeppbridge.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-09

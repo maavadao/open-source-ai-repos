@@ -1,0 +1,9 @@
+name = "skills-manager"
+description = "CLI-first hub for agent skills: one npx install, manage in chat, distribute to 70+ agents"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude-code", "cli", "codex", "cursor", "gemini-cli", "opencode"]
+repository = "https://github.com/shenysun/skills-manager"
+website = "https://www.npmjs.com/package/skills-manager-cli"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-09

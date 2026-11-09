@@ -1,0 +1,9 @@
+name = "mouse-mcp"
+description = "Hardware mouse MCP server for AI agents on Windows x64. USB HID control and voice dictation; requires compatible uMouse hardware and firmware. 面向 AI 智能体的硬件鼠标 MCP：USB HID 控制与语音听写，需要兼容的 uMouse 设备与固件。"
+category = "mcp-servers"
+tags = ["ai-agents", "computer-use", "desktop-automation", "hardware", "hid", "mcp", "mcp-server", "model-context-protocol"]
+repository = "https://github.com/SonicloudTech/mouse-mcp"
+website = "https://sinicloud.com/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-09

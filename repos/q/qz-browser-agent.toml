@@ -1,0 +1,9 @@
+name = "qz-browser-agent"
+description = "Local-first AI agent for Chrome: browser automation, web research, and data extraction with your own model."
+category = "browser-automation"
+tags = ["ai-agent", "browser-agent", "browser-automation", "chrome-extension", "llm", "mcp", "web-agent", "web-scraping"]
+repository = "https://github.com/alibaba/qz-browser-agent"
+website = "https://alibaba.github.io/qz-browser-agent/"
+license = "Apache-2.0"
+language = "HTML"
+added = 2026-11-09

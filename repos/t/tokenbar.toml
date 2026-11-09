@@ -1,0 +1,8 @@
+name = "TokenBar"
+description = "Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter."
+category = "coding"
+tags = ["ai", "android", "claude", "codex", "cursor", "dart", "flutter", "ios"]
+repository = "https://github.com/lwh0630/TokenBar"
+license = "MIT"
+language = "Dart"
+added = 2026-11-09

@@ -1,0 +1,7 @@
+name = "dsh-tts-bridge"
+description = "DSH 朗读桥：会话里的话自动交给 DeepSeek 网页端朗读，声音从你自己的电脑里出来"
+category = "speech"
+tags = ["browser-extension", "deepseek-harness", "dsh-plugin", "text-to-speech", "tts"]
+repository = "https://github.com/Yuuyuko-uu/dsh-tts-bridge"
+language = "JavaScript"
+added = 2026-11-09

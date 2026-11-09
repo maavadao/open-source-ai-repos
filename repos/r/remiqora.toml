@@ -1,0 +1,9 @@
+name = "remiqora"
+description = "Free, open-source local AI music studio: ACE-Step 1.5 and YuE2-3B text-to-music, stem separation, an AI arranger that adds parts to your track, a multitrack DAW, MIDI transcription and LoRA training."
+category = "other"
+tags = ["ace-step", "ai-arranger", "ai-music", "apple-silicon", "daw", "demucs", "generative-ai", "local-ai"]
+repository = "https://github.com/inikolax/remiqora"
+website = "https://remiqora.com/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-09

@@ -1,0 +1,9 @@
+name = "deepseek-harness-handbook"
+description = "Agent-first DeepSeek Harness handbook: 173 source-backed runtime, plugin, MCP, sandbox, evaluation, troubleshooting, multilingual, and 74-resource Awesome ecosystem guides."
+category = "mcp-servers"
+tags = ["agent-runtime", "agentic-ai", "ai-agents", "awesome-list", "deepseek", "deepseek-harness", "developer-tools", "llm"]
+repository = "https://github.com/sandbaseai/deepseek-harness-handbook"
+website = "https://sandbaseai.github.io/deepseek-harness-handbook/"
+license = "Apache-2.0"
+language = "HTML"
+added = 2026-11-09

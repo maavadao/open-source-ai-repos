@@ -1,0 +1,9 @@
+name = "ai-design-check"
+description = "Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jetpack Compose apps. English and Turkish."
+category = "skills-prompts"
+tags = ["agent-skill", "ai", "android", "claude-code", "design-rules", "design-system", "ios", "jetpack-compose"]
+repository = "https://github.com/enmerasoftware/ai-design-check"
+website = "https://www.npmjs.com/package/@enmera/ai-design-check"
+license = "MIT"
+language = "HTML"
+added = 2026-11-09

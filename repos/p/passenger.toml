@@ -1,0 +1,9 @@
+name = "passenger"
+description = "An open-source IDE for C# and .NET, built with Avalonia, for Windows, macOS and Linux: a Roslyn-powered editor, its own debugger with Hot Reload, a CPU and memory profiler, XAML tooling for Avalonia and WPF, and an MCP server for coding agents."
+category = "mcp-servers"
+tags = ["avalonia", "csharp", "debugger", "dotnet", "ide", "mcp", "profiler", "roslyn"]
+repository = "https://github.com/Zaneris/passenger"
+website = "https://passenger-ide.net"
+license = "MIT"
+language = "C#"
+added = 2026-11-09

@@ -1,0 +1,8 @@
+name = "vomit"
+description = "Clean up Claude's token vomit with a separate LLM. Save your tokens, Opus is hopeless"
+category = "skills-prompts"
+tags = ["ai", "ai-tools", "claude-code"]
+repository = "https://github.com/zachahn/vomit"
+license = "GPL-3.0"
+language = "Go"
+added = 2026-11-09

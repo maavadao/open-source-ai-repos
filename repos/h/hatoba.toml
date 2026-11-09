@@ -1,0 +1,9 @@
+name = "Hatoba"
+description = "Open-source desktop SSH client with an AI assistant and end-to-end encrypted sync through your own Cloudflare account"
+category = "other"
+tags = ["ai-assistant", "cloudflare-d1", "cloudflare-workers", "end-to-end-encryption", "mcp", "rust", "sftp", "ssh-client"]
+repository = "https://github.com/scarletkc/Hatoba"
+website = "http://hatoba.fog.moe/"
+license = "MIT"
+language = "Rust"
+added = 2026-11-09

@@ -1,0 +1,9 @@
+name = "opsdeck"
+description = "DevOps cockpit in one window: terminal with local AI, Kubernetes, SSH, databases, IDE with git, alerts, notes and KeePass. Free, open source, Linux/Windows/macOS. Рабочее место DevOps-инженера в одном окне."
+category = "llm-apps"
+tags = ["ai-assistant", "cross-platform", "desktop-app", "devops", "devops-tools", "k8s", "keepass", "kubernetes"]
+repository = "https://github.com/LeoAlecksey/opsdeck"
+website = "https://leoalecksey.github.io/opsdeck/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-09

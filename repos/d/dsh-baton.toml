@@ -1,0 +1,9 @@
+name = "dsh-baton"
+description = "Pass the baton from Claude Code or Codex to a local DeepSeek Harness. An MCP server that hands off tasks and brings the result back."
+category = "mcp-servers"
+tags = ["claude-code", "codex", "deepseek", "deepseek-harness", "developer-tools", "dsh-plugin", "mcp", "mcp-server"]
+repository = "https://github.com/JialaoLiu/dsh-baton"
+website = "https://www.npmjs.com/package/dsh-baton-mcp"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-09

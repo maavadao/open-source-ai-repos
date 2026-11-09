@@ -1,0 +1,8 @@
+name = "JailbreakHub"
+description = "A Hub/research area, for jailbreaking LLM's, and breaking their safety filters."
+category = "skills-prompts"
+tags = ["adversarial-attacks", "ai", "ai-agent", "ai-agents", "ai-jailbreak", "ai-jailbreak-2026", "ai-jailbreak-collection", "ai-jailbreak-prompts"]
+repository = "https://github.com/lalipa2003-arch/JailbreakHub"
+license = "Unlicense"
+language = "Roff"
+added = 2026-11-09

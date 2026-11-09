@@ -1,0 +1,9 @@
+name = "agentreach"
+description = "AgentReach (reach): Point your coding agent at any box you can SSH into. The server never gets your agent."
+category = "skills-prompts"
+tags = ["agent", "ai-agents", "claude-code", "codex", "coding-agent", "golang", "remote", "remote-development"]
+repository = "https://github.com/bojieli/agentreach"
+website = "https://github.com/bojieli/agentreach"
+license = "MIT"
+language = "Go"
+added = 2026-11-09

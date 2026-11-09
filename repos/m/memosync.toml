@@ -1,0 +1,9 @@
+name = "MemoSync"
+description = "Co-manage memory with your coding agent across sessions. A local workbench for Claude Code, Codex and Pi."
+category = "skills-prompts"
+tags = ["agent-memory", "agentic-coding", "ai-agents", "ai-coding", "claude", "claude-code", "codex", "coding-agents"]
+repository = "https://github.com/SLEEPYBQ/MemoSync"
+website = "https://baiqiaozhang.cc/memosync/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-09

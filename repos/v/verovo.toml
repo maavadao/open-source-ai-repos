@@ -1,0 +1,9 @@
+name = "Verovo"
+description = "AI financial audit and task economics: connect usage, supplier charges and business outcomes to calculate task costs, cost per verified success and ROI."
+category = "agents"
+tags = ["acceptance-testing", "ai-agents", "billing", "buyer-tools", "cli", "conformance", "delivery-verification", "invoice-verification"]
+repository = "https://github.com/roy-tong/Verovo"
+website = "https://roy-tong.github.io/Verovo/"
+license = "MIT"
+language = "Python"
+added = 2026-11-09

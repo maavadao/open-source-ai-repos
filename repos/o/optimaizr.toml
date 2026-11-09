@@ -1,0 +1,9 @@
+name = "optimaizr"
+description = "Spend fewer tokens on the same work. A local CLI that finds wasted tokens in Claude Code, Codex, opencode and your own API calls."
+category = "skills-prompts"
+tags = ["anthropic", "claude-code", "cli", "codex", "cost-optimization", "cost-tracking", "llm", "openai"]
+repository = "https://github.com/blendbunjaku/optimaizr"
+website = "https://optimaizr.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-09

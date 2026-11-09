@@ -1,0 +1,9 @@
+name = "AILearningGuide"
+description = "Interactive desktop app with 58 labs covering ML fundamentals, transformers, RAG, agents, fine-tuning and quantization and more."
+category = "llm-apps"
+tags = ["ai", "ai-education", "deep-learning", "educational", "educational-resources", "educational-tool", "generative-ai", "interactive-learning"]
+repository = "https://github.com/Fazmin/AILearningGuide"
+website = "https://fazmin.github.io/AILearningGuide"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-09

@@ -1,0 +1,9 @@
+name = "idx"
+description = "IDX - Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP server. IHSG Prices, Fundamentals, and Screening. Free and No API keys required."
+category = "mcp-servers"
+tags = ["analytics", "cli", "finance", "idx", "ihsg", "indonesia", "mcp", "rust"]
+repository = "https://github.com/fzn0x/idx"
+website = "https://ihsg.midoriresearch.com"
+license = "MIT"
+language = "Rust"
+added = 2026-11-09

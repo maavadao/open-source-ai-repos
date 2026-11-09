@@ -1,0 +1,9 @@
+name = "reimagine-it"
+description = "Kayforkind Content-Derived Design CLI. HTML in, standalone HTML out from the source's own nouns, dates, numbers, and colors. Not the reimagineit.ai interview SaaS."
+category = "skills-prompts"
+tags = ["agent-skill", "agent-skills", "claude", "claude-code", "cli", "content-derived-design", "copilot", "cursor"]
+repository = "https://github.com/Kayforkind/reimagine-it"
+website = "https://kayforkind.github.io/reimagine-it/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-09

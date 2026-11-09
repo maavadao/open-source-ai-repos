@@ -1,0 +1,8 @@
+name = "humanizer-indonesia"
+description = "Membuat tulisan AI lebih luwes dan enak dibaca, bukan untuk mengelabui deteksi AI"
+category = "other"
+tags = ["academic-writing", "ai-writing", "bahasa-indonesia", "claude", "claude-skill", "humanizer", "indonesian"]
+repository = "https://github.com/adhiprib/humanizer-indonesia"
+license = "MIT"
+language = "Python"
+added = 2026-11-09

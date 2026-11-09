@@ -1,0 +1,7 @@
+name = "Needle"
+description = "This 14 MB Agentic LLM(Cactus Needle 2) can control your phone completely."
+category = "agents"
+tags = ["ai", "ai-agents", "ai-tools", "cactus-needle", "llm", "llm-agents", "llm-tools"]
+repository = "https://github.com/AbuZar-Ansarii/Needle"
+language = "Python"
+added = 2026-11-09

@@ -1,0 +1,8 @@
+name = "ai-novel-studio"
+description = "AI novel generation with world building, interactive choices, and persistent character state. Next.js + Go. AI 小说创作台。"
+category = "llm-apps"
+tags = ["ai", "ai-novel", "golang", "interactive-fiction", "llm", "nextjs", "novel-generation", "storytelling"]
+repository = "https://github.com/weike-zhang/ai-novel-studio"
+license = "MIT"
+language = "Go"
+added = 2026-11-09

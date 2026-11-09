@@ -1,0 +1,8 @@
+name = "Adaptive-rag"
+description = "按问题复杂度自动分流的电商客服 RAG：简单问题直接回答；复杂问题经过多跳检索并自我纠错；查单、退改通过工具调用完成，且高风险写操作必须先经人工确认。基于 FastAPI 和 LangGraph，混合检索并附带引用，内置离线评测与 Prometheus 指标。涵盖简历写法和项目面试拷打"
+category = "llm-apps"
+tags = ["adaptive-rag", "llm-agents", "rag", "rag-evaluation", "rag-pipeline", "self-rag"]
+repository = "https://github.com/JEen-wang/Adaptive-rag"
+license = "MIT"
+language = "Python"
+added = 2026-11-09

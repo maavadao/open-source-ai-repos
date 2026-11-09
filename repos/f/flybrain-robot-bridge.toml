@@ -1,0 +1,8 @@
+name = "flybrain-robot-bridge"
+description = "Experimental Drosophila-inspired camera-to-robot bridge. Working mock neural backend, optical flow, IMU feedback and UDP motor control. MaleCNS integration planned."
+category = "vision"
+tags = ["biomimetic-robotics", "brain-simulation", "computer-vision", "connectome", "drosophila", "esp32", "neuroscience", "robotics"]
+repository = "https://github.com/Frankweb33/flybrain-robot-bridge"
+license = "MIT"
+language = "Python"
+added = 2026-11-09

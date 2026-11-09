@@ -1,0 +1,9 @@
+name = "CipherElite"
+description = "CipherElite: A new era Telegram Userbot featuring advanced AI plugins. Built with Python & Telethon to automate tasks, manage groups, and generate AI responses. Supports Heroku, VPS, & Termux."
+category = "other"
+tags = ["advance-userbot", "ai-plugins", "artificial-intelligence", "automation", "chatgpt-integration", "cipherelite", "new-era", "python"]
+repository = "https://github.com/rishabhops/CipherElite"
+website = "https://cipherelite.in"
+license = "MIT"
+language = "Python"
+added = 2026-11-09

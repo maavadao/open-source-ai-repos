@@ -1,0 +1,9 @@
+name = "kyojin"
+description = "Kyojin: open-source engine that runs 100 GB-class open models (GLM-5.3, Qwen3.8, DeepSeek V4.1) on one desktop machine. AMD Strix Halo, NVIDIA RTX and Apple Mac. OpenAI API, built on ExLlamaV3."
+category = "local-llms"
+tags = ["amd", "apple-silicon", "cuda", "deepseek", "exl3", "exllamav3", "glm", "inference"]
+repository = "https://github.com/Yamz-Labs/kyojin"
+website = "https://yamzlabs.com"
+license = "MIT"
+language = "Python"
+added = 2026-11-09

@@ -1,0 +1,8 @@
+name = "ryza-ai-revive"
+description = "Ryza AI companion. Bring your own LLM/TTS. 莱莎 AI 陪伴，自填大模型与语音。"
+category = "speech"
+tags = ["android", "chatbot", "electron", "html", "javascript", "llm", "spine", "tts"]
+repository = "https://github.com/zeroa234/ryza-ai-revive"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-09

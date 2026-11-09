@@ -1,0 +1,9 @@
+name = "Stroq"
+description = "Find known secrets in your AI coding agent sessions (Claude Code, Codex, Cursor), then guard the next one with local hooks that trace risky commands to the content that dictated them. Open source, no telemetry."
+category = "skills-prompts"
+tags = ["agent-security", "ai-agents", "ai-security", "claude-code", "codex", "coding-agents", "cursor", "developer-tools"]
+repository = "https://github.com/AGGIB/Stroq"
+website = "https://stroq.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-09

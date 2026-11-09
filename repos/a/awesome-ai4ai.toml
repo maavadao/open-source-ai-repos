@@ -1,0 +1,9 @@
+name = "Awesome-AI4AI"
+description = "Updated weekly — until humanity achieves AI4AI. 1148 curated papers across Benchmarks, Harness Design, and Model Design — from long-horizon agents to recursive self-improvement. Citation rankings, GitHub stars, and source-verified weekly news."
+category = "agents"
+tags = ["agent-benchmarks", "agent-harness", "agi", "ai-agents", "ai-research", "ai4ai", "automated-ai-research", "autonomous-agents"]
+repository = "https://github.com/KaiWU5/Awesome-AI4AI"
+website = "https://kaiwu5.github.io/Awesome-AI4AI/"
+license = "MIT"
+language = "Python"
+added = 2026-11-09

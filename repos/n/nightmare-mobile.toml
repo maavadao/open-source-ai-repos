@@ -1,0 +1,7 @@
+name = "nightmare-mobile"
+description = "On-device, ComfyUI-style node graph for image/video diffusion on Android. Run MiniMax H3 and WAN 2.2 14B on the Qualcomm Hexagon NPU. SD1.5, SDXL, Flux, Z-Image, Anima, Qwen Image 2.1, Krea 2 & MOSS Image. Inpainting, outpainting, ControlNet, LoRA, IP-Adapter & LivePortrait. Fully offline, no serve…"
+category = "image"
+tags = ["android", "comfyui", "edge-ai", "image-generation", "inpainting", "jetpack-compose", "kotlin", "local-ai"]
+repository = "https://github.com/AbrahamPaulJ/nightmare-mobile"
+language = "Kotlin"
+added = 2026-11-09

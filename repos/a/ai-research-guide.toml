@@ -1,0 +1,8 @@
+name = "AI-Research-Guide"
+description = "AI 科研入门指南：大学选择、科研 60 问、入门项目、学习路线与论文卡片。A bilingual guide to getting started in AI research."
+category = "education"
+tags = ["ai", "chinese", "education", "getting-started", "machine-learning", "research"]
+repository = "https://github.com/Takamatsu-Hikaru/AI-Research-Guide"
+website = "https://takamatsu-hikaru.github.io/AI-Research-Guide/"
+language = "JavaScript"
+added = 2026-11-09

@@ -1,0 +1,9 @@
+name = "centra-gideon-agent"
+description = "The companion AI agent that learns, adapts and gets the work done no matter the task"
+category = "agents"
+tags = ["agent", "agent-framework", "agentic-ai", "ai", "large-language-models"]
+repository = "https://github.com/Sidiora-Labs/centra-gideon-agent"
+website = "https://centra.ag"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-09

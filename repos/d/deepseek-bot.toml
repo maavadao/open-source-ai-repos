@@ -1,0 +1,8 @@
+name = "deepseek-bot"
+description = "The agentic memory & message gateway for deepseek-harness"
+category = "agents"
+tags = ["agent", "cordis", "deepseek", "deepseek-harness", "discord-bot", "dsh", "llm", "slack"]
+repository = "https://github.com/rlaope/deepseek-bot"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-09

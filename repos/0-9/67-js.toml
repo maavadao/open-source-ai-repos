@@ -1,0 +1,8 @@
+name = "67.js"
+description = "3D engine that AI agents drive"
+category = "agents"
+tags = ["3d", "3d-engine", "ai-agents", "gltf", "javascript", "mcp", "model-context-protocol", "pbr"]
+repository = "https://github.com/codepawl/67.js"
+website = "https://67js.codepawl.com"
+language = "JavaScript"
+added = 2026-11-09

@@ -1,0 +1,8 @@
+name = "universal-imagegen-agent"
+description = "把 Codex imagegen 的工作流与提示词库带到任意智能体；支持 npm/pnpm 一键安装、配套 skill、独立 API 与 Qwen-Image 兼容网关。"
+category = "skills-prompts"
+tags = ["ai-agent", "codex", "image-generation", "nodejs", "npm", "npm-package", "openai-compatible", "pnpm"]
+repository = "https://github.com/SnowSky1/universal-imagegen-agent"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-09

@@ -1,0 +1,9 @@
+name = "outsider"
+description = "mutual layer for multiple agents from different environment or providers to work on same interface or device, toward the same final goal"
+category = "skills-prompts"
+tags = ["agent-supervision", "ai-agents", "ai-safety", "claude-code"]
+repository = "https://github.com/EZ-VAI/outsider"
+website = "https://outsider-stage05-demo.outsider-guard.workers.dev"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-11-09

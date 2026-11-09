@@ -1,0 +1,9 @@
+name = "paradee"
+description = "An 8M-parameter English text-to-speech model distilled from Kokoro-82M. 9 MB, runs 18x real time on one CPU thread."
+category = "speech"
+tags = ["distillation", "kokoro", "onnx", "text-to-speech", "tts"]
+repository = "https://github.com/sahilmahendrakar/paradee"
+website = "https://huggingface.co/sahilmahendrakar/Paradee-8M-v1.0"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-09

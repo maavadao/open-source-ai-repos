@@ -1,0 +1,8 @@
+name = "rev-skills"
+description = "122 个逆向工程 AI 技能：恶意软件分析 / 软件逆向 / 固件嵌入式 / 协议逆向 / 移动应用 / 脱壳反混淆 / 软件破解 / 漏洞挖掘 / 托管代码 / 取证情报 / CTF。"
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "ctf", "disassembly", "firmware-analysis", "malware-analysis", "mobile-security", "protocol-reverse-engineering"]
+repository = "https://github.com/dslsdzc/rev-skills"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-11-09

@@ -1,0 +1,9 @@
+name = "GitBot"
+description = "Create reusable bots powered by Claude Code, Codex, or OpenCode. Run them locally across your repositories with persistent threads and permissions you control."
+category = "skills-prompts"
+tags = ["ai-agents", "automation", "claude-code", "codex", "coding-agents", "developer-tools", "local-first", "open-source"]
+repository = "https://github.com/gitbot-hq/GitBot"
+website = "https://github.com/gitbot-hq/GitBot"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-09

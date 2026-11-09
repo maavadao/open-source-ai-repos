@@ -1,0 +1,9 @@
+name = "worldmodels101"
+description = "Free interactive course on world models in AI. Nine visual chapters on prediction, latent dynamics, planning, JEPA, video models, and failure modes."
+category = "video"
+tags = ["artificial-intelligence", "deep-learning", "education", "interactive-learning", "jepa", "machine-learning", "model-based-reinforcement-learning", "reinforcement-learning"]
+repository = "https://github.com/NiluK/worldmodels101"
+website = "https://worldmodels101.com"
+license = "CC-BY-SA-4.0"
+language = "TypeScript"
+added = 2026-11-09

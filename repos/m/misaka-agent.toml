@@ -1,0 +1,8 @@
+name = "Misaka-Agent"
+description = "A multi-agent research system for the humanities and social sciences."
+category = "agents"
+tags = ["agent-framework", "ai-agents", "computational-social-science", "digital-humanities", "history", "humanities", "literature-review", "llm"]
+repository = "https://github.com/Luciole-Studio/Misaka-Agent"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-09

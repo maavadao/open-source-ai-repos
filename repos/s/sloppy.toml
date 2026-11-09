@@ -1,0 +1,8 @@
+name = "sloppy"
+description = "Static analysis for the debt AI agents leave in PHP: 34 rules, Claude Code hooks, git-diff review, a Rector and Pint fix pass, Pest expectations, CI annotations and an MCP server. Deterministic, local, no LLM."
+category = "mcp-servers"
+tags = ["ai", "code-quality", "filament", "laravel", "linter", "mcp", "pest", "php"]
+repository = "https://github.com/Heyosseus/sloppy"
+license = "MIT"
+language = "PHP"
+added = 2026-11-09

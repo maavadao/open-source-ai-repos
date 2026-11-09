@@ -1,0 +1,8 @@
+name = "brandpose"
+description = "Personal project: where shoppers look, estimated from an ordinary security camera and open source AI (YOLO11, Gaze-LLE, Depth Anything V2)"
+category = "vision"
+tags = ["3d-reconstruction", "blender", "camera-calibration", "cctv", "computer-vision", "depth-anything", "depth-estimation", "gaze-estimation"]
+repository = "https://github.com/escudero/brandpose"
+license = "MIT"
+language = "Python"
+added = 2026-11-09

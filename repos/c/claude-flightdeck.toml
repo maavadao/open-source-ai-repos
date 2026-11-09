@@ -1,0 +1,9 @@
+name = "claude-flightdeck"
+description = "A Claude Code mod that puts a live agent dashboard in your terminal: context and cost, advisor timeline, every permission check, subagent cards and swimlanes."
+category = "skills-prompts"
+tags = ["agent-observability", "agent-visualization", "anthropic", "claude", "claude-code", "claude-code-mod", "claude-code-mods", "claude-code-plugin"]
+repository = "https://github.com/scasella/claude-flightdeck"
+website = "https://casella.dev/projects.html"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-09

@@ -1,0 +1,9 @@
+name = "bansos-router"
+description = "Free, keyless coding models routed to every coding harness through one local endpoint"
+category = "agents"
+tags = ["agents", "ai", "bansos", "bansos-ai", "bansos-router", "free-ai", "llm", "proxy"]
+repository = "https://github.com/ihsan-ramadhan/bansos-router"
+website = "https://ihsan-ramadhan.github.io/bansos-router/"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-11-09

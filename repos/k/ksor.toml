@@ -1,0 +1,9 @@
+name = "ksor"
+description = "KSoR (Knowledge System of Record) is an open-source SDK for building governed, authoritative knowledge systems for humans and AI agents. It is a foundation of an AI-native knowledge platform."
+category = "agents"
+tags = ["agents", "ai-agents", "ai-data", "ai-governance", "claude-mcp-server", "connector-mcp", "governed-agents", "governed-ai"]
+repository = "https://github.com/panaversity/ksor"
+website = "https://ksor.panaversity.org/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-09

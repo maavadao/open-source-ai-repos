@@ -1,0 +1,7 @@
+name = "game-the-llm-reviewer"
+description = "Defend sound research against LLM reviewer bias through meaning-preserving rewrites."
+category = "skills-prompts"
+tags = ["academic-writing", "agent-skills", "ai-research", "llm", "llm-reviewer", "paper-writing", "peer-review", "prompt-engineering"]
+repository = "https://github.com/Michael-Jiahao-Zhang/game-the-llm-reviewer"
+license = "MIT"
+added = 2026-11-09

@@ -1,0 +1,7 @@
+name = "speech-studio"
+description = "Free offline AI voice studio for Windows — text-to-speech with cloned and built-in voices, and speech recognition with speakers. Russian done right. 100% local, one native .exe, zero Python."
+category = "speech"
+tags = ["asr", "local-ai", "offline", "portable", "qwen3-tts", "russian", "rust", "speech-recognition"]
+repository = "https://github.com/timoncool/speech-studio"
+language = "Rust"
+added = 2026-11-09

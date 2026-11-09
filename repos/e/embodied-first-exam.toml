@@ -1,0 +1,9 @@
+name = "embodied-first-exam"
+description = "The first exam for code agents in the physical world: frozen robot tasks from many benchmark suites, each answered with a program and verified in a separate sandbox. Runs on Harbor."
+category = "agents"
+tags = ["ai-agents", "benchmark", "coding-agents", "embodied-ai", "evaluation", "harbor", "llm-agents", "robot-learning"]
+repository = "https://github.com/mll-lab-nu/embodied-first-exam"
+website = "https://www.embodied-first-exam.ai"
+license = "MIT"
+language = "Python"
+added = 2026-11-09

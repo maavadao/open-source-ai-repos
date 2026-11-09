@@ -1,0 +1,8 @@
+name = "SkillX"
+description = "SkillX: Automatically Constructing Skill Knowledge Bases for Agents"
+category = "agents"
+tags = ["agent-skills", "agentic-ai", "artificial-intelligence", "large-language-models", "natural-language-processing", "skills", "skillx"]
+repository = "https://github.com/zjunlp/SkillX"
+license = "MIT"
+language = "Python"
+added = 2026-11-09

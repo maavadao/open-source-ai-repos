@@ -1,0 +1,9 @@
+name = "open-net-worth"
+description = "Self-hosted alternative to Claude and ChatGPT Personal Finance. An AI agent that manages your budget and investments, and can place trades."
+category = "other"
+tags = ["agentic-trader", "agentic-trading-team", "ai-agent", "budgeting", "envelope-budgeting", "investment-tracker", "local-first", "mcp"]
+repository = "https://github.com/open-net-worth-ai/open-net-worth"
+website = "https://opennetworth.ai"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-11-09

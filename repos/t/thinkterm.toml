@@ -1,0 +1,9 @@
+name = "ThinkTerm"
+description = "A modern terminal with a built-in multiplexer: close it and your sessions keep running. Run shells and tons of AI agents across your machines, then pick them up from desktop, browser, TUI and more. Written in Rust with no UI framework: interface drawn straight on the GPU. No Electron, GPUI or webvi…"
+category = "skills-prompts"
+tags = ["agent", "agent-orchestration", "ai", "ai-agents", "claude-code", "codex", "coding-agent", "linux"]
+repository = "https://github.com/RoversX/ThinkTerm"
+website = "https://closex.org/thinkterm/"
+license = "GPL-3.0"
+language = "Rust"
+added = 2026-11-09

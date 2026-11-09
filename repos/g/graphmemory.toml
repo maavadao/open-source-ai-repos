@@ -1,0 +1,8 @@
+name = "graphmemory"
+description = "Bitemporal AI memory system: six-variable decay, time-graded recall, TTL expiry, dedupe, competitive retrieval (Neo4j + PostgreSQL + Redis)"
+category = "llm-apps"
+tags = ["agent-memory", "ai", "bitemporal", "graphiti", "knowledge-graph", "llm", "memory", "neo4j"]
+repository = "https://github.com/gh9ko8y/graphmemory"
+license = "MIT"
+language = "Python"
+added = 2026-11-09

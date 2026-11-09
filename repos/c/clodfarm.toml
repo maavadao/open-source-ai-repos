@@ -1,0 +1,9 @@
+name = "clodfarm"
+description = "clodfarm (say it out loud): a farm of Claude Code agents. Plant a mission, they split it into sub-agents, open the work, and pace themselves on each account's real 5-hour and weekly usage. Steer it from the Claude app."
+category = "skills-prompts"
+tags = ["agent-orchestration", "ai", "ai-agents", "anthropic", "automation", "autonomous-agents", "aws", "claude"]
+repository = "https://github.com/matank001/clodfarm"
+website = "https://towers.app"
+license = "MIT"
+language = "Python"
+added = 2026-11-09

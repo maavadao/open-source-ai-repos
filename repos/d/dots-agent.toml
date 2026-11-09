@@ -1,0 +1,8 @@
+name = "dots-agent"
+description = "一个会主动发现任务的智能体"
+category = "agents"
+tags = ["ai-agent", "automation", "autonomous-agents", "deepagents", "langgraph", "llm", "proactive", "python"]
+repository = "https://github.com/duyongan/dots-agent"
+license = "MIT"
+language = "Python"
+added = 2026-11-09

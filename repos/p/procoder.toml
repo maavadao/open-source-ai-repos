@@ -1,0 +1,9 @@
+name = "procoder"
+description = "Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents."
+category = "skills-prompts"
+tags = ["ai-coding-assistant", "claude-code", "claude-code-plugin", "code-quality", "code-review", "developer-tools", "linter", "mcp"]
+repository = "https://github.com/azrtydxb/procoder"
+website = "https://procoder.azrty.com/"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-11-09

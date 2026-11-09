@@ -1,0 +1,8 @@
+name = "design-taste"
+description = "24 open-source agent skills that turn taste into instructions — ten genre identities, each proven by a same-brief before/after demo"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude-code", "codex", "css", "cursor", "design-systems", "design-tokens"]
+repository = "https://github.com/madebymustafa/design-taste"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-09

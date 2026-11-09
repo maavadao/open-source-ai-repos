@@ -1,0 +1,9 @@
+name = "ram-altman"
+description = "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI."
+category = "other"
+tags = ["bash", "cron", "dram", "email", "humor", "linux", "meminfo", "memory"]
+repository = "https://github.com/IainKay/ram-altman"
+website = "https://ram-altman.lol"
+license = "Unlicense"
+language = "Shell"
+added = 2026-11-09

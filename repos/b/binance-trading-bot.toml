@@ -1,0 +1,9 @@
+name = "binance-trading-bot"
+description = "Automated Binance trading bot with pluggable strategies, historical backtesting, a live dashboard, and connect an AI agent over MCP"
+category = "mcp-servers"
+tags = ["binance", "binance-api", "binance-api-node", "binance-trading-bot", "bot", "cryptocurrency", "cryptotrading", "grid-trading"]
+repository = "https://github.com/chrisleekr/binance-trading-bot"
+website = "https://chrisleekr.github.io/binance-trading-bot/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-09

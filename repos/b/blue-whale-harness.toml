@@ -1,0 +1,9 @@
+name = "Blue-Whale-Harness"
+description = "🐋 DeepSeek Harness 插件总目录 · The catalog of DSH plugins：1958 个仓库 / 1819 个真插件（Skills · MCP · Tools · UI · Orchestration），中英文搜索、分类筛选、STAR 排序 → leenkcool.github.io"
+category = "mcp-servers"
+tags = ["agents", "awesome", "awesome-list", "catalog", "deepseek", "deepseek-ai", "deepseek-harness", "deepseek-harness-plugin"]
+repository = "https://github.com/leenkcool/Blue-Whale-Harness"
+website = "https://leenkcool.github.io"
+license = "Apache-2.0"
+language = "HTML"
+added = 2026-11-09

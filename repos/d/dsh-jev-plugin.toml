@@ -1,0 +1,9 @@
+name = "dsh-jev-plugin"
+description = "Native DeepSeek Harness (DSH) plugin integrating TypeSafe Jev or Decision api like luna as a System One decision layer for agent selection, supervision, corrections, and approvals."
+category = "agents"
+tags = ["agent-harness", "ai-agents", "cordis", "decisions-api", "deepseek-harness", "dsh", "dsh-jev", "dsh-plugin"]
+repository = "https://github.com/luobosibing2/dsh-jev-plugin"
+website = "https://luobosibing2.github.io/dsh-jev-plugin/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-09

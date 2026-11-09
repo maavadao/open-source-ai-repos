@@ -1,0 +1,8 @@
+name = "meu-emprego-novo"
+description = "Equipe de agentes de IA (CrewAI + AWS Bedrock/Claude) que lê a descrição de uma vaga e a base profissional da pessoa e gera currículos personalizados em PDF/LaTeX, em PT ou EN, sem inventar informações e preservando toda a trajetória de carreira."
+category = "other"
+tags = ["agentes-de-ia", "aws-bedrock", "busca-de-emprego", "carreira", "claude", "crewai", "curriculo", "ia-generativa"]
+repository = "https://github.com/R238Company/meu-emprego-novo"
+license = "MIT"
+language = "Python"
+added = 2026-11-09

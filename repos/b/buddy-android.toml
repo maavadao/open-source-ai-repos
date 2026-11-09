@@ -1,0 +1,9 @@
+name = "buddy-android"
+description = "Android AI assistant in a floating bubble: Claude Code, Codex, OpenCode, Gemini (Antigravity CLI) or Grok use your phone for you — read the screen, tap, type. Runs on your own plan, open source, no root, no adb, no PC."
+category = "skills-prompts"
+tags = ["accessibility", "ai-agent", "ai-assistant", "android", "android-app", "android-automation", "antigravity", "chatgpt"]
+repository = "https://github.com/ghorbelhamdi/buddy-android"
+website = "https://ghorbelhamdi.github.io/buddy-android/"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-11-09

@@ -1,0 +1,8 @@
+name = "AImanager"
+description = "让你的 AI 发挥更多价值｜ChatGPT 项目上下文接入，Codex / Claude Code 与 API 多模型协作、交叉审阅，统一账号额度与会话管理"
+category = "chat"
+tags = ["chatgpt", "codex", "local-first", "mcp", "nextjs", "remote-development", "research-tools", "rust"]
+repository = "https://github.com/3241288994/AImanager"
+license = "MIT"
+language = "Rust"
+added = 2026-11-09

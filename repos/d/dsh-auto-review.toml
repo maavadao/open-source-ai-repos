@@ -1,0 +1,9 @@
+name = "dsh-auto-review"
+description = "Second-model AI auto-review for DeepSeek Harness approval requests: a read-only reviewer subagent returns structured allow/deny verdicts with reasons, fail-closed by default, fully auditable from the session log (approval/asked -> autoReview/verdict -> approval/decided)."
+category = "coding"
+tags = ["ai-agent", "ai-agents", "ai-safety", "approval", "auto-review", "code-review", "cordis", "deepseek"]
+repository = "https://github.com/PerryLink/dsh-auto-review"
+website = "https://www.npmjs.com/package/dsh-auto-review"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-09

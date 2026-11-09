@@ -1,0 +1,7 @@
+name = "awesome-jev"
+description = "A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe AI's System One model for fast, typed decisions in software — Choice, Score, and Noul with calibrated probabilities."
+category = "agents"
+tags = ["agents", "ai", "ai-agents", "api", "artificial-intelligence", "automation", "awesome", "awesome-list"]
+repository = "https://github.com/kraayenjon/awesome-jev"
+website = "https://madewithjev.com"
+added = 2026-11-09
