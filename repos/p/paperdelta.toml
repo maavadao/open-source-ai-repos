@@ -1,0 +1,8 @@
+name = "paperdelta"
+description = "Trace changed experiment results to the numbers, claims and figures in your LaTeX paper. Offline bilingual review, safe numeric patches and read-only MCP tools."
+category = "mcp-servers"
+tags = ["latex", "mcp", "python", "reproducibility", "research", "scientific-writing"]
+repository = "https://github.com/amos689/paperdelta"
+license = "MIT"
+language = "Python"
+added = 2026-11-10

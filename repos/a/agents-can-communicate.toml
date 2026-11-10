@@ -1,0 +1,9 @@
+name = "agents-can-communicate"
+description = "Messages between AI coding sessions in different vendors' clients, such as Claude Code and Codex. Local, open source, no lead agent. https://getacc.dev"
+category = "skills-prompts"
+tags = ["agent-communication", "agent-coordination", "ai-agents", "antigravity", "claude-code", "codex", "cross-vendor", "developer-tools"]
+repository = "https://github.com/automatis-tools/agents-can-communicate"
+website = "https://getacc.dev"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-10

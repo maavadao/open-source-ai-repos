@@ -1,0 +1,9 @@
+name = "life-distributable"
+description = "A personal agent that works on your life around the clock, on a Mac you own. One sentence to Claude Code installs it."
+category = "skills-prompts"
+tags = ["agent-swarm", "agentic-ai", "ai-agents", "ai-assistants", "ai-enablement", "ai-swarm", "claude-code", "golang"]
+repository = "https://github.com/mattabate/life-distributable"
+website = "https://mattabate.com"
+license = "MIT"
+language = "Go"
+added = 2026-11-10

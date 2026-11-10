@@ -1,0 +1,7 @@
+name = "no-shortcuts"
+description = "Free Course : Data, Machine Learning, Deep Learning and AI Engineering, the long way round: the math, the code, the systems and the security. 173 lessons, 166 runnable labs, no shortcuts. Free under CC BY-NC 4.0."
+category = "robotics"
+tags = ["ai-engineering", "course", "data-engineering", "deep-learning", "llm", "machine-learning", "mlops", "python"]
+repository = "https://github.com/BlueRingsLabs/no-shortcuts"
+language = "Python"
+added = 2026-11-10

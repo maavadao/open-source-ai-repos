@@ -1,0 +1,9 @@
+name = "OmniCopilot"
+description = "1200+ AI models in your GitHub Copilot Chat — free & forever free. VS Code extension powered by OmniRoute: 340+ providers (90+ free) — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, Qwen — with agent mode, tool calling, vision and quota-aware auto-fallback. MIT."
+category = "llm-apps"
+tags = ["ai", "byok", "copilot-chat", "github-copilot", "language-models", "llm", "omniroute", "openai-compatible"]
+repository = "https://github.com/cheaper-inference/OmniCopilot"
+website = "https://github.com/diegosouzapw/OmniRoute"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-10

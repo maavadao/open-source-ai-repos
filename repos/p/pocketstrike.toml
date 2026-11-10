@@ -1,0 +1,8 @@
+name = "PocketStrike"
+description = "PocketStrike is a privacy-first mobile AI workstation. It combines zero-cloud native on-device GGUF inference (ARM NEON accelerated) │ with frontier cloud LLMs, multi-step ReAct agent tools, Model Context Protocol (MCP) servers, self-evolving cross-session memory, and FLUX neural image │ generation."
+category = "mcp-servers"
+tags = ["agentic-ai", "agents", "ai", "ai-agents", "ai-tools", "android", "android-app", "artificial-intelligence"]
+repository = "https://github.com/AbuZar-Ansarii/PocketStrike"
+license = "MIT"
+language = "Dart"
+added = 2026-11-10

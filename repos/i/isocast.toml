@@ -1,0 +1,9 @@
+name = "isocast"
+description = "Free, open-source OBS alternative for Mac: scenes and sources, every source recorded as its own file (ISO), about half OBS's CPU, CLI and MCP control. Rust, Apple silicon."
+category = "mcp-servers"
+tags = ["apple-silicon", "iso-recording", "live-streaming", "macos", "mcp", "obs", "obs-alternative", "obs-studio"]
+repository = "https://github.com/anomalyco/isocast"
+website = "https://isocast.com"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-10

@@ -1,0 +1,7 @@
+name = "offline-emergency-library"
+description = "One command downloads a complete offline, no-internet emergency library: local AI (CPU/GPU), document Q&A, full Wikipedia, offline maps for any country/region (default US), survival/repair/medical archives, and public-domain manuals. Asks only where to save."
+category = "skills-prompts"
+tags = ["claude", "claude-code", "emergency-preparedness", "kiwix", "offline-ai", "offline-survival", "osmand", "prepper"]
+repository = "https://github.com/elhajahmadj/offline-emergency-library"
+language = "PowerShell"
+added = 2026-11-10

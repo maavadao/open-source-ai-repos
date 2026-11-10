@@ -1,0 +1,8 @@
+name = "dsh-alpha-desk"
+description = "把 dsh 会话变成合规、可复现、可追责的 AI 投研工作台：ai-hedge-fund 回测 + risk-gate 风控 + cron 盯盘 + 记忆复盘 | compliance-first AI investment desk"
+category = "other"
+tags = ["agent-skills", "ai-hedge-fund", "backtesting", "deepseek", "deepseek-harness", "dsh", "fintech", "investment-research"]
+repository = "https://github.com/JingHao-Leon/dsh-alpha-desk"
+license = "MIT"
+language = "Python"
+added = 2026-11-10

@@ -1,0 +1,9 @@
+name = "OpenFlow"
+description = "OpenFlow — a visual builder for multi-agent AI workflows, built on the opencode engine"
+category = "coding"
+tags = ["agent-orchestration", "ai", "ai-agents", "ai-coding", "ai-governance", "ai-tools", "ai-workers", "ai-workflow"]
+repository = "https://github.com/SeeRay11/OpenFlow"
+website = "https://www.reddit.com/r/OpenFlowAI/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-10

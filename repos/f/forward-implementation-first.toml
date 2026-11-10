@@ -1,0 +1,8 @@
+name = "forward-implementation-first"
+description = "Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rituals. Ship first, then verify. Skill for Claude Code, Codex, and other agents."
+category = "skills-prompts"
+tags = ["agent-skills", "agents", "agentskills", "ai-agents", "anthropic", "claude", "claude-code", "codex"]
+repository = "https://github.com/Vuk97/forward-implementation-first"
+license = "MIT"
+language = "Shell"
+added = 2026-11-10

@@ -1,0 +1,9 @@
+name = "speakmore"
+description = "SpeakMore：口述成文，划词即译。开源、免费的语音输入与翻译工具，支持 Mac 与 Windows：语音输入、语音翻译、划词翻译。兼容 Gemini、OpenAI、通义千问、DeepSeek、Kimi、智谱 GLM、MiniMax 及任意 OpenAI 兼容服务，语音输入亦可完全在本机运行。附 Typeless 逆向分析。"
+category = "speech"
+tags = ["asr", "cli", "deepseek", "dictation", "electron", "gemini", "llm", "macos"]
+repository = "https://github.com/zephyr4123/speakmore"
+website = "https://speakmore.zephyrxiang.com"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-10

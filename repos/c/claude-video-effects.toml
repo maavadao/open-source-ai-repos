@@ -1,0 +1,8 @@
+name = "claude-video-effects"
+description = "51 free video effects for Claude Code: drop in a talking-head clip, type /effects orbit. Face tracking, behind-your-head layers. From Hop Studio by @vibha.in.progress"
+category = "skills-prompts"
+tags = ["ai-video-editor", "claude", "claude-code", "claude-skills", "face-tracking", "instagram-reels", "tiktok", "video-editing"]
+repository = "https://github.com/Vibha-Ramprakash/claude-video-effects"
+website = "https://vibha.is/ai-video-studio?source=effects-repo"
+language = "Python"
+added = 2026-11-10

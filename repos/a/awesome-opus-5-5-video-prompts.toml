@@ -1,0 +1,8 @@
+name = "awesome-opus-5-5-video-prompts"
+description = "Claude Opus 5.5 video prompts for motion graphics, explainers, 3D scenes and interactive demos. Browse by use case, with previews, required inputs and tools."
+category = "skills-prompts"
+tags = ["ai-agents", "ai-video", "animation", "awesome-list", "claude", "creative-coding", "explainers", "manim"]
+repository = "https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts"
+website = "https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/"
+language = "JavaScript"
+added = 2026-11-10

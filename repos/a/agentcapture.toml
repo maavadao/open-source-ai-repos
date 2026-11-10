@@ -1,0 +1,9 @@
+name = "AgentCapture"
+description = "Deception-layer honeypot that captures & reverse-controls AI pentest agents — embedded decoys, prompt-injection counter-offense, MCP honeypot, conversational C2."
+category = "mcp-servers"
+tags = ["ai-agent", "ai-security", "cyber-deception", "deception", "fastapi", "honeypot", "llm-security", "mcp"]
+repository = "https://github.com/Tcotl/AgentCapture"
+website = "https://agentcapture-demo.vercel.app/"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-11-10

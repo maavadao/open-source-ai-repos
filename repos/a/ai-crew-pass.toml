@@ -1,0 +1,9 @@
+name = "ai-crew-pass"
+description = "非人类员工｜九位 AI 同事的 3D 工牌领取处，中英文、透明 PNG 下载。微信公众号：风花AI实验室。"
+category = "other"
+tags = ["ai", "astro", "github-pages", "lanyard", "react", "threejs"]
+repository = "https://github.com/fanhuayishiy/ai-crew-pass"
+website = "https://badge.fhysy.com/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-10

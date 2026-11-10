@@ -1,0 +1,9 @@
+name = "genie"
+description = "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it."
+category = "skills-prompts"
+tags = ["ai-agents", "ai-developer-tools", "anthropic", "automation", "autonomous-agents", "claude", "claude-code", "cli"]
+repository = "https://github.com/automagik-si/genie"
+website = "https://docs.automagik.dev/genie"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-10

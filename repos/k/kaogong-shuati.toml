@@ -1,0 +1,8 @@
+name = "kaogong-shuati"
+description = "考公刷题 App（公考/gongkao/国考/省考/事业单位）：行测 申论 题库 · 错题本 · AI 解析。中文名：没钱考什么公。"
+category = "llm-apps"
+tags = ["ai", "android", "capacitor", "civil-service-exam", "education", "exam-prep", "gongkao", "kaogong"]
+repository = "https://github.com/ERRRC/kaogong-shuati"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-10

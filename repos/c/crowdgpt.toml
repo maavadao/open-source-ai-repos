@@ -1,0 +1,9 @@
+name = "CrowdGPT"
+description = "CrowdGPT is an opensource framework that aims to train AI without any datacenters"
+category = "chat"
+tags = ["ai", "chatgpt", "collaborative", "dataset", "llm", "model-weights"]
+repository = "https://github.com/Vxtzq/CrowdGPT"
+website = "https://www.crowdgpt.net/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-11-10

@@ -1,0 +1,9 @@
+name = "AgentFlux"
+description = "Agentic AI platform for visual workflows and autonomous agents. Run it with Docker on your own computer or server."
+category = "local-llms"
+tags = ["ai-agents", "docker", "ollama", "self-hosted", "workflows"]
+repository = "https://github.com/davemessew/AgentFlux"
+website = "https://agentflux.cloud"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-10

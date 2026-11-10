@@ -1,0 +1,9 @@
+name = "seiso"
+description = "A Markdown convention and linter for project docs written by AI and read by humans and agents"
+category = "skills-prompts"
+tags = ["ai", "ai-agents", "claude-code", "cli", "coding-agents", "commonmark", "conventions", "developer-tools"]
+repository = "https://github.com/scarletkc/seiso"
+website = "https://seiso.fog.moe"
+license = "MIT"
+language = "Rust"
+added = 2026-11-10

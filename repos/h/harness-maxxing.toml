@@ -1,0 +1,8 @@
+name = "harness-maxxing"
+description = "Self-hosted web control room for Claude Code: persistent sessions, memory, scheduled jobs, Telegram and voice on your own server. Free and fair source (source-available)."
+category = "skills-prompts"
+tags = ["ai-agent", "claude", "claude-code", "developer-tools", "fair-source", "fastapi", "react", "self-hosted"]
+repository = "https://github.com/makushingu/harness-maxxing"
+website = "https://harness-maxxing.com"
+language = "Python"
+added = 2026-11-10

@@ -1,0 +1,9 @@
+name = "unbagrnd"
+description = "Unbagrnd - Free, Fast & Open-source AI-powered background remover for Windows, macOS, Linux and Android."
+category = "vision"
+tags = ["ai", "ai-tools", "android", "android-app", "background-removal", "computer-vision", "cross-platform", "free-software"]
+repository = "https://github.com/zidniryi/unbagrnd"
+website = "https://zidniryi.space/unbagrnd/"
+license = "MIT"
+language = "Rust"
+added = 2026-11-10

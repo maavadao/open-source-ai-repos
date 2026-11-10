@@ -1,0 +1,9 @@
+name = "StashDock"
+description = "Your AI-native personal context library. Collect, organize and reuse context across AI conversations."
+category = "other"
+tags = ["ai", "context-library", "local-first", "mcp", "productivity"]
+repository = "https://github.com/StashDock/StashDock"
+website = "https://stashdock.app"
+license = "AGPL-3.0"
+language = "HTML"
+added = 2026-11-10

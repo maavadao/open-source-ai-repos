@@ -1,0 +1,7 @@
+name = "Agent-For-Dummies"
+description = "Agent/RAG/AI应用：Agent零基础入门学习笔记➕编程平台"
+category = "agents"
+tags = ["agent", "beginner-friendly", "chinese", "llm", "llm-agents", "rag", "study-notes"]
+repository = "https://github.com/agent-for-dummys/Agent-For-Dummies"
+language = "Python"
+added = 2026-11-10

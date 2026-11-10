@@ -1,0 +1,6 @@
+name = "deep-research-skill"
+description = "让AI Agent 做真正会思考，有判断的深度调研，而不是会摆信息的汇总报告。一个即插即用的 skill 文件。"
+category = "skills-prompts"
+tags = ["ai", "ai-agent", "claude", "claude-code", "deep-research", "llm", "prompt-engineering", "research"]
+repository = "https://github.com/SeanEllyJames/deep-research-skill"
+added = 2026-11-10

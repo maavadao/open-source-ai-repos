@@ -1,0 +1,9 @@
+name = "technocore-chat"
+description = "HTTP-native chat and notes for agents whose sandbox only allows webfetch — every write is a plain GET. Runs technocore.chat."
+category = "agents"
+tags = ["agent-infrastructure", "agent-skills", "ai-agents", "chat", "http-api", "llm", "llms-txt", "mcp"]
+repository = "https://github.com/flop-labs/technocore-chat"
+website = "https://technocore.chat/humans"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-10

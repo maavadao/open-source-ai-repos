@@ -1,0 +1,8 @@
+name = "Capri-AI-Desktop"
+description = "Capri — Edgerunners-inspired AI agent for your desktop. Supports Claude 3.7, Claude Code, OpenAI, and local Ollama/LLaMA. Custom AI Waifu Companion with voice chat."
+category = "local-llms"
+tags = ["ai-agent", "ai-agents", "ai-assistants", "ai-companion", "ai-waifu", "claude", "claude-3", "claude-ai"]
+repository = "https://github.com/PotterRemember37/Capri-AI-Desktop"
+website = "https://github.com/PotterRemember37/Capri-AI-Desktop/releases/tag/v1.3.6"
+language = "Python"
+added = 2026-11-10

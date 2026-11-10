@@ -1,0 +1,8 @@
+name = "antigravity-bypass-russia"
+description = "Google Antigravity & Gemini bypass in Russia (Windows & macOS, No VPN, SmartDNS NRPT & SIMD binary patcher)"
+category = "coding"
+tags = ["ai", "antigravity", "antigravity-ai", "antigravity-ide", "bypass", "cursor", "gemini", "gemini-ai"]
+repository = "https://github.com/vezlin1/antigravity-bypass-russia"
+license = "MIT"
+language = "Rust"
+added = 2026-11-10

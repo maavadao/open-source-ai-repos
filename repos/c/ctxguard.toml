@@ -1,0 +1,8 @@
+name = "CtxGuard"
+description = "面向 AI Agent 的高并发、低延迟上下文治理与 Prompt Cache 守护网关 (Tree-sitter AST / Tool Delta / 50%~80% Token 削减)"
+category = "skills-prompts"
+tags = ["ai-agent", "claude-code", "context-compression", "cursor", "fastapi", "llm", "prompt-cache", "proxy"]
+repository = "https://github.com/255308153/CtxGuard"
+license = "MIT"
+language = "Python"
+added = 2026-11-10

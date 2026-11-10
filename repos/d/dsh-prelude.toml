@@ -1,0 +1,8 @@
+name = "dsh-prelude"
+description = "DeepSeek Harness (DSH) 提示词工程插件。在输入框里发现遗漏，从 90 张方法卡选一句补入，或对照原稿改写、核对引文并恢复原话。Prompt editor for DSH with method cards, draft comparison and quote recovery."
+category = "skills-prompts"
+tags = ["deepseek-harness", "dsh", "dsh-plugin", "prompt-engineering", "prompt-enhancement", "prompt-optimizer", "prompt-rewrite"]
+repository = "https://github.com/dbcaskml183-dotcom/dsh-prelude"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-10

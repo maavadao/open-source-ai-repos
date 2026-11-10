@@ -1,0 +1,9 @@
+name = "Flide"
+description = "🔥🔥 The extremely fast inference engine for decision model"
+category = "agents"
+tags = ["ai-agents", "cuda", "decision-making", "deterministic-inference", "gemma", "inference-engine", "jev", "kv-cache"]
+repository = "https://github.com/OmniJev/Flide"
+website = "https://flide.org"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-10

@@ -1,0 +1,8 @@
+name = "claude-drawing-skill"
+description = "Claude paints with code: a Claude Code skill for procedural illustration in 83 styles, from ink wash (水墨), watercolour and ukiyo-e to stained glass, Roman mosaic, Art Deco, shadow puppets, pastel UI, sketchbook doodles, spot illustrations, grainy picture books, dreamy hills, sunlit greenery. No ima…"
+category = "skills-prompts"
+tags = ["agent-skills", "anime", "chinese-painting", "claude", "claude-code", "claude-skills", "colored-pencil", "creative-coding"]
+repository = "https://github.com/cloveric/claude-drawing-skill"
+license = "MIT"
+language = "Python"
+added = 2026-11-10

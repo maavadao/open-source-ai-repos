@@ -1,0 +1,9 @@
+name = "zhizhi-agent-runtime"
+description = "A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability. 知枝（Zhizhi）智能体运行时框架，基于 Go 构建，支持任务规…"
+category = "llm-apps"
+tags = ["ai-agent", "ai-assistants", "ai-companion", "llm"]
+repository = "https://github.com/cocoyes/zhizhi-agent-runtime"
+website = "https://deepyou.top"
+license = "MIT"
+language = "Go"
+added = 2026-11-10

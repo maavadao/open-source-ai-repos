@@ -1,0 +1,9 @@
+name = "grok-bot-cli"
+description = "CLI for Grok Bot agents and groups: create, update, message, inspect threads, and automate cleanup"
+category = "agents"
+tags = ["ai-agents", "automation", "cli", "grok", "grok-bot", "grokbot", "terminal"]
+repository = "https://github.com/ScriptedAlchemy/grok-bot-cli"
+website = "https://www.npmjs.com/package/grok-bot-cli"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-10

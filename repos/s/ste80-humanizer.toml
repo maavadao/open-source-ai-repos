@@ -1,0 +1,9 @@
+name = "ste80-humanizer"
+description = "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-writing", "asd-ste100", "claude-code", "claude-skills", "codex", "cursor", "humanize-ai-text"]
+repository = "https://github.com/Dodaios/ste80-humanizer"
+website = "https://skills.sh/Dodaios/ste80-humanizer"
+license = "MIT"
+language = "Python"
+added = 2026-11-10

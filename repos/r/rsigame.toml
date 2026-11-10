@@ -1,0 +1,9 @@
+name = "RSIGame"
+description = "RSIGame: Autonomous agentic game development with recursive self-improvement"
+category = "other"
+tags = ["ai-agent", "coding-agent", "game-development", "gamedev", "generative-ai", "godot", "phaser", "rsi"]
+repository = "https://github.com/WenyiWU0111/RSIGame"
+website = "https://huggingface.co/spaces/RSIGame/rsigame-page"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-10

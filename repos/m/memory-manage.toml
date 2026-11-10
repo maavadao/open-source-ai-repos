@@ -1,0 +1,7 @@
+name = "memory-manage"
+description = "LLM agent 的有界自纠错长期记忆层：把连续、含矛盾的项目交互日志蒸馏成有界、可自更新的记忆库。Bounded, self-correcting long-term memory for LLM agents — candidate pool + value dynamics + tension adjudication + causal-replay evals."
+category = "agents"
+tags = ["agent-memory", "agents", "llm", "llm-agents", "long-term-memory", "memory", "memory-management", "python"]
+repository = "https://github.com/1173591564/memory-manage"
+language = "TypeScript"
+added = 2026-11-10

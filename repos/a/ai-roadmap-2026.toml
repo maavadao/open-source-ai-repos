@@ -1,0 +1,7 @@
+name = "ai-roadmap-2026"
+description = "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer"
+category = "agents"
+tags = ["agents", "ai", "ai-engineering", "evaluation", "learning-path", "llm", "rag", "roadmap"]
+repository = "https://github.com/h9-tec/ai-roadmap-2026"
+license = "CC-BY-4.0"
+added = 2026-11-10

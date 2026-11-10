@@ -1,0 +1,9 @@
+name = "Agent-2"
+description = "An autonomous AI agentic harness built to code anything, automate terminals, perform cybersecurity tasks, and execute complex real-world workflows with minimal human intervention. From writing and debugging code to analyzing systems, managing files, running commands, and orchestrating tools, Agent-…"
+category = "coding"
+tags = ["aarav", "aaravshah1311", "agent-2", "agentic-ai", "agentic-workflow", "ai-agent", "ai-coding", "cyber-threat-intelligence"]
+repository = "https://github.com/aaravshah1311/Agent-2"
+website = "https://agent2.is-best.net"
+license = "MIT"
+language = "Python"
+added = 2026-11-10

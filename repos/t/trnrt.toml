@@ -1,0 +1,9 @@
+name = "trnrt"
+description = "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere."
+category = "local-llms"
+tags = ["aws", "glm", "inference", "llm", "llm-serving", "megakernels", "neuron", "nki"]
+repository = "https://github.com/RunanywhereAI/trnrt"
+website = "https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-megakernels"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-10

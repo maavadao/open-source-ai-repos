@@ -1,0 +1,9 @@
+name = "lossless-memory"
+description = "Lossless long-term memory for a personal AI: never summarize, keep every line, put a timestamp on everything."
+category = "llm-apps"
+tags = ["ai-memory", "conversational-ai", "fts5", "llm-memory", "long-term-memory", "memory", "personal-ai", "python"]
+repository = "https://github.com/aru-labs/lossless-memory"
+website = "https://note.com/aru_log"
+license = "MIT"
+language = "Python"
+added = 2026-11-10

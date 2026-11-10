@@ -1,0 +1,9 @@
+name = "OmniScientist"
+description = "An Omni-Modal, Omni-Discipline AI Scientist"
+category = "agents"
+tags = ["agent", "ai-scientist", "llm", "research", "skill"]
+repository = "https://github.com/Omni-Scientist/OmniScientist"
+website = "https://omni-scientist.github.io/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-10

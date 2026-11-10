@@ -1,0 +1,8 @@
+name = "wow-ai"
+description = "Addon to use AI (Claude, Codex, Grok, Antigravity and Hermes) inside World of Warcraft (WoW)"
+category = "skills-prompts"
+tags = ["ai", "claude-code", "wow"]
+repository = "https://github.com/chelinho139/wow-ai"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-10

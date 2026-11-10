@@ -1,0 +1,9 @@
+name = "papilot"
+description = "Next-Generation AI LaTeX Editor: Don't read or write LaTeX. Just work on the PDF."
+category = "agents"
+tags = ["academic", "agent", "agents", "ai-agent", "diff", "latex-editor", "skills", "writing"]
+repository = "https://github.com/PapilotAI/papilot"
+website = "https://papilot.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-10

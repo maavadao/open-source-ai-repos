@@ -1,0 +1,9 @@
+name = "session-migrate"
+description = "Migrate coding agent sessions across 18 harnesses (Claude Code, Codex, Pi, OpenCode, Copilot, Antigravity, Vibe, Muse, Qwen, Kimi, Cursor, etc.)"
+category = "skills-prompts"
+tags = ["ai-agents", "antigravity", "claude-code", "codex-cli", "coding-agents", "copilot-cli", "cursor-agent", "kimi-code"]
+repository = "https://github.com/xhluca/session-migrate"
+website = "https://session-migrate.github.io/"
+license = "MIT"
+language = "Python"
+added = 2026-11-10

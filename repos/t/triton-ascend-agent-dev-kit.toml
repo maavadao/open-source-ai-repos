@@ -1,0 +1,9 @@
+name = "triton-ascend-agent-dev-kit"
+description = "A toolkit for AI agents used for development on Triton-Ascend for Ascend NPU"
+category = "skills-prompts"
+tags = ["ai", "ascend", "ascend-npu", "claude-code", "codex", "npu", "opencode", "triton"]
+repository = "https://github.com/Krusty84/triton-ascend-agent-dev-kit"
+website = "https://www.hiascend.com/en/document"
+license = "Apache-2.0"
+language = "Shell"
+added = 2026-11-10

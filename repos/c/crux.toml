@@ -1,0 +1,8 @@
+name = "crux"
+description = "Taking the pi coding agent to Claude Code-level performance: 0.539 → 0.773 pass@1 on Terminal-Bench 2.1 with the same self-hosted 27B model, by re-engineering the agent."
+category = "llm-apps"
+tags = ["agent-evaluation", "ai-agent", "coding-agent", "context-engineering", "llm", "terminal-bench"]
+repository = "https://github.com/alanhuangyoo/crux"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-10

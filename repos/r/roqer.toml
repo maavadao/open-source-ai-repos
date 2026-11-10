@@ -1,0 +1,8 @@
+name = "Roqer"
+description = "An open-source AI agent for Roblox Studio. Builds, scripts, and playtests in your place using your ChatGPT/Claude subscription or custom API."
+category = "other"
+tags = ["ai-agent", "blender", "electron", "luau", "mcp", "model-context-protocol", "roblox", "roblox-studio"]
+repository = "https://github.com/S4US/Roqer"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-11-10

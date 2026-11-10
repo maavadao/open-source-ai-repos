@@ -1,0 +1,7 @@
+name = "cinematic-video-prompt-skill"
+description = "AI video prompt cheat sheet & Claude Skill: cinematic camera angles, camera movement, lighting, composition, color grading for Veo 3, Kling, Sora, Runway, Midjourney. 700+ terms with Vietnamese explanations."
+category = "skills-prompts"
+tags = ["ai-video", "camera-movement", "cinematography", "claude-skill", "generative-ai", "kling", "lighting", "midjourney"]
+repository = "https://github.com/Rylaispirit/cinematic-video-prompt-skill"
+license = "MIT"
+added = 2026-11-10

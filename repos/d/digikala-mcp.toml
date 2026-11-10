@@ -1,0 +1,8 @@
+name = "digikala-mcp"
+description = "MCP server for Digikala: search, compare and price-check products on Iran's largest marketplace. Read-only, no API key. 19 tools, hosted on Cloudflare Workers."
+category = "mcp-servers"
+tags = ["cloudflare-workers", "digikala", "iran", "mcp", "model-context-protocol", "persian"]
+repository = "https://github.com/mmdju/digikala-mcp"
+website = "https://digikala-mcp.mmdju.workers.dev/"
+language = "JavaScript"
+added = 2026-11-10

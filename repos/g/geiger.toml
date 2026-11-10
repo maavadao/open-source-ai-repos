@@ -1,0 +1,9 @@
+name = "geiger"
+description = "A Geiger counter for AI agents — one read-only command that inventories every agent, MCP server, plugin, and AI extension on a machine"
+category = "mcp-servers"
+tags = ["ai-agents", "ai-governance", "ai-safety", "ai-security", "claude-code", "governance", "mcp", "mcp-server"]
+repository = "https://github.com/Atomburstofficial/geiger"
+website = "https://atomburst.io/geiger"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-10

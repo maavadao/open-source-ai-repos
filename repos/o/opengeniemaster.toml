@@ -1,0 +1,8 @@
+name = "opengeniemaster"
+description = "Open-source embodied agent framework: execution, feedback, and continual improvement"
+category = "agents"
+tags = ["agent-harness", "ai-agents", "continual-learning", "embodied-ai", "mcp", "model-context-protocol", "multi-robot", "robotics"]
+repository = "https://github.com/eust-w/opengeniemaster"
+license = "MIT"
+language = "Python"
+added = 2026-11-10

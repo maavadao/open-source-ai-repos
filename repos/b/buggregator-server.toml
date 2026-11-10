@@ -1,0 +1,9 @@
+name = "server"
+description = "One local debugging server, one binary: catches errors, dumps, emails, logs, profiles and HTTP from your app in development. Speaks Sentry, Ray, VarDumper, Monolog, SMTP, XHProf. Mock server, Xdebug in the browser, MCP for AI agents."
+category = "mcp-servers"
+tags = ["debugging", "developer-tools", "email-testing", "fake-smtp-server", "golang", "http-dump", "laravel", "local-development"]
+repository = "https://github.com/buggregator/server"
+website = "https://buggregator.dev"
+license = "MIT"
+language = "Go"
+added = 2026-11-10

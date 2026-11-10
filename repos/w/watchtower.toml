@@ -1,0 +1,9 @@
+name = "Watchtower"
+description = "Watchtower | Self-hosted AI security assessment, asset intelligence, and evidence workflows."
+category = "agents"
+tags = ["ai-agents", "attack-surface-management", "docker", "penetration-testing", "python", "security-assessment", "self-hosted", "vue"]
+repository = "https://github.com/LINGYK352/Watchtower"
+website = "https://watchtowers.info/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-11-10

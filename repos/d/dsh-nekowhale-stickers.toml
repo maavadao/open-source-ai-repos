@@ -1,0 +1,9 @@
+name = "dsh-nekowhale-stickers"
+description = "大肥鱼 / GPT娘 sticker knowledge kit for DeepSeek Harness (dsh), MCP and any chat bot · 大肥鱼表情包知识库"
+category = "mcp-servers"
+tags = ["chatbot", "cordis", "deepseek", "deepseek-harness", "dsh", "emoji", "live2d", "mcp"]
+repository = "https://github.com/Loping151/dsh-nekowhale-stickers"
+website = "https://www.npmjs.com/package/dsh-nekowhale-stickers"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-10

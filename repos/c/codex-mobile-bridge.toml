@@ -1,0 +1,9 @@
+name = "codex-mobile-bridge"
+description = "从手机、平板或电脑浏览器继续 Codex Claude DSH Zcode App、CLI、WSL CLI 会话，兼容官方登录、API 与自定义模型服务。Self-hosted browser access to your existing Codex Claude DSH Zcode App、CLI、WSL CLI chats, with local/SSH sessions, approvals and notifications."
+category = "agents"
+tags = ["ai-agents", "claude", "claude-desktop", "codex", "codex-app", "developer-tools", "dsh-desktop", "mobile"]
+repository = "https://github.com/try2love/codex-mobile-bridge"
+website = "https://try2love.github.io/codex-mobile-bridge/"
+license = "MIT"
+language = "Python"
+added = 2026-11-10

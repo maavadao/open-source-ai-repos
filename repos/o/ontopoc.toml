@@ -1,0 +1,9 @@
+name = "ontopoc"
+description = "OntoPoc — Ontology engineering: LLM drafts ontologies from business tables/docs; code validates against data; human confirms item by item."
+category = "other"
+tags = ["data-quality", "evidence", "human-in-the-loop", "knowledge-graph", "llm-agents", "mcp", "nhtsa", "ontology"]
+repository = "https://github.com/Longado/ontopoc"
+website = "https://longado.github.io/ontopoc/"
+license = "MIT"
+language = "Python"
+added = 2026-11-10

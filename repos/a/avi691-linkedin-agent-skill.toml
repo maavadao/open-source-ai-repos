@@ -1,0 +1,8 @@
+name = "linkedin-agent-skill"
+description = "Eleven free Claude skills that run a LinkedIn account: posts off 21 hook formulas, comments, replies, profile score, weekly plan, and a humanizer that strips the AI fingerprint."
+category = "skills-prompts"
+tags = ["ai-agents", "claude", "claude-code", "claude-skills", "linkedin"]
+repository = "https://github.com/avi691/linkedin-agent-skill"
+license = "MIT"
+language = "Python"
+added = 2026-11-10

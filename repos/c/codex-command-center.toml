@@ -1,0 +1,8 @@
+name = "codex-command-center"
+description = "A local desktop control center for organizing Codex projects, engineering tasks, sessions, Git changes, Skills, and MCP configuration."
+category = "mcp-servers"
+tags = ["ai-coding", "codex", "codex-cli", "codex-desktop", "codex-github", "codex-skill", "coding-agents", "desktop-app"]
+repository = "https://github.com/sevensir888/codex-command-center"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-10

@@ -1,0 +1,9 @@
+name = "Superpower"
+description = "From AI Assistance to Agentic Workflows: Making MCP Practical in the Browser"
+category = "mcp-servers"
+tags = ["ai-agents", "browser-extension", "chrome-extension", "desktop-app", "human-in-the-loop", "mcp"]
+repository = "https://github.com/stloendays/Superpower"
+website = "https://chromewebstore.google.com/detail/eioecjdcckpdakngpgikbinalieickob"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-10

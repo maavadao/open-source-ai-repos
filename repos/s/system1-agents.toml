@@ -1,0 +1,8 @@
+name = "system1-agents"
+description = "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics"
+category = "browser-automation"
+tags = ["ai-agents", "browser-agent", "browser-automation", "claude-code-plugin", "computer-use", "cua", "decision-model", "jev"]
+repository = "https://github.com/ThinkFlowLab/system1-agents"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-10

@@ -1,0 +1,9 @@
+name = "rigby2d"
+description = "Open-source 2D skeletal animation editor for games and film. AutoRig layered PSDs, animate with meshes, IK and physics, lip-sync from audio, render video, export JSON/.skel. JavaScript, Rust, Godot and Unity runtimes. Built-in MCP server for AI assistants. Docs: rigby2d.com/docs"
+category = "mcp-servers"
+tags = ["2d-animation", "ai", "animation", "animation-editor", "cocos-creator", "defold", "film", "game-development"]
+repository = "https://github.com/jaisurya-dev-art/rigby2d"
+website = "https://rigby2d.com"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-11-10

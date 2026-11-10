@@ -1,0 +1,8 @@
+name = "clawd-conduit"
+description = "Full-lifecycle wiring between Claude Code and the Clawd on Desk pet — all 15 hook events, with permission prompts answered straight from the desktop"
+category = "skills-prompts"
+tags = ["ai-agents", "claude", "claude-code", "desktop-pet", "developer-tools", "dotfiles", "hooks", "macos"]
+repository = "https://github.com/ssssssanjiu/clawd-conduit"
+license = "MIT"
+language = "Shell"
+added = 2026-11-10

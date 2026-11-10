@@ -1,0 +1,9 @@
+name = "nexusdesk"
+description = "Open-source, self-hosted, extensible Agent platform built around ReAct and Harness engineering, with AI customer support as its first complete reference application."
+category = "llm-apps"
+tags = ["ai-agent", "customer-service", "customer-support", "fastapi", "helpdesk", "knowledge-base", "langgraph", "live-chat"]
+repository = "https://github.com/GroundedCoreAI/nexusdesk"
+website = "https://groundedcoreai.github.io/nexusdesk/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-10

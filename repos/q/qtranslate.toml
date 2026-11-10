@@ -1,0 +1,9 @@
+name = "QTranslate"
+description = "A fast, extensible desktop translation suite. Translate, OCR, TTS, spell check — with a plugin system."
+category = "speech"
+tags = ["cross-platform", "desktop-app", "desktop-utility", "flatlaf", "hotkey", "java", "java-swing", "kotlin"]
+repository = "https://github.com/ahatem/QTranslate"
+website = "https://qtranslate-app.web.app/"
+license = "MPL-2.0"
+language = "Kotlin"
+added = 2026-11-10

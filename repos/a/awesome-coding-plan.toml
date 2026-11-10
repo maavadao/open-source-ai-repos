@@ -1,0 +1,9 @@
+name = "awesome-coding-plan"
+description = "TokenPlan：AI 编程套餐与 API 价格对比，涵盖云厂商 Coding / Token Plan、缓存与峰谷计费、模型性价比及官方购买入口。 / AI coding plans, API pricing and model value comparisons."
+category = "coding"
+tags = ["ai-agents", "ai-coding", "ai-models", "api-pricing", "cloudflare-pages", "coding-plan", "cost-comparison", "llm-pricing"]
+repository = "https://github.com/supercli-site/awesome-coding-plan"
+website = "https://plan.supercli.site"
+license = "CC-BY-4.0"
+language = "JavaScript"
+added = 2026-11-10

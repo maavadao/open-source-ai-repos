@@ -1,0 +1,9 @@
+name = "YouTube-AI-Motion-Graphics"
+description = "AI motion graphics for YouTube explainer videos: 74 animated HTML explainer boards (charts, diagrams, Venn, timeline, heatmap) synced to your voice with Whisper, exported frame by frame with Chrome + FFmpeg. Every prompt + Claude skills. By TEIN AI."
+category = "skills-prompts"
+tags = ["ai-agents", "ai-video", "animation", "claude", "claude-code", "claude-design", "claude-skills", "content-creation"]
+repository = "https://github.com/sirioberati/YouTube-AI-Motion-Graphics"
+website = "https://tein.ai"
+license = "MIT"
+language = "HTML"
+added = 2026-11-10

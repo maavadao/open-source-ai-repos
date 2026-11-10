@@ -1,0 +1,7 @@
+name = "gpt-image-skill"
+description = "Generate GPT images from Codex or Claude Code using a ChatGPT subscription, without the Images API."
+category = "skills-prompts"
+tags = ["agent-skills", "chatgpt", "claude-code", "codex", "gpt-image", "image-generation"]
+repository = "https://github.com/GENEXIS-AI/gpt-image-skill"
+language = "JavaScript"
+added = 2026-11-10

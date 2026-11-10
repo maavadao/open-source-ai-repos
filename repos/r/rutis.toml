@@ -1,0 +1,8 @@
+name = "rutis"
+description = "A plugin runtime for software that iterates on itself — the substrate where agents write, swap and hot-reload their own plugins in Rust, TypeScript, Python and Go, across processes and machines."
+category = "agents"
+tags = ["agent-framework", "ai-agents", "bun", "cordis", "dependency-injection", "go", "hot-reload", "lifecycle"]
+repository = "https://github.com/arcships/rutis"
+license = "MIT"
+language = "Rust"
+added = 2026-11-10

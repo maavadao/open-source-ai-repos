@@ -1,0 +1,7 @@
+name = "Promethevs"
+description = "PROMETHEVS: run the full DeepSeek-V4.1-Flash-1017 (510 GB) on a gaming PC with 64 GB RAM and a 12 GB GPU. PROMETHEVS engine (compress-then-correct), OpenAI-compatible local server, report and logs."
+category = "local-llms"
+tags = ["consumer-hardware", "deepseek", "deepseek-v4", "llm", "llm-inference", "local-inference", "local-llm", "mixture-of-experts"]
+repository = "https://github.com/Magnvs7/Promethevs"
+license = "CC-BY-4.0"
+added = 2026-11-10

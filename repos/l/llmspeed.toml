@@ -1,0 +1,9 @@
+name = "llmspeed"
+description = "Feel how fast a local LLM runs before you buy the hardware"
+category = "local-llms"
+tags = ["benchmark", "gpu", "hardware", "inference", "llm", "llm-inference", "local-llm", "ollama"]
+repository = "https://github.com/nicorobinreal/llmspeed"
+website = "https://llmspeed.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-10

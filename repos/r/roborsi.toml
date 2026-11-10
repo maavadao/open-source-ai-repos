@@ -1,0 +1,9 @@
+name = "RoboRSI"
+description = "Robot-agent harness with a CLI and local Web console for LIBERO short evaluation"
+category = "agents"
+tags = ["agents", "embodied-ai", "evaluation", "libero", "robot-learning", "robotics", "self-evolution"]
+repository = "https://github.com/nssmd/RoboRSI"
+website = "https://lab.noematrix.ai/blog/2-roborsi-research-preview/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-10

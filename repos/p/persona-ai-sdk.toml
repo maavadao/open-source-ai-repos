@@ -1,0 +1,9 @@
+name = "persona-ai-sdk"
+description = "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package."
+category = "llm-apps"
+tags = ["ai", "bedrock", "characters", "llm", "memory", "persona", "personality", "sdk"]
+repository = "https://github.com/tavern-labs-ai/persona-ai-sdk"
+website = "https://www.npmjs.com/package/ai-persona-sdk"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-10

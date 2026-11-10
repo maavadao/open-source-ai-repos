@@ -1,0 +1,8 @@
+name = "papercut-explainer"
+description = "Short vertical cut-paper explainer reels, made by your coding agent. Nine Agent Skills plus a Remotion library. Works with Claude Code, OpenCode, Codex, Gemini CLI, Cursor, Copilot and more."
+category = "skills-prompts"
+tags = ["agent-skills", "agents-md", "claude-code", "claude-code-skills", "codex", "explainer-videos", "gemini-cli", "opencode"]
+repository = "https://github.com/0xS4N4TG/papercut-explainer"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-10

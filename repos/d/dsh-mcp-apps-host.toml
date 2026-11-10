@@ -1,0 +1,7 @@
+name = "dsh-mcp-apps-host"
+description = "MCP Apps Host plugin for DeepSeek Harness: renders interactive HTML cards from MCP _meta.ui in sandboxed iframes, bridges postMessage to MCP tools/call and resources/read"
+category = "mcp-servers"
+tags = ["deepseek-harness", "dsh-plugin", "mcp", "mcp-apps"]
+repository = "https://github.com/oriliz/dsh-mcp-apps-host"
+language = "TypeScript"
+added = 2026-11-10

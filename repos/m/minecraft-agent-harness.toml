@@ -1,0 +1,8 @@
+name = "minecraft-agent-harness"
+description = "Run language-model agents in Minecraft with Mineflayer tools, persistent sessions and shell sandboxes."
+category = "agents"
+tags = ["agent-harness", "ai-agents", "llm", "minecraft", "mineflayer", "multi-agent"]
+repository = "https://github.com/yc-software/minecraft-agent-harness"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-10

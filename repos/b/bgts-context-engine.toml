@@ -1,0 +1,8 @@
+name = "bgts-context-engine"
+description = "Deterministic code-graph context engine for AI coding agents - PostgreSQL + Apache AGE + pgvector, MCP & REST, no LLM in the loop."
+category = "mcp-servers"
+tags = ["ai-agents", "apache-age", "ast", "code-graph", "code-search", "codebase-indexing", "context-engineering", "deterministic"]
+repository = "https://github.com/bgts-ai-org/bgts-context-engine"
+license = "MIT"
+language = "Python"
+added = 2026-11-10

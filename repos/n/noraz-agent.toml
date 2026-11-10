@@ -1,0 +1,9 @@
+name = "noraz-agent"
+description = "Open-source Robinhood trading agent infrastructure with MCP-powered DEX research, autonomous trading, agent wallets, and copy-trading capabilities"
+category = "agents"
+tags = ["agent-skills", "ai-agents", "defillama", "dex", "dune", "gmgn", "pons-v2", "robinhood"]
+repository = "https://github.com/mogons/noraz-agent"
+website = "https://noraz.space"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-10

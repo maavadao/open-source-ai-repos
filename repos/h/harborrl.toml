@@ -1,0 +1,8 @@
+name = "HarborRL"
+description = "An end-to-end framework for Agentic Reinforcement Learning."
+category = "agents"
+tags = ["agent", "agent-framework", "agentic", "agentic-ai", "agentrl", "coding-agent", "coding-agents", "dapo"]
+repository = "https://github.com/datamllab/HarborRL"
+license = "MIT"
+language = "Python"
+added = 2026-11-10

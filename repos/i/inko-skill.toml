@@ -1,0 +1,8 @@
+name = "inko-skill"
+description = "Agent Skill: realistic handwriting with the Inko API — solve & hand-write homework, write on your own notebook paper, phone-photo looks, PDF. For Claude Code, Codex, Cursor, Copilot, Gemini CLI, OpenCode."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "chinese", "claude-code", "codex", "handwriting"]
+repository = "https://github.com/pretend1111/inko-skill"
+license = "MIT"
+language = "Python"
+added = 2026-11-10

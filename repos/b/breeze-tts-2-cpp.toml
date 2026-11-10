@@ -1,0 +1,9 @@
+name = "Breeze-TTS-2.cpp"
+description = "Bilingual English and Mandarin text to speech in C++ and GGUF. Voice design, cloning, direction and experimental voice conversion. Vulkan backend, streaming HTTP and WebSocket server, web UI and a C API."
+category = "local-llms"
+tags = ["breeze-tts", "cpp", "ggml", "gguf", "inference", "qwen3", "speech-synthesis", "streaming"]
+repository = "https://github.com/HoppouAI/Breeze-TTS-2.cpp"
+website = "https://huggingface.co/HoppouAI/Breeze-TTS-2.cpp"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-11-10

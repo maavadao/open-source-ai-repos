@@ -1,0 +1,8 @@
+name = "airlock"
+description = "A privacy-first local coding agent that consults frontier AI models without exposing your source code."
+category = "local-llms"
+tags = ["ai-agents", "code-privacy", "data-loss-prevention", "local-ai", "local-llm", "privacy-first", "privacy-preserving-ai", "secure-ai"]
+repository = "https://github.com/lemonadesaltbagel/airlock"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-10

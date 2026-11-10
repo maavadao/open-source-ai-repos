@@ -1,0 +1,9 @@
+name = "reslop"
+description = "👁️ Review AI generated code and plan changes"
+category = "coding"
+tags = ["agent", "ai", "code-review", "diff", "llm", "neuroslop", "planning", "refactoring"]
+repository = "https://github.com/tshemsedinov/reslop"
+website = "https://reslop.it"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-10

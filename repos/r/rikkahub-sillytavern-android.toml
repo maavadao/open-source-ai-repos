@@ -1,0 +1,9 @@
+name = "rikkahub-sillytavern-android"
+description = "安卓AI聊天端:开箱即聊，无损导入酒馆卡，缓存强省用量，手机操控，专属RP模式，防空回，主动信息，前端卡支持，高定制主题，QQbot，AI群聊，插件系统，强兼容中转站。手机移动端原生支持，求 Star 收藏⭐Android AI Chatbox: lossless SillyTavern card import, aggressive cache optimization, Jev decisions, multi-dimensional memory, anti-blank-reply, proactive messages, AI group chat, SillyTavern them…"
+category = "llm-apps"
+tags = ["ai-chat", "ai-client", "android", "character-card", "claude", "gemini", "jetpack-compose", "kotlin"]
+repository = "https://github.com/MiaoWuNYA/rikkahub-sillytavern-android"
+website = "https://rikkahub.luoca.cn"
+license = "AGPL-3.0"
+language = "Kotlin"
+added = 2026-11-10

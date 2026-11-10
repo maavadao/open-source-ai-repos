@@ -1,0 +1,6 @@
+name = "awesome-qwen-image"
+description = "Qwen-Image 2.1. Checkpoints, quants, prompt engines, LoRAs, and tooling"
+category = "image"
+tags = ["ai", "comfyui", "comfyui-nodes", "i2i", "image", "image-generation", "t2i"]
+repository = "https://github.com/wildminder/awesome-qwen-image"
+added = 2026-11-10

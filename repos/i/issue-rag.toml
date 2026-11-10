@@ -1,0 +1,8 @@
+name = "issue-rag"
+description = "RAG over GitHub issues, with a hand-reviewed eval set and an audit of the judge itself. Reports the interval, not just the best number."
+category = "llm-apps"
+tags = ["evaluation", "github-issues", "llm", "llm-as-judge", "python", "rag", "retrieval-augmented-generation"]
+repository = "https://github.com/zaxiu88888/issue-rag"
+license = "MIT"
+language = "Python"
+added = 2026-11-10

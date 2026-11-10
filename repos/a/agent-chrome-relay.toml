@@ -1,0 +1,9 @@
+name = "agent-chrome-relay"
+description = "Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog: read.aindeev.com · X: @AlexeyIndeev"
+category = "browser-automation"
+tags = ["agent-browser", "ai-agents", "browser-automation", "cdp", "chrome-extension", "claude", "claude-code", "codex"]
+repository = "https://github.com/aindeev/agent-chrome-relay"
+website = "https://agent-chrome-relay.aindeev.com"
+license = "MIT"
+language = "Go"
+added = 2026-11-10

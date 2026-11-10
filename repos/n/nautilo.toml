@@ -1,0 +1,9 @@
+name = "nautilo"
+description = "AI goes multiplayer. A self-hosted workspace for people and machine people. Create, code, and work together across desktop, mobile, and web. Open source. MIT licensed."
+category = "agents"
+tags = ["ai-agents", "collaboration", "electron", "generative-ai", "model-context-protocol", "multi-agent", "react-native", "self-hosted"]
+repository = "https://github.com/agentsea/nautilo"
+website = "https://nautilo.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-10

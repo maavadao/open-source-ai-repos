@@ -1,0 +1,9 @@
+name = "bricks"
+description = "Component layer for AI agents: implementation-aware contracts for building project-native interface components."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude-code", "codex", "coding-agents", "cursor", "design-systems", "developer-tools"]
+repository = "https://github.com/kostja94/bricks"
+website = "https://alignify.co/products/bricks"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-10

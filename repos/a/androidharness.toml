@@ -1,0 +1,9 @@
+name = "AndroidHarness"
+description = "Android Harness AI Coding Agent Native app for mobile, No Root No PC"
+category = "coding"
+tags = ["agentic-ai", "ai", "ai-agent", "ai-agents", "ai-coding", "ai-tools", "android", "android-app"]
+repository = "https://github.com/Sanuu7/AndroidHarness"
+website = "https://androidharness.pages.dev/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-10

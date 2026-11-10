@@ -1,0 +1,8 @@
+name = "awesome-quant-ai"
+description = "A curated list of awesome resources for quantitative investment and trading strategies focusing on artificial intelligence and machine learning applications in finance."
+category = "learning"
+tags = ["ai", "ai-agent", "algorithmic-trading", "awesome", "awesome-list", "llm-agents", "machine-learning", "quant"]
+repository = "https://github.com/leoncuhk/awesome-quant-ai"
+license = "Apache-2.0"
+language = "Jupyter Notebook"
+added = 2026-11-10

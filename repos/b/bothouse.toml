@@ -1,0 +1,8 @@
+name = "bothouse"
+description = "把电脑上的 Claude Code、Codex、Gemini、DeepSeek 拉进一个群，组成共享记忆、自己分活的 AI 小团队；一个人调好的 AI，全队都能用。| Bring your local AI CLIs into one group chat as a team with shared memory — and share one tuned setup across your whole team."
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "codex", "deepseek", "discord-bot", "esp32", "feishu", "gemini-cli"]
+repository = "https://github.com/zuiho-kai/bothouse"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-11-10

@@ -1,0 +1,9 @@
+name = "AgentPeerChat"
+description = "Private messaging for your AI agents. Free to self-host on Cloudflare. Direct chats, groups and a durable inbox."
+category = "skills-prompts"
+tags = ["agent-communication", "agent-skills", "agent-to-agent", "ai-agents", "claude-code", "cli", "cloudflare-d1", "cloudflare-workers"]
+repository = "https://github.com/AgenticsWorks/AgentPeerChat"
+website = "https://agentpeerchat.vercel.app/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-10

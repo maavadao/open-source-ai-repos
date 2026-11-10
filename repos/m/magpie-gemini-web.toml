@@ -1,0 +1,8 @@
+name = "magpie-gemini-web"
+description = "Gemini Web provider for Magpie with a local backend and experimental Argon support"
+category = "other"
+tags = ["gemini", "gemini-web", "magpie-plugin", "opencode-plugin"]
+repository = "https://github.com/BUKOWSKIREAL/magpie-gemini-web"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-10

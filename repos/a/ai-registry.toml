@@ -1,0 +1,9 @@
+name = "ai-registry"
+description = "An open standard for AI registries"
+category = "agents"
+tags = ["agent-registry", "agent-skills", "agentic-ai"]
+repository = "https://github.com/atlanai/ai-registry"
+website = "https://atlanai.github.io/ai-registry/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-10

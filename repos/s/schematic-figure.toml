@@ -1,0 +1,9 @@
+name = "schematic-figure"
+description = "Skill for AI agents that draws publication-quality scientific schematic figures as vector code"
+category = "skills-prompts"
+tags = ["agent-skill", "claude-code", "codex", "llm", "schematic", "scientific-figures", "svg"]
+repository = "https://github.com/lgwrightlab/schematic-figure"
+website = "https://lgwrightlab.github.io/schematic-figure/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-10

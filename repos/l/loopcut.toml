@@ -1,0 +1,9 @@
+name = "loopcut"
+description = "Loopcut: an AI agent that works inside Blender. A fork of Blender (GPL)."
+category = "agents"
+tags = ["3d", "agent", "ai-agent", "blender", "blender-addon", "bpy", "llm", "openai-compatible"]
+repository = "https://github.com/samffprice/loopcut"
+website = "https://loopcut.org"
+license = "GPL-3.0"
+language = "C++"
+added = 2026-11-10

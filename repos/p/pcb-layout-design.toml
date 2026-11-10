@@ -1,0 +1,6 @@
+name = "pcb-layout-design"
+description = "【Codex PCB Layout Skill】GPT-6 Astra/Sol x KiCad10. PCB 自动布线 Skill（涵盖通用规则，DDR，USB，CAN等各类接口的 ESD 器件泄放路径等专项规则）"
+category = "agents"
+tags = ["ai-agents", "pcb", "pcb-design", "pcb-layout", "skills"]
+repository = "https://github.com/zhbi98/pcb-layout-design"
+added = 2026-11-10

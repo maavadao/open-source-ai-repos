@@ -1,0 +1,9 @@
+name = "ComfyUI-Drama3"
+description = "Fish Audio Drama 3 text to speech, natively in ComfyUI: voice cloning, dialogue and inline cues on cards from 8 GB, plus a native Qwen3-ASR. Built with Fish Audio."
+category = "image"
+tags = ["comfyui", "comfyui-nodes", "fish-audio", "speech-recognition", "text-to-speech", "voice-cloning"]
+repository = "https://github.com/PedroMarinhoDev/ComfyUI-Drama3"
+website = "https://pedromarinhodev.github.io/ComfyUI-Drama3/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-11-10

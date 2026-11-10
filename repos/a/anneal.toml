@@ -1,0 +1,8 @@
+name = "anneal"
+description = "You write the specs. It clears the board: coding agent chains plan, review, implement, verify and merge unattended on your own machine, on the GPT and Claude subscriptions you already have."
+category = "skills-prompts"
+tags = ["agent-orchestration", "ai-agents", "claude-code", "codex", "developer-tools", "local-first", "multi-agent"]
+repository = "https://github.com/mosonlab/anneal"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-10

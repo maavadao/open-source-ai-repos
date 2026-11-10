@@ -1,0 +1,9 @@
+name = "foxprofile"
+description = "Free, open-source anti-detect browser profile manager: per-profile fingerprint, cookies and proxy, Camoufox and Chrome engines, desktop app, REST API and MCP server for AI agents. Self-hosted alternative to GoLogin / MoreLogin."
+category = "mcp-servers"
+tags = ["ai-agents", "anti-detect-browser", "antidetect", "browser-automation", "browser-profiles", "camoufox", "chromium", "cookies"]
+repository = "https://github.com/chienbm98/foxprofile"
+website = "https://github.com/chienbm98/foxprofile/releases/latest"
+license = "MIT"
+language = "Python"
+added = 2026-11-10

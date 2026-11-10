@@ -1,0 +1,8 @@
+name = "Revia"
+description = "Agent-native executable language for AI-native development: Agents build programs; humans govern verifiable semantic graphs."
+category = "agents"
+tags = ["agent-native", "ai-agents", "developer-tools", "human-in-the-loop", "multi-agent", "programming-language", "semantic-graphs"]
+repository = "https://github.com/regrevia/Revia"
+license = "MPL-2.0"
+language = "JavaScript"
+added = 2026-11-10

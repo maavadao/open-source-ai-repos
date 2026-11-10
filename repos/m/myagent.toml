@@ -1,0 +1,8 @@
+name = "MyAgent"
+description = "从零实现的通用 Agent Runtime：Agent Loop、权限、MCP、子 Agent、上下文折叠与 Skills 自进化"
+category = "mcp-servers"
+tags = ["agent", "agent-runtime", "llm", "mcp", "python"]
+repository = "https://github.com/ztt0216/MyAgent"
+license = "MIT"
+language = "Python"
+added = 2026-11-10

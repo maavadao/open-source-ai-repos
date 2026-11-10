@@ -1,0 +1,8 @@
+name = "ai-code-interface.el"
+description = "Unified Emacs interface supporting OpenAI Codex, Antigravity CLI, Claude Code, Pi agent, Muse Code, and more"
+category = "skills-prompts"
+tags = ["agile-development", "ai-coding-assistant", "aider", "antigravity-cli", "claude-code", "codebuddy", "codex-cli", "context-enginnering"]
+repository = "https://github.com/tninja/ai-code-interface.el"
+license = "Apache-2.0"
+language = "Emacs Lisp"
+added = 2026-11-10

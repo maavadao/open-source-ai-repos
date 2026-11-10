@@ -1,0 +1,8 @@
+name = "VisionState"
+description = "Turn your cameras into Home Assistant sensors with a local AI: garage door open/closed, people and cars, water, gas and power meters read by any camera or ESP32-CAM. 100% local, any CPU."
+category = "vision"
+tags = ["computer-vision", "dinov2", "energy-meter", "esp32-cam", "esphome", "face-recognition", "frigate", "gas-meter"]
+repository = "https://github.com/oleost/VisionState"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-10

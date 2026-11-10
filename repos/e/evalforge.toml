@@ -1,0 +1,8 @@
+name = "EvalForge"
+description = "Evaluator-neutral AI evaluation evidence, baseline regression gates, and JSON, JUnit, and SARIF reports for CI."
+category = "llm-apps"
+tags = ["ai-evaluation", "github-actions", "junit", "llm-evaluation", "mlops", "python", "quality-gates", "rag"]
+repository = "https://github.com/jsdhwfmax/EvalForge"
+license = "MIT"
+language = "Python"
+added = 2026-11-10

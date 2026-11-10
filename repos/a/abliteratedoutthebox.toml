@@ -1,0 +1,8 @@
+name = "AbliteratedOutTheBox"
+description = "llama.cpp fork that abliterates at inference"
+category = "local-llms"
+tags = ["abliteration", "ai", "inference", "llama-cpp", "llm", "llms"]
+repository = "https://github.com/heterodoxin/AbliteratedOutTheBox"
+license = "MIT"
+language = "C++"
+added = 2026-11-10

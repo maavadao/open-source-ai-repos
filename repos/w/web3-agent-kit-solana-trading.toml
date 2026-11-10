@@ -1,0 +1,8 @@
+name = "web3-agent-kit-solana-trading"
+description = "Build autonomous AI agents that interact with blockchains — in minutes, not months."
+category = "agents"
+tags = ["agent", "ai", "bitcoin", "bundler", "defi", "ethereum", "launchpad", "llm"]
+repository = "https://github.com/teraus111/web3-agent-kit-solana-trading"
+license = "MIT"
+language = "Python"
+added = 2026-11-10

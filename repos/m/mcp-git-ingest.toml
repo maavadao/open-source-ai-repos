@@ -1,0 +1,8 @@
+name = "mcp-git-ingest"
+description = "A Model Context Protocol (MCP) server that helps read GitHub repository structure and important files."
+category = "mcp-servers"
+tags = ["git", "llm", "mcp", "model-context-protocol"]
+repository = "https://github.com/adhikasp/mcp-git-ingest"
+license = "MIT"
+language = "Python"
+added = 2026-11-10

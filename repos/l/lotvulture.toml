@@ -1,0 +1,8 @@
+name = "lotvulture"
+description = "Real-time parking lot occupancy detection using existing security cameras and on-device computer vision."
+category = "vision"
+tags = ["computer-vision", "edge-ai", "ip-camera", "object-detection", "occupancy-detection", "parking-management", "rtsp", "smart-parking"]
+repository = "https://github.com/lotvulture/lotvulture"
+website = "https://www.lotvulture.com/"
+language = "Python"
+added = 2026-11-10

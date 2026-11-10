@@ -1,0 +1,7 @@
+name = "ai-testing-guide"
+description = "AI 测试开发学习路线大全：测试工程师的 AI 时代进阶指南，涵盖 AI 辅助测试、自动化测试、Agent 测试开发等，持续更新 🚀"
+category = "agents"
+tags = ["agent", "ai", "ai-testing", "learning-path", "qa", "roadmap", "test", "test-automation"]
+repository = "https://github.com/zhoujinjian/ai-testing-guide"
+website = "https://ai.testfather.cn/"
+added = 2026-11-10

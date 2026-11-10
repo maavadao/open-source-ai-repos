@@ -1,0 +1,9 @@
+name = "wemux"
+description = "Wemux - self-hostable AI agent collaboration platform (Apache-2.0, community edition)"
+category = "agents"
+tags = ["agents", "ai", "coding-agent", "collaboration", "llm", "open-source", "self-hosted"]
+repository = "https://github.com/wemux-ai/wemux"
+website = "https://wemux.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-10

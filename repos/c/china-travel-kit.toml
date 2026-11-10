@@ -1,0 +1,8 @@
+name = "china-travel-kit"
+description = "Source-aware China inbound travel data, CLI, HTTP API, and MCP server"
+category = "mcp-servers"
+tags = ["china-travel", "inbound-travel", "mcp-server", "open-data", "python", "travel"]
+repository = "https://github.com/tczyliu/china-travel-kit"
+license = "MIT"
+language = "Python"
+added = 2026-11-10

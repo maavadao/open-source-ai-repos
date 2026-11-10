@@ -1,0 +1,8 @@
+name = "JobFinderOS"
+description = "Open-source AI job search agents for Claude Code. Polls Greenhouse, Ashby and Lever job boards directly, scores roles against your profile, preps interviews, drafts outreach, and writes it all to an Obsidian vault. A recruiter, a crawler and a market analyst, benchmarked against plain LLM crawling."
+category = "skills-prompts"
+tags = ["agentic-ai", "ai-agents", "anthropic", "ashby", "ats", "automation", "career", "claude"]
+repository = "https://github.com/matthewprice/JobFinderOS"
+license = "MIT"
+language = "Python"
+added = 2026-11-10

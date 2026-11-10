@@ -1,0 +1,9 @@
+name = "suparagent"
+description = "Open-source, self-hosted alternative to Grok Bot, Claude Duet, OpenAI Dots, Meta Muse, Instinct, Manus Cue: AI coworkers (named agents) with instructions, memory, routines, their own isolated computer, and your approval before they act."
+category = "agents"
+tags = ["agentic-ai", "ai-agent", "ai-assistant", "ai-coworker", "ai-employees", "ai-workspace", "chatgpt-agent", "claude-cowork"]
+repository = "https://github.com/Anil-matcha/suparagent"
+website = "https://suparagent.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-10

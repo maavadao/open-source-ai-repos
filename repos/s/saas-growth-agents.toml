@@ -1,0 +1,8 @@
+name = "saas-growth-agents"
+description = "Hand your SaaS growth chores to an agent: new-term radar, keyword-to-site discovery, competitor backlinks, directory submissions, plus a social analysis pack with a Douyin comments skill. Works with Grok Bot, Muse, Dot, Hermes, OpenClaw, Claude Code and Codex."
+category = "skills-prompts"
+tags = ["agent-skill", "agent-skills", "agents", "ai-agents", "aisa", "claude-code", "codex", "comments-scraper"]
+repository = "https://github.com/Pluviobyte/saas-growth-agents"
+license = "MIT"
+language = "Python"
+added = 2026-11-10

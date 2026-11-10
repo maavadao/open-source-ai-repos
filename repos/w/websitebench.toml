@@ -1,0 +1,9 @@
+name = "WebsiteBench"
+description = "Can AI agents rebuild websites through browser exploration?"
+category = "browser-automation"
+tags = ["agent-evaluation", "ai", "ai-agents", "benchmark", "benchmarking", "browser-automation", "browser-use", "full-stack"]
+repository = "https://github.com/TIGER-AI-Lab/WebsiteBench"
+website = "https://website-bench.com/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-10

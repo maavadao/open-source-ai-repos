@@ -1,0 +1,8 @@
+name = "seektty"
+description = "面向 DeepSeek Harness 的 Claude Code 风格终端界面，支持 Windows、macOS 与 Linux，兼容透明终端、VS Code 主题和自定义配色。"
+category = "agents"
+tags = ["agentic-ai", "ai-agent", "claude-code-style", "cli", "coding-agent", "cross-platform", "deepseek", "deepseek-harness"]
+repository = "https://github.com/Hilbert-beinghappy/seektty"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-10

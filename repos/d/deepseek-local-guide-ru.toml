@@ -1,0 +1,7 @@
+name = "deepseek-local-guide-ru"
+description = "🐋 Полный гайд на русском: как установить и запустить DeepSeek локально (V4, R1) на ПК, Mac и сервере — Ollama, llama.cpp, LM Studio, vLLM, Open WebUI, API, RAG, агенты, fine-tuning, лучшие фишки"
+category = "local-llms"
+tags = ["ai-agents", "deepseek", "deepseek-r1", "deepseek-v4", "gguf", "guide", "llama-cpp", "llm"]
+repository = "https://github.com/justxor/deepseek-local-guide-ru"
+language = "Shell"
+added = 2026-11-10

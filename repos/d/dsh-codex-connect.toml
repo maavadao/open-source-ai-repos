@@ -1,0 +1,9 @@
+name = "dsh-codex-connect"
+description = "Use openai-codex models and image generation via ChatGPT OAuth for DeepSeek Harness."
+category = "chat"
+tags = ["chatgpt", "codex", "deepseek-harness", "dsh", "dsh-plugin", "gpt-image-2", "oauth"]
+repository = "https://github.com/franksong2702/dsh-codex-connect"
+website = "https://www.npmjs.com/package/dsh-codex-connect"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-10

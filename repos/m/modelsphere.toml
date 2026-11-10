@@ -1,0 +1,9 @@
+name = "modelsphere"
+description = "ModelSphere is an open-source LLM inference infrastructure designed to make production-grade model serving simple, efficient, and continuously optimized."
+category = "local-llms"
+tags = ["ansible", "ascend", "gpu", "helmfile", "inference", "kubernetes", "llm", "modelsphere"]
+repository = "https://github.com/modelsphere/modelsphere"
+website = "https://modelsphere.tech"
+license = "Apache-2.0"
+language = "Shell"
+added = 2026-11-10

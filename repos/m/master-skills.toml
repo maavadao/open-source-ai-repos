@@ -1,0 +1,9 @@
+name = "master-skills"
+description = "Three Claude master skills: edit your videos, make them go viral, and build anything. Free, MIT."
+category = "skills-prompts"
+tags = ["agent-skills", "captions", "claude", "claude-code", "claude-skills", "content-creation", "stop-motion", "video-editing"]
+repository = "https://github.com/Jakeschincariol/master-skills"
+website = "https://opusjake.ai"
+license = "MIT"
+language = "Python"
+added = 2026-11-10

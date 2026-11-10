@@ -1,0 +1,8 @@
+name = "ai-ppt-generator"
+description = "2026 年编程导航 AI 编程实战新项目，基于 Python FastAPI + LangChain + LangGraph + React 的 AI PPT 生成器，支持主题 / 长文本 / 文档多入口生成、可编辑大纲、异步并发页面生成、在线编辑器、多主题切换、原生可编辑 PPTX 导出。覆盖 LangChain 框架实战、LangGraph 自纠环工作流、ARQ + Redis 异步任务编排、SSE 实时进度推送、PPTX 原生渲染、FontTools 溢出检测。用一套教程掌握 AI 编程全流程，从模型调用到产品交付，不到一周学完，给你的简历增加竞争力"
+category = "agents"
+tags = ["agent", "ai", "backend", "docker", "fastapi", "frontend", "langchain", "langgraph"]
+repository = "https://github.com/yuyuanweb/ai-ppt-generator"
+website = "https://www.codefather.cn/course/2091823677833220098"
+language = "Python"
+added = 2026-11-10

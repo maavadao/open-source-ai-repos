@@ -1,0 +1,9 @@
+name = "c2sagent"
+description = "C2S Agent is an lightweight AI Agent construction platform that provides configurable online Agents and MCP services, You can configure any HTTP request interface as an MCP tool. C2S Agent 是一个轻量级的AI Agent构建平台，提供在线可配置的Agent，MCP，您可以一个HTTP请求的接口配置成为一个MCP工具，Agent之间可以进行自交流。并提供了单端口多A2A服务，MCP服务的解决方案"
+category = "mcp-servers"
+tags = ["a2a", "agents", "configurable", "mcp", "multi-agent"]
+repository = "https://github.com/C2SAgent/c2sagent"
+website = "https://www.c2sagent.com"
+license = "MIT"
+language = "Python"
+added = 2026-11-10

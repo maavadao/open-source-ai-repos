@@ -1,0 +1,9 @@
+name = "gap-trap"
+description = "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line."
+category = "skills-prompts"
+tags = ["agent-skills", "agentic-coding", "agents-md", "ai-agents", "ai-coding", "ci-cd", "claude-code", "claude-skills"]
+repository = "https://github.com/pliablepixels/gap-trap"
+website = "https://pliablepixels.github.io/gap-trap/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-10

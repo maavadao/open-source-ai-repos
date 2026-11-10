@@ -1,0 +1,7 @@
+name = "mcd-expiry-butler"
+description = "看看哪些麦当劳权益快到期，哪些值得用，哪些不用为了到期硬消费。基于麦当劳官方 MCP 的 WorkBuddy Skill：只读查询优惠券与积分，按预算给出最多两套经官方接口试算的用餐方案。McDonald's coupon & points expiry assistant — a WorkBuddy Skill on the official McDonald's MCP. Read-only queries, official price calculation, max 2 budget-friendly plans."
+category = "mcp-servers"
+tags = ["ai-agent", "mcdonalds", "mcp", "model-context-protocol", "python", "skills", "workbuddy"]
+repository = "https://github.com/baihua2471/mcd-expiry-butler"
+language = "Python"
+added = 2026-11-10

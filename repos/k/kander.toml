@@ -1,0 +1,9 @@
+name = "kander"
+description = "A kanban board for coordinating multiple AI coding agents, with isolated git worktrees and independent reviewer agents."
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "codex", "coding-agents", "developer-tools", "git-worktree", "go", "kanban"]
+repository = "https://github.com/dualface/kander"
+website = "https://quicktui.ai/open-source/kander/"
+license = "MIT"
+language = "Go"
+added = 2026-11-10

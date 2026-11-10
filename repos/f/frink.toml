@@ -1,0 +1,9 @@
+name = "frink"
+description = "Desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers."
+category = "skills-prompts"
+tags = ["agent-orchestration", "ai-agents", "automation", "claude", "claude-code", "codex", "coding-agents", "cursor"]
+repository = "https://github.com/benord-labs/frink"
+website = "https://frink.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-10

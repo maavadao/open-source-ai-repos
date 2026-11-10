@@ -1,0 +1,9 @@
+name = "Awesome-Robot-Use-Agent"
+description = "A curated collection of papers, research blogs, open-source tools, benchmarks, and community demos for robot-use agents, including demos powered by GPT-6 Astra. —— Explore our searchable website."
+category = "agents"
+tags = ["ai-agents", "awesome-list", "robot-use"]
+repository = "https://github.com/kairunwen/Awesome-Robot-Use-Agent"
+website = "https://kairunwen.github.io/Awesome-Robot-Use-Agent/"
+license = "MIT"
+language = "Python"
+added = 2026-11-10

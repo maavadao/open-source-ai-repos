@@ -1,0 +1,8 @@
+name = "flawless-ui-ux"
+description = "A UI/UX skill for coding agents to build distinctive, usable interfaces."
+category = "agents"
+tags = ["accessibility", "agent-skills", "ai-agents", "anti-slop", "codex", "design-systems", "frontend", "opencode"]
+repository = "https://github.com/smokeeaasd/flawless-ui-ux"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-10

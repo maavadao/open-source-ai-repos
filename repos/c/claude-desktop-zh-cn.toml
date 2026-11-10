@@ -1,0 +1,9 @@
+name = "claude-desktop-zh-cn"
+description = "Claude Desktop Chinese Patch (macOS & Windows & Linux)"
+category = "skills-prompts"
+tags = ["claude", "claude-code", "claude-desktop", "claude-desktop-zh-cn"]
+repository = "https://github.com/javaht/claude-desktop-zh-cn"
+website = "http://javaht.github.io/claude-desktop-zh-cn/"
+license = "MIT"
+language = "PowerShell"
+added = 2026-11-10

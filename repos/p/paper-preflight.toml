@@ -1,0 +1,8 @@
+name = "paper-preflight"
+description = "Pre-submission integrity gate for LaTeX papers: every reference verified against real scholarly records. No LLM guessing."
+category = "skills-prompts"
+tags = ["academic-writing", "bibtex", "citation-checker", "citations", "claude-code", "hallucinated-citations", "latex", "mcp"]
+repository = "https://github.com/amos689/paper-preflight"
+license = "MIT"
+language = "Python"
+added = 2026-11-10

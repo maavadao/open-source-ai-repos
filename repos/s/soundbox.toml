@@ -1,0 +1,8 @@
+name = "soundbox"
+description = "Free, open-source, local alternative to ElevenLabs and Suno. AI sound effects, music with lyrics, text-to-speech and voice cloning on your own GPU (Stable Audio, ACE-Step and more). No account, no credits, offline. Windows/macOS app, HTTP API and a 21-tool MCP server for Claude Code and Cursor."
+category = "mcp-servers"
+tags = ["ai-music", "ai-sound-effects", "ai-voice", "audio-generation", "claude-code", "elevenlabs-alternative", "game-audio", "local-ai"]
+repository = "https://github.com/HamSanders/soundbox"
+website = "https://hamsanders.github.io/soundbox/"
+language = "TypeScript"
+added = 2026-11-10

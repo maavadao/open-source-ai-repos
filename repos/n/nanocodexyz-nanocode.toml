@@ -1,0 +1,9 @@
+name = "nanocode"
+description = "SDK for Frontier Embedded Agents."
+category = "skills-prompts"
+tags = ["agent-sdk", "ai", "ai-agent", "ai-agents", "anthropic", "chatgpt", "claude", "claude-code"]
+repository = "https://github.com/nanocodexyz/nanocode"
+website = "https://nanocode.xyz"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-10

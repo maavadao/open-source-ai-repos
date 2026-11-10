@@ -1,0 +1,9 @@
+name = "omarchy-local-ai"
+description = "Local AI for Omarchy: the model validated for your GPU, one button on the bar. Start serves it, any coding agent opens on it, one click shares it on your tailnet."
+category = "local-llms"
+tags = ["coding-agents", "docker", "llm", "local-llm", "omarchy", "omarchy-plugin", "quickshell", "tailscale"]
+repository = "https://github.com/0xSero/omarchy-local-ai"
+website = "https://local.sybilsolutions.ai"
+license = "MIT"
+language = "Shell"
+added = 2026-11-10
