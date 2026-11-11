@@ -1,0 +1,8 @@
+name = "herdr-dagr"
+description = "Your agent swarm as a live DAG: an orchestration graph with attempts, review gates, and evidence, in a herdr split pane."
+category = "agents"
+tags = ["agents", "dag", "herdr-plugin", "multi-agent", "orchestration", "rust", "swarm", "tui"]
+repository = "https://github.com/aemrebarut/herdr-dagr"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-11

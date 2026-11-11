@@ -1,0 +1,9 @@
+name = "dsh-prompt"
+description = "💡DSH 的 Prompt提示词工具箱：常用prompt保存后点击即可注入到对话框——省时省力，/prompt 自动提示已有Prompt。 💡The Prompt toolbox for DSH: save frequently-used prompts and inject them into the dialog with one click — saving time and effort, with /prompt auto-suggesting your existing prompts."
+category = "skills-prompts"
+tags = ["ai", "deepseek", "deepseek-harness", "dsh", "dsh-plugin", "llm", "productivity", "prompt"]
+repository = "https://github.com/FeatherHunter/dsh-prompt"
+website = "https://www.npmjs.com/package/dsh-prompt"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-11

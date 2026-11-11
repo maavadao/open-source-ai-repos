@@ -1,0 +1,8 @@
+name = "Qwenox"
+description = "An inference framework customized for AI MAX 395, compatible with both Linux and Windows, and supports deploying only qwen3.8-flash-next. This project is for reference and learning purposes only. 为AI MAX 395定制的推理框架，Linux和Windows通用，只能部署qwen3.8-flash-next。本项目仅供参考学习使用。"
+category = "local-llms"
+tags = ["amd", "gfx1151", "hip", "llm", "local-llm", "qwen", "rocm", "strix-halo"]
+repository = "https://github.com/IIIIIllllIIIIIlllll/Qwenox"
+license = "AGPL-3.0"
+language = "C++"
+added = 2026-11-11

@@ -1,0 +1,9 @@
+name = "mcd-agent-gourmet"
+description = "Say \"¥35, not spicy, no ice\" → one answer + a copyable order card. Official calculate-price only. Zero-dependency MCP skill. 麦当劳点餐 Skill."
+category = "mcp-servers"
+tags = ["agent-skill", "agent-skills", "ai-agent", "cli", "coupon", "food", "llm", "m-code"]
+repository = "https://github.com/polaris-smart/mcd-agent-gourmet"
+website = "https://polaris-smart.github.io/mcd-agent-gourmet/"
+license = "MIT"
+language = "Python"
+added = 2026-11-11

@@ -1,0 +1,8 @@
+name = "harness-zero"
+description = "Harness-Zero: Harness Distillation via Agent-as-Harness"
+category = "agents"
+tags = ["agent", "agent-harness", "distillation", "harness-distillation", "llm", "llm-agents", "rsi", "self-improvement"]
+repository = "https://github.com/metaevo-ai/harness-zero"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-11

@@ -1,0 +1,7 @@
+name = "trading-hub"
+description = "Plataforma de trading gratis y de código abierto para Mac (con guía para portarla a Windows con Claude): footprint, DOM, backtesting anti-sobreoptimización y estrategias con IA. 100 % local."
+category = "skills-prompts"
+tags = ["algorithmic-trading", "apple-silicon", "avalonia", "backtesting", "binance", "claude", "claude-code", "crypto"]
+repository = "https://github.com/ralphtradesz/trading-hub"
+language = "C#"
+added = 2026-11-11

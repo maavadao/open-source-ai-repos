@@ -1,0 +1,9 @@
+name = "RSI-Jev"
+description = "Typed-decision models (noul / choice / score) trained by a self-improving loop of AI agents — checkpoints, the code that produced them, and every version that failed."
+category = "agents"
+tags = ["ai-agents", "autonomous-research", "decision-model", "jev", "llm", "recursive-self-improvement", "system-one", "typed-decisions"]
+repository = "https://github.com/Shanghua-Gao/RSI-Jev"
+website = "https://shgao.site"
+license = "MIT"
+language = "HTML"
+added = 2026-11-11

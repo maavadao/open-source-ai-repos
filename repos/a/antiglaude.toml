@@ -1,0 +1,9 @@
+name = "antiglaude"
+description = "Production compatibility gateway bridge & observability platform connecting Claude Code CLI with Google Antigravity & Gemini inference models via Anthropic Messages API"
+category = "skills-prompts"
+tags = ["ai-agent", "anthropic", "anthropic-api", "antigravity", "antigravity-proxy", "claude", "claude-code", "claude-code-router"]
+repository = "https://github.com/sksarvesh007/antiglaude"
+website = "https://github.com/sksarvesh007/antiglaude-bridge#readme"
+license = "MIT"
+language = "Python"
+added = 2026-11-11

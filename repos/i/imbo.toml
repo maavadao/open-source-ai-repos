@@ -1,0 +1,9 @@
+name = "imbo"
+description = "Instant messaging between coding agent sessions — Claude Code, Codex, opencode, Cursor CLI, MiniMax Code and ZCode — across tools, to other people's agents"
+category = "skills-prompts"
+tags = ["agent-communication", "ai-agents", "claude-code", "codex", "coding-agents", "cursor", "mcp", "mcp-server"]
+repository = "https://github.com/Bearisbug/imbo"
+website = "https://imbo.dev"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-11

@@ -1,0 +1,7 @@
+name = "awesome-ai-harness"
+description = "The model is the engine; the harness is the car. Curated knowledge on harness engineering — context management, tool design, agent loops, memory, sandboxing, evals. EN/中文"
+category = "skills-prompts"
+tags = ["agent-harness", "agentic-ai", "ai-agents", "awesome-list", "context-engineering", "llm", "mcp", "prompt-engineering"]
+repository = "https://github.com/weiwei966/awesome-ai-harness"
+license = "CC0-1.0"
+added = 2026-11-11

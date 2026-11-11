@@ -1,0 +1,9 @@
+name = "docker"
+description = "Govern consequential AI agent actions in Docker with deterministic policy, human approval, and signed Decision Dossiers."
+category = "agents"
+tags = ["agentic-ai", "ai-agent", "ai-agents", "ai-governance", "ai-security", "ai-tools", "decionis", "devcontainer"]
+repository = "https://github.com/decionis/docker"
+website = "https://www.decionis.com"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-11-11

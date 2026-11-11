@@ -1,0 +1,8 @@
+name = "codex-openpencil"
+description = "Codex plugin for OpenPencil — an interactive Rust/WASM canvas for AI-assisted UI design. Create editable .op files from prompts, refine selected elements, generate image assets, and install with one prompt on macOS, Windows, and Linux."
+category = "agents"
+tags = ["agent-skills", "ai-agents", "ai-design", "codex", "codex-plugin", "design-as-code", "design-tools", "image-generation"]
+repository = "https://github.com/ZSeven-W/codex-openpencil"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-11

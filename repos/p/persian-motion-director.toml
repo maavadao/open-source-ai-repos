@@ -1,0 +1,7 @@
+name = "persian-motion-director"
+description = "A Claude skill for pro motion design with correct Persian (Farsi) typography: no slideshows, no broken letters. 8 techniques, HarfBuzz tooling, Remotion examples."
+category = "skills-prompts"
+tags = ["agent-skills", "claude", "claude-skills", "farsi", "kinetic-typography", "motion-design", "persian", "remotion"]
+repository = "https://github.com/atmirrr/persian-motion-director"
+language = "JavaScript"
+added = 2026-11-11

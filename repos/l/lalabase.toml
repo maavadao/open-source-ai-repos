@@ -1,0 +1,9 @@
+name = "lalabase"
+description = "Self-hosted project management for devs and their clients: tickets, time tracking, docs and meetings, with an AI assistant that cites its sources. AGPL-3.0."
+category = "llm-apps"
+tags = ["agpl", "ai-assistant", "docker", "dsgvo", "gdpr", "hotwire", "issue-tracker", "jira-alternative"]
+repository = "https://github.com/lalabase/lalabase"
+website = "https://lalabase.com"
+license = "AGPL-3.0"
+language = "Ruby"
+added = 2026-11-11

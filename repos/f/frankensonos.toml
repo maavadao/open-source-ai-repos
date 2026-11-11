@@ -1,0 +1,7 @@
+name = "frankensonos"
+description = "Memory-safe Rust controller for your own Sonos speakers on your own LAN — reliable SSDP/UPnP-SOAP/GENA interoperability (S1 + S2), a Spotify-library DJ (classical works play whole), and a CLI + HTTP API + MCP server so AI agents can run the house, including off-LAN over Tailscale."
+category = "mcp-servers"
+tags = ["async", "dlna", "home-automation", "interoperability", "mcp", "model-context-protocol", "rust", "smart-home"]
+repository = "https://github.com/Dicklesworthstone/frankensonos"
+language = "Rust"
+added = 2026-11-11

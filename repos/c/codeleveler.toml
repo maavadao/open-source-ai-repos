@@ -1,0 +1,8 @@
+name = "CodeLeveler"
+description = "A local-first coding agent that works in your repository and leaves reviewable changes"
+category = "coding"
+tags = ["agent-runtime", "ai-agent", "cli", "code-review", "coding-agent", "developer-tools", "llm", "local-first"]
+repository = "https://github.com/dengmengmian/CodeLeveler"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-11

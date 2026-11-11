@@ -1,0 +1,8 @@
+name = "veil"
+description = "Local privacy proxy for AI coding agents. Keep PII and secrets out of LLMs with deterministic pseudonymization."
+category = "agents"
+tags = ["ai-agents", "data-loss-prevention", "data-masking", "data-privacy", "database-security", "llm-security", "local-first", "mcp"]
+repository = "https://github.com/lemonadesaltbagel/veil"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-11

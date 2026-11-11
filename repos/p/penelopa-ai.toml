@@ -1,0 +1,8 @@
+name = "Penelopa.ai"
+description = "Continuous improvement for AI coding agents: Penelopa analyzes real Codex and Claude Code sessions, finds repeated workflow patterns, and turns them into reusable skills, checks, prompts, and recommendations."
+category = "skills-prompts"
+tags = ["agent-improvement", "agent-observability", "ai-agents", "ai-recommendations", "claude-code", "codex", "coding-agents", "continuous-improvement"]
+repository = "https://github.com/chigwell/Penelopa.ai"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-11-11

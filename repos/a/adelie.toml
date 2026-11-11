@@ -1,0 +1,9 @@
+name = "Adelie"
+description = "A local-first multi-agent app development platform, built on PenguinHarness"
+category = "agents"
+tags = ["agent", "llm", "local-first", "multi-agent", "penguin-harness"]
+repository = "https://github.com/lmliheng/Adelie"
+website = "https://lmliheng.github.io/Adelie/docs/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-11

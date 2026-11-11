@@ -1,0 +1,9 @@
+name = "heimdall"
+description = "A lightweight CPU only memory approach with ranked retrieval. Simple, yet effective."
+category = "vector-databases"
+tags = ["ai-agents", "claude-code", "cli", "code-intelligence", "developer-tools", "embeddings", "knowledge-base", "llm-tools"]
+repository = "https://github.com/ArihantDeva/heimdall"
+website = "https://www.npmjs.com/package/@arihantdeva/heimdall"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-11

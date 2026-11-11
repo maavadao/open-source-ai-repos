@@ -1,0 +1,8 @@
+name = "agente-isabella"
+description = "🌐 PÚBLICO · Agente Isabella: convierte un Android en asistente de voz con IA que hace llamadas reales (Gemini Live + Magisk). Sin llaves: usa las tuyas. Por David Ruiz Duarte (viajatech)"
+category = "skills-prompts"
+tags = ["adb", "ai-agent", "ai-voice-assistant", "android", "claude-code", "cloudflare-workers", "galaxy-a72", "gemini"]
+repository = "https://github.com/viajatech/agente-isabella"
+website = "https://viajatech.com"
+language = "Java"
+added = 2026-11-11

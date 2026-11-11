@@ -1,0 +1,8 @@
+name = "claude-super-sidebar"
+description = "A visual sidebar for Claude Code and Codex: agent trees, live status, and conversation task flows."
+category = "skills-prompts"
+tags = ["agent-visualization", "ai-agents", "claude", "claude-code", "codex", "developer-tools", "multi-agent", "nodejs"]
+repository = "https://github.com/Zafer-Liu/claude-super-sidebar"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-11-11

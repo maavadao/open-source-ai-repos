@@ -1,0 +1,8 @@
+name = "zen-proxy"
+description = "Use OpenCode Zen's free models in any coding agent. OpenAI + Anthropic compatible, so Claude Code works too. No account, no API key."
+category = "skills-prompts"
+tags = ["ai", "aider", "claude-code", "cline", "coding-agent", "continue", "free-tier", "llms"]
+repository = "https://github.com/12errh/zen-proxy"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-11

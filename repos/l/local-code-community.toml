@@ -1,0 +1,9 @@
+name = "local-code-community"
+description = "Source code of Local Code, a private AI agent for Mac, iPad and iPhone. Runs DeepSeek 4.1 on device, with Python, Node.js and a shell built into the app."
+category = "local-llms"
+tags = ["ai", "ai-agent", "apple-silicon", "artificial-intelligence", "coding-agent", "deepseek", "ios", "llm"]
+repository = "https://github.com/drawthingsai/local-code-community"
+website = "https://getlocalcode.app"
+license = "GPL-3.0"
+language = "C"
+added = 2026-11-11

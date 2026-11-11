@@ -1,0 +1,9 @@
+name = "AReA"
+description = "Official implementation of \"AReA: Adaptive Receptive-Field Attention for Efficient High-Resolution Diffusion Transformers\""
+category = "image"
+tags = ["diffusion-models", "efficient-inference", "high-resolution", "image-generation", "prompt-dataset"]
+repository = "https://github.com/KooroshRH/AReA"
+website = "https://rajabi2001.github.io/area/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-11

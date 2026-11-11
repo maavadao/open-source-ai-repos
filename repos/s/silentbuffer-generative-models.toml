@@ -1,0 +1,8 @@
+name = "Generative-Models"
+description = "Generative models from scratch, progressively implemented in NumPy, C, and CUDA to uncover what ML frameworks hide."
+category = "image"
+tags = ["cuda", "diffusion-models", "flow-matching", "gan", "generative-models", "numpy", "stable-diffusion", "vae"]
+repository = "https://github.com/sIlENtbuffER/Generative-Models"
+license = "MIT"
+language = "C"
+added = 2026-11-11

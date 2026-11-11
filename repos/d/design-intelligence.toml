@@ -1,0 +1,9 @@
+name = "design-intelligence"
+description = "RYUX gives AI agents the design intelligence to understand product context, make intentional design decisions, and evaluate what they create."
+category = "skills-prompts"
+tags = ["accessibility", "agent-skills", "ai", "ai-agents", "claude-code", "design", "design-critique", "design-systems"]
+repository = "https://github.com/ryuxdsgn/design-intelligence"
+website = "https://ryux.design"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-11

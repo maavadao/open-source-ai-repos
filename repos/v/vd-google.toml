@@ -1,0 +1,9 @@
+name = "VD-Google"
+description = "Your Google services (RCS, Gemini, Google Wallet, DroidGuard timestamps, Play Integrity attestations, Play Protect Certification) read on-device. No internet, root required."
+category = "other"
+tags = ["android", "attestation", "droidguard", "gemini", "google-wallet", "jetpack-compose", "kernelsu", "kotlin"]
+repository = "https://github.com/VD171/VD-Google"
+website = "https://xdaforums.com/t/VD-Google.4803837/"
+license = "AGPL-3.0"
+language = "Kotlin"
+added = 2026-11-11

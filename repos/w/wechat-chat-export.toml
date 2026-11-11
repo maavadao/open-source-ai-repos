@@ -1,0 +1,8 @@
+name = "wechat-chat-export"
+description = "Windows 微信 4.1.12+ 聊天记录本地导出工具：TXT / Markdown / JSON，支持图片、文件、语音、视频、本地语音转文字和聊天预览，面向 GPT、Claude、Gemini 等 LLM。 | Local-first WeChat chat exporter for LLMs."
+category = "chat"
+tags = ["chat-export", "chat-history", "chatgpt", "claude", "gemini", "grok", "llm", "local-first"]
+repository = "https://github.com/zhuzhangxue/wechat-chat-export"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-11

@@ -1,0 +1,8 @@
+name = "reverse-engineer-anything-self-learning-loop"
+description = "Agent skill: examine a product you're authorised to rebuild, build your own, then test against the original and fix gaps until every must-have on a written checklist passes. Inspired by REA (@morluto), not affiliated. MIT."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude-code", "claude-skills", "openclaw", "reverse-engineering", "self-improving-agents"]
+repository = "https://github.com/Speedrunlab/reverse-engineer-anything-self-learning-loop"
+website = "https://www.speedrunlab.ai/#reverse-engineer-anything-self-learning-loop"
+license = "MIT"
+added = 2026-11-11

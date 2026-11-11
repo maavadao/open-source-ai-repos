@@ -1,0 +1,7 @@
+name = "paddock"
+description = "Native Rust inference server for open models on NVIDIA and Apple Silicon. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors + MLX, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio"
+category = "local-llms"
+tags = ["ai", "aimodels", "blackwell", "cuda", "inference", "inference-engine", "inference-optimization", "macos"]
+repository = "https://github.com/truespar/paddock"
+language = "Rust"
+added = 2026-11-11

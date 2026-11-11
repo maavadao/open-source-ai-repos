@@ -1,0 +1,8 @@
+name = "YouTube-AI-Video-Editing-System"
+description = "Open-source YouTube AI video editing system: Eyeline teleprompter, editing agents, JSON, Claude Design, animation and motion graphics."
+category = "agents"
+tags = ["ai-agents", "ai-video-editing", "animation", "claude-design", "design", "motion-graphics", "open-source", "teleprompter"]
+repository = "https://github.com/sirioberati/YouTube-AI-Video-Editing-System"
+license = "MIT"
+language = "HTML"
+added = 2026-11-11

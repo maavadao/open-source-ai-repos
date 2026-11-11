@@ -1,0 +1,8 @@
+name = "llm-visuals"
+description = "Live truecolor terminal dashboard for a locally running LLM: tok/s, TTFT, GPUs, context, MTP acceptance, layer and real expert routing (llama.cpp)"
+category = "local-llms"
+tags = ["gpu-monitoring", "llama-cpp", "llm", "mixture-of-experts", "ratatui", "rust", "tui"]
+repository = "https://github.com/DingoOz/llm-visuals"
+license = "MIT"
+language = "Rust"
+added = 2026-11-11

@@ -1,0 +1,9 @@
+name = "DecisionPivot"
+description = "DecisionPivot: a diagnostic benchmark for decision models in LLM systems. Contrast pairs that differ in one decisive detail, generators with independent solvers, scorer and runners."
+category = "llm-apps"
+tags = ["benchmark", "calibration", "decision-making", "evaluation", "llm", "llm-evaluation", "selective-prediction"]
+repository = "https://github.com/StartLuxLabs/DecisionPivot"
+website = "https://huggingface.co/datasets/startlux-models/DecisionPivot"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-11

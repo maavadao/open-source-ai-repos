@@ -1,0 +1,7 @@
+name = "mcd-daily-saver"
+description = "用麦当劳官方 MCP 每天算一次「今天怎么买最省」：首屏三张卡、一键领券、点餐链路、自家买法比价。麦当劳程序员节创意开发大赛参赛作品。"
+category = "mcp-servers"
+tags = ["agent-skill", "mcdonalds", "mcp", "model-context-protocol", "workbuddy"]
+repository = "https://github.com/Cesare-N/mcd-daily-saver"
+language = "JavaScript"
+added = 2026-11-11

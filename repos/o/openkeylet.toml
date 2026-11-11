@@ -1,0 +1,8 @@
+name = "OpenKeylet"
+description = "OpenKeylet — Local password and credential manager for AI agents via MCP. Use passwords, API keys, SSH, and TOTP while keeping hidden plaintext out of model context by default."
+category = "mcp-servers"
+tags = ["ai-agents", "ai-security", "api-key-management", "claude-code", "codex", "credential-manager", "cross-platform", "cursor"]
+repository = "https://github.com/omaekumiko2-create/OpenKeylet"
+license = "MIT"
+language = "Rust"
+added = 2026-11-11

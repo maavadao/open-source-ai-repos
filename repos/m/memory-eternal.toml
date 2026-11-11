@@ -1,0 +1,9 @@
+name = "memory-eternal"
+description = "Your AI forgets every session. Give it a memory you can audit: local-first, review-gated agent memory — one SQLite vault for DSH, Claude Code, Codex, Cursor, OpenClaw, Hermes and MengBot (any MCP client), with an immutable audit log and a token ledger. Agents propose, humans approve. MIT, self-host…"
+category = "mcp-servers"
+tags = ["agent-memory", "ai-memory", "audit-log", "claude-code", "codex", "cursor", "deepseek-harness", "dsh"]
+repository = "https://github.com/EternalNight996/memory-eternal"
+website = "http://180.76.144.48/memory-eternal"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-11

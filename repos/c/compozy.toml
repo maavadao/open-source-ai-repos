@@ -1,0 +1,9 @@
+name = "compozy"
+description = "An operating system for AI agents. The autonomous control plane for your agents: see and steer every Claude Code, Codex, and Cursor session. Always-on agents check in on their own, and you step in only when one needs you."
+category = "skills-prompts"
+tags = ["acp", "agent-client-protocol", "agent-orchestration", "ai-agents", "automation", "claude-code", "cli", "codex"]
+repository = "https://github.com/compozy/compozy"
+website = "https://compozy.com"
+license = "MIT"
+language = "Go"
+added = 2026-11-11

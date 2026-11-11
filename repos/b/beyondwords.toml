@@ -1,0 +1,9 @@
+name = "beyondwords"
+description = "A goal-driven AI book production house for Amazon KDP: research niches, create books, publish, manage ads and deliver client services."
+category = "other"
+tags = ["ai-skills", "amazon-kdp", "book-production", "book-writing", "ebooks", "mcp", "publishing", "python"]
+repository = "https://github.com/beyondtahir/beyondwords"
+website = "https://www.beyondtahir.com"
+license = "MIT"
+language = "Python"
+added = 2026-11-11

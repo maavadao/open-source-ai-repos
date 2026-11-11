@@ -1,0 +1,9 @@
+name = "octop-harness"
+description = "A production-grade agent runtime engineered from the Harness Engineering philosophy."
+category = "agents"
+tags = ["agent", "agent-framework", "agents"]
+repository = "https://github.com/TencentCloud/octop-harness"
+website = "https://octop.cloud"
+license = "MIT"
+language = "Python"
+added = 2026-11-11

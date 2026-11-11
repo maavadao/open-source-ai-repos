@@ -1,0 +1,8 @@
+name = "GPTplusSub"
+description = "ChatGPT 会员订阅与充值教程（国内）：支付宝代充、Apple 礼品卡、海外银行卡，以及付款失败、续费与退款问题处理。"
+category = "chat"
+tags = ["alipay", "apple-gift-card", "chatgpt", "chatgpt-plus", "chinese", "subscription-guide", "tutorial"]
+repository = "https://github.com/laoma528/GPTplusSub"
+website = "https://gpt.528.im"
+language = "Python"
+added = 2026-11-11

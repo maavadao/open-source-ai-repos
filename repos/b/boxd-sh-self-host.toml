@@ -1,0 +1,9 @@
+name = "self-host"
+description = "Fast, isolated machines for AI agents and dev teams, self-hosted in your own cloud. Use them as agent sandboxes, dev environments or servers, on GCP, AWS or bare metal."
+category = "agents"
+tags = ["agent-sandbox", "ai-agents", "ai-sandbox", "bare-metal-systems", "cloud-development-environment", "dev-environment", "microvm", "remote-development"]
+repository = "https://github.com/boxd-sh/self-host"
+website = "https://boxd.sh"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-11

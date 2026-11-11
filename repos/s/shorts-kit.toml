@@ -1,0 +1,9 @@
+name = "shorts-kit"
+description = "Make narrated vertical shorts (TikTok, YouTube Shorts, Reels) with a coding agent and Remotion. 9+ agent skills, 20+ story flows, fact ledger, CC0 SFX."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude-code", "remotion", "shorts", "tiktok", "video-automation", "youtube-shorts"]
+repository = "https://github.com/howznguyen/shorts-kit"
+website = "https://howznguyen.dev/projects/shorts-kit"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-11

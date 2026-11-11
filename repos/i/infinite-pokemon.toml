@@ -1,0 +1,9 @@
+name = "infinite-pokemon"
+description = "A Pokémon-style adventure built with Codex, featuring AI-generated maps, NPCs, branching saves, and multiplayer. The adventure never ends."
+category = "other"
+tags = ["agent-skills", "browser-game", "creature-collector", "electron", "generative-ai", "generative-gameplay", "indie-game", "multiplayer-game"]
+repository = "https://github.com/Shellishack/infinite-pokemon"
+website = "https://infinite-pokemon-blond.vercel.app/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-11

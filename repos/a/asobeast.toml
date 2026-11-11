@@ -1,0 +1,9 @@
+name = "asobeast"
+description = "Open-source ASO tool and keyword rank tracker for the Apple App Store and Google Play. Self-host with Docker or use the hosted service. Built-in MCP server."
+category = "mcp-servers"
+tags = ["android", "app-marketing", "app-store", "app-store-optimization", "aso", "aso-tools", "google-play", "ios"]
+repository = "https://github.com/AsoBeast/asobeast"
+website = "https://asobeast.com"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-11-11

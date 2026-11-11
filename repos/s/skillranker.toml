@@ -1,0 +1,7 @@
+name = "skillranker"
+description = "Rust CLI powered by Jev from TypeSafe.ai that ranks agent skills for the next step using live session context. Includes Claude Code hooks, structured JSON, abstention, and local feedback. Requires a TypeSafe API key."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "asupersync", "claude-code", "cli", "developer-tools", "frankentui", "jev"]
+repository = "https://github.com/Dicklesworthstone/skillranker"
+language = "Rust"
+added = 2026-11-11

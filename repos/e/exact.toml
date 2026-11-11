@@ -1,0 +1,8 @@
+name = "exact"
+description = "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them."
+category = "agents"
+tags = ["ai-agents", "appkit", "coding-agents", "cross-platform", "css", "ios", "linux", "macos"]
+repository = "https://github.com/expo/exact"
+license = "MIT"
+language = "Rust"
+added = 2026-11-11

@@ -1,0 +1,8 @@
+name = "jev-browser"
+description = "Browser automation where an LLM plans and Jev (Typesafe System One) decides. Library, CLI and MCP server."
+category = "mcp-servers"
+tags = ["browser-automation", "llm-agents", "mcp", "mcp-server", "playwright"]
+repository = "https://github.com/Ying-Kai-Liao/jev-browser"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-11

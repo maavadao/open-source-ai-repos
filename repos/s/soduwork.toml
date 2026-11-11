@@ -1,0 +1,9 @@
+name = "SoduWork"
+description = "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted."
+category = "skills-prompts"
+tags = ["agent-harness", "agent-orchestration", "agent-workflows", "ai-agents", "ai-workflows", "anti-slop", "claude-code", "codex"]
+repository = "https://github.com/mdiri-ai/SoduWork"
+website = "https://www.soduwork.ai"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-11

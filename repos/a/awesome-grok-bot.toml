@@ -1,0 +1,9 @@
+name = "awesome-grok-bot"
+description = "6688 live x.ai/bot shares for Grok Bot — curated catalog with shelf tiers, searchable Pages, bilingual README. Not a prompt dump."
+category = "coding"
+tags = ["agents", "ai-agents", "awesome", "awesome-list", "bot-templates", "catalog", "cursor", "directory"]
+repository = "https://github.com/majiayu000/awesome-grok-bot"
+website = "https://majiayu000.github.io/awesome-grok-bot/"
+license = "CC0-1.0"
+language = "JavaScript"
+added = 2026-11-11

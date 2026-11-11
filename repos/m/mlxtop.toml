@@ -1,0 +1,8 @@
+name = "mlxtop"
+description = "A top for local LLMs: memory, paging, GPU and tokens/s for oMLX, Ollama, llama.cpp, vLLM and more"
+category = "local-llms"
+tags = ["apple-silicon", "llama-cpp", "llm", "local-llm", "mlx", "monitoring", "ollama", "rust"]
+repository = "https://github.com/maximpri/mlxtop"
+license = "MIT"
+language = "Rust"
+added = 2026-11-11

@@ -1,0 +1,9 @@
+name = "Mebular"
+description = "🌌 Mebular 忆云 · 智能体共享记忆与任务协作 | One shared memory and task graph for all your AI agents and devices: automatic or on-demand, secure, controllable, and decentralized!"
+category = "other"
+tags = ["agent-context", "agent-memory", "ai-memory", "deepseek-harness", "dsh-plugin", "knowledge-graph", "mcp", "multi-agents"]
+repository = "https://github.com/Windsander/Mebular"
+website = "https://mebular.cyberfederal.io/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-11

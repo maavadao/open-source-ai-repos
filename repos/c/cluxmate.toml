@@ -1,0 +1,8 @@
+name = "CluxMate"
+description = "AI coding agent with one Python core and three front-ends — headless CLI, Textual TUI, and an Electron desktop. Works with any OpenAI-compatible API, with risk-tiered permissions, event-sourced replayable sessions, and a fail-closed OS-level sandbox."
+category = "skills-prompts"
+tags = ["agent-harness", "agent-trace", "agentloop", "ai-agent", "chatgpt", "checkpoint", "claude-code", "code-assistant"]
+repository = "https://github.com/r1c7/CluxMate"
+license = "MIT"
+language = "Python"
+added = 2026-11-11

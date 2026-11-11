@@ -1,0 +1,8 @@
+name = "MineAgent"
+description = "agent定制自由化，agent流程可视化。在浏览器里用画布搭出工业级 Agent 流程，选框架自动生成架构图， 拖节点、连线、写代码、配模型，点「保存」就把整张画布编译成一个可独立运行的 Python Agent 项目， 点「运行」直接在你的机器上真实执行并流式回传每一步。欢迎各位同行二次开发，如有商用请说明出处。"
+category = "agents"
+tags = ["agent", "agentic-ai", "agentic-workflow", "agents"]
+repository = "https://github.com/YT-Proteus-bot/MineAgent"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-11

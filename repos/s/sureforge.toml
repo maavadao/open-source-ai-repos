@@ -1,0 +1,8 @@
+name = "SureForge"
+description = "Agent Skill for complex work: research before asking, ask before planning, plan before building, verify before delivering, independent review before calling it done. Plain text, no runtime."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude-code", "code-review", "codex", "cursor", "devin", "hermes-agent"]
+repository = "https://github.com/Da7-Tech/SureForge"
+license = "MIT"
+language = "Python"
+added = 2026-11-11

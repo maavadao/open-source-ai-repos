@@ -1,0 +1,8 @@
+name = "dafeiyu-cleaner"
+description = "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments."
+category = "llm-apps"
+tags = ["ai", "ai-agent", "ai-content-detection", "ai-detection", "aigc", "anti-spam", "bilibili", "bilibili-comments"]
+repository = "https://github.com/liyupi/dafeiyu-cleaner"
+website = "https://www.bilibili.com/video/BV1Ywn46EEyF"
+language = "JavaScript"
+added = 2026-11-11

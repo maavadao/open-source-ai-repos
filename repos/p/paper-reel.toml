@@ -1,0 +1,9 @@
+name = "paper-reel"
+description = "Claude Code skill: faceless 9:16 explainer reels in a cut-paper style. Voice-timed scenes, word-by-word captions. Free, local, no API keys."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-video", "canvas-animation", "claude-code", "claude-code-skill", "claude-skills", "explainer-video", "faceless-video"]
+repository = "https://github.com/haiderfarooq3/paper-reel"
+website = "https://haiderfarooq.dev/blog/paper-reel-explainer-reels-in-code"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-11

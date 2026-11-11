@@ -1,0 +1,7 @@
+name = "aitracker"
+description = "Open-source, local-first AI workspace that tracks tokens & spend across Claude Code, Codex, Cursor and more — and turns every session into reusable Skills and long-term memory. / 开源、本地优先的 AI 工作台：自动统计 Claude Code、Codex、Cursor 等工具的 Token 用量与花费，并把每次 AI 会话沉淀为可复用的 Skills 和长期记忆。"
+category = "skills-prompts"
+tags = ["ai", "ai-coding-tools", "aitracker", "claude-code", "codex", "cost-tracking", "skills", "token-tracking"]
+repository = "https://github.com/estelwalks/aitracker"
+language = "TypeScript"
+added = 2026-11-11

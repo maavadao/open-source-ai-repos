@@ -1,0 +1,8 @@
+name = "rat-stack"
+description = "🐀 Agentic TypeScript scaffold: Effect 4, XState 6 + @xstate/effect, Alchemy infra, varlock config, and a fence that makes cheating uncomfortable"
+category = "agents"
+tags = ["agents", "alchemy", "cli", "effect", "pnpm", "template", "turborepo", "typescript"]
+repository = "https://github.com/joelhooks/rat-stack"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-11

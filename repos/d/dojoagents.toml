@@ -1,0 +1,9 @@
+name = "DojoAgents"
+description = "DojoAgents: Full-Market AI Copilot for Personal Investment"
+category = "agents"
+tags = ["ai-agents", "financial-analysis", "fintech", "investment-research", "stock-analysis"]
+repository = "https://github.com/Alpha-Dojo/DojoAgents"
+website = "https://alphadojo.ai/app/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-11

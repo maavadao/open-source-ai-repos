@@ -1,0 +1,9 @@
+name = "fatsearch"
+description = "Search and read the web for AI agents at 99% fewer tokens. Free CLI + MCP."
+category = "mcp-servers"
+tags = ["ai-agents", "cli", "markdown", "mcp", "rust", "scraper", "web-scraping"]
+repository = "https://github.com/fatsearch/fatsearch"
+website = "https://fatsearch.com"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-11

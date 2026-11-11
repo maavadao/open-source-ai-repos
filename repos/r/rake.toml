@@ -1,0 +1,9 @@
+name = "rake"
+description = "Rust framework for GPUI with native and browser apps, runtime inspection, and agent control."
+category = "agents"
+tags = ["ai-agents", "developer-tools", "gpui", "gui", "rust", "webassembly"]
+repository = "https://github.com/1bye/rake"
+website = "https://github.com/1bye/rake#readme"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-11

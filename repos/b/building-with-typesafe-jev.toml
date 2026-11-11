@@ -1,0 +1,9 @@
+name = "building-with-typesafe-jev"
+description = "Unofficial skill that teaches coding agents to build with TypeSafe AI's Jev: typed decisions, calibrated confidence, and prior art from 150+ community projects."
+category = "skills-prompts"
+tags = ["agent-skill", "agent-skills", "ai-agents", "calibration", "classification", "claude-code", "claude-code-plugin", "claude-code-skill"]
+repository = "https://github.com/aaddrick/building-with-typesafe-jev"
+website = "https://github.com/aaddrick/building-with-typesafe-jev#readme"
+license = "MIT"
+language = "Python"
+added = 2026-11-11

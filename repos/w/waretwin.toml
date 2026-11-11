@@ -1,0 +1,9 @@
+name = "WareTwin"
+description = "Real-time 3D digital twin of an autonomous warehouse — 20 AMRs, deterministic simulation, explainable fleet scheduling, failure injection, VLM camera perception, AI Ops Copilot and what-if scenarios. React Three Fiber + FastAPI."
+category = "robotics"
+tags = ["amr", "digital-twin", "fastapi", "llm", "python", "react-three-fiber", "robotics", "simulation"]
+repository = "https://github.com/WayneChou-bot/WareTwin"
+website = "https://ware-twin.vercel.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-11

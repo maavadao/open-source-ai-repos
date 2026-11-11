@@ -1,0 +1,8 @@
+name = "codex-seo"
+description = "Free, open-source SEO audits inside OpenAI Codex CLI. Port of claude-seo: 26 skills, 19 specialist roles, technical SEO / schema / GEO / local / ecommerce."
+category = "other"
+tags = ["agent-skills", "claude-seo-port", "codex", "codex-cli", "openai", "seo", "seo-audit"]
+repository = "https://github.com/zhtyyx/codex-seo"
+license = "MIT"
+language = "Python"
+added = 2026-11-11

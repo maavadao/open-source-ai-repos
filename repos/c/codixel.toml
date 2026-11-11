@@ -1,0 +1,8 @@
+name = "codixel"
+description = "Pixel art skill for Claude Code: how to make good pixel, animated game sprite out, effects etc."
+category = "skills-prompts"
+tags = ["8bit", "agent-skills", "ai", "ai-art", "claude-code", "claude-skill", "dithering", "game-development"]
+repository = "https://github.com/mankidev/codixel"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-11

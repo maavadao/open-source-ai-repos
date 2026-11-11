@@ -1,0 +1,9 @@
+name = "ecommerce-ai-tools"
+description = "Official Nexscope guides for AI product video workflows, ecommerce Data APIs and free product listings. Compare workflows, watch examples and build integrations."
+category = "agents"
+tags = ["1688", "ai-agents", "ai-image-generator", "ai-video-generator", "amazon-keyword-research", "amazon-listing-optimization", "amazon-product-research", "amazon-review-analysis"]
+repository = "https://github.com/nexscope-ai/ecommerce-ai-tools"
+website = "https://learn.nexscope.ai/video/"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-11-11

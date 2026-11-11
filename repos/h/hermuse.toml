@@ -1,0 +1,8 @@
+name = "Hermuse"
+description = "Hermuse (Hermes + Muse) — personal AI agent stack built for Muse: Hermes + 9Router + Telegram gateway, automated install, Cloudflare tunnel, watchdog. Runs on a VPS or your own machine; works with other agents & tools too. | Stack agen AI pribadi yang dibangun untuk Muse — jalan di VPS/mesin sendir…"
+category = "chat"
+tags = ["ai-agent", "automation", "chatbot", "cloudflare", "hermes-agent", "llm", "openai-compatible", "personal-assistant"]
+repository = "https://github.com/imkofty/Hermuse"
+license = "MIT"
+language = "Shell"
+added = 2026-11-11

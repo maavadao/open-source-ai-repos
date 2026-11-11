@@ -1,0 +1,9 @@
+name = "jev-style"
+description = "JevStyle: local decision models for AI agents. Classify, route and score with a probability per option. systemone-compatible local server, MCP tools, Claude Code guard. Open weights, Apache-2.0."
+category = "mcp-servers"
+tags = ["agent-skills", "calibration", "claude-code", "decision-model", "gguf", "guardrails", "huggingface", "image-classification"]
+repository = "https://github.com/lawrence3699/jev-style"
+website = "https://jevstyle.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-11

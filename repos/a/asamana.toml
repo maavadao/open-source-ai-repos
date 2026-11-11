@@ -1,0 +1,8 @@
+name = "asamana"
+description = "Asamana is an AI-driven emergent narrative engine."
+category = "agents"
+tags = ["agent", "asamana", "emergent-narrative", "generative-agents", "llm", "llm-agents", "multi-agent", "simulation"]
+repository = "https://github.com/dreamscroll-lab/asamana"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-11

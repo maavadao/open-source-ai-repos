@@ -1,0 +1,8 @@
+name = "jev-guard"
+description = "Auto mode for every coding agent, built on Jev: risk-scores every tool call with session context (deny / ask / allow), flags prompt injection in results, checks skills and plugins. Claude Code, Codex, Copilot, Gemini, Cursor, pi, OpenCode, ACP."
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "codex", "cursor", "gemini-cli", "hooks", "jev", "opencode"]
+repository = "https://github.com/leepokai/jev-guard"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-11

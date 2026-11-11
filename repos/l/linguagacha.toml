@@ -1,0 +1,8 @@
+name = "LinguaGacha"
+description = "翻译特化的 AGENT Harness · 一键高质量翻译 音频 视频 游戏 电子书 · PDF EPUB RPG ASMR GALGAME 等"
+category = "documents"
+tags = ["ai-agent", "ai-translation", "epub", "epub-translator", "game-translation", "llm", "localization", "pdf"]
+repository = "https://github.com/neavo/LinguaGacha"
+website = "https://github.com/neavo/LinguaGacha/wiki"
+language = "TypeScript"
+added = 2026-11-11

@@ -1,0 +1,9 @@
+name = "paper-figure-to-figma"
+description = "Agent skill that rebuilds research paper figures as editable Figma vectors — native text, curves and gradients, with SVG/PDF export."
+category = "other"
+tags = ["agent-skills", "codex", "codex-skills", "figma", "mcp", "research-figures", "research-tools", "scientific-visualization"]
+repository = "https://github.com/sidiangongyuan/paper-figure-to-figma"
+website = "https://sidiangongyuan.github.io/paper-figure-to-figma/"
+license = "MIT"
+language = "Python"
+added = 2026-11-11

@@ -1,0 +1,8 @@
+name = "AutoInternshipClaude"
+description = "Claude skills that find internships, tailor your resume, fill applications and track them"
+category = "skills-prompts"
+tags = ["automation", "chrome-extension", "claude", "claude-skills", "internships", "job-search", "resume"]
+repository = "https://github.com/pqthangv/AutoInternshipClaude"
+license = "MIT"
+language = "Python"
+added = 2026-11-11

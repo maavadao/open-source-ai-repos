@@ -1,0 +1,8 @@
+name = "voxplane"
+description = "VoxPlane — Cross-platform DICOM viewer for CT, MRI & PET/CT with MPR, 3D, fusion, editable segmentation and local AI auto-segmentation via TotalSegmentator."
+category = "vision"
+tags = ["ai", "automatic-segmentation", "computed-tomography", "dicom", "dicom-seg", "dicom-sr", "dicom-viewer", "image-segmentation"]
+repository = "https://github.com/junforge-dev/voxplane"
+website = "https://junforge-dev.github.io/voxplane/"
+language = "Python"
+added = 2026-11-11

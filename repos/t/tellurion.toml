@@ -1,0 +1,9 @@
+name = "Tellurion"
+description = "Mission control for AI coding agents. Watch Claude Code, Codex, Gemini and a dozen more work live in one macOS terminal: live status, an editor that follows their edits, undo for any turn, approvals from your phone and local models. 20+ built-in tools, all on the site below. Built on Ghostty."
+category = "local-llms"
+tags = ["agent-orchestration", "ai-agents", "ai-terminal", "claude", "claude-code", "code-editor", "codex", "coding-agents"]
+repository = "https://github.com/steventsvik/Tellurion"
+website = "https://steventsvik.github.io/Tellurion/"
+license = "AGPL-3.0"
+language = "Zig"
+added = 2026-11-11

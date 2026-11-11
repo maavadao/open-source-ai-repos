@@ -1,0 +1,8 @@
+name = "WebGPT"
+description = "A Codex skill that delegates work to ChatGPT on the web."
+category = "skills-prompts"
+tags = ["ai-agents", "automation", "chatgpt", "claude", "claude-code", "cli", "codex", "codex-cli"]
+repository = "https://github.com/Nhahan/WebGPT"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-11

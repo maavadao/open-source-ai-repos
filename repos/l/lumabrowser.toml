@@ -1,0 +1,8 @@
+name = "LumaBrowser"
+description = "Local AI desktop app: a Chromium browser with a GPU-aware llama.cpp runtime, OpenAI-compatible API, AI chat and agents, Stable Diffusion image/video, TTS and music, plus an MCP server so Claude Code, Codex and Cline can drive your browser. Windows, macOS, Linux."
+category = "mcp-servers"
+tags = ["ai-agents", "ai-browser", "browser-automation", "chatgpt-alternative", "desktop-app", "electron", "gguf", "llama-cpp"]
+repository = "https://github.com/amurgola/LumaBrowser"
+website = "https://lumabyte.com"
+language = "JavaScript"
+added = 2026-11-11

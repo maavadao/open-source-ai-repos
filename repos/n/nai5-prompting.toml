@@ -1,0 +1,7 @@
+name = "nai5-prompting"
+description = "教 AI 写 NovelAI Diffusion V5 提示词的 skill：11 个拆分技能（构思＋写法）为主，另有合并版、单文件版和 4 千字的极简版；Agent Skills 标准封装。"
+category = "skills-prompts"
+tags = ["agent-skills", "novelai", "prompt-engineering", "stable-diffusion-prompts"]
+repository = "https://github.com/Miint-Sunny/nai5-prompting"
+license = "GPL-3.0"
+added = 2026-11-11

@@ -1,0 +1,6 @@
+name = "awesome-code-as-x"
+description = "A Curated List of Coding-agent that treat a program as the executable intermediate representation for Policy, World, Editor and beyond"
+category = "agents"
+tags = ["3d", "3d-graphics", "3d-modeling", "agent", "agentic-ai", "coding-agents", "editing", "world-models"]
+repository = "https://github.com/kkakkkka/awesome-code-as-x"
+added = 2026-11-11

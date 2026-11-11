@@ -1,0 +1,6 @@
+name = "mentor-prompt"
+description = "Prompt que transforma o Claude num mentor técnico: te faz pensar e justificar em vez de entregar a resposta pronta."
+category = "skills-prompts"
+tags = ["ai", "claude", "claude-code", "mentoring", "prompt-engineering"]
+repository = "https://github.com/guithepc/mentor-prompt"
+added = 2026-11-11

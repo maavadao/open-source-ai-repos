@@ -1,0 +1,9 @@
+name = "absent-author"
+description = "Research and writing can be automated. Authorship cannot. Evidence list + agent skills for spotting AI-produced papers no human stood behind."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-generated-content-detection", "claude-code", "codex", "llm", "peer-review", "research-integrity"]
+repository = "https://github.com/THUROI0787/absent-author"
+website = "https://thuroi0787.github.io/absent-author/"
+license = "MIT"
+language = "Python"
+added = 2026-11-11

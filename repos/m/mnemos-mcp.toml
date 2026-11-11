@@ -1,0 +1,9 @@
+name = "mnemos-mcp"
+description = "Continuity for the agent itself. An MCP server that gives an AI agent a memory of its own, written in its own words and kept on your machine, so it wakes as itself every session."
+category = "mcp-servers"
+tags = ["agent-memory", "ai-agents", "claude-code", "codex", "continuity", "forgetting-curve", "llm-memory", "local-first"]
+repository = "https://github.com/Riley-Coyote/mnemos-mcp"
+website = "https://pypi.org/project/mnemos-continuity/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-11

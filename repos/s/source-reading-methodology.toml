@@ -1,0 +1,9 @@
+name = "source-reading-methodology"
+description = "带 AI 精读大型开源仓库的方法论：四阶段流程、可复用模板、28 条踩坑清单，核心是让每个技术论断都可回溯到源码具体行"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agent", "ai-coding", "claude-code", "code-review", "documentation", "llm", "methodology"]
+repository = "https://github.com/itshen/source-reading-methodology"
+website = "https://xueai.app/?from=source-reading-methodology"
+license = "MIT"
+language = "Python"
+added = 2026-11-11

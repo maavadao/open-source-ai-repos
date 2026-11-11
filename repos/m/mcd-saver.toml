@@ -1,0 +1,8 @@
+name = "McD-saver"
+description = "🍟 麦麦省钱助手 —— 麦当劳中国官方 MCP 的省钱点餐 Agent Skill：官方 calculate-price 实时核价 + 券组合优化 + 沉默成本体检与多单用券排程，官方券/套餐/团购券/积分四渠道同口径算终局价。免登录在线试算。"
+category = "mcp-servers"
+tags = ["agent-skill", "agent-skills", "chinese", "cli-tool", "cost-optimization", "coupon", "coupon-optimizer", "deal-comparison"]
+repository = "https://github.com/yuxinlaile/McD-saver"
+website = "https://yuxinlaile.github.io/McD-saver/demo.html"
+language = "Python"
+added = 2026-11-11

@@ -1,0 +1,9 @@
+name = "hermes-bot-forge"
+description = "Hermes Agent plugin: say 'make me a <role>' and your agent builds a complete, working Bot — name, face, SOUL.md, memory, tools, skills, routines, gateway."
+category = "agents"
+tags = ["agent-framework", "agent-orchestration", "agentic-ai", "ai-agent", "ai-agents", "ai-tools", "automation", "autonomous-agents"]
+repository = "https://github.com/BkashJEE/hermes-bot-forge"
+website = "https://github.com/BkashJEE/hermes-bot-forge"
+license = "MIT"
+language = "Python"
+added = 2026-11-11

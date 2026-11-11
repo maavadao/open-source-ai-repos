@@ -1,0 +1,9 @@
+name = "codex-guard"
+description = "Quality gate for AI/Codex-generated pull requests: blocks TODO leftovers, leaked secrets, sloppy commits and red CI before they reach main."
+category = "skills-prompts"
+tags = ["ai", "claude-code", "code-review", "codex", "codex-plugin", "coding-agent", "copilot", "dsh-plugin"]
+repository = "https://github.com/Akimiya-z/codex-guard"
+website = "https://akimiya-z.github.io/codex-guard/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-11

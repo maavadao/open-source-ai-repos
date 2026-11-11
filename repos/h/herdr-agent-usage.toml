@@ -1,0 +1,9 @@
+name = "herdr-agent-usage"
+description = "Credential-scoped AI usage, context, and cache in Herdr for Claude, Codex, Grok, Agy, OpenCode, Pi, omp, Devin, Muse, MiMo, Kilo, Antigravity, and Cursor."
+category = "skills-prompts"
+tags = ["agent-usage", "ai-agents", "antigravity", "claude-code", "codex", "cursor", "devin", "grok"]
+repository = "https://github.com/levi-qiao/herdr-agent-usage"
+website = "https://herdr.dev/plugins/"
+license = "MIT"
+language = "Rust"
+added = 2026-11-11

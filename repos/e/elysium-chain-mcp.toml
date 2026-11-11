@@ -1,0 +1,8 @@
+name = "elysium-chain-mcp"
+description = "MCP server for AI agents to read and interact with Elysium, Kinetiq’s Arbitrum Orbit L2 on Hyperliquid"
+category = "mcp-servers"
+tags = ["ai-agents", "elysium", "evm", "hyperliquid", "kinetiq", "mcp", "model-context-protocol", "typescript"]
+repository = "https://github.com/ElysiumForge-Labs/elysium-chain-mcp"
+website = "https://github.com/ElysiumForge-Labs"
+language = "TypeScript"
+added = 2026-11-11

@@ -1,0 +1,9 @@
+name = "open-jev"
+description = "an open-source, from-first-principles reconstruction of the ideas behind TypeSafe AI's Jev, written in pytorch"
+category = "chat"
+tags = ["ai", "anthropic", "attention", "chatgpt", "claude", "gpt", "jev", "transformers"]
+repository = "https://github.com/kyegomez/open-jev"
+website = "https://discord.gg/3keGBK9Pvr"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-11

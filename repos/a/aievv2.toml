@@ -1,0 +1,9 @@
+name = "AIEVv2"
+description = "Automatic AI video editing: Claude directs HyperFrames (HTML + GSAP motion graphics) and Remotion (timeline assembly). Karaoke subtitles, kinetic typography, sound effects, a timeline editor, text-to-video, video translation and dubbing - self-hosted web dashboard, built for Vietnamese."
+category = "skills-prompts"
+tags = ["ai-video-editor-sdk", "claude", "claude-agent-sdk", "claude-ai", "claude-code", "claude-skills", "edit-video", "edit-videos"]
+repository = "https://github.com/notivn/AIEVv2"
+website = "https://noti.vn"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-11

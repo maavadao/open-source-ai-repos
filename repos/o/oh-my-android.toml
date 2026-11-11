@@ -1,0 +1,9 @@
+name = "oh-my-android"
+description = "Free ADB GUI and Android Emulator control panel for macOS. One click for dark mode, font scale, RTL and pseudo-locales, TalkBack, layout bounds, network speed and GPS: no adb commands. Layout Inspector in dp for any app (Compose and Views) with Figma overlay and TalkBack-order audit. Plus an MCP se…"
+category = "mcp-servers"
+tags = ["accessibility", "adb", "android", "android-development", "android-emulator", "android-studio", "android-testing", "android-tools"]
+repository = "https://github.com/ateymoori/oh-my-android"
+website = "https://royan.se/work/oh-my-android/"
+license = "MIT"
+language = "Swift"
+added = 2026-11-11

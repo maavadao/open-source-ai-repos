@@ -1,0 +1,8 @@
+name = "production-ai-agents-for-media-generation"
+description = "Build production AI agents that generate images, video and audio on serverless GPUs. Free course. Apply 👇🏼"
+category = "agents"
+tags = ["ai-agents", "course", "diffusion-models", "free", "generative-ai", "gpu", "mcp", "serverless"]
+repository = "https://github.com/DataTalksClub/production-ai-agents-for-media-generation"
+website = "https://courses.datatalks.club/register/production-ai-agents-generative-media/"
+license = "MIT"
+added = 2026-11-11

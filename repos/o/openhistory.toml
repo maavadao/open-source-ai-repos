@@ -1,0 +1,9 @@
+name = "openhistory"
+description = "Your private, searchable work timeline for macOS and local AI agents."
+category = "agents"
+tags = ["activity-tracking", "ai-agents", "electron", "local-first", "macos", "mcp", "open-source", "privacy"]
+repository = "https://github.com/ztratar/openhistory"
+website = "https://openhistory.sh"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-11

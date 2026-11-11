@@ -1,0 +1,9 @@
+name = "oa-design"
+description = "The Open Analytics design language as an agent skill: component recipes with type-checked source, token CSS, and a CLI. Works with Claude Code, Cursor, or any agent."
+category = "skills-prompts"
+tags = ["agent-skill", "ai-agents", "analytics", "claude-code", "design-system", "motion", "react", "tailwindcss"]
+repository = "https://github.com/OpenLabs-so/oa-design"
+website = "https://getopen.so"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-11

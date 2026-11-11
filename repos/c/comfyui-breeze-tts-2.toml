@@ -1,0 +1,9 @@
+name = "ComfyUI-Breeze-TTS-2"
+description = "Breeze TTS 2 nodes for ComfyUI: voice clone, voice design, and voice direction with bilingual (EN/ZH) speech, inline vocal events, INT8 ConvRot quantized builds, and full ComfyUI / AIMDO dynamic-VRAM integration."
+category = "image"
+tags = ["comfyui", "comfyui-nodes", "int8-quantization", "sota", "text-to-speech", "voice-cloning", "voice-design", "voice-editing"]
+repository = "https://github.com/Saganaki22/ComfyUI-Breeze-TTS-2"
+website = "https://huggingface.co/drbaph/Breeze-TTS-2-comfyui"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-11

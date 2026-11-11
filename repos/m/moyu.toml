@@ -1,0 +1,9 @@
+name = "moyu"
+description = "🐟 狠狠 PUA 你的 AI，然后自己准时下班。Make your AI grind, so you don't have to. Benchmarked: 66% less code."
+category = "skills-prompts"
+tags = ["ai", "anti-over-engineering", "claude-code", "cursor", "lobehub", "moyu", "prompt-engineering", "skillsmp"]
+repository = "https://github.com/uucz/moyu"
+website = "https://uucz.github.io/moyu/"
+license = "MIT"
+language = "Python"
+added = 2026-11-11

@@ -1,0 +1,9 @@
+name = "jevmem"
+description = "jevmem saves the decisions, rules and failed approaches from your Claude Code chats to JEVMEM.md in your repo, and brings the relevant ones back next session."
+category = "skills-prompts"
+tags = ["agent-memory", "ai-memory", "claude", "claude-code", "claude-code-hooks", "claude-code-plugin", "claude-code-plugins", "claude-code-plugins-marketplace"]
+repository = "https://github.com/Avinash-jetwani/jevmem"
+website = "https://avinash-jetwani.github.io/jevmem/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-11

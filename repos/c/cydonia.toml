@@ -1,0 +1,9 @@
+name = "cydonia"
+description = "Agent control panel for Claude Code, Codex, OpenCode, Pi and 40+ agents with articles and boards supported"
+category = "skills-prompts"
+tags = ["acp", "agents", "ai", "antigravity", "claude-code", "codex", "desktop", "developer-tools"]
+repository = "https://github.com/crabtalk/cydonia"
+website = "https://cydonia.sh"
+license = "MIT"
+language = "Rust"
+added = 2026-11-11

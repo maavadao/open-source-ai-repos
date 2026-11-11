@@ -1,0 +1,8 @@
+name = "recruitops-agent"
+description = "Local-first recruitment intelligence and application operations agent"
+category = "llm-apps"
+tags = ["ai-agent", "campus-recruitment", "fastapi", "mcp", "pgvector", "playwright", "rag", "recruitment"]
+repository = "https://github.com/849879772/recruitops-agent"
+license = "MIT"
+language = "Python"
+added = 2026-11-11

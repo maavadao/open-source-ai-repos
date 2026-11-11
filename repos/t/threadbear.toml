@@ -1,0 +1,9 @@
+name = "threadbear"
+description = "A Mac app for running your Claude Code and Codex threads, on the subscriptions you already have. Comes with an iPhone app, and you get all the source."
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "codex", "coding-agents", "convex", "ios", "macos", "swiftui"]
+repository = "https://github.com/mikecann/threadbear"
+website = "https://threadbear.mikecann.app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-11

@@ -1,0 +1,8 @@
+name = "Canny"
+description = "Stops AI coding agents from claiming work is done without evidence. Deterministic hooks decide, TypeSafe's Jev advises. Append-only ledger, zero runtime dependencies."
+category = "skills-prompts"
+tags = ["agent-hooks", "ai-agents", "claude-code", "claude-code-hooks", "codex", "codex-cli", "guardrails", "jev"]
+repository = "https://github.com/qkal/Canny"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-11

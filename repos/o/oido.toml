@@ -1,0 +1,9 @@
+name = "oido"
+description = "Oído: open-vocabulary speech recognition on a $5 ESP32-S3, faster than real time. No cloud, no NPU. English + Spanish."
+category = "local-llms"
+tags = ["asr", "conformer", "edge-ai", "embedded", "esp-idf", "esp32", "esp32-s3", "int4"]
+repository = "https://github.com/lokutor-ai/oido"
+website = "https://lokutor-ai.github.io/oido/demo/"
+license = "GPL-3.0"
+language = "C"
+added = 2026-11-11

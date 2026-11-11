@@ -1,0 +1,8 @@
+name = "lot-map"
+description = "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in five languages."
+category = "skills-prompts"
+tags = ["agent-observability", "ai-agents", "claude", "claude-code", "claude-code-plugin", "developer-tools", "svg-animation", "typescript"]
+repository = "https://github.com/alexeyw/lot-map"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-11

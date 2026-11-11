@@ -1,0 +1,9 @@
+name = "ShowAI"
+description = "The evolving interface between humans and agents — Claude Code and Codex answer with interactive pages you can edit, keep and share."
+category = "skills-prompts"
+tags = ["agent", "ai-agents", "claude-code", "codex", "intelligent-ui", "mcp"]
+repository = "https://github.com/Renaissance-Mind/ShowAI"
+website = "https://showai.renaissancemind.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-11

@@ -1,0 +1,9 @@
+name = "kraken-cli"
+description = "Trade crypto, tokenized stocks, forex and futures on Kraken from your terminal or your AI agent. Built-in MCP server for Claude, Codex and Cursor, JSON output, and paper trading on live prices."
+category = "mcp-servers"
+tags = ["ai-agents", "algorithmic-trading", "claude", "claude-code", "cli", "codex", "crypto", "cryptocurrency"]
+repository = "https://github.com/krakenfx/kraken-cli"
+website = "https://kraken.com/kraken-cli"
+license = "MIT"
+language = "Rust"
+added = 2026-11-11

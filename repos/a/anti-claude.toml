@@ -1,0 +1,6 @@
+name = "anti-claude"
+description = "Claude 防封号经验与指南"
+category = "skills-prompts"
+tags = ["claude", "claude-ai", "claude-code"]
+repository = "https://github.com/sunreview/anti-claude"
+added = 2026-11-11

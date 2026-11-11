@@ -1,0 +1,8 @@
+name = "skill-wb-exec"
+description = "Delegate bounded coding tasks to a headless WorkBuddy/CodeBuddy CLI agent from DeepSeek Harness — structured result, real diff, path whitelist and worktree isolation."
+category = "coding"
+tags = ["agent-orchestration", "ai-agents", "cli-agent", "code-review", "deepseek-harness", "dsh", "dsh-plugin", "python"]
+repository = "https://github.com/Luminousyyh/skill-wb-exec"
+license = "MIT"
+language = "Python"
+added = 2026-11-11

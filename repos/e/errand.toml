@@ -1,0 +1,9 @@
+name = "errand"
+description = "An open-source take on Grok Bot/Muse. Persistent AI teammates with their own cloud computers, powered by Runta."
+category = "agents"
+tags = ["ai-agents", "ai-assistant", "autonomous-agents", "cloud-agents", "computer-use", "desktop-app", "electron", "grok"]
+repository = "https://github.com/runta-dev/errand"
+website = "https://runerrand.dev/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-11

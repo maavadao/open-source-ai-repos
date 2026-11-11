@@ -1,0 +1,8 @@
+name = "deslop-GPT"
+description = "Deletion-first Agent Skill for removing test bloat, verification theater, and speculative fallbacks while preserving behavior."
+category = "skills-prompts"
+tags = ["agent-skills", "claude", "claude-ai", "claude-code", "claude-skills", "code-cleanup", "codex", "coding-agents"]
+repository = "https://github.com/MrZoyo/deslop-GPT"
+license = "MIT"
+language = "Python"
+added = 2026-11-11

@@ -1,0 +1,8 @@
+name = "modelprint"
+description = "Who is really behind that API? Fingerprint any OpenAI-compatible endpoint in the browser: 9 infrastructure probes, side-by-side comparison, community-extensible."
+category = "llm-apps"
+tags = ["ai-tools", "fingerprinting", "llm", "openrouter"]
+repository = "https://github.com/unclecode/modelprint"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-11

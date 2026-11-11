@@ -1,0 +1,7 @@
+name = "Wonder-Pill"
+description = "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions — no answers, no ranking, just provocations."
+category = "skills-prompts"
+tags = ["ai", "ai-tools", "claude", "claude-ai", "claude-code-skill", "claude-desktop", "claude-skills", "codex-skill"]
+repository = "https://github.com/ara-mkr/Wonder-Pill"
+license = "MIT"
+added = 2026-11-11

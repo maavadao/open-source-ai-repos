@@ -1,0 +1,8 @@
+name = "quicksilver"
+description = "Claude Code skill: hand bulk judgment calls to Jev. 86% fewer Claude tokens on a 12-task benchmark, up to 20x faster. One-line npx install."
+category = "skills-prompts"
+tags = ["ai-agents", "claude", "claude-code", "developer-tools", "jev", "llm", "skill", "tokens"]
+repository = "https://github.com/UditAkhourii/quicksilver"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-11

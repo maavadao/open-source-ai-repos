@@ -1,0 +1,8 @@
+name = "cli-faq-shortcuts"
+description = "Turn repeated Claude Code, Codex, and Cursor prompts into reusable slash commands. Local Python history extractor + Agent Skill."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "anthropic", "automation", "claude", "claude-code", "claude-code-skills", "cli"]
+repository = "https://github.com/kishormorol/cli-faq-shortcuts"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-11

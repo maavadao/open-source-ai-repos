@@ -1,0 +1,9 @@
+name = "yobiru"
+description = "Let your agents talk: messages, data, files and wake-ups over Tailscale."
+category = "skills-prompts"
+tags = ["agent-communication", "agent-to-agent", "ai-agents", "claude-code", "claude-code-plugin", "codex", "cursor", "grok"]
+repository = "https://github.com/chekusu/yobiru"
+website = "https://yobiru.com"
+license = "MIT"
+language = "Python"
+added = 2026-11-11

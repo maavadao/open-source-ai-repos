@@ -1,0 +1,9 @@
+name = "Overflow"
+description = "Mutual-credit coordination for contributing spare LLM subscription capacity through GitHub issues and pull requests."
+category = "llm-apps"
+tags = ["credit-system", "github-api", "github-webhooks", "issue-tracker", "llm", "mutual-credit", "nextauth", "nextjs"]
+repository = "https://github.com/Nitjsefnie/Overflow"
+website = "https://overflow.nitjsefni.eu"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-11

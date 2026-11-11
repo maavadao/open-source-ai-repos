@@ -1,0 +1,9 @@
+name = "claude-skills"
+description = "My collection of Claude skills"
+category = "skills-prompts"
+tags = ["claude", "claude-skill", "claude-skills"]
+repository = "https://github.com/oaustegard/claude-skills"
+website = "https://austegard.com/ai-tools/claude-skill-releases.html"
+license = "MIT"
+language = "Python"
+added = 2026-11-11

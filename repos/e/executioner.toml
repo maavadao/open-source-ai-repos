@@ -1,0 +1,9 @@
+name = "executioner"
+description = "The agentic pentesting environment that lives on your machine. AI agent teams, visual workflows and your own tools, 100% local."
+category = "agents"
+tags = ["ai-agents", "bug-bounty", "electron", "offensive-security", "pentesting", "recon", "red-team", "security"]
+repository = "https://github.com/dbx0/executioner"
+website = "https://github.com/dbx0/executioner/releases/latest"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-11

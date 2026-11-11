@@ -1,0 +1,8 @@
+name = "beluga"
+description = "Beluga: An AI native IDE Mac app peer to peer connections everything designed around AI development"
+category = "skills-prompts"
+tags = ["ai-agents", "claude", "claude-code", "git-worktree", "macos", "peer-to-peer", "tauri", "tui"]
+repository = "https://github.com/beluga-labs/beluga"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-11

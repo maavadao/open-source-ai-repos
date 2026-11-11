@@ -1,0 +1,8 @@
+name = "copilot-app-for-beginners"
+description = "Learn how to get started using the GitHub Copilot app!"
+category = "agents"
+tags = ["agentic-coding", "ai", "ai-agents", "github-copilot-app"]
+repository = "https://github.com/github/copilot-app-for-beginners"
+website = "https://gh.io/copilot-app-course"
+license = "MIT"
+added = 2026-11-11

@@ -1,0 +1,9 @@
+name = "ClawGod_Y"
+description = "Claude Code “God Mode,” designed to let the model “breach the armor” (i.e., bypass restrictions)."
+category = "other"
+tags = ["ai", "bugbounty", "cladue-code", "clawgod", "pojia"]
+repository = "https://github.com/7sen1ot/ClawGod_Y"
+website = "https://github.com/7sen1ot/ClawGod_Y"
+license = "GPL-3.0"
+language = "JavaScript"
+added = 2026-11-11

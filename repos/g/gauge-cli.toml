@@ -1,0 +1,9 @@
+name = "gauge-cli"
+description = "The open-source Gauge CLI. Hillclimb your Skills, CLI, SDK, MCP, API, or Docs to make something agents want."
+category = "mcp-servers"
+tags = ["agent-skills", "agents", "cli", "docs", "mcp", "sdk", "testing"]
+repository = "https://github.com/gauge-sh/gauge-cli"
+website = "https://withgauge.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-11

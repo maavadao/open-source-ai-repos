@@ -1,0 +1,8 @@
+name = "qiaomu-codex-imagegen"
+description = "让任何 Agent 调用 Codex 内置生图（MCP + CLI + Skill），内置小红书、视频封面、Mondo 海报技巧 · Codex image generation for any agent"
+category = "mcp-servers"
+tags = ["agent-skills", "claude-code", "codex", "image-generation", "mcp", "poster-design", "xiaohongshu"]
+repository = "https://github.com/joeseesun/qiaomu-codex-imagegen"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-11

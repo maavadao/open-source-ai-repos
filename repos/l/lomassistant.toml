@@ -1,0 +1,8 @@
+name = "LOMAssistant"
+description = "咖啡伴侣：《活侠传》全能Mod - AI陪玩、剧情回顾、分支自选、修改面板、存档优化 / 咖啡伴侶：《活俠傳》全能Mod - AI陪玩、劇情回顧、分支自選、修改面板、存檔優化 / Coffee Companion: All-in-One Mod for Legend of Mortal - AI companion, story overview, branch picking, stat editor, better saves / 珈琲のおとも：『活俠傳』オールインワンMod - AIお供、ストーリー振り返り、分岐選択、数値エディタ、セーブ改良 / 커피 동반자: 『활협전』 올인원 M…"
+category = "llm-apps"
+tags = ["ai-chat", "bepinex", "bepinex-plugin", "cheats", "game-mod", "game-trainer", "harmony", "huoxiazhuan"]
+repository = "https://github.com/kevinnie2003/LOMAssistant"
+license = "MIT"
+language = "C#"
+added = 2026-11-11

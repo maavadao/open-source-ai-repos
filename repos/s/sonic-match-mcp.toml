@@ -1,0 +1,9 @@
+name = "sonic-match-mcp"
+description = "MCP server that watches video footage and returns license-safe BGM matches, hook windows, and ffmpeg ducking specs for agents."
+category = "mcp-servers"
+tags = ["ai-agents", "bgm", "ffmpeg", "mcp", "model-context-protocol", "music-matching", "python", "video"]
+repository = "https://github.com/js713-lab/sonic-match-mcp"
+website = "https://sonic.codecrafter.dev"
+license = "MIT"
+language = "Python"
+added = 2026-11-11

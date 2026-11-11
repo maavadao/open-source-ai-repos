@@ -1,0 +1,8 @@
+name = "BurpMCP-Ultra"
+description = "AI-powered MCP server for Burp Suite Professional — 149 tools across proxy, scanner, inline fuzzer, race conditions, guided injection, JWT/IDOR attacks, recon & OOB, with a real-time dashboard and hardened localhost security. Drive Burp from Claude Code or any MCP client."
+category = "mcp-servers"
+tags = ["bug-bounty", "burpsuite", "claude", "kotlin", "mcp", "model-context-protocol", "pentesting", "security-tools"]
+repository = "https://github.com/Cy-S3c/BurpMCP-Ultra"
+license = "MIT"
+language = "Kotlin"
+added = 2026-11-11

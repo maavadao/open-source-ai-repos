@@ -1,0 +1,8 @@
+name = "doma"
+description = "The open-source of DomA, an AI automation agent for the browser."
+category = "browser-automation"
+tags = ["agents", "ai-agents", "browser-agent", "browser-use", "doma", "extension-chrome", "extension-edge", "jev"]
+repository = "https://github.com/dom-actions/doma"
+website = "https://www.domactions.com/docs/en/"
+language = "TypeScript"
+added = 2026-11-11
