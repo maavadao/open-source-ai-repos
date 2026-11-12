@@ -1,0 +1,8 @@
+name = "gpt-6-astra-skill"
+description = "Astra Skill Optimizer for GPT-6/Astra project Skill and workflow adaptation"
+category = "skills-prompts"
+tags = ["agent-skills", "ai", "ai-agents", "claude-code", "continuous-improvement", "conversation-analysis", "developer-tools", "feedback-loop"]
+repository = "https://github.com/adand-91/gpt-6-astra-skill"
+license = "MIT"
+language = "Python"
+added = 2026-11-12

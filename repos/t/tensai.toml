@@ -1,0 +1,9 @@
+name = "tensai"
+description = "A tiny neural-network framework in pure Go with AVX2 SIMD kernels (GOEXPERIMENT=simd)"
+category = "local-llms"
+tags = ["autograd", "avx2", "deep-learning", "gguf", "golang", "llm", "machine-learning", "neural-networks"]
+repository = "https://github.com/mattn/tensai"
+website = "https://mattn.github.io/tensai/"
+license = "MIT"
+language = "Go"
+added = 2026-11-12

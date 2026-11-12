@@ -1,0 +1,9 @@
+name = "ai-film-skills"
+description = "Open Film Skills: 21 independent modules for story, directing, visual assets and AI-film production, with research galleries and playable 3D previs."
+category = "skills-prompts"
+tags = ["agent-skills", "agentic-video", "ai", "ai-filmmaking", "ai-storyboard", "ai-video", "claude-code", "codebuddy"]
+repository = "https://github.com/62656456/ai-film-skills"
+website = "https://62656456.github.io/ai-film-skills/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-12

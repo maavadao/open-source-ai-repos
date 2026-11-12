@@ -1,0 +1,8 @@
+name = "understanding-ladder"
+description = "Karpathy's understanding ladder as agent skills: auto-pick text, diagram, interactive HTML, or video storyboard for any explanation. Nothing cut. English + 中文."
+category = "skills-prompts"
+tags = ["agent-skills", "asd-ste100", "chinese", "claude-code", "claude-code-plugin", "claude-skills", "codex", "explainer"]
+repository = "https://github.com/ChangWenC/understanding-ladder"
+website = "https://changwenc.github.io/understanding-ladder/docs/demo/"
+license = "MIT"
+added = 2026-11-12

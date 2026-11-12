@@ -1,0 +1,9 @@
+name = "bough"
+description = "Claude Code, Codex and Pi write down everything you do. bough draws it and prices it: a day, the work inside it, every prompt, and what each piece cost. One Go binary, runs on your machine, sends nothing anywhere."
+category = "skills-prompts"
+tags = ["ai-coding", "claude", "claude-code", "claude-code-tools", "cli", "codex", "codex-cli", "coding-agent"]
+repository = "https://github.com/nickelsec/bough"
+website = "https://www.bough.run"
+license = "MIT"
+language = "Go"
+added = 2026-11-12

@@ -1,0 +1,8 @@
+name = "unyra"
+description = "归一 Unyra · 探索式学习：本地优先的 AI 学习辅助桌面应用（Electron + React）"
+category = "education"
+tags = ["ai", "desktop", "education", "electron", "learning", "react", "typescript", "windows"]
+repository = "https://github.com/maplexrain/unyra"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-12

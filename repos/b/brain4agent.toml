@@ -1,0 +1,8 @@
+name = "Brain4Agent"
+description = "Committed to building the world’s most cutting-edge, CJK-first memory module for all mainstream agents. Any issues and PRs are welcome."
+category = "other"
+tags = ["agent-memory", "agent-skills", "agent-tools", "bm25", "chinese", "cjk", "japanese", "korean"]
+repository = "https://github.com/SparkofSpike/Brain4Agent"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-12

@@ -1,0 +1,6 @@
+name = "ghost-job"
+description = "🤖 免费的 BOSS直聘自动投递桌面软件：AI 筛选岗位、简历匹配打分、自动打招呼与自动回复 HR，支持 Windows / macOS / Linux。Free AI auto-apply app for BOSS Zhipin."
+category = "llm-apps"
+tags = ["ai-agent", "auto-apply", "automation", "boss-zhipin", "bosszhipin", "deepseek", "desktop-app", "job-application"]
+repository = "https://github.com/InfernalAzazel/ghost-job"
+added = 2026-11-12

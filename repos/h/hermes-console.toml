@@ -1,0 +1,9 @@
+name = "hermes-console"
+description = "Console is a private, native Android app for your self-hosted Hermes Agent: chat that shows the agent's work, voice, bots and rooms, cron, tasks, models and an SSH terminal. One code to connect. No account, no telemetry. GPL-3.0."
+category = "llm-apps"
+tags = ["ai-agent", "android", "dart", "flutter", "hermes-agent", "llm", "mobile-app", "obtainium"]
+repository = "https://github.com/xP3ta/hermes-console"
+website = "https://hermes.xpetalab.dev"
+license = "GPL-3.0"
+language = "Dart"
+added = 2026-11-12

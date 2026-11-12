@@ -1,0 +1,9 @@
+name = "ai-visualizer"
+description = "Give your AI agent a face. Four full-screen visualizers. A living circuit board with a cinematic fly-through, a particle-orb starburst, Matrix rain that looks back, and a constellation brain. All driven live by your voice agent's signal bus. Zero dependencies: a browser and one tiny Python server.…"
+category = "skills-prompts"
+tags = ["ai-assistants", "canvas", "claude", "claude-code", "creative-coding", "jarvis", "javascript", "obs"]
+repository = "https://github.com/jaredrhod/ai-visualizer"
+website = "https://jaredrhod.com"
+license = "AGPL-3.0"
+language = "HTML"
+added = 2026-11-12

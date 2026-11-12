@@ -1,0 +1,9 @@
+name = "gilvt"
+description = "Native macOS terminal for running, monitoring, and reviewing parallel Claude Code and Codex sessions."
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "codex", "coding-agents", "gpui", "macos", "rust", "terminal"]
+repository = "https://github.com/Gilvt-WTJ/gilvt"
+website = "https://gilvt.com"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-12

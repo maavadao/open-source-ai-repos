@@ -1,0 +1,9 @@
+name = "threadport"
+description = "Portable, verifiable work state for coding agents"
+category = "agents"
+tags = ["ai-agents", "coding-agents", "context-engineering", "developer-tools", "local-first", "mcp", "session-handoff"]
+repository = "https://github.com/Frankie-Xu/threadport"
+website = "https://github.com/Frankie-Xu/threadport"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-12

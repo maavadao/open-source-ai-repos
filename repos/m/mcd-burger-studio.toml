@@ -1,0 +1,7 @@
+name = "mcd-burger-studio"
+description = "麦当劳「真」随心配 · 用 MCP 真实在售菜单自由拼套餐、设计 3D 汉堡，作品发布与投票打榜 | McDonald's Make-It-Your-Way"
+category = "mcp-servers"
+tags = ["food-tech", "hackathon", "mcdonalds", "mcp", "python", "threejs", "voting", "workbuddy"]
+repository = "https://github.com/Alex-star-arch/mcd-burger-studio"
+language = "HTML"
+added = 2026-11-12

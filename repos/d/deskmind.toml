@@ -1,0 +1,9 @@
+name = "deskmind"
+description = "Small enough to run on your Mac. Smart enough to ask. An open-source computer use agent for macOS, with local models (MLX) that see, decide and act. 得心，应手。"
+category = "local-llms"
+tags = ["agents", "ai-agent", "apple-silicon", "computer-use", "computer-use-agent", "gui-agent", "local-llm", "macos"]
+repository = "https://github.com/deskmind-ai/deskmind"
+website = "https://deskmind.dev"
+license = "Apache-2.0"
+language = "Swift"
+added = 2026-11-12

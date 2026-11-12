@@ -1,0 +1,9 @@
+name = "mojito"
+description = "Mojito — the local, evolving alternative to cloud personal AI like Meta Muse."
+category = "skills-prompts"
+tags = ["agentic-coding", "ai-agent", "anthropic", "claude", "claude-code", "daily-planner", "evolving-app", "expo"]
+repository = "https://github.com/TimeLovercc/mojito"
+website = "https://timelovercc.github.io/mojito/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-12

@@ -1,0 +1,9 @@
+name = "FleXray"
+description = "FleXray: Universal Clinical X-ray Segmentation"
+category = "vision"
+tags = ["ai", "computer-vision", "machine-learning", "medical-imaging", "segmentation"]
+repository = "https://github.com/VictorButoi/FleXray"
+website = "https://flexray.csail.mit.edu/"
+license = "MIT"
+language = "Python"
+added = 2026-11-12

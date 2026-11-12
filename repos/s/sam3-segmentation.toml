@@ -1,0 +1,8 @@
+name = "sam3-segmentation"
+description = "Agent skill: outline, mask and count objects in photos with Meta's SAM 3 on your own NVIDIA GPU, with review, exports and a viewer. Works with Claude Code, Codex, Cursor, Pi and other Agent Skills clients."
+category = "skills-prompts"
+tags = ["agent-skills", "annotation", "claude-code", "claude-code-plugin", "codex", "computer-vision", "image-segmentation", "instance-segmentation"]
+repository = "https://github.com/lillyguisnet/sam3-segmentation"
+license = "MIT"
+language = "Python"
+added = 2026-11-12

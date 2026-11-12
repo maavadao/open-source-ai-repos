@@ -1,0 +1,8 @@
+name = "mcd-meal-pairing"
+description = "麦当劳配餐决策 Skill｜1881 种搭配里算出三档最优解，并告诉你为什么不是另外那些。控卡、忌口、拼单 max-min 公平分配；LLM 不参与算钱，每个数字可追溯。"
+category = "llm-apps"
+tags = ["ai-agent", "claude", "llm", "mcdonalds", "mcp", "optimization", "python", "recommendation-system"]
+repository = "https://github.com/paraboy-s/mcd-meal-pairing"
+website = "https://paraboy-s.github.io/mcd-meal-pairing/preview.html"
+language = "Python"
+added = 2026-11-12

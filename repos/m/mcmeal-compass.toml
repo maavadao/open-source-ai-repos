@@ -1,0 +1,8 @@
+name = "mcmeal-compass"
+description = "基于麦当劳中国官方 MCP 的营养搭配工具：套餐逐件展开求官方营养、官方计价并标出每个金额的价源、取不到就如实标\"未知\"而不填 0。离线可跑，无需 Token。不提供下单能力。"
+category = "mcp-servers"
+tags = ["ai-agents", "china", "cli", "llm", "mcdonalds", "mcp", "meal-planning", "model-context-protocol"]
+repository = "https://github.com/smallchristy123/mcmeal-compass"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-12

@@ -1,0 +1,9 @@
+name = "Hacker"
+description = "This repository is maintained by Taro and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), AI security, vulnerability research, exploit development, reverse engineering, and more. 🔥 Also check: https://hackertraining.org"
+category = "learning"
+tags = ["ai", "ai-safety", "artificial-intelligence", "awesome", "awesome-list", "cybersecurity", "ethical-hacking", "exploit"]
+repository = "https://github.com/TaroYamada08/Hacker"
+website = "https://hackertraining.org"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-11-12

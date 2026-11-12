@@ -1,0 +1,9 @@
+name = "NexusPilot"
+description = "AI-native cross-platform database workbench for developers and data teams."
+category = "other"
+tags = ["ai", "ai-assistant", "clickhouse", "cross-platform", "database", "database-client", "database-workbench", "desktop"]
+repository = "https://github.com/GuqierMcl/NexusPilot"
+website = "https://nexuspilot.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-12

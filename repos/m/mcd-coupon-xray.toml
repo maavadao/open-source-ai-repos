@@ -1,0 +1,8 @@
+name = "mcd-coupon-xray"
+description = "麦麦省的券谁都能领，但领了不等于楼下那家店认。一键领全后逐家门店校验哪张券真的能核销，并算出券后实付，直接回答「去哪家店、用哪张券、省多少钱」。基于麦当劳 MCP。"
+category = "mcp-servers"
+tags = ["ai-agent", "coupon", "mcdonalds", "mcp", "mcp-server", "python", "skill", "workbuddy"]
+repository = "https://github.com/wahaha-potato/mcd-coupon-xray"
+license = "MIT"
+language = "Python"
+added = 2026-11-12

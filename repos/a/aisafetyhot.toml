@@ -1,0 +1,8 @@
+name = "AISafetyHot"
+description = "AI Safety HOT: daily AI safety news, papers and incidents in one place — jailbreaks, prompt injection, alignment, evals, governance. Website, daily digest, RSS and MCP."
+category = "mcp-servers"
+tags = ["ai-alignment", "ai-governance", "ai-safety", "arxiv-papers", "daily-papers", "jailbreak", "llm-security", "mcp-server"]
+repository = "https://github.com/wuyoscar/AISafetyHot"
+website = "https://aisafetyhot.com"
+language = "TeX"
+added = 2026-11-12

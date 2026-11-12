@@ -1,0 +1,9 @@
+name = "flecha-browser"
+description = "Open-source Arc alternative for macOS: a Chromium browser for developers with Spaces, a dev command bar and a built-in MCP server for coding agents."
+category = "mcp-servers"
+tags = ["arc-alternative", "arc-browser", "browser", "chromium", "claude-code", "developer-tools", "macos", "mcp"]
+repository = "https://github.com/lucianodiisouza/flecha-browser"
+website = "https://flecha.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-12

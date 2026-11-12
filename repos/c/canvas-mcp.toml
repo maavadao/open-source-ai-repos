@@ -1,0 +1,8 @@
+name = "canvas-mcp"
+description = "Read-only MCP server that connects Claude, ChatGPT and other AI assistants to Canvas LMS."
+category = "mcp-servers"
+tags = ["canvas", "canvas-lms", "chatgpt", "claude", "education", "instructure", "mcp", "mcp-server"]
+repository = "https://github.com/boyuchengz/canvas-mcp"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-12

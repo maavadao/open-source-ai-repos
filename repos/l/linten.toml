@@ -1,0 +1,8 @@
+name = "linten"
+description = "Open-source AI gateway. One OpenAI-shaped API for 100+ models, with virtual keys, spend tracking, routing, and guardrails. Self-hosted."
+category = "agents"
+tags = ["ai", "ai-agent", "ai-agents", "ai-gateway", "ai-model", "llm", "openai", "proxy"]
+repository = "https://github.com/LintenAI/linten"
+website = "https://linten.app"
+language = "Python"
+added = 2026-11-12

@@ -1,0 +1,9 @@
+name = "grok-bot-templates"
+description = "The engineering kit for Grok Bot templates. Spec, Bot Ready score, teams, skills, routines, and a catalog you can paste into Grok Bot today."
+category = "skills-prompts"
+tags = ["agents", "ai-agents", "automation", "awesome-list", "grok", "grok-bot", "grokbot", "prompt-engineering"]
+repository = "https://github.com/cobusgreyling/grok-bot-templates"
+website = "https://cobusgreyling.github.io/grok-bot-templates/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-12

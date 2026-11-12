@@ -1,0 +1,9 @@
+name = "openpactprotocol"
+description = "PACT is an open protocol for personal agents to interact with businesses’ agents under explicit, verifiable user permissions."
+category = "agents"
+tags = ["a2a", "a2a-protocol", "agents", "ai-agents", "oauth2", "personal-agents"]
+repository = "https://github.com/openpactprotocol/openpactprotocol"
+website = "https://openpactprotocol.org/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-12

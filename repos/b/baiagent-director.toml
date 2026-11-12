@@ -1,0 +1,9 @@
+name = "baiagent-director"
+description = "Free local-first AI business advisor with evidence-linked research and verifiable pilot plans."
+category = "local-llms"
+tags = ["agpl", "ai", "baiagent", "business-automation", "electron", "evidence-based", "llama-cpp", "local-ai"]
+repository = "https://github.com/Balanov/baiagent-director"
+website = "https://baiagent.ru/free/"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-11-12

@@ -1,0 +1,9 @@
+name = "awesome-claude-code-mods"
+description = "Collection of 100+ mods you can use with Claude Code."
+category = "skills-prompts"
+tags = ["claude", "claude-code", "claude-code-mod", "claude-code-mods", "claude-code-plugin"]
+repository = "https://github.com/whyashthakker/awesome-claude-code-mods"
+website = "https://www.explainx.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-12

@@ -1,0 +1,9 @@
+name = "lintenagents"
+description = "One Python SDK for DeepAgents, Pydantic AI, Claude Agent SDK, Codex, and OpenCode. Switch harness and model without rewriting your agent."
+category = "agents"
+tags = ["ai", "ai-agents", "llm", "open-ai", "python", "python3", "sdk", "sdk-python"]
+repository = "https://github.com/LintenAI/lintenagents"
+website = "https://linten.app/lintenagent"
+license = "MIT"
+language = "Python"
+added = 2026-11-12

@@ -1,0 +1,9 @@
+name = "electric"
+description = "The agent platform built on sync."
+category = "agents"
+tags = ["agent", "agents", "crdt", "crdts", "data", "elixir", "platform", "postgres"]
+repository = "https://github.com/neondatabase/electric"
+website = "https://electric.ax"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-12

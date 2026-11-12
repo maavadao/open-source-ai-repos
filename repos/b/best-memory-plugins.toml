@@ -1,0 +1,7 @@
+name = "best-memory-plugins"
+description = "Best Memory Plugins for AI coding agents: Claude Code, Codex, Cursor, OpenCode, Cline and more. Glen, claude-mem, Supermemory, Hindsight, agentmemory, Mem0, Cognee, MemPalace and others ranked on automatic capture vs tool calls, local vs hosted, team sharing, privacy and install steps, plus built-i…"
+category = "skills-prompts"
+tags = ["agent-memory", "ai-coding", "ai-memory", "awesome", "awesome-list", "claude-code", "claude-code-memory", "claude-code-plugin"]
+repository = "https://github.com/Glen-Web-App/best-memory-plugins"
+license = "CC0-1.0"
+added = 2026-11-12

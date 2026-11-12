@@ -1,0 +1,8 @@
+name = "GPU-Perf-Playground"
+description = "GPU 性能与 AI Infra 学习项目：CUDA/Triton 算子、NCU/NSYS、vLLM/SGLang/TRT-LLM/ms-swift、PyTorch/DeepSpeed/ms-swift 训练、并行架构"
+category = "local-llms"
+tags = ["ai", "cuda", "cuda-kernel", "cuda-kernels", "cuda-programming", "cuda-toolkit", "deepspeed", "gpu"]
+repository = "https://github.com/yanght27/GPU-Perf-Playground"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-12

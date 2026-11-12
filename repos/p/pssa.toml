@@ -1,0 +1,9 @@
+name = "pssa"
+description = "PSSA: a non-transformer language model written from scratch in Rust. Recurrent state-space layer, episodic memory, self-modifying weights, CUDA training, and a full terminal dashboard."
+category = "models"
+tags = ["cuda", "language-model", "machine-learning", "rust", "state-space-model", "tui"]
+repository = "https://github.com/Sparticle62ops/pssa"
+website = "https://sparticle62ops.github.io/pssa/"
+license = "GPL-3.0"
+language = "Rust"
+added = 2026-11-12

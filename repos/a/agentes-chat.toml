@@ -1,0 +1,9 @@
+name = "agentes-chat"
+description = "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AG…"
+category = "mcp-servers"
+tags = ["agentic-ai", "ai-agents", "browser-automation", "chat", "claude", "claude-code", "codex", "collaboration"]
+repository = "https://github.com/agentes-chat/agentes-chat"
+website = "https://agentes.chat"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-11-12

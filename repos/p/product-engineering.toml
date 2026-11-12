@@ -1,0 +1,9 @@
+name = "product-engineering"
+description = "44 agent skills from shipping three live products: decide what to build, build it with Claude Code or Codex, have a second model review it, release it."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude-code", "claude-code-marketplace", "claude-code-plugins", "claude-skills", "codex", "cursor"]
+repository = "https://github.com/phuryn/product-engineering"
+website = "https://www.productcompass.pm/p/product-engineering-skills"
+license = "MIT"
+language = "Python"
+added = 2026-11-12

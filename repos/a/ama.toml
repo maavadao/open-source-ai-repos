@@ -1,0 +1,9 @@
+name = "AMA"
+description = "ACL 2026 Code and Skills for “AMA: Adaptive Memory via Multi-Agent Collaboration”."
+category = "llm-apps"
+tags = ["acl-2026", "agent-memory", "agent-skills", "ama-code", "harness-agent", "llm", "long-term-memory", "memory-plugin"]
+repository = "https://github.com/Sherlockwz/AMA"
+website = "https://sherlockwz.github.io/AMA/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-12

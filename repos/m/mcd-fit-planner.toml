@@ -1,0 +1,9 @@
+name = "mcd-fit-planner"
+description = "今天练什么，这一餐就怎么选。按训练计划比较麦当劳套餐实价和营养，临时休息顺延，生成月年吃麦手账。免安装在线体验 · 官方 MCP · WorkBuddy / Codex / DeepSeek Agent"
+category = "mcp-servers"
+tags = ["agent-skill", "codex", "deepseek", "fitness", "mcdonalds", "mcp", "meal-planner", "nutrition"]
+repository = "https://github.com/tomsbin/mcd-fit-planner"
+website = "https://tomsbin.github.io/mcd-fit-planner/"
+license = "MIT"
+language = "Python"
+added = 2026-11-12

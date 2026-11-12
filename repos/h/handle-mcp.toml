@@ -1,0 +1,9 @@
+name = "handle-mcp"
+description = "MCP server for nemlig.com, BilkaToGo, Rema1000: search products, add to cart and price comparisons. You always accept and pay yourself."
+category = "mcp-servers"
+tags = ["ai-agent", "bilkatogo", "denmark", "grocery", "mcp", "mcp-client", "mcp-server", "model-context-protocol"]
+repository = "https://github.com/NJohansen/handle-mcp"
+website = "https://handlemcp.dk"
+license = "MIT"
+language = "Python"
+added = 2026-11-12

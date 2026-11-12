@@ -1,0 +1,9 @@
+name = "serpmaven"
+description = "Self-hosted Google search scraper for Python. Scrape Google SERP results with a real Chrome browser and your own residential proxy. Self-hosted SERP API alternative with JSON output, an HTTP API and an MCP server for AI agents."
+category = "mcp-servers"
+tags = ["ai-agents", "browser-automation", "google-scraper", "google-search", "google-search-api", "headless-chrome", "mcp", "mcp-server"]
+repository = "https://github.com/nodemaven/serpmaven"
+website = "https://go.nodemaven.com/serpmaven"
+license = "MIT"
+language = "Python"
+added = 2026-11-12

@@ -1,0 +1,9 @@
+name = "oc8"
+description = "Open-source AI business orchestration platform for running governed AI agents across ERP, CRM, Microsoft 365 and other business systems."
+category = "agents"
+tags = ["agentic-ai", "ai-agent", "ai-agents", "ai-orchestration", "business-automation", "enterprise-ai", "erp", "fastapi"]
+repository = "https://github.com/oc8-ai/oc8"
+website = "https://oc8.ai/"
+license = "LGPL-3.0"
+language = "Python"
+added = 2026-11-12

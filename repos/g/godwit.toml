@@ -1,0 +1,9 @@
+name = "godwit"
+description = "Open-source, AI-native desktop email client for macOS, Windows and Linux. Your mail stays yours: data is masked locally before any model sees it."
+category = "local-llms"
+tags = ["agent-skills", "ai", "ai-assistant", "desktop-app", "email", "email-client", "golang", "imap"]
+repository = "https://github.com/godwit-email/godwit"
+website = "https://godwit.email"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-11-12

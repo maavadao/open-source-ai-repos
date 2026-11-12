@@ -1,0 +1,8 @@
+name = "Korean-llm"
+description = "PyTorch 기반 한국어 LLM 구현 및 학습 프로젝트"
+category = "llm-apps"
+tags = ["1b", "ai", "deep-learning", "from-scratch", "korean", "korean-nlp", "llm", "pytorch"]
+repository = "https://github.com/seoan1024/Korean-llm"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-11-12

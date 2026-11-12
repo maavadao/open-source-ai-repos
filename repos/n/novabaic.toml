@@ -1,0 +1,9 @@
+name = "NovaBAIC"
+description = "BetterAIChat2 (BAIC2) — 本地优先的 Android AI 智能体：57 个真实设备工具（无 GMS：截屏 OCR / UI 自动化 / 离线定位 / 文件 / 网页 / 提醒 / 通知触发自动化 / 技能与子代理）、仿生记忆（别名、时间线、自省巩固、出处、时间旅行、导出/导入）、中途提问、MCP。Local-first Android AI agent with real device control. GPL-3.0-or-later."
+category = "mcp-servers"
+tags = ["accessibility", "agent-memory", "ai-agent", "android", "android-app", "automation", "function-calling", "gplv3"]
+repository = "https://github.com/Verlintas/NovaBAIC"
+website = "https://verlintas.dev/NovaBAIC/"
+license = "GPL-3.0"
+language = "Kotlin"
+added = 2026-11-12

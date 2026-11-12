@@ -1,0 +1,9 @@
+name = "mcd-chinese-class"
+description = "麦门语文课 · 接入麦当劳官方 MCP（只读 order-list 读取真实订单），把餐品写成一篇语文课文。16 篇原创文学戏仿，纯 Python 标准库实现、不调用任何大模型；另附零依赖的网页版可离线体验，并一键导出手机分享图片。麦当劳程序员节创意开发大赛参赛作品。"
+category = "mcp-servers"
+tags = ["ai-skill", "chinese", "fun", "mcdonalds", "mcp"]
+repository = "https://github.com/miaoyhcat/mcd-chinese-class"
+website = "https://miaoyhcat.github.io/mcd-chinese-class/"
+license = "MIT"
+language = "Python"
+added = 2026-11-12

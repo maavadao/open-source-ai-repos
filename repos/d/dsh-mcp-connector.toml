@@ -1,0 +1,9 @@
+name = "dsh-mcp-connector"
+description = "MCP Connector for DeepSeek Harness: a data marketplace connecting enterprise, financial, legal, patent and research data. Manage authorization, search tools and troubleshoot MCP connections. Supports OAuth, API keys and HTTP/stdio."
+category = "mcp-servers"
+tags = ["api-key", "connection-manager", "deepseek", "deepseek-harness", "dsh", "dsh-plugin", "mcp", "mcp-client"]
+repository = "https://github.com/duhu2000/dsh-mcp-connector"
+website = "https://www.npmjs.com/package/dsh-mcp-connector"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-12

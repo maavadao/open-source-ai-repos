@@ -1,0 +1,9 @@
+name = "tasktrooper"
+description = "Local-first agent platform: board + role agents + agent CLI runs (Claude Code, Cursor, Antigravity, OpenCode) or local and API models (Ollama, LM Studio), all on your own Pc"
+category = "skills-prompts"
+tags = ["agentic-ai", "ai-agents", "autonomous-agents", "claude", "claude-code", "coding-agents", "cursor", "developer-tools"]
+repository = "https://github.com/makifbaysal/tasktrooper"
+website = "https://tasktrooper.ai"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-11-12

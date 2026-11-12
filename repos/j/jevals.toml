@@ -1,0 +1,9 @@
+name = "jevals"
+description = "Agent evals and guardrails as Jev decisions: one request per trace, a fraction of a cent, fast enough for the agent loop. Runs locally with Kev or Laya."
+category = "agents"
+tags = ["agents", "evals", "guardrails", "jev", "llm", "llm-evaluation", "ragas", "typesafe"]
+repository = "https://github.com/openlayer-ai/jevals"
+website = "https://github.com/openlayer-ai/jevals"
+license = "MIT"
+language = "Python"
+added = 2026-11-12

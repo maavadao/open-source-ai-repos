@@ -1,0 +1,9 @@
+name = "kaletacms"
+description = "Kaleta – an open-source CMS for business websites with a visual page builder, a token design system and Claude over MCP"
+category = "mcp-servers"
+tags = ["cms", "mcp", "page-builder", "php"]
+repository = "https://github.com/phprs-cms/kaletacms"
+website = "https://kaletacms.com"
+license = "GPL-2.0"
+language = "PHP"
+added = 2026-11-12

@@ -1,0 +1,9 @@
+name = "lifeos"
+description = "Self-hosted life OS: habits, goals, Kanban, finance and focus, with an MCP server for AI."
+category = "mcp-servers"
+tags = ["habit-tracker", "kanban", "life-os", "mcp", "personal-finance", "php", "productivity", "self-hosted"]
+repository = "https://github.com/edrisranjbar/lifeos"
+website = "https://edrisranjbar.github.io/lifeos/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-12

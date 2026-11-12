@@ -1,0 +1,9 @@
+name = "t3code"
+description = "The best way to control Claude Code, Codex and more from any computer or phone"
+category = "skills-prompts"
+tags = ["agent-orchestration", "agents", "ai", "chatgpt", "claude", "claude-code", "code", "vibe-coding"]
+repository = "https://github.com/pingdotgg/t3code"
+website = "https://t3.codes"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-12

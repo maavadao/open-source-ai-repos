@@ -1,0 +1,8 @@
+name = "Jarvis"
+description = "An autonomous, local-first on-device AI agent and Android OS automation framework featuring full accessibility control, │ continuous voice intelligence, and self-evolving workflow execution."
+category = "local-llms"
+tags = ["ai-agents", "android", "automation-agent", "edge-tts", "ironman", "jarvis", "jarvis-ai", "jarvis-ai-assistant"]
+repository = "https://github.com/AbuZar-Ansarii/Jarvis"
+license = "MIT"
+language = "Dart"
+added = 2026-11-12

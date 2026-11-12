@@ -1,0 +1,8 @@
+name = "ctx-handoff-mod"
+description = "Claude Code mod: hands off to a fresh conversation when context fills up, keeps the cache warm while you're away, and turns what you teach Claude into project notes"
+category = "skills-prompts"
+tags = ["ai-coding", "anthropic", "claude", "claude-code", "claude-code-mod", "claude-code-plugin", "context-management", "prompt-caching"]
+repository = "https://github.com/cablate/ctx-handoff-mod"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-12

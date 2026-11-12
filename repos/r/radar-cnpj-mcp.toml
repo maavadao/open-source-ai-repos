@@ -1,0 +1,8 @@
+name = "radar-cnpj-mcp"
+description = "Servidor MCP e CLI para localizar empresas brasileiras por CNAE e região, utilizando dados abertos de CNPJ da Receita Federal."
+category = "mcp-servers"
+tags = ["cnae", "cnpj", "duckdb", "mcp", "mcp-server", "receita-federal", "typescript"]
+repository = "https://github.com/wendersoon/radar-cnpj-mcp"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-12

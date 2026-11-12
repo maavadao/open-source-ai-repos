@@ -1,0 +1,9 @@
+name = "bicho"
+description = "Self-hosted error tracking on Cloudflare Workers, with OTLP ingestion and MCP tools for investigating errors."
+category = "mcp-servers"
+tags = ["cloudflare-d1", "cloudflare-r2", "cloudflare-workers", "error-tracking", "mcp", "opentelemetry", "otlp", "self-hosted"]
+repository = "https://github.com/bicho-fyi/bicho"
+website = "https://bicho.fyi"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-11-12

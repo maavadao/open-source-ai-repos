@@ -1,0 +1,7 @@
+name = "interactive-ai-ml-tools"
+description = "Free interactive tools for data scientists to learn MLOps, ML system design and agentic analytics: a production ML system map, ML project structure, data drift simulator, agentic analytics system map and AI evals."
+category = "agents"
+tags = ["agentic-ai", "ai-agents", "data-drift", "data-science", "interactive-learning", "llm-evaluation", "machine-learning", "ml-system-design"]
+repository = "https://github.com/Future-Proof-DS/interactive-ai-ml-tools"
+website = "https://futureproofds.com/tools?utm_source=github&utm_medium=readme&utm_campaign=andres_vourakis_github&utm_content=interactive_tools"
+added = 2026-11-12

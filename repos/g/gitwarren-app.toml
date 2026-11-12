@@ -1,0 +1,9 @@
+name = "gitwarren-app"
+description = "Code review for your own machines and your own agents. Reviews live where the code does — reached over SSH, WSL or your own tailnet. Desktop app or just a browser tab. No server, no account."
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "code-review", "codex", "desktop-app", "developer-tools", "diff", "electron"]
+repository = "https://github.com/klarluft/gitwarren-app"
+website = "https://gitwarren.com"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-11-12

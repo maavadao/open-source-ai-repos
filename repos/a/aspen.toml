@@ -1,0 +1,9 @@
+name = "aspen"
+description = "A self-hostable Git server for agent-scale traffic: packs in object storage, per-branch history in Postgres. Pre-alpha."
+category = "agents"
+tags = ["agents", "git", "git-server", "object-storage", "postgres", "rust"]
+repository = "https://github.com/reason-machines/aspen"
+website = "https://place.reasonmachines.com"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-12

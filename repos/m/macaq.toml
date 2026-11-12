@@ -1,0 +1,9 @@
+name = "MACaQ"
+description = "SOTA model-agnostic quantization for GGUF, local inference and beyond. Quantize and run text, image, video and audio models with llama.cpp, vLLM, Diffusers and PyTorch."
+category = "local-llms"
+tags = ["ascend", "audio", "audio-generation", "diffusers", "gguf", "gguf-quantization", "image-generation", "llama-cpp"]
+repository = "https://github.com/huawei-csl/MACaQ"
+website = "https://huawei-csl.com/blog/macaq/"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-11-12

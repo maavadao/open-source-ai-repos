@@ -1,0 +1,8 @@
+name = "medula"
+description = "🧬 devtools for agents"
+category = "other"
+tags = ["ai", "codex", "debug", "devtools", "mcp", "next", "react", "vue"]
+repository = "https://github.com/posva/medula"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-12

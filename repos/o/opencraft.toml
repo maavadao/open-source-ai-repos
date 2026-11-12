@@ -1,0 +1,8 @@
+name = "opencraft"
+description = "TypeScript agent workbench for Web, Electron and Expo with pluggable execution hosts and managed Web updates"
+category = "agents"
+tags = ["agent-workbench", "ai-agents", "codex", "electron", "react", "typescript"]
+repository = "https://github.com/opencraft-app/opencraft"
+license = "MIT-0"
+language = "TypeScript"
+added = 2026-11-12

@@ -1,0 +1,9 @@
+name = "Financial-API"
+description = "同花顺官方 A股金融数据服务，提供股票实时行情、历史行情、财务报表、指数、板块、涨停等数据，适用于 AI Agent、量化研究和应用开发，支持 API、MCP、CLI 和 Python。Official Tonghuashun (HiThink) A-share financial data service providing real-time and historical stock market data, financial statements, indices, sectors and limit-up data for AI agents, quantitative resea…"
+category = "mcp-servers"
+tags = ["a-share", "ai-agent", "china-stock-market", "cli", "duckdb", "financial-data", "mcp", "npm-package"]
+repository = "https://github.com/Hithink-Tech-Org/Financial-API"
+website = "https://fuyao.aicubes.cn/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-12

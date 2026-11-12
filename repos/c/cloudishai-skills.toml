@@ -1,0 +1,8 @@
+name = "skills"
+description = "Agent Skills for deploying to Cloudish, the agent-first cloud."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude-code", "cloudish", "codex", "deployment", "docker", "skills"]
+repository = "https://github.com/cloudishai/skills"
+website = "https://cloudish.ai"
+license = "MIT"
+added = 2026-11-12

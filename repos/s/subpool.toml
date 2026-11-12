@@ -1,0 +1,8 @@
+name = "subpool"
+description = "A lightweight, self-hosted AI subscription pool for teams."
+category = "skills-prompts"
+tags = ["agent", "ai", "ai-agent", "ai-agents", "claude-code", "codex", "copilot", "gateway"]
+repository = "https://github.com/gesta-run/subpool"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-11-12

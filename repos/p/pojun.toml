@@ -1,0 +1,9 @@
+name = "Pojun"
+description = "AI 自主渗透测试 · 红队作战平台 | 多 Agent 自主推进 · 漏洞情报运营 · 后渗透与 C2 | LLM 三通道轮询 | 全程证据留痕 | 原百度攻防赛冠军项目独立演进版"
+category = "agents"
+tags = ["ai-agent", "autonomous-agents", "autonomous-pentest", "c2", "cybersecurity", "docker", "go", "llm"]
+repository = "https://github.com/chu0119/Pojun"
+website = "https://github.com/chu0119/Pojun/releases"
+license = "AGPL-3.0"
+language = "Go"
+added = 2026-11-12

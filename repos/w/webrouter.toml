@@ -1,0 +1,9 @@
+name = "webrouter"
+description = "WebRouter is an open source standard that connects your agent to the web"
+category = "agents"
+tags = ["ai-agents", "llm-tools", "mcp", "python", "router", "web-search"]
+repository = "https://github.com/Nimbleway/webrouter"
+website = "https://docs.webrouter.net"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-12

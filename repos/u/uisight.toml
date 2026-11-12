@@ -1,0 +1,9 @@
+name = "uisight"
+description = "Your AI can already see the screen — it just can't measure it. Live mobile+desktop sessions, a measurement engine (contrast, touch targets, theme drift) reporting findings as text, and a panel you and your agent share. MCP server for web/responsive UIs."
+category = "mcp-servers"
+tags = ["accessibility", "ai-agents", "claude-code", "cursor", "devtools", "mcp", "mcp-server", "playwright"]
+repository = "https://github.com/sololabstr/uisight"
+website = "https://www.npmjs.com/package/uisight"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-12

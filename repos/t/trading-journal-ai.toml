@@ -1,0 +1,9 @@
+name = "Trading-Journal-AI"
+description = "Local-first AI trading journal. Import your broker CSV, get round-trip trades, KPIs and Claude-powered diary analysis. Runs on your own machine. No account, no telemetry, MIT."
+category = "skills-prompts"
+tags = ["anthropic", "claude", "claude-code", "day-trading", "fastapi", "interactive-brokers", "local-first", "python"]
+repository = "https://github.com/simonro/Trading-Journal-AI"
+website = "https://www.youtube.com/@tapetoedge"
+license = "MIT"
+language = "Python"
+added = 2026-11-12

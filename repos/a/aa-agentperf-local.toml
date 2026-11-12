@@ -1,0 +1,9 @@
+name = "aa-agentperf-local"
+description = "Benchmark local LLM serving by replaying real agent trajectories"
+category = "local-llms"
+tags = ["ai-agents", "artificial-analysis", "benchmark", "inference", "llm", "local-llm"]
+repository = "https://github.com/ArtificialAnalysis/aa-agentperf-local"
+website = "https://artificialanalysis.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-12

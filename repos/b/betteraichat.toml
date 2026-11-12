@@ -1,0 +1,8 @@
+name = "BetterAIChat"
+description = "Native Android AI agent: use your own API keys (OpenAI/Anthropic/Gemini), opencode-style modes, device tools, Shizuku shell, screen analysis, web search, custom Skills, voice assistant"
+category = "agents"
+tags = ["agent", "ai", "android", "chatbot", "compose", "function-calling", "kotlin", "llm"]
+repository = "https://github.com/Verlintas/BetterAIChat"
+license = "MIT"
+language = "Kotlin"
+added = 2026-11-12

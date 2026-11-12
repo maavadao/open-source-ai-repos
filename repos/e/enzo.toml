@@ -1,0 +1,9 @@
+name = "ENZO"
+description = "Self-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK). Bring your own keys — Groq, OpenRouter, NVIDIA, Hugging Face, Google AI."
+category = "agents"
+tags = ["ai", "ai-agents", "ai-workspace", "byok", "chatbot", "chatgpt-alternative", "docker", "groq"]
+repository = "https://github.com/theguysudo/ENZO"
+website = "https://enzo-hub.duckdns.org"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-12

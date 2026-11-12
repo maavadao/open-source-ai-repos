@@ -1,0 +1,9 @@
+name = "STC-Simplified-Technical-Chinese"
+description = "STC 简明技术性中文：给 AI 用的中文写作规范。输出更自然、简短，术语更一致，任务回执更清楚。支持 CLI、独立 Skill 和网页聊天。Simplified Technical Chinese: rules, a dictionary, and tools for clear, concise AI output."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "chatgpt", "chinese", "claude-code", "cli", "codex", "llm"]
+repository = "https://github.com/daimonia-ai/STC-Simplified-Technical-Chinese"
+website = "https://daimonia.ai/open-source/stc/?utm_source=github&utm_medium=repository&utm_campaign=stc"
+license = "CC-BY-4.0"
+language = "JavaScript"
+added = 2026-11-12

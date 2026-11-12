@@ -1,0 +1,8 @@
+name = "agent-router"
+description = "CLI that picks Cursor, Claude Code, Codex, or OpenCode + model/effort for a task, then launches it. Powered by Jev and Herdr"
+category = "skills-prompts"
+tags = ["agents", "ai", "claude-code", "cli", "codex", "coding", "developer-tools", "herdr"]
+repository = "https://github.com/nidhi-singh02/agent-router"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-12

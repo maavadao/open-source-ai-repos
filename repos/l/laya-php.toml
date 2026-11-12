@@ -1,0 +1,9 @@
+name = "laya-php"
+description = "Classify text in PHP without an LLM bill: typed decisions in 100+ languages, self-hosted. Laravel-ready SDK for Laya, a Jev AI alternative."
+category = "llm-apps"
+tags = ["ai", "classification", "decision-engine", "decision-model", "jev", "jev-ai", "jev-api", "laravel"]
+repository = "https://github.com/marcreichel/laya-php"
+website = "https://packagist.org/packages/marcreichel/laya-php"
+license = "Apache-2.0"
+language = "PHP"
+added = 2026-11-12

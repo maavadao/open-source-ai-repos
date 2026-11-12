@@ -1,0 +1,9 @@
+name = "mcd-meal-mate"
+description = "M餐搭子：基于麦当劳 MCP 实时菜单与营养数据的智能搭餐 Skill｜在线演示已上线"
+category = "mcp-servers"
+tags = ["mcdonalds", "mcp", "meal-planner", "nutrition", "react", "skill", "typescript", "workbuddy"]
+repository = "https://github.com/xanthichi/mcd-meal-mate"
+website = "https://xanthichi.github.io/mcd-meal-mate/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-12

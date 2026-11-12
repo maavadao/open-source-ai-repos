@@ -1,0 +1,9 @@
+name = "comfy-colab-kit"
+description = "Zero-GPU-idle gateway for running ComfyUI on ephemeral Google Colab VMs with Zero-Trust Access"
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "cloudflared", "colab", "comfyui", "cursor", "free", "gateway"]
+repository = "https://github.com/FireTable/comfy-colab-kit"
+website = "https://comfy-colab-kit.firetable.tech"
+license = "MIT"
+language = "Python"
+added = 2026-11-12

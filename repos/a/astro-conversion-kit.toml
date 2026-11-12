@@ -1,0 +1,8 @@
+name = "astro-conversion-kit"
+description = "Agent Skills that convert a WordPress site (or any live site) into a static Astro site with URL, SEO, content and pixel parity, then take it through launch. Works in Claude Code, Codex and any agent that reads SKILL.md."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "astro", "claude-code", "cloudflare-pages", "codex", "jamstack", "playwright"]
+repository = "https://github.com/ethanplusai/astro-conversion-kit"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-12

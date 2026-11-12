@@ -1,0 +1,9 @@
+name = "speak-like-you-eat"
+description = "Translate AI garbage to human language. A Pi package for plain-language rewrites."
+category = "llm-apps"
+tags = ["llm", "pi", "pi-package", "plain-language", "writing"]
+repository = "https://github.com/wtfzambo/speak-like-you-eat"
+website = "https://www.npmjs.com/package/speak-like-you-eat"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-12

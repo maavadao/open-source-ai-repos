@@ -1,0 +1,9 @@
+name = "hongbomiao.com"
+description = "A personal research and development (R&D) lab that facilitates the sharing of knowledge."
+category = "vision"
+tags = ["aerospace", "autonomy", "cloud-native", "computational-fluid-dynamics", "computer-vision", "embedded", "graphql", "high-performance-computing"]
+repository = "https://github.com/hongbo-miao/hongbomiao.com"
+website = "https://www.hongbomiao.com"
+license = "MIT"
+language = "Python"
+added = 2026-11-12

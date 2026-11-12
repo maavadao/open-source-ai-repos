@@ -1,0 +1,8 @@
+name = "mcctl"
+description = "麦当劳中国 MCP 的命令行控制面：33 个官方 MCP 工具编排成 kubectl 式 CLI（人格测试/配餐/省钱/下单/积分）+ 麦麦派对策划师 + WorkBuddy Skill + 网页 Playground"
+category = "mcp-servers"
+tags = ["cli", "hackathon", "mcdonald", "mcdonald-china", "mcp", "mcp-server", "python"]
+repository = "https://github.com/hulinkang9527/mcctl"
+website = "https://hulinkang9527.github.io/mcctl/"
+language = "Python"
+added = 2026-11-12

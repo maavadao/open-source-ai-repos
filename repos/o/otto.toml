@@ -1,0 +1,9 @@
+name = "Otto"
+description = "Otto: a personal operating system for the AI agents that work for you. Native macOS."
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "codex", "macos", "mcp", "personal-os", "swift", "swiftui"]
+repository = "https://github.com/maxtrigify/Otto"
+website = "https://openotto.io"
+license = "Apache-2.0"
+language = "Swift"
+added = 2026-11-12

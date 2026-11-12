@@ -1,0 +1,8 @@
+name = "mc-points-steward"
+description = "麦当劳积分资产管家：剔假上架 · 性价比排序 · 抽奖参谋"
+category = "other"
+tags = ["agent-skills", "mcd-mcp", "mcdonalds", "mcp", "mcp-server", "model-context-protocol", "python", "workbuddy"]
+repository = "https://github.com/yurenpai/mc-points-steward"
+license = "MIT"
+language = "Python"
+added = 2026-11-12

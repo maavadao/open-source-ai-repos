@@ -1,0 +1,8 @@
+name = "antumi"
+description = "多Agent工作台，额度看得见、用完不断档、多个Agent相互协作，多任务并行开发。| Multi-agent workbench for Claude Code, Codex, Cursor and more. See your quota, keep working when it runs out, run tasks in parallel, let agents delegate."
+category = "skills-prompts"
+tags = ["acp", "agent-orchestration", "ai-agents", "claude-code", "codex", "coding-assistant", "cursor", "desktop-app"]
+repository = "https://github.com/flyhero/antumi"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-12

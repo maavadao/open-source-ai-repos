@@ -1,0 +1,9 @@
+name = "radiant"
+description = "A local coding harness for Mac. Chat with coding agents across cloud and local models, watch every tool call in a live activity feed, and drive a real terminal — in one window. Free and MIT licensed."
+category = "local-llms"
+tags = ["ai", "ai-agents", "app", "claude", "coding-agent", "developer-tools", "electron", "llm"]
+repository = "https://github.com/templetongroup/radiant"
+website = "https://templetongroup.dev/showcase/radiant/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-12

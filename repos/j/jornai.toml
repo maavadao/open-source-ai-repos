@@ -1,0 +1,9 @@
+name = "JornAI"
+description = "Open source AI-assisted Instagram publishing for newsrooms - draft, review, and post breaking-news content fast, with a human always in the loop."
+category = "llm-apps"
+tags = ["ai", "fact-checking", "instagram", "journalism", "llm", "newsroom", "nextjs", "open-source"]
+repository = "https://github.com/MatheusBomtempo/JornAI"
+website = "https://jorn-ia.vercel.app/about"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-12

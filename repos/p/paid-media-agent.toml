@@ -1,0 +1,8 @@
+name = "paid-media-agent"
+description = "Open-source paid media agent for Google Ads, Meta Ads, Reddit, LinkedIn, X, and OpenAI Ads: analysis, reports, and reviewed changes, built on Deep Agents."
+category = "agents"
+tags = ["ads", "advertising", "agent", "agents", "ai-agent", "deepagents", "google-ads", "gtm"]
+repository = "https://github.com/langchain-ai/paid-media-agent"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-12

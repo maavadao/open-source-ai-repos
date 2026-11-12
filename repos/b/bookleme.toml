@@ -1,0 +1,8 @@
+name = "bookleme"
+description = "读了么（BookLeme）· 把一本书编译成 Agent Skill —— 双引擎 + 可插拔体裁插件 + 逐字忠实度回验"
+category = "skills-prompts"
+tags = ["agent-skills", "book-to-skill", "document-processing", "knowledge-management", "llm", "prompt-engineering"]
+repository = "https://github.com/bookleme/bookleme"
+license = "MIT"
+language = "Python"
+added = 2026-11-12

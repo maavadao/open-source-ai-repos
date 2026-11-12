@@ -1,0 +1,8 @@
+name = "yap"
+description = "Local screen recording and agent-assisted video editing for Claude Code, Codex and other AI agents on macOS."
+category = "skills-prompts"
+tags = ["ai-agents", "audio-editing", "claude-code", "codex", "macos", "mcp", "open-source", "screen-recorder"]
+repository = "https://github.com/dzhng/yap"
+website = "https://justyap.io"
+language = "TypeScript"
+added = 2026-11-12

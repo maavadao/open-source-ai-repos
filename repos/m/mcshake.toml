@@ -1,0 +1,8 @@
+name = "McShake"
+description = "麦当劳官方 MCP 驱动的像素风老虎机：营养账本 + 凑单优化 + 1+1 随心配"
+category = "mcp-servers"
+tags = ["mcdonalds", "mcdonalds-mcp", "mcp", "nodejs", "nutrition", "pixel-art", "slot-machine", "workbuddy"]
+repository = "https://github.com/gundamli/McShake"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-12

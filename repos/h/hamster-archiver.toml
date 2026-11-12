@@ -1,0 +1,8 @@
+name = "hamster-archiver"
+description = "Windows local-first file organizer and media catalog with MCP tools for AI assistants. Verified batch archiving. 本地文件整理、媒体建库与可校验批量归档，支持 AI 通过 MCP 调用。"
+category = "mcp-servers"
+tags = ["7zip", "ai-tools", "archiver", "backup", "batch-processing", "compression", "data-hoarding", "deduplication"]
+repository = "https://github.com/CarlosZ16420/hamster-archiver"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-12

@@ -1,0 +1,9 @@
+name = "NovaPersonalAgent"
+description = "open sourced personal agent + dual-brain voice assistant. 开源个人助手 + 前后脑语音助手. restrained proactivity, wide context. 主动但不啰嗦，懂你所想，帮你所需"
+category = "agents"
+tags = ["agent", "agentic-ai", "audio", "audio-agent", "codex", "personal-agent", "vibe-coding", "vibe-coding-assistant"]
+repository = "https://github.com/deepnovacore/NovaPersonalAgent"
+website = "https://deepnovacore.github.io/NovaPersonalAgent/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-12

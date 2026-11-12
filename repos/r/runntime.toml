@@ -1,0 +1,9 @@
+name = "runntime"
+description = "High-performance neural networks engine for web, built on top of TypeGPU"
+category = "vision"
+tags = ["ai", "computer-vision", "edge", "llm", "ml", "nlp", "on-device", "runtime"]
+repository = "https://github.com/software-mansion/runntime"
+website = "http://docs.swmansion.com/runntime/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-12

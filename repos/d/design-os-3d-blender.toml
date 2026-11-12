@@ -1,0 +1,8 @@
+name = "design-os-3d-blender"
+description = "AI agent operating system for Blender 5.2: bpy knowledge base, AGENT_OK execution contract, 3D-print production gate, worked keyboard and desktop-robot builds."
+category = "skills-prompts"
+tags = ["3d-printing", "3mf", "agent-skills", "ai-agent", "ai-agents", "blender", "blender-python", "bpy"]
+repository = "https://github.com/jangtrinh/design-os-3d-blender"
+website = "https://jangtrinh.github.io/design-os-3d-blender/"
+language = "Python"
+added = 2026-11-12

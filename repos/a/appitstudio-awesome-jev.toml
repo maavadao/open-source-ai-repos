@@ -1,0 +1,7 @@
+name = "awesome-jev"
+description = "Curated Jev resources and runnable examples for typed AI decisions."
+category = "learning"
+tags = ["ai", "awesome", "awesome-list", "decision-making", "jev", "system-one", "typesafe-ai"]
+repository = "https://github.com/AppitStudio/awesome-jev"
+language = "Python"
+added = 2026-11-12

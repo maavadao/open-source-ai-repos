@@ -1,0 +1,9 @@
+name = "multimodal-image-retrieval"
+description = "多模态检索实战：意图识别、Prompt 工程、Qwen LoRA、EmbeddingGemma 2 与 InfoNCE 对比学习。含真实演示、自有数据接入、训练评测及 RAG 检索组件学习指南。"
+category = "skills-prompts"
+tags = ["agent-tools", "clip", "contrastive-learning", "ecommerce", "embeddinggemma", "image-retrieval", "image-search", "infonce"]
+repository = "https://github.com/liangjianshu/multimodal-image-retrieval"
+website = "https://liangjianshu.github.io/multimodal-image-retrieval/overview/"
+license = "MIT"
+language = "Python"
+added = 2026-11-12

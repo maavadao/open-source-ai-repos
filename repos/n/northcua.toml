@@ -1,0 +1,8 @@
+name = "NorthCUA"
+description = "Turn intent into work. Open-source Desktop/Web agent harness with long-horizon memory, live evaluation and recoverable batches."
+category = "browser-automation"
+tags = ["agentic-ai", "browser-automation", "computer-use-agents", "desktop-automation", "evaluation", "multimodal", "nexau", "northcua"]
+repository = "https://github.com/beipo-ai/NorthCUA"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-12

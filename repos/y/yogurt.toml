@@ -1,0 +1,9 @@
+name = "yogurt"
+description = "Private AI meeting notes. Free and open source."
+category = "local-llms"
+tags = ["electron", "linux", "llama-cpp", "local-ai", "macos", "mcp", "meeting-notes", "open-source"]
+repository = "https://github.com/FrigadeHQ/yogurt"
+website = "https://yogurt.so"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-12

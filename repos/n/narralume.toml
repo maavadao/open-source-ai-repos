@@ -1,0 +1,9 @@
+name = "narralume"
+description = "Open-source AI-assisted writing studio for long-form fiction. 故事设定、正文版本、AI 协作、审稿与交付一体化的长篇小说写作工具。"
+category = "llm-apps"
+tags = ["ai-writing", "creative-writing", "llm", "long-form-writing", "novel-writing", "novel-writing-assistant", "self-hosted", "storytelling"]
+repository = "https://github.com/abligail/narralume"
+website = "https://app.narralume.me"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-12

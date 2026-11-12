@@ -1,0 +1,7 @@
+name = "maitaiyi"
+description = "麦门综合门诊：12 项问诊测出你的麦门体质，出具诊断证明书与 Rp. 处方笺（麦当劳 MCP）"
+category = "mcp-servers"
+tags = ["mcdonalds", "mcp", "mcp-server", "personality-test", "skills"]
+repository = "https://github.com/XRayLau1/maitaiyi"
+language = "HTML"
+added = 2026-11-12

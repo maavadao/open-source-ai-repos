@@ -1,0 +1,9 @@
+name = "skills"
+description = "106 social media skills for AI agents - strategy, writing, video, design, platform growth, publishing, and analytics. Works with Claude, Cursor, OpenClaw, Hermes & 40+ agents."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude", "claude-code", "claude-skills", "content-creation", "gemini-cli-extension", "instagram"]
+repository = "https://github.com/social-media-skills/skills"
+website = "https://social-media-skills.com"
+license = "MIT"
+language = "Shell"
+added = 2026-11-12

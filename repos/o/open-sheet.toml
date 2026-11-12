@@ -1,0 +1,9 @@
+name = "open-sheet"
+description = "The spreadsheet framework built for agents — write the model as React, export a live .xlsx. The third medium, after open-slide and open-doc."
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "code-generation", "developer-tools", "excel", "financial-modeling", "mcp", "open-source"]
+repository = "https://github.com/lianghsun/open-sheet"
+website = "https://open-sheet.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-12

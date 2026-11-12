@@ -1,0 +1,9 @@
+name = "email-marketing-bible"
+description = "Email marketing skill for AI agents, by George Hartley (founded SmartrMail). Plans, writes, audits and sends email with hard send-safety gates. Works in Claude, ChatGPT, Codex and Cursor. Free, MIT, vendor-neutral."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-skill", "chatgpt", "claude-code", "claude-skills", "codex", "copywriting", "cursor"]
+repository = "https://github.com/CosmoBlk/email-marketing-bible"
+website = "https://nitrosend.com/email-marketing-bible"
+license = "MIT"
+language = "Shell"
+added = 2026-11-12

@@ -1,0 +1,8 @@
+name = "LGUI"
+description = "Game UI framework for AI agents, made by LumioGames. Build screens, logic and tests in the browser with no game engine, then export to Unity. 给 AI Agent 用的游戏 UI 框架，不依赖游戏引擎。"
+category = "skills-prompts"
+tags = ["agent-plugins", "ai-agents", "claude-code", "codex", "fairygui", "game-ui", "gamedev", "html5"]
+repository = "https://github.com/LumioGames/LGUI"
+website = "https://lumiogames.github.io/LGUI/"
+language = "JavaScript"
+added = 2026-11-12

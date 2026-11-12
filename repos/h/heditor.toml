@@ -1,0 +1,7 @@
+name = "heditor"
+description = "Creative vertical video editing skill for AI agents (Claude Code, Codex, OpenCode, Cursor, Hermes): named styles, creative mode, HyperFrames + voice-first mix."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude-code", "codex", "ffmpeg", "hyperframes", "motion-graphics", "opencode"]
+repository = "https://github.com/pycodebr/heditor"
+language = "Python"
+added = 2026-11-12

@@ -1,0 +1,8 @@
+name = "Codexless"
+description = "Let ChatGPT use Codex's local toolbox, then call Codex only when needed."
+category = "chat"
+tags = ["chatgpt", "codex", "developer-tools", "local-tools", "mcp", "model-context-protocol"]
+repository = "https://github.com/liyana31811/Codexless"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-11-12

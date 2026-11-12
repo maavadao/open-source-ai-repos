@@ -1,0 +1,8 @@
+name = "hermes-mobile-app"
+description = "Your agent, on your phone. A native Android app for Hermes Agent, running entirely on-device (Termux)."
+category = "llm-apps"
+tags = ["ai-agent", "android", "hermes-agent", "llm", "termux"]
+repository = "https://github.com/omarqaterge/hermes-mobile-app"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-12

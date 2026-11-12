@@ -1,0 +1,9 @@
+name = "postmill-app"
+description = "Open-source social media management platform with an integrated Creative Suite. Design, publish, schedule, and engage across 45+ channels with AI-powered tools. Self-host or use Postmill Cloud."
+category = "agents"
+tags = ["ai", "ai-agents", "content-creation", "generative-ai", "image-editor", "marketing-automation", "multi-tenant", "nestjs"]
+repository = "https://github.com/postmill-ai/postmill-app"
+website = "https://postmill.ai"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-11-12

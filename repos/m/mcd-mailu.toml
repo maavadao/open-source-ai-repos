@@ -1,0 +1,7 @@
+name = "mcd-mailu"
+description = "麦途 · 读懂你已经点过的麦当劳 | 基于麦当劳官方 MCP 的历史订单场景叙事 Skill | 麦当劳程序员创意开发大赛参赛作品"
+category = "mcp-servers"
+tags = ["ai-agent", "mcdonalds", "mcp", "python", "skill", "workbuddy"]
+repository = "https://github.com/calmsprite2001/mcd-mailu"
+language = "Python"
+added = 2026-11-12

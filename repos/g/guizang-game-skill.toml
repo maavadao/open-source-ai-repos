@@ -1,0 +1,9 @@
+name = "guizang-game-skill"
+description = "歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included."
+category = "skills-prompts"
+tags = ["3d-game", "action-game", "agent-skills", "ai-agents", "ai-generated", "browser-game", "claude-code", "claude-skills"]
+repository = "https://github.com/op7418/guizang-game-skill"
+website = "https://op7418.github.io/guizang-game-skill/"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-11-12

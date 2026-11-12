@@ -1,0 +1,8 @@
+name = "madre"
+description = "MADRE · Codex, Claude Code, Gemini CLI and OpenCode in one local chat on your machine, with one memory every agent shares. Home for all your projects and a Coordinator above them. Read-only by default; you unlock more per message. In Spanish and English. Public beta."
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "codex", "gemini-cli", "local-first", "mcp", "memory", "multi-agent"]
+repository = "https://github.com/jossuealcacao-exe/madre"
+website = "https://madre.run"
+language = "JavaScript"
+added = 2026-11-12

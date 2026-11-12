@@ -1,0 +1,8 @@
+name = "doc2harness"
+description = "Official Code for the paper \"Doc2Harness: Benchmarking LLMs on Long-Horizon Harness Engineering of Coding Agents \""
+category = "agents"
+tags = ["agent", "benchmark", "harness", "llm", "llm-agents"]
+repository = "https://github.com/YuyaoGe/doc2harness"
+website = "https://geyuyao.com/doc2harness/"
+language = "Python"
+added = 2026-11-12

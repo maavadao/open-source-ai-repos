@@ -1,0 +1,9 @@
+name = "omux"
+description = "The native agentic development platform for the Mac: a 5 MB terminal that runs fleets of Claude Code and Codex sessions side by side, each on its own branch. Built with SwiftUI, no Electron, no telemetry."
+category = "skills-prompts"
+tags = ["agentic-development-platform", "agentic-ide", "ai-agents", "anthropic", "claude", "claude-code", "codex", "coding-agents"]
+repository = "https://github.com/onurozcan/omux"
+website = "https://omux.app/"
+license = "MIT"
+language = "Swift"
+added = 2026-11-12

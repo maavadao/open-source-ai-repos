@@ -1,0 +1,9 @@
+name = "otelyssey"
+description = "OpenTelemetry plugins for every coding agent, in the Agent Plugins format — a marketplace that runs itself: open an issue, the repository validates, reviews, lists and follows your plugin."
+category = "skills-prompts"
+tags = ["agent-plugins", "agent-skills", "ai-agents", "claude-code", "codex", "coding-agents", "copilot-cli", "developer-tools"]
+repository = "https://github.com/using-system/otelyssey"
+website = "https://github.com/using-system/otelyssey#plugins"
+license = "MIT"
+language = "Python"
+added = 2026-11-12

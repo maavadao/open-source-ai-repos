@@ -1,0 +1,9 @@
+name = "MuseAi-Account-Backup"
+description = "AI Agent Lockout Backup Kit A vendor-independent continuity kit for backing up, rotating, and recovering information used by AI agents—without storing secrets in the agent or in GitHub. Check out Muse, your personal AI agent. Code: 5F2V31 https://muse.ai/join"
+category = "agents"
+tags = ["ai-agent", "ai-agents", "backup", "lock", "locked", "meta", "muse"]
+repository = "https://github.com/Git-FED/MuseAi-Account-Backup"
+website = "https://git-fed.github.io/MuseAi-Account-Backup/"
+license = "MIT"
+language = "HTML"
+added = 2026-11-12

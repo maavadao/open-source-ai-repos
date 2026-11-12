@@ -1,0 +1,8 @@
+name = "moli-os"
+description = "Agent-native, ultra-light home automation in Rust · Domotique ultra-légère pensée pour les agents"
+category = "agents"
+tags = ["ai-agents", "home-automation", "mcp", "rust", "smart-home"]
+repository = "https://github.com/rudy-io/moli-os"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-12

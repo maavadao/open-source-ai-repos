@@ -1,0 +1,9 @@
+name = "Roamies"
+description = "Desktop creatures with an AI sidekick that lives on your screen. Talk to it, it remembers what you said you'd do, reminds you and points at things. Your choice of AI. Mac and Windows."
+category = "agents"
+tags = ["adhd", "agentic-ai", "ai", "ai-agent", "ai-assistant", "anthropic", "claude", "desktop-app"]
+repository = "https://github.com/KenKaiii/Roamies"
+website = "https://www.skool.com/raid"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-11-12

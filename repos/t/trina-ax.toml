@@ -1,0 +1,9 @@
+name = "trina-ax"
+description = "Set up Claude Code once. Your whole company gets it. Self-hosted Claude Code and Codex with your company files, team skills, MCP and per-person folder permissions."
+category = "mcp-servers"
+tags = ["agent-skills", "ai-workspace", "claude-code", "codex", "document-management", "hwp", "mcp", "self-hosted"]
+repository = "https://github.com/trina-app/trina-ax"
+website = "https://ax.trina.app"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-11-12

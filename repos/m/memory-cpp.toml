@@ -1,0 +1,9 @@
+name = "memory.cpp"
+description = "Your repo remembers: local-first AI memory and context control plane for developers and coding agents."
+category = "coding"
+tags = ["agent-memory", "ai", "ai-agents", "ai-memory", "ai-tools", "cli", "coding-assistant", "context-engineering"]
+repository = "https://github.com/KirtiRamchandani/memory.cpp"
+website = "https://github.com/KirtiRamchandani/memory.cpp"
+license = "MIT"
+language = "Rust"
+added = 2026-11-12

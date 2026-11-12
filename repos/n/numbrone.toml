@@ -1,0 +1,8 @@
+name = "numbrone"
+description = "A chief of staff for your coding agents: route requests to per-project manager agents that run parallel workers in git worktrees, on herdr."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude-code", "git-worktree", "herdr"]
+repository = "https://github.com/stevenmichaelthomas/numbrone"
+license = "MIT"
+language = "Shell"
+added = 2026-11-12

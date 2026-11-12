@@ -1,0 +1,8 @@
+name = "xnews"
+description = "X News — overseas founder posts & AI videos, rewritten in Qiaomu Chinese"
+category = "other"
+tags = ["ai", "cloudflare-workers", "news", "rss"]
+repository = "https://github.com/joeseesun/xnews"
+website = "https://xnews.qiaomu.ai"
+language = "HTML"
+added = 2026-11-12

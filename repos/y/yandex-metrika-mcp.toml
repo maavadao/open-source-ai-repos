@@ -1,0 +1,8 @@
+name = "yandex-metrika-mcp"
+description = "Read-only MCP server for Yandex Metrika (Яндекс Метрика): verifiable reports, period comparisons, time series and exports for Claude, Cursor, VS Code and Codex."
+category = "mcp-servers"
+tags = ["ai-agents", "analytics", "claude", "claude-code", "claude-desktop", "codex", "cursor", "mcp"]
+repository = "https://github.com/DevCrabs-Inc/yandex-metrika-mcp"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-12

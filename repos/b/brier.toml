@@ -1,0 +1,8 @@
+name = "brier"
+description = "Anyone can predict the future. Almost nobody keeps the receipt. A hash-chained prediction ledger for LLMs — sealed before the answer exists, graded with proper scoring rules."
+category = "agents"
+tags = ["ai", "ai-agents", "llm", "robinhood-chain"]
+repository = "https://github.com/Noisyxl/brier"
+license = "MIT"
+language = "HTML"
+added = 2026-11-12

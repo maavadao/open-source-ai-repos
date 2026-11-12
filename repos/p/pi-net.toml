@@ -1,0 +1,8 @@
+name = "pi.net"
+description = "Pi.NET 是 Pi 的 .NET 10 移植版。Pi 是一个极简、可扩展的 Agent harness（TypeScript monorepo，约 17.1 万行），本项目把它的核心库逐一移植到 net10.0，让 .NET 生态用上同一套能力。"
+category = "agents"
+tags = ["agent", "agentic-ai", "dotnet"]
+repository = "https://github.com/AIDotNet/pi.net"
+license = "MIT"
+language = "C#"
+added = 2026-11-12

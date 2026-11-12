@@ -1,0 +1,8 @@
+name = "nano-banana-pro-prompts"
+description = "Nano Banana Pro prompts: tested prompt recipes with example renders, aspect ratios, the model id (gemini-3-pro-image-preview) and the cost each render reported."
+category = "skills-prompts"
+tags = ["ai-image-api", "apimart", "gemini-image", "image-editing", "image-prompts", "nano-banana-pro", "nano-banana-pro-prompts", "prompt-engineering"]
+repository = "https://github.com/apimart-awesome-ai-api-proxy/nano-banana-pro-prompts"
+website = "https://go.apimart.ai/k-cf5994"
+language = "Python"
+added = 2026-11-12

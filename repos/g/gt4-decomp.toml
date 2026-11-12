@@ -1,0 +1,8 @@
+name = "gt4-decomp"
+description = "Matching decompilation of the Gran Turismo 4 (PS2) engine, AI-assisted. No game data included."
+category = "agents"
+tags = ["ai-agents", "decompilation", "gran-turismo", "matching-decompilation", "ps2", "reverse-engineering"]
+repository = "https://github.com/gustavocanepa/gt4-decomp"
+license = "MIT"
+language = "C"
+added = 2026-11-12

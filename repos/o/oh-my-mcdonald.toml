@@ -1,0 +1,8 @@
+name = "Oh-My-McDonald"
+description = "基于麦当劳官方 MCP 的对话式 AI Skill，支持餐品推荐、门店比价、优惠查询、营养计算和探索记录，并通过 Python 生成体素风格分享图片。"
+category = "mcp-servers"
+tags = ["ai-agent", "ai-skill", "coupons", "data-visualization", "mcdonalds", "mcdonalds-mcp", "mcp", "model-context-protocol"]
+repository = "https://github.com/xiaozhangup/Oh-My-McDonald"
+license = "MIT"
+language = "Python"
+added = 2026-11-12

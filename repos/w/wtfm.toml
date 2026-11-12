@@ -1,0 +1,9 @@
+name = "wtfm"
+description = "WTFM: Write the F***ing Manual. A plugin for your coding agent that writes your user docs, screenshots included."
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "cli", "codex", "documentation", "help-center", "markdown", "mcp"]
+repository = "https://github.com/SupportPages-io/wtfm"
+website = "https://supportpages.io/wtfm"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-11-12

@@ -1,0 +1,8 @@
+name = "PAKGOV-RAG-project"
+description = "Research project on bilingual Urdu-English retrieval-augmented generation for Pakistani government and legal documents, with OCR, hybrid retrieval, citation grounding, and evaluation."
+category = "vision"
+tags = ["artificial-intelligence", "information-retrieval", "legal-nlp", "low-resource-languages", "nlp", "ocr", "rag", "retrieval-augmented-generation"]
+repository = "https://github.com/salikhussain71-code/PAKGOV-RAG-project"
+license = "MIT"
+language = "Python"
+added = 2026-11-12

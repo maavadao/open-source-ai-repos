@@ -1,0 +1,8 @@
+name = "Qwen-Planner-Agent"
+description = "Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents"
+category = "agents"
+tags = ["agents", "llm"]
+repository = "https://github.com/Tongyi-MAI/Qwen-Planner-Agent"
+website = "https://tongyi-mai.github.io/Qwen-Planner-Agent/"
+language = "HTML"
+added = 2026-11-12

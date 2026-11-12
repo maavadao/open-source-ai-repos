@@ -1,0 +1,9 @@
+name = "construct"
+description = "Describe a thing, get a hologram, a 3D model and its parts: built by any AI agent, honestly."
+category = "skills-prompts"
+tags = ["3d-visualization", "agent-based-modeling", "agent-skills", "ai-agents", "blender-addon", "claude-code", "game-assets", "gltf"]
+repository = "https://github.com/rtmandreyev/construct"
+website = "https://rtmandreyev.github.io/construct/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-12
