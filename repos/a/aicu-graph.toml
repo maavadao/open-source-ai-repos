@@ -1,0 +1,8 @@
+name = "AICU-Graph"
+description = "可扩展到各个领域的多 Agent 协作平台：自动分析任务，动态组建由不同角色组成的 AI 团队，协同完成复杂任务。"
+category = "skills-prompts"
+tags = ["agent-orchestration", "ai-agent-framework", "ai-agents", "claude-code", "codex", "gemini", "llm", "multi-agent"]
+repository = "https://github.com/heyongjun666/AICU-Graph"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-13

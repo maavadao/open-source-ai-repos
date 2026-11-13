@@ -1,0 +1,9 @@
+name = "decks"
+description = "Agent-first slide decks: comment under a slide, and your coding agent (Claude Code or Codex) makes the change and replies on the slide."
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "codex", "presentations", "slides"]
+repository = "https://github.com/paulmil11/decks"
+website = "https://strategyu.co/decks/"
+license = "MIT"
+language = "HTML"
+added = 2026-11-13

@@ -1,0 +1,9 @@
+name = "go-taas"
+description = "Open-source Token as a Service (TaaS) platform on Kubernetes — deploy LLMs, price by model × GPU, and meter/bill usage via an OpenAI-compatible API."
+category = "other"
+tags = ["ai", "ai-infra", "taas"]
+repository = "https://github.com/go-taas/go-taas"
+website = "https://go-taas.com"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-11-13

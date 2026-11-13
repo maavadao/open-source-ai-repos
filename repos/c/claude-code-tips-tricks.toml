@@ -1,0 +1,7 @@
+name = "claude-code-tips-tricks"
+description = "My favorite Claude Code tips & tricks"
+category = "skills-prompts"
+tags = ["claude-code", "mcp", "skills", "tips"]
+repository = "https://github.com/onmyway133/claude-code-tips-tricks"
+website = "https://onmyway133.com"
+added = 2026-11-13

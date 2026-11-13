@@ -1,0 +1,9 @@
+name = "jevcore"
+description = "TypeSafe Jev for DeepSeek Harness, the Model Context Protocol, and plain Node: typed judgments instead of prose, offline by default."
+category = "mcp-servers"
+tags = ["ai-agents", "cordis", "decision-model", "deepseek", "deepseek-harness", "dsh", "dsh-plugin", "jev"]
+repository = "https://github.com/PerryLink/jevcore"
+website = "https://www.npmjs.com/package/jevcore"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-13

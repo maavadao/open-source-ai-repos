@@ -1,0 +1,9 @@
+name = "signal8-mcp"
+description = "Signal8 MCP Server - SEC filing intelligence for AI agents"
+category = "mcp-servers"
+tags = ["13f", "claude", "congress-trading", "finance", "form-4", "insider-trading", "mcp", "mcp-server"]
+repository = "https://github.com/signal8ai/signal8-mcp"
+website = "https://signal8.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-13

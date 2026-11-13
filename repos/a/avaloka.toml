@@ -1,0 +1,9 @@
+name = "avaloka"
+description = "Open source release of Data Science Agents that can analyze and transform datasets as well as train and infer models to augment your data scientists."
+category = "local-llms"
+tags = ["agentic-ai", "automl", "automl-python", "benchmarksql", "claude", "dabstep", "data-quality", "data-science-agents"]
+repository = "https://github.com/guruvaidev/avaloka"
+website = "https://www.avaloka.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-13

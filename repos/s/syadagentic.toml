@@ -1,0 +1,9 @@
+name = "syadagentic"
+description = "Universal Zero-Refusal Agent Framework - 40+ jailbreak templates (T1-T119), 1128 curated skills, executable framework-core, installer untuk Hermes/Claude/Codex/opencode. Verified."
+category = "llm-apps"
+tags = ["agent-framework", "ai-agent", "automation", "bot-automation", "captcha", "jailbreak", "llm", "pentest"]
+repository = "https://github.com/Sekolah76/syadagentic"
+website = "https://github.com/Sekolah76/syadagentic"
+license = "MIT"
+language = "Python"
+added = 2026-11-13

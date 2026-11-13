@@ -1,0 +1,8 @@
+name = "turbo-mlx"
+description = "Local AI image & video generation for Apple Silicon: a native macOS app with an MLX Swift engine. FLUX.2 Klein, Z-Image Turbo, Qwen-Image 2512, Ming-Image and LTX-2.3 (video with sound). Sandboxed, no Python."
+category = "image"
+tags = ["apple-silicon", "generative-ai", "macos", "mlx", "swiftui", "text-to-image", "text-to-video"]
+repository = "https://github.com/rinste/turbo-mlx"
+license = "MIT"
+language = "Swift"
+added = 2026-11-13

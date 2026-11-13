@@ -1,0 +1,8 @@
+name = "magaza-mcp"
+description = "One MCP server, two stores: App Store Connect + Google Play."
+category = "mcp-servers"
+tags = ["android", "android-publisher", "antigravity", "app-store-connect", "claude", "cursor", "google-play", "ios"]
+repository = "https://github.com/tunaarikaya/magaza-mcp"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-13

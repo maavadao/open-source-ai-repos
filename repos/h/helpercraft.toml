@@ -1,0 +1,9 @@
+name = "helpercraft"
+description = "Craft your own AI agent: a real Agent Skill (SKILL.md) with a job, rules and a personality. Keep your team in one folder; your AI suggests who fits and asks first. Free, private, one file."
+category = "coding"
+tags = ["agent-skills", "ai-agents", "chatgpt", "claude", "copilot", "gemini", "no-code", "offline-first"]
+repository = "https://github.com/Helpercraft/helpercraft"
+website = "https://helpercraft.github.io/helpercraft/"
+license = "MIT"
+language = "HTML"
+added = 2026-11-13

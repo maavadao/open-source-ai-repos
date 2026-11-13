@@ -1,0 +1,8 @@
+name = "agent-workflow-platform"
+description = "Open-source starter stack for Agent product developers: desktop client, control plane, workers, multi-agent workflows, admin, mobile, and operations."
+category = "agents"
+tags = ["agent-development", "agent-platform", "agent-workflow", "ai-agents", "developer-tools", "electron", "fastapi", "multi-agent"]
+repository = "https://github.com/primorLee/agent-workflow-platform"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-13

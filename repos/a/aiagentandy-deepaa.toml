@@ -1,0 +1,9 @@
+name = "DeepAA"
+description = "Local-first AI Agent gateway & observability for Codex, Claude Code，Dsh and more. 统一模型管理、调用追踪与 Token 成本分析。"
+category = "skills-prompts"
+tags = ["ai-agent", "ai-agents", "claude-code", "codex", "coding-agent", "coding-agents", "dsh", "llm-gateway"]
+repository = "https://github.com/AIAgentAndy/DeepAA"
+website = "https://deepaa.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-13

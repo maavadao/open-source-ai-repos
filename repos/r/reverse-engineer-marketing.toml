@@ -1,0 +1,9 @@
+name = "reverse-engineer-marketing"
+description = "Paste a link, get the whole marketing machine behind it: paid ads, organic social, SEO, Reddit, founders, funnel — evidence-cited. CLI, MCP server and a local web app that uses your Claude Code or Codex plan."
+category = "mcp-servers"
+tags = ["ad-library", "ai-agents", "claude-code", "codex", "competitor-analysis", "growth", "marketing", "mcp"]
+repository = "https://github.com/dansugc/reverse-engineer-marketing"
+website = "https://dansugc.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-13

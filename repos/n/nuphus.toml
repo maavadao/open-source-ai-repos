@@ -1,0 +1,9 @@
+name = "nuphus"
+description = "Nuphus — 本地优先的 AI Agent：真实桌面执行力 + 手机第二块屏幕。Local-first AI agent with real desktop execution and dual-device real-time sync."
+category = "agents"
+tags = ["agent-skills", "ai-agent", "ai-agents", "automation", "computer-use", "desktop-automation", "llm", "local-first"]
+repository = "https://github.com/mrpulor-gh/nuphus"
+website = "https://github.com/mrpulor-gh/nuphus"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-13

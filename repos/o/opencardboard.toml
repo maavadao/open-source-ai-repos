@@ -1,0 +1,8 @@
+name = "OpenCardboard"
+description = "OpenCardboard — local-first chat-to-edit AI video editor. Your footage never leaves your machine."
+category = "other"
+tags = ["ai", "electron", "local-first", "mcp", "video-editor"]
+repository = "https://github.com/rakesh0x/OpenCardboard"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-13

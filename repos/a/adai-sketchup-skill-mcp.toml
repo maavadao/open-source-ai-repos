@@ -1,0 +1,7 @@
+name = "adai-sketchup-skill-mcp"
+description = "SketchUp MCP + Skill for AI modeling: managed Ruby transactions, geometry readback, source-image review and local edits. Codex/PipClaw on Windows."
+category = "mcp-servers"
+tags = ["3d-modeling", "ai-agent", "ai-modeling", "automation", "cad", "codex", "dimension-constraints", "geometry-readback"]
+repository = "https://github.com/laowang-wy/adai-sketchup-skill-mcp"
+language = "JavaScript"
+added = 2026-11-13

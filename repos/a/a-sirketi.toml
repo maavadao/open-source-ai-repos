@@ -1,0 +1,8 @@
+name = "a-sirketi"
+description = "A Şirketi — üç Claude Code ajanı, bir bekçi, bir dağıtıcı; kapalı döngü, yayın düğmesi insanda. Selma Şirketi · Bölüm 1"
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "python", "telegram-bot", "turkish"]
+repository = "https://github.com/selmakcby/a-sirketi"
+license = "MIT"
+language = "Python"
+added = 2026-11-13

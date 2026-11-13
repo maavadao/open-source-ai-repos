@@ -1,0 +1,8 @@
+name = "OrcaPromptVault"
+description = "The open archive of how AI agents actually work. A versioned, verifiable archive of system prompts, developer instructions, tool schemas and agent harnesses powering today's AI products. Captured with OrcaReplay."
+category = "skills-prompts"
+tags = ["agent-harness", "ai-agents", "ai-transparency", "anthropic", "chatgpt", "claude", "claude-code", "codex"]
+repository = "https://github.com/Continuum-AI-Corp/OrcaPromptVault"
+website = "https://www.orcarouter.ai"
+license = "AGPL-3.0"
+added = 2026-11-13

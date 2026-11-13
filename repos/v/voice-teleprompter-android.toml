@@ -1,0 +1,9 @@
+name = "voice-teleprompter-android"
+description = "Suflyor (Суфлёр): free voice-following teleprompter app for Android. Scrolls as you speak, floats over Instagram, TikTok and the camera. Speech recognized on the phone in 13 languages, no internet permission. Телесуфлёр по голосу для Android."
+category = "speech"
+tags = ["android", "android-app", "content-creation", "foss", "instagram-reels", "jetpack-compose", "kotlin", "offline"]
+repository = "https://github.com/olerast67/voice-teleprompter-android"
+website = "https://olerast67.github.io/voice-teleprompter-android/"
+license = "GPL-3.0"
+language = "Kotlin"
+added = 2026-11-13

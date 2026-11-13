@@ -1,0 +1,8 @@
+name = "CosyRedactGateway"
+description = "Lightweight, stateless privacy gateway for LLM APIs — redact secrets before OpenAI/Anthropic upstreams and restore them transparently in SSE and tool calls."
+category = "llm-apps"
+tags = ["anthropic", "cloudflare-workers", "data-masking", "deno", "gitleaks", "llm", "llm-proxy", "openai"]
+repository = "https://github.com/CassiopeiaCode/CosyRedactGateway"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-11-13

@@ -1,0 +1,8 @@
+name = "Quilt"
+description = "AI-native infinite-canvas design tool: describe an app, get multi-screen HTML designs on an infinite canvas, click through them as a prototype, and let your local coding agent read and write the canvas over MCP."
+category = "mcp-servers"
+tags = ["ai", "claude", "design-tool", "infinite-canvas", "mcp", "prototyping"]
+repository = "https://github.com/Bearisbug/Quilt"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-13

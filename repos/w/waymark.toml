@@ -1,0 +1,8 @@
+name = "waymark"
+description = "Waymark is a local-first, Git-friendly work tracker that keeps project work items in Markdown files, with support for hierarchies, dependencies, and customizable fields."
+category = "other"
+tags = ["git", "issue-tracker", "local-first", "markdown", "mcp", "mcp-server", "model-context-protocol", "rust"]
+repository = "https://github.com/QiYueran-source/waymark"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-13

@@ -1,0 +1,7 @@
+name = "open-sesame"
+description = "🔓 An AI web-pentest skill for Claude Code. Point it at a site you're authorized to test — it maps the attack surface, works through the OWASP WSTG, validates findings, and writes dev + stakeholder reports (PDF)."
+category = "skills-prompts"
+tags = ["ai-agents", "anthropic", "appsec", "claude", "claude-code", "ethical-hacking", "infosec", "owasp"]
+repository = "https://github.com/hassan-algo/open-sesame"
+language = "HTML"
+added = 2026-11-13

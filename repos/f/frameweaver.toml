@@ -1,0 +1,8 @@
+name = "frameweaver"
+description = "Local video workspace for AI scene generation, timeline editing, speech analysis, narration, subtitles, audio mixing, and media management."
+category = "video"
+tags = ["2d-animation", "ai-video", "chrome-extension", "facebook-reels", "fastapi", "google-flow", "local-first", "react"]
+repository = "https://github.com/phucnguyentvp1/frameweaver"
+license = "MIT"
+language = "Python"
+added = 2026-11-13

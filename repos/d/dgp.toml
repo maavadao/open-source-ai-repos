@@ -1,0 +1,8 @@
+name = "DGP"
+description = "🔥🔥🔥[NeurIPS 2026] Official Implementation of DGP: Where to Connect? Boosting MLLMs via Dynamic Gated Pathways across ALL ViT and LLM Layers"
+category = "llm-apps"
+tags = ["large-language-models", "multi-model"]
+repository = "https://github.com/YingyingYan1/DGP"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-13

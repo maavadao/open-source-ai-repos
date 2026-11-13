@@ -1,0 +1,9 @@
+name = "stalemap"
+description = "Tell your coding agent which dependencies changed after its training cutoff. Diffs types and changelogs, writes a short block into AGENTS.md / CLAUDE.md."
+category = "skills-prompts"
+tags = ["agents-md", "ai-agents", "breaking-changes", "changelog", "claude-code", "claude-code-plugin", "codex", "coding-agents"]
+repository = "https://github.com/Umair/stalemap"
+website = "https://stalemap.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-13

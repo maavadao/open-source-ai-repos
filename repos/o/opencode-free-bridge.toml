@@ -1,0 +1,8 @@
+name = "opencode-free-bridge"
+description = "OpenAI-compatible bridge for OpenCode free-tier models — no account required"
+category = "llm-apps"
+tags = ["ai", "bridge", "deepseek", "free", "llm", "muse-spark", "nodejs", "openai"]
+repository = "https://github.com/azrinaldi/opencode-free-bridge"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-13

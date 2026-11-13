@@ -1,0 +1,8 @@
+name = "Nosis"
+description = "Nosis is a lightweight personal agent runtime: per-session execution boundaries with OS-level sandboxing, computer use, a full built-in toolset, Skill / Plugin / MCP extensions, one runtime shared by GUI and TUI, and file-persisted sessions, plans, and memory."
+category = "mcp-servers"
+tags = ["agent-framework", "agent-runtime", "agent-skills", "ai-agent", "ai-assistants", "computer-use", "context-engineering", "human-in-the-loop"]
+repository = "https://github.com/EvannZhongg/Nosis"
+license = "MIT"
+language = "Python"
+added = 2026-11-13

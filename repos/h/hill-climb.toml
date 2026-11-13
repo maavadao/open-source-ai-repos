@@ -1,0 +1,8 @@
+name = "Hill-Climb"
+description = "Make your coding agent prove \"done\". Each change is kept only if a locked test or benchmark scores it better. Claude Code and Codex skill."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "ai-coding", "autonomous-agents", "benchmarking", "claude-code", "claude-code-plugin", "claude-skills"]
+repository = "https://github.com/Bil0000/Hill-Climb"
+license = "MIT"
+language = "Python"
+added = 2026-11-13

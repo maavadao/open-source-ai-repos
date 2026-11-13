@@ -1,0 +1,9 @@
+name = "pi-gpui"
+description = "A native GUI for the pi coding agent, built with Rust and GPUI. For macOS (Apple silicon) and Linux."
+category = "skills-prompts"
+tags = ["ai-coding-agent", "claude-code", "codex", "coding-agent", "desktop-app", "gpui", "llm", "macos"]
+repository = "https://github.com/bytesbay/pi-gpui"
+website = "https://pi-gpui.dev"
+license = "MIT"
+language = "Rust"
+added = 2026-11-13

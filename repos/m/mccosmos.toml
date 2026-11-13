@@ -1,0 +1,9 @@
+name = "McCosmos"
+description = "McCosmos · 麦门星图｜基于麦当劳 MCP 的餐品营养对比与替代发现 Skill，提供独立运行包、可解释分析与三维星图。"
+category = "mcp-servers"
+tags = ["agent-skills", "data-visualization", "mcdonalds", "mcp", "nutrition", "react", "threejs", "typescript"]
+repository = "https://github.com/ayingQAQ/McCosmos"
+website = "https://mccosmos.pages.dev"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-13

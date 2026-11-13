@@ -1,0 +1,8 @@
+name = "VetarAI"
+description = "VetarAI 是一款全原生 Swift 的本地桌面应用：多 Agent 协作、可视化工作流、拉模式知识仓库+本地语义检索、多模型超级工作室、CU 电脑操作。数据保存在本地磁盘。"
+category = "agents"
+tags = ["agent-orchestration", "ai-agents", "ai-workspace", "llm-memory", "multi-agent-system", "rag"]
+repository = "https://github.com/zero11924065-dev/VetarAI"
+license = "GPL-3.0"
+language = "Swift"
+added = 2026-11-13

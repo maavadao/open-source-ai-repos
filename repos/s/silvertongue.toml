@@ -1,0 +1,9 @@
+name = "silvertongue"
+description = "Write like anyone famous. 65+ famous voices and styles for your agent over MCP, and a funny AI code review GitHub Action: your PRs reviewed by Gordon Ramsay. Every source linked."
+category = "mcp-servers"
+tags = ["ai-agents", "ai-code-review", "brainrot", "celebrity", "claude", "claude-code", "code-review", "funny"]
+repository = "https://github.com/auscaster/silvertongue"
+website = "https://silvertongue.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-13

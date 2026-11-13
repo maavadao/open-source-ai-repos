@@ -1,0 +1,8 @@
+name = "sub2sub"
+description = "Share AI resources and collaborate across your devices and authorized teammates. Delegate tasks through Codex or Claude Code, collect files and responses, and continue the same task."
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "codex", "collaboration", "mcp"]
+repository = "https://github.com/mekoand/sub2sub"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-13

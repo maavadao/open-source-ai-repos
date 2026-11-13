@@ -1,0 +1,8 @@
+name = "aoci-wuch"
+description = "Task-first AI agent skill library · https://skill.wuch-ai.net"
+category = "no-code"
+tags = ["agent-skills", "ai-agent", "ai-coding-assistant", "ai-tools", "developer-tools", "mcp", "model-context-protocol", "workflow-automation"]
+repository = "https://github.com/CCharlie-xiu/aoci-wuch"
+website = "https://skill.wuch-ai.net/"
+language = "Python"
+added = 2026-11-13

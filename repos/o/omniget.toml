@@ -1,0 +1,9 @@
+name = "omniget"
+description = "Free, open source video downloader for Windows, macOS and Linux that AI agents can drive. Downloads from YouTube, Instagram, TikTok, X, Reddit, torrents and the sites yt-dlp supports. Its MCP server lets Claude Code, Cursor and Codex queue downloads, and it runs Claude Code, Codex, Gemini CLI and O…"
+category = "mcp-servers"
+tags = ["agent-client-protocol", "claude-code", "codex-cli", "coding-agent", "download-manager", "downloader", "gallery-dl", "instagram-downloader"]
+repository = "https://github.com/tonhowtf/omniget"
+website = "https://getomniget.com/"
+license = "GPL-3.0"
+language = "Rust"
+added = 2026-11-13

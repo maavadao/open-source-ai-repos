@@ -1,0 +1,8 @@
+name = "gemini-stealth-bridge"
+description = "Browserless Chrome uTLS + HTTP/2 OpenAI-compatible API daemon for Google Gemini Web (/v1/chat/completions & /v1/responses)"
+category = "llm-apps"
+tags = ["bridge", "gemini", "gemini-api", "golang", "http2", "llm", "openai-compatible", "reverse-proxy"]
+repository = "https://github.com/azrinaldi/gemini-stealth-bridge"
+license = "MIT"
+language = "Go"
+added = 2026-11-13

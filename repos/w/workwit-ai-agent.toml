@@ -1,0 +1,7 @@
+name = "WorkWit-AI-Agent"
+description = "WorkWit: a self-hosted, open-source (MIT) enterprise AI Agent platform for office automation — built-in contract review & resume screening, 40+ skills, MCP connectors, multi-tenant RBAC. Deploy with one Docker Compose."
+category = "mcp-servers"
+tags = ["ai-agents", "docker", "enterprise", "fastapi", "llm", "llm-tools", "mcp", "office-automation"]
+repository = "https://github.com/crane-in-clear-sky/WorkWit-AI-Agent"
+language = "Python"
+added = 2026-11-13

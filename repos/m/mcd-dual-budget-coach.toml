@@ -1,0 +1,9 @@
+name = "mcd-dual-budget-coach"
+description = "麦门双预算军师 · 麦当劳中国 MCP 参赛作品 | 钱一个预算、热量一个预算，两个闸门同时过才配餐：88,788 种组合本地穷举，给最划算/最扎实/最均衡三档、券后到手价、全息人设卡。Dual-budget (money + calories) McDonald's China MCP Agent Skill with 3-tier meal plans, coupon math and a holographic persona card."
+category = "mcp-servers"
+tags = ["agent-skills", "ai-agent", "budget", "budgeting", "calories", "chinese", "coupon", "food"]
+repository = "https://github.com/erikzeng2008-del/mcd-dual-budget-coach"
+website = "https://erikzeng2008-del.github.io/mcd-dual-budget-coach/"
+license = "MIT"
+language = "HTML"
+added = 2026-11-13

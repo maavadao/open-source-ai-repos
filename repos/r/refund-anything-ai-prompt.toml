@@ -1,0 +1,7 @@
+name = "refund-anything-ai-prompt"
+description = "AI prompt & agent skill that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 45+ jurisdictions."
+category = "skills-prompts"
+tags = ["agent-skills", "ai", "chargeback", "chatgpt", "claude", "consumer-rights", "prompt", "refund"]
+repository = "https://github.com/paveldevyatov/refund-anything-ai-prompt"
+license = "MIT"
+added = 2026-11-13

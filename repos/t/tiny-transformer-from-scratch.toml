@@ -1,0 +1,8 @@
+name = "tiny-transformer-from-scratch"
+description = "A tiny Transformer built from scratch in PyTorch, with an English-to-Chinese translation demo | 用 PyTorch 从零实现的小型 Transformer，附英译中演示，帮助理解模型原理"
+category = "ml-platforms"
+tags = ["attention-mechanism", "deep-learning", "educational", "from-scratch", "machine-translation", "pytorch", "transformer"]
+repository = "https://github.com/Zguoxu/tiny-transformer-from-scratch"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-11-13

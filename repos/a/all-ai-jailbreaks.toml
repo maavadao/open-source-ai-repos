@@ -1,0 +1,7 @@
+name = "All-AI-Jailbreaks"
+description = "Curated archive of jailbreak and prompt-injection experiments for AI model robustness research, red-teaming, and defensive evaluation."
+category = "skills-prompts"
+tags = ["adversarial-prompts", "ai-robustness", "ai-safety", "jailbreak-research", "llm-security", "model-evaluation", "prompt-engineering", "prompt-injection"]
+repository = "https://github.com/buryusu/All-AI-Jailbreaks"
+language = "Batchfile"
+added = 2026-11-13

@@ -1,0 +1,8 @@
+name = "swissdevjobs-cli"
+description = "Search & apply to ~4,700 salary-transparent tech jobs across 7 countries (🇨🇭🇩🇪🇬🇧🇺🇸🇨🇦🇳🇱🇫🇷) from your terminal or AI agent — zero-dependency Python CLI + MCP server + Claude Code plugin"
+category = "mcp-servers"
+tags = ["ai-agents", "claude", "claude-code", "cli", "developer-jobs", "france", "germany", "job-application"]
+repository = "https://github.com/Stupidoodle/swissdevjobs-cli"
+license = "MIT"
+language = "Python"
+added = 2026-11-13

@@ -1,0 +1,9 @@
+name = "smolmaxxing"
+description = "maxxing the ability to run different LLMs on the smallest devices possible"
+category = "local-llms"
+tags = ["edge-ai", "llama-cpp", "llama-cpp-alternative", "llm", "local-llm", "local-llm-support", "on-device", "quantization"]
+repository = "https://github.com/hyperionaidev/smolmaxxing"
+website = "https://hyperion-ai.com/products/smolmaxxing"
+license = "MIT"
+language = "C"
+added = 2026-11-13

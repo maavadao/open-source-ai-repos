@@ -1,0 +1,8 @@
+name = "sift-light"
+description = "sift-light — Evidence-first search for AI agents."
+category = "skills-prompts"
+tags = ["ai-agent", "bun", "claude-code", "codex", "context-engineering", "dsh-plugin", "evidence-based", "grep"]
+repository = "https://github.com/lightsifter/sift-light"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-11-13

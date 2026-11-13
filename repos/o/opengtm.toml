@@ -1,0 +1,9 @@
+name = "OpenGTM"
+description = "Open-source, self-hosted alternative to Clay.com for lead sourcing, enrichment waterfalls, AI research, buying signals, and outbound automation."
+category = "agents"
+tags = ["ai-agents", "byok", "clay-alternative", "fastapi", "gtm", "gtm-engineering", "lead-enrichment", "mcp"]
+repository = "https://github.com/debpalash/OpenGTM"
+website = "https://opengtm.palash.dev"
+license = "AGPL-3.0"
+language = "Go"
+added = 2026-11-13

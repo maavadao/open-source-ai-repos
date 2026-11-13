@@ -1,0 +1,8 @@
+name = "awesome-opus-5-5-prompts"
+description = "Claude Opus 5.5 prompts for 3D scenes, games, animation and simulations. Source-linked examples in 14 languages, synced from CMS."
+category = "skills-prompts"
+tags = ["3d", "awesome", "claude", "claude-opus-5-5", "opus", "prompt-engineering", "prompts", "threejs"]
+repository = "https://github.com/TripoGrowthLab/awesome-opus-5-5-prompts"
+website = "https://www.tripo3d.ai/3d-prompts/models/claude-opus-5-5"
+language = "JavaScript"
+added = 2026-11-13

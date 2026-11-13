@@ -1,0 +1,8 @@
+name = "overseer"
+description = "Mission control for parallel agent work: worktrees, sessions, agents, PRs and tickets in one Tern panel."
+category = "agents"
+tags = ["agent-orchestration", "ai-agents", "developer-tools", "git-worktree", "oh-my-pi", "omp", "omp-extension", "tern"]
+repository = "https://github.com/mmnavarr/overseer"
+license = "MIT"
+language = "Luau"
+added = 2026-11-13

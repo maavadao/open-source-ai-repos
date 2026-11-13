@@ -1,0 +1,9 @@
+name = "gpt-voice"
+description = "A small, open-source Mac dictation app that uses your ChatGPT sign-in. Speak into T3 Code, your editor, or any text field."
+category = "chat"
+tags = ["chatgpt", "dictation", "macos", "open-source", "swift", "t3-code", "voice-to-text"]
+repository = "https://github.com/entropyconquers/gpt-voice"
+website = "https://entropyconquers.github.io/gpt-voice/"
+license = "MIT"
+language = "Swift"
+added = 2026-11-13

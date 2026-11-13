@@ -1,0 +1,8 @@
+name = "codex-memories"
+description = "Local-first persistent memory for OpenAI Codex: governed recall, progressive disclosure, no hosted vector database."
+category = "agents"
+tags = ["agent-memory", "ai-agents", "codex", "context-engineering", "llm", "local-first", "long-term-memory", "memory-management"]
+repository = "https://github.com/libenxier-beep/codex-memories"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-13

@@ -1,0 +1,8 @@
+name = "campus-knowledge-agent"
+description = "校园知识服务 Agent 智能体平台：基于 FastAPI、Qwen3 与 RAG，贯通公开资料解析、时间范围检索、证据溯源及人工审核。"
+category = "local-llms"
+tags = ["agent", "document-processing", "fastapi", "human-in-the-loop", "knowledge-base", "ollama", "python", "rag"]
+repository = "https://github.com/2430816465/campus-knowledge-agent"
+website = "https://zlyb.cloud"
+language = "Python"
+added = 2026-11-13

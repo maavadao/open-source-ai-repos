@@ -1,0 +1,7 @@
+name = "nouride"
+description = "Lightweight, zero-bloat multi-agent AI engine in a single daemon. Homelab-friendly and built for mini devices (Raspberry Pi, Orange Pi, Geekom, NUC, LXC)."
+category = "agents"
+tags = ["agentic-ai", "ai", "ai-agent", "harness", "harness-ai"]
+repository = "https://github.com/nouverse/nouride"
+language = "TypeScript"
+added = 2026-11-13

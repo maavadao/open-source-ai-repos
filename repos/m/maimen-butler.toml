@@ -1,0 +1,7 @@
+name = "maimen-butler"
+description = "麦门全能管家：基于麦当劳中国官方 MCP 的一站式助手——自动领券、权威比价、点餐推荐、每日巡检、巨无霸指数。2026 麦当劳程序员节创意开发大赛参赛作品。"
+category = "mcp-servers"
+tags = ["maimen", "mcdonalds", "mcp", "mcp-skill", "model-context-protocol", "nodejs"]
+repository = "https://github.com/07liu/maimen-butler"
+language = "JavaScript"
+added = 2026-11-13

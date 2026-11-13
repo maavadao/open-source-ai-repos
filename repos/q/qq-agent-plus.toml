@@ -1,0 +1,8 @@
+name = "qq-agent-plus"
+description = "Linux QQ 群聊 Agent（OneBot v11）：分条发言、贴纸系统、主动发言与内置运维命令"
+category = "agents"
+tags = ["agent", "bot", "chatbot", "linux", "llm", "napcat", "nodejs", "onebot"]
+repository = "https://github.com/sakurawwwxh/qq-agent-plus"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-13

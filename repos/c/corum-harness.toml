@@ -1,0 +1,8 @@
+name = "Corum-Harness"
+description = "基于 Deepseek-Harness 核心底座打造的桌面版 Agent.继承底坐全部能力。并补全 IDE 相关功能。"
+category = "agents"
+tags = ["agent", "agent-os", "ai-agent", "cordis", "desktop-app", "dsh", "electron", "harness"]
+repository = "https://github.com/kukucaiCndy/Corum-Harness"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-13

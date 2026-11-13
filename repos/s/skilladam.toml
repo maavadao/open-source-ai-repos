@@ -1,0 +1,7 @@
+name = "SkillAdam"
+description = "SkillAdam: Better Skills for Your AI Agent🚀 Claude Code/Codex/Cursor 插件，一键进化你的skill"
+category = "skills-prompts"
+tags = ["agent", "agent-skills", "agentic", "ai", "claude-code", "codex", "codex-skill", "llm"]
+repository = "https://github.com/ruc-datalab/SkillAdam"
+language = "Python"
+added = 2026-11-13

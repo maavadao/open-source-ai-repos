@@ -1,0 +1,8 @@
+name = "Beagle"
+description = "Beagle is designed to be the unified platform for the broader Recursive Self-Improvement (RSI) ecosystem. Think of it as Hugging Face Trainer for agent evolution. Its efficient rollout engine enables evaluation and evolution at scale across different agents, datasets, benchmarks, and evolution meth…"
+category = "agents"
+tags = ["agent-harness", "agents", "benchmarks", "coding-agents", "darwinx", "evaluation", "evolution", "llm-agents"]
+repository = "https://github.com/SalesforceAIResearch/Beagle"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-13

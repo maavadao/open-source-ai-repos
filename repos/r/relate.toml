@@ -1,0 +1,9 @@
+name = "relate"
+description = "An embedded local, agent-native graph database supporting Cypher 25 written in Rust. Memory or transactional filesystem."
+category = "agents"
+tags = ["agent-memory", "agent-sandbox-tools", "agentic-ai", "cypher", "emedded-database", "graph-database", "graphdb", "neo4j"]
+repository = "https://github.com/relatedb/relate"
+website = "https://relatedb.ai"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-13

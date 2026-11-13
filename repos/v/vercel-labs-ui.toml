@@ -1,0 +1,9 @@
+name = "ui"
+description = "A library of behaviors for agents to build the next generation of user interfaces."
+category = "agents"
+tags = ["accessibility", "agent", "agents", "aria", "behaviors", "component", "component-library", "headless"]
+repository = "https://github.com/vercel-labs/ui"
+website = "https://ui-sdk.dev"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-13

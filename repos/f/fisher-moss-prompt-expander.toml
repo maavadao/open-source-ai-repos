@@ -1,0 +1,8 @@
+name = "fisher-moss-prompt-expander"
+description = "Expand ideas into detailed image prompts with a Chinese SKILL and ComfyUI templates."
+category = "skills-prompts"
+tags = ["codex-skills", "comfyui", "image-generation", "prompt-engineering"]
+repository = "https://github.com/Work-Fisher/fisher-moss-prompt-expander"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-13

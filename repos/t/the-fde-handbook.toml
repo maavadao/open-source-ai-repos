@@ -1,0 +1,7 @@
+name = "the-fde-handbook"
+description = "《FDE：企业AI落地实战手册》前线部署工程师（Forward Deployed Engineer）开源手册 | The FDE Handbook — an open-source playbook for Forward Deployed Engineers"
+category = "agents"
+tags = ["ai", "ai-agents", "ai-consulting", "ai-implementation", "book", "chinese", "ebook", "enterprise-ai"]
+repository = "https://github.com/RichardXu001/the-fde-handbook"
+website = "https://0to1.site"
+added = 2026-11-13

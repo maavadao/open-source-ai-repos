@@ -1,0 +1,8 @@
+name = "Awesome-AI-for-Astronomy"
+description = "A curated list of papers for AI in Astronomy & Astrophysics."
+category = "llm-apps"
+tags = ["ai-for-science", "astronomy", "awesome", "awesome-list", "benchmark", "cosmology", "deep-learning", "large-language-models"]
+repository = "https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy"
+website = "https://xin-yuxiao.github.io/Awesome-AI-for-Astronomy/"
+language = "Python"
+added = 2026-11-13

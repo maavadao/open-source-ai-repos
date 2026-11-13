@@ -1,0 +1,9 @@
+name = "opencalque"
+description = "Open-source 2D architectural editor with a Figma-like interface, a local CLI, and practical workflows for humans and AI agents."
+category = "agents"
+tags = ["2d", "ai-agents", "architecture", "cad", "editor", "electron", "floor-plan", "floorplan"]
+repository = "https://github.com/laurent512/opencalque"
+website = "https://opencalque.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-13

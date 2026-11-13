@@ -1,0 +1,9 @@
+name = "ybkkasi"
+description = "One control plane for every AI asset — MCP servers, skills, agents, AI apps. Self-hosted ledger with lifecycle state machine, 85 permission points, department × agent × skill cost attribution, and audit trail. MIT, zero runtime deps (Node 22 + node:sqlite). 企业 AI 资产治理。"
+category = "mcp-servers"
+tags = ["agent", "ai-asset-management", "ai-gateway", "ai-governance", "audit", "cost-management", "deepseek-harness", "devops"]
+repository = "https://github.com/01men/ybkkasi"
+website = "https://demo.ybkkasi.com/launch"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-13

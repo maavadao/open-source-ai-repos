@@ -1,0 +1,8 @@
+name = "litpage"
+description = "Open-source, self-hosted workspace for pages, databases and AI. One Node.js process with SQLite."
+category = "other"
+tags = ["ai", "block-editor", "database", "knowledge-base", "nodejs", "open-source", "react", "self-hosted"]
+repository = "https://github.com/litmers-dev/litpage"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-13

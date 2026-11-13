@@ -1,0 +1,9 @@
+name = "raw-cli"
+description = "The agent harness you can fork. A working agent loop with compaction, sessions, approvals, a terminal REPL, a local dashboard and ACP, where every tool, skill, hook and policy is a file you can change. Build your own internal or coding agent on any model."
+category = "llm-apps"
+tags = ["agent-client-protocol", "ai-agent", "cli", "coding-agent", "llm", "mcp", "typescript"]
+repository = "https://github.com/lploc94/raw-cli"
+website = "https://raw.tlelabs.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-13

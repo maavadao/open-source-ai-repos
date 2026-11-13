@@ -1,0 +1,9 @@
+name = "Veda"
+description = "The Agentic-Native Operating System"
+category = "agents"
+tags = ["agentic-ai", "agentic-operating-system", "ai-agent", "ai-assistants", "ai-operating-system", "artificial-intelligence", "autonomous-agents", "conversational-ai"]
+repository = "https://github.com/vahmoh/Veda"
+website = "https://www.vedaos.org"
+license = "GPL-3.0"
+language = "Rust"
+added = 2026-11-13

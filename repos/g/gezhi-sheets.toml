@@ -1,0 +1,8 @@
+name = "gezhi-sheets"
+description = "格知 AI · Gezhi Sheets｜让表格听懂你的话。支持 GLM、Kimi、豆包、DeepSeek、Qwen 的本地 AI 表格助手。"
+category = "other"
+tags = ["ai", "deepseek", "javascript", "kimi", "qwen", "spreadsheet"]
+repository = "https://github.com/beiwocaishijia/gezhi-sheets"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-13

@@ -1,0 +1,8 @@
+name = "jevgrep"
+description = "Jev-powered semantic code search for coding agents — find behavior across repositories via CLI or MCP, with exact source excerpts and line numbers."
+category = "mcp-servers"
+tags = ["ai-agents", "cli", "code-navigation", "code-search", "coding-agents", "developer-tools", "jev", "mcp"]
+repository = "https://github.com/nassim-arifette/jevgrep"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-13

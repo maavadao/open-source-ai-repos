@@ -1,0 +1,9 @@
+name = "mcd-nutrition-expert"
+description = "身材管控期也想吃麦当劳？这个专家会帮你根据每日消耗搭配麦麦套餐。基于 SP 矩阵理论，打通麦当劳官方 MCP Server 的营养选型与点餐闭环（35 个官方工具 · 14 个 REST 接口 · 零第三方前端依赖）。"
+category = "mcp-servers"
+tags = ["canvas", "diet", "fastapi", "fitness", "hackathon", "health", "mcd-mcp", "mcdonalds"]
+repository = "https://github.com/clawgeek/mcd-nutrition-expert"
+website = "https://github.com/ChinaOpenClaw/mcd-nutrition-expert#readme"
+license = "MIT"
+language = "Python"
+added = 2026-11-13

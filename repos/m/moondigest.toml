@@ -1,0 +1,9 @@
+name = "MoonDigest"
+description = "用 AI 读完收藏的视频、整理 B 站收藏夹的 Chrome 扩展：字幕、AI 总结问答、收藏夹分拣，导出 Markdown，可选写入 Obsidian · Read and triage saved Bilibili & YouTube videos with AI: subtitles, AI summaries, favorites triage, Markdown and optional Obsidian export"
+category = "llm-apps"
+tags = ["ai-summary", "bilibili", "chrome-extension", "knowledge-management", "llm", "manifest-v3", "markdown", "obsidian"]
+repository = "https://github.com/PathGao/MoonDigest"
+website = "https://chromewebstore.google.com/detail/bnjihpbocpimaipifanfkjjpfdbigggd"
+license = "GPL-3.0"
+language = "JavaScript"
+added = 2026-11-13

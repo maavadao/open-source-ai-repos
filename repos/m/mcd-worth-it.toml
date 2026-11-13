@@ -1,0 +1,9 @@
+name = "mcd-worth-it"
+description = "基于麦当劳 MCP 的权益精算 Skill——按档口与账户权益实时核价，算清这顿值不值、这张卡值不值，一次确认完成点单"
+category = "mcp-servers"
+tags = ["agent", "ai-agent", "mcd", "mcd-mcp", "mcdonalds", "mcp", "skill", "workbuddy"]
+repository = "https://github.com/d-ouyang/mcd-worth-it"
+website = "https://github.com/d-ouyang/mcd-worth-it/"
+license = "MIT"
+language = "HTML"
+added = 2026-11-13

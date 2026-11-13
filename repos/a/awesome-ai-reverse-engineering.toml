@@ -1,0 +1,7 @@
+name = "awesome-ai-reverse-engineering"
+description = "Open-source AI reverse engineering tools for coding agents: Ghidra MCP, IDA Pro MCP, jadx, Frida, skills and REA. 122 repos, each read and security-graded. EN + 中文."
+category = "mcp-servers"
+tags = ["agent-skills", "awesome", "awesome-list", "decompiler", "ghidra", "ida-pro", "mcp", "reverse-engineering"]
+repository = "https://github.com/zhuyansen/awesome-ai-reverse-engineering"
+website = "https://agentskillshub.top/best/ai-reverse-engineering/"
+added = 2026-11-13

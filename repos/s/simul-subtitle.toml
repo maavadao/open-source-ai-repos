@@ -1,0 +1,8 @@
+name = "simul-subtitle"
+description = "日语、英语视频与直播实时同传悬浮字幕（Android / macOS / Windows）｜本地离线语音识别 · 自备 LLM 翻译（BYOK）"
+category = "speech"
+tags = ["android", "asr", "compose-desktop", "kotlin-multiplatform", "live-caption", "llm", "macos", "reazonspeech"]
+repository = "https://github.com/KorenKrita/simul-subtitle"
+license = "MIT"
+language = "Kotlin"
+added = 2026-11-13

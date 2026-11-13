@@ -1,0 +1,8 @@
+name = "agent-notion-template-docs"
+description = "Make your AI agent write documents like Notion — Codex & Claude Code skill that locks document structure & Notion visual style"
+category = "skills-prompts"
+tags = ["ai-agent", "claude", "claude-code", "codex", "codex-skill", "documentation", "notion", "skill"]
+repository = "https://github.com/heyman333/agent-notion-template-docs"
+license = "MIT"
+language = "Python"
+added = 2026-11-13

@@ -1,0 +1,8 @@
+name = "prevue"
+description = "Your agent finally sees the Compose UI it builds. Jetpack Compose and Compose Multiplatform Previews in your browser, redrawn a second after every save — no Android Studio, no build."
+category = "skills-prompts"
+tags = ["ai-agents", "android", "claude-code", "claude-code-plugin", "cli", "codex", "compose-multiplatform", "compose-preview"]
+repository = "https://github.com/kakao/prevue"
+license = "Apache-2.0"
+language = "Kotlin"
+added = 2026-11-13

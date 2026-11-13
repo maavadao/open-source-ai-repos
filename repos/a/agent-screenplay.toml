@@ -1,0 +1,8 @@
+name = "agent-screenplay"
+description = "Beautiful screen recordings, made by your favorite AI agent."
+category = "skills-prompts"
+tags = ["agent-desktop", "ai-agents", "claude-code", "demo-video", "mcp", "playwright", "screen-recording", "screen-studio"]
+repository = "https://github.com/gmpetrov/agent-screenplay"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-13

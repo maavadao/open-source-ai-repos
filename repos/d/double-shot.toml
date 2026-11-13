@@ -1,0 +1,9 @@
+name = "double-shot"
+description = "Keeps your Mac awake. With the lid closed too, and for as long as your AI agents are working. Menu bar app for macOS."
+category = "skills-prompts"
+tags = ["ai-agents", "caffeinate", "claude-code", "keep-awake", "macos", "menubar-app", "swift", "swiftui"]
+repository = "https://github.com/noahelhadedy/double-shot"
+website = "https://noahelhadedy.com"
+license = "MIT"
+language = "Swift"
+added = 2026-11-13

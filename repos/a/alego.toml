@@ -1,0 +1,8 @@
+name = "alego"
+description = "Build AI Agents like playing LEGOs. Everything is a Plugin."
+category = "coding"
+tags = ["ai", "ai-agent", "ai-coding", "ai-tools", "deepseek", "harness"]
+repository = "https://github.com/singula-ai/alego"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-13

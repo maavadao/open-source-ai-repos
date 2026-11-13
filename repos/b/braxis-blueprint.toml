@@ -1,0 +1,8 @@
+name = "braxis-blueprint"
+description = "The $0 AI Empire Playbook — 180 scheduled jobs, 43 free LLM lanes, and the failure classes that almost killed it. Free tiers only."
+category = "agents"
+tags = ["agentic-ai", "ai-agents", "automation", "content-automation", "free-tier", "oracle-cloud", "self-hosting"]
+repository = "https://github.com/BraxisAI/braxis-blueprint"
+license = "MIT"
+language = "Python"
+added = 2026-11-13

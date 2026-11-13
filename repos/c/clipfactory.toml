@@ -1,0 +1,7 @@
+name = "clipfactory"
+description = "Topic + template → short vertical video from your own B-roll: AI script, voice, scene plan, captions, FFmpeg render. Multi-persona, AI shot lists, AI B-roll, batch generation. Source-available (Elastic 2.0)."
+category = "video"
+tags = ["content-creation", "elevenlabs", "fastapi", "ffmpeg", "openai", "react", "reels", "shorts"]
+repository = "https://github.com/feyzilim/clipfactory"
+language = "Python"
+added = 2026-11-13

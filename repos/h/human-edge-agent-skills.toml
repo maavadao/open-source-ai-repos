@@ -1,0 +1,8 @@
+name = "human-edge-agent-skills"
+description = "18 portable Agent Skills for voice-native AI, human judgment, microbets, social tact, writing, life systems, and safe deployment."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude-code", "codex", "developer-tools", "human-ai", "productivity", "prompt-engineering"]
+repository = "https://github.com/FAIRY123456789/human-edge-agent-skills"
+license = "MIT"
+language = "Python"
+added = 2026-11-13

@@ -1,0 +1,7 @@
+name = "blender-ai-copilot-lab"
+description = "An AI lab for Blender where manager–worker–reviewer agent teams run multi-step scene briefs as supervised experiments—a live task board, review findings, one correction attempt per blocked task, named undo, and a built-in MCP server. · blender-ai-copilot-lab · blender · blender 3d · blender addon ·…"
+category = "mcp-servers"
+tags = ["3d-automation", "3d-modeling", "blender", "blender-addon", "blender-agents", "blender-ai", "blender-assistant", "blender-automation"]
+repository = "https://github.com/precygtrucqui1981/blender-ai-copilot-lab"
+license = "MIT"
+added = 2026-11-13

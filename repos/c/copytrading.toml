@@ -1,0 +1,9 @@
+name = "copytrading"
+description = "Local-first macOS app that copies Discord trading signals into Alpaca accounts, with a risk-limited engine, an AI assistant, and English or 简体中文. Developer preview."
+category = "llm-apps"
+tags = ["ai-assistant", "alpaca", "copy-trading", "discord", "llm", "macos", "python", "sqlite"]
+repository = "https://github.com/YZXBiz/copytrading"
+website = "https://github.com/YZXBiz/copytrading/releases"
+license = "MIT"
+language = "Python"
+added = 2026-11-13

@@ -1,0 +1,8 @@
+name = "divar-mcp"
+description = "MCP server for Divar — search, compare and analyze classified ads. Read-only, no API key."
+category = "mcp-servers"
+tags = ["cloudflare-workers", "divar", "mcp", "model-context-protocol", "persian"]
+repository = "https://github.com/mmdju/divar-mcp"
+website = "https://divar-mcp.mmdju2.workers.dev"
+language = "JavaScript"
+added = 2026-11-13

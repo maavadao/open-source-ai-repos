@@ -1,0 +1,8 @@
+name = "lasik"
+description = "BLA blinds your agent. LASIK gives it its sight back. Static de-blinding CLI + MCP server that undoes BLA (Blind LLM Agents) hardening so coding agents and REA can read the real code again. Never executes the target."
+category = "mcp-servers"
+tags = ["ai-agents", "anti-bla", "bla", "claude-code", "deobfuscation", "deobfuscator", "electron", "javascript"]
+repository = "https://github.com/pktq/lasik"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-13

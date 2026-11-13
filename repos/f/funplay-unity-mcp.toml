@@ -1,0 +1,8 @@
+name = "funplay-unity-mcp"
+description = "The Most Advanced MCP Server for Unity Editor with execute_code, prompts/resources, input simulation, screenshots, and play mode automation."
+category = "mcp-servers"
+tags = ["ai", "ai-tools", "claude-code", "codex", "cursor", "game-development", "github-copilot", "llm"]
+repository = "https://github.com/FunplayAI/funplay-unity-mcp"
+license = "MIT"
+language = "C#"
+added = 2026-11-13

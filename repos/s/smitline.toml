@@ -1,0 +1,9 @@
+name = "smitline"
+description = "Make phone calls and join Zoom, Microsoft Teams and Google Meet meetings from any AI agent. Self-hosted MCP server, open source. Hosted version: smitline.com"
+category = "mcp-servers"
+tags = ["ai-agents", "google-meet", "mcp", "mcp-server", "meeting-bot", "microsoft-teams", "model-context-protocol", "openai"]
+repository = "https://github.com/kaelorlabs/smitline"
+website = "https://smitline.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-13

@@ -1,0 +1,9 @@
+name = "ai-slop-detector"
+description = "120 patterns that make writing read like AI slop, with an agent skill for Claude Code and Codex."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-slop", "ai-writing", "claude-code", "copywriting", "llm", "writing"]
+repository = "https://github.com/FeedHive/ai-slop-detector"
+website = "https://www.feedhive.com/tools/ai-slop-detector"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-13

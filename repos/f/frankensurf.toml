@@ -1,0 +1,9 @@
+name = "frankensurf"
+description = "One read() call for AI agents, stitched from 41 web tools."
+category = "browser-automation"
+tags = ["ai-agents", "browser-automation", "mcp", "python", "web-scraping"]
+repository = "https://github.com/yail259/frankensurf"
+website = "https://frankensurf.dev"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-13

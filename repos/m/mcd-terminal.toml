@@ -1,0 +1,7 @@
+name = "mcd-terminal"
+description = "帮你点麦当劳最省的 Skill：自动叠加优惠券、积分和门店活动，实时核价算出最省付法｜基于麦当劳中国 MCP"
+category = "mcp-servers"
+tags = ["cli", "mcdonalds", "mcp", "skill", "terminal"]
+repository = "https://github.com/Zhangfengmo/mcd-terminal"
+language = "Python"
+added = 2026-11-13

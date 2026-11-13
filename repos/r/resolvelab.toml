@@ -1,0 +1,8 @@
+name = "ResolveLab"
+description = "Fault-injected tool environments with side-effect grading for evaluating and post-training LLM agents"
+category = "local-llms"
+tags = ["agent-evaluation", "ai-agents", "dagger", "fastapi", "fault-injection", "llm-agents", "ollama", "post-training"]
+repository = "https://github.com/Ta0p1/ResolveLab"
+license = "MIT"
+language = "Python"
+added = 2026-11-13

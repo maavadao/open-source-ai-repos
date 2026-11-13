@@ -1,0 +1,9 @@
+name = "ahenk-turkish-tts"
+description = "Ahenk: açık Türkçe metinden sese. Open Turkish text-to-speech: VoxCPM2 LoRA (Ahenk), 8.6M on-device model (Ahenk Cep), trnorm text normaliser, TR-Zor benchmark"
+category = "speech"
+tags = ["on-device", "speech-synthesis", "text-to-speech", "tts", "turkce", "turkish", "turkish-nlp", "voxcpm"]
+repository = "https://github.com/ozguradmin/ahenk-turkish-tts"
+website = "https://ozguradmin.github.io/ahenk-turkish-tts/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-13

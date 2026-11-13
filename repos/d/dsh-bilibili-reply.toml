@@ -1,0 +1,8 @@
+name = "dsh-bilibili-reply"
+description = "让 AI 读懂你在 B 站 @ 它的视频，自动回一条带可跳转时间戳的评论。DSH / AI Agent 技能。"
+category = "agents"
+tags = ["ai-agents", "automation", "bilibili", "comment-bot", "deepseek-harness", "dsh", "skills"]
+repository = "https://github.com/bronyacccxz/dsh-bilibili-reply"
+license = "MIT"
+language = "PowerShell"
+added = 2026-11-13

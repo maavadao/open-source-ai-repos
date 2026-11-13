@@ -1,0 +1,8 @@
+name = "LoopForge"
+description = "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants."
+category = "skills-prompts"
+tags = ["agent-orchestration", "agentic-workflow", "ai-agents", "ai-coding", "claude-code", "code-review", "codebuddy", "codex"]
+repository = "https://github.com/Tencent/LoopForge"
+website = "https://loopforge.cn"
+language = "Go"
+added = 2026-11-13

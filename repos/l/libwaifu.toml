@@ -1,0 +1,8 @@
+name = "libwaifu"
+description = "Your local AI waifu! Local SDXL / Qwen-Image / Anima / IndexTTS / CosyVoice inference in Rust + C++, CUDA / Metal / Vulkan"
+category = "image"
+tags = ["cuda", "local-ai", "metal", "qwen-image", "sdxl", "stable-diffusion", "text-to-image", "tts"]
+repository = "https://github.com/ling0322/libwaifu"
+license = "MIT"
+language = "Rust"
+added = 2026-11-13

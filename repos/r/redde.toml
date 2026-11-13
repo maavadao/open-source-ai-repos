@@ -1,0 +1,8 @@
+name = "redde"
+description = "iPhone, iPad and CarPlay client for the Hermes AI agent or any OpenAI-compatible model. Talk or type, watch it work, approve what it runs. No account, no tracking."
+category = "local-llms"
+tags = ["ai-agent", "carplay", "hermes", "hermes-agent", "ios", "ipados", "llama-cpp", "llm"]
+repository = "https://github.com/goosehouse-llc/redde"
+website = "https://redde.goosehouse.org"
+language = "Swift"
+added = 2026-11-13

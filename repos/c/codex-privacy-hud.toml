@@ -1,0 +1,8 @@
+name = "codex-privacy-hud"
+description = "OpenAI Privacy hackathon - Paris, 🏆 winning project"
+category = "other"
+tags = ["cli", "codex", "hud", "local-first", "monitor", "openai", "openai-codex", "plugin"]
+repository = "https://github.com/inin-zou/codex-privacy-hud"
+license = "MIT"
+language = "Python"
+added = 2026-11-13

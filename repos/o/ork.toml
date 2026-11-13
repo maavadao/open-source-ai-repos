@@ -1,0 +1,9 @@
+name = "ork"
+description = "Source-available AI assistant with persistent bots that share conversations and work on isolated computers. Self-hosted, with web, desktop, and mobile apps."
+category = "agents"
+tags = ["ai-agents", "ai-assistants", "automation", "electron", "expo", "self-hosted", "source-available", "typescript"]
+repository = "https://github.com/orkbot-run/ork"
+website = "https://orkbot.run"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-13

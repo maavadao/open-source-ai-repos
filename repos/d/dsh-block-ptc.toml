@@ -1,0 +1,9 @@
+name = "dsh-block-ptc"
+description = "AI-managed Auto Compact for DeepSeek Harness: the agent decides when to compact context and what to retain based on task progress, without waiting for a fixed token threshold."
+category = "agents"
+tags = ["ai-agents", "context-management", "deepseek-harness", "dsh", "dsh-plugin", "ptc"]
+repository = "https://github.com/mengwEX/dsh-block-ptc"
+website = "https://github.com/mengwEX/dsh-block-ptc#readme"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-13

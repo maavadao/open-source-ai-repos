@@ -1,0 +1,9 @@
+name = "pixel-loom"
+description = "Pixel Loom 像素织机：支持 AI 通过 MCP 创作的开源像素画与动画编辑器。Windows 便携版请点击下方链接下载，完整解压后即可使用。"
+category = "mcp-servers"
+tags = ["ai-tools", "animation", "mcp", "pixel-art", "python", "sprite-editor", "tkinter"]
+repository = "https://github.com/yangsir2077/pixel-loom"
+website = "https://github.com/yangsir2077/pixel-loom/releases/download/v0.7.19/pixel-loom-0.7.19-windows-x64.zip"
+license = "MIT"
+language = "Python"
+added = 2026-11-13

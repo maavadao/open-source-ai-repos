@@ -1,0 +1,9 @@
+name = "agent-custody"
+description = "Proof of what your AI agents did. Give your agents real power, without losing control of them."
+category = "agents"
+tags = ["ai-agents", "audit", "cedar", "mcp", "provenance", "python", "transparency-log", "typescript"]
+repository = "https://github.com/svayatta/agent-custody"
+website = "https://agent-custody.dev/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-13

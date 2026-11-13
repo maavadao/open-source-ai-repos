@@ -1,0 +1,7 @@
+name = "ai-welfare-hub"
+description = "Claude Code 免费 | 公益站 | New API | AI API 中转站导航 —— 自动探活 15+ 站点（Claude/Codex/Cursor/Gemini 免费额度、每日签到），GitHub Actions 每 6 小时更新存活状态，纯静态零依赖可 fork"
+category = "skills-prompts"
+tags = ["ai-api", "anthropic", "api-gateway", "api-proxy", "awesome", "chinese", "claude", "claude-code"]
+repository = "https://github.com/wynx1123/ai-welfare-hub"
+language = "JavaScript"
+added = 2026-11-13

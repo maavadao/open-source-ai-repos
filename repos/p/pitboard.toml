@@ -1,0 +1,9 @@
+name = "pitboard"
+description = "Switch AI coding tools between your accounts. App and command line for macOS, Windows and Linux."
+category = "skills-prompts"
+tags = ["account-switcher", "anthropic", "claude", "claude-code", "claude-desktop", "cli", "codex", "codex-cli"]
+repository = "https://github.com/datlechin/pitboard"
+website = "https://usepitboard.com"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-13

@@ -1,0 +1,9 @@
+name = "cloud-harness-mcp"
+description = "Remote coding harness exposed as a secure Streamable HTTP MCP server"
+category = "agents"
+tags = ["ai-agents", "cloud", "harness", "harness-engineering"]
+repository = "https://github.com/bestagentkits/cloud-harness-mcp"
+website = "https://harness.agentkit.best/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-13

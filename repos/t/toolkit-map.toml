@@ -1,0 +1,9 @@
+name = "toolkit-map"
+description = "让 AI 编程助手先查本机工具、按项目声明选对版本；查询严格只读，MCP 维护需显式确认。Windows 工具发现 + 零依赖 Node MCP。"
+category = "mcp-servers"
+tags = ["ai-agents", "claude-code", "cli", "codex", "cursor", "developer-experience", "developer-tools", "devtools"]
+repository = "https://github.com/haxsd/toolkit-map"
+website = "https://github.com/haxsd/toolkit-map/releases/latest"
+license = "MIT"
+language = "PowerShell"
+added = 2026-11-13

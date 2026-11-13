@@ -1,0 +1,9 @@
+name = "shanchuanzhi-agent-canary"
+description = "Agent Canary 3.0: open-source MCP, SDK, and CLI security toolkit with a guarded execution gateway, decoy signals, local tests, and public acceptance evidence."
+category = "mcp-servers"
+tags = ["agent-security", "ai-agents", "canary", "devtools", "honeypot", "llm-security", "mcp", "prompt-injection"]
+repository = "https://github.com/DorianChn/shanchuanzhi-agent-canary"
+website = "https://dorianchn.github.io/shanchuanzhi-agent-canary/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-13

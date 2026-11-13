@@ -1,0 +1,8 @@
+name = "mewu_ai"
+description = "MewuAI 喵呜AI | 跨平台开源 AI 屏幕协作软件：AI 圈选重点、截图问答、离线 OCR、原位翻译、录屏与视频标注。Cross-platform open-source AI screen collaboration software: AI key point selection, screenshot Q&A, offline OCR, in-place translation, screen recording, and video annotation"
+category = "vision"
+tags = ["ai-screenshot", "annotation", "artificial-intelligence", "image-annotation", "ocr", "open-source", "screen-capture", "screen-recorder"]
+repository = "https://github.com/abnste/mewu_ai"
+license = "MPL-2.0"
+language = "Rust"
+added = 2026-11-13

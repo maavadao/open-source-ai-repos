@@ -1,0 +1,8 @@
+name = "AlphaResearchOS"
+description = "Agentic quant research workbench with CSV data inspection, local Codex and compatible APIs, predictive models, independent reviews, and reproducible backtests."
+category = "llm-apps"
+tags = ["agentic-research", "backtesting", "codex", "factor-investing", "llm", "python", "quantitative-finance", "reproducible-research"]
+repository = "https://github.com/heranliu/AlphaResearchOS"
+license = "MIT"
+language = "Python"
+added = 2026-11-13

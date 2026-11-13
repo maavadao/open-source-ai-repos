@@ -1,0 +1,9 @@
+name = "rustdsh"
+description = "Fast Rust launcher for DeepSeek Harness, with clear Claude Code/Codex migration, model setup and lightweight local tools"
+category = "agents"
+tags = ["agents", "ai-agents", "cli", "deepseek-harness", "developer-tools", "llm", "micro-orchestrator", "process-isolation"]
+repository = "https://github.com/jimoto-no-llm/rustdsh"
+website = "https://jimoto-no-llm.github.io/rustdsh/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-13

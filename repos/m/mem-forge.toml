@@ -1,0 +1,7 @@
+name = "mem-forge"
+description = "Give every agent your team's brain on day one. The memory layer for AI agents. Everything your team knows. Cited, and always up to date."
+category = "skills-prompts"
+tags = ["agent-memory", "claude-code", "codex", "knowledge-base", "llm", "mcp", "mcp-server", "rag"]
+repository = "https://github.com/dodo-labs-ai/mem-forge"
+language = "Python"
+added = 2026-11-13

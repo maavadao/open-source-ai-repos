@@ -1,0 +1,9 @@
+name = "ai-bot-groupmate"
+description = "Estrella Bot · QQ 群 AI 群友机器人。把 QQ 小号接给任意 OpenAI 兼容模型（本机 / DeepSeek / 智谱 / 通义），让 AI 像群友一样插话、接梗、潜水。OneBot v11 + NapCat，零构建网页控制台。Apache-2.0"
+category = "skills-prompts"
+tags = ["ai-agent", "ai-groupmate", "bot", "chatbot", "chinese", "deepseek", "group-chat", "llm"]
+repository = "https://github.com/Canvixel-Eloweny/ai-bot-groupmate"
+website = "https://github.com/Canvixel-Eloweny/ai-bot-groupmate"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-11-13

@@ -1,0 +1,9 @@
+name = "zigzag"
+description = "Free, open-source embroidery software for Mac and Windows. Turn SVG artwork into machine embroidery, edit stitches visually, and create designs with AI agents via MCP."
+category = "mcp-servers"
+tags = ["brother-skitch", "embroidery", "embroidery-digitizing", "embroidery-software", "machine-embroidery", "macos", "mcp", "model-context-protocol"]
+repository = "https://github.com/simpsoka/zigzag"
+website = "https://zigzag.diy/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-13

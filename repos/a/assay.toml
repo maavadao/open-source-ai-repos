@@ -1,0 +1,9 @@
+name = "assay"
+description = "An agent-native QA CLI for web pages. Deterministic, no tests to write, no LLM."
+category = "browser-automation"
+tags = ["agentic-ai", "ai-agents", "browser-automation", "claude-code", "claude-code-mod", "cli", "code-generation", "developer-tools"]
+repository = "https://github.com/awss1i/assay"
+website = "https://pypi.org/project/assay-ui/"
+license = "MIT"
+language = "Python"
+added = 2026-11-13

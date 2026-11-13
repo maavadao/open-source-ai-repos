@@ -1,0 +1,9 @@
+name = "adloop"
+description = "Google Ads MCP server for Claude, ChatGPT and Cursor, with Reddit Ads, GA4 and Tag Manager. Every change is previewed first."
+category = "mcp-servers"
+tags = ["ai", "chatgpt", "claude", "cursor", "ga4", "google-ads", "google-ads-api", "google-ads-mcp"]
+repository = "https://github.com/kLOsk/adloop"
+website = "https://getadloop.com"
+license = "MIT"
+language = "Python"
+added = 2026-11-13

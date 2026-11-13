@@ -1,0 +1,8 @@
+name = "agenterm"
+description = "Let agents control any remote computer, anytime, anywhere. Self-hosted AI agent remote assistance via MCP and terminal."
+category = "mcp-servers"
+tags = ["ai-agent", "mcp", "remote-assistance", "remote-control", "self-hosted", "terminal"]
+repository = "https://github.com/Heming9/agenterm"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-11-13

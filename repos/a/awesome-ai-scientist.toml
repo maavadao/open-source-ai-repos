@@ -1,0 +1,8 @@
+name = "Awesome-AI-Scientist"
+description = "🧪 Awesome list of AI Scientist papers, systems, benchmarks, datasets and open-source platforms."
+category = "agents"
+tags = ["agentic-ai", "ai-for-science", "ai-scientist", "ai4science", "automated-science", "autonomous-research", "awesome", "awesome-list"]
+repository = "https://github.com/Omni-Scientist/Awesome-AI-Scientist"
+website = "https://omni-scientist.github.io/Awesome-AI-Scientist/"
+language = "Python"
+added = 2026-11-13

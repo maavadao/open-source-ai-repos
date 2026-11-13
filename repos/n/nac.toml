@@ -1,0 +1,8 @@
+name = "nac"
+description = "Give AI agents ambitious work without losing the plot. nac is an open-source harness for long-running tasks, using a central orchestrator, threads, and structured episodes to stay aligned with your intent."
+category = "agents"
+tags = ["agent-harness", "agent-orchestration", "agent-skills", "agentic-workflows", "ai-agents", "developer-tools", "llm-agents", "long-running-agents"]
+repository = "https://github.com/arcee-ai/nac"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-13

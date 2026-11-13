@@ -1,0 +1,8 @@
+name = "boxery"
+description = "Easiest way to give your coding agents VMs - locally, remote, or cloud sandboxes"
+category = "agents"
+tags = ["agents", "mcp", "vm"]
+repository = "https://github.com/modem-dev/boxery"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-13

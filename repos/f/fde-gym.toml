@@ -1,0 +1,9 @@
+name = "fde-gym"
+description = "The online judge for the LLM era. Every case is a real customer delivery: you work it with a coding agent, and your system is judged once it is live."
+category = "agents"
+tags = ["agent-evaluation", "ai-agents", "benchmark", "coding-agent", "docker", "forward-deployed-engineer", "llm", "online-judge"]
+repository = "https://github.com/deeplethe/fde-gym"
+website = "https://fde-gym.com/paper"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-13

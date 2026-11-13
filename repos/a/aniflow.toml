@@ -1,0 +1,8 @@
+name = "Aniflow"
+description = "🎬 Autonomous AI Studio for Manhwa & Webtoon Recaps — Vision Pipeline (YOLOv8 + Magi v2), Multi-Voice TTS & Video Synthesis"
+category = "speech"
+tags = ["ai-video-generator", "automation", "computer-vision", "edge-tts", "manga-ocr", "manhwa", "moviepy", "python"]
+repository = "https://github.com/aashish254/Aniflow"
+license = "MIT"
+language = "Python"
+added = 2026-11-13

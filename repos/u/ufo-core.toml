@@ -1,0 +1,9 @@
+name = "ufo-core"
+description = "Agent operating system"
+category = "skills-prompts"
+tags = ["ai", "ai-agent", "ai-agents", "ai-tools", "anthropic", "chatgpt", "claude", "claude-code"]
+repository = "https://github.com/ufo-ai/ufo-core"
+website = "https://ufo.ai"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-13

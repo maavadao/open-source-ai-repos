@@ -1,0 +1,8 @@
+name = "AegisOps"
+description = "御枢 · AegisOps — AI 安全运营工作台：告警研判、应急响应、漏洞整改，连接 Atlas、模型、工具与工作流。"
+category = "agents"
+tags = ["ai-agents", "secops", "security-operations", "vulnerability-management"]
+repository = "https://github.com/knot07/AegisOps"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-13

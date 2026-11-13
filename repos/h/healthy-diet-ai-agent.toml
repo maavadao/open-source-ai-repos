@@ -1,0 +1,8 @@
+name = "healthy-diet-ai-agent"
+description = "Healthy Diet AI Agent is a Bun + TypeScript backend for nutrition chat, food-image analysis, RAG document ingestion, and knowledge-grounded diet guidance."
+category = "agents"
+tags = ["agentic-ai", "agentic-rag", "rag"]
+repository = "https://github.com/archie0732/healthy-diet-ai-agent"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-13

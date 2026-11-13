@@ -1,0 +1,8 @@
+name = "roblox-skills"
+description = "Open source list of roblox skills for AI agents"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude-ai", "claude-code", "developer-tools", "game-development", "gamedev", "llm-tools"]
+repository = "https://github.com/EL4CTEO/roblox-skills"
+license = "MIT"
+language = "Python"
+added = 2026-11-13

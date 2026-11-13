@@ -1,0 +1,9 @@
+name = "posewear"
+description = "姿势、服装、人像参考图库，附中英文提示词，可在浏览器里 AI 试穿 · Pose, outfit & portrait reference library with bilingual prompts and in-browser AI try-on"
+category = "skills-prompts"
+tags = ["ai-art", "ai-try-on", "chinese", "cloudflare-pages", "fashion", "gemini", "gpt-image", "image-generation"]
+repository = "https://github.com/atuizz/posewear"
+website = "https://posewear.pages.dev"
+license = "MIT"
+language = "Python"
+added = 2026-11-13

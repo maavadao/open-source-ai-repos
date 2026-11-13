@@ -1,0 +1,8 @@
+name = "nomore"
+description = "Finds the corrections you keep repeating to Claude Code and turns them into evidence-backed CLAUDE.md rules. Local CLI, no LLM by default, plus a public rule pack mined from claude-code issues"
+category = "skills-prompts"
+tags = ["ai-agents", "claude", "claude-code", "claude-md", "cli", "developer-tools", "mpc"]
+repository = "https://github.com/globalmpc/nomore"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-13

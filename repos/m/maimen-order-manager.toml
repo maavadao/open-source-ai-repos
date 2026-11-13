@@ -1,0 +1,8 @@
+name = "maimen-order-manager"
+description = "麦当劳 MCP 技能：待评价清单、好评兑礼进度、发票报销门槛凑单、单次抽奖确认。99 项测试，非官方产品。"
+category = "mcp-servers"
+tags = ["ai-agent", "cli", "mcdonalds", "mcp", "personal-productivity", "python", "skill", "workbuddy"]
+repository = "https://github.com/BEN020406/maimen-order-manager"
+website = "https://ben020406.github.io/maimen-order-manager/"
+language = "Python"
+added = 2026-11-13

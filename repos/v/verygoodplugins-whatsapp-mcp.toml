@@ -1,0 +1,7 @@
+name = "whatsapp-mcp"
+description = "WhatsApp MCP server - Connect Claude to WhatsApp for reading and sending messages"
+category = "mcp-servers"
+tags = ["anthropic", "claude", "mcp", "mcp-server", "messaging", "model-context-protocol", "whatsapp"]
+repository = "https://github.com/verygoodplugins/whatsapp-mcp"
+language = "Go"
+added = 2026-11-13

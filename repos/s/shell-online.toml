@@ -1,0 +1,9 @@
+name = "shell.online"
+description = "Your terminal, anywhere. Run an agent or command on your computer and use it from any browser. Developed by Pilot Protocol."
+category = "other"
+tags = ["cli", "cloudflare-workers", "collaboration", "mcp", "pilot-protocol", "remote-access", "self-hosted", "terminal"]
+repository = "https://github.com/TeoSlayer/shell.online"
+website = "https://shell.online"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-13

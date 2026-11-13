@@ -1,0 +1,9 @@
+name = "joyczl-agent"
+description = "Joy — a local-first personal assistant. Rust core (loop / memory / tools / graph / evals), TypeScript gateways + dashboard, Python thin SDK."
+category = "local-llms"
+tags = ["agent", "agent-framework", "ai-agent", "evals", "json-rpc", "llm", "local-first", "local-llm"]
+repository = "https://github.com/ChrisVip001/joyczl-agent"
+website = "https://github.com/ChrisVip001/joyczl-agent/releases"
+license = "MIT"
+language = "Rust"
+added = 2026-11-13

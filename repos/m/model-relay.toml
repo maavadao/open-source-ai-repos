@@ -1,0 +1,8 @@
+name = "model-relay"
+description = "Per-window model switcher, subagent router, and automatic 429 failover for Claude Code — switch any window with /provider, delegate subagents across models, and keep Remote Control & statuslines working."
+category = "skills-prompts"
+tags = ["anthropic", "claude-code", "deepseek", "failover", "gemini", "glm", "llm-router"]
+repository = "https://github.com/cablate/model-relay"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-13

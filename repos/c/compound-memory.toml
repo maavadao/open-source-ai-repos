@@ -1,0 +1,8 @@
+name = "compound-memory"
+description = "Long-term memory for Claude Code and Codex: turns your daily AI sessions into a persistent memory of your preferences, decisions and open threads, injected at the start of every new session, on any machine. Local-first, zero dependencies. 让 AI 跨会话、跨机器、跨工具记住你。"
+category = "skills-prompts"
+tags = ["agent-memory", "ai-agents", "ai-memory", "claude-code", "claude-code-hooks", "codex", "coding-agent", "context-engineering"]
+repository = "https://github.com/Protocol-zero-0/compound-memory"
+license = "MIT"
+language = "Python"
+added = 2026-11-13
