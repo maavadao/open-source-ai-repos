@@ -1,0 +1,7 @@
+name = "capri-ai-desktop"
+description = "Cyberpunk AI desktop agent & voice companion for Windows. Supports Claude Code, Ollama, DeepSeek, Discord calls & screen automation."
+category = "local-llms"
+tags = ["ai-agent", "ai-companion", "ai-girlfriend", "ai-waifu", "anime", "automation", "claude", "claude-code"]
+repository = "https://github.com/edgerunners-2/capri-ai-desktop"
+language = "Python"
+added = 2026-11-14

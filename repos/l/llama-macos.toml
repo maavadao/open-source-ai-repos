@@ -1,0 +1,9 @@
+name = "Llama-macOS"
+description = "A cosy home for your LLMs."
+category = "local-llms"
+tags = ["ai", "llama-cpp", "llms", "macos", "swift"]
+repository = "https://github.com/ggml-org/Llama-macOS"
+website = "https://llama.app"
+license = "MIT"
+language = "Swift"
+added = 2026-11-14

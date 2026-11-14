@@ -1,0 +1,8 @@
+name = "ask-search"
+description = "Self-hosted web search for AI agents: a CLI + MCP server that wraps SearxNG to aggregate Google, Bing, DuckDuckGo, Brave and more — no API key, no paid search API. Works with Claude Code, OpenClaw, Antigravity and any shell; optional Tavily backend. 给 AI Agent 用的自托管联网搜索（SearxNG）。"
+category = "mcp-servers"
+tags = ["agent-skills", "ai-agent-tools", "ai-agents", "claude-code", "docker-compose", "llm-tools", "mcp", "mcp-server"]
+repository = "https://github.com/ythx-101/ask-search"
+license = "MIT"
+language = "Python"
+added = 2026-11-14

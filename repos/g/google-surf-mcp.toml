@@ -1,0 +1,8 @@
+name = "google-surf-mcp"
+description = "Turn Google Search, Papers, and Codebases into an Automatic Local Knowledge Graph for AI Agents."
+category = "mcp-servers"
+tags = ["academic-research", "fetch", "google-search", "mcp", "model-context-protocol", "pdf-processing", "playwright", "self-healing"]
+repository = "https://github.com/HarimxChoi/google-surf-mcp"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-14

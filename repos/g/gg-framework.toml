@@ -1,0 +1,9 @@
+name = "gg-framework"
+description = "The coding agent that gets more out of your AI subscription. Fastest and leanest of 20 agents tested, with unlimited local search of real open-source code."
+category = "local-llms"
+tags = ["agentic-ai", "ai", "ai-agent", "ai-coding-assistant", "anthropic", "claude", "claude-code", "cli"]
+repository = "https://github.com/KenKaiii/gg-framework"
+website = "https://www.skool.com/raid"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-11-14

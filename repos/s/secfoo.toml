@@ -1,0 +1,9 @@
+name = "secfoo"
+description = "AI security review CLI: SAST, secret scanning, SCA, threat modeling and architecture review with Claude Code, Copilot, Codex, Gemini, Cursor or an API key. SARIF output for CI."
+category = "skills-prompts"
+tags = ["ai-security", "appsec", "claude-code", "cli", "code-review", "codex", "copilot", "devsecops"]
+repository = "https://github.com/secfoo-com/secfoo"
+website = "https://secfoo.com"
+license = "MIT"
+language = "Python"
+added = 2026-11-14

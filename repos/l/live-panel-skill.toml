@@ -1,0 +1,8 @@
+name = "live-panel-skill"
+description = "Agent skill + renderer: turn one JSON config (or an Excalidraw file) into an animated architecture diagram — terminal-style live panel or pastel infographic — as mp4 or a looping web page. 动态架构图 / agent 架构动图，适配 X 与小红书。"
+category = "skills-prompts"
+tags = ["agent-skill", "ai-agents", "animated-diagram", "architecture-diagram", "chinese", "claude-code", "claude-skills", "codex"]
+repository = "https://github.com/ythx-101/live-panel-skill"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-14

@@ -1,0 +1,8 @@
+name = "pinky"
+description = "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone."
+category = "mcp-servers"
+tags = ["ai-agent", "android", "claude-code", "ios", "iphone", "mcp", "mcp-server", "phone-automation"]
+repository = "https://github.com/DIYgod/pinky"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-11-14

@@ -1,0 +1,9 @@
+name = "emp3r0r"
+description = "Stealthy, Linux-first multi-operator C2 with a self-healing mesh, in-memory execution, and an AI-driven MCP assistant."
+category = "mcp-servers"
+tags = ["active-directory", "c2", "edr", "edr-bypass", "edr-evasion", "emp3r0r", "hacking-tool", "linux"]
+repository = "https://github.com/jm33-m0/emp3r0r"
+website = "https://jm33.me"
+license = "GPL-3.0"
+language = "Go"
+added = 2026-11-14

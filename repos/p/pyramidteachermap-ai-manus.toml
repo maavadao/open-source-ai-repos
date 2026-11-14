@@ -1,0 +1,7 @@
+name = "ai--manus"
+description = "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment."
+category = "agents"
+tags = ["ai", "ai-agents", "ai-sdk", "anthropic", "chatbot", "function-calling", "gemeni", "generative-ai"]
+repository = "https://github.com/pyramidteachermap/ai--manus"
+license = "Apache-2.0"
+added = 2026-11-14

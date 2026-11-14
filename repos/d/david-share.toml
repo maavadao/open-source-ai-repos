@@ -1,0 +1,8 @@
+name = "david-share"
+description = "AI Agents & Deep Learning: code, benchmarks and explainers. Building and operating agents on Microsoft Foundry and Azure; fine-tuning, inference optimization, precision and GPU benchmarks on NVIDIA and AMD; multimodal models."
+category = "local-llms"
+tags = ["ai-agents", "azure", "deep-learning", "fine-tuning", "gpu", "inference-optimization", "llm", "microsoft-foundry"]
+repository = "https://github.com/david-xinyuwei/david-share"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-11-14
