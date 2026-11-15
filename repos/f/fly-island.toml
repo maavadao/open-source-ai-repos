@@ -1,0 +1,9 @@
+name = "fly-island"
+description = "A lightweight Dynamic Island for Windows. Track AI agent sessions and quotas, handle approvals, and see WeChat, QQ and email alerts. Includes synced lyrics, a file shelf, clipboard history, quick translation and to-dos. | Windows 轻量灵动岛。查看 AI Agent 会话和额度、处理审批、接收微信、QQ 和邮件提醒。支持同步歌词、文件中转、剪贴板历史、快捷翻译和待办。"
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "clipboard-manager", "codex", "desktop", "dynamic-island", "lyrics", "media-controls"]
+repository = "https://github.com/flyl1u/fly-island"
+website = "https://island.flyliu.org"
+license = "GPL-3.0"
+language = "TypeScript"
+added = 2026-11-15

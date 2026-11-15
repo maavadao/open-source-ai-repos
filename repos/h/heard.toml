@@ -1,0 +1,9 @@
+name = "heard"
+description = "Open-source (Apache 2.0) voice tool for Claude Code and Codex on macOS that reads your coding agent's progress aloud. The voice runs locally with Kokoro, no account needed, or bring your own ElevenLabs or Speechify key. Hear a short spoken summary when your agent finishes, fails or needs approval."
+category = "skills-prompts"
+tags = ["agent-notifications", "ai-agents", "claude-code", "claude-code-hooks", "codex", "codex-cli", "coding-agents", "developer-tools"]
+repository = "https://github.com/heardlabs/heard"
+website = "https://heard.dev/?utm_source=github&utm_medium=organic&utm_campaign=repo"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-15

@@ -1,0 +1,8 @@
+name = "YOLOv3-Object-Detection-with-OpenCV"
+description = "This project implements a real-time image and video object detection classifier using pretrained yolov3 models."
+category = "vision"
+tags = ["ai", "artificial-intelligence", "computer-vision", "deep-learning", "object-detection", "pretrained-models", "yolov3"]
+repository = "https://github.com/iArunava/YOLOv3-Object-Detection-with-OpenCV"
+license = "MIT"
+language = "Shell"
+added = 2026-11-15

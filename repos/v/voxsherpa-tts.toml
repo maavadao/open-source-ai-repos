@@ -1,0 +1,9 @@
+name = "VoxSherpa-TTS"
+description = "🎙️ VoxSherpa TTS Offline Neural Text-to-Speech Engine for Android ⚡ Sherpa-ONNX powered 🔊 Natural voice synthesis 📱 Fully offline processing 🚀 No cloud • No limits"
+category = "speech"
+tags = ["android", "android-ai", "android-app", "hindi-tts", "kokoro-82m", "kokoro-onnx", "kokoro-tts", "local-ai"]
+repository = "https://github.com/CodeBySonu95/VoxSherpa-TTS"
+website = "https://codebysonu95.github.io/VoxSherpa-TTS/"
+license = "GPL-3.0"
+language = "Java"
+added = 2026-11-15

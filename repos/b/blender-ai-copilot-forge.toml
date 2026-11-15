@@ -1,0 +1,7 @@
+name = "blender-ai-copilot-forge"
+description = "A scene-forging AI copilot for Blender—describe the layout and watch primitives, cameras, lights, materials and parenting assemble in ordered steps, with approvals, named undo and a built-in MCP server. · blender-ai-copilot-forge · blender · blender 3d · blender addon · blender plugin · blender ext…"
+category = "mcp-servers"
+tags = ["3d-automation", "3d-modeling", "blender", "blender-addon", "blender-agents", "blender-ai", "blender-assistant", "blender-automation"]
+repository = "https://github.com/Doug-218/blender-ai-copilot-forge"
+license = "MIT"
+added = 2026-11-15

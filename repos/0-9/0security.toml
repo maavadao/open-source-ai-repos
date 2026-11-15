@@ -1,0 +1,9 @@
+name = "0security"
+description = "Open-source AI cybersecurity harness. Build & deploy continuous security agents that find, prove, fix and monitor vulnerabilities across code, binaries, dependencies, infrastructure and AI agents. Web UI, CLI, CI and MCP."
+category = "mcp-servers"
+tags = ["ai-agents", "application-security", "binary-analysis", "code-review", "cybersecurity", "llm-agents", "mcp", "penetration-testing"]
+repository = "https://github.com/0sec-labs/0security"
+website = "https://0.security"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-15

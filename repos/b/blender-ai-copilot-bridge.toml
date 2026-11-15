@@ -1,0 +1,7 @@
+name = "blender-ai-copilot-bridge"
+description = "An MCP bridge for Blender that exposes 27 supervised scene tools to OpenCode and any compatible client—authenticated Streamable HTTP on a local endpoint, with the visual chat studio and agent teams on the inside. · blender-ai-copilot-bridge · blender · blender 3d · blender addon · blender plugin ·…"
+category = "mcp-servers"
+tags = ["3d-automation", "3d-modeling", "blender", "blender-addon", "blender-agents", "blender-ai", "blender-assistant", "blender-automation"]
+repository = "https://github.com/benzgasfuncring197110/blender-ai-copilot-bridge"
+license = "MIT"
+added = 2026-11-15

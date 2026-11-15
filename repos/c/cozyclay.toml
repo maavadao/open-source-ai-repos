@@ -1,0 +1,9 @@
+name = "CozyClay"
+description = "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model."
+category = "other"
+tags = ["3d", "3d-animation", "ai", "ai-video", "animation", "blender", "camera-control", "llm-agent"]
+repository = "https://github.com/HaD0Yun/CozyClay"
+website = "https://cozyclay.org"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-11-15

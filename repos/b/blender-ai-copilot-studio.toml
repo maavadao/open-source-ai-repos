@@ -1,0 +1,7 @@
+name = "blender-ai-copilot-studio"
+description = "An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations—inside a visual chat studio with multi-agent teams, your choice of AI models, and 27 built-in scene tools. · blender-ai-copilot-studio · blender ai · ai for blender · blender copilot · blender ai copilot…"
+category = "mcp-servers"
+tags = ["3d-automation", "3d-modeling", "blender", "blender-addon", "blender-agents", "blender-ai", "blender-assistant", "blender-automation"]
+repository = "https://github.com/credoksopho1984/blender-ai-copilot-studio"
+license = "MIT"
+added = 2026-11-15

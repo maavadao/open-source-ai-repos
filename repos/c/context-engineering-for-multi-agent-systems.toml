@@ -1,0 +1,9 @@
+name = "Context-Engineering-for-Multi-Agent-Systems"
+description = "Save thousands of lines of code by building universal, domain-agnostic Multi-Agent Systems (MAS) through high-level semantic orchestration. This repository provides a production-ready blueprint for the Agentic Era, allowing you to replace rigid, hard-coded workflows with a dynamic transparent Conte…"
+category = "agents"
+tags = ["agentic-ai", "agentic-rag", "context-engineering", "deterministic-ai", "gpt-5-api", "langchain", "model-context-protocol", "multi-agent-systems"]
+repository = "https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems"
+website = "https://www.linkedin.com/in/denis-rothman-0b034043/"
+license = "MIT"
+language = "Jupyter Notebook"
+added = 2026-11-15

@@ -1,0 +1,8 @@
+name = "reposwarm"
+description = "Open-source multi-repo architecture discovery for AI coding agents. Analyze repositories, generate standardized .arch.md files, and keep them in a central results hub for agent context, onboarding and architecture reviews. GitHub, GitLab, CodeCommit, Azure DevOps and Bitbucket. Apache-2.0."
+category = "agents"
+tags = ["agent-context", "ai", "ai-agents", "architecture", "architecture-documentation", "claude", "codebase-understanding", "developer-tools"]
+repository = "https://github.com/reposwarm/reposwarm"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-15

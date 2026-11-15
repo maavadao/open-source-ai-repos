@@ -1,0 +1,9 @@
+name = "sanoTTS"
+description = "sanoTTS (सानो = 'small' in Nepali): 294k–2.27M-parameter neural TTS that runs on a $3 chip, in the browser, or in Python with low-latency streaming."
+category = "speech"
+tags = ["arduino", "edge-ai", "esp32", "esp32-s3", "esphome", "home-assistant", "knowledge-distillation", "low-latency"]
+repository = "https://github.com/Ampixa/sanoTTS"
+website = "https://ampixa.com/sanotts/"
+license = "GPL-3.0"
+language = "C"
+added = 2026-11-15

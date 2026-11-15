@@ -1,0 +1,7 @@
+name = "Capri-AI"
+description = "Capri: a local-first desktop AI agent with a cyberpunk HUD. Your personal Jarvis for Windows. Controls files, apps, terminal and browser, powered by Claude Code, Codex, Antigravity or any backend. Inspired by Cyberpunk: Edgerunners."
+category = "skills-prompts"
+tags = ["ai-agent", "ai-agents", "ai-assistants", "ai-desktop", "ai-desktop-app", "antigravity", "automation", "autonomous-agents"]
+repository = "https://github.com/Outpostkrewhirl86/Capri-AI"
+license = "MIT"
+added = 2026-11-15

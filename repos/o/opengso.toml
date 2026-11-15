@@ -1,0 +1,9 @@
+name = "OpenGSO"
+description = "Make any website readable by AI agents. Score a site 0-100, generate a Markdown twin of every page plus robots.txt, llms.txt and sitemap.xml, and serve the twin at the same URL. Framework-agnostic, on npm."
+category = "agents"
+tags = ["aeo", "ai-agents", "ai-crawlers", "cli", "generative-engine-optimization", "geo", "gso", "llm"]
+repository = "https://github.com/sherwinvishesh/OpenGSO"
+website = "https://sherwinvishesh.github.io/OpenGSO/"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-11-15

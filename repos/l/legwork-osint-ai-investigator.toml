@@ -1,0 +1,9 @@
+name = "legwork-osint-ai-investigator"
+description = "AI OSINT investigator for Windows: ask a question in plain words and get an answer built from public sources, with a source on every sentence."
+category = "llm-apps"
+tags = ["ai-agent", "ai-investigator", "citations", "investigation", "llm", "osint", "osint-tool", "research-assistant"]
+repository = "https://github.com/StormBrawlerSack/legwork-osint-ai-investigator"
+website = "https://awesomeosint.tools/legwork/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-15

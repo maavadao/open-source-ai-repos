@@ -1,0 +1,7 @@
+name = "blender-ai-copilot-desk"
+description = "A visual AI desk for Blender—chat, scene objects, viewport snapshots, approvals and a live task board in one companion window, backed by your choice of models and a built-in MCP server. · blender-ai-copilot-desk · blender · blender 3d · blender addon · blender plugin · blender extension · blender s…"
+category = "mcp-servers"
+tags = ["3d-automation", "3d-modeling", "blender", "blender-addon", "blender-agents", "blender-ai", "blender-assistant", "blender-automation"]
+repository = "https://github.com/fumbdendade19718/blender-ai-copilot-desk"
+license = "MIT"
+added = 2026-11-15

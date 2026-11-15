@@ -1,0 +1,7 @@
+name = "GitHub-Copilot-app"
+description = "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories."
+category = "skills-prompts"
+tags = ["adminlte", "agent-skills", "ai", "awesome", "chatgpt", "copilot", "github-copilot", "hacktoberfest"]
+repository = "https://github.com/TrapBladesmith/GitHub-Copilot-app"
+license = "Apache-2.0"
+added = 2026-11-15

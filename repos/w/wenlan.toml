@@ -1,0 +1,9 @@
+name = "wenlan"
+description = "The wiki you don't have to maintain for you and your team: set up once, and your AI tools keep it current. Open-souce that works with your existing vault, with no plugins to maintain."
+category = "skills-prompts"
+tags = ["ai-memory", "claude", "claude-code", "claude-code-plugin", "codex", "knowledge-base", "knowledge-graph", "llm-wiki"]
+repository = "https://github.com/wenlan-app/wenlan"
+website = "https://wenlan.app"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-15

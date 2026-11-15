@@ -1,0 +1,9 @@
+name = "crucible"
+description = "3D engine that AI agents drive"
+category = "skills-prompts"
+tags = ["3d", "3d-engine", "agentic-ai", "ai-agents", "blender", "claude-code", "game-engine", "gaussian-splatting"]
+repository = "https://github.com/codepawl/crucible"
+website = "https://crucible.codepawl.com"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-15

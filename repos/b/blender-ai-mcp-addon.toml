@@ -1,0 +1,7 @@
+name = "blender-ai-mcp-addon"
+description = "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration."
+category = "mcp-servers"
+tags = ["ai-agents", "ai-assistant", "blender", "blender-addon", "blender-ai", "blender-automation", "blender-mcp", "blender-plugin"]
+repository = "https://github.com/hitkeeen/blender-ai-mcp-addon"
+license = "MIT"
+added = 2026-11-15

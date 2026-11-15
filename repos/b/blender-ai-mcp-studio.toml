@@ -1,0 +1,7 @@
+name = "Blender-AI-MCP-Studio"
+description = "Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual chat workspace, multi-agent teams and your choice of AI models. · blender ai mcp studio ·…"
+category = "mcp-servers"
+tags = ["3d-automation", "3d-modeling", "blender", "blender-addon", "blender-agents", "blender-ai", "blender-assistant", "blender-automation"]
+repository = "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio"
+license = "MIT"
+added = 2026-11-15

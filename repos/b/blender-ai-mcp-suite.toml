@@ -1,0 +1,7 @@
+name = "Blender-AI-MCP-Suite"
+description = "Blender AI MCP Suite is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual Studio workspace, multi-agent teams, 21+ scene tools and your choice of AI models. · blende…"
+category = "mcp-servers"
+tags = ["3d-automation", "3d-modeling", "blender", "blender-addon", "blender-agents", "blender-ai", "blender-assistant", "blender-automation"]
+repository = "https://github.com/findavoulot1973/Blender-AI-MCP-Suite"
+license = "MIT"
+added = 2026-11-15

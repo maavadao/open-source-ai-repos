@@ -1,0 +1,7 @@
+name = "blender-ai-copilot-flow"
+description = "A controlled AI workflow for Blender: every copilot edit is a supervised tool call—proposed, approved, executed in sequence, cancellable after the current step and undoable by name—inside a visual studio with a built-in MCP server. · blender-ai-copilot-flow · blender · blender 3d · blender addon ·…"
+category = "mcp-servers"
+tags = ["3d-automation", "3d-modeling", "blender", "blender-addon", "blender-agents", "blender-ai", "blender-assistant", "blender-automation"]
+repository = "https://github.com/tiobeharxi1987/blender-ai-copilot-flow"
+license = "MIT"
+added = 2026-11-15
