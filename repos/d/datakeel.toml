@@ -1,0 +1,9 @@
+name = "datakeel"
+description = "Auditable, local-first data & AI dataset workbench: multimodal evidence, traceable metric Q&A, and human-approved Agent/MCP actions."
+category = "mcp-servers"
+tags = ["ai-datasets", "data-catalog", "data-governance", "data-lineage", "data-quality", "fastapi", "mcp", "metrics"]
+repository = "https://github.com/chaw1/datakeel"
+website = "https://github.com/chaw1/datakeel/blob/main/docs/README.md"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-16

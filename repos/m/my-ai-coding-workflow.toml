@@ -1,0 +1,6 @@
+name = "my-ai-coding-workflow"
+description = "Production-grade AI coding instructions, curated skills, and a 3-stage review pipeline (Planning → Critical Review → Diff Audit) built after 4,500+ hours with AI agents. Agent-agnostic."
+category = "skills-prompts"
+tags = ["agentic-workflows", "ai-agents", "claude-code", "code-review", "developer-tools"]
+repository = "https://github.com/vaibhav-space/my-ai-coding-workflow"
+added = 2026-11-16

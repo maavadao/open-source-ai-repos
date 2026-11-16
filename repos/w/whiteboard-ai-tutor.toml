@@ -1,0 +1,9 @@
+name = "whiteboard-ai-tutor"
+description = "Open-source whiteboard AI tutor with animated lessons and interactive playback. Compare Claude, Gemini & DeepSeek across 288 generation runs and 64 blind-reviewed boards."
+category = "llm-apps"
+tags = ["ai-teacher", "ai-tutor", "ai-tutoring", "ai-whiteboard", "claude", "deepseek", "edtech", "education"]
+repository = "https://github.com/molly554/whiteboard-ai-tutor"
+website = "https://molly554.github.io/whiteboard-ai-tutor/"
+license = "MIT"
+language = "HTML"
+added = 2026-11-16

@@ -1,0 +1,8 @@
+name = "llm-algo-leetcode"
+description = "Hands-on LLM algorithms and systems with PyTorch, Triton & CUDA.《大模型算法与系统教程》：模型架构与训练、后训练、推理加速、性能与算子优化，配套 Notebook 练习、答案解析、测试与实验。"
+category = "local-llms"
+tags = ["cuda", "gpu-programming", "inference-optimization", "jupyter-notebook", "kernel-optimization", "large-language-models", "llm", "llm-architecture"]
+repository = "https://github.com/datawhalechina/llm-algo-leetcode"
+website = "https://datawhalechina.github.io/llm-algo-leetcode/"
+language = "Jupyter Notebook"
+added = 2026-11-16

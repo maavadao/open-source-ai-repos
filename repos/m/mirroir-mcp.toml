@@ -1,0 +1,9 @@
+name = "mirroir-mcp"
+description = "Drive a real, stock iPhone (and any macOS app) from any MCP client via iPhone Mirroring — no Developer Mode, no Xcode, no WebDriverAgent. Tap, swipe, type, OCR, plus replayable AI-authored test skills."
+category = "mcp-servers"
+tags = ["agent-skills", "ai-agent", "ai-testing", "claude-code", "computer-use", "e2e-testing", "ios", "ios-automation"]
+repository = "https://github.com/jfarcand/mirroir-mcp"
+website = "https://mirroir.dev"
+license = "Apache-2.0"
+language = "Swift"
+added = 2026-11-16

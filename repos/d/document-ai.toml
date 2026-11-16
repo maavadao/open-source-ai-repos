@@ -1,0 +1,8 @@
+name = "document.ai"
+description = "可溯源、带时效判断的企业知识库问答：每条结论标明出自哪份文档的哪个版本、哪一处，以及在目标时间是否有效（Traceable, version- and time-aware enterprise RAG）"
+category = "llm-apps"
+tags = ["chinese", "deepseek", "enterprise-search", "fastapi", "knowledge-base", "langgraph", "llm", "nextjs"]
+repository = "https://github.com/GanymedeNil/document.ai"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-11-16

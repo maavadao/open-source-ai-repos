@@ -1,0 +1,9 @@
+name = "keryx"
+description = "Keryx: The Fullstack TypeScript Framework for MCP and APIs"
+category = "mcp-servers"
+tags = ["ai", "api", "bun", "drizzle", "framework", "full-stack", "mcp", "mcp-framework"]
+repository = "https://github.com/actionhero/keryx"
+website = "https://www.keryxjs.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-16

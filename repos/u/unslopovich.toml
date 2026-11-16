@@ -1,0 +1,9 @@
+name = "unslopovich"
+description = "Your app looks AI-generated. Dr. Unslopovich noticed. An agent skill that finds and fixes AI-looking UI and UX in mobile apps, web apps, and websites."
+category = "skills-prompts"
+tags = ["accessibility", "agent-skills", "agent-skills-tools", "agents", "agentskills", "ai-slop", "claude", "claude-code"]
+repository = "https://github.com/erkamyaman/unslopovich"
+website = "https://www.npmjs.com/package/unslopovich"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-16

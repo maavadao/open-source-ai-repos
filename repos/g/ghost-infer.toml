@@ -1,0 +1,8 @@
+name = "ghost-infer"
+description = "Fast local LLM inference for the GPU you already have: one Rust binary, GGUF models, an OpenAI-compatible server and a chat page with a ghost."
+category = "local-llms"
+tags = ["cuda", "desktop-app", "gguf", "llm", "llm-inference", "local-llm", "mixture-of-experts", "openai-compatible-api"]
+repository = "https://github.com/affifuddin-hazam/ghost-infer"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-16

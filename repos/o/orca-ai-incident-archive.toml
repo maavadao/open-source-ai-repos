@@ -1,0 +1,7 @@
+name = "Orca-AI-Incident-Archive"
+description = "An open database of real-world AI agent incidents."
+category = "agents"
+tags = ["agentic-ai", "ai-agents", "ai-governance", "ai-incidents", "ai-safety", "ai-security", "cve", "cybersecurity"]
+repository = "https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive"
+language = "HTML"
+added = 2026-11-16

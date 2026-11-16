@@ -1,0 +1,8 @@
+name = "Gemini-Config-Checker-"
+description = "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)"
+category = "search"
+tags = ["ai", "ai-search", "aichecker", "chatgpt", "cli", "config-checker", "gemeni", "gemeni-checker"]
+repository = "https://github.com/weightcashiercupola/Gemini-Config-Checker-"
+license = "Apache-2.0"
+language = "Makefile"
+added = 2026-11-16

@@ -1,0 +1,8 @@
+name = "ViralForge"
+description = "Agent-native viral video studio: one-click replicate viral short videos, deconstruct video hooks and scripts into a Viral DNA report, and ship 10 costed variants. Skill + MCP + CLI. Apache-2.0."
+category = "agents"
+tags = ["ai-agent", "ai-agents", "short-video", "short-video-generator", "video-editing", "video-script-deconstruction", "viral-video", "viral-video-generator"]
+repository = "https://github.com/fendouai/ViralForge"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-16

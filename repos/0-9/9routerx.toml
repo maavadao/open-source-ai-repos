@@ -1,0 +1,8 @@
+name = "9routerx"
+description = "9RouterX (9R Next Go Generation): Single-binary Go AI router, LLM gateway & 20-40% token saver. Route Claude Code, Cursor & Codex across 155 providers, 28 OAuth & 248 free models (24 keyless) — OpenAI, Claude, Gemini, DeepSeek, Groq, Ollama & MCP."
+category = "mcp-servers"
+tags = ["9router", "9routerx", "ai-gateway", "ai-proxy", "ai-routing", "api-gateway", "claude-code", "cursor"]
+repository = "https://github.com/yanstd888/9routerx"
+website = "https://yanstd888.github.io/9routerx"
+language = "Go"
+added = 2026-11-16

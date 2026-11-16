@@ -1,0 +1,7 @@
+name = "Konnect-EDA"
+description = "AI-assisted PCB design for KiCAD 10: downloads and issue tracker. Commercial, closed source, free during the beta."
+category = "other"
+tags = ["ai", "claude", "codex", "eda", "electronics", "kicad", "kicad-plugin", "mcp"]
+repository = "https://github.com/Orchis-ai-LLC/Konnect-EDA"
+website = "https://konnect-eda.orchis.ai"
+added = 2026-11-16

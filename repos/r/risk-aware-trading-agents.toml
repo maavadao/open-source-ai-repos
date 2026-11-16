@@ -1,0 +1,9 @@
+name = "risk-aware-trading-agents"
+description = "AI trading agents for US stocks with news backtesting that can't see the future: a public LLM trading agent leaderboard (rta-bench-1), frozen point-in-time 2020/2022/2026 markets (prices, VIX, news), a look-ahead check on every run, LLM agents over MCP, and paper/live trading on 10 brokers. 风险感知美股交…"
+category = "mcp-servers"
+tags = ["ai-trading", "algorithmic-trading", "alpaca", "backtesting", "financial-news", "interactive-brokers", "llm", "llm-agents"]
+repository = "https://github.com/jackson-cmd/risk-aware-trading-agents"
+website = "https://jackson-cmd.github.io/risk-aware-trading-agents/"
+license = "MIT"
+language = "Python"
+added = 2026-11-16

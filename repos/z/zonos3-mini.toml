@@ -1,0 +1,9 @@
+name = "ZONOS3-Mini"
+description = "compact zero-shot voice-cloning TTS with state-of-the-art performance, leading voice control, real-time on-device."
+category = "speech"
+tags = ["ggml", "local-ai", "mlx", "on-device", "on-device-ai", "pytorch", "sglang", "text-to-speech"]
+repository = "https://github.com/Zyphra/ZONOS3-Mini"
+website = "https://zyphra.com/models/zonos3-mini"
+license = "MIT"
+language = "Python"
+added = 2026-11-16

@@ -1,0 +1,9 @@
+name = "tiny-voca"
+description = "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch"
+category = "speech"
+tags = ["onnx", "text-to-speech", "tts"]
+repository = "https://github.com/n4ze3m/tiny-voca"
+website = "https://tiny-voca.n4ze3m.com"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-16

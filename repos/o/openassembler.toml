@@ -1,0 +1,8 @@
+name = "OpenAssembler"
+description = "Open source compiler for your whole ML repo (support python, CUDA C/C++) into sass and cuda binary (which are closed sourced by Nvidia); 3-40% faster than Openai Triton for Neural Network (primarily LLM) based training/inferencing"
+category = "llm-apps"
+tags = ["a100", "compiler", "compiler-backend", "compiler-optimization", "cuda", "cuda-c", "cuda-cpp", "gpu"]
+repository = "https://github.com/lucialuka/OpenAssembler"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-16

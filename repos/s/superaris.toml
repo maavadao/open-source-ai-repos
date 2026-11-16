@@ -1,0 +1,9 @@
+name = "SuperARIS"
+description = "SuperARIS — Your personal research agent with ARIS (Auto Research In Sleep), powered by a team of agents."
+category = "skills-prompts"
+tags = ["agent-orchestration", "ai-research", "aris", "claude-code", "codex", "gemini", "herdr", "mcp"]
+repository = "https://github.com/wanshuiyin/SuperARIS"
+website = "https://wanshuiyin.github.io/SuperARIS/"
+license = "MIT"
+language = "Python"
+added = 2026-11-16

@@ -1,0 +1,9 @@
+name = "shamus-osint-ai-agent"
+description = "Command-line AI agent for OSINT: one command, it picks the tools, runs them and writes the case file."
+category = "llm-apps"
+tags = ["ai-agent", "cli", "investigation", "llm", "osint", "osint-tool", "reconnaissance", "terminal"]
+repository = "https://github.com/RouteInferno/shamus-osint-ai-agent"
+website = "https://awesomeosint.tools/shamus/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-16

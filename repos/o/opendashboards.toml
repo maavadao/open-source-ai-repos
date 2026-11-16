@@ -1,0 +1,9 @@
+name = "opendashboards"
+description = "Open Source Claude Dashboards"
+category = "other"
+tags = ["ai", "analytics", "claude", "dashboard", "dashboards"]
+repository = "https://github.com/thesysdev/opendashboards"
+website = "https://opendashboards.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-16

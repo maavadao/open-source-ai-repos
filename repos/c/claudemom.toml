@@ -1,0 +1,8 @@
+name = "ClaudeMom"
+description = "不用 Claude 账号！把 API Key 变成登录模式，Claude 桌面版全功能解锁（汉化 / 语音 / 电脑控制）"
+category = "skills-prompts"
+tags = ["claude", "claude-code", "claude-desktop", "tauri"]
+repository = "https://github.com/BigPizzaV3/ClaudeMom"
+license = "AGPL-3.0"
+language = "Rust"
+added = 2026-11-16

@@ -1,0 +1,9 @@
+name = "Autocad-MCP"
+description = "AutoCAD MCP server for AI agents (Claude, Cursor, any MCP client): 240+ tools to draw, edit and read DWG/DXF drawings. Live AutoCAD via COM, or headless with ezdxf — no AutoCAD needed. Mechanical sheets with ISO GD&T and tolerances, P&ID (ISA-5.1), floor plans, pipe and cable takeoffs."
+category = "mcp-servers"
+tags = ["ai-agents", "autocad", "autolisp", "cad", "cad-automation", "claude", "claude-code", "cursor"]
+repository = "https://github.com/U-C4N/Autocad-MCP"
+website = "https://pypi.org/project/autocad-mcp-pro/"
+license = "MIT"
+language = "Python"
+added = 2026-11-16

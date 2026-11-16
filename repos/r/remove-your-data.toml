@@ -1,0 +1,9 @@
+name = "remove-your-data"
+description = "Delete yourself from data brokers for $0. An agent skill: paste the repo URL into Grok Bot, Claude, Codex, Cursor or any coding agent."
+category = "other"
+tags = ["agent-skill", "ai-agent", "ccpa", "claude", "data-brokers", "data-privacy", "grok", "open-source"]
+repository = "https://github.com/k7cfo/remove-your-data"
+website = "https://github.com/k7cfo/remove-your-data"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-16

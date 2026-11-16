@@ -1,0 +1,9 @@
+name = "tinglongwu"
+description = "Offline real-time speech translation for meetings and calls. Runs locally: no cloud, no recordings kept."
+category = "speech"
+tags = ["meeting", "offline", "privacy", "real-time", "speech-translation", "text-to-speech", "whisper"]
+repository = "https://github.com/sunososobro-hub/tinglongwu"
+website = "https://sunososobro-hub.github.io/tinglongwu/"
+license = "MIT"
+language = "Python"
+added = 2026-11-16

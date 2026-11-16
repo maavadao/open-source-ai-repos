@@ -1,0 +1,9 @@
+name = "shim"
+description = "Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT."
+category = "mcp-servers"
+tags = ["agent-skills", "agents", "ai", "cli", "developer-tools", "go", "harness", "llm"]
+repository = "https://github.com/Balanov/shim"
+website = "https://balanov.pro/shim/"
+license = "MIT"
+language = "Go"
+added = 2026-11-16
