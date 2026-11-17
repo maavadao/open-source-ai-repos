@@ -1,0 +1,9 @@
+name = "know-where"
+description = "知归是一个面向个人使用的 AI 知识归档工具。把内容链接（微信公众号、稀土掘金、GitHub、小红书、抖音、B站）发送给飞书机器人，知归会自动完成内容提取、AI 分类与总结，并将结果沉淀到飞书多维表格中。Send WeChat Article / Douyin / Xiaohongshu / Bilibili links to a Feishu (Lark) bot; auto-extract, AI-summarize and archive to Feishu Bitable. Self-hosted personal knowledge base / second brain."
+category = "llm-apps"
+tags = ["ai-summarization", "bilibili", "content-archive", "douyin", "feishu", "feishu-bot", "knowledge-base", "knowledge-management"]
+repository = "https://github.com/ybh-ybh/know-where"
+website = "https://ybh-ybh.github.io/know-where/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-17

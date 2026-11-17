@@ -1,0 +1,9 @@
+name = "synology-nas-cli"
+description = "nas: a zero-dependency Python CLI + MCP server for Synology DSM 7. One-command audit and fix for the C3RB3R / .L0CK3D ransomware campaign; hand it to your AI agent. Mirror; canonical repo and issues: gitlab.com/aa22396584/synology-nas-cli"
+category = "mcp-servers"
+tags = ["ai-agent", "cli", "dsm", "mcp", "nas", "ransomware", "security", "synology"]
+repository = "https://github.com/akari-sora/synology-nas-cli"
+website = "https://gitlab.com/aa22396584/synology-nas-cli"
+license = "MIT"
+language = "Python"
+added = 2026-11-17

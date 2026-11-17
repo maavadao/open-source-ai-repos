@@ -1,0 +1,9 @@
+name = "VoxShield"
+description = "Protecting digital communications against audio deepfakes with real-time AI. This system analyzes audio streams to detect synthesized voices and actively prevents voice cloning impersonation attacks."
+category = "security"
+tags = ["ai-safety", "ai-security", "audio", "audioprocessing", "cybersecurity", "deepfake-detection", "flask", "machine-learning"]
+repository = "https://github.com/codepiyusss/VoxShield"
+website = "https://voxshield-psi.vercel.app"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-17

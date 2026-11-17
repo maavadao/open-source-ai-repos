@@ -1,0 +1,9 @@
+name = "wuch-ai"
+description = "说一句，界面在画布上长出来 · https://wuch-ai.net"
+category = "chat"
+tags = ["ai", "ai-agent", "ai-tools", "bun", "canvas", "chatbot", "cloudflare-workers", "conversational-ui"]
+repository = "https://github.com/CCharlie-xiu/wuch-ai"
+website = "https://wuch-ai.net"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-17

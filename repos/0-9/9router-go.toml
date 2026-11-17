@@ -1,0 +1,8 @@
+name = "9router-go"
+description = "High-performance Go proxy gateway for 9Router LLM routing — 32K RPS, 42MB RAM, CGO-free"
+category = "llm-apps"
+tags = ["9router", "api-gateway", "claude", "deepseek", "gpt", "llm", "openai", "proxy"]
+repository = "https://github.com/luqman-v1/9router-go"
+website = "https://luqman-v1.github.io/9router-go/"
+language = "Go"
+added = 2026-11-17

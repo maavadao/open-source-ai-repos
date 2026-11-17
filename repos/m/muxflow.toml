@@ -1,0 +1,9 @@
+name = "muxflow"
+description = "Remote-first tmux IDE for coding agents. Agent notifications on desk and phone, voice replies, screenshot paste over SSH, multi-host, ports, files, and Git."
+category = "skills-prompts"
+tags = ["ai-agents", "android", "claude-code", "codex", "coding-agents", "developer-tools", "linux", "macos"]
+repository = "https://github.com/gal064/muxflow"
+website = "https://gal064.github.io/muxflow/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-17

@@ -1,0 +1,7 @@
+name = "awesome-software-factories"
+description = "A curated list of software factories, agent factories, and dark factories: systems that run AI coding agents autonomously, in parallel, and in loops."
+category = "skills-prompts"
+tags = ["agent-factory", "agentic-coding", "ai-agents", "awesome", "awesome-list", "claude-code", "codex", "coding-agents"]
+repository = "https://github.com/varun1505/awesome-software-factories"
+license = "CC0-1.0"
+added = 2026-11-17

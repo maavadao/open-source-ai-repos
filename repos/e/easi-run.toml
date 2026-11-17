@@ -1,0 +1,9 @@
+name = "easi.run"
+description = "Self-hosted Chrome sessions for you and your AI agents. MCP, live human takeover, saved profiles, drag-and-drop files, downloads and audio."
+category = "mcp-servers"
+tags = ["ai-agents", "browser", "browser-automation", "chrome", "docker", "mcp", "rpa", "rust"]
+repository = "https://github.com/julianosig/easi.run"
+website = "https://easi.run/"
+license = "AGPL-3.0"
+language = "Rust"
+added = 2026-11-17

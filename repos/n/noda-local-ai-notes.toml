@@ -1,0 +1,7 @@
+name = "noda-local-ai-notes"
+description = "Local-first AI note-taking app for Windows: Markdown notes, a personal knowledge base, knowledge graph, semantic search and chat with cited sources."
+category = "local-llms"
+tags = ["ai-notes", "desktop-app", "electron", "gguf", "knowledge-base", "knowledge-graph", "knowledge-management", "local-ai"]
+repository = "https://github.com/Timaga/noda-local-ai-notes"
+language = "JavaScript"
+added = 2026-11-17

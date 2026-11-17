@@ -1,0 +1,8 @@
+name = "mcd-together-order"
+description = "麦麦一起点：培智学生用图片表达选择，家长接手核对。麦当劳 MCP 点餐沟通原型。"
+category = "mcp-servers"
+tags = ["accessibility", "mcp", "special-education"]
+repository = "https://github.com/littlebordercollie/mcd-together-order"
+website = "https://littlebordercollie.github.io/mcd-together-order/"
+language = "JavaScript"
+added = 2026-11-17

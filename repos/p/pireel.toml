@@ -1,0 +1,9 @@
+name = "pireel"
+description = "Open-source AI video editor: captions, cuts, B-roll, export to Premiere and DaVinci. Drive it from any AI agent over MCP. A CapCut and ChatCut alternative."
+category = "mcp-servers"
+tags = ["ai-video", "ai-video-editor", "capcut", "capcut-alternative", "captions", "chatcut", "hyperframes", "mcp"]
+repository = "https://github.com/pireel/pireel"
+website = "https://www.pireel.com"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-11-17

@@ -1,0 +1,8 @@
+name = "humanizer-id"
+description = "Editorial guide for Indonesian academic writing: reduce cliches, clarify structure, and preserve meaning"
+category = "skills-prompts"
+tags = ["academic-writing", "ai-writing", "bahasa-indonesia", "chatgpt-prompt", "claude-skill", "humanizer", "indonesian", "llm"]
+repository = "https://github.com/apissaj/humanizer-id"
+license = "MIT"
+language = "Python"
+added = 2026-11-17

@@ -1,0 +1,8 @@
+name = "hunter-skill"
+description = "11 Claude skills that land you the job: listings, resume, research, LinkedIn and warm intros to the hiring manager."
+category = "skills-prompts"
+tags = ["ai-agents", "career", "claude", "claude-skills", "job-search"]
+repository = "https://github.com/Jakeschincariol/hunter-skill"
+license = "MIT"
+language = "Python"
+added = 2026-11-17

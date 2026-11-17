@@ -1,0 +1,6 @@
+name = "dataiku-projet-bancaire-analytics"
+description = "End-to-end Banking Analytics with Dataiku | Data Preparation, Machine Learning, Customer Scoring & Automated Pipelines"
+category = "data-science"
+tags = ["banking-analytics", "data", "data-analysis", "data-analytics", "data-engineering", "data-engineering-project", "data-science", "data-science-competition"]
+repository = "https://github.com/datasifaw/dataiku-projet-bancaire-analytics"
+added = 2026-11-17

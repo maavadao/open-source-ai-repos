@@ -1,0 +1,9 @@
+name = "ReviewBench"
+description = "ReviewBench is an open, reproducible benchmark for evaluating AI code review systems on real-world pull requests."
+category = "coding"
+tags = ["ai", "ai-code-review", "benchmark", "code-review"]
+repository = "https://github.com/review-bench/ReviewBench"
+website = "https://review-bench.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-17

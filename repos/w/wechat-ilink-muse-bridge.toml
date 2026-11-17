@@ -1,0 +1,8 @@
+name = "wechat-ilink-muse-bridge"
+description = "把 Muse（Meta 个人 AI 助理）接进微信：腾讯官方 iLink 协议、长轮询秒级收消息、连发消息合并、主动推送、媒体断点续传"
+category = "agents"
+tags = ["ai-agents", "chatbot", "claude", "ilink", "python", "wechat", "wechat-bot"]
+repository = "https://github.com/gfydfhcf/wechat-ilink-muse-bridge"
+license = "MIT"
+language = "Python"
+added = 2026-11-17

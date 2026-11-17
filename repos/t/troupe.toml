@@ -1,0 +1,8 @@
+name = "troupe"
+description = "Run a team of coding agents you can actually watch: one approved plan, each role in its own tmux window and git worktree, on Claude Code or Codex."
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "cli", "codex", "coding-agents", "developer-tools", "git-worktree", "multi-agent"]
+repository = "https://github.com/hitianqi/troupe"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-17

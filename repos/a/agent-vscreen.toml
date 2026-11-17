@@ -1,0 +1,9 @@
+name = "agent-vscreen"
+description = "A background virtual screen for any Android AI agent: it operates apps on an invisible display while you keep using your phone. CLI / MCP / HTTP, Shizuku, no root. 给任何手机 agent 用的后台副屏。"
+category = "mcp-servers"
+tags = ["ai-agent", "android", "android-automation", "kotlin", "llm", "mcp", "mcp-server", "no-root"]
+repository = "https://github.com/kilolonion/agent-vscreen"
+website = "https://github.com/kilolonion/agent-vscreen/releases/latest"
+license = "MIT"
+language = "Kotlin"
+added = 2026-11-17

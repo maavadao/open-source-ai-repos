@@ -1,0 +1,8 @@
+name = "seed-skill"
+description = "11 Claude skills that take your startup from idea to funded: competitor research, investor matching, a business plan, a pitch deck and a closer that books your investor calls."
+category = "skills-prompts"
+tags = ["claude", "claude-skills", "fundraising", "pitch-deck", "startups", "venture-capital"]
+repository = "https://github.com/Jakeschincariol/seed-skill"
+license = "MIT"
+language = "Python"
+added = 2026-11-17

@@ -1,0 +1,6 @@
+name = "agent-factory-docker-api-ui"
+description = "Agent Factory is an open-source studio for building, editing and chatting with AI agents. You build them from simple nodes: LLM calls, HTTP requests, JavaScript, memory and sub-agents. It runs locally with one docker-compose command, and ready-made testing agents are available in the shared agents-…"
+category = "agents"
+tags = ["agent-framework", "agent-orchestration", "agentic-ai", "agents", "ai-agents", "ai-tools", "quality-assurance", "quality-control"]
+repository = "https://github.com/Ursa-Minor-Beta/agent-factory-docker-api-ui"
+added = 2026-11-17

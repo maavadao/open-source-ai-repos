@@ -1,0 +1,7 @@
+name = "gpt-image-2-6-mcp-server"
+description = "Use GPT Image 2.6 from Claude, Cursor and VS Code via MCP."
+category = "skills-prompts"
+tags = ["ai-image-generation", "api", "apimart", "awesome", "gpt-image", "image-generation", "openai", "prompt-engineering"]
+repository = "https://github.com/fujc683/gpt-image-2-6-mcp-server"
+website = "https://gola.apimart.ai/k-EXCk8v"
+added = 2026-11-17

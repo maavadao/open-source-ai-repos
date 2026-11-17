@@ -1,0 +1,9 @@
+name = "opensource-clipping"
+description = "🎬 Ultimate AI Auto-Clipper — Transform long-form videos & podcasts into viral shorts! Features smart face-tracking, kinetic karaoke subtitles, contextual B-roll, AI voice-overs, and auto-uploaders (YouTube/FB). Powered by Whisper, Gemini, MediaPipe, & Pyannote."
+category = "video"
+tags = ["ai", "auto-clipper", "clipper", "face-tracker", "ffmpeg", "gemini", "karaoke-subtitles", "mediapipe"]
+repository = "https://github.com/NaufalRizqullah/opensource-clipping"
+website = "https://naufalrizqullah.github.io/opensource-clipping/"
+license = "MIT"
+language = "Python"
+added = 2026-11-17

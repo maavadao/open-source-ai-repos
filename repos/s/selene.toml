@@ -1,0 +1,8 @@
+name = "selene"
+description = "a framework for training sequence-level deep learning networks"
+category = "ml-platforms"
+tags = ["deep-learning", "genomic-data-analysis", "sampling-methods"]
+repository = "https://github.com/FunctionLab/selene"
+license = "BSD-3-Clause-Clear"
+language = "Jupyter Notebook"
+added = 2026-11-17

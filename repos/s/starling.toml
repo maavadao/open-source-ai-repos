@@ -1,0 +1,9 @@
+name = "starling"
+description = "Local AI in .NET, with no Python sidecar and no API key: embeddings, entity extraction, image and video search and chat on ONNX Runtime (CPU/CUDA), through Microsoft.Extensions.AI."
+category = "vector-databases"
+tags = ["ai", "csharp", "cuda", "dotnet", "embeddings", "gemma", "gliner", "llm"]
+repository = "https://github.com/starlinghq/starling"
+website = "https://starling.rocks"
+license = "Apache-2.0"
+language = "C#"
+added = 2026-11-17

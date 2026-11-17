@@ -1,0 +1,7 @@
+name = "EvoSprig"
+description = "Open-source framework for self-evolving agents: visual workflows, multi-agent collaboration, memory, tools and controlled recursive self-improvement (RSI)."
+category = "agents"
+tags = ["agent-workflows", "ai-agents", "llm-as-judge", "multi-agent", "prompt-optimization", "python", "rsi", "self-evolving-agents"]
+repository = "https://github.com/Toyhom/EvoSprig"
+language = "Python"
+added = 2026-11-17

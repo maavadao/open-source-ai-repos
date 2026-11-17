@@ -1,0 +1,9 @@
+name = "Pixelbolt"
+description = "Agent-first pixel art and animation toolkit. JSON recipes to PNG, APNG and sprite atlases via CLI, MCP server and local studio. Zero dependencies. MIT."
+category = "mcp-servers"
+tags = ["agent-skills", "ai-agents", "claude-code", "claude-skill", "game-assets", "game-effects", "gamedev", "gemini-cli-extension"]
+repository = "https://github.com/skulitom/Pixelbolt"
+website = "https://skulitom.github.io/Pixelbolt/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-17

@@ -1,0 +1,8 @@
+name = "copper-kicad-mcp"
+description = "MCP server that lets any AI app design real, orderable KiCad boards: schematic, LCSC parts, PCB routing, ERC/DRC, JLCPCB fab files."
+category = "mcp-servers"
+tags = ["ai-agents", "claude", "cursor", "eda", "electronics", "jlcpcb", "kicad", "lcsc"]
+repository = "https://github.com/claynicholson/copper-kicad-mcp"
+license = "MIT"
+language = "Python"
+added = 2026-11-17

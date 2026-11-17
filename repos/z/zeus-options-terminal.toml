@@ -1,0 +1,8 @@
+name = "zeus-options-terminal"
+description = "Self-hosted, all-in-one options trading terminal: live positions & Greeks, P/L and risk, exit alerts, paper trading, stock screener, bilingual news (Finviz · WSJ · MarketWatch · Benzinga), SEC filings, trade journal, MCP for AI agents. tastytrade, Alpaca, Public or a CSV. 宙斯期权终端：本地部署的美股期权交易终端"
+category = "mcp-servers"
+tags = ["alpaca", "benzinga", "fastapi", "financial-news", "finviz", "greeks", "implied-volatility", "mcp-server"]
+repository = "https://github.com/jackson-cmd/zeus-options-terminal"
+website = "https://jackson-cmd.github.io/zeus-options-terminal/"
+language = "Python"
+added = 2026-11-17

@@ -1,0 +1,8 @@
+name = "pivis-video-dubbing-agent-kit"
+description = "Agent-ready video dubbing toolkit for Apple Silicon: local Chinese speech and bilingual subtitles. Single-speaker preview; human review required."
+category = "speech"
+tags = ["ai-agent", "apple-silicon", "local-first", "mlx", "python", "speech-recognition", "subtitles", "text-to-speech"]
+repository = "https://github.com/PivisYYY/pivis-video-dubbing-agent-kit"
+license = "MIT"
+language = "Python"
+added = 2026-11-17

@@ -1,0 +1,9 @@
+name = "git-twig"
+description = "lightweight git-worktrees for agents"
+category = "agents"
+tags = ["agents", "git", "worktrees"]
+repository = "https://github.com/leostera/git-twig"
+website = "https://twig.leostera.dev"
+license = "MIT"
+language = "Rust"
+added = 2026-11-17

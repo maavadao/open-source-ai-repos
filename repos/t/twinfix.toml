@@ -1,0 +1,8 @@
+name = "TwinFix"
+description = "TwinFix — AI agent that diagnoses, reproduces and fixes bugs in a disposable twin environment. 在一次性孪生环境中自动诊断、复现并修复故障的 AI Agent。"
+category = "llm-apps"
+tags = ["ai-agent", "automated-program-repair", "benchmark", "bug-fixing", "devops", "docker", "fastapi", "incident-response"]
+repository = "https://github.com/spacesky-cell/TwinFix"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-17

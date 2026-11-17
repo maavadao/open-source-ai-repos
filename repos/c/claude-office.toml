@@ -1,0 +1,8 @@
+name = "Claude-Office"
+description = "A pixel art virtual office that visualizes your AI agents working in real-time. Claude Code hooks, WebSocket events, and isometric pixel art."
+category = "skills-prompts"
+tags = ["agent-visualization", "ai-agents", "claude", "claude-code", "claude-code-hooks", "developer-tools", "electron", "multi-agent"]
+repository = "https://github.com/W17ant/Claude-Office"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-17

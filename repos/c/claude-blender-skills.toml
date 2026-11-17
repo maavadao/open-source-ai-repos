@@ -1,0 +1,8 @@
+name = "claude-blender-skills"
+description = "Free Claude skills for realistic Blender animations: full workflows + the real scripts behind my YouTube videos"
+category = "skills-prompts"
+tags = ["3d-animation", "blender", "blender-python", "claude", "claude-code", "claude-skills", "cycles"]
+repository = "https://github.com/mromidev/claude-blender-skills"
+license = "MIT"
+language = "Python"
+added = 2026-11-17

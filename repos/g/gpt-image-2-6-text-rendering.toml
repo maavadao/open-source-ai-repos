@@ -1,0 +1,7 @@
+name = "gpt-image-2-6-text-rendering"
+description = "Prompt patterns for legible in-image text with GPT Image 2.6."
+category = "skills-prompts"
+tags = ["ai-image-generation", "api", "apimart", "awesome", "gpt-image", "image-generation", "openai", "prompt-engineering"]
+repository = "https://github.com/fujc683/gpt-image-2-6-text-rendering"
+website = "https://gola.apimart.ai/k-JQ2zoO"
+added = 2026-11-17

@@ -1,0 +1,9 @@
+name = "superstack"
+description = "Open-source Laravel starter with Filament, NativePHP SuperNative, and MCP"
+category = "mcp-servers"
+tags = ["filamentphp", "laravel", "mcp-server", "nativephp", "nativephp-mobile", "nativephp-web", "php"]
+repository = "https://github.com/NativePHP/superstack"
+website = "https://nativephp.com"
+license = "MIT"
+language = "PHP"
+added = 2026-11-17

@@ -1,0 +1,9 @@
+name = "3d-new-era-ai"
+description = "Open-source home design and floor plan editor in Rust (a Sweet Home 3D alternative) with a built-in MCP server: your AI agent draws walls, furnishes rooms, checks lighting and ergonomics, and renders photos — live, on your own machine."
+category = "mcp-servers"
+tags = ["3d", "3d-modeling", "ai", "ai-agents", "architecture", "cad", "chatgpt", "claude"]
+repository = "https://github.com/leandrodaf/3d-new-era-ai"
+website = "https://3dneweraai.com"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-17

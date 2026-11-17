@@ -1,0 +1,8 @@
+name = "uaef"
+description = "Universal Agent Evaluation Framework (UAEF) is a framework-agnostic evaluation system for AI agents. Invoke any agent and score it on multiple metrics spanning tool calling, response quality, safety, performance, and reasoning. Track experiments against baselines, catch regressions automatically, a…"
+category = "agents"
+tags = ["agent", "agentcore", "agentic-ai", "agents", "aws", "deepeval", "eval", "evals"]
+repository = "https://github.com/awslabs/uaef"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-17

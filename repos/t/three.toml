@@ -1,0 +1,8 @@
+name = "Three"
+description = "A self-extending AI agent that runs anywhere Termux runs. Writes its own capabilities, remembers across sessions."
+category = "llm-apps"
+tags = ["ai-agent", "android", "autonomous-agent", "llm", "python", "self-modifying", "termux"]
+repository = "https://github.com/shany9200/Three"
+license = "MIT"
+language = "Python"
+added = 2026-11-17

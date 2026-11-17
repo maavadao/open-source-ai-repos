@@ -1,0 +1,8 @@
+name = "speedrun"
+description = "Fastest cross-platform E2E Automation for Mobile & Web"
+category = "agents"
+tags = ["ai-agents", "android", "android-emulator", "black-box-testing", "cli", "e2e-testing", "end-to-end-testing", "fast"]
+repository = "https://github.com/hubastard/speedrun"
+license = "Apache-2.0"
+language = "Odin"
+added = 2026-11-17

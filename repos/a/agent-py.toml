@@ -1,0 +1,7 @@
+name = "agent-py"
+description = "Personal AIOps engineering project with durable workflows, scoped hybrid retrieval, reliable event delivery, and verified API/browser contracts."
+category = "llm-apps"
+tags = ["aiops", "fastapi", "kafka", "langgraph", "python", "rag", "redis", "vue"]
+repository = "https://github.com/kkjiangk/agent-py"
+language = "Python"
+added = 2026-11-17

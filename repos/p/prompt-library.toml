@@ -1,0 +1,8 @@
+name = "prompt-library"
+description = "95 条 AI 图像 / 视频提示词库，六大类，含 Excel 总表与入库脚本"
+category = "skills-prompts"
+tags = ["ai-art", "chinese", "image-generation", "midjourney", "prompt-engineering", "prompt-library", "prompts", "stable-diffusion"]
+repository = "https://github.com/Nihilist-ZIO/prompt-library"
+license = "MIT"
+language = "Python"
+added = 2026-11-17

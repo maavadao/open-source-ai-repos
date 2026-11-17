@@ -1,0 +1,8 @@
+name = "Parallax"
+description = "A lightweight workflow plugin for hands-off AI coding with DeepSeek Harness, Claude Code, GitHub Copilot, and more."
+category = "skills-prompts"
+tags = ["agent-orchestration", "ai-agents", "ai-coding", "ai4e", "ai4xe", "claude-code", "deepseek", "deepseek-harness"]
+repository = "https://github.com/AI4XE/Parallax"
+license = "MIT"
+language = "Python"
+added = 2026-11-17

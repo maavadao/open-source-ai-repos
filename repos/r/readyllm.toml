@@ -1,0 +1,8 @@
+name = "ReadyLLM"
+description = "Deploy, monitor, and tune LLM through a visual interface — plus image / video generation on top of ComfyUI."
+category = "local-llms"
+tags = ["comfyui", "fastapi", "gguf", "inference-optimization", "llama-cpp", "llm", "llm-inference", "llm-serving"]
+repository = "https://github.com/htobty/ReadyLLM"
+license = "MIT"
+language = "Python"
+added = 2026-11-17

@@ -1,0 +1,9 @@
+name = "jailbreak-archives"
+description = "A structured, versioned archive of adversarial prompt engineering techniques against Large Language Models — for AI safety research, red-teaming, and defensive hardening."
+category = "skills-prompts"
+tags = ["adversarial-prompts", "ai-red-team", "ai-safety", "chatbot", "chatgpt", "claude", "cybersecurity", "deepseek"]
+repository = "https://github.com/e2sy/jailbreak-archives"
+website = "https://www.youtube.com/@mayankforge"
+license = "MIT"
+language = "Roff"
+added = 2026-11-17

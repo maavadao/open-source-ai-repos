@@ -1,0 +1,9 @@
+name = "localix-cli"
+description = "Localix CLI: an ultrafast agent runtime for coding and CI, in Rust. One binary under 4 MB, any model. The command is llx."
+category = "coding"
+tags = ["agent-runtime", "agentic-ai", "agentic-coding", "ai-agent", "ai-cli", "ai-coding-agent", "ci", "cli"]
+repository = "https://github.com/localixai/localix-cli"
+website = "https://cli.localix.ai"
+license = "MIT"
+language = "Rust"
+added = 2026-11-17

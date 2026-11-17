@@ -1,0 +1,9 @@
+name = "boring-marketing-skills"
+description = "31 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude-code", "codex", "copywriting", "local-seo", "marketing", "seo"]
+repository = "https://github.com/boringmarketer/boring-marketing-skills"
+website = "https://boringmarketing.com"
+license = "MIT"
+language = "Python"
+added = 2026-11-17

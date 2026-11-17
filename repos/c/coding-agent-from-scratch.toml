@@ -1,0 +1,8 @@
+name = "coding-agent-from-scratch"
+description = "Build an AI Coding Agent from Scratch in Pure Python, Step by Step | 用纯 Python 从零搭建 AI 编程 Agent，边实现边理解其工作原理"
+category = "skills-prompts"
+tags = ["agent-from-scratch", "agent-tutorial", "agentic-ai", "ai-agent", "ai-coding-assistant", "claude-code", "codex", "coding-agent"]
+repository = "https://github.com/liiiiiiiiil/coding-agent-from-scratch"
+license = "MIT"
+language = "Python"
+added = 2026-11-17

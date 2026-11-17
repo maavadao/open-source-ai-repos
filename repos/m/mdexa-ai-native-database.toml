@@ -1,0 +1,9 @@
+name = "mdexa-ai-native-database"
+description = "Verified license and provenance records for datasets behind medical AI: information cards, JSON Schema, decision rules and evidence index (hashes only). Cards CC BY 4.0, scripts MIT."
+category = "other"
+tags = ["biomedical", "data-provenance", "dataset-licenses", "healthcare", "json-schema", "license-verification", "mcp", "medical-ai"]
+repository = "https://github.com/mdexa-ai/mdexa-ai-native-database"
+website = "https://mdexa.com/database/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-17

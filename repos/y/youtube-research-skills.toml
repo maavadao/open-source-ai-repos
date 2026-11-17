@@ -1,0 +1,9 @@
+name = "youtube-research-skills"
+description = "AI agent skills for YouTube research. Outlier videos, niche finding & validation, competitor research, comment mining, title formulas, thumbnail concepts, script breakdowns, monetization gaps & sponsor prospecting. Powered by TubeLab. Works with Claude Code, Cursor, Codex, ChatGPT, Grok."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "claude-code", "claude-skills", "codex", "codex-skill", "competitor-analysis", "content-marketing"]
+repository = "https://github.com/TubeLabHQ/youtube-research-skills"
+website = "https://tubelab.net/youtube-mcp"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-17

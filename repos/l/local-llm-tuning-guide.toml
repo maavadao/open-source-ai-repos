@@ -1,0 +1,9 @@
+name = "local-llm-tuning-guide"
+description = "A decision library for running local LLMs on multi-GPU machines without NVLink: parallelism, communication, quantization, speculative decoding, KV cache. Every conclusion carries its evidence grade and reproducible conditions."
+category = "local-llms"
+tags = ["benchmarking", "decision-guide", "gpu-serving", "inference-optimization", "kv-cache", "llm", "llm-deployment", "llmops"]
+repository = "https://github.com/Lowaltitudeflight/local-llm-tuning-guide"
+website = "https://lowaltitudeflight.github.io/local-llm-tuning-guide/"
+license = "MIT"
+language = "Python"
+added = 2026-11-17

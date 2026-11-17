@@ -1,0 +1,7 @@
+name = "lauren-poteto-rules"
+description = "Engineering rules for building trustworthy coding-agent workflows, inspired by Lauren Tan."
+category = "agents"
+tags = ["agent-skills", "ai-agents", "grok", "grokbot", "lauren-ten", "spacex", "xai"]
+repository = "https://github.com/unicodef1wn/lauren-poteto-rules"
+license = "MIT"
+added = 2026-11-17

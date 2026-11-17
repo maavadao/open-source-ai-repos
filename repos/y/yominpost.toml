@@ -1,0 +1,9 @@
+name = "yominpost"
+description = "Self-hosted AI social media studio: one piece of material in, platform-native posts out. Format router, self-critique, pre-publish risk gate, real OAuth publishing. Web app + CLI + MCP server + agent skill."
+category = "mcp-servers"
+tags = ["ai-agents", "claude-code", "content-generation", "cursor", "fastapi", "mcp", "postiz-alternative", "python"]
+repository = "https://github.com/mrlong0129/yominpost"
+website = "https://yomin.love/projects/yominpost/"
+license = "MIT"
+language = "Python"
+added = 2026-11-17

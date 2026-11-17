@@ -1,0 +1,8 @@
+name = "loci"
+description = "Shared memory for AI coding tools: hybrid search, cited Q&A, harness memory discovery and a built-in Web console. Local index, MCP + HTTP."
+category = "mcp-servers"
+tags = ["ai-agents", "bm25", "chromadb", "cross-ide", "embeddings", "feedback-loop", "incremental-indexing", "knowledge-base"]
+repository = "https://github.com/IvenKooLab/loci"
+license = "MIT"
+language = "Python"
+added = 2026-11-17

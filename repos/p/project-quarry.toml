@@ -1,0 +1,8 @@
+name = "project-quarry"
+description = "Detection DSL and engine for AI agents"
+category = "agents"
+tags = ["agent-security", "agent-security-tools", "agentic-guardrails", "agents", "ai-agents", "ai-governance", "ai-governance-tools", "detection-as-code"]
+repository = "https://github.com/cisco-ai-defense/project-quarry"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-17

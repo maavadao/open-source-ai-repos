@@ -1,0 +1,9 @@
+name = "AIBanlv-Bot"
+description = "AIBanlv Bot — An Open-Source AI Agent with a Face."
+category = "agents"
+tags = ["ai-agents", "alive", "alive-ai", "bot", "codex", "companion", "companion-app", "dsh-plugin"]
+repository = "https://github.com/AIBanlv/AIBanlv-Bot"
+website = "https://aibanlv.ai"
+license = "Apache-2.0"
+language = "Java"
+added = 2026-11-17

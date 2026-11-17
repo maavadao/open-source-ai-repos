@@ -1,0 +1,9 @@
+name = "Nexus"
+description = "Web AI for local work：让网页版 AI 直接操作你的本地文件和电脑，配套浏览器插件 webagent"
+category = "llm-apps"
+tags = ["ai-agent", "browser-extension", "chrome-extension", "llm", "local-ai", "mcp", "webagent"]
+repository = "https://github.com/ysunyang4/Nexus"
+website = "https://blog.ycu.de5.net/"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-11-17

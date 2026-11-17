@@ -1,0 +1,7 @@
+name = "gpt-image-2-6-openai-compatible"
+description = "Drop-in OpenAI-compatible access to GPT Image 2.6."
+category = "skills-prompts"
+tags = ["ai-image-generation", "api", "apimart", "awesome", "gpt-image", "image-generation", "openai", "prompt-engineering"]
+repository = "https://github.com/fujc683/gpt-image-2-6-openai-compatible"
+website = "https://gola.apimart.ai/k-YfBtmb"
+added = 2026-11-17

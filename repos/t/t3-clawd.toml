@@ -1,0 +1,7 @@
+name = "t3-clawd"
+description = "A Claude-inspired theme for T3 Code. One file, no fork."
+category = "other"
+tags = ["claude", "css", "t3-code", "theme"]
+repository = "https://github.com/rohit3a/t3-clawd"
+license = "MIT"
+added = 2026-11-17

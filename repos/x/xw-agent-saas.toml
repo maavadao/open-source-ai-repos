@@ -1,0 +1,7 @@
+name = "XW-Agent-Saas"
+description = "CrewOS 是一个关于企业 Agent 产品形态的公开实验。 我正在尝试回答一个问题： 当 AI 已经能够完成任务以后，它能否进一步接住长期、复杂、持续变化的真实业务？ 这里会持续记录产品原型、设计实验、思考过程以及失败的假设。 如果你也在研究类似问题，欢迎一起讨论。"
+category = "agents"
+tags = ["agentic-ai", "ai-agent", "business-automation", "enterprise-ai", "finance-ai", "multi-agent", "workflow-automation"]
+repository = "https://github.com/Garbo9779/XW-Agent-Saas"
+language = "HTML"
+added = 2026-11-17

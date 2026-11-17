@@ -1,0 +1,9 @@
+name = "forgeax-engine"
+description = "AI-native TypeScript game engine for AI agents, targeting all major platforms. WebGPU rendering, ECS, procedural assets, and a CLI-first development workflow."
+category = "agents"
+tags = ["ai-agents", "ai-native", "cross-platform", "ecs", "entity-component-system", "game-development", "game-engine", "procedural-generation"]
+repository = "https://github.com/ForgeAX/forgeax-engine"
+website = "https://forgeax.github.io/"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-17

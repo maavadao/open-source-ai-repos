@@ -1,0 +1,9 @@
+name = "borg"
+description = "Supervised agent runtime for Rust: compose LLM calls into pipelines that cancel, isolate panics, retry, budget and resume."
+category = "agents"
+tags = ["agent-runtime", "ai-agents", "llm", "mcp", "rust", "supervisor", "tokio", "tracing"]
+repository = "https://github.com/joydle/borg"
+website = "https://joydle.github.io/borg/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-17

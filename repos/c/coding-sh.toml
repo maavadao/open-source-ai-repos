@@ -1,0 +1,9 @@
+name = "coding.sh"
+description = "Open-source, local-first observability and evals for AI agents: see what Claude Code, Codex, Cursor and others did and what it cost."
+category = "skills-prompts"
+tags = ["agent-evals", "agent-observability", "ai-agents", "claude-code", "codex", "coding-agents", "developer-tools", "evals"]
+repository = "https://github.com/jackulau/coding.sh"
+website = "https://coding.sh"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-17

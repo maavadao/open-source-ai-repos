@@ -1,0 +1,8 @@
+name = "distillops"
+description = "Black-box LLM distillation for any verifiable task, with text or image inputs: teacher API -> rejection sampling -> SFT -> eval -> GRPO"
+category = "local-llms"
+tags = ["ai-agents", "distillation", "document-understanding", "fine-tuning", "grpo", "knowledge-distillation", "llm", "multimodal"]
+repository = "https://github.com/Zihao-Wu06/distillops"
+license = "MIT"
+language = "Python"
+added = 2026-11-17

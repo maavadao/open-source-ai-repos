@@ -1,0 +1,8 @@
+name = "selfsemester"
+description = "Windows app that turns any subject into a full, scheduled, graded course, built and marked by your own Claude Code"
+category = "skills-prompts"
+tags = ["ai-education", "ai-tutor", "anthropic", "claude", "claude-code", "curriculum", "desktop-app", "edtech"]
+repository = "https://github.com/munitkala/selfsemester"
+license = "MIT"
+language = "Rust"
+added = 2026-11-17

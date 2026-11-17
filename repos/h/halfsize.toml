@@ -1,0 +1,9 @@
+name = "halfsize"
+description = "Compress any video to an exact size (Discord 20 MB, WeChat 20 MB, WhatsApp 16 MB) locally with FFmpeg. HDR is tone-mapped to SDR, VMAF/SSIM prove the quality, and it runs as an MCP server for AI agents."
+category = "mcp-servers"
+tags = ["cli", "compress-video", "discord", "email-attachment", "ffmpeg", "hdr", "local-first", "macos"]
+repository = "https://github.com/YKLovePython/halfsize"
+website = "https://YKLovePython.github.io/halfsize/"
+license = "MIT"
+language = "HTML"
+added = 2026-11-17

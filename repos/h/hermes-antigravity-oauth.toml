@@ -1,0 +1,9 @@
+name = "hermes-antigravity-oauth"
+description = "Google Antigravity sign-in for Hermes Agent: run Hermes on your Antigravity plan via the official agy CLI, with your SOUL.md as the persona. npx hermes-antigravity-oauth"
+category = "other"
+tags = ["agy", "antigravity", "claude", "gemini", "gemini-cli", "google-antigravity", "hermes-agent", "hermes-agent-plugin"]
+repository = "https://github.com/neerazz/hermes-antigravity-oauth"
+website = "https://www.npmjs.com/package/hermes-antigravity-oauth"
+license = "MIT"
+language = "Python"
+added = 2026-11-17

@@ -1,0 +1,9 @@
+name = "axiocairn-mcp"
+description = "Portfolio risk MCP: exposure values with data dates, method notes and coverage gaps."
+category = "mcp-servers"
+tags = ["ai-agents", "concentration", "mcp", "model-context-protocol", "options-calculator", "portfolio-analysis", "portfolio-risk", "quantitative-finance"]
+repository = "https://github.com/cplj/axiocairn-mcp"
+website = "https://axiocairn.com"
+license = "MIT"
+language = "Python"
+added = 2026-11-17

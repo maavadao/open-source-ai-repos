@@ -1,0 +1,8 @@
+name = "the-brains"
+description = "The smartest brains on earth, in an MCP. Cited, searchable MCP servers built from founders' talks, essays and posts."
+category = "mcp-servers"
+tags = ["claude", "cursor", "founders", "gemini-cli-extension", "knowledge-base", "mcp", "mcp-server", "model-context-protocol"]
+repository = "https://github.com/VicPitic/the-brains"
+website = "https://brains.ceo"
+language = "JavaScript"
+added = 2026-11-17

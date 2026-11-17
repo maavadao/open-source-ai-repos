@@ -1,0 +1,9 @@
+name = "Fuobe"
+description = "The open creative studio on ComfyUI: images, video, 3D and audio on open weights, on your own GPU or the cloud. Camera motions, effects, apps, Cinema, Layers, Image to 3D and an AI agent."
+category = "image"
+tags = ["ai-video", "comfyui", "creative-tools", "generative-ai", "ideogram", "image-generation", "image-to-3d", "image-to-video"]
+repository = "https://github.com/workingprototype/Fuobe"
+website = "https://fuobe.com"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-17

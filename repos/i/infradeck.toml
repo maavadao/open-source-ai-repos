@@ -1,0 +1,8 @@
+name = "Infradeck"
+description = "Self-hosted monitoring for homelabs: host and container metrics and uptime checks from all your machines in one dashboard, with an optional AI agent that diagnoses incidents and suggests fixes."
+category = "agents"
+tags = ["ai-agents", "aiops", "dashboard", "docker", "fastapi", "homelab", "incident-management", "llm"]
+repository = "https://github.com/karlo-ks/Infradeck"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-11-17

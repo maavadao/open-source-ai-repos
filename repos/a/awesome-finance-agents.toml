@@ -1,0 +1,9 @@
+name = "awesome-finance-agents"
+description = "A curated, bilingual list of open-source finance agents, organized by financial function and reliability. Not investment advice."
+category = "agents"
+tags = ["ai-agents", "awesome", "awesome-list", "finance", "fintech", "llm", "mcp"]
+repository = "https://github.com/aowang-ai/awesome-finance-agents"
+website = "https://finance-agents.dev"
+license = "CC0-1.0"
+language = "JavaScript"
+added = 2026-11-17

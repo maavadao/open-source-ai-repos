@@ -1,0 +1,8 @@
+name = "pebbleagent"
+description = "Your personal AI agent"
+category = "agents"
+tags = ["agent", "ai-agent", "aidevelopment", "desktop-app", "developer-tools", "knowledge-graph", "llm", "macos"]
+repository = "https://github.com/5235aa-web/pebbleagent"
+license = "AGPL-3.0"
+language = "Python"
+added = 2026-11-17

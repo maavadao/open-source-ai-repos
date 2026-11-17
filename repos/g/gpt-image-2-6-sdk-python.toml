@@ -1,0 +1,7 @@
+name = "gpt-image-2-6-sdk-python"
+description = "Working Python snippets for GPT Image 2.6: generate, poll, batch."
+category = "skills-prompts"
+tags = ["ai-image-generation", "api", "apimart", "awesome", "gpt-image", "image-generation", "openai", "prompt-engineering"]
+repository = "https://github.com/fujc683/gpt-image-2-6-sdk-python"
+website = "https://gola.apimart.ai/k-QUaoXJ"
+added = 2026-11-17

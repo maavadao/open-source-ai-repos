@@ -1,0 +1,8 @@
+name = "workbuddy2api-panel"
+description = "把腾讯 WorkBuddy 账号变成 OpenAI 兼容 API 的多账号网关。请求头照官方桌面端逐项对齐，主备入口 + HTTPDNS 自动切换，国内 / 国际双域合池，企业号可用 Claude，签到与成长任务全自动，React 管理面板支持一键更新。原版 workbuddy2api-panel 的持续同步增强版，Docker / 单文件部署。"
+category = "other"
+tags = ["account-pool", "ai-gateway", "api-gateway", "claude", "codebuddy", "deepseek", "docker", "glm"]
+repository = "https://github.com/yreidev/workbuddy2api-panel"
+license = "AGPL-3.0"
+language = "Go"
+added = 2026-11-17

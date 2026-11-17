@@ -1,0 +1,9 @@
+name = "acceptance"
+description = "✅ Acceptance is open-source e2e testing for Agents. Your coding agent turns a prompt into observable checks, runs the real product, and publishes a report with screenshots, recordings, and logs attached to each check. You can accept the work, or send individual checks back."
+category = "agents"
+tags = ["acceptance", "agent", "ai", "ci", "e2e-test", "lobehub", "testing", "verification"]
+repository = "https://github.com/lobehub/acceptance"
+website = "https://lobehub.com/acceptance"
+license = "Apache-2.0"
+language = "JavaScript"
+added = 2026-11-17

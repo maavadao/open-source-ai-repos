@@ -1,0 +1,8 @@
+name = "duskbot"
+description = "Free Grok Bot alternative that runs on your own models. Use the ChatGPT, Claude, or Grok subscription you already pay for, and get a team of bots each with its own memory and computer."
+category = "skills-prompts"
+tags = ["ai-assistants", "claude-code", "codex", "computer-use", "desktop-app", "gemini", "grok-alternative", "grok-bot"]
+repository = "https://github.com/DuskBotAI/duskbot"
+website = "https://dusk.bot"
+language = "TypeScript"
+added = 2026-11-17

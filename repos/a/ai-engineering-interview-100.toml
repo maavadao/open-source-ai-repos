@@ -1,0 +1,8 @@
+name = "ai-engineering-interview-100"
+description = "100 Questions That Haunt AI Engineering Interviews in 2026: From production incidents to system designs, featuring diagnostic playbooks & 7 end-to-end architectures."
+category = "agents"
+tags = ["ai-agents", "ai-engineering", "interview-questions", "llm", "mlops", "rag", "system-design"]
+repository = "https://github.com/Kimberlying/ai-engineering-interview-100"
+license = "MIT"
+language = "Python"
+added = 2026-11-17

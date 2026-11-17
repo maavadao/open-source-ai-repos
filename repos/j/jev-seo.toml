@@ -1,0 +1,9 @@
+name = "jev-seo"
+description = "Free Rust SEO and GEO toolkit powered by TypeSafe Jev: 58-rule audits, site crawls, AI citation checks, rank drift, CI gates, 15-tool MCP. Zero cost."
+category = "mcp-servers"
+tags = ["ahrefs-alternative", "answer-engine-optimization", "claude-code", "cli", "coding-agents", "generative-engine-optimization", "geo", "jev"]
+repository = "https://github.com/AkashPriyadarshii/jev-seo"
+website = "https://jevseo.vercel.app"
+license = "MIT"
+language = "Rust"
+added = 2026-11-17

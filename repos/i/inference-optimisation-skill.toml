@@ -1,0 +1,8 @@
+name = "inference-optimisation-skill"
+description = "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization"
+category = "local-llms"
+tags = ["agent-skill", "benchmarking", "claude-code", "inference", "llm", "speculative-decoding"]
+repository = "https://github.com/sybil-solutions/inference-optimisation-skill"
+license = "MIT"
+language = "Python"
+added = 2026-11-17

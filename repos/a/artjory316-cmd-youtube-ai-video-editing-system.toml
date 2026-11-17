@@ -1,0 +1,8 @@
+name = "youtube-ai-video-editing-system"
+description = "AI Video Workflow: Teleprompter, Editing Agents, and Motion Graphics"
+category = "agents"
+tags = ["ai-agents", "ai-video-editing", "animation", "claude-design", "design", "motion-graphics", "open-source", "teleprompter"]
+repository = "https://github.com/artjory316-cmd/youtube-ai-video-editing-system"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-17

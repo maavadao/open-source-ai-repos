@@ -1,0 +1,8 @@
+name = "ClassCue"
+description = "按课表记好每一节课、被点名时及时提醒的本地优先 Android 课堂助手：离线录音转写、点名提醒、课后回放搜索与可选 AI 答案"
+category = "speech"
+tags = ["android", "classroom", "jetpack-compose", "kotlin", "offline-first", "speech-recognition"]
+repository = "https://github.com/lu0973-cb02d/ClassCue"
+license = "MIT"
+language = "Kotlin"
+added = 2026-11-17

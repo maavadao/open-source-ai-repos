@@ -1,0 +1,9 @@
+name = "loom"
+description = "Shared long-term memory, document search and a code index for AI agents, linked to your code. Memories point at the files and symbols they're about and surface when an agent edits them. MCP server, Claude Code and Codex plugins, SDKs. Self-hosted on ClickHouse."
+category = "mcp-servers"
+tags = ["agent-memory", "ai-agents", "ai-memory", "claude-code", "claude-code-plugin", "clickhouse", "code-intelligence", "code-search"]
+repository = "https://github.com/ClickHouse/loom"
+website = "https://clickhouse.github.io/loom/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-17

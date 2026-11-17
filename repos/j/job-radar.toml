@@ -1,0 +1,9 @@
+name = "job_radar"
+description = "给 AI 助手的求职搜索技能：中国校招、实习、社招与招聘日历。自然语言提问，获取岗位要求、来源链接与投递入口；支持 Skill / MCP。"
+category = "mcp-servers"
+tags = ["agent-skills", "ai-assistant", "campus-recruitment", "career", "china", "cli", "dataset", "internship"]
+repository = "https://github.com/lijiaqi-AI-Product-Manager/job_radar"
+website = "https://github.com/lijiaqi-AI-Product-Manager/job_radar#readme"
+license = "MIT"
+language = "Python"
+added = 2026-11-17

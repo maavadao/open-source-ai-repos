@@ -1,0 +1,9 @@
+name = "orcah-studio"
+description = "Local-first Video Knowledge Base. Index your video library with multi-modal analysis (YOLO, DeepFace, Whisper), search semantically via natural language, Docker-ready."
+category = "video"
+tags = ["ai", "computer-vision", "deepface", "face-recognition", "ml", "self-hosted", "video-editing", "video-indexing"]
+repository = "https://github.com/IliasHad/orcah-studio"
+website = "https://orcah.app"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-11-17

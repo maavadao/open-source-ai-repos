@@ -1,0 +1,9 @@
+name = "cnb2api"
+description = "Bridge CNB cloud workspace models into OpenAI and Anthropic compatible APIs."
+category = "skills-prompts"
+tags = ["anthropic", "api-gateway", "claude-code", "cli", "cnb", "llm", "openai", "openai-compatible"]
+repository = "https://github.com/dengyie/cnb2api"
+website = "https://github.com/dengyie/cnb2api#readme"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-17

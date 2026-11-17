@@ -1,0 +1,8 @@
+name = "dsh-agent-team"
+description = "dsh-agent-team: Agent Teams for DeepSeek Harness. Hand work to a team of agents that carries it end to end while you set the direction and hold the gates. You stay on the loop, and step back in whenever you want."
+category = "agents"
+tags = ["agent-orchestration", "agent-team", "ai-agents", "ai-teammates", "deepseek", "deepseek-harness", "dsh", "dsh-plugin"]
+repository = "https://github.com/Contexera/dsh-agent-team"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-17

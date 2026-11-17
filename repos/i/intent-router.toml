@@ -1,0 +1,9 @@
+name = "Intent-Router"
+description = "Intent compiler for AI agents — converges vague requests into typed IntentSpec contracts (probe, ask, or halt before routing), the input layer for routers and typed-decision models like Jev & Laya"
+category = "skills-prompts"
+tags = ["agent-skills", "agentic", "ai-agents", "clarification", "claude-code", "codex", "context-engineering", "decision-model"]
+repository = "https://github.com/angel291592/Intent-Router"
+website = "https://angel291592.github.io/Intent-Router/"
+license = "MIT"
+language = "Python"
+added = 2026-11-17

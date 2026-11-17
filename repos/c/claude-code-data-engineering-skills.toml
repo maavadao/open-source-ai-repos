@@ -1,0 +1,9 @@
+name = "claude-code-data-engineering-skills"
+description = "16 Claude Code skills for data engineers: profile a new source, investigate a failed run, review a change, document the platform. Most end in a page you can share."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "ai-tools", "analytics-engineering", "claude", "claude-code", "claude-code-plugin", "claude-code-skills"]
+repository = "https://github.com/DataWithBaraa/claude-code-data-engineering-skills"
+website = "https://youtu.be/F5lZj1bQyUw"
+license = "MIT"
+language = "HTML"
+added = 2026-11-17

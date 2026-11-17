@@ -1,0 +1,8 @@
+name = "NTSCRT"
+description = "Run video and images through simulated video gear on Mac and Windows: digital camera compression, TV signal, VHS tape and CRT screen."
+category = "other"
+tags = ["analog-video", "claude", "crt", "crt-shader", "glitch-art", "librashader", "macos", "mcp"]
+repository = "https://github.com/finnmckenty/NTSCRT"
+license = "MIT"
+language = "Swift"
+added = 2026-11-17

@@ -1,0 +1,7 @@
+name = "Vibepost"
+description = "把 Markdown 排成小红书图文卡片、长文长图和实况照片的桌面 App（macOS / Windows）。你写字，本机的 Agent 排版、配图，每处改动由你确认。"
+category = "skills-prompts"
+tags = ["claude-code", "codex", "macos", "markdown", "mcp", "xiaohongshu"]
+repository = "https://github.com/wuyoscar/Vibepost"
+language = "Swift"
+added = 2026-11-17

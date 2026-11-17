@@ -1,0 +1,9 @@
+name = "open-source-higgsfield"
+description = "Open-source Higgsfield AI alternatives on GitHub: 119 projects, 113 of them from ComfyUI's #OpenSourceHiggsfield challenge, with its 16 prize winners. Character swap (OPENjutsu), effects, camera re-shoots, films and full studios, with stars and licenses. CC0."
+category = "image"
+tags = ["ai-video", "ai-video-generator", "awesome", "awesome-list", "character-swap", "comfyui", "generative-ai", "genjutsu"]
+repository = "https://github.com/jutsuhq/open-source-higgsfield"
+website = "https://jutsustudio.com/open-source-higgsfield/"
+license = "CC0-1.0"
+language = "JavaScript"
+added = 2026-11-17

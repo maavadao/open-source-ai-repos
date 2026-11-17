@@ -1,0 +1,9 @@
+name = "tokendoctor"
+description = "tokendoctor: the same Claude Code for up to 38% less. Replays your own past sessions to show what each change would have saved, then changes only what you pick"
+category = "skills-prompts"
+tags = ["agentic-coding", "ai-cost", "anthropic", "claude", "claude-code", "claude-code-hooks", "claude-code-plugin", "claude-code-tools"]
+repository = "https://github.com/localixai/tokendoctor"
+website = "https://tokendoctor.localix.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-17

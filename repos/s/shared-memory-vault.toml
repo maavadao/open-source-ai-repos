@@ -1,0 +1,7 @@
+name = "shared-memory-vault"
+description = "A memory governance engine for multi-agent cloud knowledge bases — one knowledge base shared by every agent and every device, with consistency guaranteed. Pure Markdown, nine governance automations, zero dependencies."
+category = "agents"
+tags = ["agent-memory", "knowledge-base", "llm", "memory", "multi-agent", "skills", "vault"]
+repository = "https://github.com/songs-aaa/shared-memory-vault"
+license = "MIT"
+added = 2026-11-17

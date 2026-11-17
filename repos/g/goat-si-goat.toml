@@ -1,0 +1,9 @@
+name = "goat"
+description = "GOAT: one control surface for Claude Code, Codex, Cursor and more, across your machines. Fork of T3 Code."
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "codex", "coding-agents", "cursor", "desktop-app", "developer-tools", "mcp"]
+repository = "https://github.com/goat-si/goat"
+website = "https://trygoat.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-17

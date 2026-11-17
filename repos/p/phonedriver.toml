@@ -1,0 +1,9 @@
+name = "phonedriver"
+description = "MCP server and CLI that lets AI agents (Claude Code, Codex, Cursor) see and control Android phones and iPhones. Reads the screen as text. Asks before it pays."
+category = "mcp-servers"
+tags = ["adb", "agentic-ai", "ai-agents", "android", "android-emulator", "claude-code", "cli", "codex"]
+repository = "https://github.com/hridaya423/phonedriver"
+website = "https://phonedriver.dev"
+license = "AGPL-3.0"
+language = "Rust"
+added = 2026-11-17

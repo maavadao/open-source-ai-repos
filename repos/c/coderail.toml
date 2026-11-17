@@ -1,0 +1,9 @@
+name = "CodeRail"
+description = "Self-hosted remote control for your coding agents: Claude Code and Codex chats, approvals, terminals, files, git and dev-server previews for every computer you own, from the browser or your phone. One Docker container on your own server."
+category = "skills-prompts"
+tags = ["agent-client-protocol", "ai-agents", "bun", "claude-code", "codex", "coding-agents", "docker", "macos"]
+repository = "https://github.com/wiva-hq/CodeRail"
+website = "https://coderail.codes"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-17

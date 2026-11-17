@@ -1,0 +1,9 @@
+name = "workbench"
+description = "Desktop app built on Claude Code harness for proactive engineers."
+category = "agents"
+tags = ["agent", "claude", "clawd", "desktop", "kanban", "live", "orchestration", "workbench"]
+repository = "https://github.com/proactive-agent/workbench"
+website = "https://proactive-agent.org/workbench"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-17

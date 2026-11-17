@@ -1,0 +1,7 @@
+name = "indextts2-longform-workbench"
+description = "基于 IndexTTS2.0 超级优化整合包 V3 的长篇台本工作台与多轨时间轴扩展：台本整理、批量 AI 配音、音效编排、空间音频、自动化混音与专业工程导出。仅含工作台代码。"
+category = "speech"
+tags = ["audio-production", "audiobook", "chinese", "dubbing", "fastapi", "indextts2", "spatial-audio", "text-to-speech"]
+repository = "https://github.com/Mars-1438/indextts2-longform-workbench"
+language = "JavaScript"
+added = 2026-11-17
