@@ -1,0 +1,9 @@
+name = "yomado"
+description = "Native macOS virtual displays for visual agents, with a skill to set up and manage their work screens."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "apple-silicon", "claude-code", "codex", "computer-use", "macos", "macos-app"]
+repository = "https://github.com/chekusu/yomado"
+website = "https://yomado.app/"
+license = "MIT"
+language = "Objective-C"
+added = 2026-11-18

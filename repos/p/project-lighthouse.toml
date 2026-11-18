@@ -1,0 +1,7 @@
+name = "project-lighthouse"
+description = "Project Lighthouse — shining AI on the pages history never read: transcriptions, deep reads and findings from the notebooks of Gauss, Riemann, Euler and more"
+category = "other"
+tags = ["ai", "history-of-science", "manuscripts", "mathematics"]
+repository = "https://github.com/professorsolderin/project-lighthouse"
+language = "Python"
+added = 2026-11-18

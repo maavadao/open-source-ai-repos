@@ -1,0 +1,9 @@
+name = "nemotron-asr-streaming-farsi"
+description = "Streaming Persian (Farsi) speech recognition: fine-tuning NVIDIA Nemotron 3.5 ASR streaming. Data prep, training, evaluation, inference."
+category = "speech"
+tags = ["asr", "asr-model", "persian", "speech-recognition", "speech-to-text", "stt"]
+repository = "https://github.com/mallahyari/nemotron-asr-streaming-farsi"
+website = "https://huggingface.co/mehdi-hf/nemotron-asr-streaming-farsi"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-18

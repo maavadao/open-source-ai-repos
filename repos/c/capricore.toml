@@ -1,0 +1,9 @@
+name = "CapriCore"
+description = "Capri — an AI desktop companion for Windows with local/API models, Hugging Face, optional voice, memory and permission-based desktop tools."
+category = "local-llms"
+tags = ["ai-assistant", "cyberpunk", "desktop-automation", "desktop-companion", "gguf", "huggingface", "local-llm", "ollama"]
+repository = "https://github.com/CapriChooms/CapriCore"
+website = "https://capri-core.com/"
+license = "GPL-3.0"
+language = "JavaScript"
+added = 2026-11-18

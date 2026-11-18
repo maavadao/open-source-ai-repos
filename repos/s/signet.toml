@@ -1,0 +1,9 @@
+name = "signet"
+description = "The seal of approval for agents and skills: a graph-first semantic governance registry with signed, transparency-logged publication trust."
+category = "agents"
+tags = ["agent-registry", "ai-agents", "governance", "mcp", "provenance", "signet", "sigstore", "supply-chain-security"]
+repository = "https://github.com/therandomsecurityguy/signet"
+website = "https://github.com/therandomsecurityguy/signet#readme"
+license = "BSD-3-Clause"
+language = "TypeScript"
+added = 2026-11-18

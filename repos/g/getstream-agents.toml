@@ -1,0 +1,9 @@
+name = "Agents"
+description = "Quickly build text, voice and video agents. Fast, Go based Agent backend with SDKs for every language. Sensible defaults for search, knowledge, skills, telephony, sandboxes, memory and persistence. Sovereign AI. Take control of your AI."
+category = "agents"
+tags = ["agentic-ai", "agents", "ai", "ai-agents", "realtime", "sovereign-ai", "stt", "tts"]
+repository = "https://github.com/GetStream/Agents"
+website = "https://visionagents.ai"
+license = "Apache-2.0"
+language = "Go"
+added = 2026-11-18

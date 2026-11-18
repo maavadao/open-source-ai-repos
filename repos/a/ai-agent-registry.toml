@@ -1,0 +1,8 @@
+name = "ai-agent-registry"
+description = "✨ Open source AI Agent Discovery and Intelligence Registry platform"
+category = "agents"
+tags = ["agentic-ai", "ai-agent", "ai-agent-registry", "ai-frameworks", "ai-tool", "awesome-lists"]
+repository = "https://github.com/ARUNAGIRINATHAN-K/ai-agent-registry"
+website = "https://ai-agent-registry-kappa.vercel.app"
+language = "TypeScript"
+added = 2026-11-18

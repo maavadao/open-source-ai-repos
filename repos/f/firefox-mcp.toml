@@ -1,0 +1,7 @@
+name = "firefox-mcp"
+description = "Model Context Protocol (MCP) server that lets AI agents browse the web and debug web pages with Firefox"
+category = "mcp-servers"
+tags = ["claude-code", "firefox", "gemini-cli-extension", "mcp", "mcp-server"]
+repository = "https://github.com/mozilla/firefox-mcp"
+language = "TypeScript"
+added = 2026-11-18

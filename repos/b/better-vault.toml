@@ -1,0 +1,8 @@
+name = "better-vault"
+description = "Open-source NotebookLM alternative. Chat with your sources with citations, and turn them into reports, flashcards, quizzes, mind maps and slide decks, with your own OpenAI, Anthropic or Gemini key or local Ollama / LM Studio models. Local-first, no account."
+category = "local-llms"
+tags = ["ai", "ai-sdk", "anthropic", "byok", "flashcards", "gemini", "knowledge-management", "llm"]
+repository = "https://github.com/better-vault/better-vault"
+website = "https://better-vault.dev"
+language = "TypeScript"
+added = 2026-11-18

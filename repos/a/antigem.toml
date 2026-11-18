@@ -1,0 +1,8 @@
+name = "antigem"
+description = "A mobile IDE wrapping antigravity cli, opencode , codex and claude cli to provide a full Android coding environment. Features an advanced code editor, integrated AI chat, built-in Git client, and full Termux terminal access for on-the-go development."
+category = "other"
+tags = ["android", "android-ide", "antigem", "antigem-mini-apps", "antigem-plugins", "antigravity", "claude", "codex"]
+repository = "https://github.com/Santoshkurmi/antigem"
+license = "GPL-3.0"
+language = "Kotlin"
+added = 2026-11-18

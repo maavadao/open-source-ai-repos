@@ -1,0 +1,9 @@
+name = "mutinybim"
+description = "Open-source building model engine. One shared kernel, trade add-ons, and a script-first tool server so people and AI agents can edit the same model together."
+category = "other"
+tags = ["aec", "architecture", "bim", "engineering", "ifc", "mcp", "mep", "typescript"]
+repository = "https://github.com/permitzip/mutinybim"
+website = "https://mutinybim.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-18

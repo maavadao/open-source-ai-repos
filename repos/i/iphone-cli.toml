@@ -1,0 +1,9 @@
+name = "iphone-cli"
+description = "Let AI agents read and operate any app on a real iPhone through the accessibility tree. No XCUITest, WebDriverAgent or Xcode signing."
+category = "other"
+tags = ["accessibility", "ai-agent", "automation", "cli", "ios", "iphone", "mcp", "rust"]
+repository = "https://github.com/HyunSeob/iphone-cli"
+website = "https://crates.io/crates/iphone-cli"
+license = "MIT"
+language = "Rust"
+added = 2026-11-18

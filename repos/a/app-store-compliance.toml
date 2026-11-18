@@ -1,0 +1,8 @@
+name = "app-store-compliance"
+description = "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents."
+category = "skills-prompts"
+tags = ["accessibility", "ai-agents", "android", "app-review-guidelines", "app-store", "app-store-connect", "app-store-rejection", "app-store-review"]
+repository = "https://github.com/mjmirza/app-store-compliance"
+website = "https://mjmirza.github.io/app-store-compliance/"
+language = "Shell"
+added = 2026-11-18

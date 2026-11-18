@@ -1,0 +1,9 @@
+name = "onlyread"
+description = "Make AI browser agents read-only: a Chrome extension that refuses writes (send, post, edit, delete) before they leave the browser."
+category = "browser-automation"
+tags = ["agent-security", "agentic-browser", "ai-agents", "ai-safety", "ai-security", "browser-agents", "browser-automation", "chatgpt"]
+repository = "https://github.com/onlyreadai/onlyread"
+website = "https://onlyread.ai"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-11-18

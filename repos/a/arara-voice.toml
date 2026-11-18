@@ -1,0 +1,9 @@
+name = "Arara-voice"
+description = "Ditado por voz grátis, open source e 100% local para português do Brasil (Windows e macOS). Whisper no seu computador: aperte o atalho, fale e o texto é colado no cursor. Free offline voice typing / speech-to-text."
+category = "skills-prompts"
+tags = ["ai-agents", "brasil", "brazilian-portuguese", "claude-code", "dictation", "java", "macos", "offline"]
+repository = "https://github.com/davimatosms/Arara-voice"
+website = "https://arara-voice.vercel.app"
+license = "MIT"
+language = "Java"
+added = 2026-11-18

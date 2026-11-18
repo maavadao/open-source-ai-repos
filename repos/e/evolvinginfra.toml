@@ -1,0 +1,8 @@
+name = "EvolvingInfra"
+description = "A inference framework that adapt to diverse and dynamic agent workload"
+category = "llm-apps"
+tags = ["distributed-systems", "llm", "llm-agents", "system"]
+repository = "https://github.com/mit-han-lab/EvolvingInfra"
+website = "https://inference-rsi.com/"
+language = "Python"
+added = 2026-11-18

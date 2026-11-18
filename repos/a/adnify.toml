@@ -1,0 +1,8 @@
+name = "Adnify"
+description = "A local‑first AI Agent IDE that plans, edits, debugs and ships projects. Your clever otter‑flavored coding teammate.🦦"
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "codex", "cursor-ide", "gemini", "gpt", "harness", "openai"]
+repository = "https://github.com/ad-naan/Adnify"
+website = "https://www.adnaan.one"
+language = "TypeScript"
+added = 2026-11-18

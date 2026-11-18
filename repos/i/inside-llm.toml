@@ -1,0 +1,9 @@
+name = "inside-llm"
+description = "See inside any GGUF: where two quantizations part ways, token by token, and what each sampler cuts. Live in your browser, powered by llama.cpp (CUDA or Vulkan)."
+category = "local-llms"
+tags = ["cpp", "cuda", "gguf", "interpretability", "llama-cpp", "llm", "local-llm", "logit-lens"]
+repository = "https://github.com/manuelgscom/inside-llm"
+website = "https://manuelgs.com/en/inside-llm/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-18

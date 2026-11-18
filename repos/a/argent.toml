@@ -1,0 +1,9 @@
+name = "argent"
+description = "An agentic toolkit to control, debug, and profile iOS and Android apps. Made by Software Mansion."
+category = "skills-prompts"
+tags = ["agent-skills", "agentic", "ai-agents", "android", "android-emulator", "android-tv", "apple-tv", "claude-code"]
+repository = "https://github.com/software-mansion/argent"
+website = "https://argent.swmansion.com"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-18

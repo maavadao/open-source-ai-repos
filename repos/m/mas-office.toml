@@ -1,0 +1,9 @@
+name = "mas-office"
+description = "See your multi-agent system work: a framework-agnostic protocol and live, animated office for AI agent teams."
+category = "agents"
+tags = ["agents", "ai-agents", "claude", "langgraph", "llm", "multi-agent-systems", "observability", "openai-agents"]
+repository = "https://github.com/weixijia/mas-office"
+website = "https://www.xijiawei.com/mas-office/"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-18

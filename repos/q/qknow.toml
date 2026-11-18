@@ -1,0 +1,8 @@
+name = "qKnow"
+description = "qKnow is an open-source agent platform for enterprise knowledge intelligence and industry AI. It provides knowledge graphs, RAG, and bot building, encapsulating industry AI into standardized modules for rapid deployment. Supporting unified integration of documents and data, it helps enterprises qui…"
+category = "llm-apps"
+tags = ["ai-agent", "enterprise-ai", "knowledge-graph", "llmops", "rag"]
+repository = "https://github.com/qiantongtech/qKnow"
+website = "https://community.qknow.ai/"
+language = "Java"
+added = 2026-11-18

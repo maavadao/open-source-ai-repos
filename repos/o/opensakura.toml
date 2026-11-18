@@ -1,0 +1,8 @@
+name = "OpenSakura"
+description = "OpenSakura: MekaHime's first AI companion, open source. 3D VRoid avatar, real-time voice, emotion state, OpenRouter or Ollama brain."
+category = "local-llms"
+tags = ["ai-companion", "gpt-sovits", "mekahime", "ollama", "openrouter", "speech-recognition", "text-to-speech", "threejs"]
+repository = "https://github.com/zeekk0/OpenSakura"
+website = "https://www.mekahime.com/sakura"
+language = "Python"
+added = 2026-11-18

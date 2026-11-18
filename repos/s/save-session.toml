@@ -1,0 +1,8 @@
+name = "save-session"
+description = "Save, list, and resume AI coding-agent sessions by project title — one ledger per harness: Pi, Claude Code, Codex, Antigravity, OpenCode."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agent", "ai-agents", "antigravity", "claude-code", "codex", "opencode", "session-management"]
+repository = "https://github.com/jemshit/save-session"
+license = "MIT"
+language = "Python"
+added = 2026-11-18

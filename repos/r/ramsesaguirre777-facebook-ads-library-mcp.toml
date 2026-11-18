@@ -1,0 +1,8 @@
+name = "facebook-ads-library-mcp"
+description = "Free, self-hosted MCP server that scrapes the public Facebook Ad Library (no API token) for competitive ad research — advertiser, copy, landing pages, CTAs, any country."
+category = "mcp-servers"
+tags = ["ad-library", "competitive-intelligence", "crawl4ai", "facebook-ads", "mcp", "model-context-protocol", "web-scraping"]
+repository = "https://github.com/RamsesAguirre777/facebook-ads-library-mcp"
+license = "MIT"
+language = "Python"
+added = 2026-11-18

@@ -1,0 +1,8 @@
+name = "motion-graphics-agent"
+description = "Turn ideas into motion graphics and animated videos with Claude, Codex or DeepSeek. 用 Claude、Codex 或 DeepSeek，将创意变成动态图形和动画视频。"
+category = "video"
+tags = ["ai-agent", "ai-video", "claude", "codex", "creative-coding", "deepseek", "gsap", "hyperframes"]
+repository = "https://github.com/delexw/motion-graphics-agent"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-18

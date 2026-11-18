@@ -1,0 +1,9 @@
+name = "nihaixia-app"
+description = "倪海厦汉唐中医 AI 辅助诊断安卓客户端 · AI 讲义问答·六经辨证智能问诊、伤寒论 394 条、金匮 433 篇、322 首经方、465 味本草、408 穴位、1257 例倪师医案、本草讲稿 335 篇、针灸讲稿 72 篇｜可选「问倪师AI」：本地讲义检索 + 自配模型，默认关闭零联网；子午流注 / 灵龟八法 / 五运六气 / 小六壬 / 梅花易数 / 紫微斗数 / 易经 64 卦 / 八字四柱 / 周公解梦 / 小儿关煞 / 每日黄历 / 节气养生 / 玉匣记；离线优先、数据全本地、无需注册、无广告无内购无追踪，Flutter / Dart + Apache 2.0 开源免费。"
+category = "llm-apps"
+tags = ["ai", "android", "chinese-medicine", "dart", "diagnosis", "flutter", "herbal-medicine", "jingfang"]
+repository = "https://github.com/jangviktor-web/nihaixia-app"
+website = "https://jangviktor-web.github.io/nihaixia-app/"
+license = "Apache-2.0"
+language = "Dart"
+added = 2026-11-18

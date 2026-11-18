@@ -1,0 +1,9 @@
+name = "pixel-agents"
+description = "A playful way to manage your AI workforce"
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "cli", "developer-tools", "pixel-art", "vscode-extension"]
+repository = "https://github.com/pixel-agents-hq/pixel-agents"
+website = "https://pixel-agents.com/"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-18

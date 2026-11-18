@@ -1,0 +1,9 @@
+name = "comfyui-h3-editor"
+description = "A timeline video editor for MiniMax H3 inside ComfyUI: write shots, render them on your own GPU, cut picture and sound together, or let an agent make the video."
+category = "image"
+tags = ["agent-skills", "ai-video", "comfyui", "comfyui-custom-nodes", "generative-ai", "minimax", "minimax-h3", "text-to-video"]
+repository = "https://github.com/igorls/comfyui-h3-editor"
+website = "https://igorls.github.io/comfyui-h3-editor/"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-11-18

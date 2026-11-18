@@ -1,0 +1,8 @@
+name = "awesome-hermes-usecases"
+description = "Curated real-world use cases for Hermes Agent — the self-improving AI agent from Nous Research. Backed by primary sources."
+category = "local-llms"
+tags = ["agentic-ai", "ai-agent", "automation", "awesome-list", "cron-jobs", "developer-tools", "developer-workflow", "discord-bot"]
+repository = "https://github.com/aliaihub/awesome-hermes-usecases"
+license = "MIT"
+language = "Python"
+added = 2026-11-18

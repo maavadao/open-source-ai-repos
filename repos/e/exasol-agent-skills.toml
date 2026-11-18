@@ -1,0 +1,7 @@
+name = "exasol-agent-skills"
+description = "Exasol Agent Skills: Code-first AI agent skills Exasol"
+category = "other"
+tags = ["abogado", "abogados", "chile", "chilean", "codex-skills", "derecho", "derecho-laboral", "exasol"]
+repository = "https://github.com/SamaEk111/exasol-agent-skills"
+language = "Python"
+added = 2026-11-18

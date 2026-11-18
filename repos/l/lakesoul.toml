@@ -1,0 +1,9 @@
+name = "LakeSoul"
+description = "An open lakehouse engine for agents — Postgres-native, vector-native and Python-native. Speaks PostgreSQL, runs on your object storage, written in Rust."
+category = "agents"
+tags = ["agentic-ai", "agents", "arrow", "daft", "datafusion", "flink", "lakehouse", "pgvector"]
+repository = "https://github.com/lakesoul-io/LakeSoul"
+website = "https://lakesoul-io.github.io/"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-18

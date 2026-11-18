@@ -1,0 +1,9 @@
+name = "VoxMel"
+description = "VoxMel: Wavelet-Factorized Autoregressive Mel-Spectrogram Modeling for Zero-Shot Speech Synthesis"
+category = "speech"
+tags = ["audio", "speech-synthesis", "text-to-speech", "tts", "voice-cloning"]
+repository = "https://github.com/VoxDance-Lab/VoxMel"
+website = "https://voxdance.github.io/voxmel-demo/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-18

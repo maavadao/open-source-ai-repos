@@ -1,0 +1,8 @@
+name = "tokenfold"
+description = "Private, provider-neutral context compression for LLMs. Reversibly compress schemas and logs inside your perimeter with zero third-party calls."
+category = "skills-prompts"
+tags = ["cli", "compression", "context-window", "cost-reduction", "developer-tools", "json", "llm", "lossless-compression"]
+repository = "https://github.com/snchimata/tokenfold"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-18

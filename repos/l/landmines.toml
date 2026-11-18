@@ -1,0 +1,9 @@
+name = "landmines"
+description = "Oxlint rules that keep AI-written code honest: real implementations, real signals, no flake masking."
+category = "agents"
+tags = ["agents", "ai", "lint", "oxlint", "oxlint-plugin", "testing"]
+repository = "https://github.com/interfere-inc/landmines"
+website = "https://www.npmjs.com/package/@interfere/landmines"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-18

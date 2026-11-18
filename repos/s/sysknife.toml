@@ -1,0 +1,9 @@
+name = "sysknife"
+description = "An AI that administers Linux through typed, approval-gated, Ed25519-audited actions. The model selects the action; the daemon builds the command."
+category = "agents"
+tags = ["agentic-ai", "ai-agents", "ai-safety", "audit-log", "automation", "claude", "cli", "devops"]
+repository = "https://github.com/lacs-project/sysknife"
+website = "https://lacs-project.github.io/sysknife/"
+license = "MIT"
+language = "Rust"
+added = 2026-11-18

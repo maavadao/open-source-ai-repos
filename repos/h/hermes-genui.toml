@@ -1,0 +1,8 @@
+name = "hermes-genui"
+description = "Generative UI for Hermes Agent: charts, tables, plans, calculators and explainers drawn right in Hermes Desktop chat replies"
+category = "agents"
+tags = ["ai-agents", "data-visualization", "generative-ui", "hermes-agent", "hermes-plugin", "llm"]
+repository = "https://github.com/sagarmainkar/hermes-genui"
+license = "MIT"
+language = "Python"
+added = 2026-11-18

@@ -1,0 +1,9 @@
+name = "memorilla"
+description = "🦍 Memorilla: Latent Semantic Memory for LLMs"
+category = "robotics"
+tags = ["context-compression", "continual-learning", "llm", "long-context", "memory", "personalization", "reinforcement-learning", "retrieval-augmented-generation"]
+repository = "https://github.com/snap-stanford/memorilla"
+website = "https://memory.stanford.edu"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-18
