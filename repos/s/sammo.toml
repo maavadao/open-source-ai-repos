@@ -1,0 +1,8 @@
+name = "sammo"
+description = "A library for prompt engineering and optimization (SAMMO = Structure-aware Multi-Objective Metaprompt Optimization)"
+category = "skills-prompts"
+tags = ["llms", "prompt-engineering", "prompt-tuning"]
+repository = "https://github.com/microsoft/sammo"
+license = "MIT"
+language = "Python"
+added = 2026-11-19

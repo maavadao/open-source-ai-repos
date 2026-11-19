@@ -1,0 +1,9 @@
+name = "screen-relay"
+description = "Upto 120 fps, low latency desktop streaming for humans and AI agents"
+category = "other"
+tags = ["ai", "streaming"]
+repository = "https://github.com/vercel-labs/screen-relay"
+website = "https://screen-relay.dev"
+license = "Apache-2.0"
+language = "C++"
+added = 2026-11-19

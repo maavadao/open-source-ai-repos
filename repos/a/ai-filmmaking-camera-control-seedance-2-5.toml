@@ -1,0 +1,9 @@
+name = "ai-filmmaking-camera-control-seedance-2-5"
+description = "AI filmmaking camera control with Seedance 2.5 and three.js: direct the camera with a reference video. 137 cinematic camera moves and templates, prompts, Tein MCP and API setup. Get a Seedance 2.5 key: https://tein.ai"
+category = "mcp-servers"
+tags = ["ai-filmmaking", "ai-video", "camera-control", "camera-movement", "cinematography", "filmmaking", "mcp", "previs"]
+repository = "https://github.com/sirioberati/ai-filmmaking-camera-control-seedance-2-5"
+website = "https://tein.ai"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-19

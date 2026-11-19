@@ -1,0 +1,9 @@
+name = "robotics-antigravity-plugin"
+description = "GDM Robotics Skills for agentic robotics workflows across simulation and real robots."
+category = "robotics"
+tags = ["ai", "antigravity", "gemini", "mujoco", "robotics"]
+repository = "https://github.com/google-deepmind/robotics-antigravity-plugin"
+website = "https://deepmind.google/models/gemini-robotics/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-19

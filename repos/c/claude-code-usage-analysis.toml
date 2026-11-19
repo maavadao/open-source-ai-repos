@@ -1,0 +1,9 @@
+name = "claude-code-usage-analysis"
+description = "Empirical analysis of Claude Code token usage: auto-compaction sweet spots across 8 developer workflows and Claude Desktop vs. CLI overhead"
+category = "skills-prompts"
+tags = ["benchmark", "claude-code", "context-window", "llm", "prompt-caching", "token-usage"]
+repository = "https://github.com/inevolin/claude-code-usage-analysis"
+website = "https://nevolin.be"
+license = "MIT"
+language = "Python"
+added = 2026-11-19

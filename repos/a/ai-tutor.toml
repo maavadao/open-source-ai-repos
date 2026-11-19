@@ -1,0 +1,9 @@
+name = "ai-tutor"
+description = "Self-hosted AI tutor and learning assistant for self-study, e-learning, and exam prep. Turn study notes, PDFs, and lecture notes into a chapter learning path and a quiz. It only teaches a sentence it can quote. Bring your own model key."
+category = "education"
+tags = ["ai-learning", "ai-notes", "ai-tutor", "e-learning", "edtech", "exam-prep", "generative-ai", "learning-assistant"]
+repository = "https://github.com/lynote-ai/ai-tutor"
+website = "https://lynote.ai/learning-path"
+license = "MIT"
+language = "Python"
+added = 2026-11-19

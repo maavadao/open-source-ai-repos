@@ -1,0 +1,8 @@
+name = "orgo-teammates"
+description = "Open-source, self-hosted AI teammates, each with its own Orgo cloud computer, connected apps and memory. Works with xAI's Grok API. Independent project, not affiliated with xAI."
+category = "agents"
+tags = ["ai-agents", "composio", "computer-use", "open-source", "orgo", "self-hosted"]
+repository = "https://github.com/nickvasilescu/orgo-teammates"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-19

@@ -1,0 +1,8 @@
+name = "everything-claude-codex"
+description = "Claude Code and Codex working as one team: one shared memory (voice included), each sees the other's latest messages. Plus searchable notes, self health checks, and phone access with the laptop shut."
+category = "skills-prompts"
+tags = ["agent-memory", "ai-agents", "claude", "claude-code", "claude-code-hooks", "claude-skills", "codex", "developer-tools"]
+repository = "https://github.com/saksham10arora-dotcom/everything-claude-codex"
+license = "MIT"
+language = "Python"
+added = 2026-11-19

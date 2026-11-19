@@ -1,0 +1,8 @@
+name = "x-agent-skill"
+description = "Eleven free Claude skills that run an X account, with a virality engine behind every idea: posts off 21 hook formulas, threads, replies, profile score, weekly plan, analytics audit and a humanizer. Free, MIT."
+category = "skills-prompts"
+tags = ["agent", "agent-skills", "ai-humanizer", "claude", "claude-code", "claude-skills", "content-marketing", "twitter"]
+repository = "https://github.com/Jakeschincariol/x-agent-skill"
+license = "MIT"
+language = "Python"
+added = 2026-11-19

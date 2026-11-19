@@ -1,0 +1,9 @@
+name = "CicaTavern"
+description = "Agent 式的 SillyTavern 角色卡酒馆：高缓存命中，兼容酒馆角色卡与世界书，自带配图和一键朗读，角色形象固定，引导式创作角色卡。An agent-style SillyTavern card player for your own LLM API."
+category = "image"
+tags = ["ai-roleplay", "android", "character-cards", "character-creator", "chatbot", "claude", "deepseek", "image-generation"]
+repository = "https://github.com/Shikasar7/CicaTavern"
+website = "https://github.com/Shikasar7/CicaTavern/releases/latest"
+license = "AGPL-3.0"
+language = "JavaScript"
+added = 2026-11-19

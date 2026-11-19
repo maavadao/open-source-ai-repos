@@ -1,0 +1,9 @@
+name = "vapi-network"
+description = "Buyer-controlled client for x402 API payments in USDC on Base."
+category = "agents"
+tags = ["agent-payments", "agentic-payments", "ai-agents", "base", "cli", "mcp", "model-context-protocol", "payments"]
+repository = "https://github.com/vAPI-Network/vapi-network"
+website = "https://vapinetwork.ai"
+license = "Apache-2.0"
+language = "TypeScript"
+added = 2026-11-19

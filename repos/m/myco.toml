@@ -1,0 +1,9 @@
+name = "myco"
+description = "Connect Claude Code, Codex and any agent CLI across machines. Agents find each other, delegate tasks and reply through one hub. Single Go binary, one-line setup."
+category = "skills-prompts"
+tags = ["agent-orchestration", "ai-agents", "claude-code", "codex", "coding-agents", "developer-tools", "golang", "macos-app"]
+repository = "https://github.com/chenhg5/myco"
+website = "https://github.com/chenhg5/myco/releases/latest"
+license = "MIT"
+language = "Go"
+added = 2026-11-19

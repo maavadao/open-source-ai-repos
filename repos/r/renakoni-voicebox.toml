@@ -1,0 +1,8 @@
+name = "Voicebox"
+description = "最好用的 Android 离线语音克隆与三语 TTS（误）——基于 GPT-SoVITS，支持中日英。 | The best offline voice cloning & trilingual TTS on Android (jk) — powered by GPT-SoVITS (ZH/JA/EN)."
+category = "speech"
+tags = ["android", "android-app", "android-tts", "chinese-tts", "edge-ai", "gpt-sovits", "japanese-tts", "multilingual"]
+repository = "https://github.com/Renakoni/Voicebox"
+license = "AGPL-3.0"
+language = "Kotlin"
+added = 2026-11-19

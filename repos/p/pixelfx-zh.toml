@@ -1,0 +1,8 @@
+name = "pixelfx-zh"
+description = "pixelfx 中文版：244 种代码实时生成的顶级游戏像素特效（爆炸/闪电/魔法/连招），MIT 可商用，附 Claude Code 特效师 Skill，汉化自 patch-gg/pixelfx"
+category = "other"
+tags = ["agent-skills", "chinese", "claude", "game-effects", "pixel-art", "threejs", "translation", "vfx"]
+repository = "https://github.com/bayshier/pixelfx-zh"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-19

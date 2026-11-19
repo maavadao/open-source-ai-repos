@@ -1,0 +1,8 @@
+name = "cdp-bridge-mcp"
+description = "Let one AI workspace operate multiple signed-in Chrome accounts. Route each MCP request to its own browser profile through a self-hosted bridge."
+category = "mcp-servers"
+tags = ["browser-automation", "chrome-extension", "mcp-server", "model-context-protocol"]
+repository = "https://github.com/Unagi-cq/cdp-bridge-mcp"
+license = "MIT"
+language = "Python"
+added = 2026-11-19

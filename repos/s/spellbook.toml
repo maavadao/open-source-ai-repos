@@ -1,0 +1,9 @@
+name = "spellbook"
+description = "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agent-skills", "ai-agents", "ai-coding-assistant", "automation", "claude", "claude-code", "claude-code-skills"]
+repository = "https://github.com/majiayu000/spellbook"
+website = "https://majiayu000.github.io/spellbook/"
+license = "MIT"
+language = "Python"
+added = 2026-11-19

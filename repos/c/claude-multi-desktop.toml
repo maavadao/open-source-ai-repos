@@ -1,0 +1,9 @@
+name = "claude-multi-desktop"
+description = "Run multiple Claude Desktop accounts at the same time on Mac: separate sign-ins, custom icons, one shared Claude Code setup, and sessions that message each other across accounts. brew install jackson-cmd/tap/claude-multi-desktop"
+category = "skills-prompts"
+tags = ["account-switcher", "ai-agents", "anthropic", "bash", "claude", "claude-ai", "claude-code", "claude-code-plugin"]
+repository = "https://github.com/jackson-cmd/claude-multi-desktop"
+website = "https://jackson-cmd.github.io/claude-multi-desktop/"
+license = "MIT"
+language = "HTML"
+added = 2026-11-19

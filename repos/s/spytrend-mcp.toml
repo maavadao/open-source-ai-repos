@@ -1,0 +1,9 @@
+name = "spytrend-mcp"
+description = "Official Spytrend MCP server connection metadata, documentation, examples, and AI workflows for Meta and TikTok advertising analytics."
+category = "mcp-servers"
+tags = ["ad-analytics", "ad-intelligence", "advertising", "ai-assistant-tools", "chatgpt", "claude", "competitive-analysis", "creative-analysis"]
+repository = "https://github.com/Spytrend/spytrend-mcp"
+website = "https://spytrend.com/mcp/?utm_source=github-spytrend-mcp&utm_medium=repo&utm_campaign=mcp-launch"
+license = "MIT"
+language = "Python"
+added = 2026-11-19
