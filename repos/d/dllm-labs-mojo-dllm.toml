@@ -1,0 +1,9 @@
+name = "mojo-dllm"
+description = "Local inference for diffusion language models (LLaDA, Dream), written in Mojo"
+category = "local-llms"
+tags = ["cpu", "diffusion-models", "gguf", "inference", "llada", "llm", "mojo"]
+repository = "https://github.com/dllm-labs/mojo-dllm"
+website = "https://dllm-labs.github.io/mojo-dllm/"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-20

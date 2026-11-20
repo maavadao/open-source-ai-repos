@@ -1,0 +1,8 @@
+name = "tarobird"
+description = "Codex, Claude Code, DeepSeek and other agent CLIs on your computer, together in one desktop & mobile IM. Work and vibe code with AI agents, built for everyday people. Resume CLI sessions on your phone. 12 chats side by side. Multi-Bot groups and workflows. Goals split into tasks. Bots message each…"
+category = "skills-prompts"
+tags = ["agent-orchestration", "ai-agents", "ai-assistant", "antigravity", "claude-code", "codex", "codex-cli", "deepseek"]
+repository = "https://github.com/cloveric/tarobird"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-11-20

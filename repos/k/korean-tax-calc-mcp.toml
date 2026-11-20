@@ -1,0 +1,9 @@
+name = "korean-tax-calc-mcp"
+description = "Korean tax calculator MCP server: corporate, income and VAT tax, non-resident withholding, foreign worker flat tax, expat cost recharge, foreign subsidiary dividends, branch and exit tax, transfer pricing. 139 tools with statute citations. | 한국 세금 계산·세무조정 MCP"
+category = "mcp-servers"
+tags = ["ai-agent", "claude", "corporate-tax", "expat", "international-tax", "korea", "korea-tax-for-foreigners", "korean"]
+repository = "https://github.com/UpstageAI/korean-tax-calc-mcp"
+website = "https://upstageai.github.io/korean-tax-mcp/"
+license = "MIT"
+language = "Python"
+added = 2026-11-20

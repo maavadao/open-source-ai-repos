@@ -1,0 +1,8 @@
+name = "design-os-studio"
+description = "Native, GPU-accelerated interface design tool built in Rust. Opens and saves .fig files, runs your own coding agent on the open file, ships an MCP server. FREE + source-available (PolyForm Shield)."
+category = "mcp-servers"
+tags = ["design-os", "design-tool", "desktop-app", "figma", "figma-alternative", "mcp-server", "rust", "ui-design"]
+repository = "https://github.com/jangtrinh/design-os-studio"
+website = "https://jangtrinh.github.io/design-os-studio/"
+language = "Rust"
+added = 2026-11-20

@@ -1,0 +1,8 @@
+name = "ARTEX"
+description = "ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)"
+category = "agents"
+tags = ["ai", "ai-agents", "autonomous-agents", "bug-bounty", "docker", "golang", "linux", "llm"]
+repository = "https://github.com/BaaRai/ARTEX"
+license = "AGPL-3.0"
+language = "Go"
+added = 2026-11-20

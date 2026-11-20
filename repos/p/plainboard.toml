@@ -1,0 +1,8 @@
+name = "plainboard"
+description = "A team of AI agents that builds your software: you talk to a manager agent, specialised agents build it, and PlainBoard checks and lands the finished work. Self-hosted, started with one command."
+category = "agents"
+tags = ["ai-agents", "claude", "claude-agent-sdk", "docker", "fastapi", "kanban", "llm", "mcp"]
+repository = "https://github.com/hthoene/plainboard"
+license = "MIT"
+language = "Python"
+added = 2026-11-20

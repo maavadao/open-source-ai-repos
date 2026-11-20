@@ -1,0 +1,8 @@
+name = "looks-good-to-ai"
+description = "Agent Skill for reviewing AI-written PRs in Claude Code, Codex, Copilot, Cursor and Gemini CLI: catch bugs, align context, own the sign-off."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "ai-code-review", "claude-code", "claude-code-plugin", "claude-skill", "code-review", "codex"]
+repository = "https://github.com/laulauraluo/looks-good-to-ai"
+license = "MIT"
+language = "Python"
+added = 2026-11-20

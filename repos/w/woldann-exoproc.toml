@@ -1,0 +1,8 @@
+name = "exoproc"
+description = "TypeScript toolkit for Windows x64 native systems programming, memory manipulation, and process instrumentation."
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "binary-analysis", "claude-code", "cli", "codex", "decompiler", "developer-tools"]
+repository = "https://github.com/woldann/exoproc"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-20

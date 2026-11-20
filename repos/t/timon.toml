@@ -1,0 +1,9 @@
+name = "timon"
+description = "Timon is an Agentic Workstation who let you orchestrates all your AI agents in the same place"
+category = "skills-prompts"
+tags = ["ai-agents", "claude-code", "codex", "deepseek-harness", "dsh", "dsh-plugin", "harness", "hermes"]
+repository = "https://github.com/ai-timon/timon"
+website = "https://timon-ai.com"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-11-20

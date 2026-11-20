@@ -1,0 +1,8 @@
+name = "sketchcraft"
+description = "Draw an outline. Pull it up. Open-source push/pull 3D modeler in Rust: desktop app, CLI and MCP server."
+category = "mcp-servers"
+tags = ["3d-modeling", "architecture", "cad", "mcp", "rust", "tauri"]
+repository = "https://github.com/jasonsutter87/sketchcraft"
+license = "MIT"
+language = "JavaScript"
+added = 2026-11-20

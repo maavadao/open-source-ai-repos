@@ -1,0 +1,9 @@
+name = "enrichable"
+description = "Open-source AI spreadsheet for data enrichment. Build lead lists from a prompt, research every row with live web data, and find work emails. Powered by Context.dev."
+category = "browser-automation"
+tags = ["ai", "ai-agents", "clay-alternative", "company-data", "data-enrichment", "email-finder", "lead-enrichment", "lead-generation"]
+repository = "https://github.com/context-dot-dev/enrichable"
+website = "https://www.enrichable.io"
+license = "MIT"
+language = "TypeScript"
+added = 2026-11-20

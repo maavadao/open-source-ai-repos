@@ -1,0 +1,8 @@
+name = "chaojifeng-video-content-creator"
+description = "Agent Skill for Chinese-language video production: script, storyboard, spoken-audio cleanup, 148 HTML/GSAP effects, subtitles and publish package. 中文视频内容创作 Skill。"
+category = "skills-prompts"
+tags = ["agent-skills", "ai-agents", "chinese", "claude-code", "codex", "gsap", "hyperframes", "subtitles"]
+repository = "https://github.com/mileson/chaojifeng-video-content-creator"
+license = "MIT"
+language = "HTML"
+added = 2026-11-20

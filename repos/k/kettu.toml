@@ -1,0 +1,9 @@
+name = "Kettu"
+description = "Beauty is productivity. Claude Code, Codex, OpenCode, Pi and 40+ more coding agents, side by side in one window."
+category = "skills-prompts"
+tags = ["agent-client-protocol", "agentic-coding", "ai-agents", "ai-coding", "claude-code", "codex", "coding-agents", "desktop-app"]
+repository = "https://github.com/KettuAI/Kettu"
+website = "https://www.kettu.sh"
+license = "AGPL-3.0"
+language = "TypeScript"
+added = 2026-11-20

@@ -1,0 +1,9 @@
+name = "kinetic"
+description = "The open engine for running AI on your own computer. Fast, exact, open source."
+category = "local-llms"
+tags = ["cuda", "gguf", "inference", "llama-cpp", "llm", "local-ai", "rust", "vulkan"]
+repository = "https://github.com/Veloresearch/kinetic"
+website = "https://veloresearch.com/research/kinetic"
+license = "Apache-2.0"
+language = "Rust"
+added = 2026-11-20

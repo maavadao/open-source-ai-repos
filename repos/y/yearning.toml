@@ -1,0 +1,9 @@
+name = "Yearning"
+description = "🤖 AI Agentic SQL Review & Database Change Governance Platform for MySQL, PostgreSQL, TiDB, OceanBase & PolarDB"
+category = "agents"
+tags = ["agentic-ai", "ai-agent", "database", "database-governance", "dba", "devops", "golang", "mysql"]
+repository = "https://github.com/cookieY/Yearning"
+website = "https://v4.yearning.io/"
+license = "AGPL-3.0"
+language = "Go"
+added = 2026-11-20

@@ -1,0 +1,8 @@
+name = "DRAGON-AI"
+description = "🐉 DRAGON-AI — is an open-source enterprise Agent platform for building, deploying, and managing AI applications. It combines AI agents, workflows, RAG and knowledge management"
+category = "agents"
+tags = ["agent", "agentscope", "ai", "arq", "docker", "fastapi", "finetune", "harness"]
+repository = "https://github.com/Anton2025-11-06/DRAGON-AI"
+license = "Apache-2.0"
+language = "Python"
+added = 2026-11-20

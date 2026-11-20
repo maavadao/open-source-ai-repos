@@ -1,0 +1,8 @@
+name = "gimp-mcp"
+description = "GIMP MCP server"
+category = "mcp-servers"
+tags = ["claude-code", "codex", "gimp", "gimp-plugin", "image-editing", "mcp", "mcp-server"]
+repository = "https://github.com/gimp-mcp/gimp-mcp"
+license = "GPL-3.0"
+language = "Python"
+added = 2026-11-20

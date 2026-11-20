@@ -1,0 +1,8 @@
+name = "pdmd"
+description = "Official Training and Benchmarking Implementation of PDMD: Projected Distribution Matching Distillation for Video Diffusion Models"
+category = "image"
+tags = ["audio-generation", "diffusers", "diffusion-models", "distillation", "distribution-matching-distillation", "few-step-generation", "minimax-h3", "pytorch"]
+repository = "https://github.com/ZeamoxWang/pdmd"
+website = "https://pdmd2026.github.io/"
+language = "Python"
+added = 2026-11-20
